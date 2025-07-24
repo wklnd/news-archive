@@ -1,9 +1,9 @@
 # Top News Headlines
 
-_Updated: 2025-07-25 00:53_
+_Updated: 2025-07-25 01:50_
 
-- DOJ met with longtime Jeffrey Epstein associate Ghislaine Maxwell - ABC News
-- U.S. blames Hamas for crisis in ceasefire talks, eyes "alternative" hostage plans - Axios
+- Will Ghislaine Maxwell tell the truth to investigators? - NBC News
+- Questions about Epstein files follow lawmakers home - NPR
 - New Idaho college murders documents show some victims were 'unrecognizable,' fought back in 'intense struggle' - ABC News
-- How a Frantic Scouring of the Epstein Files Consumed the Justice Dept. - The New York Times
-- Trump signs an executive order making it easier to remove homeless people from streets - NPR
+- Supreme Court blocks North Dakota redistricting ruling that would gut key part of Voting Rights Act - Politico
+- Wide Acclaim for President Trump’s Visionary AI Action Plan - The White House (.gov)
