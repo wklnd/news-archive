@@ -1,5 +1,5 @@
 import feedparser
-from github import Github
+from github import Github, GithubException  # <-- Add GithubException
 import datetime
 import time
 import os
@@ -19,9 +19,7 @@ NEWS_DIR = "news/"
 g = Github(ACCESS_TOKEN)
 repo = g.get_repo(REPO_NAME)
 
-
-
-# Get top 5 headlines from RSS ( använder google ress)
+# Get top 5 headlines from RSS
 feed = feedparser.parse(NEWS_FEED_URL)
 headlines = [entry.title for entry in feed.entries[:5]]
 now = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=2)))
@@ -32,13 +30,16 @@ month = now.strftime('%m')
 day = now.strftime('%d')
 folder_path = f"{NEWS_DIR}{year}/{month}/{day}/"
 filename = f"{folder_path}{now.strftime('%H-%M')}.md"
+latest_path = f"{NEWS_DIR}latest.md"  # <-- Now defined
 
 file_content = "# Top News Headlines\n\n" + "\n".join(f"- {title}" for title in headlines)
 branch_name = f"{BRANCH_PREFIX}-{now.strftime('%Y%m%d-%H%M%S')}"
 
+# Create a new branch
 source = repo.get_branch(BASE_BRANCH)
 repo.create_git_ref(ref=f"refs/heads/{branch_name}", sha=source.commit.sha)
 
+# Add the dated news file
 repo.create_file(
     path=filename,
     message=f"Add news for {now.strftime('%Y-%m-%d %H:%M')}",
@@ -46,15 +47,30 @@ repo.create_file(
     branch=branch_name
 )
 
-repo.create_file(
-    path=f"{NEWS_DIR}latest.md",
-    message="Update latest.md",
-    content=file_content,
-    branch=branch_name
-)
+# Create or update latest.md
+try:
+    repo.create_file(
+        path=latest_path,
+        message="Create latest.md",
+        content=file_content,
+        branch=branch_name
+    )
+    print("Created latest.md")
+except GithubException as e:
+    if e.status == 422:  # File exists
+        existing_file = repo.get_contents(latest_path, ref=branch_name)
+        repo.update_file(
+            path=latest_path,
+            message="Update latest.md",
+            content=file_content,
+            sha=existing_file.sha,
+            branch=branch_name
+        )
+        print("Updated latest.md")
+    else:
+        raise
 
 print(f"Created news file: {filename}")
-print("Created a latest.md as well :D")
 
 # Open PR
 pr = repo.create_pull(
