@@ -1,5 +1,5 @@
 import feedparser
-from github import Github, GithubException  # <-- Add GithubException
+from github import Github, GithubException  
 import datetime
 import time
 import os
@@ -80,7 +80,6 @@ pr = repo.create_pull(
     base=BASE_BRANCH
 )
 
-# Optional: auto merge
 print("Waiting 30 seconds before merging...")
 time.sleep(30)
 pr.merge(merge_method="squash")
