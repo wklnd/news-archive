@@ -35,54 +35,33 @@ latest_path = f"{NEWS_DIR}latest.md"  # <-- Now defined
 timestamp = now.strftime('%Y-%m-%d %H:%M')
 file_content = f"# Top News Headlines\n\n_Updated: {timestamp}_\n\n" + "\n".join(f"- {title}" for title in headlines)
 
-branch_name = f"{BRANCH_PREFIX}-{now.strftime('%Y%m%d-%H%M%S')}"
-
-# Create a new branch
-source = repo.get_branch(BASE_BRANCH)
-repo.create_git_ref(ref=f"refs/heads/{branch_name}", sha=source.commit.sha)
-
-# Add the dated news file
 repo.create_file(
     path=filename,
     message=f"Add news for {now.strftime('%Y-%m-%d %H:%M')}",
     content=file_content,
-    branch=branch_name
+    branch=BASE_BRANCH
 )
 
-# Create or update latest.md
+# Create / update latest.md directly on main branch
 try:
     repo.create_file(
         path=latest_path,
         message="Create latest.md",
         content=file_content,
-        branch=branch_name
+        branch=BASE_BRANCH
     )
     print("Created latest.md")
 except GithubException as e:
     if e.status == 422:  # File exists
-        existing_file = repo.get_contents(latest_path, ref=branch_name)
+        existing_file = repo.get_contents(latest_path, ref=BASE_BRANCH)
         repo.update_file(
             path=latest_path,
             message="Update latest.md",
             content=file_content,
             sha=existing_file.sha,
-            branch=branch_name
+            branch=BASE_BRANCH
         )
         print("Updated latest.md")
     else:
         raise
 
-print(f"Created news file: {filename}")
-
-# Open PR
-pr = repo.create_pull(
-    title=f"Add news: {now.strftime('%Y-%m-%d %H:%M')}",
-    body="Automated news archive update.",
-    head=branch_name,
-    base=BASE_BRANCH
-)
-
-print("Waiting 30 seconds before merging...")
-time.sleep(30)
-pr.merge(merge_method="squash")
-print(f"Merged PR")
