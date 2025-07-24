@@ -1,7 +1,7 @@
 # Top News Headlines
 
-- Hulk Hogan, pro wrestling icon and pop culture mainstay, dies at 71 - NBC News
-- DOJ meeting with longtime Jeffrey Epstein associate Ghislaine Maxwell - ABC News
+- Hulk Hogan, WWE Hall of Famer and legendary champion, dies at 71 - ABC News
+- Top DOJ official to meet with Ghislaine Maxwell on Thursday - CNN
 - BBC News and news agencies warn journalists in Gaza at risk of starvation - BBC
 - Moscow police release detailed documents of University of Idaho murders - KOMO
-- Late Night Comedians Revel in the Latest Trump-Epstein Development - The New York Times
+- These are the names a House panel plans to subpoena in its Epstein probe - Axios
