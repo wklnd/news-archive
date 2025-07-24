@@ -1,9 +1,9 @@
 # Top News Headlines
 
-_Updated: 2025-07-24 23:48_
+_Updated: 2025-07-25 00:53_
 
-- Trump visits Federal Reserve and tussles with Jerome Powell in extraordinary moment - NPR
 - DOJ met with longtime Jeffrey Epstein associate Ghislaine Maxwell - ABC News
-- Fact Sheet: President Donald J. Trump Takes Action to End Crime and Disorder on America’s Streets - The White House (.gov)
+- U.S. blames Hamas for crisis in ceasefire talks, eyes "alternative" hostage plans - Axios
 - New Idaho college murders documents show some victims were 'unrecognizable,' fought back in 'intense struggle' - ABC News
-- Columbia agrees to pay $200 million fine to settle Trump admin dispute - Axios
+- How a Frantic Scouring of the Epstein Files Consumed the Justice Dept. - The New York Times
+- Trump signs an executive order making it easier to remove homeless people from streets - NPR
