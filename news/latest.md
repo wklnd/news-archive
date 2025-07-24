@@ -2,6 +2,6 @@
 
 - Hulk Hogan, WWE Hall of Famer and legendary champion, dies at 71 - ABC News
 - Top DOJ official to meet with Ghislaine Maxwell on Thursday - CNN
-- BBC News and news agencies warn journalists in Gaza at risk of starvation - BBC
-- Moscow police release detailed documents of University of Idaho murders - KOMO
-- These are the names a House panel plans to subpoena in its Epstein probe - Axios
+- Gazans Are Dying of Starvation - The New York Times
+- Playbook: The Epstein bombshell explodes - Politico
+- Four things we learned about Idaho murderer Bryan Kohberger from unsealed documents - BBC
