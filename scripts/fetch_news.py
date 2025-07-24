@@ -32,7 +32,9 @@ folder_path = f"{NEWS_DIR}{year}/{month}/{day}/"
 filename = f"{folder_path}{now.strftime('%H-%M')}.md"
 latest_path = f"{NEWS_DIR}latest.md"  # <-- Now defined
 
-file_content = "# Top News Headlines\n\n" + "\n".join(f"- {title}" for title in headlines)
+timestamp = now.strftime('%Y-%m-%d %H:%M')
+file_content = f"# Top News Headlines\n\n_Updated: {timestamp}_\n\n" + "\n".join(f"- {title}" for title in headlines)
+
 branch_name = f"{BRANCH_PREFIX}-{now.strftime('%Y%m%d-%H%M%S')}"
 
 # Create a new branch
