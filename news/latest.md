@@ -1,7 +1,7 @@
 # Top News Headlines
 
-- Hulk Hogan, WWE Hall of Famer and legendary champion, dies at 71 - ABC News
 - Justice department official to meet Epstein accomplice Maxwell - BBC
-- Gaza is starving and outrage is spreading. Will Netanyahu listen? - CNN
-- Moscow police release detailed documents of University of Idaho murders - KIMA
-- Trump’s Name in the Epstein Files, and Rare Protests in Ukraine - The New York Times
+- Gazans Are Dying of Starvation - The New York Times
+- ‘The rule was going down’: Inside the House GOP’s Epstein meltdown - Politico
+- Columbia agrees to pay $200 million fine to settle Trump admin dispute - Axios
+- Trump was told by Bondi his name appeared multiple times in Epstein files: Report - ABC News
