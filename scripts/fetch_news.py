@@ -5,9 +5,9 @@ import time
 import os
 
 # ---------------- CONFIG ------------------
-ACCESS_TOKEN = os.environ.get('GITHUB_TOKEN')
+ACCESS_TOKEN = os.environ.get('PERSONAL_ACCESS_TOKEN')
 if not ACCESS_TOKEN:
-    raise Exception("GITHUB_TOKEN not found in environment variables")
+    raise Exception("PERSONAL_ACCESS_TOKEN not found in environment variables")
 
 REPO_NAME = "wklnd/news-archive"
 NEWS_FEED_URL = "https://news.google.com/rss"
