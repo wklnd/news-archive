@@ -26,4 +26,4 @@ jobs:
       - name: Run news archive bot
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/fetch_news_and_pr.py
+        run: python scripts/fetch_news.py
