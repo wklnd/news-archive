@@ -1,4 +1,5 @@
 # News Archive 
+[![News Archive Bot](https://github.com/wklnd/news-archive/actions/workflows/news-archive.yml/badge.svg)](https://github.com/wklnd/news-archive/actions/workflows/news-archive.yml)
 
 This project automatically fetches top news headlines from a news RSS feed and archives them in a GitHub repository by creating timestamped markdown files.
 
