@@ -46,7 +46,15 @@ repo.create_file(
     branch=branch_name
 )
 
+repo.create_file(
+    path=f"{NEWS_DIR}latest.md",
+    message="Update latest.md",
+    content=file_content,
+    branch=branch_name
+)
+
 print(f"Created news file: {filename}")
+print("Created a latest.md as well :D")
 
 # Open PR
 pr = repo.create_pull(
