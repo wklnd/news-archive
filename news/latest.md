@@ -1,9 +1,9 @@
 # Top News Headlines
 
-_Updated: 2025-07-25 07:55_
+_Updated: 2025-07-25 09:00_
 
-- Deputy attorney general meets with Epstein associate Ghislaine Maxwell - Axios
 - France to recognise Palestinian state in September - BBC
 - Bill Clinton reportedly sent Jeffrey Epstein note for birthday album - The Guardian
-- Israel and the U.S. Pull Back From Cease-Fire Talks With Hamas - The New York Times
+- U.S. blames Hamas for crisis in ceasefire talks, eyes "alternative" hostage plans - Axios
 - In pictures: Starvation in Gaza - CNN
+- Trump signs an executive order to make it easier to remove homeless people from streets - NPR
