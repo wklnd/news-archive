@@ -1,9 +1,9 @@
 # Top News Headlines
 
-_Updated: 2025-07-25 16:53_
+_Updated: 2025-07-25 17:52_
 
-- Thousands Flee Deadly Fighting Between Cambodia and Thailand - The New York Times
-- How and why Trump has struggled in dealing with the Epstein files - NPR
-- 'We lived through hell,' say Venezuelans released from mega-prison in El Salvador - BBC
-- Deputy attorney general meets with Epstein associate Ghislaine Maxwell - Axios
-- Epstein’s birthday book also included an entry from Bill Clinton, WSJ says - Politico
+- Deputy AG Blanche meeting for 2nd day with Ghislaine Maxwell - ABC News
+- What we know about Columbia's $221 million settlement with the Trump administration - NPR
+- Thai-Cambodian conflict pits a well-equipped US ally against a weaker adversary with strong China links - CNN
+- France to recognise Palestinian state in September - BBC
+- Convicted of murder in Venezuela. Freed by the Trump administration. - The Washington Post
