@@ -1,9 +1,9 @@
 # Top News Headlines
 
-_Updated: 2025-07-25 01:50_
+_Updated: 2025-07-25 04:46_
 
-- Will Ghislaine Maxwell tell the truth to investigators? - NBC News
-- Questions about Epstein files follow lawmakers home - NPR
-- New Idaho college murders documents show some victims were 'unrecognizable,' fought back in 'intense struggle' - ABC News
-- Supreme Court blocks North Dakota redistricting ruling that would gut key part of Voting Rights Act - Politico
-- Wide Acclaim for President Trump’s Visionary AI Action Plan - The White House (.gov)
+- US justice department officials interview Ghislaine Maxwell - The Guardian
+- "This whole thing is just such bulls**t": Not every Democrat wants to talk about Epstein - Axios
+- Epstein's estate has his 50th birthday book, victims' lawyer says - ABC News
+- Idaho Murders Case Investigators Dispel Baseless Rumors and Theories About Bryan Kohberger - The New York Times
+- In pictures: Starvation in Gaza - CNN
