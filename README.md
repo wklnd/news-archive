@@ -7,9 +7,7 @@ This project automatically fetches top news headlines from a news RSS feed and a
 
 - Fetches the top 5 headlines from a configurable RSS feed.
 - Organizes news files by year, month, and day.
-- Creates a new branch for each update.
-- Opens a pull request with the new news file.
-- Automatically merges the pull request.
+- Latest news is showing at news-archive.oscarwiklund.se
 
 
 ## Why?
