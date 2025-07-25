@@ -44,3 +44,8 @@ The script creates markdown files under the `news/` directory, structured by dat
 ## License
 
 MIT License
+
+
+
+## Disclaimer
+The headlines and words archived by this project are fetched automatically from external news sources. I / We do not control or endorse the content of these headlines or the words that appear in the word cloud.
