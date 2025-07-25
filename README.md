@@ -14,7 +14,8 @@ This project automatically fetches top news headlines from a news RSS feed and a
 
 - Fetches the top 5 headlines from a configurable RSS feed.
 - Organizes news files by year, month, and day.
-- Latest news is showing at news-archive.oscarwiklund.se
+- Latest news is showing at [news-archive.oscarwiklund.se](https://news-archive.oscarwiklund.se)
+  
 
 
 ## Why?
