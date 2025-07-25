@@ -23,15 +23,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install PyGithub wordcloud matplotlib
 
-      - name: Run word data script
+      - name: Run news archive bot
         env:
           PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: python scripts/word_data.py
-
-      - name: Commit changes
-        run: |
-          git config --global user.name "WKLND_BOT"
-          git config --global user.email "bot@oscarwiklund.se"
-          git add news/ media/ README.md
-          git commit -m "Update word cloud and word data for yesterdays news." || echo "No changes to commit"
-          git push
