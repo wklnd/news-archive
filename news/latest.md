@@ -1,9 +1,9 @@
 # Top News Headlines
 
-_Updated: 2025-07-25 18:57_
+_Updated: 2025-07-25 19:51_
 
 - Deputy AG Blanche meeting for 2nd day with Ghislaine Maxwell - ABC News
 - French President Macron says France will recognize Palestine as a state - NPR
-- Gaza hospitals say kids without underlying health conditions now dying of starvation - The Times of Israel
+- 1 dead, 1 wounded, suspect at large in University of New Mexico dorm shooting - AP News
+- Columbia Walked a Tightrope on Its Way to a $200 Million Settlement With Trump - The New York Times
 - Thai-Cambodian conflict pits a well-equipped US ally against a weaker adversary with strong China links - CNN
-- 2 shot, 1 dead, at University of New Mexico in Albuquerque, suspect at large - ABC News
