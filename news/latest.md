@@ -1,9 +1,9 @@
 # Top News Headlines
 
-_Updated: 2025-07-25 21:49_
+_Updated: 2025-07-25 22:53_
 
 - 'No asks and no promises': Lawyer for Maxwell says after 2nd meeting with deputy attorney general - ABC News
-- Trump administration releasing $6 billion in education funding it withheld - ABC News
-- Severe malnutrition in under-5s has tripled at Gaza City clinic, charity reports - The Guardian
-- Trump Flies to Scotland, Leaving Chaos Swirling in Washington - The New York Times
-- How and why Trump has struggled in dealing with the Epstein files - NPR
+- Education Department says it will release billions in grant money withheld from schools - PBS
+- These are the names a House panel plans to subpoena in its Epstein probe - Axios
+- House Ethics Committee orders AOC to pay additional $3,000 for 2021 Met Gala showing - Axios
+- Trump on Hamas: ‘They want to die’ - Politico
