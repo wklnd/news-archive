@@ -40,3 +40,7 @@ MIT License
 ## ☁️ Word Cloud — 2025-07-24
 
 ![Word Cloud](https://raw.githubusercontent.com/wklnd/news-archive/main/media/wordcloud-yesterday.png)
+
+## Word Cloud — 2025-07-24
+
+![Word Cloud](https://raw.githubusercontent.com/wklnd/news-archive/main/media/wordcloud-yesterday.png)
