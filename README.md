@@ -3,6 +3,12 @@
 
 This project automatically fetches top news headlines from a news RSS feed and archives them in a GitHub repository by creating timestamped markdown files.
 
+
+## Word Cloud — 2025-07-24
+
+![Word Cloud](https://raw.githubusercontent.com/wklnd/news-archive/main/media/wordcloud-yesterday.png)
+
+
 ## Features
 
 - Fetches the top 5 headlines from a configurable RSS feed.
@@ -36,11 +42,3 @@ The script creates markdown files under the `news/` directory, structured by dat
 ## License
 
 MIT License
-
-## ☁️ Word Cloud — 2025-07-24
-
-![Word Cloud](https://raw.githubusercontent.com/wklnd/news-archive/main/media/wordcloud-yesterday.png)
-
-## Word Cloud — 2025-07-24
-
-![Word Cloud](https://raw.githubusercontent.com/wklnd/news-archive/main/media/wordcloud-yesterday.png)
