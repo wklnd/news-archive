@@ -1,6 +1,6 @@
 # Top News Headlines
 
-_Updated: 2025-07-25 15:23_
+_Updated: 2025-07-25 15:56_
 
 - Deputy attorney general meets with Epstein associate Ghislaine Maxwell - Axios
 - 'You're going to see real hell': Venezuelan men allege physical and psychological abuse at Salvadoran prison - ABC News
