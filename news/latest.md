@@ -1,9 +1,9 @@
 # Top News Headlines
 
-_Updated: 2025-07-25 20:58_
+_Updated: 2025-07-25 21:49_
 
-- Deputy AG Blanche meeting for 2nd day with Ghislaine Maxwell - ABC News
-- The real winners from Trump’s ‘AI action plan’? Tech companies - theguardian.com
-- French President Macron says France will recognize Palestine as a state - NPR
+- 'No asks and no promises': Lawyer for Maxwell says after 2nd meeting with deputy attorney general - ABC News
+- Trump administration releasing $6 billion in education funding it withheld - ABC News
+- Severe malnutrition in under-5s has tripled at Gaza City clinic, charity reports - The Guardian
+- Trump Flies to Scotland, Leaving Chaos Swirling in Washington - The New York Times
 - How and why Trump has struggled in dealing with the Epstein files - NPR
-- "Finish the job": Trump says Israel must "get rid" of Hamas after ceasefire talks break down - Axios
