@@ -1,9 +1,9 @@
 # Top News Headlines
 
-_Updated: 2025-07-25 04:46_
+_Updated: 2025-07-25 06:24_
 
-- US justice department officials interview Ghislaine Maxwell - The Guardian
-- "This whole thing is just such bulls**t": Not every Democrat wants to talk about Epstein - Axios
-- Epstein's estate has his 50th birthday book, victims' lawyer says - ABC News
-- Idaho Murders Case Investigators Dispel Baseless Rumors and Theories About Bryan Kohberger - The New York Times
+- Deputy attorney general meets with Epstein associate Ghislaine Maxwell - Axios
+- France to recognise Palestinian state in September - BBC
+- Bill Clinton reportedly sent Jeffrey Epstein note for birthday album - The Guardian
 - In pictures: Starvation in Gaza - CNN
+- Unsealed Kohberger files reveal details from night of murder, investigation - The Washington Post
