@@ -1,9 +1,9 @@
 # Top News Headlines
 
-_Updated: 2025-07-25 23:49_
+_Updated: 2025-07-26 00:53_
 
-- 'No asks and no promises': Lawyer for Maxwell says after 2nd meeting with deputy attorney general - ABC News
-- House Ethics Committee orders AOC to pay additional $3,000 for 2021 Met Gala showing - Axios
+- Ghislaine Maxwell received limited immunity during meetings with deputy attorney general: Sources - ABC News
+- Education Department says it's releasing more than $5 billion in frozen grants - NPR
 - Severe malnutrition in under-5s has tripled at Gaza City clinic, charity reports - The Guardian
-- The Conservative Crusade That’s About So Much More Than Epstein - The New York Times
-- Trump on Hamas: ‘They want to die’ - Politico
+- Apparently accepting talks impasse, Trump says Israel will have to ‘get rid of’ Hamas - The Times of Israel
+- House Ethics Committee orders AOC to pay additional $3,000 for 2021 Met Gala showing - Axios
