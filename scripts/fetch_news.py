@@ -14,14 +14,18 @@ NEWS_FEED_URL = "https://news.google.com/rss"
 BASE_BRANCH = "main"
 BRANCH_PREFIX = "news-entry"
 NEWS_DIR = "news/"
+MAX_HEADLINES = 20 # Should be a changeable variable
 # ------------------------------------------
 
 g = Github(ACCESS_TOKEN)
 repo = g.get_repo(REPO_NAME)
 
-# Get top 5 headlines from RSS
+# Gather headlines form RSS 
 feed = feedparser.parse(NEWS_FEED_URL)
-headlines = [entry.title for entry in feed.entries[:5]]
+available_headlines = len(feed.entries)
+headlines_to_fetch = min(MAX_HEADLINES, available_headlines)
+headlines = [entry.title for entry in feed.entries[:headlines_to_fetch]]
+print(f"Fetched {len(headlines)} headlines (out of {available_headlines} available)")
 now = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=2)))
 
 # Create year/month/day folder structure
@@ -52,7 +56,7 @@ try:
     )
     print("Created latest.md")
 except GithubException as e:
-    if e.status == 422:  # File exists
+    if e.status == 422:  # File exists rror code
         existing_file = repo.get_contents(latest_path, ref=BASE_BRANCH)
         repo.update_file(
             path=latest_path,

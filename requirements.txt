@@ -1,2 +1,4 @@
 feedparser==6.0.10
 PyGithub==1.59.1
+wordcloud==1.9.2
+matplotlib==3.7.2
