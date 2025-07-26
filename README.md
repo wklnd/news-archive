@@ -37,14 +37,19 @@ The script creates markdown files under the `news/` directory, structured by dat
 
 ## Requirements
 
-- Python 3.x
-- PyGithub
-- feedparser
+- Python 3.9+
+- Dependencies listed in `requirements.txt`:
+  - **feedparser** (6.0.10) - For parsing RSS feeds
+  - **PyGithub** (1.59.1) - For GitHub API interactions
+  - **wordcloud** (1.9.2) - For generating word clouds
+  - **matplotlib** (3.7.2) - For plotting and visualization
+  - **numpy** (<2.0) - For numerical operations (compatibility requirement)
+
+
 
 ## License
 
 MIT License
-
 
 
 ## Disclaimer
