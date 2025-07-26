@@ -1,9 +1,9 @@
 # Top News Headlines
 
-_Updated: 2025-07-26 13:48_
+_Updated: 2025-07-26 15:17_
 
-- Trump’s Trip to Scotland Echoes an Earlier Visit, When He Applauded Brexit - The New York Times
-- Amid starvation scenes in Gaza, Trump administration hardens tone on Hamas - washingtonpost.com
+- Trump flees Washington controversies for golf-heavy trip to Scotland - CNN
 - Ghislaine Maxwell received limited immunity during meetings with deputy attorney general: Sources - ABC News
-- Taiwan votes to decide whether to oust lawmakers from China-friendly party - NPR
-- Thai-Cambodian conflict pits a well-equipped US ally against a weaker adversary with strong China links - CNN
+- Gabbard and White House 'lying' about intel on Russian interference in 2016, ex-CIA official says - NBC News
+- Amid starvation scenes in Gaza, Trump administration hardens tone on Hamas - washingtonpost.com
+- Scoop: Democrats think they can get their hands on Epstein's birthday book - Axios
