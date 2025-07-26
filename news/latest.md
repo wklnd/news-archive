@@ -1,9 +1,9 @@
 # Top News Headlines
 
-_Updated: 2025-07-26 16:51_
+_Updated: 2025-07-26 17:51_
 
-- Trump flees Washington controversies for golf-heavy trip to Scotland - CNN
+- Trump tells Europe to ‘get your act together’ on immigration before US-EU trade talks - The Guardian
+- Epstein associate Ghislaine Maxwell secures DOJ "limited" immunity: News reports - Axios
+- Gabbard and White House 'lying' about intel on Russian interference in 2016, ex-CIA official says - NBC News
 - Democrats request copy of Epstein ‘birthday book’ that reportedly contains Trump poem - The Guardian
-- Taiwanese voters reject a bid to remove lawmakers from a China-friendly party - NPR
-- After Ghislaine Maxwell Interview, Concerns Mount Over Possibility of a Trump Pardon - The New York Times
-- ​​What is inside the GHF aid box being distributed in Gaza - BBC
+- Cambodia calls for ceasefire with Thailand as death toll rises - BBC
