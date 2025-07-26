@@ -1,9 +1,9 @@
 # Top News Headlines
 
-_Updated: 2025-07-26 04:32_
+_Updated: 2025-07-26 05:47_
 
-- After Ghislaine Maxwell Interview, Concerns Mount Over Possibility of Pardon - The New York Times
-- Trump tells Israel to ‘finish the job’ against Hamas weeks after suggesting ceasefire deal in sight - CNN
+- After Ghislaine Maxwell Interview, Concerns Mount Over Possibility of a Trump Pardon - The New York Times
+- Amid starvation scenes in Gaza, Trump administration hardens tone on Hamas - washingtonpost.com
 - Trump administration releasing $6 billion in education funding it withheld - ABC News
-- What does it take for a famine to be declared in Gaza? : Goats and Soda - NPR
-- Judge dismisses DOJ lawsuit against Illinois, Chicago over ‘sanctuary city’ policies - washingtonpost.com
+- Federal judge dismisses Trump administration's lawsuit against Chicago over its sanctuary city policies - NBC News
+- ​​What is inside the GHF aid box being distributed in Gaza - BBC
