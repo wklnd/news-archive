@@ -1,9 +1,9 @@
 # Top News Headlines
 
-_Updated: 2025-07-26 12:52_
+_Updated: 2025-07-26 13:48_
 
-- After Ghislaine Maxwell Interview, Concerns Mount Over Possibility of a Trump Pardon - The New York Times
+- Trump’s Trip to Scotland Echoes an Earlier Visit, When He Applauded Brexit - The New York Times
 - Amid starvation scenes in Gaza, Trump administration hardens tone on Hamas - washingtonpost.com
-- Scoop: Democrats think they can get their hands on Epstein's birthday book - Axios
-- Federal judge dismisses Trump administration's lawsuit against Chicago over its sanctuary city policies - NBC News
-- Thai Navy Joins Conflict Against Cambodia as Death Toll Jumps - Bloomberg.com
+- Ghislaine Maxwell received limited immunity during meetings with deputy attorney general: Sources - ABC News
+- Taiwan votes to decide whether to oust lawmakers from China-friendly party - NPR
+- Thai-Cambodian conflict pits a well-equipped US ally against a weaker adversary with strong China links - CNN
