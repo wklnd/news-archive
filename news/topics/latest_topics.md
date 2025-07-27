@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-27 12:46_
+_Updated: 2025-07-27 13:40_
 
 ## Top Stories
 
 - Svensk bland frihetsberövade från aktivistbåt – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Kraftiga skogsbränder i flera sydeuropeiska länder – många döda - DN
 - Ungdom rymde från Sis-hem i natt – polisjakt pågår - Aftonbladet
-- Så många tjänar en miljon om året – här är yrkena med högst lön - DN
-- Larmet: Ohållbart att arbeta på förlossningen - SvD
-- Statsminister Ulf Kristerssons bjudningar – med hemliga gästlistan - GP
+- Kraftiga skogsbränder i flera sydeuropeiska länder – många döda - DN
+- Värmeböljan över – så blir vädret i veckan - GP
+- Cary, 82, blev påkörd av bussens bakdel: ”Föreställde mig en barnvagn” - Sydsvenskan
+- Dramatisk räddningsinsats efter olycka - Allehanda.se
 - Man skjuten till döds i Järfälla - SVT Nyheter
 - SMHI varnar för skyfall i Norrlands inland - GP
-- Säkerhetsbrister på vart fjärde vattenverk – kan hota dricksvattnet - DN
-- De löper störst risk att mördas av sin partner - UNT
+- DN Direkt - De löper störst risk att mördas av sin partner - DN
+- Säkerhetsbrister på vart fjärde vattenverk - UNT
 - Uppgifter: Kadyrov nära att drunkna - GP
-- Ökänd sexualbrottsling gripen efter år på flykt - DN
-- Ukrainsk drönaranfall djupt inne i Ryssland - SvD
-- Ny beskjutning mellan Thailand och Kambodja - SVT Nyheter
+- UAE ska bygga vattenledning till Gaza - Västerbottens-Kuriren
+- Källor: Hamas villiga att förhandla om gisslan - UNT
+- Ny beskjutning mellan Thailand och Kambodja - DN
 - USA-tullar kan ge läkemedelsbrist i Sverige - SvD
-- LEDARE: Ingen brist på tomma lägenheter. - Sydsvenskan
+- Här byggs bostäder billigare – som fler ska ha råd att bo i - SVT Nyheter
 - Vann 160 miljoner på lotto - Skillingaryd
 - Roberto, 53, fast i kaoset på Kretas flygplats - Aftonbladet
-- Aldrig tidigare skådat: 183 år gamla ben avslöjar att havsjätte från dinosauriernas tid hade en speciell jaktteknik - Illustrerad Vetenskap
 - Googles AI ”stort hot” mot svenska tidningar - Sydsvenskan
+- RCS uppgraderas med bättre ljud - mobil.se
 
 ## World News
 
@@ -38,7 +38,7 @@ _Updated: 2025-07-27 12:46_
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - 29 October 2017 is the World Psoriasis Day - NewsMachine AB
 - NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
 - Ulrika Jonsson stämmer News of the World - Sydsvenskan
@@ -66,10 +66,10 @@ _Updated: 2025-07-27 12:46_
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - ZenaTech Releases Video of ZenaDrone’s IQ Nano Indoor Inventory AI Drone for US Defense and Government - Placera.se
+- Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - TDK acquires SoftEye to enable artificial intelligence within smart glasses and grow its AI ecosystem business - Placera.se
 - Trane Technologies Completes Acquisition of BrainBox AI - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
-- Digital Realty Teams with Oracle Solution Centers to Help Organizations Accelerate AI and Cloud Innovation - Placera.se
 
 ## Business
 
@@ -82,14 +82,14 @@ _Updated: 2025-07-27 12:46_
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Accord Announces First Quarter Financial Results - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Nuveen Churchill Direct Lending Corp. Schedules Second Quarter 2025 Earnings Release and Conference Call - Placera.se
+- Accord Announces First Quarter Financial Results - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Seacoast Completes Acquisition of Heartland Bancshares, Inc. - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- Seacoast Completes Acquisition of Heartland Bancshares, Inc. - Placera.se
+- Watts Water Technologies Names Ryan Lada as Chief Financial Officer - Placera.se
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - The INX Digital Company, Inc. Announces the Deposit of US$10 million in Escrow and Receipt of Approval from the Financial Industry Regulatory Authority, Inc., ("FINRA") for Change of Ownership - Placera.se
 - Tractor Supply Company Reports Second Quarter 2025 Financial Results; Reconfirms Fiscal Year 2025 Outlook - Placera.se
@@ -102,8 +102,8 @@ _Updated: 2025-07-27 12:46_
 - Episurf Medical annonserar omstruktureringsinitiativ och ökat fokus på den amerikanska marknaden - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
@@ -121,24 +121,24 @@ _Updated: 2025-07-27 12:46_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
 - 5 myter om öppen vetenskap - Läkartidningen
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
+- The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Lång väg till öppen vetenskap - Universitetsläraren
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Högskola, forskning och rymd - Regeringen.se
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 
 ## Jordbruk
 
@@ -146,18 +146,18 @@ _Updated: 2025-07-27 12:46_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- (+) Stor undersökning av jordbruket - Arbetarskydd
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
