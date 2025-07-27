@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-07-27 04:57_
+_Updated: 2025-07-27 06:32_
 
-- Multiple People Stabbed at Michigan Walmart, Police Say - The New York Times
-- Israeli says it has begun aid airdrops into Gaza - BBC
-- 'Scotland is already great.' Protesters troll Trump on his golfing trip - NPR
-- Trump leans into trade threats to try to stop Cambodia-Thailand clashes - Politico
+- 11 People Are Injured in Knife Attack at a Michigan Walmart, Officials Say - The New York Times
+- Gaza air drops 'a grotesque distraction', aid agencies warn - BBC
 - Ghislaine Maxwell's meetings with Justice Department shrouded in secrecy - NBC News
-- Wildfire burns through northern suburb of Athens as residents told to evacuate - The Guardian
+- 'Scotland is already great.' Protesters troll Trump on his golfing trip - NPR
+- Trump calls on Thailand and Cambodia to cease fire and talk trade - BBC
+- Taiwan Recall Campaign Fizzles, in a Setback to Its President - The New York Times
 - Dangerous heat continues for over 80 million Americans - ABC News
-- US man convicted in Palestinian-American boy hate crime murder dies in jail - Al Jazeera
-- Suspect arrested after University of New Mexico dorm shooting leaves 1 dead - AP News
+- Illinois Man Convicted in Killing of Palestinian American Boy Dies in Custody - The New York Times
 - Trump administration pushes states to exclude immigrant students from in-state tuition - Politico
-- Taiwanese political gridlock endures as China-friendly party survives recall vote - NPR
+- Texas House redistricting committee’s Houston hearing draws criticism over absence of maps - The Texas Tribune
 - Early recognition of Palestine could be ‘counterproductive,’ Italy’s Meloni says - politico.eu
 - At least 57 killed in Gaza in 24 hours as Israel withdraws from ceasefire talks - The Guardian
+- Wildfire burns through northern suburb of Greece's capital Athens and residents are told to evacuate - AP News
 - IDF takes over pro-Palestinian activist boat attempting to break Gaza blockade - The Times of Israel
 - US-Japan trade deal gives Trump control over $550 billion. It could be 'vapor ware' - Fortune
 - Women's dating app Tea reports 72,000 images stolen in security breach - Reuters
 - Allianz Life confirms data breach affecting majority of 1.4M US customers - ABC News
-- Southwest aircraft takes a dive to avoid midair collision - NPR
-- OpenAI teases imminent GPT-5 launch. Here's what to expect - ZDNET
-- Apple Store in Michigan Permanently Closing Next Month - MacRumors
+- Pressure Mounts on Fed Chief Powell in Tee Up to GDP, Jobs Data - Bloomberg.com
+- Reliable leaker tips mind-blowing Samsung Galaxy S26 Edge battery size and other potential surprises - PhoneArena
+- OpenAI teases imminent GPT-5 launch. Here's what to expect - ZDNet
