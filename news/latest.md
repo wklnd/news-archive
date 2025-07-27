@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-07-27 18:55_
+_Updated: 2025-07-27 19:51_
 
-- Israel Says It Has Paused Some Military Activity in Gaza as Anger Grows Over Hunger - The New York Times
+- Trump says he would ‘like’ to strike a trade deal with the EU - Financial Times
+- Jordan and UAE begin air drops into Gaza after Israel announced series of aid measures - BBC
 - Trump’s Scotland trip latest example of blending private business with presidential duties - CNN
-- Walmart stabbing in Michigan leaves 11 injured - BBC
-- Thai and Cambodian leaders to meet in Malaysia for talks to end deadly border dispute - Politico
-- His name is Mohammad Al-Motawaq. He is 18 months old. And he is starving in Gaza - NPR
-- Trump, EU's von der Leyen to meet on Sunday to clinch trade deal - Reuters
-- Goncalves family issues statement after Moscow Murders investigation documents are released - KREM
-- Epstein associate Ghislaine Maxwell secures DOJ "limited" immunity: News reports - Axios
-- Trump’s effort to end birthright citizenship could have taken effect this weekend. Lower courts are continuing to block it - CNN
-- Trump Is Trying to Hide the Cost of Renovating His New Air Force One - Rolling Stone
+- Traverse City hospital releases update on medical conditions of Walmart stabbing victims - The Detroit News
+- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
+- Massie, Khanna hammer Republican leadership for thwarting Epstein transparency push - Politico
+- Researchers quietly planned a test to dim sunlight. They wanted to ‘avoid scaring’ the public. - Politico
+- Mike Johnson pans discharge petition from Massie and Khanna - Politico
+- CWG Live updates: Hot today with strong storms possible; more heat through midweek - The Washington Post
+- Commentary: Political ploy or bold move to save democracy? Our columnists debate Newsom redistricting threat - Los Angeles Times
+- At least 34 killed in attack on east Congo church by Islamic State-backed rebels, civil leader says - AP News
 - Early recognition of Palestine could be ‘counterproductive,’ Italy’s Meloni says - politico.eu
-- How a flat tire scam in Colombia can lead to costly car repairs - NPR
-- IDF takes over pro-Palestinian activist boat attempting to break Gaza blockade - The Times of Israel
-- ADF in DR Congo: IS-linked rebels accused of killing Christian worshippers in Komanda - BBC
-- Here's a puzzling question: Why are stocks at record highs despite looming tariffs? - NPR
+- Gaza flotilla seized by IDF towed to Ashdod, activists taken into custody upon entry - The Times of Israel
+- Hamas signals shift in hostage talks as Israel eases Gaza humanitarian policy - Ynetnews
 - 'He's showing up.' Things are getting better at Boeing under CEO Ortberg. Can he keep it going? - CNBC
-- Return of Meme Stock Mania Has Traders on Alert for Market Froth - Bloomberg.com
-- Traders Hedging Stocks at Record Highs Dabble in Exotic Options - Bloomberg.com
+- Here's a puzzling question: Why are stocks at record highs despite looming tariffs? - NPR
+- Denny’s CEO asks potential hires these questions at the interview—if they can’t answer, it’s an immediate red flag - Yahoo Home
+- Traders Hedging Stocks at Record Highs Dabble in Exotic Options - Bloomberg
 - I've used foldable phones for years and the Galaxy Z Fold still manages to blow me away - Android Central
-- Nintendo Switch 2 restocks live — Best Buy, Walmart, and more retailers all have stock now - Tom's Guide
+- Tipster: iPhone 17 Pro to Feature 8x Zoom, Pro Camera App, and More - MacRumors
