@@ -1,4 +1,4 @@
-name: News Archive Bot
+name: News Archive Bot - Topics
 
 on:
   schedule:
