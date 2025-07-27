@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-27 22:44_
+_Updated: 2025-07-27 23:41_
 
 ## Top Stories
 
-- Fotboll: England Europamästare igen – efter stor straffdramatik - SVT Nyheter
 - DN Direkt - Trump: Bra chans att lösa problemen med Europa - DN
-- Getingkaos på Skara sommarland: ”Helt sjukt” - Aftonbladet
-- Flera döda efter tågolycka i Tyskland - GP
-- DN Direkt - Kraftig brand i Hudiksvall – VMA utfärdat - DN
-- SMHI varnar för skyfall och åska i norr - Västerbottens-Kuriren
-- Man skjuten till döds i Järfälla - GP
+- De förser fronten med hundratals drönare - SvD
+- Flerfamiljshus i lågor – Cristinas bostad drabbad - SVT Nyheter
+- SMHI varnar för skyfall och åska i norr - Aftonbladet
+- Trump: Demokraterna köpte stöd – från Beyoncé - HD
+- Nathan Shachar: Netanyahu tvingas skrota sin biståndsmodell - DN
 - VMA i Norsjö kommun – brand i villa - Nyheter24
-- Rinkebybor: Stadsdelen har förändrats så mycket - DN
-- Stor spridning av gonorré – resistenta stammar oroar experterna - DN
-- Fotografen Omar al Qatta skildrar svälten i Gaza: ”Det finns inga ord” - GP
-- Thailand och Kambodja möts för samtal på måndag - Hufvudstadsbladet
+- Man skjuten till döds i Järfälla - GP
+- USA och Kina uppges förlänga tullpaus i Stockholm - SVT Nyheter
+- Fyra till sjukhus efter trafikolycka - GP
+- Minst tre döda i allvarlig tågolycka i Tyskland - DN
 - DN Direkt - Islamistattack mot kyrka i Kongo – många döda - DN
+- Thailand och Kambodja möts för samtal på måndag - Västerbottens-Kuriren
 - Upptäckten: Antika kyrkan kan ha varit en synagoga - DN
-- Så många tjänar en miljon om året – här är yrkena med högst lön - DN
 - Tesla – 700 procents uppgång eller 90 procents fall? - Realtid
 - Experten: ”Idiotsäkert köp – men välj bort den” - Aftonbladet
 - Rusning i värmen – brist på fläktar i fler butiker - Expressen
+- Boråsföretaget utnyttjas i bedrägeriförsök: ”Fruktansvärt” - Borås Tidning
+- De blir vägvisare för jordbrukets hantering av sur sulfatjord - Västerbottens-Kuriren
 - Östgötska författaren släpper bok om näthat - Corren
-- Trailer: Återvänd till världens blodigaste skola i säsong 2 av "Gen V" - MovieZine
 
 ## World News
 
@@ -36,7 +36,6 @@ _Updated: 2025-07-27 22:44_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
-- New Secretary General appointed - Olof Palme International Center
 - Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
@@ -47,6 +46,7 @@ _Updated: 2025-07-27 22:44_
 - Paramount Global and Park County Extend Overall Deal - Placera.se
 - ebp Global acquires Sustaina Company - Via TT
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
+- Techarenan Launches Global Tech Event at the Swedish National Stadium, Bringing Together Leaders in Business and Innovation - Techarenan.news
 
 ## Technology
 
@@ -55,18 +55,18 @@ _Updated: 2025-07-27 22:44_
 - Safe Pro Group Successfully Integrates Artificial Intelligence-Powered Landmine Detection for Drones Selected Under U.S. Army Program of Record - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - EY.ai | EY - Sverige - EY
-- Global Military Drone Market Size on a Trajectory Toward $88 Billion as Demand Skyrockets - Placera.se
+- Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
+- RBC joins Massachusetts Institute of Technology's (MIT) CSAIL fintech research initiative on the role of AI in the future of finance - Placera.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft
-- RBC joins Massachusetts Institute of Technology's (MIT) CSAIL fintech research initiative on the role of AI in the future of finance - Placera.se
 - Redwire Expands International Collaboration with Japanese Startup SpaceData for Artificial Intelligence and Digital Engineering Systems - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - ZenaTech Releases Video of ZenaDrone’s IQ Nano Indoor Inventory AI Drone for US Defense and Government - Placera.se
+- Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - TDK acquires SoftEye to enable artificial intelligence within smart glasses and grow its AI ecosystem business - Placera.se
 - Trane Technologies Completes Acquisition of BrainBox AI - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
@@ -112,53 +112,53 @@ _Updated: 2025-07-27 22:44_
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Byter namn till TouchPoint Medical - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Högskola, forskning och rymd - Regeringen.se
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Jordbruk och landsbygdsutveckling - European Commission
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Här är världens största jordbruk - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Stora anslag för innovationer i lantbruket - Lantbruksnytt
