@@ -26,8 +26,42 @@ class NewsAnalyzer:
         self.stop_words = {
             "the", "is", "and", "a", "to", "in", "of", "on", "for", "at", "with", "as",
             "from", "that", "by", "an", "be", "are", "has", "after", "new", "over", "it",
-            "news", "bbc", "says", "said", "will", "can", "could", "would", "should"
+            "news", "bbc", "says", "said", "will", "can", "could", "would", "should", "get", 
+            "well", "you", "your", "they", "this", "there", "about", "not", "more",
+            "than", "but", "if", "so", "what", "who", "when", "where", "why", "how", "all", "any", "some",
+            "report", "reports", "reported", "reporting",
+            "announce", "announced", "announcement",
+            "according", "according to",
+            "state", "stated", "statement",
+            "confirm", "confirmed", "confirms",
+            "claim", "claims", "claimed",
+            "update", "updated", "updates",
+            "warn", "warning", "warned",
+            "reveal", "reveals", "revealed",
+            "urge", "urges", "urged",
+            "allege", "alleged", "alleges",
+            "call", "called", "calls", "calling",
+            "note", "noted", "notes",
+            "issue", "issued", "issues",
+            "show", "shows", "showed",
+            "government", "minister", "official", "president", "leader", "spokesperson",
+            "authorities", "agency", "court", "police", "officer", "law",
+            "company", "firm", "organization", "department",
+            "today", "yesterday", "tomorrow",
+            "now", "then", "currently", "earlier", "later",
+            "week", "month", "year", "decade",
+            "monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday",
+            "january", "february", "march", "april", "may", "june", "july",
+            "august", "september", "october", "november", "december",
+            "country", "nation", "region", "state", "city",
+            "world", "global", "international", "foreign",
+            "just", "only", "even", "still", "already",
+            "may", "might", "perhaps", "likely", "unlikely",
+            "meanwhile", "amid", "despite", "although",
+            "however", "further", "also", "including",
+            "like", "such", "among", "around"
         }
+
         
         self.g = Github(self.access_token)
         self.repo = self.g.get_repo(self.repo_name)
