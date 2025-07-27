@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-27 15:48_
+_Updated: 2025-07-27 16:43_
 
 ## Top Stories
 
-- Thailand och Kambodja möts för samtal på måndag - DN
-- Israel har bordat aktivistbåt på väg till Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Rubio varnar: ”Trump tappar tålamodet med Ryssland” - Omni
+- Fotografen Omar al Qatta skildrar svälten i Gaza: ”Det finns inga ord” - GP
+- DN Direkt - Johansson fyra i VM-finalen – nytt svenskt rekord - DN
+- SMHI varnar för skyfall och åska i norr - Aftonbladet
+- Lotsbåt räddade fiskare vid Hållö – i sista minuten - GP
 - Är miljardärernas flykt ett problem? - SvD
-- ”Man kan inte bygga en verksamhet på inhopp” - HD
-- Så uppfattas kunderna – av falafelproffsen: ”Ibland har vi fel” - Sydsvenskan
+- Trumps frustration växer: ”Förlorar tålamodet med Putin” - DN
 - Man skjuten till döds i Järfälla - GP
-- SMHI varnar för skyfall och åska i norr - Västerbottens-Kuriren
-- Gonorrén ökar i Sverige – experter oroas för resistens - Omni
+- Stor spridning av gonorré – resistenta stammar oroar experterna - DN
 - Carita jobbar som tolk i EU-parlamentet: ”Språk är en demokratifråga” - DN
-- Bränder i Europa – EU-hjälp till Grekland - Hufvudstadsbladet
+- De löper störst risk att mördas av sin partner - UNT
 - UAE ska bygga vattenledning till Gaza - Västerbottens-Kuriren
-- Trump ber Israel ”avsluta jobbet” mot Hamas - Hufvudstadsbladet
 - Uppgifter: Kadyrov nära att drunkna - GP
-- USA-tullar kan ge läkemedelsbrist i Sverige - SvD
+- Trump ber Israel ”avsluta jobbet” mot Hamas - Hufvudstadsbladet
+- Kraftiga skogsbränder i flera sydeuropeiska länder – många döda - DN
 - Så många tjänar en miljon om året – här är yrkena med högst lön - DN
-- USA och EU kan få tullavtal redan i eftermiddag - Aftonbladet
+- USA-tullar kan ge läkemedelsbrist i Sverige - SvD
+- LEDARE: Ingen brist på tomma lägenheter. - Sydsvenskan
 - Namninsamling mot Willys beslut - GP
-- Googles AI ”stort hot” mot svenska tidningar - Sydsvenskan
+- Googles AI ”stort hot” mot svenska tidningar - Blekinge Läns Tidning
 - Madame Tussauds hyllar Taylor Swift med 13 nya vaxfigurer - MSN
 
 ## World News
 
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -36,17 +35,18 @@ _Updated: 2025-07-27 15:48_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
+- New Secretary General appointed - Olof Palme International Center
+- Paramount Global and Park County Extend Overall Deal - Placera.se
 - Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - 29 October 2017 is the World Psoriasis Day - NewsMachine AB
 - NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Paramount Global and Park County Extend Overall Deal - Placera.se
+- Global Education and Business Leaders Witnessed Learning Innovation at D2L Fusion 2025 - Placera.se
 - ebp Global acquires Sustaina Company - Via TT
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
-- Techarenan Launches Global Tech Event at the Swedish National Stadium, Bringing Together Leaders in Business and Innovation - Techarenan.news
 
 ## Technology
 
@@ -54,7 +54,6 @@ _Updated: 2025-07-27 15:48_
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
 - Safe Pro Group Successfully Integrates Artificial Intelligence-Powered Landmine Detection for Drones Selected Under U.S. Army Program of Record - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- GITEX EUROPE 2025 - Reigniting an Open, Bold & Collaborative European Digital Economy Amidst €200bn AI Ambitions - Via TT
 - EY.ai | EY - Sverige - EY
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -64,9 +63,10 @@ _Updated: 2025-07-27 15:48_
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft
 - Redwire Expands International Collaboration with Japanese Startup SpaceData for Artificial Intelligence and Digital Engineering Systems - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- ZenaTech Releases Video of ZenaDrone’s IQ Nano Indoor Inventory AI Drone for US Defense and Government - Placera.se
+- Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - TDK acquires SoftEye to enable artificial intelligence within smart glasses and grow its AI ecosystem business - Placera.se
 - Trane Technologies Completes Acquisition of BrainBox AI - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
@@ -78,18 +78,18 @@ _Updated: 2025-07-27 15:48_
 - Flower tar in över 500 miljoner i avslutad Serie A-runda - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour, Surpasses US$1 Billion in Assets Under Management - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
+- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Nuveen Churchill Direct Lending Corp. Schedules Second Quarter 2025 Earnings Release and Conference Call - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Accord Announces First Quarter Financial Results - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Seacoast Completes Acquisition of Heartland Bancshares, Inc. - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Yunji Announces Changes in Management - Placera.se
-- Seacoast Completes Acquisition of Heartland Bancshares, Inc. - Placera.se
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - The INX Digital Company, Inc. Announces the Deposit of US$10 million in Escrow and Receipt of Approval from the Financial Industry Regulatory Authority, Inc., ("FINRA") for Change of Ownership - Placera.se
 - Tractor Supply Company Reports Second Quarter 2025 Financial Results; Reconfirms Fiscal Year 2025 Outlook - Placera.se
