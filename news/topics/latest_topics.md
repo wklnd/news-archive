@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-28 00:46_
+_Updated: 2025-07-28 01:43_
 
 ## Top Stories
 
-- DN Direkt - Dousa om EU:s tullavtal med USA: Gör ingen rikare - DN
+- Sex till sjukhus efter trafikolycka i Kungsbacka - SVT Nyheter
+- Trump: Tullavtal med EU klart - Hufvudstadsbladet
+- Kraftigt polskt oväder närmar sig Sverige - Omni
 - De förser fronten med hundratals drönare - SvD
-- 300 larm om polska cyklonen ”Karl-Heinz” – dundrar sen hit - Expressen
-- 28 juli 00.01, Trafikolycka, personskada, Kungsbacka - polisen.se
-- Thailand och Kambodja möts för samtal på måndag - GP
-- Nathan Shachar: Netanyahu tvingas skrota sin biståndsmodell - DN
-- VMA i Norsjö kommun – brand i villa - Nyheter24
+- Thailand och Kambodja möts för samtal på måndag - DN
+- WHO: ”Alarmerande nivåer" av undernäring i Gaza - GP
 - Man skjuten till döds i Järfälla - GP
-- DN Direkt - Kraftig brand i Hudiksvall – VMA utfärdat - DN
-- USA och Kina uppges förlänga tullpaus i Stockholm - SVT Nyheter
-- Minst tre döda i allvarlig tågolycka i Tyskland - DN
-- DN Direkt - Islamistattack mot kyrka i Kongo – många döda - DN
-- Kraftiga skogsbränder vid Medelhavet – tusentals evakueras i Turkiet - DN
+- Fyra till sjukhus efter trafikolycka - GP
+- USA och Kina uppges förlänga tullpaus i Stockholm - DN
+- Flerfamiljshus i lågor – Cristinas bostad drabbad - SVT Nyheter
+- Flera döda efter tågolycka i Tyskland - GP
+- Tillfälliga vattenbassänger räddar kor i Serbien - HD
 - Slaget mot turisterna – chockhöjer skatten - Expressen
+- Kraftiga skogsbränder vid Medelhavet – tusentals evakueras i Turkiet - DN
 - Så många tjänar en miljon om året – här är yrkena med högst lön - DN
-- Tesla – 700 procents uppgång eller 90 procents fall? - Realtid
 - Rusning i värmen – brist på fläktar i fler butiker - Expressen
 - Experten: ”Idiotsäkert köp – men välj bort den” - Aftonbladet
+- Här öppnar ny vårdcentral - Nerikes Allehanda
 - Svenska priser för Threadripper 9000-serien har listats - Nordichardware
-- Östgötska författaren släpper bok om näthat - Corren
+- Borderlands 4 har "gått guld" inför lanseringen i september - Nordichardware
 
 ## World News
 
@@ -36,17 +36,17 @@ _Updated: 2025-07-28 00:46_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
-- New Secretary General appointed - Olof Palme International Center
 - Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- 29 October 2017 is the World Psoriasis Day - NewsMachine AB
 - NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
+- 29 October 2017 is the World Psoriasis Day - NewsMachine AB
+- Ulrika Jonsson stämmer News of the World - Sydsvenskan
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Paramount Global and Park County Extend Overall Deal - Placera.se
 - ebp Global acquires Sustaina Company - Via TT
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
+- Liberty International i Stockholm växer - travelnews.se
 
 ## Technology
 
@@ -102,8 +102,8 @@ _Updated: 2025-07-28 00:46_
 - Episurf Medical annonserar omstruktureringsinitiativ och ökat fokus på den amerikanska marknaden - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
@@ -112,10 +112,10 @@ _Updated: 2025-07-28 00:46_
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Byter namn till TouchPoint Medical - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
@@ -126,8 +126,10 @@ _Updated: 2025-07-28 00:46_
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Högskola, forskning och rymd - Regeringen.se
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -135,10 +137,8 @@ _Updated: 2025-07-28 00:46_
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
@@ -154,11 +154,11 @@ _Updated: 2025-07-28 00:46_
 - Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Stora anslag för innovationer i lantbruket - Lantbruksnytt
+- Framtidens jordbruk är regenerativt - greenpeace.org
