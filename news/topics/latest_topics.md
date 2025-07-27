@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-27 15:07_
+_Updated: 2025-07-27 15:48_
 
 ## Top Stories
 
-- Fotografen Omar al Qatta skildrar svälten i Gaza: ”Det finns inga ord” - GP
 - Thailand och Kambodja möts för samtal på måndag - DN
-- Militär sätts in i Albanien – bränder sprider sig snabbt - SVT Nyheter
-- Ungdom rymde från Sis-hem i natt – polisjakt pågår - Aftonbladet
+- Israel har bordat aktivistbåt på väg till Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Rubio varnar: ”Trump tappar tålamodet med Ryssland” - Omni
 - Är miljardärernas flykt ett problem? - SvD
-- Dramatisk räddningsinsats efter olycka - Allehanda.se
-- Man skjuten till döds i Järfälla - SVT Nyheter
-- DN Direkt - SMHI varnar för skyfall och åska i norr - DN
-- Stor spridning av gonorré – resistenta stammar oroar experterna - DN
+- ”Man kan inte bygga en verksamhet på inhopp” - HD
+- Så uppfattas kunderna – av falafelproffsen: ”Ibland har vi fel” - Sydsvenskan
+- Man skjuten till döds i Järfälla - GP
+- SMHI varnar för skyfall och åska i norr - Västerbottens-Kuriren
+- Gonorrén ökar i Sverige – experter oroas för resistens - Omni
 - Carita jobbar som tolk i EU-parlamentet: ”Språk är en demokratifråga” - DN
+- Bränder i Europa – EU-hjälp till Grekland - Hufvudstadsbladet
 - UAE ska bygga vattenledning till Gaza - Västerbottens-Kuriren
-- Uppgifter: Kadyrov nära att drunkna - GP
 - Trump ber Israel ”avsluta jobbet” mot Hamas - Hufvudstadsbladet
-- Varningen till Putin: Trump börjar tröttna - Expressen
+- Uppgifter: Kadyrov nära att drunkna - GP
 - USA-tullar kan ge läkemedelsbrist i Sverige - SvD
 - Så många tjänar en miljon om året – här är yrkena med högst lön - DN
-- LEDARE: Ingen brist på tomma lägenheter. - Sydsvenskan
+- USA och EU kan få tullavtal redan i eftermiddag - Aftonbladet
 - Namninsamling mot Willys beslut - GP
 - Googles AI ”stort hot” mot svenska tidningar - Sydsvenskan
 - Madame Tussauds hyllar Taylor Swift med 13 nya vaxfigurer - MSN
 
 ## World News
 
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -35,15 +36,14 @@ _Updated: 2025-07-27 15:07_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
-- New Secretary General appointed - Olof Palme International Center
-- Paramount Global and Park County Extend Overall Deal - Placera.se
-- Umeå children in worldwide school project on AI - Umeå universitet
+- Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - 29 October 2017 is the World Psoriasis Day - NewsMachine AB
+- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Global Education and Business Leaders Witnessed Learning Innovation at D2L Fusion 2025 - Placera.se
+- Paramount Global and Park County Extend Overall Deal - Placera.se
 - ebp Global acquires Sustaina Company - Via TT
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - Techarenan Launches Global Tech Event at the Swedish National Stadium, Bringing Together Leaders in Business and Innovation - Techarenan.news
@@ -54,6 +54,7 @@ _Updated: 2025-07-27 15:07_
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
 - Safe Pro Group Successfully Integrates Artificial Intelligence-Powered Landmine Detection for Drones Selected Under U.S. Army Program of Record - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- GITEX EUROPE 2025 - Reigniting an Open, Bold & Collaborative European Digital Economy Amidst €200bn AI Ambitions - Via TT
 - EY.ai | EY - Sverige - EY
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -63,10 +64,9 @@ _Updated: 2025-07-27 15:07_
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft
 - Redwire Expands International Collaboration with Japanese Startup SpaceData for Artificial Intelligence and Digital Engineering Systems - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- ZenaTech Releases Video of ZenaDrone’s IQ Nano Indoor Inventory AI Drone for US Defense and Government - Placera.se
-- Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - TDK acquires SoftEye to enable artificial intelligence within smart glasses and grow its AI ecosystem business - Placera.se
 - Trane Technologies Completes Acquisition of BrainBox AI - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
@@ -78,7 +78,7 @@ _Updated: 2025-07-27 15:07_
 - Flower tar in över 500 miljoner i avslutad Serie A-runda - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour, Surpasses US$1 Billion in Assets Under Management - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
+- DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
@@ -86,10 +86,10 @@ _Updated: 2025-07-27 15:07_
 - Nuveen Churchill Direct Lending Corp. Schedules Second Quarter 2025 Earnings Release and Conference Call - Placera.se
 - Accord Announces First Quarter Financial Results - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Yunji Announces Changes in Management - Placera.se
 - Seacoast Completes Acquisition of Heartland Bancshares, Inc. - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - The INX Digital Company, Inc. Announces the Deposit of US$10 million in Escrow and Receipt of Approval from the Financial Industry Regulatory Authority, Inc., ("FINRA") for Change of Ownership - Placera.se
 - Tractor Supply Company Reports Second Quarter 2025 Financial Results; Reconfirms Fiscal Year 2025 Outlook - Placera.se
@@ -102,8 +102,8 @@ _Updated: 2025-07-27 15:07_
 - Episurf Medical annonserar omstruktureringsinitiativ och ökat fokus på den amerikanska marknaden - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
@@ -121,11 +121,11 @@ _Updated: 2025-07-27 15:07_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Högskola, forskning och rymd - Regeringen.se
@@ -136,9 +136,9 @@ _Updated: 2025-07-27 15:07_
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
@@ -152,13 +152,13 @@ _Updated: 2025-07-27 15:07_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - (+) Stor undersökning av jordbruket - Arbetarskydd
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Framtidens jordbruk är regenerativt - greenpeace.org
