@@ -2,7 +2,7 @@ name: News Archive Bot
 
 on:
   schedule:
-    - cron: '45 * * * *'  
+    - cron: '35 * * * *'  
   workflow_dispatch:    # manual trigger option
 
 jobs:
