@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-07-27 08:57_
+_Updated: 2025-07-27 09:49_
 
-- 6 people in critical condition after 11 stabbed at Michigan Walmart in 'brutal act' - ABC News
-- Gaza air drops 'a grotesque distraction', aid agencies warn - BBC
-- Trump Says He Expects Quick Cease-Fire Between Thailand and Cambodia - The New York Times
-- 'Scotland is already great.' Protesters troll Trump on his golfing trip - NPR
+- 6 victims from mass stabbing at Traverse City Walmart in critical condition - The Detroit News
+- Israel to implement humanitarian pause in Gaza after international pressure - Axios
+- Thailand and Cambodia thank Trump for mediation, but shelling continues - BBC
 - Ghislaine Maxwell's meetings with Justice Department shrouded in secrecy - NBC News
-- Taiwanese voters reject motion to recall opposition lawmakers - Financial Times
+- 'Scotland is already great.' Protesters troll Trump on his golfing trip - NPR
+- No Proof Hamas Routinely Stole U.N. Aid, Israeli Military Officials Say - The New York Times
+- Goncalves family issues statement after Moscow Murders investigation documents are released - KREM
 - US man convicted in Palestinian-American boy hate crime murder dies in jail - Al Jazeera
 - Texas House redistricting committee’s Houston hearing draws criticism over absence of maps - The Texas Tribune
-- EU and US locked in talks ahead of key Trump meeting with von der Leyen - Financial Times
-- Trump administration clears way to keep Alina Habba as New Jersey's top federal prosecutor - AP News
+- Habba set to remain as top prosecutor in New Jersey after White House maneuver - ABC News
+- Taiwan move to recall opposition lawmakers fails - Reuters
 - Early recognition of Palestine could be ‘counterproductive,’ Italy’s Meloni says - politico.eu
-- Five-month-old baby dies in mother’s arms in Gaza, a new victim of escalating starvation crisis - CNN
 - Wildfire burns through northern suburb of Athens as residents told to evacuate - The Guardian
-- At least 57 killed in Gaza in 24 hours as Israel withdraws from ceasefire talks - The Guardian
-- Allianz Life says majority of US customers' data stolen in hack - Reuters
-- Tea app hacked: Images stolen from women's dating safety app that vets men - BBC
+- Amid starvation scenes in Gaza, Trump administration hardens tone on Hamas - The Washington Post
+- Women's dating app Tea reports 72,000 images stolen in security breach - Reuters
+- Union Pacific Is Said to Near Deal for Norfolk Southern - Bloomberg.com
 - Pressure Mounts on Fed Chief Powell in Tee Up to GDP, Jobs Data - Bloomberg.com
-- Southwest aircraft takes a dive to avoid midair collision - NPR
+- Allianz Life confirms data breach affecting majority of 1.4M US customers - ABC News
 - Exynos 2600’s graphics performance is faster than Snapdragon 8 Elite - SamMobile
-- Nintendo Switch 2 restocks live — Best Buy, Walmart, and more retailers all have stock now - Tom's Guide
+- Reliable leaker tips mind-blowing Samsung Galaxy S26 Edge battery size and other potential surprises - PhoneArena
