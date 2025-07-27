@@ -1,12 +1,12 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-27 11:29_
+_Updated: 2025-07-27 11:39_
 
 ## Top Stories
 
 - Kraftiga skogsbränder i flera sydeuropeiska länder – många döda - DN
 - Man skjuten till döds i Järfälla - SvD
-- Nödhjälp till Gaza från luften återupptas - Västerbottens-Kuriren
+- Israel: "Humanitära pauser” i strider inleds - GP
 - Så många tjänar en miljon om året – här är yrkena med högst lön - DN
 - Statsminister Ulf Kristerssons bjudningar – med hemliga gästlistan - GP
 - Cary, 82, blev påkörd av bussens bakdel: ”Föreställde mig en barnvagn” - Sydsvenskan
@@ -18,8 +18,8 @@ _Updated: 2025-07-27 11:29_
 - Ökänd sexualbrottsling gripen efter år på flykt - Västerbottens-Kuriren
 - Ny beskjutning mellan Thailand och Kambodja - SVT Nyheter
 - Tonåring i trafikolycka – misstänks för grov rattfylla - Expressen
-- LEDARE: Ingen brist på tomma lägenheter. - Sydsvenskan
 - USA-tullar kan ge läkemedelsbrist i Sverige - SvD
+- LEDARE: Ingen brist på tomma lägenheter. - Sydsvenskan
 - Vann 160 miljoner på lotto - Skillingaryd
 - Intensiva förhandlingar mellan EU och USA i helgen - EFN
 - Aldrig tidigare skådat: 183 år gamla ben avslöjar att havsjätte från dinosauriernas tid hade en speciell jaktteknik - Illustrerad Vetenskap
@@ -58,18 +58,18 @@ _Updated: 2025-07-27 11:29_
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Redwire Expands International Collaboration with Japanese Startup SpaceData for Artificial Intelligence and Digital Engineering Systems - Placera.se
+- RBC joins Massachusetts Institute of Technology's (MIT) CSAIL fintech research initiative on the role of AI in the future of finance - Placera.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
-- Generative AI and scientific development | Kommande evenemang | Evenemang | Think Tank - European Parliament
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Redwire Expands International Collaboration with Japanese Startup SpaceData for Artificial Intelligence and Digital Engineering Systems - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- ZenaTech Releases Video of ZenaDrone’s IQ Nano Indoor Inventory AI Drone for US Defense and Government - Placera.se
 - TDK acquires SoftEye to enable artificial intelligence within smart glasses and grow its AI ecosystem business - Placera.se
 - Trane Technologies Completes Acquisition of BrainBox AI - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
-- Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
-- ZenaTech Releases Video of ZenaDrone’s IQ Nano Indoor Inventory AI Drone for US Defense and Government - Placera.se
+- Digital Realty Teams with Oracle Solution Centers to Help Organizations Accelerate AI and Cloud Innovation - Placera.se
 
 ## Business
 
@@ -82,14 +82,14 @@ _Updated: 2025-07-27 11:29_
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Nuveen Churchill Direct Lending Corp. Schedules Second Quarter 2025 Earnings Release and Conference Call - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Nuveen Churchill Direct Lending Corp. Schedules Second Quarter 2025 Earnings Release and Conference Call - Placera.se
 - Accord Announces First Quarter Financial Results - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Seacoast Completes Acquisition of Heartland Bancshares, Inc. - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- Seacoast Completes Acquisition of Heartland Bancshares, Inc. - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - The INX Digital Company, Inc. Announces the Deposit of US$10 million in Escrow and Receipt of Approval from the Financial Industry Regulatory Authority, Inc., ("FINRA") for Change of Ownership - Placera.se
 - Tractor Supply Company Reports Second Quarter 2025 Financial Results; Reconfirms Fiscal Year 2025 Outlook - Placera.se
@@ -113,32 +113,32 @@ _Updated: 2025-07-27 11:29_
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Byter namn till TouchPoint Medical - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Högskola, forskning och rymd - Regeringen.se
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
@@ -156,7 +156,7 @@ _Updated: 2025-07-27 11:29_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - De gick från reko till eko - ST-tidningen
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
