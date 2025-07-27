@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-27 23:41_
+_Updated: 2025-07-28 00:46_
 
 ## Top Stories
 
-- DN Direkt - Trump: Bra chans att lösa problemen med Europa - DN
+- DN Direkt - Dousa om EU:s tullavtal med USA: Gör ingen rikare - DN
 - De förser fronten med hundratals drönare - SvD
-- Flerfamiljshus i lågor – Cristinas bostad drabbad - SVT Nyheter
-- SMHI varnar för skyfall och åska i norr - Aftonbladet
-- Trump: Demokraterna köpte stöd – från Beyoncé - HD
+- 300 larm om polska cyklonen ”Karl-Heinz” – dundrar sen hit - Expressen
+- 28 juli 00.01, Trafikolycka, personskada, Kungsbacka - polisen.se
+- Thailand och Kambodja möts för samtal på måndag - GP
 - Nathan Shachar: Netanyahu tvingas skrota sin biståndsmodell - DN
 - VMA i Norsjö kommun – brand i villa - Nyheter24
 - Man skjuten till döds i Järfälla - GP
+- DN Direkt - Kraftig brand i Hudiksvall – VMA utfärdat - DN
 - USA och Kina uppges förlänga tullpaus i Stockholm - SVT Nyheter
-- Fyra till sjukhus efter trafikolycka - GP
 - Minst tre döda i allvarlig tågolycka i Tyskland - DN
 - DN Direkt - Islamistattack mot kyrka i Kongo – många döda - DN
-- Thailand och Kambodja möts för samtal på måndag - Västerbottens-Kuriren
-- Upptäckten: Antika kyrkan kan ha varit en synagoga - DN
+- Kraftiga skogsbränder vid Medelhavet – tusentals evakueras i Turkiet - DN
+- Slaget mot turisterna – chockhöjer skatten - Expressen
+- Så många tjänar en miljon om året – här är yrkena med högst lön - DN
 - Tesla – 700 procents uppgång eller 90 procents fall? - Realtid
-- Experten: ”Idiotsäkert köp – men välj bort den” - Aftonbladet
 - Rusning i värmen – brist på fläktar i fler butiker - Expressen
-- Boråsföretaget utnyttjas i bedrägeriförsök: ”Fruktansvärt” - Borås Tidning
-- De blir vägvisare för jordbrukets hantering av sur sulfatjord - Västerbottens-Kuriren
+- Experten: ”Idiotsäkert köp – men välj bort den” - Aftonbladet
+- Svenska priser för Threadripper 9000-serien har listats - Nordichardware
 - Östgötska författaren släpper bok om näthat - Corren
 
 ## World News
@@ -36,6 +36,7 @@ _Updated: 2025-07-27 23:41_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
+- New Secretary General appointed - Olof Palme International Center
 - Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
@@ -46,7 +47,6 @@ _Updated: 2025-07-27 23:41_
 - Paramount Global and Park County Extend Overall Deal - Placera.se
 - ebp Global acquires Sustaina Company - Via TT
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
-- Techarenan Launches Global Tech Event at the Swedish National Stadium, Bringing Together Leaders in Business and Innovation - Techarenan.news
 
 ## Technology
 
@@ -82,15 +82,15 @@ _Updated: 2025-07-27 23:41_
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Nuveen Churchill Direct Lending Corp. Schedules Second Quarter 2025 Earnings Release and Conference Call - Placera.se
+- Accord Announces First Quarter Financial Results - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Seacoast Completes Acquisition of Heartland Bancshares, Inc. - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Watts Water Technologies Names Ryan Lada as Chief Financial Officer - Placera.se
-- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- Seacoast Completes Acquisition of Heartland Bancshares, Inc. - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - The INX Digital Company, Inc. Announces the Deposit of US$10 million in Escrow and Receipt of Approval from the Financial Industry Regulatory Authority, Inc., ("FINRA") for Change of Ownership - Placera.se
 - Tractor Supply Company Reports Second Quarter 2025 Financial Results; Reconfirms Fiscal Year 2025 Outlook - Placera.se
 
