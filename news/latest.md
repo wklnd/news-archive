@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-07-27 19:51_
+_Updated: 2025-07-27 20:56_
 
-- Trump says he would ‘like’ to strike a trade deal with the EU - Financial Times
+- Trump announces EU trade deal with 15% tariffs - CNBC
 - Jordan and UAE begin air drops into Gaza after Israel announced series of aid measures - BBC
-- Trump’s Scotland trip latest example of blending private business with presidential duties - CNN
 - Traverse City hospital releases update on medical conditions of Walmart stabbing victims - The Detroit News
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
+- Trump’s effort to end birthright citizenship could have taken effect this weekend. Lower courts are continuing to block it - CNN
 - Massie, Khanna hammer Republican leadership for thwarting Epstein transparency push - Politico
+- Colorado lawmaker says Gabbard has become ‘weapon of mass destruction’ for Trump - Politico
 - Researchers quietly planned a test to dim sunlight. They wanted to ‘avoid scaring’ the public. - Politico
 - Mike Johnson pans discharge petition from Massie and Khanna - Politico
-- CWG Live updates: Hot today with strong storms possible; more heat through midweek - The Washington Post
-- Commentary: Political ploy or bold move to save democracy? Our columnists debate Newsom redistricting threat - Los Angeles Times
-- At least 34 killed in attack on east Congo church by Islamic State-backed rebels, civil leader says - AP News
-- Early recognition of Palestine could be ‘counterproductive,’ Italy’s Meloni says - politico.eu
+- Trump’s Scotland trip latest example of blending private business with presidential duties - CNN
+- Islamic State-backed rebels attack a Catholic church in eastern Congo, killing at least 34 - AP News
 - Gaza flotilla seized by IDF towed to Ashdod, activists taken into custody upon entry - The Times of Israel
+- Dozens of Wildfires Burn in Greece and Turkey as Temperatures Soar - The New York Times
 - Hamas signals shift in hostage talks as Israel eases Gaza humanitarian policy - Ynetnews
 - 'He's showing up.' Things are getting better at Boeing under CEO Ortberg. Can he keep it going? - CNBC
 - Here's a puzzling question: Why are stocks at record highs despite looming tariffs? - NPR
-- Denny’s CEO asks potential hires these questions at the interview—if they can’t answer, it’s an immediate red flag - Yahoo Home
 - Traders Hedging Stocks at Record Highs Dabble in Exotic Options - Bloomberg
-- I've used foldable phones for years and the Galaxy Z Fold still manages to blow me away - Android Central
-- Tipster: iPhone 17 Pro to Feature 8x Zoom, Pro Camera App, and More - MacRumors
+- Citi Rolls Out a New Premium Card in Fight for Affluent Customers - The Wall Street Journal
+- ASUS shares RTX 50 TGP specs for entire ROG Strix/TUF gaming laptop series - VideoCardz.com
+- Rumor: iPhone 17 Pro could have three unexpected camera upgrades - 9to5Mac
