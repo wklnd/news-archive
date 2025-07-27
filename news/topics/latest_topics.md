@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-27 13:40_
+_Updated: 2025-07-27 15:07_
 
 ## Top Stories
 
-- Svensk bland frihetsberövade från aktivistbåt – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Fotografen Omar al Qatta skildrar svälten i Gaza: ”Det finns inga ord” - GP
+- Thailand och Kambodja möts för samtal på måndag - DN
+- Militär sätts in i Albanien – bränder sprider sig snabbt - SVT Nyheter
 - Ungdom rymde från Sis-hem i natt – polisjakt pågår - Aftonbladet
-- Kraftiga skogsbränder i flera sydeuropeiska länder – många döda - DN
-- Värmeböljan över – så blir vädret i veckan - GP
-- Cary, 82, blev påkörd av bussens bakdel: ”Föreställde mig en barnvagn” - Sydsvenskan
+- Är miljardärernas flykt ett problem? - SvD
 - Dramatisk räddningsinsats efter olycka - Allehanda.se
 - Man skjuten till döds i Järfälla - SVT Nyheter
-- SMHI varnar för skyfall i Norrlands inland - GP
-- DN Direkt - De löper störst risk att mördas av sin partner - DN
-- Säkerhetsbrister på vart fjärde vattenverk - UNT
-- Uppgifter: Kadyrov nära att drunkna - GP
+- DN Direkt - SMHI varnar för skyfall och åska i norr - DN
+- Stor spridning av gonorré – resistenta stammar oroar experterna - DN
+- Carita jobbar som tolk i EU-parlamentet: ”Språk är en demokratifråga” - DN
 - UAE ska bygga vattenledning till Gaza - Västerbottens-Kuriren
-- Källor: Hamas villiga att förhandla om gisslan - UNT
-- Ny beskjutning mellan Thailand och Kambodja - DN
+- Uppgifter: Kadyrov nära att drunkna - GP
+- Trump ber Israel ”avsluta jobbet” mot Hamas - Hufvudstadsbladet
+- Varningen till Putin: Trump börjar tröttna - Expressen
 - USA-tullar kan ge läkemedelsbrist i Sverige - SvD
-- Här byggs bostäder billigare – som fler ska ha råd att bo i - SVT Nyheter
-- Vann 160 miljoner på lotto - Skillingaryd
-- Roberto, 53, fast i kaoset på Kretas flygplats - Aftonbladet
+- Så många tjänar en miljon om året – här är yrkena med högst lön - DN
+- LEDARE: Ingen brist på tomma lägenheter. - Sydsvenskan
+- Namninsamling mot Willys beslut - GP
 - Googles AI ”stort hot” mot svenska tidningar - Sydsvenskan
-- RCS uppgraderas med bättre ljud - mobil.se
+- Madame Tussauds hyllar Taylor Swift med 13 nya vaxfigurer - MSN
 
 ## World News
 
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
+- New Secretary General appointed - Olof Palme International Center
+- Paramount Global and Park County Extend Overall Deal - Placera.se
+- Umeå children in worldwide school project on AI - Umeå universitet
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - 29 October 2017 is the World Psoriasis Day - NewsMachine AB
-- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
-- Ulrika Jonsson stämmer News of the World - Sydsvenskan
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Paramount Global and Park County Extend Overall Deal - Placera.se
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
+- Global Education and Business Leaders Witnessed Learning Innovation at D2L Fusion 2025 - Placera.se
 - ebp Global acquires Sustaina Company - Via TT
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
+- Techarenan Launches Global Tech Event at the Swedish National Stadium, Bringing Together Leaders in Business and Innovation - Techarenan.news
 
 ## Technology
 
@@ -89,7 +89,7 @@ _Updated: 2025-07-27 13:40_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - Seacoast Completes Acquisition of Heartland Bancshares, Inc. - Placera.se
-- Watts Water Technologies Names Ryan Lada as Chief Financial Officer - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - The INX Digital Company, Inc. Announces the Deposit of US$10 million in Escrow and Receipt of Approval from the Financial Industry Regulatory Authority, Inc., ("FINRA") for Change of Ownership - Placera.se
 - Tractor Supply Company Reports Second Quarter 2025 Financial Results; Reconfirms Fiscal Year 2025 Outlook - Placera.se
@@ -102,8 +102,8 @@ _Updated: 2025-07-27 13:40_
 - Episurf Medical annonserar omstruktureringsinitiativ och ökat fokus på den amerikanska marknaden - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
@@ -121,24 +121,24 @@ _Updated: 2025-07-27 13:40_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Lång väg till öppen vetenskap - Universitetsläraren
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Högskola, forskning och rymd - Regeringen.se
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
@@ -152,13 +152,13 @@ _Updated: 2025-07-27 13:40_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - (+) Stor undersökning av jordbruket - Arbetarskydd
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Framtidens jordbruk är regenerativt - greenpeace.org
