@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-27 18:49_
+_Updated: 2025-07-27 19:44_
 
 ## Top Stories
 
-- Nathan Shachar: Netanyahu tvingas skrota sin biståndsmodell - DN
-- Thailand och Kambodja möts för samtal på måndag - GP
-- SMHI varnar för skyfall i Norrlands inland - Folkbladet
-- Kraftig rökutveckling i Hudiksvall – brand startade på spis - SVT Nyheter
+- Trump och von der Leyen möts i Skottland i dag - SVT Nyheter
+- Viktigt meddelande till allmänheten i Centrala Hudiksvall i Hudiksvalls kommun, Gävleborgs län. - Krisinformation.se
+- SMHI varnar för skyfall och åska i norr - Aftonbladet
 - Rinkebybor: Stadsdelen har förändrats så mycket - DN
+- Trumps frustration växer: ”Förlorar tålamodet med Putin” - DN
 - Är miljardärernas flykt ett problem? - SvD
 - Man skjuten till döds i Järfälla - GP
 - Stor spridning av gonorré – resistenta stammar oroar experterna - DN
-- Carita jobbar som tolk i EU-parlamentet: ”Språk är en demokratifråga” - DN
 - USA och Kina uppges förlänga tullpaus i Stockholm - SVT Nyheter
-- Upptäckten: Antika kyrkan kan ha varit en synagoga - DN
+- 27 juli 13.17, Trafikkontroll, Jämtlands län - polisen.se
+- Nathan Shachar: Netanyahu tvingas skrota sin biståndsmodell - DN
+- Thailand och Kambodja möts för samtal på måndag - GP
 - DN Direkt - Islamistattack mot kyrka i Kongo – många döda - DN
-- Trumps frustration växer: ”Förlorar tålamodet med Putin” - DN
-- UAE ska bygga vattenledning till Gaza - Västerbottens-Kuriren
+- Ryssland: Tagit kontroll över byar i Ukraina - GP
 - Så många tjänar en miljon om året – här är yrkena med högst lön - DN
-- USA-tullar kan ge läkemedelsbrist i Sverige - HD
 - Rusning i värmen – brist på fläktar i fler butiker - Expressen
-- LEDARE: Ingen brist på tomma lägenheter. - Sydsvenskan
-- Googles AI ”stort hot” mot svenska tidningar - Blekinge Läns Tidning
+- Larmet: Kaniner är de nya sommarkatterna - SvD
+- Vann 160 miljoner på lotto - Skillingaryd
 - Östgötska författaren släpper bok om näthat - Corren
+- RCS uppgraderas med bättre ljud - mobil.se
 
 ## World News
 
@@ -40,7 +40,7 @@ _Updated: 2025-07-27 18:49_
 - Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - 29 October 2017 is the World Psoriasis Day - NewsMachine AB
 - NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
 - Ulrika Jonsson stämmer News of the World - Sydsvenskan
@@ -52,24 +52,24 @@ _Updated: 2025-07-27 18:49_
 
 - Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
-- Safe Pro Group Successfully Integrates Artificial Intelligence-Powered Landmine Detection for Drones Selected Under U.S. Army Program of Record - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- EY.ai | EY - Sverige - EY
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
+- EY.ai | EY - Sverige - EY
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Redwire Expands International Collaboration with Japanese Startup SpaceData for Artificial Intelligence and Digital Engineering Systems - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- RBC joins Massachusetts Institute of Technology's (MIT) CSAIL fintech research initiative on the role of AI in the future of finance - Placera.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft
-- Redwire Expands International Collaboration with Japanese Startup SpaceData for Artificial Intelligence and Digital Engineering Systems - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- ZenaTech Releases Video of ZenaDrone’s IQ Nano Indoor Inventory AI Drone for US Defense and Government - Placera.se
-- Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
+- Lösningar för artificiell intelligens (AI) - SAS: Data and AI Solutions
+- Emma Engström - Institutet för framtidsstudier
+- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - TDK acquires SoftEye to enable artificial intelligence within smart glasses and grow its AI ecosystem business - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Trane Technologies Completes Acquisition of BrainBox AI - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 
 ## Business
 
@@ -82,17 +82,17 @@ _Updated: 2025-07-27 18:49_
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Accord Announces First Quarter Financial Results - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Seacoast Completes Acquisition of Heartland Bancshares, Inc. - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Watts Water Technologies Names Ryan Lada as Chief Financial Officer - Placera.se
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - The INX Digital Company, Inc. Announces the Deposit of US$10 million in Escrow and Receipt of Approval from the Financial Industry Regulatory Authority, Inc., ("FINRA") for Change of Ownership - Placera.se
 - Tractor Supply Company Reports Second Quarter 2025 Financial Results; Reconfirms Fiscal Year 2025 Outlook - Placera.se
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 
 ## Health
 
@@ -121,23 +121,23 @@ _Updated: 2025-07-27 18:49_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Lång väg till öppen vetenskap - Universitetsläraren
-- Högskola, forskning och rymd - Regeringen.se
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
