@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-28 19:46_
+_Updated: 2025-07-28 20:55_
 
 ## Top Stories
 
-- Missnöjd Trump skärper Putins deadline - DN
 - Polska ovädret Karl-Heinz drar in – orange varning utfärdad - SVT Nyheter
-- Israeliska människorättsorganisationer: Israel begår folkmord i Gaza - GP
-- Flera barn till sjukhus efter olycka på E20 – bil hamnade på taket efter husvagnskollision - NLT
-- Många frågetecken kvarstår kring EU:s och USA:s handelsavtal - DN
+- Missnöjd Trump skärper Putins deadline - DN
 - USA och Kina inleder tullsamtal i Stockholm - Hufvudstadsbladet
+- Europa splittrat om tullavtalet: ”Vår inställning är glasklar” - SVT Nyheter
+- Israeliska människorättsorganisationer: Israel begår folkmord i Gaza - GP
+- Trafikolycka på E20 – personbil har kört in i husvagn - GP
 - Onkologen: ”Palliativ behöver inte betyda vård i livets slutskede” - DN
-- Kor på rymmen efter åskoväder - GP
 - Så skyddar du ditt hem mot översvämning - Sundsvalls Tidning
 - Frontalkrock i Kungsbacka – sex till sjukhus - GP
+- Ryssland: "Vi är inte Israel eller Iran" - Expressen
+- Flera döda i skjutning i Bangkok - Aftonbladet
+- USA ska bränna preventivmedel för 100 miljoner - GP
 - Malaysia: Vapenvila mellan Thailand och Kambodja - Hufvudstadsbladet
-- Mopedbrand på brygga i Halmstad - Expressen
-- USA ska bränna preventivmedel för 100 miljoner - Västerbottens-Kuriren
 - Trump håller inte med Netanyahu om svälten – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- DN Direkt - Stockholmsbörsen vänder till minus - DN
-- 30 000 pensionärer har miljonlön: ”Lite annan bild” - Omni
-- Svenska kronan fortsätter att glänsa - Tidningen Näringslivet
-- Varningen: Spekulationsbubbla i bolag som satsar på bitcoin - Dagens PS
-- Apple gör Ipad mer lik en Mac i Ipad OS 26 - Computer Sweden
-- Microsoft Copilot tycks redo för Open AI:s GPT-5 - PC för Alla
+- Så många svenskar tjänar en miljon kronor om året - GP
+- Kända chokladen blir mindre - GP
+- Luften gick ur börsen – röd triss för Saab - Dagens industri
+- Nordic Capital och Permira lägger bud på Bavarian Nordic - Biostock
+- Microsoft lanserar ny AI-driven Copilot-läge för Edge-webbläsaren av Investing.com - Investing.com Sverige
+- Miljövänligt eller greenwashing– så undviker du att bli vilseledd av märkningar - Västgöta-Bladet
 
 ## World News
 
 - Kina föreslår global AI-samarbetsorganisation - Computer Sweden
 - PayPal Drives Crypto Payments into the Mainstream, Reducing Costs and Expanding Global Commerce - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Techarenan News goes English (Partly at least) - Techarenan.news
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
 - BIG Travel går in i globalt partnerskap - travelnews.se
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Venture Global Announces Final Investment Decision and Financial Close for Phase 1 of CP2 LNG - Placera.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Europcar Mobility Group Chooses OpenText to Deliver Global E-Invoicing Compliance - Placera.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
+- Liberty International i Stockholm växer - travelnews.se
+- Venture Global Announces Final Investment Decision and Financial Close for Phase 1 of CP2 LNG - Placera.se
 - ebp Global acquires Sustaina Company - Via TT
 - Warner Bros. Discovery Announces Post-Separation Company Names and Leadership Appointments - Placera.se
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
+- Introducing PayPal World: a global platform connecting the world's largest payment systems and digital wallets, starting with interoperability to PayPal and Venmo - Placera.se
 
 ## Technology
 
@@ -55,17 +55,17 @@ _Updated: 2025-07-28 19:46_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Safe Pro Group Successfully Integrates Artificial Intelligence-Powered Landmine Detection for Drones Selected Under U.S. Army Program of Record - Placera.se
 - EY.ai | EY - Sverige - EY
-- Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - RBC joins Massachusetts Institute of Technology's (MIT) CSAIL fintech research initiative on the role of AI in the future of finance - Placera.se
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Redwire Expands International Collaboration with Japanese Startup SpaceData for Artificial Intelligence and Digital Engineering Systems - Placera.se
-- Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- ZenaTech Releases Video of ZenaDrone’s IQ Nano Indoor Inventory AI Drone for US Defense and Government - Placera.se
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- ZenaTech Releases Video of ZenaDrone’s IQ Nano Indoor Inventory AI Drone for US Defense and Government - Placera.se
 - Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - TDK acquires SoftEye to enable artificial intelligence within smart glasses and grow its AI ecosystem business - Placera.se
 - Trane Technologies Completes Acquisition of BrainBox AI - Placera.se
@@ -81,18 +81,18 @@ _Updated: 2025-07-28 19:46_
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Nuveen Churchill Direct Lending Corp. Schedules Second Quarter 2025 Earnings Release and Conference Call - Placera.se
+- Accord Announces First Quarter Financial Results - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Seacoast Completes Acquisition of Heartland Bancshares, Inc. - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Yunji Announces Changes in Management - Placera.se
+- Seacoast Completes Acquisition of Heartland Bancshares, Inc. - Placera.se
+- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - The INX Digital Company, Inc. Announces the Deposit of US$10 million in Escrow and Receipt of Approval from the Financial Industry Regulatory Authority, Inc., ("FINRA") for Change of Ownership - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- Tractor Supply Company Reports Second Quarter 2025 Financial Results; Reconfirms Fiscal Year 2025 Outlook - Placera.se
 
 ## Health
 
@@ -125,19 +125,19 @@ _Updated: 2025-07-28 19:46_
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Lång väg till öppen vetenskap - Universitetsläraren
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Högskola, forskning och rymd - Regeringen.se
-- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 
 ## Jordbruk
