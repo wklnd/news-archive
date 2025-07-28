@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-07-28 13:49_
+_Updated: 2025-07-28 15:26_
 
-- Stock futures show small gain as U.S.- EU trade deal kicks off a hectic week for markets: Live updates - CNBC
-- Israel pauses attacks in some of Gaza to allow limited aid, as global criticism grows - NPR
-- Thailand and Cambodia agree to unconditional ceasefire from midnight, Malaysian PM says - CNN
-- Starmer meets Trump at his Ayrshire golf course for talks - BBC
-- ASP RELEASES ADDITIONAL INFORMATION IN DEVIL’S DEN DOUBLE HOMICIDE - Arkansas Department of Public Safety (.gov)
+- Trump lands trade deal with EU. And, Pete Buttigieg on what's next for Democrats - NPR
+- Thailand and Cambodia agree to 'immediate and unconditional ceasefire' - BBC
+- Donald Trump meets UK prime minister Keir Starmer in Scotland – US politics live - The Guardian
+- Israel allows new aid into starving Gaza under military pauses - NBC News
+- Venezuelans describe being beaten, sexually assaulted and told to 'commit suicide' during El Salvador detention - NBC News
 - NATO aircraft scrambled during major Russian drone, missile strike on Ukraine - ABC News
-- How bystanders cornered the suspect in the Michigan Walmart stabbing - CNN
-- Trump has Hegseth’s back. Some of Hegseth’s allies worry it won’t last. - Politico
-- North Korea: Kim Jong Un's sister rejects South's overtures - DW
-- Photos: Protesters rally with bagpipes and pointed signs as Trump visits Scotland - Axios
-- What to expect, and what not to, at the UN meeting on an Israel-Palestinian two-state solution - AP News
-- Heavy Rain Likely Caused Deadly German Train Derailment, Investigators Say - The New York Times
-- US-China talks to restart as hopes grow for trade war truce extension - BBC
-- Gunman kills five in Bangkok market before shooting himself - Reuters
+- See timeline of Traverse City Walmart stabbing attack, suspect to be charged with terrorism - MLive.com
+- North Korea calls South Korea's peace overtures 'great miscalculation' - Reuters
+- Why it took Arkansas State Police 6 hours to release information on wanted suspect after Devil's Den double homicide - 5newsonline.com
+- Passengers evacuate smoking jet at Denver airport after apparent landing gear problem - PBS
+- Ministers gather at UN for delayed meeting on Israel, Palestinians - Reuters
+- Five people killed in shooting at market in Thailand’s Bangkok - Al Jazeera
+- U.S. and China Meet as Trade Truce Nears Expiration - The New York Times
+- Dozens of Wildfires Burn in Greece and Turkey as Temperatures Soar - The New York Times
+- Samsung to Make Tesla AI Chips in Multiyear Texas Deal - Bloomberg.com
 - UnitedHealth Grew to Be a Leviathan. Then Came the Backlash. - The New York Times
-- Chinese AI firms form alliances to build domestic ecosystem amid US curbs - Reuters
-- CK Hutchison to Invite China Investor to Join Port Deal - Bloomberg.com
-- Trump’s tariff deal offers scant relief for Japan automakers as bigger threat looms - CNBC
-- Reddit and Discord’s UK age verification can be defeated by Death Stranding’s photo mode - The Verge
-- Xclipse 960: Exynos 2600 GPU benchmark scores leak online - Notebookcheck
+- Amazon, Apple, Visa, Meta, Fed, Inflation, Jobs, and More to Watch This Week - Barron's
+- Stock Market Today: Dow Rises On Trump Trade News; Tesla Rallies On Chip Deal (Live Coverage) - Investor's Business Daily
+- Rumor: iPhone 17 Pro could have three unexpected camera upgrades - 9to5Mac
+- Google Pixel 10 Pro Fold: News, rumors, release date, and pricing - Android Police
