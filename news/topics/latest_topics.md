@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-29 00:49_
+_Updated: 2025-07-29 01:46_
 
 ## Top Stories
 
 - Polska ovädret Karl-Heinz drar in – orange varning utfärdad - SVT Nyheter
 - DN Direkt - USA och Kina på plats – Kristersson tar emot - DN
-- Skottlossning mot lägenhet - Aftonbladet
-- Ryska svaret till Trump: "Varje ultimatum är ett direkt hot" - GP
-- Många frågetecken kvarstår kring EU:s och USA:s handelsavtal - DN
-- Hotfull och påverkad man stal polisbil under biljakt – misstänks för en rad brott - NLT
-- Israeliska människorättsgrupper: Kriget i Gaza är ett folkmord - DN
-- Onkologen: ”Palliativ behöver inte betyda vård i livets slutskede” - DN
-- Kor på rymmen efter åskoväder - Aftonbladet
-- Uppgifter: USA har godkänt annektering av Gazaremsan - Expressen
+- Skottlossning mot lägenhet – tonårstjej stoppad i taxi - Aftonbladet
+- Dramatisk biljakt på E20 – man lyckades stjäla jagande polisbil - NLT
 - Nu har de kristna nationalisterna nått Washington - DN
+- Fyrhjuling krockade med träd – två till sjukhus - GP
+- Israeliska människorättsgrupper: Kriget i Gaza är ett folkmord - DN
+- Kor på rymmen efter åskoväder - Aftonbladet
+- Frontalkrock i Kungsbacka – sex till sjukhus - GP
+- Mopedbrand på brygga i Halmstad - Expressen
 - Huthirebeller släpper bilder på saknad besättning - GP
-- Flera döda i skjutning i Bangkok - Aftonbladet
-- Uppgifter: Israelisk annektering av Gaza har godkänts av USA – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- DN Direkt - Masskjutning i Bangkok – flera döda - DN
+- Lastbilar med mat rullar in i Gaza – FN: ”Räcker inte” - GP
+- DN Direkt - USA ska bränna preventivmedel för 100 miljoner - DN
+- Europa splittrat om tullavtalet: ”Vår inställning är glasklar” - SVT Nyheter
 - 200 000 svenskar har miljonlön – har glansen försvunnit? - Realtid
-- Nordic Capital och Permira lägger bud på Bavarian Nordic - Biostock
 - Luften gick ur börsen – röd triss för Saab - Dagens industri
-- Efter värmeböljan – fläktarna som bortblåsta från butikerna - Norrtelje Tidning
+- Nordic Capital och Permira lägger bud på Bavarian Nordic - Biostock
 - Test: Samsung Galaxy Z Flip 7 – Subtilt bättre - mobil.se
-- Microsoft lanserar ny AI-driven Copilot-läge för Edge-webbläsaren av Investing.com - Investing.com Sverige
+- Star Wars Outlaws-uppföljare sägs ha lagts på hyllan - Nordichardware
 
 ## World News
 
@@ -31,6 +31,7 @@ _Updated: 2025-07-29 00:49_
 - PayPal Drives Crypto Payments into the Mainstream, Reducing Costs and Expanding Global Commerce - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -38,15 +39,14 @@ _Updated: 2025-07-29 00:49_
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Venture Global Announces Final Investment Decision and Financial Close for Phase 1 of CP2 LNG - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - Europcar Mobility Group Chooses OpenText to Deliver Global E-Invoicing Compliance - Placera.se
 - ebp Global acquires Sustaina Company - Via TT
 - Warner Bros. Discovery Announces Post-Separation Company Names and Leadership Appointments - Placera.se
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 
 ## Technology
 
@@ -55,11 +55,11 @@ _Updated: 2025-07-29 00:49_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Safe Pro Group Successfully Integrates Artificial Intelligence-Powered Landmine Detection for Drones Selected Under U.S. Army Program of Record - Placera.se
 - EY.ai | EY - Sverige - EY
-- Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- SMCI Stock Analysis: What Drives Super Micro Computer Inc. Stock Price? - Markets.com
+- Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - RBC joins Massachusetts Institute of Technology's (MIT) CSAIL fintech research initiative on the role of AI in the future of finance - Placera.se
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft
 - Redwire Expands International Collaboration with Japanese Startup SpaceData for Artificial Intelligence and Digital Engineering Systems - Placera.se
 - Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
@@ -102,18 +102,18 @@ _Updated: 2025-07-29 00:49_
 - Episurf Medical annonserar omstruktureringsinitiativ och ökat fokus på den amerikanska marknaden - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
@@ -146,11 +146,11 @@ _Updated: 2025-07-29 00:49_
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -158,7 +158,7 @@ _Updated: 2025-07-29 00:49_
 - De gick från reko till eko - ST-tidningen
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
