@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-28 16:50_
+_Updated: 2025-07-28 17:47_
 
 ## Top Stories
 
 - Polska ovädret Karl-Heinz drar in – orange varning utfärdad - SVT Nyheter
-- Israeliska hjälporganisationer: Folkmord i Gaza - Aftonbladet
-- JUST NU: Allvarlig trafikolycka på E20 – bil voltade av vägen efter kollision med husvagn - NLT
+- Israeliska hjälporganisationer: Folkmord i Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Trumps nya tidsfrist till Putin - GP
-- Malaysia: Vapenvila mellan Thailand och Kambodja - Hufvudstadsbladet
+- Flera barn till sjukhus efter olycka på E20 – bil hamnade på taket efter husvagnskollision - NLT
+- Hämndskott i Frölunda efter knivhugg i Malmö - GP
 - Hus och garage brann ned – utreds som mordbrand - Västerbottens-Kuriren
 - Rekordmånga TBE-fall – orsaken okänd - GP
 - DN Direkt - Kor på rymmen efter åskoväder - DN
-- Svalka, svenska filmer och vikingar – därför besöker turisterna Stockholm - DN
 - USA och Kina inleder tullsamtal i Stockholm - Hufvudstadsbladet
-- Trump och Starmer i Gazamöte – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Google: Fel varning inför skalvet i Turkiet - HD
+- Larm om drunkning vid Skutberget i Karlstad – person påträffad i vattnet - SVT Nyheter
+- Thailand och Kambodja är överens om vapenvila - SVT Nyheter
 - Turkiet: Flera döda i bränder - GP
 - Trump: EU får minst 15 procents tullar - Hufvudstadsbladet
-- Egenanvänd solel mer värd – särskilt för småhushåll - DN
+- Inställda flyg i Ryssland efter hackerattack - Expressen
 - Avgrundsdjup kris för vindkraften i norr: ”Ingen tjänar pengar” - Affärsvärlden
-- Även SMR-kraftverk skenar i pris – sågas - Dagens PS
-- Sälj innan bubblan spricker - Dagens industri
+- Svenska kronan fortsätter att glänsa - Tidningen Näringslivet
+- Egenanvänd solel mer värd – särskilt för småhushåll - DN
+- Stockholmsbörsen vänder till minus - SvD
 - Apple gör Ipad mer lik en Mac i Ipad OS 26 - Computer Sweden
 - Microsoft Copilot tycks redo för Open AI:s GPT-5 - PC för Alla
 
@@ -30,10 +30,10 @@ _Updated: 2025-07-28 16:50_
 - Kina föreslår global AI-samarbetsorganisation - Computer Sweden
 - PayPal Drives Crypto Payments into the Mainstream, Reducing Costs and Expanding Global Commerce - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
@@ -98,7 +98,6 @@ _Updated: 2025-07-28 16:50_
 
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Kirurgi – en oundgänglig del av global hälsa - Läkartidningen
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Episurf Medical annonserar omstruktureringsinitiativ och ökat fokus på den amerikanska marknaden - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
@@ -113,9 +112,10 @@ _Updated: 2025-07-28 16:50_
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Byter namn till TouchPoint Medical - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-07-28 16:50_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Jordbruk och landsbygdsutveckling - European Commission
-- Här är världens största jordbruk - ATL
-- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- De gick från reko till eko - ST-tidningen
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Stora anslag för innovationer i lantbruket - Lantbruksnytt
