@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-28 20:55_
+_Updated: 2025-07-28 21:41_
 
 ## Top Stories
 
 - Polska ovädret Karl-Heinz drar in – orange varning utfärdad - SVT Nyheter
 - Missnöjd Trump skärper Putins deadline - DN
 - USA och Kina inleder tullsamtal i Stockholm - Hufvudstadsbladet
-- Europa splittrat om tullavtalet: ”Vår inställning är glasklar” - SVT Nyheter
+- Nu har de kristna nationalisterna nått Washington - DN
 - Israeliska människorättsorganisationer: Israel begår folkmord i Gaza - GP
-- Trafikolycka på E20 – personbil har kört in i husvagn - GP
+- Hämndskott i Frölunda efter knivhugg i Malmö - GP
 - Onkologen: ”Palliativ behöver inte betyda vård i livets slutskede” - DN
 - Så skyddar du ditt hem mot översvämning - Sundsvalls Tidning
-- Frontalkrock i Kungsbacka – sex till sjukhus - GP
+- Kor på rymmen efter åskoväder - GP
 - Ryssland: "Vi är inte Israel eller Iran" - Expressen
 - Flera döda i skjutning i Bangkok - Aftonbladet
 - USA ska bränna preventivmedel för 100 miljoner - GP
+- Trump och Starmer i Gazamöte – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Malaysia: Vapenvila mellan Thailand och Kambodja - Hufvudstadsbladet
-- Trump håller inte med Netanyahu om svälten – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Så många svenskar tjänar en miljon kronor om året - GP
-- Kända chokladen blir mindre - GP
+- Dousa om EU:s tullavtal med USA: Gör ingen rikare - Tidningen Näringslivet
 - Luften gick ur börsen – röd triss för Saab - Dagens industri
+- Så många svenskar tjänar en miljon kronor om året - GP
 - Nordic Capital och Permira lägger bud på Bavarian Nordic - Biostock
+- Västeråsare prisas för banbrytande forskning - VLT
 - Microsoft lanserar ny AI-driven Copilot-läge för Edge-webbläsaren av Investing.com - Investing.com Sverige
-- Miljövänligt eller greenwashing– så undviker du att bli vilseledd av märkningar - Västgöta-Bladet
 
 ## World News
 
@@ -81,18 +81,18 @@ _Updated: 2025-07-28 20:55_
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
+- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Nuveen Churchill Direct Lending Corp. Schedules Second Quarter 2025 Earnings Release and Conference Call - Placera.se
-- Accord Announces First Quarter Financial Results - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Yunji Announces Changes in Management - Placera.se
 - Seacoast Completes Acquisition of Heartland Bancshares, Inc. - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
+- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - The INX Digital Company, Inc. Announces the Deposit of US$10 million in Escrow and Receipt of Approval from the Financial Industry Regulatory Authority, Inc., ("FINRA") for Change of Ownership - Placera.se
-- Tractor Supply Company Reports Second Quarter 2025 Financial Results; Reconfirms Fiscal Year 2025 Outlook - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 
 ## Health
 
@@ -102,39 +102,39 @@ _Updated: 2025-07-28 20:55_
 - Episurf Medical annonserar omstruktureringsinitiativ och ökat fokus på den amerikanska marknaden - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Lång väg till öppen vetenskap - Universitetsläraren
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Högskola, forskning och rymd - Regeringen.se
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Högskola, forskning och rymd - Regeringen.se
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
@@ -147,18 +147,18 @@ _Updated: 2025-07-28 20:55_
 - Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- Här är världens största jordbruk - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- De gick från reko till eko - ST-tidningen
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- Små jordbruk kan mätta fler - FoodMonitor
+- Här är världens största jordbruk - ATL
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
 - Stora anslag för innovationer i lantbruket - Lantbruksnytt
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
