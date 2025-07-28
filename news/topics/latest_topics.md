@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-28 07:03_
+_Updated: 2025-07-28 07:52_
 
 ## Top Stories
 
 - DN Direkt - Dousa om EU:s tullavtal med USA: Gör ingen rikare - DN
-- Frontalkrock i Kungsbacka – sex till sjukhus - GP
-- USA och Kina uppges förlänga tullpaus i Stockholm - SVT Nyheter
-- DN Direkt - Spikmatta satte stopp för drograttfull 16-åring - DN
+- Sex till sjukhus efter trafikolycka i Kungsbacka - SVT Nyheter
+- USA och Kina uppges förlänga tullpaus i Stockholm - GP
 - Polisinsats i Gävle efter misstänkt skottlossning - SVT Nyheter
-- Så bygger Malmö bort parkeringar – ruta för ruta - Sydsvenskan
 - Finsk cancerklinik lockar missnöjda svenska patienter - DN
+- När tiden var utmätt sökte Christer cancervård i Finland - DN
 - VMA i Hudiksvall: Flerbostadshus brinner - GP
-- Trafikolycka vid E22 i Karlskrona - avfart stängdes av - Sydöstran
-- Karl-Heinz på väg till Sverige – SMHI varnar - Omni
-- Nordkorea nobbar dialog med syd - Aftonbladet
-- Israel: ”Humanitära pauser” i strider inleds - Hufvudstadsbladet
-- Utrikesministern: ”Tagit emot uppgifter” om Gripen - Omni
-- Vandrade med barnen – mördades under färden - Expressen
+- 300 larm om polska cyklonen ”Karl-Heinz” – dundrar sen hit - Expressen
+- Bråk i centrala Helsingborg – en till sjukhus - HD
+- Villa och garage brinner i Norsjö – VMA utfärdat - Norran
+- Fotografen Omar al Qatta skildrar svälten i Gaza: ”Det finns inga ord” - GP
+- Tåg spårat ur i Tyskland – flera döda - UNT
+- DN Direkt - Nordkorea har ”inget intresse” av dialog med syd - DN
+- Trafikolycka i Hedemora – fyra till sjukhus - Expressen
+- Stockholmsbörsen mot plusöppning - SvD
+- Nämndeman tog emot över 400 000 kronor – idag väntas domen - SVT Nyheter
+- Uppgifter: Trump har fryst exportrestriktioner mot Kina - Dagens industri
 - Insändare: Plånboken styr även marknadshyran - sla.se
-- Tjejer pressas att skicka nakenbilder i sociala medier - Fempers Nyheter
-- Sälj innan bubblan spricker - Dagens industri
-- Avdelningschef för Development & Digital Transformation - LKAB
 - Borderlands 4 har "gått guld" inför lanseringen i september - Nordichardware
 - (+) Specialtest: Dubbel batteritid med esim i Galaxy Watch 8 Classic - mobil.se
 
@@ -41,8 +41,8 @@ _Updated: 2025-07-28 07:03_
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- 29 October 2017 is the World Psoriasis Day - NewsMachine AB
 - NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
+- 29 October 2017 is the World Psoriasis Day - NewsMachine AB
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
@@ -73,26 +73,26 @@ _Updated: 2025-07-28 07:03_
 
 ## Business
 
-- Accord Announces Banking Facility Update - Placera.se
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
-- Flower tar in över 500 miljoner i avslutad Serie A-runda - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour, Surpasses US$1 Billion in Assets Under Management - Placera.se
+- Flower tar in över 500 miljoner i avslutad Serie A-runda - Mynewsdesk
+- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
-- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Accord Announces Banking Facility Update - Placera.se
 - Seacoast Completes Acquisition of Heartland Bancshares, Inc. - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - The INX Digital Company, Inc. Announces the Deposit of US$10 million in Escrow and Receipt of Approval from the Financial Industry Regulatory Authority, Inc., ("FINRA") for Change of Ownership - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Tractor Supply Company Reports Second Quarter 2025 Financial Results; Reconfirms Fiscal Year 2025 Outlook - Placera.se
+- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
 
 ## Health
 
@@ -114,51 +114,51 @@ _Updated: 2025-07-28 07:03_
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Byter namn till TouchPoint Medical - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Lång väg till öppen vetenskap - Universitetsläraren
+- Högskola, forskning och rymd - Regeringen.se
+- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Jordbruk och landsbygdsutveckling - European Commission
+- Här är världens största jordbruk - ATL
+- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- (+) Stor undersökning av jordbruket - Arbetarskydd
+- De gick från reko till eko - ST-tidningen
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- Här är världens största jordbruk - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Framtidens jordbruk är regenerativt - greenpeace.org
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
