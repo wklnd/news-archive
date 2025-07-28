@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-28 09:46_
+_Updated: 2025-07-28 10:54_
 
 ## Top Stories
 
 - DN Direkt - Dousa om EU:s tullavtal med USA: Gör ingen rikare - DN
-- Frontalkrock i Kungsbacka – sex till sjukhus - GP
 - USA och Kina möts i Stockholm - DN
+- Frontalkrock i Kungsbacka – sex till sjukhus - GP
 - Polisinsats i Gävle efter misstänkt skottlossning - SVT Nyheter
+- Flera döda i skjutning i Bangkok - SvD
+- Biljakt i Malmö - Expressen
 - Finsk cancerklinik lockar missnöjda svenska patienter - DN
-- Så bygger Malmö bort parkeringar – ruta för ruta - Sydsvenskan
-- AI-verktyg ska hindra gängens rekryteringar - Nyheter24
 - Larmet: Kaniner är de nya sommarkatterna - GP
 - När tiden var utmätt sökte Christer cancervård i Finland - DN
-- Flerfamiljshus i lågor – Cristinas bostad drabbad - SVT Nyheter
-- Jordskred och regn orsakade tågolycka i Tyskland – tre döda - GP
-- Thailand: Flera döda efter masskjutning i Bangkok - Aftonbladet
-- WHO: ”Alarmerande nivåer" av undernäring i Gaza - Västerbottens-Kuriren
-- Google missade att varna 10 miljoner om jordskalven i Turkiet - SVT Nyheter
+- Därför väljer många Masexpressen: ”Ofta fullsatt” - Mora Tidning
+- Fotografen Omar al Qatta skildrar svälten i Gaza: ”Det finns inga ord” - GP
+- Minst tre döda i allvarlig tågolycka i Tyskland - DN
+- Google: Fel varning inför skalvet i Turkiet - Västerbottens-Kuriren
+- Fortsatt oroligt mellan Thailand och Kambodja inför samtal om eldupphör - Hufvudstadsbladet
 - Stockholmsbörsen öppnar uppåt – Astra Zeneca stiger - Dagens industri
+- Svenska kronan fortsätter att glänsa - GP
 - Tesla och Samsung i gigantiskt halvledaravtal - Ny Teknik
-- Nordic Capital och Permira lägger bud på Bavarian Nordic - Biostock
-- 30 000 svenskar i riskabel bitcoin-bubbla - Realtid
+- Skamlistan: Här är Europas sämsta flygbolag - Dagens PS
 - Microsoft Copilot tycks redo för Open AI:s GPT-5 - PC för Alla
-- Star Wars Outlaws-uppföljare sägs ha lagts på hyllan - Nordichardware
+- Fynd om liv i yttre rymden slås ner i ny Nasa-studie - Omni
 
 ## World News
 
@@ -40,7 +40,7 @@ _Updated: 2025-07-28 09:46_
 - Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - 29 October 2017 is the World Psoriasis Day - NewsMachine AB
 - NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
@@ -54,22 +54,22 @@ _Updated: 2025-07-28 09:46_
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Safe Pro Group Successfully Integrates Artificial Intelligence-Powered Landmine Detection for Drones Selected Under U.S. Army Program of Record - Placera.se
+- GITEX EUROPE 2025 - Reigniting an Open, Bold & Collaborative European Digital Economy Amidst €200bn AI Ambitions - Via TT
 - EY.ai | EY - Sverige - EY
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - RBC joins Massachusetts Institute of Technology's (MIT) CSAIL fintech research initiative on the role of AI in the future of finance - Placera.se
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft
 - Redwire Expands International Collaboration with Japanese Startup SpaceData for Artificial Intelligence and Digital Engineering Systems - Placera.se
-- Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- ZenaTech Releases Video of ZenaDrone’s IQ Nano Indoor Inventory AI Drone for US Defense and Government - Placera.se
+- Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - TDK acquires SoftEye to enable artificial intelligence within smart glasses and grow its AI ecosystem business - Placera.se
 - Trane Technologies Completes Acquisition of BrainBox AI - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
-- Motorola Solutions Introduces ‘AI Nutrition Labels,’ a First for Public Safety & Enterprise Security Products - Placera.se
 
 ## Business
 
@@ -98,6 +98,7 @@ _Updated: 2025-07-28 09:46_
 
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Kirurgi – en oundgänglig del av global hälsa - Läkartidningen
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Episurf Medical annonserar omstruktureringsinitiativ och ökat fokus på den amerikanska marknaden - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
@@ -112,10 +113,9 @@ _Updated: 2025-07-28 09:46_
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Byter namn till TouchPoint Medical - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
@@ -127,16 +127,16 @@ _Updated: 2025-07-28 09:46_
 - 5 myter om öppen vetenskap - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
 
@@ -146,19 +146,19 @@ _Updated: 2025-07-28 09:46_
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Här är världens största jordbruk - ATL
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- De gick från reko till eko - ST-tidningen
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- De gick från reko till eko - ST-tidningen
