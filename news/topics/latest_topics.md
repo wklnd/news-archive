@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-28 15:57_
+_Updated: 2025-07-28 16:50_
 
 ## Top Stories
 
-- Missnöjd Trump skärper Putins deadline - DN
 - Polska ovädret Karl-Heinz drar in – orange varning utfärdad - SVT Nyheter
-- Israeliska människorättsorganisationer: Israel begår folkmord i Gaza - GP
-- USA och Kina inleder tullsamtal i Stockholm - Hufvudstadsbladet
+- Israeliska hjälporganisationer: Folkmord i Gaza - Aftonbladet
+- JUST NU: Allvarlig trafikolycka på E20 – bil voltade av vägen efter kollision med husvagn - NLT
+- Trumps nya tidsfrist till Putin - GP
+- Malaysia: Vapenvila mellan Thailand och Kambodja - Hufvudstadsbladet
 - Hus och garage brann ned – utreds som mordbrand - Västerbottens-Kuriren
-- Kor på rymmen efter åskoväder - Aftonbladet
+- Rekordmånga TBE-fall – orsaken okänd - GP
+- DN Direkt - Kor på rymmen efter åskoväder - DN
 - Svalka, svenska filmer och vikingar – därför besöker turisterna Stockholm - DN
-- Stor oro då finländskt vårdbolag öppnar i Sverige - Hufvudstadsbladet
-- Frontalkrock i Kungsbacka – sex till sjukhus - GP
-- Politiker och nämndeman döms för narkotikabrott - Sundsvalls Tidning
-- Thailand och Kambodja är överens om vapenvila - SVT Nyheter
-- Chatt: Ställ din fråga till nationalekonomen om tullar - SVT Nyheter
-- Masskjutning i Bangkok – flera döda - Aftonbladet
-- Google missade varna miljoner – 55 000 dog i jordbävning - Aftonbladet
+- USA och Kina inleder tullsamtal i Stockholm - Hufvudstadsbladet
+- Trump och Starmer i Gazamöte – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Google: Fel varning inför skalvet i Turkiet - HD
+- Turkiet: Flera döda i bränder - GP
+- Trump: EU får minst 15 procents tullar - Hufvudstadsbladet
 - Egenanvänd solel mer värd – särskilt för småhushåll - DN
 - Avgrundsdjup kris för vindkraften i norr: ”Ingen tjänar pengar” - Affärsvärlden
 - Även SMR-kraftverk skenar i pris – sågas - Dagens PS
-- Svenska kronan fortsätter att glänsa - Tidningen Näringslivet
-- Star Wars Outlaws-uppföljare sägs ha lagts på hyllan - Nordichardware
-- Rykte: Iphone 17 Pro kan få oväntade kameranyheter - Omni
+- Sälj innan bubblan spricker - Dagens industri
+- Apple gör Ipad mer lik en Mac i Ipad OS 26 - Computer Sweden
+- Microsoft Copilot tycks redo för Open AI:s GPT-5 - PC för Alla
 
 ## World News
 
