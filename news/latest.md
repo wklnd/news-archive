@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-07-28 15:26_
+_Updated: 2025-07-28 16:00_
 
-- Trump lands trade deal with EU. And, Pete Buttigieg on what's next for Democrats - NPR
-- Thailand and Cambodia agree to 'immediate and unconditional ceasefire' - BBC
+- What's in Trump's trade deal with Europe? - Reuters
+- Trump says he's giving Russia less than two weeks to reach peace deal with Ukraine - CNBC
+- Trump rejects Netanyahu's claim that kids in Gaza aren't starving - Axios
 - Donald Trump meets UK prime minister Keir Starmer in Scotland – US politics live - The Guardian
+- Thailand and Cambodia agree to 'immediate and unconditional ceasefire' - BBC
 - Israel allows new aid into starving Gaza under military pauses - NBC News
-- Venezuelans describe being beaten, sexually assaulted and told to 'commit suicide' during El Salvador detention - NBC News
-- NATO aircraft scrambled during major Russian drone, missile strike on Ukraine - ABC News
 - See timeline of Traverse City Walmart stabbing attack, suspect to be charged with terrorism - MLive.com
-- North Korea calls South Korea's peace overtures 'great miscalculation' - Reuters
+- Venezuelans describe being beaten, sexually assaulted and told to 'commit suicide' during El Salvador detention - NBC News
 - Why it took Arkansas State Police 6 hours to release information on wanted suspect after Devil's Den double homicide - 5newsonline.com
-- Passengers evacuate smoking jet at Denver airport after apparent landing gear problem - PBS
-- Ministers gather at UN for delayed meeting on Israel, Palestinians - Reuters
+- North Korea: Kim Jong Un's sister rejects South's overtures - DW
+- What to expect, and what not to, at the UN meeting on an Israel-Palestinian two-state solution - AP News
 - Five people killed in shooting at market in Thailand’s Bangkok - Al Jazeera
-- U.S. and China Meet as Trade Truce Nears Expiration - The New York Times
+- Ex-US humanitarian envoy pans Israeli claim UN allowing aid to amass on Gaza border - The Times of Israel
 - Dozens of Wildfires Burn in Greece and Turkey as Temperatures Soar - The New York Times
-- Samsung to Make Tesla AI Chips in Multiyear Texas Deal - Bloomberg.com
-- UnitedHealth Grew to Be a Leviathan. Then Came the Backlash. - The New York Times
+- S&P 500 opens little changed after U.S.-EU trade deal as traders brace for big market week ahead: Live updates - CNBC
+- Brussels accuses China’s Temu of breaking EU digital rules - Financial Times
+- Samsung to Make Tesla AI Chips in Multiyear Texas Deal - Bloomberg
 - Amazon, Apple, Visa, Meta, Fed, Inflation, Jobs, and More to Watch This Week - Barron's
-- Stock Market Today: Dow Rises On Trump Trade News; Tesla Rallies On Chip Deal (Live Coverage) - Investor's Business Daily
-- Rumor: iPhone 17 Pro could have three unexpected camera upgrades - 9to5Mac
-- Google Pixel 10 Pro Fold: News, rumors, release date, and pricing - Android Police
+- Samsung is making a massive change to One UI release strategy - SamMobile
+- Here are the laptops I’d tell any parent to consider for their back-to-school student - The Verge
