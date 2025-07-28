@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-07-28 21:49_
+_Updated: 2025-07-28 22:54_
 
-- France Criticizes E.U.’s Trade Deal With Trump - The New York Times
+- What's in Trump's trade agreement with the European Union? - ABC News
 - Trump acknowledges ‘real starvation’ in Gaza and tells Israel to let in ‘every ounce of food’ - The Guardian
+- A frustrated Trump gives more details on his relationship with Epstein, as the scandal follows him abroad - CNN
 - Tampa Hits 100 Degrees for the First Time as Heat Grips the Southeast - The New York Times
-- US-China talks restart as hopes grow for trade war truce extension - BBC
-- 'Lives lost' after shooter opens fire outside Reno casino; suspect in custody, authorities say - ABC7 Los Angeles
-- Trump says he turned down visit to Epstein's island - Axios
-- Hospital updates conditions of victims in Traverse City Walmart stabbing - ClickOnDetroit | WDIV Local 4
+- Trump says he’s shortening the 50-day deadline for Russia to end the war in Ukraine - AP News
+- Two people killed, several others wounded in shooting at Reno casino - Los Angeles Times
+- Man was wanted by authorities in nearby county day before mass stabbing in Walmart - MLive.com
+- Another Trump clash with the courts is already spinning out into criminal cases - Politico
 - Former Democratic Gov. Roy Cooper will run for the US Senate in North Carolina in 2026 - AP News
-- Alina Habba’s authority as New Jersey’s top prosecutor questioned in new legal filing - Politico
-- Couple murdered while hiking in Arkansas ID'd; police update suspect description - USA Today
-- Thailand and Cambodia agree to 'immediate and unconditional ceasefire' - BBC
-- In a First, Leading Israeli Rights Groups Accuse Israel of Gaza Genocide - The New York Times
+- Amid violent weekend, Sweet Auburn shooting leaves 1 dead, 10 injured - AJC.com
+- Two Israeli human rights groups say their country is committing genocide in Gaza - NPR
+- Cambodia and Thailand agree ceasefire to end border fighting - Financial Times
 - Police say 3 killed, 10 injured in the Turks and Caicos Islands’ first mass shooting - CNN
-- Investigation: How American trucks end up in Russia launching kamikaze drones - The Kyiv Independent
-- Stocks dip, retreating from record highs hit after EU trade deal - Reuters
-- Samsung to Make Tesla AI Chips in Multiyear Texas Deal - Bloomberg.com
-- UnitedHealth's stock has been cut in half. Is it still a good deal? - Star Tribune
+- Investigation: Despite sanctions, American trucks are being used by Russia to launch kamikaze drones - The Kyiv Independent
+- S&P 500 closes little changed as EU trade deal fails to spark rally: Live updates - CNBC
+- UnitedHealth investors may seek roadmap on costs as Hemsley takes center stage - Yahoo Finance
 - JPMorgan says fintech middlemen like Plaid are ‘massively taxing’ its systems with unnecessary pings - CNBC
+- Elon Musk is going founder mode on Tesla's $16.5 billion chip deal with Samsung - Business Insider
+- A New iPhone 17 Rumor Suggests a Substantial Camera Upgrade to the Pro and Pro Max Is Coming - IGN
 - Here's how Samsung is speeding up software updates for Galaxy devices - Android Authority
-- Google Pixel grows in US, settling into top 4 spot ahead of Pixel 10 launch - 9to5Google
