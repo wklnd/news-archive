@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-07-28 11:00_
+_Updated: 2025-07-28 11:54_
 
 - Stock futures rise as U.S.-EU trade deal kicks off a hectic week for markets: Live updates - CNBC
-- Israel pauses attacks in some of Gaza to allow limited aid, as global criticism grows - NPR
-- Cambodian and Thai leaders hold ceasefire talks in Malaysia as border violence enters fifth day - AP News
+- U.S. Diplomats Will Join Thailand-Cambodia Cease-Fire Talks, Rubio Says - The New York Times
+- Obama calls for action to stop ‘preventable starvation’ in Gaza - The Hill
 - 2 people found dead along Arkansas hiking trail in a suspected homicide, officials say - CBS News
-- Trump to meet Starmer in Ayrshire after agreeing US-EU trade deal - BBC
-- Medical groups are concerned that RFK Jr. may dismiss a panel of primary care experts - NPR
+- NATO aircraft scrambled during major Russian drone, missile strike on Ukraine - ABC News
 - See timeline of Traverse City Walmart stabbing attack, suspect to be charged with terrorism - MLive.com
-- North Korea calls South Korea's peace overtures 'great miscalculation' - Reuters
+- Kim Jong Un’s sister rejects outreach by South Korea’s new president - AP News
 - Justice Dept. shuts down dark web child abuse sites that had 120,000 members and millions of files - CBS News
 - Photos: Protesters rally with bagpipes and pointed signs as Trump visits Scotland - Axios
+- NYC mayoral hopeful Mamdani faces sharp jabs from within South Asian community - Gothamist
 - Greece: Wildfires continue to burn with danger mounting - DW
-- U.S. and China Meet as Trade Truce Nears Expiration - The New York Times
-- ADF in DR Congo: IS-linked rebels accused of killing Christian worshippers in Komanda - BBC
-- Five killed as Ukraine and Russia trade drone attacks - BBC
-- A Data Deluge Brings a ‘Moment of Truth’ for Markets This Week - Bloomberg.com
-- Musk says Tesla, Samsung Electronics sign $16.5 billion chip supply deal - Reuters
+- US-China talks to restart as hopes grow for trade war truce extension - BBC
+- Russia's drone attack on Kyiv leaves 8 people injured, including 3-year-old - The Kyiv Independent
+- "It’s high time" for Ukraine’s tanks as Russia encircles Pokrovsk - Euromaidan Press
+- Fed Is Set for Contentious Debate as Investors Eye Fall Rate Cut - Bloomberg.com
 - CK Hutchison to invite ‘major’ Chinese investor for $23bn Panama ports deal - Financial Times
-- Asia stocks dither as U.S. trade deadline nears; Nikkei dips as BOJ decision looms - Investing.com
+- Euro gains as investors cautiously welcome US-EU trade deal - Reuters
+- Chinese AI firms form alliances to build domestic ecosystem amid US curbs - Reuters
 - Rumor: iPhone 17 Pro could have three unexpected camera upgrades - 9to5Mac
-- Say goodbye to your custom ROMs as One UI 8 kills bootloader unlock - SamMobile
+- One of the hottest new browsers is also the best thing that's happened to my YouTube experience - Android Authority
