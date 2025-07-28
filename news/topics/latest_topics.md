@@ -1,38 +1,39 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-28 15:21_
+_Updated: 2025-07-28 15:57_
 
 ## Top Stories
 
 - Missnöjd Trump skärper Putins deadline - DN
-- Israeliska människorättsgrupper: Kriget i Gaza är ett folkmord - DN
-- SMHI varnar för Karl-Heinz – så drabbar regnet Stockholm - Mitt i
+- Polska ovädret Karl-Heinz drar in – orange varning utfärdad - SVT Nyheter
+- Israeliska människorättsorganisationer: Israel begår folkmord i Gaza - GP
 - USA och Kina inleder tullsamtal i Stockholm - Hufvudstadsbladet
-- Så mycket kostar en natt i Göteborgs gästhamnar - GP
+- Hus och garage brann ned – utreds som mordbrand - Västerbottens-Kuriren
 - Kor på rymmen efter åskoväder - Aftonbladet
-- Rekordmånga TBE-fall – orsaken okänd - GP
 - Svalka, svenska filmer och vikingar – därför besöker turisterna Stockholm - DN
-- AI-verktyg ska hindra gängens rekryteringar - Barometern-OT
-- När tiden var utmätt sökte Christer cancervård i Finland - DN
+- Stor oro då finländskt vårdbolag öppnar i Sverige - Hufvudstadsbladet
+- Frontalkrock i Kungsbacka – sex till sjukhus - GP
+- Politiker och nämndeman döms för narkotikabrott - Sundsvalls Tidning
 - Thailand och Kambodja är överens om vapenvila - SVT Nyheter
-- Juri von Bonsdorff Världen dansar efter Trumps pipa – igen - Hufvudstadsbladet
-- Flera döda i skjutning i Bangkok - Aftonbladet
-- Google: Fel varning inför skalvet i Turkiet - Västerbottens-Kuriren
+- Chatt: Ställ din fråga till nationalekonomen om tullar - SVT Nyheter
+- Masskjutning i Bangkok – flera döda - Aftonbladet
+- Google missade varna miljoner – 55 000 dog i jordbävning - Aftonbladet
 - Egenanvänd solel mer värd – särskilt för småhushåll - DN
-- Svenska kronan fortsätter att glänsa - Tidningen Näringslivet
 - Avgrundsdjup kris för vindkraften i norr: ”Ingen tjänar pengar” - Affärsvärlden
-- Sälj innan bubblan spricker - Dagens industri
+- Även SMR-kraftverk skenar i pris – sågas - Dagens PS
+- Svenska kronan fortsätter att glänsa - Tidningen Näringslivet
 - Star Wars Outlaws-uppföljare sägs ha lagts på hyllan - Nordichardware
 - Rykte: Iphone 17 Pro kan få oväntade kameranyheter - Omni
 
 ## World News
 
 - Kina föreslår global AI-samarbetsorganisation - Computer Sweden
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- PayPal Drives Crypto Payments into the Mainstream, Reducing Costs and Expanding Global Commerce - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
@@ -42,10 +43,9 @@ _Updated: 2025-07-28 15:21_
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Introducing PayPal World: a global platform connecting the world's largest payment systems and digital wallets, starting with interoperability to PayPal and Venmo - Placera.se
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - Chefsekonom: Handelsavtalet med USA är ”en helt ny era” - Omni
-- Suntory Global Spirits chooses Globant to build a Commercial Insights AI Agent and unlock Business Intelligence at Scale - Placera.se
+- Introducing PayPal World: a global platform connecting the world's largest payment systems and digital wallets, starting with interoperability to PayPal and Venmo - Placera.se
 - ebp Global acquires Sustaina Company - Via TT
 
 ## Technology
@@ -73,26 +73,26 @@ _Updated: 2025-07-28 15:21_
 
 ## Business
 
+- Accord Announces Banking Facility Update - Placera.se
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
-- DeFi Technologies' Subsidiary Valour, Surpasses US$1 Billion in Assets Under Management - Placera.se
 - Flower tar in över 500 miljoner i avslutad Serie A-runda - Mynewsdesk
+- DeFi Technologies' Subsidiary Valour, Surpasses US$1 Billion in Assets Under Management - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
-- DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Nuveen Churchill Direct Lending Corp. Schedules Second Quarter 2025 Earnings Release and Conference Call - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Accord Announces First Quarter Financial Results - Placera.se
-- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- Accord Announces Banking Facility Update - Placera.se
 - Seacoast Completes Acquisition of Heartland Bancshares, Inc. - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
+- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - The INX Digital Company, Inc. Announces the Deposit of US$10 million in Escrow and Receipt of Approval from the Financial Industry Regulatory Authority, Inc., ("FINRA") for Change of Ownership - Placera.se
-- Tractor Supply Company Reports Second Quarter 2025 Financial Results; Reconfirms Fiscal Year 2025 Outlook - Placera.se
-- DeFi Technologies Reports All-Time High in Bitcoin Assets Under Management and Treasury Holdings - Placera.se
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 
 ## Health
 
