@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-07-28 04:55_
+_Updated: 2025-07-28 06:33_
 
-- For Trump, E.U. Trade Deal was Badly Needed - The New York Times
+- Stock futures rise as U.S.-EU trade deal kicks off a hectic week for markets: Live updates - CNBC
 - Couple slain while hiking with daughters in Arkansas state park, police say - NBC News
-- Prosecutor to seek terrorism charge against Traverse City Walmart mass stabbing suspect - The Detroit News
 - Israel pauses attacks in some of Gaza to allow limited aid, as global criticism grows - NPR
-- Scotland protests Trump – with wit, bite and bagpipes - The Washington Post
-- Rep. Ralph Norman announces bid for South Carolina governor - NBC News
+- With Bombs Whizzing in Air, Thousands Flee Thailand-Cambodia Border - The New York Times
+- Prosecutor to seek terrorism charge against Traverse City Walmart mass stabbing suspect - The Detroit News
+- Medical groups are concerned that RFK Jr. may dismiss a panel of primary care experts - NPR
 - Justice Dept. shuts down dark web child abuse sites that had 120,000 members and millions of files - CBS News
-- Severe thunderstorm watch: Storms explode, will they rip through Twin Cities? - Bring Me The News
+- Photos: Protesters rally with bagpipes and pointed signs as Trump visits Scotland - Axios
+- NYC mayoral hopeful Mamdani faces sharp jabs from within South Asian community - Gothamist
 - ‘A nightmare that no one wants’: GOP fears Mastriano’s down-ballot drag in Pennsylvania - Politico
-- Massie Criticizes Johnson on Recess as He Tries to Force Epstein Files Vote - The New York Times
-- Asia-Pacific markets trade mixed as traders await details of U.S-China talks - CNBC
-- At Trump’s Urging, Thailand and Cambodia to Meet for Cease-Fire Talks - The New York Times
-- Greece: Wildfires continue to burn with danger mounting - dw.com
-- Three people killed in train crash in Germany, police say - Reuters
-- Pressure Mounts on Fed Chief Powell in Tee Up to GDP, Jobs Data - Bloomberg.com
-- Boeing’s fighter jet workers in the St. Louis area reject a contract offer - AP News
-- White House presses Fed for ‘dramatically lower’ rates as meeting looms - Financial Times
+- US, China to launch new talks on tariff truce extension, easing path for Trump-Xi meeting - Reuters
+- Greece: Wildfires continue to burn with danger mounting - DW
+- Ex-US humanitarian envoy pans Israeli claim that UN allowing aid to amass on Gaza border - The Times of Israel
+- Trump: Israel will ‘have to make decision’ on Gaza war, images of starvation ‘terrible’ - The Times of Israel
+- CK Hutchison Says May Invite China Investor to Join Port Deal - Bloomberg.com
 - Delta co-pilot arrested at SFO after federal agents ‘stormed the cockpit’ - San Francisco Chronicle
-- Itch.io is the latest marketplace to crack down on adult games - TechCrunch
-- Developer Shows Off The Potential Of iOS 26's Liquid Glass Effect On Apps - bgr.com
+- Meet the boomer homeowners who are sitting on their valuable properties because of a tax they hope is on the way out - Business Insider
+- White House presses Fed for ‘dramatically lower’ rates as meeting looms - Financial Times
+- iOS 26 adds new Liquid Glass icons — here's how to transform your iPhone homescreen - Tom's Guide
+- Google admits it failed to warn 10 million of Turkey earthquake - BBC
