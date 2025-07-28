@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-07-28 19:52_
+_Updated: 2025-07-28 20:59_
 
+- Trump acknowledges ‘real starvation’ in Gaza and tells Israel to let in ‘every ounce of food’ - The Guardian
 - France Criticizes E.U.’s Trade Deal With Trump - The New York Times
-- Donald Trump says Russia has 10 to 12 days to agree ceasefire in Ukraine - Financial Times
-- Gaza experiencing 'real starvation', Donald Trump says - BBC
 - Heat indices could hit 120 as sweltering temperatures grip eastern half of US - ABC News
-- Multiple people reportedly shot at casino in Reno, Nevada - The Guardian
-- Trump reiterates that he has the authority to pardon Ghislaine Maxwell - Politico
-- Emmet County deputies searched for Walmart stabbing suspect day before attack - WPBN
+- Donald Trump says Russia has 10 to 12 days to agree ceasefire in Ukraine - Financial Times
 - Couple murdered while hiking in Arkansas ID'd; police update suspect description - USA Today
-- Roy Cooper officially launches North Carolina Senate bid - Politico
-- Maps: Tracking Hurricane Iona - The New York Times
-- Thailand and Cambodia agree to ceasefire. What's behind the conflict? - NPR
-- Middle East updates: Israel says 120 aid trucks enter Gaza - DW
-- Heavy Rain Likely Caused Deadly German Train Derailment, Investigators Say - The New York Times
-- Britain ‘revolted’ by Gaza hunger, Starmer tells Trump - politico.eu
-- US LNG producers climb as EU agrees to $750 billion in energy purchases - Reuters
-- Samsung to Make Tesla AI Chips in Multiyear Texas Deal - Bloomberg
-- Dollar Climbs on US-EU Deal as Eyes on China Talks: Markets Wrap - Yahoo Finance
-- UnitedHealth faces critical test as Q2 results loom (UNH:NYSE) - Seeking Alpha
-- Apple's MacBook Air M4 is on sale for a record-low price - Engadget
+- 'Lives lost' after shooter opens fire outside Reno casino; suspect in custody, authorities say - ABC7 Los Angeles
+- Ex-officer who mistook a Black man's keys and phone for a gun gets 15 years to life for murder - AP News
+- Suspect in Traverse City Walmart Stabbing Attack Faces Terrorism Charge (Gift Article) - The New York Times
+- Amid violent weekend, Sweet Auburn shooting leaves 1 dead, 10 injured - AJC.com
+- Alina Habba’s authority as New Jersey’s top prosecutor questioned in new legal filing - Politico
+- Thailand and Cambodia agree to 'immediate and unconditional ceasefire' - BBC
+- In a First, Leading Israeli Rights Groups Accuse Israel of Gaza Genocide - The New York Times
+- 'I don't know': Trump says of Netanyahu denying Gaza starvation crisis - ABC News
+- Police say 3 killed, 10 injured in the Turks and Caicos Islands’ first mass shooting - CNN
+- Samsung to Make Tesla AI Chips in Multiyear Texas Deal - Bloomberg.com
+- UnitedHealth's stock has been cut in half. Is it still a good deal? - Star Tribune
+- JPMorgan spooks fintechs with plans to charge for access to customer data - Financial Times
+- Chipotle is offering free guacamole for a year to thousands of fans.... here's how to get it - Daily Mail
 - Google Pixel grows in US, settling into top 4 spot ahead of Pixel 10 launch - 9to5Google
+- Seriously, Why Do Some AI Chatbot Subscriptions Cost More Than $200? - WIRED
