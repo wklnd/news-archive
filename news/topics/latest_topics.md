@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-29 09:46_
+_Updated: 2025-07-29 10:54_
 
 ## Top Stories
 
-- Orange varning utfärdad – så länge varar regnet - DN
-- Skottlossning i skyskrapa på Manhattan – fyra döda - GP
+- Ovädret Karl-Heinz skapar kaos i trafiken - Mitt i
+- Skänkt mat säljs i Gaza – till skyhöga priser – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - ”Ryssarna gjorde allt rätt – deras enda misstag var att inte räkna med motstånd” - DN
-- Förskola i Moheda byggs om – familjen vill starta bed and breakfast - Smålandsposten
-- Ukraina: Minst 17 döda i attack mot fängelse - GP
-- Riven kontaktledning orsakade stopp i tågtrafiken - SVT Nyheter
+- Ukraina: Minst 20 döda i ryska attacker - Västerbottens-Kuriren
+- Elina satt fast i timmar på tåget - GP
+- Flera ihjälskjutna i skyskrapa på Manhattan - Hufvudstadsbladet
 - Fler män anmäler våldtäkt - GP
 - Israeliska människorättsgrupper: Kriget i Gaza är ett folkmord - DN
-- Flygplan omdirigerat från Arlanda - Aftonbladet
+- Flyg omdirigerat från Arlanda - Expressen
 - USA och Kina inleder tullsamtal i Stockholm - Hufvudstadsbladet
-- Skänkt mat säljs i Gaza – till skyhöga priser – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Thailand: Kambodja bröt vapenvilan - DN
+- Norskt fjäll rör sig – vandrare varnas - SvD
+- Skänkt mat säljs i Gaza – till skyhöga priser - Västerbottens-Kuriren
 - Många döda i bussolycka i Indien - GP
-- Skänkt mat säljs i Gaza – till skyhöga priser - DN
 - Klas Eklund sågar tullavtalet: ”Jag ser inga vinster alls” - Tidningen Näringslivet
 - Svensk BNP sämre än väntat - Dagens industri
-- Tesla vinnare på stillsam USA-börs - GP
-- Stockholmsbörsen öppnar svagt uppåt - Aftonbladet
-- Augusti – bästa tiden att lyckas med nya vanor - Borås Tidning
+- Avslöjat: Bilföretagen fuskar med utsläppen – slipper böter - Dagens PS
+- AstraZeneca – värt att byta mot en annan spelare? - Kronan till Miljonen
+- Läcka: Så blir Samsung Galaxy S26 Ultra - mobil.se
 - Steam testar helt nytt utseende - m3.se
 
 ## World News
 
 - Kina föreslår global AI-samarbetsorganisation - Computer Sweden
-- PayPal Drives Crypto Payments into the Mainstream, Reducing Costs and Expanding Global Commerce - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
-- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Techarenan News goes English (Partly at least) - Techarenan.news
+- Venture Global Announces Final Investment Decision and Financial Close for Phase 1 of CP2 LNG - Placera.se
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Venture Global Announces Final Investment Decision and Financial Close for Phase 1 of CP2 LNG - Placera.se
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Europcar Mobility Group Chooses OpenText to Deliver Global E-Invoicing Compliance - Placera.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- ebp Global acquires Sustaina Company - Via TT
-- Warner Bros. Discovery Announces Post-Separation Company Names and Leadership Appointments - Placera.se
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Warner Bros. Discovery Announces Post-Separation Company Names and Leadership Appointments - Placera.se
+- ebp Global acquires Sustaina Company - Via TT
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 
 ## Technology
 
@@ -54,6 +54,7 @@ _Updated: 2025-07-29 09:46_
 - Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
 - Safe Pro Group Successfully Integrates Artificial Intelligence-Powered Landmine Detection for Drones Selected Under U.S. Army Program of Record - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -61,12 +62,11 @@ _Updated: 2025-07-29 09:46_
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft
 - RBC joins Massachusetts Institute of Technology's (MIT) CSAIL fintech research initiative on the role of AI in the future of finance - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Redwire Expands International Collaboration with Japanese Startup SpaceData for Artificial Intelligence and Digital Engineering Systems - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - ZenaTech Releases Video of ZenaDrone’s IQ Nano Indoor Inventory AI Drone for US Defense and Government - Placera.se
-- Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - TDK acquires SoftEye to enable artificial intelligence within smart glasses and grow its AI ecosystem business - Placera.se
 - Trane Technologies Completes Acquisition of BrainBox AI - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
@@ -122,23 +122,23 @@ _Updated: 2025-07-29 09:46_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Högskola, forskning och rymd - Regeringen.se
-- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
 
 ## Jordbruk
 
@@ -146,19 +146,19 @@ _Updated: 2025-07-29 09:46_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk är regenerativt - greenpeace.org
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Stora anslag för innovationer i lantbruket - Lantbruksnytt
