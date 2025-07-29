@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-29 11:49_
+_Updated: 2025-07-29 12:50_
 
 ## Top Stories
 
-- Då begravs Ozzy Osbourne - GAFFA.se
+- Stormen Karl-Heinz drar in: Så blir vädret i Finland - Hufvudstadsbladet
 - Skänkt mat säljs i Gaza – till skyhöga priser – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Ovädret ”Karl-Heinz” slår mot trafik och flyg - GP
+- Utredning efter hängda dockorna i Umeå läggs ner - DN
+- Man döms för mord på öppen gata i Malmö - Aftonbladet
 - Ukraina: Minst 20 döda i ryska attacker - Västerbottens-Kuriren
-- Fällande dom i målet om mord på Rosengård - Sveriges Domstolar
-- ”Ryssarna gjorde allt rätt – deras enda misstag var att inte räkna med motstånd” - DN
-- Fler män anmäler våldtäkt - GP
-- Israeliska människorättsgrupper: Kriget i Gaza är ett folkmord - DN
-- Förbudet upphör - Allehanda.se
-- Onkologen: ”Palliativ behöver inte betyda vård i livets slutskede” - DN
 - Thailand: Kambodja bröt vapenvilan - GP
-- Flera ihjälskjutna i skyskrapa på Manhattan - Hufvudstadsbladet
+- Israeliska människorättsorganisationer: Israel begår folkmord i Gaza - GP
+- Fler män anmäler våldtäkt - Västerbottens-Kuriren
+- Svensk tyckte sig få dödsdom – sökte vård i Finland - Hufvudstadsbladet
+- Kristersson: Vill hjälpa globala handeln - DN
+- Le Pen betalar tillbaka ”fuskpengar” till EU - GP
 - Norskt fjäll rör sig – vandrare varnas - SvD
-- Många döda i bussolycka i Indien - Sydsvenskan
+- Skänkt mat säljs i Gaza – till skyhöga priser - DN
+- Många döda i bussolycka i Indien - Västerbottens-Kuriren
+- Erik Magnusson Välkommen till Du Sköna Nya Maga-värld – nu stöttar vi alla Trumps politik - Sydsvenskan
 - Svensk BNP sämre än väntat - Dagens industri
 - Investerare flockas till katastrofobligationer: “En börskrasch utlöser inte en orkan” - Affärsvärlden
 - Avslöjat: Bilföretagen fuskar med utsläppen – slipper böter - Dagens PS
-- Klas Eklund sågar tullavtalet: ”Jag ser inga vinster alls” - Tidningen Näringslivet
 - Läcka: Så blir Samsung Galaxy S26 Ultra - mobil.se
-- Insta360 startar "Antigravity" – ska förenkla drönarfilmning - Kamera & Bild
+- Apple lanserar en ny bakgrundsbildgenerator - Macworld.se
 
 ## World News
 
 - Kina föreslår global AI-samarbetsorganisation - Computer Sweden
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Venture Global Announces Final Investment Decision and Financial Close for Phase 1 of CP2 LNG - Placera.se
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
-- Venture Global Announces Final Investment Decision and Financial Close for Phase 1 of CP2 LNG - Placera.se
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Europcar Mobility Group Chooses OpenText to Deliver Global E-Invoicing Compliance - Placera.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Warner Bros. Discovery Announces Post-Separation Company Names and Leadership Appointments - Placera.se
 - ebp Global acquires Sustaina Company - Via TT
+- Warner Bros. Discovery Announces Post-Separation Company Names and Leadership Appointments - Placera.se
 - Introducing PayPal World: a global platform connecting the world's largest payment systems and digital wallets, starting with interoperability to PayPal and Venmo - Placera.se
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 
 ## Technology
 
@@ -59,8 +59,8 @@ _Updated: 2025-07-29 11:49_
 - Safe Pro Group Successfully Integrates Artificial Intelligence-Powered Landmine Detection for Drones Selected Under U.S. Army Program of Record - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- SMCI Stock Analysis: What Drives Super Micro Computer Inc. Stock Price? - Markets.com
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft
 - RBC joins Massachusetts Institute of Technology's (MIT) CSAIL fintech research initiative on the role of AI in the future of finance - Placera.se
 - Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Redwire Expands International Collaboration with Japanese Startup SpaceData for Artificial Intelligence and Digital Engineering Systems - Placera.se
@@ -98,24 +98,24 @@ _Updated: 2025-07-29 11:49_
 
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Kirurgi – en oundgänglig del av global hälsa - Läkartidningen
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Episurf Medical annonserar omstruktureringsinitiativ och ökat fokus på den amerikanska marknaden - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Byter namn till TouchPoint Medical - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
 ## Science
 
@@ -144,21 +144,21 @@ _Updated: 2025-07-29 11:49_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Stora anslag för innovationer i lantbruket - Lantbruksnytt
