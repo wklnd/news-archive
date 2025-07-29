@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-29 21:41_
+_Updated: 2025-07-29 22:47_
 
 ## Top Stories
 
-- ”Stanna hemma” – Ovädret Karl-Heinz drar in över Sverige – följ SVT:s liverapportering - SVT Nyheter
-- USA och Kina fortsätter samtal om förlängd tullpaus - DN
+- SMHI utfärdar varning för skyfall i östra Värmland - SVT Nyheter
+- USA och Kina kan förlänga tullpaus - DN
 - Därför står lastbilar med nödhjälp stilla i Gaza - GP
 - Ukraina: Minst 25 döda i ryska attacker - GP
-- Experten: Därför tar Ryssland inte Trumps hot på allvar - GP
-- Folkrättsprofessor: Trump har underblåst folkmord i Gaza - DN
-- En död och en skadad efter trafikolycka i Näshulta - SVT Nyheter
+- Svenska läkaren: Regeringen medskyldig till Gazas kris - SVT Nyheter
+- EU överväger sanktioner mot Israel – slår mot uppstartsföretag - DN
+- Tusentals döda fiskar hittade i Bölarpsån - laholmstidning.se
+- Man död efter trafikolycka i Eskilstuna - GP
 - DN Direkt - Lundsberg skola anmäld för rap battle om Hitler - DN
-- Sjukhusläkarna till regeringen: ”Ge oss chans att rädda liv i Gaza” - DN
 - Stänger av alla fartkameror efter nya regler - Carup.se
-- Storbritannien kan erkänna Palestina som stat - DN
+- Storbritannien erkänner Palestina – om Israel inte uppfyller krav - SVT Nyheter
 - Varningen: Europas vägnät klarar inte rysk attack - DN
+- FN-domstol: Ingen frigivning för ”Slaktaren i Bosnien” - DN
 - Cyberattack stoppar ryska flyg - Hufvudstadsbladet
-- Thailand: Kambodja bröt vapenvilan - DN
 - Håkan Boström: Frihandel fungerar bäst när det är vackert väder - GP
 - Teknikfel på Stockholmsbörsen – handel dras tillbaka - Dagens industri
 - Spotify ökade rörelseresultatet men mindre än väntat - aktien faller (uppdatering 2) - Placera.se
-- Novo Nordisk faller fritt på börsen efter sänkt prognos - EFN
+- Novo Nordisk appoints Mike Doustdar as new CEO - Life Science Sweden
 - Håll Sverige Rent gästar Örebro Stadsfestival - Örebronyheter
 - Hoppet släckt om liv på avlägsen planet - Aftonbladet
 
@@ -55,16 +55,16 @@ _Updated: 2025-07-29 21:41_
 - Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
 - Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- GITEX EUROPE 2025 - Reigniting an Open, Bold & Collaborative European Digital Economy Amidst €200bn AI Ambitions - Via TT
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
 - Safe Pro Group Successfully Integrates Artificial Intelligence-Powered Landmine Detection for Drones Selected Under U.S. Army Program of Record - Placera.se
+- Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
 - RBC joins Massachusetts Institute of Technology's (MIT) CSAIL fintech research initiative on the role of AI in the future of finance - Placera.se
 - Redwire Expands International Collaboration with Japanese Startup SpaceData for Artificial Intelligence and Digital Engineering Systems - Placera.se
-- Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - TDK acquires SoftEye to enable artificial intelligence within smart glasses and grow its AI ecosystem business - Placera.se
 - Trane Technologies Completes Acquisition of BrainBox AI - Placera.se
@@ -152,13 +152,13 @@ _Updated: 2025-07-29 21:41_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Här är världens största jordbruk - ATL
+- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - De gick från reko till eko - ST-tidningen
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Framtidens jordbruk blir digitalt - Lantbruksnytt
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
