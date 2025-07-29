@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-29 23:43_
+_Updated: 2025-07-30 00:47_
 
 ## Top Stories
 
-- SMHI utfärdar varning för skyfall i östra Värmland - SVT Nyheter
+- Risk för försäkringssmäll i spåren av Karl-Heinz - Dagens industri
 - Ukraina: Minst 25 döda i ryska attacker - GP
-- 30 döda i centrala Gaza – 60 000 under kriget - Västerbottens-Kuriren
-- USA och Kina fortsätter samtal om förlängd tullpaus - DN
+- Dousa: ”Israel förstör sitt anseende för varje dag som går” - DN
+- Ung man attackerad med vasst föremål i Malmö - TV4 Nyheterna
+- Abbe, 18, såg huset brinna ner: ”Hemskt att uppleva” - Smålandsposten
 - Sjukhusläkarna till regeringen: ”Ge oss chans att rädda liv i Gaza” - DN
-- Bil körde av vägen – misstänkt rattfylleri - Folkbladet
 - Tusentals fiskar döda i utsläpp i Laholm - GP
 - En död och en skadad efter trafikolycka i Näshulta - SVT Nyheter
-- DN Direkt - Lundsberg skola anmäld för rap battle om Hitler - DN
-- Jan Eliassons uppmaning till regeringen: ”Tala klarspråk” - Expressen
-- Storbritannien erkänner Palestina – om Israel inte uppfyller krav - SVT Nyheter
-- Varningen: Europas vägnät klarar inte rysk attack - DN
-- Cyberattack stoppar ryska flyg - Hufvudstadsbladet
+- Regn drog in över STO – Larm om översvämningar - NYHETERsto.se
+- Folkrättsprofessor: Trump har underblåst folkmord i Gaza - DN
+- Storbritannien kan erkänna Palestina som stat - DN
 - FN-domstol: Ingen frigivning för ”Slaktaren i Bosnien” - DN
+- Cyberattack stoppar ryska flyg - Hufvudstadsbladet
+- Tyskland i samtal med Israel – vill öka pressen - Omni
 - Håkan Boström: Frihandel fungerar bäst när det är vackert väder - GP
-- Spotify ökade rörelseresultatet men mindre än väntat - aktien faller (uppdatering 2) - Placera.se
+- Trots Spotifys rapportmiss: "Värderingen fortfarande hög" - EFN
 - Teknikfel på Stockholmsbörsen – handel dras tillbaka - Dagens industri
-- Novo Nordisk appoints Mike Doustdar as new CEO - Life Science Sweden
+- Novo Nordisk vinstvarnar för 2025 (uppdatering) - Placera.se
 - Håll Sverige Rent gästar Örebro Stadsfestival - Örebronyheter
 - Hoppet släckt om liv på avlägsen planet - Aftonbladet
 
@@ -30,14 +30,14 @@ _Updated: 2025-07-29 23:43_
 - Air Canada Expands Landline Luxury Motorcoach Service, Connects Kingston to its Global Network - Placera.se
 - Kina föreslår global AI-samarbetsorganisation - Computer Sweden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
@@ -45,8 +45,8 @@ _Updated: 2025-07-29 23:43_
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- ebp Global acquires Sustaina Company - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- ebp Global acquires Sustaina Company - Via TT
 
 ## Technology
 
@@ -79,20 +79,20 @@ _Updated: 2025-07-29 23:43_
 - DeFi Technologies' Subsidiary Valour, Surpasses US$1 Billion in Assets Under Management - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
-- Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
+- Nuveen Churchill Direct Lending Corp. Schedules Second Quarter 2025 Earnings Release and Conference Call - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Accord Announces First Quarter Financial Results - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
+- TPG RE Finance Trust, Inc. Reports Operating Results for the Quarter Ended June 30, 2025 - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- Yunji Announces Changes in Management - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- First Financial Bankshares Announces Promotion of Kyle McVey to EVP Chief Financial Officer of First Financial Bank - Placera.se
-- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
+- Seacoast Completes Acquisition of Heartland Bancshares, Inc. - Placera.se
+- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
+- DeFi Technologies Reports All-Time High in Bitcoin Assets Under Management and Treasury Holdings - Placera.se
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 
 ## Health
 
@@ -152,13 +152,13 @@ _Updated: 2025-07-29 23:43_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Här är världens största jordbruk - ATL
+- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - De gick från reko till eko - ST-tidningen
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Framtidens jordbruk blir digitalt - Lantbruksnytt
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
