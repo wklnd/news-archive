@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-29 22:47_
+_Updated: 2025-07-29 23:43_
 
 ## Top Stories
 
 - SMHI utfärdar varning för skyfall i östra Värmland - SVT Nyheter
-- USA och Kina kan förlänga tullpaus - DN
-- Därför står lastbilar med nödhjälp stilla i Gaza - GP
 - Ukraina: Minst 25 döda i ryska attacker - GP
-- Svenska läkaren: Regeringen medskyldig till Gazas kris - SVT Nyheter
-- EU överväger sanktioner mot Israel – slår mot uppstartsföretag - DN
-- Tusentals döda fiskar hittade i Bölarpsån - laholmstidning.se
-- Man död efter trafikolycka i Eskilstuna - GP
+- 30 döda i centrala Gaza – 60 000 under kriget - Västerbottens-Kuriren
+- USA och Kina fortsätter samtal om förlängd tullpaus - DN
+- Sjukhusläkarna till regeringen: ”Ge oss chans att rädda liv i Gaza” - DN
+- Bil körde av vägen – misstänkt rattfylleri - Folkbladet
+- Tusentals fiskar döda i utsläpp i Laholm - GP
+- En död och en skadad efter trafikolycka i Näshulta - SVT Nyheter
 - DN Direkt - Lundsberg skola anmäld för rap battle om Hitler - DN
-- Stänger av alla fartkameror efter nya regler - Carup.se
+- Jan Eliassons uppmaning till regeringen: ”Tala klarspråk” - Expressen
 - Storbritannien erkänner Palestina – om Israel inte uppfyller krav - SVT Nyheter
 - Varningen: Europas vägnät klarar inte rysk attack - DN
-- FN-domstol: Ingen frigivning för ”Slaktaren i Bosnien” - DN
 - Cyberattack stoppar ryska flyg - Hufvudstadsbladet
+- FN-domstol: Ingen frigivning för ”Slaktaren i Bosnien” - DN
 - Håkan Boström: Frihandel fungerar bäst när det är vackert väder - GP
-- Teknikfel på Stockholmsbörsen – handel dras tillbaka - Dagens industri
 - Spotify ökade rörelseresultatet men mindre än väntat - aktien faller (uppdatering 2) - Placera.se
+- Teknikfel på Stockholmsbörsen – handel dras tillbaka - Dagens industri
 - Novo Nordisk appoints Mike Doustdar as new CEO - Life Science Sweden
 - Håll Sverige Rent gästar Örebro Stadsfestival - Örebronyheter
 - Hoppet släckt om liv på avlägsen planet - Aftonbladet
@@ -73,26 +73,26 @@ _Updated: 2025-07-29 22:47_
 
 ## Business
 
-- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
+- Accord Announces Banking Facility Update - Placera.se
 - Flower tar in över 500 miljoner i avslutad Serie A-runda - Mynewsdesk
+- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - DeFi Technologies' Subsidiary Valour, Surpasses US$1 Billion in Assets Under Management - Placera.se
-- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
+- Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Accord Announces Banking Facility Update - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- First Financial Bankshares Announces Promotion of Kyle McVey to EVP Chief Financial Officer of First Financial Bank - Placera.se
 - DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -120,25 +120,25 @@ _Updated: 2025-07-29 22:47_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Högskola, forskning och rymd - Regeringen.se
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Högskola, forskning och rymd - Regeringen.se
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
 
 ## Jordbruk
 
@@ -152,13 +152,13 @@ _Updated: 2025-07-29 22:47_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Här är världens största jordbruk - ATL
-- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - De gick från reko till eko - ST-tidningen
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Framtidens jordbruk blir digitalt - Lantbruksnytt
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
