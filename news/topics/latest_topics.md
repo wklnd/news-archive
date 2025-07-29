@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-29 07:52_
+_Updated: 2025-07-29 08:57_
 
 ## Top Stories
 
-- Flera personer skjutna till döds på Manhattan - DN
-- Ukraina: Minst 20 döda i ryska attacker - GP
-- Polska ovädret Karl-Heinz drar in – orange varning utfärdad - SVT Nyheter
+- Karl-Heinz är här: Översvämningar och stök i trafiken - Omni
+- Skottlossning i skyskrapa på Manhattan – fyra döda - GP
+- Flygplan omdirigerat från Arlanda - Aftonbladet
 - ”Ryssarna gjorde allt rätt – deras enda misstag var att inte räkna med motstånd” - DN
 - Förskola i Moheda byggs om – familjen vill starta bed and breakfast - Smålandsposten
 - 28 juli 22.36, Skottlossning, Södertälje - polisen.se
+- Fler män anmäler våldtäkt - GP
 - DN Direkt - USA och Kina på plats – Kristersson tar emot - DN
 - Israeliska människorättsgrupper: Kriget i Gaza är ett folkmord - DN
-- Avloppsstopp i Visby - Expressen
-- Skjutningar stoppades – i sista stund - Nerikes Allehanda
+- Flyg omdirigerat från Arlanda - Expressen
 - Thailand: Kambodja bröt vapenvilan - SVT Nyheter
-- FN: En miljon kvinnor och flickor svälter i Gaza - Västerbottens-Kuriren
-- VM-guldmedaljören Mårten Boström har fått cancer - Expressen
-- Tullavtal mellan USA och EU klart - GP
+- Skänkt mat säljs i Gaza – till skyhöga priser - GP
+- Ukraina: Minst 20 döda i ryska attacker - Västerbottens-Kuriren
+- FN: En miljon kvinnor och flickor svälter i Gaza - Corren
+- Svensk BNP sämre än väntat - Dagens industri
+- EU avvärjer USA:s handelskrig – priset en tull på 15 procent - Europaportalen
 - Tesla vinnare på stillsam USA-börs - GP
-- Luften gick ur börsen – röd triss för Saab - Dagens industri
-- Nordic Capital och Permira lägger bud på Bavarian Nordic - Biostock
-- Fördröjning i CE-godkännandeprocessen för XVIVOs perfusionslösning för hjärtpreservation (MFN) - Aktiellt
-- Test: Samsung Galaxy Z Flip 7 – Subtilt bättre - mobil.se
-- Star Wars Outlaws-uppföljare sägs ha lagts på hyllan - Nordichardware
+- Högre vinst för Astra Zeneca - Aftonbladet
+- Hur spelpattformar använder data för att veta vad du gillar - Lokalpressen
+- Oväntade dieten: Full av fluglarver - Borås Tidning
 
 ## World News
 
@@ -39,14 +39,14 @@ _Updated: 2025-07-29 07:52_
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Venture Global Announces Final Investment Decision and Financial Close for Phase 1 of CP2 LNG - Placera.se
 - ebp Global acquires Sustaina Company - Via TT
 - Warner Bros. Discovery Announces Post-Separation Company Names and Leadership Appointments - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Introducing PayPal World: a global platform connecting the world's largest payment systems and digital wallets, starting with interoperability to PayPal and Venmo - Placera.se
 
 ## Technology
 
@@ -124,19 +124,19 @@ _Updated: 2025-07-29 07:52_
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
 
