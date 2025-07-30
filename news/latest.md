@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-07-30 06:30_
+_Updated: 2025-07-30 07:06_
 
-- Tsunami alerts issued for US, Japan, Philippines after massive earthquake - Al Jazeera
+- First waves hit Japan as US widens tsunami warnings after magnitude-8.8 earthquake off Russia – live updates - The Guardian
 - The Manhattan gunman believed he had CTE. What does that mean? - NPR
-- Republican senators confirm former Trump lawyer to lifetime judgeship over objection of Democrats, whistleblowers - CNN
-- Trump says Epstein ‘stole’ young women from Mar-a-Lago spa, including Virginia Giuffre - PBS
+- Bove misled lawmakers about his actions in NYC mayor case, evidence suggests - The Washington Post
 - Senate confirms Susan Monarez as CDC director. Here's what she's said about vaccines, fluoride and more. - CBS News
-- In Gaza, mounting evidence of famine and widespread starvation - UN News
-- Senate floor erupts as Booker accuses Dems of being "complicit" with Trump - Axios
-- 3 people unaccounted for following explosion at Nebraska plant: Mayor - ABC News
+- Trump elaborates on spa workers he accused Epstein of poaching - Axios
+- Netanyahu accuses Starmer of ‘appeasing’ Hamas with Palestinian statehood vow - politico.eu
 - Deadly ‘Wet-Bulb’ Temperatures Are Smothering the Eastern U.S. - Gizmodo
+- 3 people unaccounted for following explosion at Nebraska plant: Mayor - ABC News
+- Senate floor erupts as Booker accuses Dems of being "complicit" with Trump - Axios
 - EPA moves to end climate regulations under Clean Air Act - The Washington Post
-- The U.K. will recognize a Palestinian state if Israel doesn't agree to a Gaza ceasefire - NPR
+- Famine unfolding across Gaza, says global hunger monitor - The Washington Post
 - Afghans caught in mass deportations in Iran face an uncertain future at home - NPR
+- MAGA is turning on Israel over Gaza, but Trump is unmoved - Politico
 - Dominican authorities find 1.5 tons of cocaine after boat chase lasting more than 12 hours - CBS News
-- Palestinian teacher denied entry at SFO last month killed in the West Bank - SFGATE
-- The Fed is expected to hold rates steady as Trump pushes for a cut - NBC News
-- Starbucks Sales Still Show Weakness. Same-Store Sales Dip 2%. - Barron's
+- Starbucks profits plunge as turnaround costs add up - Financial Times
 - UnitedHealth Group plans "remediation actions" as insurance costs balloon - Axios
-- Union Pacific and Norfolk seek 1st transcontinental railroad through a massive merger - AP News
+- Novo Nordisk, Ozempic Drugmaker, Sees Stock Plunge 20% After Profit Warning - The New York Times
+- How stock-market investors should trade what could be a historic Fed dissent on Wednesday - MarketWatch
 - Apple releases iOS 18.6, macOS 15.6, and other updates as current gen winds down - Ars Technica
-- Google’s AI Mode gets new ‘Canvas’ feature, real-time help with Search Live, and more - TechCrunch
+- Netgear launches its most affordable Wi-Fi 7 mesh system - Engadget
