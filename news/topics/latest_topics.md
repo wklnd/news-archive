@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-30 11:51_
+_Updated: 2025-07-30 12:50_
 
 ## Top Stories
 
-- Enormt jordskalv – tsunamihot i flera länder - Hufvudstadsbladet
+- Tsunamivarning i flera länder – miljontals evakueras - SVT Nyheter
+- Karl-Heinz, 81, om Karl-Heinz: ”Inte särskilt begeistrad” - Mitt i
 - Uppgifter: ”Lakan-liga” bakom ny inbrottsvåg - Aftonbladet
-- Risk för ras efter ”Karl-Heinz” framfart - GP
-- Därför står lastbilar med nödhjälp stilla i Gaza - GP
-- Thailand: Kambodja bröt vapenvilan igen - GP
-- "Skicka räddningsflotta med mat till Gaza" - Aktuellt i Politiken
-- Ungt barn dog efter drunkningsolycka i Boden - SVT Nyheter
+- Läkarlarmet: ”Inte ens jag har mat” - Hufvudstadsbladet
+- Thailand: Kambodja attackerade – bryter vapenvilan - Omni
+- Pojke drunknade i Boden - GP
 - Stor ökning av magsjukebakterier i Sverige - DN
 - Polska ovädret riskerar väcka myggplågan - GP
 - SKR varnar: Färre skärmar kan hämma barns lärande - Omni
+- Förbudet upphör - Allehanda.se
+- Arabiska länder uppmanar Hamas att avväpna sig - Västerbottens-Kuriren
 - Thailand: Nio döda i explosion i fyrverkerifabrik - Aftonbladet
 - Ukrainas fasa – staden nära att gå förlorad - Expressen
-- Tusk: Tecken på att Ukrainakriget kan stoppas - Aftonbladet
 - Han iscensatte ett mord – för att infiltrera Hells Angels - Aftonbladet
 - EU:s importlöfte till USA är inte bindande – kan skapa ytterligare friktion - EFN
+- Gröna skott i svensk ekonomi – optimismen bland hushållen ökar - DN
 - Nordnets sparare lämnar lågriskfonder för aktiemarknaden i juli - Placera.se
 - Youtube testar AI för att identifiera tonåringar - Omni
-- Stöder Pride – tonar ned mångfaldsprofil globalt - SvD
-- Hoppet släckt om liv på avlägsen planet - Aftonbladet
-- Microsoft avslöjade Spotlight-bugg i Mac OS – kunde läcka känslig användardata - Macworld.se
+- Sårbarheter täpps till i Apples operativsystem - Computer Sweden
+- Dying Light: The Beast har försenats så att studion kan göra det till "det bästa Dying Light-spelet någonsin" - TechRadar
 
 ## World News
 
 - Kina föreslår global AI-samarbetsorganisation - Computer Sweden
 - Air Canada Expands Landline Luxury Motorcoach Service, Connects Kingston to its Global Network - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
-- IAEA will visit Iran in next two weeks, Iranian foreign ministry says - Reuters
+- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- IAEA will visit Iran in next two weeks, Iranian foreign ministry says - Reuters
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Techarenan News goes English (Partly at least) - Techarenan.news
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- 29 October 2017 is the World Psoriasis Day - NewsMachine AB
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - EU to accept Trump's universal tariff but seeks key exemptions, Bloomberg News reports - Reuters
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
-- ebp Global acquires Sustaina Company - Via TT
 
 ## Technology
 
@@ -75,22 +75,22 @@ _Updated: 2025-07-30 11:51_
 
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Flower tar in över 500 miljoner i avslutad Serie A-runda - Mynewsdesk
-- DeFi Technologies' Subsidiary Valour, Surpasses US$1 Billion in Assets Under Management - Placera.se
 - DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - TPG RE Finance Trust, Inc. Reports Operating Results for the Quarter Ended June 30, 2025 - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - First Financial Bankshares Announces Promotion of Kyle McVey to EVP Chief Financial Officer of First Financial Bank - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
@@ -128,17 +128,17 @@ _Updated: 2025-07-30 11:51_
 - 5 myter om öppen vetenskap - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Högskola, forskning och rymd - Regeringen.se
 - Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
@@ -146,19 +146,19 @@ _Updated: 2025-07-30 11:51_
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Här är världens största jordbruk - ATL
-- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- De gick från reko till eko - ST-tidningen
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Framtidens jordbruk är regenerativt - greenpeace.org
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
