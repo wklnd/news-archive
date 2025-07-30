@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-30 08:58_
+_Updated: 2025-07-30 09:46_
 
 ## Top Stories
 
 - Kraftigt jordskalv utanför Ryssland – tsunamivarningar i flera länder - GP
 - SMHI utfärdar varning för skyfall i östra Värmland - SVT Nyheter
+- Pojke död i drunkning i pool - Aftonbladet
 - Kamprads egen lanthandel räddas – ny satsning av handlarfamiljen - Smålandsposten
-- Dousa: ”Israel förstör sitt anseende för varje dag som går” - DN
-- Olika bud om USA:s och Kinas tullpaus - Västerbottens-Kuriren
-- I NATT: Polisjakt efter A-traktor – körde i över 100 km/h - Mariestads-Tidningen
-- Stor ökning av magsjukebakterier i Sverige - DN
-- SKR varnar: Färre skärmar kan hämma barns lärande - Omni
-- Polska ovädret riskerar väcka myggplågan - GP
-- MEDAN DU SOV: Här är nattens händelser - NLT
+- Thailand: Kambodja bröt vapenvilan igen - Nyheter24
 - Michael Winiarski: Det finns ingen världsordning som stoppar svälten - DN
-- Thailand bekräftar: Gripen användes vid anfall - Expressen
+- ”Karl-Heinz” riskerar väcka myggplågan - DN
+- SKR varnar: Färre skärmar kan hämma barns lärande - Omni
+- Folkrättsprofessor: Trump har underblåst folkmord i Gaza - DN
+- Man död efter arbetsplatsolycka i Trollhättan, 29 juli 2025 - TTELA
+- Därför står lastbilar med nödhjälp stilla i Gaza - GP
+- Ukraina: Minst 25 döda i ryska attacker - GP
 - Han iscensatte ett mord – för att infiltrera Hells Angels - Aftonbladet
 - Svaret från Moskva: Bisarra uppgifter om Zelenskyj och USA - Aftonbladet
-- Därför ska Finland bry sig om Norges position på världsmarknaden - Hufvudstadsbladet
 - Nordnets sparare lämnar lågriskfonder för aktiemarknaden i juli - Placera.se
-- Beskedet från Nasdaq: Börsen fungerar - Dagens industri
+- Stockholmsbörsen mot öppning på plus - GP
 - Trots Spotifys rapportmiss: "Värderingen fortfarande hög" - EFN
-- Aldrig tidigare skådat: Mystiskt fenomen observerat i vårt solsystem utmanar fysiken - Illustrerad Vetenskap
+- Därför ska Finland bry sig om Norges position på världsmarknaden - Hufvudstadsbladet
 - Hoppet släckt om liv på avlägsen planet - Aftonbladet
+- Windows 11 får efterlängtad funktion för flera bildskärmar - PC för Alla
 
 ## World News
 
 - Air Canada Expands Landline Luxury Motorcoach Service, Connects Kingston to its Global Network - Placera.se
 - Kina föreslår global AI-samarbetsorganisation - Computer Sweden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
-- Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- IAEA will visit Iran in next two weeks, Iranian foreign ministry says - Reuters
+- Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
-- EU to accept Trump's universal tariff but seeks key exemptions, Bloomberg News reports - Reuters
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
-- Ulrika Jonsson stämmer News of the World - Sydsvenskan
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Ulrika Jonsson stämmer News of the World - Sydsvenskan
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- EU to accept Trump's universal tariff but seeks key exemptions, Bloomberg News reports - Reuters
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - ebp Global acquires Sustaina Company - Via TT
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -104,8 +104,8 @@ _Updated: 2025-07-30 08:58_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
@@ -120,25 +120,25 @@ _Updated: 2025-07-30 08:58_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Högskola, forskning och rymd - Regeringen.se
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- E-infrastruktur för livsvetenskap får SSF-anslag - Uppsala universitet
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
 
 ## Jordbruk
 
@@ -146,19 +146,19 @@ _Updated: 2025-07-30 08:58_
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Här är världens största jordbruk - ATL
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - De gick från reko till eko - ST-tidningen
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
