@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-30 12:50_
+_Updated: 2025-07-30 13:42_
 
 ## Top Stories
 
-- Tsunamivarning i flera länder – miljontals evakueras - SVT Nyheter
+- Lastbil sitter fast i mur – hänger ner över tågspår - Aftonbladet
+- Japan skärper tsunamivarning – Tsunamivarning i flera länder – miljontals evakueras - SVT Nyheter
 - Karl-Heinz, 81, om Karl-Heinz: ”Inte särskilt begeistrad” - Mitt i
+- DN Direkt - Första sångaren i Iron Maiden död - DN
+- 14 drunknade i juni – Livräddningssällskapet: ”Inga fina siffror” - GP
 - Uppgifter: ”Lakan-liga” bakom ny inbrottsvåg - Aftonbladet
-- Läkarlarmet: ”Inte ens jag har mat” - Hufvudstadsbladet
-- Thailand: Kambodja attackerade – bryter vapenvilan - Omni
-- Pojke drunknade i Boden - GP
-- Stor ökning av magsjukebakterier i Sverige - DN
-- Polska ovädret riskerar väcka myggplågan - GP
-- SKR varnar: Färre skärmar kan hämma barns lärande - Omni
+- Stor ökning av magsjukebakterier i Sverige: ”Brukar nå en topp” - NWT
+- Barn under 10 år dog efter drunkningsolycka i Boden - SVT Nyheter
+- ”Karl-Heinz” riskerar väcka myggplågan - DN
 - Förbudet upphör - Allehanda.se
-- Arabiska länder uppmanar Hamas att avväpna sig - Västerbottens-Kuriren
-- Thailand: Nio döda i explosion i fyrverkerifabrik - Aftonbladet
+- Läkarlarmet: ”Inte ens jag har mat” - Hufvudstadsbladet
+- Arabiska länder uppmanar Hamas att avväpna sig - GP
+- Thailand: Nio döda i explosion i fyrverkerifabrik - Sydsvenskan
 - Ukrainas fasa – staden nära att gå förlorad - Expressen
-- Han iscensatte ett mord – för att infiltrera Hells Angels - Aftonbladet
-- EU:s importlöfte till USA är inte bindande – kan skapa ytterligare friktion - EFN
+- Pressinbjudan: Bistånds- och utrikeshandelsminister Benjamin Dousa håller pressbriefing om tullavtalet mellan EU och USA - Regeringen.se
 - Gröna skott i svensk ekonomi – optimismen bland hushållen ökar - DN
 - Nordnets sparare lämnar lågriskfonder för aktiemarknaden i juli - Placera.se
 - Youtube testar AI för att identifiera tonåringar - Omni
 - Sårbarheter täpps till i Apples operativsystem - Computer Sweden
-- Dying Light: The Beast har försenats så att studion kan göra det till "det bästa Dying Light-spelet någonsin" - TechRadar
+- Microsoft släpper smurfig Smurf-modell av Surface Laptop - PC för Alla
 
 ## World News
 
@@ -101,21 +101,21 @@ _Updated: 2025-07-30 12:50_
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 
 ## Science
 
@@ -146,19 +146,19 @@ _Updated: 2025-07-30 12:50_
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Här är världens största jordbruk - ATL
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - De gick från reko till eko - ST-tidningen
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
