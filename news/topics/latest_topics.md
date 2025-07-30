@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-30 01:43_
+_Updated: 2025-07-30 04:38_
 
 ## Top Stories
 
-- Risk för försäkringssmäll i spåren av Karl-Heinz - Dagens industri
+- Flera tsunamivarningar efter jordskalv - SVT Nyheter
+- Laddad Karl Heinz gör comeback – ovädret tillbaka - UNT
 - Ukraina: Minst 25 döda i ryska attacker - GP
-- Dousa: ”Israel förstör sitt anseende för varje dag som går” - DN
-- Kreml: Vill fortfarande nå fred i Ukraina - Västerbottens-Kuriren
-- Turisterna flockas till Växjö: ”Allt man behöver för en bra semester” - Smålandsposten
-- Bil körde rakt in i hus - Västerbottens-Kuriren
-- Tusentals fiskar döda i utsläpp i Laholm - GP
+- Ung man stickskadad på Holma – tre män gripna - Sydsvenskan
+- Experten: Därför tar Ryssland inte Trumps hot på allvar - GP
 - Sjukhusläkarna till regeringen: ”Ge oss chans att rädda liv i Gaza” - DN
-- Man död efter trafikolycka i Eskilstuna - Västerbottens-Kuriren
+- Tusentals fiskar döda i utsläpp i Laholm - GP
+- Upphängda dockor inget brott –förundersökning läggs ner - SVT Nyheter
+- USA och Kina fortsätter samtal om förlängd tullpaus - DN
 - Folkrättsprofessor: Trump har underblåst folkmord i Gaza - DN
-- Storbritannien kan erkänna Palestina som stat - DN
 - Ukraina riskerar minskat EU-stöd för första gången - GP
-- FN-domstol: Ingen frigivning för ”Slaktaren i Bosnien” - DN
-- Tyskland i samtal med Israel – vill öka pressen - Omni
-- Håkan Boström: Frihandel fungerar bäst när det är vackert väder - GP
+- FN: En miljon kvinnor och flickor svälter i Gaza - Västerbottens-Kuriren
+- Storbritannien erkänner Palestina – om Israel inte uppfyller krav - SVT Nyheter
+- DN Direkt - Thailand: Kambodja bröt vapenvilan - DN
+- Därför ska Finland bry sig om Norges position på världsmarknaden - Hufvudstadsbladet
+- Bränner miljarder på AI – kan Meta ändå leverera? - Dagens PS
 - Teknikfel på Stockholmsbörsen – handel dras tillbaka - Dagens industri
-- Novo Nordisk vinstvarnar för 2025 - Placera.se
-- Trots Spotifys rapportmiss: "Värderingen fortfarande hög" - EFN
-- Håll Sverige Rent gästar Örebro Stadsfestival - Örebronyheter
+- Spotify ökade rörelseresultatet men mindre än väntat - aktien faller (uppdatering 2) - Placera.se
 - Hoppet släckt om liv på avlägsen planet - Aftonbladet
+- Håll Sverige Rent gästar Örebro Stadsfestival - Örebronyheter
 
 ## World News
 
 - Air Canada Expands Landline Luxury Motorcoach Service, Connects Kingston to its Global Network - Placera.se
 - Kina föreslår global AI-samarbetsorganisation - Computer Sweden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Techarenan News goes English (Partly at least) - Techarenan.news
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- EU to accept Trump's universal tariff but seeks key exemptions, Bloomberg News reports - Reuters
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - ebp Global acquires Sustaina Company - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -59,8 +59,8 @@ _Updated: 2025-07-30 01:43_
 - EY.ai | EY - Sverige - EY
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
 - Safe Pro Group Successfully Integrates Artificial Intelligence-Powered Landmine Detection for Drones Selected Under U.S. Army Program of Record - Placera.se
+- Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
 - Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
 - RBC joins Massachusetts Institute of Technology's (MIT) CSAIL fintech research initiative on the role of AI in the future of finance - Placera.se
@@ -120,45 +120,45 @@ _Updated: 2025-07-30 01:43_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Högskola, forskning och rymd - Regeringen.se
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Högskola, forskning och rymd - Regeringen.se
+- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Här är världens största jordbruk - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- De gick från reko till eko - ST-tidningen
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
