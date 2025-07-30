@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-07-30 09:02_
+_Updated: 2025-07-30 09:53_
 
-- Tsunami evacuations in Hawaii after 8.8 earthquake near Russia; alerts for West Coast - ABC News
-- The Manhattan gunman believed he had CTE. What does that mean? - NPR
+- California coast under tsunami alert; North Coast upgraded to highest warning - Los Angeles Times
+- NYC Mayor Eric Adams shares Midtown shooting surveillance footage details, calls for gun reform - ABC News
 - Senate confirms controversial Trump nominee Emil Bove as federal judge - The Washington Post
 - Senate confirms Susan Monarez as CDC director. Here's what she's said about vaccines, fluoride and more. - CBS News
-- UK Will Recognize Palestinian Statehood In September, Unless Israel-Hamas Cease-Fire is Reached - The New York Times
 - Trump says Epstein ‘stole’ young women from Mar-a-Lago spa, including Virginia Giuffre - PBS
-- E.P.A. Moves to Revoke the Legal Basis for Tackling Climate Change - The New York Times
+- Netanyahu accuses Starmer of ‘appeasing’ Hamas with Palestinian statehood vow - politico.eu
+- EPA moves to end climate regulations under Clean Air Act - The Washington Post
 - CNBC Daily Open: Boomerang tariffs ahead? - CNBC
-- Senate floor erupts as Booker accuses Dems of being "complicit" with Trump - Axios
-- Trump flies back to the US after whirlwind trip to Scotland - BBC
+- There's a massive bipartisan housing bill moving forward in Congress - Axios
+- Sen. Cory Booker in angry outburst says ‘complicit’ Democrats need a ‘wake-up call’ - AP News
+- Thailand accuses Cambodia of second ceasefire violation in two days - Reuters
 - Famine unfolding across Gaza, says global hunger monitor - The Washington Post
-- Thailand and Cambodia agree to ceasefire - Politico
-- Dominican authorities find 1.5 tons of cocaine after boat chase lasting more than 12 hours - CBS News
 - Afghans caught in mass deportations in Iran face an uncertain future at home - NPR
-- Fed Governors Could Break Ranks as Trump Intensifies Powell Pressure - The Wall Street Journal
+- Dominican authorities find 1.5 tons of cocaine after boat chase lasting more than 12 hours - CBS News
 - Starbucks CEO details brand reset plan as turnaround efforts drive sales beat - Reuters
-- Asian Shares Mixed at Open Before Fed’s Meeting: Markets Wrap - Bloomberg.com
 - UnitedHealth Group plans "remediation actions" as insurance costs balloon - Axios
+- The Fed is expected to hold rates steady as Trump pushes for a cut - NBC News
+- Asian Shares Mixed at Open Before Fed’s Meeting: Markets Wrap - Bloomberg.com
 - Switch Online's SNES Update Has Apparently Upgraded The CRT Filter - Nintendo Life
 - Apple releases iOS 18.6, macOS 15.6, and other updates as current gen winds down - Ars Technica
