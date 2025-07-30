@@ -1,58 +1,58 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-30 04:38_
+_Updated: 2025-07-30 06:28_
 
 ## Top Stories
 
-- Flera tsunamivarningar efter jordskalv - SVT Nyheter
-- Laddad Karl Heinz gör comeback – ovädret tillbaka - UNT
+- Tsunamivarning efter kraftig jordbävning utanför Ryssland - GP
 - Ukraina: Minst 25 döda i ryska attacker - GP
-- Ung man stickskadad på Holma – tre män gripna - Sydsvenskan
-- Experten: Därför tar Ryssland inte Trumps hot på allvar - GP
-- Sjukhusläkarna till regeringen: ”Ge oss chans att rädda liv i Gaza” - DN
-- Tusentals fiskar döda i utsläpp i Laholm - GP
+- Kamprads egen lanthandel räddas – ny satsning av handlarfamiljen - Smålandsposten
+- Därför står lastbilar med nödhjälp stilla i Gaza - GP
+- I dag: Ovädret slår mot trafik och flyg - Västerbottens-Kuriren
+- Svaret från Moskva: Bisarra uppgifter om Zelenskyj och USA - Aftonbladet
+- Stor ökning av magsjukebakterier i Sverige - GP
+- ”Karl-Heinz” riskerar väcka myggplågan - DN
+- Oklart om tullpaus – ”Trumps beslut” - Hufvudstadsbladet
 - Upphängda dockor inget brott –förundersökning läggs ner - SVT Nyheter
-- USA och Kina fortsätter samtal om förlängd tullpaus - DN
-- Folkrättsprofessor: Trump har underblåst folkmord i Gaza - DN
+- Storbritannien kan erkänna Palestina som stat - DN
 - Ukraina riskerar minskat EU-stöd för första gången - GP
-- FN: En miljon kvinnor och flickor svälter i Gaza - Västerbottens-Kuriren
-- Storbritannien erkänner Palestina – om Israel inte uppfyller krav - SVT Nyheter
-- DN Direkt - Thailand: Kambodja bröt vapenvilan - DN
+- Thailand: Kambodja bröt vapenvilan igen - GP
+- Flera ihjälskjutna i skyskrapa på Manhattan - HD
 - Därför ska Finland bry sig om Norges position på världsmarknaden - Hufvudstadsbladet
-- Bränner miljarder på AI – kan Meta ändå leverera? - Dagens PS
-- Teknikfel på Stockholmsbörsen – handel dras tillbaka - Dagens industri
-- Spotify ökade rörelseresultatet men mindre än väntat - aktien faller (uppdatering 2) - Placera.se
-- Hoppet släckt om liv på avlägsen planet - Aftonbladet
+- Ser uppsida i Astra Zeneca: ”Fortsätter att leverera” - EFN
+- USA: Inte klart med EU om läkemedelstullar - GP
+- Uppgifter: Teknikfel på Stockholmsbörsen - Dagens industri
+- Aldrig tidigare skådat: Mystiskt fenomen observerat i vårt solsystem utmanar fysiken - Illustrerad Vetenskap
 - Håll Sverige Rent gästar Örebro Stadsfestival - Örebronyheter
 
 ## World News
 
 - Air Canada Expands Landline Luxury Motorcoach Service, Connects Kingston to its Global Network - Placera.se
 - Kina föreslår global AI-samarbetsorganisation - Computer Sweden
+- Budweiser överraskar oss alltid – lanserar ny kampanj för FIFA Club World Cup 2025 - International Supermarket News
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
-- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - EU to accept Trump's universal tariff but seeks key exemptions, Bloomberg News reports - Reuters
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Liberty International i Stockholm växer - travelnews.se
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - ebp Global acquires Sustaina Company - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
 - Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
@@ -102,43 +102,43 @@ _Updated: 2025-07-30 04:38_
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Högskola, forskning och rymd - Regeringen.se
-- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- E-infrastruktur för livsvetenskap får SSF-anslag - Uppsala universitet
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
 
 ## Jordbruk
 
