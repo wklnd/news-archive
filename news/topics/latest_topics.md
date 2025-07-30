@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-30 13:42_
+_Updated: 2025-07-30 15:21_
 
 ## Top Stories
 
-- Lastbil sitter fast i mur – hänger ner över tågspår - Aftonbladet
-- Japan skärper tsunamivarning – Tsunamivarning i flera länder – miljontals evakueras - SVT Nyheter
-- Karl-Heinz, 81, om Karl-Heinz: ”Inte särskilt begeistrad” - Mitt i
-- DN Direkt - Första sångaren i Iron Maiden död - DN
+- Enorm jordbävning – tsunamivågor i flera länder - DN
+- Dahlmeier hittad död efter olycka - SvD
+- Mellersta infarten översvämmad - Nerikes Allehanda
 - 14 drunknade i juni – Livräddningssällskapet: ”Inga fina siffror” - GP
-- Uppgifter: ”Lakan-liga” bakom ny inbrottsvåg - Aftonbladet
+- S vill se räddningsflotta till Gaza - Västerbottens-Kuriren
+- Två gripna efter rymning från Sis-hem i Falköping - SVT Nyheter
+- DN Direkt - Försvunnen dykare hittad död - DN
 - Stor ökning av magsjukebakterier i Sverige: ”Brukar nå en topp” - NWT
 - Barn under 10 år dog efter drunkningsolycka i Boden - SVT Nyheter
 - ”Karl-Heinz” riskerar väcka myggplågan - DN
-- Förbudet upphör - Allehanda.se
-- Läkarlarmet: ”Inte ens jag har mat” - Hufvudstadsbladet
-- Arabiska länder uppmanar Hamas att avväpna sig - GP
-- Thailand: Nio döda i explosion i fyrverkerifabrik - Sydsvenskan
+- Arabländernas krav: Ge upp, Hamas - Hufvudstadsbladet
+- Thailand: Nio döda i explosion i fyrverkerifabrik - Aftonbladet
+- Svältlarmet inifrån Gaza: Tusentals kommer dö - GP
 - Ukrainas fasa – staden nära att gå förlorad - Expressen
-- Pressinbjudan: Bistånds- och utrikeshandelsminister Benjamin Dousa håller pressbriefing om tullavtalet mellan EU och USA - Regeringen.se
+- Benjamin Dousa: Driver på för fler varor med lägre tullar - Dagens industri
 - Gröna skott i svensk ekonomi – optimismen bland hushållen ökar - DN
-- Nordnets sparare lämnar lågriskfonder för aktiemarknaden i juli - Placera.se
-- Youtube testar AI för att identifiera tonåringar - Omni
+- Trump inför räntebeskedet: Måste sänka - Aftonbladet
+- Juli: Spararna säljer av lågriskfonder - Cision News
 - Sårbarheter täpps till i Apples operativsystem - Computer Sweden
-- Microsoft släpper smurfig Smurf-modell av Surface Laptop - PC för Alla
+- Valve förbättrar Linux-stödet för spel på Steam - m3.se
 
 ## World News
 
@@ -32,30 +32,30 @@ _Updated: 2025-07-30 13:42_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
-- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- IAEA will visit Iran in next two weeks, Iranian foreign ministry says - Reuters
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
+- EU to accept Trump's universal tariff but seeks key exemptions, Bloomberg News reports - Reuters
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- ebp Global acquires Sustaina Company - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- EU to accept Trump's universal tariff but seeks key exemptions, Bloomberg News reports - Reuters
 
 ## Technology
 
 - Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - EY.ai | EY - Sverige - EY
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
@@ -65,11 +65,11 @@ _Updated: 2025-07-30 13:42_
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
 - Redwire Expands International Collaboration with Japanese Startup SpaceData for Artificial Intelligence and Digital Engineering Systems - Placera.se
+- Global Military Drone Market Size on a Trajectory Toward $88 Billion as Demand Skyrockets - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - TDK acquires SoftEye to enable artificial intelligence within smart glasses and grow its AI ecosystem business - Placera.se
 - Trane Technologies Completes Acquisition of BrainBox AI - Placera.se
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 
 ## Business
 
@@ -121,24 +121,24 @@ _Updated: 2025-07-30 13:42_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Högskola, forskning och rymd - Regeringen.se
 - Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 
 ## Jordbruk
 
