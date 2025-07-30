@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-07-30 22:53_
+_Updated: 2025-07-30 23:50_
 
+- Tsunami updates: Advisory canceled for Bay Area; California cities see minimal damage - San Francisco Chronicle
 - Kamala Harris decides not to run for governor of California - NBC News
-- Former dentist is convicted of murdering his wife with poisonous protein shakes - NBC News
-- What to do if there’s a tsunami warning - The Washington Post
+- Trump says US, India still negotiating after 25% US tariff threat - Reuters
 - New York skyscraper mass shooter assembled weapon himself, police say - The Guardian
-- Some air traffic controllers wanted to close a helicopter route near Washington’s airport. It was abandoned as ‘too political.’ - Politico
-- Fact Sheet: President Donald J. Trump Addresses Threats to the United States from the Government of Brazil - The White House (.gov)
 - Texas Republicans release a redistricting plan that could achieve Trump's aims - NPR
+- Some air traffic controllers wanted to close a helicopter route near Washington’s airport. It was abandoned as ‘too political.’ - Politico
 - DOJ says Epstein, Maxwell grand jury transcripts only consist of law enforcement testimony - ABC News
-- Democrats invoke rare Senate rule to force release of Epstein documents - Axios
-- Mamdani backs away from ‘out of step’ defund the police posts - Politico
-- How Israel's blockade caused starvation in Gaza - Axios
+- Virginia city councilman set on fire in attack over "personal matter," police say - CBS News
+- Trump administration is launching a new private health tracking system with Big Tech’s help - AP News
+- Army Secretary withdraws West Point job offer to former Biden official amid pressure from far-right activist - CNN
 - Freed British-Israeli hostage says Starmer 'risks rewarding terror' - BBC
-- Thailand and Cambodia trade accusations but fragile truce holds - Reuters
-- Seven more die from malnutrition in Gaza, Hamas-run ministry says - BBC
-- Microsoft Earnings: What to Expect—and How the Stock Might React - Barron's
+- How Israel's blockade caused starvation in Gaza - Axios
+- Canada will recognize Palestinian state in September, Prime Minister Carney says - CNN
+- Arab states call on Hamas to disarm and relinquish power in unprecedented move - CNN
+- Fed Meeting Today: Federal Reserve Holds Interest Rates Steady, Powell Speech Explains Why — Live Updates - The Wall Street Journal
+- High Noon recalls some 12-packs, saying they may contain Celsius energy drink cans filled with vodka seltzer - CNBC
 - Meta Q2 earnings live updates: Stock surges 10% on strong results as company says AI talent costs are heating up - Business Insider
-- High Noon Says Some Vodka Seltzers Were Mislabeled As Celsius Energy Drinks, Issues Recall - Forbes
-- Starbucks Tests Coconut Drinks, Agave Syrup in Healthier Menu for RFK Jr. Era - Yahoo Finance
+- Microsoft profits soar almost 25% on boom in cloud computing revenues - Financial Times
+- Germ brings end-to-end encrypted messages to Bluesky - TechCrunch
 - Google's Pixel 10 may get magnetic Qi2 charging after all - Engadget
-- Leak Reveals Colors for Entire iPhone 17 Lineup, Including a Bold Orange for the 17 Pro - Gizmodo
