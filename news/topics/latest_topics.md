@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-30 07:53_
+_Updated: 2025-07-30 08:58_
 
 ## Top Stories
 
-- DN Direkt - Tsunamivarningar efter massiv jordbävning i Ryssland - DN
+- Kraftigt jordskalv utanför Ryssland – tsunamivarningar i flera länder - GP
 - SMHI utfärdar varning för skyfall i östra Värmland - SVT Nyheter
-- Pojke drunknade i Boden - GP
 - Kamprads egen lanthandel räddas – ny satsning av handlarfamiljen - Smålandsposten
-- Ukraina: Minst 25 döda i ryska attacker - GP
-- Michael Winiarski: Det finns ingen världsordning som stoppar svälten - DN
-- Stor ökning av magsjukebakterier i Sverige - GP
+- Dousa: ”Israel förstör sitt anseende för varje dag som går” - DN
+- Olika bud om USA:s och Kinas tullpaus - Västerbottens-Kuriren
+- I NATT: Polisjakt efter A-traktor – körde i över 100 km/h - Mariestads-Tidningen
+- Stor ökning av magsjukebakterier i Sverige - DN
 - SKR varnar: Färre skärmar kan hämma barns lärande - Omni
-- ”Karl-Heinz” riskerar väcka myggplågan - DN
-- Tusentals fiskar döda i utsläpp i Laholm - GP
-- Hälsodepartementet: Över 60 000 döda – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Polska ovädret riskerar väcka myggplågan - GP
+- MEDAN DU SOV: Här är nattens händelser - NLT
+- Michael Winiarski: Det finns ingen världsordning som stoppar svälten - DN
 - Thailand bekräftar: Gripen användes vid anfall - Expressen
-- Storbritannien kan erkänna Palestina som stat - Barometern-OT
-- Ukraina riskerar minskat EU-stöd för första gången - GP
+- Han iscensatte ett mord – för att infiltrera Hells Angels - Aftonbladet
+- Svaret från Moskva: Bisarra uppgifter om Zelenskyj och USA - Aftonbladet
 - Därför ska Finland bry sig om Norges position på världsmarknaden - Hufvudstadsbladet
-- Spotify ökade rörelseresultatet men mindre än väntat - aktien faller (uppdatering 2) - Placera.se
-- Teknikstrul på börsen – aktieaffärer dras tillbaka - Ny Teknik
-- Börsras för Ozempic-tillverkaren Novo Nordisk - GP
+- Nordnets sparare lämnar lågriskfonder för aktiemarknaden i juli - Placera.se
+- Beskedet från Nasdaq: Börsen fungerar - Dagens industri
+- Trots Spotifys rapportmiss: "Värderingen fortfarande hög" - EFN
 - Aldrig tidigare skådat: Mystiskt fenomen observerat i vårt solsystem utmanar fysiken - Illustrerad Vetenskap
 - Hoppet släckt om liv på avlägsen planet - Aftonbladet
 
@@ -30,23 +30,23 @@ _Updated: 2025-07-30 07:53_
 - Air Canada Expands Landline Luxury Motorcoach Service, Connects Kingston to its Global Network - Placera.se
 - Kina föreslår global AI-samarbetsorganisation - Computer Sweden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Techarenan News goes English (Partly at least) - Techarenan.news
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - EU to accept Trump's universal tariff but seeks key exemptions, Bloomberg News reports - Reuters
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- 29 October 2017 is the World Psoriasis Day - NewsMachine AB
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
+- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
+- Ulrika Jonsson stämmer News of the World - Sydsvenskan
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - ebp Global acquires Sustaina Company - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -60,10 +60,10 @@ _Updated: 2025-07-30 07:53_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Safe Pro Group Successfully Integrates Artificial Intelligence-Powered Landmine Detection for Drones Selected Under U.S. Army Program of Record - Placera.se
-- Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
+- RBC joins Massachusetts Institute of Technology's (MIT) CSAIL fintech research initiative on the role of AI in the future of finance - Placera.se
 - Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
-- RBC joins Massachusetts Institute of Technology's (MIT) CSAIL fintech research initiative on the role of AI in the future of finance - Placera.se
+- Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
 - Redwire Expands International Collaboration with Japanese Startup SpaceData for Artificial Intelligence and Digital Engineering Systems - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - TDK acquires SoftEye to enable artificial intelligence within smart glasses and grow its AI ecosystem business - Placera.se
@@ -101,6 +101,7 @@ _Updated: 2025-07-30 07:53_
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
@@ -115,7 +116,6 @@ _Updated: 2025-07-30 07:53_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-07-30 07:53_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Här är världens största jordbruk - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- De gick från reko till eko - ST-tidningen
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
