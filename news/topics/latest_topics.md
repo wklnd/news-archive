@@ -1,36 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-30 23:43_
+_Updated: 2025-07-31 00:47_
 
 ## Top Stories
 
 - Flickan Zainab dog av svält i Gaza – vägde mindre än när hon föddes - DN
 - Positiva konsekvensen av Karl-Heinz: ”Avtagit avsevärt” - Mitt i
-- Kvinna död i drunkningsolycka utanför Uppsala - Aftonbladet
-- Regeringen bjuder in S till samarbete om Israel - GP
+- Kraftig brand i Svedala: ”Kommer få brinna ner” - Sydsvenskan
 - DN Direkt - Fem personer räddade från Kebnekaise – fast i ett dygn - DN
+- Ryska turismen ökar – Sverige mot strömmen - SvD
 - Här filmas mannen – när han stjäl mitt i stan - GP
 - Minst elva drunkningsolyckor på tio dagar i Sverige - DN
 - Kraftig ökning – så många värmlänningar har drabbats av magsjuka: ”Sköt hygienen” - NWT
 - Sverige stod värd för handelsdialog mellan Förenta staterna och Folkrepubliken Kina - Regeringen.se
-- 30 juli 10.06, Arbetsplatsolycka, Smedjebacken - polisen.se
-- Finland uppmanar: Överväg erkännande av Palestina - Hufvudstadsbladet
-- Tidning publicerar 18 500 dödade Gazabarns namn - GP
-- Enormt jordskalv – tsunamivågor i Japan och USA - NT
+- Nattens händelser från polisen - Örebronyheter
+- Kanada ska erkänna Palestina i september - GP
+- Tidning publicerar 18 500 dödade Gazabarns namn - Hufvudstadsbladet
+- Expert: Trumps val av Epsteindokument en taktisk manöver - DN
 - Insändare: Nu måste kriget i Ukraina avslutas - Norran
 - Oenig Fed går emot Trump – räntan oförändrad - SvD
 - Donald Trump chockhöjer tullarna mot Brasilien - DN
+- Metas krossar vinstestimaten - Omni
 - Pressinbjudan: Bistånds- och utrikeshandelsminister Benjamin Dousa håller pressbriefing om tullavtalet mellan EU och USA - Regeringen.se
-- USA inför 50-procentiga koppartullar - Aftonbladet
-- Utlandsfödda driver innovationsvågen i amerikansk tech - Dagens PS
-- Ännu ett risigt "Sagan om ringen"-spel? "Tales of the Shire" får låga betyg - MovieZine
+- Så ska Iphone ge dig bättre batteritid och effektiv laddning - mobil.se
+- Tysk film om andra världskriget ser lovande ut. Fem män och en panzerkampfwagen. - Feber se.
 
 ## World News
 
 - Two-Year Real-World Study of LEQEMBI® in the United States Presented at Alzheimer's Association International Conference (AAIC) 2025 - Placera.se
 - Kina föreslår global AI-samarbetsorganisation - Computer Sweden
+- Air Canada Expands Landline Luxury Motorcoach Service, Connects Kingston to its Global Network - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -39,13 +41,11 @@ _Updated: 2025-07-30 23:43_
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Prologis Powers $3.2 Trillion in Global Trade and Supports 3.6 Million Jobs - Placera.se
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Ulrika Jonsson stämmer News of the World - Sydsvenskan
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
-- Venture Global Announces Final Investment Decision and Financial Close for Phase 1 of CP2 LNG - Placera.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Prologis Powers $3.2 Trillion in Global Trade and Supports 3.6 Million Jobs - Placera.se
 - CJ 4DPLEX and Cinemark Expand Relationship, Announcing 20 New SCREENX Locations Across Global Footprint - Placera.se
 
 ## Technology
@@ -77,21 +77,21 @@ _Updated: 2025-07-30 23:43_
 - Accord Announces Banking Facility Update - Placera.se
 - Flower tar in över 500 miljoner i avslutad Serie A-runda - Mynewsdesk
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
+- Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- First Financial Bankshares Announces Promotion of Kyle McVey to EVP Chief Financial Officer of First Financial Bank - Placera.se
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
@@ -148,16 +148,16 @@ _Updated: 2025-07-30 23:43_
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
