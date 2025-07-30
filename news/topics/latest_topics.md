@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-30 06:28_
+_Updated: 2025-07-30 07:02_
 
 ## Top Stories
 
-- Tsunamivarning efter kraftig jordbävning utanför Ryssland - GP
-- Ukraina: Minst 25 döda i ryska attacker - GP
+- Kraftigt jordskalv utanför Ryssland – tsunamivarningar i flera länder - GP
+- SMHI utfärdar varning för skyfall i östra Värmland - SVT Nyheter
 - Kamprads egen lanthandel räddas – ny satsning av handlarfamiljen - Smålandsposten
-- Därför står lastbilar med nödhjälp stilla i Gaza - GP
-- I dag: Ovädret slår mot trafik och flyg - Västerbottens-Kuriren
+- Ukraina: Minst 25 döda i ryska attacker - GP
 - Svaret från Moskva: Bisarra uppgifter om Zelenskyj och USA - Aftonbladet
-- Stor ökning av magsjukebakterier i Sverige - GP
+- ”Då har tåget gått för myndighetsutövningen” - SvD
 - ”Karl-Heinz” riskerar väcka myggplågan - DN
-- Oklart om tullpaus – ”Trumps beslut” - Hufvudstadsbladet
-- Upphängda dockor inget brott –förundersökning läggs ner - SVT Nyheter
-- Storbritannien kan erkänna Palestina som stat - DN
+- Stor ökning av magsjukebakterier i Sverige - GP
+- ”Trump har sista ordet om förlängd tullpaus” - SvD
+- Eldningsförbudet i länet upphör 30 juli - Länsstyrelsen
+- Svältlarmet inifrån Gaza: Tusentals kommer dö - Västerbottens-Kuriren
+- DN Direkt - Thailand: Kambodja bröt vapenvilan - DN
+- Storbritannien erkänner Palestina – om Israel inte uppfyller krav - SVT Nyheter
 - Ukraina riskerar minskat EU-stöd för första gången - GP
-- Thailand: Kambodja bröt vapenvilan igen - GP
-- Flera ihjälskjutna i skyskrapa på Manhattan - HD
 - Därför ska Finland bry sig om Norges position på världsmarknaden - Hufvudstadsbladet
-- Ser uppsida i Astra Zeneca: ”Fortsätter att leverera” - EFN
-- USA: Inte klart med EU om läkemedelstullar - GP
-- Uppgifter: Teknikfel på Stockholmsbörsen - Dagens industri
+- AstraZeneca rapporterar stark tillväxt första halvåret 2025 - Biostock
+- Börsras för Ozempic-tillverkaren Novo Nordisk - GP
+- USA: Inte klart med EU om läkemedelstullar - Folkbladet
 - Aldrig tidigare skådat: Mystiskt fenomen observerat i vårt solsystem utmanar fysiken - Illustrerad Vetenskap
 - Håll Sverige Rent gästar Örebro Stadsfestival - Örebronyheter
 
@@ -29,24 +29,24 @@ _Updated: 2025-07-30 06:28_
 
 - Air Canada Expands Landline Luxury Motorcoach Service, Connects Kingston to its Global Network - Placera.se
 - Kina föreslår global AI-samarbetsorganisation - Computer Sweden
-- Budweiser överraskar oss alltid – lanserar ny kampanj för FIFA Club World Cup 2025 - International Supermarket News
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
-- BIG Travel går in i globalt partnerskap - travelnews.se
-- EU to accept Trump's universal tariff but seeks key exemptions, Bloomberg News reports - Reuters
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Liberty International i Stockholm växer - travelnews.se
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- ebp Global acquires Sustaina Company - Via TT
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Ulrika Jonsson stämmer News of the World - Sydsvenskan
+- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- EU to accept Trump's universal tariff but seeks key exemptions, Bloomberg News reports - Reuters
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
+- ebp Global acquires Sustaina Company - Via TT
 
 ## Technology
 
@@ -124,21 +124,21 @@ _Updated: 2025-07-30 06:28_
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Högskola, forskning och rymd - Regeringen.se
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- E-infrastruktur för livsvetenskap får SSF-anslag - Uppsala universitet
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
 
 ## Jordbruk
 
