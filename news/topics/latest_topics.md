@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-31 00:47_
+_Updated: 2025-07-31 01:44_
 
 ## Top Stories
 
-- Flickan Zainab dog av svält i Gaza – vägde mindre än när hon föddes - DN
+- Mark Carney: Kanada kommer erkänna Palestina – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Positiva konsekvensen av Karl-Heinz: ”Avtagit avsevärt” - Mitt i
-- Kraftig brand i Svedala: ”Kommer få brinna ner” - Sydsvenskan
 - DN Direkt - Fem personer räddade från Kebnekaise – fast i ett dygn - DN
 - Ryska turismen ökar – Sverige mot strömmen - SvD
-- Här filmas mannen – när han stjäl mitt i stan - GP
+- Kvinna avliden efter drunkningsolycka utanför Uppsala - UNT
+- Pojke föll från hopptornet vid Karlslund - Ljusnan
 - Minst elva drunkningsolyckor på tio dagar i Sverige - DN
-- Kraftig ökning – så många värmlänningar har drabbats av magsjuka: ”Sköt hygienen” - NWT
 - Sverige stod värd för handelsdialog mellan Förenta staterna och Folkrepubliken Kina - Regeringen.se
-- Nattens händelser från polisen - Örebronyheter
-- Kanada ska erkänna Palestina i september - GP
+- Kraftig brand i Svedala: ”Kommer få brinna ner” - Sydsvenskan
+- Kraftig ökning – så många värmlänningar har drabbats av magsjuka: ”Sköt hygienen” - NWT
+- Så skapas en tsunami – snabb som ett flygplan - GP
 - Tidning publicerar 18 500 dödade Gazabarns namn - Hufvudstadsbladet
-- Expert: Trumps val av Epsteindokument en taktisk manöver - DN
 - Insändare: Nu måste kriget i Ukraina avslutas - Norran
+- Storbritannien kan erkänna Palestina som stat - DN
 - Oenig Fed går emot Trump – räntan oförändrad - SvD
 - Donald Trump chockhöjer tullarna mot Brasilien - DN
-- Metas krossar vinstestimaten - Omni
-- Pressinbjudan: Bistånds- och utrikeshandelsminister Benjamin Dousa håller pressbriefing om tullavtalet mellan EU och USA - Regeringen.se
+- Meta rusar i efterhandeln efter vinst-kross i rapporten - EFN
+- Youtube testar AI för att identifiera tonåringar - Omni
+- Ännu ett risigt "Sagan om ringen"-spel? "Tales of the Shire" får låga betyg - MovieZine
 - Så ska Iphone ge dig bättre batteritid och effektiv laddning - mobil.se
-- Tysk film om andra världskriget ser lovande ut. Fem män och en panzerkampfwagen. - Feber se.
 
 ## World News
 
@@ -107,8 +107,6 @@ _Updated: 2025-07-31 00:47_
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
@@ -116,29 +114,31 @@ _Updated: 2025-07-31 00:47_
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Högskola, forskning och rymd - Regeringen.se
-- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Högskola, forskning och rymd - Regeringen.se
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
 
 ## Jordbruk
 
@@ -148,17 +148,17 @@ _Updated: 2025-07-31 00:47_
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
