@@ -1,34 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-30 16:49_
+_Updated: 2025-07-30 17:47_
 
 ## Top Stories
 
-- Dahlmeier hittad död efter olycka - SvD
-- Kraftigt jordskalv utanför Ryssland – tsunamivarningar i flera länder - gp.se
+- DN Direkt - Flygtrafik i London begränsad – på grund av ”tekniskt fel” - DN
 - Mellersta infarten översvämmad - Nerikes Allehanda
-- DN Direkt - Hängande lastbil stoppar tågen till Danmark - DN
-- Pojke ramlade från trampolin vid Karlslundsbadet - Ljusnan
+- Kraftigt jordskalv utanför Ryssland – tsunamivarningar i flera länder - gp.se
+- Här bärgas lastbilen som rasade ner mot rälsen - Sydsvenskan
 - Badvärden: ”Föräldrar behöver ha bättre koll på sina barn” - DN
-- Stor ökning av magsjukebakterier i Sverige: ”Brukar nå en topp” - NWT
-- Pojke drunknade i Boden - gp.se
-- Två döda på jobbet under ett dygn - Arbetet
-- Polska ovädret riskerar väcka myggplågan - Piteå-Tidningen
-- DN Direkt - Nio döda i explosion i fyrverkerifabrik i Thailand - DN
-- Arabiska länder uppmanar Hamas att avväpna sig – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Arabiska länder uppmanar Hamas att avväpna sig - gp.se
-- Ukrainas fasa – staden nära att gå förlorad - Expressen
-- Benjamin Dousa: Driver på för fler varor med lägre tullar - Dagens industri
-- Olja: USA hotar både Ryssland och Kina - Dagens PS
-- ”Skakig” siffra i centrum för svenska AI-raketen - SvD
-- Volvo Cars i dialog med Trumps administration - DN
+- Två gripna efter rymning från Sis-hem i Falköping - SVT Nyheter
+- Stor ökning av magsjukebakterier i Sverige - gp.se
+- Sverige stod värd för handelsdialog mellan Förenta staterna och Folkrepubliken Kina - Regeringen.se
+- Barn under 10 år dog efter drunkningsolycka i Boden - SVT Nyheter
+- Uppgifter: ”Lakan-liga” bakom ny inbrottsvåg - Aftonbladet
+- Ilska i regeringen efter Palestina-uppmaningen: : ”Helt onödigt” - Hufvudstadsbladet
+- Australien skärper åldersgränsen för sociala medier - SVT Nyheter
+- Flera sällsynta näbbvalar strandade i norra Europa - DN
+- Frankrike ska flyga in 40 ton nödhjälp till Gaza - DN
+- Trevande på Wall Street inför Fed-besked - Dagens industri
+- Larmet: Nya handelsavtalet med USA hotar EU:s klimatmål - Miljö & Utveckling
+- ”Skakig” siffra i centrum för svenska AI-raketen - svd.se
+- Trump: Tullpausen kommer inte att förlängas - Omni
 - Geforce RTX 50 Super-serien tros landa innan nyår - Nordichardware
-- Enklare att skapa kompositbilder i Photoshops senaste betaversion - Kamera & Bild
+- Tysk film om andra världskriget ser lovande ut. Fem män och en panzerkampfwagen. - Feber se.
 
 ## World News
 
+- Two-Year Real-World Study of LEQEMBI® in the United States Presented at Alzheimer's Association International Conference (AAIC) 2025 - Placera.se
 - Kina föreslår global AI-samarbetsorganisation - Computer Sweden
-- Air Canada Expands Landline Luxury Motorcoach Service, Connects Kingston to its Global Network - Placera.se
+- PayPal Drives Crypto Payments into the Mainstream, Reducing Costs and Expanding Global Commerce - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
@@ -40,13 +41,12 @@ _Updated: 2025-07-30 16:49_
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- 29 October 2017 is the World Psoriasis Day - NewsMachine AB
-- Prologis Powers $3.2 Trillion in Global Trade and Supports 3.6 Million Jobs - Placera.se
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Ulrika Jonsson stämmer News of the World - Sydsvenskan
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
+- Prologis Powers $3.2 Trillion in Global Trade and Supports 3.6 Million Jobs - Placera.se
+- ebp Global acquires Sustaina Company - Via TT
+- CJ 4DPLEX and Cinemark Expand Relationship, Announcing 20 New SCREENX Locations Across Global Footprint - Placera.se
 
 ## Technology
 
@@ -80,18 +80,18 @@ _Updated: 2025-07-30 16:49_
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - TPG RE Finance Trust, Inc. Reports Operating Results for the Quarter Ended June 30, 2025 - Placera.se
-- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - First Financial Bankshares Announces Promotion of Kyle McVey to EVP Chief Financial Officer of First Financial Bank - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- ING completes acquisition of Van Lanschot Kempen stake - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
@@ -113,31 +113,31 @@ _Updated: 2025-07-30 16:49_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Högskola, forskning och rymd - Regeringen.se
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 
 ## Jordbruk
@@ -146,19 +146,19 @@ _Updated: 2025-07-30 16:49_
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- De gick från reko till eko - ST-tidningen
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
