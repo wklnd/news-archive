@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-07-30 04:51_
+_Updated: 2025-07-30 06:30_
 
-- 8.8 magnitude earthquake near Russia prompts tsunami alerts in Hawaii, Alaska and West Coast - ABC News
+- Tsunami alerts issued for US, Japan, Philippines after massive earthquake - Al Jazeera
 - The Manhattan gunman believed he had CTE. What does that mean? - NPR
+- Republican senators confirm former Trump lawyer to lifetime judgeship over objection of Democrats, whistleblowers - CNN
 - Trump says Epstein ‘stole’ young women from Mar-a-Lago spa, including Virginia Giuffre - PBS
-- Senate confirms Emil Bove to Third Circuit, as Dems fail to thwart Trump pick - Politico
 - Senate confirms Susan Monarez as CDC director. Here's what she's said about vaccines, fluoride and more. - CBS News
-- House Oversight Committee rejects Ghislaine Maxwell's request for immunity in exchange for her testimony - NBC News
+- In Gaza, mounting evidence of famine and widespread starvation - UN News
 - Senate floor erupts as Booker accuses Dems of being "complicit" with Trump - Axios
 - 3 people unaccounted for following explosion at Nebraska plant: Mayor - ABC News
-- Trump's EPA targets key health ruling underpinning all US greenhouse gas rules - Reuters
-- Trump's EU trade deal is based on massive energy purchases that are unlikely to materialize, analysts say - CNBC
+- Deadly ‘Wet-Bulb’ Temperatures Are Smothering the Eastern U.S. - Gizmodo
+- EPA moves to end climate regulations under Clean Air Act - The Washington Post
 - The U.K. will recognize a Palestinian state if Israel doesn't agree to a Gaza ceasefire - NPR
-- Gaza crisis could get famine label, global hunger monitor says - Reuters
 - Afghans caught in mass deportations in Iran face an uncertain future at home - NPR
 - Dominican authorities find 1.5 tons of cocaine after boat chase lasting more than 12 hours - CBS News
-- Federal Reserve meeting targets interest rate cut - TheStreet
-- Novo Nordisk, Ozempic Drugmaker, Sees Stock Plunge 20% After Profit Warning - The New York Times
+- Palestinian teacher denied entry at SFO last month killed in the West Bank - SFGATE
+- The Fed is expected to hold rates steady as Trump pushes for a cut - NBC News
+- Starbucks Sales Still Show Weakness. Same-Store Sales Dip 2%. - Barron's
 - UnitedHealth Group plans "remediation actions" as insurance costs balloon - Axios
-- Starbucks profits plunge as turnaround costs add up - Financial Times
-- Leaker shares clearest look yet at all the iPhone 17 dummy units - 9to5Mac
+- Union Pacific and Norfolk seek 1st transcontinental railroad through a massive merger - AP News
 - Apple releases iOS 18.6, macOS 15.6, and other updates as current gen winds down - Ars Technica
+- Google’s AI Mode gets new ‘Canvas’ feature, real-time help with Search Live, and more - TechCrunch
