@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-30 15:57_
+_Updated: 2025-07-30 16:49_
 
 ## Top Stories
 
 - Dahlmeier hittad död efter olycka - SvD
-- Kraftigt jordskalv utanför Ryssland – tsunamivarningar i flera länder - GP
+- Kraftigt jordskalv utanför Ryssland – tsunamivarningar i flera länder - gp.se
 - Mellersta infarten översvämmad - Nerikes Allehanda
+- DN Direkt - Hängande lastbil stoppar tågen till Danmark - DN
+- Pojke ramlade från trampolin vid Karlslundsbadet - Ljusnan
 - Badvärden: ”Föräldrar behöver ha bättre koll på sina barn” - DN
-- Bil i räcket på E4 – mycket stor trafikpåverkan - UNT
-- Två gripna efter rymning från Sis-hem i Falköping - SVT Nyheter
-- DN Direkt - Försvunnen dykare hittad död - DN
-- Barn under 10 år dog efter drunkningsolycka i Boden - SVT Nyheter
 - Stor ökning av magsjukebakterier i Sverige: ”Brukar nå en topp” - NWT
-- ”Karl-Heinz” riskerar väcka myggplågan - DN
-- Thailand: Nio döda i explosion i fyrverkerifabrik - Aftonbladet
-- Arabländernas krav: Ge upp, Hamas - Hufvudstadsbladet
-- Hjälporganisationer: En nivå av trauma vi inte sett förr – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Pojke drunknade i Boden - gp.se
+- Två döda på jobbet under ett dygn - Arbetet
+- Polska ovädret riskerar väcka myggplågan - Piteå-Tidningen
+- DN Direkt - Nio döda i explosion i fyrverkerifabrik i Thailand - DN
+- Arabiska länder uppmanar Hamas att avväpna sig – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Arabiska länder uppmanar Hamas att avväpna sig - gp.se
 - Ukrainas fasa – staden nära att gå förlorad - Expressen
-- Trump efter BNP-siffrorna: Sänk räntan - EFN
 - Benjamin Dousa: Driver på för fler varor med lägre tullar - Dagens industri
 - Olja: USA hotar både Ryssland och Kina - Dagens PS
 - ”Skakig” siffra i centrum för svenska AI-raketen - SvD
-- Sårbarheter täpps till i Apples operativsystem - Computer Sweden
+- Volvo Cars i dialog med Trumps administration - DN
 - Geforce RTX 50 Super-serien tros landa innan nyår - Nordichardware
+- Enklare att skapa kompositbilder i Photoshops senaste betaversion - Kamera & Bild
 
 ## World News
 
 - Kina föreslår global AI-samarbetsorganisation - Computer Sweden
 - Air Canada Expands Landline Luxury Motorcoach Service, Connects Kingston to its Global Network - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
-- EU to accept Trump's universal tariff but seeks key exemptions, Bloomberg News reports - Reuters
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
+- 29 October 2017 is the World Psoriasis Day - NewsMachine AB
 - Prologis Powers $3.2 Trillion in Global Trade and Supports 3.6 Million Jobs - Placera.se
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Ulrika Jonsson stämmer News of the World - Sydsvenskan
+- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 
 ## Technology
 
@@ -65,17 +65,17 @@ _Updated: 2025-07-30 15:57_
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
 - Redwire Expands International Collaboration with Japanese Startup SpaceData for Artificial Intelligence and Digital Engineering Systems - Placera.se
-- Global Military Drone Market Size on a Trajectory Toward $88 Billion as Demand Skyrockets - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - TDK acquires SoftEye to enable artificial intelligence within smart glasses and grow its AI ecosystem business - Placera.se
 - Trane Technologies Completes Acquisition of BrainBox AI - Placera.se
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 
 ## Business
 
-- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
+- Accord Announces Banking Facility Update - Placera.se
 - Flower tar in över 500 miljoner i avslutad Serie A-runda - Mynewsdesk
-- DeFi Technologies' Subsidiary Valour, Surpasses US$1 Billion in Assets Under Management - Placera.se
+- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
@@ -146,19 +146,19 @@ _Updated: 2025-07-30 15:57_
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - De gick från reko till eko - ST-tidningen
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
