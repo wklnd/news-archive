@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-31 06:26_
+_Updated: 2025-07-31 07:00_
 
 ## Top Stories
 
 - Kraftig explosion i bostadshus i Malmö - SvD
+- Nya ryska anfall mot Kiev - GP
+- Vebjørn, 29, hungerstrejkar mot oljan – och sin egen kusin - Aftonbladet
 - Mark Carney: Kanada kommer erkänna Palestina – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Jobbade med blommor som gravid – dottern blev sjuk och dog - GP
-- Vebjørn, 29, hungerstrejkar mot oljan – och sin egen kusin - Aftonbladet
 - Positiva konsekvensen av Karl-Heinz: ”Avtagit avsevärt” - Mitt i
-- Nakenheten på väg att försvinna från de svenska badhusen - GP
-- I dag faller domen mot massmördaren från Malmö - Sydsvenskan
+- Olovlig skolledighet kan ge böter - TV4 Nyheterna
 - Här räddar 100 pensionärer sommarens äldreomsorg - DN
-- Olovlig skolledighet kan ge böter - GP
-- Ledare: Rättsväsendet låter antisemitism passera - NWT
+- I dag faller domen mot massmördaren från Malmö - Sydsvenskan
+- Minst 11 drunkningsolyckor på 10 dagar - GP
 - Chile evakuerar över en miljon efter tsunamivarning - SVT Nyheter
-- Kanada ska erkänna Palestina i september - Hufvudstadsbladet
-- USA och Sydkorea överens om handelsavtal - GP
 - Ingen Kamala Harris i Kaliforniens guvernörsval - Västerbottens-Kuriren
-- Donald Trump chockhöjer tullarna mot Brasilien - DN
+- Kanada ska erkänna Palestina i september - Hufvudstadsbladet
+- DN Direkt - USA inför 15-procentiga handelstullar för Sydkorea - DN
 - Oenig Fed går emot Trump – räntan oförändrad - SvD
-- Meta rusar i efterhandeln efter vinst-kross i rapporten - EFN
-- Ändrar vätskeregler på flyg – risk för förvirring - GP
+- Meta upp tvåsiffrigt i efterhandeln efter vinstkross i rapporten - EFN
+- Donald Trump chockhöjer tullarna mot Brasilien - DN
+- Ändrar vätskeregler på flyg – risk för förvirring - Dagens industri
 - Raket kraschade efter 14 sekunder: ”Glad” - Aftonbladet
-- Elgatos nya webbkamera har utbytbara linsfilter. Kan även spela in i 4K/60. - Feber se.
+- Danny Boyle om ”28 Years Later”: "Därför använde vi Iphone för att filma" - Macworld.se
 
 ## World News
 
@@ -33,6 +33,7 @@ _Updated: 2025-07-31 06:26_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Techarenan News goes English (Partly at least) - Techarenan.news
@@ -40,7 +41,6 @@ _Updated: 2025-07-31 06:26_
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
@@ -73,42 +73,42 @@ _Updated: 2025-07-31 06:26_
 
 ## Business
 
-- Selective Director Steps Down to Focus on Founder Role - Placera.se
 - Accord Announces Banking Facility Update - Placera.se
 - Flower tar in över 500 miljoner i avslutad Serie A-runda - Mynewsdesk
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
-- Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
+- Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- First Financial Bankshares Announces Promotion of Kyle McVey to EVP Chief Financial Officer of First Financial Bank - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
 - Episurf Medical annonserar omstruktureringsinitiativ och ökat fokus på den amerikanska marknaden - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
+- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
