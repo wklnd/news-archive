@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-31 22:46_
+_Updated: 2025-07-31 23:44_
 
 ## Top Stories
 
-- Intergiro försatt i konkurs – Citigiro har etablerat kontakt med konkursförvaltaren - Cision News
-- Häcken vidare efter straffrysare – målvakten hjälte - Aftonbladet
 - Rysslands offensiv intensifieras – resursbrist i Ukraina - GP
-- Norrköping: tonårspojke avliden efter arbetsolycka - Arbetaren
+- Tonåring död i arbetsplatsolycka - Arbetet
 - Expert: Erkännanden ett sätt att pressa Israel – och USA - DN
 - Här ligger skogen som plockepinn efter tromben – se drönarbilderna - SVT Nyheter
+- Ny lag i Ryssland – förbjudet att söka efter ”extremism” på nätet - SvD
+- Här rustas blivande lärare för att möta verkligheten: Stökiga elever - DN
 - DN Direkt - Ny gränskontroll – ansiktsfoto och fingeravtryck - DN
 - Hittade pytonorm i skogen – ”var aldrig rädd” - GP
-- SVT-journalister kan stoppas från att bevaka Gaza - Västerbottens-Kuriren
-- Svenska IS-terroristen får livstid för avrättning av jordansk pilot - SVT Nyheter
+- Nyfödd bebis dog efter felbehandling - SVT Nyheter
+- Butikens golv täcktes av vatten: "Slangar och vatten överallt" - Södermanlands Nyheter
 - Efter kritikstormen: Ny korruptionslag godkänd i Ukraina - DN
 - Franska städer inför utegångsförbud för unga - DN
 - Israel har attackerat Hizbollah-mål i Libanon - GP
 - Minst 91 dödade i jakt på mat i Gaza - Västerbottens-Kuriren
+- Nynoterade Figma rusade 240 procent – två flugor i en smäll för Klarnas vd - EFN
 - Tackade nej till en miljard från Zuckerberg - Dagens PS
-- Aker i jätteprojekt med OpenAI och Nvidia – aktien rusar - EFN
+- Aker rusar – ska bygga ”AI-gigafabrik” - Dagens industri
 - Oenig Fed går emot Trump – räntan oförändrad - SvD
-- Uppgifter: Klarna siktar på börsen till hösten - Omni
 - DN Direkt - Efterlängtat spel släpps i oktober - DN
 - HELA lanseras på Switch 2 - exklusivt utvalt till Nintendo Direct - Cision News
 
@@ -38,15 +38,15 @@ _Updated: 2025-07-31 22:46_
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
-- BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Ulrika Jonsson stämmer News of the World - Sydsvenskan
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
-- Prologis Powers $3.2 Trillion in Global Trade and Supports 3.6 Million Jobs - Placera.se
 - Greenway Announces International Supply Agreement with 4C LABS - Placera.se
+- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
 
 ## Technology
 
@@ -73,7 +73,6 @@ _Updated: 2025-07-31 22:46_
 
 ## Business
 
-- Selective Director Steps Down to Focus on Founder Role - Placera.se
 - Accord Announces Banking Facility Update - Placera.se
 - Flower tar in över 500 miljoner i avslutad Serie A-runda - Mynewsdesk
 - DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
@@ -88,11 +87,12 @@ _Updated: 2025-07-31 22:46_
 - Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
-- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - First Financial Bankshares Announces Promotion of Kyle McVey to EVP Chief Financial Officer of First Financial Bank - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ING completes acquisition of Van Lanschot Kempen stake - Placera.se
+- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 
 ## Health
 
@@ -120,45 +120,45 @@ _Updated: 2025-07-31 22:46_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- 5 myter om öppen vetenskap - Läkartidningen
+- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Högskola, forskning och rymd - Regeringen.se
-- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
