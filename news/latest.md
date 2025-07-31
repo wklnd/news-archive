@@ -1,22 +1,22 @@
 # Top News Headlines
 
-_Updated: 2025-07-31 04:50_
+_Updated: 2025-07-31 06:29_
 
-- Kamchatka earthquake is among top 10 strongest ever recorded. Here’s what they have in common - PBS
-- Park Avenue Killer Bought Rifle for $1,400 From His Casino Boss - The New York Times
-- Kamala Harris will not run for California governor, opening door for 2028 run - The Washington Post
-- Trump Says US to Impose 15% Tariff on South Korean Goods in Deal - Bloomberg
-- Trump's comments on Epstein raise new questions about when and why they fell out - ABC News
-- Trump hits Brazil with tariffs, sanctions but key sectors excluded - Reuters
 - Suspect arrested after couple killed while hiking in Arkansas park: Police - ABC News
+- Hawaii Cruise Ships Leave Passengers Behind Amid Tsunami Warnings - The New York Times
+- Trump says US will set 15% tariff on South Korean imports under new deal - Reuters
+- Las Vegas casino supervisor sold gunman the rifle used in deadly NYC attack, police say - PBS
+- Kamala Harris will not run for California governor, opening door for 2028 run - The Washington Post
+- Virginia Giuffre case returns to spotlight after Trump remarks - Axios
+- Brown University Makes a Deal With the White House to Restore Funding - The New York Times
+- Virgina city council member set on fire in workplace attack - The Hill
 - Squeezed ‘like a lemon’: White House raising the pressure ahead of Friday tariff deadline - Politico
-- Brown University strikes agreement with Trump administration to restore lost federal funding - AP News
 - Mamdani, After Visiting Slain Officer’s Family, Defends Stance on Police - The New York Times
 - Canada to recognize Palestine in September, subject to reform commitments - Axios
 - Arab states call on Hamas to disarm and relinquish power in unprecedented move - CNN
-- UK may recognize a Palestinian state. And, EPA proposes removing pollution limits - NPR
-- NYC rabbis arrested while protesting hunger in Gaza - Gothamist
-- Fed Meeting Today: Federal Reserve Holds Interest Rates Steady, Powell Speech Explains Why — Live Updates - The Wall Street Journal
+- How Gaza’s hunger crisis reached its “worst-case scenario” - vox.com
+- At least 37 killed, 270 injured while seeking aid in northern Gaza: Hospital - ABC News
+- Global stock index dips, dollar climbs as Fed's Powell holds off on Sept rate cut verdict - Reuters
 - Microsoft Stock Surges 7% After Earnings, Heads to $4T Market Cap. What Blew Investors Away. - Barron's
 - Meta Q2 earnings recap: Stock surges 12% after hours on strong results as AI talent costs heat up - Business Insider
 - Celsius energy drink cans filled with vodka in production mishap - BBC
