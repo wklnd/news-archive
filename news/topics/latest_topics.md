@@ -1,35 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-31 15:20_
+_Updated: 2025-07-31 15:56_
 
 ## Top Stories
 
+- Tonåring död i arbetsplatsolycka - Arbetet
 - Regeringen vill frysa handelsavtal med Israel ”så fort som möjligt” - DN
 - Svenska IS-terroristen får livstid för avrättning av jordansk pilot - SVT Nyheter
-- Gul varning för kraftig åska längs Norrlands kust - Omni
-- Man skadad i maskinolycka – polis utreder händelsen - SVT Nyheter
-- Tonåring död i arbetsplatsolycka - Arbetet
-- Ny gränskontroll – ansiktsfoto och fingeravtryck - GP
-- Kvinna död efter mc-krock med bil - GP
-- Risk för ras efter ”Karl-Heinz” framfart - GP
-- Folkrättsprofessor: Trump har underblåst folkmord i Gaza - DN
+- SMHI varnar för åskoväder i norr - Aftonbladet
 - Sex döda i ryskt anfall mot Kiev - GP
-- Manhattanmördaren skyllde på idrottsskada - Hufvudstadsbladet
-- Dousa: Bara Israel kan få bort svälten i Gaza - Västerbottens-Kuriren
+- Kritiken växer mot Israels hantering av journalister i Gaza - DN
+- DN Direkt - Ny gränskontroll – ansiktsfoto och fingeravtryck - DN
+- SVT-journalister kan stoppas från att bevaka Gaza - GP
+- Risk för ras efter ”Karl-Heinz” framfart - GP
+- DN Direkt - Kvinna död efter mc-krock med bil - DN
+- Trump hotar Kanada efter stöd för Palestina - Hufvudstadsbladet
+- Manhattanmördarens lapp: Skyllde på idrottsskada - Corren
 - Megastor vandrande pinne upptäckt – halvmeter lång - Aftonbladet
-- Deadline för USA-tullar – här är hela listan - SvD
-- Oenig Fed går emot Trump – räntan oförändrad - GP
-- Tullsmällen för lyxbilstillverkarna – 8,59 miljarder kronor - Dagens PS
+- Miljontals vänder hem efter tsunamivarningarna - GP
 - Klarna planerar att börsnoteras i höst - EFN
+- Deadline för USA-tullar – här är hela listan - SvD
+- Affärsvärlden: Tietoevry förblir en svag aktie trots omstöpning - Börsvärlden
+- Tullsmällen för lyxbilstillverkarna – 8,59 miljarder kronor - Dagens PS
 - Proton lanserar gratis app för 2FA - Computer Sweden
 - Efter 14 minuter kraschade raketen: ”Glad” - Ny Teknik
-- Här är nyheterna i version 26 av Safari - Computer Sweden
 
 ## World News
 
-- S&P Global Reports Second Quarter Results - Placera.se
-- Kina föreslår global AI-samarbetsorganisation - Computer Sweden
 - Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
+- Kina föreslår global AI-samarbetsorganisation - Computer Sweden
+- S&P Global Reports Second Quarter Results - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Two-Year Real-World Study of LEQEMBI® in the United States Presented at Alzheimer's Association International Conference (AAIC) 2025 - Placera.se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
@@ -102,9 +102,9 @@ _Updated: 2025-07-31 15:20_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
@@ -114,8 +114,8 @@ _Updated: 2025-07-31 15:20_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 
 ## Science
 
@@ -132,11 +132,11 @@ _Updated: 2025-07-31 15:20_
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 
