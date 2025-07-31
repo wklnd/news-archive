@@ -1,49 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-31 16:49_
+_Updated: 2025-07-31 17:46_
 
 ## Top Stories
 
-- Tromb i Dalarna – träd blockerar vägar i Vansbro och Malung - SVT Nyheter
 - Åttaåriga Sela i Gaza förstår inte varför hon inte får mat - DN
-- Regeringen vill frysa handelsavtal med Israel ”så fort som möjligt” - DN
-- SMHI varnar för åskoväder i norr - Aftonbladet
-- Ny gränskontroll – ansiktsfoto och fingeravtryck - GP
 - Tonåring död i arbetsplatsolycka - Arbetet
+- Regeringen vill frysa handelsavtal med Israel ”så fort som möjligt” - DN
+- SMHI varnar för åskoväder längs Norrlandskusten - SVT Nyheter
+- Tromb i Dalarna – träd blockerar vägar - GP
+- Ny gränskontroll – ansiktsfoto och fingeravtryck - GP
 - Svenska IS-terroristen får livstid för avrättning av jordansk pilot - SVT Nyheter
 - SVT-journalister kan stoppas från att bevaka Gaza - GP
+- Otäck parasit ökar i Sverige – svår att upptäcka - Marcus Oscarsson
 - Drabbade av bombdåd JO-anmäler tingsrätt: ”Arg på rättsväsendet” - DN
-- DN Direkt - Kvinna död efter mc-krock med bil - DN
-- Sex döda i ryskt anfall mot Kiev - GP
-- Trump hotar Kanada efter stöd för Palestina - Västerbottens-Kuriren
-- Manhattanmördaren skyllde på idrottsskada - Hufvudstadsbladet
+- Flera döda i ryskt anfall mot Kiev - GP
+- Efter kritikstormen: Ny korruptionslag godkänd i Ukraina - DN
 - Megastor vandrande pinne upptäckt – halvmeter lång - Aftonbladet
+- Libanon: Hizbollah ska avväpnas - Västerbottens-Kuriren
 - Deadline för USA-tullar – här är hela listan - SvD
-- Klarna planerar att börsnoteras i höst - EFN
 - Affärsvärlden: Tietoevry förblir en svag aktie trots omstöpning - Börsvärlden
-- Tullsmällen för lyxbilstillverkarna – 8,59 miljarder kronor - Dagens PS
+- Oenig Fed går emot Trump – räntan oförändrad - GP
+- USA och Sydkorea överens om nytt handelsavtal - EFN
 - Proton lanserar gratis app för 2FA - Computer Sweden
-- Efter 14 minuter kraschade raketen: ”Glad” - Ny Teknik
+- Efter 14 minuter kraschade raketen: ”Glad” - Nyteknik
 
 ## World News
 
-- Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
+- TGE to Showcase Unparalleled Media Power Through a Global Project Featuring Jackson Wang's L'Officiel Covers in 10 Countries and Regions - Placera.se
 - Kina föreslår global AI-samarbetsorganisation - Computer Sweden
+- Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
 - S&P Global Reports Second Quarter Results - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Two-Year Real-World Study of LEQEMBI® in the United States Presented at Alzheimer's Association International Conference (AAIC) 2025 - Placera.se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
-- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
-- Air Canada Expands Landline Luxury Motorcoach Service, Connects Kingston to its Global Network - Placera.se
+- Two-Year Real-World Study of LEQEMBI® in the United States Presented at Alzheimer's Association International Conference (AAIC) 2025 - Placera.se
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Air Canada Expands Landline Luxury Motorcoach Service, Connects Kingston to its Global Network - Placera.se
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Prologis Powers $3.2 Trillion in Global Trade and Supports 3.6 Million Jobs - Placera.se
 - Greenway Announces International Supply Agreement with 4C LABS - Placera.se
@@ -100,22 +100,22 @@ _Updated: 2025-07-31 16:49_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Johan von Schreeb - Karolinska Institutet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 
 ## Science
 
@@ -132,11 +132,11 @@ _Updated: 2025-07-31 16:49_
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 
@@ -150,15 +150,15 @@ _Updated: 2025-07-31 16:49_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
-- Här är världens största jordbruk - ATL
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - De gick från reko till eko - ST-tidningen
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
