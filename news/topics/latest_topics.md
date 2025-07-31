@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-31 17:46_
+_Updated: 2025-07-31 18:53_
 
 ## Top Stories
 
-- Åttaåriga Sela i Gaza förstår inte varför hon inte får mat - DN
-- Tonåring död i arbetsplatsolycka - Arbetet
-- Regeringen vill frysa handelsavtal med Israel ”så fort som möjligt” - DN
-- SMHI varnar för åskoväder längs Norrlandskusten - SVT Nyheter
-- Tromb i Dalarna – träd blockerar vägar - GP
-- Ny gränskontroll – ansiktsfoto och fingeravtryck - GP
-- Svenska IS-terroristen får livstid för avrättning av jordansk pilot - SVT Nyheter
-- SVT-journalister kan stoppas från att bevaka Gaza - GP
-- Otäck parasit ökar i Sverige – svår att upptäcka - Marcus Oscarsson
-- Drabbade av bombdåd JO-anmäler tingsrätt: ”Arg på rättsväsendet” - DN
 - Flera döda i ryskt anfall mot Kiev - GP
+- Norrköping: tonårspojke avliden efter arbetsolycka - Arbetaren
+- Åttaåriga Sela i Gaza förstår inte varför hon inte får mat - DN
+- Tromb i Dalarna – fällde 50-tal träd över vägar i Vansbro och Malung - SVT Nyheter
+- Regeringen vill frysa handelsavtal med Israel ”så fort som möjligt” - DN
+- SMHI varnar för åskoväder i norr - Aftonbladet
+- Svenska IS-terroristen får livstid för avrättning av jordansk pilot - SVT Nyheter
+- Hittade pytonorm i skogen – ”var aldrig rädd” - GP
+- Journalistuppropet för Gaza kan få konsekvenser för fortsatt rapportering - DN
+- DN Direkt - Kvinna död efter mc-krock med bil - DN
+- Trump hotar Kanada efter stöd för Palestina - GP
 - Efter kritikstormen: Ny korruptionslag godkänd i Ukraina - DN
+- Israel har attackerat mål i Libanon - Västerbottens-Kuriren
 - Megastor vandrande pinne upptäckt – halvmeter lång - Aftonbladet
-- Libanon: Hizbollah ska avväpnas - Västerbottens-Kuriren
-- Deadline för USA-tullar – här är hela listan - SvD
+- Trump sätter press på Fed – oro för politisering av den amerikanska centralbanken - SvD
+- Deadline för USA-tullar – här är hela listan - DN
+- Klarna laddar för börsen – kan noteras redan i september - Breakit
 - Affärsvärlden: Tietoevry förblir en svag aktie trots omstöpning - Börsvärlden
-- Oenig Fed går emot Trump – räntan oförändrad - GP
-- USA och Sydkorea överens om nytt handelsavtal - EFN
 - Proton lanserar gratis app för 2FA - Computer Sweden
 - Efter 14 minuter kraschade raketen: ”Glad” - Nyteknik
 
@@ -41,9 +41,9 @@ _Updated: 2025-07-31 17:46_
 - Air Canada Expands Landline Luxury Motorcoach Service, Connects Kingston to its Global Network - Placera.se
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BIG Travel går in i globalt partnerskap - travelnews.se
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Prologis Powers $3.2 Trillion in Global Trade and Supports 3.6 Million Jobs - Placera.se
 - Greenway Announces International Supply Agreement with 4C LABS - Placera.se
@@ -52,14 +52,14 @@ _Updated: 2025-07-31 17:46_
 
 - Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
-- Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
+- ZenaTech’s ZenaDrone Initiates AUVSI Membership Upgrade, Enabling Leadership on Drone Policy and Strengthening US Defense and Government Engagement - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - EY.ai | EY - Sverige - EY
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Safe Pro Group Successfully Integrates Artificial Intelligence-Powered Landmine Detection for Drones Selected Under U.S. Army Program of Record - Placera.se
 - RBC joins Massachusetts Institute of Technology's (MIT) CSAIL fintech research initiative on the role of AI in the future of finance - Placera.se
 - Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
@@ -77,22 +77,22 @@ _Updated: 2025-07-31 17:46_
 - Accord Announces Banking Facility Update - Placera.se
 - Flower tar in över 500 miljoner i avslutad Serie A-runda - Mynewsdesk
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
-- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
-- Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
-- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - First Financial Bankshares Announces Promotion of Kyle McVey to EVP Chief Financial Officer of First Financial Bank - Placera.se
-- ING completes acquisition of Van Lanschot Kempen stake - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -124,21 +124,21 @@ _Updated: 2025-07-31 17:46_
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Högskola, forskning och rymd - Regeringen.se
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
+- E-infrastruktur för livsvetenskap får SSF-anslag - Uppsala universitet
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
 
 ## Jordbruk
 
