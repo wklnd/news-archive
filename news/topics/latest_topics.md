@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-31 09:45_
+_Updated: 2025-07-31 10:54_
 
 ## Top Stories
 
+- Regeringen vill stoppa handeln med Israel - SVT Nyheter
+- Kritiken växer mot Israels hantering av journalister i Gaza - DN
+- Kraftig explosion i bostadshus i Malmö - Aftonbladet
 - Sex döda i ryskt anfall mot Kiev - GP
-- Kraftig explosion i bostadshus i Malmö - SVT Nyheter
 - Vebjørn, 29, hungerstrejkar mot oljan – och sin egen kusin - Aftonbladet
-- Jobbade med blommor som gravid – dottern blev sjuk och dog - GP
-- Besökare med osynliga barn och hundar snor familjeparkeringar - Sydsvenskan
-- ”Ser inte att det finns en sådan ’hot spot’ just nu” - SvD
+- SMHI tog bort varningarna – då kom skyfallet - SVT Nyheter
 - Här räddar 100 pensionärer sommarens äldreomsorg - DN
-- Olovlig skolledighet kan ge böter - GP
+- Risk för ras efter ”Karl-Heinz” framfart - GP
+- Eldningsförbud upphävs i Kalmar län - SVT Nyheter
 - I dag faller domen mot massmördaren från Malmö - Sydsvenskan
-- Laddad Karl Heinz gör comeback – ovädret tillbaka - UNT
-- Chile evakuerar över en miljon efter tsunamivarning - SVT Nyheter
-- Manhattanmördarens lapp: Skyllde på idrottsskada - Corren
 - Megastor vandrande pinne upptäckt – halvmeter lång - Aftonbladet
-- Rekordstöld på franskt tåg – smycken för miljoner - Folkbladet
+- Manhattanmördarens lapp: Skyllde på idrottsskada - Corren
+- Libanon: Hizbollah ska avväpnas - Västerbottens-Kuriren
+- Chile evakuerar över en miljon efter tsunamivarning - SVT Nyheter
 - Oenig Fed går emot Trump – räntan oförändrad - SvD
 - USA och Sydkorea överens om handelsavtal - Tidningen Näringslivet
 - Flera sänkta riktkurser för Novo Nordisk efter börskollapsen - EFN
-- Kurskollapsade Tobii rekylerar - Dagens industri
+- Meta Platforms slog förväntningarna - aktien rusade i efterhandeln - Börsvärlden
 - Efter 14 minuter kraschade raketen: ”Glad” - Ny Teknik
-- Dropbox lägger ner sin lösenordshanterare - PC för Alla
+- Chris Harris kör Ford med Max Verstappen. Dock ej Fåården. - Feber se.
 
 ## World News
 
@@ -66,10 +66,10 @@ _Updated: 2025-07-31 09:45_
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
 - Redwire Expands International Collaboration with Japanese Startup SpaceData for Artificial Intelligence and Digital Engineering Systems - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Global Military Drone Market Size on a Trajectory Toward $88 Billion as Demand Skyrockets - Placera.se
 - TDK acquires SoftEye to enable artificial intelligence within smart glasses and grow its AI ecosystem business - Placera.se
 - Trane Technologies Completes Acquisition of BrainBox AI - Placera.se
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 
 ## Business
 
@@ -102,10 +102,11 @@ _Updated: 2025-07-31 09:45_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
@@ -115,7 +116,6 @@ _Updated: 2025-07-31 09:45_
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 
 ## Science
 
