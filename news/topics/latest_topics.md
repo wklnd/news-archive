@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-31 07:51_
+_Updated: 2025-07-31 08:57_
 
 ## Top Stories
 
-- Kraftig explosion i bostadshus i Malmö - SvD
+- Kraftig explosion i bostadshus i Malmö - SVT Nyheter
 - Sex döda i ryskt anfall mot Kiev - GP
 - Vebjørn, 29, hungerstrejkar mot oljan – och sin egen kusin - Aftonbladet
-- Trump hotar Kanada efter stöd för Palestina - Västerbottens-Kuriren
 - Jobbade med blommor som gravid – dottern blev sjuk och dog - GP
-- Nakenheten på väg att försvinna från de svenska badhusen - GP
+- Besökare med osynliga barn och hundar snor familjeparkeringar - Sydsvenskan
+- DN Direkt - Kvinna död efter drunkningsolycka i Uppsala - DN
 - I dag faller domen mot massmördaren från Malmö - Sydsvenskan
 - Här räddar 100 pensionärer sommarens äldreomsorg - DN
-- DN Direkt - Kraftig explosion i bostadshus i Malmö - DN
 - Minst 11 drunkningsolyckor på 10 dagar - GP
+- "Äldre män sätter livet till när vi stänger simhallar" - Folkbladet
 - Chile evakuerar över en miljon efter tsunamivarning - SVT Nyheter
-- Flickan Zainab dog av svält i Gaza – vägde mindre än när hon föddes - DN
-- Ingen Kamala Harris i Kaliforniens guvernörsval - SVT Nyheter
-- DN Direkt - USA inför 15-procentiga handelstullar för Sydkorea - DN
+- Manhattanmördarens lapp: Skyllde på idrottsskada - Corren
+- Ingen Kamala Harris i Kaliforniens guvernörsval - Västerbottens-Kuriren
+- Trump hotar Kanada efter stöd för Palestina - Hufvudstadsbladet
 - Oenig Fed går emot Trump – räntan oförändrad - SvD
-- Meta upp tvåsiffrigt i efterhandeln efter vinstkross i rapporten - EFN
+- USA och Sydkorea överens om handelsavtal - Tidningen Näringslivet
+- Flera sänkta riktkurser för Novo Nordisk efter börskollapsen - EFN
 - Ändrar vätskeregler på flyg – risk för förvirring - DN
-- Pressinbjudan: Bistånds- och utrikeshandelsminister Benjamin Dousa håller pressbriefing om tullavtalet mellan EU och USA - Regeringen.se
 - Efter 14 minuter kraschade raketen: ”Glad” - Ny Teknik
-- LG släpper ny Stanby Me-TV med högre pris - m3.se
+- Goat är en film om en get med sportambitioner. Har premiär nästa år. - Feber se.
 
 ## World News
 
@@ -37,14 +37,14 @@ _Updated: 2025-07-31 07:51_
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - Prologis Powers $3.2 Trillion in Global Trade and Supports 3.6 Million Jobs - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Venture Global Announces Final Investment Decision and Financial Close for Phase 1 of CP2 LNG - Placera.se
 - CJ 4DPLEX and Cinemark Expand Relationship, Announcing 20 New SCREENX Locations Across Global Footprint - Placera.se
 - Introducing PayPal World: a global platform connecting the world's largest payment systems and digital wallets, starting with interoperability to PayPal and Venmo - Placera.se
 
@@ -76,23 +76,23 @@ _Updated: 2025-07-31 07:51_
 - Selective Director Steps Down to Focus on Founder Role - Placera.se
 - Accord Announces Banking Facility Update - Placera.se
 - Flower tar in över 500 miljoner i avslutad Serie A-runda - Mynewsdesk
-- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- First Financial Bankshares Announces Promotion of Kyle McVey to EVP Chief Financial Officer of First Financial Bank - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- ING completes acquisition of Van Lanschot Kempen stake - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- First Financial Bankshares Announces Promotion of Kyle McVey to EVP Chief Financial Officer of First Financial Bank - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 
 ## Health
 
