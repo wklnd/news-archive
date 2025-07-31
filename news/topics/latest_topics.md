@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-31 15:56_
+_Updated: 2025-07-31 16:49_
 
 ## Top Stories
 
-- Tonåring död i arbetsplatsolycka - Arbetet
+- Tromb i Dalarna – träd blockerar vägar i Vansbro och Malung - SVT Nyheter
+- Åttaåriga Sela i Gaza förstår inte varför hon inte får mat - DN
 - Regeringen vill frysa handelsavtal med Israel ”så fort som möjligt” - DN
-- Svenska IS-terroristen får livstid för avrättning av jordansk pilot - SVT Nyheter
 - SMHI varnar för åskoväder i norr - Aftonbladet
-- Sex döda i ryskt anfall mot Kiev - GP
-- Kritiken växer mot Israels hantering av journalister i Gaza - DN
-- DN Direkt - Ny gränskontroll – ansiktsfoto och fingeravtryck - DN
+- Ny gränskontroll – ansiktsfoto och fingeravtryck - GP
+- Tonåring död i arbetsplatsolycka - Arbetet
+- Svenska IS-terroristen får livstid för avrättning av jordansk pilot - SVT Nyheter
 - SVT-journalister kan stoppas från att bevaka Gaza - GP
-- Risk för ras efter ”Karl-Heinz” framfart - GP
+- Drabbade av bombdåd JO-anmäler tingsrätt: ”Arg på rättsväsendet” - DN
 - DN Direkt - Kvinna död efter mc-krock med bil - DN
-- Trump hotar Kanada efter stöd för Palestina - Hufvudstadsbladet
-- Manhattanmördarens lapp: Skyllde på idrottsskada - Corren
+- Sex döda i ryskt anfall mot Kiev - GP
+- Trump hotar Kanada efter stöd för Palestina - Västerbottens-Kuriren
+- Manhattanmördaren skyllde på idrottsskada - Hufvudstadsbladet
 - Megastor vandrande pinne upptäckt – halvmeter lång - Aftonbladet
-- Miljontals vänder hem efter tsunamivarningarna - GP
-- Klarna planerar att börsnoteras i höst - EFN
 - Deadline för USA-tullar – här är hela listan - SvD
+- Klarna planerar att börsnoteras i höst - EFN
 - Affärsvärlden: Tietoevry förblir en svag aktie trots omstöpning - Börsvärlden
 - Tullsmällen för lyxbilstillverkarna – 8,59 miljarder kronor - Dagens PS
 - Proton lanserar gratis app för 2FA - Computer Sweden
@@ -46,7 +46,7 @@ _Updated: 2025-07-31 15:56_
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Prologis Powers $3.2 Trillion in Global Trade and Supports 3.6 Million Jobs - Placera.se
-- CJ 4DPLEX and Cinemark Expand Relationship, Announcing 20 New SCREENX Locations Across Global Footprint - Placera.se
+- Greenway Announces International Supply Agreement with 4C LABS - Placera.se
 
 ## Technology
 
@@ -100,10 +100,11 @@ _Updated: 2025-07-31 15:56_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Johan von Schreeb - Karolinska Institutet
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
@@ -115,7 +116,6 @@ _Updated: 2025-07-31 15:56_
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
@@ -132,11 +132,11 @@ _Updated: 2025-07-31 15:56_
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 
