@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-31 12:50_
+_Updated: 2025-07-31 13:42_
 
 ## Top Stories
 
 - Tack för din tid i Malmö FF, Isaac Kiese Thelin! - Malmö FF
-- Konstnären Lena Cronqvist är död - Aftonbladet
 - Svenska IS-terroristen får livstid för avrättning av jordansk pilot - SVT Nyheter
 - Regeringen vill frysa handelsavtal med Israel ”så fort som möjligt” - DN
 - Kritiken växer mot Israels hantering av journalister i Gaza - DN
 - Ny gränskontroll – ansiktsfoto och fingeravtryck - GP
+- Fortsatt ostadigt – men varmare väder är på väg - Omni
 - Risk för ras efter ”Karl-Heinz” framfart - GP
-- Olovlig skolledighet kan ge böter - Västerbottens-Kuriren
-- Eldningsförbud upphävs i Kalmar län - SVT Nyheter
-- Här är de som lämnat oss - VLT
+- Olovlig skolledighet kan ge böter - Ekuriren
+- Flera ”Hesa Fredrik” stulna i Dalarna - Expressen
+- Snabbkoll – detta hände när du sov - Sydsvenskan
 - Flera döda i ryskt anfall mot Kiev - GP
 - Manhattanmördaren skyllde på idrottsskada - Hufvudstadsbladet
+- Ukraina kovänder – ny antikorruptionslag godkänd - Västerbottens-Kuriren
 - Megastor vandrande pinne upptäckt – halvmeter lång - Aftonbladet
-- Efter kritikstormen: Ny omröstning i Ukrainas parlament - DN
 - Deadline för USA-tullar – här är hela listan - SvD
-- Oenig Fed går emot Trump – räntan oförändrad - GP
+- Piratkopior av Ozempic får Novo Nordisk aktie att falla - Svensk Farmaci
 - DN Direkt - USA inför 15-procentiga handelstullar för Sydkorea - DN
-- Trump undertecknar order om 50% tullar mot Brasilien - Affärsvärlden
-- Raket kraschade efter 14 sekunder: ”Glad” - Hufvudstadsbladet
-- Apple släpper iOS 18.6. Sista uppdateringen innan iOS 26? - Feber se.
+- Oenig Fed går emot Trump – räntan oförändrad - GP
+- Proton lanserar gratis app för 2FA - Computer Sweden
+- Här är nyheterna i version 26 av Safari - Computer Sweden
 
 ## World News
 
@@ -102,7 +102,6 @@ _Updated: 2025-07-31 12:50_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
@@ -116,29 +115,30 @@ _Updated: 2025-07-31 12:50_
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Högskola, forskning och rymd - Regeringen.se
-- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
@@ -157,8 +157,8 @@ _Updated: 2025-07-31 12:50_
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
