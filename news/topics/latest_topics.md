@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-31 11:48_
+_Updated: 2025-07-31 12:50_
 
 ## Top Stories
 
-- Konstnären Lena Cronqvist död – blev 86 år - DN
-- Regeringen vill stoppa handeln med Israel - SVT Nyheter
-- DN Direkt - Osama Krayem dömd till livstid – igen - DN
+- Tack för din tid i Malmö FF, Isaac Kiese Thelin! - Malmö FF
+- Konstnären Lena Cronqvist är död - Aftonbladet
+- Svenska IS-terroristen får livstid för avrättning av jordansk pilot - SVT Nyheter
+- Regeringen vill frysa handelsavtal med Israel ”så fort som möjligt” - DN
 - Kritiken växer mot Israels hantering av journalister i Gaza - DN
-- Kraftig explosion i bostadshus i Malmö - Aftonbladet
-- Sex döda i ryskt anfall mot Kiev - GP
 - Ny gränskontroll – ansiktsfoto och fingeravtryck - GP
 - Risk för ras efter ”Karl-Heinz” framfart - GP
+- Olovlig skolledighet kan ge böter - Västerbottens-Kuriren
 - Eldningsförbud upphävs i Kalmar län - SVT Nyheter
-- DN Direkt - Kraftig explosion i bostadshus i Malmö - DN
+- Här är de som lämnat oss - VLT
+- Flera döda i ryskt anfall mot Kiev - GP
+- Manhattanmördaren skyllde på idrottsskada - Hufvudstadsbladet
 - Megastor vandrande pinne upptäckt – halvmeter lång - Aftonbladet
-- Manhattanmördarens lapp: Skyllde på idrottsskada - Corren
-- Rekordstöld på franskt tåg – smycken för miljoner - Sydsvenskan
-- Libanon: Hizbollah ska avväpnas - Västerbottens-Kuriren
-- Fallet fortsätter i Novo Nordisk - Dagens industri
-- Oenig Fed går emot Trump – räntan oförändrad - SvD
-- USA och Sydkorea överens om handelsavtal - Tidningen Näringslivet
-- Kurskollapsade Tobii rekylerar - Dagens industri
-- Efter 14 minuter kraschade raketen: ”Glad” - Ny Teknik
-- UCLA dopar halvledare med magnetiska atomer - Evertiq
+- Efter kritikstormen: Ny omröstning i Ukrainas parlament - DN
+- Deadline för USA-tullar – här är hela listan - SvD
+- Oenig Fed går emot Trump – räntan oförändrad - GP
+- DN Direkt - USA inför 15-procentiga handelstullar för Sydkorea - DN
+- Trump undertecknar order om 50% tullar mot Brasilien - Affärsvärlden
+- Raket kraschade efter 14 sekunder: ”Glad” - Hufvudstadsbladet
+- Apple släpper iOS 18.6. Sista uppdateringen innan iOS 26? - Feber se.
 
 ## World News
 
@@ -38,7 +38,7 @@ _Updated: 2025-07-31 11:48_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
@@ -66,9 +66,9 @@ _Updated: 2025-07-31 11:48_
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
 - Redwire Expands International Collaboration with Japanese Startup SpaceData for Artificial Intelligence and Digital Engineering Systems - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Global Military Drone Market Size on a Trajectory Toward $88 Billion as Demand Skyrockets - Placera.se
 - TDK acquires SoftEye to enable artificial intelligence within smart glasses and grow its AI ecosystem business - Placera.se
 - Trane Technologies Completes Acquisition of BrainBox AI - Placera.se
+- Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
 
 ## Business
@@ -76,23 +76,23 @@ _Updated: 2025-07-31 11:48_
 - Selective Director Steps Down to Focus on Founder Role - Placera.se
 - Accord Announces Banking Facility Update - Placera.se
 - Flower tar in över 500 miljoner i avslutad Serie A-runda - Mynewsdesk
-- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
+- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
-- Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
-- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - First Financial Bankshares Announces Promotion of Kyle McVey to EVP Chief Financial Officer of First Financial Bank - Placera.se
-- ING completes acquisition of Van Lanschot Kempen stake - Placera.se
+- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -121,24 +121,24 @@ _Updated: 2025-07-31 11:48_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Högskola, forskning och rymd - Regeringen.se
+- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 
 ## Jordbruk
 
