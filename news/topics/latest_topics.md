@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-07-31 10:54_
+_Updated: 2025-07-31 11:48_
 
 ## Top Stories
 
+- Konstnären Lena Cronqvist död – blev 86 år - DN
 - Regeringen vill stoppa handeln med Israel - SVT Nyheter
+- DN Direkt - Osama Krayem dömd till livstid – igen - DN
 - Kritiken växer mot Israels hantering av journalister i Gaza - DN
 - Kraftig explosion i bostadshus i Malmö - Aftonbladet
 - Sex döda i ryskt anfall mot Kiev - GP
-- Vebjørn, 29, hungerstrejkar mot oljan – och sin egen kusin - Aftonbladet
-- SMHI tog bort varningarna – då kom skyfallet - SVT Nyheter
-- Här räddar 100 pensionärer sommarens äldreomsorg - DN
+- Ny gränskontroll – ansiktsfoto och fingeravtryck - GP
 - Risk för ras efter ”Karl-Heinz” framfart - GP
 - Eldningsförbud upphävs i Kalmar län - SVT Nyheter
-- I dag faller domen mot massmördaren från Malmö - Sydsvenskan
+- DN Direkt - Kraftig explosion i bostadshus i Malmö - DN
 - Megastor vandrande pinne upptäckt – halvmeter lång - Aftonbladet
 - Manhattanmördarens lapp: Skyllde på idrottsskada - Corren
+- Rekordstöld på franskt tåg – smycken för miljoner - Sydsvenskan
 - Libanon: Hizbollah ska avväpnas - Västerbottens-Kuriren
-- Chile evakuerar över en miljon efter tsunamivarning - SVT Nyheter
+- Fallet fortsätter i Novo Nordisk - Dagens industri
 - Oenig Fed går emot Trump – räntan oförändrad - SvD
 - USA och Sydkorea överens om handelsavtal - Tidningen Näringslivet
-- Flera sänkta riktkurser för Novo Nordisk efter börskollapsen - EFN
-- Meta Platforms slog förväntningarna - aktien rusade i efterhandeln - Börsvärlden
+- Kurskollapsade Tobii rekylerar - Dagens industri
 - Efter 14 minuter kraschade raketen: ”Glad” - Ny Teknik
-- Chris Harris kör Ford med Max Verstappen. Dock ej Fåården. - Feber se.
+- UCLA dopar halvledare med magnetiska atomer - Evertiq
 
 ## World News
 
@@ -31,10 +31,11 @@ _Updated: 2025-07-31 10:54_
 - Kina föreslår global AI-samarbetsorganisation - Computer Sweden
 - Air Canada Expands Landline Luxury Motorcoach Service, Connects Kingston to its Global Network - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
@@ -42,11 +43,10 @@ _Updated: 2025-07-31 10:54_
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Prologis Powers $3.2 Trillion in Global Trade and Supports 3.6 Million Jobs - Placera.se
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Venture Global Announces Final Investment Decision and Financial Close for Phase 1 of CP2 LNG - Placera.se
+- Prologis Powers $3.2 Trillion in Global Trade and Supports 3.6 Million Jobs - Placera.se
 - CJ 4DPLEX and Cinemark Expand Relationship, Announcing 20 New SCREENX Locations Across Global Footprint - Placera.se
-- Introducing PayPal World: a global platform connecting the world's largest payment systems and digital wallets, starting with interoperability to PayPal and Venmo - Placera.se
 
 ## Technology
 
@@ -77,22 +77,22 @@ _Updated: 2025-07-31 10:54_
 - Accord Announces Banking Facility Update - Placera.se
 - Flower tar in över 500 miljoner i avslutad Serie A-runda - Mynewsdesk
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - First Financial Bankshares Announces Promotion of Kyle McVey to EVP Chief Financial Officer of First Financial Bank - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- ING completes acquisition of Van Lanschot Kempen stake - Placera.se
 
 ## Health
 
@@ -105,8 +105,8 @@ _Updated: 2025-07-31 10:54_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
@@ -121,24 +121,24 @@ _Updated: 2025-07-31 10:54_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Högskola, forskning och rymd - Regeringen.se
-- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
