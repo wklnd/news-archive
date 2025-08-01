@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-01 08:59_
+_Updated: 2025-08-01 09:46_
 
 ## Top Stories
 
+- Strömlöst och larm om bränder efter nattens åskoväder - SVT Nyheter
 - Fullt i Malmös simskolor – nästan tomt i Karlstad - Omni
-- DN Direkt - Brand i kraftstation efter åskoväder - DN
-- Extremt stor risk för skogsbrand kring Vänern – här är den störst - NWT
-- DN Direkt - Tidigare M-topp: Vi måste ta palestiniernas parti - DN
-- Morafamilj drabbad av tsunamilarm: ”Spökstad” - Mora Tidning
-- Nästan hundra dödade i jakt på mat i Gaza - Hufvudstadsbladet
-- DN Direkt - Ung man död i trafikolycka - DN
-- Rekord i värmeböljan: SMHI varnar igen - Västerbottens-Kuriren
+- Tidigare M-ministern i sorg: Episk katastrof - SvD
+- Nathan Shachar: Netanyahu vill avsluta kriget – men inte före valet - DN
+- Person död efter drunkning i Stenungsund - Expressen
+- Ung man död i trafikolycka - GP
 - Lagändringar slår mot unga – Ronahs dotter utvisas ensam - DN
+- DN Direkt - Våg av fall där äldre luras av falska poliser - DN
 - Ny utredning om de bestämmelser som rör ledigheter och undantag från skolplikten - Regeringen.se
-- Världens första klimatflytt av helt land - Hufvudstadsbladet
+- Militära vapen och magasin – i morgon är det stopp - Jakt & Jägare
 - Dödstalet stiger efter rysk attack mot Kiev - GP
-- Vita huset: Trump lämnar besked om tullar inom kort - DN
-- Trump hotar Kanada efter stöd för Palestina - Västerbottens-Kuriren
+- Världens första klimatflytt av helt land - Hufvudstadsbladet
+- Fler länder redo att erkänna Palestina - SVT Nyheter
+- Trumps nya tullar klara – träder i kraft om en vecka - DN
 - Sveriges miljardsatsning döms ut: ”Kalkylen går inte ihop” - Affärsvärlden
 - Kritiken mot Trumps och von der Leyens avtal: slaktar klimatmål och omöjligt att genomdriva - Aktuell Hållbarhet
 - Nynoterade Figma rusade 240 procent – två flugor i en smäll för Klarnas vd - EFN
 - UPPGÅNG I KORTEN EFTER RÄNTEBESKED I USA - Placera.se
 - DN Direkt - Efterlängtat spel släpps i oktober - DN
-- Speltillverkarens intäkter klart över förväntan - Dagens industri
+- Taylor Kitsch skjuter folk i The Terminal List: Dark Wolf. Prequel-serie till The Terminal List. - Feber se.
 
 ## World News
 
@@ -36,15 +36,15 @@ _Updated: 2025-08-01 08:59_
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Kina föreslår global AI-samarbetsorganisation - Computer Sweden
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Two-Year Real-World Study of LEQEMBI® in the United States Presented at Alzheimer's Association International Conference (AAIC) 2025 - Placera.se
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
+- New Secretary General appointed - Olof Palme International Center
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Air Canada Expands Landline Luxury Motorcoach Service, Connects Kingston to its Global Network - Placera.se
 - Prologis Powers $3.2 Trillion in Global Trade and Supports 3.6 Million Jobs - Placera.se
 - Greenway Announces International Supply Agreement with 4C LABS - Placera.se
 
@@ -59,13 +59,13 @@ _Updated: 2025-08-01 08:59_
 - EY.ai | EY - Sverige - EY
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Safe Pro Group Successfully Integrates Artificial Intelligence-Powered Landmine Detection for Drones Selected Under U.S. Army Program of Record - Placera.se
 - RBC joins Massachusetts Institute of Technology's (MIT) CSAIL fintech research initiative on the role of AI in the future of finance - Placera.se
-- Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
 - Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
+- Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Global Military Drone Market Size on a Trajectory Toward $88 Billion as Demand Skyrockets - Placera.se
+- TDK acquires SoftEye to enable artificial intelligence within smart glasses and grow its AI ecosystem business - Placera.se
 - Trane Technologies Completes Acquisition of BrainBox AI - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
@@ -76,23 +76,23 @@ _Updated: 2025-08-01 08:59_
 - Accord Announces Banking Facility Update - Placera.se
 - Flower tar in över 500 miljoner i avslutad Serie A-runda - Mynewsdesk
 - DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
-- Selective Director Steps Down to Focus on Founder Role - Placera.se
+- Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -102,19 +102,19 @@ _Updated: 2025-08-01 08:59_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 
 ## Science
@@ -152,11 +152,11 @@ _Updated: 2025-08-01 08:59_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - De gick från reko till eko - ST-tidningen
-- Små jordbruk kan mätta fler - FoodMonitor
 - Här är världens största jordbruk - ATL
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
