@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-01 07:54_
+_Updated: 2025-08-01 08:59_
 
 ## Top Stories
 
-- Första klimatflytten av ett land inleds - Hufvudstadsbladet
-- Bara ett land i Norden tar emot skadade barn från Gaza - Hufvudstadsbladet
-- Person död efter drunkning i Stenungsund - Expressen
-- Dömda svenskarna utomlands – som vill till Sverige - GP
-- Sveriges äldsta familjekonditori finns i Växjö: ”Syns man inte finns man inte” - Smålandsposten
-- Tonåring död i arbetsplatsolycka - Arbetet
-- En död efter trafikolycka i Eskilstuna - SVT Nyheter
+- Fullt i Malmös simskolor – nästan tomt i Karlstad - Omni
+- DN Direkt - Brand i kraftstation efter åskoväder - DN
+- Extremt stor risk för skogsbrand kring Vänern – här är den störst - NWT
+- DN Direkt - Tidigare M-topp: Vi måste ta palestiniernas parti - DN
+- Morafamilj drabbad av tsunamilarm: ”Spökstad” - Mora Tidning
+- Nästan hundra dödade i jakt på mat i Gaza - Hufvudstadsbladet
+- DN Direkt - Ung man död i trafikolycka - DN
+- Rekord i värmeböljan: SMHI varnar igen - Västerbottens-Kuriren
+- Lagändringar slår mot unga – Ronahs dotter utvisas ensam - DN
 - Ny utredning om de bestämmelser som rör ledigheter och undantag från skolplikten - Regeringen.se
-- (+) Listan: Exempel på halvautomater som blir förbjudna för jakt - Jaktjournalen
-- Ny gränskontroll – ansiktsfoto och fingeravtryck - Västerbottens-Kuriren
-- Nathan Shachar: Netanyahu vill avsluta kriget – men inte före valet - DN
+- Världens första klimatflytt av helt land - Hufvudstadsbladet
 - Dödstalet stiger efter rysk attack mot Kiev - GP
+- Vita huset: Trump lämnar besked om tullar inom kort - DN
 - Trump hotar Kanada efter stöd för Palestina - Västerbottens-Kuriren
-- Ukraina godkänner ny antikorruptionslag - Corren
-- Trumps nya tullar klara – träder i kraft om en vecka - DN
+- Sveriges miljardsatsning döms ut: ”Kalkylen går inte ihop” - Affärsvärlden
 - Kritiken mot Trumps och von der Leyens avtal: slaktar klimatmål och omöjligt att genomdriva - Aktuell Hållbarhet
+- Nynoterade Figma rusade 240 procent – två flugor i en smäll för Klarnas vd - EFN
 - UPPGÅNG I KORTEN EFTER RÄNTEBESKED I USA - Placera.se
-- Trump höjer tullarna för Kanada - HD
 - DN Direkt - Efterlängtat spel släpps i oktober - DN
-- Opera stämmer Microsoft för konkurrensbrott kring Edge - PC för Alla
+- Speltillverkarens intäkter klart över förväntan - Dagens industri
 
 ## World News
 
+- EYE WORLD AB (publ): EYE World Proud Sponsor of MSP Global 2025 - Placera.se
 - TGE to Showcase Unparalleled Media Power Through a Global Project Featuring Jackson Wang's L'Officiel Covers in 10 Countries and Regions - Placera.se
-- Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
-- S&P Global Reports Second Quarter Results - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
-- Two-Year Real-World Study of LEQEMBI® in the United States Presented at Alzheimer's Association International Conference (AAIC) 2025 - Placera.se
+- S&P Global Reports Second Quarter Results - Placera.se
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Kina föreslår global AI-samarbetsorganisation - Computer Sweden
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Two-Year Real-World Study of LEQEMBI® in the United States Presented at Alzheimer's Association International Conference (AAIC) 2025 - Placera.se
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Air Canada Expands Landline Luxury Motorcoach Service, Connects Kingston to its Global Network - Placera.se
 - Prologis Powers $3.2 Trillion in Global Trade and Supports 3.6 Million Jobs - Placera.se
+- Greenway Announces International Supply Agreement with 4C LABS - Placera.se
 
 ## Technology
 
@@ -105,17 +105,17 @@ _Updated: 2025-08-01 07:54_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 
 ## Science
 
@@ -144,21 +144,21 @@ _Updated: 2025-08-01 07:54_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- De gick från reko till eko - ST-tidningen
+- Små jordbruk kan mätta fler - FoodMonitor
 - Här är världens största jordbruk - ATL
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
