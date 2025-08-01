@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-01 09:02_
+_Updated: 2025-08-01 09:52_
 
 - Donald Trump reignites global trade war with sweeping tariff regime - Financial Times
 - Trump says global baseline tariff rates will stay at 10%, Canada goes to 35% - Axios
+- Kamala Harris, In Colbert Interview, Laments D.C. “Capitulation” To Donald Trump; Says She Refused To Participate In The “Piling On” Of Joe Biden — Update - Deadline
 - Trump plans $200M ballroom he’s long sought in East Wing expansion - The Washington Post
-- Kamala Harris leaves an opening for a California climate champion - Politico
-- Tower failed to warn plane of Black Hawk’s path before D.C. crash, FAA says - The Washington Post
 - Federal judge delays expiration of TPS for Hondurans, Nicaraguans and Nepalese - NPR
-- Devil's Den murder suspect James Andrew McGann was North Texas elementary teacher - KDFW
-- In an emotional hearing, Texas lawmakers hear from flood survivors, local officials - NPR
-- Trump, Term-Limited, Amasses $200 Million War Chest for Political Ambitions - The New York Times
-- Escaped slave who became lawmaker will be first individual African American honored with statue at South Carolina State House - CBS News
+- Tower failed to warn plane of Black Hawk’s path before D.C. crash, FAA says - The Washington Post
+- Wife in Devil's Den double homicide was fatally stabbed after trying to save husband - CBS News
+- Trump modifies tariff rate for Lesotho to 15% as small country reels from tariff impacts - Reuters
+- Trump’s political operation has stockpiled a massive amount of cash ahead of the midterms - Politico
+- “Nobody came”: Hill Country flooding survivors recount anguish, neglect during emotional hearing - The Texas Tribune
 - Top Trump officials to visit Gaza as hunger crisis draws outrage - The Washington Post
-- El Salvador scraps term limits, paving way for Bukele to seek re-election - BBC
+- El Salvador Changes Constitution, Ending Term Limits for Nayib Bukele - The New York Times
 - South Africa starts injecting rhino horns with radioactive material to curb poaching - ABC News
 - Nobel for Trump? White House press secretary roasted after shocking claim - NJ.com
-- Figma’s 250% IPO Pop Gives It Edge in Creative AI Software Fight - Yahoo Finance
+- Stock Market Today: Indexes Drop While Amazon Rises Ahead Of Earnings; Figma Catapults 277% On New IPO - Investor's Business Daily
+- Apple revenue forecast beats estimates, tariff costs projected at $1.1 billion - Reuters
 - Asian Stocks to Slip as Tariff Deadline Sours Mood: Markets Wrap - Bloomberg
-- Apple revenue forecast beats estimates as iPhone sales soar - Reuters
-- S&P 500 futures slip as traders await big jobs report: Live updates - CNBC
+- China’s fiery baijiu spirit evolves to attract younger drinkers - AP News
 - Your public ChatGPT queries are getting indexed by Google and other search engines - TechCrunch
-- DJI announces the Osmo 360, the company's first 360° action camera - GSMArena.com news - GSMArena.com
+- Deals: iPhone 16 Pro $498 off, M4 iPad Pro, Apple Pencil $59, Mac Studio $900 off, MacBooks, more - 9to5Mac
