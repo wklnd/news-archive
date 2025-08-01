@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-01 17:46_
+_Updated: 2025-08-01 18:53_
 
 ## Top Stories
 
-- DN Direkt - Tåg har rivit ned elledning – tågtrafik stoppad på flera sträckor - DN
 - Dödstalet stiger efter rysk attack mot Kiev - DN
+- Stopp i tågtrafiken till Göteborg och Malmö - Mitt i
 - Orpo: Redo att se över EU:s samarbetsavtal med Israel - Hufvudstadsbladet
-- INSÄNDARE: Endast ord stoppar inte en svältkatastrof - Hufvudstadsbladet
-- Krock på E6 i Varberg – fem personbilar inblandade - SVT Nyheter
-- Melinda Jacobs vill varumärkesskydda ”Lilla Hjärtat” – får kritik - GP
-- Jämställdhetsministern på seminarium med hbtqi-strategiska myndigheter - Regeringen.se
+- Trafiken påverkades efter två olyckor på E4 - SVT Nyheter
+- Klagade på smutsiga lakan – blev utslängda från hotellet - Aftonbladet
+- Putin: Serieproduktion av ny robot - GP
+- Så påverkas trafiken i Stockholm av Prideparaden - DN
 - Rekordvärmebölja i norr – SMHI varnar igen - DN
-- Lagändringar slår mot unga – Ronahs dotter utvisas ensam - DN
 - Partnerskapet Swetrial klubbat - Läkartidningen
-- Världens första klimatflytt av helt land - Hufvudstadsbladet
+- Lagändringar slår mot unga – Ronahs dotter utvisas ensam - DN
+- Felicia Åkerman: Inga garantier för att Trump inte rör runt i tullgrytan igen - DN
 - Världens "äldsta bebis” född – embryot 30 år - GP
 - Nathan Shachar: Palestinsk stat är en belöning åt självstyret – inte åt Hamas - DN
-- Trumps nya tullar – träder i kraft om en vecka - Västerbottens-Kuriren
-- USA:s jobbmarknad bromsar häftigt - SvD
-- Krig och börsrally: Tel Aviv sticker ut som världens hetaste börs - DN
+- Trump hotar Kanada efter stöd för Palestina - GP
+- Felicia Åkerman: Anmärkningsvärt att det dröjde innan aktiemarknaden snubblade - DN
+- Trump hotar läkemedels­företag: Sänk priserna eller straffas - Svensk Farmaci
 - Afv-portföljen: Högtryck under juli - Affärsvärlden
-- Expert: USA-beroendet kan bli dyrt för börsen - EFN
+- EU krossades: ”Trump kör med klassisk taktik” - SvD
 - Battlefield 6 får systemkrav för det öppna betatestet - Nordichardware
 - DJI Osmo 360 lanseras officiellt – här är 5 sätt den slår Insta360 X5 och 2 sätt den inte gör det - TechRadar
 
@@ -63,9 +63,9 @@ _Updated: 2025-08-01 17:46_
 - RBC joins Massachusetts Institute of Technology's (MIT) CSAIL fintech research initiative on the role of AI in the future of finance - Placera.se
 - Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - Trane Technologies Completes Acquisition of BrainBox AI - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
@@ -102,20 +102,20 @@ _Updated: 2025-08-01 17:46_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 
 ## Science
 
