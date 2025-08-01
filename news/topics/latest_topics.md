@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-01 19:47_
+_Updated: 2025-08-01 20:54_
 
 ## Top Stories
 
+- Stopp i tågtrafiken till Göteborg och Malmö - Mitt i
 - Dödstalet stiger efter rysk attack mot Kiev - DN
-- Stopp i tågtrafiken mellan Göteborg och Stockholm - GP
-- Trump flyttar kärnvapenubåtar - Västerbottens-Kuriren
+- USA flyttar atomubåtar efter ryskt uttalande - Hufvudstadsbladet
+- Svenska kyrkan måste ta ställning -från symbol till handling - Kyrkans Tidning
 - Putin: Nya hypersoniska roboten ”omöjlig” att skjuta ner - DN
-- Flyglarm i Israel efter attack från Jemen - GP
-- Ostraffad hästkvinna levde dubbelliv – stoppad med 20 kilo kokain - Sydsvenskan
+- Marie Johanssons utpekade mördare häktad för stölder på boende - GP
+- DN Direkt - SR-chef om uppropet: Kan bevaka Gaza som vanligt - DN
 - Ingen prideparad för Kristersson och Busch - Västerbottens-Kuriren
 - Jämställdhetsministern på seminarium med hbtqi-strategiska myndigheter - Regeringen.se
-- Två personer förda till sjukhus från trafikolyckan på E4 - Arbetarbladet
 - Rekordvärmebölja i norr – SMHI varnar igen - DN
-- 280 klimatflyktingar vann australiensiska visum i lotteri - DN
 - Världens "äldsta bebis” född – embryot 30 år - GP
-- Trumps nya tullar – träder i kraft om en vecka - Västerbottens-Kuriren
-- Ledare: Anosh Ghasri: Ett tvetydigt erkännande av en palestinsk stat - NWT
-- Felicia Åkerman: Anmärkningsvärt att det dröjde innan aktiemarknaden snubblade - DN
-- Krig och börsrally: Tel Aviv sticker ut som världens hetaste börs - DN
+- Nathan Shachar: Palestinsk stat är en belöning åt självstyret – inte åt Hamas - DN
+- Fler länder redo att erkänna Palestina - SVT Nyheter
+- Vändningen: Nya tullar – timmar innan deadline - Västerbottens-Kuriren
+- DN Direkt - Trump sparkar statistikansvarig efter svaga jobbsiffror - DN
+- Novo Nordisk rasar vidare – mycket elände är inprisat - EFN
 - EU krossades: ”Trump kör med klassisk taktik” - SvD
-- Afv-portföljen: Högtryck under juli - Affärsvärlden
+- Börsen tog helg i moll – defensiv duo mot strömmen - Dagens industri
 - Battlefield 6 får systemkrav för det öppna betatestet - Nordichardware
-- Mikrobryggeriet Ruckel Brewing öppnar pub i centrala Trollhättan - TTELA
+- Fyra astronauter till rymdstationen efter ett års väntan - DN
 
 ## World News
 
@@ -32,21 +32,21 @@ _Updated: 2025-08-01 19:47_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
-- S&P Global Reports Second Quarter Results - Placera.se
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- BIG Travel går in i globalt partnerskap - travelnews.se
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- BIG Travel går in i globalt partnerskap - travelnews.se
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Prologis Powers $3.2 Trillion in Global Trade and Supports 3.6 Million Jobs - Placera.se
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Liberty International i Stockholm växer - travelnews.se
 
 ## Technology
 
@@ -75,24 +75,24 @@ _Updated: 2025-08-01 19:47_
 
 - Equitable Bank successfully closes $300 million deposit note issuance - Placera.se
 - Flower tar in över 500 miljoner i avslutad Serie A-runda - Mynewsdesk
-- Accord Announces Banking Facility Update - Placera.se
 - DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
-- Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- First Financial Bankshares Announces Promotion of Kyle McVey to EVP Chief Financial Officer of First Financial Bank - Placera.se
+- Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Accord Announces Banking Facility Update - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -107,15 +107,15 @@ _Updated: 2025-08-01 19:47_
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 
 ## Science
 
@@ -155,10 +155,10 @@ _Updated: 2025-08-01 19:47_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
