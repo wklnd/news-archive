@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-01 15:59_
+_Updated: 2025-08-01 16:55_
 
-- Job growth slowed meaningfully in July, past months revised down sharply - Axios
 - The full list of Trump’s tariffs – from India to Taiwan - The Guardian
-- Teacher charged in Arkansas couple's murder set to appear in court - ABC News
 - France, U.K., others plan to recognize a Palestinian state. What does that change? - NPR
-- Presidential Fitness Test to return through Trump executive order - ABC News
-- Alaska ignored budget crisis signs. Now, it doesn't have money to fix schools - NPR
-- Canada will be its own best customer, says Carney, after Trump imposes new tariffs on dozens of countries – US politics live - The Guardian
+- Teacher charged in Arkansas couple's murder set to appear in court - ABC News
+- Biden warns ‘these are dark days’ under Trump administration - CNN
 - Harris tells Colbert, in first interview out of office, that the U.S. system is ‘broken’ - Los Angeles Times
-- “Nobody came”: Hill Country flooding survivors recount anguish, neglect during emotional hearing - The Texas Tribune
-- ICE efforts to poach local officers anger some local law enforcement leaders - NBC News
-- Trump Envoy Witkoff Is Set to Visit Gaza as Aid Crisis Deepens - The New York Times
+- Presidential Fitness Test to return through Trump executive order - ABC News
+- Trump orders a 35% tariff for goods from Canada, citing a lack of cooperation on illicit drugs - AP News
+- How the Threat of Trump’s Highest Tariff Derailed an African Nation - The New York Times
+- GOP's summer town hall push gets heated - Politico
+- Virginia Education Board Could Oust George Mason’s President - The New York Times
+- Top Trump officials visit Gaza as hunger crisis draws outrage - The Washington Post
 - Looting, chaos and Israeli gunfire prevent aid from reaching Gazans - The Washington Post
-- Ukrainians mourn 31 killed in Russian strike on Kyiv - Reuters
-- El Salvador scraps term limits, paving way for Bukele to seek re-election - BBC
+- Ukraine approves law restoring independence of anti-graft watchdogs following backlash - NPR
+- South African rhino horns turned radioactive to fight poachers - BBC
+- US job growth slows sharply, unemployment rate rises - Reuters
+- Dow tumbles more than 500 points as weak jobs data, new tariffs spark sell-off: Live updates - CNBC
 - Trump calls on Federal Reserve board to wrest full control of central bank from Fed Chair Powell - AP News
-- Apple revenue forecast beats estimates, tariff costs projected at $1.1 billion - Reuters
-- Moderna cuts high end of 2025 revenue outlook on vaccine shipment delay in U.K. - CNBC
-- Google loses appeal over app store overhaul in Epic Games case - TechCrunch
+- Does Britain face another multi-billion-pound consumer finance scandal? - Reuters
 - OpenAI removes ChatGPT feature after private conversations leak to Google search - VentureBeat
-- Apple CEO Tim Cook Says iOS 26 Developer Beta is Most Popular Ever - MacRumors
+- Microsoft is killing off Windows 11 SE, its Chrome OS competitor - The Verge
