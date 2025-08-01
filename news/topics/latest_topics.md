@@ -1,39 +1,39 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-01 20:54_
+_Updated: 2025-08-01 21:40_
 
 ## Top Stories
 
 - Stopp i tågtrafiken till Göteborg och Malmö - Mitt i
+- Trump flyttar atomubåtar: ”Kan bli riktigt allvarligt” - DN
 - Dödstalet stiger efter rysk attack mot Kiev - DN
-- USA flyttar atomubåtar efter ryskt uttalande - Hufvudstadsbladet
 - Svenska kyrkan måste ta ställning -från symbol till handling - Kyrkans Tidning
-- Putin: Nya hypersoniska roboten ”omöjlig” att skjuta ner - DN
 - Marie Johanssons utpekade mördare häktad för stölder på boende - GP
+- Ostraffad hästkvinna levde dubbelliv – stoppad med 20 kilo kokain - Sydsvenskan
 - DN Direkt - SR-chef om uppropet: Kan bevaka Gaza som vanligt - DN
 - Ingen prideparad för Kristersson och Busch - Västerbottens-Kuriren
 - Jämställdhetsministern på seminarium med hbtqi-strategiska myndigheter - Regeringen.se
 - Rekordvärmebölja i norr – SMHI varnar igen - DN
-- Världens "äldsta bebis” född – embryot 30 år - GP
-- Nathan Shachar: Palestinsk stat är en belöning åt självstyret – inte åt Hamas - DN
-- Fler länder redo att erkänna Palestina - SVT Nyheter
 - Vändningen: Nya tullar – timmar innan deadline - Västerbottens-Kuriren
-- DN Direkt - Trump sparkar statistikansvarig efter svaga jobbsiffror - DN
-- Novo Nordisk rasar vidare – mycket elände är inprisat - EFN
+- Världens "äldsta bebis” född – embryot 30 år - GP
+- Putin: Nya hypersoniska roboten ”omöjlig” att skjuta ner - DN
+- 280 klimatflyktingar vann australiensiska visum i lotteri - DN
+- Trump sparkar myndighetschef efter svaga jobbsiffran - Dagens industri
+- Jury i USA: Tesla ska betala miljardskadestånd - Aftonbladet
 - EU krossades: ”Trump kör med klassisk taktik” - SvD
-- Börsen tog helg i moll – defensiv duo mot strömmen - Dagens industri
+- Nu öppnar ansökan om statligt stöd för investeringar i ny kärnkraft - Regeringen.se
 - Battlefield 6 får systemkrav för det öppna betatestet - Nordichardware
-- Fyra astronauter till rymdstationen efter ett års väntan - DN
+- Mikrobryggeriet Ruckel Brewing öppnar pub i centrala Trollhättan - TTELA
 
 ## World News
 
 - EYE WORLD AB (publ): EYE World Proud Sponsor of MSP Global 2025 - Placera.se
 - TGE to Showcase Unparalleled Media Power Through a Global Project Featuring Jackson Wang's L'Officiel Covers in 10 Countries and Regions - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
@@ -44,9 +44,9 @@ _Updated: 2025-08-01 20:54_
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Prologis Powers $3.2 Trillion in Global Trade and Supports 3.6 Million Jobs - Placera.se
 - Liberty International i Stockholm växer - travelnews.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Arrow Global förvärvar Troia Resort - The Portugal News
 
 ## Technology
 
@@ -96,69 +96,69 @@ _Updated: 2025-08-01 20:54_
 
 ## Health
 
-- Episurf Medical annonserar omstruktureringsinitiativ och ökat fokus på den amerikanska marknaden - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
-- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
+- Episurf Medical annonserar omstruktureringsinitiativ och ökat fokus på den amerikanska marknaden - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
+- E-infrastruktur för livsvetenskap får SSF-anslag - Uppsala universitet
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Jordbruk och landsbygdsutveckling - European Commission
-- Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Här är världens största jordbruk - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
