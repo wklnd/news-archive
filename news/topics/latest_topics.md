@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-01 15:55_
+_Updated: 2025-08-01 16:49_
 
 ## Top Stories
 
-- Stort tågstopp efter elfel – resenärer fast - SvD
+- DN Direkt - Tåg har rivit ned elledning – tågtrafik stoppad på flera sträckor - DN
+- Orpo: Redo att se över EU:s samarbetsavtal med Israel - Hufvudstadsbladet
+- Dödstalet stiger efter rysk attack mot Kiev - DN
 - Krock på E6 i Varberg – fem personbilar inblandade - SVT Nyheter
-- 22-åriga Selma och Johlene klagade på stökigt hotellrum – blev utslängda - Expressen
-- Fler länder redo att erkänna Palestina - SVT Nyheter
-- Melinda Jacobs vill varumärkesskydda ”Lilla Hjärtat” – får kritik - GP
-- Flera sabotage av Hesa Fredrik: ”Kabeln klippt” - SvD
-- Orpo: Redo se över EU:s samarbetsavtal med Israel - Hufvudstadsbladet
-- Rekordvärmebölja i norr – SMHI varnar igen - DN
+- Klagade på smutsiga lakan – blev utslängda från hotellet - Aftonbladet
+- Putin: Serieproduktion av ny robot - SvD
+- Rekordvärmebölja i norr – SMHI varnar igen - GP
 - Jämställdhetsministern på seminarium med hbtqi-strategiska myndigheter - Regeringen.se
 - Lagändringar slår mot unga – Ronahs dotter utvisas ensam - DN
-- Dödstalet stiger efter rysk attack mot Kiev - DN
+- Efter dödsolyckan – minnesplats skapad: "Det är tragiskt" - Ekuriren
 - Världens "äldsta bebis” född – embryot 30 år - GP
 - Draget mot tjuvjakt – radioaktiva noshörningshorn - Västerbottens-Kuriren
-- 1 000 år gammalt skelett hittat i dike - SvD
-- Deadline för USA-tullar – här är hela listan - Tidningen Näringslivet
-- Trumps kravbrev förlänger mardrömsraset: 1.000 miljarder upp i rök - Dagens industri
-- Expert: USA-beroendet kan bli dyrt för börsen - EFN
+- Trumps nya tullar – träder i kraft om en vecka - Corren
+- Fler länder redo att erkänna Palestina - SVT Nyheter
+- Trumps hotbrev till Big Pharma – kräver kraftiga prissänkningar - Life Science Sweden
 - Krig och börsrally: Tel Aviv sticker ut som världens hetaste börs - DN
+- USA:s jobbmarknad bromsar häftigt - SvD
+- Macron: EU var inte tillräckligt fruktat i tullförhandlingen - EFN
 - Battlefield 6 får systemkrav för det öppna betatestet - Nordichardware
 - DJI Osmo 360 lanseras officiellt – här är 5 sätt den slår Insta360 X5 och 2 sätt den inte gör det - TechRadar
 
@@ -39,14 +39,14 @@ _Updated: 2025-08-01 15:55_
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
-- BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- BIG Travel går in i globalt partnerskap - travelnews.se
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - Prologis Powers $3.2 Trillion in Global Trade and Supports 3.6 Million Jobs - Placera.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Liberty International i Stockholm växer - travelnews.se
 
 ## Technology
 
@@ -63,9 +63,9 @@ _Updated: 2025-08-01 15:55_
 - RBC joins Massachusetts Institute of Technology's (MIT) CSAIL fintech research initiative on the role of AI in the future of finance - Placera.se
 - Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- TDK acquires SoftEye to enable artificial intelligence within smart glasses and grow its AI ecosystem business - Placera.se
 - Trane Technologies Completes Acquisition of BrainBox AI - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
@@ -105,27 +105,27 @@ _Updated: 2025-08-01 15:55_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Högskola, forskning och rymd - Regeringen.se
@@ -138,7 +138,7 @@ _Updated: 2025-08-01 15:55_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
