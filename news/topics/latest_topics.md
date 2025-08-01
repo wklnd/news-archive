@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-01 09:46_
+_Updated: 2025-08-01 10:53_
 
 ## Top Stories
 
-- Strömlöst och larm om bränder efter nattens åskoväder - SVT Nyheter
-- Fullt i Malmös simskolor – nästan tomt i Karlstad - Omni
+- Tesla-försäljningen i Sverige kollapsar - Dagens industri
+- Strömlöst och larm om bränder under nattens åskoväder - SVT Nyheter
 - Tidigare M-ministern i sorg: Episk katastrof - SvD
-- Nathan Shachar: Netanyahu vill avsluta kriget – men inte före valet - DN
-- Person död efter drunkning i Stenungsund - Expressen
-- Ung man död i trafikolycka - GP
+- Insändare: Nu måste kriget i Ukraina avslutas - Norran
+- Morafamilj drabbad av tsunamilarm: ”Spökstad” - Mora Tidning
+- SMHI flaggar för höga temperaturer - Expressen
+- DN Direkt - Ung man död i trafikolycka - DN
 - Lagändringar slår mot unga – Ronahs dotter utvisas ensam - DN
-- DN Direkt - Våg av fall där äldre luras av falska poliser - DN
+- Tiotal kossor på rymmen - Expressen
 - Ny utredning om de bestämmelser som rör ledigheter och undantag från skolplikten - Regeringen.se
-- Militära vapen och magasin – i morgon är det stopp - Jakt & Jägare
-- Dödstalet stiger efter rysk attack mot Kiev - GP
 - Världens första klimatflytt av helt land - Hufvudstadsbladet
+- Nathan Shachar: Netanyahu vill avsluta kriget – men inte före valet - DN
+- 1 000 år gammalt skelett hittat i dike - SvD
 - Fler länder redo att erkänna Palestina - SVT Nyheter
-- Trumps nya tullar klara – träder i kraft om en vecka - DN
+- Trumps nya tullar – träder i kraft om en vecka - Tidningen Näringslivet
 - Sveriges miljardsatsning döms ut: ”Kalkylen går inte ihop” - Affärsvärlden
 - Kritiken mot Trumps och von der Leyens avtal: slaktar klimatmål och omöjligt att genomdriva - Aktuell Hållbarhet
 - Nynoterade Figma rusade 240 procent – två flugor i en smäll för Klarnas vd - EFN
-- UPPGÅNG I KORTEN EFTER RÄNTEBESKED I USA - Placera.se
 - DN Direkt - Efterlängtat spel släpps i oktober - DN
-- Taylor Kitsch skjuter folk i The Terminal List: Dark Wolf. Prequel-serie till The Terminal List. - Feber se.
+- Airpods uppdateras – ljudinspelning, styr kameran och växlar automatiskt - mobil.se
 
 ## World News
 
@@ -40,7 +40,7 @@ _Updated: 2025-08-01 09:46_
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - New Secretary General appointed - Olof Palme International Center
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -58,8 +58,8 @@ _Updated: 2025-08-01 09:46_
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - EY.ai | EY - Sverige - EY
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- ZenaTech’s ZenaDrone Initiates AUVSI Membership Upgrade, Enabling Leadership on Drone Policy and Strengthening US Defense and Government Engagement - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Safe Pro Group Successfully Integrates Artificial Intelligence-Powered Landmine Detection for Drones Selected Under U.S. Army Program of Record - Placera.se
 - RBC joins Massachusetts Institute of Technology's (MIT) CSAIL fintech research initiative on the role of AI in the future of finance - Placera.se
 - Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
@@ -76,23 +76,23 @@ _Updated: 2025-08-01 09:46_
 - Accord Announces Banking Facility Update - Placera.se
 - Flower tar in över 500 miljoner i avslutad Serie A-runda - Mynewsdesk
 - DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
-- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - Selective Director Steps Down to Focus on Founder Role - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -143,22 +143,22 @@ _Updated: 2025-08-01 09:46_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- De gick från reko till eko - ST-tidningen
+- Jordbruk och landsbygdsutveckling - European Commission
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- De gick från reko till eko - ST-tidningen
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Så tar du reda på gårdens koldioxidutsläpp - Land Lantbruk
