@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-01 13:42_
+_Updated: 2025-08-01 15:12_
 
 ## Top Stories
 
-- Maja, 18, fast på strandade tåget: ”Det smällde till” - Aftonbladet
-- Orpo: Redo se över EU:s samarbetsavtal med Israel - Hufvudstadsbladet
-- DN Direkt - Brand i kraftstation efter åskoväder - DN
-- Rekord i barnafödande – sedan hände något - SvD
-- Tidigare M-ministern i sorg: Episk katastrof - SvD
-- Död person hittad i skog i Enköping - SVT Nyheter
-- Lagändringar slår mot unga – Ronahs dotter utvisas ensam - DN
-- Olovlig skolledighet ska kunna ge böter - GP
-- Så påverkas trafiken i Stockholm av Prideparaden - DN
-- DN Direkt - Ung man död i trafikolycka - DN
-- Dödstalet stiger efter rysk attack mot Kiev - DN
-- Draget mot tjuvjakt – radioaktiva noshörningshorn - GP
-- 1 000 år gammalt skelett hittat i dike - SvD
+- Stort tågstopp efter elfel – resenärer fast - SvD
+- Krock på E6 i Varberg – fem personbilar inblandade - SVT Nyheter
+- INSÄNDARE: Endast ord stoppar inte en svältkatastrof - Hufvudstadsbladet
 - Fler länder redo att erkänna Palestina - SVT Nyheter
-- Lyxursförsäljaren rasar efter Trumps nya tullar - Dagens industri
-- Piratkopior av Ozempic får Novo Nordisk aktie att falla - Svensk Farmaci
-- Kritiken mot Trumps och von der Leyens avtal: slaktar klimatmål och omöjligt att genomdriva - Aktuell Hållbarhet
-- LG:s nya jätteavtal med Tesla värt 45,3 miljarder kronor - Dagens PS
-- DN Direkt - Efterlängtat spel släpps i oktober - DN
-- DJI Osmo 360 lanseras officiellt – här är 5 sätt den slår Insta360 X5 och 2 sätt den inte gör det - TechRadar
+- Strömavbrott och tågstopp efter åskan - GP
+- Felicia Åkerman: Inga garantier för att Trump inte rör runt i tullgrytan igen - DN
+- Orpo: Redo se över EU:s samarbetsavtal med Israel - Hufvudstadsbladet
+- Lagändringar slår mot unga – Ronahs dotter utvisas ensam - DN
+- Jämställdhetsministern på seminarium med hbtqi-strategiska myndigheter - Regeringen.se
+- Efter dödsolyckan – minnesplats skapad: "Det är tragiskt" - Ekuriren
+- Dödstalet stiger efter rysk attack mot Kiev - DN
+- Världens "äldsta bebis” född – embryot 30 år - GP
+- 1 000 år gammalt skelett hittat i dike - SvD
+- Draget mot tjuvjakt – radioaktiva noshörningshorn - DN
+- Expert: USA-beroendet kan bli dyrt för börsen - EFN
+- Trump hotar läkemedels­företag: Sänk priserna eller straffas - Svensk Farmaci
+- Krig och börsrally: Tel Aviv sticker ut som världens hetaste börs - DN
+- USA-analytiker: "Behöver inte sänkt ränta" - Dagens PS
+- Battlefield 6 får systemkrav för det öppna betatestet - Nordichardware
+- LEDARE: Europa måste finna sin plats bland stjärnorna - Barometern-OT
 
 ## World News
 
 - EYE WORLD AB (publ): EYE World Proud Sponsor of MSP Global 2025 - Placera.se
 - TGE to Showcase Unparalleled Media Power Through a Global Project Featuring Jackson Wang's L'Officiel Covers in 10 Countries and Regions - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
-- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - S&P Global Reports Second Quarter Results - Placera.se
+- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Kina föreslår global AI-samarbetsorganisation - Computer Sweden
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Two-Year Real-World Study of LEQEMBI® in the United States Presented at Alzheimer's Association International Conference (AAIC) 2025 - Placera.se
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Prologis Powers $3.2 Trillion in Global Trade and Supports 3.6 Million Jobs - Placera.se
-- Air Canada Expands Landline Luxury Motorcoach Service, Connects Kingston to its Global Network - Placera.se
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 
 ## Technology
 
@@ -63,12 +63,12 @@ _Updated: 2025-08-01 13:42_
 - RBC joins Massachusetts Institute of Technology's (MIT) CSAIL fintech research initiative on the role of AI in the future of finance - Placera.se
 - Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
+- TDK acquires SoftEye to enable artificial intelligence within smart glasses and grow its AI ecosystem business - Placera.se
 - Trane Technologies Completes Acquisition of BrainBox AI - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
+- Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 
 ## Business
@@ -76,23 +76,23 @@ _Updated: 2025-08-01 13:42_
 - Accord Announces Banking Facility Update - Placera.se
 - Flower tar in över 500 miljoner i avslutad Serie A-runda - Mynewsdesk
 - DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
-- First Financial Bankshares Announces Promotion of Kyle McVey to EVP Chief Financial Officer of First Financial Bank - Placera.se
+- Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- ING completes acquisition of Van Lanschot Kempen stake - Placera.se
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -121,24 +121,24 @@ _Updated: 2025-08-01 13:42_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Högskola, forskning och rymd - Regeringen.se
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
