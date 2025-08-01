@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-02 00:46_
+_Updated: 2025-08-02 01:43_
 
 ## Top Stories
 
-- Trump flyttar atomubåtar: ”Kan bli riktigt allvarligt” - DN
-- Kvinna död efter frontalkrock på E4 utanför Gävle - Expressen
-- Fyra döda i skjutning på bar i Montana - GP
-- Melinda Jacobs vill varumärkesskydda ”Lilla Hjärtat” – får kritik - GP
-- Fem gruvarbetare fast i koppargruva i Chile - GP
-- Kvinna häktad för guldstölder i Partille – utpekad i Stuvkällarmordet - Partille Tidning
-- Stopp i tågtrafiken mellan Göteborg och Stockholm - GP
-- DN Direkt - SR-chef om uppropet: Kan bevaka Gaza som vanligt - DN.se - DN
-- Efter skadegörelsen – nu stänger kiosken för sommaren - Ljusnan
-- Rekordvärmebölja i norr – SMHI varnar igen - DN
-- Dödstalet stiger efter rysk attack mot Kiev - GP
-- Vändningen: Nya tullar – timmar innan deadline - Västerbottens-Kuriren
 - Putin: Nya hypersoniska roboten ”omöjlig” att skjuta ner - DN
+- Trump flyttar atomubåtar: ”Kan bli riktigt allvarligt” - DN
+- DN Direkt - Fem gruvarbetare fast i koppargruva i Chile - DN.se - DN
+- Dödstalet stiger efter rysk attack mot Kiev - DN
+- Professorn: "Svårt att tänka sig en guldålder" - Placera.se
+- Marie Johanssons utpekade mördare häktad för stölder på boende - GP
+- DN Direkt - SR-chef om uppropet: Kan bevaka Gaza som vanligt - DN.se - DN
+- Stopp i tågtrafiken mellan Göteborg och Stockholm - GP
+- KLART: Det här är längsta värmeböljan i norr – på över 100 år - Norran
+- Ingen prideparad för Kristersson och Busch - Västerbottens-Kuriren
+- Minst fyra döda efter skjutning på bar i Montana - DN
 - Gazabo: Hjälpen räcker inte ens till en person – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- 280 klimatflyktingar vann australiensiska visum i lotteri - DN
+- Fler länder redo att erkänna Palestina - SVT Nyheter
 - Trump sparkar myndighetschef efter svaga jobbsiffran - Dagens industri
 - Jury i USA: Tesla ska betala miljarder för olycka - Aftonbladet
 - EU krossades: ”Trump kör med klassisk taktik” - SvD
@@ -28,25 +28,25 @@ _Updated: 2025-08-02 00:46_
 ## World News
 
 - EYE WORLD AB (publ): EYE World Proud Sponsor of MSP Global 2025 - Placera.se
+- TGE to Showcase Unparalleled Media Power Through a Global Project Featuring Jackson Wang's L'Officiel Covers in 10 Countries and Regions - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
-- New Secretary General appointed - Olof Palme International Center
-- Global Blue: Hur taxfree kan öka detaljhandelns försäljning och förbättra turistupplevelsen - The Portugal News
-- Umeå children in worldwide school project on AI - Umeå universitet
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
-- Ulrika Jonsson stämmer News of the World - Sydsvenskan
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
-- 1 426 potential victims identified in global operation against human trafficking - Europol
-- Here’s what happened in 2022 in 10 striking pictures - The World Economic Forum
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Is the space for civil society really shrinking? - International IDEA
-- New major crackdown on one of the biggest online piracy groups in the world: international coordination led by Eurojust - Eurojust
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Liberty International i Stockholm växer - travelnews.se
 
 ## Technology
 
@@ -56,43 +56,43 @@ _Updated: 2025-08-02 00:46_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
-- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - RBC joins Massachusetts Institute of Technology's (MIT) CSAIL fintech research initiative on the role of AI in the future of finance - Placera.se
-- Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Trane Technologies Completes Acquisition of BrainBox AI - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
+- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 
 ## Business
 
 - Equitable Bank successfully closes $300 million deposit note issuance - Placera.se
 - Flower tar in över 500 miljoner i avslutad Serie A-runda - Mynewsdesk
-- Accord Announces Banking Facility Update - Placera.se
 - DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- First Financial Bankshares Announces Promotion of Kyle McVey to EVP Chief Financial Officer of First Financial Bank - Placera.se
+- Accord Announces Banking Facility Update - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- ING completes acquisition of Van Lanschot Kempen stake - Placera.se
+- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -104,18 +104,18 @@ _Updated: 2025-08-02 00:46_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-08-02 00:46_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Jordbruk och landsbygdsutveckling - European Commission
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- De gick från reko till eko - ST-tidningen
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- Tio jordbruksaktier för depån - Placera.se
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Här är världens största jordbruk - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
