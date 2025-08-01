@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-01 22:46_
+_Updated: 2025-08-01 23:42_
 
 ## Top Stories
 
 - Trump flyttar atomubåtar: ”Kan bli riktigt allvarligt” - DN
-- Stopp i tågtrafiken till Göteborg och Malmö - Mitt i
+- Fem gruvarbetare fast i koppargruva i Chile - GP
+- Kvinna döda efter krock på E4 - SVT Nyheter
 - Melinda Jacobs vill varumärkesskydda ”Lilla Hjärtat” – får kritik - GP
-- Putin: Nya hypersoniska roboten ”omöjlig” att skjuta ner - DN
+- Minst fyra döda efter skjutning på bar i Montana - DN
 - Kvinna häktad för guldstölder i Partille – utpekad i Stuvkällarmordet - Partille Tidning
-- DN Direkt - Flera skjutna i affärslokal i Montana - DN.se - DN
-- DN Direkt - SR-chef om uppropet: Kan bevaka Gaza som vanligt - DN
-- Ingen prideparad för Kristersson och Busch - Västerbottens-Kuriren
+- Stopp i tågtrafiken mellan Göteborg och Stockholm - GP
+- DN Direkt - SR-chef om uppropet: Kan bevaka Gaza som vanligt - DN.se - DN
 - Efter skadegörelsen – nu stänger kiosken för sommaren - Ljusnan
 - KLART: Det här är längsta värmeböljan i norr – på över 100 år - Norran
-- Dödstalet stiger efter rysk attack mot Kiev - GP
-- Världens "äldsta bebis” född – embryot 30 år - Västerbottens-Kuriren
+- Dödstal stiger efter attack i Kiev - SVT Nyheter
 - Vändningen: Nya tullar – timmar innan deadline - Västerbottens-Kuriren
-- 280 klimatflyktingar vann australiensiska visum i lotteri - DN
+- Nästan hundra dödade i jakt på mat i Gaza - Hufvudstadsbladet
+- Putin: Nya hypersoniska roboten ”omöjlig” att skjuta ner - DN
 - Trump sparkar myndighetschef efter svaga jobbsiffran - Dagens industri
 - Jury i USA: Tesla ska betala miljarder för olycka - Aftonbladet
+- Solen har slutat skina på Kinas solpaneler – var tredje har fått gå - Dagens PS
 - EU krossades: ”Trump kör med klassisk taktik” - SvD
-- Malmöbaserat reseföretag i konkurs – upp till 1 300 resenärer strandsatta - Sydsvenskan
 - Battlefield 6 får systemkrav för det öppna betatestet - Nordichardware
 - Fyra astronauter till rymdstationen efter ett års väntan - DN
 
 ## World News
 
 - EYE WORLD AB (publ): EYE World Proud Sponsor of MSP Global 2025 - Placera.se
-- Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
+- TGE to Showcase Unparalleled Media Power Through a Global Project Featuring Jackson Wang's L'Officiel Covers in 10 Countries and Regions - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Techarenan News goes English (Partly at least) - Techarenan.news
-- Uppsala University in the top 90 in new global ranking - Uppsala universitet
-- New Secretary General appointed - Olof Palme International Center
-- Global Blue: Hur taxfree kan öka detaljhandelns försäljning och förbättra turistupplevelsen - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Ulrika Jonsson stämmer News of the World - Sydsvenskan
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Uppsala University in the top 90 in new global ranking - Uppsala universitet
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Liberty International i Stockholm växer - travelnews.se
+- Arrow Global förvärvar Troia Resort - The Portugal News
 
 ## Technology
 
@@ -75,24 +75,24 @@ _Updated: 2025-08-01 22:46_
 
 - Equitable Bank successfully closes $300 million deposit note issuance - Placera.se
 - Flower tar in över 500 miljoner i avslutad Serie A-runda - Mynewsdesk
-- Accord Announces Banking Facility Update - Placera.se
 - DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
-- Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- First Financial Bankshares Announces Promotion of Kyle McVey to EVP Chief Financial Officer of First Financial Bank - Placera.se
+- Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Accord Announces Banking Facility Update - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -119,26 +119,26 @@ _Updated: 2025-08-01 22:46_
 
 ## Science
 
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- 5 myter om öppen vetenskap - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Högskola, forskning och rymd - Regeringen.se
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 
 ## Jordbruk
 
