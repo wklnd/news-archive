@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-01 18:53_
+_Updated: 2025-08-01 19:47_
 
 ## Top Stories
 
 - Dödstalet stiger efter rysk attack mot Kiev - DN
-- Stopp i tågtrafiken till Göteborg och Malmö - Mitt i
-- Orpo: Redo att se över EU:s samarbetsavtal med Israel - Hufvudstadsbladet
-- Trafiken påverkades efter två olyckor på E4 - SVT Nyheter
-- Klagade på smutsiga lakan – blev utslängda från hotellet - Aftonbladet
-- Putin: Serieproduktion av ny robot - GP
-- Så påverkas trafiken i Stockholm av Prideparaden - DN
+- Stopp i tågtrafiken mellan Göteborg och Stockholm - GP
+- Trump flyttar kärnvapenubåtar - Västerbottens-Kuriren
+- Putin: Nya hypersoniska roboten ”omöjlig” att skjuta ner - DN
+- Flyglarm i Israel efter attack från Jemen - GP
+- Ostraffad hästkvinna levde dubbelliv – stoppad med 20 kilo kokain - Sydsvenskan
+- Ingen prideparad för Kristersson och Busch - Västerbottens-Kuriren
+- Jämställdhetsministern på seminarium med hbtqi-strategiska myndigheter - Regeringen.se
+- Två personer förda till sjukhus från trafikolyckan på E4 - Arbetarbladet
 - Rekordvärmebölja i norr – SMHI varnar igen - DN
-- Partnerskapet Swetrial klubbat - Läkartidningen
-- Lagändringar slår mot unga – Ronahs dotter utvisas ensam - DN
-- Felicia Åkerman: Inga garantier för att Trump inte rör runt i tullgrytan igen - DN
+- 280 klimatflyktingar vann australiensiska visum i lotteri - DN
 - Världens "äldsta bebis” född – embryot 30 år - GP
-- Nathan Shachar: Palestinsk stat är en belöning åt självstyret – inte åt Hamas - DN
-- Trump hotar Kanada efter stöd för Palestina - GP
+- Trumps nya tullar – träder i kraft om en vecka - Västerbottens-Kuriren
+- Ledare: Anosh Ghasri: Ett tvetydigt erkännande av en palestinsk stat - NWT
 - Felicia Åkerman: Anmärkningsvärt att det dröjde innan aktiemarknaden snubblade - DN
-- Trump hotar läkemedels­företag: Sänk priserna eller straffas - Svensk Farmaci
-- Afv-portföljen: Högtryck under juli - Affärsvärlden
+- Krig och börsrally: Tel Aviv sticker ut som världens hetaste börs - DN
 - EU krossades: ”Trump kör med klassisk taktik” - SvD
+- Afv-portföljen: Högtryck under juli - Affärsvärlden
 - Battlefield 6 får systemkrav för det öppna betatestet - Nordichardware
-- DJI Osmo 360 lanseras officiellt – här är 5 sätt den slår Insta360 X5 och 2 sätt den inte gör det - TechRadar
+- Mikrobryggeriet Ruckel Brewing öppnar pub i centrala Trollhättan - TTELA
 
 ## World News
 
@@ -32,21 +32,21 @@ _Updated: 2025-08-01 18:53_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- S&P Global Reports Second Quarter Results - Placera.se
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Liberty International i Stockholm växer - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Prologis Powers $3.2 Trillion in Global Trade and Supports 3.6 Million Jobs - Placera.se
-- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 
 ## Technology
 
@@ -79,20 +79,20 @@ _Updated: 2025-08-01 18:53_
 - DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
+- First Financial Bankshares Announces Promotion of Kyle McVey to EVP Chief Financial Officer of First Financial Bank - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -120,15 +120,15 @@ _Updated: 2025-08-01 18:53_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Högskola, forskning och rymd - Regeringen.se
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
@@ -136,8 +136,8 @@ _Updated: 2025-08-01 18:53_
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
@@ -155,10 +155,10 @@ _Updated: 2025-08-01 18:53_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
