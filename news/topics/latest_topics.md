@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-01 04:59_
+_Updated: 2025-08-01 06:38_
 
 ## Top Stories
 
-- Rysslands offensiv intensifieras – resursbrist i Ukraina - GP
+- Bara ett land i Norden tar emot skadade barn från Gaza - Hufvudstadsbladet
+- Sveriges äldsta familjekonditori finns i Växjö: ”Syns man inte finns man inte” - Smålandsposten
+- Dömda svenskarna utomlands – som vill till Sverige - GP
 - Tonåring död i arbetsplatsolycka - Arbetet
-- En till sjukhus efter drunkningslarm - GP
-- Annika Sörenstam i Trumps hälso-råd - Bulletin
-- Nästan hundra dödade i jakt på mat i Gaza - Hufvudstadsbladet
-- Expert: Erkännanden ett sätt att pressa Israel – och USA - DN
-- DN Direkt - Ny gränskontroll – ansiktsfoto och fingeravtryck - DN
+- Rysslands offensiv intensifieras – resursbrist i Ukraina - GP
+- En till sjukhus efter drunkningslarm utanför Norrtälje - SVT Nyheter
+- Lagändringar slår mot unga – Ronahs dotter utvisas ensam - DN
 - (+) Listan: Exempel på halvautomater som blir förbjudna för jakt - Jaktjournalen
-- Svenska IS-terroristen får livstid för avrättning av jordansk pilot - SVT Nyheter
+- Ny gränskontroll – ansiktsfoto och fingeravtryck - Västerbottens-Kuriren
 - Detta kan EU göra för att pressa Israel om kriget i Gaza - GP
+- Nathan Shachar: Netanyahu vill avsluta kriget – men inte före valet - DN
+- Nya tullar mot flera stora länder – så hårt drabbas de - SVT Nyheter
 - Franska städer inför utegångsförbud för unga - DN
-- Expert: ”Rysk kraftsamling efter Trumps sanktionshot” - DN
-- Slovenien förbjuder vapenhandel med Israel - GP
-- Miljontals vänder hem efter tsunamivarningarna - Hufvudstadsbladet
-- Trumps nya tullar – träder i kraft om en vecka - Skånska Dagbladet
+- Trump hotar Kanada efter stöd för Palestina - Västerbottens-Kuriren
+- UPPGÅNG I KORTEN EFTER RÄNTEBESKED I USA - Placera.se
 - Kritiken mot Trumps och von der Leyens avtal: slaktar klimatmål och omöjligt att genomdriva - Aktuell Hållbarhet
 - Beskedet: Nu kan företag ansöka om statliga lån för att bygga kärnkraft - Tidningen Näringslivet
-- Ändrade vätskeregler på flyg – risk för förvirring - Dagens industri
+- Mer vätska i handbagaget på flyg – risk för förvirring - Skånska Dagbladet
 - DN Direkt - Efterlängtat spel släpps i oktober - DN
-- Samsung kommer att lansera Galaxy S25 FE tidigare än väntat - m3.se
+- Ny upptäckt: 350 kilometer stort fynd djupt under jordens yta har siktet inställt på storstad - Illustrerad Vetenskap
 
 ## World News
 
@@ -33,20 +33,20 @@ _Updated: 2025-08-01 04:59_
 - S&P Global Reports Second Quarter Results - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
-- Two-Year Real-World Study of LEQEMBI® in the United States Presented at Alzheimer's Association International Conference (AAIC) 2025 - Placera.se
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- BIG Travel går in i globalt partnerskap - travelnews.se
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Ulrika Jonsson stämmer News of the World - Sydsvenskan
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Air Canada Expands Landline Luxury Motorcoach Service, Connects Kingston to its Global Network - Placera.se
-- Prologis Powers $3.2 Trillion in Global Trade and Supports 3.6 Million Jobs - Placera.se
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
+- Greenway Announces International Supply Agreement with 4C LABS - Placera.se
+- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
 
 ## Technology
 
@@ -58,10 +58,11 @@ _Updated: 2025-08-01 04:59_
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - EY.ai | EY - Sverige - EY
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- ZenaTech’s ZenaDrone Initiates AUVSI Membership Upgrade, Enabling Leadership on Drone Policy and Strengthening US Defense and Government Engagement - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Safe Pro Group Successfully Integrates Artificial Intelligence-Powered Landmine Detection for Drones Selected Under U.S. Army Program of Record - Placera.se
-- RBC joins Massachusetts Institute of Technology's (MIT) CSAIL fintech research initiative on the role of AI in the future of finance - Placera.se
 - Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
+- RBC joins Massachusetts Institute of Technology's (MIT) CSAIL fintech research initiative on the role of AI in the future of finance - Placera.se
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
@@ -69,7 +70,6 @@ _Updated: 2025-08-01 04:59_
 - Trane Technologies Completes Acquisition of BrainBox AI - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 
 ## Business
 
@@ -105,17 +105,17 @@ _Updated: 2025-08-01 04:59_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-08-01 04:59_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Jordbruk och landsbygdsutveckling - European Commission
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Här är världens största jordbruk - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- Tio jordbruksaktier för depån - Placera.se
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Här är världens största jordbruk - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Hon blir verksamhetschef på Sweden Food Arena - Mynewsdesk
-- Mjau lanserar nyhet för seniora katter - Mynewsdesk
-- Mjau breddar sortimentet för kastrerade katter - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
