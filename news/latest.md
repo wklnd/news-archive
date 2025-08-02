@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-02 13:48_
+_Updated: 2025-08-02 15:18_
 
-- Trump's tariffs are (still) coming - NPR
-- Corporation for Public Broadcasting to close after US funding cut - The Guardian
-- Judges Keep Restrictions on L.A. Immigration Arrests, in Setback for Trump Agenda - The New York Times
+- Statement from Katherine Maher, NPR President & CEO, on Closure of Corporation for Public Broadcasting - NPR
+- Steve Rosenberg: Russia is staying quiet on Trump's nuclear move - BBC
+- From flag poles to a $200 million ballroom: Inside Trump’s ‘legacy project’ at the White House - CNN
+- 9th Circuit keeps freeze on Southern California ICE patrols - Los Angeles Times
+- Stocks tumble on latest tariffs, soft jobs data - Reuters
 - Art of the praise: Why flattering Trump is now the go-to diplomatic move - NPR
-- Newspaper headlines: 'Trump sends nuclear subs to Russia' and 'holiday hell' - BBC
-- How a fragile aviation system led to disaster near Washington - Politico
 - Montana shooting kills 4 at Anaconda bar as search for suspect underway - The Washington Post
-- The Supreme Court just dropped a hint about its next big Voting Rights Act case - Politico
+- Trade adviser says Trump has "real concerns" about jobs data after president fires labor statistics chief - CBS News
 - A war is brewing over the future of the Republican Party. It’s getting messy. - Politico
-- Trump says he will fire labor statistics chief after weak jobs report - Axios
-- India Will Buy Russian Oil Despite Trump’s Threats, Officials Say - The New York Times
-- Trump recalibrates Gaza stance as humanitarian concerns grow - Politico
+- Senate unlocks ‘minibus’ deal , prepares to advance three spending bills - Politico
 - With Palestine recognition threats, frustrated allies try to get Netanyahu to listen - The Times of Israel
-- They escaped Ukraine's front lines. The sound of drones followed them - BBC
-- Fed governor to resign early, handing Trump immediate opening on board - The Washington Post
-- Shockingly bad jobs report reveals a monthslong stall and may trigger Fed rate cuts soon. ‘Powell is going to regret holding rates steady’ - Fortune
-- Fed Dissenters Defend Call for July Rate Cut as Trump Intensifies Attacks on Powell - The New York Times
-- Tesla Found Partly Liable in 2019 Autopilot Death - WIRED
-- Apple has sold 3 billion iPhones but Android is still king of the world - Android Authority
-- Battlefield 6 leads will avoid goofy crossover skins to "stray true to Battlefield" - Eurogamer
+- Trump recalibrates Gaza stance as humanitarian concerns grow - Politico
+- What Many Israelis Don’t Want to See - The New York Times
+- India will buy Russian oil despite Trump's threats, NYT reports - Reuters
+- Berkshire Operating Profits Fall 4% in 2nd Quarter. Company Takes Write-Down of Kraft Equity Stake. - Barron's
+- JFK airport's $9.5 billion international terminal is taking shape. See what's inside - CNBC
+- US job growth slows sharply, unemployment rate rises - Reuters
+- Restaurants are adding dozens of new spicy menu items in a bid for younger diners - CNBC
+- I use ChatGPT every day — and these 8 unusual prompts trick it into some great responses - Tom's Guide
+- Update your iPhone NOW: Apple releases iOS 18.6 with 29 urgent security fixes - here's how to download it on your device - Daily Mail
