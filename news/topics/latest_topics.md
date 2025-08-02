@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-02 20:51_
+_Updated: 2025-08-02 21:39_
 
 ## Top Stories
 
-- RFSL Dalarna deltog i Pride: ”Vi sätter ju standarden” - Sveriges Radio
+- DN Direkt - Man död i trafikolycka - DN.se - DN
+- Prideparaden intog Stockholms gator - GP
 - Många döda i flera attacker i Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Orpo: Redo att se över EU:s samarbetsavtal med Israel - Hufvudstadsbladet
+- Kaotiska scener på Gröna Lund – slagsmål och gråt - Marcus Oscarsson
 - Försvunnen 71-åring i Haparanda hittad - Aftonbladet
-- Åkesson (SD) kritiserar regeringen efter vändning i handelsavtal med Israel - GP
+- En tredje pytonorm hittad i Varberg - SVT Nyheter
+- Tintins mamma kämpar vidare: ”Det rör sig framåt väldigt långsamt ” - Sydsvenskan
 - Skyfall väntas – SMHI varnar - Västerbottens-Kuriren
-- Demenssjuka Maria våldtogs: ”Så mycket som gått fel” - Aftonbladet
-- Josefin, 30, våldtogs av dotterns pappa – måste ändå gå med på umgänge - Sydsvenskan
-- Man avliden i samband med trafikolycka - UNT
-- VIDEO: Här forsar vattnet in på Ica i city - Corren
-- Pride en fristad – men rädslan finns kvar utanför festivalen - DN
+- SVT:s meteorolog: Lita INTE på väderapparna just nu - SVT Nyheter
+- DN Direkt - Anställd dödad av leopard på zoo i Israel - DN.se - DN
 - Donald Trump om kärnvapen: Då tände jag till - GP
-- DN Direkt - Kamala Harris: Vill inte tillbaka in i systemet - DN.se - DN
-- Hepatitlarm i Oslo – tusentals gäster i farozonen - Aftonbladet
 - Jakt på ”extremt farlig” gärningsman i Montana - Västerbottens-Kuriren
+- DN Direkt - Kamala Harris: Vill inte tillbaka in i systemet - DN.se - DN
 - Brist på hjortron – varnar för rekordhöga priser - Sydsvenskan
 - Trumps nya tullar – träder i kraft om en vecka - Tidningen Näringslivet
-- Trump sparkar tjänstemän som levererar dåliga nyheter - Skånska Dagbladet
 - Mixx Travel i konkurs – mitt i högsäsong - GP
+- Skånska näringslivsaktörer om Trumps tullar - Skånska Dagbladet
 - Fyra nya astronauter på rymdstationen - Aftonbladet
 - GOG ger bort 13 vuxenspel. För att protestera mot censur. - Feber se.
 
@@ -33,20 +33,20 @@ _Updated: 2025-08-02 20:51_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
+- S&P Global bekräftar Bosnien och Hercegovinas "B+/B"-kreditbetyg av Investing.com - Investing.com Sverige
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
-- Arrow Global förvärvar Troia Resort - The Portugal News
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Arrow Global förvärvar Troia Resort - The Portugal News
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- Ulrika Jonsson stämmer News of the World - Sydsvenskan
 
 ## Technology
 
@@ -96,25 +96,25 @@ _Updated: 2025-08-02 20:51_
 
 ## Health
 
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
 ## Science
@@ -143,22 +143,22 @@ _Updated: 2025-08-02 20:51_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Jordbruk och landsbygdsutveckling - European Commission
-- Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- De gick från reko till eko - ST-tidningen
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- Tio jordbruksaktier för depån - Placera.se
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Här är världens största jordbruk - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
