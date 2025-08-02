@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-02 04:31_
+_Updated: 2025-08-02 05:43_
 
 ## Top Stories
 
 - Dödstalet stiger efter rysk attack mot Kiev - DN
+- Misstänkt mordförsök vid restaurang – en person gripen - SVT Nyheter
 - Putin: Nya hypersoniska roboten ”omöjlig” att skjuta ner - DN
 - 80-åriga Växjöparet flyttade till Thailand – och startade cigarrklubb - Smålandsposten
-- Fyra döda i skjutning på bar i Montana - GP
-- Nya tullsmockan - land för land - Västerbottens-Kuriren
-- Fortsatt stora förseningar i tågtrafiken – resenär fast - sla.se
-- DN Direkt - Ingen prideparad för Kristersson och Busch - DN.se - DN
-- KLART: Det här är längsta värmeböljan i norr – på över 100 år - Norran
+- Sorg i Mogata efter den tragiska dödsolyckan - NT
+- Torbjörn Hållö: Det finns en grupp arbetslösa som ingen talar om - GP
+- Stopp i tågtrafiken mellan Göteborg och Stockholm - GP
+- Rekordvärmebölja i norr – SMHI varnar igen - DN
+- SR-chef om uppropet: Kan bevaka Gaza som vanligt - Västerbottens-Kuriren
 - Partnerskapet Swetrial klubbat - Läkartidningen
-- Så påverkas trafiken i Stockholm av Prideparaden - DN
-- Gazabo: Hjälpen räcker inte ens till en person – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- OCHA-anställd: Möttes av desperation – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Vändningen: Nya tullar – timmar innan deadline - Västerbottens-Kuriren
+- DN Direkt - Flera döda efter skjutning på bar i Montana - DN.se - DN
 - USA flyttar atomubåtar efter ryskt uttalande - Hufvudstadsbladet
-- Klagade på smutsiga lakan – blev utslängda från hotellet - Aftonbladet
-- Första klimatflytten av ett land inleds - GP
 - Svaga jobbsiffror – Trump sparkar statistikchef - DN
 - Jury i USA: Tesla ska betala miljarder för olycka - Aftonbladet
 - EU krossades: ”Trump kör med klassisk taktik” - SvD
 - Börsen tog helg i moll – defensiv duo mot strömmen - Dagens industri
 - Battlefield 6 får systemkrav för det öppna betatestet - Nordichardware
-- Fyra astronauter till rymdstationen efter ett års väntan - DN
+- LEDARE: Europa måste finna sin plats bland stjärnorna - Smålandsposten
 
 ## World News
 
 - EYE WORLD AB (publ): EYE World Proud Sponsor of MSP Global 2025 - Placera.se
-- Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
+- TGE to Showcase Unparalleled Media Power Through a Global Project Featuring Jackson Wang's L'Officiel Covers in 10 Countries and Regions - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Arrow Global förvärvar Troia Resort - The Portugal News
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- Ulrika Jonsson stämmer News of the World - Sydsvenskan
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
+- Liberty International i Stockholm växer - travelnews.se
 
 ## Technology
 
@@ -91,8 +91,8 @@ _Updated: 2025-08-02 04:31_
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Selective Director Steps Down to Focus on Founder Role - Placera.se
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- First Financial Bankshares Announces Promotion of Kyle McVey to EVP Chief Financial Officer of First Financial Bank - Placera.se
 
 ## Health
 
@@ -102,13 +102,13 @@ _Updated: 2025-08-02 04:31_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
@@ -143,7 +143,6 @@ _Updated: 2025-08-02 04:31_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
@@ -158,6 +157,7 @@ _Updated: 2025-08-02 04:31_
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
