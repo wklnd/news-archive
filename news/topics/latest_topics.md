@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-02 11:44_
+_Updated: 2025-08-02 12:47_
 
 ## Top Stories
 
 - Skyfall och tromber utanför Falkenberg - tidningensyre.se
 - DN Direkt - Skyfall väntas – SMHI varnar - DN.se - DN
-- Epsteins partner flyttad – utan förklaring - GP
-- Polisen: Slå på bluetooth – för att hitta försvunnen man - TV4 Nyheterna
-- Person stickskadad vid restaurang i Järfälla - Omni
-- Stockholm vill dumpa 200 000 kubikmeter förorenat slam i skärgården - DN
 - Pride en fristad – men rädslan finns kvar utanför festivalen - DN
-- Stopp i tågtrafiken mellan Göteborg och Stockholm - GP
-- Norge tar emot fler patienter från Gaza - Västerbottens-Kuriren
-- Mollie, 10, plötsligt död efter hjärtstopp - Expressen
+- Epsteins partner flyttad – utan förklaring - GP
+- Person stickskadad vid restaurang i Järfälla - Omni
+- Trump: Beodrade atomubåtar är nu närmare Ryssland - Hufvudstadsbladet
+- Stockholm vill dumpa 200 000 kubikmeter förorenat slam i skärgården - DN
+- DN Direkt - Fortfarande enkelspår efter gårdagens elfel i tågtrafiken - DN.se - DN
+- Fux ilska mot bibeldemo under Pride: ”Skandalöst” - Västerbottens-Kuriren
+- Så påverkas trafiken i Stockholm av Prideparaden - DN
 - Elva skadade i rysk drönarattack mot Charkiv - Hufvudstadsbladet
 - Rymdsamarbete i sikte för Ryssland och USA - SVT Nyheter
 - Spanska nunnor bröt med påven – ockuperar kloster - Sydsvenskan
-- Karl Dalén: Därför är Donald Trump besatt av balsalar - DN
+- Flera döda i Gaza – flyktingtält attackerade - UNT
 - Svaga jobbsiffror – Trump sparkar statistikchef - DN
-- EU krossades: ”Trump kör med klassisk taktik” - SvD
-- Bäret USA förbjöd – nu vill forskarna att vi äter mer av det - Dagens PS
+- Skånska näringslivsaktörer om Trumps tullar - Skånska Dagbladet
 - Mixx Travel i konkurs – mitt i högsäsong - GP
+- Bäret USA förbjöd – nu vill forskarna att vi äter mer av det - Dagens PS
 - Bryder med 40 år gammel teori: Da en gruppe forskere opvarmede guld, skete der noget meget uventet - Illustrerad Vetenskap
 - Netflix lägger ner Arnold Schwarzeneggers knasiga actionkomedi efter två säsonger - MovieZine
 
 ## World News
 
-- EYE WORLD AB (publ): EYE World Proud Sponsor of MSP Global 2025 - beQuoted
 - TGE to Showcase Unparalleled Media Power Through a Global Project Featuring Jackson Wang's L'Officiel Covers in 10 Countries and Regions - Placera.se
 - Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Arrow Global förvärvar Troia Resort - The Portugal News
-- Liberty International i Stockholm växer - travelnews.se
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- Ulrika Jonsson stämmer News of the World - Sydsvenskan
 
 ## Technology
 
@@ -96,25 +96,25 @@ _Updated: 2025-08-02 11:44_
 
 ## Health
 
-- Episurf Medical annonserar omstruktureringsinitiativ och ökat fokus på den amerikanska marknaden - it-halsa.se
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
 ## Science
