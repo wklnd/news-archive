@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-02 16:44_
+_Updated: 2025-08-02 17:43_
 
 ## Top Stories
 
-- Samisk representation under Pride: ”Viktigt att visa att vi finns” - SVT Nyheter
-- Åkesson (SD) kritiserar regeringen efter vändning i handelsavtal med Israel - GP
+- Här är kändisarna som går i prideparaden - Aftonbladet
+- Åkesson (SD) sågar regeringens krav på fryst handel med Israel: ”Haveri” - SVT Nyheter
 - Elva skadade i rysk drönarattack mot Charkiv - Hufvudstadsbladet
-- Skyfall och tromber utanför Falkenberg - tidningensyre.se
-- Stor sökinsats efter försvunnen man i Haparanda – hemvärnet kallas in - SVT Nyheter
-- MKB skickade saltade fakturor till Tove, 35: ”Nu betalar jag för att slippa dem” - Sydsvenskan
-- Skyfall väntas – SMHI varnar - Västerbottens-Kuriren
+- Demenssjuka Maria våldtogs: ”Så mycket som gått fel” - Aftonbladet
+- SMHI utfärdar gul varning för skyfall - GP
+- Ukraina: Rysslands vapen från Sovjettiden börjar ta slut - DN
 - Pride en fristad – men rädslan finns kvar utanför festivalen - DN
-- Stockholm vill dumpa 200 000 kubikmeter förorenat slam i skärgården - DN
 - DN Direkt - Fux ilska mot bibeldemo under Pride: ”Skandalöst” - DN.se - DN
+- Kristin, 45, fick ecstasy med posten: ”Obehagligt” • Drogproblemen ökar i Bräcke - Expressen
+- Henrik satt fast i fem timmar – evakuerades med stege - DN
 - Hepatitlarm i Oslo – tusentals gäster i farozonen - Aftonbladet
-- Efter 100 år badar man igen i Seine – och långsamt övervinns misstron - DN
-- Granskning: Många barn skjutna i huvudet i Gaza - Hufvudstadsbladet
-- Epsteins partner flyttad – utan förklaring - Västerbottens-Kuriren
-- Expert: Trump försöker sätta ett exempel - SvD
-- Indien trotsar Trump - fortsätter köpa rysk olja - Aftonbladet
+- DN Direkt - Kamala Harris: Vill inte tillbaka in i systemet - DN.se - DN
+- Granskning: Över 160 barn i Gaza har blivit skjutna - SVT Nyheter
+- Moskva svänger – fortsatt rymdsamarbete med USA - GP
 - Trumps nya tullar – träder i kraft om en vecka - Tidningen Näringslivet
-- Reseföretag i konkurs – 1.300 strandsatta - Dagens industri
+- Trotsar Trump - köper rysk olja - SvD
+- Mixx Travel i konkurs – mitt i högsäsong - GP
+- DN Direkt - Brist på hjortron i norr – varnar för rekordhöga priser - DN.se - DN
 - Fyra nya astronauter på rymdstationen - Aftonbladet
-- Netflix lägger ner Arnold Schwarzeneggers knasiga actionkomedi efter två säsonger - MovieZine
+- GOG ger bort 13 vuxenspel. För att protestera mot censur. - Feber se.
 
 ## World News
 
@@ -34,19 +34,19 @@ _Updated: 2025-08-02 16:44_
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
 - Arrow Global förvärvar Troia Resort - The Portugal News
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- Ulrika Jonsson stämmer News of the World - Sydsvenskan
 
 ## Technology
 
@@ -96,14 +96,15 @@ _Updated: 2025-08-02 16:44_
 
 ## Health
 
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
@@ -113,32 +114,31 @@ _Updated: 2025-08-02 16:44_
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
 ## Science
 
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Högskola, forskning och rymd - Regeringen.se
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
