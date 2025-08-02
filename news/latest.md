@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-02 17:50_
+_Updated: 2025-08-02 18:56_
 
 - Republicans slam Trump’s firing of Bureau of Labor Statistics chief - theguardian.com
-- Judges Keep Restrictions on L.A. Immigration Arrests, in Setback for Trump Agenda - The New York Times
-- Teacher accused in Arkansas double homicide resigned from Plano ISD after only 4 days in 2024, officials say - CBS News
-- From flag poles to a $200 million ballroom: Inside Trump’s ‘legacy project’ at the White House - CNN
-- Trump's tariffs are (still) coming - NPR
+- Appeals court largely keeps restrictions on immigration raids in Los Angeles area - CBS News
+- How the New Texas Map Changes the Outlook for Control of the House - The New York Times
 - If compliments make you feel super awkward, this comic is for you - NPR
+- Trump is moving nuclear submarines following remarks by an ex-Russian president. Here are the subs in the American fleet - CNN
+- Markets dive after Trump hits more countries with steep tariffs - Reuters
 - Anaconda, Montana shooting: Police find getaway car of army veteran suspected of deadly attack - BBC
-- Office of Special Counsel launches investigation into ex-Trump prosecutor Jack Smith - NBC News
+- George Mason board votes to end some DEI efforts, approve raise for president - The Washington Post
+- On the Senate’s ‘Kumbaya’ committee, John Kennedy is suddenly singing off-key - Politico
 - Growing number of Jewish American groups speak out over Gaza famine - theguardian.com
-- A war is brewing over the future of the Republican Party. It’s getting messy. - Politico
 - Israeli hostage families hold emergency protest after Gaza militants release videos showing emaciated captives - CNN
-- India Will Buy Russian Oil Despite Trump’s Threats, Officials Say - The New York Times
+- Millions of Ukrainians abroad hope to return home once Russia's invasion ends - NPR
+- Man, 76, remanded over 'drug-laced sweets' at summer camp - BBC
 - With Palestine recognition, allies try to get Netanyahu to listen, but risk boosting Hamas - The Times of Israel
-- Pope Leo XIV: 'We all find true joy and happiness in Jesus Christ' - Vatican News
 - A jury orders Tesla to pay more than $240 million in Autopilot crash - NPR
-- Buffett’s Berkshire Takes $3.8 Billion Hit on Kraft Heinz Stake - Bloomberg
-- Fed governor to resign early, handing Trump immediate opening on board - The Washington Post
-- Shockingly bad jobs report reveals a monthslong stall and may trigger Fed rate cuts soon. ‘Powell is going to regret holding rates steady’ - Fortune
-- Battlefield 6 leads will avoid goofy crossover skins to "stray true to Battlefield" - Eurogamer
-- Galaxy S25 FE specs leak with a thinner design at the sacrifice of battery - 9to5Google
+- Fed Governor’s Exit Could Accelerate Trump’s Selection of Next Chair to Succeed Powell - Bloomberg.com
+- Berkshire earnings hit by $3.8bn write down of Kraft Heinz stake - Financial Times
+- A Weak Jobs Report Signals Stagflation. Blame Tariffs. - Barron's
+- Battlefield 6 to feature NVIDIA DLSS, Intel XeSS and AMD FSR upscaling and frame generation at launch - VideoCardz.com
+- Why Nintendo didn’t raise the price of the Switch 2 (yet) - The Verge
