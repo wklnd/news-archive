@@ -1,23 +1,23 @@
 # Top News Headlines
 
-_Updated: 2025-08-02 12:53_
+_Updated: 2025-08-02 13:48_
 
-- Trump says he will fire labor statistics chief after weak jobs report - Axios
-- 9th Circuit keeps freeze on Southern California ICE patrols - Los Angeles Times
-- Trump moves nuclear submarines after ex-Russia president’s menacing tweet - The Guardian
 - Trump's tariffs are (still) coming - NPR
-- They escaped Ukraine's front lines. The sound of drones followed them - BBC
-- Corporation For Public Broadcasting to Shutter After Trump Cuts - Bloomberg
+- Corporation for Public Broadcasting to close after US funding cut - The Guardian
+- Judges Keep Restrictions on L.A. Immigration Arrests, in Setback for Trump Agenda - The New York Times
+- Art of the praise: Why flattering Trump is now the go-to diplomatic move - NPR
+- Newspaper headlines: 'Trump sends nuclear subs to Russia' and 'holiday hell' - BBC
+- How a fragile aviation system led to disaster near Washington - Politico
 - Montana shooting kills 4 at Anaconda bar as search for suspect underway - The Washington Post
 - The Supreme Court just dropped a hint about its next big Voting Rights Act case - Politico
-- Teacher accused in Arkansas double homicide resigned from Plano ISD after only 4 days in 2024, officials say - CBS News
-- Ghislaine Maxwell moved to women's prison in Texas - BBC
+- A war is brewing over the future of the Republican Party. It’s getting messy. - Politico
+- Trump says he will fire labor statistics chief after weak jobs report - Axios
 - India Will Buy Russian Oil Despite Trump’s Threats, Officials Say - The New York Times
 - Trump recalibrates Gaza stance as humanitarian concerns grow - Politico
-- Recognizing Palestine would deepen French Muslim-Jewish rift - DW
-- College Basketball Coach Blames Barack Obama For 'Dividing' United States - Yahoo Home
-- Shockingly bad jobs report reveals a monthslong stall and may trigger Fed rate cuts soon. ‘Powell is going to regret holding rates steady’ - Fortune
+- With Palestine recognition threats, frustrated allies try to get Netanyahu to listen - The Times of Israel
+- They escaped Ukraine's front lines. The sound of drones followed them - BBC
 - Fed governor to resign early, handing Trump immediate opening on board - The Washington Post
+- Shockingly bad jobs report reveals a monthslong stall and may trigger Fed rate cuts soon. ‘Powell is going to regret holding rates steady’ - Fortune
 - Fed Dissenters Defend Call for July Rate Cut as Trump Intensifies Attacks on Powell - The New York Times
 - Tesla Found Partly Liable in 2019 Autopilot Death - WIRED
 - Apple has sold 3 billion iPhones but Android is still king of the world - Android Authority
