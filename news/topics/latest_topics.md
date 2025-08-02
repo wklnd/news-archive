@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-02 17:43_
+_Updated: 2025-08-02 18:50_
 
 ## Top Stories
 
 - Här är kändisarna som går i prideparaden - Aftonbladet
-- Åkesson (SD) sågar regeringens krav på fryst handel med Israel: ”Haveri” - SVT Nyheter
+- Åkesson (SD) kritiserar regeringen efter vändning i handelsavtal med Israel - GP
 - Elva skadade i rysk drönarattack mot Charkiv - Hufvudstadsbladet
+- Skyfall väntas – SMHI varnar - Västerbottens-Kuriren
 - Demenssjuka Maria våldtogs: ”Så mycket som gått fel” - Aftonbladet
-- SMHI utfärdar gul varning för skyfall - GP
 - Ukraina: Rysslands vapen från Sovjettiden börjar ta slut - DN
+- Josefin, 30, våldtogs av dotterns pappa – måste ändå gå med på umgänge - Sydsvenskan
 - Pride en fristad – men rädslan finns kvar utanför festivalen - DN
-- DN Direkt - Fux ilska mot bibeldemo under Pride: ”Skandalöst” - DN.se - DN
-- Kristin, 45, fick ecstasy med posten: ”Obehagligt” • Drogproblemen ökar i Bräcke - Expressen
+- 01 augusti 13.47, Trafikolycka, Varberg - polisen.se
 - Henrik satt fast i fem timmar – evakuerades med stege - DN
-- Hepatitlarm i Oslo – tusentals gäster i farozonen - Aftonbladet
+- Donald Trump om kärnvapen: Då tände jag till - GP
 - DN Direkt - Kamala Harris: Vill inte tillbaka in i systemet - DN.se - DN
-- Granskning: Över 160 barn i Gaza har blivit skjutna - SVT Nyheter
-- Moskva svänger – fortsatt rymdsamarbete med USA - GP
+- Hepatitlarm i Oslo – tusentals gäster i farozonen - Aftonbladet
+- Efter 100 år badar man igen i Seine – och långsamt övervinns misstron - DN
 - Trumps nya tullar – träder i kraft om en vecka - Tidningen Näringslivet
-- Trotsar Trump - köper rysk olja - SvD
-- Mixx Travel i konkurs – mitt i högsäsong - GP
 - DN Direkt - Brist på hjortron i norr – varnar för rekordhöga priser - DN.se - DN
+- Skånska näringslivsaktörer om Trumps tullar - Skånska Dagbladet
+- Trotsar Trump - köper rysk olja - SvD
 - Fyra nya astronauter på rymdstationen - Aftonbladet
 - GOG ger bort 13 vuxenspel. För att protestera mot censur. - Feber se.
 
@@ -34,19 +34,19 @@ _Updated: 2025-08-02 17:43_
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
 - Arrow Global förvärvar Troia Resort - The Portugal News
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- Ulrika Jonsson stämmer News of the World - Sydsvenskan
 
 ## Technology
 
@@ -96,25 +96,25 @@ _Updated: 2025-08-02 17:43_
 
 ## Health
 
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
 ## Science
