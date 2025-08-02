@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-02 21:39_
+_Updated: 2025-08-02 22:43_
 
 ## Top Stories
 
-- DN Direkt - Man död i trafikolycka - DN.se - DN
-- Prideparaden intog Stockholms gator - GP
-- Många döda i flera attacker i Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Orpo: Redo att se över EU:s samarbetsavtal med Israel - Hufvudstadsbladet
+- Samisk representation under Pride: ”Viktigt att visa att vi finns” - SVT Nyheter
+- Han drev Trump att flytta atomubåtarna - DN
 - Kaotiska scener på Gröna Lund – slagsmål och gråt - Marcus Oscarsson
-- Försvunnen 71-åring i Haparanda hittad - Aftonbladet
-- En tredje pytonorm hittad i Varberg - SVT Nyheter
-- Tintins mamma kämpar vidare: ”Det rör sig framåt väldigt långsamt ” - Sydsvenskan
-- Skyfall väntas – SMHI varnar - Västerbottens-Kuriren
-- SVT:s meteorolog: Lita INTE på väderapparna just nu - SVT Nyheter
-- DN Direkt - Anställd dödad av leopard på zoo i Israel - DN.se - DN
-- Donald Trump om kärnvapen: Då tände jag till - GP
-- Jakt på ”extremt farlig” gärningsman i Montana - Västerbottens-Kuriren
+- Försvunnen man hittad efter stor sökintsats - SVT Nyheter
+- Ukraina: Ryska militära mål träffade - GP
+- Skyfall väntas – SMHI varnar - Aftonbladet
+- Jimmie Åkesson (SD): ”Detta är faktiskt ett haveri” - SVT Nyheter
+- DN Direkt - En tredje pytonorm hittad i Varberg - DN.se - DN
+- Josefin, 30, våldtogs av dotterns pappa – måste ändå gå med på umgänge - Sydsvenskan
+- Polis avlossade varningsskott – man gripen i Höör - SVT Nyheter
+- Anställd dödad av leopard på zoo i Israel - Västerbottens-Kuriren
+- Jakt på ”extremt farlig” gärningsman i Montana - GP
 - DN Direkt - Kamala Harris: Vill inte tillbaka in i systemet - DN.se - DN
+- Flera döda i Gaza – flyktingtält attackerade - UNT
 - Brist på hjortron – varnar för rekordhöga priser - Sydsvenskan
+- Trump sparkar tjänstemän som levererar dåliga nyheter - Skånska Dagbladet
 - Trumps nya tullar – träder i kraft om en vecka - Tidningen Näringslivet
 - Mixx Travel i konkurs – mitt i högsäsong - GP
-- Skånska näringslivsaktörer om Trumps tullar - Skånska Dagbladet
 - Fyra nya astronauter på rymdstationen - Aftonbladet
 - GOG ger bort 13 vuxenspel. För att protestera mot censur. - Feber se.
 
@@ -63,36 +63,36 @@ _Updated: 2025-08-02 21:39_
 - RBC joins Massachusetts Institute of Technology's (MIT) CSAIL fintech research initiative on the role of AI in the future of finance - Placera.se
 - Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - Trane Technologies Completes Acquisition of BrainBox AI - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
+- Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 
 ## Business
 
 - Equitable Bank successfully closes $300 million deposit note issuance - Placera.se
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Accord Announces Banking Facility Update - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
 - DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Selective Director Steps Down to Focus on Founder Role - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
-- First Financial Bankshares Announces Promotion of Kyle McVey to EVP Chief Financial Officer of First Financial Bank - Placera.se
+- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
+- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
 
 ## Health
 
@@ -102,9 +102,9 @@ _Updated: 2025-08-02 21:39_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
@@ -114,31 +114,31 @@ _Updated: 2025-08-02 21:39_
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
 ## Science
 
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Högskola, forskning och rymd - Regeringen.se
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
@@ -151,8 +151,8 @@ _Updated: 2025-08-02 21:39_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - (+) Stor undersökning av jordbruket - Arbetarskydd
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
