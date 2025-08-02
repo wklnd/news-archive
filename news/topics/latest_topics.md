@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-02 09:40_
+_Updated: 2025-08-02 10:49_
 
 ## Top Stories
 
 - DN Direkt - Skyfall väntas – SMHI varnar - DN.se - DN
-- Donald Trump om kärnvapen: Då tände jag till - GP
+- Stopp i tågtrafiken mellan Göteborg och Stockholm - GP
+- Trump: Beodrade atomubåtar är nu närmare Ryssland - Hufvudstadsbladet
 - Misstänkt mordförsök vid restaurang – en person gripen - SVT Nyheter
-- Frihandelsoffensiv i skuggan av Trump: EU förhandlar med hela världen - DN
+- Stockholm vill dumpa 200 000 kubikmeter förorenat slam i skärgården - DN
+- Blommor plockas bort på kyrkogård: ”Jätteirriterad” - GP
 - Josefin, 30, våldtogs av dotterns pappa – måste ändå gå med på umgänge - Sydsvenskan
-- 80-åriga Växjöparet flyttade till Thailand – och startade cigarrklubb - Smålandsposten
-- DN Direkt - Fortfarande enkelspår efter gårdagens elfel i tågtrafiken - DN.se - DN
 - ”En 100-lapp vid ankomst kommer inte skrämma bort turister” - Helagotland
-- Jämställdhetsministern på seminarium med hbtqi-strategiska myndigheter - Regeringen.se
-- Mollie, 10, dog av hjärtstopp: "Kom från ingenstans" - Expressen
+- Mollie, 10, plötsligt död efter hjärtstopp - Expressen
+- Efter skadegörelsen – nu stänger kiosken för sommaren - Ljusnan
 - Elva skadade i rysk drönarattack mot Charkiv - Hufvudstadsbladet
 - Rymdsamarbete i sikte för Ryssland och USA - SVT Nyheter
 - Karl Dalén: Därför är Donald Trump besatt av balsalar - DN
 - Nathan Shachar: Palestinsk stat är en belöning åt självstyret – inte åt Hamas - DN
-- Svaga jobbsiffror – Trump sparkar statistikchef - DN
 - EU krossades: ”Trump kör med klassisk taktik” - SvD
-- Trump uppmanar FED-chefen att avgå: ”För sent” - DN
-- Resebolaget konkade under Kjells semester: ”20 000 för nya biljetter” - Aftonbladet
+- Trump uppmanar Fed-chefen att avgå: ”För sent” - DN
+- Mixx Travel i konkurs – mitt i högsäsong - GP
+- Trump sparkar myndighetschef efter svaga jobbsiffran - Dagens industri
 - Bryder med 40 år gammel teori: Da en gruppe forskere opvarmede guld, skete der noget meget uventet - Illustrerad Vetenskap
-- Så lånar du e-böcker och ljudböcker på biblioteket - PC för Alla
+- Forskare fäster kameror på rockor för att avslöja deras hemliga liv - MSN
 
 ## World News
 
-- TGE to Showcase Unparalleled Media Power Through a Global Project Featuring Jackson Wang's L'Officiel Covers in 10 Countries and Regions - Placera.se
 - Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -36,17 +35,18 @@ _Updated: 2025-08-02 09:40_
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Arrow Global förvärvar Troia Resort - The Portugal News
-- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 - Ulrika Jonsson stämmer News of the World - Sydsvenskan
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
+- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
+- Here’s what happened in 2022 in 10 striking pictures - The World Economic Forum
 
 ## Technology
 
@@ -100,26 +100,25 @@ _Updated: 2025-08-02 09:40_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Johan von Schreeb - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
 ## Science
 
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
@@ -127,18 +126,19 @@ _Updated: 2025-08-02 09:40_
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Högskola, forskning och rymd - Regeringen.se
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
