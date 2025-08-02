@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-02 15:07_
+_Updated: 2025-08-02 15:47_
 
 ## Top Stories
 
+- Enkelt vidare till semifinal – efter OS-reprisen - DN
 - Prideparaden tågar genom Stockholm: ”Dagen för alla, förutom de elaka” - DN
-- Skyfall och tromber utanför Falkenberg - tidningensyre.se
-- SMHI utfärdar gul varning för skyfall - GP
-- Pride en fristad – men rädslan finns kvar utanför festivalen - DN
-- Epsteins partner flyttad – utan förklaring - GP
-- MKB skickade saltade fakturor till Tove, 35: ”Nu betalar jag för att slippa dem” - Sydsvenskan
 - Åkesson (SD) kritiserar regeringen efter vändning i handelsavtal med Israel - GP
-- Fux ilska mot bibeldemo under Pride: ”Skandalöst” - SvD
+- Semesterrusning: Över 100 mil bilköer i Frankrike - GP
+- Skyfall och tromber utanför Falkenberg - tidningensyre.se
+- Skyfall väntas – SMHI varnar - TV4 Nyheterna
+- Pride en fristad – men rädslan finns kvar utanför festivalen - DN
+- Fux ilska mot bibeldemo under Pride: ”Skandalöst” - GP
 - Stockholm vill dumpa 200 000 kubikmeter förorenat slam i skärgården - DN
-- DN Direkt - Fortfarande enkelspår efter gårdagens elfel i tågtrafiken - DN.se - DN
+- Två personbilar i krock på E20 - SVT Nyheter
 - Elva skadade i rysk drönarattack mot Charkiv - Hufvudstadsbladet
+- Hepatitlarm i Oslo – tusentals gäster i farozonen - Aftonbladet
 - Rymdsamarbete i sikte för Ryssland och USA - SVT Nyheter
-- DN Direkt - Blixtnedslag på fotbollsplan – flera skadade - DN.se - DN
-- Granskning: Många barn skjutna i huvudet i Gaza - GP
-- USA:s ekonomi bromsar in – Trumps politik pekas ut - Omni
-- Trotsar Trump - köper rysk olja - SvD
+- BBC kartlägger fall med skjutna barn i Gaza - DN
+- Expert: Trump försöker sätta ett exempel - SvD
+- Indien trotsar Trump – fortsätter köpa rysk olja - SVT Nyheter
 - Trumps nya tullar – träder i kraft om en vecka - Tidningen Näringslivet
-- Reseföretag i konkurs – 1.300 strandsatta - Dagens industri
+- Mixx Travel i konkurs – mitt i högsäsong - GP
+- Fyra nya astronauter på rymdstationen - Aftonbladet
 - Microsoft kommer börja öppna upp användargränssnittet i Windows 11 - PC för Alla
-- Netflix lägger ner Arnold Schwarzeneggers knasiga actionkomedi efter två säsonger - MovieZine
 
 ## World News
 
+- EYE WORLD AB (publ): EYE World Proud Sponsor of MSP Global 2025 - beQuoted
 - TGE to Showcase Unparalleled Media Power Through a Global Project Featuring Jackson Wang's L'Officiel Covers in 10 Countries and Regions - Placera.se
 - Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
 - Arrow Global förvärvar Troia Resort - The Portugal News
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- Ulrika Jonsson stämmer News of the World - Sydsvenskan
+- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
 
 ## Technology
 
@@ -74,16 +74,16 @@ _Updated: 2025-08-02 15:07_
 ## Business
 
 - Equitable Bank successfully closes $300 million deposit note issuance - Placera.se
-- Accord Announces Banking Facility Update - Placera.se
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
+- Accord Announces Banking Facility Update - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
+- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
@@ -92,30 +92,30 @@ _Updated: 2025-08-02 15:07_
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
-- First Financial Bankshares Announces Promotion of Kyle McVey to EVP Chief Financial Officer of First Financial Bank - Placera.se
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 
 ## Health
 
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
+- Episurf Medical annonserar omstruktureringsinitiativ och ökat fokus på den amerikanska marknaden - it-halsa.se
 
 ## Science
 
