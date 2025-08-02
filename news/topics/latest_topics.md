@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-02 05:43_
+_Updated: 2025-08-02 06:57_
 
 ## Top Stories
 
-- Dödstalet stiger efter rysk attack mot Kiev - DN
-- Misstänkt mordförsök vid restaurang – en person gripen - SVT Nyheter
+- Trump flyttar atomubåtar: ”Kan bli riktigt allvarligt” - DN
+- Elva skadade i rysk drönarattack mot Charkiv - GP
+- Frihandelsoffensiv i skuggan av Trump: EU förhandlar med hela världen - DN
 - Putin: Nya hypersoniska roboten ”omöjlig” att skjuta ner - DN
 - 80-åriga Växjöparet flyttade till Thailand – och startade cigarrklubb - Smålandsposten
 - Sorg i Mogata efter den tragiska dödsolyckan - NT
-- Torbjörn Hållö: Det finns en grupp arbetslösa som ingen talar om - GP
 - Stopp i tågtrafiken mellan Göteborg och Stockholm - GP
+- Josefin, 30, våldtogs av dotterns pappa – måste ändå gå med på umgänge - Sydsvenskan
 - Rekordvärmebölja i norr – SMHI varnar igen - DN
-- SR-chef om uppropet: Kan bevaka Gaza som vanligt - Västerbottens-Kuriren
-- Partnerskapet Swetrial klubbat - Läkartidningen
+- Just nu: Större olycka på E4 – stopp i ett körfält - Södermanlands Nyheter
+- Minst fyra döda efter skjutning på bar i Montana - DN
 - OCHA-anställd: Möttes av desperation – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Vändningen: Nya tullar – timmar innan deadline - Västerbottens-Kuriren
-- DN Direkt - Flera döda efter skjutning på bar i Montana - DN.se - DN
-- USA flyttar atomubåtar efter ryskt uttalande - Hufvudstadsbladet
+- Trumps nya tullar – träder i kraft om en vecka - Corren
+- Första klimatflytten av ett land inleds - GP
 - Svaga jobbsiffror – Trump sparkar statistikchef - DN
-- Jury i USA: Tesla ska betala miljarder för olycka - Aftonbladet
 - EU krossades: ”Trump kör med klassisk taktik” - SvD
 - Börsen tog helg i moll – defensiv duo mot strömmen - Dagens industri
-- Battlefield 6 får systemkrav för det öppna betatestet - Nordichardware
-- LEDARE: Europa måste finna sin plats bland stjärnorna - Smålandsposten
+- Nu öppnar ansökan om kärnkraftsstöd – även för utländska aktörer - ETC.se
+- Gåtan: Sven-Eriks bil fylls av mystiska bucklor - Carup.se
+- Ikväll på TV: 4 Oscars till Clint Eastwoods mästerverk – en skoningslöst mörk western från 1992 - MovieZine
 
 ## World News
 
 - EYE WORLD AB (publ): EYE World Proud Sponsor of MSP Global 2025 - Placera.se
-- TGE to Showcase Unparalleled Media Power Through a Global Project Featuring Jackson Wang's L'Officiel Covers in 10 Countries and Regions - Placera.se
+- Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Liberty International i Stockholm växer - travelnews.se
+- Arrow Global förvärvar Troia Resort - The Portugal News
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- Ulrika Jonsson stämmer News of the World - Sydsvenskan
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
 
 ## Technology
 
@@ -56,19 +56,19 @@ _Updated: 2025-08-02 05:43_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
-- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - RBC joins Massachusetts Institute of Technology's (MIT) CSAIL fintech research initiative on the role of AI in the future of finance - Placera.se
-- Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
+- Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - Trane Technologies Completes Acquisition of BrainBox AI - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
+- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 
 ## Business
@@ -91,31 +91,31 @@ _Updated: 2025-08-02 05:43_
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
-- First Financial Bankshares Announces Promotion of Kyle McVey to EVP Chief Financial Officer of First Financial Bank - Placera.se
 
 ## Health
 
-- Episurf Medical annonserar omstruktureringsinitiativ och ökat fokus på den amerikanska marknaden - it-halsa.se
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-08-02 05:43_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
+- Jordbruk och landsbygdsutveckling - European Commission
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
