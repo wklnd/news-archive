@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-02 07:49_
+_Updated: 2025-08-02 08:52_
 
 ## Top Stories
 
-- Skyfall väntas – SMHI varnar - GP
-- Trump flyttar atomubåtar: ”Kan bli riktigt allvarligt” - DN
+- Skyfall väntas – SMHI varnar - Västerbottens-Kuriren
+- DN Direkt - Fortfarande enkelspår efter gårdagens elfel i tågtrafiken - DN.se - DN
+- USA flyttar atomubåtar efter ryskt uttalande - Hufvudstadsbladet
+- Epsteins partner flyttad – utan förklaring - SvD
 - Frihandelsoffensiv i skuggan av Trump: EU förhandlar med hela världen - DN
-- 80-åriga Växjöparet flyttade till Thailand – och startade cigarrklubb - Smålandsposten
-- Putin: Nya hypersoniska roboten ”omöjlig” att skjuta ner - DN
-- Elva skadade i rysk drönarattack - Västerbottens-Kuriren
-- Stopp i tågtrafiken mellan Göteborg och Stockholm - GP
 - Josefin, 30, våldtogs av dotterns pappa – måste ändå gå med på umgänge - Sydsvenskan
+- ”En 100-lapp vid ankomst kommer inte skrämma bort turister” - Helagotland
+- Mollie, 10, dog av hjärtstopp: "Kom från ingenstans" - Expressen
 - 02 augusti 07.00, Sammanfattning kväll och natt, Hallands län - polisen.se
 - ”Prioritera nykterhetskontroller under sommaren” - Västerbottens-Kuriren
-- Rymdsamarbete i sikte för Ryssland och USA - SVT Nyheter
+- Elva skadade i rysk drönarattack mot Charkiv - Hufvudstadsbladet
 - Karl Dalén: Därför är Donald Trump besatt av balsalar - DN
-- Fem gruvarbetare fast i koppargruva i Chile - Nyheter24
-- Spanska nunnor bröt med påven – ockuperar kloster - Sydsvenskan
+- Rymdsamarbete i sikte för Ryssland och USA - SVT Nyheter
+- Fyra döda i skjutning på bar i Montana - GP
 - Svaga jobbsiffror – Trump sparkar statistikchef - DN
+- Trump uppmanar FED-chefen att avgå: ”För sent” - DN
 - Trumps nya tullar – träder i kraft om en vecka - Tidningen Näringslivet
 - Resebolaget konkade under Kjells semester: ”20 000 för nya biljetter” - Aftonbladet
-- EU krossades: ”Trump kör med klassisk taktik” - SvD
-- Gåtan: Sven-Eriks bil fylls av mystiska bucklor - Carup.se
 - Ikväll på TV: 4 Oscars till Clint Eastwoods mästerverk – en skoningslöst mörk western från 1992 - MSN
+- Gåtan: Sven-Eriks bil fylls av mystiska bucklor - Carup.se
 
 ## World News
 
-- EYE WORLD AB (publ): EYE World Proud Sponsor of MSP Global 2025 - Placera.se
-- TGE to Showcase Unparalleled Media Power Through a Global Project Featuring Jackson Wang's L'Officiel Covers in 10 Countries and Regions - Placera.se
+- Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Liberty International i Stockholm växer - travelnews.se
+- Arrow Global förvärvar Troia Resort - The Portugal News
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- Ulrika Jonsson stämmer News of the World - Sydsvenskan
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
+- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
+- Here’s what happened in 2022 in 10 striking pictures - The World Economic Forum
 
 ## Technology
 
@@ -119,25 +119,25 @@ _Updated: 2025-08-02 07:49_
 
 ## Science
 
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - ju.se
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Högskola, forskning och rymd - Regeringen.se
+- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 
 ## Jordbruk
@@ -151,13 +151,13 @@ _Updated: 2025-08-02 07:49_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
