@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-03 18:50_
+_Updated: 2025-08-03 19:45_
 
 ## Top Stories
 
-- Rysk flygplats stängdes och oljedepå i brand efter ukrainska attacker - DN
 - Experten om ormfynden i Varberg: ”Nästan helt osannolikt” - GP
+- Rysk flygplats stängdes och oljedepå i brand efter ukrainska attacker - DN
 - Brittiska stormen ”Floris” sveper in över Skaraborg – SMHI utfärdar gul varning - NLT
-- Proud Boys-ledarens app: ”Pokémon Go” för att ange migranter - Aftonbladet
 - Råndömde Fedir, 40, släpptes för att strida vid fronten - DN
-- Campingen översvämmad – Peter från Åtvidaberg om skyfallet - Corren
-- Misstänkt våldtäkt på Djäkneberget i Västerås - SVT Nyheter
+- Proud Boys-ledarens app: ”Pokémon Go” för att ange migranter - Aftonbladet
+- Elscooterförare misstänkt för brott efter olycka – fördes till sjukhus - Kristianstadsbladet
 - Brittisk nynazist nekades inresa till Sverige - Västerbottens-Kuriren
-- Moska Hassas ny SSU-ordförande - GP
-- Svenska kyrkan i EU:s hjärta: ”En trygg plats” - DN
-- Rapport: Straffrihet för Israels soldater – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Hamas visar video på svältande gisslan – och vägrar lägga ned vapen - DN
+- Umeådottern får politiskt toppuppdrag - Västerbottens-Kuriren
+- Misstänkt våldtäkt på Djäkneberget i Västerås - SVT Nyheter
+- I Pridetåget minns vi hjältarna som gick före - Aftonbladet
+- Sjukhuskällor: Många dödade vid utdelningsplatser – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Desperata protester efter Hamas gisslanvideor - Hufvudstadsbladet
 - Kvinna gripen – hade tvååring i resväska - Aftonbladet
 - Över en miljon unga kom till påvens mässa - GP
 - Kronan fortsatt årets bästa valuta - Dagens industri
 - Kunder tar smäll för PFAS-rening av dricksvatten - SvD
 - Raset för bantningsjätten hotar dansk ekonomi - DN
 - Rådgivare: Trump vill tillsätta sitt eget folk - Omni
+- LISTA: Här kan du hyra SUP och kajak nära dig - Arbetarbladet
 - Få det krypa i skinnet med 12 minuters Silent Hill f-gameplay - FZ.se
-- Varning för ras: det är augusti! - SvD
 
 ## World News
 
@@ -74,25 +74,25 @@ _Updated: 2025-08-03 18:50_
 ## Business
 
 - Equitable Bank successfully closes $300 million deposit note issuance - Placera.se
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Accord Announces Banking Facility Update - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- Selective Director Steps Down to Focus on Founder Role - Placera.se
+- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -120,21 +120,21 @@ _Updated: 2025-08-03 18:50_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Högskola, forskning och rymd - Regeringen.se
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
@@ -152,7 +152,7 @@ _Updated: 2025-08-03 18:50_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- VGR och SLU satsar på hållbart och innovativt lantbruk - press.newsmachine.com
 - (+) Stor undersökning av jordbruket - Arbetarskydd
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
