@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-03 01:52_
+_Updated: 2025-08-03 05:00_
 
-- Authorities investigating ex-Trump prosecutor Jack Smith for alleged illegal political activity - AP News
-- From Laos to Brazil, Trump’s tariffs leave a lot of losers. But even the winners will pay a price - AP News
-- Senate GOP eyes recess appointments as stalemate drags on - Axios
+- Former Trump prosecutor Jack Smith faces investigation by Office of Special Counsel - The Washington Post
+- "Nuclear option" lingers over Senate as members leave for August recess - Axios
 - In Gaza, more Palestinians are killed while waiting for food aid - NPR
-- The Trump administration takes a very Orwellian turn - CNN
 - Kamala Harris has misgivings about government. Some Dems have misgivings about her. - Politico
-- Montana bar shooting suspect still at large after four killed in Anaconda - NBC News
-- Appeals court largely keeps restrictions on immigration raids in Los Angeles area - CBS News
-- Tennessee Man Charged in Attempt to Detonate Bombs During Arrest - The New York Times
-- Republicans slam Trump’s firing of Bureau of Labor Statistics chief - The Guardian
+- US envoy tells Israeli hostage families he is working on plan to end Gaza War - Reuters
+- From Laos to Brazil, Trump’s tariffs leave a lot of losers. But even the winners will pay a price - AP News
+- Anaconda, Montana shooting: Police find getaway car of army veteran suspected of deadly attack - BBC
+- Judges Keep Restrictions on L.A. Immigration Arrests, in Setback for Trump Agenda - The New York Times
+- ‘Grow Up’: Conservative Senators, Economists Slam Trump for Firing Labor Stats Chief - Rolling Stone
+- Tennessee man arrested after officers find 14 IEDs inside home: Sheriff - ABC News
 - Pope Leo XIV gets rock star welcome from young Catholics at huge vigil - The Guardian
-- In video, Hamas forces hostage Evyatar David to dig what he fears will be his own grave - The Times of Israel
-- U.S. envoy tells Israeli families of plan to bring all the hostages home - The Washington Post
+- Evyatar David's family condemns Hamas video of emaciated Israeli hostage - BBC
 - The US said it had no choice but to deport them to a third country. Then it sent them home - Reuters
+- Rescuers race to save Chile miners after collapse kills at least one - BBC
 - Lina Khan points to Figma IPO as vindication of M&A scrutiny - TechCrunch
-- U.S. Hiring Slowed Sharply Over the Summer - The Wall Street Journal
-- Profits at Warren Buffett's Berkshire Hathaway drop as it writes down its Kraft Heinz investment - CBS News
+- The shock jobs report sets off this recession alert and holds fresh clues that AI may be boosting unemployment, JPMorgan says - Fortune
 - Economic fears of investors are here — and fed by Trump’s reaction - The Washington Post
-- Why Nintendo didn’t raise the price of the Switch 2 (yet) - The Verge
-- Apple Has Developed LOFIC Camera Sensor With 20‑Stop Dynamic Range That Could Rival High‑End Cinema Cameras And Potentially Reduce Reliance On Sony In Future iPhones - Wccftech
+- Private-credit ETFs are here. Why your retirement account may be their next target. - MarketWatch
+- Galaxy S25 FE specs leak with a thinner design at the sacrifice of battery - 9to5Google
+- Snooty Nantucket residents outraged over new chain store opened on ritzy billionaire's island - Daily Mail
