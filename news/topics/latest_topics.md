@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-03 04:57_
+_Updated: 2025-08-03 06:33_
 
 ## Top Stories
 
+- Flera skadade i rysk robotattack - GP
 - Han drev Trump att flytta atomubåtarna - DN
-- Ukraina: Ryska militära mål träffade - GP
 - Flera döda i Gaza – flyktingtält attackerade - UNT
+- Behöver man verkligen dricka elektrolyter? - DN
 - Tumult efter trafikolycka i Malmö - SVT Nyheter
-- Mopedolycka utanför Hagfors – man förd till sjukhus - NWT
-- Prideparaden i gång i Stockholm - Västerbottens-Kuriren
-- En tredje pytonorm hittad i Varberg - SVT Nyheter
-- Åkesson (SD) kritiserar regeringen efter vändning i handelsavtal med Israel - GP
+- Norge tar emot fler patienter från Gaza - Västerbottens-Kuriren
+- God skörd i sikte – men gäss och vildsvin bekymrar lantbrukarna - Kungälvs-Posten
+- Alla bilder från Stockholm Pride – hittar du dig själv? - Aftonbladet
 - SVT:s meteorolog: Lita INTE på väderapparna just nu - SVT Nyheter
-- 01 augusti 13.47, Trafikolycka, Varberg - polisen.se
-- DN Direkt - Anställd dödad av leopard på zoo i Israel - DN.se - DN
+- En tredje pytonorm hittad i Varberg - GP
+- Grafik: Så stor var förödelsen efter atombomben i Hiroshima - Sydsvenskan
 - Attack mot Röda halvmånen i Gaza - Skånska Dagbladet
-- Åklagaren Jack Smith som utredde Trump utreds för brott - SVT Nyheter
-- Unga pilgrimer träffar påven vid massbön i Rom - GP
+- Åklagaren som utredde Trump utreds för brott - SVT Nyheter
+- Unga pilgrimer träffar påven vid massbön i Rom - Västerbottens-Kuriren
 - Trump sparkar tjänstemän som levererar dåliga nyheter - Skånska Dagbladet
 - Trumps nya tullar – träder i kraft om en vecka - Tidningen Näringslivet
-- Jury i USA: Tesla ska betala miljarder för olycka - HD
 - Mixx Travel i konkurs – mitt i högsäsong - GP
-- Fyra nya astronauter på rymdstationen - Aftonbladet
-- GOG ger bort 13 vuxenspel. För att protestera mot censur. - Feber se.
+- Brist på hjortron – varnar för rekordhöga priser - Sydsvenskan
+- Volvon som chockade världen visas i Göteborg - Carup.se
+- Så många blir aldrig av med skulderna - SvD
 
 ## World News
 
@@ -56,19 +56,19 @@ _Updated: 2025-08-03 04:57_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
-- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - RBC joins Massachusetts Institute of Technology's (MIT) CSAIL fintech research initiative on the role of AI in the future of finance - Placera.se
-- Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
+- Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Trane Technologies Completes Acquisition of BrainBox AI - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
+- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 
 ## Business
@@ -100,21 +100,21 @@ _Updated: 2025-08-03 04:57_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
 ## Science
@@ -145,20 +145,20 @@ _Updated: 2025-08-03 04:57_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - De gick från reko till eko - ST-tidningen
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
