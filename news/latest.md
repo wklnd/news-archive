@@ -1,21 +1,21 @@
 # Top News Headlines
 
-_Updated: 2025-08-03 12:53_
+_Updated: 2025-08-03 13:48_
 
 - Senate GOP eyes recess appointments as stalemate drags on - Axios
 - Former Trump prosecutor Jack Smith faces investigation by Office of Special Counsel - The Washington Post
-- ‘Grow Up’: Conservative Senators, Economists Slam Trump for Firing Labor Stats Chief - Rolling Stone
-- Earthquake in Bergen County shakes parts of New Jersey, New York - CBS News
-- In Gaza, more Palestinians are killed while waiting for food aid - NPR
-- Smithsonian slated to restore Trump impeachment exhibit - The Hill
-- Search continues for suspect in Anaconda mass shooting - KRTV
-- Tennessee man arrested after officers find 14 IEDs inside home: Sheriff - ABC News
-- New tsunami warning from Russia after Kuril Islands quake - DW
-- US Senate confirms former Fox News host Pirro as DC top prosecutor - Al Jazeera
-- Pope Leo XIV gets rock star welcome from young Catholics at huge vigil - The Guardian
 - US envoy tells Israeli hostage families he is working on plan to end Gaza War - Reuters
+- ‘Grow Up’: Conservative Senators, Economists Slam Trump for Firing Labor Stats Chief - Rolling Stone
+- Aid group says worker killed by Israeli military in attack on Gaza HQ - BBC
+- Earthquake Jolts New Jersey and New York City - The New York Times
+- What We Know About the Montana Bar Shooting - The New York Times
+- Tennessee man arrested after officers find 14 IEDs inside home: Sheriff - ABC News
+- Appeals court largely keeps restrictions on immigration raids in Los Angeles area - CBS News
+- Senate confirms Jeanine Pirro as top federal prosecutor for D.C. - The Washington Post
+- Pope thrills hundreds of thousands of young Catholics at Holy Year youth festival - NBC News
 - No Passports, No Study Abroad: China Limits Public Employees’ Travel - The New York Times
-- The US said it had no choice but to deport them to a third country. Then it sent them home - Reuters
+- Thousands, including Julian Assange, at pro-Palestinian march in Sydney - ynetnews.com
+- Ukraine: Kyiv says it hit Russian oil, military facilities - DW
 - Economic fears of investors are here — and fed by Trump’s reaction - The Washington Post
 - Federal Reserve governor resigns, creating vacancy for Trump - upi.com
 - The shock jobs report sets off this recession alert and holds fresh clues that AI may be boosting unemployment, JPMorgan says - Fortune
