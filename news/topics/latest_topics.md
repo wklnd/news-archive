@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-03 20:52_
+_Updated: 2025-08-03 21:40_
 
 ## Top Stories
 
 - Experten om ormfynden i Varberg: ”Nästan helt osannolikt” - GP
-- Campingen översvämmad – Peter från Åtvidaberg om skyfallet - Corren
-- Råndömde Fedir, 40, släpptes för att strida vid fronten - DN
-- Rapport: Straffrihet för Israels soldater – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Storbritannien förbereder sig för stormen Floris – kan vara fara för liv - DN
 - Ukrainsk attack stoppade flyg i ryska Sotji - DN
-- DN Direkt - Kambodja: Thailand planerar anfall längs gränsen - DN.se - DN
-- ”Floris” på väg mot Sverige – SMHI varnar - DN
-- Brittisk nynazist nekades inresa till Sverige - Västerbottens-Kuriren
+- Campingen översvämmad – Peter från Åtvidaberg om skyfallet - Corren
+- LO-toppen rasar mot Ica-reklamen: ”Farligt” - Aftonbladet
+- Råndömde Fedir, 40, släpptes för att strida vid fronten - DN
 - DN Direkt - SD kan ställa nya krav efter regeringsbesked om Israel - DN.se - DN
-- Moska Hassas ny SSU-ordförande - Västerbottens-Kuriren
-- Källor: Många döda i katastrof med migrantfartyg - Västerbottens-Kuriren
-- Macron och Merz fördömer gisslanfilmer - GP
+- Brittisk nynazist nekades inresa till Sverige - Västerbottens-Kuriren
+- Umeådottern får politiskt toppuppdrag - Västerbottens-Kuriren
+- Misstänkt våldtäkt på Djäkneberget i Västerås - SVT Nyheter
+- Israels säkerhetsminister bad vid Tempelberget - HD
+- Minst 68 döda när migrantfartyg sjönk - GP
 - Kvinna gripen – hade tvååring i resväska - Aftonbladet
-- Draget mot Ryssland: Installerar säkerhetsbarriärer - Expressen
-- Kronan fortsatt årets bästa valuta - Dagens industri
+- Sjukhuskällor: Många dödade vid utdelningsplatser – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Kunder tar smäll för PFAS-rening av dricksvatten - SvD
+- Kronan fortsatt årets bästa valuta - Dagens industri
 - Raset för bantningsjätten hotar dansk ekonomi - DN
 - Trumps förre statistikchef sågar avskedandet - Omni
 - LISTA: Här kan du hyra SUP och kajak nära dig - Arbetarbladet
@@ -102,20 +102,20 @@ _Updated: 2025-08-03 20:52_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
@@ -148,17 +148,17 @@ _Updated: 2025-08-03 20:52_
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Jordbruk och landsbygdsutveckling - European Commission
+- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
