@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-04 00:46_
+_Updated: 2025-08-04 01:43_
 
 ## Top Stories
 
-- DN Direkt - SVT skrev n-ordet – avsnitt bortplockat - DN.se - DN
+- Explosion vid port i Göteborg - SVT Nyheter
 - Lönnmördare gripen mitt i turistparadiset - Aftonbladet
-- Campingen översvämmad – Peter från Åtvidaberg om skyfallet - Corren
-- Draget mot Ryssland: Installerar säkerhetsbarriärer - Expressen
+- Skyfall dränkte camping – besökare använde gummibåtar - Omni
+- Tonårsflicka hundbiten – fördes till akuten med skador i ansiktet - NLT
+- LO-toppen rasar mot Ica-reklamen: ”Farligt” - Aftonbladet
 - Ukrainsk attack stoppade flyg i ryska Sotji - DN
-- Buss evakuerades längs E6 - SVT Nyheter
 - SD: Kan börja ställa krav inom utrikespolitiken - DN
 - Gul vädervarning – Floris drar in med stormbyar mot västkusten - GP
+- Moska Hassas ny SSU-ordförande - Västerbottens-Kuriren
 - Experten om ormfynden i Varberg: ”Nästan helt osannolikt” - GP
-- Kvinna våldtagen i Västerås - SVT Nyheter
 - Israels säkerhetsminister bad vid Tempelberget - Västerbottens-Kuriren
-- Attack mot Röda halvmånen i Gaza: ”Inget misstag” - Hufvudstadsbladet
 - Minst 68 döda när migrantfartyg sjönk - GP
-- Protester i Israel efter gisslanvideor - SVT Nyheter
+- Stenergard: Fruktansvärda bilder – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Attack mot Röda halvmånen i Gaza: ”Inget misstag” - Hufvudstadsbladet
 - Kronan årets starkaste valuta – så påverkas du - DN
 - HD stärker rätten till god man - Västerbottens-Kuriren
 - 22-åriga Neas ovanliga beroende: ”Det är helt sjukt” - Expressen
@@ -27,26 +27,26 @@ _Updated: 2025-08-04 00:46_
 
 ## World News
 
-- EYE WORLD AB (publ): EYE World Proud Sponsor of MSP Global 2025 - beQuoted
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
+- TGE to Showcase Unparalleled Media Power Through a Global Project Featuring Jackson Wang's L'Officiel Covers in 10 Countries and Regions - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- TGE to Showcase Unparalleled Media Power Through a Global Project Featuring Jackson Wang's L'Officiel Covers in 10 Countries and Regions - Placera.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Arrow Global förvärvar Troia Resort - The Portugal News
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
 
 ## Technology
 
@@ -78,8 +78,8 @@ _Updated: 2025-08-04 00:46_
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Accord Announces Banking Facility Update - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
 - WBCSD: Över hälften redovisar dubbel väsentlighetsanalys - Miljö & Utveckling
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
@@ -102,7 +102,6 @@ _Updated: 2025-08-04 00:46_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
@@ -116,6 +115,7 @@ _Updated: 2025-08-04 00:46_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
@@ -125,40 +125,40 @@ _Updated: 2025-08-04 00:46_
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Högskola, forskning och rymd - Regeringen.se
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Jordbruk och landsbygdsutveckling - European Commission
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
-- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
