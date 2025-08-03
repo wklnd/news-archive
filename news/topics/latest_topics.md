@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-03 10:49_
+_Updated: 2025-08-03 11:44_
 
 ## Top Stories
 
-- Rysk kamp mot stor oljebrand efter ukrainsk attack - GP
-- Misstänkt överfallsvåldtäkt vid Gullmarsplan - SVT Nyheter
+- Kvinna våldtagen i Stockholm - Expressen
 - De blev måltavlan för Trumps korståg mot woke: ”Trump är en girig man” - DN
-- Schulmans ilska på Instagram: ”Ska rökas ut” - Aftonbladet
-- Sebastian låter sig inte stoppas av en diagnos - GP
+- Takako Kotani såg sin brors ansikte smälta bort efter bomben i Hiroshima - Bbl/AT
+- DN Direkt - Kvinna våldtagen utomhus i Stockholm - DN.se - DN
 - Nya ryska taktiken mot Ukraina: ”De dödar de bästa av oss” - SvD
-- Samisk representation under Pride: ”Viktigt att visa att vi finns” - SVT Nyheter
-- Björn Wiman: Hon vittnar om en ny värld som styrs av huliganer och tyranner - DN
-- God skörd i sikte – men gäss och vildsvin bekymrar lantbrukarna - Kungälvs-Posten
+- Sebastian låter sig inte stoppas av en diagnos - GP
+- Alla bilder från Stockholm Pride – hittar du dig själv? - Aftonbladet
 - E6 vid Malmö avstängd efter krock - SVT Nyheter
+- Björn Wiman: Hon vittnar om en ny värld som styrs av huliganer och tyranner - DN
+- Schulmans ilska på Instagram: ”Ska rökas ut” - Aftonbladet
+- Rysk flygplats stängdes och oljedepå i brand efter ukrainska attacker - DN
+- Rapport: Straffrihet för Israels soldater – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Desperata protester efter Hamas gisslanvideor - UNT
-- Därför är unga män besvikna på Trump - GP
-- Trump flyttar atomubåtar – här är alla ubåtstyper i USA:s flotta - DN
-- Dödstalen i Gaza stiger – svält bakom – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Så många blir aldrig av med skulderna - DN
-- Konservativ trend bland unga förändrar dejtningsvärlden - DN
+- Fyra gripna i korruptionshärva i Ukraina - GP
 - Novo-raset sätter dansk ekonomi i gungning - Dagens industri
-- Kinas solboom – som över 200 nya reaktorer - SvD
+- Konservativ trend bland unga förändrar dejtningsvärlden - DN
+- Så många blir aldrig av med skulderna - SvD
+- Kinas solboom – som över 200 nya reaktorer - Aftonbladet
 - Häpnadsväckande upptäckt: 76 miljoner år gammalt fynd i park kan ändra vår uppfattning om dinosaurierna - Illustrerad Vetenskap
-- Volvon som chockade världen visas i Göteborg - Carup.se
+- Rapport: Bioshock 4-utvecklingen lever inte upp till 2K Games förväntningar - FZ.se
 
 ## World News
 
@@ -77,22 +77,22 @@ _Updated: 2025-08-03 10:49_
 - Accord Announces Banking Facility Update - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
-- WBCSD: Över hälften redovisar dubbel väsentlighetsanalys - Miljö & Utveckling
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Selective Director Steps Down to Focus on Founder Role - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -120,24 +120,24 @@ _Updated: 2025-08-03 10:49_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Högskola, forskning och rymd - Regeringen.se
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
