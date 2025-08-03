@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-03 06:33_
+_Updated: 2025-08-03 07:04_
 
 ## Top Stories
 
 - Flera skadade i rysk robotattack - GP
+- Hamas: Lägger ner vapen – om Palestina blir en stat – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Nya ryska taktiken mot Ukraina: ”De dödar de bästa av oss” - SvD
 - Han drev Trump att flytta atomubåtarna - DN
-- Flera döda i Gaza – flyktingtält attackerade - UNT
-- Behöver man verkligen dricka elektrolyter? - DN
-- Tumult efter trafikolycka i Malmö - SVT Nyheter
-- Norge tar emot fler patienter från Gaza - Västerbottens-Kuriren
+- ”Superfaktorn för att få effekt underskattas” - SvD
+- Hamas publicerar video av påstådd gisslan - Västerbottens-Kuriren
 - God skörd i sikte – men gäss och vildsvin bekymrar lantbrukarna - Kungälvs-Posten
-- Alla bilder från Stockholm Pride – hittar du dig själv? - Aftonbladet
+- Samisk representation under Pride: ”Viktigt att visa att vi finns” - SVT Nyheter
 - SVT:s meteorolog: Lita INTE på väderapparna just nu - SVT Nyheter
 - En tredje pytonorm hittad i Varberg - GP
 - Grafik: Så stor var förödelsen efter atombomben i Hiroshima - Sydsvenskan
 - Attack mot Röda halvmånen i Gaza - Skånska Dagbladet
-- Åklagaren som utredde Trump utreds för brott - SVT Nyheter
+- Åklagare som utredde Trump utreds för brott - DN
 - Unga pilgrimer träffar påven vid massbön i Rom - Västerbottens-Kuriren
 - Trump sparkar tjänstemän som levererar dåliga nyheter - Skånska Dagbladet
 - Trumps nya tullar – träder i kraft om en vecka - Tidningen Näringslivet
 - Mixx Travel i konkurs – mitt i högsäsong - GP
 - Brist på hjortron – varnar för rekordhöga priser - Sydsvenskan
 - Volvon som chockade världen visas i Göteborg - Carup.se
-- Så många blir aldrig av med skulderna - SvD
+- GOG.com bjussar på tretton porrspel i protest mot censurvågen - Gamereactor
 
 ## World News
 
@@ -44,7 +44,7 @@ _Updated: 2025-08-03 06:33_
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
 - Arrow Global förvärvar Troia Resort - The Portugal News
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 - Ulrika Jonsson stämmer News of the World - Sydsvenskan
 
@@ -74,25 +74,25 @@ _Updated: 2025-08-03 06:33_
 ## Business
 
 - Equitable Bank successfully closes $300 million deposit note issuance - Placera.se
-- Accord Announces Banking Facility Update - Placera.se
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
+- Accord Announces Banking Facility Update - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
+- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
+- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
-- First Financial Bankshares Announces Promotion of Kyle McVey to EVP Chief Financial Officer of First Financial Bank - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -145,20 +145,20 @@ _Updated: 2025-08-03 06:33_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - De gick från reko till eko - ST-tidningen
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- Tio jordbruksaktier för depån - Placera.se
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
