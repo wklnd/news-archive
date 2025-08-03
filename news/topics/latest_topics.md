@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-03 08:52_
+_Updated: 2025-08-03 09:41_
 
 ## Top Stories
 
-- Flera skadade i rysk robotattack - GP
-- Attack mot Röda halvmånen i Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Rysk kamp mot stor oljebrand efter ukrainsk attack - GP
 - De blev måltavlan för Trumps korståg mot woke: ”Trump är en girig man” - DN
-- Han drev Trump att flytta atomubåtarna - DN
+- Dödstalen i Gaza stiger – svält bakom – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Kvinna våldtagen vid gångväg i Stockholm - Aftonbladet
 - Behöver man verkligen dricka elektrolyter? - DN
 - Hamas publicerar video av påstådd gisslan - Västerbottens-Kuriren
 - Samisk representation under Pride: ”Viktigt att visa att vi finns” - SVT Nyheter
-- Expert: Att ta emot patienter från Gaza riskerar att bli skenmanöver - DN
+- Björn Wiman: Hon vittnar om en ny värld som styrs av huliganer och tyranner - DN
 - God skörd i sikte – men gäss och vildsvin bekymrar lantbrukarna - Kungälvs-Posten
-- Flera personer misshandlade i Jönköping - Skillingaryd
-- Åklagare som utredde Trump utreds för brott - Västerbottens-Kuriren
-- Grafik: Så stor var förödelsen efter atombomben i Hiroshima - Sydsvenskan
-- Man död i trafikolycka utanför Malmö - Aftonbladet
-- A-traktor körde in i uthus – flera brottsmisstankar - Avesta Tidning
-- Så många blir aldrig av med skulderna - SvD
-- Trump sparkar tjänstemän som levererar dåliga nyheter - Skånska Dagbladet
+- En tredje pytonorm hittad i Varberg - SVT Nyheter
+- Trump flyttar atomubåtar – här är alla ubåtstyper i USA:s flotta - DN
+- Åklagaren som utredde Trump utreds för brott - SVT Nyheter
+- Attack mot Röda halvmånen i Gaza - Skånska Dagbladet
+- Kvinna våldtagen i Stockholm - Expressen
+- Fler fast i skuld på livstid – staten utreder åtgärder - Omni
+- Kinas solboom – som över 200 nya reaktorer - SvD
 - Stor tullförvirring - ”Vi sitter och gissar” - HD
 - Skånska näringslivsaktörer om Trumps tullar - Skånska Dagbladet
+- Häpnadsväckande upptäckt: 76 miljoner år gammalt fynd i park kan ändra vår uppfattning om dinosaurierna - Illustrerad Vetenskap
 - Volvon som chockade världen visas i Göteborg - Carup.se
-- Tråkiga nyheter för Samsung-användare - Nyheter24
 
 ## World News
 
@@ -75,24 +75,24 @@ _Updated: 2025-08-03 08:52_
 
 - Equitable Bank successfully closes $300 million deposit note issuance - Placera.se
 - Selective Director Steps Down to Focus on Founder Role - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Accord Announces Banking Facility Update - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Accord Announces Banking Facility Update - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
 - DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
+- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 
 ## Health
 
@@ -115,7 +115,7 @@ _Updated: 2025-08-03 08:52_
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-08-03 08:52_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Jordbruk och landsbygdsutveckling - European Commission
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- Tio jordbruksaktier för depån - Placera.se
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Jordbruk och landsbygdsutveckling - European Commission
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Här är världens största jordbruk - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
