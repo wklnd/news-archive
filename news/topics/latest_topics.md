@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-03 15:10_
+_Updated: 2025-08-03 15:49_
 
 ## Top Stories
 
+- Rysk flygplats stängdes och oljedepå i brand efter ukrainska attacker - DN
 - Brittiska stormen ”Floris” sveper in över Skaraborg – SMHI utfärdar varning - sla.se
-- Hamas visar video på svältande gisslan – och vägrar lägga ned vapen - DN
 - Paulina blev oplanerat gravid – 41 år gammal - GP
+- Desperata protester efter Hamas gisslanvideor - Hufvudstadsbladet
 - ”Bra om alla inte ser världen från Djursholm” - SvD
-- Så hanterar du jobbångest efter semestern - DN
-- Rysk kamp mot stor oljebrand efter ukrainsk attack - Hufvudstadsbladet
-- Misstänkt våldtäkt på Djäkneberget i Västerås - SVT Nyheter
+- Dyker i den förorenade fjärden: ”Alldeles svart” - SvD
+- Regnoväder i syd – sprutade vatten i butik - GP
 - Svenska kyrkan i EU:s hjärta: ”En trygg plats” - DN
-- Prideparaden intog Stockholms gator - GP
 - Åkesson (SD) kritiserar regeringen efter vändning i handelsavtal med Israel - GP
+- Prideparaden i gång i Stockholm - Västerbottens-Kuriren
 - Rapport: Straffrihet för Israels soldater – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Därför är unga män besvikna på Trump - Hufvudstadsbladet
 - Kvinna gripen – hade tvååring i resväska - Aftonbladet
 - Trump flyttar atomubåtar – här är alla ubåtstyper i USA:s flotta - DN
 - Kronan fortsatt årets bästa valuta - Dagens industri
 - Raset för bantningsjätten hotar dansk ekonomi - DN
-- Konservativ trend bland unga förändrar dejtningsvärlden - DN
-- Så många blir aldrig av med skulderna - SvD
+- Kunder tar smäll för PFAS-rening av dricksvatten - SvD
+- Fler fast i skuld på livstid – staten utreder åtgärder - Omni
 - Har du mobilen hemma – den är värd 6 700 kronor - Nyheter24
-- Rapport: Bioshock 4-utvecklingen lever inte upp till 2K Games förväntningar - FZ.se
+- Silent Hill 2: Inner Fears (Xbox) - FZ.se
 
 ## World News
 
@@ -31,21 +31,21 @@ _Updated: 2025-08-03 15:10_
 - EYE WORLD AB (publ): EYE World Proud Sponsor of MSP Global 2025 - beQuoted
 - Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Liberty International i Stockholm växer - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- S&P Global Reports Second Quarter Results - Placera.se
-- Two-Year Real-World Study of LEQEMBI® in the United States Presented at Alzheimer's Association International Conference (AAIC) 2025 - Placera.se
-- Arrow Global förvärvar Troia Resort - The Portugal News
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
-- Liberty International i Stockholm växer - travelnews.se
+- Arrow Global förvärvar Troia Resort - The Portugal News
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 
 ## Technology
@@ -64,11 +64,11 @@ _Updated: 2025-08-03 15:10_
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
 - Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
+- Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 
 ## Business
@@ -120,25 +120,25 @@ _Updated: 2025-08-03 15:10_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- 5 myter om öppen vetenskap - Läkartidningen
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Högskola, forskning och rymd - Regeringen.se
+- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 
 ## Jordbruk
 
@@ -151,14 +151,14 @@ _Updated: 2025-08-03 15:10_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Framtidens jordbruk är regenerativt - greenpeace.org
