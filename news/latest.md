@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-03 13:48_
+_Updated: 2025-08-03 15:20_
 
-- Senate GOP eyes recess appointments as stalemate drags on - Axios
+- Senate heads home with no deal to speed confirmations as irate Trump tells Schumer to 'go to hell' - NPR
 - Former Trump prosecutor Jack Smith faces investigation by Office of Special Counsel - The Washington Post
-- US envoy tells Israeli hostage families he is working on plan to end Gaza War - Reuters
-- ‘Grow Up’: Conservative Senators, Economists Slam Trump for Firing Labor Stats Chief - Rolling Stone
-- Aid group says worker killed by Israeli military in attack on Gaza HQ - BBC
 - Earthquake Jolts New Jersey and New York City - The New York Times
+- ‘Grow Up’: Conservative Senators, Economists Slam Trump for Firing Labor Stats Chief - rollingstone.com
+- In Gaza, more Palestinians are killed while waiting for food aid - NPR
+- Huge earthquake may have triggered volcano’s first eruption in 600 years, Russian team says - CNN
+- DOJ is walking back the White House’s goal to arrest 3,000 immigrants per day - Politico
 - What We Know About the Montana Bar Shooting - The New York Times
 - Tennessee man arrested after officers find 14 IEDs inside home: Sheriff - ABC News
-- Appeals court largely keeps restrictions on immigration raids in Los Angeles area - CBS News
-- Senate confirms Jeanine Pirro as top federal prosecutor for D.C. - The Washington Post
-- Pope thrills hundreds of thousands of young Catholics at Holy Year youth festival - NBC News
-- No Passports, No Study Abroad: China Limits Public Employees’ Travel - The New York Times
+- This City of Prisons Is Suing Over a Planned ICE Detention Center - The New York Times
+- Pope Leo XIV tells 1 million Catholic youths that they are 'the sign a different world is possible' - AP News
+- Russian oil depot in Sochi set ablaze by Ukrainian drone strike - Financial Times
 - Thousands, including Julian Assange, at pro-Palestinian march in Sydney - ynetnews.com
-- Ukraine: Kyiv says it hit Russian oil, military facilities - DW
+- ‘Live hunger experiments’: Thousands rally for hostage deal after haunting videos of captives - The Times of Israel
+- OPEC+ agrees in principle to another large oil output hike, sources say - Reuters
+- Delta Air assures US lawmakers it will not personalize fares using AI - CNBC
 - Economic fears of investors are here — and fed by Trump’s reaction - The Washington Post
-- Federal Reserve governor resigns, creating vacancy for Trump - upi.com
-- The shock jobs report sets off this recession alert and holds fresh clues that AI may be boosting unemployment, JPMorgan says - Fortune
-- More than 64,000 pounds of butter recalled over undeclared milk: FDA - USA Today
+- Car finance: Millions denied payouts after Supreme Court ruling - BBC
+- Battlefield 6 To Feature NVIDIA DLSS, AMD FSR & Intel XeSS Support On PC - Wccftech
 - iOS 26: 10+ Features Coming to the Phone App - MacRumors
-- Battlefield 6 Runs At 300+ FPS With Ryzen 9800X3D+RTX 5080 Combo But Reportedly Suffers Nearly 33% Loss With Intel Core i9 14900K - Wccftech
