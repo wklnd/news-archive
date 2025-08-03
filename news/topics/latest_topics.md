@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-03 23:42_
+_Updated: 2025-08-04 00:46_
 
 ## Top Stories
 
 - DN Direkt - SVT skrev n-ordet – avsnitt bortplockat - DN.se - DN
+- Lönnmördare gripen mitt i turistparadiset - Aftonbladet
 - Campingen översvämmad – Peter från Åtvidaberg om skyfallet - Corren
-- Experten om ormfynden i Varberg: ”Nästan helt osannolikt” - GP
-- Råndömde Fedir, 40, släpptes för att strida vid fronten - DN
-- Tonårsflicka hundbiten – fördes till akuten med skador i ansiktet - NLT
-- LO-toppen rasar mot Ica-reklamen: ”Farligt” - Aftonbladet
-- SD: Kan börja ställa krav inom utrikespolitiken - DN
-- Stormen Floris på väg mot Sverige - SVT Nyheter
-- Misstänkt våldtäkt på Djäkneberget i Västerås - SVT Nyheter
-- Moska Hassas ny SSU-ordförande - GP
+- Draget mot Ryssland: Installerar säkerhetsbarriärer - Expressen
 - Ukrainsk attack stoppade flyg i ryska Sotji - DN
-- Attack mot Röda halvmånen i Gaza: ”Inget misstag” - Hufvudstadsbladet
+- Buss evakuerades längs E6 - SVT Nyheter
+- SD: Kan börja ställa krav inom utrikespolitiken - DN
+- Gul vädervarning – Floris drar in med stormbyar mot västkusten - GP
+- Experten om ormfynden i Varberg: ”Nästan helt osannolikt” - GP
+- Kvinna våldtagen i Västerås - SVT Nyheter
 - Israels säkerhetsminister bad vid Tempelberget - Västerbottens-Kuriren
+- Attack mot Röda halvmånen i Gaza: ”Inget misstag” - Hufvudstadsbladet
 - Minst 68 döda när migrantfartyg sjönk - GP
+- Protester i Israel efter gisslanvideor - SVT Nyheter
 - Kronan årets starkaste valuta – så påverkas du - DN
-- Novo-raset sätter dansk ekonomi i gungning - Dagens industri
 - HD stärker rätten till god man - Västerbottens-Kuriren
 - 22-åriga Neas ovanliga beroende: ”Det är helt sjukt” - Expressen
+- Papperskartan regerar i svenska fjällen - Folkbladet
 - Hjälp en stackars gamer att lösa datorbekymmer! (Bygga + annat) - FZ.se
-- Instagram stoppar små livesändningar - mobil.se
+- Få det krypa i skinnet med 12 minuters Silent Hill f-gameplay - FZ.se
 
 ## World News
 
-- TGE to Showcase Unparalleled Media Power Through a Global Project Featuring Jackson Wang's L'Officiel Covers in 10 Countries and Regions - Placera.se
+- EYE WORLD AB (publ): EYE World Proud Sponsor of MSP Global 2025 - beQuoted
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
+- TGE to Showcase Unparalleled Media Power Through a Global Project Featuring Jackson Wang's L'Officiel Covers in 10 Countries and Regions - Placera.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Arrow Global förvärvar Troia Resort - The Portugal News
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 
 ## Technology
 
@@ -74,23 +74,23 @@ _Updated: 2025-08-03 23:42_
 ## Business
 
 - Equitable Bank successfully closes $300 million deposit note issuance - Placera.se
-- Accord Announces Banking Facility Update - Placera.se
+- Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Accord Announces Banking Facility Update - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
+- WBCSD: Över hälften redovisar dubbel väsentlighetsanalys - Miljö & Utveckling
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
-- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
+- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
@@ -143,22 +143,22 @@ _Updated: 2025-08-03 23:42_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Jordbruk och landsbygdsutveckling - European Commission
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Här är världens största jordbruk - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
