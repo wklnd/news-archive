@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-03 17:45_
+_Updated: 2025-08-03 18:50_
 
 ## Top Stories
 
 - Rysk flygplats stängdes och oljedepå i brand efter ukrainska attacker - DN
-- JUST NU: Brittiska stormen ”Floris” sveper in över Skaraborg – SMHI utfärdar gul varning - NLT
-- Flera ormfynd i Varberg: ”Ser ut att ha släppts ut” - GP
-- Stora campingen översvämmad – Åtvidabergsbon om skyfallet - Corren
-- Paulina blev oplanerat gravid – 41 år gammal - GP
-- Jätten Himble ska rivas – ägarna vill bygga fängelse - GP
+- Experten om ormfynden i Varberg: ”Nästan helt osannolikt” - GP
+- Brittiska stormen ”Floris” sveper in över Skaraborg – SMHI utfärdar gul varning - NLT
+- Proud Boys-ledarens app: ”Pokémon Go” för att ange migranter - Aftonbladet
+- Råndömde Fedir, 40, släpptes för att strida vid fronten - DN
+- Campingen översvämmad – Peter från Åtvidaberg om skyfallet - Corren
 - Misstänkt våldtäkt på Djäkneberget i Västerås - SVT Nyheter
 - Brittisk nynazist nekades inresa till Sverige - Västerbottens-Kuriren
+- Moska Hassas ny SSU-ordförande - GP
 - Svenska kyrkan i EU:s hjärta: ”En trygg plats” - DN
-- Åkesson (SD) kritiserar regeringen efter vändning i handelsavtal med Israel - GP
 - Rapport: Straffrihet för Israels soldater – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Desperata protester efter Hamas gisslanvideor - Hufvudstadsbladet
+- Hamas visar video på svältande gisslan – och vägrar lägga ned vapen - DN
 - Kvinna gripen – hade tvååring i resväska - Aftonbladet
-- DN Direkt - William Nylander vinner Guldpucken - DN.se - DN
+- Över en miljon unga kom till påvens mässa - GP
 - Kronan fortsatt årets bästa valuta - Dagens industri
 - Kunder tar smäll för PFAS-rening av dricksvatten - SvD
 - Raset för bantningsjätten hotar dansk ekonomi - DN
 - Rådgivare: Trump vill tillsätta sitt eget folk - Omni
-- Har du mobilen hemma – den är värd 6 700 kronor - Nyheter24
-- Silent Hill 2: Inner Fears (Xbox) - FZ.se
+- Få det krypa i skinnet med 12 minuters Silent Hill f-gameplay - FZ.se
+- Varning för ras: det är augusti! - SvD
 
 ## World News
 
@@ -74,24 +74,24 @@ _Updated: 2025-08-03 17:45_
 ## Business
 
 - Equitable Bank successfully closes $300 million deposit note issuance - Placera.se
-- Selective Director Steps Down to Focus on Founder Role - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Accord Announces Banking Facility Update - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
@@ -102,10 +102,10 @@ _Updated: 2025-08-03 17:45_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
@@ -115,7 +115,7 @@ _Updated: 2025-08-03 17:45_
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
