@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-03 22:53_
+_Updated: 2025-08-03 23:49_
 
-- U.S. jobs data "very unreliable," top Trump econ adviser says - Axios
-- Earthquake in Bergen County shakes parts of New Jersey, New York - CBS News
-- Texas Dems to flee state amid national redistricting battle - Politico
+- Trump Administration Live Updates: Hassett Defends Firing of Top Labor Official Over Weak Jobs Numbers - The New York Times
+- Texas House Democrats flee the state in bid to block GOP’s proposed congressional map - The Texas Tribune
 - A volcano in Russia’s Far East erupts for the first time in centuries - ABC News
+- Canada wildfires cause poor air quality in the midwest and northeast U.S. - NPR
+- Legal cases could prise open Epstein cache despite Trump’s blocking effort - The Guardian
+- Senate GOP eyes recess appointments as stalemate drags on - Axios
 - Authorities warn Montana bar shooting suspect could return to area as manhunt continues - NBC News
-- White House has no plan to mandate IVF care, despite campaign pledge - The Washington Post
-- Smithsonian says Trump impeachments will be restored to exhibit - CBS News
-- Trump, Carney to speak in coming days, Canadian official says - Reuters
-- Florida record for executions is driving a national increase - NBC News
-- Irate Trump tells Schumer to ‘go to hell’ after Senate standoff over confirmations - The Guardian
-- European countries slam videos of emaciated hostages, call on Hamas to disarm - The Times of Israel
+- Trump Lashes Out at Charlamagne Tha God Over Epstein Comments - The New York Times
+- Canadian trade minister says "we're prepared to stick around and do the work needed" after U.S. imposed 35% tariff on goods - CBS News
+- Complex questions echo after a reference to Trump’s impeachments is removed from a history museum - Politico
+- Leaders condemn videos of emaciated hostages as Red Cross calls for access - BBC
 - Israeli minister sparks anger by praying at sensitive Jerusalem holy site - BBC
-- 80 Years After Hiroshima Bombing, Art Needs ‘Courage to Be Afraid’ - The New York Times
-- Pope Leo tells 1 million Catholic youths they are sign 'different world is possible' - NPR
-- OPEC Plus Will Increase Oil Output - The New York Times
+- All five trapped workers at Chile's Codelco mine found dead - Reuters
+- It's been 80 years since the atomic bombings of Hiroshima and Nagasaki. Time to raise some L. - Kansas Reflector
 - Boeing Defense Union Poised for Its First Strike Since 1996 - Bloomberg
+- OPEC Plus Will Increase Oil Output - The New York Times
 - Car loan customers may be owed money after landmark court decision - London Evening Standard
-- Trump Will Slow, but May Not Stop, the Rise of Electric Vehicles - The New York Times
+- Playbook: It’s Trump’s economy now - Politico
 - Apple’s New ‘Answers’ Team Eyes ChatGPT-Like Product in AI Push - Bloomberg
-- ChatGPT Conversations Are Still Accessible Through a ‘Shady Technique’ Despite Attempt to Remove Them From the Internet; Grok Chats Have Also Surfaced Up - Wccftech
+- Instagram public accounts with less than 1,000 followers can no longer go live - Engadget
