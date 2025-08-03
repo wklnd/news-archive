@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-03 22:45_
+_Updated: 2025-08-03 23:42_
 
 ## Top Stories
 
+- DN Direkt - SVT skrev n-ordet – avsnitt bortplockat - DN.se - DN
 - Campingen översvämmad – Peter från Åtvidaberg om skyfallet - Corren
 - Experten om ormfynden i Varberg: ”Nästan helt osannolikt” - GP
 - Råndömde Fedir, 40, släpptes för att strida vid fronten - DN
+- Tonårsflicka hundbiten – fördes till akuten med skador i ansiktet - NLT
 - LO-toppen rasar mot Ica-reklamen: ”Farligt” - Aftonbladet
-- DN Direkt - Lastbil har fastnat i Klaratunneln i centrala Stockholm - DN.se - DN
-- Draget mot Ryssland: Installerar säkerhetsbarriärer - Expressen
+- SD: Kan börja ställa krav inom utrikespolitiken - DN
 - Stormen Floris på väg mot Sverige - SVT Nyheter
-- Brittisk nynazist nekades inresa till Sverige - Västerbottens-Kuriren
-- Moska Hassas ny SSU-ordförande - Västerbottens-Kuriren
 - Misstänkt våldtäkt på Djäkneberget i Västerås - SVT Nyheter
-- Rysk flygplats stängdes och oljedepå i brand efter ukrainska attacker - DN
+- Moska Hassas ny SSU-ordförande - GP
+- Ukrainsk attack stoppade flyg i ryska Sotji - DN
 - Attack mot Röda halvmånen i Gaza: ”Inget misstag” - Hufvudstadsbladet
-- Israels säkerhetsminister bad vid Tempelberget - GP
-- Macron och Merz fördömer gisslanfilmer - Västerbottens-Kuriren
+- Israels säkerhetsminister bad vid Tempelberget - Västerbottens-Kuriren
+- Minst 68 döda när migrantfartyg sjönk - GP
 - Kronan årets starkaste valuta – så påverkas du - DN
 - Novo-raset sätter dansk ekonomi i gungning - Dagens industri
-- Kunder tar smäll för PFAS-rening av dricksvatten - SvD
-- Konservativ trend gör att dejtingappar tappar fart - Omni
+- HD stärker rätten till god man - Västerbottens-Kuriren
+- 22-åriga Neas ovanliga beroende: ”Det är helt sjukt” - Expressen
+- Hjälp en stackars gamer att lösa datorbekymmer! (Bygga + annat) - FZ.se
 - Instagram stoppar små livesändningar - mobil.se
-- Apple uppges testa ny kamerateknik för Iphone 18 - mobil.se
 
 ## World News
 
@@ -45,7 +45,7 @@ _Updated: 2025-08-03 22:45_
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Arrow Global förvärvar Troia Resort - The Portugal News
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 
 ## Technology
@@ -78,6 +78,7 @@ _Updated: 2025-08-03 22:45_
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
@@ -88,9 +89,8 @@ _Updated: 2025-08-03 22:45_
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
@@ -125,20 +125,20 @@ _Updated: 2025-08-03 22:45_
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Högskola, forskning och rymd - Regeringen.se
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
 
 ## Jordbruk
 
