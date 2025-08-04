@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-05 00:54_
+_Updated: 2025-08-05 01:51_
 
-- Texas governor threatens Democrats who left state to prevent congressional map vote – US politics live - The Guardian
-- Why were US job numbers which riled Trump revised down by so much? - BBC
+- Texas Democrats block GOP redistricting plan by fleeing the state - NPR
+- How Trump decided to fire a little-known statistician, sparking conspiracy theories about government data - CNN
+- Millions are under air quality alerts as wildfire smoke blankets large swaths of U.S. - NBC News
 - Israel's PM Benjamin Netanyahu says decision made for full occupation of Gaza - Euronews.com
 - State Department may require some travelers to post $15,000 bond for business or tourism visas - CBS News
-- 2 dead, 6 wounded in 'senseless' mass shooting at music festival after-party in downtown L.A. - Los Angeles Times
-- Trump again threatens India with harsh tariffs over Russian oil purchases - Reuters
-- Rep. Nancy Mace, Trump critic-turned-ally, to run for South Carolina governor - The Washington Post
-- What is known about the search for a former US soldier suspected of killing 4 at a Montana bar - AP News
-- Attorney General Bondi orders prosecutors to start grand jury probe into Obama officials over Russia investigation - CNN
-- All to know about the quadruple killing manhunt in Tennessee after family found dead - The Independent
-- Videos of emaciated hostages in Gaza raise pressure on Israel for a ceasefire - NPR
+- Judges Openly Doubt Government as Justice Dept. Misleads and Dodges Orders - The New York Times
+- US Rep. Nancy Mace officially launches bid for governor of South Carolina - Post and Courier
+- California's Democratic legislative leaders appear ready to follow Newsom's lead on redistricting - KCRA
+- Trump moves to bar nearly all abortions at Veterans Affairs hospitals - The Washington Post
+- What we know as Tennessee murder suspect manhunt continues after four dead, baby left in yard - NBC News
 - More Gazans die seeking aid and from hunger; burial shrouds in short supply - Reuters
-- A Zoo in Denmark Wants to Feed Your Pets to Its Predators - The New York Times
+- Denmark zoo asks people to donate their small pets as food for captive predators - AP News
 - New Trump tariffs: early modelling shows most economies lose – the US more than many - The Conversation
+- Videos of emaciated hostages in Gaza raise pressure on Israel for a ceasefire - NPR
 - Palantir Earnings: Stock Rises After Results Smash Expectations - Barron's
-- About 3,200 Boeing jet and weapons workers begin strike - ABC News
+- Trump’s sons launch investment vehicle to target a US manufacturer - Financial Times
+- Stock Market Today: Dow Gains 500 Points; New Tariff Deadline Eyed — Live Updates - The Wall Street Journal
 - Tesla board awards $29bn of shares to Elon Musk - The Guardian
-- Donald Trump Tries to Spin and Purge His Way to Declaring Economic Victory - rollingstone.com
 - Google Pixel 10 ‘Soon’ teaser goes hard on iPhone’s AI Siri delays [Video] - 9to5Google
-- ChatGPT will ‘better detect’ mental distress after reports of it feeding people’s delusions - The Verge
+- Here’s The New Price Of Every Nintendo Console And Accessory Thanks To Tariffs - Kotaku
