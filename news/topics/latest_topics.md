@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-04 12:51_
+_Updated: 2025-08-04 13:42_
 
 ## Top Stories
 
-- Newcastle-legendaren om Isak: ”Hejdå med dig” - SvD
-- "Floris" drar in över Göteborg – SMHI varnar - GP
-- Tidigare israeliska säkerhetstoppar vill se stopp på kriget – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- DN Direkt - Kvinna våldtagen utomhus i Skellefteåhamn - DN.se - DN
-- Ryssland planerar övning för krig mot Nato - DN
-- Witkoff till Ryssland – atomubåtar på plats - SvD
-- Johan Croneman: Rissa Seidou hastar förbi det komplexa och fastnar ideligen i klyschorna - DN
-- SD: Kan börja ställa krav inom utrikespolitiken - DN
-- DN Direkt - SVT skrev n-ordet – avsnitt bortplockat - DN.se - DN
-- Tonårsflicka hundbiten – fördes till akuten med skador i ansiktet - NLT
-- Demokraterna flyr Texas – striden om mellanårsvalet har börjat - DN
-- 600 ex-toppchefer vädjar till Trump: Avsluta Gazakriget - DN
-- Rysk kamp mot stor oljebrand efter ukrainsk attack - Hufvudstadsbladet
-- Sydkorea tar ned propagandahögtalare - GP
-- DN Direkt - Spotify höjer priserna – 10 kronor dyrare - DN.se - DN
-- Kronan fortsatt årets bästa valuta - Tidningen Näringslivet
 - Tesla godkänner aktiepaket till Elon Musk - Aftonbladet
-- Iran vill stryka fyra nollor från valutan - Dagens industri
-- Nytt budgetalternativ för Chat GPT sägs vara på gång - Computer Sweden
+- Trafikstopp när stormen ”Floris” dragit in över Storbritannien - DN
+- Barn allvarligt skadad efter trafikolycka utanför Norrköping - SVT Nyheter
+- Witkoff till Ryssland – atomubåtar på plats - SvD
+- Ryssland planerar övning för krig mot Nato - DN
+- ”Flera har frågat efter läxor och vill vara kvar” - SvD
+- Johan Croneman: Rissa Seidou hastar förbi det komplexa och fastnar ideligen i klyschorna - DN
+- SVT:s miss i Rapport: N-ordet i undertext - GP
+- 04 augusti 07.17, Sammanfattning natt, Örebro län - polisen.se
+- SD: Kan börja ställa krav inom utrikespolitiken - DN
+- Tidigare israeliska säkerhetstoppar vill se stopp på kriget – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Demokrater flyr Texas i protest mot omritad karta - GP
+- 600 ex-toppchefer vädjar till Trump: Avsluta Gazakriget - DN
+- Sydkorea tar ned propagandahögtalare - Folkbladet
+- SBAB: Bostadspriserna föll i juli - Fastighetstidningen
+- Shein bötfälls för missvisande information - Tidningen Näringslivet
+- DN Direkt - Spotify höjer priserna – 10 kronor dyrare - DN.se - DN
+- Iran vill stryka nollor från valutan - Aftonbladet
 - Microsoft höjer ersättningen för buggjägare - Computer Sweden
+- Här är nyheterna i Mac OS Tahoe - Computer Sweden
 
 ## World News
 
@@ -35,18 +35,18 @@ _Updated: 2025-08-04 12:51_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Liberty International i Stockholm växer - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Arrow Global förvärvar Troia Resort - The Portugal News
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
 
 ## Technology
 
@@ -66,7 +66,7 @@ _Updated: 2025-08-04 12:51_
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
@@ -102,12 +102,11 @@ _Updated: 2025-08-04 12:51_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
@@ -115,6 +114,7 @@ _Updated: 2025-08-04 12:51_
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
@@ -144,20 +144,20 @@ _Updated: 2025-08-04 12:51_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - (+) Stor undersökning av jordbruket - Arbetarskydd
 - De gick från reko till eko - ST-tidningen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
