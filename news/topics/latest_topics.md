@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-04 16:53_
+_Updated: 2025-08-04 17:48_
 
 ## Top Stories
 
 - Stormen på väg: Trafikverket och SMHI i krismöte - SvD
-- Trafikolycka i centrala Trelleborg – buss och bilar inblandade - DN
-- Kreml bryter tystnaden om USA:s atomubåtar - GP
-- Barn allvarligt skadad efter trafikolycka utanför Norrköping - SVT Nyheter
+- Flera skadade efter bussolycka i Trelleborg - SVT Nyheter
 - Fem personer i olycka på riksväg 23 – två drabbade till sjukhus - Smålandsposten
-- Krock med lastbil på E4:an – totalstopp i trafiken - Mitt i
-- DN Direkt - Kraftig brand i flerfamiljshus – en till sjukhus - DN.se - DN
-- Rissa Seidou får alla andra att framstå som lipsillar - Expressen
+- Oscar, 26, lämnade snickarjobbet – blev drönarsoldat i Ukraina - Aftonbladet
+- Kreml bryter tystnaden om USA:s atomubåtar - GP
+- DN Direkt - EU skjuter upp hämndtullarna mot USA i ett halvår - DN.se - DN
+- Över 170 vädervarningar hittills i år: ”Hellre en gång för mycket” - DN
+- Halv böj och kändisviner: Nina är veteran på Systembolaget - Corren
+- Ny bedrägerivåg – polisen varnar för ”sms-barn” - Expressen
 - Sprängning i Västra Frölunda – skador på en port - GP
-- Förundersökning nedlagd efter drunkningsolycka i Boden - Åklagarmyndigheten
-- Demokrater flyr Texas i protest mot omritad karta - Hufvudstadsbladet
 - Gerrymandering – så fungerar metoden som plågat USA i 200 år - DN
-- Fd israeliska säkerhetstoppar vill se krigsslut - SVT Nyheter
+- Demokrater flyr Texas i protest mot omritad karta - Hufvudstadsbladet
+- Minst 40 dödade i dag – flera i väntan på mat – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - I Japan är krig olagligt – nu lägger de hundratals miljarder på en ny armé - Sydsvenskan
 - Teslas lockbete till Musk: Aktier för 280 miljarder - Dagens industri
 - Spotify höjer priserna – 10 kronor dyrare - Aftonbladet
 - Bostadspriserna fortsatte att falla i juli – värst för lägenheter i Storstockholm och Storgöteborg - sbab.se
-- Opec storsatsar – därför sjunker nu priset på olja - Dagens PS
+- Trump straffar Indien för oljeköp – höjer tullarna - Omni
 - Apple uppges satsa på en egen utmanare till Open AI:s Chat GPT - Expressen
-- Vissa Goo.gl-länkar kommer bevaras. Google har ändrat sig om sin länkförkortare. - Feber se.
+- A$AP Rocky kidnappar Denzel Washingtons son. Kika på trailern för Highest 2 Lowest. - Feber se.
 
 ## World News
 
@@ -98,67 +98,44 @@ _Updated: 2025-08-04 16:53_
 
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Health-ISAC Hacking Healthcare-blogg 1-19-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
+- iCellate Medical startar prostatastudie tillsammans med Capio Urologcentrum Liljeholmen - it-halsa.se
+- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Högskola, forskning och rymd - Regeringen.se
-- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-
-## Jordbruk
-
-- Effekten av Conservation Agriculture - Länsstyrelsen
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Här är världens största jordbruk - ATL
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- De gick från reko till eko - ST-tidningen
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- Små jordbruk kan mätta fler - FoodMonitor
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
