@@ -1,23 +1,23 @@
 # Top News Headlines
 
-_Updated: 2025-08-04 22:53_
+_Updated: 2025-08-04 23:51_
 
-- Abbott threatens to oust Democrats who fled Texas over redistricting - ABC News
-- Sen. Klobuchar says Congress must 'reassert' itself after weak jobs report - NPR
-- Trump Says US to Hike India’s Tariffs Over Russian Oil Buys - Bloomberg.com
-- 2 dead, 6 wounded in 'senseless' mass shooting at music festival after-party in downtown L.A. - Los Angeles Times
-- Israel threatens to expand military offensive in Gaza - Financial Times
-- How the Supreme Court kickstarted the redistricting arms race - Axios
-- Rep. Nancy Mace, Trump critic-turned-ally, to run for South Carolina governor - The Washington Post
-- Fighter jets scrambled, flares fired after planes violate Trump airspace over Bedminster, New Jersey - CBS News
-- GOP senators place holds on Treasury nominees over solar, wind credits - Politico
+- Texas House issues arrest warrants for Democrats who left state to block congressional redistricting - The Texas Tribune
+- Why were US job numbers which riled Trump revised down by so much? - BBC
+- 2 dead, 6 wounded in mass shooting in downtown L.A. after music festival - Los Angeles Times
+- State Department may require some travelers to post $15,000 bond for business or tourism visas - CBS News
+- Trump: will 'substantially' raise tariffs on goods from India over Russian oil purchases - Reuters
+- Breaking news. Israel's PM Benjamin Netanyahu says decision made for full occupation of Gaza - Euronews.com
+- US Rep. Nancy Mace officially launches bid for governor of South Carolina - Post and Courier
+- University of Virginia Appoints Interim President After Ouster - The New York Times
+- Toxic Canada wildfire smoke prompts ground delay at Boston's Logan airport - ABC News
 - Search for suspect in Tennessee killings focuses near university, source says, as 3rd arrest announced - CNN
-- More Gazans die seeking aid and from hunger, as burial shrouds in short supply - Reuters
-- Netanyahu government votes to dismiss attorney general - The Washington Post
+- Videos of emaciated hostages in Gaza raise pressure on Israel for a ceasefire - NPR
+- More Gazans die seeking aid and from hunger; burial shrouds in short supply - Reuters
 - Aalborg Zoo asks for unwanted pets to feed its predators - BBC
-- What higher tariffs mean for the U.S. economy. And, Israel's plan for hostage release - NPR
-- Palantir Earnings Due As Nvidia, Broadcom Shake Off Trump Tariffs - Investor's Business Daily
-- Switzerland says it's ready to make Trump 'more attractive offer' on trade - Reuters
+- Netanyahu government votes to dismiss attorney general - The Washington Post
+- Palantir Earnings: Stock Rises After Results Smash Expectations - Barron's
+- Stock Market Today: Dow Gains 500 Points; New Tariff Deadline Eyed — Live Updates - The Wall Street Journal
 - Donald Trump Tries to Spin and Purge His Way to Declaring Economic Victory - Rolling Stone
 - Thousands of Boeing workers who build fighter jets go on strike - KOMO
 - Google Pixel 10 ‘Soon’ teaser goes hard on iPhone’s AI Siri delays [Video] - 9to5Google
