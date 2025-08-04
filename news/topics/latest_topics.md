@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-05 00:48_
+_Updated: 2025-08-05 01:43_
 
 ## Top Stories
 
 - "Floris" drar in över Sverige – SMHI varnar - GP
 - DN Direkt - Nytt VMA i Hultsfred på grund av kraftig brand - DN.se - DN
-- Ryssland häver stopp för utplacering av robotar - Dagens industri
 - 600 ex-toppchefer vädjar till Trump: Avsluta Gazakriget - DN
+- Ryssland häver stopp för utplacering av robotar - Dagens industri
 - Forskare ifrågasätter Kristerssons AI-användning: ”Röstade inte på Chat GPT” - DN
-- Ulla ryter ifrån – har inte fått betalt från kommunen i år - GP
+- Bussförare omkom vid trafikolycka i Trelleborg - Bussmagasinet
 - DEBATT: Kristerssons krav stärker terroristerna - Expressen
-- 04 augusti 13.25, Trafikolycka, Trelleborg - polisen.se
 - Femåring dog i drunkningsolycka – förundersökning läggs ner - Expressen
-- Fem personer i olycka på riksväg 23 – kvinna allvarligt skadad - Smålandsposten
+- Personbil i olycka på riksväg 23 norr om Växjö - Smålandsposten
+- 500-miljoners-yachten har lagt till vid Skeppsbron - Mitt i
 - Torterade kattungar till döds – tonåring döms - Aftonbladet
 - DN Direkt - USA och Kanada i bråk om 400 strutsar - DN.se - DN
 - Fem personer som kan rädda Demokraterna ur krisen - DN
-- Källor: Netanyahu vill erövra hela Gaza – nya order i morgon - DN
+- Minst 40 dödade i dag – flera i väntan på mat – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Trump tullstraffar Indien för köp av rysk olja - SvD
-- Tesla: Aktier för nästan 300 miljarder till Musk - GP
 - Tydlig uppgång på Wall Street – Spotify lyfte och Figma rasade - Dagens industri
-- Figma faller tillbaka efter noteringsrallyt - Dagens industri
+- Tesla: Aktier för nästan 300 miljarder till Musk - GP
+- DN Direkt - Shein bötfälls för missvisande information - DN.se - DN
 - Radeon RX 9060 kan ha fått sina specifikationer läckta - Nordichardware
-- Battlefield 6 rullar i 60 fps på alla konsoler i prestandaläget - FZ.se
+- Är ute efter en ny plastskydd för cykelkorgsfästet/styrstam men vet inte riktigt var jag kan hitta det - Happyride
 
 ## World News
 
@@ -46,7 +46,7 @@ _Updated: 2025-08-05 00:48_
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Arrow Global förvärvar Troia Resort - The Portugal News
 - Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 
 ## Technology
 
@@ -102,10 +102,10 @@ _Updated: 2025-08-05 00:48_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
@@ -144,21 +144,21 @@ _Updated: 2025-08-05 00:48_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
