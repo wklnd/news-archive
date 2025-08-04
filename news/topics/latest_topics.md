@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-04 15:58_
+_Updated: 2025-08-04 16:53_
 
 ## Top Stories
 
-- Tåglinjer kan stängas inför stormen Floris - SvD
-- DN Direkt - Trafikolycka i centrala Trelleborg – buss och bilar inblandade - DN.se - DN
-- Kreml bryter tystnaden om USA:s atomubåtar - Västerbottens-Kuriren
-- Trafikkaos efter olycka på E22 söder om Norrköping - TV4 Nyheterna
+- Stormen på väg: Trafikverket och SMHI i krismöte - SvD
+- Trafikolycka i centrala Trelleborg – buss och bilar inblandade - DN
+- Kreml bryter tystnaden om USA:s atomubåtar - GP
+- Barn allvarligt skadad efter trafikolycka utanför Norrköping - SVT Nyheter
 - Fem personer i olycka på riksväg 23 – två drabbade till sjukhus - Smålandsposten
-- ”Flera har frågat efter läxor och vill vara kvar” - SvD
-- Johan Croneman: Rissa Seidou hastar förbi det komplexa och fastnar ideligen i klyschorna - DN
-- Förundersökning efter drunkning nedlagd - Västerbottens-Kuriren
-- DN Direkt - SVT skrev n-ordet – avsnitt bortplockat - DN.se - DN
-- Johan Hakelius: Vilken tur att Magda Gad är opolitisk - Fokus - Sveriges nyhetsmagasin
+- Krock med lastbil på E4:an – totalstopp i trafiken - Mitt i
+- DN Direkt - Kraftig brand i flerfamiljshus – en till sjukhus - DN.se - DN
+- Rissa Seidou får alla andra att framstå som lipsillar - Expressen
+- Sprängning i Västra Frölunda – skador på en port - GP
+- Förundersökning nedlagd efter drunkningsolycka i Boden - Åklagarmyndigheten
 - Demokrater flyr Texas i protest mot omritad karta - Hufvudstadsbladet
 - Gerrymandering – så fungerar metoden som plågat USA i 200 år - DN
 - Fd israeliska säkerhetstoppar vill se krigsslut - SVT Nyheter
 - I Japan är krig olagligt – nu lägger de hundratals miljarder på en ny armé - Sydsvenskan
 - Teslas lockbete till Musk: Aktier för 280 miljarder - Dagens industri
-- SBAB: Bostadspriserna föll i juli - Fastighetstidningen
 - Spotify höjer priserna – 10 kronor dyrare - Aftonbladet
+- Bostadspriserna fortsatte att falla i juli – värst för lägenheter i Storstockholm och Storgöteborg - sbab.se
 - Opec storsatsar – därför sjunker nu priset på olja - Dagens PS
-- Microsoft höjer ersättningen för buggjägare - Computer Sweden
 - Apple uppges satsa på en egen utmanare till Open AI:s Chat GPT - Expressen
+- Vissa Goo.gl-länkar kommer bevaras. Google har ändrat sig om sin länkförkortare. - Feber se.
 
 ## World News
 
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - TGE to Showcase Unparalleled Media Power Through a Global Project Featuring Jackson Wang's L'Officiel Covers in 10 Countries and Regions - Placera.se
+- Arrow Global förvärvar Troia Resort - The Portugal News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Liberty International i Stockholm växer - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- EQTY Global Growth II: En genomtänkt strategi för att bygga värde - The Portugal News
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
-- Arrow Global förvärvar Troia Resort - The Portugal News
+- Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 
 ## Technology
@@ -102,6 +102,7 @@ _Updated: 2025-08-04 15:58_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
@@ -115,30 +116,29 @@ _Updated: 2025-08-04 15:58_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Högskola, forskning och rymd - Regeringen.se
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
@@ -147,18 +147,18 @@ _Updated: 2025-08-04 15:58_
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- De gick från reko till eko - ST-tidningen
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Små jordbruk kan mätta fler - FoodMonitor
