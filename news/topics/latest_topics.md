@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-04 22:46_
+_Updated: 2025-08-04 23:44_
 
 ## Top Stories
 
-- Viktigt meddelande till allmänheten i Hultsfred i Hultsfreds kommun, Kalmar län - Krisinformation.se
 - "Floris" drar in över Sverige – SMHI varnar - GP
-- Man död efter bussolycka i Trelleborg - Aftonbladet
-- Fd israeliska säkerhetstoppar vill se krigsslut - SVT Nyheter
+- Viktigt meddelande till allmänheten i Hultsfred i Hultsfreds kommun, Kalmar län - Krisinformation.se
+- Ryssland häver stopp för utplacering av robotar - Dagens industri
+- Bussförare omkom vid trafikolycka i Trelleborg - Bussmagasinet
+- Forskare ifrågasätter Kristerssons AI-användning: ”Röstade inte på Chat GPT” - DN
 - Kvinna allvarligt skadad efter trafikolycka norr om Växjö - SVT Nyheter
-- Ulla ryter ifrån – har inte fått betalt från kommunen i år - GP
-- Elias Rosell: Gå inte i taket för att Ulf Kristersson använder AI som bollplank - DN
-- SD: Regeringens krav stör relationerna - Borås Tidning
+- Ledare: När SD:s företrädare inte framstår som trovärdiga - NT
 - Femåring dog i drunkningsolycka – förundersökning läggs ner - Expressen
-- 500-miljoners-yachten har lagt till vid Skeppsbron - Mitt i
+- Ny bedrägerivåg – polisen varnar för ”sms-barn” - Expressen
+- Sprängning i Västra Frölunda – skador på en port - GP
 - DN Direkt - USA och Kanada i bråk om 400 strutsar - DN.se - DN
 - Torterade kattungar till döds – tonåring döms - Aftonbladet
-- Minst 40 dödade i dag – flera i väntan på mat – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Fem personer som kan rädda Demokraterna ur krisen - DN
+- Ytterligare fem har svultit ihjäl i Gaza - GP
 - Trump tullstraffar Indien för köp av rysk olja - SvD
 - Tesla: Aktier för nästan 300 miljarder till Musk - GP
 - Figma faller tillbaka efter noteringsrallyt - Dagens industri
 - Bostadspriserna fortsatte att falla i juli – värst för lägenheter i Storstockholm och Storgöteborg - sbab.se
-- Ulefone lanserar extrema Armor 33 Pro - mobil.se
-- Nästa iPhone kan bli upp till 2300 kronor billigare. Blir iPhone 17 mindre svindyr? - Feber se.
+- Radeon RX 9060 kan ha fått sina specifikationer läckta - Nordichardware
+- OpenAI tar in 8,3 miljarder dollar. Värderas nu till 300 miljarder dollar. - Feber se.
 
 ## World News
 
@@ -31,21 +31,21 @@ _Updated: 2025-08-04 22:46_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
-- TGE to Showcase Unparalleled Media Power Through a Global Project Featuring Jackson Wang's L'Officiel Covers in 10 Countries and Regions - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- S&P Global Reports Second Quarter Results - Placera.se
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Liberty International i Stockholm växer - travelnews.se
+- EQTY Global Growth II: En genomtänkt strategi för att bygga värde - The Portugal News
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Arrow Global förvärvar Troia Resort - The Portugal News
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 
 ## Technology
@@ -59,8 +59,8 @@ _Updated: 2025-08-04 22:46_
 - Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
 - Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
@@ -74,25 +74,25 @@ _Updated: 2025-08-04 22:46_
 ## Business
 
 - Wells Fargo Commercial Banking Announces Collaboration with the National Center for the Middle Market - Placera.se
-- Accord Announces Banking Facility Update - Placera.se
-- Factory expansion at Northvolt continued — despite financial troubles - Sveriges Radio
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
-- Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Selective Director Steps Down to Focus on Founder Role - Placera.se
-- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Årets Genomlysare blottar finansmarknadens dolda vrår - Privata Affärer
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Accord Announces Banking Facility Update - Placera.se
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
 
 ## Health
 
@@ -102,10 +102,10 @@ _Updated: 2025-08-04 22:46_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
@@ -121,24 +121,24 @@ _Updated: 2025-08-04 22:46_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Högskola, forskning och rymd - Regeringen.se
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 
 ## Jordbruk
 
