@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-04 21:42_
+_Updated: 2025-08-04 22:46_
 
 ## Top Stories
 
-- Ovädret Floris på väg mot Sverige – tågsträcka stängs - SVT Nyheter
-- Man död efter bussolycka i Trelleborg - Aftonbladet
 - Viktigt meddelande till allmänheten i Hultsfred i Hultsfreds kommun, Kalmar län - Krisinformation.se
-- Därför flyr demokrater Texas - GP
-- Forskare ifrågasätter Kristerssons AI-användning: ”Röstade inte på Chat GPT” - DN
+- "Floris" drar in över Sverige – SMHI varnar - GP
+- Man död efter bussolycka i Trelleborg - Aftonbladet
+- Fd israeliska säkerhetstoppar vill se krigsslut - SVT Nyheter
 - Kvinna allvarligt skadad efter trafikolycka norr om Växjö - SVT Nyheter
-- Över 170 vädervarningar hittills i år: ”Hellre en gång för mycket” - DN
-- Halv böj och kändisviner: Nina är veteran på Systembolaget - Corren
+- Ulla ryter ifrån – har inte fått betalt från kommunen i år - GP
+- Elias Rosell: Gå inte i taket för att Ulf Kristersson använder AI som bollplank - DN
+- SD: Regeringens krav stör relationerna - Borås Tidning
 - Femåring dog i drunkningsolycka – förundersökning läggs ner - Expressen
-- SD: Regeringens krav stör relationerna - Aftonbladet
+- 500-miljoners-yachten har lagt till vid Skeppsbron - Mitt i
+- DN Direkt - USA och Kanada i bråk om 400 strutsar - DN.se - DN
 - Torterade kattungar till döds – tonåring döms - Aftonbladet
-- USA och Kanada i bråk om 400 strutsar - UNT
+- Minst 40 dödade i dag – flera i väntan på mat – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Fem personer som kan rädda Demokraterna ur krisen - DN
-- Hata Köpenhamn? Nej, här är 15 anledningar att älska Byen! - Sydsvenskan
 - Trump tullstraffar Indien för köp av rysk olja - SvD
-- Teslas lockbete till Musk: Aktier för 280 miljarder - Dagens industri
+- Tesla: Aktier för nästan 300 miljarder till Musk - GP
+- Figma faller tillbaka efter noteringsrallyt - Dagens industri
 - Bostadspriserna fortsatte att falla i juli – värst för lägenheter i Storstockholm och Storgöteborg - sbab.se
-- Spotify höjer priserna – så mycket dyrare blir det - Ny Teknik
-- Apple bygger ny AI-grupp – ska ge Siri kraftfullare sökfunktioner i stil med Chat GPT - Macworld.se
+- Ulefone lanserar extrema Armor 33 Pro - mobil.se
 - Nästa iPhone kan bli upp till 2300 kronor billigare. Blir iPhone 17 mindre svindyr? - Feber se.
 
 ## World News
@@ -68,31 +68,31 @@ _Updated: 2025-08-04 21:42_
 - Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
+- Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 
 ## Business
 
 - Wells Fargo Commercial Banking Announces Collaboration with the National Center for the Middle Market - Placera.se
-- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
+- Accord Announces Banking Facility Update - Placera.se
 - Factory expansion at Northvolt continued — despite financial troubles - Sveriges Radio
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Accord Announces Banking Facility Update - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Årets Genomlysare blottar finansmarknadens dolda vrår - Privata Affärer
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
-- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Selective Director Steps Down to Focus on Founder Role - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
@@ -120,45 +120,45 @@ _Updated: 2025-08-04 21:42_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
 - 5 myter om öppen vetenskap - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Här är världens största jordbruk - ATL
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- De gick från reko till eko - ST-tidningen
-- Små jordbruk kan mätta fler - FoodMonitor
-- Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
-- Tio jordbruksaktier för depån - Placera.se
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
-- Sanna Samuelsson: Mitt hjärta ömmar för dem som utmålas som dumma bönder - DN
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Så tar du reda på gårdens koldioxidutsläpp - Land Lantbruk
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
