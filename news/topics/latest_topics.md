@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-04 11:54_
+_Updated: 2025-08-04 12:51_
 
 ## Top Stories
 
-- Stormen ”Floris” drar in – SMHI varnar - SvD
-- 04 augusti 00.45, Explosion, Göteborg - polisen.se
-- Misstänkt våldtäkt utomhus i Skelleftehamn – område avspärrat - SVT Nyheter
-- Israeliska ex-säkerhetschefer vädjar till Trump - GP
-- Putins dotter uttalar sig för första gången: ”Han har förstört mitt liv” - Aftonbladet
-- ”Flera har frågat efter läxor och vill vara kvar” - SvD
+- Newcastle-legendaren om Isak: ”Hejdå med dig” - SvD
+- "Floris" drar in över Göteborg – SMHI varnar - GP
+- Tidigare israeliska säkerhetstoppar vill se stopp på kriget – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- DN Direkt - Kvinna våldtagen utomhus i Skellefteåhamn - DN.se - DN
+- Ryssland planerar övning för krig mot Nato - DN
+- Witkoff till Ryssland – atomubåtar på plats - SvD
 - Johan Croneman: Rissa Seidou hastar förbi det komplexa och fastnar ideligen i klyschorna - DN
 - SD: Kan börja ställa krav inom utrikespolitiken - DN
-- SVT:s miss i Rapport: N-ordet i undertext - GP
-- 04 augusti 07.17, Sammanfattning natt, Örebro län - polisen.se
-- Tidigare israeliska säkerhetstoppar vill se stopp på kriget – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- DN Direkt - SVT skrev n-ordet – avsnitt bortplockat - DN.se - DN
+- Tonårsflicka hundbiten – fördes till akuten med skador i ansiktet - NLT
 - Demokraterna flyr Texas – striden om mellanårsvalet har börjat - DN
+- 600 ex-toppchefer vädjar till Trump: Avsluta Gazakriget - DN
 - Rysk kamp mot stor oljebrand efter ukrainsk attack - Hufvudstadsbladet
 - Sydkorea tar ned propagandahögtalare - GP
-- SBAB: Bostadspriserna föll i juli - Fastighetstidningen
+- DN Direkt - Spotify höjer priserna – 10 kronor dyrare - DN.se - DN
 - Kronan fortsatt årets bästa valuta - Tidningen Näringslivet
-- Volvo Cars försäljning sjönk i juli – säljer färre elektrifierade bilar - Ny Teknik
-- Shein bötfälls för missvisande information - Sydsvenskan
-- Här är nyheterna i Mac OS Tahoe - Computer Sweden
-- Apple uppges satsa på en egen utmanare till Open AI:s Chat GPT - Expressen
+- Tesla godkänner aktiepaket till Elon Musk - Aftonbladet
+- Iran vill stryka fyra nollor från valutan - Dagens industri
+- Nytt budgetalternativ för Chat GPT sägs vara på gång - Computer Sweden
+- Microsoft höjer ersättningen för buggjägare - Computer Sweden
 
 ## World News
 
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
-- Arrow Global förvärvar Troia Resort - The Portugal News
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - TGE to Showcase Unparalleled Media Power Through a Global Project Featuring Jackson Wang's L'Officiel Covers in 10 Countries and Regions - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- Liberty International i Stockholm växer - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
-- Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
+- Arrow Global förvärvar Troia Resort - The Portugal News
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 
 ## Technology
@@ -73,25 +73,25 @@ _Updated: 2025-08-04 11:54_
 
 ## Business
 
-- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Accord Announces Banking Facility Update - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Factory expansion at Northvolt continued — despite financial troubles - Sveriges Radio
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
-- WBCSD: Över hälften redovisar dubbel väsentlighetsanalys - Miljö & Utveckling
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
-- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
@@ -103,7 +103,7 @@ _Updated: 2025-08-04 11:54_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Johan von Schreeb - Karolinska institutet
+- Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
@@ -120,45 +120,45 @@ _Updated: 2025-08-04 11:54_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Högskola, forskning och rymd - Regeringen.se
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Simple math behind major bison blunder - Forskning & Framsteg
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- E-infrastruktur för livsvetenskap får SSF-anslag - Uppsala universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Möt forskare i Umeå digitalt på ForskarFredag den 27 november! - Mynewsdesk
+- 606 forskare: Regeringen stoppar nödvändig forskning - Aftonbladet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- De gick från reko till eko - ST-tidningen
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Framtidens jordbruk är regenerativt - greenpeace.org
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
