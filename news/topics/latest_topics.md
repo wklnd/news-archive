@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-04 15:23_
+_Updated: 2025-08-04 15:58_
 
 ## Top Stories
 
-- Stormen ”Floris” drar in – SMHI varnar - SvD
-- Flera skadade efter bussolycka i Trelleborg - SVT Nyheter
+- Tåglinjer kan stängas inför stormen Floris - SvD
+- DN Direkt - Trafikolycka i centrala Trelleborg – buss och bilar inblandade - DN.se - DN
 - Kreml bryter tystnaden om USA:s atomubåtar - Västerbottens-Kuriren
 - Trafikkaos efter olycka på E22 söder om Norrköping - TV4 Nyheterna
+- Fem personer i olycka på riksväg 23 – två drabbade till sjukhus - Smålandsposten
 - ”Flera har frågat efter läxor och vill vara kvar” - SvD
-- DN Direkt - Kvinna våldtagen utomhus i Skellefteåhamn - DN.se - DN
-- ”Barn som mördar barn får aldrig bli normaliserat” - GP
-- 04 augusti 07.17, Sammanfattning natt, Örebro län - polisen.se
-- Pappa åtalas efter dödsolyckan i Stångån i Linköping - SVT Nyheter
-- DN Direkt - SD kan ställa nya krav efter regeringsbesked om Israel - DN.se - DN
+- Johan Croneman: Rissa Seidou hastar förbi det komplexa och fastnar ideligen i klyschorna - DN
+- Förundersökning efter drunkning nedlagd - Västerbottens-Kuriren
+- DN Direkt - SVT skrev n-ordet – avsnitt bortplockat - DN.se - DN
+- Johan Hakelius: Vilken tur att Magda Gad är opolitisk - Fokus - Sveriges nyhetsmagasin
 - Demokrater flyr Texas i protest mot omritad karta - Hufvudstadsbladet
 - Gerrymandering – så fungerar metoden som plågat USA i 200 år - DN
 - Fd israeliska säkerhetstoppar vill se krigsslut - SVT Nyheter
-- Sydkorea tar ned propagandahögtalare - Västerbottens-Kuriren
+- I Japan är krig olagligt – nu lägger de hundratals miljarder på en ny armé - Sydsvenskan
 - Teslas lockbete till Musk: Aktier för 280 miljarder - Dagens industri
-- Spotify höjer priserna – 10 kronor dyrare - Aftonbladet
 - SBAB: Bostadspriserna föll i juli - Fastighetstidningen
+- Spotify höjer priserna – 10 kronor dyrare - Aftonbladet
 - Opec storsatsar – därför sjunker nu priset på olja - Dagens PS
 - Microsoft höjer ersättningen för buggjägare - Computer Sweden
-- Här är nyheterna i Mac OS Tahoe - Computer Sweden
+- Apple uppges satsa på en egen utmanare till Open AI:s Chat GPT - Expressen
 
 ## World News
 
@@ -35,18 +35,18 @@ _Updated: 2025-08-04 15:23_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - Global-e Acquires ReturnGo Ltd. to Enhance Post-Purchase Experience - Placera.se
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Liberty International i Stockholm växer - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- EQTY Global Growth II: En genomtänkt strategi för att bygga värde - The Portugal News
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Arrow Global förvärvar Troia Resort - The Portugal News
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 
 ## Technology
 
@@ -58,18 +58,18 @@ _Updated: 2025-08-04 15:23_
 - EY.ai | EY - Sverige - EY
 - Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
 - Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
-- Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
 
 ## Business
 
@@ -119,26 +119,26 @@ _Updated: 2025-08-04 15:23_
 
 ## Science
 
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Högskola, forskning och rymd - Regeringen.se
-- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 
 ## Jordbruk
 
@@ -153,11 +153,11 @@ _Updated: 2025-08-04 15:23_
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
