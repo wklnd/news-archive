@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-04 23:44_
+_Updated: 2025-08-05 00:48_
 
 ## Top Stories
 
 - "Floris" drar in över Sverige – SMHI varnar - GP
-- Viktigt meddelande till allmänheten i Hultsfred i Hultsfreds kommun, Kalmar län - Krisinformation.se
+- DN Direkt - Nytt VMA i Hultsfred på grund av kraftig brand - DN.se - DN
 - Ryssland häver stopp för utplacering av robotar - Dagens industri
-- Bussförare omkom vid trafikolycka i Trelleborg - Bussmagasinet
+- 600 ex-toppchefer vädjar till Trump: Avsluta Gazakriget - DN
 - Forskare ifrågasätter Kristerssons AI-användning: ”Röstade inte på Chat GPT” - DN
-- Kvinna allvarligt skadad efter trafikolycka norr om Växjö - SVT Nyheter
-- Ledare: När SD:s företrädare inte framstår som trovärdiga - NT
+- Ulla ryter ifrån – har inte fått betalt från kommunen i år - GP
+- DEBATT: Kristerssons krav stärker terroristerna - Expressen
+- 04 augusti 13.25, Trafikolycka, Trelleborg - polisen.se
 - Femåring dog i drunkningsolycka – förundersökning läggs ner - Expressen
-- Ny bedrägerivåg – polisen varnar för ”sms-barn” - Expressen
-- Sprängning i Västra Frölunda – skador på en port - GP
-- DN Direkt - USA och Kanada i bråk om 400 strutsar - DN.se - DN
+- Fem personer i olycka på riksväg 23 – kvinna allvarligt skadad - Smålandsposten
 - Torterade kattungar till döds – tonåring döms - Aftonbladet
+- DN Direkt - USA och Kanada i bråk om 400 strutsar - DN.se - DN
 - Fem personer som kan rädda Demokraterna ur krisen - DN
-- Ytterligare fem har svultit ihjäl i Gaza - GP
+- Källor: Netanyahu vill erövra hela Gaza – nya order i morgon - DN
 - Trump tullstraffar Indien för köp av rysk olja - SvD
 - Tesla: Aktier för nästan 300 miljarder till Musk - GP
+- Tydlig uppgång på Wall Street – Spotify lyfte och Figma rasade - Dagens industri
 - Figma faller tillbaka efter noteringsrallyt - Dagens industri
-- Bostadspriserna fortsatte att falla i juli – värst för lägenheter i Storstockholm och Storgöteborg - sbab.se
 - Radeon RX 9060 kan ha fått sina specifikationer läckta - Nordichardware
-- OpenAI tar in 8,3 miljarder dollar. Värderas nu till 300 miljarder dollar. - Feber se.
+- Battlefield 6 rullar i 60 fps på alla konsoler i prestandaläget - FZ.se
 
 ## World News
 
+- EYE WORLD AB (publ): EYE World Proud Sponsor of MSP Global 2025 - beQuoted
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
+- TGE to Showcase Unparalleled Media Power Through a Global Project Featuring Jackson Wang's L'Officiel Covers in 10 Countries and Regions - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- S&P Global Reports Second Quarter Results - Placera.se
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Liberty International i Stockholm växer - travelnews.se
-- EQTY Global Growth II: En genomtänkt strategi för att bygga värde - The Portugal News
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Arrow Global förvärvar Troia Resort - The Portugal News
-- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 
 ## Technology
 
@@ -68,8 +68,8 @@ _Updated: 2025-08-04 23:44_
 - Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
-- Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 
 ## Business
 
@@ -102,10 +102,10 @@ _Updated: 2025-08-04 23:44_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
@@ -143,22 +143,22 @@ _Updated: 2025-08-04 23:44_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Jordbruk och landsbygdsutveckling - European Commission
-- Här är världens största jordbruk - ATL
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
+- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
