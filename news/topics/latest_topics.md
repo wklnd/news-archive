@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-05 01:43_
+_Updated: 2025-08-05 04:40_
 
 ## Top Stories
 
 - "Floris" drar in över Sverige – SMHI varnar - GP
-- DN Direkt - Nytt VMA i Hultsfred på grund av kraftig brand - DN.se - DN
+- Brasiliens förre president Jair Bolsonaro döms till husarrest - SVT Nyheter
 - 600 ex-toppchefer vädjar till Trump: Avsluta Gazakriget - DN
-- Ryssland häver stopp för utplacering av robotar - Dagens industri
+- 82 000 evakueras i Peking inför skyfall - Västerbottens-Kuriren
+- Källor: Netanyahu planerar expandera offensiven – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Forskare ifrågasätter Kristerssons AI-användning: ”Röstade inte på Chat GPT” - DN
-- Bussförare omkom vid trafikolycka i Trelleborg - Bussmagasinet
-- DEBATT: Kristerssons krav stärker terroristerna - Expressen
+- Ledare: När SD:s företrädare inte framstår som trovärdiga - NT
+- Epa-bråk i Huskvarna - Expressen
 - Femåring dog i drunkningsolycka – förundersökning läggs ner - Expressen
-- Personbil i olycka på riksväg 23 norr om Växjö - Smålandsposten
-- 500-miljoners-yachten har lagt till vid Skeppsbron - Mitt i
+- 04 augusti 13.25, Trafikolycka, Trelleborg - polisen.se
+- Ryssland häver stopp för utplacering av robotar - Dagens industri
+- Källor: Netanyahu vill erövra hela Gaza – nya order i morgon - DN
+- USA och Kanada i bråk om 400 strutsar - UNT
 - Torterade kattungar till döds – tonåring döms - Aftonbladet
-- DN Direkt - USA och Kanada i bråk om 400 strutsar - DN.se - DN
-- Fem personer som kan rädda Demokraterna ur krisen - DN
-- Minst 40 dödade i dag – flera i väntan på mat – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Trump tullstraffar Indien för köp av rysk olja - SvD
 - Tydlig uppgång på Wall Street – Spotify lyfte och Figma rasade - Dagens industri
-- Tesla: Aktier för nästan 300 miljarder till Musk - GP
-- DN Direkt - Shein bötfälls för missvisande information - DN.se - DN
+- Trump tullstraffar Indien för köp av rysk olja - SvD
+- Björn af Kleen: Trump tycks alltmer livrädd för verkligheten - DN
+- Spotify-aktien stiger med 7% efter att ha höjt de globala prenumerationspriserna - Invezz
+- Ulefone lanserar extrema Armor 33 Pro - mobil.se
 - Radeon RX 9060 kan ha fått sina specifikationer läckta - Nordichardware
-- Är ute efter en ny plastskydd för cykelkorgsfästet/styrstam men vet inte riktigt var jag kan hitta det - Happyride
 
 ## World News
 
-- EYE WORLD AB (publ): EYE World Proud Sponsor of MSP Global 2025 - beQuoted
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
-- TGE to Showcase Unparalleled Media Power Through a Global Project Featuring Jackson Wang's L'Officiel Covers in 10 Countries and Regions - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Arrow Global förvärvar Troia Resort - The Portugal News
-- Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- Portugal framstår som ett strategiskt nav för global teknikexpansion - The Portugal News
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
+- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
 
 ## Technology
 
@@ -74,16 +74,16 @@ _Updated: 2025-08-05 01:43_
 ## Business
 
 - Wells Fargo Commercial Banking Announces Collaboration with the National Center for the Middle Market - Placera.se
-- Selective Director Steps Down to Focus on Founder Role - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Årets Genomlysare blottar finansmarknadens dolda vrår - Privata Affärer
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Accord Announces Banking Facility Update - Placera.se
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
+- WBCSD: Över hälften redovisar dubbel väsentlighetsanalys - Miljö & Utveckling
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
@@ -92,7 +92,7 @@ _Updated: 2025-08-05 01:43_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
@@ -121,44 +121,44 @@ _Updated: 2025-08-05 01:43_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Högskola, forskning och rymd - Regeringen.se
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
