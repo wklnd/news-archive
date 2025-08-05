@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-05 08:58_
+_Updated: 2025-08-05 09:47_
 
 ## Top Stories
 
+- DN Direkt - Värsta skyfallet i Hong Kong på 140 år - DN.se - DN
 - Stormen Floris är här – SMHI varnar för stormbyar - GP
 - Källor: Netanyahu planerar expandera offensiven – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Elin Varde sköter om sin 500 hektar stora skog – ”Detta är inte som att odla havre” - Smålandsposten
-- Brasiliens förre president Jair Bolsonaro döms till husarrest - SVT Nyheter
 - Hund försvarade kvinna som överfölls – våldtäktsförsök i Hässleholm - Kristianstadsbladet
-- Man till sjukhus efter grov misshandel på Väster - SVT Nyheter
-- Forskare ifrågasätter Kristerssons AI-användning: ”Röstade inte på Chat GPT” - DN
+- Brasiliens förre president Jair Bolsonaro döms till husarrest - SVT Nyheter
 - Epa-bråk i Huskvarna - Expressen
-- SD om regeringens krav: ”Moraliskt fel” - Omni
 - Hybrisen når nya nivåer med skrytmånsen Ekman - Expressen
+- SD om regeringens krav: ”Moraliskt fel” - Omni
+- Femåring dog i drunkningsolycka – förundersökning läggs ner - Expressen
 - DN Direkt - Texas guvernör hotar demokraterna som flytt delstaten - DN.se - DN
 - Nasa skyndar på för reaktor på månen – ”Vinna den andra rymdkapplöpningen” - NyTeknik
+- Danskt zoo efterlyser husdjur – ska bli mat - GP
 - Netanyahu väntas beordra ockupation av hela Gaza - Hufvudstadsbladet
-- Över 40 grader i Japan – flera värmerekord - GP
 - Matpriserna står stilla – bara en kedja höjer - SvD
-- Helly Hansen återkallar flytvästar - Expressen
 - Trump hotar höja tullar mot Indien – kritiserar Rysk oljehandel - Affärsvärlden
 - Teslas styrelse: Elon Musk ska få aktiepaket värt över 280 miljarder - Breakit
-- Jag har testat LG:s billigaste OLED-TV och Samsungs mer prisvärda mini-LED-TV sida vid sida – här är den jag skulle köpa - TechRadar
-- Frustrerade användare hävdar att Siri blivit oanvändbar – samtidigt menar Tim Cook att Apple gör ”goda framsteg” inför omstarten 2026 - TechRadar
+- Detta kan bli elbilens största genombrott någonsin - Dagens PS
+- Vad menas egentligen med "snart"? Google pikar Apple för Siri-förseningar i ny Pixel 10-teaser - TechRadar
+- Om dessa PlayStation 6-läckor stämmer blir Sonys nästa konsol kanske inte det stora generationsklivet vi hoppats på - TechRadar
 
 ## World News
 
@@ -39,13 +39,13 @@ _Updated: 2025-08-05 08:58_
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Liberty International i Stockholm växer - travelnews.se
+- EQTY Global Growth II: En genomtänkt strategi för att bygga värde - The Portugal News
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Arrow Global förvärvar Troia Resort - The Portugal News
+- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- Portugal framstår som ett strategiskt nav för global teknikexpansion - The Portugal News
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
 - ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
 
 ## Technology
@@ -113,32 +113,32 @@ _Updated: 2025-08-05 08:58_
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Högskola, forskning och rymd - Regeringen.se
-- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
+- E-infrastruktur för livsvetenskap får SSF-anslag - Uppsala universitet
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
