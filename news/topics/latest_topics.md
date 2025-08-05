@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-05 19:46_
+_Updated: 2025-08-05 20:58_
 
 ## Top Stories
 
 - Stormen Floris slår mot Västkusten - GP
-- Ebba Buschs kritik mot regeringens Israelbesked: ”Missvisande” - DN
-- Person hittad död – misstänkt grovt brott - Aftonbladet
-- SMHI varnar för skyfall - Expressen
-- Ubåtsolyckan på ”Titan” kunde ha förebyggts – fem personer dog - SVT Nyheter
-- 108 björnar får fällas vid årets licensjakt - Östersunds-Posten
-- Östersjön kokar – experter varnar för hög temperatur - Hufvudstadsbladet
-- Kristofer Ahlström: Det luktar dubbeltrubbel när Kristersson använder AI som rådgivare - DN
-- Läckta samtalet: Här rekryteras svensken av terrorledaren - SVT Nyheter
-- Nytt VMA i Hultsfred - Expressen
 - Försvarsministern: Militären kommer att genomföra Gazapolitiken – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Nathan Shachar: Netanyahu och Israels ÖB i öppen konflikt om Gaza - DN
-- Stad i Indien bortspolad av slamflod - GP
+- Kafébygget i Brunnsparken försenat – då öppnar det - GP
+- Militärt motstånd mot plan om Gaza - SVT Nyheter
+- Imploderade – nu är orsaken utredd - SvD
+- DN Direkt - Ebba Busch: Öppna svensk ambassad i Jerusalem - DN.se - DN
+- Östersjön kokar – experter varnar för hög temperatur: ”Som ett badkar” - DN
+- Kristofer Ahlström: Det luktar dubbeltrubbel när Kristersson använder AI som rådgivare - DN
+- Fler försvunna USAID-pengar har nu dykt upp - Aftonbladet
+- Läckta samtalet: Här rekryteras svensken av terrorledaren - SVT Nyheter
+- Upprört om Texas valkarta: ”Ett krig” - GP
 - EU slopar strafftullar mot amerikanska bilar och whisky - DN
-- Trump: Läkemedelstullarna kan bli 250 procent - Dagens industri
-- Polarn O. Pyret lämnar USA – för höga tullar - Aftonbladet
+- Kamp för att lösa gigantiska plastproblem - Västerbottens-Kuriren
+- Sverige ska bidra i gemensamt paket för Ukraina - GP
+- Trumps satsning på chips och droger kan förändra allt - Invezz
+- Polarn O. Pyret lämnar USA på grund av tullarna - Dagens industri
+- Kina stryper kranen till försvarssektorn - SvD
 - Kinas prisdumpning väntas öka – EU har inget att sätta emot - DN
-- Gekås Ullared slår historiskt rekord - GP
 - Kan kommande AI-mobilen Google Pixel 10 knäcka Iphone 17? - NyTeknik
 - Efter veckor med Samsung Galaxy Z Flip 7 är jag övertygad: vikbara mobiler är bäst – och jag tänker inte gå tillbaka till platta telefoner - TechRadar
 
@@ -41,35 +41,35 @@ _Updated: 2025-08-05 19:46_
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Liberty International i Stockholm växer - travelnews.se
 - Canopy Growth Expands Global Medical Portfolio with Launch of 7ACRES in Australia - Placera.se
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Arrow Global förvärvar Troia Resort - The Portugal News
 - Portugal: En växande hubb för global teknik - The Portugal News
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 
 ## Technology
 
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
-- Lantern Pharma Announces Public Release of Transformative, Advanced AI Module for Blood-Brain Barrier Permeability Prediction, predictBBB.ai - Placera.se
+- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
-- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
+- Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
-- Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 
 ## Business
 
@@ -121,36 +121,36 @@ _Updated: 2025-08-05 19:46_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Högskola, forskning och rymd - Regeringen.se
+- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Jordbruk och landsbygdsutveckling - European Commission
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
