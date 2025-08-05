@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-05 23:43_
+_Updated: 2025-08-06 00:48_
 
 ## Top Stories
 
-- DN Direkt - Ebba Busch: Öppna svensk ambassad i Jerusalem - DN.se - DN
-- Experten om en möjlig ockupation: En ny fas – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Stormen Floris slår mot Västkusten - GP
-- Misstänkt skottlossning i Katrineholm - Omni
-- En skadad efter crossolycka - Västerbottens-Kuriren
+- Nedfallna träd och strömavbrott i spåren efter stormen Floris - NWT
+- Ebba Buschs kritik mot regeringens Israelbesked: ”Missvisande” - DN
+- Misstänkt skottlossning i Katrineholm - SVT Nyheter
+- Motocrossolycka på väg 92 i Bjurholm – en till sjukhus med helikopter - SVT Nyheter
 - Trumps deadline närmar sig – uppgifter om att Ryssland överväger eftergifter - DN
+- Experten om en möjlig ockupation: En ny fas – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Östersjön kokar – experter varnar för hög temperatur: ”Som ett badkar” - DN
-- Kristofer Ahlström: Det luktar dubbeltrubbel när Kristersson använder AI som rådgivare - DN
+- Putin överväger vapenvila i luften - Expressen
 - Läckta samtalet: Här rekryteras svensken av terrorledaren - SVT Nyheter
-- SMHI varnar för skyfall - Expressen
+- Biogasstationen i Lugnvik totalförstörd - Östersunds-Posten
 - Upprört om Texas valkarta: ”Ett krig” - GP
-- Netanyahu väntas beordra ockupation av hela Gaza - Hufvudstadsbladet
 - Libanon vill ha kontroll över vapnen i landet - Västerbottens-Kuriren
-- Sverige bidrar med 2,7 miljarder till Ukraina - Corren
+- Netanyahu väntas beordra ockupation av hela Gaza - Hufvudstadsbladet
+- Sverige bidrar med 2,7 miljarder till Ukraina - GP
 - Novo Nordisk-aktien nedgraderades när Trump hintade om 250% läkemedelstullar - Invezz
 - Polarn O. Pyret lämnar USA efter tullarna - EFN
 - Kina stryper kranen till försvarssektorn - SvD
@@ -28,25 +28,25 @@ _Updated: 2025-08-05 23:43_
 ## World News
 
 - Pyxus International Named as a Supplier Engagement Leader by CDP - Placera.se
+- Global Payments Announces Partnership with Minnesota Twins, Extends Relationship with Dallas Cowboys - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Global Payments Announces Partnership with Minnesota Twins, Extends Relationship with Dallas Cowboys - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Liberty International i Stockholm växer - travelnews.se
 - Canopy Growth Expands Global Medical Portfolio with Launch of 7ACRES in Australia - Placera.se
 - BNY to Speak at the Barclays Global Financial Services Conference - Placera.se
 - EQTY Global Growth II: En genomtänkt strategi för att bygga värde - The Portugal News
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- Liberty International i Stockholm växer - travelnews.se
 - Arrow Global förvärvar Troia Resort - The Portugal News
-- Portugal: En växande hubb för global teknik - The Portugal News
 
 ## Technology
 
@@ -102,6 +102,7 @@ _Updated: 2025-08-05 23:43_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
@@ -113,9 +114,8 @@ _Updated: 2025-08-05 23:43_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 
 ## Science
 
@@ -145,20 +145,20 @@ _Updated: 2025-08-05 23:43_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Jordbruk och landsbygdsutveckling - European Commission
-- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- De gick från reko till eko - ST-tidningen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Här är världens största jordbruk - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
