@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-05 13:50_
+_Updated: 2025-08-05 15:28_
 
 - What happens next in Texas redistricting and for Democrats facing civil arrest warrants - CNN
-- Netanyahu vows to occupy Gaza as U.S. touts ‘all or nothing’ hostage plan - The Washington Post
-- After Trump’s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism - The New York Times
-- State Department may require some visa applicants to post bond of up to $15,000 - NPR
+- Netanyahu to propose full reoccupation of Gaza, Israeli media report - BBC
+- 'Vote him out!': Town hall erupts in anger at Nebraska GOP congressman over Trump megabill, policies - ABC News
 - Texas redistricting move would ‘trigger’ new California maps, Newsom says - Los Angeles Times
-- Nebraska Republican booed over Medicaid cuts during town hall - The Hill
+- U.S. visa bonds would charge some foreign travelers $15,000 deposits - The Washington Post
+- ICE uses starkly different tactics to arrest immigrants in red and blue states, data shows - CNN
 - Massive wildfire in central California threatens homes, injures 3 people as it burns out of control - NBC News
-- All to know about the quadruple killing manhunt in Tennessee after family found dead - The Independent
-- Trump threatens higher India tariffs, accuses nation of funding war in Ukraine - Axios
-- US DOJ to open grand jury to investigate Obama officials, source says - Reuters
+- Tennessee Inmate to Be Executed Despite Ethical Health Concerns - The New York Times
+- How Is the Montana Shooting Suspect Still at Large? Check Out the Terrain. - The New York Times
+- In rejecting the jobs report, Trump follows his own playbook of discrediting unfavorable data - AP News
 - Japan sets record high temperatures, worries mount over rice crops - Reuters
+- UN Security Council to Discuss Israel-Gaza War and Hostages - The New York Times
+- Japan's new stealth warship just won over a big buyer, in a historic first for its post-WWII weapons industry - Business Insider
 - Denmark zoo asks for people to donate their pets to feed its predators - ABC News
-- Japan’s Defense Ambitions Boosted by Australia Warship Deal - Bloomberg
-- The Global Impact of the Latest U.S. Tariffs - NPR
-- Elon Musk retains title as the highest-paid CEO in history with $26 billion pay package—and the only thing he has to do is show up for two years - Fortune
+- Palantir Stock Jumps After Earnings. Why It’s the ‘Best Story’ in Software. - Barron's
+- Swiss president and economy minister to present ‘more attractive’ tariff offer to White House - Financial Times
+- Treasury Secretary Scott Bessent off list for next Fed chair, Trump says - Axios
 - Stocks rise on Fed rate cut hopes after disappointing jobs data - Reuters
-- Yum Brands earnings miss estimates as Pizza Hut, KFC struggle in the U.S. - CNBC
-- Pfizer Stock Pops as Earnings Smash Expectations. Why the Outlook Has Been Hiked. - Barron's
-- Latest Google Pixel 10 series leaks show off what’s glossy and what’s matte [Gallery] - 9to5Google
-- ChatGPT adds mental health guardrails after bot 'fell short in recognizing signs of delusion' - NBC News
+- iPhone 17 Pro, Max and Air: Release dates, colors and everything else you need to know about Apple's new phones - Engadget
+- Someone is folding the Galaxy Z Fold 7 200,000 times live on YouTube (Updated: Still going) - Android Authority
