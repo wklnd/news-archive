@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-05 09:52_
+_Updated: 2025-08-05 11:00_
 
-- With Democrats Gone, a Texas Gerrymander Is Stymied for Now - The New York Times
-- Trump threatens higher India tariffs, accuses nation of funding war in Ukraine - Axios
+- Texas governor says Dems can’t do ‘anything about’ GOP plans - The Hill
 - Israel’s Netanyahu has decided on full occupation of Gaza, reports say - Al Jazeera
-- How Trump decided to fire a little-known statistician, sparking conspiracy theories about government data - CNN
 - California could slash 5 GOP US House seats to counter Texas' move to pad Republican margin - apnews.com
-- Brazil's Bolsonaro arrested, adding to tensions with Trump - Reuters
+- Trump threatens higher India tariffs, accuses nation of funding war in Ukraine - Axios
+- Brazil’s supreme court orders house arrest of Jair Bolsonaro - Financial Times
+- U.S. visa bonds would charge some foreign travelers $15,000 deposits - The Washington Post
 - How Is the Montana Shooting Suspect Still at Large? Check Out the Terrain. - The New York Times
 - UVA appoints Paul G. Mahoney as interim president - UVA Today
-- US DOJ to open grand jury to investigate Obama officials, source says - Reuters
-- U.S. visa bonds would charge some foreign travelers $15,000 deposits - The Washington Post
-- Japan clinches landmark $6.5 billion warship deal with Australia - Reuters
-- Hong Kong Sees Record Rainstorm Warnings as Deluge Hits City - Bloomberg.com
+- In rejecting the jobs report, Trump follows his own playbook of discrediting unfavorable data - apnews.com
+- Where skies will be smoky this week — and where the haze is coming from - The Washington Post
+- Japan’s Defense Ambitions Boosted by Australia Navy Frigate Deal - Bloomberg.com
+- Israel to allow controlled entry of goods into Gaza - The Jerusalem Post
 - Can countries solve the plastic pollution problem? - BBC
-- The BBC visits the Korean survivors of the Hiroshima bomb - BBC
-- Top analyst says the next 5 years could see 'no growth in workers at all' and sends a warning about the fate of the U.S. economy - Fortune
-- Asian Stocks Poised to Track Wall Street Rally: Markets Wrap - Bloomberg.com
-- Company advised by Trump sons said it hoped to benefit from fed money, then took it back - apnews.com
+- It might seem like Trump is winning his trade war. But the US could soon be in a world of pain - The Conversation
+- Stocks rise on Fed rate cut hopes after disappointing jobs data - Reuters
+- Palantir Earnings: Stock Rises After Results Smash Expectations - Barron's
 - Global M&A hits $2.6 trillion peak year-to-date, boosted by AI and quest for growth - Reuters
+- IT firing spree: Shrinking job market looks even worse after BLS revisions - theregister.com
 - Trusty leaker claims Samsung's huge Galaxy S26 Ultra camera upgrade is now 'confirmed' - PhoneArena
-- Google's Pixel 10 teaser basically throws shade straight at Apple - Android Central
+- iOS 26: Everything You Need to Know About the Liquid Glass Redesign - MacRumors
