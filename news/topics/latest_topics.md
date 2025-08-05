@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-05 12:51_
+_Updated: 2025-08-05 13:42_
 
 ## Top Stories
 
-- Ove Kindvall död: ”En sorgens dag för svensk fotboll” - DN
 - Stormen Floris är här – SMHI varnar för stormbyar - GP
+- DN Direkt - SMHI varnar för skyfall i Västerbotten - DN.se - DN
 - Misstänkta koppartjuvar gripna av polisen i Luleå: "En större mängd" - Megafonen Skellefteå
-- SMHI varnar för skyfall - TV4 Nyheterna
 - Träd för 1,35 miljoner dödade med gift - Sydsvenskan
+- Långa köer efter krock på E4 vid Håknäs – flera bilar inblandade - SVT Nyheter
 - Inget talar för att Putin tar ”sista chansen” till fred - DN
+- Regionstyrelsen i extramöte för krisande ambulanssjukvård - DN
 - Elsystemet fortsatt stabilt trots vindkraftsboom - DN
-- Nytt VMA i Hultsfred - Expressen
 - Man grovt misshandlad utomhus i Örebro - Nerikes Allehanda
-- Läckta samtalet: Här rekryteras svensken av terrorledaren - SVT Nyheter
-- Minst 40 dödade i dag – flera i väntan på mat – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Danskt zoo efterlyser husdjur – ska bli mat - Hufvudstadsbladet
-- DN Direkt - Över 40 grader i Japan – flera värmerekord - DN.se - DN
+- Nytt VMA i Hultsfred - Expressen
+- Uppgifter: Netanyahu håller mindre möte om Gaza i dag – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Bolsonaro ska sättas i husarrest: ”Gör narr av rättsväsendet” - DN
-- Matpriserna står stilla – bara en kedja höjer - SvD
-- Tungviktare sätter Köpenhamnsbörsen i spel - EFN
+- Över 40 grader i Japan – flera värmerekord - GP
+- Danskt zoo efterlyser husdjur – ska bli mat - Hufvudstadsbladet
+- Storbanken: Novo Nordisk sänker dansk ekonomi - Aftonbladet
+- Matpriserna står stilla – bara en kedja höjer - DN
 - Oroar du dig för ekonomin efter en dyr sommar? Så reder du ut läget - Cision News
-- Rekordsommar för Gekås: ”Förvånar mig” - Dagens industri
+- Hot och avsked – Trumps rensning bland höga chefer väcker kritik - EFN
 - Rykte: Playstation 6 ska krossa PS5 i prestanda - Omni
-- Vad menas egentligen med "snart"? Google pikar Apple för Siri-förseningar i ny Pixel 10-teaser - TechRadar
+- Samsung Galaxy Z Flip 7 - recension: Flip-telefonen som får mig att önska att varje telefon var en Flip-telefon - TechRadar
 
 ## World News
 
@@ -37,16 +37,16 @@ _Updated: 2025-08-05 12:51_
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Arrow Global förvärvar Troia Resort - The Portugal News
-- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
+- Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
 
 ## Technology
 
@@ -58,7 +58,6 @@ _Updated: 2025-08-05 12:51_
 - EY.ai | EY - Sverige - EY
 - Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
@@ -66,6 +65,7 @@ _Updated: 2025-08-05 12:51_
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
@@ -153,12 +153,12 @@ _Updated: 2025-08-05 12:51_
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
