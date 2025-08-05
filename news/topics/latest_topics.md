@@ -1,33 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-05 17:46_
+_Updated: 2025-08-05 18:48_
 
 ## Top Stories
 
-- Ebba Buschs kritik mot regeringens Israelbesked: ”Missvisande” - DN
+- DN Direkt - Ozzy Osbourne dödsorsak klar - DN.se - DN
+- Busch: Flytta Sveriges ambassad till Jerusalem - Västerbottens-Kuriren
 - Stormen Floris slår mot Västkusten - GP
-- Stora mängder regn väntas – SMHI varnar för skyfall - SVT Nyheter
-- Försvarsministern: Militären kommer att genomföra Gazapolitiken – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Netanyahu väntas beordra ockupation av hela Gaza - Hufvudstadsbladet
-- Kraftfullt svenskt bidrag till militärt stödpaket till Ukraina - Regeringen.se
+- SMHI varnar för skyfall - Expressen
+- Ubåtsolyckan på ”Titan” kunde ha förebyggts – fem personer dog - SVT Nyheter
+- DN Direkt - Bergsby i Indien bortspolad av slamflod - DN.se - DN
 - Kristofer Ahlström: Det luktar dubbeltrubbel när Kristersson använder AI som rådgivare - DN
-- Regionstyrelsen i extramöte för krisande ambulanssjukvård - DN
+- Läckta samtalet: Här rekryteras svensken av terrorledaren - SVT Nyheter
 - Man grovt misshandlad utomhus i Örebro - Nerikes Allehanda
-- SSU vill att Sverige lämnar Nato – Moska Hassas utspel - Expressen
-- DN Direkt - Kamp för att lösa gigantiska plastproblem - DN.se - DN
+- Nytt VMA i Hultsfred - Expressen
+- Försvarsministern: Militären kommer att genomföra Gazapolitiken – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - EU slopar strafftullar mot amerikanska bilar och whisky - DN
-- Clinton kallas på förhör - Expressen
-- Tre dödade i ryska attacker - GP
-- Matpriserna står stilla – bara en kedja höjer - SvD
+- Kamp för att lösa gigantiska plastproblem - Västerbottens-Kuriren
+- Netanyahu väntas beordra ockupation av hela Gaza - Hufvudstadsbladet
+- Polarn O. Pyret lämnar USA på grund av tullarna - Dagens industri
 - Storbanken: Novo Nordisk sänker dansk ekonomi - Aftonbladet
+- Matpriserna står stilla – bara en kedja höjer - SvD
 - Kinas prisdumpning väntas öka – EU har inget att sätta emot - DN
-- Så bygger du en förmögenhet – oavsett lön - Dagens PS
 - Kan kommande AI-mobilen Google Pixel 10 knäcka Iphone 17? - NyTeknik
 - Samsung Galaxy Z Flip 7 - recension: Flip-telefonen som får mig att önska att varje telefon var en Flip-telefon - TechRadar
 
 ## World News
 
 - Pyxus International Named as a Supplier Engagement Leader by CDP - Placera.se
+- Global Payments Announces Partnership with Minnesota Twins, Extends Relationship with Dallas Cowboys - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
@@ -38,7 +39,6 @@ _Updated: 2025-08-05 17:46_
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Global Payments Announces Partnership with Minnesota Twins, Extends Relationship with Dallas Cowboys - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Liberty International i Stockholm växer - travelnews.se
@@ -46,53 +46,53 @@ _Updated: 2025-08-05 17:46_
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Arrow Global förvärvar Troia Resort - The Portugal News
 - Portugal: En växande hubb för global teknik - The Portugal News
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 
 ## Technology
 
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
-- Lantern Pharma Announces Public Release of Transformative, Advanced AI Module for Blood-Brain Barrier Permeability Prediction, predictBBB.ai - Placera.se
+- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
-- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
+- Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
-- Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
+- Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 
 ## Business
 
 - Wells Fargo Commercial Banking Announces Collaboration with the National Center for the Middle Market - Placera.se
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
-- Factory expansion at Northvolt continued — despite financial troubles - Sveriges Radio
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Accord Announces Banking Facility Update - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Årets Genomlysare blottar finansmarknadens dolda vrår - Privata Affärer
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Accord Announces Banking Facility Update - Placera.se
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Selective Director Steps Down to Focus on Founder Role - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 
 ## Health
 
