@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-05 21:42_
+_Updated: 2025-08-05 22:45_
 
 ## Top Stories
 
-- Polisen: Bengal kastades – men annars lugnt - Sydsvenskan
+- Experten om en möjlig ockupation: En ny fas – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Stormen Floris slår mot Västkusten - GP
-- Försvarsministern: Militären kommer att genomföra Gazapolitiken – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Fler försvunna USAID-pengar har nu dykt upp - Aftonbladet
-- Kafébygget i Brunnsparken försenat – då öppnar det - GP
+- Trumps deadline närmar sig – uppgifter om att Ryssland överväger eftergifter - DN
 - En skadad efter crossolycka - Västerbottens-Kuriren
+- Fler försvunna USAID-pengar har nu dykt upp - Aftonbladet
+- BILDEXTRA: Sommarens sista chans till storkovan på knökfullt bingo - Smålandsposten
 - Ebba Buschs kritik mot regeringens Israelbesked: ”Missvisande” - DN
 - Östersjön kokar – experter varnar för hög temperatur: ”Som ett badkar” - DN
+- Västtrafik går upp i stabsläge - Expressen
 - Kristofer Ahlström: Det luktar dubbeltrubbel när Kristersson använder AI som rådgivare - DN
-- Grov misshandel – pojke sparkade på två barn i Göteborg - Expressen
 - Upprört om Texas valkarta: ”Ett krig” - GP
+- Libanon vill ha kontroll över vapnen i landet - Västerbottens-Kuriren
 - Netanyahu väntas beordra ockupation av hela Gaza - Hufvudstadsbladet
-- Dousa: EU:s vapen ännu laddade - Västerbottens-Kuriren
-- Skördetröska har tappat däck – kilometerlånga köer - Aftonbladet
-- Trumps satsning på chips och droger kan förändra allt - Invezz
+- Sverige ska bidra i gemensamt paket för Ukraina - GP
+- Novo Nordisk-aktien nedgraderades när Trump hintade om 250% läkemedelstullar - Invezz
 - Polarn O. Pyret lämnar USA på grund av tullarna - Dagens industri
 - Kina stryper kranen till försvarssektorn - SvD
-- Kinas prisdumpning väntas öka – EU har inget att sätta emot - DN
+- Matpriserna står stilla – bara en kedja höjer - Aftonbladet
 - Kan kommande AI-mobilen Google Pixel 10 knäcka Iphone 17? - NyTeknik
 - Open AI släpper nya modeller i kampen mot Deepseek - Omni
 
@@ -52,24 +52,24 @@ _Updated: 2025-08-05 21:42_
 
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
-- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
+- Lantern Pharma Announces Public Release of Transformative, Advanced AI Module for Blood-Brain Barrier Permeability Prediction, predictBBB.ai - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
-- Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
+- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
+- Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
 - Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
-- Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
+- Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 
 ## Business
 
@@ -102,7 +102,6 @@ _Updated: 2025-08-05 21:42_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
@@ -114,31 +113,32 @@ _Updated: 2025-08-05 21:42_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 
 ## Science
 
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Simple math behind major bison blunder - Forskning & Framsteg
-- 606 forskare: Regeringen stoppar nödvändig forskning - Aftonbladet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 - E-infrastruktur för livsvetenskap får SSF-anslag - Uppsala universitet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
-- Möt forskare i Umeå digitalt på ForskarFredag den 27 november! - Mynewsdesk
-- Science and SciLifeLab Prize för unga forskare till miljövetare David Seekell - Mynewsdesk
-- Umeådoktorand får prestigefyllt postdoktorsstipendium inom Life science - Mynewsdesk
-- Prisregn över Umeå Plant Science Center - Mynewsdesk
-- ​Vetenskapsfestivalen ForskarFredag fyller 15 år! Möt forskare från Högskolan i Skövde - online - Mynewsdesk
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 
 ## Jordbruk
 
@@ -147,18 +147,18 @@ _Updated: 2025-08-05 21:42_
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Jordbruk och landsbygdsutveckling - European Commission
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
