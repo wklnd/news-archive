@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-05 06:33_
+_Updated: 2025-08-05 07:04_
 
 ## Top Stories
 
-- Stormen Floris är här – SMHI varnar för stormbyar - GP
+- Floris når Sverige – varning för stormbyar - SvD
 - Källor: Netanyahu planerar expandera offensiven – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Fiskdiskarna dör: ”Fick slänga för en miljon” - SvD
-- Bolsonaro döms till husarrest - Västerbottens-Kuriren
-- 82 000 evakueras i Peking inför skyfall - GP
-- Barn skadade efter rysk attack - TV4 Nyheterna
+- Husarrest för Bolsonaro - GP
+- Elin Varde sköter om sin 500 hektar stora skog – ”Detta är inte som att odla havre” - Smålandsposten
+- Lämna barnen i fred - SvD
 - Forskare ifrågasätter Kristerssons AI-användning: ”Röstade inte på Chat GPT” - DN
-- MEDAN DU SOV: Här är nattens händelser - NLT
 - Ledare: När SD:s företrädare inte framstår som trovärdiga - NT
+- Epa-bråk i Huskvarna - Expressen
 - Femåring dog i drunkningsolycka – förundersökning läggs ner - Expressen
 - DN Direkt - Texas guvernör hotar demokraterna som flytt delstaten - DN.se - DN
-- Över 40 grader i Japan – flera värmerekord - GP
-- USA och Kanada i bråk om 400 strutsar - UNT
-- Se upp för silverskatta - ett nytt ogräs som blir starkare när du klipper det - Byggahus.se
+- Ryssland häver stopp för utplacering av robotar - Västerbottens-Kuriren
+- DN Direkt - Över 40 grader i Japan – flera värmerekord - DN.se - DN
+- 4 000 hushåll utan el i Sotenäs - SVT Nyheter
+- Matpriserna står stilla – bara en kedja höjer - SvD
 - Tydlig uppgång på Wall Street – Spotify lyfte och Figma rasade - Dagens industri
-- Danskans stiftelse säljer Figma-aktier för miljarder - Dagens PS
 - SBAB: Bostadspriserna föll i juli - Fastighetstidningen
 - Björn af Kleen: Trump tycks alltmer livrädd för verkligheten - DN
 - Vi har testat den nya versionen av Samsung Galaxy Z Flip - Expressen
@@ -64,35 +64,35 @@ _Updated: 2025-08-05 06:33_
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
 - Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Artificial Intelligence Revolutionizing Early Detection of Diabetic Retinopathy Creating a Multi-Billion Dollar Revenue Opportunity - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 
 ## Business
 
 - Wells Fargo Commercial Banking Announces Collaboration with the National Center for the Middle Market - Placera.se
-- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Accord Announces Banking Facility Update - Placera.se
+- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Årets Genomlysare blottar finansmarknadens dolda vrår - Privata Affärer
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Ally Financial to present at the Barclays Global Financial Services Conference (PR Newswire) - Aktiellt
+- Accord Announces Banking Facility Update - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
+- New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
+- Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 
 ## Health
 
