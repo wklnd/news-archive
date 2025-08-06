@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-06 18:54_
+_Updated: 2025-08-06 19:48_
 
 ## Top Stories
 
 - M-ministrarna slår tillbaka mot Buschs kritik: ”Förstår att beslutet väcker känslor” - DN
-- Villa brinner i Tingsryd – en till sjukhus - Aftonbladet
 - Witkoff möter Putin i Moskva: Detta handlar samtalen om - SVT Nyheter
-- Våldtäkt på offentlig toalett i centrala Stockholm - SVT Nyheter
-- Myndighet läckte 150 namn på arbetssökande - GP
-- Minst en svensk på väg ut från Gazaremsan - Västerbottens-Kuriren
-- Nu ska stenmården utrotas i Sverige - DN
+- Villa brinner i Tingsryd – en till sjukhus - Aftonbladet
+- Minst en svensk evakueras från Gaza - GP
+- Skjutning på militärbas i USA - misstänkt gripen - Västerbottens-Kuriren
+- Trump: Ställer ”troligtvis inte” upp i valet igen - Expressen
+- Nu ska stenmården utrotas - GP
 - Så tar sig ohyra in i svenska hem efter semestern - DN
 - 80 år sedan atombomben över Hiroshima - SVT Nyheter
-- SMHI om varningen för Floris: "ropade lite på vargen" - GP
-- DN Direkt - Skjutning på militäranläggning i Georgia - DN.se - DN
+- Kitesurfare trotsade Floris – njöt av höga vågor: ”Skräckblandad förtjusning” - NLT
 - Mördade svarta kvinnor matades till grisar i Sydafrika - DN
-- Karl Dalén: Den amerikanska demokratin är satt under press - DN
 - Läkaren Ahed i Gaza tvingas ta mat från lastbil: ”Aldrig upplevt sådan förödmjukelse” - Hufvudstadsbladet
+- Karl Dalén: Den amerikanska demokratin är satt under press - DN
+- Ny president installerad i Polen - SVT Nyheter
 - Trumps nya hot: 250-procentiga tullar på läkemedel - Life Science Sweden
 - KI: Låg konsumtion sänker svensk tillväxt - SvD
-- Flytvästar återkallas – risk för punktering - Aftonbladet
+- Flytvästar återkallas – risk för punktering - GP
 - Ökande konkurrens från Kina stort hot mot arbetsmarknaden i euroområdet - ECB-ekonomer - Börsvärlden
 - Googles Genie 3 skapar interaktiva världar i realtid - Omni
 - Kan Googles kommande AI-mobil knäcka Iphone 17? - NyTeknik
@@ -50,49 +50,49 @@ _Updated: 2025-08-06 18:54_
 
 ## Technology
 
-- Lantern Pharma Announces Public Release of Transformative, Advanced AI Module for Blood-Brain Barrier Permeability Prediction, predictBBB.ai - Placera.se
-- Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
 - Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
+- Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
-- Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 
 ## Business
 
-- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$947 Million (C$1.3 Billion) in AUM, and Monthly Net Inflows of US$14.4 Million (C$19.8 Million) in July 2025, Among Other Key Developments - Placera.se
 - Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Selective Director Steps Down to Focus on Founder Role - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
-- Accord Announces Banking Facility Update - Placera.se
-- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
+- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$947 Million (C$1.3 Billion) in AUM, and Monthly Net Inflows of US$14.4 Million (C$19.8 Million) in July 2025, Among Other Key Developments - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Accord Announces Banking Facility Update - Placera.se
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
+- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
@@ -144,21 +144,21 @@ _Updated: 2025-08-06 18:54_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är världens största jordbruk - ATL
-- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - Food Supply SE
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - De gick från reko till eko - ST-tidningen
 - Små jordbruk kan mätta fler - FoodMonitor
-- Tio jordbruksaktier för depån - Placera.se
-- Hon blir verksamhetschef på Sweden Food Arena - Mynewsdesk
+- Här är världens största jordbruk - ATL
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
-- Globalt jordbruk förorenar mer vatten än industrin - Land Lantbruk
