@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-06 15:28_
+_Updated: 2025-08-06 16:02_
 
-- What to expect next in Texas’ redistricting standoff and whether Democrats can be expelled - CNN
+- Texas lawmakers have walked out even before current redistricting battle - ABC News
 - Trump's envoy Witkoff meets Putin as ceasefire deadline looms - BBC
 - RFK Jr. pulls $500 million in funding for mRNA vaccine contracts - NPR
+- Marsha Blackburn mounts a run for governor - Politico
 - Trump threatens federal control of D.C. following attack on administration staffer known as 'Big Balls' - NBC News
-- Chairman Comer Subpoenas Bill and Hillary Clinton, Former U.S. Attorneys General and FBI Directors, and Records Related to Jeffrey Epstein - United States House Committee on Oversight and Accountability - (.gov)
-- Missed signals, lost deal: How India-US trade talks collapsed - Reuters
-- GOP backlash or ‘Democrat op’? Town hall outrage generates split-screen reaction - Politico
+- Vance expected to host Epstein strategy dinner with Bondi, Blanche, Patel - ABC News
+- Rep. Mike Flood met with anger at Nebraska town hall - The Washington Post
 - ‘If this fails, he'll have egg on his face’: Gavin Newsom bets political future on redistricting power play - Politico
-- The Owl Bar was the place where everybody knew your name. Then, a familiar face walked in – and opened fire - CNN
 - Police identify body found in Montauk as 33-year-old Manhattan woman - ABC News
+- Girlfriend of Tennessee killings suspect was related to the victims. Here’s what we know - CNN
 - Japan marks 80th anniversary of atomic bombing in Hiroshima - ABC News
-- Israeli government and army chiefs split over Gaza strategy - Financial Times
-- Italy greenlights a $15.5 billion project to build bridge linking Sicily to the mainland - AP News
-- American journalist found after going missing on hike in Norwegian national park - CNN
-- Disney Sees Theme Park & Streaming Profit, Studio Red Ink In FYQ3 Amid Flurry Of ESPN News - Deadline
-- McDonald’s Sales Rebound After Burger Giant Hammers Value Message - The Wall Street Journal
+- What is Netanyahu planning with Gaza’s ‘full occupation,’ and why is the IDF chief so worried? - The Times of Israel
+- Georgian journalist is convicted of slapping a police chief at a protest and gets 2 years in prison - AP News
+- A bird dropped a fish on power lines and sparked a brush fire in Canada, firefighters say - AP News
+- Disney Forecasts Stronger Streaming, Parks Growth as Cord-Cutting Continues - The Wall Street Journal
+- McDonald’s Sales Return to Growth, Pushed by Promotions - The New York Times
 - Trump says four candidates in running for Fed chair, rules out Bessent - Al Jazeera
-- Trump teases stepwise tariff plan for pharma - Axios
-- Microsoft Launches Project Ire to Autonomously Classify Malware Using AI Tools - The Hacker News
-- Samsung promises One UI 8 for more Galaxy Watch models ‘later this year’ - 9to5Google
+- S&P 500 rises as investors assess McDonald's and other corporate earnings: Live updates - CNBC
+- The iOS 26 Beta Just Unveiled New Details About the Apple Watch Ultra 3 - CNET
+- New study sheds light on ChatGPT’s alarming interactions with teens - AP News
