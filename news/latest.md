@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-06 01:51_
+_Updated: 2025-08-06 04:52_
 
-- Bill and Hillary Clinton subpoenaed in congressional Epstein probe - BBC
-- Texas AG Paxton will try to expel Texas Democrats if they don’t return by Friday - Politico
-- Donald Trump’s attack on US labour statistics agency spooks investors - Financial Times
-- Suspect in Tennessee quadruple killing captured after week on the run - ABC News
-- Trump administration debating releasing transcript of Ghislaine Maxwell interview with DOJ, sources say - CNN
-- 'Vote him out!': Town hall erupts in anger at Nebraska GOP congressman over Trump megabill, policies - ABC News
+- Texas Gov. Abbott sues to remove alleged "ringleader" of Democratic walkout from office amid redistricting showdown - CBS News
+- House Oversight Committee subpoenas the Justice Department for Epstein files - NPR
+- California Democrats Look to Redraw House Map to Counter Texas G.O.P. - The New York Times
+- Fact check: Trump’s claims jobless numbers were 'rigged' - ABC News
+- Rep. Mike Flood met with anger at Nebraska town hall - The Washington Post
+- Titan submersible disaster that killed 5 on way to Titanic ruins was preventable, Coast Guard says - PBS
+- Tennessee executes man after legal battle over heart device - The Washington Post
+- 4-Day Manhunt Yields No Confirmed Sighting of Montana Suspect - The New York Times
 - Justice Department releases new list of so-called sanctuary jurisdictions - AP News
-- Tennessee executes Byron Black despite concerns about his defibrillator - Al Jazeera
-- Georgia GOP worries Senate race will turn into Trump vs. Kemp proxy war - Politico
-- Whitmer is trying to leverage her relationship with Trump again — this time on tariffs and Medicaid - CNN
-- Sweden, Norway, Denmark give $500 million to NATO project to send US weapons to Ukraine - Reuters
-- Israeli military presents Netanyahu with options for expanding Gaza operation - The Washington Post
-- Hunger-striking women demand Israel return the body of Palestinian activist killed in settler clash - yahoo.com
+- Trump threatens federal takeover of D.C. after attack on DOGE worker - The Washington Post
+- NATO to coordinate regular and large-scale arm deliveries to Ukraine. Most will be bought in the US - AP News
+- Military chief said to clash with Netanyahu over plans to conquer Gaza, son’s tweet - The Times of Israel
+- Rescuers in Norway search for missing US journalist Alec Luhn - BBC
 - UN Security Council Meets to Discuss Israel-Gaza War and Hostages - The New York Times
-- Trump says JPMorgan, Bank of America rejected his deposits - Politico
-- Swiss President, Economy Minister to Fly to US for Talks - Bloomberg.com
+- White House to target banks as Trump claims discrimination - Reuters
 - Palantir CEO warns of America’s AI ‘danger zone’ as he plans to bring ‘superpowers’ to blue-collar workers - Fortune
-- Trump narrows Fed chair candidates to four, excluding Treasury Secretary Bessent - AP News
-- Motorola and Swarovski team up for a super fancy Razr - Engadget
-- ElevenLabs launches an AI music generator, which it claims is cleared for commercial use - TechCrunch
+- AI is already impacting the labor market, starting with young tech workers, Goldman economist says - CNBC
+- OpenAI in Talks for Share Sale Valuing Startup at $500 Billion - Bloomberg.com
+- Battlefield 6 open beta maps and modes shared, as EA write an essay about tweaks based on Labs feedback - Rock Paper Shotgun
+- Someone is folding the Galaxy Z Fold 7 200,000 times live on YouTube (Updated: Still going) - Android Authority
