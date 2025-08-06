@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-06 16:57_
+_Updated: 2025-08-06 17:53_
 
-- Texas lawmakers have walked out even before current redistricting battle - ABC News
 - Trump raises India tariffs to 50% over Russian oil purchases - CNBC
-- Trump's envoy Witkoff meets Putin as ceasefire deadline looms - BBC
-- Coast Guard report: Titan submersible implosion that killed 5 "preventable" - Axios
-- RFK Jr. pulls $500 million in funding for mRNA vaccine contracts - NPR
-- Trump Suggests Vance is MAGA Movement’s Heir Apparent - The New York Times
-- Ghislaine Maxwell told DOJ Trump never did anything concerning around her: Sources - ABC News
-- Furious voters are flooding lawmakers’ town halls. Republicans aren’t worried. - Politico
-- Commentary: Newsom vows Texas will be 'neutered' by California. Will voters let him do it? - Los Angeles Times
+- Texas redistricting battle escalates as Abbott asks court to remove Democratic lawmaker - ABC News
+- Trump Threatens Federal Takeover of Washington After Member of DOGE Is Assaulted - The New York Times
+- Could RFK Jr's move to pull mRNA vaccine funding be a huge miscalculation? - BBC
+- Trump imposes first penalties on Russia as Witkoff meets Putin - Axios
+- Coast Guard says Titan submersible deaths were preventable and faults company's CEO - NPR
 - Sen. Marsha Blackburn announces she's running for governor in Tennessee - NBC News
+- Furious voters are flooding lawmakers’ town halls. Republicans aren’t worried. - Politico
+- ‘If this fails, he'll have egg on his face’: Gavin Newsom bets political future on redistricting power play - Politico
+- Police identify body found in Montauk as 33-year-old Manhattan woman - ABC News
 - Japan marks 80th anniversary of atomic bombing in Hiroshima - ABC News
-- Despite Opposition, Netanyahu’s Cabinet to Discuss Gaza Military Push - The New York Times
-- Italy OK's $15.5 billion construction of world's longest suspension bridge, from Sicily to mainland - CBS News
-- Terrible thirst hits Gaza with polluted aquifers and broken pipelines - Reuters
+- Alec Luhn, Missing American Hiker, Is Found Alive in Norway - The New York Times
+- Israeli military chief opposes Gaza war expansion, raising pressure on Netanyahu - Reuters
+- Italy gets final approval for €13.5B Sicily bridge project - politico.eu
+- Tim Cook to join Trump at White House for Apple investment announcement - CNBC
 - McDonald’s Sales Rebound After Burger Giant Hammers Value Message - The Wall Street Journal
-- Trump, Apple to Announce Fresh $100 Billion US Investment - Bloomberg.com
-- Trump says four candidates in running for Fed chair, rules out Bessent - Al Jazeera
-- S&P 500 rises as investors assess McDonald's and other corporate earnings: Live updates - CNBC
-- The iOS 26 Beta Just Unveiled New Details About the Apple Watch Ultra 3 - CNET
-- Apple iPhone 17 Pro, iPhone 17 Air: New Leaks Show Unprecedented Design Changes - Forbes
+- S&P 500 and Nasdaq lifted by earnings, Fed hopes - Reuters
+- Disney Revenue and Profits Rise as It’s “Experimenting Like Crazy” in New Streaming Push - The Hollywood Reporter
+- Microsoft’s plan to fix the web with AI has already hit an embarrassing security flaw - The Verge
+- Instagram takes on Snapchat with new ‘Instagram Map’ - TechCrunch
