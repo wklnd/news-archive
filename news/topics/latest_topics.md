@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-07 00:47_
+_Updated: 2025-08-07 01:43_
 
 ## Top Stories
 
-- USA och Ryssland möttes i Moskva: ”Stora framsteg” - DN
-- Villa brinner i Tingsryd – en till sjukhus - Aftonbladet
+- Trump: ”Stora framsteg” i samtal med Putin - GP
+- DN Direkt - En till sjukhus efter kraftig villabrand - DN.se - DN
+- NYT: Trump vill träffa Putin och Zelenskyj samtidigt - Hufvudstadsbladet
 - Flyg på väg till Landvetter tvingades landa – passagerare omhändertagen - SVT Nyheter
 - Hjälpen från luften gav bilderna av förstörelsen - DN
-- M-ministrarna slår tillbaka mot Buschs kritik: ”Förstår att beslutet väcker känslor” - DN
 - Norge kan ha tjänat miljoner på kriget i Gaza - DN
+- M-ministrarna slår tillbaka mot Buschs kritik: ”Förstår att beslutet väcker känslor” - DN
 - 80 år sedan atombomben i Hiroshima - SVT Nyheter
-- Försvaret och polisen övar med helikoptrar i centrala Stockholm - Expressen
+- Beskedet till de badsugna: Strandbadet i Inre hamnen stängs - NT
 - 16-årig flicka ville knivmörda småbarn på sin tidigare skola - Expressen
-- Flera fall av bedrägerier mot äldre - Expressen
-- Fem skadade i skjutning på militäranläggning i Georgia - DN
-- Sydafrika: Tvingades mata grisarna med mordoffer - GP
-- Expert: Amerikanska strafftullar skulle slå hårt mot ryska krigsekonomin - DN
+- Mördade svarta kvinnor matades till grisar i Sydafrika - DN
 - Läkaren Ahed i Gaza tvingas ta mat från lastbil: ”Aldrig upplevt sådan förödmjukelse” - Hufvudstadsbladet
+- Fem skadade i skottlossning på militärbas i USA - GP
+- Expert: Amerikanska strafftullar skulle slå hårt mot ryska krigsekonomin - DN
 - Trumps nya hot: 250-procentiga tullar på läkemedel - Life Science Sweden
-- Skruvar ner BNP-prognos – pekar på USA:s tullar - Omni
-- Trump straffar Indien för oljeköp – nya tullar - Sydsvenskan
 - Ozempic-bolaget – från dansk frälsare till ekonomiskt sänke - SVT Nyheter
+- Skruvar ner BNP-prognos – pekar på USA:s tullar - Omni
+- Trump höjer tullar mot Indien – straffas för ryska oljeköp - DN
 - Kan Googles kommande AI-mobil knäcka Iphone 17? - Ny Teknik
 - Asus RTX 5080 Noctua Edition officiellt avtäckt - Nordichardware
 
@@ -30,23 +30,23 @@ _Updated: 2025-08-07 00:47_
 - Choice Hotels International Continues Global Expansion Through Consolidation of Investment in Choice Hotels Canada - Placera.se
 - AST SpaceMobile Announces Agreement to Acquire Global S-Band Spectrum Priority Rights Held under the International Telecommunication Union - Placera.se
 - Portugal: En växande hubb för global teknik - The Portugal News
+- Lenovo Brings Its Biggest-Ever Global Tech World Event to CES 2026 With an Immersive Experience at Sphere in Las Vegas - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Pyxus International Named as a Supplier Engagement Leader by CDP - Placera.se
-- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Lenovo Brings Its Biggest-Ever Global Tech World Event to CES 2026 With an Immersive Experience at Sphere in Las Vegas - Placera.se
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - BNY to Speak at the Barclays Global Financial Services Conference - Placera.se
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Oceania Cruises® Unveils a Global Journey of Discovery: The Kangaroo Route, aboard Oceania Vista - Placera.se
-- Liberty International i Stockholm växer - travelnews.se
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- EQTY Global Growth II: En genomtänkt strategi för att bygga värde - The Portugal News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 
 ## Technology
 
@@ -64,12 +64,12 @@ _Updated: 2025-08-07 00:47_
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 
 ## Business
 
@@ -96,25 +96,25 @@ _Updated: 2025-08-07 00:47_
 
 ## Health
 
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Johan von Schreeb - Karolinska Institutet
-- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Europeisk konferens för socialmedicin: Praktik, teori och handling för en hälsosammare framtid - Svenska Läkaresällskapet
+- Johan von Schreeb - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
@@ -145,20 +145,20 @@ _Updated: 2025-08-07 00:47_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Jordbruk och landsbygdsutveckling - European Commission
-- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- De gick från reko till eko - ST-tidningen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Här är världens största jordbruk - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
