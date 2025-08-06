@@ -1,70 +1,70 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-06 17:47_
+_Updated: 2025-08-06 18:54_
 
 ## Top Stories
 
-- Helt övertänt vid villabrand – kvinna förd till sjukhus - Smålandsposten
+- M-ministrarna slår tillbaka mot Buschs kritik: ”Förstår att beslutet väcker känslor” - DN
+- Villa brinner i Tingsryd – en till sjukhus - Aftonbladet
+- Witkoff möter Putin i Moskva: Detta handlar samtalen om - SVT Nyheter
+- Våldtäkt på offentlig toalett i centrala Stockholm - SVT Nyheter
 - Myndighet läckte 150 namn på arbetssökande - GP
-- Putin i möte med Trumps sändebud i Kreml - DN
-- DN Direkt - Minst en svensk evakueras från Gaza - DN.se - DN
-- Trump: Vance trolig presidentkandidat 2028 - Aftonbladet
-- Sparkas för misstänkt gängkoppling – får 16 månadslöner i fallskärm - DN
-- DN Direkt - Utrikesministerns svar till Busch: ”Naturligt att fokus hamnade på Israel” - DN.se - DN
+- Minst en svensk på väg ut från Gazaremsan - Västerbottens-Kuriren
 - Nu ska stenmården utrotas i Sverige - DN
 - Så tar sig ohyra in i svenska hem efter semestern - DN
-- KD-topp i Botkyrka avgår – kallade Prideparaden ”förvirringens tåg” - SVT Nyheter
-- Ny president installerad i Polen - SVT Nyheter
+- 80 år sedan atombomben över Hiroshima - SVT Nyheter
+- SMHI om varningen för Floris: "ropade lite på vargen" - GP
+- DN Direkt - Skjutning på militäranläggning i Georgia - DN.se - DN
 - Mördade svarta kvinnor matades till grisar i Sydafrika - DN
 - Karl Dalén: Den amerikanska demokratin är satt under press - DN
-- Dousa: EU:s vapen ännu laddade - GP
-- KI: Låg konsumtion sänker svensk tillväxt - SvD
+- Läkaren Ahed i Gaza tvingas ta mat från lastbil: ”Aldrig upplevt sådan förödmjukelse” - Hufvudstadsbladet
 - Trumps nya hot: 250-procentiga tullar på läkemedel - Life Science Sweden
-- Trump dubblar Indiens tullar – höjs till 50 procent - Dagens industri
+- KI: Låg konsumtion sänker svensk tillväxt - SvD
 - Flytvästar återkallas – risk för punktering - Aftonbladet
-- Turtle Beach släpper tre nya spelrattar. Lite för varje. - Feber se.
+- Ökande konkurrens från Kina stort hot mot arbetsmarknaden i euroområdet - ECB-ekonomer - Börsvärlden
 - Googles Genie 3 skapar interaktiva världar i realtid - Omni
+- Kan Googles kommande AI-mobil knäcka Iphone 17? - NyTeknik
 
 ## World News
 
 - Choice Hotels International Continues Global Expansion Through Consolidation of Investment in Choice Hotels Canada - Placera.se
+- Lenovo Brings Its Biggest-Ever Global Tech World Event to CES 2026 With an Immersive Experience at Sphere in Las Vegas - Placera.se
+- Portugal: En växande hubb för global teknik - The Portugal News
 - AST SpaceMobile Announces Agreement to Acquire Global S-Band Spectrum Priority Rights Held under the International Telecommunication Union - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Pyxus International Named as a Supplier Engagement Leader by CDP - Placera.se
-- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Lenovo Brings Its Biggest-Ever Global Tech World Event to CES 2026 With an Immersive Experience at Sphere in Las Vegas - Placera.se
-- EQTY Global Growth II: En genomtänkt strategi för att bygga värde - The Portugal News
-- Canopy Growth Expands Global Medical Portfolio with Launch of 7ACRES in Australia - Placera.se
 - BNY to Speak at the Barclays Global Financial Services Conference - Placera.se
 - Oceania Cruises® Unveils a Global Journey of Discovery: The Kangaroo Route, aboard Oceania Vista - Placera.se
-- Liberty International i Stockholm växer - travelnews.se
-- Portugal: En växande hubb för global teknik - The Portugal News
+- Arrow Global förvärvar Troia Resort - The Portugal News
+- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 
 ## Technology
 
-- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
+- Lantern Pharma Announces Public Release of Transformative, Advanced AI Module for Blood-Brain Barrier Permeability Prediction, predictBBB.ai - Placera.se
 - Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
+- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - EY.ai | EY - Sverige - EY
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
@@ -73,15 +73,15 @@ _Updated: 2025-08-06 17:47_
 
 ## Business
 
-- Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$947 Million (C$1.3 Billion) in AUM, and Monthly Net Inflows of US$14.4 Million (C$19.8 Million) in July 2025, Among Other Key Developments - Placera.se
+- Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Selective Director Steps Down to Focus on Founder Role - Placera.se
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Accord Announces Banking Facility Update - Placera.se
@@ -120,25 +120,25 @@ _Updated: 2025-08-06 17:47_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Högskola, forskning och rymd - Regeringen.se
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
-- Simple math behind major bison blunder - Forskning & Framsteg
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- E-infrastruktur för livsvetenskap får SSF-anslag - Uppsala universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
-- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
 
 ## Jordbruk
 
@@ -158,7 +158,7 @@ _Updated: 2025-08-06 17:47_
 - Små jordbruk kan mätta fler - FoodMonitor
 - Tio jordbruksaktier för depån - Placera.se
 - Hon blir verksamhetschef på Sweden Food Arena - Mynewsdesk
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- CNH Industrial joins DataConnect - Mynewsdesk
 - Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
 - Globalt jordbruk förorenar mer vatten än industrin - Land Lantbruk
