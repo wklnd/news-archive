@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-06 07:54_
+_Updated: 2025-08-06 08:58_
 
 ## Top Stories
 
+- VMA i Nässjö – kraftig brand i flerfamiljshus - SVT Nyheter
 - DN Direkt - Misstänkt skottlossning i Katrineholm: ”Är vår hypotes” - DN.se - DN
+- Kvinna hittad död i bostad – man anhållen - Aftonbladet
 - Trump redo med sanktioner mot Rysslands skuggflotta - Omni
-- USA:s sändebud har landat i Moskva - SvD
-- Här kan du köpa din egen ö i Kronoberg - Smålandsposten
 - FN: Israels plan för Gaza ”djupt alarmerande” – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Segregering ger ökad otrygghet i Alvesta – det tror ungdomar - Smålandsposten
-- DN Direkt - Ebba Busch: Öppna svensk ambassad i Jerusalem - DN.se - DN
+- Expert efter Buschs Jerusalemutspel: “Väldigt märkligt” - DN
 - Världen törstar efter koppar – nu öppnas gamla gruvor - DN
-- Nedfallna träd och strömavbrott i spåren efter stormen Floris - NWT
-- Person hittad död i flerfamiljshus – stor polisinsats i Malmö - Expressen
 - 80 år sedan atombomben över Hiroshima - Hufvudstadsbladet
-- DN Direkt - Stor skogsbrand rasar i Frankrike – en död - DN.se - DN
-- Vill annektera Västbanken: ”Guldläge för Israel” - GP
-- Militärt motstånd mot plan om Gaza - SVT Nyheter
+- Nedfallna träd och strömavbrott i spåren efter stormen Floris - NWT
+- Misstänkt skottlossning i Örebro under natten - Nerikes Allehanda
+- Trumps deadline närmar sig – uppgifter om att Ryssland överväger eftergifter - DN
+- Kvinna död i skogsbrand i södra Frankrike - GP
+- Många döda när lastbil med nödhjälp välte i Gaza - Västerbottens-Kuriren
+- Vill annektera Västbanken: ”Guldläge för Israel” - Hallandsposten
 - Dags för Trumps tullar – eller? ”Ingen som fattar” - SvD
 - Efter kraschen: Novo Nordisk lovar åtgärder - Dagens industri
 - Open AI justerar Chat GPT – ska inte ge direkt livsavgörande råd - Expressen
-- Tesla stäms av aktieägare: robotaxi-bluff - Dagens PS
+- DN Direkt - Problem hos Handelsbanken – går inte att logga in - DN.se - DN
 - Open AI släpper nya modeller i kampen mot Deepseek - Omni
 - Efter veckor med Samsung Galaxy Z Flip 7 är jag övertygad: vikbara mobiler är bäst – och jag tänker inte gå tillbaka till platta telefoner - TechRadar
 
@@ -39,14 +39,14 @@ _Updated: 2025-08-06 07:54_
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Canopy Growth Expands Global Medical Portfolio with Launch of 7ACRES in Australia - Placera.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - BNY to Speak at the Barclays Global Financial Services Conference - Placera.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 
 ## Technology
 
@@ -68,12 +68,12 @@ _Updated: 2025-08-06 07:54_
 - Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 
 ## Business
 
-- New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Accord Announces Banking Facility Update - Placera.se
@@ -83,16 +83,16 @@ _Updated: 2025-08-06 07:54_
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
 - Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 
 ## Health
 
@@ -143,22 +143,22 @@ _Updated: 2025-08-06 07:54_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Jordbruk och landsbygdsutveckling - European Commission
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - Food Supply SE
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
-- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
