@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-06 18:59_
+_Updated: 2025-08-06 19:53_
 
 - 5 soldiers injured in shooting at Fort Stewart in Georgia - ABC News
-- Trump hits India with extra 25% tariff for buying Russian oil - BBC
-- How Texas Republicans want to dismantle Democratic districts - CNN
-- Trump Threatens Federal Takeover of Washington After Member of DOGE Is Assaulted - The New York Times
-- Marsha Blackburn mounts a run for governor - Politico
+- Trump threatens 50% tariffs on India for buying Russian oil - BBC
 - Trump imposes first penalties on Russia as Witkoff meets Putin - Axios
+- How Texas Republicans want to dismantle Democratic districts - CNN
+- RFK Jr. pulls $500 million in funding for mRNA vaccine contracts - NPR
+- Texas state lawmakers in Illinois evacuated from their hotel after threat - NBC News
 - ‘If this fails, he'll have egg on his face’: Gavin Newsom bets political future on redistricting power play - Politico
-- Rep. Mike Flood met with anger at Nebraska town hall - The Washington Post
-- Bomb threat prompts evacuation at Chicago hotel where some Texas Democrats are staying - CBS News
-- UC says Trump’s grant suspensions at UCLA total $584 million, a ‘death knell’ for research - Los Angeles Times
-- Even Hiroshima’s Pacifist Cause Is Losing Believers - The New York Times
+- Republican US Sen. Marsha Blackburn joins Tennessee race for governor - AP News
+- 60 years later, Voting Rights Act protections for minority voters face new threats - NPR
+- UCLA says the federal government has frozen more than a half-billion dollars of its research funds - CNN
+- As Hiroshima marks 80 years since U.S. atomic bombing, survivor says "nuclear weapons and humanity cannot co-exist" - CBS News
+- Alec Luhn, Missing American Journalist, Found Alive in Norway - The New York Times
 - Israeli military chief opposes Gaza war expansion, raising pressure on Netanyahu - Reuters
-- American journalist found after going missing on hike in Norwegian national park - CNN
-- Italy gets final approval for €13.5B Sicily bridge project - politico.eu
+- Italy okays $15.5 billion project to build world's longest suspension bridge from mainland to Sicily - AP News
 - Tim Cook to join Trump at White House for Apple investment announcement - CNBC
 - McDonald’s Sales Rebound After Burger Giant Hammers Value Message - The Wall Street Journal
-- S&P 500 and Nasdaq lifted by earnings, Fed hopes - Reuters
-- Disney Revenue and Profits Rise as It’s “Experimenting Like Crazy” in New Streaming Push - The Hollywood Reporter
-- Samsung's Galaxy S26 family 'reorganization' is just about etched in stone after this latest report - PhoneArena
-- Google is rolling out a fix for Pixel back button issues - The Verge
+- White House prepares order targeting banks as Trump claims discrimination - Reuters
+- Stock Market Today: Dow Rises As Apple Surges; Nvidia Rival Dives On Earnings (Live Coverage) - Investor's Business Daily
+- Instagram takes on Snapchat with new ‘Instagram Map’ - TechCrunch
+- Citizen Lab director warns cyber industry about US authoritarian descent - TechCrunch
