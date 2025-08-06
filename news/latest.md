@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-06 11:00_
+_Updated: 2025-08-06 11:55_
 
 - Gov. Greg Abbott asks Texas Supreme Court to remove House Democratic Chair Gene Wu - Dallas News
+- Witkoff lands in Russia as Trump’s sanctions threat looms - CNN
 - Bill and Hillary Clinton subpoenaed in congressional Epstein probe - BBC
 - Kennedy Cancels Nearly $500 Million in mRNA Vaccine Contracts - The New York Times
-- Missed signals, lost deal: How India-US trade talks collapsed - Reuters
-- What to know as Israel considers reoccupying Gaza in what would be a major escalation of the war - AP News
-- Coast Guard says Titan submersible deaths were preventable and faults company's CEO - NPR
-- Trump and Johnson face escalating GOP revolt on redistricting - Axios
-- Rep. Mike Flood met with anger at Nebraska town hall - The Washington Post
-- Trump threatens federal control of D.C. following attack on administration staffer known as 'Big Balls' - NBC News
-- Sheffield, Kinloch to face off in November general election - The Detroit News
-- World marks 80 years since US dropped atomic bomb on Japan as global powers still trade nuclear threats - CNN
+- India Braces for Pain as Trump Gives 24-Hour Warning on Tariffs - Bloomberg
+- Trump threatens federal takeover of D.C. after attack on DOGE worker - The Washington Post
+- GOP backlash or ‘Democrat op’? Town hall outrage generates split-screen reaction - Politico
+- California Democrats Look to Redraw House Map to Counter Texas G.O.P. - The New York Times
+- 4 dead after medical transport plane crashes while landing in Arizona: Authorities - ABC News
+- NYC gunman who blamed NFL for hiding brain injury dangers suffered from sports concussion, mom said - AP News
+- Military chief said to clash with Netanyahu over plans to conquer Gaza, son’s tweet - The Times of Israel
+- Rescuers in Norway search for missing US journalist Alec Luhn - BBC
+- NATO to coordinate regular and large-scale arm deliveries to Ukraine. Most will be bought in the US - AP News
 - Israel says Hamas is starving hostages; Security Council members say Israel is starving Palestinians - AP News
-- 4 European countries agree to buy a combined $1 billion in U.S. weapons for Ukraine - NPR
-- A Famous Palestinian Activist Killed in the Occupied West Bank - NPR
+- Trump Ramps Up Tariff Blitz With India, Pharma, Chips in Sights - Bloomberg
 - White House to target banks as Trump claims discrimination - Reuters
-- Trump Ramps Up Tariff Blitz With India, Pharma, Chips in Sights - Bloomberg.com
 - OpenAI in talks for share sale valuing ChatGPT maker at $500bn - Financial Times
-- Asian Traders Cautious as US Data Clouds Fed Path: Markets Wrap - Bloomberg.com
-- A YouTuber Tested The Galaxy Z Fold 7's Durability - Here's What Happened After 200,000 Folds - bgr.com
+- McDonald's is about to report earnings. Here's what to expect - CNBC
 - Apple back-to-school deals on iPads, AirPods and Apple Watches - CNN
+- Google is rolling out a fix for Pixel back button issues - The Verge
