@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-06 13:50_
+_Updated: 2025-08-06 15:28_
 
+- What to expect next in Texas’ redistricting standoff and whether Democrats can be expelled - CNN
+- Trump's envoy Witkoff meets Putin as ceasefire deadline looms - BBC
 - RFK Jr. pulls $500 million in funding for mRNA vaccine contracts - NPR
-- Bill and Hillary Clinton subpoenaed in congressional Epstein probe - BBC
-- Trump threatens federal takeover of D.C. after attack on DOGE worker - The Washington Post
-- 60 years later, Voting Rights Act protections for minority voters face new threats - NPR
-- Texas Democrats could be fined nearly $400,000 for fleeing the state - Politico
-- Witkoff meets with Putin as Trump’s sanctions threat looms - CNN
+- Trump threatens federal control of D.C. following attack on administration staffer known as 'Big Balls' - NBC News
+- Chairman Comer Subpoenas Bill and Hillary Clinton, Former U.S. Attorneys General and FBI Directors, and Records Related to Jeffrey Epstein - United States House Committee on Oversight and Accountability - (.gov)
+- Missed signals, lost deal: How India-US trade talks collapsed - Reuters
 - GOP backlash or ‘Democrat op’? Town hall outrage generates split-screen reaction - Politico
-- Sheffield, Kinloch to face off in November general election - The Detroit News
-- Trump and Johnson face escalating GOP revolt on redistricting - Axios
-- 4 Dead After Medical Transport Plane Crashes in Arizona - The New York Times
-- Katz defends IDF chief after PM’s son insinuates that he backs ‘military coup’ - The Times of Israel
-- Pilots take off on friendship flight to commemorate 80th anniversary of atomic bombings of Japan - CNN
-- Terrible thirst hits Gaza with polluted aquifers and broken pipelines - Reuters
-- 4 European countries agree to buy a combined $1 billion in U.S. weapons for Ukraine - NPR
-- Disney earnings top expectations as streaming, parks offset TV headwinds - CNBC
-- McDonald's is about to report earnings. Here's what to expect - CNBC
-- Trump Says JPMorgan and Bank of America Refused His Business - Bloomberg.com
-- Stock futures rise as investors parse earnings reports: Live updates - CNBC
-- Samsung Galaxy Tab S11 Ultra and Galaxy A07 bag a new round of certifications - GSMArena.com news - GSMArena.com
-- Apple back-to-school deals on iPads, AirPods and Apple Watches - CNN
+- ‘If this fails, he'll have egg on his face’: Gavin Newsom bets political future on redistricting power play - Politico
+- The Owl Bar was the place where everybody knew your name. Then, a familiar face walked in – and opened fire - CNN
+- Police identify body found in Montauk as 33-year-old Manhattan woman - ABC News
+- Japan marks 80th anniversary of atomic bombing in Hiroshima - ABC News
+- Israeli government and army chiefs split over Gaza strategy - Financial Times
+- Italy greenlights a $15.5 billion project to build bridge linking Sicily to the mainland - AP News
+- American journalist found after going missing on hike in Norwegian national park - CNN
+- Disney Sees Theme Park & Streaming Profit, Studio Red Ink In FYQ3 Amid Flurry Of ESPN News - Deadline
+- McDonald’s Sales Rebound After Burger Giant Hammers Value Message - The Wall Street Journal
+- Trump says four candidates in running for Fed chair, rules out Bessent - Al Jazeera
+- Trump teases stepwise tariff plan for pharma - Axios
+- Microsoft Launches Project Ire to Autonomously Classify Malware Using AI Tools - The Hacker News
+- Samsung promises One UI 8 for more Galaxy Watch models ‘later this year’ - 9to5Google
