@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-06 23:42_
+_Updated: 2025-08-07 00:47_
 
 ## Top Stories
 
 - USA och Ryssland möttes i Moskva: ”Stora framsteg” - DN
 - Villa brinner i Tingsryd – en till sjukhus - Aftonbladet
-- M-ministrarna slår tillbaka mot Buschs kritik: ”Förstår att beslutet väcker känslor” - DN
+- Flyg på väg till Landvetter tvingades landa – passagerare omhändertagen - SVT Nyheter
 - Hjälpen från luften gav bilderna av förstörelsen - DN
+- M-ministrarna slår tillbaka mot Buschs kritik: ”Förstår att beslutet väcker känslor” - DN
 - Norge kan ha tjänat miljoner på kriget i Gaza - DN
-- Norsk investering i israeliska företag kritiseras – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - 80 år sedan atombomben i Hiroshima - SVT Nyheter
-- Nu ska stenmården utrotas - GP
 - Försvaret och polisen övar med helikoptrar i centrala Stockholm - Expressen
 - 16-årig flicka ville knivmörda småbarn på sin tidigare skola - Expressen
+- Flera fall av bedrägerier mot äldre - Expressen
 - Fem skadade i skjutning på militäranläggning i Georgia - DN
 - Sydafrika: Tvingades mata grisarna med mordoffer - GP
 - Expert: Amerikanska strafftullar skulle slå hårt mot ryska krigsekonomin - DN
-- Ioannis talar över 30 språk – så lyckas han komma ihåg allt - DN
+- Läkaren Ahed i Gaza tvingas ta mat från lastbil: ”Aldrig upplevt sådan förödmjukelse” - Hufvudstadsbladet
 - Trumps nya hot: 250-procentiga tullar på läkemedel - Life Science Sweden
 - Skruvar ner BNP-prognos – pekar på USA:s tullar - Omni
-- Trump straffar Indien för oljeköp – nya tullar - SvD
-- Uppblåsbara flytvästar återkallas – kan punkteras - Aftonbladet
-- Kan Googles kommande AI-mobil knäcka Iphone 17? - NyTeknik
-- Dags att dricka öl igen i snart 100 år gammal Folkets park - Barometern-OT
+- Trump straffar Indien för oljeköp – nya tullar - Sydsvenskan
+- Ozempic-bolaget – från dansk frälsare till ekonomiskt sänke - SVT Nyheter
+- Kan Googles kommande AI-mobil knäcka Iphone 17? - Ny Teknik
+- Asus RTX 5080 Noctua Edition officiellt avtäckt - Nordichardware
 
 ## World News
 
 - Choice Hotels International Continues Global Expansion Through Consolidation of Investment in Choice Hotels Canada - Placera.se
-- Lenovo Brings Its Biggest-Ever Global Tech World Event to CES 2026 With an Immersive Experience at Sphere in Las Vegas - Placera.se
-- Portugal: En växande hubb för global teknik - The Portugal News
 - AST SpaceMobile Announces Agreement to Acquire Global S-Band Spectrum Priority Rights Held under the International Telecommunication Union - Placera.se
+- Portugal: En växande hubb för global teknik - The Portugal News
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Pyxus International Named as a Supplier Engagement Leader by CDP - Placera.se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
-- BNY to Speak at the Barclays Global Financial Services Conference - Placera.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Lenovo Brings Its Biggest-Ever Global Tech World Event to CES 2026 With an Immersive Experience at Sphere in Las Vegas - Placera.se
+- BNY to Speak at the Barclays Global Financial Services Conference - Placera.se
 - Oceania Cruises® Unveils a Global Journey of Discovery: The Kangaroo Route, aboard Oceania Vista - Placera.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Liberty International i Stockholm växer - travelnews.se
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 
 ## Technology
 
@@ -56,43 +56,43 @@ _Updated: 2025-08-06 23:42_
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - EY.ai | EY - Sverige - EY
-- Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF Föreningen för utvecklingsfrågor
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Digital Realty Teams with Oracle Solution Centers to Help Organizations Accelerate AI and Cloud Innovation - Placera.se
+- Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 
 ## Business
 
 - Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
-- Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Accord Announces Banking Facility Update - Placera.se
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- WBCSD: Över hälften redovisar dubbel väsentlighetsanalys - Miljö & Utveckling
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
-- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
+- WBCSD: Över hälften redovisar dubbel väsentlighetsanalys - Miljö & Utveckling
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
+- New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$947 Million (C$1.3 Billion) in AUM, and Monthly Net Inflows of US$14.4 Million (C$19.8 Million) in July 2025, Among Other Key Developments - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -121,24 +121,24 @@ _Updated: 2025-08-06 23:42_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- 5 myter om öppen vetenskap - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Högskola, forskning och rymd - Regeringen.se
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 
 ## Jordbruk
 
