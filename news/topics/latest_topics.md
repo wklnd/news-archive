@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-06 04:39_
+_Updated: 2025-08-06 06:30_
 
 ## Top Stories
 
-- DN Direkt - Ebba Busch: Öppna svensk ambassad i Jerusalem - DN.se - DN
 - 05 augusti 21.54, Skottlossning, misstänkt, Katrineholm - polisen.se
-- Trumps deadline närmar sig – uppgifter om att Ryssland överväger eftergifter - DN
+- Expert efter Busch Jerusalemutspel: “Väldigt märkligt” - DN
+- Emelie, 35, lurade döden – men varje år drunknar 200 - Aftonbladet
 - Här kan du köpa din egen ö i Kronoberg - Smålandsposten
-- Trump om möjlig ockupation: ”Upp till Israel” – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Floris blåser vidare efter tågstopp och elavbrott - Sydsvenskan
+- Gaza: Många dödade vid hjälpsändningar - GP
+- Trumps deadline närmar sig – uppgifter om att Ryssland överväger eftergifter - DN
+- Nedfallna träd och strömavbrott i spåren efter stormen Floris - NWT
 - Läckta samtalet: Här rekryteras svensken av terrorledaren - SVT Nyheter
-- SMHI varnar för skyfall i Västerbotten - Västerbottens-Kuriren
-- 108 björnar får fällas vid årets licensjakt - Östersunds-Posten
 - Larmet från Kina: 7 000 smittade av sjukdomen - Expressen
+- SMHI varnar för skyfall i Västerbotten - Västerbottens-Kuriren
 - Libanon vill ha kontroll över vapnen i landet - GP
+- DIREKT: Dödliga anfall och intagen by i Ukraina - Sydsvenskan
 - Upprört om Texas valkarta: ”Ett krig” - Västerbottens-Kuriren
-- Sverige bidrar med 2,7 miljarder till Ukraina - Corren
-- Person på sparkcykel påkörd i Bjuv - HD
-- Novo Nordisk-aktien nedgraderades när Trump hintade om 250% läkemedelstullar - Invezz
+- Misstänkt anlagd brand i flerbostadshus på Lidingö i Stockholm - SVT Nyheter
+- Dags för Trumps tullar – eller? ”Ingen som fattar” - SvD
+- Open AI justerar Chat GPT – ska inte ge direkt livsavgörande råd - Expressen
+- Tesla stäms av aktieägare: robotaxi-bluff - Dagens PS
 - Hyresförhandlingar för 2026 inleds - Fastighetstidningen
-- Thailand vill köpa fyra Jas Gripen – kan strida mot svenska regler - tidningensyre.se
-- 100-åringar förvånansvärt friska - Aftonbladet
 - Open AI släpper nya modeller i kampen mot Deepseek - Omni
 - Efter veckor med Samsung Galaxy Z Flip 7 är jag övertygad: vikbara mobiler är bäst – och jag tänker inte gå tillbaka till platta telefoner - TechRadar
 
@@ -46,7 +46,7 @@ _Updated: 2025-08-06 04:39_
 - BNY to Speak at the Barclays Global Financial Services Conference - Placera.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
-- Arrow Global förvärvar Troia Resort - The Portugal News
+- Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
 
 ## Technology
 
@@ -68,31 +68,31 @@ _Updated: 2025-08-06 04:39_
 - Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 
 ## Business
 
-- Selective Director Steps Down to Focus on Founder Role - Placera.se
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Accord Announces Banking Facility Update - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Faciliteten för återhämtning och resiliens - European Commission
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Årets Genomlysare blottar finansmarknadens dolda vrår - Privata Affärer
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
-- Dubbelvinst för Nordea i Sverige – rankas etta för Small- och Mid Corporates - Nordea
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- WBCSD: Över hälften redovisar dubbel väsentlighetsanalys - Miljö & Utveckling
 - Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 
 ## Health
 
@@ -102,63 +102,63 @@ _Updated: 2025-08-06 04:39_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Högskola, forskning och rymd - Regeringen.se
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Simple math behind major bison blunder - Forskning & Framsteg
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- E-infrastruktur för livsvetenskap får SSF-anslag - Uppsala universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Möt forskare i Umeå digitalt på ForskarFredag den 27 november! - Mynewsdesk
+- Science and SciLifeLab Prize för unga forskare till miljövetare David Seekell - Mynewsdesk
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Jordbruk och landsbygdsutveckling - European Commission
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- KSLA-podden 13: Future Food Systems – genetic engineering in future agriculture - Mynewsdesk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
