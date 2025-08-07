@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-07 13:50_
+_Updated: 2025-08-07 15:27_
 
-- Trump's 'reciprocal' tariffs come into effect, hitting dozens of U.S. trading partners - CNBC
-- Trump will meet with Putin to discuss the war in Ukraine, according to Russia - NPR
-- What we know about Fort Stewart shooting that injured 5 soldiers - Axios
+- Trump’s broad tariffs go into effect, just as economic pain is surfacing - AP News
+- Kremlin says Putin agreed to Trump meeting 'in the coming days' - ABC News
+- U.S. Army sergeant suspected of shooting, wounding five soldiers at Fort Stewart in Georgia - Reuters
+- Trump demands a new census that excludes unauthorized residents - Axios
+- As Texas pushes redistricting plan to add 5 GOP House seats before 2026 elections, other states may follow - CBS News
 - Trump threatens to deploy National Guard in D.C., take over police department - The Washington Post
-- FBI responds to request for help in finding Texas House Democrats, Sen. John Cornyn says - Dallas News
-- Inside one pastor’s crusade for Christian domination in the age of Trump - CNN
-- Sen. Marsha Blackburn enters race for Tennessee governor - Axios
-- Border patrol agents jump out of rental truck and ambush people at LA Home Depot - The Guardian
+- India isn’t flinching: Why Trump might be misreading India’s tariff playbook - CNBC
+- Federal Agents in L.A. Conduct a Big Immigration Raid at a Home Depot - The New York Times
+- Texas Democrats evacuated from Illinois hotel over potential bomb threat - The Washington Post
 - Mexico was the only country to get a 90-day tariff reprieve from Trump. Here’s why. - Politico
-- Shooting at Tacoma's MultiCare Allenmore Hospital leaves man dead, woman injured - KOMO
-- Netanyahu Weighs Expanding Gaza Military Operation Despite Warnings - The New York Times
+- Benjamin Netanyahu to present plan for full occupation of Gaza - Financial Times
+- Intact body of missing father found on melting Pakistan glacier 28 years after he vanished - CBS News
 - For Gaza’s residents, daily life a Sisyphean struggle for simplest necessities - The Times of Israel
-- ‘Unbelievable’: Body found almost intact after 28 years in Pakistan's melting glacier - How did it happen - Times of India
-- Photos of Hiroshima and Nagasaki in 1945 and today - CBS News
+- Hiroshima survivors fear rising nuclear threat on the 80th anniversary of atomic bombing - NPR
+- Bank of England committee was so divided there were two votes on interest rates - MarketWatch
+- Intel shares drop after Trump calls for CEO to resign immediately - CNBC
 - United Airlines passengers in US delayed after tech glitch halts flights - BBC
-- Lilly reports second-quarter 2025 financial results and raises guidance - Eli Lilly and Company
-- The hottest stock on Wall Street is a cryptic company you’ve never heard of - CNN
-- AT&T just made it official: Workplace loyalty is dead - Business Insider
-- Google Pixel 10 teasers make fun of Apple iPhone, say: If you buy a new phone because of ... - Times of India
+- Still no sign of rising layoffs in jobless claims. U.S. has a low-hire, low-fire labor market. - MarketWatch
 - A Single Poisoned Document Could Leak ‘Secret’ Data Via ChatGPT - WIRED
+- Still live: One of the best prices ever on 24GB M4 Mac mini at $699 + 48GB and 64GB models at $200 off - 9to5Toys
