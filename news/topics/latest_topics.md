@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-07 09:46_
+_Updated: 2025-08-07 10:54_
 
 ## Top Stories
 
-- DN Direkt - Airtag ledde polisen till cykelgömma i Stockholm - DN.se - DN
+- Rubio: Många hinder kvar för möte med Putin - SVT Nyheter
 - Explosion i flerfamiljshus i Kristianstad - gp.se
 - Läkemedelskopia väcker oro bland kroniskt sjuka - DN
 - Festivalen har blivit fyra gånger dyrare - Sydsvenskan
-- Här är kropparna du inte ser på Tiktok - gp.se
 - Svenska syskonen ute ur Gaza: ”Sett saker de aldrig borde ha sett” - Aftonbladet
+- Uppgift: Total ockupation av Gaza i flera månader - SVT Nyheter
 - M-ministrarna slår tillbaka mot Buschs kritik: ”Förstår att beslutet väcker känslor” - DN
-- Way Out West varnar för falska biljetter - gp.se
+- Nu ska stenmården utrotas i Sverige - DN
 - Ung kvinna död i singelolycka - Västerbottens-Kuriren
 - 80 år sedan atombomben i Hiroshima - SVT Nyheter
 - Böter på Autobahn – förare körde i 320 kilometer i timmen - Sydsvenskan
+- Tyska extremister gripna – utreds för terrorbrott - Västerbottens-Kuriren
 - Två döda i rysk attack mot semesteranläggning - gp.se
-- Källor: Netanyahu planerar utrymning av Gaza stad - DN
-- Rubio: Många hinder kvar för möte med Putin - SVT Nyheter
-- Trumps tullar har införts – ett land drabbas oväntat hårt - Aftonbladet
-- KPIF-inflationen steg mindre än väntat i juli - Fastighetsnytt
-- Trump: 100 procent tull på mikrochip - gp.se
+- Norsk investering i israeliska företag kritiseras – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Nationalekonom om Trumps tullavtal med EU: ”Löst muntligt avtal” - Yle
+- Högre inflation i juli - SVT Nyheter
+- Trump hotar att införa 100-procentiga handelstullar på mikrochip och halvledare - Yle
 - Så räddar du ekonomin efter semestern – experternas bästa tips - DN
 - Antireflexskärmar och bättre batteri: Alla rykten om Iphone 17 - Expressen
 - Sonos smartassistent blir kompatibel med Philips Hue - m3.se
@@ -29,24 +29,24 @@ _Updated: 2025-08-07 09:46_
 
 - Choice Hotels International Continues Global Expansion Through Consolidation of Investment in Choice Hotels Canada - Placera.se
 - Lenovo Brings Its Biggest-Ever Global Tech World Event to CES 2026 With an Immersive Experience at Sphere in Las Vegas - Placera.se
-- Portugal: En växande hubb för global teknik - The Portugal News
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - AST SpaceMobile Announces Agreement to Acquire Global S-Band Spectrum Priority Rights Held under the International Telecommunication Union - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- BIG Travel går in i globalt partnerskap - travelnews.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Oceania Cruises® Unveils a Global Journey of Discovery: The Kangaroo Route, aboard Oceania Vista - Placera.se
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
+- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
 - Arrow Global förvärvar Troia Resort - The Portugal News
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- Canopy Growth Expands Global Medical Portfolio with Launch of 7ACRES in Australia - Placera.se
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- Oceania Cruises® Unveils a Global Journey of Discovery: The Kangaroo Route, aboard Oceania Vista - Placera.se
 
 ## Technology
 
@@ -64,11 +64,11 @@ _Updated: 2025-08-07 09:46_
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
 - Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 
 ## Business
@@ -78,21 +78,21 @@ _Updated: 2025-08-07 09:46_
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Faciliteten för återhämtning och resiliens - European Commission
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Accord Announces Banking Facility Update - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Finance Minister: Economic situation still uncertain - Sveriges Radio
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- Ping An Ranks 47th on 2025 Fortune Global 500 List, Marking 16th Year on List - Placera.se
+- New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 
 ## Health
 
@@ -102,43 +102,43 @@ _Updated: 2025-08-07 09:46_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Thermo Fisher Scientific och DHL Express samarbetar för att minska växthusgasutsläppen från global frakt för klinisk forskning och främjar mer hållbara lösningar för livsförändrande mediciner - Mynewsdesk
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- E-infrastruktur för livsvetenskap får SSF-anslag - Uppsala universitet
-- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
-- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 
 ## Jordbruk
 
