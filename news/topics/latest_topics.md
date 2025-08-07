@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-07 07:52_
+_Updated: 2025-08-07 08:58_
 
 ## Top Stories
 
-- NYT: Trump vill träffa Putin och Zelenskyj samtidigt - Hufvudstadsbladet
-- Explosion i flerfamiljshus i Kristianstad - Skånska Dagbladet
-- Flyg på väg till Landvetter tvingades landa – passagerare omhändertagen - SVT Nyheter
-- Här är kropparna du inte ser på Tiktok - gp.se
-- Henrik Jönsson: Journalisters partiskhet hotar trovärdigheten - gp.se
-- Ledare: Känslomässig masshysteri om Gaza - NWT
+- Chefsekonom: Inflationen ”en kalldusch” för Riksbanken - Dagens industri
+- Explosion i flerfamiljshus i Kristianstad - gp.se
+- Festivalen har blivit fyra gånger dyrare - Sydsvenskan
+- Flyg till Göteborg fick nödlanda – passagerare betedde sig våldsamt - gp.se
+- Rubio: Många hinder kvar för möte med Putin - SVT Nyheter
+- Branden har blossat upp igen - Smålands Dagblad
 - M-ministrarna slår tillbaka mot Buschs kritik: ”Förstår att beslutet väcker känslor” - DN
 - Ung kvinna död i singelolycka vid Sätra Brunn i Sala kommun - SVT Nyheter
 - 80 år sedan atombomben över Hiroshima - Hufvudstadsbladet
 - Man saknas efter kraftig villabrand - Aftonbladet
 - Böter på Autobahn: Körde 200 över fartgränsen - gp.se
-- Två döda i rysk attack mot semesteranläggning - Västerbottens-Kuriren
+- Två döda i rysk attack mot semesteranläggning - gp.se
 - Källor: Netanyahu planerar utrymning av Gaza stad - DN
-- ”Finanskris största hotet mot rysk ekonomi” - Omni
+- Läkaren Ahed i Gaza tvingas ta mat från lastbil: ”Aldrig upplevt sådan förödmjukelse” - Hufvudstadsbladet
 - Trumps tullar har införts – ett land drabbas oväntat hårt - Aftonbladet
-- Trump hotar att införa 100-procentiga handelstullar på mikrochip och halvledare - Yle
-- Vita huset: Apple ska investera 970 miljarder i USA - Dagens industri
+- Trump: 100 procent tull på mikrochip – Apple bekräftar ökad tillverkning i USA - NyTeknik
+- Ozempic-bolaget – från dansk frälsare till ekonomiskt sänke - SVT Nyheter
 - Så räddar du ekonomin efter semestern – experternas bästa tips - DN
 - Antireflexskärmar och bättre batteri: Alla rykten om Iphone 17 - Expressen
-- Apple Watch Ultra 3 kan få större skärm - Macworld.se
+- Microsoft Gaming Copilot kommer till Windows - PC för Alla
 
 ## World News
 
 - Choice Hotels International Continues Global Expansion Through Consolidation of Investment in Choice Hotels Canada - Placera.se
-- AST SpaceMobile Announces Agreement to Acquire Global S-Band Spectrum Priority Rights Held under the International Telecommunication Union - Placera.se
+- Lenovo Brings Its Biggest-Ever Global Tech World Event to CES 2026 With an Immersive Experience at Sphere in Las Vegas - Placera.se
 - Portugal: En växande hubb för global teknik - The Portugal News
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- AST SpaceMobile Announces Agreement to Acquire Global S-Band Spectrum Priority Rights Held under the International Telecommunication Union - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Lenovo Brings Its Biggest-Ever Global Tech World Event to CES 2026 With an Immersive Experience at Sphere in Las Vegas - Placera.se
-- Arrow Global förvärvar Troia Resort - The Portugal News
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - Oceania Cruises® Unveils a Global Journey of Discovery: The Kangaroo Route, aboard Oceania Vista - Placera.se
-- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- Arrow Global förvärvar Troia Resort - The Portugal News
 
 ## Technology
 
@@ -75,24 +75,24 @@ _Updated: 2025-08-07 07:52_
 
 - Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Accord Announces Banking Facility Update - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Accord Announces Banking Facility Update - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Faciliteten för återhämtning och resiliens - European Commission
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
-- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
+- Dubbelvinst för Nordea i Sverige – rankas etta för Small- och Mid Corporates - Nordea
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
+- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
+- New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
+- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$947 Million (C$1.3 Billion) in AUM, and Monthly Net Inflows of US$14.4 Million (C$19.8 Million) in July 2025, Among Other Key Developments - Placera.se
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 
 ## Health
 
@@ -143,22 +143,22 @@ _Updated: 2025-08-07 07:52_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Jordbruk och landsbygdsutveckling - European Commission
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
