@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-07 10:54_
+_Updated: 2025-08-07 11:49_
 
 ## Top Stories
 
-- Rubio: Många hinder kvar för möte med Putin - SVT Nyheter
-- Explosion i flerfamiljshus i Kristianstad - gp.se
-- Läkemedelskopia väcker oro bland kroniskt sjuka - DN
+- Kreml: Putin och Trump möts ”i dagarna” - gp.se
+- MEDAN DU SOV: Här är nattens händelse - NLT
+- ”Bonusprins” blir av med diplomatpass - DN
+- Skogsbränderna i Frankrike fortsätter - gp.se
 - Festivalen har blivit fyra gånger dyrare - Sydsvenskan
-- Svenska syskonen ute ur Gaza: ”Sett saker de aldrig borde ha sett” - Aftonbladet
-- Uppgift: Total ockupation av Gaza i flera månader - SVT Nyheter
-- M-ministrarna slår tillbaka mot Buschs kritik: ”Förstår att beslutet väcker känslor” - DN
+- Här är kropparna du inte ser på Tiktok - gp.se
 - Nu ska stenmården utrotas i Sverige - DN
-- Ung kvinna död i singelolycka - Västerbottens-Kuriren
+- M-ministrarna slår tillbaka mot Buschs kritik: ”Förstår att beslutet väcker känslor” - DN
+- Ung kvinna död i singelolycka - gp.se
 - 80 år sedan atombomben i Hiroshima - SVT Nyheter
 - Böter på Autobahn – förare körde i 320 kilometer i timmen - Sydsvenskan
+- Uppgifter: Total ockupation av Gaza i fem månader - Hufvudstadsbladet
 - Tyska extremister gripna – utreds för terrorbrott - Västerbottens-Kuriren
-- Två döda i rysk attack mot semesteranläggning - gp.se
-- Norsk investering i israeliska företag kritiseras – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Trump: ”Stora framsteg har gjorts” – Senaste nytt om kriget i Ukraina - SVT Nyheter
 - Nationalekonom om Trumps tullavtal med EU: ”Löst muntligt avtal” - Yle
-- Högre inflation i juli - SVT Nyheter
-- Trump hotar att införa 100-procentiga handelstullar på mikrochip och halvledare - Yle
+- Högre inflation i juli – enligt förväntan - SvD
 - Så räddar du ekonomin efter semestern – experternas bästa tips - DN
+- Ozempic-bolaget – från dansk frälsare till ekonomiskt sänke - SVT Nyheter
 - Antireflexskärmar och bättre batteri: Alla rykten om Iphone 17 - Expressen
 - Sonos smartassistent blir kompatibel med Philips Hue - m3.se
 
@@ -36,17 +36,17 @@ _Updated: 2025-08-07 10:54_
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - DO Black - the world’s first credit card with a carbon limit - mastercard.com
 - ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
+- 1 426 potential victims identified in global operation against human trafficking - Europol
 - Arrow Global förvärvar Troia Resort - The Portugal News
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
-- Canopy Growth Expands Global Medical Portfolio with Launch of 7ACRES in Australia - Placera.se
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 - Oceania Cruises® Unveils a Global Journey of Discovery: The Kangaroo Route, aboard Oceania Vista - Placera.se
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 
 ## Technology
 
@@ -59,8 +59,8 @@ _Updated: 2025-08-07 10:54_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Intellistake Technologies Corp. Appoints Mario Casiraghi, Leading AI Digital Asset Ecosystem CFO at SingularityNET Foundation and CEO of Established $90M USD AUM Digital Asset Firm Singularity Venture Hub, to Advisory Board to Bridge Traditional Fina - Placera.se
 - Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
@@ -73,8 +73,8 @@ _Updated: 2025-08-07 10:54_
 
 ## Business
 
-- Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$947 Million (C$1.3 Billion) in AUM, and Monthly Net Inflows of US$14.4 Million (C$19.8 Million) in July 2025, Among Other Key Developments - Placera.se
+- Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
@@ -121,24 +121,24 @@ _Updated: 2025-08-07 10:54_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
