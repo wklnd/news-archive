@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-07 07:02_
+_Updated: 2025-08-07 07:52_
 
 ## Top Stories
 
 - NYT: Trump vill träffa Putin och Zelenskyj samtidigt - Hufvudstadsbladet
-- Explosion vid port i Kristianstad – larm om rök - Omni
-- Flyg till Göteborg fick nödlanda – passagerare betedde sig våldsamt - gp.se
+- Explosion i flerfamiljshus i Kristianstad - Skånska Dagbladet
+- Flyg på väg till Landvetter tvingades landa – passagerare omhändertagen - SVT Nyheter
 - Här är kropparna du inte ser på Tiktok - gp.se
 - Henrik Jönsson: Journalisters partiskhet hotar trovärdigheten - gp.se
 - Ledare: Känslomässig masshysteri om Gaza - NWT
 - M-ministrarna slår tillbaka mot Buschs kritik: ”Förstår att beslutet väcker känslor” - DN
-- 80 år sedan atombomben i Hiroshima - SVT Nyheter
+- Ung kvinna död i singelolycka vid Sätra Brunn i Sala kommun - SVT Nyheter
+- 80 år sedan atombomben över Hiroshima - Hufvudstadsbladet
 - Man saknas efter kraftig villabrand - Aftonbladet
-- Kitesurfare trotsade Floris – njöt av höga vågor: ”Skräckblandad förtjusning” - NLT
-- DN Direkt - Bilist körde 200 kilometer i timmen – för fort - DN.se - DN
-- Två döda i rysk attack mot semesteranläggning - gp.se
+- Böter på Autobahn: Körde 200 över fartgränsen - gp.se
+- Två döda i rysk attack mot semesteranläggning - Västerbottens-Kuriren
 - Källor: Netanyahu planerar utrymning av Gaza stad - DN
-- Fem skadade i skottlossning på militärbas i USA - Västerbottens-Kuriren
-- Trumps svepande tullar träder i kraft - SvD
+- ”Finanskris största hotet mot rysk ekonomi” - Omni
+- Trumps tullar har införts – ett land drabbas oväntat hårt - Aftonbladet
+- Trump hotar att införa 100-procentiga handelstullar på mikrochip och halvledare - Yle
+- Vita huset: Apple ska investera 970 miljarder i USA - Dagens industri
 - Så räddar du ekonomin efter semestern – experternas bästa tips - DN
-- Skruvar ner BNP-prognos – pekar på USA:s tullar - Omni
-- Trump inför ytterligare tullar om 25 procent mot Indien - Dagens industri
+- Antireflexskärmar och bättre batteri: Alla rykten om Iphone 17 - Expressen
 - Apple Watch Ultra 3 kan få större skärm - Macworld.se
-- Asus RTX 5080 Noctua Edition officiellt avtäckt - Nordichardware
 
 ## World News
 
 - Choice Hotels International Continues Global Expansion Through Consolidation of Investment in Choice Hotels Canada - Placera.se
-- Lenovo Brings Its Biggest-Ever Global Tech World Event to CES 2026 With an Immersive Experience at Sphere in Las Vegas - Placera.se
-- Portugal: En växande hubb för global teknik - The Portugal News
 - AST SpaceMobile Announces Agreement to Acquire Global S-Band Spectrum Priority Rights Held under the International Telecommunication Union - Placera.se
+- Portugal: En växande hubb för global teknik - The Portugal News
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Oceania Cruises® Unveils a Global Journey of Discovery: The Kangaroo Route, aboard Oceania Vista - Placera.se
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- Lenovo Brings Its Biggest-Ever Global Tech World Event to CES 2026 With an Immersive Experience at Sphere in Las Vegas - Placera.se
 - Arrow Global förvärvar Troia Resort - The Portugal News
+- Oceania Cruises® Unveils a Global Journey of Discovery: The Kangaroo Route, aboard Oceania Vista - Placera.se
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
 
 ## Technology
 
@@ -80,7 +80,6 @@ _Updated: 2025-08-07 07:02_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- WBCSD: Över hälften redovisar dubbel väsentlighetsanalys - Miljö & Utveckling
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
@@ -90,9 +89,10 @@ _Updated: 2025-08-07 07:02_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
 
@@ -143,22 +143,22 @@ _Updated: 2025-08-07 07:02_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
