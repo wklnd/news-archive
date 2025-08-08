@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-08 23:49_
+_Updated: 2025-08-09 00:51_
 
-- Trump Is Removing Billy Long as the I.R.S. Head 2 Months After He Was Confirmed - The New York Times
-- Keir Starmer condemns Israel's plan to take over Gaza City - BBC
-- Trump administration proposes $1 billion settlement with UCLA - NBC News
-- Trump directs Pentagon to prepare options to use to use force against against drug cartels: Officials - ABC News
-- Trump touts his favorite type of foreign deal — promoting peace in Armenia-Azerbaijan with some personal branding - CNN
-- Texas Democrats head to California as Republicans warn of more escalations over walkout - AP News
-- James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 - The New York Times
-- US-Russia plan truce deal that would cement Putin's gains in Ukraine, Bloomberg reports - Reuters
-- Live | Apparent 'active shooter' situation reported at Emory Atlanta Campus - 11Alive.com
-- US envoy to Israel taunts Starmer and likens Gaza assault to Dresden bombing - The Guardian
+- Trump and Putin to meet in Alaska next Friday for Ukraine war talks - BBC
+- Even some Republicans are questioning Netanyahu's plan to have Israel occupy Gaza City - Axios
+- Trump Wants U.C.L.A. to Pay $1 Billion to Restore Its Research Funding - The New York Times
+- Justice Department launches grand jury probe of N.Y. Attorney General Letitia James - NPR
+- Ken Paxton asks Texas Supreme Court to expel 13 House Democrats over redistricting standoff - The Texas Tribune
+- Canyon fire forces thousands of evacuations, at least two structures burned - Los Angeles Times
+- Active shooter reported in Atlanta near Emory University; police investigating - CBS News
+- US envoy to Israel taunts Starmer and likens Gaza assault to Dresden bombing | US foreign policy - The Guardian
+- Suspect in Deadly Montana Bar Shooting Is Captured, Official Says - The New York Times
+- Jim Lovell, who guided Apollo 13 safely back to Earth, dies aged 97 - BBC
+- Azerbaijan and Armenia sign peace agreement after decades of conflict - Euronews.com
 - Germany suspends arms exports to Israel for use in Gaza - DW
 - Putin needles U.S. by giving Trump envoy an award meant for CIA official whose son died fighting for Russia - CBS News
-- Trump warns of another Great Depression if court strikes down tariffs - CNN
-- Why is Chile’s Birth Rate Plummeting? - NPR
-- Intel CEO responds after Trump calls for his resignation - ABC News
+- A woman who killed her in-laws with toxic mushrooms allegedly poisoned her spouse too - NPR
+- Trump’s clash with Intel’s CEO isn’t just politics — it’s a crucial test for U.S. chip making - MarketWatch
+- White House to issue order ‘clarifying’ tariff on gold bars - Financial Times
 - Trump's Fed pick has envisioned a major overhaul of the central bank - Axios
 - Bed Bath & Beyond relaunches with first store in Nashville, plans dozens more - CNBC
-- Trump opens the door for private equity and crypto as 401(k) retirement plan options - AP News
 - Google Gemini struggles to write code, calls itself “a disgrace to my species” - Ars Technica
-- It Looks Like a School Bathroom Smoke Detector. A Teen Hacker Showed It Could Be an Audio Bug - WIRED
+- Nintendo’s new Hello, Mario! mobile app lets kids play with Mario’s face - The Verge
