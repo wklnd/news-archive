@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-08 20:52_
+_Updated: 2025-08-08 21:38_
 
 ## Top Stories
 
-- Källor: USA och Ryssland vill frysa frontlinjerna - GP
-- Nathan Shachar: Netanyahu hoppas på dramatiska strider i Gaza - DN
-- Häng med Region Skåne under Malmöfestivalen - Region Skåne
-- Lukasjenko feltolkades kring fråga om omval – håller alla dörrar öppna - SVT Nyheter
-- Äldre kvinna död i trafikolycka - Aftonbladet
-- Lyckan: Augusti kan bli varmare än vanligt - Expressen
-- Ebba Busch efter ordbråket: ”Jag har varit tydlig i min kommunikation” - DN
-- Svensk tonårspojke häktad i Danmark - GP
-- Larmet: Svenska flodkräftan nära utplåning - SVT Nyheter
-- 14-åring försökte spränga kastrullbomb vid Bandidos - DN
-- Tysk expert: Borde stoppat vapenexporten tidigare - Västerbottens-Kuriren
-- Källor: USA får attackera karteller utomlands - GP
+- Petter Hellström: Gaza kan snart vara historia – vart ska överlevarna ta vägen? - DN
+- Uppgifter: Trumps förslag ger Ryssland stora eftergifter - Expressen
+- Kvinna död efter olyckan på E4 - Sundsvalls Tidning
+- Värmen tillbaka – kan bli varmaste augusti på flera år - Omni
 - Värmebölja drar in över brandområdet – kan ge elden ny fart - DN
+- Lukasjenko feltolkades kring fråga om omval – håller alla dörrar öppna - SVT Nyheter
+- Ebba Busch efter ordbråket: ”Jag har varit tydlig i min kommunikation” - DN
+- Larmet: Svenska flodkräftan nära utplåning - SVT Nyheter
+- Unga utvisas ensamma – M-toppar vill se lagändring: ”Hål i systemet” - DN
+- Svensk tonårspojke häktad i Danmark - Aftonbladet
+- Källor: USA får attackera karteller utomlands - Västerbottens-Kuriren
+- Källor: USA och Ryssland vill frysa frontlinjerna - Hufvudstadsbladet
 - Trumps tullsmocka är här - HD
+- Larmet: De tvingas äta djurfoder - Aftonbladet
 - Konkursen i Northvolt: "Några gav aldrig upp” - SvD
-- Tekniskt fel hos Avanza löst - Dagens industri
+- Tekniskt fel i Avanza – saldot visar tomt för kunder - Aftonbladet
 - Skräckexemplet Irland: ”Är riktigt förbannad” - SvD
 - En superyacht har siktats i Stockholms skärgård - Dagens PS
 - Efter tuffa skoltiden – nu driver Anton företag inom gaming - Västerbottens-Kuriren
@@ -37,16 +37,16 @@ _Updated: 2025-08-08 20:52_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
-- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - TGE's New Movie "My First of May" Announces Global Release on Big Screens Starting in August - Placera.se
-- Portugal: En växande hubb för global teknik - The Portugal News
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Oceania Cruises® Unveils a Global Journey of Discovery: The Kangaroo Route, aboard Oceania Vista - Placera.se
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- Portugal: En växande hubb för global teknik - The Portugal News
 
 ## Technology
 
@@ -63,7 +63,7 @@ _Updated: 2025-08-08 20:52_
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Check Point Software avslöjar första skadliga koden designad att undvika AI-baserade försvar - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
@@ -73,26 +73,26 @@ _Updated: 2025-08-08 20:52_
 
 ## Business
 
+- SIGMA LITHIUM STREAMLINES LEADERSHIP COMBINING KEY ROLES UNDER VETERAN VPs; ANNOUNCES SHAREHOLDER MEETING RESULTS; TO RELEASE 2Q FINANCIALS ON AUG 14, 2025 - Placera.se
 - Better Home & Finance Holding Company Announces Second Quarter 2025 Results - Placera.se
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Accord Announces Banking Facility Update - Placera.se
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
+- Faciliteten för återhämtning och resiliens - European Commission
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
-- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
+- Finance Minister: Economic situation still uncertain - Sveriges Radio
+- Accord Announces Banking Facility Update - Placera.se
+- Dubbelvinst för Nordea i Sverige – rankas etta för Small- och Mid Corporates - Nordea
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
-- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- SIGMA LITHIUM STREAMLINES LEADERSHIP COMBINING KEY ROLES UNDER VETERAN VPs; ANNOUNCES SHAREHOLDER MEETING RESULTS; TO RELEASE 2Q FINANCIALS ON AUG 14, 2025 - Placera.se
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 
 ## Health
 
@@ -102,12 +102,12 @@ _Updated: 2025-08-08 20:52_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
@@ -143,22 +143,22 @@ _Updated: 2025-08-08 20:52_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Jordbruk och landsbygdsutveckling - European Commission
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
