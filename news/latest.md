@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-08 15:59_
+_Updated: 2025-08-08 16:55_
 
 - Satellite images show Israel building up forces for a possible ground invasion of Gaza, sources say - NBC News
-- GOP's Texas map has Austin residents sharing district with rural Texans 300 miles away - ABC News
-- Canyon fire explodes to nearly 5,000 acres; thousands evacuated in L.A., Ventura counties - Los Angeles Times
+- Texas Democrats know they may lose redistricting protest, but hope to spark a national fight - The Texas Tribune
+- Rapidly spreading brush fire prompts evacuations for thousands in California - The Guardian
 - ‘He is completely upset’: Why Trump scrapped an India trade deal - Politico
-- NASA plans to put a nuclear reactor on the moon. Here's what that means - NPR
-- Trump Orders Deployment of Federal Law Enforcement in Washington, D.C. - The New York Times
-- Eleni Kounalakis drops out of California governor’s race, pivots to downballot campaign - Politico
-- Three more victims of 9/11 identified by New York coroner's office - NBC News
-- Trump’s Oval Office ‘session’ on the economy? Charts about Biden. - The Washington Post
+- Germany stops military exports that could be used in Gaza - AP News
+- Trump calls for major changes to census amid GOP redistricting effort - The Washington Post
 - Trump Escalates a Fight Over How to Measure Merit in American Education - The New York Times
+- MAGA world swallows a difficult truth: Arresting Trump’s opponents is easier said than done - Politico
+- Trump orders increased federal law enforcement presence in Washington to 'make DC safe again' - AP News
+- Moose that forced closure of New York hiking trail is put down after showing signs of deteriorating health - CBS News
 - Husband suspected wife of poisoning him before she killed 3 relatives with toxic mushrooms - AP News
 - As Gaza Hunger Crisis Worsens, Israel Lets in Little Aid - The New York Times
-- Germany Says It Will Suspend Military Exports to Israel for Use in Gaza - The New York Times
-- Trump news at a glance: US tariffs now at highest level in almost 100 years; Trump says he will meet Putin - The Guardian
+- Cars, coffee and clothing are poised to get pricier with new tariffs - The Washington Post
+- Trump to oversee Armenia-Azerbaijan peace accord that includes key corridor. - Axios
 - Intel CEO Lip-Bu Tan breaks his silence after Trump calls for his resignation - Business Insider
-- OpenAI's GPT-5 targets coders - Axios
+- Gold futures soar to record high after reports of US tariffs on Swiss bars - The Guardian
+- Crocs CEO says consumer environment is 'concerning,' will reduce orders in the second half - CNBC
 - World shares are mixed as Tokyo’s Nikkei jumps nearly 2% on tariff news - AP News
-- Crocs US sales tumble as shoppers choose trainers - BBC
 - Apple’s lock on iPhone browser engines gets a December deadline - The Verge
-- Pixel Watch 4 ‘with Gemini’ has dual-frequency GPS, Quick Charge Dock - 9to5Google
+- Google: Actually, AI in Search is driving more queries and higher quality clicks - Engadget
