@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-08 18:47_
+_Updated: 2025-08-08 19:42_
 
 ## Top Stories
 
+- Petter Hellström: Gaza kan snart vara historia – vart ska överlevarna ta vägen? - DN
+- Källor: USA och Ryssland vill frysa frontlinjerna - GP
+- Häng med Region Skåne under Malmöfestivalen - Region Skåne
 - Uppgifter: Trumps förslag ger Ryssland stora eftergifter - Expressen
+- Kvinna död efter trafikolycka utanför Härnösand - Expressen
+- Värmebölja drar in över brandområdet – kan ge elden ny fart - DN
 - Ebba Busch efter ordbråket: ”Jag har varit tydlig i min kommunikation” - DN
-- Källor: USA och Ryssland vill frysa frontlinjerna - Västerbottens-Kuriren
-- Kvinna död – bilen voltade på E4 söder om Härnösand - SVT Nyheter
-- Netanyahu ”besviken” på det tyska beslutet – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Lukasjenko: Planerar inte ställa upp i nästa val - GP
-- Flodkräftan nära utplåning av pest - SVT Nyheter
 - Svensk tonårspojke häktad i Danmark - GP
-- Fem personer häktade för försök till mord i Katrineholm - Åklagarmyndigheten
-- Dödligaste juli på åratal - 30 drunknade - Västerbottens-Kuriren
-- Tysk expert: Borde stoppat vapenexporten tidigare - GP
+- Flodkräftan nära utplåning av pest - SVT Nyheter
+- 14-åring försökte spränga kastrullbomb vid Bandidos - DN
+- Tyskland stoppar vapenexport till Israel - GP
 - Trumps tullsmocka är här - HD
 - Larmet: De tvingas äta djurfoder - Aftonbladet
-- Bil påkörd av tåg - Expressen
+- Lukasjenko: Planerar inte ställa upp i nästa val - GP
 - Konkursen i Northvolt: "Några gav aldrig upp” - SvD
 - Tekniskt fel i Avanza - Aftonbladet
-- Blandat på Wall Street – Apple och AMD lyfte - Dagens industri
+- Trump hotar att införa 100-procentiga handelstullar på mikrochip och halvledare - Yle
 - Fyrabarnsfamiljen bokade hus för 30 000 – fick sova på stranden - Aftonbladet
-- Efter tuffa skoltiden – nu driver han eget företag inom gaming - Västerbottens-Kuriren
+- Efter tuffa skoltiden – nu driver Anton företag inom gaming - Västerbottens-Kuriren
 - I brist på “GTA VI” – idag släpps “Mafia: The Old Country” - MovieZine
 
 ## World News
@@ -37,16 +37,16 @@ _Updated: 2025-08-08 18:47_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- TGE's New Movie "My First of May" Announces Global Release on Big Screens Starting in August - Placera.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- AEG and American Express Expand Global Partnership, Growing More Than 20-Year Alliance Across Music, Sports, Ticketing and Live Entertainment - Placera.se
-- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
-- Oceania Cruises® Unveils a Global Journey of Discovery: The Kangaroo Route, aboard Oceania Vista - Placera.se
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- TGE's New Movie "My First of May" Announces Global Release on Big Screens Starting in August - Placera.se
+- Portugal: En växande hubb för global teknik - The Portugal News
+- Oceania Cruises® Unveils a Global Journey of Discovery: The Kangaroo Route, aboard Oceania Vista - Placera.se
+- Arrow Global förvärvar Troia Resort - The Portugal News
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
 
 ## Technology
 
@@ -63,13 +63,13 @@ _Updated: 2025-08-08 18:47_
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
-- Digital Realty Teams with Oracle Solution Centers to Help Organizations Accelerate AI and Cloud Innovation - Placera.se
 
 ## Business
 
@@ -86,8 +86,8 @@ _Updated: 2025-08-08 18:47_
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
-- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - SIGMA LITHIUM STREAMLINES LEADERSHIP COMBINING KEY ROLES UNDER VETERAN VPs; ANNOUNCES SHAREHOLDER MEETING RESULTS; TO RELEASE 2Q FINANCIALS ON AUG 14, 2025 - Placera.se
@@ -109,13 +109,13 @@ _Updated: 2025-08-08 18:47_
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
@@ -145,7 +145,7 @@ _Updated: 2025-08-08 18:47_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
@@ -153,12 +153,12 @@ _Updated: 2025-08-08 18:47_
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Jordbruk och landsbygdsutveckling - European Commission
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- De gick från reko till eko - ST-tidningen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
