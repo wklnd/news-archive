@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-08 19:42_
+_Updated: 2025-08-08 20:52_
 
 ## Top Stories
 
-- Petter Hellström: Gaza kan snart vara historia – vart ska överlevarna ta vägen? - DN
 - Källor: USA och Ryssland vill frysa frontlinjerna - GP
+- Nathan Shachar: Netanyahu hoppas på dramatiska strider i Gaza - DN
 - Häng med Region Skåne under Malmöfestivalen - Region Skåne
-- Uppgifter: Trumps förslag ger Ryssland stora eftergifter - Expressen
-- Kvinna död efter trafikolycka utanför Härnösand - Expressen
-- Värmebölja drar in över brandområdet – kan ge elden ny fart - DN
+- Lukasjenko feltolkades kring fråga om omval – håller alla dörrar öppna - SVT Nyheter
+- Äldre kvinna död i trafikolycka - Aftonbladet
+- Lyckan: Augusti kan bli varmare än vanligt - Expressen
 - Ebba Busch efter ordbråket: ”Jag har varit tydlig i min kommunikation” - DN
 - Svensk tonårspojke häktad i Danmark - GP
-- Flodkräftan nära utplåning av pest - SVT Nyheter
+- Larmet: Svenska flodkräftan nära utplåning - SVT Nyheter
 - 14-åring försökte spränga kastrullbomb vid Bandidos - DN
-- Tyskland stoppar vapenexport till Israel - GP
+- Tysk expert: Borde stoppat vapenexporten tidigare - Västerbottens-Kuriren
+- Källor: USA får attackera karteller utomlands - GP
+- Värmebölja drar in över brandområdet – kan ge elden ny fart - DN
 - Trumps tullsmocka är här - HD
-- Larmet: De tvingas äta djurfoder - Aftonbladet
-- Lukasjenko: Planerar inte ställa upp i nästa val - GP
 - Konkursen i Northvolt: "Några gav aldrig upp” - SvD
-- Tekniskt fel i Avanza - Aftonbladet
-- Trump hotar att införa 100-procentiga handelstullar på mikrochip och halvledare - Yle
-- Fyrabarnsfamiljen bokade hus för 30 000 – fick sova på stranden - Aftonbladet
+- Tekniskt fel hos Avanza löst - Dagens industri
+- Skräckexemplet Irland: ”Är riktigt förbannad” - SvD
+- En superyacht har siktats i Stockholms skärgård - Dagens PS
 - Efter tuffa skoltiden – nu driver Anton företag inom gaming - Västerbottens-Kuriren
 - I brist på “GTA VI” – idag släpps “Mafia: The Old Country” - MovieZine
 
@@ -39,14 +39,14 @@ _Updated: 2025-08-08 19:42_
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - TGE's New Movie "My First of May" Announces Global Release on Big Screens Starting in August - Placera.se
 - Portugal: En växande hubb för global teknik - The Portugal News
 - Oceania Cruises® Unveils a Global Journey of Discovery: The Kangaroo Route, aboard Oceania Vista - Placera.se
-- Arrow Global förvärvar Troia Resort - The Portugal News
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
 
@@ -63,13 +63,13 @@ _Updated: 2025-08-08 19:42_
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Digital Realty Teams with Oracle Solution Centers to Help Organizations Accelerate AI and Cloud Innovation - Placera.se
 
 ## Business
 
@@ -86,8 +86,8 @@ _Updated: 2025-08-08 19:42_
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - SIGMA LITHIUM STREAMLINES LEADERSHIP COMBINING KEY ROLES UNDER VETERAN VPs; ANNOUNCES SHAREHOLDER MEETING RESULTS; TO RELEASE 2Q FINANCIALS ON AUG 14, 2025 - Placera.se
@@ -102,19 +102,19 @@ _Updated: 2025-08-08 19:42_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
@@ -122,22 +122,22 @@ _Updated: 2025-08-08 19:42_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 
 ## Jordbruk
