@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-09 00:45_
+_Updated: 2025-08-09 01:41_
 
 ## Top Stories
 
-- Trump: ”Kommer möta Putin väldigt snart” - DN
-- Ingmar Nevéus: Trump skryter och jagar Nobels fredspris – men ibland ger hans inställning resultat - DN
-- Brand norr om Los Angeles – tusentals evakueras - Expressen
-- Skolskjutning i USA: ”Spring” - Expressen
+- Trump: ”Möter Putin nästa vecka” - DN
+- Fred sluten mellan Azerbajdzjan och Armenien - Västerbottens-Kuriren
+- Källor: USA och Ryssland vill frysa frontlinjerna - GP
+- Kvinna död efter trafikolycka utanför Härnösand - Expressen
 - FN:s säkerhetsråd möts om Israels Gaza-plan - Hufvudstadsbladet
-- Bloomberg: Ryssland öppet för att frysa fronten – Senaste nytt om kriget i Ukraina - SVT Nyheter
+- Unikt fågelbesök i Sverige - GP
 - Ebba Busch efter ordbråket: ”Jag har varit tydlig i min kommunikation” - DN
 - Unga utvisas ensamma – M-toppar vill se lagändring: ”Hål i systemet” - DN
-- Pesten på väg att utplåna flodkräftan – illegala utsättningar i Värmland pekas ut - NWT
-- Svensk vann hundratals miljoner i Eurojackpot - GP
-- Källor: USA får attackera karteller utomlands - Västerbottens-Kuriren
-- Apollo 13-astronauten James Lovell död - Aftonbladet
-- DN Direkt - Lukasjenko: Ställer inte upp i nästa val - DN.se - DN
+- En person drunknade varje dag i juli – en grupp sticker ut - GP
+- Larmet: Svenska flodkräftan nära utplåning - SVT Nyheter
+- Bil påkörd av tåg - Expressen
+- Apollo 13-astronaut död – blev 97 år - SvD
+- DN Direkt - Källor: Amerikansk militär får attackera karteller utomlands - DN.se - DN
 - Trumps tullsmocka är här - HD
 - Konkursen i Northvolt: "Några gav aldrig upp” - SvD
 - Tekniskt fel hos Avanza löst - Dagens industri
-- Skräckexemplet Irland: ”Är riktigt förbannad” - SvD
 - En superyacht har siktats i Stockholms skärgård - Dagens PS
+- Skräckexemplet Irland: ”Är riktigt förbannad” - SvD
 - Efter tuffa skoltiden – nu driver Anton företag inom gaming - Västerbottens-Kuriren
 - I brist på “GTA VI” – idag släpps “Mafia: The Old Country” - MovieZine
 
@@ -31,22 +31,22 @@ _Updated: 2025-08-09 00:45_
 - The ultimate global study companion: Pearson expands AI-powered Study Prep, supporting personalized learning worldwide - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- AST SpaceMobile Announces Agreement to Acquire Global S-Band Spectrum Priority Rights Held under the International Telecommunication Union - Placera.se
-- Pyxus International Named as a Supplier Engagement Leader by CDP - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- EQTY Global Growth II: En genomtänkt strategi för att bygga värde - The Portugal News
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - TGE's New Movie "My First of May" Announces Global Release on Big Screens Starting in August - Placera.se
+- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- Portugal: En växande hubb för global teknik - The Portugal News
+- Arrow Global förvärvar Troia Resort - The Portugal News
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- Portugal framstår som ett strategiskt nav för global teknikexpansion - The Portugal News
 
 ## Technology
 
@@ -102,43 +102,43 @@ _Updated: 2025-08-09 00:45_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
