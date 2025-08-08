@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-08 04:52_
+_Updated: 2025-08-08 06:31_
 
-- Israel's Cabinet approves new plan to occupy Gaza City - Axios
-- The Texas gerrymandering showdown is about to get even messier - vox.com
-- India Bought Russian Oil. Now It’s a Trade-War Weapon. - The New York Times
-- Q&A: Can Trump hold a census in the middle of a decade and exclude immigrants in the US illegally? - AP News
-- Trump plans to force new disclosure of college admissions data - Politico
+- Netanyahu Says Israel Wants to Take Military Control of All of Gaza - The New York Times
+- Trump tariffs: India has 20 days to avoid 50% levies - what are its options? - BBC
+- Trump wants to change the census to exclude undocumented immigrants. Here's how the census works - CBS News
 - Federal judge halts construction at Florida's 'Alligator Alcatraz' - NPR
-- Trump announces federal law enforcement will patrol DC - Politico
+- Trump plans to force new disclosure of college admissions data - Politico
+- GOP Sen. Cornyn says FBI will help locate Texas Democratic lawmakers - The Washington Post
+- Trump Orders Deployment of Federal Law Enforcement in Washington, D.C. - The New York Times
 - Unarmed Fort Stewart soldiers tackled, subdued gunman who was "shooting their buddies," Army secretary says - CBS News
-- Fast-Spreading Canyon Fire Near Magic Mountain Prompts Emergency Proclamation – Updated - Deadline
 - Epstein victims speak out: This ‘smacks of a cover up’ - Politico
+- Fast-moving Canyon fire burns 1,500 acres, spurs evacuations in Ventura and L.A. counties - Los Angeles Times
 - Haiti inaugurates new leadership as gangs threaten to overthrow the government - NPR
-- First Thing: New Trump tariffs come into force against dozens of countries - The Guardian
-- Hostages’ families protest against Gaza plan – as it happened - The Guardian
+- Staggering U.S. Tariffs Begin as Trump Widens Trade War - The New York Times
+- Trump to oversee Armenia-Azerbaijan peace accord that includes key corridor. - Axios
 - The Story Behind a Famous Photo of a Starving Child in Gaza - NPR
 - Trump will nominate White House economic adviser to vacant Fed board seat - The Washington Post
-- Trump signs order broadening access for alternative assets in 401(k)s - Reuters
-- Exclusive | Intel’s CEO, Under Attack From Trump, Is Already at Odds With His Board - The Wall Street Journal
-- Trump calls in press for ‘major announcement’ in Oval Office - but just spent 5 minutes bragging about his ‘wins’ - Yahoo News Canada
-- Google Pixel 10 gets new camera AI features according to leak - Notebookcheck
-- Sony’s Sold 80 Million PS5s In Five Years, Dwarfing Xbox - Kotaku
+- Trump Calls on Intel CEO to Resign Over China Ties - The Wall Street Journal
+- Trump Order Clears Way for Crypto and Private Equity in 401(k)s - The New York Times
+- OpenAI Launches More Powerful GPT-5 Model for Coding and Writing - Bloomberg.com
+- The Browser Company’s AI browser now has a $20 subscription - The Verge
+- UFO 50 Gets A Surprise Shadow Drop On Switch Today - Nintendo Life
