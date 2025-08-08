@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-08 07:15_
+_Updated: 2025-08-08 07:56_
 
-- Satellite images show Israel building up forces for a possible ground invasion of Gaza, sources say - NBC News
-- GOP Sen. Cornyn says FBI will help locate Texas Democratic lawmakers - The Washington Post
+- Israel Security Cabinet Approves Plan to Seize Gaza City - Bloomberg.com
+- Photos: Fast-moving Canyon Fire forces thousands to evacuate in LA, Ventura counties - Axios
+- Judge orders temporary halt to new construction at Alligator Alcatraz - The Washington Post
+- Trump plans to force new disclosure of college admissions data - Politico
+- The Texas gerrymandering showdown is about to get even messier - vox.com
 - Trump orders new census excluding undocumented immigrants amid redistricting battles - ABC News
-- Fast-Spreading Canyon Fire Near Magic Mountain Prompts Emergency Proclamation – Updated - Deadline
-- India Bought Russian Oil. Now It’s a Trade-War Weapon. - The New York Times
-- Federal judge halts construction at Florida's 'Alligator Alcatraz' - NPR
 - Trump Orders Deployment of Federal Law Enforcement in Washington, D.C. - The New York Times
 - Unarmed Fort Stewart soldiers tackled, subdued gunman who was "shooting their buddies," Army secretary says - CBS News
 - Three more victims of 9/11 identified by New York coroner's office - NBC News
-- Epstein victims speak out: This ‘smacks of a cover up’ - Politico
+- Vance Boelter, charged with killing Melissa and Mark Hortman, pleads not guilty - kare11.com
 - Haiti inaugurates new leadership as gangs threaten to overthrow the government - NPR
 - Trump's higher tariffs hit major US trading partners, sparking defiance and concern - Reuters
 - Trump to oversee Armenia-Azerbaijan peace accord that includes key corridor. - Axios
 - The Story Behind a Famous Photo of a Starving Child in Gaza - NPR
 - Trump will nominate White House economic adviser to vacant Fed board seat - The Washington Post
-- Trump opens the door for private equity and crypto as 401(k) retirement plan options - AP News
+- Trump Order Clears Way for Crypto and Private Equity in 401(k)s - The New York Times
 - Exclusive | Intel’s CEO, Under Attack From Trump, Is Already at Odds With His Board - The Wall Street Journal
-- OpenAI Launches More Powerful GPT-5 Model for Coding and Writing - Bloomberg.com
+- Asia Stocks Eye Cautious Open as Wall Street Cools: Markets Wrap - Bloomberg.com
 - The Browser Company’s AI browser now has a $20 subscription - The Verge
-- UFO 50 Gets A Surprise Shadow Drop On Switch Today - Nintendo Life
+- Microsoft Discloses Exchange Server Flaw Enabling Silent Cloud Access in Hybrid Setups - The Hacker News
