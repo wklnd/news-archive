@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-08 20:56_
+_Updated: 2025-08-08 21:48_
 
-- Even Republicans have questions about Israel's plan to occupy Gaza City - Axios
+- Keir Starmer condemns Israel's plan to take over Gaza City - BBC
 - Justice Department launches grand jury probe of N.Y. Attorney General Letitia James - NPR
-- ‘Special session after special session’: Abbott says he’ll continue until redrawn maps are passed - Politico
-- Appeals court tosses judge's contempt order in case over Venezuelans sent to El Salvador - CBS News
+- Texas Democrats head to California as Republicans warn of more escalations over walkout - AP News
+- Trump directs Pentagon to prepare options to use against drug cartels designated terrorist organizations - ABC News
 - Canyon fire explodes to nearly 5,000 acres; thousands evacuated in L.A., Ventura counties - Los Angeles Times
-- US-Russia plan truce deal that would cement Putin's gains in Ukraine, Bloomberg reports - Reuters
+- Appeals court panel quashes Judge Boasberg’s contempt proceedings over Alien Enemies Act deportations - Politico
+- Trump Wants U.C.L.A. to Pay $1 Billion to Restore Its Research Funding - The New York Times
 - ‘He is completely upset’: Why Trump scrapped an India trade deal - Politico
-- Marred by grief and riddled with fear, a quiet city worries where a mass shooter might be - CNN
-- Three more victims of 9/11 terrorist attacks identified in New York City - The Guardian
-- Trump Escalates a Fight Over How to Measure Merit in American Education - The New York Times
-- Trump to preside over Armenia-Azerbaijan peace framework, upstaging Russia - The Washington Post
+- Apollo 13 astronaut Jim Lovell dead at 97 - CNN
+- ‘Alligator Alcatraz’ in the Florida Everglades Is Testing Environmental Law - The New York Times
+- Trump Live Updates: U.S. Appeals Court Ends Contempt Inquiry Over Deportation Flights - The New York Times
 - A woman who killed her in-laws with toxic mushrooms allegedly poisoned her spouse too - NPR
+- Putin needles U.S. by giving Trump envoy an award meant for CIA official whose son died fighting for Russia - CBS News
 - Trump warns courts against knocking down tariffs, says duties are 'huge positive' for stock market - CNBC
-- As Trump’s deadline for Russia comes due, White House preps for possible summit with Putin - CNN
-- Trump's Fed pick has envisioned a major overhaul of the central bank - Axios
 - Intel CEO responds after Trump calls for his resignation - ABC News
-- Trump Tariffs Are Making International Stock Markets Great Again - Bloomberg.com
-- How Private Equity Could End Up in Your 401(k) Portfolio - Barron's
-- Google Finance redesign goes all in on AI, complete with a chatbot - Engadget
+- Trump's Fed pick has envisioned a major overhaul of the central bank - Axios
+- Bed Bath & Beyond relaunches with first store in Nashville, plans dozens more - CNBC
+- White House to issue order ‘clarifying’ tariff on gold bars - Financial Times
 - Google Gemini struggles to write code, calls itself “a disgrace to my species” - Ars Technica
+- Google Finance redesign goes all in on AI, complete with a chatbot - Engadget
