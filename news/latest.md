@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-08 22:52_
+_Updated: 2025-08-08 23:49_
 
-- Trump Is Removing I.R.S. Chief 2 Months After He Was Confirmed - The New York Times
+- Trump Is Removing Billy Long as the I.R.S. Head 2 Months After He Was Confirmed - The New York Times
 - Keir Starmer condemns Israel's plan to take over Gaza City - BBC
-- Justice Department launches grand jury probe of N.Y. Attorney General Letitia James - NPR
-- Texas Democrats head to California as Republicans warn of more escalations over walkout - AP News
 - Trump administration proposes $1 billion settlement with UCLA - NBC News
-- Appeals court panel quashes Judge Boasberg’s contempt proceedings over Alien Enemies Act deportations - Politico
-- Mike Huckabee: US ambassador to Israel says UK would have lost WW2 with Starmer as leader - BBC
-- Canyon fire explodes to nearly 5,000 acres; thousands evacuated in L.A., Ventura counties - Los Angeles Times
-- Marred by grief and riddled with fear, a quiet city worries where a mass shooter might be - CNN
-- ‘He is completely upset’: Why Trump scrapped an India trade deal - Politico
-- Azerbaijan and Armenia to sign peace deal, White House says - Reuters
+- Trump directs Pentagon to prepare options to use to use force against against drug cartels: Officials - ABC News
+- Trump touts his favorite type of foreign deal — promoting peace in Armenia-Azerbaijan with some personal branding - CNN
+- Texas Democrats head to California as Republicans warn of more escalations over walkout - AP News
+- James A. Lovell Jr., Commander of Apollo 13, Is Dead at 97 - The New York Times
+- US-Russia plan truce deal that would cement Putin's gains in Ukraine, Bloomberg reports - Reuters
+- Live | Apparent 'active shooter' situation reported at Emory Atlanta Campus - 11Alive.com
+- US envoy to Israel taunts Starmer and likens Gaza assault to Dresden bombing - The Guardian
 - Germany suspends arms exports to Israel for use in Gaza - DW
-- A woman who killed her in-laws with toxic mushrooms allegedly poisoned her spouse too - NPR
 - Putin needles U.S. by giving Trump envoy an award meant for CIA official whose son died fighting for Russia - CBS News
+- Trump warns of another Great Depression if court strikes down tariffs - CNN
+- Why is Chile’s Birth Rate Plummeting? - NPR
 - Intel CEO responds after Trump calls for his resignation - ABC News
-- ‘A Loyalist Inside the Building’: Trump’s Temporary Fed Pick Could Have a Lasting Effect - The New York Times
-- White House to issue order ‘clarifying’ tariff on gold bars - Financial Times
-- Private credit may come to your 401(k). Do you invest? - Axios
+- Trump's Fed pick has envisioned a major overhaul of the central bank - Axios
+- Bed Bath & Beyond relaunches with first store in Nashville, plans dozens more - CNBC
+- Trump opens the door for private equity and crypto as 401(k) retirement plan options - AP News
 - Google Gemini struggles to write code, calls itself “a disgrace to my species” - Ars Technica
-- Pixel 10 series might ditch physical SIM cards, strange rumor suggests - 9to5Google
+- It Looks Like a School Bathroom Smoke Detector. A Teen Hacker Showed It Could Be an Audio Bug - WIRED
