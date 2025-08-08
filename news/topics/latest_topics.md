@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-08 13:42_
+_Updated: 2025-08-08 15:20_
 
 ## Top Stories
 
 - Kritiken mot Netanyahu: Tänk om och stoppa planen - SVT Nyheter
-- Häng med Region Skåne under Malmöfestivalen - Region Skåne
-- Buss i Malmö beskjuten - Aftonbladet
+- Ebba Busch efter ordbråket: ”Jag har varit tydlig i min kommunikation” - DN
 - Tusk: Paus i Ukrainakriget kan vara nära - Hufvudstadsbladet
-- DN Direkt - MP anmäler Ebba Busch till KU - DN.se - DN
-- Sparkas för misstänkt gängkoppling – får 16 månadslöner i fallskärm - DN
-- Dödligaste juli på åratal – 30 drunknade - DN
-- Flodkräftan på väg att utplånas av pesten - UNT
+- Buss beskjuten med luftvapen - SVT Nyheter
+- Lilla hjärtats vänförening: Jacobs har inte alls avgått - Expressen
+- LEDARE: Misstänks hjälpa kriminella – får fina vitsord av Göteborg - Expressen
+- Flodkräftan nära utplåning av pest - SVT Nyheter
+- Dödligaste juli på åratal – 30 drunknade - UNT
 - DN testar 45 badplatser i Stockholm – på en dag - DN
-- Grov organiserad brottslighet bakom cigarettfabriker: ”Enorma vinster” - SVT Nyheter
-- Hamas hemliga löneutbetalningar – måltavla för Israel - DN
-- Ingmar Nevéus: Putin har lurat Trump ännu en gång - DN
+- Trafikpolisens råd inför resan hemresan från semestern - DN
+- Uppgifter: Trumps förslag ger Ryssland stora eftergifter - Expressen
+- Lukasjenko: Ställer inte upp i nästa val - Expressen
 - Trumps tullsmocka är här - HD
-- USA: Halv miljard för Maduros gripande - Aftonbladet
+- Larmet: De tvingas äta djurfoder - Aftonbladet
 - Konkursen i Northvolt: "Några gav aldrig upp” - SvD
+- Elon Musk lanserar erotisk meme-maskin - mobil.se
 - Tiotusentals hotell går till attack – stämmer Booking.com - Dagens PS
-- Rapport: Odlad lax kan stötta vindkraften till havs - DN
-- Kepler: Novo Nordisk 'tydligt i ledning nu' - ser mycket positiv riskavkastning - Placera.se
+- Juli var ”all time high” för sålda villor - Sydsvenskan
 - I brist på “GTA VI” – idag släpps “Mafia: The Old Country” - MovieZine
 - ROG Xbox Ally får lanseringsdatum läckt - Nordichardware
 
 ## World News
 
+- GenScript Unveils New Global Identity: "Scripting Possibilities" to Power the Future of Biotechnology - Placera.se
 - The ultimate global study companion: Pearson expands AI-powered Study Prep, supporting personalized learning worldwide - Placera.se
-- Fullpower-AI Secures 10-Year Global Licensing Agreement and Strategic Investment from Tempur Sealy International to Power the Future of Smartbeds - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Fullpower-AI Secures 10-Year Global Licensing Agreement and Strategic Investment from Tempur Sealy International to Power the Future of Smartbeds - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - EQTY Global Growth II: En genomtänkt strategi för att bygga värde - The Portugal News
-- Skydance Media and Paramount Global Complete Merger, Creating Next Generation Media Company - Placera.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- Skydance Media and Paramount Global Complete Merger, Creating Next Generation Media Company - Placera.se
 - AEG and American Express Expand Global Partnership, Growing More Than 20-Year Alliance Across Music, Sports, Ticketing and Live Entertainment - Placera.se
-- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Oceania Cruises® Unveils a Global Journey of Discovery: The Kangaroo Route, aboard Oceania Vista - Placera.se
-- Portugal: En växande hubb för global teknik - The Portugal News
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
@@ -59,6 +59,7 @@ _Updated: 2025-08-08 13:42_
 - Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
@@ -69,7 +70,6 @@ _Updated: 2025-08-08 13:42_
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 
 ## Business
 
@@ -83,15 +83,15 @@ _Updated: 2025-08-08 13:42_
 - Accord Announces Banking Facility Update - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
-- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
+- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
@@ -102,43 +102,43 @@ _Updated: 2025-08-08 13:42_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- Fakulteten för hälsa och samhälle - Malmö universitet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 
 ## Jordbruk
 
