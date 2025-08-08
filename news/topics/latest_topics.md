@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-08 17:47_
+_Updated: 2025-08-08 18:47_
 
 ## Top Stories
 
 - Uppgifter: Trumps förslag ger Ryssland stora eftergifter - Expressen
-- DN Direkt - MP anmäler Ebba Busch till KU - DN.se - DN
-- Kritiken mot Netanyahu: Tänk om och stoppa planen - SVT Nyheter
-- Lukasjenko feltolkades kring fråga om omval – håller alla dörrar öppna - SVT Nyheter
-- Bil påkörd av tåg – en till sjukhus: ”Smärtpåverkad” - NWT
-- SSU vill lämna Nato – får nobben av S - Expressen
+- Ebba Busch efter ordbråket: ”Jag har varit tydlig i min kommunikation” - DN
+- Källor: USA och Ryssland vill frysa frontlinjerna - Västerbottens-Kuriren
+- Kvinna död – bilen voltade på E4 söder om Härnösand - SVT Nyheter
+- Netanyahu ”besviken” på det tyska beslutet – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Lukasjenko: Planerar inte ställa upp i nästa val - GP
 - Flodkräftan nära utplåning av pest - SVT Nyheter
 - Svensk tonårspojke häktad i Danmark - GP
-- 14-åring försökte spränga kastrullbomb vid Bandidos - DN
-- Kvinna död – bilen voltade på E4 söder om Härnösand - SVT Nyheter
-- Källor: USA och Ryssland vill frysa frontlinjerna - GP
-- Tysk expert: Borde stoppat vapenexporten tidigare - Västerbottens-Kuriren
+- Fem personer häktade för försök till mord i Katrineholm - Åklagarmyndigheten
+- Dödligaste juli på åratal - 30 drunknade - Västerbottens-Kuriren
+- Tysk expert: Borde stoppat vapenexporten tidigare - GP
 - Trumps tullsmocka är här - HD
 - Larmet: De tvingas äta djurfoder - Aftonbladet
+- Bil påkörd av tåg - Expressen
 - Konkursen i Northvolt: "Några gav aldrig upp” - SvD
-- Blandat på Wall Street – Apple och AMD lyfte - Dagens industri
-- Asmodee lyfter svagt efter ”spektakulära siffror” - Dagens industri
 - Tekniskt fel i Avanza - Aftonbladet
+- Blandat på Wall Street – Apple och AMD lyfte - Dagens industri
+- Fyrabarnsfamiljen bokade hus för 30 000 – fick sova på stranden - Aftonbladet
+- Efter tuffa skoltiden – nu driver han eget företag inom gaming - Västerbottens-Kuriren
 - I brist på “GTA VI” – idag släpps “Mafia: The Old Country” - MovieZine
-- ROG Xbox Ally får lanseringsdatum läckt - Nordichardware
 
 ## World News
 
@@ -40,13 +40,13 @@ _Updated: 2025-08-08 17:47_
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- AEG and American Express Expand Global Partnership, Growing More Than 20-Year Alliance Across Music, Sports, Ticketing and Live Entertainment - Placera.se
-- EQTY Global Growth II: En genomtänkt strategi för att bygga värde - The Portugal News
-- Oceania Cruises® Unveils a Global Journey of Discovery: The Kangaroo Route, aboard Oceania Vista - Placera.se
+- TGE's New Movie "My First of May" Announces Global Release on Big Screens Starting in August - Placera.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- AEG and American Express Expand Global Partnership, Growing More Than 20-Year Alliance Across Music, Sports, Ticketing and Live Entertainment - Placera.se
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
+- Oceania Cruises® Unveils a Global Journey of Discovery: The Kangaroo Route, aboard Oceania Vista - Placera.se
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
 
@@ -59,40 +59,40 @@ _Updated: 2025-08-08 17:47_
 - Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
-- AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Digital Realty Teams with Oracle Solution Centers to Help Organizations Accelerate AI and Cloud Innovation - Placera.se
 
 ## Business
 
 - Better Home & Finance Holding Company Announces Second Quarter 2025 Results - Placera.se
 - Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Accord Announces Banking Facility Update - Placera.se
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- JPMorgan Chase affärsmodell - Business Model Analyst
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Dubbelvinst för Nordea i Sverige – rankas etta för Small- och Mid Corporates - Nordea
+- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- SIGMA LITHIUM STREAMLINES LEADERSHIP COMBINING KEY ROLES UNDER VETERAN VPs; ANNOUNCES SHAREHOLDER MEETING RESULTS; TO RELEASE 2Q FINANCIALS ON AUG 14, 2025 - Placera.se
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
 
@@ -102,9 +102,10 @@ _Updated: 2025-08-08 17:47_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
@@ -115,29 +116,28 @@ _Updated: 2025-08-08 17:47_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- E-infrastruktur för livsvetenskap får SSF-anslag - Uppsala universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 
 ## Jordbruk
