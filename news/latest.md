@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-09 16:50_
+_Updated: 2025-08-09 17:49_
 
-- Police officer dies after shooting near US's CDC headquarters - BBC
-- U.S., Ukraine and European allies plan to huddle in U.K. ahead of Trump-Putin summit - Axios
+- Georgia authorities identify suspected gunman in shooting near the Emory University campus. Here's what we know - CBS News
+- What Putin Hopes to Gain From a Summit With Trump - The New York Times
+- Even some Republicans are questioning Netanyahu's plan to have Israel occupy Gaza City - Axios
+- Mexico rules out Trump's reported military plan against drug cartels - BBC
 - Texas Democrats embrace Newsom’s redistricting rebuttal as California draws new map - CalMatters
 - With summit looming, Ukraine's Zelenskyy says he won't give land to Russia - NPR
-- Trump administration weighs military actions against drug cartels - The Washington Post
-- Ken Paxton sues to remove 13 Democrats who fled Texas over redistricting - Houston Chronicle
-- Trump Wants Admissions Data on Grades and Race, but Who Will Collect It? - The New York Times
-- Three people injured in shooting at New York City’s Times Square - The Guardian
 - Montana bar shooting suspect taken into custody after weeklong manhunt - ABC News
-- William Webster, former head of FBI and CIA, dies - CNN
+- A shooting in New York City’s Times Square wounds 3 people, police say - AP News
+- ‘Disproportionate’ and ‘extreme’: DC officials protest Trump’s policing incursion - Politico
+- Astronaut James Lovell, Commander of Apollo 13, Dies at 97 - The New York Times
 - Trump embraces role of peacemaker in Azerbaijan and Armenia deal - Politico
+- Germany suspends arms exports to Israel for use in Gaza - DW
 - An ancient archaeological site meets conspiracy theories — and Joe Rogan - NPR
-- Benjamin Netanyahu’s Gaza occupation plan opens rift with IDF - Financial Times
-- Italy is reviving plans for a bridge connecting Sicily to the mainland. Will it work? - NPR
-- Trump Attack on Intel’s C.E.O. Could Compound Factory Struggles - The New York Times
+- North Korea dismantles propaganda speakers at border - BBC
 - Trump wants your 401(k) to access crypto and private equity. Here's what to know. - CBS News
+- Trump Attack on Intel’s C.E.O. Could Compound Factory Struggles - The New York Times
+- How Switzerland’s Tariff Drama Swung From Hope to Despair - Bloomberg.com
 - How one real estate startup is taking on record heat this summer - CNBC
-- Trump made his MAGA Fed pick. His next choice will be far more consequential - CNN
 - iOS 26 public beta 2 has just landed — here's everything that's changed - Tom's Guide
-- Apple Watch Series 11 Launching Next Month With These New Features - MacRumors
+- Nintendo's Indie World Showcase - here's everything announced - Eurogamer
