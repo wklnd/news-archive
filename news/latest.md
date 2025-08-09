@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-09 18:54_
+_Updated: 2025-08-09 19:48_
 
 - Police officer dies after shooting near US's CDC headquarters - BBC
 - Trump, Putin meeting set for next week in Alaska - The Washington Post
 - Trump tells military to target Latin American drug cartels, source says - CBS News
 - Trump removes Billy Long as IRS commissioner, giving him the shortest-ever tenure in the role - Federal News Network
-- Nagasaki’s twin bells ring in unison for first time in 80 years to mark atomic bombing - The Guardian
-- Ken Paxton sues to remove 13 Democrats who fled Texas over redistricting - Houston Chronicle
-- Times Square shooting leaves 3 hurt, suspect in custody, NYPD says - CBS News
-- Canyon Fire containment grows to 28% as brush fire burns near Lake Piru - ABC7 Los Angeles
-- Trump Wants Admissions Data on Grades and Race, but Who Will Collect It? - The New York Times
-- Montana bar shooting suspect taken into custody after weeklong manhunt - ABC News
-- South Korea’s military says North Korea is removing speakers from their tense border - AP News
 - Trump embraces role of peacemaker in Azerbaijan and Armenia deal - Politico
-- Benjamin Netanyahu’s Gaza occupation plan opens rift with IDF - Financial Times
-- There’s Barely Any Food in Gaza, and Barely Any Cash to Buy It - The New York Times
+- Even some Republicans are questioning Netanyahu's plan to have Israel occupy Gaza City - Axios
+- Montana bar shooting suspect taken into custody after weeklong manhunt - ABC News
+- Teenager arrested after three shot in New York City's Times Square - BBC
+- Trump Wants Admissions Data on Grades and Race, but Who Will Collect It? - The New York Times
+- ‘Disproportionate’ and ‘extreme’: DC officials protest Trump’s policing incursion - Politico
+- Israeli envoy attends Nagasaki 80th atom bomb anniversary, a year after Gaza war snub - The Times of Israel
+- North Korea is removing speakers from their tense border, South Korea military says - CBS News
+- Germany imposes partial arms embargo on Israel over Gaza City occupation plan - Axios
+- We get asked about tariffs all the time. Here's what we say - NPR
 - Trump wants your 401(k) to access crypto and private equity. Here's what to know. - CBS News
 - How Switzerland’s Tariff Drama Swung From Hope to Despair - Bloomberg.com
-- How one real estate startup is taking on record heat this summer - CNBC
-- Swiss gold industry in crosshairs after US tariff debacle - Financial Times
+- As Meme Stocks Make A Comeback, Beware This Tax Trap - Forbes
+- Vinay Prasad returns to the FDA, weeks after his ouster - statnews.com
 - This is the Android 17 codename, and it's not what you guessed - Android Authority
-- I want everything local – Building my offline AI workspace - Hacker News
+- Massive Apple deal week event now live: M3 iPad Air all-time low, AirPods, M4 MacBooks $300 off, more [Updated] - 9to5Toys
