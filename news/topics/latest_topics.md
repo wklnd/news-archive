@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-10 00:44_
+_Updated: 2025-08-10 01:41_
 
 ## Top Stories
 
 - Zelenskyj varnar inför Trumps möte med Putin - Hufvudstadsbladet
 - USA-mötet en ”enorm propagandavinst för Putin” - GP
 - Äldre man död efter drunkningsolycka i Huddinge - SVT Nyheter
-- Ung kvinna utsatt för misstänkt våldtäkt i Skellefteå - Expressen
+- Tålamodet tryter med nejsägarna i Berlin – kommer Merz svänga om Gaza? - DN
 - BILDEXTRA: Här tar NHL-proffset över Stora torget - Falu-Kuriren
-- Recension: Gäsp, Greentea Peng - GP
+- Krönika: Pet Shop Boys melodier personifierar längtan - Aftonbladet
 - Man till sjukhus – fick hantel i huvudet under promenad - SVT Nyheter
 - DN Direkt - Larm om brand på Drottningholms slott – var rök från pelletspanna - DN.se - DN
 - Ebba Busch KU-anmäls efter Israeluttalanden - Barometern-OT
 - Fartsyndare bötfällda – här stod polisen - NSD
 - Petunia är världens fulaste hund - Västerbottens-Kuriren
-- Över 350 gripna efter Gaza-demonstration i London - Västerbottens-Kuriren
+- Macron: Inget beslut om Ukraina utan Ukraina - Omni
+- Över 350 gripna efter Gaza-demonstration i London - GP
 - Missvisande budskap sprids om nödhjälpsstölder i Gaza - Omni
-- Vill turista på ockuperade Krim – klagar på trafikkaos: ”Ett rent helvete” - Aftonbladet
-- Chefsekonom: USA-kris kan slå hårt mot Sverige - Omni
 - ”Jubla inte för tidigt över Northvolt” - Västerbottens-Kuriren
-- Hälften av bostäderna säljs under utgångspris - SvD
+- Chefsekonom: USA-kris kan slå hårt mot Sverige - Omni
 - Airbnb sticker ut i Sverige – av en udda anledning - Marcus Oscarsson
+- Hälften av bostäderna säljs under utgångspris - SvD
 - Fyra astronauter tillbaka på jorden - Aftonbladet
-- I brist på “GTA VI” – idag släpps “Mafia: The Old Country” - MovieZine
+- Sony erkänner att deras live service-satsning inte har gått som beräknat - FZ.se
 
 ## World News
 
@@ -37,39 +37,39 @@ _Updated: 2025-08-10 00:44_
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- TGE's New Movie "My First of May" Announces Global Release on Big Screens Starting in August - Placera.se
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- TGE's New Movie "My First of May" Announces Global Release on Big Screens Starting in August - Placera.se
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
+- Skydance Media and Paramount Global Complete Merger, Creating Next Generation Media Company - Placera.se
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
-- Arrow Global förvärvar Troia Resort - The Portugal News
-- Portugal: En växande hubb för global teknik - The Portugal News
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
 
-- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
+- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
 - Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
+- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
+- Lantern Pharma Announces Public Release of Transformative, Advanced AI Module for Blood-Brain Barrier Permeability Prediction, predictBBB.ai - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
+- Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 
 ## Business
 
@@ -80,19 +80,19 @@ _Updated: 2025-08-10 00:44_
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
-- Dubbelvinst för Nordea i Sverige – rankas etta för Small- och Mid Corporates - Nordea
+- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Accord Announces Banking Facility Update - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Coincheck Reports Financial Results for First Quarter of Year Ending March 31, 2026 - Placera.se
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$947 Million (C$1.3 Billion) in AUM, and Monthly Net Inflows of US$14.4 Million (C$19.8 Million) in July 2025, Among Other Key Developments - Placera.se
-- Selective Director Steps Down to Focus on Founder Role - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 
 ## Health
 
@@ -103,10 +103,9 @@ _Updated: 2025-08-10 00:44_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
@@ -116,6 +115,7 @@ _Updated: 2025-08-10 00:44_
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
@@ -131,34 +131,34 @@ _Updated: 2025-08-10 00:44_
 - Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Jordbruk och landsbygdsutveckling - European Commission
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - Food Supply SE
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- De gick från reko till eko - ST-tidningen
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
