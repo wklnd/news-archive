@@ -1,6 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-09 04:25_
+_Updated: 2025-08-09 05:37_
 
 ## Top Stories
 
@@ -8,20 +8,20 @@ _Updated: 2025-08-09 04:25_
 - Polis dödad i skjutning vid skola - GP
 - FN:s säkerhetsråd möts om Israels Gaza-plan - Hufvudstadsbladet
 - Sprickan i regeringen: ”Fladdrig och splittrad” - SvD
-- Fred sluten mellan Azerbajdzjan och Armenien - Västerbottens-Kuriren
-- Källor: USA och Ryssland vill frysa frontlinjerna - GP
-- Unga utvisas ensamma – M-toppar vill se lagändring: ”Hål i systemet” - DN
-- Larmet: Svenska flodkräftan nära utplåning - SVT Nyheter
+- Charli XCX är en genuin och älskvärd popstjärna - Aftonbladet
 - En person drunknade varje dag i juli – en grupp sticker ut - GP
+- Unga utvisas ensamma – M-toppar vill se lagändring: ”Hål i systemet” - DN
+- Pesten på väg att utplåna flodkräftan – illegala utsättningar i Värmland pekas ut - NWT
+- Kvinna död – bilen voltade på E4 söder om Härnösand - SVT Nyheter
 - DN Direkt - Fem häktade efter skottdrama i Katrineholm - DN.se - DN
+- Fred sluten mellan Azerbajdzjan och Armenien - GP
+- Källor: USA och Ryssland vill frysa frontlinjerna - UNT
 - Apollo 13-astronaut död – blev 97 år - SvD
 - Trumps tullsmocka är här - HD
-- Larmet: De tvingas äta djurfoder - Aftonbladet
-- Lukasjenko feltolkades – ger inga klara besked - GP
-- Konkursen i Northvolt: "Några gav aldrig upp” - SvD
 - Tekniskt fel hos Avanza löst - Dagens industri
+- Konkursen i Northvolt: "Några gav aldrig upp” - SvD
 - Skräckexemplet Irland: ”Är riktigt förbannad” - SvD
-- Fyrabarnsfamiljen bokade hus för 30 000 – fick sova på stranden - Aftonbladet
+- Lyckan: Augusti kan bli varmare än vanligt - Expressen
 - I brist på “GTA VI” – idag släpps “Mafia: The Old Country” - MovieZine
 - Så mycket kommer Samsungs nya surfplattor kosta - m3.se
 
@@ -34,19 +34,19 @@ _Updated: 2025-08-09 04:25_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - TGE's New Movie "My First of May" Announces Global Release on Big Screens Starting in August - Placera.se
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
+- Skydance Media and Paramount Global Complete Merger, Creating Next Generation Media Company - Placera.se
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
-- Portugal: En växande hubb för global teknik - The Portugal News
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - Arrow Global förvärvar Troia Resort - The Portugal News
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- Portugal framstår som ett strategiskt nav för global teknikexpansion - The Portugal News
 
 ## Technology
 
@@ -75,24 +75,24 @@ _Updated: 2025-08-09 04:25_
 
 - Accord Announces Banking Facility Update - Placera.se
 - Better Home & Finance Holding Company Announces Second Quarter 2025 Results - Placera.se
-- Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
+- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$947 Million (C$1.3 Billion) in AUM, and Monthly Net Inflows of US$14.4 Million (C$19.8 Million) in July 2025, Among Other Key Developments - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Accord Announces Banking Facility Update - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Coincheck Reports Financial Results for First Quarter of Year Ending March 31, 2026 - Placera.se
-- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$947 Million (C$1.3 Billion) in AUM, and Monthly Net Inflows of US$14.4 Million (C$19.8 Million) in July 2025, Among Other Key Developments - Placera.se
+- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 - Selective Director Steps Down to Focus on Founder Role - Placera.se
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 
 ## Health
 
@@ -143,22 +143,22 @@ _Updated: 2025-08-09 04:25_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Jordbruk och landsbygdsutveckling - European Commission
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - Food Supply SE
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- De gick från reko till eko - ST-tidningen
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
