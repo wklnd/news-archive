@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-09 13:39_
+_Updated: 2025-08-09 15:06_
 
 ## Top Stories
 
-- Zelenskyj varnar inför Trumps möte med Putin - Hufvudstadsbladet
-- Expert: Så kan tyska vapenstoppet pressa Sveriges regering - DN
-- Putin lyssnade tyst – sedan hände något - SvD
+- Trump: ”Möter Putin nästa vecka” - DN
+- DN Direkt - Naken man betvingad med elpistol - DN.se - DN
 - Man död efter kraftig brand i Skövde - SVT Nyheter
-- Melinda Jacobs svarar på kritiken: ”Intentionen har bara varit god” - Aftonbladet
+- Tio år efter flyktingvågen bygger EU Trumpmurar - DN
+- Kvinnor lurade till sig pengar till tågbiljetter – döms för bedrägeri - GP
+- Expert: Så kan tyska vapenstoppet pressa Sveriges regering - DN
 - Från diplomati till fryst avtal – så har regeringen svängt under kriget i Gaza - DN
-- DN Direkt - Stopp i Göteborgs tågtrafik – obehöriga på spåret - DN.se - DN
+- Färre tjuvar men fler bedragare härjar - GP
 - Spektakulärt fågelbesök vid Forsmark: "Extremt ovanlig gäst" - UNT
 - 09 augusti 12.49, Sammanfattning natt, Västerbottens län - polisen.se
-- Sommartemperaturer på väg tillbaka: ”Värme från kontinenten” - GP
+- Zelenskyj varnar inför Trumps möte med Putin - Hufvudstadsbladet
+- KRÖNIKA: Ledigheten har blivit för dyr för många italienare - Sydsvenskan
 - Skogsbrand rasar i Grekland - GP
-- Misstänkt Montana-skytt gripen - Västerbottens-Kuriren
-- New York förklarar krig – mot råttorna - GP
-- Israels säkerhetsrådgivare emot Gaza-plan – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- New York förklarar krig – mot råttorna - Västerbottens-Kuriren
 - ”Jubla inte för tidigt över Northvolt” - Västerbottens-Kuriren
 - ”Valbudget” väntas när Sveriges ekonomi hackar - SvD
 - Hälften av bostäderna säljs under utgångspris - Aftonbladet
-- Apple rusar – efter mötet i Vita huset - Dagens PS
+- Chefsekonom: USA-kris kan slå hårt mot Sverige - Omni
 - Klara, färdiga, kör! Sveriges största test av sportbilar - Teknikens Värld
-- Deras fordon används i nya tv-serien: ”Körde moppe i Lasse-Maja-filmen” - Borås Tidning
+- JORGE CASTRO: 20 AI-hacks som sätter dig längst fram i sökkriget - Breakit
 
 ## World News
 
-- GenScript Unveils New Global Identity: "Scripting Possibilities" to Power the Future of Biotechnology - Placera.se
 - The ultimate global study companion: Pearson expands AI-powered Study Prep, supporting personalized learning worldwide - Placera.se
+- Choice Hotels International Continues Global Expansion Through Consolidation of Investment in Choice Hotels Canada - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- GenScript Unveils New Global Identity: "Scripting Possibilities" to Power the Future of Biotechnology - Placera.se
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
-- Uppsala University in the top 90 in new global ranking - Uppsala universitet
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- BIG Travel går in i globalt partnerskap - travelnews.se
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
-- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- AST SpaceMobile Announces Agreement to Acquire Global S-Band Spectrum Priority Rights Held under the International Telecommunication Union - Placera.se
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - TGE's New Movie "My First of May" Announces Global Release on Big Screens Starting in August - Placera.se
-- Prolific invasive plant will spread further as climate changes, warns a new global study - European Commission
-- Portugal: En växande hubb för global teknik - The Portugal News
+- Skydance Media and Paramount Global Complete Merger, Creating Next Generation Media Company - Placera.se
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- Arrow Global förvärvar Troia Resort - The Portugal News
 
 ## Technology
 
@@ -64,7 +64,7 @@ _Updated: 2025-08-09 13:39_
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
@@ -143,22 +143,22 @@ _Updated: 2025-08-09 13:39_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- De gick från reko till eko - ST-tidningen
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
