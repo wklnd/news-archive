@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-09 08:51_
+_Updated: 2025-08-09 09:40_
 
 ## Top Stories
 
-- Trump: Ska träffa Putin nästa fredag om fredsavtal - Hufvudstadsbladet
+- Trump: ”Möter Putin nästa vecka” - DN
 - Från diplomati till fryst avtal – så har regeringen svängt under kriget i Gaza - DN
+- Zelenskyj varnar inför Trumps möte med Putin - Hufvudstadsbladet
 - En till sjukhus efter kraftig brand i Skövde - SVT Nyheter
-- Mohammed i Gaza stad: Vet inte vart vi ska ta vägen - GP
-- Lukasjenkos 20-årige son har förberetts för rollen som ny diktator - DN
-- Fred sluten mellan Azerbajdzjan och Armenien - GP
+- FN:s säkerhetsråd möts om Israels Gaza-plan - Västerbottens-Kuriren
+- Lukasjenko feltolkades – ger inga klara besked - GP
 - Spektakulärt fågelbesök vid Forsmark: "Extremt ovanlig gäst" - UNT
-- Polisen varnar för bedrägerier – ”De kan låta hur trevliga som helst” - Smålandsposten
 - Ståhlis: Även en strävhårig tax kan vara en umarell - DN
-- En person drunknade varje dag i juli – en grupp sticker ut - GP
+- 08 augusti 18.52, Mord/dråp, försök, Fagersta - polisen.se
+- Läkare om ”humanitär" Gazazon: Bomber dygnet runt - GP
 - Misstänkt Montana-skytt gripen - GP
-- Polis dödad i skjutning vid universitet - GP
-- Källor: USA och Ryssland vill frysa frontlinjerna - UNT
+- Polis dödad i skjutning vid universitet - Västerbottens-Kuriren
 - Så hanterar bolagsjätten de amerikanska tullarna - Jönköpings-Posten
+- DN Direkt - Fred sluten mellan Azerbajdzjan och Armenien - DN.se - DN
 - Konkursen i Northvolt: "Några gav aldrig upp” - SvD
+- Hälften av bostäderna säljs under utgångspris - SvD
 - Tekniskt fel hos Avanza löst – sparare såg tomma portföljer - Omni
 - Lyckan: Augusti kan bli varmare än vanligt - Expressen
-- USA ska ”klargöra felaktig information” om guldtullar - Dagens industri
-- Deras fordon används i nya tv-serien: ”Körde moppe i Lasse-Maja-filmen” - Borås Tidning
 - I brist på “GTA VI” – idag släpps “Mafia: The Old Country” - MovieZine
+- Guide: Vilken soundbar ska du välja till din TV? - Ljud & Bild
 
 ## World News
 
@@ -50,26 +50,26 @@ _Updated: 2025-08-09 08:51_
 
 ## Technology
 
-- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
+- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
 - Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
+- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - EY.ai | EY - Sverige - EY
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
-- Leveraging AI in Swedish Development Cooperation - FUF Föreningen för utvecklingsfrågor
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 
 ## Business
 
@@ -80,9 +80,10 @@ _Updated: 2025-08-09 08:51_
 - Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
+- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Accord Announces Banking Facility Update - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
@@ -90,7 +91,6 @@ _Updated: 2025-08-09 08:51_
 - AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 - SIGMA LITHIUM STREAMLINES LEADERSHIP COMBINING KEY ROLES UNDER VETERAN VPs; ANNOUNCES SHAREHOLDER MEETING RESULTS; TO RELEASE 2Q FINANCIALS ON AUG 14, 2025 - Placera.se
 
@@ -107,8 +107,8 @@ _Updated: 2025-08-09 08:51_
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - Anna Kiessling - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
@@ -120,45 +120,45 @@ _Updated: 2025-08-09 08:51_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
-- Simple math behind major bison blunder - Forskning & Framsteg
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- E-infrastruktur för livsvetenskap får SSF-anslag - Uppsala universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Möt forskare i Umeå digitalt på ForskarFredag den 27 november! - Mynewsdesk
-- ​Vetenskapsfestivalen ForskarFredag fyller 15 år! Möt forskare från Högskolan i Skövde - online - Mynewsdesk
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Jordbruk och landsbygdsutveckling - European Commission
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- De gick från reko till eko - ST-tidningen
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
