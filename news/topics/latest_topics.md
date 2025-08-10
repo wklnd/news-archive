@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-10 12:45_
+_Updated: 2025-08-10 13:39_
 
 ## Top Stories
 
 - 100 barn har svultit ihjäl i Gaza - SVT Nyheter
-- Trump öppnar för att bjuda Zelenskyj till Alaska - DN
 - Man gripen för mordförsök i södra Stockholm i natt - Omni
+- Badgäster vill fånga sista sommarvärmen: ”Många överskattar sin förmåga” - DN
+- Trump öppnar för att bjuda Zelenskyj till Alaska - DN
 - Mordförsök i Malmö: Fyra skadade efter knivslagsmål – åtta gripna - Skånska Dagbladet
-- ”Luftburen förnedring” – dödlig Gazahjälp från ovan - Hallandsposten
-- Man död efter kanotolycka - GP
-- Dags att räkna Sveriges igelkottar - GP
+- Linneryd har fått biparadis vid Kyrkviksstugan - Smålandsposten
+- Kristersson i samtal med Zelenskyj - GP
+- Dags att räkna Sveriges igelkottar - Västerbottens-Kuriren
 - Därför ringer kyrkklockorna extra länge - UNT
 - Tio år i Sverige – men Sanaz har ännu inga svenska tjejkompisar - DN
-- Vasst jätteostron fortsätter ställa till problem - Västerbottens-Kuriren
 - 100 barn har svultit ihjäl i Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Missen bakom mötet – förstod inte Putins krav - Expressen
-- ”Det är fortfarande svårt att få väst att förstå att vi ukrainare är som ni” - DN
-- Ilska sedan rymdsten hittad i Afrika sålts i USA - Aftonbladet
+- Astrid Lindgrens värld bygger om – för 50 miljoner - Expressen
+- Missvisande budskap sprids om nödhjälpsstölder i Gaza - Omni
 - Tiotusentals hotell stämmer Booking - SVT Nyheter
-- "Salt i såren" – USA:s kris smittar av sig på Sverige - Realtid
 - Så blev ”tjejsnuset” macho i USA - SvD
 - Super-rea på nya elbilar – över 200 000 kronor i rabatt - Privata Affärer
+- Sandström: Harald Mix halmgubbe – vanskötseln i tio punkter och tio grafer - Affärsvärlden
 - Fysiker med galen teori: Vid universums utkant finns något som astronomer har sökt efter i mer än 100 år - Illustrerad Vetenskap
-- Fyra astronauter tillbaka på jorden - Aftonbladet
+- Koralliknande stenar hittade på Mars – kan vara miljarder år - Expressen
 
 ## World News
 
@@ -50,19 +50,19 @@ _Updated: 2025-08-10 12:45_
 
 ## Technology
 
-- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
-- Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
 - Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
+- Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
+- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
+- Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
-- Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
@@ -121,39 +121,39 @@ _Updated: 2025-08-10 12:45_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Jordbruk och landsbygdsutveckling - European Commission
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Här är världens största jordbruk - ATL
@@ -161,4 +161,4 @@ _Updated: 2025-08-10 12:45_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
