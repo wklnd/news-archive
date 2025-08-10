@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-10 19:41_
+_Updated: 2025-08-10 20:49_
 
 ## Top Stories
 
 - Ingmar Nevéus: Mötet i Alaska kan redan ses som en seger för Putin - DN
-- Netanyahu försvarar sin nya offensiv: ”Ska befria Gaza” - DN
-- EU-ministrar i möte om Ukraina - UNT
-- Olycka norr om Huskvarna – stor trafikpåverkan - Skillingaryd
 - Céline får ingen hjälp med sin ”inneboende” - Aftonbladet
-- Sju anhållna efter stort knivslagsmål i Malmö - GP
+- Olycka norr om Huskvarna – stor trafikpåverkan - Skillingaryd
+- EU-ministrar i möte om Ukraina - UNT
+- Hemliga spelet bakom ryska storövningen Zapad - SvD
+- Netanyahu: ”Vårt mål är att befria Gaza” - GP
 - Marie hittade död näbbval utanför Frillesås - GP
-- Kronofogden utmätte 115 miljoner på distans i fjol - Omni
 - Kristersson och Zelenskyj i samtal - SVT Nyheter
 - Hörde du kyrkklockorna ringa längre än vanligt? - UNT
+- Kronofogden utmätte 115 miljoner på distans i fjol - Omni
+- Hundratals gripna i London – stöttade terrorklassad grupp - GP
 - 100 barn har svultit ihjäl i Gaza - SVT Nyheter
-- Vesuvius stängs för turister – skogsbrand härjar - Ystads Allehanda
 - Treårig pojke påkörd vid landsväg i Mark - Expressen
 - Pytonjakten: ”Ett monster kan dyka upp när som helst” - Aftonbladet
 - Tiotusentals hotell stämmer Booking - SvD
-- USA tros lida av den ”holländska sjukan” - SvD
 - Rysk krigsekonomi hotas av ny bankkris - Hufvudstadsbladet
 - Sandström: Harald Mix halmgubbe – vanskötseln i tio punkter och tio grafer - Affärsvärlden
+- Nya siffror: Här är världens mest populära flygrutt - Expressen
 - Koralliknande stenar hittade på Mars – kan vara miljarder år - Expressen
-- Vilken lätt hardtail är det som gäller för att cykla in i 2026? - Happyride
+- Studenterna tröttnade på Tinder – skapar egen dejtingapp - UNT
 
 ## World News
 
@@ -38,15 +38,15 @@ _Updated: 2025-08-10 19:41_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - TGE's New Movie "My First of May" Announces Global Release on Big Screens Starting in August - Placera.se
-- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
-- Skydance Media and Paramount Global Complete Merger, Creating Next Generation Media Company - Placera.se
-- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
+- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 
 ## Technology
 
@@ -64,8 +64,8 @@ _Updated: 2025-08-10 19:41_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
@@ -74,22 +74,22 @@ _Updated: 2025-08-10 19:41_
 ## Business
 
 - Better Home & Finance Holding Company Announces Second Quarter 2025 Results - Placera.se
-- Accord Announces Banking Facility Update - Placera.se
-- Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Accord Announces Banking Facility Update - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Accord Announces Banking Facility Update - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Coincheck Reports Financial Results for First Quarter of Year Ending March 31, 2026 - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Selective Director Steps Down to Focus on Founder Role - Placera.se
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$947 Million (C$1.3 Billion) in AUM, and Monthly Net Inflows of US$14.4 Million (C$19.8 Million) in July 2025, Among Other Key Developments - Placera.se
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
@@ -119,26 +119,26 @@ _Updated: 2025-08-10 19:41_
 
 ## Science
 
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
 - 5 myter om öppen vetenskap - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
 
 ## Jordbruk
 
