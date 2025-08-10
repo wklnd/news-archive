@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-10 09:39_
+_Updated: 2025-08-10 10:47_
 
 ## Top Stories
 
-- Tiotusentals hotell stämmer Booking - SvD
-- Stort knivbråk i Malmö – två allvarligt skadade - SVT Nyheter
-- ”Vi är inget konstigt folk som krälar omkring” - Aftonbladet
-- Tio år i Sverige – men Sanaz har ännu inga svenska tjejkompisar - DN
+- 100 barn har svultit ihjäl i Gaza - SVT Nyheter
+- DN Direkt - Stort knivbråk i Malmö – två allvarligt skadade - DN.se - DN
+- USA-mötet en ”enorm propagandavinst för Putin” - GP
 - Trump öppnar för att bjuda Zelenskyj till Alaska - DN
-- Kanot kantrade – en till sjukhus - Västerbottens-Kuriren
-- Dags att räkna Sveriges igelkottar - GP
-- Ideellt drivna skolor försvarar möjligheten att förbjuda vinster - ETC.se
-- Fallet Adam Walsh skakade USA – 40 år senare fäller han skånska pedofiler - Sydsvenskan
+- Man gripen för mordförsök i södra Stockholm i natt - Omni
+- Svenska kyrkan ringer för fred i Gaza - Västerbottens-Kuriren
+- Dags att räkna Sveriges igelkottar - Västerbottens-Kuriren
+- Tio år i Sverige – men Sanaz har ännu inga svenska tjejkompisar - DN
+- Vasst jätteostron fortsätter ställa till problem - DN
 - 10 augusti 07.00, Sammanfattning kväll och natt, Hallands län - polisen.se
-- Tiotusentals i protest i Israel – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- ”Luftburen förnedring” – dödlig Gazahjälp från ovan - Västerbottens-Kuriren
+- Massiva protester i Tel Aviv - GP
+- ”Luftburen förnedring” – dödlig Gazahjälp från ovan - DN
 - ”Det är fortfarande svårt att få väst att förstå att vi ukrainare är som ni” - DN
 - Astrid Lindgrens värld bygger om – för 50 miljoner - Expressen
+- Tiotusentals hotell stämmer Booking - SVT Nyheter
 - "Salt i såren" – USA:s kris smittar av sig på Sverige - Realtid
+- Så blev det vita ”tjejsnuset” macho i USA - SvD
 - ”Jubla inte för tidigt över Northvolt” - Västerbottens-Kuriren
-- Airbnb sticker ut i Sverige – av en udda anledning - Marcus Oscarsson
-- Fem saker du inte får missa på Motorfestivalen i Trollhättan - TTELA
-- Fyra astronauter tillbaka på jorden - TV4 Nyheterna
 - Fysiker med galen teori: Vid universums utkant finns något som astronomer har sökt efter i mer än 100 år - Illustrerad Vetenskap
+- DOPEST Testar: Battlefield 6 – första intrycken från reveal-eventet i London - dopest.se
 
 ## World News
 
@@ -40,13 +40,13 @@ _Updated: 2025-08-10 09:39_
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - TGE's New Movie "My First of May" Announces Global Release on Big Screens Starting in August - Placera.se
-- Skydance Media and Paramount Global Complete Merger, Creating Next Generation Media Company - Placera.se
-- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
+- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Arrow Global förvärvar Troia Resort - The Portugal News
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 
 ## Technology
 
@@ -56,6 +56,7 @@ _Updated: 2025-08-10 09:39_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
@@ -69,7 +70,6 @@ _Updated: 2025-08-10 09:39_
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 
 ## Business
 
@@ -104,7 +104,6 @@ _Updated: 2025-08-10 09:39_
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
@@ -116,49 +115,50 @@ _Updated: 2025-08-10 09:39_
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - Food Supply SE
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- De gick från reko till eko - ST-tidningen
-- Små jordbruk kan mätta fler - FoodMonitor
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
