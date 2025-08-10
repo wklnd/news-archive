@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-10 07:47_
+_Updated: 2025-08-10 08:51_
 
 ## Top Stories
 
-- Stort knivbråk i Malmö – två allvarligt skadade - SVT Nyheter
-- WSJ: Europeisk plan för Ukraina klar - Hufvudstadsbladet
+- Stort knivbråk i Malmö - SvD
+- Trump öppnar för att bjuda Zelenskyj till Alaska - DN
 - ”Vi är inget konstigt folk som krälar omkring” - Aftonbladet
-- DN Direkt - Kanot kantrade – en till sjukhus - DN.se - DN
-- ”Det är fortfarande svårt att få väst att förstå att vi ukrainare är som ni” - DN
-- Massiva protester i Tel Aviv - GP
 - Tio år i Sverige – men Sanaz har ännu inga svenska tjejkompisar - DN
-- Sexårige Adam Walsh fäller skånska pedofiler – 40 år efter han försvann i USA - HD
+- ”Det är fortfarande svårt att få väst att förstå att vi ukrainare är som ni” - DN
+- Hegseth delar klipp mot kvinnors rösträtt - Aftonbladet
+- Dags att räkna Sveriges igelkottar - GP
+- Fallet Adam Walsh skakade USA – 40 år senare fäller han skånska pedofiler - Sydsvenskan
 - Ideellt drivna skolor försvarar möjligheten att förbjuda vinster - ETC.se
 - 10 augusti 07.00, Sammanfattning kväll och natt, Hallands län - polisen.se
-- ”Luftburen förnedring” – dödlig Gazahjälp från ovan - TTELA
+- Tiotusentals i protest i Israel – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- ”Luftburen förnedring” – dödlig Gazahjälp från ovan - Västerbottens-Kuriren
 - USA-mötet en ”enorm propagandavinst för Putin” - Hufvudstadsbladet
-- Missvisande budskap sprids om nödhjälpsstölder i Gaza - Omni
-- Vill turista på ockuperade Krim – klagar på trafikkaos: ”Ett rent helvete” - Aftonbladet
+- Man död i kanotolycka - Expressen
 - "Salt i såren" – USA:s kris smittar av sig på Sverige - Realtid
 - ”Jubla inte för tidigt över Northvolt” - Västerbottens-Kuriren
-- Airbnb sticker ut i Sverige – av en udda anledning - Marcus Oscarsson
 - 10 000 europeiska hotell stämmer bokningssajt - DN
+- Airbnb sticker ut i Sverige – av en udda anledning - Marcus Oscarsson
 - Fyra astronauter tillbaka på jorden - TV4 Nyheterna
 - DOPEST Testar: Battlefield 6 – första intrycken från reveal-eventet i London - dopest.se
 
 ## World News
 
 - The ultimate global study companion: Pearson expands AI-powered Study Prep, supporting personalized learning worldwide - Placera.se
+- GenScript Unveils New Global Identity: "Scripting Possibilities" to Power the Future of Biotechnology - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
-- Uppsala University in the top 90 in new global ranking - Uppsala universitet
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- BIG Travel går in i globalt partnerskap - travelnews.se
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- TGE's New Movie "My First of May" Announces Global Release on Big Screens Starting in August - Placera.se
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
-- 1 426 potential victims identified in global operation against human trafficking - Europol
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- AST SpaceMobile Announces Agreement to Acquire Global S-Band Spectrum Priority Rights Held under the International Telecommunication Union - Placera.se
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
-- Portugal: En växande hubb för global teknik - The Portugal News
-- Portugal framstår som ett strategiskt nav för global teknikexpansion - The Portugal News
-- Prolific invasive plant will spread further as climate changes, warns a new global study - European Commission
+- TGE's New Movie "My First of May" Announces Global Release on Big Screens Starting in August - Placera.se
+- Skydance Media and Paramount Global Complete Merger, Creating Next Generation Media Company - Placera.se
+- Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- Arrow Global förvärvar Troia Resort - The Portugal News
 
 ## Technology
 
@@ -57,19 +57,19 @@ _Updated: 2025-08-10 07:47_
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
-- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
+- Lantern Pharma Announces Public Release of Transformative, Advanced AI Module for Blood-Brain Barrier Permeability Prediction, predictBBB.ai - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
+- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
 
 ## Business
 
@@ -105,6 +105,8 @@ _Updated: 2025-08-10 07:47_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
+- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
@@ -114,8 +116,6 @@ _Updated: 2025-08-10 07:47_
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -150,15 +150,15 @@ _Updated: 2025-08-10 07:47_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Jordbruk och landsbygdsutveckling - European Commission
-- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- De gick från reko till eko - ST-tidningen
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Här är världens största jordbruk - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
