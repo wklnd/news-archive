@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-11 00:44_
+_Updated: 2025-08-11 01:41_
 
 ## Top Stories
 
-- Fem Al Jazeera-journalister dödade i israelisk attack i Gaza - DN
-- Olycka norr om Huskvarna – stor trafikpåverkan - Skillingaryd
-- Hundratals gripna i London – stöttade terrorklassad grupp - GP
+- Journalisten Anas al-Sharif har dödats i Gaza - GP
 - Hemliga ordern: Stäng ner klimatsatelliterna - Aftonbladet
 - Gazaparet gifte sig under brinnande krig - DN
-- DN Direkt - JD Vance: Fredsavtal gör sannolikt både Moskva och Kiev missnöjda - DN.se - DN
-- Marie hittade död näbbval utanför Frillesås - GP
-- Kristersson och Zelenskyj i samtal - SVT Nyheter
+- EU-ministrar i möte om Ukraina - UNT
+- Netanyahu: ”Vårt mål är att befria Gaza” - Västerbottens-Kuriren
+- Massbesök av storkar i Hälsingland - GP
 - Kronofogden utmätte 115 miljoner på distans i fjol - Omni
 - Kamerabevakning med drönare i Solna och Vasastan - polisen.se
-- Nathan Shachar: Inte omöjligt att Netanyahus plan är en taktisk fint - DN
+- DN Direkt - Trafiken på E4 rullar igen efter trafikolycka utanför Huskvarna - DN.se - DN
+- Sju anhållna efter stort knivslagsmål i Malmö - GP
 - Åtta dödade på nattklubb i Ecuador - UNT
-- Gaza: 100 barn har hungrat ihjäl - Västerbottens-Kuriren
-- Ingmar Nevéus: Mötet i Alaska kan redan ses som en seger för Putin - DN
+- 100 barn har hungrat ihjäl i Gaza - GP
+- Missförstånd kan ligga bakom Alaska-mötet - GP
+- Treåring påkörd – fördes till sjukhus med helikopter - Aftonbladet
 - Miljarder satsas på rena gissningslekar - SvD
 - Vitt snus säljs in som ”svenskt” – vinster går till globala tobaksjättar - GP
 - Rysk krigsekonomi hotas av ny bankkris - Hufvudstadsbladet
 - Sandström: Harald Mix halmgubbe – vanskötseln i tio punkter och tio grafer - Affärsvärlden
 - Studenterna vill ändra dejtandet – skapar egen app - UNT
-- Koralliknande stenar hittade på Mars – kan vara miljarder år - Expressen
+- Battlefield 6-betan är den största öppna Battlefield-beta någonsin enligt EA - FZ.se
 
 ## World News
 
@@ -37,16 +37,16 @@ _Updated: 2025-08-11 00:44_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - TGE's New Movie "My First of May" Announces Global Release on Big Screens Starting in August - Placera.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
-- Arrow Global förvärvar Troia Resort - The Portugal News
 
 ## Technology
 
@@ -64,8 +64,8 @@ _Updated: 2025-08-11 00:44_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
@@ -78,21 +78,21 @@ _Updated: 2025-08-11 00:44_
 - Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Dubbelvinst för Nordea i Sverige – rankas etta för Small- och Mid Corporates - Nordea
-- Accord Announces Banking Facility Update - Placera.se
 - Selective Director Steps Down to Focus on Founder Role - Placera.se
+- Accord Announces Banking Facility Update - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
 - Coincheck Reports Financial Results for First Quarter of Year Ending March 31, 2026 - Placera.se
-- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$947 Million (C$1.3 Billion) in AUM, and Monthly Net Inflows of US$14.4 Million (C$19.8 Million) in July 2025, Among Other Key Developments - Placera.se
+- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 
 ## Health
 
@@ -107,8 +107,8 @@ _Updated: 2025-08-11 00:44_
 - Johan von Schreeb - Karolinska Institutet
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
@@ -119,46 +119,46 @@ _Updated: 2025-08-11 00:44_
 
 ## Science
 
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Jordbruk och landsbygdsutveckling - European Commission
+- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - Food Supply SE
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - De gick från reko till eko - ST-tidningen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är världens största jordbruk - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
