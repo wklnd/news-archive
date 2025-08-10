@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-10 18:54_
+_Updated: 2025-08-10 19:48_
 
-- Russians cheer Putin’s Alaska invitation, envision no concessions on Ukraine - The Washington Post
-- A week into their walkout, Texas Democrats are figuring out what to do next - CNN
-- Far-Right Israeli Minister Calls for Quicker Military Moves in Gaza - The New York Times
+- What Vladimir Putin wants from Donald Trump at Alaska summit - Financial Times
+- What can the FBI do in Texas redistricting fight? Not much, experts say. - The Washington Post
+- Netanyahu defends Israel's plan to 'take over' Gaza City as European leaders call for decision to be reversed - BBC
 - 1 dead, 5 wounded, including 5-year-old girl, in Baltimore 'mass shooting': Police - ABC News
-- Ruben Gallego makes Iowa swing to boost Democrats, adding to 2028 buzz - The Washington Post
-- CDC shooter believed Covid vaccine made him suicidal, his father tells police - Politico
+- CDC shooter blamed COVID vaccine for depression; union demands statement against misinformation - AP News
+- Trump says crime in D.C. is out of control. Here’s what the data shows. - The Washington Post
+- Milwaukee contends with flash flooding, state fair and airport affected, with more rain expected Sunday - CNN
 - Florida’s universities face research overhaul courtesy of Trump and DeSantis - Politico
 - An Afghan interpreter evaded death during the war but met a grim fate in Texas - NBC News
 - Democrats try to separate their tactical use of redistricting from that of Republicans - Politico
-- Trump says crime in D.C. is out of control. Here’s what the data shows. - The Washington Post
-- Trump Administration Live Updates: Ukraine and Europe Project Unity Before President Meets With Putin - The New York Times
-- London police arrest 474 people as pro-Palestinian protesters defy new law - NBC News
+- European leaders rally behind Ukraine ahead of Trump-Putin meeting - AP News
+- Hundreds of protesters arrested in London for supporting banned pro-Palestinian group - CBS News
 - World reacts to peace agreement between Armenia and Azerbaijan - Euronews.com
 - Israel’s UN envoy accuses UK of hypocrisy over Gaza war - JNS.org
-- Trump suggests "MAGA" stock listing for mortgage giants Fannie, Freddie - Axios
 - How once-iconic Intel fell into a 20-year decline - Fortune
 - Trump 401k changes: What to know - NBC News
+- Trump suggests "MAGA" stock listing for mortgage giants Fannie, Freddie - Axios
 - Computer-Driven Traders Are Bullish on Stocks, Humans Are Bears - Bloomberg.com
 - Apple’s MacBook Pro overhaul with OLED might not launch until 2027: report - 9to5Mac
-- NASA and Google Unveil Cutting-Edge AI to Safeguard Astronauts’ Health on Mars - The Daily Galaxy
+- Steve Wozniak on fighting internet scams - CBS News
