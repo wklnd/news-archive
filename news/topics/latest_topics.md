@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-10 06:57_
+_Updated: 2025-08-10 07:47_
 
 ## Top Stories
 
-- WSJ: Europeisk plan för Ukraina klar - Hufvudstadsbladet
 - Stort knivbråk i Malmö – två allvarligt skadade - SVT Nyheter
+- WSJ: Europeisk plan för Ukraina klar - Hufvudstadsbladet
 - ”Vi är inget konstigt folk som krälar omkring” - Aftonbladet
 - DN Direkt - Kanot kantrade – en till sjukhus - DN.se - DN
-- Lista: Här är privatpersonerna och företagen som äger mest skog i länet - Smålandsposten
+- ”Det är fortfarande svårt att få väst att förstå att vi ukrainare är som ni” - DN
 - Massiva protester i Tel Aviv - GP
-- Vasst jätteostron fortsätter ställa till problem - DN
-- Fallet Adam Walsh skakade USA – 40 år senare fäller han skånska pedofiler - Sydsvenskan
+- Tio år i Sverige – men Sanaz har ännu inga svenska tjejkompisar - DN
+- Sexårige Adam Walsh fäller skånska pedofiler – 40 år efter han försvann i USA - HD
 - Ideellt drivna skolor försvarar möjligheten att förbjuda vinster - ETC.se
-- Sommartemperaturer på väg tillbaka: ”Värme från kontinenten” - GP
-- USA-mötet en ”enorm propagandavinst för Putin” - Västerbottens-Kuriren
+- 10 augusti 07.00, Sammanfattning kväll och natt, Hallands län - polisen.se
+- ”Luftburen förnedring” – dödlig Gazahjälp från ovan - TTELA
+- USA-mötet en ”enorm propagandavinst för Putin” - Hufvudstadsbladet
 - Missvisande budskap sprids om nödhjälpsstölder i Gaza - Omni
 - Vill turista på ockuperade Krim – klagar på trafikkaos: ”Ett rent helvete” - Aftonbladet
-- Expert: Så kan tyska vapenstoppet pressa Sveriges regering - DN
-- Tusentals hotell i strid mot bokningsjätten - SvD
+- "Salt i såren" – USA:s kris smittar av sig på Sverige - Realtid
 - ”Jubla inte för tidigt över Northvolt” - Västerbottens-Kuriren
-- Svenskheten säljer – men snusvinsten går utomlands - Omni
 - Airbnb sticker ut i Sverige – av en udda anledning - Marcus Oscarsson
+- 10 000 europeiska hotell stämmer bokningssajt - DN
 - Fyra astronauter tillbaka på jorden - TV4 Nyheterna
-- Sony erkänner att deras live service-satsning inte har gått som beräknat - FZ.se
+- DOPEST Testar: Battlefield 6 – första intrycken från reveal-eventet i London - dopest.se
 
 ## World News
 
@@ -54,12 +54,12 @@ _Updated: 2025-08-10 06:57_
 - Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
 - Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
 - Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
@@ -77,20 +77,20 @@ _Updated: 2025-08-10 06:57_
 - Accord Announces Banking Facility Update - Placera.se
 - Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Accord Announces Banking Facility Update - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Coincheck Reports Financial Results for First Quarter of Year Ending March 31, 2026 - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$947 Million (C$1.3 Billion) in AUM, and Monthly Net Inflows of US$14.4 Million (C$19.8 Million) in July 2025, Among Other Key Developments - Placera.se
-- Selective Director Steps Down to Focus on Founder Role - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 
@@ -103,11 +103,11 @@ _Updated: 2025-08-10 06:57_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
@@ -120,45 +120,45 @@ _Updated: 2025-08-10 06:57_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - Food Supply SE
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Här är världens största jordbruk - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- De gick från reko till eko - ST-tidningen
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
