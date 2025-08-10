@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-10 21:48_
+_Updated: 2025-08-10 22:50_
 
-- What parts of Ukraine does Russia control as Trump suggests a land swap? - The Washington Post
-- D.C. mayor defends capital's crime rates after Trump threatens to take over police - NPR
-- A week into their walkout, Texas Democrats are figuring out what to do next - CNN
-- Europe urges Trump to use sanctions pressure ahead of Putin summit - Financial Times
+- Trump tells homeless people in D.C. to move out "IMMEDIATELY" amid capital crackdown - Axios
+- NATO Secretary General Rutte says Trump-Putin summit is about 'testing Putin' - ABC News
 - Netanyahu Doubles Down on Gaza Offensive After Global Backlash - The New York Times
-- Southeast Wisconsin severe flooding, power outages - FOX6 News Milwaukee
+- Milwaukee contends with flash flooding, state fair and airport affected, with more rain expected Sunday - CNN
 - CDC shooter blamed COVID vaccine for depression; union demands statement against misinformation - AP News
+- Europe urges Trump to use sanctions pressure ahead of Putin summit - Financial Times
+- Texas governor promises to keep redistricting fight going for years - The Washington Post
+- Commercial fishing in a vast Pacific nature area is halted after a judge blocks a Trump order - ABC News
 - Big Tech’s next major political battle may already be brewing in your backyard - Politico
-- An Afghan interpreter evaded death during the war but met a grim fate in Texas - NBC News
-- 1 dead, 5 injured in Baltimore mass shooting - WTOP
-- Palestine Action protest arrests rise to more than 500 - BBC
-- New York man killed in Puerto Rico while visiting island for Bad Bunny's residency, police say - CBS News
+- Trump's former surgeon general blasts Kennedy for 'tepid' response to CDC shootings - Politico
+- A US tourist who flew to Puerto Rico for a Bad Bunny concert was fatally shot, police say - AP News
+- Hundreds of protesters arrested in London for supporting banned pro-Palestinian group - CBS News
 - World reacts to peace agreement between Armenia and Azerbaijan - Euronews.com
 - Earthquake of magnitude 6.1 strikes western Turkey, disaster authority says - Reuters
 - Trump suggests "MAGA" stock listing for mortgage giants Fannie, Freddie - Axios
+- More than half of industries are already shedding workers, a 'telling' sign that's accompanied past recessions, top economist says - Fortune
 - Trump 401k changes: What to know - NBC News
-- Computer-Driven Traders Are Bullish on Stocks, Humans Are Bears - Bloomberg.com
 - Powerball Jackpot Rises Above $500 Million—Here’s How Much The Winner Could Take Home After Taxes - Forbes
-- Ranking 10 Major PC Brands From Worst To Best - bgr.com
+- Gurman: All-new App Intents feature and Siri overhaul on track to launch next spring - 9to5Mac
 - Here Are 3 New iOS 26 Features You Might Have Missed - MacRumors
