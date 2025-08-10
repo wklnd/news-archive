@@ -1,8 +1,8 @@
 # Top News Headlines
 
-_Updated: 2025-08-10 15:51_
+_Updated: 2025-08-10 16:50_
 
-- What parts of Ukraine does Russia control as Trump suggests a land swap? - The Washington Post
+- Russians cheer Putin’s Alaska invitation, envision no concessions on Ukraine - The Washington Post
 - What We Know About the C.D.C. Shooting in Atlanta - The New York Times
 - Israel protesters intensify pressure against plan to expand Gaza war - BBC
 - Europe stresses need to protect Ukrainian interests ahead of Trump-Putin talks - Reuters
@@ -12,13 +12,13 @@ _Updated: 2025-08-10 15:51_
 - Delgado's day job: MIA, or victim of Hochul's vengeance? - Politico
 - Trump says crime in D.C. is out of control. Here’s what the data shows. - The Washington Post
 - ‘We are at war – bring it on’: Democrats ready to fight dirty to stop Trump - The Guardian
-- How Starmer, Macron and Merz Tried to Halt the War in Gaza - The New York Times
 - London police arrest 474 people as pro-Palestinian protesters defy new law - NBC News
-- China Detains Senior Diplomat Liu Jianchao for Probe, WSJ Says - Bloomberg.com
-- Iran threatens planned Trump corridor envisaged by Azerbaijan-Armenia peace deal - The Times of Israel
-- Trump's 401(k) order offers retirement savers crypto, private assets, but also higher fees and more risk - Reuters
-- America's oldest workers can't retire. Here's how they're getting by. - Business Insider
-- How Chipotle became a Wall Street darling — and a 'Wall of Shame' employer - Business Insider
-- The SEC Just Quietly Surrendered in Its Biggest Crypto Battle - Gizmodo
+- France’s recognition of Palestinian state scuttled Gaza truce talks, Rubio says - politico.eu
+- World reacts to peace agreement between Armenia and Azerbaijan - Euronews.com
+- Thousands protest plan to build world’s longest bridge from Sicily to Italy - Al Jazeera
+- Trump 401k changes: What to know - NBC News
+- Trump seems to confirm 2025 timing for Fannie, Freddie IPO - HousingWire
+- How once-iconic Intel fell into a 20-year decline - Fortune
+- Detailed Logs Show ChatGPT Leading a Vulnerable Man Directly Into Severe Delusions - Futurism
 - How Galaxy Watch’s Innovative Sensor Breaks New Ground in Preventative Care - Samsung Newsroom
 - 5 apps that track you more than you think — and what to use instead - Android Police
