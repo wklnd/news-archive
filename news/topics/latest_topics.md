@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-10 06:26_
+_Updated: 2025-08-10 06:57_
 
 ## Top Stories
 
-- Europeisk enighet om plan för Ukraina - Hufvudstadsbladet
-- Stort knivbråk i Malmö – två allvarligt skadade - SvD
+- WSJ: Europeisk plan för Ukraina klar - Hufvudstadsbladet
+- Stort knivbråk i Malmö – två allvarligt skadade - SVT Nyheter
 - ”Vi är inget konstigt folk som krälar omkring” - Aftonbladet
+- DN Direkt - Kanot kantrade – en till sjukhus - DN.se - DN
 - Lista: Här är privatpersonerna och företagen som äger mest skog i länet - Smålandsposten
 - Massiva protester i Tel Aviv - GP
-- Trump: ”Möter Putin nästa vecka” - DN
 - Vasst jätteostron fortsätter ställa till problem - DN
 - Fallet Adam Walsh skakade USA – 40 år senare fäller han skånska pedofiler - Sydsvenskan
-- Man till sjukhus – fick hantel i huvudet under promenad - SVT Nyheter
+- Ideellt drivna skolor försvarar möjligheten att förbjuda vinster - ETC.se
 - Sommartemperaturer på väg tillbaka: ”Värme från kontinenten” - GP
-- Tålamodet tryter med nejsägarna i Berlin – kommer Merz svänga om Gaza? - DN
+- USA-mötet en ”enorm propagandavinst för Putin” - Västerbottens-Kuriren
 - Missvisande budskap sprids om nödhjälpsstölder i Gaza - Omni
 - Vill turista på ockuperade Krim – klagar på trafikkaos: ”Ett rent helvete” - Aftonbladet
-- Guardian: Melania allt viktigare rådgivare till Trump. - Expressen
+- Expert: Så kan tyska vapenstoppet pressa Sveriges regering - DN
 - Tusentals hotell i strid mot bokningsjätten - SvD
 - ”Jubla inte för tidigt över Northvolt” - Västerbottens-Kuriren
 - Svenskheten säljer – men snusvinsten går utomlands - Omni
@@ -39,8 +39,8 @@ _Updated: 2025-08-10 06:26_
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - TGE's New Movie "My First of May" Announces Global Release on Big Screens Starting in August - Placera.se
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
 - ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
 - 1 426 potential victims identified in global operation against human trafficking - Europol
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
@@ -59,6 +59,7 @@ _Updated: 2025-08-10 06:26_
 - Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
@@ -69,30 +70,29 @@ _Updated: 2025-08-10 06:26_
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Spectral Capital Announces Development of Over 100 Hybrid Quantum-Classical Innovations in 2025, Accelerating AI Model Efficiency for Acquired Businesses - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 
 ## Business
 
 - Better Home & Finance Holding Company Announces Second Quarter 2025 Results - Placera.se
-- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
+- Accord Announces Banking Facility Update - Placera.se
+- Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
+- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Accord Announces Banking Facility Update - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- Coincheck Reports Financial Results for First Quarter of Year Ending March 31, 2026 - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Accord Announces Banking Facility Update - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$947 Million (C$1.3 Billion) in AUM, and Monthly Net Inflows of US$14.4 Million (C$19.8 Million) in July 2025, Among Other Key Developments - Placera.se
+- New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Coincheck Reports Financial Results for First Quarter of Year Ending March 31, 2026 - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$947 Million (C$1.3 Billion) in AUM, and Monthly Net Inflows of US$14.4 Million (C$19.8 Million) in July 2025, Among Other Key Developments - Placera.se
 - Selective Director Steps Down to Focus on Founder Role - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
+- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 
 ## Health
 
@@ -103,19 +103,19 @@ _Updated: 2025-08-10 06:26_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -127,38 +127,38 @@ _Updated: 2025-08-10 06:26_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Jordbruk och landsbygdsutveckling - European Commission
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - Food Supply SE
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- De gick från reko till eko - ST-tidningen
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Här är världens största jordbruk - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
