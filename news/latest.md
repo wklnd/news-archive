@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-10 01:49_
+_Updated: 2025-08-10 04:55_
 
-- White House is considering inviting Zelenskyy to Alaska - NBC News
-- Authorities identify suspect who opened fire at CDC in Atlanta, killing one police officer - PBS
-- Israel faces growing global condemnation over military expansion in Gaza - Politico
+- White House hasn’t ruled out Zelensky being in Alaska during Trump-Putin meeting on Friday - CNN
+- Emory University, CDC Atlanta shooter: Neighbors talk about Patrick Joseph White - FOX 5 Atlanta
+- Cuomo Opens Line of Attack Over Mamdani’s Rent-Stabilized Apartment - The New York Times
 - IRS, White House clashed over immigrants’ data before tax chief was ousted - The Washington Post
-- Mexico rules out Trump's reported military plan against drug cartels - BBC
-- Iran threatens planned Trump corridor envisaged by Azerbaijan-Armenia peace deal - Reuters
-- ‘We are at war – bring it on’: Democrats ready to fight dirty to stop Trump - The Guardian
 - Tammy Bruce, State Department spokesperson, tapped for UN role - Politico
-- Teenager arrested after three shot in New York City's Times Square - BBC
-- California governor threatens "trigger" redistricting plan based on what Texas GOP decides - Axios
-- UK police arrest at least 466 people at Palestine Action protest in London - Al Jazeera
+- Leaders of Armenia and Azerbaijan shake hands and sign deal at White House peace summit - NBC News
+- Shots fired near prison where Ghislaine Maxwell is being held - NBC News
+- Playbook: California’s redistricting reality - Politico
+- Times Square shooting leaves 3 hurt, suspect in custody, NYPD says - CBS News
+- Why the ivory tower wants a deal with Trump - Politico
+- Hundreds of protesters arrested in London for supporting banned pro-Palestinian group - CBS News
+- A Sidelined Europe Seeks a Voice as Trump and Putin Prepare to Meet - The New York Times
 - Thousands in Tel Aviv protest against Netanyahu’s plan to escalate Gaza war - The Guardian
-- Israeli envoy attends Nagasaki 80th atom bomb anniversary, a year after Gaza war snub - The Times of Israel
-- White House envoy Witkoff meets Qatari prime minister to discuss plan to end Gaza war - Axios
-- Crypto may be coming to 401(k) plans, but it’ll be a while before it’s easily accessible - CNBC
-- Fed’s Bowman Backs a September Rate Cut - The Wall Street Journal
+- Israel faces growing global condemnation over military expansion in Gaza - Politico
+- $7K worth of Labubu dolls stolen from Los Angeles store, authorities say - ABC News
+- A top Federal Reserve official says dour jobs data backs the case for 3 rate cuts - AP News
 - FDA regulator reinstalled less than two weeks after White House ouster - The Washington Post
-- Thousands of dollars' worth of Labubus stolen as toy's popularity continues to soar - ABC News
-- A magical farming sim, cat museum exploration and other new indie games worth checking out - Engadget
-- This is the Android 17 codename, and it's not what you guessed - Android Authority
+- Crypto Currents: Trump signs executive order to allow crypto in 401(k) plans - Yahoo Finance
+- iOS 26 public beta 2 has just landed — here's everything that's changed - Tom's Guide
+- Passing Glances - The New York Times
