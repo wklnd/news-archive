@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-11 13:49_
+_Updated: 2025-08-11 15:24_
 
 - Trump demands homeless people 'immediately' move out of Washington DC - BBC
-- Israel assassinates 5 Al Jazeera staff: Scenes of carnage in Gaza City - Al Jazeera
-- Assessing footage claims to show collision between Chinese ships in South China Sea - BBC
-- Photos: Historic flash floods hit Milwaukee as Midwest faces heavy rains threat - Axios
-- Factories are losing immigrant workers, stressing those who remain - NPR
-- CDC union says vaccine misinformation put staff at risk after Atlanta shooting - The Guardian
+- Israel targets and kills Al Jazeera correspondent Anas al-Sharif as toll worsens on Gaza journalists - AP News
+- Colombia presidential hopeful Miguel Uribe Turbay dies weeks after campaign rally shooting - CBS News
+- Column | The end of the Trump-Modi bromance - The Washington Post
+- Australia Joins Growing Effort to Recognize Palestinian Statehood - The New York Times
+- Netanyahu: ‘If we wanted to commit genocide, it would have taken exactly one afternoon’ - The Times of Israel
+- Flooding hits midwest as Milwaukee experiences second wettest day ever - The Guardian
+- Suspected gunman in CDC shooting had grievance toward Covid vaccine: Sources - ABC News
 - Another megabill? Senate Republicans have their doubts. - Politico
-- Russia and Ukraine stick to their demands ahead of planned Putin-Trump summit in Alaska - PBS
-- Colorado wildfires burn more than 120,000 acres as firefighters await better weather - NPR
-- ‘Fighting Fire With Fire,’ Democrats on Defense as Texas Redistricting Looms - The New York Times
-- Days After Pledging a New Attack in Gaza, Israel’s Plan Is Still Unclear - The New York Times
-- Australia to recognize a Palestinian state, joining France, Canada and U.K. - The Washington Post
-- Colombia Presidential Candidate Miguel Uribe Has Died - Bloomberg.com
-- Europeans fear being a footnote in history as Putin looks to strike deal with Trump - CNN
-- Stock Market Today: Nvidia, AMD Stocks Fall; Dow Futures Inch Higher — Live Updates - The Wall Street Journal
+- Undocumented Immigrants Fear Seeking Aid After Texas Floods - The New York Times
+- European leaders urge for Ukraine to be included in Trump-Putin Alaska peace talks - NPR
+- UK police say more than 500 people arrested in pro-Palestinian events over weekend - AP News
+- 6 arrested for allegedly running fake police bureau, extorting money - AOL.com
+- White House roils markets with giant tariff revisions - Axios
+- Stock Market Today: Nvidia, AMD Stocks Fall; Dow Futures Inch Higher - The Wall Street Journal
+- US Consumers to Bear Brunt of Tariff Hit, Goldman Economists Say - Bloomberg.com
 - World shares are mixed ahead of Trump's deadline for imposing higher tariffs on Chinese goods - AP News
-- U.S. businesses are absorbing two-thirds of tariff costs so far - Goldman - Seeking Alpha
-- Here's what U.S. automakers are saying about Trump's changing EV policies - CNBC
-- New 12.9-Inch MacBook to Launch As Soon This Year for As Low As $599 - MacRumors
-- Google Is Testing An AI-Powered Finance Page - Search Engine Journal
+- M&A News: Rumble (RUM) Explores $1.2B Takeover of Germany’s Northern Data - TipRanks
+- Higher iPhone 17 prices, but Pro storage will start at 256GB, says leaker - 9to5Mac
+- This iOS 26 update ruined the iPhone camera app for me - then Apple saved the day - ZDNET
