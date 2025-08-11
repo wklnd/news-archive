@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-11 07:05_
+_Updated: 2025-08-11 07:55_
 
-- FBI deployed to D.C. after Trump announces crackdown on homeless people - Axios
+- Federal agents spread out across D.C. streets amid Trump vow to crackdown on crime - NPR
 - Israel kills Al Jazeera journalist it says was Hamas leader - Reuters
-- Trump and Putin May Get a Cold Reception From Some Alaskans - The New York Times
-- Milwaukee contends with flash flooding, state fair and airport affected, with more rain expected Sunday - CNN
-- Netanyahu defends Gaza City plan as UN warns of ‘calamity’ and starvation - The Guardian
-- European leaders urge for Ukraine to be included in Trump-Putin Alaska peace talks - NPR
-- CDC union says vaccine misinformation put staff at risk after Atlanta shooting - The Guardian
-- Vance calls out Democrats over Epstein files, reignites push for transparency - CNN
-- Colorado wildfires burn more than 120,000 acres as firefighters await better weather - NPR
-- Texas governor promises to keep redistricting fight going for years - The Washington Post
+- Europeans fear being a footnote in history as Putin looks to strike deal with Trump - CNN
+- Photos: Historic flash floods hit Milwaukee as Midwest faces heavy rains threat - Axios
+- Colorado prison evacuated as wildfire becomes one of largest in state history - The Guardian
+- Suspected gunman in CDC shooting had grievance toward Covid vaccine: Sources - ABC News
+- Russia and Ukraine stick to their demands ahead of planned Putin-Trump summit in Alaska - PBS
+- Former attorney general says FBI can’t return Texas lawmakers who fled state - The Hill
+- Trump’s Cartel Order Revives ‘Bitter’ Memories in Latin America - The New York Times
+- Trump Pits Vance Against Rubio in Battle For the MAGA Throne - The Daily Beast
+- Australia will recognize a Palestinian state, Prime Minister Albanese says - Politico
+- Netanyahu defends Israel's plan to seize Gaza City, despite global condemnation - NPR
 - Italy's Mount Vesuvius, a popular tourist destination, closes over wildfire - CBS News
 - Man clings to high-speed train in Austria after it left station without him, officials say - CBS News
-- Turkey earthquake flattens buildings in Balikesir province - BBC
-- Tourist from US mainland who flew to Puerto Rico for Bad Bunny concert was fatally shot, police say - AP News
-- Trump 401k changes: What to know - NBC News
 - Nvidia, AMD agree to pay U.S. government 15% of A.I. chip sales to China - The Washington Post
-- The computer science dream has become a nightmare - TechCrunch
-- Exclusive: Former Intel CEO Craig Barrett outlines plan to save Intel and America’s advanced chip manufacturing - Fortune
-- Security flaws in a carmaker’s web portal let one hacker remotely unlock cars from anywhere - TechCrunch
-- Apple working with these apps to prepare for next-gen Siri - 9to5Mac
+- Shares edge ahead in Asia, Nikkei futures near record peak - Reuters
+- Lithium Prices, Stocks Jump After CATL Halts Big Mine - Bloomberg.com
+- Trump 401k changes: What to know - NBC News
+- Apple’s Siri delay is said to mask bigger AI ambitions behind the scenes (AAPL:NASDAQ) - Seeking Alpha
+- NASA and Google Unveil Cutting-Edge AI to Safeguard Astronauts’ Health on Mars - The Daily Galaxy
