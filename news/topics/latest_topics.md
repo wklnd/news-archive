@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-11 08:57_
+_Updated: 2025-08-11 09:46_
 
 ## Top Stories
 
 - Även i Israel växer protesterna - Dagens Arena
-- Landerholms kvarglömda dokument handlade om hemligt möte med USA om Nato - DN
+- Uppgifter: Info om hemligt Nato-möte i Landerholms kvarglömda dokument - SVT Nyheter
+- Putin-lojal medarbetare avrådde från kriget - SvD
+- Dödliga ukrainska anfall – upp till 200 mil bort - Aftonbladet
 - Missförstånd kan ligga bakom Alaska-mötet - GP
-- Miljoner uppmanas evakuera efter skyfall i Japan - Västerbottens-Kuriren
-- IDF: ”Journalisten Anas al-Sharif dödad i Gaza” – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- EU-ministrar i möte om Ukraina - Västerbottens-Kuriren
+- DN Direkt - Världstvåan krossade Möregårdh - DN.se - DN
 - Kamerabevakning med drönare under Eldfesten - polisen.se
 - 11 augusti 07.23, Sammanfattning natt, Örebro län - polisen.se
 - MEDAN DU SOV: Här är nattens händelser - NLT
 - Brand i fasaden på kårhus i Umeå - SVT Nyheter
+- EU-ministrar i möte om Ukraina - UNT
+- IDF: ”Journalisten Anas al-Sharif dödad i Gaza” – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Hizbollah ska avväpnas: ”Israeliskt ultimatum” - GP
-- DN Direkt - Över 1 000 evakuerade i Spanien - DN.se - DN
-- Svenska forskare kan ha hittat nytt vapen mot antibiotikaresistens - SVT Nyheter
-- 100 barn har hungrat ihjäl i Gaza - Västerbottens-Kuriren
+- Över 1 000 evakuerade i Spanien - Expressen
+- Ørsted planerar företrädesemission på 60 miljarder danska kronor med statligt stöd (uppdatering) (Finwire News) - Aktiellt
 - Aktiestrateg: EU behöver nya tullar mot Kina - SvD
 - Rysk krigsekonomi hotas av ny bankkris - Hufvudstadsbladet
 - Efter bilköpet: Kvinnan fryser firmans tillgångar - Dagens PS
-- Facket: Rätten till återanställning gäller på Northvolt - Dagens Arbete
+- Japan tvingar Apple att öppna för fler webbläsare på Iphone - Macworld.se
 - MacBook Pro med OLED-skärm ryktas lanseras sent 2026 – och Samsung kan stå för panelen - TechRadar
-- Så kan du svara på meddelanden med din Garminklocka - mobil.se
 
 ## World News
 
@@ -55,17 +55,17 @@ _Updated: 2025-08-11 08:57_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
+- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - EY.ai | EY - Sverige - EY
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
@@ -105,6 +105,8 @@ _Updated: 2025-08-11 08:57_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
+- Fakulteten för hälsa och samhälle - Malmö universitet
+- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
@@ -114,8 +116,6 @@ _Updated: 2025-08-11 08:57_
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-08-11 08:57_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Jordbruk och landsbygdsutveckling - European Commission
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- De gick från reko till eko - ST-tidningen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Framtidens jordbruk är regenerativt - greenpeace.org
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
