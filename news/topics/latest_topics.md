@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-11 20:54_
+_Updated: 2025-08-11 21:40_
 
 ## Top Stories
 
-- Lina Lund: Frustrerade EU-ledare ser på när stormakterna gör upp om Ukraina - DN
-- “Fruktansvärd situation för journalister i Gaza” - Dagens Arena
-- Trump: Kommer att diskutera byte av territorium - GP
-- Trump: Nationalgardet ska sättas in i Washington - Västerbottens-Kuriren
-- Teorierna om Netanyahus Gazaplan – ”enorma konsekvenser” - Aftonbladet
+- Gazajournalisterna bevittnade kollegornas död: ”Israel vill att vi ska tystas” - DN
+- Tvåårigt barn påkört i Gottsunda - UNT
 - Trasiga och olagliga bilar – anmälningarna strömmar in mot handlaren - Sydsvenskan
-- Man död i arbetsplatsolycka – föll från hög höjd - NWT
+- Niclas upprörd över nya cykelbanan i Växjö: ”Synd att ta bort flera hundra meter skog” - Smålandsposten
+- Stubb i möte med USA:s president på onsdag - Hufvudstadsbladet
+- Utrikesministern: Bara Ukraina kan avgöra - Aftonbladet
 - Landerholms kvarglömda dokument handlade om hemligt möte med USA om Nato - DN
-- DN Direkt - Kravet från S: Redovisa Landerholms dokument i riksdagen - DN.se - DN
-- "Vi står bakom besluten" - Nordsverige
-- Aporna stjäl turisters mobiler – byter mot kakor - GP
-- Colombias presidentkandidat död efter skott mot huvud - SVT Nyheter
-- DN Direkt - Trump håller pressträff – vill tvångsförflytta hemlösa - DN.se - DN
-- Franska reaktorer stoppade – av maneter - Aftonbladet
+- Meteorologens positiva besked – högsommarvärmen tillbaka - NT
+- Glädjebesked när värmen återvänder – fritt fram att bada vid Framnäs strandpark - NLT
+- Knivskärning vid Hötorget – minderårig gripen - SVT Nyheter
+- Trump sätter in nationalgardet i Washington - DN
+- Missförstånd kan ligga bakom Alaska-mötet - GP
+- Aporna stjäl turisters mobiler – byter mot kakor - Västerbottens-Kuriren
+- FN kräver oberoende utredning om dödade journalister – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Big Mac-index: Kronan är övervärderad - Dagens industri
-- DN Direkt - USAs tullpaus mot Kina förlängs - DN.se - DN
+- Bianca Ingrosso skrotar bolag: "Ibland blir det inte som man tänkt sig" - Breakit
 - Duroc: Sju svåra år - Affärsvärlden
 - Bären ruttnar bort – priserna skjuter i höjden - SvD
-- Spektakulärt stjärnfall – kulmen nås inom kort - Aftonbladet
+- Spektakulärt stjärnfall – kulmen nås inom kort - DN
 - Tidgare Blizzard-chefen: "Battlefield 6 kommer krossa Call of Duty" - MovieZine
 
 ## World News
@@ -40,31 +40,31 @@ _Updated: 2025-08-11 20:54_
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - De tysta strömmarna som formar global fastighetsverksamhet - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - TGE's New Movie "My First of May" Announces Global Release on Big Screens Starting in August - Placera.se
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- Introducing PayPal World: a global platform connecting the world's largest payment systems and digital wallets, starting with interoperability to PayPal and Venmo - Placera.se
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Arrow Global förvärvar Troia Resort - The Portugal News
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- Portugal: En växande hubb för global teknik - The Portugal News
 
 ## Technology
 
-- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
-- Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
 - Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
+- Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - EY.ai | EY - Sverige - EY
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
+- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
+- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
@@ -105,6 +105,7 @@ _Updated: 2025-08-11 20:54_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
+- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
@@ -115,7 +116,6 @@ _Updated: 2025-08-11 20:54_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -155,10 +155,10 @@ _Updated: 2025-08-11 20:54_
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - Food Supply SE
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - (+) Stor undersökning av jordbruket - Arbetarskydd
+- De gick från reko till eko - ST-tidningen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
