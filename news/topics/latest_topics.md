@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-11 23:40_
+_Updated: 2025-08-12 00:44_
 
 ## Top Stories
 
-- Stubb i möte med USA:s president på onsdag - Hufvudstadsbladet
-- Samtal med USA beskrivs som en seger i Ryssland - SVT Nyheter
-- “Fruktansvärd situation för journalister i Gaza” - Dagens Arena
-- Tvåårigt barn påkört i Gottsunda - UNT
-- Influencern fick panik – ”tänk om nåt händer?” - SvD
-- Trasiga och olagliga bilar – anmälningarna strömmar in mot handlaren - Sydsvenskan
-- DN Direkt - Kravet från S: Redovisa Landerholms dokument i riksdagen - DN.se - DN
-- ”Skillnad på att ligga på stranden och gå i svensk skola i Thailand” - DN
-- "Vi står bakom besluten" - Nordsverige
-- Dags att räkna Sveriges igelkottar - provinstidningen.se
+- Trumps och Putins möte en kalldusch för Ukraina och dess allierade - Hufvudstadsbladet
 - Trump: Nationalgardet ska sättas in i Washington - GP
-- Aporna stjäl turisters mobiler – byter mot kakor - Västerbottens-Kuriren
+- Samtal med USA beskrivs som en seger i Ryssland - SVT Nyheter
+- Tvåårigt barn påkört i Gottsunda - UNT
+- “Fruktansvärd situation för journalister i Gaza” - Dagens Arena
+- ”Skillnad på att ligga på stranden och gå i svensk skola i Thailand” - DN
+- Uppgifter: Info om hemligt Nato-möte i Landerholms kvarglömda dokument - SVT Nyheter
+- "Vi står bakom besluten" - Nordsverige
+- Just nu: Flera fordon i olycka på E4 - Corren
+- Dags att räkna Sveriges igelkottar - provinstidningen.se
 - FN kräver oberoende utredning om dödade journalister – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Aporna stjäl turisters mobiler – byter mot kakor - Västerbottens-Kuriren
 - Ny extremvärme steker Europa: ”Väldigt, väldigt varmt” - Aftonbladet
-- Big Mac-index: Kronan är övervärderad - Dagens industri
+- Röd värmevarning i Italien – liten pojke död - Expressen
 - Bianca Ingrosso skrotar bolag: "Ibland blir det inte som man tänkt sig" - Breakit
-- Kinas tullpaus slut – oklart vad som händer nu - Aftonbladet
 - Nya besparingar på Stampen Media – 60 tjänster försvinner - SVT Nyheter
+- Big Mac-index: Kronan är övervärderad - Dagens industri
+- Intel gör en Apple – kursen rusar på Wall Street - Dagens PS
 - Spektakulärt stjärnfall – kulmen nås inom kort - Aftonbladet
 - Tidgare Blizzard-chefen: "Battlefield 6 kommer krossa Call of Duty" - MovieZine
 
@@ -40,56 +40,56 @@ _Updated: 2025-08-11 23:40_
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Kopin Corporation Announces Agreement for $15 Million Strategic Investment From Theon International Plc to Accelerate Global Defense Innovation - Placera.se
-- TGE's New Movie "My First of May" Announces Global Release on Big Screens Starting in August - Placera.se
-- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
-- Introducing PayPal World: a global platform connecting the world's largest payment systems and digital wallets, starting with interoperability to PayPal and Venmo - Placera.se
-- Arrow Global förvärvar Troia Resort - The Portugal News
+- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
 
 ## Technology
 
+- OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
 - Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
 - Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- Lantern Pharma Announces Public Release of Transformative, Advanced AI Module for Blood-Brain Barrier Permeability Prediction, predictBBB.ai - Placera.se
 - Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
+- AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
 
 - REPAY Appoints New Chief Financial Officer - Placera.se
 - Accord Announces Banking Facility Update - Placera.se
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Accord Announces Banking Facility Update - Placera.se
-- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Coincheck Reports Financial Results for First Quarter of Year Ending March 31, 2026 - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Selective Director Steps Down to Focus on Founder Role - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Coincheck Reports Financial Results for First Quarter of Year Ending March 31, 2026 - Placera.se
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
@@ -119,26 +119,26 @@ _Updated: 2025-08-11 23:40_
 
 ## Science
 
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- E-infrastruktur för livsvetenskap får SSF-anslag - Uppsala universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
-- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
@@ -159,6 +159,6 @@ _Updated: 2025-08-11 23:40_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
