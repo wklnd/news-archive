@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-12 15:51_
+_Updated: 2025-08-12 16:47_
 
 ## Top Stories
 
 - Ingmar Nevéus: Så vill Trump och Putin att Ukrainas gränser ritas om - DN
-- Åtta åtalas efter mord – 14-åring misstänkt skytt - SvD
 - LEDARE: Trump får inte traska rakt in i Putins björnfälla - Hufvudstadsbladet
-- Man avliden efter misstänkta mordförsöket i Fagersta - SVT Nyheter
-- Utrikesministern om Busch: Inte regeringens linje - Västerbottens-Kuriren
-- Frontalkrock vid Teckomatorp - flera skadade - Skånska Dagbladet
-- Hyss med kundvagnar ny trend på Tiktok – butiker drabbades: ”Har aldrig varit med om detta” - NLT
-- Större olycka på E4 – ett körfält blockerat - Norran
-- Efter sjukhusstriden: C vill lämna regionstyret - Altinget.se
+- Huvudförhandling i Linköpings tingsrätt om mord, medhjälp till mord och grovt vapenbrott - Sveriges Domstolar
 - Svenska åklagaren om misstänkta krigsbrott i Gaza: ”Långsiktigt arbete” - DN
+- Utrikesministern om Busch: Inte regeringens linje - Västerbottens-Kuriren
+- Hittades svårt skadad i Fagersta – nu har mannen dött - SVT Nyheter
+- Ännu en exotisk orm hittad – fjärde sedan i våras - SVT Nyheter
+- Efter sjukhusstriden: C vill lämna regionstyret - Altinget.se
+- Hyss med kundvagnar ny trend på Tiktok – butiker drabbades: ”Har aldrig varit med om detta” - NLT
+- Frontalkrock på riksväg 17 utanför Teckomatorp – två skadade - SVT Nyheter
 - Forskaren om attacken mot journalister i Gaza: ”Tragiskt” - GP
 - Expert: Då kan Trumps dröm om fredspriset bli verklighet - DN
 - Iran grep 21 000 under kriget med Israel - Västerbottens-Kuriren
-- Danmark vill skicka nödhjälp via luften – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Två döda av botulism i Italien – kopplas till gatukök - DN
 - Trump bekräftar: Tullpaus med Kina förlängs - Tidningen Näringslivet
-- Lägre inflation än väntat - USA-börser stiger - Skånska Dagbladet
+- Experten: Rysk bankkris en chans att pressa Putin - Dagens industri
+- Expert: Tullar lyfter USA-inflationen - SvD
 - Ljusning – men ingen riktig fart i den sjukliga svenska ekonomin - DN
-- Kritikstorm mot Trumps nya statistikchef: ”Så partisk” - Dagens industri
+- Han vill tvinga Microsoft att fortsätta uppdatera Windows 10 – gratis - NyTeknik
 - Passa på! Stort stjärnfall i kväll - Hufvudstadsbladet
-- "Battlefield kommer köra över CoD i år", hävdar f.d. Blizzard-chef - FZ.se
 
 ## World News
 
+- Aurora Ignites Global Expansion with Whistler Cannabis Co. Brand Debut in Australia - Placera.se
 - H World Group Celebrates the Reopening of Steigenberger Icon Europäischer Hof Baden-Baden, Revitalizing 95 Years of Heritage - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
-- Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Ukraine war latest: White House 'considering' inviting Zelenskyy to Trump-Putin summit - Sky News
+- Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Liberty International i Stockholm växer - travelnews.se
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - Kopin Corporation Announces Agreement for $15 Million Strategic Investment From Theon International Plc to Accelerate Global Defense Innovation - Placera.se
-- Den hetaste nya trenden inom global utbildning - The Portugal News
-- Aurora Ignites Global Expansion with Whistler Cannabis Co. Brand Debut in Australia - Placera.se
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- Den hetaste nya trenden inom global utbildning - The Portugal News
 - Arrow Global förvärvar Troia Resort - The Portugal News
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 
 ## Technology
 
@@ -103,8 +103,8 @@ _Updated: 2025-08-12 15:51_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
@@ -143,21 +143,21 @@ _Updated: 2025-08-12 15:51_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - Food Supply SE
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- De gick från reko till eko - ST-tidningen
+- Små jordbruk kan mätta fler - FoodMonitor
+- Tio jordbruksaktier för depån - Placera.se
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Här är tio megagårdar att drömma om - Land Lantbruk
