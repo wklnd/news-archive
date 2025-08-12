@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-12 20:53_
+_Updated: 2025-08-12 21:40_
 
 ## Top Stories
 
+- MFF överkörda – ute ur Champions League-kvalet - DN
 - Michael Winiarski: Ingen blir förvånad om Trump säljer ut Ukraina - DN
-- Zelenskyj: Ryssland förbereder nya offensiver - GP
 - Nationalgardet anländer till Washington - GP
 - Fjärde kungspyton hittad i Halland - Västerbottens-Kuriren
-- Muf: ”Slöseri med tid och pengar” - SvD
-- Nio misstänkta för mordförsök efter helgens knivbråk - Sydsvenskan
-- Våningssängar återkallas – finns risk för strypning - Dagens Kalmar
+- Man död efter frontalkrocken vid Teckomatorp - HD
+- Återkallar sängar – risk för strypning - Västerbottens-Kuriren
 - Kundvagnskuppen sprider sig till flera städer: ”Pojkstreck” - SVT Nyheter
-- Man död i krock mellan lastbil och skåpbil - Västerbottens-Kuriren
 - Åtal om mord i Berga - polisen.se
+- Ländernas uppmaning: Stoppa svälten i Gaza - Västerbottens-Kuriren
+- HÄR VARNAS DET FÖR NY VÄRMEHOCK - Dagens Vimmerby
 - ”Vi kommer alltid ha för få soldater, därför måste vi vara smartare” - DN
-- 24 länder uppmanar Israel att omedelbart agera mot svälten i Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Al Jazeera-journalister dödade av Israel i Gaza - GP
-- Fotograf fångades på bild – anklagas för att arrangera bilder på svältande Gazabor - Världen idag
+- Frankrike erkänner krigföring i Kamerun - GP
+- Sverige kan inte acceptera att journalister blir måltavlor - Arbetet
+- Zelenskyj: Ryssland förbereder nya offensiver - Hufvudstadsbladet
 - Uppgången tilltar på USA-börserna - Dagens industri
 - 🎧PODD: Hur är det att jobba för Northvolts nya ägare? - Dagens Arbete
-- Jättebud på Googles webbläsare Chrome - Sydsvenskan
-- Räntekollaps för ryska storbanken - SvD
+- AI-bolag vill köpa Googles webbläsare – för 330 miljarder - Dagens industri
+- Kritikstorm mot Trumps nya statistikchef: ”Så partisk” - Dagens industri
 - Passa på! Stort stjärnfall i kväll - Hufvudstadsbladet
 - "Battlefield kommer köra över CoD i år", hävdar f.d. Blizzard-chef - FZ.se
 
@@ -75,24 +75,24 @@ _Updated: 2025-08-12 20:53_
 
 - REPAY Appoints New Chief Financial Officer - Placera.se
 - Accord Announces Banking Facility Update - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Coincheck Reports Financial Results for First Quarter of Year Ending March 31, 2026 - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Selective Director Steps Down to Focus on Founder Role - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Alisa Bank Plc Half-Year Financial Report January – June 2025 - Placera.se
+- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
-- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
 
@@ -105,6 +105,7 @@ _Updated: 2025-08-12 20:53_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
@@ -115,7 +116,6 @@ _Updated: 2025-08-12 20:53_
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
@@ -143,8 +143,8 @@ _Updated: 2025-08-12 20:53_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - European Commission
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
@@ -152,13 +152,13 @@ _Updated: 2025-08-12 20:53_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - Food Supply SE
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- De gick från reko till eko - ST-tidningen
-- Små jordbruk kan mätta fler - FoodMonitor
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- USA tvingar ut EU på banan - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
