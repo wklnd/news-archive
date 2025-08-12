@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-12 17:52_
+_Updated: 2025-08-12 18:56_
 
 - National guard arrives in DC as mayors warn of Trump power grab - The Guardian
 - Alaska was once a full-fledged Russian colony. Now it's hosting a U.S.-Russia summit - NPR
-- US and China extend trade truce another 90 days, easing tension between world's largest economies - AP News
 - Russian breach sparks alarm on Ukraine’s eastern front - Financial Times
-- Man fired 180 shots, breaking 150 windows, in CDC attack - CNN
-- Amid global outcry, IDF says Al Jazeera reporter it killed was receiving Hamas salary - The Times of Israel
-- Man accused of faking his death and fleeing U.S. to avoid rape charges faces alleged victim in Utah court - CBS News
-- ‘They created this impasse’: Lula, Trump at a standstill on tariffs - Politico
+- Trump extends China trade truce, setting stage for more ambitious talks - Politico
+- Trump "looking at reclassification" of marijuana as less dangerous drug - Axios
+- Pentagon plan would create military ‘reaction force’ for civil unrest - The Washington Post
+- After CDC shooting, its employees turn their anger to RFK Jr. and Trump - The Washington Post
+- Suspect named in deadly shooting at North Austin Target - KVUE
+- Victim of Pennsylvania steel factory explosion is identified - NBC News
 - Under water: How FEMA’s outdated flood maps incentivize property owners to take risks - NBC News
-- Gunman kills three at Target store in US state of Texas - Al Jazeera
-- Europe’s sidelined leaders urge Trump to defend security interests at his summit with Putin - AP News
-- Israel bombards Gaza City overnight; Hamas leader due in Cairo in bid to salvage ceasefire talks - Reuters
-- Chinese ships collide while chasing Philippine vessel - navalnews.com
-- Israel says review shows Hamas inflating Gaza hunger data in ‘orchestrated campaign’ - The Times of Israel
+- An Israeli airstrike kills a prominent Al Jazeera journalist and colleagues in Gaza - NPR
+- Charges dropped against teen pilot detained in Antarctica - BBC
+- ‘There’s no solution’: Ex-terror chief Zubeidi laments failed Palestinian strategies - The Times of Israel
+- Israel bombards Gaza City as UK and allies urge action against 'unfolding famine' - BBC
 - CPI Report Live Updates: As Tariffs Push Up Prices, Trump Revives Powell Attacks - The New York Times
+- Stock Market Today: Dow jumps 450 points, S&P 500 and Nasdaq touch intraday records as CPI report matches expectations and investors anticipate Fed rate cuts - MarketWatch
+- Spirit Airlines Stock Craters On Warning It May Not Survive Another Year - Forbes
 - Inside Ford's decision to double down on electric vehicles - Axios
-- Spirit Airlines raises doubts about its ability to stay in business, months after exiting bankruptcy - CNN
-- Eastman Kodak Raises Doubt About Ability to Pay Debt - The Wall Street Journal
-- New Apple Watch Ultra 3 Rumors Point to an Overdue Upgrade - CNET
-- Microsoft releases lightweight Office taskbar apps for Windows 11 - The Verge
+- iPhone 17 Air to Feature A19 Pro Chip With Reduced GPU Performance - MacRumors
+- Rad Power’s Radster: A very non-radical commuter bike - Ars Technica
