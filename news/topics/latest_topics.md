@@ -1,73 +1,73 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-12 12:47_
+_Updated: 2025-08-12 13:40_
 
 ## Top Stories
 
 - Ingmar Nevéus: Så vill Trump och Putin att Ukrainas gränser ritas om - DN
 - Man avliden efter misstänkta mordförsöket i Fagersta - SVT Nyheter
 - Krigsbrott i Gaza utreds i Sverige - SVT Nyheter
+- Kvarlevor hittade efter villabrand - GP
 - Åtta åtalas efter mord – 14-åring misstänkt skytt - SvD
 - Utrikesministern om Busch: Inte regeringens linje - Västerbottens-Kuriren
-- Hundratals piloter och reservister vill ha slut på kriget – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Hyss med kundvagnar ny trend på Tiktok – butiker drabbades: ”Har aldrig varit med om detta” - NLT
+- Större olycka på E4 – ett körfält blockerat - Norran
 - ”Skillnad på att ligga på stranden och gå i svensk skola i Thailand” - DN
 - Efter sjukhusstriden: C vill lämna regionstyret - Altinget.se
-- Större olycka på E4 – ett körfält blockerat - Norran
+- Civilförsvaret: Ökade angrepp mot Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Forskaren om attacken mot journalister i Gaza: ”Tragiskt” - GP
-- Värmeslag i Europa: ”Helveteseldar” - Hufvudstadsbladet
-- Trump: Nationalgardet ska sättas in i Washington - Västerbottens-Kuriren
-- Samtal med USA beskrivs som en seger i Ryssland - SVT Nyheter
+- Iran grep 21 000 under kriget med Israel - Västerbottens-Kuriren
+- DN Direkt - Värmeslag i Europa: ”Helveteseldar” - DN.se - DN
 - Trump bekräftar: Tullpaus med Kina förlängs - Tidningen Näringslivet
-- Sveriges ekonomi haltar: ”Ser ingen förbättring” - SvD
-- Pareto höjer riktkursen för Nibe - ser återhämtning i Tyskland - Börsvärlden
+- Ljusning – men ingen riktig fart i den sjukliga svenska ekonomin - DN
+- Norska oljefonden fortsatt tung i amerikanska aktier - Hufvudstadsbladet
 - Svagt avslut på svajigt år för Revolution Race - Dagens industri
 - Passa på! Stort stjärnfall i kväll - Hufvudstadsbladet
 - "Battlefield kommer köra över CoD i år", hävdar f.d. Blizzard-chef - FZ.se
 
 ## World News
 
+- Aurora Ignites Global Expansion with Whistler Cannabis Co. Brand Debut in Australia - Placera.se
 - H World Group Celebrates the Reopening of Steigenberger Icon Europäischer Hof Baden-Baden, Revitalizing 95 Years of Heritage - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Ukraine war latest: White House 'considering' inviting Zelenskyy to Trump-Putin summit - Sky News
+- BBC fyller 100 år – äldsta public service i världen - omni.se
+- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Liberty International i Stockholm växer - travelnews.se
-- Kopin Corporation Announces Agreement for $15 Million Strategic Investment From Theon International Plc to Accelerate Global Defense Innovation - Placera.se
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- Kopin Corporation Announces Agreement for $15 Million Strategic Investment From Theon International Plc to Accelerate Global Defense Innovation - Placera.se
 - Den hetaste nya trenden inom global utbildning - The Portugal News
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - Arrow Global förvärvar Troia Resort - The Portugal News
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
 
 ## Technology
 
+- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
-- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
 - Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
-- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
+- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
+- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
-- Lantern Pharma Announces Public Release of Transformative, Advanced AI Module for Blood-Brain Barrier Permeability Prediction, predictBBB.ai - Placera.se
-- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 
@@ -103,7 +103,6 @@ _Updated: 2025-08-12 12:47_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
@@ -116,35 +115,35 @@ _Updated: 2025-08-12 12:47_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- E-infrastruktur för livsvetenskap får SSF-anslag - Uppsala universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -159,6 +158,7 @@ _Updated: 2025-08-12 12:47_
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- USA tvingar ut EU på banan - Land Lantbruk
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
