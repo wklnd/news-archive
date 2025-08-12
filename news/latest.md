@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-12 12:52_
+_Updated: 2025-08-12 13:48_
 
-- Fact checking Trump's Washington DC crime claim - BBC
+- Trump declared federal control of DC police and is deploying the National Guard. Here’s how he is able to do it - CNN
+- Alaska was once a full-fledged Russian colony. Now it's hosting a U.S.-Russia summit - NPR
 - China tariffs delayed again, hours before sharp increase was to take hold - The Washington Post
-- Vladimir Putin’s Coming to Alaska and Late Night Is Amused - The New York Times
-- Video appears to show the moment a Palestinian activist is killed as an Israeli settler opens fire - NBC News
 - At least 2 dead and 10 injured in explosions at U.S. Steel Clairton plant - Axios
-- General involved in Trump's L.A. military deployment testifies he didn't hear protests described as "rebellion" - CBS News
+- Video appears to show the moment a Palestinian activist is killed as an Israeli settler opens fire - NBC News
+- Who Were the Al Jazeera Journalists Killed in an Israeli Strike in Gaza? - The New York Times
 - Police say 3 dead in a shooting at a Target in Austin, Texas, and a suspect has been detained - PBS
-- CDC staff dreads going back to work after fatal shooting - Politico
-- Brazil Clamped Down on Big Tech. Trump’s Tariffs Could Change That. - The New York Times
-- Michigan just misses 1000-year rain, hits southeast Wisconsin - MLive.com
-- What to know about the 6 journalists killed covering Israel's war in Gaza - Axios
-- EU leaders appeal to Trump to defend Europe's security interests at his war summit with Putin - AP News
+- Gunman in CDC attack fired over 180 shots at building and broke 150 windows - The Guardian
+- Why Trump’s tariffs haven’t gotten Brazil to cave - Politico
+- General involved in Trump's L.A. military deployment testifies he didn't hear protests described as "rebellion" - CBS News
+- EU leaders urge Trump to defend Europe's security interests at his upcoming summit with Putin - AP News
 - Australia's Albanese says Netanyahu 'in denial' over suffering in Gaza - Reuters
+- Russian breach sparks alarm on Ukraine’s eastern front - Financial Times
 - Israel says review shows Hamas inflating Gaza hunger data in ‘orchestrated campaign’ - The Times of Israel
-- Stocks subdued as inflation fears dampen US-China trade truce optimism - Reuters
+- CPI Likely to Show Rising Inflation as Trump’s Tariffs Lead to Price Hikes - The New York Times
+- Inside Ford's decision to double down on electric vehicles - Axios
+- Trump's unusual Nvidia deal raises new corporate and national security risks, lawmakers and experts say - Reuters
 - Australia cuts interest rates to more than 2-year lows, downgrades economic growth forecast - CNBC
-- Ford’s $30,000 Electric Truck Will Change Everything - InsideEVs
-- Nvidia Reverses Higher On China AI Chip Deal Surprise; Is Nvidia A Buy Or Sell Now? - Investor's Business Daily
 - Waze will end updates for older Android devices soon - 9to5Google
-- Matter enhancements enable cheaper HomeKit devices and slicker control - 9to5Mac
+- Hellblade 1 Finally Enhanced for PS5, Out Now with Free Upgrade - Push Square
