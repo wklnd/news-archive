@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-12 20:57_
+_Updated: 2025-08-12 21:48_
 
 - Fact-checking Trump’s claims about homicides in D.C. - PBS
-- What's at stake as Trump prepares to meet Putin in Alaska? - NPR
-- Suspect named in deadly shooting at North Austin Target - KVUE
+- Alaska was once a full-fledged Russian colony. Now it's hosting a U.S.-Russia summit - NPR
 - When will Tropical Storm Erin strengthen into a hurricane? Where is it going? - The Washington Post
+- Suspect named in deadly shooting at North Austin Target - KVUE
 - Trump "looking at reclassification" of marijuana as less dangerous drug - Axios
-- Victim of Pennsylvania steel factory explosion is identified - NBC News
+- Russia makes sudden advance in Ukraine before Trump-Putin summit - Reuters
 - Photo released of gunman in CDC Atlanta shooting - 11Alive.com
-- Ken Paxton asks judge to jail Beto O’Rourke for fundraising Texas Dems' walkout - The Texas Tribune
-- DeSantis picks state Sen. Jay Collins to be Florida’s lieutenant governor - AP News
 - Ukraine will not cede land that could be Russian springboard for new war, Zelenskyy says - The Guardian
+- DeSantis picks state Sen. Jay Collins to be Florida’s lieutenant governor - AP News
+- George Washington University becomes the latest target of the Trump administration - CNN
+- Europe’s sidelined leaders urge Trump to defend security interests at his summit with Putin - AP News
+- State Department slashes its annual reports on human rights - NPR
 - Philippines voices concern over 'dangerous' Chinese actions after Scarborough Shoal collision - Reuters
-- Russian forces advance in Ukraine as Trump tempers outlook for Alaska summit - The Washington Post
-- U.S. teen influencer still stranded in Antarctic weeks after landing plane without permission - CBS News
-- An Israeli airstrike kills a prominent Al Jazeera journalist and colleagues in Gaza - NPR
-- CPI Report Live Updates: As Tariffs Push Up Prices, Trump Revives Powell Attacks - The New York Times
-- Dow rallies 500 points, S&P 500 hits new record as CPI report gives Fed green light to cut rates: Live updates - CNBC
+- Amid global outcry, IDF says Al Jazeera reporter it killed was receiving Hamas salary - The Times of Israel
+- Cheaper gasoline restrains US consumer prices; worries about data quality rise - Reuters
+- S&P 500 hits new record as CPI report gives Fed green light to cut rates: Live updates - CNBC
 - AI Startup Perplexity Makes $34.5 Billion Bid for Google’s Chrome Browser - Bloomberg
-- Kodak Says its Survival is in Jeopardy Amid Debt Obligations - PetaPixel
-- Samsung has launched its first Micro RGB TV with improved color accuracy - The Verge
+- Trump Calls on Goldman to Replace Economist Over Tariff Stance - The Wall Street Journal
 - Rad Power’s Radster: A very non-radical commuter bike - Ars Technica
+- New Apple Watch Ultra 3 Rumors Point to an Overdue Upgrade - CNET
