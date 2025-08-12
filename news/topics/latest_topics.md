@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-12 11:44_
+_Updated: 2025-08-12 12:47_
 
 ## Top Stories
 
-- Jackpottvinnaren hittat – vann 409 miljoner - Expressen
 - Ingmar Nevéus: Så vill Trump och Putin att Ukrainas gränser ritas om - DN
 - Man avliden efter misstänkta mordförsöket i Fagersta - SVT Nyheter
+- Krigsbrott i Gaza utreds i Sverige - SVT Nyheter
 - Åtta åtalas efter mord – 14-åring misstänkt skytt - SvD
-- Ledare: Svajigt om Gaza från regeringen - NWT
-- Strejk mot Israels utökade krigsplaner på söndag - Västerbottens-Kuriren
+- Utrikesministern om Busch: Inte regeringens linje - Västerbottens-Kuriren
+- Hundratals piloter och reservister vill ha slut på kriget – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Hyss med kundvagnar ny trend på Tiktok – butiker drabbades: ”Har aldrig varit med om detta” - NLT
 - ”Skillnad på att ligga på stranden och gå i svensk skola i Thailand” - DN
 - Efter sjukhusstriden: C vill lämna regionstyret - Altinget.se
-- JUST NU: Större trafikolycka på E18 – stopp i ett körfält - NWT
 - Större olycka på E4 – ett körfält blockerat - Norran
-- Trump: Nationalgardet ska sättas in i Washington - Hufvudstadsbladet
 - Forskaren om attacken mot journalister i Gaza: ”Tragiskt” - GP
-- Värmeslag i Europa: ”Helveteseldar” - Västerbottens-Kuriren
-- Israelisk statsvetare: Svälten påminner oss om Förintelsen - DN
+- Värmeslag i Europa: ”Helveteseldar” - Hufvudstadsbladet
+- Trump: Nationalgardet ska sättas in i Washington - Västerbottens-Kuriren
+- Samtal med USA beskrivs som en seger i Ryssland - SVT Nyheter
 - Trump bekräftar: Tullpaus med Kina förlängs - Tidningen Näringslivet
-- Svagt avslut på svajigt år för Revolution Race - Dagens industri
 - Sveriges ekonomi haltar: ”Ser ingen förbättring” - SvD
-- Rusning efter nya stödet – stora förseningar - Aftonbladet
+- Pareto höjer riktkursen för Nibe - ser återhämtning i Tyskland - Börsvärlden
+- Svagt avslut på svajigt år för Revolution Race - Dagens industri
 - Passa på! Stort stjärnfall i kväll - Hufvudstadsbladet
-- Reddit stoppar Wayback Machine från skrapning - omni.se
+- "Battlefield kommer köra över CoD i år", hävdar f.d. Blizzard-chef - FZ.se
 
 ## World News
 
 - H World Group Celebrates the Reopening of Steigenberger Icon Europäischer Hof Baden-Baden, Revitalizing 95 Years of Heritage - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
-- BBC fyller 100 år – äldsta public service i världen - omni.se
-- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Ukraine war latest: White House 'considering' inviting Zelenskyy to Trump-Putin summit - Sky News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- NoW-medarbetare erbjuds jobb i Sibirien - Journalisten
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Liberty International i Stockholm växer - travelnews.se
 - Kopin Corporation Announces Agreement for $15 Million Strategic Investment From Theon International Plc to Accelerate Global Defense Innovation - Placera.se
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- Den hetaste nya trenden inom global utbildning - The Portugal News
 - Arrow Global förvärvar Troia Resort - The Portugal News
-- Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 
 ## Technology
@@ -65,8 +65,8 @@ _Updated: 2025-08-12 11:44_
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
-- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - Lantern Pharma Announces Public Release of Transformative, Advanced AI Module for Blood-Brain Barrier Permeability Prediction, predictBBB.ai - Placera.se
+- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
