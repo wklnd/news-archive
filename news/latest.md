@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-12 23:48_
+_Updated: 2025-08-13 00:50_
 
-- "Unheard of and ominous": Trump's D.C. homelessness crackdown perplexes advocates - Axios
-- Otter pelts, Orthodox priests and a $7.2m bargain: how Russia sold Alaska to the US - The Guardian
-- Zelensky rules out ceding Donbas region as Russians make fresh advance - BBC
-- Suspect in shooting at North Austin Target had extensive criminal history - KUT
-- Mamdani leads Cuomo by 19 points, while Stefanik is catching up to Hochul - City & State New York
+- Trump claims Washington’s murder rate is higher than Bogotá or Mexico City. Here’s what the stats from those countries say - CNN
+- White House downplays expectations for Trump-Putin Alaska summit - Financial Times
 - Russia tries to make sudden advance in Ukraine before Trump-Putin summit - Reuters
-- Man who fired hundreds of rounds at CDC HQ was angry at Covid vaccines - BBC
+- New York City mayoral race: Mamdani leads Cuomo by 19 points, poll shows - The Guardian
+- White House reviewing Smithsonian exhibits to make sure they align with Trump's vision - NBC News
 - Tropical Storm Erin could become the first Atlantic hurricane of the 2025 season - NPR
-- Here are 5 things to know about Clairton Coke Works explosion - TribLIVE.com
-- Texas Senate approves new congressional lines as House Democrats remain out of state - The Texas Tribune
+- After CDC shooting, its employees turn their anger to RFK Jr. and Trump - The Washington Post
+- Victims identified, additional information released by police in North Austin Target shooting - KVUE
+- Ukraine will not cede land that could be Russian springboard for new war, Zelenskyy says - The Guardian
+- DeSantis picks state Sen. Jay Collins to be Florida’s lieutenant governor - AP News
 - Trump administration rewrites and scales back annual human rights report - BBC
 - Philippine coast guard video shows Chinese ships collide while chasing Philippine boat in disputed waters - CBS News
 - An Israeli airstrike kills a prominent Al Jazeera journalist and colleagues in Gaza - NPR
-- Israel intensifies bombing of Gaza, killing 89 Palestinians in 24 hours - The Guardian
+- Mexican-American designer apologizes for Adidas sandal design accused of cultural appropriation - AP News
+- Trump’s pick for BLS commissioner endorses suspending monthly jobs reports - The Washington Post
 - Inflation ticks higher as Trump's tariffs kick in - Politico
-- S&P 500, Nasdaq both notch record close as inflation report gives Fed green light to cut rates - CNBC
-- AI startup Perplexity makes bold $34.5 billion bid for Google's Chrome browser - Reuters
-- Iconic US film company Kodak warns it may go out of business - USA Today
-- iPhone 17 Air to Feature A19 Pro Chip With Reduced GPU Performance - MacRumors
-- Google could be building a gaming community forum directly into the Play Store (APK teardown) - Android Authority
+- AI Startup Perplexity Makes $34.5 Billion Bid for Google’s Chrome Browser - Bloomberg.com
+- Do Kwon pleads guilty to US fraud charges in $40 billion crypto collapse - Reuters
+- Google will now let you pick your top sources for search results - TechCrunch
+- Everything We Know About the Upcoming Google Pixel 10 Phones - IGN
