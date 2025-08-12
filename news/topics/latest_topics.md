@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-12 13:40_
+_Updated: 2025-08-12 15:09_
 
 ## Top Stories
 
+- TV4 höjer priset på dyraste sportpaketet - GP
 - Ingmar Nevéus: Så vill Trump och Putin att Ukrainas gränser ritas om - DN
-- Man avliden efter misstänkta mordförsöket i Fagersta - SVT Nyheter
 - Krigsbrott i Gaza utreds i Sverige - SVT Nyheter
-- Kvarlevor hittade efter villabrand - GP
-- Åtta åtalas efter mord – 14-åring misstänkt skytt - SvD
+- LEDARE: Trump får inte traska rakt in i Putins björnfälla - Hufvudstadsbladet
+- Man död i Fagersta – misstänkt mord - Västerbottens-Kuriren
 - Utrikesministern om Busch: Inte regeringens linje - Västerbottens-Kuriren
 - Hyss med kundvagnar ny trend på Tiktok – butiker drabbades: ”Har aldrig varit med om detta” - NLT
 - Större olycka på E4 – ett körfält blockerat - Norran
-- ”Skillnad på att ligga på stranden och gå i svensk skola i Thailand” - DN
 - Efter sjukhusstriden: C vill lämna regionstyret - Altinget.se
-- Civilförsvaret: Ökade angrepp mot Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- ”Vi fick rota bland sopor för att hitta våra bröllopspresenter” - Aftonbladet
 - Forskaren om attacken mot journalister i Gaza: ”Tragiskt” - GP
+- Expert: Då kan Trumps dröm om fredspriset bli verklighet - DN
 - Iran grep 21 000 under kriget med Israel - Västerbottens-Kuriren
-- DN Direkt - Värmeslag i Europa: ”Helveteseldar” - DN.se - DN
+- Danmark vill skicka nödhjälp via luften – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Trump bekräftar: Tullpaus med Kina förlängs - Tidningen Näringslivet
+- Lägre inflation än väntat i USA - SVT Nyheter
 - Ljusning – men ingen riktig fart i den sjukliga svenska ekonomin - DN
-- Norska oljefonden fortsatt tung i amerikanska aktier - Hufvudstadsbladet
-- Svagt avslut på svajigt år för Revolution Race - Dagens industri
+- Kritikstorm mot Trumps nya statistikchef: ”Så partisk” - Dagens industri
 - Passa på! Stort stjärnfall i kväll - Hufvudstadsbladet
 - "Battlefield kommer köra över CoD i år", hävdar f.d. Blizzard-chef - FZ.se
 
@@ -33,7 +33,7 @@ _Updated: 2025-08-12 13:40_
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- BBC fyller 100 år – äldsta public service i världen - omni.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
@@ -51,25 +51,25 @@ _Updated: 2025-08-12 13:40_
 ## Technology
 
 - Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
-- OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
+- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
-- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
-- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
+- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
+- Leveraging AI in Swedish Development Cooperation - FUF Föreningen för utvecklingsfrågor
+- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
-- AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
 - Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
-- Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 
 ## Business
 
@@ -104,6 +104,7 @@ _Updated: 2025-08-12 13:40_
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
@@ -115,7 +116,6 @@ _Updated: 2025-08-12 13:40_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-08-12 13:40_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - Food Supply SE
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- De gick från reko till eko - ST-tidningen
+- Små jordbruk kan mätta fler - FoodMonitor
+- Tio jordbruksaktier för depån - Placera.se
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- USA tvingar ut EU på banan - Land Lantbruk
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
