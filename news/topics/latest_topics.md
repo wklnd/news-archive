@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-12 08:53_
+_Updated: 2025-08-12 09:41_
 
 ## Top Stories
 
-- Merz kallar till möte om Ukraina - Västerbottens-Kuriren
+- EU: Ingen fred utan Ukraina - Västerbottens-Kuriren
+- DN Direkt - Svenskar i rätten i Norge – misstänks för bombdåd - DN.se - DN
+- Nytorgsmannen vill ha mildare straff - SVT Nyheter
 - Trump är ute efter kriminella – och hemlösa - GP
-- DN Direkt - USAs tullpaus mot Kina förlängs - DN.se - DN
 - Forskare varnar för miljörisker när gruvprojekt på Östersjöns botten tar steg framåt - DN
-- FN kräver oberoende utredning om dödade journalister – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Forskaren om attacken mot journalister i Gaza: ”Tragiskt” - GP
+- Nytt fredsförslag ska presenteras i Egypten – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Åklagare i Sverige utreder krigsbrott i Gaza - Västerbottens-Kuriren
-- DN Direkt - Explosion i Vårby under natten – rutor krossade - DN.se - DN
+- Trump bekräftar: Tullpaus med Kina förlängs - Hufvudstadsbladet
 - "Vi står bakom besluten" - Nordsverige
 - Mopedförare i Mjöfjärden kolliderade med älg – tonåring till sjukhus - SVT Nyheter
-- DN Direkt - Värmeslag i Europa: ”Helveteseldar” - DN.se - DN
-- ”Nationellt betydande” vattenbrist i England - GP
+- DN Direkt - Rekordmycket mässling i Rumänien – vägrar vaccin - DN.se - DN
+- Forskaren om attacken mot journalister i Gaza: ”Tragiskt” - GP
 - Samtal med USA beskrivs som en seger i Ryssland - SVT Nyheter
 - JENS LILJESTRAND: Varför ska ryssar få semestra i Europa? - Expressen
 - Rusning efter nya stödet – stora förseningar - Aftonbladet
-- Lägre lönsamhet för Revolution Race - Dagens industri
-- Delårsrapport Q2 2025 - Cision News
+- Något lägre resultat än väntat från Storskogen - Dagens industri
+- Kronan plågar Revolutionrace – vinsten sjönk under våren - Breakit
 - Sveriges ekonomi haltar: ”Ser ingen förbättring” - SvD
 - Passa på! Stort stjärnfall i kväll - Hufvudstadsbladet
 - Tidgare Blizzard-chefen: "Battlefield 6 kommer krossa Call of Duty" - MovieZine
 
 ## World News
 
+- Kopin Corporation Announces Agreement for $15 Million Strategic Investment From Theon International Plc to Accelerate Global Defense Innovation - Placera.se
 - H World Group Celebrates the Reopening of Steigenberger Icon Europäischer Hof Baden-Baden, Revitalizing 95 Years of Heritage - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Kopin Corporation Announces Agreement for $15 Million Strategic Investment From Theon International Plc to Accelerate Global Defense Innovation - Placera.se
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
-- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
+- The ultimate global study companion: Pearson expands AI-powered Study Prep, supporting personalized learning worldwide - Placera.se
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
-- Arrow Global förvärvar Troia Resort - The Portugal News
-- Introducing PayPal World: a global platform connecting the world's largest payment systems and digital wallets, starting with interoperability to PayPal and Venmo - Placera.se
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
+- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
 
 ## Technology
 
@@ -103,6 +103,7 @@ _Updated: 2025-08-12 08:53_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
@@ -115,7 +116,6 @@ _Updated: 2025-08-12 08:53_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-08-12 08:53_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Jordbruk och landsbygdsutveckling - European Commission
+- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - Food Supply SE
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- (+) Stor undersökning av jordbruket - Arbetarskydd
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - De gick från reko till eko - ST-tidningen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är världens största jordbruk - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
