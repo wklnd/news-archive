@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-12 04:27_
+_Updated: 2025-08-12 05:39_
 
 - Trump puts DC police department under federal control, deploys National Guard - ABC News
-- Trump picks Heritage economist Antoni to lead US labor statistics agency - Reuters
-- Trump Extends China Tariff Truce - The New York Times
-- Trump says he will 'feel out' Putin in Alaska on ending the war in Ukraine - NPR
-- At least 2 dead and 10 injured in explosions at U.S. Steel Clairton plant - Axios
-- Trump says he'll "end" no cash bail in Chicago; calls Pritzker, Johnson "incompetent" amid threat to send National Guard here - CBS News
-- Gunman kills three at Target store in US state of Texas - Al Jazeera
-- Gunman in CDC attack fired over 180 shots at building and broke 150 windows - The Guardian
+- Trump says he's nominating E.J. Antoni as Bureau of Labor Statistics commissioner - CNBC
+- Trump Extends China Tariff Truce by Three Months - The New York Times
+- What to know about the 6 journalists killed covering Israel's war in Gaza - Axios
 - US military was deployed to LA protests despite low risk, general testifies - Reuters
-- Tropical Storm Erin likely to become a classic, long-lived Atlantic hurricane - Yale Climate Connections
-- Tributes, condemnation pour in over slain Al Jazeera journalists in Gaza - Al Jazeera
+- Texas House Democrats remain out of state as redistricting showdown continues into second week - ABC News
+- 3 dead in shooting at Target in Austin, suspect detained: Police - ABC News
+- Gunman in CDC attack fired over 180 shots at building and broke 150 windows - The Guardian
+- Trump says he will 'feel out' Putin in Alaska on ending the war in Ukraine - NPR
+- Man who died after explosions at U.S. Steel Clairton plant identified - CBS News
 - Why Australia is risking US anger to recognise the state of Palestine - France 24
+- Israeli strikes kill journalists and aid-seekers as Australia backs Palestinian statehood - yahoo.com
 - Europe and Ukraine leaders seek talks with Trump to defend their interests ahead of US-Russia summit - AP News
-- Yvette Cooper: Some 'don't know the full nature' of Palestine Action - BBC
+- Niger wants answers after largest piece of Mars sold at auction for more than $5 million - CBS News
 - Ford says it will roll out a cheaper electric pickup truck - NPR
 - Donald Trump opens door to Nvidia selling advanced AI chips to China for a fee - Financial Times
-- AOL announces September shutdown for dial-up Internet after 34 years - Ars Technica
-- Sinclair is exploring merger options for its broadcast business - CNBC
+- AOL ends dial-up internet service after more than 30 years - BBC
+- Bessent on Tariffs, Deficits and Embracing Trump’s Economic Plan - Bloomberg.com
+- Walmart Has a Brand New Apple MacBook Air for Just $599, Great for Back to Schoolers - IGN
 - High-severity WinRAR 0-day exploited for weeks by 2 groups - Ars Technica
-- iOS 26 beta hints at upcoming AirPods live translation gesture - 9to5Mac
