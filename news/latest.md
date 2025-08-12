@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-12 16:53_
+_Updated: 2025-08-12 17:52_
 
-- Trump's remarks on homelessness in DC spark concerns among homeless advocates - ABC News
+- National guard arrives in DC as mayors warn of Trump power grab - The Guardian
 - Alaska was once a full-fledged Russian colony. Now it's hosting a U.S.-Russia summit - NPR
-- Trump Extends China Tariff Truce by Three Months - The New York Times
+- US and China extend trade truce another 90 days, easing tension between world's largest economies - AP News
 - Russian breach sparks alarm on Ukraine’s eastern front - Financial Times
+- Man fired 180 shots, breaking 150 windows, in CDC attack - CNN
 - Amid global outcry, IDF says Al Jazeera reporter it killed was receiving Hamas salary - The Times of Israel
-- In redistricting clash, Texas GOP flexes power to shut down Democrats' last tool of resistance - The Texas Tribune
-- After CDC shooting, its employees turn their anger to RFK Jr. and Trump - The Washington Post
-- Gunman kills three at Target store in US state of Texas - Al Jazeera
+- Man accused of faking his death and fleeing U.S. to avoid rape charges faces alleged victim in Utah court - CBS News
 - ‘They created this impasse’: Lula, Trump at a standstill on tariffs - Politico
-- Imminent "glacial outburst" flooding threat in Alaska prompts disaster declaration - CBS News
+- Under water: How FEMA’s outdated flood maps incentivize property owners to take risks - NBC News
+- Gunman kills three at Target store in US state of Texas - Al Jazeera
 - Europe’s sidelined leaders urge Trump to defend security interests at his summit with Putin - AP News
-- ‘There’s no solution’: Ex-terror chief Zubeidi laments failed Palestinian strategies - The Times of Israel
 - Israel bombards Gaza City overnight; Hamas leader due in Cairo in bid to salvage ceasefire talks - Reuters
-- How do Israelis see Gaza war, Palestinian suffering? - DW
-- CPI Report Live Updates: Inflation Data Shows Deepening Impact of Trump’s Tariffs - The New York Times
-- Stocks rise, bonds firm on reassuring US inflation data - Reuters
+- Chinese ships collide while chasing Philippine vessel - navalnews.com
+- Israel says review shows Hamas inflating Gaza hunger data in ‘orchestrated campaign’ - The Times of Israel
+- CPI Report Live Updates: As Tariffs Push Up Prices, Trump Revives Powell Attacks - The New York Times
 - Inside Ford's decision to double down on electric vehicles - Axios
-- 133-year old Kodak says it might have to cease operations - CNN
+- Spirit Airlines raises doubts about its ability to stay in business, months after exiting bankruptcy - CNN
+- Eastman Kodak Raises Doubt About Ability to Pay Debt - The Wall Street Journal
 - New Apple Watch Ultra 3 Rumors Point to an Overdue Upgrade - CNET
-- Samsung Galaxy Z Flip7 FE vs. Galaxy Z Flip7 - GSMArena.com
+- Microsoft releases lightweight Office taskbar apps for Windows 11 - The Verge
