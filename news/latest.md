@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-12 01:48_
+_Updated: 2025-08-12 04:27_
 
-- House Republicans back up Trump on DC crime push - Politico
+- Trump puts DC police department under federal control, deploys National Guard - ABC News
+- Trump picks Heritage economist Antoni to lead US labor statistics agency - Reuters
+- Trump Extends China Tariff Truce - The New York Times
 - Trump says he will 'feel out' Putin in Alaska on ending the war in Ukraine - NPR
-- Judge Will Not Unseal Grand Jury Papers of Maxwell, Epstein’s Companion - The New York Times
-- Man who died after explosions at U.S. Steel Clairton plant identified - CBS News
-- U.S., China extend tariff pause another 90 days - Axios
-- 3 dead in shooting at Target in Austin, suspect detained: Police - ABC News
-- Man fired 180 shots, shattering 150 windows, in CDC attack - AP News
-- 5 things to know as Newsom and Trump go back to court over the National Guard in LA - CalMatters
-- Tropical Storm Erin forms, could become first hurricane in Atlantic Ocean this season - CBS News
-- Texas woman sues Marine, claiming he spiked her drink with abortion pills - NBC News
+- At least 2 dead and 10 injured in explosions at U.S. Steel Clairton plant - Axios
+- Trump says he'll "end" no cash bail in Chicago; calls Pritzker, Johnson "incompetent" amid threat to send National Guard here - CBS News
+- Gunman kills three at Target store in US state of Texas - Al Jazeera
+- Gunman in CDC attack fired over 180 shots at building and broke 150 windows - The Guardian
+- US military was deployed to LA protests despite low risk, general testifies - Reuters
+- Tropical Storm Erin likely to become a classic, long-lived Atlantic hurricane - Yale Climate Connections
 - Tributes, condemnation pour in over slain Al Jazeera journalists in Gaza - Al Jazeera
 - Why Australia is risking US anger to recognise the state of Palestine - France 24
 - Europe and Ukraine leaders seek talks with Trump to defend their interests ahead of US-Russia summit - AP News
 - Yvette Cooper: Some 'don't know the full nature' of Palestine Action - BBC
-- EJ Antoni: Trump picks new head for Bureau of Labor Statistics - BBC
 - Ford says it will roll out a cheaper electric pickup truck - NPR
-- Nvidia, AMD agree to pay U.S. government 15% of A.I. chip sales to China - The Washington Post
-- AOL set to pull the plug on iconic dial-up internet service - ABC News
-- iPhone 17, the 'thinnest iPhone ever,' and everything else we're expecting out of Apple's hardware event - TechCrunch
-- iOS 26 beta 6 adds six brand new iPhone ringtones, listen here - 9to5Mac
+- Donald Trump opens door to Nvidia selling advanced AI chips to China for a fee - Financial Times
+- AOL announces September shutdown for dial-up Internet after 34 years - Ars Technica
+- Sinclair is exploring merger options for its broadcast business - CNBC
+- High-severity WinRAR 0-day exploited for weeks by 2 groups - Ars Technica
+- iOS 26 beta hints at upcoming AirPods live translation gesture - 9to5Mac
