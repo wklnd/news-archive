@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-12 17:45_
+_Updated: 2025-08-12 18:50_
 
 ## Top Stories
 
 - Ingmar Nevéus: Så vill Trump och Putin att Ukrainas gränser ritas om - DN
-- Huvudförhandling i Linköpings tingsrätt om mord, medhjälp till mord och grovt vapenbrott - Sveriges Domstolar
-- LEDARE: Trump får inte traska rakt in i Putins björnfälla - Hufvudstadsbladet
-- Man död i Fagersta – misstänkt mord - Västerbottens-Kuriren
-- Stenergard: Tydlig regeringslinje om Israel - SVT Nyheter
-- DN Direkt - En fjärde kungspyton hittad i Halland: ”Udda” - DN.se - DN
-- Kundvagnskuppen sprider sig till flera städer: ”Pojkstreck” - SVT Nyheter
+- 14-åring erkänner – sköt ihjäl gängledare - Aftonbladet
+- En fjärde pytonorm hittad i Halland – levande - GP
+- Länder i uppmaning: Stoppa svälten i Gaza - Aftonbladet
+- Utrikesministern om Busch: Inte regeringens linje - Västerbottens-Kuriren
+- Man död i Fagersta – misstänkt mord - Expressen
 - Färre skaraborgare blir sjuka av sitt arbete – men Götene går mot strömmen - NLT
+- ”Surrealistisk syn” – flera stormarknader drabbade av kundvagnskupper - Arbetet
 - Efter sjukhusstriden: C vill lämna regionstyret - Altinget.se
-- Länder i uppmaning: Stoppa svälten i Gaza - Västerbottens-Kuriren
-- Trump: Nationalgardet ska sättas in i Washington - GP
-- Al Jazeera-journalister dödade av Israel i Gaza - Hufvudstadsbladet
-- Iran grep 21 000 under kriget med Israel - Västerbottens-Kuriren
-- 23 länder uppmanar Israel att omedelbart agera mot svälten i Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Experten: Rysk bankkris en chans att pressa Putin - Dagens industri
+- HÄR VARNAS DET FÖR HÖGA TEMPERATURER - Dagens Vimmerby
+- Trump: Kommer att diskutera byte av territorium - Hufvudstadsbladet
+- Forskaren om attacken mot journalister i Gaza: ”Tragiskt” - GP
+- ”Vi kommer alltid ha för få soldater, därför måste vi vara smartare” - DN
+- Iran grep 21 000 under kriget med Israel - GP
 - Lägre inflation än väntat i USA - SVT Nyheter
+- Experten: Rysk bankkris en chans att pressa Putin - Dagens industri
 - Trump hotar Fed-chefen med stämning - SvD
-- Kritikstorm mot Trumps nya statistikchef: ”Så partisk” - Dagens industri
+- 🎧PODD: Hur är det att jobba för Northvolts nya ägare? - Dagens Arbete
 - Han vill tvinga Microsoft att fortsätta uppdatera Windows 10 – gratis - Ny Teknik
 - Passa på! Stort stjärnfall i kväll - Hufvudstadsbladet
 
 ## World News
 
 - Podobas Global Investments Acquires 5% Stake in Tripla Co., Ltd., Highlighting Its Mission to Become APAC's Leading Travel Tech Platform - Placera.se
-- H World Group Celebrates the Reopening of Steigenberger Icon Europäischer Hof Baden-Baden, Revitalizing 95 Years of Heritage - Placera.se
+- Aurora Ignites Global Expansion with Whistler Cannabis Co. Brand Debut in Australia - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- H World Group Celebrates the Reopening of Steigenberger Icon Europäischer Hof Baden-Baden, Revitalizing 95 Years of Heritage - Placera.se
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Ukraine war latest: White House 'considering' inviting Zelenskyy to Trump-Putin summit - Sky News
+- Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Liberty International i Stockholm växer - travelnews.se
-- Den hetaste nya trenden inom global utbildning - The Portugal News
+- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Kopin Corporation Announces Agreement for $15 Million Strategic Investment From Theon International Plc to Accelerate Global Defense Innovation - Placera.se
-- Aurora Ignites Global Expansion with Whistler Cannabis Co. Brand Debut in Australia - Placera.se
+- Den hetaste nya trenden inom global utbildning - The Portugal News
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- Arrow Global förvärvar Troia Resort - The Portugal News
 
 ## Technology
 
@@ -104,18 +104,18 @@ _Updated: 2025-08-12 17:45_
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
-- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
@@ -127,15 +127,15 @@ _Updated: 2025-08-12 17:45_
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
 - 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
@@ -144,21 +144,21 @@ _Updated: 2025-08-12 17:45_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - Food Supply SE
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- De bedriver lantbruk i fjällmiljö - LRF - Lantbrukarnas Riksförbund
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
