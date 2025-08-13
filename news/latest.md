@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-13 16:54_
+_Updated: 2025-08-13 17:48_
 
 - Eleanor Holmes Norton keeps a low profile as Trump takes aim at DC - Politico
-- Zelenskiy heads to Berlin for online meeting with Trump, European leaders - Reuters
 - Trump and Putin Could Decide Others’ Fates, Echoing Yalta Summit - The New York Times
-- Evacuation warnings intensify in Alaska's capital with record glacier-related flooding predicted - CBS News
+- Zelenskiy heads to Berlin for online meeting with Trump, European leaders - Reuters
+- Alaska’s Juneau orders evacuations as record glacier flood looms - The Guardian
+- Inside the mine that feeds the tech world - and funds Congo’s rebels - Reuters
 - Texas Democrats to return after governor ends special session that included redistricting, sources say - ABC News
-- Zelensky scrambles to avert disaster as Trump meets Putin - Axios
+- Parents and child killed when tree falls on car as heavy rain and flooding hit Tennessee - ABC News
 - What newly released videos and records reveal about the Uvalde school shooting - AP News
-- Parents and child killed when tree falls on car amid heavy rain, flooding in Tennessee - AP News
-- Chris Murphy goes all in on funding bill boycott as Dems seek bipartisanship - Politico
-- White House calls for a 'comprehensive review' of eight Smithsonian museums - NPR
+- Drone video shows great white shark lurking near popular beaches in Maine, prompting police warning - CBS News
+- 26 Fugitives Wanted for Violent and Serious Crimes Returned to the United States from Mexico Including Leaders of Foreign Terrorist Organizations and Alien Smuggling Organization - Department of Justice (.gov)
 - Israel bombards Gaza City as UK and allies urge action against 'unfolding famine' - BBC
+- Germany rejects US censorship claims in human rights report - DW
+- Gaza Plan Stokes Tension Between Israel’s Military Chief and Government - The New York Times
 - UN chief warns Israel it may be put on sexual violence blacklist; in 1st, Hamas on list - The Times of Israel
-- Greetings from Paris, where you can swim in the Seine for the first time in a century - NPR
-- US briefly deploys 2 warships to a disputed South China Sea shoal after Chinese collision - AP News
+- Dow rises 300 points, S&P 500 hits new record in second day of gains: Live updates - CNBC
 - US treasury secretary Scott Bessent calls for half-point interest rate cut at next Fed meeting – as it happened - The Guardian
-- Dow rallies 250 points, S&P 500 hits another record as post-CPI pop continues: Live updates - CNBC
+- Monthly U.S. jobs report won’t be suspended, Trump aides say - MarketWatch
 - Trump Has Made Himself Commander in Chief of the Chip Industry - The New York Times
-- AI start-up Perplexity makes $34.5bn bid for Google Chrome - BBC
+- watchOS 26 preview: It's the little things - Engadget
 - One UI 8 beta update released for the Galaxy S24 series - SamMobile
-- Drag x Drive reviews roundup - Nintendo Everything
