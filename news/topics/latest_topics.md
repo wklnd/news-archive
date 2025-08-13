@@ -1,52 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-13 19:40_
-
-## Top Stories
-
-- Zelenskyj: Varnade Trump om att Putin bluffar - DN
-- Här ska Trump och Putin träffas - Hufvudstadsbladet
-- Rekordvärme och allt fler skogsbränder i Europa – ”oroväckande” - GP
-- Misstänkt farligt föremål vid Redbergsplatsen i Göteborg - SVT Nyheter
-- Inbrott i Synsams butik i Strömsund - polisen.se
-- De nya el-bussarna börjar rulla i Växjö, Alvesta och Älmhult på måndag - Smålandsposten
-- Billigare tandvård för äldre - SVT Nyheter
-- DN Direkt - Polisanmälan efter fynd av pytonormar - DN.se - DN
-- Nya buset är här – flera butiker drabbade - UNT
-- Hedengrens bokhandel kan tvingas stänga för gott – vädjar om hjälp - DN
-- Våldsamt under protester mot Serbiens president - Västerbottens-Kuriren
-- Israel i samtal med Sydsudan om tvångsförflyttning – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Kaotiskt efter ryskt genombrott: ”Situationen är allvarlig” - SVT Nyheter
-- Läkare utan gränser: ”Extremt och systematiskt” våld vid hjälputdelning i Gaza - Hufvudstadsbladet
-- AI-startup lägger jättebud på Chrome - SvD
-- Svensk arbetslöshet ökade till 7,1 procent i juli - AF - Börsvärlden
-- Erik Magnusson När tullar och räntor spökar förskräcks Stockholmsbörsen - Sydsvenskan
-- Kamprads assistent slutar som vd för Ikea - Dagens industri
-- Imponera i Battlefield 6-betan – vinn plats i Slaget - FZ.se
-- Passa på! Stort stjärnfall i kväll - Hufvudstadsbladet
-
-## World News
-
-- Podobas Global Investments Acquires 5% Stake in Tripla Co., Ltd., Highlighting Its Mission to Become APAC's Leading Travel Tech Platform - Placera.se
-- Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- BIG Travel går in i globalt partnerskap - travelnews.se
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
-- Wolverine Worldwide Launches Junior Board - Placera.se
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- International Paper CEO to Speak at Jefferies 2025 Industrials Conference - Placera.se
-- Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
-- U.S. FACTORY PURCHASES SLOWED SHARPLY IN JULY, DRIVING GLOBAL SUPPLY CHAIN SLOWDOWN: GEP GLOBAL SUPPLY CHAIN VOLATILITY INDEX - Placera.se
-- Den hetaste nya trenden inom global utbildning - The Portugal News
-- Aurora Ignites Global Expansion with Whistler Cannabis Co. Brand Debut in Australia - Placera.se
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+_Updated: 2025-08-13 20:51_
 
 ## Business
 
@@ -74,68 +28,68 @@ _Updated: 2025-08-13 19:40_
 ## Health
 
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
-- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 
 ## Science
 
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
 - 5 myter om öppen vetenskap - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- E-infrastruktur för livsvetenskap får SSF-anslag - Uppsala universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
+- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Här är världens största jordbruk - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
