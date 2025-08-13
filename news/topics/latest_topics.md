@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-13 18:46_
+_Updated: 2025-08-13 19:40_
 
 ## Top Stories
 
-- Europeiska ledare pressar Trump inför möte med Putin - GP
-- Putin möter Trump på ”särskilt viktig” bas - Västerbottens-Kuriren
+- Zelenskyj: Varnade Trump om att Putin bluffar - DN
+- Här ska Trump och Putin träffas - Hufvudstadsbladet
+- Rekordvärme och allt fler skogsbränder i Europa – ”oroväckande” - GP
 - Misstänkt farligt föremål vid Redbergsplatsen i Göteborg - SVT Nyheter
-- DN Direkt - Stal märkesglasögon för över 400 000 kronor - DN.se - DN
+- Inbrott i Synsams butik i Strömsund - polisen.se
 - De nya el-bussarna börjar rulla i Växjö, Alvesta och Älmhult på måndag - Smålandsposten
-- En A-traktor voltade flera varv utanför Karlskoga – tre till sjukhus - SVT Nyheter
 - Billigare tandvård för äldre - SVT Nyheter
-- Nya buset är här – flera butiker drabbade - UNT
 - DN Direkt - Polisanmälan efter fynd av pytonormar - DN.se - DN
+- Nya buset är här – flera butiker drabbade - UNT
 - Hedengrens bokhandel kan tvingas stänga för gott – vädjar om hjälp - DN
-- Israel i samtal med Sydsudan om tvångsförflyttning – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Våldsamt under protester mot Serbiens president - Västerbottens-Kuriren
-- Peter Alestig: En klimatdystopi – precis som forskningen varnat för - DN
+- Israel i samtal med Sydsudan om tvångsförflyttning – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Kaotiskt efter ryskt genombrott: ”Situationen är allvarlig” - SVT Nyheter
+- Läkare utan gränser: ”Extremt och systematiskt” våld vid hjälputdelning i Gaza - Hufvudstadsbladet
 - AI-startup lägger jättebud på Chrome - SvD
 - Svensk arbetslöshet ökade till 7,1 procent i juli - AF - Börsvärlden
-- Erik Magnusson När tullar och räntor spökar går Stockholmsbörsen trögt - Sydsvenskan
+- Erik Magnusson När tullar och räntor spökar förskräcks Stockholmsbörsen - Sydsvenskan
 - Kamprads assistent slutar som vd för Ikea - Dagens industri
 - Imponera i Battlefield 6-betan – vinn plats i Slaget - FZ.se
 - Passa på! Stort stjärnfall i kväll - Hufvudstadsbladet
@@ -29,70 +29,47 @@ _Updated: 2025-08-13 18:46_
 
 - Podobas Global Investments Acquires 5% Stake in Tripla Co., Ltd., Highlighting Its Mission to Become APAC's Leading Travel Tech Platform - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Wolverine Worldwide Launches Junior Board - Placera.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - International Paper CEO to Speak at Jefferies 2025 Industrials Conference - Placera.se
-- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
 - U.S. FACTORY PURCHASES SLOWED SHARPLY IN JULY, DRIVING GLOBAL SUPPLY CHAIN SLOWDOWN: GEP GLOBAL SUPPLY CHAIN VOLATILITY INDEX - Placera.se
-- Global Atomic Announces Q2 2025 Results - Placera.se
+- Den hetaste nya trenden inom global utbildning - The Portugal News
+- Aurora Ignites Global Expansion with Whistler Cannabis Co. Brand Debut in Australia - Placera.se
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- Payoneer Leverages Citi's Blockchain Technology to Enable 24/7 Global Intracompany Money Transfers - Placera.se
-- Arrow Global förvärvar Troia Resort - The Portugal News
-
-## Technology
-
-- OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
-- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
-- Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
-- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- EY.ai | EY - Sverige - EY
-- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
-- AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
-- Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
-- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
 
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
-- REPAY Appoints New Chief Financial Officer - Placera.se
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Accord Announces Banking Facility Update - Placera.se
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Selective Director Steps Down to Focus on Founder Role - Placera.se
 - AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 - ALT5 Sigma Corporation Announces Closing of $1.5 Billion Registered Direct Offering and Concurrent Private Placement to Initiate World Liberty Financial $WLFI Treasury Strategy - Placera.se
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
+- Argenta Silver Announces Closing of Additional Investment of C$2.5 Million - Placera.se
 
 ## Health
 
@@ -120,25 +97,25 @@ _Updated: 2025-08-13 18:46_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
-- Simple math behind major bison blunder - Forskning & Framsteg
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- E-infrastruktur för livsvetenskap får SSF-anslag - Uppsala universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
 - Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
-- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
