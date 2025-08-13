@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-13 15:56_
+_Updated: 2025-08-13 16:54_
 
-- DC Mayor Bowser changes her tone on Trump as crackdown ramps up - CNN
-- Zelenskiy, Europe pitch to Trump ahead of Alaska summit with Putin - Reuters
+- Eleanor Holmes Norton keeps a low profile as Trump takes aim at DC - Politico
+- Zelenskiy heads to Berlin for online meeting with Trump, European leaders - Reuters
+- Trump and Putin Could Decide Others’ Fates, Echoing Yalta Summit - The New York Times
 - Evacuation warnings intensify in Alaska's capital with record glacier-related flooding predicted - CBS News
-- White House sharply lowers expectations for Trump-Putin summit - The Washington Post
-- With midterms more than a year away, a record number of lawmakers are eyeing the exits - NPR
-- Newsom says California will draw new electoral maps after Trump ‘missed’ deadline - The Guardian
-- New Video Shows Uvalde School Chief Trying to Negotiate With Gunman - The New York Times
 - Texas Democrats to return after governor ends special session that included redistricting, sources say - ABC News
-- Drone video shows great white shark lurking near popular beaches in Maine, prompting police warning - CBS News
-- 500 rounds fired in CDC shooting after Cobb man steals father’s guns, GBI says - AJC.com
+- Zelensky scrambles to avert disaster as Trump meets Putin - Axios
+- What newly released videos and records reveal about the Uvalde school shooting - AP News
+- Parents and child killed when tree falls on car amid heavy rain, flooding in Tennessee - AP News
+- Chris Murphy goes all in on funding bill boycott as Dems seek bipartisanship - Politico
+- White House calls for a 'comprehensive review' of eight Smithsonian museums - NPR
 - Israel bombards Gaza City as UK and allies urge action against 'unfolding famine' - BBC
-- South Korea's former first lady imprisoned after court issues warrant - CNBC
-- Israel is wiping out Gaza’s journalists – and it’s no longer even hiding it | Jodie Ginsberg - The Guardian
 - UN chief warns Israel it may be put on sexual violence blacklist; in 1st, Hamas on list - The Times of Israel
-- US treasury secretary Scott Bessent calls for half-point interest rate cut at next Fed meeting – business live - The Guardian
-- Stocks rise as S&P 500 and Nasdaq hit fresh record highs: Live updates - CNBC
+- Greetings from Paris, where you can swim in the Seine for the first time in a century - NPR
+- US briefly deploys 2 warships to a disputed South China Sea shoal after Chinese collision - AP News
+- US treasury secretary Scott Bessent calls for half-point interest rate cut at next Fed meeting – as it happened - The Guardian
+- Dow rallies 250 points, S&P 500 hits another record as post-CPI pop continues: Live updates - CNBC
 - Trump Has Made Himself Commander in Chief of the Chip Industry - The New York Times
-- Air Canada to Suspend Flights as Flight Attendants’ Union Issues Strike Notice - The Wall Street Journal
+- AI start-up Perplexity makes $34.5bn bid for Google Chrome - BBC
+- One UI 8 beta update released for the Galaxy S24 series - SamMobile
 - Drag x Drive reviews roundup - Nintendo Everything
-- Gboard rolling out ‘Autofill with Google’ to browse passwords, credit cards - 9to5Google
