@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-13 15:22_
+_Updated: 2025-08-13 15:56_
 
 - DC Mayor Bowser changes her tone on Trump as crackdown ramps up - CNN
-- Trump, Zelenskyy, NATO nations set for virtual meeting ahead of Trump-Putin summit - CBS News
+- Zelenskiy, Europe pitch to Trump ahead of Alaska summit with Putin - Reuters
+- Evacuation warnings intensify in Alaska's capital with record glacier-related flooding predicted - CBS News
 - White House sharply lowers expectations for Trump-Putin summit - The Washington Post
-- Trump Has Made Himself Commander in Chief of the Chip Industry - The New York Times
-- Zelensky scrambles to avert disaster as Trump meets Putin - Axios
-- Some Juneau residents urged to evacuate as Alaska's Mendenhall Glacier releases floodwater - AP News
+- With midterms more than a year away, a record number of lawmakers are eyeing the exits - NPR
+- Newsom says California will draw new electoral maps after Trump ‘missed’ deadline - The Guardian
+- New Video Shows Uvalde School Chief Trying to Negotiate With Gunman - The New York Times
+- Texas Democrats to return after governor ends special session that included redistricting, sources say - ABC News
 - Drone video shows great white shark lurking near popular beaches in Maine, prompting police warning - CBS News
-- How a U.S. Senate Race Is Shaping the Fight Over Redistricting in Texas - The New York Times
-- Documents released on Uvalde massacre show police chief did not follow training on active shooters - ABC News
-- Chris Murphy goes all in on funding bill boycott as Dems seek bipartisanship - Politico
+- 500 rounds fired in CDC shooting after Cobb man steals father’s guns, GBI says - AJC.com
+- Israel bombards Gaza City as UK and allies urge action against 'unfolding famine' - BBC
+- South Korea's former first lady imprisoned after court issues warrant - CNBC
 - Israel is wiping out Gaza’s journalists – and it’s no longer even hiding it | Jodie Ginsberg - The Guardian
-- Netanyahu pushes for Palestinians' departure from Gaza as Egypt seeks 60-day truce - France 24
-- Human Rights Report Under Trump Blunts Language on Israel and El Salvador - The New York Times
 - UN chief warns Israel it may be put on sexual violence blacklist; in 1st, Hamas on list - The Times of Israel
-- Bessent Says Fed Rates Should Likely Be 150, 175 Basis Points Lower - Bloomberg
-- Stock futures rise as S&P 500 and Nasdaq get set to build on record highs: Live updates - CNBC
-- AI start-up Perplexity makes $34.5bn bid for Google Chrome - BBC
-- Canada’s Gildan Activewear is buying HanesBrands for $2.2 billion - AP News
-- iPhone 17 Pro to get higher price and fewer storage options - 9to5Mac
+- US treasury secretary Scott Bessent calls for half-point interest rate cut at next Fed meeting – business live - The Guardian
+- Stocks rise as S&P 500 and Nasdaq hit fresh record highs: Live updates - CNBC
+- Trump Has Made Himself Commander in Chief of the Chip Industry - The New York Times
+- Air Canada to Suspend Flights as Flight Attendants’ Union Issues Strike Notice - The Wall Street Journal
+- Drag x Drive reviews roundup - Nintendo Everything
 - Gboard rolling out ‘Autofill with Google’ to browse passwords, credit cards - 9to5Google
