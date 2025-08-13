@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-13 23:48_
+_Updated: 2025-08-14 00:49_
 
-- Trump's D.C. crackdown is 'very problematic,' says former Capitol Police officer - NPR
+- D.C.’s homeless begin to see the effects of Trump’s crackdown - The Washington Post
 - Live updates: Trump warns of ‘very severe consequences’ if Putin continues Ukraine war - AP News
-- Appeals court ruling will let Trump administration cut billions in foreign aid - ABC News
 - Alaska’s capital orders evacuations as record glacier flood looms - The Guardian
-- Tropical Storm Erin tracker: Forecast to strengthen into 1st Atlantic hurricane of 2025 this week, as latest projected path is updated - yahoo.com
-- Falling tree kills parents and child in car as Chattanooga flooding prompts dozens of water rescues - CBS News
 - Texas Democrats to return after governor ends special session that included redistricting, sources say - ABC News
-- Judge to hear arguments on halting ‘Alligator Alcatraz’ construction over environmental concerns - CNN
+- US appeals court lets Trump cut billions in foreign aid - Reuters
+- The journalist who disappeared: Inside the 13-year search for Austin Tice - The Washington Post
+- Judge concludes hearing on halting ‘Alligator Alcatraz’ construction over environmental concerns without an immediate ruling - CNN
 - Proponent of Medicaid cuts set to brief House Republicans as they plot another megabill - Politico
-- Trump administration's lawsuit against all of Maryland's federal judges meets skepticism in court - AP News
-- Israel pounds Gaza City, 123 dead in last 24 hours - Reuters
+- Woman finds 'most diamond-y diamond' for engagement ring at state park - USA Today
+- Falling tree kills parents and child in car as Chattanooga flooding prompts dozens of water rescues - CBS News
 - Europeans, Zelensky cite unity with Trump ahead of Putin summit in Alaska - The Washington Post
-- At least 3 dead and thousands displaced as wildfires rage across southern Europe - ABC News
+- Israel pounds Gaza City, 123 dead in last 24 hours - Reuters
 - Chios wildfire: Evacuations underway for people trapped on beaches - eKathimerini.com
-- Fed cut seen near certain after inflation data, Bessent comments - Reuters
+- US warships patrol South China Sea after two Chinese ships collide - The Guardian
+- Why a jumbo Fed rate cut in September would ‘come across as panicky’ - MarketWatch
 - Cava, Chipotle and other fast-casual restaurant chains are finally hit by consumer slowdown - CNBC
-- Stock Market Today: Dow Rockets 400 Points; S&P, Nasdaq Extend Rally On Rates Hopes To New Highs; Crypto Stock Catapults - Investor's Business Daily
+- New York sues Zelle, says security lapses led to $1 billion consumer fraud losses - Reuters
 - AI start-up Perplexity makes $34.5bn bid for Google Chrome - BBC
-- watchOS 26 preview: It's the little things - Engadget
-- Samsung now rolling out expanded One UI 8 beta with Android 16 to these Galaxy devices - 9to5Google
+- Apple Plots Expansion Into AI Robots, Home Security and Smart Displays - Bloomberg.com
+- Pebble’s smartwatch is back: Pebble Time 2 specs revealed - TechCrunch
