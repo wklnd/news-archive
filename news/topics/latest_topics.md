@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-13 15:53_
+_Updated: 2025-08-13 16:47_
 
 ## Top Stories
 
-- Därför är dagens möte med Trump så viktigt - GP
-- Solglasögon för 400 000 kronor stulna i kuppen mot Synsam i Strömsund - SVT Nyheter
+- Zelenskyj i Berlin inför Trumps och Putins möte - GP
+- Misstänkt farligt föremål vid Redbergsplatsen i Göteborg - SVT Nyheter
+- 13 augusti 12.59, Mord/dråp, försök, Stockholm - polisen.se
 - DN Direkt - Insynsrådet i möte efter avslöjande om Forssells son - DN.se - DN
+- Solglasögon för 400 000 kronor stulna i kuppen mot Synsam i Strömsund - SVT Nyheter
 - Jens Liljestrands äckelkänslor mot ryssar är en kulturkilles hat-terapi - Arbetet
-- Daniels beslut efter Västtrafiks cykelförbud – att köpa en bil - GP
-- ”Coolcation” lockar fler utländska campare till Sverige - DN
 - Billigare tandvård för äldre - SVT Nyheter
+- Kundvagnskupp i Umeå – Butikschefen: ”Struligt” - Västerbottens-Kuriren
 - Bromsen värre än myggen i sommar - DN
 - Utrikesministern om Busch: Inte regeringens linje - GP
-- 13 augusti 12.59, Mord/dråp, försök, Stockholm - polisen.se
-- Israel i samtal med Sydsudan om tvångsförflyttning – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Klart: Här träffas Trump och Putin - Hufvudstadsbladet
-- Analys: Största ryska framryckningen på ett år - DN
-- Våldsamt under protester mot Serbiens president - GP
+- Gaza: 123 döda på 24 timmar – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Putin möter Trump på ”särskilt viktig” bas - DN
+- Kaotiskt efter ryskt genombrott: ”Situationen är allvarlig” - SVT Nyheter
+- Försökte rädda hästar – dog i storbrand - Hufvudstadsbladet
 - AI-startup lägger jättebud på Chrome - SvD
-- Fler arbetslösa – men inte bland unga - DN
-- USA-börserna fortsätter uppåt – men tungt fall för AI-bolag - Dagens industri
-- Affärsvärlden lämnar neutralt råd för TF Bank - värderingen för hög - Börsvärlden
+- Erik Magnusson När tullar och räntor spökar går Stockholmsbörsen trögt - Sydsvenskan
+- Arbetslösheten ökar – prognoschef: Då vänder det - EFN
+- Investerarens råd: "Köp guld och glöm bort det" - Dagens PS
 - Microsoft lägger till tre nya Office-appar i Aktivitetsfältet - Computer Sweden
 - Passa på! Stort stjärnfall i kväll - Hufvudstadsbladet
 
@@ -38,15 +38,15 @@ _Updated: 2025-08-13 15:53_
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Wolverine Worldwide Launches Junior Board - Placera.se
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - International Paper CEO to Speak at Jefferies 2025 Industrials Conference - Placera.se
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Aurora Ignites Global Expansion with Whistler Cannabis Co. Brand Debut in Australia - Placera.se
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- U.S. FACTORY PURCHASES SLOWED SHARPLY IN JULY, DRIVING GLOBAL SUPPLY CHAIN SLOWDOWN: GEP GLOBAL SUPPLY CHAIN VOLATILITY INDEX - Placera.se
 - Global Atomic Announces Q2 2025 Results - Placera.se
 - Payoneer Leverages Citi's Blockchain Technology to Enable 24/7 Global Intracompany Money Transfers - Placera.se
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
-- Ulrika Jonsson stämmer News of the World - Sydsvenskan
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 
 ## Technology
 
@@ -62,7 +62,6 @@ _Updated: 2025-08-13 15:53_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
@@ -70,29 +69,30 @@ _Updated: 2025-08-13 15:53_
 - Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
 
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
-- REPAY Appoints New Chief Financial Officer - Placera.se
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Accord Announces Banking Facility Update - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
-- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Selective Director Steps Down to Focus on Founder Role - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
+- Coincheck Reports Financial Results for First Quarter of Year Ending March 31, 2026 - Placera.se
+- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 - ALT5 Sigma Corporation Announces Closing of $1.5 Billion Registered Direct Offering and Concurrent Private Placement to Initiate World Liberty Financial $WLFI Treasury Strategy - Placera.se
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
-- Argenta Silver Announces Closing of Additional Investment of C$2.5 Million - Placera.se
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
