@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-13 01:48_
+_Updated: 2025-08-13 04:29_
 
 - Trump claims Washington’s murder rate is higher than Bogotá or Mexico City. Here’s what the stats from those countries say - CNN
-- Trump administration to review 19 Smithsonian museums to ensure exhibits are ‘patriotic’ - The Guardian
+- White House to conduct review of Smithsonian museum exhibitions to ensure they fit with Trump's view of American history - ABC News
 - White House downplays expectations for Trump-Putin Alaska summit - Financial Times
 - Russia tries to make sudden advance in Ukraine before Trump-Putin summit - Reuters
-- Trump is talking to European leaders about his Putin meeting. They may still not get a say. - Politico
-- Train carrying possible hazardous materials derails in Palo Pinto, Texas: Officials - ABC News
-- Victims identified, additional information released by police in North Austin Target shooting - KVUE
-- After CDC shooting, its employees turn their anger to RFK Jr. and Trump - The Washington Post
-- One of Fort Stewart shooting victims was Sergeant Quornelius Radford's "intimate partner," charges reveal - CBS News
-- DeSantis picks state Sen. Jay Collins to be Florida’s lieutenant governor - AP News
+- Trump’s domestic troop deployment tests the limits of a nearly 150-year-old law - AP News
 - Trump administration rewrites and scales back annual human rights report - BBC
-- An Israeli airstrike kills a prominent Al Jazeera journalist and colleagues in Gaza - NPR
-- Philippine coast guard video shows Chinese ships collide while chasing Philippine boat in disputed waters - CBS News
-- Mexican-American designer apologizes for Adidas sandal design accused of cultural appropriation - AP News
-- Markets News, Aug. 12, 2025: S&P 500, Nasdaq Close at Record Highs as Stocks Surge After CPI Report Boosts Rate-Cut Hopes - Investopedia
+- After the shooting at CDC, RFK Jr. criticizes agency’s pandemic response - PBS
+- Austin police ID suspect, victims in Target shooting that left 3 dead - Austin American-Statesman
+- Documents released on Uvalde massacre show police chief did not follow training on active shooters - ABC News
+- Fort Stewart sergeant charged with attempted murder, domestic violence in shooting of 5 soldiers - CBS News
+- Ukraine will not cede land that could be Russian springboard for new war, Zelenskyy says - The Guardian
+- Israel bombards Gaza City; Hamas leader visits Cairo in bid to salvage ceasefire talks - Reuters
+- South Korean court orders arrest of wife of jailed ex-President Yoon Suk Yeol - CNN
+- Mexican-American designer apologizes for Adidas sandal design accused of cultural appropriation - ABC News
 - Trump’s pick for BLS commissioner endorses suspending monthly jobs reports - The Washington Post
-- Inflation ticks higher as Trump's tariffs kick in - Politico
-- Do Kwon pleads guilty to US fraud charges in $40 billion crypto collapse - Reuters
-- Google will now let you pick your top sources for search results - TechCrunch
-- Everything We Know About the Upcoming Google Pixel 10 Phones - IGN
+- A.I. Start-Up Perplexity Offers to Buy Google’s Chrome Browser for $34.5 Billion - The New York Times
+- Trump rebukes Goldman's Solomon over bank's tariff research - Reuters
+- Cava trims sales outlook, stock tumbles as CEO says consumers are navigating a ‘fog’ - MarketWatch
+- Pixel 10, AI capabilities, and everything else we expect out of the Made by Google 2025 event - TechCrunch
+- Google lets you pick preferred sources when you search - Engadget
