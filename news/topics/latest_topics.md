@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-13 16:47_
+_Updated: 2025-08-13 17:39_
 
 ## Top Stories
 
-- Zelenskyj i Berlin inför Trumps och Putins möte - GP
+- Zelenskyj: Varnade Trump om att Putin bluffar - DN
+- Klart: Här träffas Trump och Putin - Hufvudstadsbladet
+- Rekordvärme och allt fler skogsbränder i Europa – ”oroväckande” - GP
 - Misstänkt farligt föremål vid Redbergsplatsen i Göteborg - SVT Nyheter
+- Kronoberg blir elektriskt - Bussmagasinet
 - 13 augusti 12.59, Mord/dråp, försök, Stockholm - polisen.se
-- DN Direkt - Insynsrådet i möte efter avslöjande om Forssells son - DN.se - DN
-- Solglasögon för 400 000 kronor stulna i kuppen mot Synsam i Strömsund - SVT Nyheter
-- Jens Liljestrands äckelkänslor mot ryssar är en kulturkilles hat-terapi - Arbetet
 - Billigare tandvård för äldre - SVT Nyheter
 - Kundvagnskupp i Umeå – Butikschefen: ”Struligt” - Västerbottens-Kuriren
 - Bromsen värre än myggen i sommar - DN
 - Utrikesministern om Busch: Inte regeringens linje - GP
 - Gaza: 123 döda på 24 timmar – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Putin möter Trump på ”särskilt viktig” bas - DN
+- Våldsamt under protester mot Serbiens president - GP
 - Kaotiskt efter ryskt genombrott: ”Situationen är allvarlig” - SVT Nyheter
-- Försökte rädda hästar – dog i storbrand - Hufvudstadsbladet
+- Läkare utan gränser: ”Extremt och systematiskt” våld vid hjälputdelning i Gaza - Hufvudstadsbladet
 - AI-startup lägger jättebud på Chrome - SvD
-- Erik Magnusson När tullar och räntor spökar går Stockholmsbörsen trögt - Sydsvenskan
-- Arbetslösheten ökar – prognoschef: Då vänder det - EFN
-- Investerarens råd: "Köp guld och glöm bort det" - Dagens PS
-- Microsoft lägger till tre nya Office-appar i Aktivitetsfältet - Computer Sweden
+- Svensk arbetslöshet ökade till 7,1 procent i juli - AF - Börsvärlden
+- Kamprads assistent slutar som vd för Ikea - Dagens industri
+- Källor: USA utför spionjobb - sändare i chip till Kina - Omni
+- Imponera i Battlefield 6-betan – vinn plats i Slaget - FZ.se
 - Passa på! Stort stjärnfall i kväll - Hufvudstadsbladet
 
 ## World News
@@ -42,11 +42,11 @@ _Updated: 2025-08-13 16:47_
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - International Paper CEO to Speak at Jefferies 2025 Industrials Conference - Placera.se
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
-- Aurora Ignites Global Expansion with Whistler Cannabis Co. Brand Debut in Australia - Placera.se
 - U.S. FACTORY PURCHASES SLOWED SHARPLY IN JULY, DRIVING GLOBAL SUPPLY CHAIN SLOWDOWN: GEP GLOBAL SUPPLY CHAIN VOLATILITY INDEX - Placera.se
 - Global Atomic Announces Q2 2025 Results - Placera.se
-- Payoneer Leverages Citi's Blockchain Technology to Enable 24/7 Global Intracompany Money Transfers - Placera.se
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- Payoneer Leverages Citi's Blockchain Technology to Enable 24/7 Global Intracompany Money Transfers - Placera.se
+- Arrow Global förvärvar Troia Resort - The Portugal News
 
 ## Technology
 
@@ -58,15 +58,15 @@ _Updated: 2025-08-13 16:47_
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
-- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
+- AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
@@ -75,36 +75,37 @@ _Updated: 2025-08-13 16:47_
 
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Accord Announces Banking Facility Update - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Faciliteten för återhämtning och resiliens - European Commission
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Dubbelvinst för Nordea i Sverige – rankas etta för Small- och Mid Corporates - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Selective Director Steps Down to Focus on Founder Role - Placera.se
+- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
-- Coincheck Reports Financial Results for First Quarter of Year Ending March 31, 2026 - Placera.se
-- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
 - ALT5 Sigma Corporation Announces Closing of $1.5 Billion Registered Direct Offering and Concurrent Private Placement to Initiate World Liberty Financial $WLFI Treasury Strategy - Placera.se
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
-- First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
-- Engineering Health 2024 - Chalmers tekniska högskola
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
@@ -115,7 +116,6 @@ _Updated: 2025-08-13 16:47_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -137,28 +137,28 @@ _Updated: 2025-08-13 16:47_
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
 - Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
+- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Möt forskare i Umeå digitalt på ForskarFredag den 27 november! - Mynewsdesk
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Jordbruk och landsbygdsutveckling - European Commission
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - Food Supply SE
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- De gick från reko till eko - ST-tidningen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
