@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-13 17:39_
+_Updated: 2025-08-13 18:46_
 
 ## Top Stories
 
-- Zelenskyj: Varnade Trump om att Putin bluffar - DN
-- Klart: Här träffas Trump och Putin - Hufvudstadsbladet
-- Rekordvärme och allt fler skogsbränder i Europa – ”oroväckande” - GP
+- Europeiska ledare pressar Trump inför möte med Putin - GP
+- Putin möter Trump på ”särskilt viktig” bas - Västerbottens-Kuriren
 - Misstänkt farligt föremål vid Redbergsplatsen i Göteborg - SVT Nyheter
-- Kronoberg blir elektriskt - Bussmagasinet
-- 13 augusti 12.59, Mord/dråp, försök, Stockholm - polisen.se
+- DN Direkt - Stal märkesglasögon för över 400 000 kronor - DN.se - DN
+- De nya el-bussarna börjar rulla i Växjö, Alvesta och Älmhult på måndag - Smålandsposten
+- En A-traktor voltade flera varv utanför Karlskoga – tre till sjukhus - SVT Nyheter
 - Billigare tandvård för äldre - SVT Nyheter
-- Kundvagnskupp i Umeå – Butikschefen: ”Struligt” - Västerbottens-Kuriren
-- Bromsen värre än myggen i sommar - DN
-- Utrikesministern om Busch: Inte regeringens linje - GP
-- Gaza: 123 döda på 24 timmar – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Våldsamt under protester mot Serbiens president - GP
+- Nya buset är här – flera butiker drabbade - UNT
+- DN Direkt - Polisanmälan efter fynd av pytonormar - DN.se - DN
+- Hedengrens bokhandel kan tvingas stänga för gott – vädjar om hjälp - DN
+- Israel i samtal med Sydsudan om tvångsförflyttning – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Våldsamt under protester mot Serbiens president - Västerbottens-Kuriren
+- Peter Alestig: En klimatdystopi – precis som forskningen varnat för - DN
 - Kaotiskt efter ryskt genombrott: ”Situationen är allvarlig” - SVT Nyheter
-- Läkare utan gränser: ”Extremt och systematiskt” våld vid hjälputdelning i Gaza - Hufvudstadsbladet
 - AI-startup lägger jättebud på Chrome - SvD
 - Svensk arbetslöshet ökade till 7,1 procent i juli - AF - Börsvärlden
+- Erik Magnusson När tullar och räntor spökar går Stockholmsbörsen trögt - Sydsvenskan
 - Kamprads assistent slutar som vd för Ikea - Dagens industri
-- Källor: USA utför spionjobb - sändare i chip till Kina - Omni
 - Imponera i Battlefield 6-betan – vinn plats i Slaget - FZ.se
 - Passa på! Stort stjärnfall i kväll - Hufvudstadsbladet
 
@@ -74,14 +74,12 @@ _Updated: 2025-08-13 17:39_
 ## Business
 
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
-- Accord Announces Banking Facility Update - Placera.se
+- REPAY Appoints New Chief Financial Officer - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Accord Announces Banking Facility Update - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Faciliteten för återhämtning och resiliens - European Commission
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Dubbelvinst för Nordea i Sverige – rankas etta för Small- och Mid Corporates - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -89,10 +87,12 @@ _Updated: 2025-08-13 17:39_
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Selective Director Steps Down to Focus on Founder Role - Placera.se
+- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 - ALT5 Sigma Corporation Announces Closing of $1.5 Billion Registered Direct Offering and Concurrent Private Placement to Initiate World Liberty Financial $WLFI Treasury Strategy - Placera.se
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 
 ## Health
 
@@ -144,21 +144,21 @@ _Updated: 2025-08-13 17:39_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - Food Supply SE
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De gick från reko till eko - ST-tidningen
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
