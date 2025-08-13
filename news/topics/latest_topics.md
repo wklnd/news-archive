@@ -1,36 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-13 15:10_
+_Updated: 2025-08-13 15:53_
 
 ## Top Stories
 
-- Skottlossning i västra Stockholm – stor polisinsats - SVT Nyheter
-- DN Direkt - Insynsrådet i möte efter avslöjande om Forssells son - DN.se - DN
-- Putin möter Trump på ”särskilt viktig” bas - Västerbottens-Kuriren
-- Daniels beslut efter Västtrafiks cykelförbud – att köpa en bil - GP
-- Inbrott i Synsams butik i Strömsund - polisen.se
 - Därför är dagens möte med Trump så viktigt - GP
-- Tandvård för äldre ska bli billigare - SVT Nyheter
+- Solglasögon för 400 000 kronor stulna i kuppen mot Synsam i Strömsund - SVT Nyheter
+- DN Direkt - Insynsrådet i möte efter avslöjande om Forssells son - DN.se - DN
+- Jens Liljestrands äckelkänslor mot ryssar är en kulturkilles hat-terapi - Arbetet
+- Daniels beslut efter Västtrafiks cykelförbud – att köpa en bil - GP
+- ”Coolcation” lockar fler utländska campare till Sverige - DN
+- Billigare tandvård för äldre - SVT Nyheter
 - Bromsen värre än myggen i sommar - DN
 - Utrikesministern om Busch: Inte regeringens linje - GP
-- Tropiska nätter allt vanligare i Sverige - GP
-- Israels militär har godkänt omstridd Gazaplan – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Spanien i lågor – skogsbränder utom kontroll - GP
-- Analys: Största ryska framryckningen på ett år - Västerbottens-Kuriren
-- Pentagon vill skapa specialstyrka – efter Trumps utspel - DN
-- Arbetslösheten ökar – prognoschef: ”Då vänder det” - EFN
-- Expert: Tullar lyfter USA-inflationen - Tidningen Näringslivet
-- Investerarens råd: "Köp guld och glöm bort det" - Dagens PS
+- 13 augusti 12.59, Mord/dråp, försök, Stockholm - polisen.se
+- Israel i samtal med Sydsudan om tvångsförflyttning – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Klart: Här träffas Trump och Putin - Hufvudstadsbladet
+- Analys: Största ryska framryckningen på ett år - DN
+- Våldsamt under protester mot Serbiens president - GP
 - AI-startup lägger jättebud på Chrome - SvD
+- Fler arbetslösa – men inte bland unga - DN
+- USA-börserna fortsätter uppåt – men tungt fall för AI-bolag - Dagens industri
+- Affärsvärlden lämnar neutralt råd för TF Bank - värderingen för hög - Börsvärlden
 - Microsoft lägger till tre nya Office-appar i Aktivitetsfältet - Computer Sweden
 - Passa på! Stort stjärnfall i kväll - Hufvudstadsbladet
 
 ## World News
 
 - Podobas Global Investments Acquires 5% Stake in Tripla Co., Ltd., Highlighting Its Mission to Become APAC's Leading Travel Tech Platform - Placera.se
-- Aurora Ignites Global Expansion with Whistler Cannabis Co. Brand Debut in Australia - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -40,13 +38,15 @@ _Updated: 2025-08-13 15:10_
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
-- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - International Paper CEO to Speak at Jefferies 2025 Industrials Conference - Placera.se
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
-- Den hetaste nya trenden inom global utbildning - The Portugal News
+- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- Aurora Ignites Global Expansion with Whistler Cannabis Co. Brand Debut in Australia - Placera.se
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- Global Atomic Announces Q2 2025 Results - Placera.se
+- Payoneer Leverages Citi's Blockchain Technology to Enable 24/7 Global Intracompany Money Transfers - Placera.se
+- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
+- Ulrika Jonsson stämmer News of the World - Sydsvenskan
 
 ## Technology
 
@@ -74,25 +74,25 @@ _Updated: 2025-08-13 15:10_
 ## Business
 
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
-- Accord Announces Banking Facility Update - Placera.se
+- REPAY Appoints New Chief Financial Officer - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Accord Announces Banking Facility Update - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Nuveen Churchill Direct Lending Corp. Announces Second Quarter 2025 Results - Placera.se
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
-- Selective Director Steps Down to Focus on Founder Role - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
-- Coincheck Reports Financial Results for First Quarter of Year Ending March 31, 2026 - Placera.se
-- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
 - ALT5 Sigma Corporation Announces Closing of $1.5 Billion Registered Direct Offering and Concurrent Private Placement to Initiate World Liberty Financial $WLFI Treasury Strategy - Placera.se
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
 - First Financial Bancorp and Westfield Jointly Announce First Financial's Acquisition of Westfield Bancorp - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Argenta Silver Announces Closing of Additional Investment of C$2.5 Million - Placera.se
 
 ## Health
 
@@ -120,25 +120,25 @@ _Updated: 2025-08-13 15:10_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Simple math behind major bison blunder - Forskning & Framsteg
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
+- E-infrastruktur för livsvetenskap får SSF-anslag - Uppsala universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
 - Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Möt forskare i Umeå digitalt på ForskarFredag den 27 november! - Mynewsdesk
 
 ## Jordbruk
 
