@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-13 19:48_
+_Updated: 2025-08-13 20:56_
 
-- Eleanor Holmes Norton keeps a low profile as Trump takes aim at DC - Politico
-- Trump and Putin Could Decide Others’ Fates, Echoing Yalta Summit - The New York Times
+- DC Mayor Bowser changes her tone on Trump as crackdown ramps up - CNN
+- Zelenskyy: Trump supports ceasefire and security guarantees for Ukraine at Putin summit - NPR
 - Alaska’s Juneau orders evacuations as record glacier flood looms - The Guardian
-- Trump told Zelensky he wants ceasefire from Putin summit - Axios
-- Inside the mine that feeds the tech world - and funds Congo’s rebels - Reuters
-- Tropical Storm Erin path shifts, but still forecast to grow into major hurricane, NHC says - Orlando Sentinel
 - How a U.S. Senate Race Is Shaping the Fight Over Redistricting in Texas - The New York Times
+- Inside the mine that feeds the tech world - and funds Congo’s rebels - Yahoo News Canada
+- Tropical Storm Erin path shifts, but still forecast to grow into major hurricane, NHC says - Orlando Sentinel
 - Falling tree kills parents and child in car as Chattanooga flooding prompts dozens of water rescues - CBS News
+- Trump wins appeal over freeze on foreign aid payments - Reuters
 - Documents released on Uvalde massacre show police chief did not follow training on active shooters - ABC News
-- Newsom says California to draw congressional maps to 'END TRUMP PRESIDENCY' - ABC News
-- Netanyahu pushes for Palestinians' departure from Gaza as Egypt seeks 60-day truce - France 24
+- Judge says he's skeptical of a Trump lawsuit against every federal judge in Maryland - NBC News
+- Israel pounds Gaza City, 123 dead in last 24 hours - Reuters
+- Chios wildfire: Evacuations underway for people trapped on beaches - eKathimerini.com
 - Germany rejects US censorship claims in human rights report - DW
-- Netanyahu allies turn on army chief as Gaza rift deepens - Financial Times
-- Takeover of Gaza City could cost Israel NIS 100 billion, expert estimates - The Times of Israel
-- Markets have convinced themselves they’ll get a September interest rate cut. Now they’re eyeing a double reduction - Fortune
+- China, US trade barbs over destroyer passage near Scarborough Shoal - Reuters
+- Dow rises 400 points, S&P 500 hits new record in second day of gains: Live updates - CNBC
+- US treasury secretary Scott Bessent calls for half-point interest rate cut at next Fed meeting – as it happened - The Guardian
 - Trump aides try to dispel fears new labor-data chief would scrap crucial monthly jobs report - MarketWatch
 - Trump Has Made Himself Commander in Chief of the Chip Industry - The New York Times
-- Dow rises 300 points, S&P 500 hits new record in second day of gains: Live updates - CNBC
-- Drag x Drive reviews roundup - Nintendo Everything
 - watchOS 26 preview: It's the little things - Engadget
+- Google’s official Pixel 10 cases leak with familiar look and magnet ring [Gallery] - 9to5Google
