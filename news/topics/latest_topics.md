@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-13 23:41_
+_Updated: 2025-08-14 00:42_
 
 ## Top Stories
 
-- Putin möter Trump på ”särskilt viktig” bas - Västerbottens-Kuriren
-- Peter Alestig: En klimatdystopi – precis som forskningen varnat för - DN
-- Hemtjänsten vägrade släppa in ambulansvårdare till sjuk man – för att han var ”alkoholist” - Sydsvenskan
+- Michael Winiarski: Vita huset sänker förväntningarna inför toppmötet - DN
+- Rekordvärme och allt fler skogsbränder i Europa – ”oroväckande” - GP
+- Läkarens larm: Fler barn drabbas av cykelfötter - aftonbladet.se
 - Europeiska ledare pressar Trump inför möte med Putin - GP
 - Stubb: Fem principer ska styra vägen mot fred i Ukraina - Hufvudstadsbladet
-- Åttaåringar ska lära sig bygga drönare i Litauen - SvD
+- Litauens svar på ryska hot: Drönarutbilda barn - GP
 - DN Direkt - Polisanmälan efter fynd av pytonormar - DN.se - DN
 - Billigare tandvård för äldre - SVT Nyheter
 - Körde 17 km/h för fort – fastnade i polisens trafikkontroll - Norran
-- Inbrott i Synsams butik i Strömsund - polisen.se
+- Körde mopedbil i 90 kilometer/timmen - Expressen
 - Så förklarar Israel dödandet av journalister - Västerbottens-Kuriren
 - Fortsatta våldsamheter under protester i Serbien - GP
 - Gaza: 123 döda på 24 timmar – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Nathan Shachar: Trump snuvar Ryssland och Iran på inflytande - DN
+- Zelenskyj hyllar Kristersson: ”Tack för ditt stöd” - Expressen
 - Svensk arbetslöshet ökade till 7,1 procent i juli - AF - Börsvärlden
 - Bensinpriset på låg nivå – då väntar nya prisfall - SvD
+- Uppgifter: USA spårar försändelser av AI-chip - Dagens industri
 - Jätterally när kryptobörs noteras i New York - Dagens industri
-- Snål budget för studenter - ”kniven mot strupen” - Aftonbladet
 - Bilder och film: Se meteorregnet utanför Umeå - Västerbottens-Kuriren
 - Imponera i Battlefield 6-betan – vinn plats i Slaget - FZ.se
 
@@ -34,22 +34,23 @@ _Updated: 2025-08-13 23:41_
 - Wolverine Worldwide Launches Junior Board - Placera.se
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - International Paper CEO to Speak at Jefferies 2025 Industrials Conference - Placera.se
-- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - U.S. FACTORY PURCHASES SLOWED SHARPLY IN JULY, DRIVING GLOBAL SUPPLY CHAIN SLOWDOWN: GEP GLOBAL SUPPLY CHAIN VOLATILITY INDEX - Placera.se
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Global Atomic Announces Q2 2025 Results - Placera.se
-- Arrow Global förvärvar Troia Resort - The Portugal News
-- Portugal framstår som ett strategiskt nav för global teknikexpansion - The Portugal News
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
+- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 
 ## Technology
 
+- OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
@@ -57,42 +58,41 @@ _Updated: 2025-08-13 23:41_
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
-- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
-- Leveraging AI in Swedish Development Cooperation - FUF Föreningen för utvecklingsfrågor
 - Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Intellistake Technologies Corp. Appoints Shelly Murphy, DesTechAZ Co-Founder with Steve Wozniak, to Advisory Board to Propel Growth in Decentralized Artificial Intelligence and Digital Currencies - Placera.se
+- AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
+- Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
 
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
-- Accord Announces Banking Facility Update - Placera.se
+- REPAY Appoints New Chief Financial Officer - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Accord Announces Banking Facility Update - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- REPAY Appoints New Chief Financial Officer - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Selective Director Steps Down to Focus on Founder Role - Placera.se
 - ALT5 Sigma Corporation Announces Closing of $1.5 Billion Registered Direct Offering and Concurrent Private Placement to Initiate World Liberty Financial $WLFI Treasury Strategy - Placera.se
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
+- ING completes acquisition of Van Lanschot Kempen stake - Placera.se
 - Argenta Silver Announces Closing of Additional Investment of C$2.5 Million - Placera.se
-- SIGMA LITHIUM STREAMLINES LEADERSHIP COMBINING KEY ROLES UNDER VETERAN VPs; ANNOUNCES SHAREHOLDER MEETING RESULTS; TO RELEASE 2Q FINANCIALS ON AUG 14, 2025 - Placera.se
 
 ## Health
 
@@ -104,8 +104,7 @@ _Updated: 2025-08-13 23:41_
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
-- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
@@ -116,6 +115,7 @@ _Updated: 2025-08-13 23:41_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-08-13 23:41_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Jordbruk och landsbygdsutveckling - European Commission
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- De gick från reko till eko - ST-tidningen
-- Små jordbruk kan mätta fler - FoodMonitor
-- Tio jordbruksaktier för depån - Placera.se
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
