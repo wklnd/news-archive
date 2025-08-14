@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-14 15:53_
+_Updated: 2025-08-14 16:46_
 
 ## Top Stories
 
 - Expert: Nu kan Putin låsa positionerna - DN
 - Den globala uppvärmningen har ökat sannolikheten för svåra värmeböljor - SMHI
-- KD vänder ryggen till kristendomen - Dagens Arena
-- USA kan bidra med säkerhetsgaranti - SvD
-- Skogsbrand vid Värmlands Nysäter: ”Spridning i sydvästlig riktning” - SVT Nyheter
-- Södra Europa brandhärjas: ”Domedagen” - SvD
+- Åskvarning i Stockholm - Mitt i Stockholm
+- Sex scenarion: Så slutar Trump-Putin-mötet - Aftonbladet
+- LEDARE: Dyrare tandvård för alla som jobbar - Expressen
+- Skogsbränder härjar i södra Europa: ”Domedagen” - DN
+- Större strömavbrott i Småland och Halland - SVT Nyheter
 - DN Direkt - Litet barn dog i traktorolycka i Falun - DN.se - DN
 - Uppgifter: Polisen hade span på Ismail Abdo i ett år - GP
-- Större strömavbrott i Småland och Halland - SVT Nyheter
-- S: Återhämtningen i ekonomin hade gått snabbare med S-styre - Altinget.se
-- Kristersson om Alaska: Kan sluta med ryskt nej - Västerbottens-Kuriren
-- Kräver öppna övergångar till Gaza - SVT Nyheter
+- Planerade kidnappa Östermalmsbo – avslöjades av sina vinterjackor - DN
+- Hjälparbetare i Gaza: Barn drömmer om att äta ägg - Västerbottens-Kuriren
+- Kristersson om Alaska: Kan sluta med ryskt nej - GP
 - Zelenskyj i samtal med Starmer på Downing Street - GP
-- Smotrich godkänner omstridd plan – delar palestinskt område – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Mossadchefen i Qatar för samtal om Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Nedåt på USA-börserna – rapportfall för Deere - Dagens industri
 - Semesterresor och mat lyfter inflationen - Tidningen Näringslivet
-- Yubico i otakt med aktiemarknaden - Dagens industri
-- Stor hotellkedja i Stockholm slutar med smör - Mitt i Stockholm
-- USA-börsen sjunker efter höjda producentpriser - Aftonbladet
+- Nu har Ryanair chansen – svenska inrikesflyget ligger vidöppet - travelnews.se
+- Gigantisk konkurs i bilbranschen – 32 000 bilar på lager - Dagens PS
 - Netflix släpper ny design för Apple TV - Macworld.se
-- iOS 26-beta 6 ger fler överraskande uppgraderingar till din iPhone - TechRadar
+- Rykte: Samsungs AI-glasögon lanseras först nästa år - m3.se
 
 ## World News
 
@@ -119,25 +119,25 @@ _Updated: 2025-08-14 15:53_
 
 ## Science
 
-- Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Simple math behind major bison blunder - Forskning & Framsteg
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- E-infrastruktur för livsvetenskap får SSF-anslag - Uppsala universitet
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 - Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
 
 ## Jordbruk
