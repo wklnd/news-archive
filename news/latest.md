@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-15 00:50_
+_Updated: 2025-08-15 01:48_
 
-- Putin to offer financial incentives to Trump at Ukraine summit - The Guardian
-- D.C. police chief expands cooperation with immigration enforcement - The Washington Post
-- Justice Dept. fires, charges staffer who admits throwing sandwich at federal agent deployed in D.C. - CBS News
 - California will move forward with redistricting vote to counter Texas, Newsom says - ABC News
+- Putin to offer financial incentives to Trump at Ukraine summit - The Guardian
+- As feds ramp up immigration enforcement in D.C., police allow more cooperation - The Washington Post
+- Justice Dept. fires, charges staffer who admits throwing sandwich at federal agent deployed in D.C. - CBS News
 - Melania Trump threatens to sue Hunter Biden over Epstein claim - BBC
-- Mayors of Democratic cities beyond D.C. decry Trump's takeover threats - NPR
-- National Guard troops have begun 24-hour operations in DC: Official - ABC News
+- Texas Democrats set plan to end nearly 2-week walkout over Republicans' redraw of US House maps - AP News
+- First Thing: Trump says he’ll seek ‘long-term’ control of DC police - The Guardian
+- Social Security has existed for 90 years. Why it may be more threatened than ever - AP News
 - Florida to use shuttered prison as 2nd immigration detention center after ‘Alligator Alcatraz’ - Politico
 - Man accused of killing married hikers in Devil's Den State Park pleads not guilty to murder charges - CBS News
-- Texas Democrats set plan to end nearly 2-week walkout over Republicans' redraw of US House maps - AP News
 - Israel appears set to approve highly controversial 3,400-home West Bank settlement - The Guardian
 - Hundreds of retired air force officers protest Israel's war in Gaza - NPR
 - Countries deadlocked on plastic production and chemicals as talks on a global treaty draw to a close - AP News
-- Putin must 'prove he is serious about peace,' says Starmer - BBC
-- US Treasuries Fall as Traders Pare Fed Rate-Cut Bets After PPI - Bloomberg.com
-- Average rate on a 30-year mortgage drops to lowest level since October - ABC News
+- Exclusive: Trump ally Erik Prince plans to keep personnel in Haiti for 10 years to fight gangs and collect taxes - Reuters
+- Trump Administration Said to Discuss Taking Stake in Intel - Bloomberg.com
+- Stock Market Today: Dow, Nasdaq Steady After PPI Data Shows Wholesale Inflation Accelerated in July — Live Updates - The Wall Street Journal
+- Tapestry shares plunge nearly 16% as Coach parent says tariffs will bite into profits - CNBC
 - Amazon, IBD Stock Of The Day, Delivers Early Entry As Grocery Move Hits Rivals - Investor's Business Daily
-- Tapestry shares plunge 15% as Coach parent says tariffs will bite into profits - CNBC
 - Apple’s blood oxygen monitoring returns to its latest Apple Watches - TechCrunch
-- Apple releases new iOS 26 beta 6 build for developers - 9to5Mac
+- iPhone 17 Pro could redefine Apple’s Pro color strategy - 9to5Mac
