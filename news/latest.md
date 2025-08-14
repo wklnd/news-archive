@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-14 21:48_
+_Updated: 2025-08-14 22:51_
 
-- Here’s what you need to know about the Trump-Putin summit - The Washington Post
-- DC Mayor Bowser walks delicate line with Trump, reflecting the city’s precarious position - AP News
-- D.C. police to increase cooperation with ICE as part of Trump's crackdown - NBC News
-- Justice Dept. fires, charges staffer who admits throwing sandwich at federal agent deployed in D.C. - CBS News
-- Melania Trump threatens to sue Hunter Biden over Epstein claim - BBC
-- Mayors of Democratic cities respond to Trump's threats they could be next after D.C. - NPR
-- DeSantis announces plans for second immigration detention facility dubbed 'Deportation Depot' - AP News
-- Teacher charged with killing of hikers at Arkansas park pleads not guilty to murder - AP News
-- Congress is lukewarm on RFK Jr.’s plans. In the states, they’re catching fire. - Politico
+- Putin to offer financial incentives to Trump at Ukraine summit - The Guardian
+- National Guard troops have begun 24-hour operations in DC: Official - ABC News
 - Watch Live: California Gov. Gavin Newsom announces redistricting effort to counter Texas GOP - CBS News
-- Israel appears set to approve highly controversial 3,400-home West Bank settlement - The Guardian
-- Countries deadlocked on plastic production and chemicals as talks on a global treaty draw to a close - AP News
-- Hundreds of retired air force officers protest Israel's war in Gaza - NPR
-- Putin must 'prove he is serious about peace,' says Starmer - BBC
+- Melania Trump threatens to sue Hunter Biden over Epstein claim - BBC
+- DC police to increase cooperation with immigration enforcement amid Trump crackdown - Politico
+- Man who threw sandwich at law enforcement was DOJ employee, Bondi says - The Washington Post
+- Texas Democrats signal they are poised to end redistricting walkout - Politico
+- Man accused of killing married hikers in Devil's Den State Park pleads not guilty to murder charges - CBS News
+- DeSantis announces 2nd immigration detention facility dubbed 'Deportation Depot' in Florida - ABC News
+- Tropical Storm Erin projected to become major hurricane with 125 mph top winds - Orlando Sentinel
+- Israeli Settlement Expansion Plan Will ‘Bury’ Palestinian Statehood, Minister Vows - The New York Times
+- Ukraine Hits Another Key Russia Refinery in Flurry of Attacks - Bloomberg.com
+- US briefly deploys warships after Chinese military ships’ collision - Navy Times
+- Israeli Settlers Unleash Record High Attacks in West Bank - The New York Times
+- Average rate on a 30-year mortgage drops to lowest level since October - ABC News
+- Dollar up as US producer prices surge in July - Reuters
+- Stock Market Today: S&P 500 Ekes Out Record After Hot PPI Report - Barron's
 - Tapestry shares plunge 15% as Coach parent says tariffs will bite into profits - CNBC
-- Stocks retreat after hot US inflation data shakes Fed rate cut hopes - Reuters
-- Average rate on a 30-year mortgage drops to lowest level since October - AP News
-- Trump is tightening the screws on corporate America — and CEOs are staying mum - NPR
 - Apple Watch Blood Oxygen Tracker Returns to US After Legal Win - Bloomberg.com
-- Insta360 Antigravity A1 drone preview: A 360-degree FPV drone unlike anything else - Engadget
+- Teenage Engineering is giving away a free computer chassis, but it's already 'sold out' - Engadget
