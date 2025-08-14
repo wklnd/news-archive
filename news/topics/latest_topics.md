@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-14 17:45_
+_Updated: 2025-08-14 18:49_
 
 ## Top Stories
 
-- Trump: 25 procents risk att mötet misslyckas - Hufvudstadsbladet
 - Expert: Nu kan Putin låsa positionerna - DN
-- DN Direkt - SMHI varnar för kraftig åska - DN.se - DN
-- Den globala uppvärmningen har ökat sannolikheten för svåra värmeböljor - SMHI
-- Från konkursbo till försäljningssuccé – nu säljer Oskar Stens Chark - Smålandsposten
-- Kristersson om Alaska: Kan sluta med ryskt nej - GP
-- DN Direkt - Litet barn dog i traktorolycka i Falun - DN.se - DN
-- Större strömavbrott i Småland och Halland - SVT Nyheter
-- Uppgifter: Polisen hade span på Ismail Abdo i ett år - GP
-- Gul varning för kraftig åska – Värmland i riskzonen: ”Kan bli något” - NWT
+- Trump: 25 procents risk att mötet misslyckas - Hufvudstadsbladet
+- DN Direkt - Busch ber om ursäkt för AI-miss - DN.se - DN
+- Försökte stjäla whisky på Sjömagasinet – för 36 000 - GP
 - Kräver öppna övergångar till Gaza - SVT Nyheter
-- Mossadchefen i Qatar för samtal om Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Klart med ny flyglinje från Skavsta - SVT Nyheter
-- Israels ambassadör till UD: ”Ger inte efter” - SvD
+- Busch: Inte aktuellt att erkänna östra Jerusalem som del av Israel - DN
+- Varning: Nu sker flest cykelstölder - Västgöta-Bladet
+- Litet barn dog i traktorolycka i Falu kommun - SVT Nyheter
+- Uppgifter: Polisen hade span på Ismail Abdo i ett år - GP
+- Så mycket värre blev värmeböljan i norr av människans utsläpp - DN
+- DN Direkt - Dödligt regnkaos i Indien - DN.se - DN
+- Skogsbränderna fortsätter att rasa: ”Extremt hot” - Omni
+- Kristersson om Alaska: Kan sluta med ryskt nej - Västerbottens-Kuriren
+- Smotrich godkänner omstridd plan – delar palestinskt område – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Semesterresor och mat lyfter inflationen - Tidningen Näringslivet
-- Nedgångar i korten när USA-börserna öppnar - Dagens industri
-- Vinstras för gruvbolaget LKAB - Aftonbladet
-- Pareto ifrågasätter utebliven vinstvarning från Yubico – väntar kraftigt kursfall - Affärsvärlden
+- Nedåt på USA-börserna – rapportfall för Deere - Dagens industri
+- Miljarder på spel när LKAB:s framtid avgörs i rätten – men först väntar kyrkflytt - DN
+- Glöm resorna – det är här flyget gräver guld - SvD
 - Netflix släpper ny design för Apple TV - Macworld.se
-- Rykte: Samsungs AI-glasögon lanseras först nästa år - m3.se
+- Imponera i Battlefield 6-betan – vinn plats i Slaget - FZ.se
 
 ## World News
 
@@ -34,8 +34,8 @@ _Updated: 2025-08-14 17:45_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Wolverine Worldwide Launches Junior Board - Placera.se
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
@@ -58,16 +58,16 @@ _Updated: 2025-08-14 17:45_
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
-- AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
+- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 
@@ -119,46 +119,46 @@ _Updated: 2025-08-14 17:45_
 
 ## Science
 
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Simple math behind major bison blunder - Forskning & Framsteg
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- E-infrastruktur för livsvetenskap får SSF-anslag - Uppsala universitet
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
-- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Jordbruk och landsbygdsutveckling - European Commission
+- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- (+) Stor undersökning av jordbruket - Arbetarskydd
 - De gick från reko till eko - ST-tidningen
-- Små jordbruk kan mätta fler - FoodMonitor
 - Tio jordbruksaktier för depån - Placera.se
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är världens största jordbruk - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
