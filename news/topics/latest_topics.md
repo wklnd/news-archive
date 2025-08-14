@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-14 10:51_
+_Updated: 2025-08-14 11:46_
 
 ## Top Stories
 
 - Trump kan locka Putin med affärer i utbyte mot fred - DN
 - Rök över Göteborg – branden släckt - Omni
-- SMHI varnar för kraftig åska i norr - Västerbottens-Kuriren
-- Två gripna efter misstänkt brandattentat - GP
-- Ledare: Varning för eftergiftspolitik - NWT
-- Bombskyddet sprängde misstänkt del till mina i Karlstad - SVT Nyheter
-- Studie: Klimatförändringar gjorde värmeböljan i norr varmare - SVT Nyheter
-- Man död efter krock mellan moped och buss - SVT Nyheter
-- DN Direkt - S kräver krispaket för barnfamiljer och jobb - DN.se - DN
-- Billigare att gå till tandläkaren för äldre - GP
+- Attacker mot hus - 8 Sidor
+- FN: Sannolika krigsförbrytelser mot alawiter - Västerbottens-Kuriren
+- JUST NU: Kraftigt åskoväder på ingång – SMHI går ut med varning - Norran
 - Israel: Fler lastbilar med nödhjälp insläppta – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Zelenskyj möter Starmer på Downing Street - Västerbottens-Kuriren
+- Studie: Klimatförändringar gjorde värmeböljan i norr varmare - SVT Nyheter
+- DN Direkt - S kräver krispaket för barnfamiljer och jobb - DN.se - DN
+- Man död efter krock mellan moped och buss - SVT Nyheter
+- Billigare att gå till tandläkaren för äldre - GP
+- Zelenskyj i Berlin inför Trumps och Putins möte - Hufvudstadsbladet
+- Zelenskyj i samtal med Starmer på Downing Street - GP
 - Spanien i lågor – skogsbränder utom kontroll - Aftonbladet
-- Vance hånar svensk: ”Har haft fel i 30 år” - Expressen
-- Semesterresor och mat lyfter inflationen - DN
-- Bitcoin slår rekord – kursen når toppnivå - Aftonbladet
-- Värktabletter dubbelt så dyra i butik som online - Omni
-- Glöm resorna – det är här flyget gräver guld - SvD
+- Miljoner hotas av svält i Sudan – en bortglömd katastrof - GP
+- Felicia Åkerman: Det talar för att inflationen kan minska i höst - DN
+- Nytt rekord för Bitcoin – igen - Aftonbladet
+- Interna mejlet: Inget mer smör på Stordalens hotell - Dagens industri
+- Vivesto har genomfört den första doseringen i katt med Paccal Vet - Placera.se
 - Microsoft lägger till tre nya Office-appar i Aktivitetsfältet - Computer Sweden
 - iOS 26-beta 6 ger fler överraskande uppgraderingar till din iPhone - TechRadar
 
 ## World News
 
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Wolverine Worldwide Launches Junior Board - Placera.se
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- BIG Travel går in i globalt partnerskap - travelnews.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- U.S. FACTORY PURCHASES SLOWED SHARPLY IN JULY, DRIVING GLOBAL SUPPLY CHAIN SLOWDOWN: GEP GLOBAL SUPPLY CHAIN VOLATILITY INDEX - Placera.se
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Aurora Ignites Global Expansion with Whistler Cannabis Co. Brand Debut in Australia - Placera.se
-- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- Arrow Global förvärvar Troia Resort - The Portugal News
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Portugal framstår som ett strategiskt nav för global teknikexpansion - The Portugal News
-- Portugal: En växande hubb för global teknik - The Portugal News
+- BIG Travel går in i globalt partnerskap - travelnews.se
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Wolverine Worldwide Launches Junior Board - Placera.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
+- U.S. FACTORY PURCHASES SLOWED SHARPLY IN JULY, DRIVING GLOBAL SUPPLY CHAIN SLOWDOWN: GEP GLOBAL SUPPLY CHAIN VOLATILITY INDEX - Placera.se
+- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
+- Den hetaste nya trenden inom global utbildning - The Portugal News
 
 ## Technology
 
@@ -120,25 +120,25 @@ _Updated: 2025-08-14 10:51_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
-- 5 myter om öppen vetenskap - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
 
 ## Jordbruk
 
