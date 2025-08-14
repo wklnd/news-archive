@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-14 11:52_
+_Updated: 2025-08-14 12:53_
 
-- Ahead of summit, Trump questions what’s changed about Putin - CNN
 - As Guard deploys, Trump to seek 'long-term' federal control of DC police - ABC News
-- President Trump can continue to withhold billions in foreign aid, court rules - NPR
-- Melania Trump threatens to sue Hunter Biden over Epstein claim - BBC
-- Man who hurled sandwich at law enforcement in D.C. charged with felony - The Washington Post
+- Trump’s friendly-to-frustrated relationship with Putin takes the spotlight at the Alaska summit - AP News
 - 'Who's running the show?' is a key question in 'Alligator Alcatraz' challenge - NPR
-- U.S. Steel Explosion Presents Challenge to Nippon’s Investment Plans - The Wall Street Journal
-- Trial over California National Guard deployment concludes as judge questions limits of president's authority - CBS News
+- TOMORROW: Governor Newsom, California leaders to make major announcement in response to Trump’s gerrymandering attempts - Governor of California (.gov)
+- Multiple injuries after school bus carrying over 40 children crashes on 1st day of school - ABC News
+- As Trump-Putin summit nears, family of American held in Russia hopes for another prisoner exchange - ABC News
+- A GOP divide is growing over Trump’s redistricting play - Politico
 - Man accused of faking death and fleeing U.S. convicted of rape - NBC News
-- 3 Arrested in $2 Million Heist From Brinks Truck in Philadelphia - The New York Times
-- Ukraine's Zelenskiy to meet UK PM in London ahead of Trump-Putin summit - Reuters
+- Failed New Mexico candidate gets 80 years for convictions in shootings at officials’ homes - CNN
+- Florida’s wildlife agency approves first black bear hunt in a decade - Tampa Bay Times
+- Photos of the wildfires in Europe displacing thousands as residents join efforts to fight the flames - AP News
+- Zelensky meets Starmer ahead of US-Russia summit on Ukraine's future - BBC
 - Israeli gunfire kills at least 25 in Gaza as Netanyahu says he will allow Palestinians to leave - NBC News
-- Kim Jong Un’s powerful sister turns up the volume on loudspeaker standoff with South Korea - CNN
-- 'Final nail in coffin of Palestinian state idea': Smotrich okays controversial settlement expansion plan - Ynetnews
-- NY attorney general sues Zelle's parent company after Trump administration drops similar case - AP News
-- Asia-Pacific markets mostly fall as investors bet on Fed rate cut - CNBC
-- Why a jumbo Fed rate cut in September would ‘come across as panicky’ - MarketWatch
-- Before Wild Chrome Bid, Perplexity Had Been Hunting for Browsers - The Information
+- North Korea says South Korea's peace overtures a 'pipedream' - Reuters
+- Stock futures flat as investors await more inflation data: Live updates - CNBC
+- Trump is tightening the screws on corporate America — and CEOs are staying mum - NPR
+- New York sues Zelle, says security lapses led to $1 billion consumer fraud losses - Reuters
+- Asia-Pacific markets close mixed as investors bet on Fed rate cut - CNBC
 - Apple’s plan for AI could make Siri the animated center of your smart home - The Verge
 - Google adds memories to the Gemini chatbot, staying a step ahead of Anthropic - Mashable
