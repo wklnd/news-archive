@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-14 04:27_
+_Updated: 2025-08-14 05:38_
 
 ## Top Stories
 
-- Europeiska ledare pressar Trump inför möte med Putin - GP
 - Michael Winiarski: Vita huset sänker förväntningarna inför toppmötet - DN
-- Spanien i lågor – skogsbränder utom kontroll - GP
-- JUST NU: Mariebergsskogens parkering evakuerad – bombskyddet har sprängt misstänkt föremål - NWT
+- Europeiska ledare pressar Trump inför möte med Putin - GP
+- Misstänkt brandattentat i flerbostadshus - SVT Nyheter
+- Försökte rädda hästar – dog i storbrand - Hufvudstadsbladet
 - Psykkuppen mot massmördaren: ”Är dygnet runt” - Aftonbladet
-- Explosion vid villa i Södertälje - Folkbladet
+- Organisationer kräver öppna övergångar till Gaza - Aftonbladet
 - Billigare tandvård för äldre - SVT Nyheter
+- 14 augusti 00.04, Explosion, Södertälje - polisen.se
 - Körde 17 km/h för fort – fastnade i polisens trafikkontroll - Norran
-- KD vänder ryggen till kristendomen - Dagens Arena
 - Kronoberg blir elektriskt - Bussmagasinet
 - Fortsatta våldsamheter under demonstrationer i Serbien - SVT Nyheter
 - Israels militär har godkänt omstridd Gazaplan - GP
-- Analys: Han var identifierad och lokaliserad och dödades avsiktligt - SVT Nyheter
-- Analys: Största ryska framryckningen på ett år - DN
+- Instruktionen till Bryssel tydlig: ”Frys handelsdelen” - DN
+- Kaotiskt efter ryskt genombrott: ”Situationen är allvarlig” - SVT Nyheter
+- Vilken renovering lönar sig när bostaden ska säljas? - DN
 - Källor: USA utför spionjobb - sändare i chip till Kina - Omni
-- Jätterally när kryptobörs noteras i New York - Dagens industri
-- Åhléns ändrar bolagsform – öppnar för kapitalmarknaden - Affärsvärlden
-- Nya siffror om inflationen trycker upp världens börser - Realtid
+- Bitcoin slår nytt rekord - Aftonbladet
+- USA-börserna fortsätter uppåt – men tungt fall för AI-bolag - Dagens industri
 - Bilder och film: Se meteorregnet utanför Umeå - Västerbottens-Kuriren
 - Apples uppges testa Ios 26.4 - mobil.se
 
 ## World News
 
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Wolverine Worldwide Launches Junior Board - Placera.se
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Wolverine Worldwide Launches Junior Board - Placera.se
-- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - U.S. FACTORY PURCHASES SLOWED SHARPLY IN JULY, DRIVING GLOBAL SUPPLY CHAIN SLOWDOWN: GEP GLOBAL SUPPLY CHAIN VOLATILITY INDEX - Placera.se
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
-- Aurora Ignites Global Expansion with Whistler Cannabis Co. Brand Debut in Australia - Placera.se
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 - Den hetaste nya trenden inom global utbildning - The Portugal News
+- Arrow Global förvärvar Troia Resort - The Portugal News
 
 ## Technology
 
@@ -91,20 +91,21 @@ _Updated: 2025-08-14 04:27_
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ALT5 Sigma Corporation Announces Closing of $1.5 Billion Registered Direct Offering and Concurrent Private Placement to Initiate World Liberty Financial $WLFI Treasury Strategy - Placera.se
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
-- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
 - Argenta Silver Announces Closing of Additional Investment of C$2.5 Million - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Johan von Schreeb - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Johan von Schreeb - Karolinska Institutet
+- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
@@ -115,30 +116,29 @@ _Updated: 2025-08-14 04:27_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
 - 5 myter om öppen vetenskap - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 
 ## Jordbruk
 
@@ -146,14 +146,14 @@ _Updated: 2025-08-14 04:27_
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Här är världens största jordbruk - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
