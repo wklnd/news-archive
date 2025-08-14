@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-14 09:49_
+_Updated: 2025-08-14 10:57_
 
-- D.C.’s homeless begin to see the effects of Trump’s crackdown - The Washington Post
-- Trump to offer Putin minerals for peace - The Telegraph
+- As Guard deploys, Trump to seek 'long-term' federal control of DC police - ABC News
+- Trump’s friendly-to-frustrated relationship with Putin takes the spotlight at the Alaska summit - AP News
 - President Trump can continue to withhold billions in foreign aid, court rules - NPR
 - Melania Trump threatens to sue Hunter Biden over Epstein claim - BBC
-- D.C. man accused of throwing sandwich at federal agent faces felony charges - Axios
-- Pilot arrested upon landing in Chilean Antarctica says he remains stuck after case suspended - ABC News
-- Trial over California National Guard deployment concludes as judge questions limits of president's authority - CBS News
+- Man who hurled sandwich at law enforcement in D.C. charged with felony - The Washington Post
+- 'Who's running the show?' is a key question in 'Alligator Alcatraz' challenge - NPR
 - U.S. Steel Explosion Presents Challenge to Nippon’s Investment Plans - The Wall Street Journal
+- Trial over California National Guard deployment concludes as judge questions limits of president's authority - CBS News
 - 3 Arrested in $2 Million Heist From Brinks Truck in Philadelphia - The New York Times
-- 'It would have been catastrophic': Juneau's temporary levee protects most homes from record flooding - KTOO
-- Zelenskyy in Berlin for critical talks with European leaders and Trump - NPR
+- Man accused of faking death and fleeing U.S. convicted of rape - NBC News
+- Starmer sees viable chance of Ukraine ceasefire as Zelensky visits London - BBC
+- North Korea says South Korea's peace overtures a 'pipedream' - Reuters
 - Turned back from Gaza, aid shipments languish in warehouses, on roadsides - Reuters
-- Kim Yo Jong: North Korea leader denies removing propaganda loudspeakers at border - BBC
-- Germany rejects US censorship claims in human rights report - DW
+- Microplastics are everywhere — including in the air around plastic treaty negotiations - The Verge
 - NY attorney general sues Zelle's parent company after Trump administration drops similar case - AP News
-- CNBC Daily Open: Despite cooler-than-expected CPI, economists agree higher prices are coming - CNBC
 - Why a jumbo Fed rate cut in September would ‘come across as panicky’ - MarketWatch
-- Asia Stocks Seen Higher as Fed Cut Momentum Builds: Markets Wrap - Bloomberg.com
-- Google’s Gemini AI will get more personalized by remembering details automatically - The Verge
-- Report: Apple’s smart home ambitions include “tabletop robot,” cameras, and more - Ars Technica
+- Asia-Pacific markets close mixed as investors bet on Fed rate cut - CNBC
+- EJ Antoni, Trump’s pick for labor statistics chief, was at Capitol on January 6 – as it happened - The Guardian
+- Apple’s plan for AI could make Siri the animated center of your smart home - The Verge
+- Google adds memories to the Gemini chatbot, staying a step ahead of Anthropic - Mashable
