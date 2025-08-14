@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-14 13:40_
+_Updated: 2025-08-14 15:11_
 
 ## Top Stories
 
-- Trump kan locka Putin med affärer i utbyte mot fred - DN
-- Studie: Klimatförändringar gjorde värmeböljan i norr varmare - SVT Nyheter
-- SMHI varnar för kraftig åska i Norrtälje kommun - Norrtelje Tidning
-- Källor: USA kan bidra med säkerhetsgarantier - Västerbottens-Kuriren
-- Uppgifter: Polisen hade span på Ismail Abdo i ett år - GP
-- Rök över Göteborg – branden släckt - Omni
+- DN Direkt - Ost i Sverige återkallas efter listeria-utbrott - DN.se - DN
+- Expert: Nu kan Putin låsa positionerna - DN
+- Den globala uppvärmningen har ökat sannolikheten för svåra värmeböljor - NewsMachine AB
+- Piratkopierade Labubu-dockor på Malmöfestivalen – kan innehålla farliga ämnen - Sydsvenskan
+- Buschs svar om Israel: Regeringen är överens - GP
+- E18 avstängd efter lastbilsolycka – förare allvarligt skadade - SVT Nyheter
 - Större strömavbrott i Småland och Halland - SVT Nyheter
 - S: Kräver krispaket för barnfamiljer och jobb i höstens budget - Socialdemokraterna
-- Billigare tandvård för äldre sågas - ”slår hårt” - Västerbottens-Kuriren
-- Planerade kidnappa Östermalmsbo – avslöjades av sina vinterjackor - DN
-- Zelenskyj möter Starmer på Downing Street - Västerbottens-Kuriren
-- Smotrich godkänner omstridd plan – delar palestinskt område – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Instruktionen till Bryssel tydlig: ”Frys handelsdelen” - DN
-- Miljoner hotas av svält i Sudan – en bortglömd katastrof - GP
-- Felicia Åkerman: Det talar för att inflationen kan minska i höst - DN
-- Stordalens hotell smörpudlar - Dagens industri
-- Vivesto har genomfört den första doseringen i katt med Paccal Vet - Placera.se
+- Uppgifter: Polisen hade span på Ismail Abdo i ett år - GP
+- Studie: Värmeböljorna i Sverige blir ännu hetare - Hallandsposten
+- Kristersson om Alaska: Kan sluta med ryskt nej - Västerbottens-Kuriren
+- Zelenskyj i Berlin inför Trumps och Putins möte - Hufvudstadsbladet
+- Zelenskyj i samtal med Starmer på Downing Street - GP
+- Israel i samtal med Sydsudan om tvångsförflyttning – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Semesterresor och mat lyfter inflationen - Tidningen Näringslivet
+- Saab och Plejd vinnare – Embracer och New Wave rapportfaller - Dagens industri
+- Stor hotellkedja i Stockholm slutar med smör - Mitt i
 - Glöm resorna – det är här flyget gräver guld - SvD
+- Netflix släpper ny design för Apple TV - Macworld.se
 - iOS 26-beta 6 ger fler överraskande uppgraderingar till din iPhone - TechRadar
-- Google Pixel 10 Pro Fold avslöjad i officiell videoteaser – här är 5 saker att förvänta sig - TechRadar
 
 ## World News
 
@@ -76,68 +76,68 @@ _Updated: 2025-08-14 13:40_
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Accord Announces Banking Facility Update - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
-- Selective Director Steps Down to Focus on Founder Role - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- ALT5 Sigma Corporation Announces Closing of $1.5 Billion Registered Direct Offering and Concurrent Private Placement to Initiate World Liberty Financial $WLFI Treasury Strategy - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- REPAY Appoints New Chief Financial Officer - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Selective Director Steps Down to Focus on Founder Role - Placera.se
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
-- ING completes acquisition of Van Lanschot Kempen stake - Placera.se
-- Argenta Silver Announces Closing of Additional Investment of C$2.5 Million - Placera.se
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- AirNet has named Vikram Seth as its new Chief Investment Officer to lead the company's expansion into Web3 and cryptocurrency - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 
 ## Health
 
-- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - The AI ​​Scientist: A New Era of Automated Research or Just the Beginning - Unite.AI
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- E-infrastruktur för livsvetenskap får SSF-anslag - Uppsala universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 - Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
 
 ## Jordbruk
