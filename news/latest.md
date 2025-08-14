@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-14 01:48_
+_Updated: 2025-08-14 04:30_
 
-- D.C.’s homeless begin to see the effects of Trump’s crackdown - The Washington Post
-- Trump to offer Putin minerals for peace - The Telegraph
-- Texas Democrats to return after governor ends special session that included redistricting, sources say - ABC News
+- As Guard deploys, Trump to seek 'long-term' federal control of DC police - ABC News
+- D.C. man accused of throwing sandwich at federal agent faces felony charges - Axios
 - US appeals court lets Trump cut billions in foreign aid - Reuters
+- Trump administration ordered to partially restore grants to UCLA after seeking $1 billion settlement - NBC News
+- Two Democrats Allow Texas Senate to Pass Redistricting Map as House Holds Out - Democracy Docket
 - Mendenhall River Hit Record High From Glacier Melt - The New York Times
-- DC man arrested for hurling sandwich at a federal law enforcement official - PBS
-- Hispanic Democratic Officials in Texas Plead Not Guilty to Voter Fraud - The New York Times
-- Judge concludes hearing on halting ‘Alligator Alcatraz’ construction over environmental concerns without an immediate ruling - CNN
-- Emergency declared in Española area due to crime - KOAT
+- Florida Approves First Black Bear Hunt Since 2015 - The New York Times
+- Woman finds 'most diamond-y diamond' for engagement ring at state park - USA Today
 - Proponent of Medicaid cuts set to brief House Republicans as they plot another megabill - Politico
-- Europeans, Zelensky cite unity with Trump ahead of Putin summit in Alaska - The Washington Post
-- Israel pounds Gaza City, 123 dead in last 24 hours - Reuters
-- US warships patrol South China Sea after two Chinese ships collide - The Guardian
+- US imposes visa restrictions on Brazilian officials for working with Cuban medical mission - Politico
+- Zelensky and Other European Leaders Work With Trump on Russia-Ukraine Strategy - The New York Times
+- Turned back from Gaza, aid shipments languish in warehouses, on roadsides - Reuters
 - New U.S. Report on Israel’s Human Rights Abuses Is 91 Percent Shorter - The Intercept
+- U.S. deployed 2 warships after Chinese ships collided with smaller Philippine vessel - PBS
 - New York sues Zelle, says security lapses led to $1 billion consumer fraud losses - Reuters
-- Is the Fed ready to cut interest rates? Experts weigh in - ABC News
-- Cava, Chipotle and other fast-casual restaurant chains are finally hit by consumer slowdown - CNBC
-- AI start-up Perplexity makes $34.5bn bid for Google Chrome - BBC
-- Apple Plots Expansion Into AI Robots, Home Security and Smart Displays - Bloomberg.com
-- Google Photos rolling out new ‘Create’ tab on Android, iOS - 9to5Google
+- Casual Dining Takes A Hit: Stocks to Watch - Barron's
+- Why a jumbo Fed rate cut in September would ‘come across as panicky’ - MarketWatch
+- AI startup Perplexity is raising more money at a $20 billion valuation - Business Insider
+- watchOS 26 preview: It's the little things - Engadget
+- Report: Apple’s smart home ambitions include “tabletop robot,” cameras, and more - Ars Technica
