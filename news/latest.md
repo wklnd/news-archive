@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-14 12:53_
+_Updated: 2025-08-14 13:48_
 
+- Trump and Putin will discuss ‘economic co-operation’ at Alaska summit, Kremlin says - Financial Times
 - As Guard deploys, Trump to seek 'long-term' federal control of DC police - ABC News
-- Trump’s friendly-to-frustrated relationship with Putin takes the spotlight at the Alaska summit - AP News
-- 'Who's running the show?' is a key question in 'Alligator Alcatraz' challenge - NPR
+- Percentage of Americans who say they drink alcohol hits record low, Gallup says - NPR
+- Trump Administration Can Withhold Billions in Foreign Aid, Appeals Court Rules - The New York Times
 - TOMORROW: Governor Newsom, California leaders to make major announcement in response to Trump’s gerrymandering attempts - Governor of California (.gov)
-- Multiple injuries after school bus carrying over 40 children crashes on 1st day of school - ABC News
-- As Trump-Putin summit nears, family of American held in Russia hopes for another prisoner exchange - ABC News
-- A GOP divide is growing over Trump’s redistricting play - Politico
+- 'Who's running the show?' is a key question in 'Alligator Alcatraz' challenge - NPR
+- The fight is on. How redistricting could unfold in 8 entangled states - NPR
 - Man accused of faking death and fleeing U.S. convicted of rape - NBC News
-- Failed New Mexico candidate gets 80 years for convictions in shootings at officials’ homes - CNN
+- Failed Republican candidate jailed for 80 years over gun attacks on Democrats' homes - Reuters
 - Florida’s wildlife agency approves first black bear hunt in a decade - Tampa Bay Times
-- Photos of the wildfires in Europe displacing thousands as residents join efforts to fight the flames - AP News
 - Zelensky meets Starmer ahead of US-Russia summit on Ukraine's future - BBC
-- Israeli gunfire kills at least 25 in Gaza as Netanyahu says he will allow Palestinians to leave - NBC News
+- Wildfires kill at least 3 and displace thousands across southern Europe - NBC News
 - North Korea says South Korea's peace overtures a 'pipedream' - Reuters
-- Stock futures flat as investors await more inflation data: Live updates - CNBC
+- Turned back from Gaza, aid shipments languish in warehouses, on roadsides - Reuters
+- Stock Market Today: Dow Futures Waver Ahead of Wholesale Inflation Data - The Wall Street Journal
 - Trump is tightening the screws on corporate America — and CEOs are staying mum - NPR
-- New York sues Zelle, says security lapses led to $1 billion consumer fraud losses - Reuters
-- Asia-Pacific markets close mixed as investors bet on Fed rate cut - CNBC
+- NY attorney general sues Zelle's parent company after Trump administration drops similar case - AP News
+- Kodak faces financial struggles even as Gen Z sparks a film resurgence - CNBC
 - Apple’s plan for AI could make Siri the animated center of your smart home - The Verge
-- Google adds memories to the Gemini chatbot, staying a step ahead of Anthropic - Mashable
+- Samsung still working on display-less smart glasses, reportedly launching near Android XR pair - 9to5Google
