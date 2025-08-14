@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-14 06:52_
+_Updated: 2025-08-14 07:45_
 
 ## Top Stories
 
-- Misstänkt brandattentat i flerbostadshus i Linköping - SVT Nyheter
-- Eleverna: Därför duschar vi inte efter idrotten - GP
+- Skogsbränder härjar i södra Europa: ”Domedagen” - Västerbottens-Kuriren
+- Två gripna efter misstänkt brandattentat i flerbostadshus i Linköping - SVT Nyheter
+- Europeiska ledare pressar Trump inför möte med Putin - GP
 - De har släckt bränder runt Åsnen hela sommaren: ”Det är ett gigantiskt problem” - Smålandsposten
-- Gammal sjömina sprängd i Karlstad - Västerbottens-Kuriren
-- Merz: Ukraina måste sitta vid förhandlingsbordet - Hufvudstadsbladet
-- Försökte rädda hästar – dog i storbrand - Hufvudstadsbladet
-- Studie: Klimatförändringar gjorde värmeböljan i Norrland två grader varmare - SVT Nyheter
-- DN Direkt - Explosion vid villa i Södertälje - DN.se - DN
+- 35-årig mopedförare död efter krock med buss - Omni
+- Gammal sjömina sprängd i Karlstad - Aftonbladet
+- Studie: Klimatförändringar gjorde värmeböljan i norr varmare - SVT Nyheter
 - Adhd-läkemedel minskar risken för självmord, missbruk och brott - DN
-- Billigare att gå till tandläkaren för äldre - GP
+- Explosion vid villa i Södertälje - Västerbottens-Kuriren
+- Billigare tandvård för äldre - SVT Nyheter
 - Michael Winiarski: Vita huset sänker förväntningarna inför toppmötet - DN
-- Gaza: 123 döda på 24 timmar – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Fortsatta våldsamheter under protester i Serbien - Västerbottens-Kuriren
+- Israel avfärdar uppgifter om samtal med Sydsudan – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Läkare utan gränser: ”Extremt och systematiskt” våld vid hjälputdelning i Gaza - Hufvudstadsbladet
-- Snabbkoll – detta hände när du sov - Sydsvenskan
+- Fortsatta våldsamheter under protester i Serbien - Västerbottens-Kuriren
+- Bitcoin slår nytt rekord - Aftonbladet
 - Vilken renovering lönar sig när bostaden ska säljas? - DN
+- Interna mejlet: Inget mer smör på Stordalens hotell - Dagens industri
 - Modehandeln fortsatte växa i juli - stark utveckling inom e-handel - Stilindex - Börsvärlden
-- Källor: USA utför spionjobb - sändare i chip till Kina - Omni
-- Trumps favorit – och nu nya AI-produkter från Apple - Dagens PS
+- Entreprenören som blev världens rikaste fånge - SvD
 - LG B5 - recension: LG:s instegsmodell inom OLED-TV levererar imponerande bild för priset - TechRadar
 
 ## World News
@@ -91,31 +91,31 @@ _Updated: 2025-08-14 06:52_
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ALT5 Sigma Corporation Announces Closing of $1.5 Billion Registered Direct Offering and Concurrent Private Placement to Initiate World Liberty Financial $WLFI Treasury Strategy - Placera.se
 - DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
+- ING completes acquisition of Van Lanschot Kempen stake - Placera.se
 - Argenta Silver Announces Closing of Additional Investment of C$2.5 Million - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
+- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Master­programmet i hälso­ekonomi, policy och management - Karolinska Institutet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -135,10 +135,10 @@ _Updated: 2025-08-14 06:52_
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
 
 ## Jordbruk
 
