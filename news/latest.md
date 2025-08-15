@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-15 15:18_
+_Updated: 2025-08-15 15:51_
 
-- How Putin, ex-KGB officer, will seek to sway Trump at Alaska summit - The Washington Post
-- White House: Bondi has "officially ENDED" D.C. sanctuary policies - Axios
-- Obama praises Texas Democrats and calls state redistricting effort ‘a systematic assault on democracy’ - CNN
+- Trump will seek to squeeze Ukraine ceasefire deal out of Putin at Alaska summit - Reuters
+- D.C. attorney general sues over Trump's 'hostile takeover' of local police - NBC News
 - Federal Raids Target D.C. Homeless Camps - The New York Times
+- Obama praises Texas Democrats and calls state redistricting effort ‘a systematic assault on democracy’ - CNN
+- Erin gains strength in the Atlantic - Yale Climate Connections
 - Border Patrol agents in L.A. show up outside of Gov. Gavin Newsom's redistricting press conference - CBS News
-- ‘Just so inhumane.’ Man fleeing Home Depot raid is killed by car on the 210 Freeway - Los Angeles Times
-- Governor Newsom launches statewide response to Trump rigging Texas’ elections - Governor of California (.gov)
 - The Senate map suddenly looks a lot better for Democrats. But still not a slam dunk. - Politico
 - Judge strikes down Trump administration guidance against DEI programs at schools - NPR
 - New details, charges emerge as Vance Boelter is indicted in state court for first-degree murder - Star Tribune
+- Trump claims credit for fixing Social Security as it barrels to insolvency - The Washington Post
 - West Bank settlement plan illegal, Germany tells Israel - DW
-- Blackwater founder to deploy nearly 200 personnel to Haiti as gang violence soars - NPR
-- Australian lawyer apologizes for AI-generated errors in murder case - AP News
-- How Trump and Putin's past meetings went - and what to expect this time - BBC
+- Photos: Putin’s 25-year legacy with US presidents - Al Jazeera
+- Live: UN calls Israeli West Bank settlement plan a war crime as 21 Palestinians killed in Gaza - Middle East Eye
+- Flash floods triggered by torrential rains kill over 200 people in India and Pakistan - AP News
+- Retail sales climbed 0.5% in July - CNN
+- S&P 500 and Dow hit record highs, head for big weekly gain after solid retail sales data: Live updates - CNBC
 - UnitedHealth jumps after Berkshire Hathaway buys new stake - Reuters
-- Stock Market Today: Dow Jones Rallies As UnitedHealth Surges On Warren Buffett Buy (Live Coverage) - Investor's Business Daily
-- Most US stocks fall after a disappointing inflation update, but Big Tech keeps Wall Street steady - AP News
-- Intel shares jump after report of possible US stake in company - BBC
+- China’s Economy Slows Sharply as Trade War Bites - Bloomberg.com
 - Pokémon Scalpers Set Their Sights On World Championships Merch - Nintendo Life
 - Leaked Pixel 10 Pro Fold specs echo a world-first for foldables - Android Authority
