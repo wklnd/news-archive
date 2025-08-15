@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-15 23:39_
+_Updated: 2025-08-16 00:44_
 
 ## Top Stories
 
-- Trump: Höga insatser i mötet med Putin - GP
+- Trump och Putin möts – lämnar i samma bil – Senaste nytt om kriget i Ukraina - SVT Nyheter
 - DN Direkt - Flera skadade efter skottlossning vid moské i Örebro - DN.se - DN
+- Man anhållen för mord efter brand i Linköping - GP
 - Skatteverket slog till – tidigare Blåvitt-spelarens restaurang bötfälls - GP
 - ”Risk att vi inte klarar framtidens bränder” - SvD
-- Rysk hamn anfallen – pekas ut som nav för drönare - Västerbottens-Kuriren
+- Ellevio höjer beredskapen efter vädervarningar i Gävleborg och Östra Svealand - www.ellevio.se
 - Stockholmare måste spara på kranvattnet – akut läge - DN
-- Varnar för kraftig åska och omkullblåsta träd - DN
 - Första vittnet hörs i rätten om Landerholm – Expert: ”Unikt” - DN
-- Ebba Busch: Israels utrikesminister har tackat mig - DN
 - Journalister ångrar sig: ”Omdömeslöst av mig” - Omni
+- Längsta kön? Årets rätt? Idag gör festivalens matchef sin sista arbetsdag - Sydsvenskan
 - Minst en död i tågolycka i Danmark - Aftonbladet
-- Kraftig ökning av kvinnoförtrycket i Afghanistan - Dagens Arena
+- Talibanledaren: Var tacksam, annars... - GP
 - Elva dagars förhandlingar slutade i fiasko: Inget plastavtal - GP
 - YLVA NILSSON: Nu skrattar alla åt oss européer - Expressen
 - Krypto på nya rekordnivåer – ”stort intresse” - Sydsvenskan
-- Ras på Systembolaget – USA-bojkotten fortsätter - DN
+- Trump kan använda Bidens chippengar för Intel-investering - Dagens industri
 - Finansministerns slappa inställning gör ditt liv dyrare - Arbetet
-- Årets spannmålsskörd kan börja fylla beredskapslagret - Food Supply SE
+- Rekord för höstvete lyfter årets spannmålsskörd - DN
 - Kriget fortsätter i vår spelhelg – vad spelar du? - FZ.se
 - Ölen allt dyrare – så har priserna förändrats - Östersunds-Posten
 
@@ -32,7 +32,7 @@ _Updated: 2025-08-15 23:39_
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
-- Wolverine Worldwide Launches Junior Board - Placera.se
+- GLOBAL ANNOUNCES FALL 2025 PREMIERE DATES FEATURING THREE NEW SERIES AND MORE TOP 20 RETURNING HITS THAN ANY OTHER NETWORK - Placera.se
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -40,13 +40,13 @@ _Updated: 2025-08-15 23:39_
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- GLOBAL ANNOUNCES FALL 2025 PREMIERE DATES FEATURING THREE NEW SERIES AND MORE TOP 20 RETURNING HITS THAN ANY OTHER NETWORK - Placera.se
+- Quest Diagnostics to Speak at the Baird 2025 Global Healthcare Conference - Placera.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Jollibee and Global Girl Group KATSEYE Ignite Partnership to Create Joyful New Connections with Their North American Fans - Placera.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 
 ## Technology
 
@@ -86,13 +86,13 @@ _Updated: 2025-08-15 23:39_
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Accord Announces Second Quarter Financial Results - Placera.se
+- Accord Announces Amendment to its Banking Facility - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Accord Announces Second Quarter Financial Results - Placera.se
 - ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
 - The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 
 ## Health
 
@@ -104,7 +104,6 @@ _Updated: 2025-08-15 23:39_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
@@ -116,29 +115,30 @@ _Updated: 2025-08-15 23:39_
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- E-infrastruktur för livsvetenskap får SSF-anslag - Uppsala universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
+- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
 
 ## Jordbruk
 
@@ -152,13 +152,13 @@ _Updated: 2025-08-15 23:39_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- (+) Stor undersökning av jordbruket - Arbetarskydd
