@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-15 07:45_
+_Updated: 2025-08-15 08:53_
 
 ## Top Stories
 
-- ”Finns flera värstafallsscenarier” - Hufvudstadsbladet
 - Trump: Kommer att veta inom minuter om mötet är bra eller inte - Hufvudstadsbladet
-- Hotet efter Trumps ord: ”Kan utplåna er med kärnvapen” - Expressen
+- Trump tog tolkens anteckningar – så var tidigare möten med Putin - DN
+- Kvinna död efter brand i Linköping - Västerbottens-Kuriren
 - Stefan sov i trappuppgångar – nu är han advokat: ”Borde vara död” - GP
-- FN-chefen: ”Finns mat för tre månader vid Gazas gräns” - DN
-- Tiotusentals id-uppgifter stulna från hotell - SVT Nyheter
-- Sup-paddlare på Klarälven återfunna - Västerbottens-Kuriren
+- FN-chefen i Gaza: En ny nivå av desperation och panik - SVT Nyheter
+- Första vittnet hörs i rätten om Landerholm – Expert: ”Unikt” - DN
+- SMHI varnar för kraftig åska och hårda vindbyar - SVT Nyheter
 - Virala kundvagnsbuset har nått Värmland – personalen: ”Blev förvånade” - NWT
+- Sju tungfotade förare bötfällda – trafikkontroll under morgonen - NSD
 - 15 augusti 07.04, Sammanfattning natt, Örebro län - polisen.se
-- Guide: Dolly Style, Familjen och Miriam Bryant – här är sista dagens 15 höjdpunkter - Sydsvenskan
-- GHF: Vi får pengar från västeuropeiska länder – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Fortsatta protester i Serbien - GP
-- Studie: Värmeböljorna i Sverige blir ännu hetare - NSD
-- Skogsbränder härjar i södra Europa: ”Domedagen” - Västerbottens-Kuriren
+- Fortsatta protester i Serbien - SVT Nyheter
+- Judiska världskongressens ordförande fördömer uttalande – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Tiotusentals id-uppgifter stulna från hotell - Västerbottens-Kuriren
+- Flera gripna – misstänks ha startat skogsbränderna - Omni
 - Så mycket mer betalar äldre för att bo på äldreboende – se skillnaderna i listan - Expressen
-- Miljarder på spel när LKAB:s framtid avgörs i rätten – men först väntar kyrkflytt - DN
 - Trump-effekt på Systembolaget – kan påverka utbudet - Dagens industri
-- Semesterresor och mat lyfter inflationen - Tidningen Näringslivet
+- Bakslag för Kina: Deepseek dröjer på grund av Huawei - Omni
+- LKAB: Delårsrapport april-juni 2025: Minskat resultat till följd av lägre järnmalmspriser och svagare amerikansk dollar - Aktiellt
 - Arbetslivet är som en toxisk kärleksrelation - Aftonbladet
-- Mutationer lika viktiga som pollinerare för evolutionen av blommors utseende - Cision News
+- Riekje har skapat ett blomsterparadis i Vike: ”Om det går i Alaska så går det här” - nkp.se
 
 ## World News
 
@@ -35,18 +35,18 @@ _Updated: 2025-08-15 07:45_
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Caterpillar Foundation Surpasses $1 Billion in Global Giving - Placera.se
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - U.S. FACTORY PURCHASES SLOWED SHARPLY IN JULY, DRIVING GLOBAL SUPPLY CHAIN SLOWDOWN: GEP GLOBAL SUPPLY CHAIN VOLATILITY INDEX - Placera.se
 - GLOBAL ANNOUNCES FALL 2025 PREMIERE DATES FEATURING THREE NEW SERIES AND MORE TOP 20 RETURNING HITS THAN ANY OTHER NETWORK - Placera.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
-- Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- Arrow Global förvärvar Troia Resort - The Portugal News
 
 ## Technology
 
@@ -62,12 +62,12 @@ _Updated: 2025-08-15 07:45_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 
@@ -128,7 +128,6 @@ _Updated: 2025-08-15 07:45_
 - 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
@@ -137,8 +136,9 @@ _Updated: 2025-08-15 07:45_
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
