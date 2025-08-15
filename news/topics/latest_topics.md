@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-15 15:07_
+_Updated: 2025-08-15 15:47_
 
 ## Top Stories
 
-- Två skadade – skottlossning vid Örebro moské - SVT Nyheter
-- Fem saker att ha koll på inför Alaskamötet - Västerbottens-Kuriren
+- Polisen: Skjutningen vid moskén kopplad till gängkriminalitet - SVT Nyheter
+- Trump: Kommer att diskutera landutbyten - GP
 - Varnar för kraftig åska och omkullblåsta träd - DN
-- Man död efter singelolycka – två svårt skadade - GP
 - Rättegången mot Henrik Landerholm ”smygstartar” med vittnesförhör - SVT Nyheter
+- JUST NU: Man i 30-årsåldern död – bil kraschade in i skog - Norran
 - 15 augusti 14.37, Trafikolycka, Storuman - polisen.se
 - Stockholmare måste spara på kranvattnet – akut läge - DN
 - Man gripen efter brand – kvinna livshotande skadad - Västerbottens-Kuriren
 - Råttor flyr med ny ljudteknik - NWT
-- LEDARE: Bevare oss från politiker som tror att vi är idioter - Östersunds-Posten
-- Elva dagars förhandlingar slutade i fiasko: Inget plastavtal - GP
+- Norrman smittad av listeria i ostar - Expressen
+- Fiasko för plastavtalet – förhandlare lämnar - GP
 - Ukrainska soldaten Lisa, 36: ”Trump är en clown i mina ögon” - DN
 - Skogsbränder härjar i södra Europa: ”Domedagen” - DN
-- ”Stålring” av stridspiloter ska skydda Putin på amerikansk mark - Expressen
+- Tiotals gripna i nya razzior i Istanbul - GP
+- Avvaktande på Wall Street – sjukjätte rusar efter Buffetts köp - Dagens industri
+- Lakritstillverkare såld till Kina - Aftonbladet
+- Jefferies upprepar behåll på Holmen – ser bättre risk/reward på andra håll - Affärsvärlden
 - Ras på Systembolaget – USA-bojkotten fortsätter - Tidningen Näringslivet
-- Svenskt riskkapitalbolag säljer lakritstillverkare till Kina - Dagens industri
-- Holmens VD: ”Vi får inte betalt för elen vi producerar” - Affärsvärlden
-- Rekord för höstvete lyfter årets spannmålsskörd - DN
 - Google lanserar minivariant av Gemma 3 – kan köras i en webbläsare - Computer Sweden
 - Sårbarheter i Matrix kan utnyttjas för att hacka känsliga chattar - Computer Sweden
 
@@ -51,25 +51,25 @@ _Updated: 2025-08-15 15:07_
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
-- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
+- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
+- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
-- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
-- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
-- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
 
@@ -88,11 +88,11 @@ _Updated: 2025-08-15 15:07_
 - Accord Announces Second Quarter Financial Results - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - REPAY Appoints New Chief Financial Officer - Placera.se
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
-- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
-- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
 
@@ -128,6 +128,7 @@ _Updated: 2025-08-15 15:07_
 - 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
@@ -135,10 +136,9 @@ _Updated: 2025-08-15 15:07_
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
