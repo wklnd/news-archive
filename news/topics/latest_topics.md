@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-15 21:38_
+_Updated: 2025-08-15 22:43_
 
 ## Top Stories
 
-- ”Att Trump träffar Putin är som när Chamberlain träffade Hitler” - DN
-- Man död efter skjutning vid Örebro moské – en vårdas på sjukhus - SVT Nyheter
+- Trump: Höga insatser i mötet med Putin - GP
+- DN Direkt - Flera skadade efter skottlossning vid moské i Örebro - DN.se - DN
 - ”Risk att vi inte klarar framtidens bränder” - SvD
-- Minst 16 döda – inklusive fem i väntan på hjälp – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Rysk hamn anfallen – pekas ut som nav för drönare - Västerbottens-Kuriren
 - Stockholmare måste spara på kranvattnet – akut läge - DN
-- Ellevio höjer beredskapen efter vädervarningar i Gävleborg och Östra Svealand - Cision News
-- Ebba Busch: Israels utrikesminister har tackat mig - DN
 - Första vittnet hörs i rätten om Landerholm – Expert: ”Unikt” - DN
+- Ebba Busch: Israels utrikesminister har tackat mig - DN
+- Varnar för kraftig åska och omkullblåsta träd - DN
 - Journalister ångrar sig: ”Omdömeslöst av mig” - Omni
 - Längsta kön? Årets rätt? Idag gör festivalens matchef sin sista arbetsdag - Sydsvenskan
 - Minst en död i tågolycka i Danmark - Aftonbladet
 - Kraftig ökning av kvinnoförtrycket i Afghanistan - Dagens Arena
-- Ärkebiskopen i rysk-ortodoxa kyrkan i Alaska vädjar till Putin - DN
 - Elva dagars förhandlingar slutade i fiasko: Inget plastavtal - GP
+- Svenskens svar på Vances hån - Expressen
+- Krypto på nya rekordnivåer – ”stort intresse” - Sydsvenskan
 - Valedo Partners Fund II avyttrar Lakrids by Bülow, det danska premiumkonfektyrvarumärket, till IDG Capital - NAXS
-- Ras på Systembolaget – USA-bojkotten fortsätter - Tidningen Näringslivet
+- Ras på Systembolaget – USA-bojkotten fortsätter - DN
 - Finansministerns slappa inställning gör ditt liv dyrare - Arbetet
-- Avvaktande på Wall Street – sjukjätte rusar efter Buffetts köp - Dagens industri
+- Ölen allt dyrare – så har priserna förändrats - Östersunds-Posten
 - Kriget fortsätter i vår spelhelg – vad spelar du? - FZ.se
-- Ölen allt dyrare – så har priserna förändras i stan - Östersunds-Posten
 
 ## World News
 
-- CME Group Opens Registration for 22nd Annual Global University Trading Challenge - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- How RFK Jr is eroding global trust in vaccines - Poddtoppen
+- Wolverine Worldwide Launches Junior Board - Placera.se
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - GLOBAL ANNOUNCES FALL 2025 PREMIERE DATES FEATURING THREE NEW SERIES AND MORE TOP 20 RETURNING HITS THAN ANY OTHER NETWORK - Placera.se
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Aurora Ignites Global Expansion with Whistler Cannabis Co. Brand Debut in Australia - Placera.se
-- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Jollibee and Global Girl Group KATSEYE Ignite Partnership to Create Joyful New Connections with Their North American Fans - Placera.se
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 
 ## Technology
 
@@ -58,18 +58,18 @@ _Updated: 2025-08-15 21:38_
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
-- AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
+- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
-- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
 
@@ -84,8 +84,8 @@ _Updated: 2025-08-15 21:38_
 - Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Accord Announces Second Quarter Financial Results - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- Accord Announces Second Quarter Financial Results - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
 - Bonterra Energy Announces Second Quarter 2025 Financial Results and Operations Update - Placera.se
@@ -121,10 +121,9 @@ _Updated: 2025-08-15 21:38_
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -133,12 +132,13 @@ _Updated: 2025-08-15 21:38_
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
 
 ## Jordbruk
 
@@ -153,7 +153,6 @@ _Updated: 2025-08-15 21:38_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
@@ -162,3 +161,4 @@ _Updated: 2025-08-15 21:38_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- (+) Stor undersökning av jordbruket - Arbetarskydd
