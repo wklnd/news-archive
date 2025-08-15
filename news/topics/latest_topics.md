@@ -1,38 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-15 15:47_
+_Updated: 2025-08-15 16:45_
 
 ## Top Stories
 
 - Polisen: Skjutningen vid moskén kopplad till gängkriminalitet - SVT Nyheter
 - Trump: Kommer att diskutera landutbyten - GP
-- Varnar för kraftig åska och omkullblåsta träd - DN
-- Rättegången mot Henrik Landerholm ”smygstartar” med vittnesförhör - SVT Nyheter
-- JUST NU: Man i 30-årsåldern död – bil kraschade in i skog - Norran
-- 15 augusti 14.37, Trafikolycka, Storuman - polisen.se
+- Första vittnet hörs i rätten om Landerholm – Expert: ”Unikt” - DN
+- Varnar för kraftig åska och omkullblåsta träd - SvD
+- Man död efter singelolycka i Arvidsjaur - SVT Nyheter
 - Stockholmare måste spara på kranvattnet – akut läge - DN
-- Man gripen efter brand – kvinna livshotande skadad - Västerbottens-Kuriren
+- Lidl återkallar schnitzel – hittat salmonella - Aftonbladet
 - Råttor flyr med ny ljudteknik - NWT
-- Norrman smittad av listeria i ostar - Expressen
+- Man gripen efter brand – kvinna livshotande skadad - Västerbottens-Kuriren
+- Ung man död efter olycka med terrängfordon i fjällen - SVT Nyheter
 - Fiasko för plastavtalet – förhandlare lämnar - GP
+- Ärkebiskopen i rysk-ortodoxa kyrkan i Alaska vädjar till Putin - DN
+- Ukrainsk konstnär dödad vid fronten – hade Malmö som fristad - Sydsvenskan
 - Ukrainska soldaten Lisa, 36: ”Trump är en clown i mina ögon” - DN
-- Skogsbränder härjar i södra Europa: ”Domedagen” - DN
-- Tiotals gripna i nya razzior i Istanbul - GP
+- Guldkrogen gör u-sväng – skrotar vegansk meny - SvD
 - Avvaktande på Wall Street – sjukjätte rusar efter Buffetts köp - Dagens industri
-- Lakritstillverkare såld till Kina - Aftonbladet
-- Jefferies upprepar behåll på Holmen – ser bättre risk/reward på andra håll - Affärsvärlden
-- Ras på Systembolaget – USA-bojkotten fortsätter - Tidningen Näringslivet
+- Valedo Partners Fund II avyttrar Lakrids by Bülow, det danska premiumkonfektyrvarumärket, till IDG Capital - NAXS
+- Finansministerns slappa inställning gör ditt liv dyrare - Arbetet
 - Google lanserar minivariant av Gemma 3 – kan köras i en webbläsare - Computer Sweden
 - Sårbarheter i Matrix kan utnyttjas för att hacka känsliga chattar - Computer Sweden
 
 ## World News
 
-- CME Group Opens Registration for 22nd Annual Global University Trading Challenge - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
+- GLOBAL ANNOUNCES FALL 2025 PREMIERE DATES FEATURING THREE NEW SERIES AND MORE TOP 20 RETURNING HITS THAN ANY OTHER NETWORK - Placera.se
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -40,13 +40,13 @@ _Updated: 2025-08-15 15:47_
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- GLOBAL ANNOUNCES FALL 2025 PREMIERE DATES FEATURING THREE NEW SERIES AND MORE TOP 20 RETURNING HITS THAN ANY OTHER NETWORK - Placera.se
 - ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
+- Ulrika Jonsson stämmer News of the World - Sydsvenskan
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- Arrow Global förvärvar Troia Resort - The Portugal News
 - Portugal framstår som ett strategiskt nav för global teknikexpansion - The Portugal News
-- Ulrika Jonsson stämmer News of the World - Sydsvenskan
+- 1 426 potential victims identified in global operation against human trafficking - Europol
 
 ## Technology
 
@@ -65,8 +65,8 @@ _Updated: 2025-08-15 15:47_
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
@@ -77,22 +77,22 @@ _Updated: 2025-08-15 15:47_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Accord Announces Banking Facility Update - Placera.se
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Accord Announces Second Quarter Financial Results - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- REPAY Appoints New Chief Financial Officer - Placera.se
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
+- ING completes acquisition of Van Lanschot Kempen stake - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -105,6 +105,8 @@ _Updated: 2025-08-15 15:47_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Fakulteten för hälsa och samhälle - Malmö universitet
+- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
@@ -113,19 +115,16 @@ _Updated: 2025-08-15 15:47_
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
@@ -133,32 +132,33 @@ _Updated: 2025-08-15 15:47_
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Tio jordbruksaktier för depån - Placera.se
+- Danmark kan bli först med klimatskatt på jordbruket - SVT Nyheter
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är världens största jordbruk - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- Stor nyhet för matglada katter - Mynewsdesk
+- Hon blir verksamhetschef på Sweden Food Arena - Mynewsdesk
