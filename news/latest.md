@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-15 19:48_
+_Updated: 2025-08-15 20:56_
 
-- Trump and Putin meet today in Anchorage. Here's what to know - NPR
-- DC sues over Trump administration’s attempted takeover of city police - Politico
-- Feds Turn Into Beat Cops Under Trump’s D.C. Policing Surge - The New York Times
+- Trump-Putin meeting live updates: Trump says he ‘would walk’ if summit doesn’t go well - ABC News
+- D.C. attorney general sues Trump administration over ‘hostile takeover’ of police - The Washington Post
+- Democrats introduce measure to terminate Trump's D.C. takeover - Axios
 - Hurricane Erin forms over Atlantic, the first of 2025 season. Maps show its path and forecast. - CBS News
-- Newsom mocks Trump's social media in a flurry of redistricting posts - Axios
 - Texas Gov. Greg Abbott immediately calls second special session for redistricting - Politico
-- Prosecutors clear Florida deputy in arrest of a Black man punched and dragged from his car - NBC News
-- Appeals court clears way for deep cuts, restructuring at CFPB - Politico
-- Judge strikes down Trump administration guidance against DEI programs at schools - NPR
+- Kevin McCarthy reemerges to fight California redistricting - Politico
+- Man fleeing immigration raid in California fatally struck by vehicle, officials say - NBC News
+- CFPB staff layoffs can proceed, appeals court rules - NPR
+- Environmental groups sue Trump administration over "secret report" by "known climate contrarians" - CBS News
 - United Nations Plastic Treaty Talks End Without Deal - The New York Times
 - UN rights office says Israeli settlement plan breaks international law - Reuters
 - Photos: Putin’s 25-year legacy with US presidents - Al Jazeera
 - Blackwater founder to deploy nearly 200 personnel to Haiti as gang violence soars - NPR
-- S&P 500 falls slightly Friday, but on track for big weekly gain: Live updates - CNBC
+- Trump Administration Eyeing Chips Act Funds for Intel Stake - Bloomberg.com
 - Solar panels that fit on your balcony or deck are gaining traction in the US - ABC News
-- Retail Sales Get Four-Day Amazon Prime Day Lift (Live) - Investor's Business Daily
-- UnitedHealth jumps after vote of confidence from Warren Buffett - Reuters
-- iPhone 17 Pro Leak Reveals SIM Card Tray Might Live Another Year in Some Countries - MacRumors
-- Apple releases public beta 3 for watchOS 26, tvOS 26, and more - 9to5Mac
+- US retail sales rise in July; softening job market poses risk to spending - Reuters
+- Top Stock Movers Now: UnitedHealth, Salesforce, Applied Materials, and More - Investopedia
+- iPhone 17 Pro Max might have a camera advantage over iPhone 17 Pro - 9to5Mac
+- Apple Releases Third iOS 26 and iPadOS 26 Public Betas, New Developer Beta - MacRumors
 - Breathe easy: Apple Watch can read your oxygen levels again - theregister.com
