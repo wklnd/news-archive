@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-16 00:44_
+_Updated: 2025-08-16 01:40_
 
 ## Top Stories
 
-- Trump och Putin möts – lämnar i samma bil – Senaste nytt om kriget i Ukraina - SVT Nyheter
+- Pressträffen med Trump och Putin över – Senaste nytt om kriget i Ukraina - SVT Nyheter
 - DN Direkt - Flera skadade efter skottlossning vid moské i Örebro - DN.se - DN
+- Minst en död i tågolycka i Danmark - SvD
 - Man anhållen för mord efter brand i Linköping - GP
+- Träd över vägen skapar problem i trafiken på väg 280 - UNT
 - Skatteverket slog till – tidigare Blåvitt-spelarens restaurang bötfälls - GP
-- ”Risk att vi inte klarar framtidens bränder” - SvD
-- Ellevio höjer beredskapen efter vädervarningar i Gävleborg och Östra Svealand - www.ellevio.se
 - Stockholmare måste spara på kranvattnet – akut läge - DN
+- Varnar för kraftig åska och omkullblåsta träd - DN
 - Första vittnet hörs i rätten om Landerholm – Expert: ”Unikt” - DN
 - Journalister ångrar sig: ”Omdömeslöst av mig” - Omni
-- Längsta kön? Årets rätt? Idag gör festivalens matchef sin sista arbetsdag - Sydsvenskan
-- Minst en död i tågolycka i Danmark - Aftonbladet
-- Talibanledaren: Var tacksam, annars... - GP
+- Talibanledaren: Var tacksam, annars... - Aftonbladet
+- Putin: Hoppas på atomvapenavtal - Hufvudstadsbladet
 - Elva dagars förhandlingar slutade i fiasko: Inget plastavtal - GP
 - YLVA NILSSON: Nu skrattar alla åt oss européer - Expressen
-- Krypto på nya rekordnivåer – ”stort intresse” - Sydsvenskan
 - Trump kan använda Bidens chippengar för Intel-investering - Dagens industri
-- Finansministerns slappa inställning gör ditt liv dyrare - Arbetet
+- Krypto på nya rekordnivåer – ”stort intresse” - Sydsvenskan
+- Riksbankens dundermiss – därför är allt så dyrt - Aftonbladet
 - Rekord för höstvete lyfter årets spannmålsskörd - DN
 - Kriget fortsätter i vår spelhelg – vad spelar du? - FZ.se
 - Ölen allt dyrare – så har priserna förändrats - Östersunds-Posten
@@ -29,10 +29,10 @@ _Updated: 2025-08-16 00:44_
 
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
-- GLOBAL ANNOUNCES FALL 2025 PREMIERE DATES FEATURING THREE NEW SERIES AND MORE TOP 20 RETURNING HITS THAN ANY OTHER NETWORK - Placera.se
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -40,11 +40,11 @@ _Updated: 2025-08-16 00:44_
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Quest Diagnostics to Speak at the Baird 2025 Global Healthcare Conference - Placera.se
+- GLOBAL ANNOUNCES FALL 2025 PREMIERE DATES FEATURING THREE NEW SERIES AND MORE TOP 20 RETURNING HITS THAN ANY OTHER NETWORK - Placera.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Jollibee and Global Girl Group KATSEYE Ignite Partnership to Create Joyful New Connections with Their North American Fans - Placera.se
+- Quest Diagnostics to Speak at the Baird 2025 Global Healthcare Conference - Placera.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- Jollibee and Global Girl Group KATSEYE Ignite Partnership to Create Joyful New Connections with Their North American Fans - Placera.se
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
 
@@ -77,22 +77,22 @@ _Updated: 2025-08-16 00:44_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Accord Announces Banking Facility Update - Placera.se
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - Accord Announces Amendment to its Banking Facility - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Accord Announces Second Quarter Financial Results - Placera.se
-- ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
-- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- REPAY Appoints New Chief Financial Officer - Placera.se
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
 
@@ -104,7 +104,8 @@ _Updated: 2025-08-16 00:44_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
-- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
@@ -115,7 +116,6 @@ _Updated: 2025-08-16 00:44_
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
