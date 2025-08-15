@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-15 22:43_
+_Updated: 2025-08-15 23:39_
 
 ## Top Stories
 
 - Trump: Höga insatser i mötet med Putin - GP
 - DN Direkt - Flera skadade efter skottlossning vid moské i Örebro - DN.se - DN
+- Skatteverket slog till – tidigare Blåvitt-spelarens restaurang bötfälls - GP
 - ”Risk att vi inte klarar framtidens bränder” - SvD
 - Rysk hamn anfallen – pekas ut som nav för drönare - Västerbottens-Kuriren
 - Stockholmare måste spara på kranvattnet – akut läge - DN
+- Varnar för kraftig åska och omkullblåsta träd - DN
 - Första vittnet hörs i rätten om Landerholm – Expert: ”Unikt” - DN
 - Ebba Busch: Israels utrikesminister har tackat mig - DN
-- Varnar för kraftig åska och omkullblåsta träd - DN
 - Journalister ångrar sig: ”Omdömeslöst av mig” - Omni
-- Längsta kön? Årets rätt? Idag gör festivalens matchef sin sista arbetsdag - Sydsvenskan
 - Minst en död i tågolycka i Danmark - Aftonbladet
 - Kraftig ökning av kvinnoförtrycket i Afghanistan - Dagens Arena
 - Elva dagars förhandlingar slutade i fiasko: Inget plastavtal - GP
-- Svenskens svar på Vances hån - Expressen
+- YLVA NILSSON: Nu skrattar alla åt oss européer - Expressen
 - Krypto på nya rekordnivåer – ”stort intresse” - Sydsvenskan
-- Valedo Partners Fund II avyttrar Lakrids by Bülow, det danska premiumkonfektyrvarumärket, till IDG Capital - NAXS
 - Ras på Systembolaget – USA-bojkotten fortsätter - DN
 - Finansministerns slappa inställning gör ditt liv dyrare - Arbetet
-- Ölen allt dyrare – så har priserna förändrats - Östersunds-Posten
+- Årets spannmålsskörd kan börja fylla beredskapslagret - Food Supply SE
 - Kriget fortsätter i vår spelhelg – vad spelar du? - FZ.se
+- Ölen allt dyrare – så har priserna förändrats - Östersunds-Posten
 
 ## World News
 
@@ -76,23 +76,23 @@ _Updated: 2025-08-15 22:43_
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Accord Announces Banking Facility Update - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
-- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
+- Southern Company announces Accounting, Finance, and Treasury leadership moves - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- Accord Announces Second Quarter Financial Results - Placera.se
+- New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
-- Bonterra Energy Announces Second Quarter 2025 Financial Results and Operations Update - Placera.se
+- Accord Announces Second Quarter Financial Results - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
+- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- ALT5 Sigma Corporation Announces Closing of $1.5 Billion Registered Direct Offering and Concurrent Private Placement to Initiate World Liberty Financial $WLFI Treasury Strategy - Placera.se
-- ING completes acquisition of Van Lanschot Kempen stake - Placera.se
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 
 ## Health
 
@@ -121,24 +121,24 @@ _Updated: 2025-08-15 22:43_
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Svensk AI-forskning presenterad på internationell tech-konferens - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
