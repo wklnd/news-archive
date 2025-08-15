@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-15 17:42_
+_Updated: 2025-08-15 18:49_
 
 ## Top Stories
 
-- Trump: Höga insatser i mötet med Putin - GP
-- Skottlossning efter fredagsbönen i Örebro – två skadade - SVT Nyheter
-- Varnar för kraftig åska och omkullblåsta träd - DN
-- Första vittnet hörs i rätten om Landerholm – Expert: ”Unikt” - DN
-- Man död efter singelolycka i Arvidsjaur - SVT Nyheter
-- Ebba Busch: Israels utrikesminister har tackat mig - DN
+- ”Att Trump träffar Putin är som när Chamberlain träffade Hitler” - DN
+- En död efter skjutningen vid Örebro moské - SVT Nyheter
+- Ellevio höjer beredskapen efter vädervarningar i Gävleborg och Östra Svealand - Cision News
+- Man död efter singelolycka – två svårt skadade - Västerbottens-Kuriren
+- Över 200 döda i monsunregn i Pakistan och Indien - DN
+- Minst 16 döda – inklusive fem i väntan på hjälp – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Landerholms advokat: ”Vi förnekar allt” - DN
 - Akut vattenbrist i Stockholm – uppmanas spara - GP
-- Råttor flyr med ny ljudteknik - NWT
-- Ung man död efter olycka med terrängfordon i fjällen - SVT Nyheter
-- LEDARE: Dyrare tandvård för alla som jobbar - Expressen
-- Elva dagars förhandlingar slutade i fiasko: Inget plastavtal - GP
-- Ärkebiskopen i rysk-ortodoxa kyrkan i Alaska vädjar till Putin - DN
-- Ukrainska soldaten Lisa, 36: ”Trump är en clown i mina ögon” - DN
+- Busch: Inte aktuellt att erkänna östra Jerusalem som del av Israel - DN
+- Längsta kön? Årets rätt? Idag gör festivalens matchef sin sista arbetsdag - Sydsvenskan
+- DN Direkt - Flera skadade efter tågurspårning i Danmark - DN.se - DN
+- Kraftig ökning av kvinnoförtrycket i Afghanistan - Dagens Arena
 - Ukrainsk konstnär dödad vid fronten – hade Malmö som fristad - Sydsvenskan
+- Plastavtal uteblir – förhandlarna lämnar - DN
 - Guldkrogen gör u-sväng – skrotar vegansk meny - SvD
 - Valedo Partners Fund II avyttrar Lakrids by Bülow, det danska premiumkonfektyrvarumärket, till IDG Capital - NAXS
-- Ras på Systembolaget – USA-bojkotten fortsätter - Tidningen Näringslivet
+- Rekord för höstvete lyfter årets spannmålsskörd - DN
 - Finansministerns slappa inställning gör ditt liv dyrare - Arbetet
-- Ölen allt dyrare – så har priserna förändras i stan - Östersunds-Posten
+- Ölen allt dyrare – så har priserna förändrats - Östersunds-Posten
 - Kriget fortsätter i vår spelhelg – vad spelar du? - FZ.se
 
 ## World News
@@ -50,8 +50,8 @@ _Updated: 2025-08-15 17:42_
 
 ## Technology
 
-- OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Altairs AI-Powered Engineering i 100 olika tillämpningar - Mynewsdesk
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
@@ -61,15 +61,15 @@ _Updated: 2025-08-15 17:42_
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
+- Leveraging AI in Swedish Development Cooperation - FUF Föreningen för utvecklingsfrågor
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
 
@@ -90,9 +90,9 @@ _Updated: 2025-08-15 17:42_
 - ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
 - The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- ING completes acquisition of Van Lanschot Kempen stake - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - ALT5 Sigma Corporation Announces Closing of $1.5 Billion Registered Direct Offering and Concurrent Private Placement to Initiate World Liberty Financial $WLFI Treasury Strategy - Placera.se
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -104,27 +104,28 @@ _Updated: 2025-08-15 17:42_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
@@ -132,13 +133,12 @@ _Updated: 2025-08-15 17:42_
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
