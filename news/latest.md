@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-15 01:48_
+_Updated: 2025-08-15 04:31_
 
-- California will move forward with redistricting vote to counter Texas, Newsom says - ABC News
-- Putin to offer financial incentives to Trump at Ukraine summit - The Guardian
+- Trump-Putin summit in Alaska holds a 'historical significance,' experts say - ABC News
+- What federal agents can and can't do in Trump's D.C. crackdown - Axios
+- Newsom calls for special November election to block Trump from ‘rigging’ 2026 midterms - Los Angeles Times
+- Obama praises Texas Democrats amid redistricting furor - Politico
 - As feds ramp up immigration enforcement in D.C., police allow more cooperation - The Washington Post
-- Justice Dept. fires, charges staffer who admits throwing sandwich at federal agent deployed in D.C. - CBS News
-- Melania Trump threatens to sue Hunter Biden over Epstein claim - BBC
-- Texas Democrats set plan to end nearly 2-week walkout over Republicans' redraw of US House maps - AP News
-- First Thing: Trump says he’ll seek ‘long-term’ control of DC police - The Guardian
-- Social Security has existed for 90 years. Why it may be more threatened than ever - AP News
+- Border Patrol chief crashes Newsom’s rollout of California redistricting campaign - San Francisco Chronicle
+- In L.A., Fear of ICE Raids Created a Tense First Day of School - The New York Times
+- Judge strikes down Trump administration guidance against diversity programs at schools and colleges - AP News
 - Florida to use shuttered prison as 2nd immigration detention center after ‘Alligator Alcatraz’ - Politico
-- Man accused of killing married hikers in Devil's Den State Park pleads not guilty to murder charges - CBS News
-- Israel appears set to approve highly controversial 3,400-home West Bank settlement - The Guardian
+- Office of Public Affairs | Seattle Woman Indicted for Murder of U.S. Border Patrol Agent in Vermont - Department of Justice (.gov)
+- Israel announces a settlement project that critics say will effectively cut the West Bank in two - AP News
 - Hundreds of retired air force officers protest Israel's war in Gaza - NPR
-- Countries deadlocked on plastic production and chemicals as talks on a global treaty draw to a close - AP News
 - Exclusive: Trump ally Erik Prince plans to keep personnel in Haiti for 10 years to fight gangs and collect taxes - Reuters
-- Trump Administration Said to Discuss Taking Stake in Intel - Bloomberg.com
-- Stock Market Today: Dow, Nasdaq Steady After PPI Data Shows Wholesale Inflation Accelerated in July — Live Updates - The Wall Street Journal
+- Aid groups say Israel’s new registration rules are ‘weaponising aid’ - The Guardian
+- Trump weighs taking stake in Intel, Bloomberg News reports - Reuters
 - Tapestry shares plunge nearly 16% as Coach parent says tariffs will bite into profits - CNBC
-- Amazon, IBD Stock Of The Day, Delivers Early Entry As Grocery Move Hits Rivals - Investor's Business Daily
-- Apple’s blood oxygen monitoring returns to its latest Apple Watches - TechCrunch
-- iPhone 17 Pro could redefine Apple’s Pro color strategy - 9to5Mac
+- Warren Buffett’s Berkshire Further Pares Stake in Apple, Adds UnitedHealth Position - The Wall Street Journal
+- Big Tech’s A.I. Data Centers Are Driving Up Electricity Bills for Everyone - The New York Times
+- The Apple Watch Is Finally Getting Blood Oxygen Sensing Back - WIRED
+- Insta360 Antigravity A1 drone preview: A 360-degree FPV drone unlike anything else - Engadget
