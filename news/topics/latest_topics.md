@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-15 04:28_
+_Updated: 2025-08-15 05:39_
 
 ## Top Stories
 
-- ”Finns flera värstafallsscenarier” - Hufvudstadsbladet
-- Efter stora sökinsatsen på Klarälven – paddlarna återfunna: ”Inte nödställda” - NWT
+- Trump tog tolkens anteckningar – så var tidigare möten med Putin - DN
 - Trump: Kommer att rädda tusentals soldaters liv - GP
 - Tiotusentals id-uppgifter stulna från hotell - SVT Nyheter
-- Flera dödade vid nödhjälpsutdelning – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Förhandlingar om plastavtal förlängs - Folkbladet
+- DEBATT: Katastrofalt för både Ukraina och Europa om Donetskregionen ges till Ryssland - GP
+- Mossadchefen i Qatar för Gazasamtal - Västerbottens-Kuriren
+- FN-chefen: ”Finns mat för tre månader vid Gazas gräns” - DN
+- Sup-paddlare på Klarälven återfunna - Folkbladet
 - Ett förstärkt högkostnadsskydd för tandvård - Regeringen.se
 - Så kan skogsägare minska risken för skogsbrand - ATL
-- SMHI varnar för kraftig åska och hårda vindbyar - SVT Nyheter
 - Kamerabevakning med drönare i Örebro under fotbollsmatch 17 augusti - polisen.se
-- Ryssland, Israel kan listas för sexbrott i krig - Västerbottens-Kuriren
-- Fortsatta protester i Serbien - Aftonbladet
-- Skogsbränder härjar i södra Europa: ”Domedagen” - DN
+- Förhandlingar om plastavtal förlängs - GP
+- Nya våldsamheter i Serbien – demonstranter stormade partikontor - SVT Nyheter
 - Studie: Värmeböljorna i Sverige blir ännu hetare - NSD
+- Skogsbränder härjar i södra Europa: ”Domedagen” - DN
+- Så mycket mer betalar äldre för att bo på äldreboende – se skillnaderna i listan - Expressen
 - Nedåt på USA-börserna – rapportfall för Deere - Dagens industri
 - Semesterresor och mat lyfter inflationen - Tidningen Näringslivet
-- Energi- och näringsminister Ebba Busch presenterar ny generaldirektör - Regeringen.se
-- Före skolstarten – larm om fler anmälda stölder - Aftonbladet
-- Imponera i Battlefield 6-betan – vinn plats i Slaget - FZ.se
+- LKAB: Delårsrapport april-juni 2025: Minskat resultat till följd av lägre järnmalmspriser och svagare amerikansk dollar - Aktiellt
+- Arbetslivet är som en toxisk kärleksrelation - Aftonbladet
 - iOS 26-beta 6 ger fler överraskande uppgraderingar till din iPhone - TechRadar
 
 ## World News
@@ -35,7 +35,7 @@ _Updated: 2025-08-15 04:28_
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
@@ -89,33 +89,33 @@ _Updated: 2025-08-15 04:28_
 - Accord Announces Second Quarter Financial Results - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
-- AdvanSix Announces Second Quarter 2025 Financial Results - Placera.se
+- DeFi Technologies Provides Monthly Corporate Update: Valour Reports US$771 Million (C$1.04 Billion) in AUM, and Monthly Net Inflows of US$4.5 Million (C$6.2 Million) in June 2025, Among Other Key Developments - Placera.se
+- Bonterra Energy Announces Second Quarter 2025 Financial Results and Operations Update - Placera.se
 - ING completes acquisition of Van Lanschot Kempen stake - Placera.se
 - ALT5 Sigma Corporation Announces Closing of $1.5 Billion Registered Direct Offering and Concurrent Private Placement to Initiate World Liberty Financial $WLFI Treasury Strategy - Placera.se
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
 
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -144,7 +144,6 @@ _Updated: 2025-08-15 04:28_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
@@ -155,10 +154,11 @@ _Updated: 2025-08-15 04:28_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
