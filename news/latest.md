@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-15 09:48_
+_Updated: 2025-08-15 10:55_
 
 - Trump and Putin to spar over Ukraine peace and arms control at Alaska summit - Reuters
-- Crime ‘hot spots’ targeted, encampments cleared, as feds expand D.C. push - The Washington Post
 - White House: Bondi has "officially ENDED" D.C. sanctuary policies - Axios
 - Obama praises Texas Democrats and calls state redistricting effort ‘a systematic assault on democracy’ - CNN
+- Federal Raids Target D.C. Homeless Camps - The New York Times
+- Newsom says California will push to redraw maps in riposte to Texas plan - The Guardian
 - Border Patrol agents stage show of force at Newsom’s ‘big beautiful press conference’ - Los Angeles Times
-- California will move forward with redistricting vote to counter Texas, Newsom says - ABC News
-- Judge strikes down Trump administration guidance against diversity programs at schools and colleges - AP News
-- Some parents miss drop-off in Los Angeles as immigration fears dampen excitement of first day of school - CNN
-- Trump claims credit for fixing Social Security as it barrels to insolvency - The Washington Post
-- What Hurricane Models Say About Tropical Storm Erin - The New York Times
-- Countries deadlocked on plastic production and chemicals as talks on a global treaty draw to a close - AP News
+- Crime ‘hot spots’ targeted, encampments cleared, as feds expand D.C. push - The Washington Post
+- New details, charges emerge as Vance Boelter is indicted in state court for first-degree murder - Star Tribune
+- Bondi scraps limits on cooperation between D.C. police and federal immigration agents - CBS News
+- 90TH ANNIVERSARY OF THE SOCIAL SECURITY ACT - The White House (.gov)
 - Israel appears set to approve highly controversial 3,400-home West Bank settlement - The Guardian
-- Exclusive: Trump ally Erik Prince plans to keep personnel in Haiti for 10 years to fight gangs and collect taxes - Reuters
+- Countries deadlocked on plastic production and chemicals as talks on a global treaty draw to a close - AP News
+- Blackwater founder to deploy nearly 200 personnel to Haiti as gang violence soars - NPR
 - Jimmy Lai: Hong Kong pro-democracy tycoon’s national security trial adjourned over health issues - BBC
 - Warren Buffett is preparing to step down. He just revealed some of his final stock picks. - Business Insider
-- Trump administration in talks to take Intel stake, reports say - Axios
+- China's factory output, retail sales growth slump in blow to economy - Reuters
 - Asia markets recover after hot U.S. price data - Reuters
-- Most US stocks fall after a disappointing inflation update, but Big Tech keeps Wall Street steady - AP News
-- The Apple Watch Is Finally Getting Blood Oxygen Sensing Back - WIRED
+- Stock Market News, Aug. 14, 2025: Stocks End Mixed After Hot Inflation Report - The Wall Street Journal
+- New Mac Pro could boast M4 Ultra chip, per report - 9to5Mac
 - Google releases pint-size Gemma open AI model - Ars Technica
