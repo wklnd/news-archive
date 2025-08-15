@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-15 13:48_
+_Updated: 2025-08-15 15:18_
 
-- The one thing Trump wants out of his meeting with Putin - Politico
-- Bowser, D.C. attorney general reject push by Bondi to name emergency police commissioner - The Washington Post
+- How Putin, ex-KGB officer, will seek to sway Trump at Alaska summit - The Washington Post
+- White House: Bondi has "officially ENDED" D.C. sanctuary policies - Axios
 - Obama praises Texas Democrats and calls state redistricting effort ‘a systematic assault on democracy’ - CNN
+- Federal Raids Target D.C. Homeless Camps - The New York Times
 - Border Patrol agents in L.A. show up outside of Gov. Gavin Newsom's redistricting press conference - CBS News
-- All National Guard Troops Sent to Washington Are Mobilized, Pentagon Says - The New York Times
-- California will move forward with redistricting vote to counter Texas, Newsom says - ABC News
+- ‘Just so inhumane.’ Man fleeing Home Depot raid is killed by car on the 210 Freeway - Los Angeles Times
+- Governor Newsom launches statewide response to Trump rigging Texas’ elections - Governor of California (.gov)
+- The Senate map suddenly looks a lot better for Democrats. But still not a slam dunk. - Politico
+- Judge strikes down Trump administration guidance against DEI programs at schools - NPR
 - New details, charges emerge as Vance Boelter is indicted in state court for first-degree murder - Star Tribune
-- Democrats squint and see chances at a Senate majority - Politico
-- Judge strikes down Education Department guidance against school diversity programs - PBS
-- Bondi seeks to rescind D.C. police immigration policies as enforcement ramps up - The Washington Post
-- Live: UN calls Israeli West Bank settlement plan a war crime as 11 Palestinians killed in Gaza - Middle East Eye
-- Plastic pollution talks go into overtime as countries push for late breakthrough - Reuters
+- West Bank settlement plan illegal, Germany tells Israel - DW
 - Blackwater founder to deploy nearly 200 personnel to Haiti as gang violence soars - NPR
-- Sudden, heavy rain in Indian Kashmir leaves 46 dead, more than 200 missing - CNN
-- Warren Buffett’s Berkshire Further Pares Stake in Apple, Adds UnitedHealth Position - The Wall Street Journal
+- Australian lawyer apologizes for AI-generated errors in murder case - AP News
+- How Trump and Putin's past meetings went - and what to expect this time - BBC
+- UnitedHealth jumps after Berkshire Hathaway buys new stake - Reuters
+- Stock Market Today: Dow Jones Rallies As UnitedHealth Surges On Warren Buffett Buy (Live Coverage) - Investor's Business Daily
 - Most US stocks fall after a disappointing inflation update, but Big Tech keeps Wall Street steady - AP News
-- China’s Economy Slows Sharply as Trade War Bites - Bloomberg.com
-- Dow Jones Futures Rise On Warren Buffett Buys, These Chip Losers; Amazon Offsets Hot Inflation - Investor's Business Daily
-- Google Phone starts rolling out customizable ‘calling cards’ for contacts - 9to5Google
+- Intel shares jump after report of possible US stake in company - BBC
+- Pokémon Scalpers Set Their Sights On World Championships Merch - Nintendo Life
 - Leaked Pixel 10 Pro Fold specs echo a world-first for foldables - Android Authority
