@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-15 16:51_
+_Updated: 2025-08-15 17:50_
 
-- What to know ahead of Trump-Putin summit. And, Texas Democrats could end boycott - NPR
-- DC sues Trump to reverse federal takeover of police force - CNBC
-- White House: Bondi has "officially ENDED" D.C. sanctuary policies - Axios
+- Trump and Putin meet today in Anchorage. Here's what to know - NPR
+- D.C. AG: Bondi naming DEA chief emergency police commissioner "unlawful" - Axios
 - Federal Raids Target D.C. Homeless Camps - The New York Times
 - Obama praises Texas Democrats and calls state redistricting effort ‘a systematic assault on democracy’ - CNN
-- Can this man draw the Democrats a House majority? - Politico
-- Judge strikes down Trump administration guidance against DEI programs at schools - NPR
-- The Senate map suddenly looks a lot better for Democrats. But still not a slam dunk. - Politico
-- Trump claims credit for fixing Social Security as it barrels to insolvency - The Washington Post
+- Hurricane Erin forms over Atlantic, the first of 2025 season. Maps show its path and forecast. - CBS News
+- Pentagon Press Secretary Kingsley Wilson Holds an Off-Camera, On-the-Record Press Briefing - U.S. Department of Defense (.gov)
+- Prosecutors clear Florida deputy in arrest of a Black man punched and dragged from his car - NBC News
+- Judge blocks Trump administration guidance targeting DEI programs in schools, universities - CBS News
+- In Lahaina, ‘Dignified’ Havens for Wildfire Survivors - The New York Times
+- Kevin McCarthy reemerges to fight California redistricting - Politico
 - West Bank settlement plan illegal, Germany tells Israel - DW
 - Photos: Putin’s 25-year legacy with US presidents - Al Jazeera
-- Live: UN calls Israeli West Bank settlement plan a war crime as 21 Palestinians killed in Gaza - Middle East Eye
 - Blackwater founder to deploy nearly 200 personnel to Haiti as gang violence soars - NPR
-- Retail Sales Get Four-Day Amazon Prime Day Lift (Live) - Investor's Business Daily
+- Hiker's body found after bear drags him from trail into forest in Japan, officials say - CBS News
+- S&P 500 falls slightly Friday, but on track for big weekly gain: Live updates - CNBC
 - UnitedHealth jumps after vote of confidence from Warren Buffett - Reuters
+- China’s Economy Slows Sharply as Trade War Bites - Bloomberg.com
 - Intel Stock Jumps on Report U.S. Government Could Take Stake in the Chip Maker - Barron's
-- Stock Market News, Aug. 14, 2025: Stocks End Mixed After Hot Inflation Report - The Wall Street Journal
-- Pokémon Scarlet & Violet 2025 Pokémon World Championships Distribution Live - Nintendo Life
-- The Galaxy S26 Pro might kill the best Samsung phone for most people - Android Authority
-- Google Phone starts rolling out customizable ‘calling cards’ for contacts - 9to5Google
+- Pokémon Scalpers Set Their Sights On World Championships Merch - Nintendo Life
+- Apple accidentally leaked its own top-secret hardware in software code—and it looks like we're getting a slew of products across 7 categories - Fortune
