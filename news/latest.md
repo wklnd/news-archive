@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-16 23:48_
+_Updated: 2025-08-17 00:48_
 
-- Trump: Putin summit productive but "we didn't get there" on Ukraine deal - Axios
-- Hurricane Erin becomes ‘catastrophic’ Category 5 hurricane, tracking north of Bahamas - Chicago Tribune
-- Trump drops ceasefire demand for Ukraine war after summit with Putin - The Washington Post
-- Exclusive | National Guard Soldiers Prepare to Carry Weapons in Washington, D.C. - The Wall Street Journal
-- Mayor LaToya Cantrell of New Orleans Is Indicted on Corruption Charges - The New York Times
-- Billionaire Real Estate Developer Threatens To Quit Building in Wealthy California Enclave as Zoning War Erupts - Realtor.com
+- Russia sees victory as Trump adopts Putin’s approach to ending Ukraine war - The Washington Post
+- Erin strengthens to a Category 5 hurricane, NHC says - Reuters
+- Exclusive | More National Guard Soldiers Head to D.C. and Prepare to Carry Weapons - The Wall Street Journal
+- Redistricting wars spark mad dash of unlikely 2026 congressional candidates - Axios
+- Israel prepares to move Palestinians to southern Gaza as Israelis urge mass protest over war - CBS News
+- ‘Stab in the back’: Kyiv reels as Trump embraces Putin’s terms - Financial Times
+- Trump drops ceasefire demand for Ukraine war, tells allies Putin wants land - The Washington Post
+- New Orleans mayor and bodyguard lover charged with fraud and corruption - BBC
 - State Department halts 'medical-humanitarian' visas for people from Gaza - NPR
-- Man rescued by helicopter after 2 days trapped behind California waterfall - CBS News
 - Donald Trump reportedly delivered letter from first lady to Vladimir Putin - The Guardian
-- Texas Democrats who left the state over redistricting will take part in national demonstration - Politico
-- Israel prepares to move Palestinians to southern Gaza as Israelis urge mass protest over war - AP News
-- Pakistan's monsoon flooding death toll rises to 220 as forecasters warn of more rain to come - NBC News
+- Pakistan’s monsoon flooding death toll rises to 220 as forecasters warn of more rain to come - AP News
 - Video shows prominent Palestinian prisoner for the first time in years - NPR
-- U.S. Proposed NATO-Style Joint Defense Guarantees for Kyiv – AFP Source - The Moscow Times
-- Air Canada grounds flights amid strike, government steps in - NBC News
+- Trump's ceasefire pivot will have caused dismay in Kyiv - BBC
+- Man arrested after Premier League opener halted due to alleged racist abuse - CNN
+- Canadian Government Moves to Bring an End to Flight Attendants Strike - The Wall Street Journal
 - C.E.O.s Want Their Companies to Adopt A.I. But Do They Get It Themselves? - The New York Times
-- Meta spends more guarding Mark Zuckerberg than Apple, Nvidia, Microsoft, Amazon, and Alphabet do for their own CEOs—combined - Fortune
+- Sam Altman Is Going After Elon Musk’s Empire, One Company At A Time - Forbes
 - Electricity prices are climbing more than twice as fast as inflation - NPR
 - iPhone 17 vs. 17 Air, 17 Pro, 17 Pro Max: All the Rumored Specs Compared - CNET
-- Google's Gemini gets teased in latest Pixel 10 photography clip - Android Central
+- The Pixel 9 Pro Fold is $600 off ahead of the new model’s debut - The Verge
