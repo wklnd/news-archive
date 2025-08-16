@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-16 12:42_
+_Updated: 2025-08-16 13:38_
 
 ## Top Stories
 
-- Tidigare biskopen Caroline Krook död - DN
 - Putins besök provocerade Alaskabor: ”Står upp för Ukraina” - DN
 - Zelenskyj träffar Trump på måndag - GP
+- Mordförsök i Laxå inatt – två kvinnor anhållna - SVT Nyheter
+- Larm om fallskärmshoppare som kolliderat i luften - TV4 Nyheterna
 - Föräldrar planerade gifta bort sin minderåriga dotter - DN
-- Från Sveriges Walter White – till klimataktivist: ”Större idiot än folk känner till” - GP
-- Ingen gripen efter skjutningen i Örebro - Västerbottens-Kuriren
+- Så kan Schweizägda bolag i Skåne ducka för Trumps tullsmäll - HD
+- Tidigare biskopen Caroline Krook död - DN
+- Ingen gripen efter skjutningen i Örebro - NWT
 - Köttbrist i flera år framåt: ”Varit bortskämda” - Västerbottens-Kuriren
-- Larmet från fängelse i Malmö: Intagen styrde avdelning - DN
 - 16 augusti 12.02, Trafikkontroll, Norrbottens län - polisen.se
-- Stort hemlighetsmakeri kring Landerholmrättegång - DN
-- Minst 16 döda – inklusive fem i väntan på hjälp – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Hundratals döda i monsunregn i Pakistan och Indien - SVT Nyheter
 - Lastbilschauffören och lokföraren livshotande skadade efter tågolyckan - Sydsvenskan
-- Rysk flygplansmat ett hån mot Ukraina - GP
+- Minst 16 döda – inklusive fem i väntan på hjälp – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Rysk flygplansmat ett hån mot Ukraina - Västerbottens-Kuriren
 - Flygkaos i Kanada – hundratals avgångar inställda - SVT Nyheter
 - Riksbanken väntas lämna styrräntan oförändrad i augusti - Fastighetsnytt
 - Så påverkas du av de nya reglerna i a-kassan - Svensk Farmaci
-- 20 procent dyrare med äldreboende än vanlig hyresrätt - Örebronyheter
+- Krypto på nya rekordnivåer – ”stort intresse” - Sydsvenskan
 - Kan "Neo Berlin 2087" bli det snyggaste spelet genom tiderna? - MovieZine
 - Man i Eslöv bestulen på Rolexur värt 94 000 kronor - Skånska Dagbladet
 
@@ -105,6 +105,7 @@ _Updated: 2025-08-16 12:42_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
@@ -115,50 +116,3 @@ _Updated: 2025-08-16 12:42_
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-
-## Science
-
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
-
-## Jordbruk
-
-- Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- De gick från reko till eko - ST-tidningen
-- Små jordbruk kan mätta fler - FoodMonitor
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är världens största jordbruk - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Många lantbruk vill producera egen el - Tidningen Extrakt
-- Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
