@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-16 22:41_
+_Updated: 2025-08-16 23:39_
 
 ## Top Stories
 
 - Michael Winiarski: I Putins och Trumps värld råder den starkes rätt - DN
-- Fallskärmsförbundet: ”Tankarna går till de närmast anhöriga” - GP
+- Två män döda efter olycka under fallskärmshopp - SVT Nyheter
+- Känsliga Putindokument hittades i hotellskrivare - Omni
+- Beskedet: Kan bli en kylig avslutning på sommaren - Aftonbladet
 - Twittrar som Trump – och hånar presidenten - SvD
 - DN Direkt - Ingen gripen efter skjutningen i Örebro - DN.se - DN
-- Beskedet: Kan bli en kylig avslutning på sommaren - Aftonbladet
-- Frederiksen: Netanyahu ”ett problem i sig själv” – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- DN Direkt - En död efter mc-olycka i Laholm - DN.se - DN
+- En död efter mc-olycka i Laholm - GP
 - 16 augusti 12.02, Trafikkontroll, Norrbottens län - polisen.se
 - 16 augusti 12.58, Mord/dråp, försök, Laxå - polisen.se
 - Tidigare biskopen Caroline Krook död - DN
-- Stor rysk drönarattack mot Ukraina - SVT Nyheter
 - Fortsatt kraftiga bränder i västra Spanien - Västerbottens-Kuriren
+- Stor rysk drönarattack mot Ukraina - SVT Nyheter
 - Gurkbrist i Norge – kopplas till Tiktok-trend - Hufvudstadsbladet
-- Europeiska ledare medbjudna till Vita huset - Expressen
+- Kroppsspråksexperten om Trumps välkomnande av Putin: ”Spel för galleriet” - Expressen
 - Kanadas regering tvingar flygvärdinnor till jobbet - GP
 - IF Metall och S kräver undantag för Northvolt-personal som riskerar att utvisas - Dagens Arbete
 - Experter: Putin vinnare – men Trump kan svänga snabbt - Dagens industri
-- Höjning av rotavdraget får fler att renovera – så många fick godkänt i din kommun - NLT
-- Uppmaningen: Ta bort näsringen ur spelet - Aftonbladet
-- Historiska personer i Wuchang: Fallen Feathers går inte längre att döda - FZ.se
+- Kräver lägre skatter för att ”få fart på Sverige” - DN
+- Brand i ladugård utanför Nyköping - Expressen
+- Kriget fortsätter i vår spelhelg – vad spelar du? - FZ.se
 
 ## World News
 
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- How RFK Jr is eroding global trust in vaccines - Poddtoppen
-- Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- GLOBAL ANNOUNCES FALL 2025 PREMIERE DATES FEATURING THREE NEW SERIES AND MORE TOP 20 RETURNING HITS THAN ANY OTHER NETWORK - Placera.se
-- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
-- Quest Diagnostics to Speak at the Baird 2025 Global Healthcare Conference - Placera.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
+- CME Group Opens Registration for 22nd Annual Global University Trading Challenge - Placera.se
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- Liberty International i Stockholm växer - travelnews.se
 - Jollibee and Global Girl Group KATSEYE Ignite Partnership to Create Joyful New Connections with Their North American Fans - Placera.se
-- Den hetaste nya trenden inom global utbildning - The Portugal News
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- Den hetaste nya trenden inom global utbildning - The Portugal News
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 
 ## Technology
 
@@ -76,23 +76,23 @@ _Updated: 2025-08-16 22:41_
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Accord Announces Banking Facility Update - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Accord Announces Amendment to its Banking Facility - Placera.se
+- Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- Accord Announces Second Quarter Financial Results - Placera.se
+- New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Accord Announces Amendment to its Banking Facility - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Accord Announces Second Quarter Financial Results - Placera.se
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- REPAY Appoints New Chief Financial Officer - Placera.se
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -136,9 +136,9 @@ _Updated: 2025-08-16 22:41_
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 - Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
 
 ## Jordbruk
 
@@ -154,11 +154,11 @@ _Updated: 2025-08-16 22:41_
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - De gick från reko till eko - ST-tidningen
+- Danmark kan bli först med klimatskatt på jordbruket - SVT Nyheter
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Tuffa tider väntar för engelskt jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
-- Danmark kan bli först med klimatskatt på jordbruket - SVT Nyheter
+- Tio jordbruksaktier för depån - Placera.se
