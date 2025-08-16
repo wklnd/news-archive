@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-16 05:33_
+_Updated: 2025-08-16 05:59_
 
 ## Top Stories
 
-- Ingmar Nevéus: Mötet med Trump blev precis som Putin ville ha det - DN
-- En död i skottlossning vid moské i Örebro - Sydsvenskan
-- Putins inbjudan: ”Next time in Moscow” - Omni
+- Trump om Putin-möte: ”Mycket produktivt” - Hufvudstadsbladet
+- DN Direkt - Flera skadade efter skottlossning vid moské i Örebro - DN.se - DN
 - Beslag: 939 kilo mammuttänder i resväskor - SvD
+- Micael Dahlen: Är du intelligent nog att läsa texten? | Micael Dahlen - SvD
+- Minst 60 inför rätta för stöd till Palestinagrupp - GP
 - Minst 16 döda – inklusive fem i väntan på hjälp – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Guide: Dolly Style, Familjen och Miriam Bryant – här är sista dagens 15 höjdpunkter - Sydsvenskan
+- Landerholms advokat: ”Vi förnekar allt” - DN
 - Stockholmare måste spara på kranvattnet – akut läge - DN
-- Första vittnet hörs i rätten om Landerholm – Expert: ”Unikt” - DN
-- Varning för kraftigt åskväder och storm i Dalarna - Borlänge Tidning
+- Varnar för kraftig åska och omkullblåsta träd - DN
 - Journalister ångrar sig: ”Omdömeslöst av mig” - Omni
-- Minst en död i tågolycka i Danmark - Aftonbladet
+- Putin: Hoppas på atomvapenavtal - Hufvudstadsbladet
 - Talibanledaren: Var tacksam, annars... - Aftonbladet
+- Tågolycka i Danmark – minst en har omkommit - Dagens industri
 - Elva dagars förhandlingar slutade i fiasko: Inget plastavtal - GP
-- YLVA NILSSON: Nu skrattar alla åt oss européer - Expressen
 - Riksbankens dundermiss – därför är allt så dyrt - Aftonbladet
 - IF Metall och S kräver undantag för Northvolt-personal som riskerar att utvisas - Dagens Arbete
 - Rekord för höstvete lyfter årets spannmålsskörd - DN
@@ -58,18 +58,18 @@ _Updated: 2025-08-16 05:33_
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
+- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
-- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
 
@@ -102,20 +102,20 @@ _Updated: 2025-08-16 05:33_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Europeisk konferens för socialmedicin: Praktik, teori och handling för en hälsosammare framtid - Svenska Läkaresällskapet
 - Johan von Schreeb - Karolinska Institutet
-- Engineering Health 2024 - Chalmers tekniska högskola
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Health-ISAC Hacking Healthcare-blogg 1-19-2023 - Health-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Tema: AI inom medicin och hälsa - Karolinska Institutet
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- iCellate Medical startar prostatastudie tillsammans med Capio Urologcentrum Liljeholmen - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-08-16 05:33_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Jordbruk och landsbygdsutveckling - European Commission
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- De gick från reko till eko - ST-tidningen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Många lantbruk vill producera egen el - Tidningen Extrakt
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
