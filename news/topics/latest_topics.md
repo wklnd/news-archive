@@ -1,38 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-16 09:39_
+_Updated: 2025-08-16 10:46_
 
 ## Top Stories
 
-- Putin fick applåder, röd matta och mera tid –Trump fick kalla handen - Hufvudstadsbladet
 - Zelenskyj träffar Trump på måndag - GP
+- Putin fick applåder, röd matta och mera tid –Trump fick kalla handen - Hufvudstadsbladet
 - Hundratals döda i monsunregn i Pakistan och Indien - SVT Nyheter
+- Den som inte är intresserad av rymden – bör lyssna på detta - Aftonbladet
 - 16 augusti 07.00, Sammanfattning kväll och natt, Hallands län - polisen.se
-- Nyhetssammanfattning - 16 augusti 07:00 - Aftonbladet
-- Minst 60 inför rätta för stöd till Palestinagrupp - GP
+- Bajs, kondomer och bortglömda hundar – här är fynden på Skånetrafikens bussar - Sydsvenskan
 - Ung man sköts ihjäl vid moské - SVT Nyheter
 - Köttbrist i flera år framåt: ”Varit bortskämda” - DN
 - Larmet från fängelse i Malmö: Intagen styrde avdelning - DN
-- Landerholms advokat: ”Vi förnekar allt” - DN
-- Smotrich godkänner omstridd plan – delar palestinskt område – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Beslag: 939 kilo mammuttänder i resväskor - DN
+- Stort hemlighetsmakeri kring Landerholmrättegång - DN
+- Minst 16 döda – inklusive fem i väntan på hjälp – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Beslag: 939 kilo mammuttänder i resväskor - GP
+- Melania Trump i brev till Putin – om bortförda barn - Aftonbladet
 - Talibanledaren: Var tacksam, annars... - Aftonbladet
-- Melania Trump i brev till Putin – om bortförda barn - SvD
 - Flygkaos i Kanada – hundratals avgångar inställda - SVT Nyheter
-- Greta Schüldt: Ella Carlsson svär som i ”Battlestar Galactica” – respekt - DN
+- Tullarna Trump talade om – men aldrig införde - Dagens PS
 - Riksbankens dundermiss – därför är allt så dyrt - Aftonbladet
-- Årets spannmålsskörd kan börja fylla beredskapslagret - Food Supply SE
-- Rymddirektören: Ryssland skjuter ned satelliter - GP
-- Ölen allt dyrare – så har priserna förändrats - Östersunds-Posten
+- Här är Björklunds nya paradvåning - Expressen
+- Man i Eslöv bestulen på Rolexur värt 94 000 kronor - Skånska Dagbladet
+- Ölen allt dyrare – så har priserna förändras i stan - Östersunds-Posten
 
 ## World News
 
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
+- GLOBAL ANNOUNCES FALL 2025 PREMIERE DATES FEATURING THREE NEW SERIES AND MORE TOP 20 RETURNING HITS THAN ANY OTHER NETWORK - Placera.se
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -40,11 +40,11 @@ _Updated: 2025-08-16 09:39_
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- GLOBAL ANNOUNCES FALL 2025 PREMIERE DATES FEATURING THREE NEW SERIES AND MORE TOP 20 RETURNING HITS THAN ANY OTHER NETWORK - Placera.se
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Quest Diagnostics to Speak at the Baird 2025 Global Healthcare Conference - Placera.se
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Jollibee and Global Girl Group KATSEYE Ignite Partnership to Create Joyful New Connections with Their North American Fans - Placera.se
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Den hetaste nya trenden inom global utbildning - The Portugal News
 
@@ -58,15 +58,15 @@ _Updated: 2025-08-16 09:39_
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 - Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
@@ -120,45 +120,45 @@ _Updated: 2025-08-16 09:39_
 ## Science
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- E-infrastruktur för livsvetenskap får SSF-anslag - Uppsala universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
+- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
+- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- De gick från reko till eko - ST-tidningen
-- Små jordbruk kan mätta fler - FoodMonitor
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De gick från reko till eko - ST-tidningen
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Många lantbruk vill producera egen el - Tidningen Extrakt
+- Tuffa tider väntar för engelskt jordbruk - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Danmark kan bli först med klimatskatt på jordbruket - SVT Nyheter
