@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-16 05:59_
+_Updated: 2025-08-16 06:47_
 
 ## Top Stories
 
-- Trump om Putin-möte: ”Mycket produktivt” - Hufvudstadsbladet
+- Putin fick applåder, röd matta och mera tid –Trump fick kalla handen - Hufvudstadsbladet
 - DN Direkt - Flera skadade efter skottlossning vid moské i Örebro - DN.se - DN
-- Beslag: 939 kilo mammuttänder i resväskor - SvD
-- Micael Dahlen: Är du intelligent nog att läsa texten? | Micael Dahlen - SvD
+- Dricks har gått från tack till tiggeri - SvD
+- Promenadvänliga städer – en boost för hälsan - Västerbottens-Kuriren
+- Bästa vännerna driver Massimo: ”Tillsammans är vi oslagbara” - Smålandsposten
 - Minst 60 inför rätta för stöd till Palestinagrupp - GP
-- Minst 16 döda – inklusive fem i väntan på hjälp – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Köttbrist i flera år framåt: ”Varit bortskämda” - Corren
 - Landerholms advokat: ”Vi förnekar allt” - DN
 - Stockholmare måste spara på kranvattnet – akut läge - DN
-- Varnar för kraftig åska och omkullblåsta träd - DN
 - Journalister ångrar sig: ”Omdömeslöst av mig” - Omni
+- Beslag: 939 kilo mammuttänder i resväskor - DN
 - Putin: Hoppas på atomvapenavtal - Hufvudstadsbladet
 - Talibanledaren: Var tacksam, annars... - Aftonbladet
-- Tågolycka i Danmark – minst en har omkommit - Dagens industri
-- Elva dagars förhandlingar slutade i fiasko: Inget plastavtal - GP
+- Minst en död i tågolycka i Danmark - Aftonbladet
 - Riksbankens dundermiss – därför är allt så dyrt - Aftonbladet
 - IF Metall och S kräver undantag för Northvolt-personal som riskerar att utvisas - Dagens Arbete
 - Rekord för höstvete lyfter årets spannmålsskörd - DN
@@ -27,10 +27,9 @@ _Updated: 2025-08-16 05:59_
 
 ## World News
 
-- CME Group Opens Registration for 22nd Annual Global University Trading Challenge - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
@@ -41,12 +40,13 @@ _Updated: 2025-08-16 05:59_
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- GLOBAL ANNOUNCES FALL 2025 PREMIERE DATES FEATURING THREE NEW SERIES AND MORE TOP 20 RETURNING HITS THAN ANY OTHER NETWORK - Placera.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Quest Diagnostics to Speak at the Baird 2025 Global Healthcare Conference - Placera.se
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Jollibee and Global Girl Group KATSEYE Ignite Partnership to Create Joyful New Connections with Their North American Fans - Placera.se
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - Grön energi, global uppkoppling: Portugals försprång inom teknik - The Portugal News
-- Den hetaste nya trenden inom global utbildning - The Portugal News
 
 ## Technology
 
@@ -64,12 +64,12 @@ _Updated: 2025-08-16 05:59_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - AI in the Steel Industry - Peggy Smedley Show - Poddtoppen
-- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
-- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
 
 ## Business
 
@@ -120,45 +120,45 @@ _Updated: 2025-08-16 05:59_
 ## Science
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- E-infrastruktur för livsvetenskap får SSF-anslag - Uppsala universitet
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
-- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
-- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Jordbruk och landsbygdsutveckling - European Commission
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- De gick från reko till eko - ST-tidningen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Många lantbruk vill producera egen el - Tidningen Extrakt
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
