@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-17 13:38_
+_Updated: 2025-08-17 15:05_
 
 ## Top Stories
 
-- Politico: Stubb till Washington med Zelenskyj - Hufvudstadsbladet
-- 25 personer frihetsberövade under protesterna – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Demonstranter attackerar regerande partiets kontor i Serbien - SVT Nyheter
-- Storbråk i Göteborg – tjugotal inblandade - Omni
-- En till sjukhus efter fyrhjulingsolycka - GP
+- Flera europeiska ledare deltar på mötet mellan Trump och Zelenskyj - DN
+- Stora protester i Israel – vägar blockerade - Västerbottens-Kuriren
+- Alex fick bröstcancerdiagnos två år sent – drabbades av sepsis - Aftonbladet
+- Fallskärmsförbundet: ”Tankarna går till de närmast anhöriga” - GP
+- En till sjukhus efter fyrhjulingsolycka - SVT Nyheter
 - Få har hittat stadens nya cykelboxar - GP
-- Ökat beslag av illegal Ozempic: ”Knyts till samma nätverk som säljer droger” - DN
-- Hur har du använt AI i sommar? - Computer Sweden
+- De får flest böter för hög musik – värsting i topp - DN
+- Ung man svårt brännskadad efter krasch med epa-traktor utanför Borlänge - SVT Nyheter
 - Insats med helikopter - söker försvunnen person - VLT
-- Mindre barn påkört av bil utanför Nyköping – förd till sjukhus - SVT Nyheter
+- Tågtrafiken igång mellan Malmö och Göteborg - Omni
+- DN Direkt - Tre döda i skjutning i New York - DN.se - DN
 - Ex-IDF-topp: Döda 50 palestinier per dödad israel - DN
-- Melanias ord till Putin om kidnappade barnen - Expressen
-- Glömda hemliga papper avslöjar detaljer från mötet - Expressen
-- Ryssland: Har intagit fler ukrainska byar - Aftonbladet
-- Dyrare sommarnöjen stoppar räntesänkning - SvD
+- Finansmannen Sten Dybeck är död - Dagens industri
+- LEDARE: Vi måste öka trycket på Putin – och Trump - Hufvudstadsbladet
 - Bojkotten: Så mycket backar amerikanskt vin - Dagens PS
 - Kan planet störta om jag använder mobilen ombord? - Expressen
 - Trump ser låg ränta som en belöning - SvD
+- Dyrare sommarnöjen stoppar räntesänkning - Tidningen Näringslivet
 - Kattpiss, metall och marsipan – så luktar rymden - SvD
-- 36 miljarder gånger massivare än solen: Häpnadsväckande objekt i rymden spränger skalan - Illustrerad Vetenskap
+- Snö och kyla tyckas komma till The Division 2 - FZ.se
 
 ## World News
 
@@ -143,22 +143,22 @@ _Updated: 2025-08-17 13:38_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Jordbruk och landsbygdsutveckling - European Commission
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- De gick från reko till eko - ST-tidningen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Många lantbruk vill producera egen el - Tidningen Extrakt
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
