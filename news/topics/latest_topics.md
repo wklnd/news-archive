@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-17 20:49_
+_Updated: 2025-08-17 21:38_
 
 ## Top Stories
 
-- Mardrömsminuter för Hammarby – tappade i guldstriden - DN
-- Zelenskyj träffar Trump på måndag – säkerhetsgarantier på agendan - SVT Nyheter
+- Tre ödesfrågor på bordet när Zelenskyj och Stubb åker till USA - Hufvudstadsbladet
 - Tröstar varandra på flygfältet i Strömstad efter dödsolyckan: ”Fortfarande chockade” - GP
 - Must: Landerholms handlingar kan skada landets försvar om de röjs - DN
-- Expert: Smicker kan hjälpa Zelenskyj mot Trump - DN
-- DN Direkt - Omfattande skogsbränder i Spanien - DN.se - DN
-- Värmland i topp på bötesligan för personer som spelar för hög musik: ”En kultur” - NWT
+- Dömde Coop-hackaren: Ryska staten bakom attacken - DN
+- DN Direkt - Skådespelaren Terence Stamp död - DN.se - DN
+- De fruktar ny rysk elitgrupp: ”Jagar oss” - svd.se
 - Rockbandets dödskrasch – fortfarande ett mysterium - Västerbottens-Kuriren
+- Kvinna förd till sjukhus efter dykolycka i Limhamn - SVT Nyheter
 - Ministrar med bankaktier beslutade om bankskatt – anmälde inte jäv - SVT Nyheter
 - Barn påkört i Nyköping – dog på sjukhus - Corren
 - Stora protester i Israel – vägar blockerade - GP
-- Kristersson deltar på europeiskt toppmöte - Aftonbladet
-- Von der Leyen: EU står enat bakom Ukraina - GP
-- Tre döda i skjutning på nattklubb i New York - HD
-- EU vill använda svenska sparandet som förebild - svd.se
+- Tre döda i skjutning i New York - Aftonbladet
+- Expert: Smicker kan hjälpa Zelenskyj mot Trump - DN
+- USA: Putin går med på ”robusta” säkerhetsgarantier - DN
 - Ny studie: Chatbottar får oss att dela tolv gånger mer personlig data - Dagens PS
-- ”Bäst att det är annorlunda” – strateg ser bubbelvibbar på börsen - Dagens PS
+- EU vill använda svenska sparandet som förebild - svd.se
+- De får flest böter för hög musik – värsting i topp - DN
 - Svenska bolaget som hjälper Europa i slaget om rymden - EFN
 - Femhundra ton utrustning ska till Mars: Så förbereder vi oss inför bemannade expeditioner - Illustrerad Vetenskap
 - Snö och kyla tyckas komma till The Division 2 - FZ.se
@@ -109,13 +109,13 @@ _Updated: 2025-08-17 20:49_
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Tema: AI inom medicin och hälsa - Karolinska Institutet
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
@@ -152,9 +152,9 @@ _Updated: 2025-08-17 20:49_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
