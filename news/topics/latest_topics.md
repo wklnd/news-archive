@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-17 15:44_
+_Updated: 2025-08-17 16:42_
 
 ## Top Stories
 
-- Flera europeiska ledare deltar på mötet mellan Trump och Zelenskyj - DN
-- Stora protester i Israel mot kriget - Hufvudstadsbladet
+- Politico: Stubb till Washington med Zelenskyj - Hufvudstadsbladet
+- DN Direkt - Rubio: ”Ukraina måste få säkerhetsgarantier” - DN.se - DN
 - Alex fick bröstcancerdiagnos två år sent – drabbades av sepsis - Aftonbladet
 - En till sjukhus efter fyrhjulingsolycka - SVT Nyheter
-- Johanna sa upp sig som lärare – för drömmen på landsbygden - GP
+- Fanny från Växjö reste Europa runt – i jakt på bästa vården: ”Lösningen är egentligen enkel” - Smålandsposten
 - Få har hittat stadens nya cykelboxar - GP
 - Fallskärmsförbundet: ”Tankarna går till de närmast anhöriga” - GP
-- De får flest böter för hög musik – värsting i topp - DN
+- DN Direkt - Barn påkört i Nyköping – hämtad med helikopter - DN.se - DN
 - Ung man svårt brännskadad efter krasch med epa-traktor utanför Borlänge - SVT Nyheter
-- Insats med helikopter - söker försvunnen person - VLT
+- Insats med helikopter – söker försvunnen person - VLT
+- Stora protester i Israel mot kriget - Hufvudstadsbladet
 - DN Direkt - Tre döda i skjutning i New York - DN.se - DN
 - Ex-IDF-topp: Döda 50 palestinier per dödad israel - GP
-- Finansmannen Sten Dybeck är död - Dagens industri
-- LEDARE: Vi måste öka trycket på Putin – och Trump - Hufvudstadsbladet
+- Von der Leyen: EU står enat bakom Ukraina - Västerbottens-Kuriren
+- ”Bäst att det är annorlunda” – strateg ser bubbelvibbar på börsen - Dagens PS
 - Dyrare sommarnöjen stoppar räntesänkning - SvD
+- Ny studie: Chatbottar får oss att dela tolv gånger mer personlig data - Dagens PS
 - Bojkotten: Så mycket backar amerikanskt vin - Dagens PS
-- Kan planet störta om jag använder mobilen ombord? - Expressen
-- Trump ser låg ränta som en belöning - SvD
 - Kattpiss, metall och marsipan – så luktar rymden - SvD
 - Snö och kyla tyckas komma till The Division 2 - FZ.se
 
 ## World News
 
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- How RFK Jr is eroding global trust in vaccines - Poddtoppen
+- Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- REMAX Sells Master Franchise Rights in Malaysia, Expanding the Global Brand's Presence in Southeast Asia - Placera.se
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Liberty International i Stockholm växer - travelnews.se
-- CME Group Opens Registration for 22nd Annual Global University Trading Challenge - Placera.se
-- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Jollibee and Global Girl Group KATSEYE Ignite Partnership to Create Joyful New Connections with Their North American Fans - Placera.se
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Den hetaste nya trenden inom global utbildning - The Portugal News
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
-- Portugal öppet för global miljardärsskatt - The Portugal News
+- Portugalidade - En ny global studie - The Portugal News
 
 ## Technology
 
@@ -143,22 +143,22 @@ _Updated: 2025-08-17 15:44_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Jordbruk och landsbygdsutveckling - European Commission
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- Danmark kan bli först med klimatskatt på jordbruket - SVT Nyheter
-- Tio jordbruksaktier för depån - Placera.se
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- De gick från reko till eko - ST-tidningen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Stor nyhet för matglada katter - Mynewsdesk
+- Många lantbruk vill producera egen el - Tidningen Extrakt
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk
