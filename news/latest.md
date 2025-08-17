@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-18 00:50_
+_Updated: 2025-08-18 01:49_
 
 - Zelensky Brings Backup to the White House as Trump Aligns More Closely With Putin - The New York Times
-- Hurricane Erin tracker: 1st hurricane of Atlantic season weakens to Category 3 - ABC News
+- State of Emergency Issued for Dare County - Mandatory Evacuation Issued for Hatteras Island - Dare County, NC (.gov)
 - News Analysis: Newsom’s decision to fight fire with fire could have profound political consequences - Los Angeles Times
-- Three Republican-led states to send National Guard troops to DC - BBC
+- Rubio Desperately Tries to Spin Trump’s Putin Flop - Rolling Stone
+- National Guard says members patrolling D.C. 'may be armed' - NPR
 - Israeli plan to displace 1 million Palestinians spreads fear in Gaza - The Guardian
-- Washington's hydropower has created a data center boom. Some are concerned about its future. - NPR
-- Multiple shooters wanted after 3 killed, 9 wounded at Brooklyn lounge, NYPD says - CBS News
-- After meeting Putin, Trump changes his position on the need for a ceasefire - NPR
+- 3 dead, 9 wounded in shooting at Taste of the City in Crown Heights; Eric Adams says NYC will 'mobilize mass shooting plan' - ABC7 New York
 - Texas Democrats who fled the state to block GOP redistricting push begin returning - CBS News
+- Zelenskyy hails US security vow — but rules out sacrificing uncaptured land - politico.eu
 - US suspends visitor visas for Gazans - CNN
-- Air Canada suspends restart plans after flight attendants union defies return to work order - KTLA
-- Israelis protest to end Gaza war as anger over fate of captives boils over - Al Jazeera
+- Air Canada delays plans to resume operations after flight attendants refuse to end strike - CBS News
+- Israel's growing frustration over the war in Gaza explodes in nationwide protests - CNBC
 - U.S. tourist attacked by a shark while spearfishing in the Bahamas - CBS News
 - Bolivia votes as support for left wanes and inflation is top of mind - Reuters
-- This CEO laid off nearly 80% of his staff because they refused to adopt AI fast enough. 2 years later, he says he'd do it again - Fortune
-- Duolingo CEO says controversial AI memo was misunderstood - TechCrunch
-- 2 Americans drown in a 3-hour span at same Bahamas resort: Police - ABC News
+- Fed Chair Jerome Powell may seriously disappoint Wall Street at Jackson Hole - Fortune
+- This CEO laid off nearly 80% of his staff because they refused to adopt AI fast enough. 2 years later, he says he’d do it again - Yahoo Finance
+- $800 for a Credit Card? Why Your Premium Cards Will Cost More. - The New York Times
 - Inflation alarm bells went off again and prices are rising. Just how bad is it going to get? - MarketWatch
 - Meta To Reportedly Sell HUD Glasses With EMG Wristband For $800 - UploadVR
-- You will not be able to buy the base iPhone 18 model next year - PhoneArena
+- Duolingo CEO says controversial AI memo was misunderstood - TechCrunch
