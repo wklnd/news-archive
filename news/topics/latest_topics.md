@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-17 01:39_
+_Updated: 2025-08-17 04:33_
 
 ## Top Stories
 
-- Michael Winiarski: I Putins och Trumps värld råder den starkes rätt - DN
-- Fallskärmsförbundet: ”Tankarna går till de närmast anhöriga” - GP
-- Källor: Förslag om säkerhetsgaranti för Ukraina - SvD
-- Kvinna klippte gräset – blev misshandlad - Ystads Allehanda
-- Twittrar som Trump – och hånar presidenten - SvD
-- Beskedet: Kan bli en kylig avslutning på sommaren - Aftonbladet
+- Singelolycka i Lidköping – tre inblandade - SVT Nyheter
+- Två personer döda i fallskärmsolycka - SvD
+- Putins besök provocerade Alaskabor: ”Står upp för Ukraina” - DN
+- Serbien: Partilokaler sattes i brand - gp.se
+- IDF tar steg mot offensiv i Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Glömde Trumps hemliga papper – nya detaljerna - Expressen
 - Polisens teori: Mordet utanför moskén – hämnd för tidigare dubbelmord - DN
-- Ung man död efter motorcykelolycka utanför Laholm - SVT Nyheter
+- Beskedet: Kan bli en kylig avslutning på sommaren - Aftonbladet
 - Tidigare biskopen Caroline Krook död - DN
 - 16 augusti 12.58, Mord/dråp, försök, Laxå - polisen.se
 - Fortsatt kraftiga bränder i västra Spanien - Västerbottens-Kuriren
-- Gurkbrist i Norge – kopplas till Tiktok-trend - Hufvudstadsbladet
-- Ryssland: Har intagit fler ukrainska byar - GP
-- Glömde Trumps hemliga papper – nya detaljerna - Expressen
-- Kanadas regering tvingar flygvärdinnor till jobbet - GP
-- Tufft för studenter: ”Lätt att bli lurad” - SvD
+- 30-tal döda i olyckor i Senegal - gp.se
+- Washington stämmer Vita huset för polisövertagande - Västerbottens-Kuriren
+- Teorin: Därför är det gurkbrist i Norge - UNT
+- Kanadas regering tvingar flygvärdinnor till jobbet - gp.se
 - Analys: Trump bytte kurs – bländad av Putins smicker - Omni
-- IF Metall och S kräver undantag för Northvolt-personal som riskerar att utvisas - Dagens Arbete
-- Brand i ladugård utanför Nyköping - Expressen
+- Jessica hoppas på ny chans med Lyten - Västerbottningen
+- Kräver lägre skatter för att ”få fart på Sverige” - DN
+- Peta: Ta bort näsringen på kon i Mario kart - Expressen
 - Google börjar testa nya "visitkort" i sin telefon-app - m3.se
 
 ## World News
 
-- CME Group Opens Registration for 22nd Annual Global University Trading Challenge - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
+- GLOBAL ANNOUNCES FALL 2025 PREMIERE DATES FEATURING THREE NEW SERIES AND MORE TOP 20 RETURNING HITS THAN ANY OTHER NETWORK - Placera.se
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Jollibee and Global Girl Group KATSEYE Ignite Partnership to Create Joyful New Connections with Their North American Fans - Placera.se
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
-- Den hetaste nya trenden inom global utbildning - The Portugal News
+- Portugalidade - En ny global studie - The Portugal News
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 
 ## Technology
 
@@ -77,22 +77,22 @@ _Updated: 2025-08-17 01:39_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Accord Announces Banking Facility Update - Placera.se
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - Accord Announces Amendment to its Banking Facility - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- REPAY Appoints New Chief Financial Officer - Placera.se
+- Accord Announces Second Quarter Financial Results - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
+- ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- AirNet has named Vikram Seth as its new Chief Investment Officer to lead the company's expansion into Web3 and cryptocurrency - Placera.se
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Freedom Holding Corp. Reports First Quarter Fiscal Year 2026 Financial Results - Placera.se
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- ALT5 Sigma Corporation Announces Closing of $1.5 Billion Registered Direct Offering and Concurrent Private Placement to Initiate World Liberty Financial $WLFI Treasury Strategy - Placera.se
 
 ## Health
 
@@ -120,45 +120,45 @@ _Updated: 2025-08-17 01:39_
 ## Science
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
-- Program för Proof of Concept-finansiering stärker innovationer inom life science | SciLifeLab - Mynewsdesk
-- E-infrastruktur för livsvetenskap får SSF-anslag - Uppsala universitet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Jordbruk och landsbygdsutveckling - European Commission
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
-- Små jordbruk kan mätta fler - FoodMonitor
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
