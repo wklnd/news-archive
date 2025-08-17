@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-17 15:05_
+_Updated: 2025-08-17 15:44_
 
 ## Top Stories
 
 - Flera europeiska ledare deltar på mötet mellan Trump och Zelenskyj - DN
-- Stora protester i Israel – vägar blockerade - Västerbottens-Kuriren
+- Stora protester i Israel mot kriget - Hufvudstadsbladet
 - Alex fick bröstcancerdiagnos två år sent – drabbades av sepsis - Aftonbladet
-- Fallskärmsförbundet: ”Tankarna går till de närmast anhöriga” - GP
 - En till sjukhus efter fyrhjulingsolycka - SVT Nyheter
+- Johanna sa upp sig som lärare – för drömmen på landsbygden - GP
 - Få har hittat stadens nya cykelboxar - GP
+- Fallskärmsförbundet: ”Tankarna går till de närmast anhöriga” - GP
 - De får flest böter för hög musik – värsting i topp - DN
 - Ung man svårt brännskadad efter krasch med epa-traktor utanför Borlänge - SVT Nyheter
 - Insats med helikopter - söker försvunnen person - VLT
-- Tågtrafiken igång mellan Malmö och Göteborg - Omni
 - DN Direkt - Tre döda i skjutning i New York - DN.se - DN
-- Ex-IDF-topp: Döda 50 palestinier per dödad israel - DN
+- Ex-IDF-topp: Döda 50 palestinier per dödad israel - GP
 - Finansmannen Sten Dybeck är död - Dagens industri
 - LEDARE: Vi måste öka trycket på Putin – och Trump - Hufvudstadsbladet
+- Dyrare sommarnöjen stoppar räntesänkning - SvD
 - Bojkotten: Så mycket backar amerikanskt vin - Dagens PS
 - Kan planet störta om jag använder mobilen ombord? - Expressen
 - Trump ser låg ränta som en belöning - SvD
-- Dyrare sommarnöjen stoppar räntesänkning - Tidningen Näringslivet
 - Kattpiss, metall och marsipan – så luktar rymden - SvD
 - Snö och kyla tyckas komma till The Division 2 - FZ.se
 
@@ -34,7 +34,7 @@ _Updated: 2025-08-17 15:05_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
@@ -75,24 +75,24 @@ _Updated: 2025-08-17 15:05_
 
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Accord Announces Banking Facility Update - Placera.se
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- New Mountain Finance Corporation Announces Financial Results for the Quarter Ended June 30, 2025 - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Accord Announces Amendment to its Banking Facility - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Accord Announces Second Quarter Financial Results - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- REPAY Appoints New Chief Financial Officer - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
 
@@ -129,6 +129,7 @@ _Updated: 2025-08-17 15:05_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
@@ -137,28 +138,27 @@ _Updated: 2025-08-17 15:05_
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 - Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
-- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- Danmark kan bli först med klimatskatt på jordbruket - SVT Nyheter
+- Tio jordbruksaktier för depån - Placera.se
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Stor nyhet för matglada katter - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
