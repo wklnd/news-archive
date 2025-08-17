@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-17 21:38_
+_Updated: 2025-08-17 22:42_
 
 ## Top Stories
 
-- Tre ödesfrågor på bordet när Zelenskyj och Stubb åker till USA - Hufvudstadsbladet
+- Zelenskyj träffar Trump på måndag – säkerhetsgarantier på agendan - SVT Nyheter
 - Tröstar varandra på flygfältet i Strömstad efter dödsolyckan: ”Fortfarande chockade” - GP
-- Must: Landerholms handlingar kan skada landets försvar om de röjs - DN
+- Kvinna förd till sjukhus efter dykolycka på Limhamn - SVT Nyheter
 - Dömde Coop-hackaren: Ryska staten bakom attacken - DN
-- DN Direkt - Skådespelaren Terence Stamp död - DN.se - DN
-- De fruktar ny rysk elitgrupp: ”Jagar oss” - svd.se
+- De fruktar ny rysk elitgrupp: ”Jagar oss” - SvD
+- Ny våg av protester i Serbien – partilokal i brand - DN
+- Must: Landerholms handlingar kan skada landets försvar om de röjs - DN
 - Rockbandets dödskrasch – fortfarande ett mysterium - Västerbottens-Kuriren
-- Kvinna förd till sjukhus efter dykolycka i Limhamn - SVT Nyheter
+- Region Bergslagen med Värmland toppar bötesligan för hög musik – igen: ”En kultur” - NWT
 - Ministrar med bankaktier beslutade om bankskatt – anmälde inte jäv - SVT Nyheter
-- Barn påkört i Nyköping – dog på sjukhus - Corren
 - Stora protester i Israel – vägar blockerade - GP
+- Rubio: Både Moskva och Kyiv måste kompromissa - Omni
+- LEDARE: Vi måste öka trycket på Putin – och Trump - Hufvudstadsbladet
 - Tre döda i skjutning i New York - Aftonbladet
-- Expert: Smicker kan hjälpa Zelenskyj mot Trump - DN
-- USA: Putin går med på ”robusta” säkerhetsgarantier - DN
 - Ny studie: Chatbottar får oss att dela tolv gånger mer personlig data - Dagens PS
-- EU vill använda svenska sparandet som förebild - svd.se
-- De får flest böter för hög musik – värsting i topp - DN
+- EU sneglar på Sverige – vill skapa investeringsunion - Omni
 - Svenska bolaget som hjälper Europa i slaget om rymden - EFN
+- Kanadas regering tvingar flygvärdinnor till jobbet - GP
 - Femhundra ton utrustning ska till Mars: Så förbereder vi oss inför bemannade expeditioner - Illustrerad Vetenskap
 - Snö och kyla tyckas komma till The Division 2 - FZ.se
 
@@ -62,9 +62,9 @@ _Updated: 2025-08-17 21:38_
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
@@ -134,11 +134,11 @@ _Updated: 2025-08-17 21:38_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 - Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
-- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
