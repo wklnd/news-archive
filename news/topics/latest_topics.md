@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-17 19:41_
+_Updated: 2025-08-17 20:49_
 
 ## Top Stories
 
-- Gais gick segrande ur toppstriden mot Hammarby - Omni
+- Mardrömsminuter för Hammarby – tappade i guldstriden - DN
+- Zelenskyj träffar Trump på måndag – säkerhetsgarantier på agendan - SVT Nyheter
 - Tröstar varandra på flygfältet i Strömstad efter dödsolyckan: ”Fortfarande chockade” - GP
 - Must: Landerholms handlingar kan skada landets försvar om de röjs - DN
-- DN Direkt - Skådespelaren Terence Stamp död - DN.se - DN
-- Tre ödesfrågor på bordet när Zelenskyj och Stubb åker till USA - Hufvudstadsbladet
-- Dömde Coop-hackaren: Ryska staten bakom attacken - DN
-- Region Bergslagen med Värmland toppar bötesligan för hög musik – igen: ”En kultur” - NWT
+- Expert: Smicker kan hjälpa Zelenskyj mot Trump - DN
+- DN Direkt - Omfattande skogsbränder i Spanien - DN.se - DN
+- Värmland i topp på bötesligan för personer som spelar för hög musik: ”En kultur” - NWT
 - Rockbandets dödskrasch – fortfarande ett mysterium - Västerbottens-Kuriren
-- Ung man svårt brännskadad efter krasch med epa-traktor utanför Borlänge - SVT Nyheter
-- Misstänkt föremål i skogen – polis på plats - UNT
-- IDF-chef: Vi inleder nästa fas i Gaza stad snart – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- USA: Putin går med på ”robusta” säkerhetsgarantier - DN
-- Tre döda i skjutning i New York - Aftonbladet
-- LEDARE: Vi måste öka trycket på Putin – och Trump - Hufvudstadsbladet
+- Ministrar med bankaktier beslutade om bankskatt – anmälde inte jäv - SVT Nyheter
+- Barn påkört i Nyköping – dog på sjukhus - Corren
+- Stora protester i Israel – vägar blockerade - GP
+- Kristersson deltar på europeiskt toppmöte - Aftonbladet
+- Von der Leyen: EU står enat bakom Ukraina - GP
+- Tre döda i skjutning på nattklubb i New York - HD
 - EU vill använda svenska sparandet som förebild - svd.se
+- Ny studie: Chatbottar får oss att dela tolv gånger mer personlig data - Dagens PS
 - ”Bäst att det är annorlunda” – strateg ser bubbelvibbar på börsen - Dagens PS
-- Dyrare sommarnöjen stoppar räntesänkning - Tidningen Näringslivet
-- Bojkotten: Så mycket backar amerikanskt vin - Dagens PS
-- Udda detaljen vid dammen: ”Det är nog bara här” - Norran
+- Svenska bolaget som hjälper Europa i slaget om rymden - EFN
+- Femhundra ton utrustning ska till Mars: Så förbereder vi oss inför bemannade expeditioner - Illustrerad Vetenskap
 - Snö och kyla tyckas komma till The Division 2 - FZ.se
 
 ## World News
@@ -38,13 +38,13 @@ _Updated: 2025-08-17 19:41_
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- BIG Travel går in i globalt partnerskap - travelnews.se
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
+- BIG Travel går in i globalt partnerskap - travelnews.se
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- CME Group Opens Registration for 22nd Annual Global University Trading Challenge - Placera.se
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Jollibee and Global Girl Group KATSEYE Ignite Partnership to Create Joyful New Connections with Their North American Fans - Placera.se
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Den hetaste nya trenden inom global utbildning - The Portugal News
 
