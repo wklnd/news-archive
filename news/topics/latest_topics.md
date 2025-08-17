@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-17 05:43_
+_Updated: 2025-08-17 06:52_
 
 ## Top Stories
 
-- Singelolycka i Lidköping – tre inblandade - SVT Nyheter
-- Serbien: Partilokaler sattes i brand - gp.se
-- Michael Winiarski: I Putins och Trumps värld råder den starkes rätt - DN
 - Två personer döda i fallskärmsolycka - SvD
-- Källa: Trump föreslog en säkerhetsgaranti likt Natos - Omni
-- IDF tar steg mot offensiv i Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Singelolycka i Lidköping – tre inblandade - SVT Nyheter
+- Olskroken – otryggt eller mysigt pittoreskt? - GP
+- 30-tal döda i olyckor i Senegal - GP
+- DN Direkt - Serbien: Partilokaler sattes i brand - DN.se - DN
+- Michael Winiarski: I Putins och Trumps värld råder den starkes rätt - DN
 - Polisens teori: Mordet utanför moskén – hämnd för tidigare dubbelmord - DN
-- En död efter mc-olycka i Laholm - gp.se
-- 16 augusti 12.02, Trafikkontroll, Norrbottens län - polisen.se
-- Textilinsamlingarna försvinner – för mycket kläder lämnades in - gp.se
-- 30-tal döda i olyckor i Senegal - Västerbottens-Kuriren
-- Fortsatt kraftiga bränder i västra Spanien - gp.se
-- Washington stämmer Vita huset för polisövertagande - Västerbottens-Kuriren
-- Inget avtal – Putin: Vi ses i Moskva - Expressen
-- Kanadas regering tvingar flygvärdinnor till jobbet - gp.se
+- Ökat beslag av illegal Ozempic: ”Knyts till samma nätverk som säljer droger” - DN
+- Ung man död efter motorcykelolycka utanför Laholm - SVT Nyheter
+- Kvinna klippte gräset – blev misshandlad - Ystads Allehanda
+- Anhörigas strejk igång i Israel – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Polisen i Washington DC får behålla sin egen chef - Yle
+- Fortsatt kraftiga bränder i västra Spanien - Västerbottens-Kuriren
+- LEDARE: Vi måste öka trycket på Putin – och Trump - Hufvudstadsbladet
+- Kanadas regering tvingar flygvärdinnor till jobbet - GP
 - Analys: Trump bytte kurs – bländad av Putins smicker - Omni
 - Jessica hoppas på ny chans med Lyten - Västerbottningen
 - Kräver lägre skatter för att ”få fart på Sverige” - DN
 - Peta: Ta bort näsringen på kon i Mario kart - Expressen
-- Historien får vingar: Pelle bygger en störtbombare - Östersunds-Posten
+- Kattpiss, metall och marsipan – så luktar rymden - SvD
 
 ## World News
 
@@ -54,22 +54,22 @@ _Updated: 2025-08-17 05:43_
 - Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
 - Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Lantern Pharma Announces Public Release of Transformative, Advanced AI Module for Blood-Brain Barrier Permeability Prediction, predictBBB.ai - Placera.se
 - Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
+- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
 
 ## Business
 
@@ -126,9 +126,10 @@ _Updated: 2025-08-17 05:43_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
@@ -138,7 +139,6 @@ _Updated: 2025-08-17 05:43_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
