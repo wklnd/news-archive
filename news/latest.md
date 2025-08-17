@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-17 23:48_
+_Updated: 2025-08-18 00:50_
 
 - Zelensky Brings Backup to the White House as Trump Aligns More Closely With Putin - The New York Times
-- Erin downgraded to Category 3 hurricane, NHC says - Reuters
-- Ukraine won’t give up territory Russia hasn’t captured, Zelenskyy says - politico.eu
-- Rubio says Russia-Ukraine ceasefire possible, but not close - Politico
+- Hurricane Erin tracker: 1st hurricane of Atlantic season weakens to Category 3 - ABC News
 - News Analysis: Newsom’s decision to fight fire with fire could have profound political consequences - Los Angeles Times
+- Three Republican-led states to send National Guard troops to DC - BBC
 - Israeli plan to displace 1 million Palestinians spreads fear in Gaza - The Guardian
-- Mass shooting Brooklyn: 12 shot, 3 fatally, in Crown Heights shooting at Taste of the City at 903 Franklin Avenue, police say - ABC7 Chicago
+- Washington's hydropower has created a data center boom. Some are concerned about its future. - NPR
+- Multiple shooters wanted after 3 killed, 9 wounded at Brooklyn lounge, NYPD says - CBS News
+- After meeting Putin, Trump changes his position on the need for a ceasefire - NPR
 - Texas Democrats who fled the state to block GOP redistricting push begin returning - CBS News
-- Pence Welcomes Trump’s D.C. Deployment of the National Guard - The New York Times
 - US suspends visitor visas for Gazans - CNN
-- Air Canada delays plans to resume operations after flight attendants refuse to end strike - CBS News
-- Israel's growing frustration over the war in Gaza explodes in nationwide protests - CNBC
-- Flash floods devastate Buner, Pakistan after rare cloudburst kills hundreds - Reuters
-- Thousands of firefighters battle blazes in Spain and Portugal - Euronews.com
-- $800 for a Credit Card? Why Your Premium Cards Will Cost More. - The New York Times
+- Air Canada suspends restart plans after flight attendants union defies return to work order - KTLA
+- Israelis protest to end Gaza war as anger over fate of captives boils over - Al Jazeera
+- U.S. tourist attacked by a shark while spearfishing in the Bahamas - CBS News
+- Bolivia votes as support for left wanes and inflation is top of mind - Reuters
 - This CEO laid off nearly 80% of his staff because they refused to adopt AI fast enough. 2 years later, he says he'd do it again - Fortune
-- 2 Americans drown in a 3-hour span at same Bahamas resort: Police - ABC News
 - Duolingo CEO says controversial AI memo was misunderstood - TechCrunch
+- 2 Americans drown in a 3-hour span at same Bahamas resort: Police - ABC News
+- Inflation alarm bells went off again and prices are rising. Just how bad is it going to get? - MarketWatch
 - Meta To Reportedly Sell HUD Glasses With EMG Wristband For $800 - UploadVR
-- Apple Reportedly Planning A Shake-Up With Its iPhone 18 Launch, With New Details Claiming That The Base Model Will Be Phased Out, As A Foldable Model And Low-Cost Entrant Make Their Way To The Lineup - Wccftech
+- You will not be able to buy the base iPhone 18 model next year - PhoneArena
