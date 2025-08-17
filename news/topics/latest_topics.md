@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-17 11:41_
+_Updated: 2025-08-17 12:43_
 
 ## Top Stories
 
+- Mindre barn påkört av bil utanför Nyköping – förd till sjukhus - SVT Nyheter
 - Michael Winiarski: I Putins och Trumps värld råder den starkes rätt - DN
-- 17 augusti 07.48, Sammanfattning natt, Örebro län - polisen.se
-- Stopp i tågtrafiken – nattåg fast i timmar - Västerbottens-Kuriren
-- De får flest böter för hög musik - värsting i topp - GP
-- Storbråk i Göteborg – tjugotal inblandade - Omni
-- DN Direkt - En till sjukhus efter fyrhjulingsolycka - DN.se - DN
+- Ny våg av protester i Serbien – partilokal i brand - DN
+- En till sjukhus efter fyrhjulingsolycka - GP
+- Få har hittat stadens nya cykelboxar - GP
+- Högereliten i Jerusalem förnekar svälten i Gaza medan nödhjälpen vid gränsen förfars - DN
 - Ökat beslag av illegal Ozempic: ”Knyts till samma nätverk som säljer droger” - DN
+- Värmland i topp på bötesligan för personer som spelar för hög musik: ”En kultur” - NWT
 - Invasiva grodor och stenmårdar bekämpas med krypskyttar och luftgevär - DN
 - Hur har du använt AI i sommar? - Computer Sweden
-- Ung man svårt brännskadad efter krasch med epa-traktor utanför Borlänge - SVT Nyheter
-- Partilokaler i Serbien sattes i brand - SVT Nyheter
 - Minst sju döda i attack vid sjukhus - SVT Nyheter
-- Berusad person slog personal på pizzeria - Expressen
-- Melania Trumps ord till Putin: ”Det är dags” - Aftonbladet
+- Högern ligger bäst till när Bolivia går till val - DN
+- Melanias ord till Putin om kidnappade barnen - Expressen
+- Ryssland: Har intagit fler ukrainska byar - Aftonbladet
 - Dyrare sommarnöjen stoppar räntesänkning - SvD
-- Fortsatt inställda flyg trots regeringens krav - Aftonbladet
 - Kan planet störta om jag använder mobilen ombord? - Expressen
+- Fortsatt inställda flyg trots regeringens krav - Aftonbladet
 - Trump ser låg ränta som en belöning - SvD
 - 36 miljarder gånger massivare än solen: Häpnadsväckande objekt i rymden spränger skalan - Illustrerad Vetenskap
 - Kattpiss, metall och marsipan – så luktar rymden - SvD
 
 ## World News
 
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- How RFK Jr is eroding global trust in vaccines - Poddtoppen
-- Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- GLOBAL ANNOUNCES FALL 2025 PREMIERE DATES FEATURING THREE NEW SERIES AND MORE TOP 20 RETURNING HITS THAN ANY OTHER NETWORK - Placera.se
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- REMAX Sells Master Franchise Rights in Malaysia, Expanding the Global Brand's Presence in Southeast Asia - Placera.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Jollibee and Global Girl Group KATSEYE Ignite Partnership to Create Joyful New Connections with Their North American Fans - Placera.se
+- Liberty International i Stockholm växer - travelnews.se
+- CME Group Opens Registration for 22nd Annual Global University Trading Challenge - Placera.se
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- Jollibee and Global Girl Group KATSEYE Ignite Partnership to Create Joyful New Connections with Their North American Fans - Placera.se
 - Den hetaste nya trenden inom global utbildning - The Portugal News
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- Portugal öppet för global miljardärsskatt - The Portugal News
 
 ## Technology
 
@@ -120,25 +120,25 @@ _Updated: 2025-08-17 11:41_
 ## Science
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
-- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 
 ## Jordbruk
 
