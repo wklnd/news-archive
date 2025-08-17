@@ -1,24 +1,24 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-17 17:40_
+_Updated: 2025-08-17 18:47_
 
 ## Top Stories
 
-- Witkoff: Överens om säkerhetsgarantier - Expressen
-- Alex fick bröstcancerdiagnos två år sent – drabbades av sepsis - Aftonbladet
-- DN Direkt - Omfattande skogsbränder i Spanien - DN.se - DN
-- Politico: Stubb till Washington med Zelenskyj - Hufvudstadsbladet
-- Drunkningslarm i Limhamn i Malmö – dykare till sjukhus - SVT Nyheter
-- Tio personer i bråk vid skola i Växjö - Smålandsposten
-- De får flest böter för hög musik – värsting i topp - DN
-- Fallskärmsförbundet: ”Tankarna går till de närmast anhöriga” - GP
-- DN Direkt - Barn påkört i Nyköping – hämtad med helikopter - DN.se - DN
+- Tre ödesfrågor på bordet när Zelenskyj och Stubb åker till USA - Hufvudstadsbladet
+- Must: Landerholms handlingar kan skada landets försvar om de röjs - DN
+- Stora protester i Israel – vägar blockerade - GP
+- Två fallskärmshoppare dog efter kollision i luften - Alingsås Tidning
+- Helveteseld och rekord – Europas strid mot hettan - GP
+- Nu har butiken stängts för gott: ”Sista dagen blev väldigt känslosam” - Smålandsposten
+- Värmland i topp på bötesligan för personer som spelar för hög musik: ”En kultur” - NWT
+- Rockbandets dödskrasch – fortfarande ett mysterium - Västerbottens-Kuriren
 - Ung man svårt brännskadad efter krasch med epa-traktor utanför Borlänge - SVT Nyheter
-- Stora protester i Israel mot kriget - Hufvudstadsbladet
-- Von der Leyen: EU står enat bakom Ukraina - Västerbottens-Kuriren
-- Finansmannen Sten Dybeck är död - Dagens industri
-- Berusad person slog personal på pizzeria - Expressen
-- EU vill använda svenska sparandet som förebild - SvD
+- Barn påkört i Nyköping – dog på sjukhus - Corren
+- Tre döda i skjutning i New York - Aftonbladet
+- LEDARE: Vi måste öka trycket på Putin – och Trump - Hufvudstadsbladet
+- Ryssland: Har intagit fler ukrainska byar - Aftonbladet
+- Glömda hemliga papper avslöjar detaljer från mötet - Expressen
+- EU vill använda svenska sparandet som förebild - svd.se
 - ”Bäst att det är annorlunda” – strateg ser bubbelvibbar på börsen - Dagens PS
 - Ny studie: Chatbottar får oss att dela tolv gånger mer personlig data - Dagens PS
 - Dyrare sommarnöjen stoppar räntesänkning - Tidningen Näringslivet
@@ -27,9 +27,9 @@ _Updated: 2025-08-17 17:40_
 
 ## World News
 
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -37,14 +37,14 @@ _Updated: 2025-08-17 17:40_
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- CME Group Opens Registration for 22nd Annual Global University Trading Challenge - Placera.se
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Jollibee and Global Girl Group KATSEYE Ignite Partnership to Create Joyful New Connections with Their North American Fans - Placera.se
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Den hetaste nya trenden inom global utbildning - The Portugal News
 
@@ -75,23 +75,23 @@ _Updated: 2025-08-17 17:40_
 
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Accord Announces Banking Facility Update - Placera.se
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- Accord Announces Amendment to its Banking Facility - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Accord Announces Amendment to its Banking Facility - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Accord Announces Second Quarter Financial Results - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- REPAY Appoints New Chief Financial Officer - Placera.se
+- Accord Announces Second Quarter Financial Results - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- REPAY Appoints New Chief Financial Officer - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
