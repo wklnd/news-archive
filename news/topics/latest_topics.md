@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-17 23:40_
+_Updated: 2025-08-18 00:43_
 
 ## Top Stories
 
 - Ingmar Nevéus: Detta kan Zelenskyj uppnå i mötet med Trump - DN
 - Tröstar varandra på flygfältet i Strömstad efter dödsolyckan: ”Fortfarande chockade” - GP
 - Ny våg av protester i Serbien – partilokal i brand - DN
-- Must: Landerholms handlingar kan skada landets försvar om de röjs - DN
-- Dömde Coop-hackaren: Ryska staten bakom attacken - DN
 - De fruktar ny rysk elitgrupp: ”Jagar oss” - SvD
+- IDF:s plan för att ta över Gaza stad klar – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Polisens teori: Mordet utanför moskén – hämnd för tidigare dubbelmord - DN
 - Brittiska rockbandets dödskrasch – fortfarande ett mysterium - DN
 - Öppen spricka – kritiken mot SD - Expressen
+- Must: Landerholms slarv en fara - SVT Nyheter
 - Region Bergslagen med Värmland toppar bötesligan för hög musik – igen: ”En kultur” - NWT
-- Ministrar med bankaktier beslutade om bankskatt – anmälde inte jäv - SVT Nyheter
 - Rubio i utspel: Fred kräver kompromisser - TV4 Nyheterna
-- Israel förbereder förflyttningar till södra Gaza - GP
-- Expert: Smicker kan hjälpa Zelenskyj mot Trump - DN
 - Kristersson: Maximera trycket på Ryssland - Expressen
-- Ny studie: Chatbottar får oss att dela tolv gånger mer personlig data - Dagens PS
-- Expertens råd efter hotelläckan: Makulera passet - Aftonbladet
+- Nytt sanktionspaket mot Ryssland på gång - Aftonbladet
+- USA: Putin går med på ”robusta” säkerhetsgarantier - DN
+- Ministrar med bankaktier beslutade om bankskatt – anmälde inte jäv - SVT Nyheter
 - Svenska bolaget som hjälper Europa i slaget om rymden - EFN
-- Fordonsjätten om Lyten: Inget besked om batteriköp - Dagens industri
-- Snö och kyla tyckas komma till The Division 2 - FZ.se
-- Femhundra ton utrustning ska till Mars: Så förbereder vi oss inför bemannade expeditioner - Illustrerad Vetenskap
+- Expertens råd efter hotelläckan: Makulera passet - Aftonbladet
+- ”Fanns uppskruvade förhoppningar” - Sydsvenskan
+- Quentin Tarantino utser sin bästa film: "Mitt mästerverk" - MovieZine
+- Doom: The Dark Ages - FZ.se
 
 ## World News
 
@@ -38,13 +38,13 @@ _Updated: 2025-08-17 23:40_
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Jollibee and Global Girl Group KATSEYE Ignite Partnership to Create Joyful New Connections with Their North American Fans - Placera.se
+- CME Group Opens Registration for 22nd Annual Global University Trading Challenge - Placera.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Jollibee and Global Girl Group KATSEYE Ignite Partnership to Create Joyful New Connections with Their North American Fans - Placera.se
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Den hetaste nya trenden inom global utbildning - The Portugal News
 
@@ -62,14 +62,14 @@ _Updated: 2025-08-17 23:40_
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
+- Ping An Appoints AI Expert Ray Wang as Chief Technology Officer to Accelerate Comprehensive Digital Transformation - Placera.se
 
 ## Business
 
@@ -80,18 +80,18 @@ _Updated: 2025-08-17 23:40_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Accord Announces Amendment to its Banking Facility - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Accord Announces Second Quarter Financial Results - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - REPAY Appoints New Chief Financial Officer - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
@@ -120,25 +120,25 @@ _Updated: 2025-08-17 23:40_
 ## Science
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Simple math behind major bison blunder - Forskning & Framsteg
-- 606 forskare: Regeringen stoppar nödvändig forskning - Aftonbladet
-- Att bromsa åldrandet inte längre science fiction - Forskning.se
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 - Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
 - DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
-- Möt forskare i Umeå digitalt på ForskarFredag den 27 november! - Mynewsdesk
-- Umeådoktorand får prestigefyllt postdoktorsstipendium inom Life science - Mynewsdesk
-- ​Vetenskapsfestivalen ForskarFredag fyller 15 år! Möt forskare från Högskolan i Skövde - online - Mynewsdesk
-- ”Det finns så mycket spännande forskning som väntar på att bli gjord” - Karolinska Institutet
+- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
 
 ## Jordbruk
 
