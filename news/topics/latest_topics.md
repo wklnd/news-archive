@@ -1,35 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-17 18:47_
+_Updated: 2025-08-17 19:41_
 
 ## Top Stories
 
-- Tre ödesfrågor på bordet när Zelenskyj och Stubb åker till USA - Hufvudstadsbladet
+- Gais gick segrande ur toppstriden mot Hammarby - Omni
+- Tröstar varandra på flygfältet i Strömstad efter dödsolyckan: ”Fortfarande chockade” - GP
 - Must: Landerholms handlingar kan skada landets försvar om de röjs - DN
-- Stora protester i Israel – vägar blockerade - GP
-- Två fallskärmshoppare dog efter kollision i luften - Alingsås Tidning
-- Helveteseld och rekord – Europas strid mot hettan - GP
-- Nu har butiken stängts för gott: ”Sista dagen blev väldigt känslosam” - Smålandsposten
-- Värmland i topp på bötesligan för personer som spelar för hög musik: ”En kultur” - NWT
+- DN Direkt - Skådespelaren Terence Stamp död - DN.se - DN
+- Tre ödesfrågor på bordet när Zelenskyj och Stubb åker till USA - Hufvudstadsbladet
+- Dömde Coop-hackaren: Ryska staten bakom attacken - DN
+- Region Bergslagen med Värmland toppar bötesligan för hög musik – igen: ”En kultur” - NWT
 - Rockbandets dödskrasch – fortfarande ett mysterium - Västerbottens-Kuriren
 - Ung man svårt brännskadad efter krasch med epa-traktor utanför Borlänge - SVT Nyheter
-- Barn påkört i Nyköping – dog på sjukhus - Corren
+- Misstänkt föremål i skogen – polis på plats - UNT
+- IDF-chef: Vi inleder nästa fas i Gaza stad snart – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- USA: Putin går med på ”robusta” säkerhetsgarantier - DN
 - Tre döda i skjutning i New York - Aftonbladet
 - LEDARE: Vi måste öka trycket på Putin – och Trump - Hufvudstadsbladet
-- Ryssland: Har intagit fler ukrainska byar - Aftonbladet
-- Glömda hemliga papper avslöjar detaljer från mötet - Expressen
 - EU vill använda svenska sparandet som förebild - svd.se
 - ”Bäst att det är annorlunda” – strateg ser bubbelvibbar på börsen - Dagens PS
-- Ny studie: Chatbottar får oss att dela tolv gånger mer personlig data - Dagens PS
 - Dyrare sommarnöjen stoppar räntesänkning - Tidningen Näringslivet
+- Bojkotten: Så mycket backar amerikanskt vin - Dagens PS
 - Udda detaljen vid dammen: ”Det är nog bara här” - Norran
 - Snö och kyla tyckas komma till The Division 2 - FZ.se
 
 ## World News
 
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -40,11 +40,11 @@ _Updated: 2025-08-17 18:47_
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Jollibee and Global Girl Group KATSEYE Ignite Partnership to Create Joyful New Connections with Their North American Fans - Placera.se
+- CME Group Opens Registration for 22nd Annual Global University Trading Challenge - Placera.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Jollibee and Global Girl Group KATSEYE Ignite Partnership to Create Joyful New Connections with Their North American Fans - Placera.se
 - Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Den hetaste nya trenden inom global utbildning - The Portugal News
 
@@ -53,8 +53,8 @@ _Updated: 2025-08-17 18:47_
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
+- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
@@ -79,20 +79,20 @@ _Updated: 2025-08-17 18:47_
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
-- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - Accord Announces Amendment to its Banking Facility - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Accord Announces Second Quarter Financial Results - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- REPAY Appoints New Chief Financial Officer - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- REPAY Appoints New Chief Financial Officer - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
 
@@ -138,7 +138,7 @@ _Updated: 2025-08-17 18:47_
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 - Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
 
 ## Jordbruk
 
