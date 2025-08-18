@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-18 04:34_
+_Updated: 2025-08-18 05:50_
 
 ## Top Stories
 
 - Ingmar Nevéus: Detta kan Zelenskyj uppnå i mötet med Trump - DN
-- Tre saker: Det här är på bordet när Zelenskyj träffar Trump i USA - Hufvudstadsbladet
-- Tröstar varandra på flygfältet i Strömstad efter dödsolyckan: ”Fortfarande chockade” - GP
-- Ny våg av protester i Serbien – partilokal i brand - DN
-- Så hamnade Kronobergs gamla bussar i Nordmakedonien - Smålandsposten
-- Trump: Inget Nato-medlemskap för Ukraina - Västerbottens-Kuriren
-- Brittiska rockbandets dödskrasch – fortfarande ett mysterium - DN
-- Öppen spricka – kritiken mot SD - Expressen
+- Serbien: Partilokaler sattes i brand - GP
+- Mörka sanningen bakom Kim Jong- Uns skrytbygge - Expressen
+- DN Direkt - Få ministrar anmäler jäv – trots aktieinnehav - DN.se - DN
+- Ronny fick 18 blåmärken på demensboendet: ”Fingrar syns över hela armarna” - Smålandsposten
+- Ödesmöte för Zelenskyj – då sluter Europa upp - GP
 - Stopp på E4 vid Gröndal i Stockholm - SVT Nyheter
-- Must: Landerholms handlingar kan skada landets försvar om de röjs - DN
-- Rubio i utspel: Fred kräver kompromisser - TV4 Nyheterna
-- IDF:s plan för att ta över Gaza stad klar – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Öppen spricka – kritiken mot SD - Expressen
+- Tröstar varandra på flygfältet i Strömstad efter dödsolyckan: ”Fortfarande chockade” - GP
+- Kvinna förd till sjukhus efter dykolycka på Limhamn - SVT Nyheter
+- DN Direkt - Mittenkandidat tar ledningen i Bolivia-val - DN.se - DN
+- Trump: Inget Nato-medlemskap för Ukraina - GP
+- Hundratusentals samlades för protester vid torg i Tel Aviv - SVT Nyheter
 - Putin hyllas efter mötet: Gav ingenting – fick ändå allt - DN
-- Kristersson: Maximera trycket på Ryssland - Expressen
+- Kläms från två håll – kan Coop överleva krisen? - SvD
 - Ministrar med bankaktier beslutade om bankskatt – anmälde inte jäv - SVT Nyheter
+- ”Fanns uppskruvade förhoppningar” - Sydsvenskan
 - Svenska bolaget som hjälper Europa i slaget om rymden - EFN
-- Fordonsjätten om Lyten: Inget besked om batteriköp - Dagens industri
-- Undvik bråk om stugan – experten tipsar om avtal - Aftonbladet
-- Studie: Katter får demens på samma sätt som människor - Hufvudstadsbladet
+- Katter kan ge alzheimermedicin - Aftonbladet
 - Quentin Tarantino utser sin bästa film: "Mitt mästerverk" - MovieZine
 
 ## World News
@@ -37,7 +37,7 @@ _Updated: 2025-08-18 04:34_
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Lars Henrikson – ny global chef för Mölndals-baserade DENTSPLY Implants - Dental Tribune US
@@ -62,12 +62,12 @@ _Updated: 2025-08-18 04:34_
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- ZenaTech’s ZenaDrone Initiates AUVSI Membership Upgrade, Enabling Leadership on Drone Policy and Strengthening US Defense and Government Engagement - Placera.se
+- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 
@@ -104,16 +104,16 @@ _Updated: 2025-08-18 04:34_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
-- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
@@ -144,7 +144,6 @@ _Updated: 2025-08-18 04:34_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
@@ -155,10 +154,11 @@ _Updated: 2025-08-18 04:34_
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Stora anslag för innovationer i lantbruket - Lantbruksnytt
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
