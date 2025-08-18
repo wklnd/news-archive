@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-18 12:53_
+_Updated: 2025-08-18 13:48_
 
-- Zelensky responds to Trump comments: "Russia must end" war it started ahead of key talks - Axios
-- Hyde County issues Mandatory Evacuation of Ocracoke and Flood Watch - Island Free Press
-- Trump tells Ukraine to give up on NATO and Crimea ahead of Zelenskiy meeting - Reuters
-- What to know as GOP governors plan to send National Guard units to D.C. - The Washington Post
-- Why Putin smiled broadly as he left his Alaska encounter with Trump - Lowy Institute
+- Trump says Zelenskyy can end Russia war 'almost immediately' before White House meet - ABC News
+- Hurricane Erin to churn up life-threatening surf and rip currents along US East Coast and Bermuda - CNN
 - Bolivia set to elect first non-left wing president in two decades - BBC
+- GOP-led states sending National Guard troops to D.C. - Axios
+- Trump prompted a battle over voting maps. Here's how redistricting affects voters - NPR
+- Why Putin smiled broadly as he left his Alaska encounter with Trump - Lowy Institute
+- The unusual GOP alliance pushing earmarks in this fall’s funding fight - Politico
 - Mass shooting Brooklyn: 12 shot, 3 fatally, in Crown Heights shooting at Taste of the City at 903 Franklin Avenue, police say - ABC7 Chicago
-- Rubio says peace agreement "a long ways off" after Putin summit - Axios
+- Texas Democrats Set to End Walkout Over Redistricting, Allowing Redrawn Map to Pass - The New York Times
 - 'Potentially life-threatening' flooding risk in Twin Cities, southern Minnesota - Bring Me The News
-- Texas Democrats who fled the state to block GOP redistricting push begin returning - CBS News
 - What we know about devastating monsoon floods in Pakistan - BBC
 - Zamir says IDF approving plans for war’s next stage ahead of Gaza City offensive - The Times of Israel
+- Israel’s growing frustration over the war in Gaza erupts in nationwide protests - AP News
 - Iraq starts excavation of large mass grave left by Islamic State - AP News
-- Protests explode across Israel amid growing frustration over the war in Gaza - PBS
-- Air Canada suspends restart plans after flight attendants union defies return to work order - KTLA
-- Shares scale fresh peaks in Asia, oil eyes Ukraine talks - Reuters
-- Bond Market’s Rate-Cut Bets Enter Decisive Stretch With Powell - Bloomberg
-- Soho House Members’ Club Nears Deal to Go Private, WSJ Says - Bloomberg
+- Bond Market’s Rate-Cut Bets Enter Decisive Stretch With Powell - Bloomberg.com
+- Air Canada suspends profit forecast as striking union defies back-to-work order - Reuters
+- Stock Market Today: Dow Futures Edge Lower Ahead of Trump-Zelensky Meeting — Live Updates - The Wall Street Journal
+- Family favorite restaurant chain booming thanks to cracking deals… as industry struggles - Daily Mail
+- Last-minute Google leak reveals brand-new 67W charger, cheaper Pixelsnap stand, and pricier cases - Android Authority
 - What Google Material 3 Expressive redesigns are rolling out [Updated] - 9to5Google
-- Microsoft is finally improving Windows 11’s dark mode - The Verge
