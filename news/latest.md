@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-18 07:52_
+_Updated: 2025-08-18 09:00_
 
-- What Zelensky's saying ahead of key Trump summit on Ukraine, Russia - Axios
-- Trump and Putin Find Common Ground on One Issue: Biden - The New York Times
-- Trump news at a glance: DC crackdown expands with national guard to be deployed by three more states - The Guardian
-- Hurricane Erin tracker: 1st hurricane of Atlantic season restrengthens to Category 4 - ABC News
-- SUNDAY SHOWS: President Trump’s Pursuit of Peace - The White House (.gov)
+- After Putin’s win in Alaska, Zelensky travels to Washington for his day of high stakes talks, how far can he push Trump? - CNN
+- Trump rules out Ukraine reclaiming Crimea or joining Nato as European leaders gather in Washington - The Guardian
+- What to know as GOP governors plan to send National Guard units to D.C. - The Washington Post
+- Israelis Join Nationwide Rallies to Call for Release of Hostages - The New York Times
+- An incompetent way to pursue peace in Ukraine - Financial Times
+- Hurricane Erin prompts evacuation orders along N.C. Outer Banks - Axios
 - 'It was a bloodbath': 3 dead in mass shooting at Brooklyn hookah bar - Gothamist
-- Rubio says Russia-Ukraine ceasefire possible, but not close - Politico
+- Trump Officials Hint at Possible Concessions by Putin - The New York Times
 - Texas Democrats who fled the state to block GOP redistricting push begin returning - CBS News
-- LIVE UPDATES: Severe thunderstorms, flash flood warnings in Minnesota - Bring Me The News
-- Louisiana Has a Long History of Political Corruption - The New York Times
+- 'Potentially life-threatening' flooding risk in Twin Cities, southern Minnesota - Bring Me The News
 - Bolivia's left in historic defeat as presidential vote set for October runoff - Reuters
-- Tens of thousands of protesters gather in Tel Aviv to demand end to Gaza war - The Guardian
 - Cloudbursts are causing chaos in parts of India and Pakistan. Here’s what they are - AP News
 - Iraq starts excavating large mass grave left by Islamic State - NBC News
-- Bond Market’s Rate-Cut Bets Enter Decisive Stretch With Powell - Bloomberg.com
-- Air Canada delays plans to resume operations after flight attendants refuse to end strike - CBS News
-- Shares scale fresh tops in Asia, oil slips on truce talks - Reuters
+- U.S. tourist attacked by a shark while spearfishing in the Bahamas - CBS News
+- Air Canada grounded as striking union defies order to get back to work - Reuters
+- Asia Set for Cautious Open Ahead of Ukraine Talks: Markets Wrap - Bloomberg.com
+- Fed Chair Jerome Powell may seriously disappoint Wall Street at Jackson Hole - Fortune
 - Soho House close to $1.8bn take-private deal - Financial Times
 - The Pixel 9 Pro Fold is $600 off ahead of the new model’s debut - The Verge
 - Mark Gurman Responds to Last Week's Apple Device Leaks - MacRumors
