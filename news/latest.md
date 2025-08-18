@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-18 11:52_
+_Updated: 2025-08-18 12:53_
 
-- After Putin’s win in Alaska, Zelensky travels to Washington for his day of high stakes talks, how far can he push Trump? - CNN
+- Zelensky responds to Trump comments: "Russia must end" war it started ahead of key talks - Axios
+- Hyde County issues Mandatory Evacuation of Ocracoke and Flood Watch - Island Free Press
 - Trump tells Ukraine to give up on NATO and Crimea ahead of Zelenskiy meeting - Reuters
-- Trump news at a glance: DC crackdown expands with national guard to be deployed by three more states - The Guardian
-- Bolivia set to elect first non-left wing president in two decades - BBC
+- What to know as GOP governors plan to send National Guard units to D.C. - The Washington Post
 - Why Putin smiled broadly as he left his Alaska encounter with Trump - Lowy Institute
-- Hundreds of thousands demonstrate in Tel Aviv at end of nationwide day of hostage protests - The Times of Israel
-- Hurricane Erin prompts evacuation orders along N.C. Outer Banks - Axios
-- Putin agreed to let U.S., Europe offer NATO-style protections for Ukraine, Trump envoy says - CBS News
-- 'It was a bloodbath': 3 dead in mass shooting at Brooklyn hookah bar - Gothamist
+- Bolivia set to elect first non-left wing president in two decades - BBC
+- Mass shooting Brooklyn: 12 shot, 3 fatally, in Crown Heights shooting at Taste of the City at 903 Franklin Avenue, police say - ABC7 Chicago
+- Rubio says peace agreement "a long ways off" after Putin summit - Axios
+- 'Potentially life-threatening' flooding risk in Twin Cities, southern Minnesota - Bring Me The News
 - Texas Democrats who fled the state to block GOP redistricting push begin returning - CBS News
-- Cloudbursts are causing chaos in parts of India and Pakistan. Here’s what they are - AP News
+- What we know about devastating monsoon floods in Pakistan - BBC
 - Zamir says IDF approving plans for war’s next stage ahead of Gaza City offensive - The Times of Israel
 - Iraq starts excavation of large mass grave left by Islamic State - AP News
-- Wang Yi set to start India visit amid improving ties - Global Times
+- Protests explode across Israel amid growing frustration over the war in Gaza - PBS
 - Air Canada suspends restart plans after flight attendants union defies return to work order - KTLA
 - Shares scale fresh peaks in Asia, oil eyes Ukraine talks - Reuters
-- Bond Market’s Rate-Cut Bets Enter Decisive Stretch With Powell - Bloomberg.com
-- Soho House close to $1.8bn take-private deal - Financial Times
-- Mark Gurman Responds to Last Week's Apple Device Leaks - MacRumors
-- You will not be able to buy the base iPhone 18 model next year - PhoneArena
+- Bond Market’s Rate-Cut Bets Enter Decisive Stretch With Powell - Bloomberg
+- Soho House Members’ Club Nears Deal to Go Private, WSJ Says - Bloomberg
+- What Google Material 3 Expressive redesigns are rolling out [Updated] - 9to5Google
+- Microsoft is finally improving Windows 11’s dark mode - The Verge
