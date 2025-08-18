@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-18 17:45_
+_Updated: 2025-08-18 18:51_
 
 ## Top Stories
 
-- Magnus Gisslén slutar som statsepidemiolog - SVT Nyheter
-- Annie Reuterskiöld: Enkla regeln Landerholm borde känt till - DN
-- EU-toppar följer med Zelenskyj – får vänta utanför - Västerbottens-Kuriren
-- Arktisk kyla på ingång – kan snöa i veckan - Aftonbladet
-- Kronprinsessan Mette Marits son åtalas - GP
-- Ledare: Tacofredag för Putin i Alaska - NWT
+- Europeiska ledare har anlänt till Vita huset - DN
+- Magnus Gisslén slutar som statsepidemiolog – kritiserar FHM - SVT Nyheter
+- Henrik Landerholm riskerar fängelse – misstänks för vårdslöshet med hemlig uppgift - GP
+- Zelenskyj: "En cynisk rysk attack" - GP
+- DN Direkt - Två män gripna – kvinna instängd och våldtagen - DN.se - DN
+- Saco: Vi backar Britz om arbetskraftsinvandring - Altinget.se
 - Sverker Olofsson gör comeback i SVT:s program om kyrkflytten i Kiruna - DN
 - Skjutningen vid moskén i Örebro: En person gripen för medhjälp till mord - SVT Nyheter
 - Misstänkt anstiftare utlämnad från Chile - polisen.se
-- Jobbministern går emot Tidö-avtalet om arbetskraftsinvandring: ”Inte bra för Sverige” - Arbetet
-- Spanien varnar pilgrimsvandrare för bränderna - GP
+- Bassam dödades – nu återvänder svågern till skolan: ”Måste kämpa" - Omni
+- Besked om åtal mot norske ”bonusprinsen” - SVT Nyheter
+- Krigströtta soldater i Kiev: ”Samtalen måste fortsätta” - DN
 - Finländske ”Trumpviskaren” sitter med när de stora möts - DN
-- Michael Winiarski: Säkerhetsgarantier för Ukraina, är de värda någonting? - DN
-- Pierre Schori: Nu fogas ett nytt, fjärde namn till raden: Gaza - Aftonbladet
-- Svagt Novo Nordisk kan bli ”giftig cocktail” för Danmark - Omni
+- Alex Schulman: Våra öden ligger i händerna på två pajaser - DN
 - Saab förvärvar företaget Deform i Degerfors - Cision News
+- Svagt Novo Nordisk kan bli ”giftig cocktail” för Danmark - Omni
 - Uppfann pekskärmen – vill åter utmana jättarna - SvD
-- Affärsvärlden landar i neutralt råd för Nordisk Bergteknik - Affärsvärlden
+- Stockholmsbörsen vänder nedåt inför dagens toppmöte i Vita huset, OMXS30-index sjunker 0,6 procent (Finwire News) - Aktiellt
 - Påminnelse: elnätsföretag ska rapportera in uppgifter om omdirigering - Energimarknadsinspektionen
 - Redefining Racing – en ny definition för en ny generation - Via TT
 
@@ -39,12 +39,12 @@ _Updated: 2025-08-18 17:45_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - Travel News
+- Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - MLK Listed on Binance Alpha, Spotlighting Its Global Loyalty Platform Potential - Placera.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Jollibee and Global Girl Group KATSEYE Ignite Partnership to Create Joyful New Connections with Their North American Fans - Placera.se
 - Den hetaste nya trenden inom global utbildning - The Portugal News
 - Portugalidade - En ny global studie - The Portugal News
 
@@ -56,19 +56,19 @@ _Updated: 2025-08-18 17:45_
 - Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Most active stocks today: NVDA stock, BMNR stock, AMD stock, RGTI - Markets.com
 - EY.ai | EY - Sverige - EY
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 
 ## Business
@@ -120,45 +120,45 @@ _Updated: 2025-08-18 17:45_
 ## Science
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Här är världens största jordbruk - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Stora anslag för innovationer i lantbruket - Lantbruksnytt
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De gick från reko till eko - ST-tidningen
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Tuffa tider väntar för engelskt jordbruk - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
+- Tio jordbruksaktier för depån - Placera.se
