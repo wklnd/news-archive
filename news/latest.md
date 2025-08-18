@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-18 01:49_
+_Updated: 2025-08-18 04:48_
 
 - Zelensky Brings Backup to the White House as Trump Aligns More Closely With Putin - The New York Times
-- State of Emergency Issued for Dare County - Mandatory Evacuation Issued for Hatteras Island - Dare County, NC (.gov)
+- Protests explode across Israel amid growing frustration over the war in Gaza - PBS
+- Rubio says peace agreement "a long ways off" after Putin summit - Axios
 - News Analysis: Newsom’s decision to fight fire with fire could have profound political consequences - Los Angeles Times
-- Rubio Desperately Tries to Spin Trump’s Putin Flop - Rolling Stone
+- Hurricane Erin tracker: 1st hurricane of Atlantic season weakens to Category 3 - ABC News
 - National Guard says members patrolling D.C. 'may be armed' - NPR
-- Israeli plan to displace 1 million Palestinians spreads fear in Gaza - The Guardian
-- 3 dead, 9 wounded in shooting at Taste of the City in Crown Heights; Eric Adams says NYC will 'mobilize mass shooting plan' - ABC7 New York
+- Three killed, eight injured in shooting in crowded New York club amid record-low gun violence year - ABC15 Arizona
+- Trump Officials Hint at Possible Concessions by Putin - The New York Times
 - Texas Democrats who fled the state to block GOP redistricting push begin returning - CBS News
-- Zelenskyy hails US security vow — but rules out sacrificing uncaptured land - politico.eu
-- US suspends visitor visas for Gazans - CNN
-- Air Canada delays plans to resume operations after flight attendants refuse to end strike - CBS News
-- Israel's growing frustration over the war in Gaza explodes in nationwide protests - CNBC
+- US suspends visas for Gazans after far-right influencer posts - yahoo.com
+- Air Canada suspends restart plans after union defies return to work order - NPR
 - U.S. tourist attacked by a shark while spearfishing in the Bahamas - CBS News
-- Bolivia votes as support for left wanes and inflation is top of mind - Reuters
-- Fed Chair Jerome Powell may seriously disappoint Wall Street at Jackson Hole - Fortune
-- This CEO laid off nearly 80% of his staff because they refused to adopt AI fast enough. 2 years later, he says he’d do it again - Yahoo Finance
+- Bolivia exit polls suggest leftist defeat, centrist Rodrigo Paz leads - Reuters
+- Cloudbursts are causing chaos in parts of India and Pakistan. Here’s what they are - AP News
+- Bond Market’s Rate-Cut Bets Enter Decisive Stretch With Powell - Bloomberg
 - $800 for a Credit Card? Why Your Premium Cards Will Cost More. - The New York Times
-- Inflation alarm bells went off again and prices are rising. Just how bad is it going to get? - MarketWatch
-- Meta To Reportedly Sell HUD Glasses With EMG Wristband For $800 - UploadVR
-- Duolingo CEO says controversial AI memo was misunderstood - TechCrunch
+- 2 Americans drown in a 3-hour span at same Bahamas resort: Police - ABC News
+- Stock futures tick higher following back-to-back winning weeks: Live updates - CNBC
+- Apple Reportedly Planning A Shake-Up With Its iPhone 18 Launch, With New Details Claiming That The Base Model Will Be Phased Out, As A Foldable Model And Low-Cost Entrant Make Their Way To The Lineup - Wccftech
+- Samsung taking market share from Apple in U.S. as foldable phones gain momentum - NBC News
