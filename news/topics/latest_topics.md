@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-18 15:53_
+_Updated: 2025-08-18 16:47_
 
 ## Top Stories
 
-- Zelenskyj hoppas på gemensam sak med USA - DN
+- EU-toppar följer med Zelenskyj – får vänta utanför - Västerbottens-Kuriren
 - Besked om åtal mot norske ”bonusprinsen” - SVT Nyheter
-- Man i 20-årsåldern död efter krock med lastbil - Aftonbladet
-- Tonårsflicka förberedde mord på skolbarn - SvD
-- Priset Ukraina måste betala för att få slut på kriget - Aftonbladet
-- 397 miljoner kronor senare – nu öppnar Furutåskolan - Smålandsposten
-- Rättegången mot Landerholm inleds – det står på spel - SVT Nyheter
-- Skjutningen vid moskén i Örebro: En person gripen för medhjälp till mord - SVT Nyheter
+- Landerholm: ”Mest påfrestande någonsin i mitt drygt 40-åriga yrkesliv” - DN
+- En frihetsberövad efter dödsskjutning - GP
 - Saco: Vi backar Britz om arbetskraftsinvandring - Altinget.se
+- Dödskrasch på väg 117 – precis intill Christoffers gård - Kristianstadsbladet
+- Risbergska skolan öppnar efter Örebrodådet - Västerbottens-Kuriren
 - Misstänkt anstiftare utlämnad från Chile - polisen.se
+- DN Direkt - Stockholms grannkommuner slipper vattenbrist - DN.se - DN
+- Barn omkom på lantbruk – utreds som brott - ATL
 - Brandman bland de döda i spanska skogsbränder - SVT Nyheter
-- Krigströtta soldater i Kiev: ”Samtalen måste fortsätta” - DN
-- Ingmar Nevéus: Därför har smicker och beröm blivit ett måste i mötena med Trump - DN
+- Finländske ”Trumpviskaren” sitter med när de stora möts - DN
+- Thunberg i klimataktion vid norskt raffinaderi - GP
 - Alex Schulman: Våra öden ligger i händerna på två pajaser - DN
-- Saab förvärvar företaget Deform i Degerfors - Cision News
-- Väntas ligga still: ”Står inför tuffa avvägningar” - EFN
 - Uppfann pekskärmen – vill åter utmana jättarna - SvD
-- Novo Nordisk: Köpvärd efter tungt fall - Affärsvärlden
-- Försäljningen av smarta glasögon fortsätter stiga - Computer Sweden
+- Saab förvärvar företaget Deform i Degerfors - Cision News
+- Svagt Novo Nordisk kan bli ”giftig cocktail” för Danmark - Omni
+- Affärsvärlden landar i neutralt råd för Nordisk Bergteknik - Affärsvärlden
 - Påminnelse: elnätsföretag ska rapportera in uppgifter om omdirigering - Energimarknadsinspektionen
+- Redefining Racing – en ny definition för en ny generation - Via TT
 
 ## World News
 
@@ -44,9 +44,9 @@ _Updated: 2025-08-18 15:53_
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - MLK Listed on Binance Alpha, Spotlighting Its Global Loyalty Platform Potential - Placera.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Jollibee and Global Girl Group KATSEYE Ignite Partnership to Create Joyful New Connections with Their North American Fans - Placera.se
+- CME Group Opens Registration for 22nd Annual Global University Trading Challenge - Placera.se
+- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
 - Den hetaste nya trenden inom global utbildning - The Portugal News
-- Portugalidade - En ny global studie - The Portugal News
 
 ## Technology
 
@@ -86,13 +86,13 @@ _Updated: 2025-08-18 15:53_
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Accord Announces Second Quarter Financial Results - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- REPAY Appoints New Chief Financial Officer - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- REPAY Appoints New Chief Financial Officer - Placera.se
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
 
 ## Health
 
@@ -115,50 +115,50 @@ _Updated: 2025-08-18 15:53_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 
 ## Science
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Jordbruk och landsbygdsutveckling - European Commission
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Stora anslag för innovationer i lantbruket - Lantbruksnytt
+- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Stora anslag för innovationer i lantbruket - Lantbruksnytt
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- De gick från reko till eko - ST-tidningen
+- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
