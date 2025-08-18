@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-19 00:41_
+_Updated: 2025-08-19 01:39_
 
 ## Top Stories
 
 - Trump: ”Planerar möte mellan Putin och Zelenskyj” - DN
-- Landerholms egna ord under rättegången: ”Inser hur galet det var” - SVT Nyheter
-- DN Direkt - Kvinna död i trafikolycka i Sollefteå - DN.se - DN
+- Kvinna död i trafikolycka i Sollefteå - GP
+- Annie Reuterskiöld: Enkla regeln Landerholm borde känt till - DN
 - Två män gripna – kvinna instängd och våldtagen - Aftonbladet
-- Magnus Gisslén slutar som statsepidemiolog - Altinget.se
-- Misstänkt farligt föremål i Markbacken - Nerikes Allehanda
+- VMA – farligt föremål i Örebro - Expressen
+- Trump: Ska ringa Putin efter mötet - Västerbottens-Kuriren
+- Magnus Gisslén slutar som statsepidemiolog vid FHM - DN
+- Katja Palo KAJ och Carola sjunger – medan Kiruna går i tu - GP
 - Saco: Vi backar Britz om arbetskraftsinvandring - Altinget.se
 - Polisen: Fallskärmhoppares kamera hittad - Aftonbladet
-- Katja Palo KAJ och Carola sjunger – medan Kiruna går i tu - GP
-- Risbergska skolan öppnar efter Örebrodådet - Västerbottens-Kuriren
-- Trump: Ska ringa Putin efter mötet - GP
-- ”Bonusprinsen” åtalas för fyra våldtäkter – totalt 32 brott - DN
-- Pierre Schori: Nu fogas ett nytt, fjärde namn till raden: Gaza - Aftonbladet
+- Besked om åtal mot norske ”bonusprinsen” - SVT Nyheter
 - Stora demonstrationer i Norge – Greta Thunberg på plats - Expressen
+- Hamas säger ja - Expressen
+- Kristersson: Maximera trycket på Ryssland - Expressen
 - Ekonomer oense om räntan: ”Alltför hög inflation” - Omni
-- Erik Selin avgår som vd för Balder 2026 - Dagens industri
+- Balders styrelse utser Sharam Rahi till ny VD - Cision News
 - Dyra dockor skapar hets – föräldrar oroar sig över Labubu-hysterin: ”Inte sunt” - NWT
-- Saab förvärvar företaget Deform i Degerfors - Cision News
+- Stockholmsbörsen backade inför toppmöte i Vita huset, OMXS30-index sjönk 0,6 procent (Finwire News) - Aktiellt
+- Geforce Now får ett ordentligt lyft i bildkvalitet - SweClockers
 - Moderskeppet 4 lättar ankar – spel, musik och cosplay till havs - FZ.se
-- Påminnelse: elnätsföretag ska rapportera in uppgifter om omdirigering - Energimarknadsinspektionen
 
 ## World News
 
 - Skechers Named Title Sponsor of World Champions Cup; Shriners Children's Announced as Official Charity Partner; Feather Sound Country Club in Clearwater, Florida to host 2025 tournament - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Techarenan News goes English (Partly at least) - Techarenan.news
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - BIG Travel går in i globalt partnerskap - Travel News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
-- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
-- MLK Listed on Binance Alpha, Spotlighting Its Global Loyalty Platform Potential - Placera.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- MLK Listed on Binance Alpha, Spotlighting Its Global Loyalty Platform Potential - Placera.se
 - Den hetaste nya trenden inom global utbildning - The Portugal News
 
 ## Technology
@@ -61,15 +61,15 @@ _Updated: 2025-08-19 00:41_
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
-- How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 
 ## Business
 
@@ -98,31 +98,31 @@ _Updated: 2025-08-19 00:41_
 
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Europeisk konferens för socialmedicin: Praktik, teori och handling för en hälsosammare framtid - Svenska Läkaresällskapet
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
-- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -153,8 +153,8 @@ _Updated: 2025-08-19 00:41_
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Stora anslag för innovationer i lantbruket - Lantbruksnytt
-- De gick från reko till eko - ST-tidningen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
