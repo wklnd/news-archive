@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-18 05:50_
+_Updated: 2025-08-18 06:57_
 
 ## Top Stories
 
-- Ingmar Nevéus: Detta kan Zelenskyj uppnå i mötet med Trump - DN
-- Serbien: Partilokaler sattes i brand - GP
-- Mörka sanningen bakom Kim Jong- Uns skrytbygge - Expressen
-- DN Direkt - Få ministrar anmäler jäv – trots aktieinnehav - DN.se - DN
+- Trump: Inget Nato-medlemskap för Ukraina - Hufvudstadsbladet
+- Must: Landerholms handlingar kan skada landets försvar om de röjs - DN
+- Man död i krock med lastbil - GP
+- Nu drar nästa jätteutbyggnad av E22 genom Lund igång - Sydsvenskan
 - Ronny fick 18 blåmärken på demensboendet: ”Fingrar syns över hela armarna” - Smålandsposten
-- Ödesmöte för Zelenskyj – då sluter Europa upp - GP
+- Ingmar Nevéus: Detta kan Zelenskyj uppnå i mötet med Trump - DN
 - Stopp på E4 vid Gröndal i Stockholm - SVT Nyheter
-- Öppen spricka – kritiken mot SD - Expressen
 - Tröstar varandra på flygfältet i Strömstad efter dödsolyckan: ”Fortfarande chockade” - GP
-- Kvinna förd till sjukhus efter dykolycka på Limhamn - SVT Nyheter
-- DN Direkt - Mittenkandidat tar ledningen i Bolivia-val - DN.se - DN
-- Trump: Inget Nato-medlemskap för Ukraina - GP
+- Nu inleds ekumeniska veckan – med flera kontroversiella inslag - Världen idag
+- Those of you heading to Astana: ask the IFLA people what they’re thinking - Biblioteksbladet
+- Ny våg av protester i Serbien – partilokal i brand - DN
 - Hundratusentals samlades för protester vid torg i Tel Aviv - SVT Nyheter
+- Europeiska ledare följer Zelenskyj till Vita huset - GP
 - Putin hyllas efter mötet: Gav ingenting – fick ändå allt - DN
 - Kläms från två håll – kan Coop överleva krisen? - SvD
+- Nytt superbatteri – håller i 5,8 miljoner kilometer - Dagens PS
+- Så får du råd med både hyra och nöjen som student i höst • 10 tips - Expressen
 - Ministrar med bankaktier beslutade om bankskatt – anmälde inte jäv - SVT Nyheter
-- ”Fanns uppskruvade förhoppningar” - Sydsvenskan
-- Svenska bolaget som hjälper Europa i slaget om rymden - EFN
-- Katter kan ge alzheimermedicin - Aftonbladet
-- Quentin Tarantino utser sin bästa film: "Mitt mästerverk" - MovieZine
+- Bråttom för it-chefer när deadline för Windows 10 närmar sig - Computer Sweden
+- Misha Istratov: I fjällets tystnad avslöjas vår börda - tidningensyre.se
 
 ## World News
 
@@ -62,11 +62,11 @@ _Updated: 2025-08-18 05:50_
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- ZenaTech’s ZenaDrone Initiates AUVSI Membership Upgrade, Enabling Leadership on Drone Policy and Strengthening US Defense and Government Engagement - Placera.se
 - Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
@@ -76,23 +76,23 @@ _Updated: 2025-08-18 05:50_
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- Accord Announces Amendment to its Banking Facility - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Accord Announces Second Quarter Financial Results - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- REPAY Appoints New Chief Financial Officer - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- REPAY Appoints New Chief Financial Officer - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Mark A. Chancy Elected to Wells Fargo’s Board of Directors - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
+- VBI Vaccines Secures $50 Million Debt Financing From K2 HealthVentures - Placera.se
 
 ## Health
 
@@ -105,6 +105,7 @@ _Updated: 2025-08-18 05:50_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
@@ -115,7 +116,6 @@ _Updated: 2025-08-18 05:50_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
