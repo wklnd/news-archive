@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-18 21:48_
+_Updated: 2025-08-18 22:49_
 
-- Trump-Zelenskyy meeting live updates as leaders hold Ukraine talks at White House - CBS News
-- Texas Democrats End Walkout, Allowing Redrawn Map to Pass - The New York Times
-- Trump says he will lead 'movement' to end mail-in voting - ABC News
+- Trump, Zelenskyy open to Putin talks as Europeans push for a ceasefire: Live updates - CNBC
 - Hurricane Erin: No direct hit forecast on U.S., but flood risks prompt evacuations - NPR
-- Versant to rename MSNBC, drop famed peacock logos in Comcast separation - CNBC
+- Trump vows to end use of mail-in ballots ahead of 2026 midterm election - Reuters
+- Cable’s MSNBC will change its name later this year as part of corporate divorce from NBC - AP News
+- Texas Democrats End Walkout, Allowing Redrawn Map to Pass - The New York Times
 - Why is Donbas region becoming a defining faultline in Ukraine talks? - The Guardian
+- Zelensky Suits Up for Trump - The New York Times
 - Conservative network Newsmax agrees to pay $67M in defamation case over bogus 2020 election claims - AP News
-- Mississippi becomes fourth state to send National Guard troops to DC in expanding federal crackdown - AP News
+- ‘Ketamine Queen’ accused of selling fatal dose to Matthew Perry agrees to plead guilty - CNN
 - Pa. Treasurer Stacy Garrity launches GOP challenge to Josh Shapiro for governor - Politico
-- 3 Utah police officers shot, 2 killed in Tremonton - KSL.com
-- Air Canada cabin crews strike for third day as dispute strands passengers - Reuters
+- Hamas accepts proposed deal for ceasefire with Israel and hostage release, Egyptian source says - Reuters
 - Hong Kong court begins hearing final arguments in Jimmy Lai’s national security trial - AP News
 - Explosion and fire at factory in Russia kill 24 people, injure over 150 - CBS News
-- Hamas agrees to latest Gaza ceasefire proposal, source in group says - BBC
+- Leaked recording reveals ex-Israeli military intelligence chief calling 50,000 deaths in Gaza ‘necessary’ - CNN
+- Stocks end Monday little changed as investors look ahead to Powell speech, retail earnings: Live updates - CNBC
+- Soho House to go private in $2.7-billion deal, actor Ashton Kutcher to join board - Reuters
+- Air Canada Flight Attendants Remain on Strike After Walkout Deemed Illegal - The New York Times
 - Stocks often rise the week of the Fed’s big Jackson Hole gathering. Don’t count on it this year. - MarketWatch
-- Trump administration in talks to take 10% stake in Intel, Bloomberg News reports - Reuters
-- Soho House to Be Taken Private in $2.7 Billion Deal - The New York Times
-- Novo Nordisk halves US price of Ozempic - Financial Times
-- I'm sad the Battlefield 6 beta is over, but this 2042 event keeps the party going even if the cool kids have already gone home - Eurogamer
 - Samsung Introduces Galaxy Buds3 FE With Iconic Design, Enhanced Sound and Galaxy AI Integration - Samsung Newsroom
+- I'm sad the Battlefield 6 beta is over, but this 2042 event keeps the party going even if the cool kids have already gone home - Eurogamer
