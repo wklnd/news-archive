@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-18 07:47_
+_Updated: 2025-08-18 08:56_
 
 ## Top Stories
 
 - Nu tar Trump emot Zelenskyj i Vita huset igen - Västerbottens-Kuriren
+- Rättegången mot Landerholm börjar – ”FM101” hörs under hemlig identitet - DN
 - DN Direkt - Serbiens president: ”Vi ska återställa lag och ordning” - DN.se - DN
 - Man frontalkrockade med lastbil – avled på platsen - Hem - Värnamo
-- Must: Landerholms handlingar kan skada landets försvar om de röjs - DN
-- Nu drar nästa jätteutbyggnad av E22 genom Lund igång - Sydsvenskan
-- Ronny fick 18 blåmärken på demensboendet: ”Fingrar syns över hela armarna” - Smålandsposten
-- Bassam dödades – nu återvänder svågern till skolan: ”Måste kämpa" - Omni
+- Alex Schulman: Våra öden ligger i händerna på två pajaser - DN
+- Ministern svänger om patienter från Gaza - GP
+- Risbergska skolan öppnar efter Örebrodådet - GP
 - Stopp på E4 vid Gröndal i Stockholm - SVT Nyheter
+- Lotta Ilona Häyrynen: Arla-korna råmar efter mer arbetskraftsinvandring - ETC.se
 - Tröstar varandra på flygfältet i Strömstad efter dödsolyckan: ”Fortfarande chockade” - GP
-- Kvinna misstänks ligga bakom mordet på sin svärdotter - DN
 - Hundratusentals samlades för protester vid torg i Tel Aviv - SVT Nyheter
-- Tre dödade i rysk drönarattack - Dagens industri
-- USA hävdar ryska eftergifter inför toppmöte - Västerbottens-Kuriren
-- Europeiska ledare följer Zelenskyj till Vita huset - GP
+- Tre dödade i rysk drönarattack - Aftonbladet
+- Mittenkandidat tar ledningen i Bolivia-val - Västerbottens-Kuriren
+- Politico: Stubb till Washington med Zelenskyj - Hufvudstadsbladet
 - Kläms från två håll – kan Coop överleva krisen? - SvD
+- Experterna varnar: Mörkare tider väntar börsen – fem faktorer styr - Dagens industri
 - Nytt superbatteri – håller i 5,8 miljoner kilometer - Dagens PS
-- Så får du råd med både hyra och nöjen som student i höst • 10 tips - Expressen
-- Ministrar med bankaktier beslutade om bankskatt – anmälde inte jäv - SVT Nyheter
+- Så fixar du ekonomin som student - Cision News
 - Bråttom för it-chefer när deadline för Windows 10 närmar sig - Computer Sweden
 - Misha Istratov: I fjällets tystnad avslöjas vår börda - tidningensyre.se
 
@@ -63,13 +63,13 @@ _Updated: 2025-08-18 07:47_
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
+- Highrise AI Introduces New Chief Technology Officer, Former Head of AI and R&D for the IDF Sigma Branch, Mark Mendelman - Placera.se
 
 ## Business
 
@@ -89,8 +89,8 @@ _Updated: 2025-08-18 07:47_
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
@@ -120,32 +120,30 @@ _Updated: 2025-08-18 07:47_
 ## Science
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Simple math behind major bison blunder - Forskning & Framsteg
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 - Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
 - DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Möt forskare i Umeå digitalt på ForskarFredag den 27 november! - Mynewsdesk
+- Emmanuelle Charpentier tilldelas The Breakthrough Prize in Life Sciences - Mynewsdesk
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
@@ -155,10 +153,12 @@ _Updated: 2025-08-18 07:47_
 - Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Stora anslag för innovationer i lantbruket - Lantbruksnytt
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
