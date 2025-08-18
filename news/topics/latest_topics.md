@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-18 11:47_
+_Updated: 2025-08-18 12:48_
 
 ## Top Stories
 
-- Uppgifter: Europa kan skicka soldater till Ukraina - Expressen
-- Rättegången mot Landerholm inleds – det står på spel - SVT Nyheter
-- DN Direkt - Rättegången mot Landerholm börjar – ”FM101” hörs under hemlig identitet - DN.se - DN
-- Stora protester i Israel mot kriget - Hufvudstadsbladet
-- En frihetsberövad efter dödsskjutning - GP
-- Nu tar Trump emot Zelenskyj i Vita huset igen - Västerbottens-Kuriren
-- Ministern svänger om patienter från Gaza - GP
+- Sport: Legendariske SVT-medarbetaren Agne Jälevik har avlidit - SVT Nyheter
+- Tonårsflicka förberedde mord på skolbarn - SvD
+- Rättegången mot Landerholm börjar – ”FM101” hörs under hemlig identitet - DN
+- IDF:s plan för att ta över Gaza stad klar – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Man i 20-årsåldern död efter krock med lastbil - Aftonbladet
+- En frihetsberövad efter dödsskjutning - Västerbottens-Kuriren
+- Ministern svänger om patienter från Gaza - Nyheter24
+- Jobbministern går emot Tidö-avtalet om arbetskraftsinvandring: ”Inte bra för Sverige” - Arbetet
+- Misstänkt anstiftare utlämnad från Chile - polisen.se
 - DN Direkt - Risbergska skolan öppnar efter Örebrodådet - DN.se - DN
-- Flera äldre utsatta för bedrägeri – smycken stals - VLT
-- ”Inte bra för Sverige” - Arbetet
+- Trump: Inget Natomedlemskap för Ukraina - Hufvudstadsbladet
 - DN Direkt - Brandman bland de döda i spanska skogsbränder - DN.se - DN
 - Ingmar Nevéus: Därför har smicker och beröm blivit ett måste i mötena med Trump - DN
 - Thunberg i klimataktion vid norskt raffinaderi - GP
-- Politico: Stubb till Washington med Zelenskyj - Hufvudstadsbladet
-- Storbanker spår medvind för Vestas efter USA-klargörande - Dagens industri
 - Kläms från två håll – kan Coop överleva krisen? - SvD
-- Öresunds VD om kursraketen: "Gamechanger för bolaget" - Affärsvärlden
+- Storbanker spår medvind för Vestas efter USA-klargörande - Dagens industri
 - Sam Altman: AI-hajpen på börsen kan vara en bubbla - EFN
+- EU sneglar på Sverige – vill skapa investeringsunion - Omni
+- Försäljningen av smarta glasögon fortsätter stiga - Computer Sweden
 - Bråttom för it-chefer när deadline för Windows 10 närmar sig - Computer Sweden
-- Påminnelse: elnätsföretag ska rapportera in uppgifter om omdirigering - Energimarknadsinspektionen
 
 ## World News
 
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- Riad Beladi i samtal med Alice Ancona, operativ chef för World Trade Center Miami – Fokus på America Food & Beverage Show & Conference – International Supermarket News - International Supermarket News
 - Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- How RFK Jr is eroding global trust in vaccines - Poddtoppen
+- Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- REMAX Sells Master Franchise Rights in Malaysia, Expanding the Global Brand's Presence in Southeast Asia - Placera.se
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Liberty International i Stockholm växer - travelnews.se
 - CME Group Opens Registration for 22nd Annual Global University Trading Challenge - Placera.se
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - MLK Listed on Binance Alpha, Spotlighting Its Global Loyalty Platform Potential - Placera.se
-- Fastigheter i Portugal motstår global osäkerhet - The Portugal News
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - Den hetaste nya trenden inom global utbildning - The Portugal News
 
@@ -53,11 +53,11 @@ _Updated: 2025-08-18 11:47_
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
-- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
+- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
-- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
+- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
@@ -123,42 +123,42 @@ _Updated: 2025-08-18 11:47_
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
-- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
-- Simple math behind major bison blunder - Forskning & Framsteg
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Jordbruk och landsbygdsutveckling - European Commission
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
+- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Tuffa tider väntar för engelskt jordbruk - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Här är världens största jordbruk - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Stora anslag för innovationer i lantbruket - Lantbruksnytt
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Tio jordbruksaktier för depån - Placera.se
+- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
