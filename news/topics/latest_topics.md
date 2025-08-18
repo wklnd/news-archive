@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-18 15:11_
+_Updated: 2025-08-18 15:53_
 
 ## Top Stories
 
+- Zelenskyj hoppas på gemensam sak med USA - DN
 - Besked om åtal mot norske ”bonusprinsen” - SVT Nyheter
-- Orpo: Finland och Europa står vid Ukrainas sida - Hufvudstadsbladet
-- Flickan planerade skoldåd – döms till rättspsykiatrisk vård - Aftonbladet
-- Rättegången mot Landerholm börjar – ”FM101” hörs under hemlig identitet - DN
-- Dödskrasch på väg 117 – precis intill Christoffers gård - Kristianstadsbladet
-- En frihetsberövad efter dödsskjutning - Västerbottens-Kuriren
-- Misstänkt anstiftare utlämnad från Chile - polisen.se
-- Uppmanas fortsätta spara vatten: ”Har lyssnat” - Västerbottens-Kuriren
+- Man i 20-årsåldern död efter krock med lastbil - Aftonbladet
+- Tonårsflicka förberedde mord på skolbarn - SvD
+- Priset Ukraina måste betala för att få slut på kriget - Aftonbladet
+- 397 miljoner kronor senare – nu öppnar Furutåskolan - Smålandsposten
+- Rättegången mot Landerholm inleds – det står på spel - SVT Nyheter
+- Skjutningen vid moskén i Örebro: En person gripen för medhjälp till mord - SVT Nyheter
 - Saco: Vi backar Britz om arbetskraftsinvandring - Altinget.se
-- Flera utsatta för bedrägeri – smycken stals - VLT
+- Misstänkt anstiftare utlämnad från Chile - polisen.se
 - Brandman bland de döda i spanska skogsbränder - SVT Nyheter
+- Krigströtta soldater i Kiev: ”Samtalen måste fortsätta” - DN
 - Ingmar Nevéus: Därför har smicker och beröm blivit ett måste i mötena med Trump - DN
 - Alex Schulman: Våra öden ligger i händerna på två pajaser - DN
-- ”Det här är inte en höger- eller vänsterfråga” - Omni
+- Saab förvärvar företaget Deform i Degerfors - Cision News
 - Väntas ligga still: ”Står inför tuffa avvägningar” - EFN
 - Uppfann pekskärmen – vill åter utmana jättarna - SvD
-- Storbanker spår medvind för Vestas efter USA-klargörande - Dagens industri
-- Öresunds VD om kursraketen: "Gamechanger för bolaget" - Affärsvärlden
+- Novo Nordisk: Köpvärd efter tungt fall - Affärsvärlden
 - Försäljningen av smarta glasögon fortsätter stiga - Computer Sweden
 - Påminnelse: elnätsföretag ska rapportera in uppgifter om omdirigering - Energimarknadsinspektionen
 
@@ -32,7 +32,6 @@ _Updated: 2025-08-18 15:11_
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
-- Morocco Arrests Swedish Citizen Subject to International Arrest Warrant - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
@@ -47,12 +46,12 @@ _Updated: 2025-08-18 15:11_
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Jollibee and Global Girl Group KATSEYE Ignite Partnership to Create Joyful New Connections with Their North American Fans - Placera.se
 - Den hetaste nya trenden inom global utbildning - The Portugal News
+- Portugalidade - En ny global studie - The Portugal News
 
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -63,12 +62,13 @@ _Updated: 2025-08-18 15:11_
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 
 ## Business
@@ -123,22 +123,22 @@ _Updated: 2025-08-18 15:11_
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
@@ -153,12 +153,12 @@ _Updated: 2025-08-18 15:11_
 - Jordbruk och landsbygdsutveckling - European Commission
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
+- Stora anslag för innovationer i lantbruket - Lantbruksnytt
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Små jordbruk kan mätta fler - FoodMonitor
+- De gick från reko till eko - ST-tidningen
