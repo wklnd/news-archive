@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-19 19:48_
+_Updated: 2025-08-19 20:53_
 
-- Inside Trump world's reaction to the Zelenskyy reset - Politico
-- Hurricane Erin threatens dangerous surf for much of the East Coast as a new tropical system brews in its wake - CNN
-- In Battle Over D.C. Police, Federal Prosecutors Open Inquiry Into Crime Data - The New York Times
-- Rubio to lead Ukraine security guarantees talks, with Trump promising air support - Axios
-- Canada's Conservative leader Pierre Poilievre wins back parliament seat - BBC
-- Businesses face 'chaos' as EPA aims to repeal its authority over climate pollution - NPR
-- Air Force chief abruptly retires early in latest Pentagon shakeup - CNN
-- Trump Energy secretary: ‘We’re going to get blamed’ for rising power prices — but they’re Democrats’ fault - Politico
-- Exclusive: White House eyes Budapest for peace talks with Zelenskyy and Putin - Politico
+- Hurricane Erin update: Forecast sees huge storm moving closer to U.S. - NPR
+- Trump rules out sending US troops to Ukraine as part of security guarantees - BBC
+- House panel to make Epstein files public after redactions to protect victim identities - CNN
+- President Trump Recaps Breakthroughs in Ukraine Peace Talks - The White House (.gov)
+- As DOJ threatens WA over sanctuary laws, state officials double down on protections - KUOW
 - Rep. Nicole Collier spends night on Texas House floor after refusing police escort - The Texas Tribune
-- Air Canada to resume flights after making deal to end cabin crew strike - The Washington Post
+- Trump offers ‘assurance’ U.S. won’t send ground troops to Ukraine - The Washington Post
+- Air Force chief abruptly retires early in latest Pentagon shakeup - CNN
+- In Battle Over D.C. Police, Federal Prosecutors Open Inquiry Into Crime Data - The New York Times
+- Over 6,000 student visas revoked for crimes and overstays, U.S. says - The Washington Post
+- Air Canada says flights will resume Tuesday night after flight attendants strike ends - NPR
 - Israel weighs Hamas response to Gaza ceasefire proposal - Reuters
-- Wang Yi: China and India should be partners, not adversaries says foreign minister - BBC
 - Spain battles record wildfires even as the end of a heat wave brings lower temperatures - NPR
-- US Stocks Fall as Investors Parse Retail Earnings, Await Powell - Bloomberg.com
-- Trump admin pours cold water on its hot Intel deal - Axios
+- Peruvian woman arrested in Bali for smuggling drugs in sex toy - BBC
+- US wants equity stake in Intel for cash grants approved under Biden - Reuters
+- Dow briefly hits record high as Home Depot puts focus on retail earnings - Reuters
+- Owner of Denver’s Fox31 buying 9News parent company Tegna in deal worth $6.2 billion - The Denver Post
 - Home Depot Warns Prices Could Change As It Misses Earnings and Revenue Estimates - Forbes
-- Nexstar Media Group, Inc. Enters into Definitive Agreement To Acquire TEGNA Inc. for $6.2 Billion in Accretive Transaction - Nexstar Media Group, Inc.
 - How to watch Gamescom Opening Night Live 2025 - The Verge
-- Jimmy Fallon is ‘officially hosting’ Google’s Pixel 10 event - 9to5Google
+- ASUS Unveils ROG Matrix GeForce RTX 5090 “30th Anniversary Edition” Graphics Card: Up To 800W Power, Quad Axial-Tech Fans & Premium PCB With BTF Design - Wccftech
