@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-19 11:49_
+_Updated: 2025-08-19 12:51_
 
-- Trump calls Putin at White House summit to arrange talks with Zelensky - Axios
+- 5 Takeaways From Trump’s Meeting With Zelensky and European Leaders - The New York Times
+- Hurricane Erin drives dangerous waves to East Coast as new tropical system brews in its wake - CNN
 - The GOP spent millions supporting mail ballots. Now Trump’s attacking them again. - Politico
-- Hurricane Erin Brings Rip Currents Closing Jersey Shore and Rehoboth Beaches - The New York Times
-- Democratic Texas lawmaker spending night on state House floor after refusing GOP demand for law enforcement escort - CNN
-- Why Donald Trump Is the World’s Worst Negotiator: Aide - The Daily Beast
-- Bryan Kohberger's behavior alarmed university faculty and students before Idaho murders, documents show - CBS News
+- Fort Worth Rep. Nicole Collier remains on House floor after refusing escort: 'I refuse to sign away my dignity.' - WFAA
+- Putin’s “land swap” is really a grab for Ukraine’s fortress belt - The Economist
+- Newspaper headlines: 'Suited not booted' and 'property tax shake-up' - BBC
+- University colleagues warned of Bryan Kohberger’s sexist, creepy behavior before Idaho murders - The Independent
 - Security footage shows July 26 stabbing spree at Grand Traverse County Walmart - The Detroit News
-- Zelenskyy wears military-style ‘suit’ to Trump summit - politico.eu
-- 3 more GOP governors authorize deployment of National Guard troops as part of Trump show of force - AP News
-- Box Elder County deputy injured in Tremonton shooting identified - KUTV
+- Inside Trump's three-step strategy for Russia-Ukraine peace talks - Axios
+- Why Donald Trump Is the World’s Worst Negotiator: Aide - The Daily Beast
+- Hamas Accepts New Gaza Cease-Fire Proposal, Officials Say - The New York Times
 - Air Canada CEO amazed by union's defiance of ruling to end strike - Reuters
 - Explosion and fire at factory in Russia kill 24 people, injure over 150 - CBS News
-- Hamas accepts an Arab ceasefire proposal on Gaza as Palestinian death toll passes 62,000 - AP News
 - Jimmy Lai: Closing arguments in Hong Kong tycoon national security trial begin - NPR
-- SoftBank to Invest $2 Billion in Intel as Part of US Push - Bloomberg.com
+- Crypto Traders Eye Jackson Hole as Ether, XRP, Solana Drop Sharply in Retreat - CoinDesk
+- Stock futures tick down as retail earnings roll in, traders await Powell speech: Live updates - CNBC
 - Soho House bought in £2bn deal as Ashton Kutcher joins board - BBC
-- US spy chief Gabbard says UK agreed to drop 'backdoor' mandate for Apple - Reuters
-- Bitcoin bull and billionaire files for $250M SPAC targeting DeFi, AI - Cointelegraph
+- SoftBank held talks with Intel on buying contract chipmaking business - Financial Times
+- How Google’s Pixel 10 Pro Will Change Smartphones Forever - Forbes
 - Nvidia’s app gets global DLSS override and more control panel features - The Verge
-- Mac mini Refresh Is Apparently In Development, With Apple Expected To Offer The M5 And M5 Pro Options At Launch; Unveiling Could Happen In A Few Months - Wccftech
