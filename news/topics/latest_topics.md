@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-19 20:49_
+_Updated: 2025-08-19 21:38_
 
 ## Top Stories
 
-- Kiruna kyrka rullas bort till jubel och tårar - DN
+- Källor: Här kan mötet mellan Putin och Zelenskyj äga rum - DN
 - Alex Voronov Europas politiker tvingas spela med i Trumps teater - GP
-- FHM:s generaldirektör: Kompetensen finns visst - DN
-- Schweiz redo erbjuda Putin immunitet - Hufvudstadsbladet
-- Rån på Emporia – ordningsvakt påkörd - SVT Nyheter
-- Barn påkört av bil i Märsta - UNT
-- DN Direkt - L: Höj inte lönekravet för arbetskraftsinvandrare - DN.se - DN
+- Kolla in: Kiruna kyrka har börjat rulla - Västerbottens-Kuriren
+- Forssmed har pratat med Folkhälsomyndigheten efter kritiken - SVT Nyheter
+- Stökigt på Emporia när tjuvar greps – ordningsvakt påkörd - Sydsvenskan
+- Ladugård brann – stort räddningspådrag: ”Fullt utvecklad brand” - NWT
+- Regeringens svek mot företagen - UNT
 - Ras av antalet skolbarn – behov av 700 grundskolor på väg försvinna - DN
 - Tiktokmynt, gåvor och dueller – så funkar pengaspelet bakom livesändningarna - Sydsvenskan
-- Epsteinutredningen ska offentliggöras - expressen.se
+- DN Direkt - Gällöfsta-anställda hördes om Landerholms dokument - DN.se - DN
 - Åsa Beckman: Marius och prins Andrew tävlar i vem som skämmer ut monarkin mest - DN
 - Håkan Boström: Någon perfekt fred mellan Ukraina och Ryssland finns inte - GP
-- Experten: Trump har inte avslutat 6 krig - expressen.se
 - Kristersson: En aggressor får aldrig belönas - Aftonbladet
-- Expertens råd på börsen till småsparare i höst - Dagens PS
+- Kunden fick naglar i sin glass - GP
 - Små rörelser på Stockholmsbörsen – Balder backar efter Erik Selins avgång - Dagens industri
-- Se upp för dolda fällan när du sparar i fonder - expressen.se
+- Expertens råd på börsen till småsparare i höst - Dagens PS
 - Varningen: Räntevapnet har tappat sin kraft - SvD
+- Se upp för dolda fällan när du sparar i fonder - Expressen
 - Angeles Bermudez-Svankvist är död - Omni
-- Gamescom – här är nyheterna från Opening night live - Aftonbladet
+- DN Direkt - Upptäckt: ny mini-måne - DN.se - DN
 
 ## World News
 
@@ -104,18 +104,18 @@ _Updated: 2025-08-19 20:49_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 
 ## Science
 
@@ -129,16 +129,16 @@ _Updated: 2025-08-19 20:49_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 - Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
 
 ## Jordbruk
 
@@ -153,7 +153,6 @@ _Updated: 2025-08-19 20:49_
 - Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - (+) Stor undersökning av jordbruket - Arbetarskydd
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
@@ -162,3 +161,4 @@ _Updated: 2025-08-19 20:49_
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
