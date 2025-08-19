@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-19 17:50_
+_Updated: 2025-08-19 18:53_
 
-- Inside Trump world's reaction to the Zelenskyy reset - Politico
+- 5 Takeaways From Trump’s Meeting With Zelensky and European Leaders - The New York Times
 - Hurricane Erin threatens dangerous surf for much of the East Coast as a new tropical system brews in its wake - CNN
-- Newspaper headlines: 'Suited not booted' and 'property tax shake-up' - BBC
-- The War Room newsletter: Why Putin’s peace plan is more like poison - The Economist
-- Businesses face 'chaos' as EPA aims to repeal its authority over climate pollution - NPR
-- Texas House redistricting committee advances bill with new congressional maps - ABC News
-- Powerball grows to $643 million jackpot after no one wins Monday - ABC News
-- The Politics of Crime Are Perilous for Left and Right Alike - The New York Times
+- Zelenskyy broke his MO and showed up at the White House in a suit. This is why — and how — you should dress up for big meetings. - Business Insider
+- Rubio to lead Ukraine security guarantees talks, with Trump promising air support - Axios
+- MSNBC will change its name to MS NOW as part of split from NBC - PBS
+- The GOP spent millions supporting mail ballots. Now Trump’s attacking them again. - Politico
+- Fort Worth Rep. Nicole Collier refuses to leave Texas House, protesting state trooper escorts - KERA News
 - D.C.'s crime numbers are all the buzz. But how do we interpret them accurately? - NPR
-- Bryan Kohberger's behavior alarmed university faculty and students before Idaho murders, documents show - CBS News
-- Air Canada reaches deal with flight attendant union to end strike, operations to gradually restart - AP News
-- Mediators await Israeli response to new Gaza ceasefire proposal - BBC
-- China pledges to address India's rare earth needs, Indian source says - Reuters
-- Russia launches largest attack of August on Ukraine after Trump-Zelenskyy meeting - ABC News
-- Dow rises to fresh record, but Nasdaq falls led by Nvidia: Live updates - CNBC
-- Home Depot Sticks To Outlook. Why Analysts See Upside. - Investor's Business Daily
-- Nexstar agrees to buy Tegna for $6.2 billion, a massive consolidation of local TV stations - CNN
-- Fed Chair Powell’s Jackson Hole Speech Could Jolt Markets: Evercore Warns of 15% Drop - Investopedia
-- The Morning After: What to expect at Google’s Pixel 10 event tomorrow - Engadget
-- iPhone 18 Could Drop Camera Control Button, Claims Dubious Rumor - MacRumors
+- Hegseth pushes out Air Force chief of staff in latest Pentagon shake-up - CNN
+- Commentary: Newsom's redistricting move isn't pretty. California GOP leaders are uglier - Los Angeles Times
+- Air Canada to resume flights after making deal to end cabin crew strike - The Washington Post
+- Israel weighs Hamas response to Gaza ceasefire proposal - Reuters
+- Spain battles record wildfires even as the end of a heat wave brings lower temperatures - NPR
+- Passenger Jet Makes Emergency Landing After Flames Erupt Near Engine Mid-Flight - TMZ
+- Home Depot says it will raise some prices because of tariffs - CNN
+- Stock Market Today: Dow Rises After Home Depot Kicks Off Retail Earnings; Intel Stock Rallies — Live Updates - The Wall Street Journal
+- Nexstar Media Group, Inc. Enters into Definitive Agreement To Acquire TEGNA Inc. for $6.2 Billion in Accretive Transaction - Nexstar Media Group, Inc.
+- U.K. Government Drops Apple Encryption Backdoor Order After U.S. Civil Liberties Pushback - The Hacker News
+- Spotify’s new track mixing tool adds DJ features to your playlists - The Verge
+- Jimmy Fallon is ‘officially hosting’ Google’s Pixel 10 event - 9to5Google
