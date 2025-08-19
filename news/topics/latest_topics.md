@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-19 08:51_
+_Updated: 2025-08-19 09:40_
 
 ## Top Stories
 
-- Trump: Möte mellan Zelenskyj och Putin planeras - Hufvudstadsbladet
+- Trump: ”Planerar möte mellan Putin och Zelenskyj” - DN
 - Kiruna kyrka har börjat rulla - GP
 - Skottlossning i villaområde – polisen söker med hund - HD
-- Explosion i lägenhet i Malmö – en anhållen - SVT Nyheter
+- Explosion i lägenhet i Malmö - SvD
+- Stopp på Roslagsbanan – hänvisar till alternativa vägar - SVT Nyheter
 - Förebyggarteamet på plats i Vilbergen efter explosion - Norrköpings kommun
-- Alex Schulman: Våra öden ligger i händerna på två pajaser - DN
 - Annie Reuterskiöld: Enkla regeln Landerholm borde känt till - DN
 - Ministern vill trotsa Tidöavtalet om lönekrav - GP
 - Kungsbackabo död i fallskärmsolycka - Norra Halland
 - Magnus Gisslén slutar som statsepidemiolog – kritiserar FHM - SVT Nyheter
-- Israel om förslag: Hamas under stor press – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Källor: Hamas-ja till förslag om vapenvila – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Zelenskyjs anklagelse inför mötet: ”Demonstrativa och cyniska attacker” - Aftonbladet
+- Melanias brev till Putin –Zelenskyjs fru svarar - Aftonbladet
 - Epsteinutredningen ska offentliggöras - Expressen
-- Stora demonstrationer i Norge – Greta Thunberg på plats - Expressen
-- Analyshus: Inget kursdrama efter Erik Selins uttåg - Dagens industri
+- Uppåt på Stockholmsbörsen – Balder backar efter Erik Selins avgång - Dagens industri
+- Varningen: Räntevapnet har tappat sin kraft - SvD
 - LEDARE: Ett Novo Nordisk på bantningskur är bättre än ett helt Danmark utan aptit. - HD
-- Storbanken: Ingen mer räntesänkning i år - SvD
-- FI: "De flesta bör inte köpa krypto” - SvD
+- FI: "De flesta bör inte köpa krypto” - Västerbottens-Kuriren
+- BILDEXTRA: Besöksrekord: ”Det är Ledin-effekten” - Tidningen Ångermanland
 - Därför är vi inte imponerade av Samsungs nya flippmobil - m3.se
-- Det finns en gräns för hur mycket värme fåglar klarar av - Cision News
 
 ## World News
 
@@ -51,48 +51,48 @@ _Updated: 2025-08-19 08:51_
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
-- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
+- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
-- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
+- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 
 ## Business
 
 - DeFi Technologies Announces Inaugural Insights Symposium to Be Held in Frankfurt on September 25, 2025 - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
+- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Accord Announces Amendment to its Banking Facility - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Accord Announces Amendment to its Banking Facility - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- REPAY Appoints New Chief Financial Officer - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- REPAY Appoints New Chief Financial Officer - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- SIGMA LITHIUM STREAMLINES LEADERSHIP COMBINING KEY ROLES UNDER VETERAN VPs; ANNOUNCES SHAREHOLDER MEETING RESULTS; TO RELEASE 2Q FINANCIALS ON AUG 14, 2025 - Placera.se
 
 ## Health
 
@@ -104,7 +104,6 @@ _Updated: 2025-08-19 08:51_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
@@ -113,8 +112,9 @@ _Updated: 2025-08-19 08:51_
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
@@ -144,6 +144,7 @@ _Updated: 2025-08-19 08:51_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
@@ -154,11 +155,10 @@ _Updated: 2025-08-19 08:51_
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
