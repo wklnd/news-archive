@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-20 00:48_
+_Updated: 2025-08-20 01:48_
 
-- Trump administration revokes security clearances of 37 current and former government officials - AP News
-- Trump rules out sending US troops to Ukraine as part of security guarantees - BBC
-- Hurricane Erin update: Forecast sees huge storm moving closer to U.S. - NPR
-- Trump vows to try banning mail-in voting before 2026 midterm elections — can he do that? - CBS News
-- Justice Department is investigating whether D.C. police manipulated crime data - NBC News
-- Trump says he has instructed lawyers to look into "woke" in Smithsonian museums - Axios
-- Gov. Tina Kotek doubles down on Oregon’s sanctuary laws in response to U.S. AG - OregonLive.com
-- House panel to make Epstein files public after redactions to protect victim identities - CNN
-- Will Putin meet with Zelensky to end the Ukraine war? - The New York Times
+- MAGA isolationists brace for details of Ukraine security guarantees - Axios
+- Hurricane Erin forces Outer Banks evacuations as beaches close along the East Coast - CBS News
+- Tulsi Gabbard revokes security clearances of 37 current and former national security officials - CNN
+- White House eyes Budapest for peace talks with Zelenskyy and Putin - Politico
+- Trump says Smithsonian should portray America's 'Brightness,' not 'how bad Slavery was' - ABC News
+- In Battle Over D.C. Police, Federal Prosecutors Open Inquiry Into Crime Data - The New York Times
+- Wu fires back at Bondi's demand to shed so-called 'sanctuary' policies, saying 'Boston will never back down' - WBUR
+- Can Trump really ban mail-in voting? - BBC
 - USCIS to Consider Anti-Americanism in Immigrant Benefit Requests - USCIS (.gov)
+- House panel to make Epstein files public after redactions to protect victim identities - CNN
 - Air Canada reaches deal with flight attendant union to end strike as operations will slowly restart - AP News
 - Israel weighs Hamas offer of 60-day Gaza truce and hostage release - Reuters
+- Spain battles record wildfires even as the end of a heat wave brings lower temperatures - NPR
 - Woman arrested in Bali over cocaine allegedly smuggled in sex toy, could face death penalty if convicted - CBS News
-- India, China agree to resume direct flights, boost business links - Reuters
 - Walmart shrimp may have been exposed to radioactive material, FDA says - NBC News
-- Dow Jones Today: S&P 500, Nasdaq Fall as Tech Stocks Tumble; Dow Closes Little Changed After Touching All-Time High - Investopedia
+- Intel Stock Jumps on SoftBank Investment. Why It’s a Big Deal. - Barron's
+- US spy chief Gabbard says UK agreed to drop 'backdoor' mandate for Apple - Reuters
 - America has 5 wealth classes. See where you fit in — and how much it takes to reach the upper echelons. - MarketWatch
-- Economic Data Has Taken a Dark Turn. That Doesn’t Mean a Crash Is Near. - The New York Times
-- How to watch Gamescom Opening Night Live 2025 - The Verge
-- Absolum is awesome and I can't wait to play it on October 9 - Engadget
+- Stylish Beat 'Em Up Roguelike 'Absolum' Magics Up Switch Release Date - Nintendo Life
+- Spotify’s new track mixing tool adds DJ features to your playlists - The Verge
