@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-19 19:41_
+_Updated: 2025-08-19 20:49_
 
 ## Top Stories
 
-- Forssmed har pratat med Folkhälsomyndigheten efter kritiken - SVT Nyheter
 - Kiruna kyrka rullas bort till jubel och tårar - DN
 - Alex Voronov Europas politiker tvingas spela med i Trumps teater - GP
-- Stökigt på Emporia när tjuvar greps – ordningsvakt påkörd - Sydsvenskan
-- Över 1 000 döda av spanska extremvärmen - GP
-- Treårigt barn påkört i Märsta - Expressen
-- Regeringens svek mot företagen - UNT
-- Misstänkt skytt gripen efter mord vid moské - Västerbottens-Kuriren
-- Barnafödandet går ner – här stängs två förskoleavdelningar - NWT
-- DN Direkt - Gällöfsta-anställda hördes om Landerholms dokument - DN.se - DN
-- Åsa Beckman: Marius och prins Andrew tävlar i vem som skämmer ut monarkin mest - DN
+- FHM:s generaldirektör: Kompetensen finns visst - DN
 - Schweiz redo erbjuda Putin immunitet - Hufvudstadsbladet
-- Kunden fick naglar i sin glass - GP
+- Rån på Emporia – ordningsvakt påkörd - SVT Nyheter
+- Barn påkört av bil i Märsta - UNT
+- DN Direkt - L: Höj inte lönekravet för arbetskraftsinvandrare - DN.se - DN
+- Ras av antalet skolbarn – behov av 700 grundskolor på väg försvinna - DN
+- Tiktokmynt, gåvor och dueller – så funkar pengaspelet bakom livesändningarna - Sydsvenskan
+- Epsteinutredningen ska offentliggöras - expressen.se
+- Åsa Beckman: Marius och prins Andrew tävlar i vem som skämmer ut monarkin mest - DN
 - Håkan Boström: Någon perfekt fred mellan Ukraina och Ryssland finns inte - GP
+- Experten: Trump har inte avslutat 6 krig - expressen.se
+- Kristersson: En aggressor får aldrig belönas - Aftonbladet
 - Expertens råd på börsen till småsparare i höst - Dagens PS
 - Små rörelser på Stockholmsbörsen – Balder backar efter Erik Selins avgång - Dagens industri
-- Se upp för dolda fällan när du sparar i fonder - Expressen
-- New Wave: Med förvärv på agendan - Affärsvärlden
+- Se upp för dolda fällan när du sparar i fonder - expressen.se
+- Varningen: Räntevapnet har tappat sin kraft - SvD
 - Angeles Bermudez-Svankvist är död - Omni
-- Det finns en gräns för hur mycket värme fåglar klarar av - Cision News
+- Gamescom – här är nyheterna från Opening night live - Aftonbladet
 
 ## World News
 
 - Avolta will grow its footprint with two new 10-year contracts at Atlanta International Airport, the World’s Busiest Airport - Placera.se
 - Skechers Named Title Sponsor of World Champions Cup; Shriners Children's Announced as Official Charity Partner; Feather Sound Country Club in Clearwater, Florida to host 2025 tournament - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
+- Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- BIG Travel går in i globalt partnerskap - travelnews.se
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
+- BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Liberty International i Stockholm växer - travelnews.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Timken Releases CSR Report, Showcasing Sustainable Innovation and Global Impact - Placera.se
 - Den hetaste nya trenden inom global utbildning - The Portugal News
+- Trend Micro Unmasks Global "Task Scam" Industry - Placera.se
 
 ## Technology
 
@@ -75,21 +75,21 @@ _Updated: 2025-08-19 19:41_
 
 - DeFi Technologies Announces Inaugural Insights Symposium to Be Held in Frankfurt on September 25, 2025 - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Accord Announces Amendment to its Banking Facility - Placera.se
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - REPAY Appoints New Chief Financial Officer - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - UDPN, G+D, and GFT Join CBMT Initiative to Enable Tokenized Commercial Bank Money for a More Digitalized Financial System - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- DeFi Technologies Reports All-Time High in Bitcoin Assets Under Management and Treasury Holdings - Placera.se
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
@@ -129,16 +129,16 @@ _Updated: 2025-08-19 19:41_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 - Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
-- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
@@ -153,6 +153,7 @@ _Updated: 2025-08-19 19:41_
 - Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - (+) Stor undersökning av jordbruket - Arbetarskydd
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
@@ -160,5 +161,4 @@ _Updated: 2025-08-19 19:41_
 - Stora anslag för innovationer i lantbruket - Lantbruksnytt
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
