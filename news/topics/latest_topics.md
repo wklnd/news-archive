@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-19 07:42_
+_Updated: 2025-08-19 08:51_
 
 ## Top Stories
 
-- Trump: ”Planerar möte mellan Putin och Zelenskyj” - DN
+- Trump: Möte mellan Zelenskyj och Putin planeras - Hufvudstadsbladet
+- Kiruna kyrka har börjat rulla - GP
+- Skottlossning i villaområde – polisen söker med hund - HD
+- Explosion i lägenhet i Malmö – en anhållen - SVT Nyheter
 - Förebyggarteamet på plats i Vilbergen efter explosion - Norrköpings kommun
-- Skottlossning i Åstorp – ingen gripen - Västerbottens-Kuriren
-- Explosion i lägenhet i Malmö - en gripen - SvD
-- Kyrkan tar sitt pick och pack – och rullar genom Kiruna - DN
-- Magnus Gisslén slutar som statsepidemiolog - Altinget.se
-- Landerholm i rätten: Ingen ursäkt - SVT Nyheter
-- Regeringens svek mot företagen - UNT
-- Polisen: Fallskärmhoppares kamera hittad - Aftonbladet
-- Ministern utesluter inte vård av Gaza-patienter - Aftonbladet
-- Bildt: Fred utan vapenvila är en illusion - Aftonbladet
+- Alex Schulman: Våra öden ligger i händerna på två pajaser - DN
+- Annie Reuterskiöld: Enkla regeln Landerholm borde känt till - DN
+- Ministern vill trotsa Tidöavtalet om lönekrav - GP
+- Kungsbackabo död i fallskärmsolycka - Norra Halland
+- Magnus Gisslén slutar som statsepidemiolog – kritiserar FHM - SVT Nyheter
+- Israel om förslag: Hamas under stor press – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Zelenskyjs anklagelse inför mötet: ”Demonstrativa och cyniska attacker” - Aftonbladet
 - Epsteinutredningen ska offentliggöras - Expressen
-- Norges ”bonusprins” åtalas för fyra våldtäkter – ska ha filmat kvinnors underliv - Omni
 - Stora demonstrationer i Norge – Greta Thunberg på plats - Expressen
+- Analyshus: Inget kursdrama efter Erik Selins uttåg - Dagens industri
+- LEDARE: Ett Novo Nordisk på bantningskur är bättre än ett helt Danmark utan aptit. - HD
+- Storbanken: Ingen mer räntesänkning i år - SvD
 - FI: "De flesta bör inte köpa krypto” - SvD
-- Eksjöhus stänger fabrik – 30 varslas - Skogsaktuellt
-- Arktisk kyla på ingång – kan snöa i veckan - Aftonbladet
-- Chokladfabrikanterna jagas för miljoner – företagare känner sig lurade - Sydsvenskan
+- Därför är vi inte imponerade av Samsungs nya flippmobil - m3.se
 - Det finns en gräns för hur mycket värme fåglar klarar av - Cision News
-- INSÄNDARE: Satsa på personalen – inte mötesrum - Östersunds-Posten
 
 ## World News
 
@@ -33,20 +33,20 @@ _Updated: 2025-08-19 07:42_
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- How RFK Jr is eroding global trust in vaccines - Poddtoppen
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- BIG Travel går in i globalt partnerskap - Travel News
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
+- BIG Travel går in i globalt partnerskap - Travel News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Liberty International i Stockholm växer - Travel News
 - MLK Listed on Binance Alpha, Spotlighting Its Global Loyalty Platform Potential - Placera.se
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Den hetaste nya trenden inom global utbildning - The Portugal News
-- Portugalidade - En ny global studie - The Portugal News
-- Portugal: En växande hubb för global teknik - The Portugal News
 
 ## Technology
 
@@ -120,45 +120,45 @@ _Updated: 2025-08-19 07:42_
 ## Science
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-09-18 Seminarium: Norra Sverige som livsmedelsproducent - Mynewsdesk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Många lantbruk vill producera egen el - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Stora anslag för innovationer i lantbruket - Lantbruksnytt
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
 - Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk
