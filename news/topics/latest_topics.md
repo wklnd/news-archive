@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-19 15:05_
+_Updated: 2025-08-19 15:47_
 
 ## Top Stories
 
 - Forssmed har pratat med Folkhälsomyndigheten efter kritiken - SVT Nyheter
-- Björn Wiman: Kyrkflytten är en hjärttransplantation för hela samhället - DN
-- Schweiz: Kan hålla Putin-Zelenskyj-möte här – Senaste nytt om kriget i Ukraina - SVT Nyheter
-- Misstänkt skytt gripen efter mord vid moské - SvD
-- DN Direkt - Tvist avgjord – geologer får behålla rymdsten - DN.se - DN
-- Schweiz redo erbjuda Putin immunitet - Hufvudstadsbladet
+- ”Går Putin med på något frivilligt är nästa krig nära” - Västerbottens-Kuriren
+- Expert: En vapenvila med Putin varken hållbar eller trovärdig - DN
+- Misstänkt skytt gripen efter mord vid moské - Aftonbladet
+- Tvist avgjord – geologer får behålla rymdsten - Ny Teknik
+- Kiruna kyrka rullar genom staden - GP
+- Norska trafikföretaget sätter in passagerartåg mellan Malmö och Oslo - Sydsvenskan
 - DN Direkt - Gällöfsta-anställda hördes om Landerholms dokument - DN.se - DN
 - Polismeddelande till alla som kör bil – gäller hela veckan - Marcus Oscarsson
-- Kungsbackabo död i fallskärmsolycka - Norra Halland
-- Ministern utesluter inte vård av Gaza-patienter - Aftonbladet
+- Död person hittad vid vatten - Expressen
 - DN Direkt - Norges kronprins kommenterar åtalet mot bonussonen - DN.se - DN
+- Håkan Boström: Någon perfekt fred mellan Ukraina och Ryssland finns inte - GP
 - Källor: Hamas-ja till förslag om vapenvila – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Bränderna fortsätter att ödelägga Spanien - GP
 - Nästan 400 döda i översvämningar i Pakistan - GP
-- Se upp för dolda fällan när du sparar i fonder - Expressen
-- Labubu-feber – så skiljer du äkta från fejk - DN
+- Hög direktavkastning är fortfarande attraktivt - Dagens industri
+- Jyske Bank höjer riktkursen för Vestas till 165 danska kronor (155), upprepar köp - BN - Placera.se
 - Varningen: Räntevapnet har tappat sin kraft - SvD
-- Blankningarna ökar i New Wave efter rapportraset - Dagens industri
+- Se upp för dolda fällan när du sparar i fonder - Expressen
 - Extremvärme pressar fåglars överlevnadsförmåga - Forskning.se
 - Nvidia Geforce Now får tillgång till RTX 5080 - m3.se
 
@@ -29,8 +29,9 @@ _Updated: 2025-08-19 15:05_
 
 - Skechers Named Title Sponsor of World Champions Cup; Shriners Children's Announced as Official Charity Partner; Feather Sound Country Club in Clearwater, Florida to host 2025 tournament - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
@@ -38,15 +39,14 @@ _Updated: 2025-08-19 15:05_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - Travel News
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
-- Trend Micro Unmasks Global "Task Scam" Industry - Placera.se
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- Nu riskerar Murdoch att förlora allt - Aftonbladet
-- Timken Releases CSR Report, Showcasing Sustainable Innovation and Global Impact - Placera.se
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- Trend Micro Unmasks Global "Task Scam" Industry - Placera.se
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Timken Releases CSR Report, Showcasing Sustainable Innovation and Global Impact - Placera.se
+- Den hetaste nya trenden inom global utbildning - The Portugal News
 
 ## Technology
 
@@ -66,10 +66,10 @@ _Updated: 2025-08-19 15:05_
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 
 ## Business
 
@@ -78,21 +78,21 @@ _Updated: 2025-08-19 15:05_
 - Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Accord Announces Amendment to its Banking Facility - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Accord Announces Amendment to its Banking Facility - Placera.se
+- REPAY Appoints New Chief Financial Officer - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- REPAY Appoints New Chief Financial Officer - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
+- UDPN, G+D, and GFT Join CBMT Initiative to Enable Tokenized Commercial Bank Money for a More Digitalized Financial System - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Mark A. Chancy Elected to Wells Fargo’s Board of Directors - Placera.se
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
+- DeFi Technologies Reports All-Time High in Bitcoin Assets Under Management and Treasury Holdings - Placera.se
 
 ## Health
 
@@ -120,25 +120,25 @@ _Updated: 2025-08-19 15:05_
 ## Science
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
