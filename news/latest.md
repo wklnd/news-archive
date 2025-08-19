@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-19 22:48_
+_Updated: 2025-08-19 23:48_
 
+- Trump rules out sending US troops to Ukraine as part of security guarantees - BBC
 - Hurricane Erin update: Forecast sees huge storm moving closer to U.S. - NPR
-- 5 Takeaways From Trump’s Meeting With Zelensky and European Leaders - The New York Times
-- Kremlin won't commit to Zelensky talks as Trump warns Putin may not want 'to make deal' - BBC
+- Trump Live Updates: More Republican-Led States Pledge National Guard Troops for D.C. - The New York Times
+- Trump vows to try banning mail-in voting before 2026 midterm elections — can he do that? - CBS News
 - Justice Department is investigating whether D.C. police manipulated crime data - NBC News
-- The GOP spent millions supporting mail ballots. Now Trump’s attacking them again. - Politico
 - Rep. Nicole Collier spends night on Texas House floor after refusing police escort - The Texas Tribune
-- White House eyes Budapest for peace talks with Zelenskyy and Putin - Politico
-- Despite a flurry of meetings on Russia’s war in Ukraine, major obstacles to peace remain - AP News
 - House panel to make Epstein files public after redactions to protect victim identities - CNN
-- Air Force chief abruptly retires early in latest Pentagon shakeup - CNN
-- Air Canada to resume flights after making deal to end cabin crew strike - The Washington Post
+- U.S. citizenship reviews will sharpen focus on ‘moral character,’ memo says - The Washington Post
+- White House eyes Budapest for peace talks with Zelenskyy and Putin - Politico
+- Wu fires back at Bondi's demand to shed so-called 'sanctuary' policies, saying 'Boston will never back down' - WBUR
+- Air Canada reaches deal with flight attendant union to end strike as operations will slowly restart - AP News
 - Israel weighs Hamas offer of 60-day Gaza truce and hostage release - Reuters
+- Woman arrested in Bali over cocaine allegedly smuggled in sex toy, could face death penalty if convicted - CBS News
 - Spain battles record wildfires even as the end of a heat wave brings lower temperatures - NPR
-- Peruvian woman arrested in Bali for smuggling drugs in sex toy - BBC
+- Walmart recalls Great Value shrimp after FDA warns of risk of radioactive contamination - CBS News
 - S&P 500 closes lower as Nvidia pulls down tech sector, Dow briefly touches record: Live updates - CNBC
-- Walmart's Great Value shrimp has risk of radioactive contamination, FDA says - CBS News
-- Home Depot Warns Prices Could Change As It Misses Earnings and Revenue Estimates - Forbes
+- Intel Stock Jumps on SoftBank Investment. Why It’s a Big Deal. - Barron's
 - Owner of Denver’s Fox31 buying 9News parent company Tegna in deal worth $6.2 billion - The Denver Post
-- Gamescom 2025: All the news, trailers, and previews - Polygon
-- Spotify’s new track mixing tool adds DJ features to your playlists - The Verge
+- How to watch Gamescom Opening Night Live 2025 - The Verge
+- Spotify’s latest feature lets you add your own transitions to playlists - TechCrunch
