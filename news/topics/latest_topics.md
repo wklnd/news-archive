@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-19 01:39_
+_Updated: 2025-08-19 04:19_
 
 ## Top Stories
 
 - Trump: ”Planerar möte mellan Putin och Zelenskyj” - DN
-- Kvinna död i trafikolycka i Sollefteå - GP
-- Annie Reuterskiöld: Enkla regeln Landerholm borde känt till - DN
-- Två män gripna – kvinna instängd och våldtagen - Aftonbladet
-- VMA – farligt föremål i Örebro - Expressen
-- Trump: Ska ringa Putin efter mötet - Västerbottens-Kuriren
+- Explosion i lägenhet i Malmö - en gripen - SvD
+- DN Direkt - Kvinna död i trafikolycka i Sollefteå - DN.se - DN
+- 18-åring från Växjö fast efter mordförsök och vapenbrott i Danmark - Smålandsposten
+- Explosion i Norrköping - SVT Nyheter
+- Bildt: Fred utan vapenvila är en illusion - GP
 - Magnus Gisslén slutar som statsepidemiolog vid FHM - DN
-- Katja Palo KAJ och Carola sjunger – medan Kiruna går i tu - GP
 - Saco: Vi backar Britz om arbetskraftsinvandring - Altinget.se
+- Landerholms egna ord under rättegången: ”Inser hur galet det var” - SVT Nyheter
 - Polisen: Fallskärmhoppares kamera hittad - Aftonbladet
-- Besked om åtal mot norske ”bonusprinsen” - SVT Nyheter
-- Stora demonstrationer i Norge – Greta Thunberg på plats - Expressen
-- Hamas säger ja - Expressen
+- Norske ”bonusprinsen" åtalas för våldtäkt - Aftonbladet
+- Zelenskyjs anklagelse inför mötet: ”Demonstrativa och cyniska attacker” - Aftonbladet
 - Kristersson: Maximera trycket på Ryssland - Expressen
-- Ekonomer oense om räntan: ”Alltför hög inflation” - Omni
-- Balders styrelse utser Sharam Rahi till ny VD - Cision News
 - Dyra dockor skapar hets – föräldrar oroar sig över Labubu-hysterin: ”Inte sunt” - NWT
+- Ekonomer oense om räntan: ”Alltför hög inflation” - Omni
 - Stockholmsbörsen backade inför toppmöte i Vita huset, OMXS30-index sjönk 0,6 procent (Finwire News) - Aktiellt
+- Balders styrelse utser Sharam Rahi till ny VD - Cision News
 - Geforce Now får ett ordentligt lyft i bildkvalitet - SweClockers
 - Moderskeppet 4 lättar ankar – spel, musik och cosplay till havs - FZ.se
+- Microsoft förbättrar mörka temat i Windows 11 - Swedroid
 
 ## World News
 
@@ -79,20 +79,20 @@ _Updated: 2025-08-19 01:39_
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
-- Accord Announces Amendment to its Banking Facility - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Accord Announces Amendment to its Banking Facility - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Accord Announces Second Quarter Financial Results - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - REPAY Appoints New Chief Financial Officer - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
 
@@ -120,25 +120,25 @@ _Updated: 2025-08-19 01:39_
 ## Science
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 
 ## Jordbruk
 
