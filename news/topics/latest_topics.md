@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-19 10:48_
+_Updated: 2025-08-19 11:42_
 
 ## Top Stories
 
-- En gripen för mord efter skjutningen vid moskén - Omni
 - Zelenskyj redo för trepartssamtal – tyst från Kreml - DN
-- Skottlossning i villaområde – polisen söker med hund - HD
-- Tvisten om rymdstenen avgjord - UNT
+- Kiruna kyrka rullar genom staden - GP
 - Skelettdelar hittade i sjö i Malå – polisen utreder mord - SVT Nyheter
-- Magnus Gissléns attack mot Folkhälsomyndighten: "Saknar djupare medicinsk kompetens" - GP
-- Kiruna kyrka har börjat rulla - Västerbottens-Kuriren
-- Kvinna omkom i olycka med timmerbil - Tidningen Ångermanland
+- Skottlossning i Åstorp – ingen gripen - Västerbottens-Kuriren
+- Misstänkt skytt gripen efter mord vid moské - SvD
+- Bränderna fortsätter att ödelägga Spanien - Västerbottens-Kuriren
+- Johan Nilsson: FHM – en expertmyndighet utan experter? - DN
+- Kraftig explosion i Vilbergen – port till flerfamiljshus sprängd - NT
 - Annie Reuterskiöld: Enkla regeln Landerholm borde känt till - DN
-- Ministern utesluter inte vård av Gaza-patienter - Aftonbladet
-- Källor: Hamas-ja till förslag om vapenvila – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Kvinna omkom i olycka med timmerbil - Tidningen Ångermanland
+- Israel om förslag: Hamas under stor press – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Modevetare: Helsvarta kostymen ett smart val av Zelenskyj - DN
+- Lina Lund: Stödtruppen från Europa undvek sammanbrott – men blottade sin största svaghet - DN
 - Norske ”bonusprinsen" åtalas för våldtäkt - Aftonbladet
-- Melanias brev till Putin – Zelenskyjs fru svarar - DN
-- Stora demonstrationer i Norge – Greta Thunberg på plats - Expressen
 - Uppåt på Stockholmsbörsen – Balder backar efter Erik Selins avgång - Dagens industri
+- Se upp för dolda fällan när du sparar i fonder - Expressen
 - Varningen: Räntevapnet har tappat sin kraft - SvD
-- LEDARE: Ett Novo Nordisk på bantningskur är bättre än ett helt Danmark utan aptit. - HD
-- Tipsen: Så undviker du att bli lurad på din studentbostad - GP
+- Aktiespararna tror på jättelyft i Novo Nordisk aktie - Dagens PS
+- Extremvärme pressar fåglars överlevnadsförmåga - Forskning.se
 - Nvidia Geforce Now får tillgång till RTX 5080 - m3.se
-- USSV Hamba är världens fulaste Ford – inspirerad av Cybertruck? - auto motor & sport
 
 ## World News
 
@@ -37,6 +37,7 @@ _Updated: 2025-08-19 10:48_
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - BIG Travel går in i globalt partnerskap - Travel News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
@@ -46,7 +47,6 @@ _Updated: 2025-08-19 10:48_
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Den hetaste nya trenden inom global utbildning - The Portugal News
-- Portugal: En växande hubb för global teknik - The Portugal News
 
 ## Technology
 
@@ -75,24 +75,24 @@ _Updated: 2025-08-19 10:48_
 
 - DeFi Technologies Announces Inaugural Insights Symposium to Be Held in Frankfurt on September 25, 2025 - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
+- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Accord Announces Amendment to its Banking Facility - Placera.se
-- Så ska svenska företag öka sin tillväxt - Nordens största internationella Amazon konferens kommer till Sverige - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Accord Announces Amendment to its Banking Facility - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- REPAY Appoints New Chief Financial Officer - Placera.se
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- REPAY Appoints New Chief Financial Officer - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- UDPN, G+D, and GFT Join CBMT Initiative to Enable Tokenized Commercial Bank Money for a More Digitalized Financial System - Placera.se
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
 
@@ -143,22 +143,22 @@ _Updated: 2025-08-19 10:48_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Jordbruk och landsbygdsutveckling - European Commission
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Tuffa tider väntar för engelskt jordbruk - ATL
+- Här är världens största jordbruk - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Tio jordbruksaktier för depån - Placera.se
