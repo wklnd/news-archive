@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-19 05:29_
+_Updated: 2025-08-19 05:54_
 
 ## Top Stories
 
 - Trump: ”Planerar möte mellan Putin och Zelenskyj” - DN
-- Explosion i lägenhet i Malmö - en gripen - SvD
-- Explosion i Norrköping - SVT Nyheter
-- Toppolitiker förhandlar med kommunen om nytt villaområde - Smålandsposten
-- 18-åring från Växjö fast efter mordförsök och vapenbrott i Danmark - Smålandsposten
+- Kyrkan tar sitt pick och pack – och rullar genom Kiruna - DN
+- Explosion i lägenhet i Malmö – en gripen - SVT Nyheter
+- Förebyggarteamet på plats i Vilbergen efter explosion - Norrköpings kommun
+- Skottlossning vid villa i Åstorp - SVT Nyheter
 - Kvinna död i trafikolycka i Sollefteå - Aftonbladet
-- Magnus Gisslén slutar som statsepidemiolog vid FHM - DN
-- Skottlossning i Åstorp - GP
-- Landerholms egna ord under rättegången: ”Inser hur galet det var” - SVT Nyheter
-- Saco: Vi backar Britz om arbetskraftsinvandring - Altinget.se
+- Magnus Gisslén slutar som statsepidemiolog - Altinget.se
+- Annie Reuterskiöld: Enkla regeln Landerholm borde känt till - DN
+- Polisen: Fallskärmhoppares kamera hittad - Aftonbladet
+- Inte ens Tidöministrar vill ha Tidöavtalets arbetsmarknadspolitik - Arbetet
 - Trump: Ska ringa Putin efter mötet - GP
 - Norske ”bonusprinsen" åtalas för våldtäkt - Aftonbladet
 - Epsteinutredningen ska offentliggöras - Expressen
-- Zelenskyjs anklagelse inför mötet: ”Demonstrativa och cyniska attacker” - Aftonbladet
+- Stora demonstrationer i Norge – Greta Thunberg på plats - Expressen
 - Balders styrelse utser Sharam Rahi till ny VD - Cision News
 - Dyra dockor skapar hets – föräldrar oroar sig över Labubu-hysterin: ”Inte sunt” - NWT
 - Stockholmsbörsen backade inför toppmöte i Vita huset, OMXS30-index sjönk 0,6 procent (Finwire News) - Aktiellt
@@ -30,6 +30,7 @@ _Updated: 2025-08-19 05:29_
 - Skechers Named Title Sponsor of World Champions Cup; Shriners Children's Announced as Official Charity Partner; Feather Sound Country Club in Clearwater, Florida to host 2025 tournament - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
@@ -37,15 +38,14 @@ _Updated: 2025-08-19 05:29_
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - BIG Travel går in i globalt partnerskap - Travel News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Lars Henrikson – ny global chef för Mölndals-baserade DENTSPLY Implants - Dental Tribune US
 - MLK Listed on Binance Alpha, Spotlighting Its Global Loyalty Platform Potential - Placera.se
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Portugalidade - En ny global studie - The Portugal News
 
 ## Technology
@@ -63,12 +63,12 @@ _Updated: 2025-08-19 05:29_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 
 ## Business
@@ -104,7 +104,7 @@ _Updated: 2025-08-19 05:29_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
@@ -120,45 +120,45 @@ _Updated: 2025-08-19 05:29_
 ## Science
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Jordbruk och landsbygdsutveckling - European Commission
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- Stora anslag för innovationer i lantbruket - Lantbruksnytt
+- De gick från reko till eko - ST-tidningen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- De gick från reko till eko - ST-tidningen
