@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-19 13:48_
+_Updated: 2025-08-19 15:16_
 
-- 5 Takeaways From Trump’s Meeting With Zelensky and European Leaders - The New York Times
+- Inside Trump world's reaction to the Zelenskyy reset - Politico
 - Hurricane Erin drives dangerous waves to East Coast as new tropical system brews in its wake - CNN
-- The GOP spent millions supporting mail ballots. Now Trump’s attacking them again. - Politico
+- Fact-checking Trump’s claim the U.S. is the ‘only country’ that uses mail-in voting - PBS
 - Ukraine offers $100 billion weapons deal to obtain US security guarantees, FT reports - Reuters
-- Newspaper headlines: 'Suited not booted' and 'property tax shake-up' - BBC
-- Businesses face 'chaos' as EPA aims to repeal its authority over climate pollution - NPR
-- University colleagues warned of Bryan Kohberger’s sexist, creepy behavior before Idaho murders - The Independent
-- Fort Worth Rep. Nicole Collier remains on House floor after refusing escort: 'I refuse to sign away my dignity.' - WFAA
-- D.C. delivery driver detentions spark concern, fear among some in community - NBC News
-- Trump administration says driver in Florida crash was in US illegally, faults California policy - ABC News
+- The War Room newsletter: Why Putin’s peace plan is more like poison - The Economist
+- Zelensky Suits Up for Trump - The New York Times
+- Bryan Kohberger's behavior alarmed university faculty and students before Idaho murders, documents show - CBS News
+- Maps show Ukrainian territories claimed by Russia amid talks on possible end to war - CBS News
+- Fort Worth Rep. Nicole Collier refuses to leave Texas House, protesting state trooper escorts - KERA News
+- D.C.'s crime numbers are all the buzz. But how do we interpret them accurately? - NPR
+- Mediators await Israeli response to new Gaza ceasefire proposal - BBC
 - Air Canada CEO amazed by union's defiance of ruling to end strike - Reuters
-- Hamas Accepts New Gaza Cease-Fire Proposal, Officials Say - The New York Times
 - Canada's Conservative leader Pierre Poilievre projected to win Parliament seat - BBC
-- Ex-Israel military intelligence chief said 50,000 Gaza deaths 'necessary' - NPR
+- Overnight Russian attack shows Putin does not want peace, Ukraine says - Reuters
 - Home Depot maintains full-year forecast even as it misses on earnings for second straight quarter - CNBC
-- US spy chief Gabbard says UK agreed to drop 'backdoor' mandate for Apple - Reuters
-- What to Expect from Fed Chair Powell's Speech on Friday: 3 Key Scenarios - Investopedia
-- SoftBank held talks with Intel on buying contract chipmaking business - Financial Times
+- UK drops demand for backdoor into Apple encryption - The Verge
+- Crypto Traders Eye Jackson Hole as Ether, XRP, Solana Drop Sharply in Retreat - CoinDesk
+- Nexstar Media Group, Inc. Enters into Definitive Agreement To Acquire TEGNA Inc. for $6.2 Billion in Accretive Transaction - Nexstar Media Group, Inc.
 - How Google’s Pixel 10 Pro Will Change Smartphones Forever - Forbes
-- Nvidia’s app gets global DLSS override and more control panel features - The Verge
+- Gamescom Opening Night Live 2025 livestream: watch all today's announcements here - Rock Paper Shotgun
