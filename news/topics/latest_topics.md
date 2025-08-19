@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-19 12:45_
+_Updated: 2025-08-19 13:39_
 
 ## Top Stories
 
-- Ryska kommentarer efter mötet: Zelenskyj är den som stoppar freden - DN
-- Forssmed har pratat med Folkhälsomyndigheten efter kritiken - SVT Nyheter
-- Kiruna kyrka har börjat rulla - GP
-- Bränderna fortsätter att ödelägga Spanien - SvD
-- Upphittade skelettdelar i sjö i Malå kom från djur - SVT Nyheter
+- Macron: Putin och Zelenskyj kan mötas i Genève - Västerbottens-Kuriren
+- Kiruna kyrka fortsätter rulla genom staden - GP
+- DN Direkt - Tvist avgjord – geologer får behålla rymdsten - DN.se - DN
 - En gripen för mord efter skjutningen vid moskén - Omni
+- Upphittade skelettdelar i sjö i Malå kom från djur - SVT Nyheter
+- Skolanställd i Staffanstorp misstänks för sexbrott mot barn - SVT Nyheter
+- Magnus Gisslén slutar som statsepidemiolog – kritiserar FHM - SVT Nyheter
 - DN Direkt - Gällöfsta-anställda hördes om Landerholms dokument - DN.se - DN
+- Ministern vill trotsa Tidöavtalet om lönekrav - GP
 - Ministern utesluter inte vård av Gaza-patienter - Aftonbladet
-- Kraftig explosion i Vilbergen – port till flerfamiljshus sprängd - NT
-- Kungsbackabo död i fallskärmsolycka - Norra Halland
 - Mer än 20 döda efter israeliska attacker i Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Modevetare: Helsvarta kostymen ett smart val av Zelenskyj - DN
+- Kronprinsen efter åtalet: ”Utmanande och svårt” - GP
+- Bränderna fortsätter att ödelägga Spanien - GP
 - Lina Lund: Stödtruppen från Europa undvek sammanbrott – men blottade sin största svaghet - DN
-- Norske ”bonusprinsen" åtalas för våldtäkt - Aftonbladet
 - Uppåt på Stockholmsbörsen – Balder backar efter Erik Selins avgång - Dagens industri
-- Hög direktavkastning är fortfarande attraktivt - Dagens industri
-- Se upp för dolda fällan när du sparar i fonder - Expressen
+- Di-portföljen med högavkastande aktier har gått starkt senaste året - Börsvärlden
 - Varningen: Räntevapnet har tappat sin kraft - SvD
+- Se upp för dolda fällan när du sparar i fonder - Expressen
 - Extremvärme pressar fåglars överlevnadsförmåga - Forskning.se
-- Nvidia Geforce Now får tillgång till RTX 5080 - m3.se
+- Från färgglad räddare i nöden till M4-kraftpaket – Imac har fyllt 27 år - Macworld.se
 
 ## World News
 
 - Skechers Named Title Sponsor of World Champions Cup; Shriners Children's Announced as Official Charity Partner; Feather Sound Country Club in Clearwater, Florida to host 2025 tournament - Placera.se
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
-- LATAM-krypto: Blockchain-användningen växer, medan FIRU debuterar på global börs - Invezz
-- Ansell Receives Frost & Sullivan's 2025 Global Sustainable Hospital Supplies Company of the Year Award - Placera.se
+- Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
-- Portugal: En växande hubb för global teknik - The Portugal News
-- MLK Listed on Binance Alpha, Spotlighting Its Global Loyalty Platform Potential - Placera.se
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
-- R E P E A T -- BRP Expands its Global Electric Powersports Offering with Launch of All-New 2026 Can-Am Outlander Electric - Placera.se
+- Uppsala University in the top 90 in new global ranking - Uppsala universitet
+- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- BIG Travel går in i globalt partnerskap - Travel News
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- REMAX Sells Master Franchise Rights in Malaysia, Expanding the Global Brand's Presence in Southeast Asia - Placera.se
-- Portugal framstår som ett strategiskt nav för global teknikexpansion - The Portugal News
-- Quest Diagnostics to Speak at the Baird 2025 Global Healthcare Conference - Placera.se
-- Jollibee and Global Girl Group KATSEYE Ignite Partnership to Create Joyful New Connections with Their North American Fans - Placera.se
-- CME Group Opens Registration for 22nd Annual Global University Trading Challenge - Placera.se
-- Choice Hotels International Continues Global Expansion Through Consolidation of Investment in Choice Hotels Canada - Placera.se
-- The ultimate global study companion: Pearson expands AI-powered Study Prep, supporting personalized learning worldwide - Placera.se
-- Pyxus International Named as a Supplier Engagement Leader by CDP - Placera.se
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
-- Omdia: Global TV Shipments Fell 2.1% in 2Q25 as Key Markets Decline - Placera.se
+- MLK Listed on Binance Alpha, Spotlighting Its Global Loyalty Platform Potential - Placera.se
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Timken Releases CSR Report, Showcasing Sustainable Innovation and Global Impact - Placera.se
+- Den hetaste nya trenden inom global utbildning - The Portugal News
 
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
+- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - EY.ai | EY - Sverige - EY
-- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
+- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
-- Lantern Pharma Announces Public Release of Transformative, Advanced AI Module for Blood-Brain Barrier Permeability Prediction, predictBBB.ai - Placera.se
+- Oron: Då tar datan på internet slut - SvD
+- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
-- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
-- Oron: Då tar datan på internet slut - SvD
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 
 ## Business
 
@@ -143,18 +143,18 @@ _Updated: 2025-08-19 12:45_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Jordbruk och landsbygdsutveckling - European Commission
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- (+) Stor undersökning av jordbruket - Arbetarskydd
+- Stora anslag för innovationer i lantbruket - Lantbruksnytt
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
