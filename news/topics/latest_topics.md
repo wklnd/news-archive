@@ -1,37 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-19 13:39_
+_Updated: 2025-08-19 15:05_
 
 ## Top Stories
 
-- Macron: Putin och Zelenskyj kan mötas i Genève - Västerbottens-Kuriren
-- Kiruna kyrka fortsätter rulla genom staden - GP
+- Forssmed har pratat med Folkhälsomyndigheten efter kritiken - SVT Nyheter
+- Björn Wiman: Kyrkflytten är en hjärttransplantation för hela samhället - DN
+- Schweiz: Kan hålla Putin-Zelenskyj-möte här – Senaste nytt om kriget i Ukraina - SVT Nyheter
+- Misstänkt skytt gripen efter mord vid moské - SvD
 - DN Direkt - Tvist avgjord – geologer får behålla rymdsten - DN.se - DN
-- En gripen för mord efter skjutningen vid moskén - Omni
-- Upphittade skelettdelar i sjö i Malå kom från djur - SVT Nyheter
-- Skolanställd i Staffanstorp misstänks för sexbrott mot barn - SVT Nyheter
-- Magnus Gisslén slutar som statsepidemiolog – kritiserar FHM - SVT Nyheter
+- Schweiz redo erbjuda Putin immunitet - Hufvudstadsbladet
 - DN Direkt - Gällöfsta-anställda hördes om Landerholms dokument - DN.se - DN
-- Ministern vill trotsa Tidöavtalet om lönekrav - GP
+- Polismeddelande till alla som kör bil – gäller hela veckan - Marcus Oscarsson
+- Kungsbackabo död i fallskärmsolycka - Norra Halland
 - Ministern utesluter inte vård av Gaza-patienter - Aftonbladet
-- Mer än 20 döda efter israeliska attacker i Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Kronprinsen efter åtalet: ”Utmanande och svårt” - GP
+- DN Direkt - Norges kronprins kommenterar åtalet mot bonussonen - DN.se - DN
+- Källor: Hamas-ja till förslag om vapenvila – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Bränderna fortsätter att ödelägga Spanien - GP
-- Lina Lund: Stödtruppen från Europa undvek sammanbrott – men blottade sin största svaghet - DN
-- Uppåt på Stockholmsbörsen – Balder backar efter Erik Selins avgång - Dagens industri
-- Di-portföljen med högavkastande aktier har gått starkt senaste året - Börsvärlden
-- Varningen: Räntevapnet har tappat sin kraft - SvD
+- Nästan 400 döda i översvämningar i Pakistan - GP
 - Se upp för dolda fällan när du sparar i fonder - Expressen
+- Labubu-feber – så skiljer du äkta från fejk - DN
+- Varningen: Räntevapnet har tappat sin kraft - SvD
+- Blankningarna ökar i New Wave efter rapportraset - Dagens industri
 - Extremvärme pressar fåglars överlevnadsförmåga - Forskning.se
-- Från färgglad räddare i nöden till M4-kraftpaket – Imac har fyllt 27 år - Macworld.se
+- Nvidia Geforce Now får tillgång till RTX 5080 - m3.se
 
 ## World News
 
 - Skechers Named Title Sponsor of World Champions Cup; Shriners Children's Announced as Official Charity Partner; Feather Sound Country Club in Clearwater, Florida to host 2025 tournament - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
@@ -39,35 +38,36 @@ _Updated: 2025-08-19 13:39_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - Travel News
-- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- MLK Listed on Binance Alpha, Spotlighting Its Global Loyalty Platform Potential - Placera.se
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
+- Trend Micro Unmasks Global "Task Scam" Industry - Placera.se
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- Nu riskerar Murdoch att förlora allt - Aftonbladet
 - Timken Releases CSR Report, Showcasing Sustainable Innovation and Global Impact - Placera.se
-- Den hetaste nya trenden inom global utbildning - The Portugal News
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
 
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
-- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
+- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
+- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - EY.ai | EY - Sverige - EY
-- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
+- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
-- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 
@@ -78,9 +78,9 @@ _Updated: 2025-08-19 13:39_
 - Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Accord Announces Amendment to its Banking Facility - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Accord Announces Amendment to its Banking Facility - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - REPAY Appoints New Chief Financial Officer - Placera.se
@@ -105,6 +105,7 @@ _Updated: 2025-08-19 13:39_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
@@ -115,7 +116,6 @@ _Updated: 2025-08-19 13:39_
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
@@ -145,20 +145,20 @@ _Updated: 2025-08-19 13:39_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- Stora anslag för innovationer i lantbruket - Lantbruksnytt
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De gick från reko till eko - ST-tidningen
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Tuffa tider väntar för engelskt jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- Tio jordbruksaktier för depån - Placera.se
