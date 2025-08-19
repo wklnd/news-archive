@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-19 15:47_
+_Updated: 2025-08-19 16:45_
 
 ## Top Stories
 
-- Forssmed har pratat med Folkhälsomyndigheten efter kritiken - SVT Nyheter
+- Tidigare generaldirektören Johan Carlson kommenterar Gissléns kritik mot FHM - GP
 - ”Går Putin med på något frivilligt är nästa krig nära” - Västerbottens-Kuriren
-- Expert: En vapenvila med Putin varken hållbar eller trovärdig - DN
-- Misstänkt skytt gripen efter mord vid moské - Aftonbladet
-- Tvist avgjord – geologer får behålla rymdsten - Ny Teknik
-- Kiruna kyrka rullar genom staden - GP
-- Norska trafikföretaget sätter in passagerartåg mellan Malmö och Oslo - Sydsvenskan
+- Björn Wiman: Kyrkflytten är en hjärttransplantation för hela samhället - DN
+- Regeringens svek mot företagen - UNT
+- Skolanställd i Staffanstorp misstänks för sexbrott mot barn - SVT Nyheter
+- Skelettdelar hittade i sjö - Expressen
+- Misstänkt skytt gripen efter mord vid moské - NWT
 - DN Direkt - Gällöfsta-anställda hördes om Landerholms dokument - DN.se - DN
 - Polismeddelande till alla som kör bil – gäller hela veckan - Marcus Oscarsson
-- Död person hittad vid vatten - Expressen
+- Hjälporganisation stoppar textilinsamling - Aftonbladet
 - DN Direkt - Norges kronprins kommenterar åtalet mot bonussonen - DN.se - DN
-- Håkan Boström: Någon perfekt fred mellan Ukraina och Ryssland finns inte - GP
-- Källor: Hamas-ja till förslag om vapenvila – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Macron: Putin och Zelenskyj kan mötas i Genève - GP
 - Nästan 400 döda i översvämningar i Pakistan - GP
-- Hög direktavkastning är fortfarande attraktivt - Dagens industri
-- Jyske Bank höjer riktkursen för Vestas till 165 danska kronor (155), upprepar köp - BN - Placera.se
-- Varningen: Räntevapnet har tappat sin kraft - SvD
+- Källor: Hamas-ja till förslag om vapenvila – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Små rörelser på Stockholmsbörsen – Balder backar efter Erik Selins avgång - Dagens industri
+- New Wave: Med förvärv på agendan - Affärsvärlden
 - Se upp för dolda fällan när du sparar i fonder - Expressen
+- Varningen: Räntevapnet har tappat sin kraft - SvD
 - Extremvärme pressar fåglars överlevnadsförmåga - Forskning.se
 - Nvidia Geforce Now får tillgång till RTX 5080 - m3.se
 
@@ -43,9 +43,9 @@ _Updated: 2025-08-19 15:47_
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Trend Micro Unmasks Global "Task Scam" Industry - Placera.se
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Liberty International i Stockholm växer - Travel News
 - Timken Releases CSR Report, Showcasing Sustainable Innovation and Global Impact - Placera.se
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Den hetaste nya trenden inom global utbildning - The Portugal News
 
 ## Technology
@@ -75,24 +75,24 @@ _Updated: 2025-08-19 15:47_
 
 - DeFi Technologies Announces Inaugural Insights Symposium to Be Held in Frankfurt on September 25, 2025 - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
+- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Accord Announces Amendment to its Banking Facility - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Accord Announces Amendment to its Banking Facility - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - REPAY Appoints New Chief Financial Officer - Placera.se
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- UDPN, G+D, and GFT Join CBMT Initiative to Enable Tokenized Commercial Bank Money for a More Digitalized Financial System - Placera.se
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
+- UDPN, G+D, and GFT Join CBMT Initiative to Enable Tokenized Commercial Bank Money for a More Digitalized Financial System - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - DeFi Technologies Reports All-Time High in Bitcoin Assets Under Management and Treasury Holdings - Placera.se
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
 
@@ -105,7 +105,6 @@ _Updated: 2025-08-19 15:47_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
@@ -116,49 +115,50 @@ _Updated: 2025-08-19 15:47_
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Forskning i samarbete mellan medicinare och militärer - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Strategisk dialog om EU:s jordbruk i framtiden - European Commission
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- Stora anslag för innovationer i lantbruket - Lantbruksnytt
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Tuffa tider väntar för engelskt jordbruk - ATL
+- Här är världens största jordbruk - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Tio jordbruksaktier för depån - Placera.se
