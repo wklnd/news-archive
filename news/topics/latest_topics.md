@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-20 06:45_
+_Updated: 2025-08-20 07:43_
 
 ## Top Stories
 
-- Källor: Här kan ett möte mellan Putin och Zelenskyj äga rum - DN
-- Natos ex-chef: Europa ska stå för styrkan i Ukraina - Hufvudstadsbladet
-- Experterna backar Gisslén – efter kritiken mot FHM - GP
+- Rutte: Nivån på USA:s inblandning ska diskuteras – Senaste nytt om kriget i Ukraina - SVT Nyheter
+- Grönt ljus – Israel ska inta Gaza stad - GP
+- Planerna sätts – ilskna svaret från Ryssland - Expressen
 - Nya L-ledaren: Jag har ändrat mig om SD - DN
-- Kiruna kyrka rullas bort till jubel och tårar - DN
 - Ministern ångrar skolaktierna: ”I dag ser jag problemen” - Aftonbladet
-- Forskare: Lagstifta om max 20 elever per klass - Omni
+- Sonen är fängslad i Japan: ”Lurat honom fullständigt” - GP
+- Kiruna kyrka rullas bort till jubel och tårar - DN
+- Experterna backar Gisslén – efter kritiken mot FHM - GP
 - DN Direkt - Gällöfsta-anställda hördes om Landerholms dokument - DN.se - DN
 - Polismeddelande till alla som kör bil – gäller hela veckan - Marcus Oscarsson
-- En gripen för moskémordet - Expressen
-- Mer än 20 döda efter israeliska attacker i Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Över 1 000 döda av spanska extremvärmen - Hufvudstadsbladet
+- De överlevde eldinfernot i Spanien – ”Jag sade adjö till allt” - DN
+- Vita huset hoppfullt om Putinmöte - UNT
 - Bloomberg: Trump ringde Orbán om Ukraina - Aftonbladet
-- Avhuggna huvuden hittade längs väg i Mexiko - Västerbottens-Kuriren
+- Håkan Boström: Någon perfekt fred mellan Ukraina och Ryssland finns inte - GP
 - Stoppad kärnkraft får elpriset att rusa - SvD
+- Experten: Priserna skrämmer bort kunder - SvD
+- Lägre kostnader för bostadsrättsföreningar - Aftonbladet
 - Expertens råd på börsen till småsparare i höst - Dagens PS
-- Lägre kostnader för bostadsrättsföreningar - Sydsvenskan
-- Små rörelser på Stockholmsbörsen – Balder backar efter Erik Selins avgång - Dagens industri
 - Gamescom – här är nyheterna från Opening night live - Aftonbladet
-- DN Direkt - Upptäckt: ny mini-måne - DN.se - DN
+- Insändare: Flugorna flockas – nya sopkärlen är en sanitär katastrof - UNT
 
 ## World News
 
+- NETMARBLE'S OPEN-WORLD RPG "THE SEVEN DEADLY SINS: ORIGIN" KICKS OFF GLOBAL CBT REGISTRATION - Placera.se
 - Avolta will grow its footprint with two new 10-year contracts at Atlanta International Airport, the World’s Busiest Airport - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -39,14 +40,13 @@ _Updated: 2025-08-20 06:45_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Timken Releases CSR Report, Showcasing Sustainable Innovation and Global Impact - Placera.se
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Trend Micro Unmasks Global "Task Scam" Industry - Placera.se
+- Timken Releases CSR Report, Showcasing Sustainable Innovation and Global Impact - Placera.se
 - Den hetaste nya trenden inom global utbildning - The Portugal News
+- Trend Micro Unmasks Global "Task Scam" Industry - Placera.se
 
 ## Technology
 
@@ -73,26 +73,26 @@ _Updated: 2025-08-20 06:45_
 
 ## Business
 
-- Ellington Credit Company Announces Financial Results for the First Fiscal Quarter Ended June 30, 2025 - Placera.se
 - DeFi Technologies Announces Inaugural Insights Symposium to Be Held in Frankfurt on September 25, 2025 - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Valour Launches Four New ETPs on Spotlight Stock Market: Mantra (OM), Tron (TRX), Stellar (XLM), and Tether Gold (XAUT) - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Ellington Credit Company Announces Financial Results for the First Fiscal Quarter Ended June 30, 2025 - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Accord Announces Amendment to its Banking Facility - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - REPAY Appoints New Chief Financial Officer - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - DeFi Technologies Reports All-Time High in Bitcoin Assets Under Management and Treasury Holdings - Placera.se
+- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 
 ## Health
 
@@ -122,20 +122,20 @@ _Updated: 2025-08-20 06:45_
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
