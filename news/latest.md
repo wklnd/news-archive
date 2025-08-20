@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-20 15:52_
+_Updated: 2025-08-20 16:51_
 
-- Kremlin plays down Zelensky talks as Trump warns Putin may not want to make deal - BBC
-- N.C., Virginia under Hurricane Erin storm alerts, some East Coast beaches shut - Axios
+- Trump housing regulator accuses Fed governor Cook of mortgage fraud - Axios
+- Hurricane Erin forces Outer Banks evacuations as beaches close along the East Coast - CBS News
+- Why Putin is not ready to meet with Zelensky, and may never be - CNN
 - US, NATO planners start to craft Ukraine security guarantee options - Reuters
+- Trump administration revokes security clearances of 37 current and former government officials - AP News
 - NATO aircraft scrambled amid overnight Russian drone strikes on Ukraine - ABC News
-- Trump Revokes Security Clearances of 37 Former and Current Officials - The New York Times
-- 5 Takeaways From the Times Analysis of Democratic Decline in Voter Registration - The New York Times
-- DNA testing confirms Travis Decker is sole suspect in murder of his three daughters - NBC News
-- Texas House to take up GOP congressional map delayed by Democrats’ walkout - The Texas Tribune
-- A fire is burning one of the world's tallest trees near the Oregon coast - ABC News
-- The significance of the Donbas in Russia's war in Ukraine - DW
-- Israel calls up 60,000 reservists ahead of Gaza City offensive - BBC
+- US to screen for ‘anti-Americanism’ in immigration applications, a move critics liken to McCarthyism - CNN
+- How Gavin Newsom trolled his way to the top of social media - Politico
+- First domino in national redistricting fight likely to fall with Texas GOP poised for vote on maps - AP News
+- Russia says talks on Ukraine's security without Moscow are a 'road to nowhere' - Reuters
+- Israel to call up around 60,000 reservists before planned offensive on Gaza City, says Israeli military official – Middle East crisis live - The Guardian
 - Man who was "humiliated and mistreated for months" dies during livestream in France, officials say - CBS News
 - Australia pans Netanyahu: ‘Strength not measured by how many people you can blow up’ - The Times of Israel
-- How towering dominance of Bolivia’s socialist party came tumbling down - The Guardian
-- Target’s CEO is stepping down as customers turn away - CNN
+- Under growing Arab pressure, Hamas signals new willingness to compromise - The Washington Post
+- Target names longtime insider Michael Fiddelke its next CEO as retailer tries to break sales and stock slump - CNBC
+- FDA urges recall of Walmart shrimp over radioactive contamination fear - The Washington Post
+- Lowe's to buy Foundation Building Materials for $8.8 billion to boost contractor business - Reuters
 - Dow Jones Futures: Palantir, Oracle, Other Growth Leaders Keep Falling; What To Do Now - Investor's Business Daily
-- Lowe's beats on quarterly earnings, buys home pros business for $8.8 billion - CNBC
-- Air Canada labor deal may reshape pay for North American airline crews - Reuters
-- Prices leak for the rest of Google’s new Pixel products - The Verge
-- Leaker Reveals 'Final Prices' For ROG Xbox Ally Handheld In The US - Pure Xbox
+- Google Pixel 10 event live: Updates from the hardware launch today, including Gemini, Pixel Watch and more - Engadget
+- Microsoft and Asus’ new Xbox Ally handhelds launch on October 16th - The Verge
