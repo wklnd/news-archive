@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-20 19:41_
+_Updated: 2025-08-20 20:50_
 
 ## Top Stories
 
-- Lorena Delgado Varas och Daniel Riazat utesluts ur Vänsterpartiet - SVT Nyheter
-- Folkrättsexpert: Israels markinvasion av Gaza stad en förhöjd ockupation - DN
+- SVT:s reporter: Kommer försvåra förhandlingar – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Ingmar Nevéus: Varför skulle Putin plötsligt vilja träffa Zelenskyj? - DN
 - 19 augusti 21.50, Försvunnen person, Blekinge län - polisen.se
-- JUST NU: Skadad man hittad – polisen utreder mordförsök - NLT
-- Kiruna kyrka är framme – efter två dagars färd - GP
-- Åklagare och försvarare oense i Landerholm-målet – ”vi är inte överens om något” - DN
-- Gisslén: FHM vek sig för Läkemedelsverket - GP
-- Flicka död i drunkningsolycka - Västerbottens-Kuriren
-- Brist på utbildade förskollärare – trots minskade barnkullar - DN
+- DN Direkt - Strid om Landerholms handlingar i rätten - DN.se - DN
+- DN Direkt - Kiruna kyrka är framme – klarade historiska resan - DN.se - DN
+- Man till sjukhus efter misstänkt mordförsök i Götene - Omni
+- Gisslén: FHM vek sig för Läkemedelsverket - Västerbottens-Kuriren
+- Flicka död i drunkningsolycka - GP
+- Detta gäller när allmänhetens kräftfiske startar på fredag - Länsstyrelsen
+- Polisen varnar för falska annonser som utger sig att vara från Lindex - polisen.se
 - Israeliskt ja till att klyva Västbanken - Västerbottens-Kuriren
 - De överlevde eldinfernot i Spanien – ”Jag sade adjö till allt” - DN
 - Sally Rooneys stöd till ”terrorister” är helt rätt - Aftonbladet
 - Planerna sätts – ilsket svar från Ryssland - Expressen
-- Penningpolitiskt beslut: Styrräntan oförändrad på 2 procent - Sveriges Riksbank
+- Oförändrad styrränta – men öppning för sänkning - SvD
 - Regeringen lyfter BNP-prognos för 2026 - SVT Nyheter
-- Ekonomer inför Jackson Hole: Då är det risk för besvikelse - Dagens industri
 - Expert: Kan vara läge att binda boräntan nu - DN
+- Ekonomer inför Jackson Hole: Då är det risk för besvikelse - Dagens industri
 - Google laddar om med vikbar AI-mobil - Ny Teknik
 - Gigantisk gasbubbla upptäckt runt stjärna - Forskning.se
 
@@ -30,7 +30,6 @@ _Updated: 2025-08-20 19:41_
 - Avolta will grow its footprint with two new 10-year contracts at Atlanta International Airport, the World’s Busiest Airport - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
@@ -40,59 +39,60 @@ _Updated: 2025-08-20 19:41_
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Lars Henrikson – ny global chef för Mölndals-baserade DENTSPLY Implants - Dental Tribune US
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Trend Micro Unmasks Global "Task Scam" Industry - Placera.se
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Den hetaste nya trenden inom global utbildning - The Portugal News
 - Portugalidade - En ny global studie - The Portugal News
+- Portugal: En växande hubb för global teknik - The Portugal News
 
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
-- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
-- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Oron: Då tar datan på internet slut - SvD
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Spår superintelligens om tio år – vill leda racet - Omni
 
 ## Business
 
 - Ellington Credit Company Announces Financial Results for the First Fiscal Quarter Ended June 30, 2025 - Placera.se
 - DeFi Technologies Announces Inaugural Insights Symposium to Be Held in Frankfurt on September 25, 2025 - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Valour Tether Gold (XAUt) SEK ETP – ISIN: CH1108679981 - Placera.se
+- Accord Announces Amendment to its Banking Facility - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Accord Announces Amendment to its Banking Facility - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - REPAY Appoints New Chief Financial Officer - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Valour Tether Gold (XAUt) SEK ETP – ISIN: CH1108679981 - Placera.se
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 
 ## Health
 
@@ -103,19 +103,19 @@ _Updated: 2025-08-20 19:41_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Fakulteten för hälsa och samhälle - Malmö universitet
+- Europeisk konferens för socialmedicin: Praktik, teori och handling för en hälsosammare framtid - Svenska Läkaresällskapet
 - Johan von Schreeb - Karolinska Institutet
-- Engineering Health 2024 - Chalmers tekniska högskola
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Tema: AI inom medicin och hälsa - Karolinska Institutet
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
 ## Science
 
@@ -144,21 +144,21 @@ _Updated: 2025-08-20 19:41_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De gick från reko till eko - ST-tidningen
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Stora anslag för innovationer i lantbruket - Lantbruksnytt
+- Tuffa tider väntar för engelskt jordbruk - ATL
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- Tio jordbruksaktier för depån - Placera.se
