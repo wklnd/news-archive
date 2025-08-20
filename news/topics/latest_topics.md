@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-21 00:41_
+_Updated: 2025-08-21 01:39_
 
 ## Top Stories
 
-- Malmer Stenergard: ”Kritiserar Israels beslut” – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Israel har inlett sin invasion av Gaza stad - GP
 - DN Direkt - Sista rättegångsdagen mot Landerholm - DN.se - DN
-- Man gripen misstänkt för mordförsök – en till sjukhus - NLT
+- Försök till mord i Götene – man gripen - SVT Nyheter
+- Man avliden efter drunkningslarm i Uddevalla - SVT Nyheter
+- Världskända kyrkflytten avklarad – efter snigelfärden - Dagens industri
 - Ingmar Nevéus: Varför skulle Putin plötsligt vilja träffa Zelenskyj? - DN
-- Kiruna kyrka har fått ett nytt hem – en historisk flytt genomförd enligt plan - Cision News
-- Detta gäller när allmänhetens kräftfiske startar på fredag - Länsstyrelsen
 - Stort sökpådrag efter försvunnen man - DN
 - Åt guacamole i Italien – dog - GP
+- Detta gäller när allmänhetens kräftfiske startar på fredag - Länsstyrelsen
 - Gisslén: FHM gick emot sina medicinska experter - DN
-- C-ilskan mot Kristersson: ”Dubbla besked” - Expressen
-- Forskare varnade för bränderna – tre månader före katastrofen - DN
+- Forskare varnade för bränderna – tre månader innan katastrofen - DN
 - Planerna sätts – ilsket svar från Ryssland - Expressen
 - Lavrov: Diskussion utan oss "en utopi" - Aftonbladet
-- Trump ringde Orbán efter EU-topparnas påtryckningar - Expressen
+- 46-årig man död i fransk ”förnedringsstreaming” på plattformen Kick - DN
 - Oförändrad styrränta – men öppning för sänkning - SvD
 - Kör som Ingves – Riksbankens Volvo under klubban - Dagens industri
-- Bessent hoppas på att kryptobolag ska köpa amerikanska statsobligationer - FT - Börsvärlden
-- Regeringen lyfter BNP-prognos för 2026 - SVT Nyheter
-- Gigantisk gasbubbla upptäckt runt stjärna - Forskning.se
+- Stoppad kärnkraft får elpriset att rusa - Tidningen Näringslivet
+- Efter tågstrulet – SJ granskas av Konsumentverket - Aftonbladet
 - Google laddar om med vikbar AI-mobil - Ny Teknik
+- Gigantisk gasbubbla upptäckt runt stjärna - Forskning.se
 
 ## World News
 
@@ -36,16 +36,16 @@ _Updated: 2025-08-21 00:41_
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - BIG Travel går in i globalt partnerskap - travelnews.se
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Match Group to Present at the Citi Global TMT Conference - Placera.se
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Trend Micro Unmasks Global "Task Scam" Industry - Placera.se
+- Timken Releases CSR Report, Showcasing Sustainable Innovation and Global Impact - Placera.se
 - Den hetaste nya trenden inom global utbildning - The Portugal News
 
 ## Technology
@@ -76,23 +76,23 @@ _Updated: 2025-08-21 00:41_
 - Ellington Credit Company Announces Financial Results for the First Fiscal Quarter Ended June 30, 2025 - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Valour Tether Gold (XAUt) SEK ETP – ISIN: CH1108679981 - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Accord Announces Amendment to its Banking Facility - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Accord Announces Amendment to its Banking Facility - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - REPAY Appoints New Chief Financial Officer - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -104,16 +104,16 @@ _Updated: 2025-08-21 00:41_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
@@ -122,23 +122,23 @@ _Updated: 2025-08-21 00:41_
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Simple math behind major bison blunder - Forskning & Framsteg
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Möt forskare i Umeå digitalt på ForskarFredag den 27 november! - Mynewsdesk
+- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
 
 ## Jordbruk
 
@@ -147,8 +147,8 @@ _Updated: 2025-08-21 00:41_
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
