@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-20 22:42_
+_Updated: 2025-08-20 23:39_
 
 ## Top Stories
 
-- SVT:s reporter: Kommer försvåra förhandlingar – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Malmer Stenergard: ”Kritiserar Israels beslut” – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - DN Direkt - Stor sökinsats efter försvunnen man i Blekinge - DN.se - DN
-- Man allvarligt skadad efter drunkningslarm - Västerbottens-Kuriren
-- DN Direkt - Sista rättegångsdagen mot Landerholm - DN.se - DN
-- Man gripen misstänkt för mordförsök – en till sjukhus - NLT
-- Ingmar Nevéus: Varför skulle Putin plötsligt vilja träffa Zelenskyj? - DN
 - DN Direkt - Kiruna kyrka är framme – klarade fem kilometer långa resan - DN.se - DN
+- Elsparkcykel i olycka – en till sjukhus - Expressen
+- Man gripen misstänkt för mordförsök – en till sjukhus - NLT
+- DN Direkt - Sista rättegångsdagen mot Landerholm - DN.se - DN
+- Åt guacamole i Italien – dog - GP
 - Detta gäller när allmänhetens kräftfiske startar på fredag - Länsstyrelsen
-- Gisslén: FHM vek sig för Läkemedelsverket - Västerbottens-Kuriren
-- Flicka död i drunkningsolycka - Västerbottens-Kuriren
+- Gisslén: FHM gick emot sina medicinska experter - DN
+- C-ilskan mot Kristersson: ”Dubbla besked” - Expressen
+- Ingmar Nevéus: Varför skulle Putin plötsligt vilja träffa Zelenskyj? - DN
 - Forskare varnade för bränderna – tre månader före katastrofen - DN
-- 22-åriga Pau trotsar militärpolisen – vägrar lämna byn som hotas av jättebranden - DN
-- Israeliskt ja till att klyva Västbanken - Västerbottens-Kuriren
-- Flera döda av botulism – så gör du för att inte drabbas - DN
+- Planerna sätts – ilsket svar från Ryssland - Expressen
+- Trump ringde Orbán efter EU-topparnas påtryckningar - Expressen
 - Oförändrad styrränta – men öppning för sänkning - SvD
-- Ekonomer inför Jackson Hole: Då är det risk för besvikelse - Dagens industri
+- Kör som Ingves – Riksbankens Volvo under klubban - Dagens industri
 - Efter tågstrulet – SJ granskas av Konsumentverket - Aftonbladet
-- Stoppad kärnkraft får elpriset att rusa - Tidningen Näringslivet
+- "Allvarlig press" på Powell inför Fed-konferens - Affärsvärlden
 - Google laddar om med vikbar AI-mobil - Ny Teknik
 - Gigantisk gasbubbla upptäckt runt stjärna - Forskning.se
 
@@ -137,8 +137,8 @@ _Updated: 2025-08-20 22:42_
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
+- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
 
 ## Jordbruk
 
