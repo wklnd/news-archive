@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-20 21:38_
+_Updated: 2025-08-20 22:42_
 
 ## Top Stories
 
 - SVT:s reporter: Kommer försvåra förhandlingar – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- DN Direkt - Kiruna kyrka är framme – klarade historiska resan - DN.se - DN
-- 19 augusti 21.50, Försvunnen person, Blekinge län - polisen.se
+- DN Direkt - Stor sökinsats efter försvunnen man i Blekinge - DN.se - DN
+- Man allvarligt skadad efter drunkningslarm - Västerbottens-Kuriren
+- DN Direkt - Sista rättegångsdagen mot Landerholm - DN.se - DN
 - Man gripen misstänkt för mordförsök – en till sjukhus - NLT
-- Massiv kritik mot Busspecialisten i Växjö: ”Jag blir så arg så att jag blir ledsen” - Smålandsposten
-- Man allvarligt skadad efter drunkningslarm - GP
-- DN Direkt - Strid om Landerholms handlingar i rätten - DN.se - DN
-- Gisslén: FHM vek sig för Läkemedelsverket - Västerbottens-Kuriren
+- Ingmar Nevéus: Varför skulle Putin plötsligt vilja träffa Zelenskyj? - DN
+- DN Direkt - Kiruna kyrka är framme – klarade fem kilometer långa resan - DN.se - DN
 - Detta gäller när allmänhetens kräftfiske startar på fredag - Länsstyrelsen
-- Flicka död i drunkningsolycka - GP
-- Källor: Här kan ett möte mellan Putin och Zelenskyj äga rum - Hufvudstadsbladet
-- Israeliskt ja till att klyva Västbanken - Västerbottens-Kuriren
+- Gisslén: FHM vek sig för Läkemedelsverket - Västerbottens-Kuriren
+- Flicka död i drunkningsolycka - Västerbottens-Kuriren
+- Forskare varnade för bränderna – tre månader före katastrofen - DN
 - 22-åriga Pau trotsar militärpolisen – vägrar lämna byn som hotas av jättebranden - DN
-- De överlevde eldinfernot i Spanien – ”Jag sade adjö till allt” - DN
+- Israeliskt ja till att klyva Västbanken - Västerbottens-Kuriren
+- Flera döda av botulism – så gör du för att inte drabbas - DN
 - Oförändrad styrränta – men öppning för sänkning - SvD
-- Regeringen lyfter BNP-prognos för 2026 - SVT Nyheter
 - Ekonomer inför Jackson Hole: Då är det risk för besvikelse - Dagens industri
-- Expert: Kan vara läge att binda boräntan nu - DN
+- Efter tågstrulet – SJ granskas av Konsumentverket - Aftonbladet
+- Stoppad kärnkraft får elpriset att rusa - Tidningen Näringslivet
 - Google laddar om med vikbar AI-mobil - Ny Teknik
 - Gigantisk gasbubbla upptäckt runt stjärna - Forskning.se
 
@@ -40,7 +40,7 @@ _Updated: 2025-08-20 21:38_
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Lars Henrikson – ny global chef för Mölndals-baserade DENTSPLY Implants - Dental Tribune US
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Match Group to Present at the Citi Global TMT Conference - Placera.se
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
@@ -53,7 +53,6 @@ _Updated: 2025-08-20 21:38_
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
@@ -62,11 +61,12 @@ _Updated: 2025-08-20 21:38_
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Oron: Då tar datan på internet slut - SvD
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
@@ -74,25 +74,25 @@ _Updated: 2025-08-20 21:38_
 ## Business
 
 - Ellington Credit Company Announces Financial Results for the First Fiscal Quarter Ended June 30, 2025 - Placera.se
-- DeFi Technologies Announces Inaugural Insights Symposium to Be Held in Frankfurt on September 25, 2025 - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Valour Tether Gold (XAUt) SEK ETP – ISIN: CH1108679981 - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Accord Announces Amendment to its Banking Facility - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - REPAY Appoints New Chief Financial Officer - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -145,20 +145,20 @@ _Updated: 2025-08-20 21:38_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- Stora anslag för innovationer i lantbruket - Lantbruksnytt
-- De gick från reko till eko - ST-tidningen
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De gick från reko till eko - ST-tidningen
+- Tio jordbruksaktier för depån - Placera.se
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Tuffa tider väntar för engelskt jordbruk - ATL
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Små jordbruk kan mätta fler - FoodMonitor
+- Danmark kan bli först med klimatskatt på jordbruket - SVT Nyheter
