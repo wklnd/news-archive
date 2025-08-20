@@ -1,35 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-20 23:39_
+_Updated: 2025-08-21 00:41_
 
 ## Top Stories
 
 - Malmer Stenergard: ”Kritiserar Israels beslut” – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- DN Direkt - Stor sökinsats efter försvunnen man i Blekinge - DN.se - DN
-- DN Direkt - Kiruna kyrka är framme – klarade fem kilometer långa resan - DN.se - DN
-- Elsparkcykel i olycka – en till sjukhus - Expressen
-- Man gripen misstänkt för mordförsök – en till sjukhus - NLT
 - DN Direkt - Sista rättegångsdagen mot Landerholm - DN.se - DN
-- Åt guacamole i Italien – dog - GP
+- Man gripen misstänkt för mordförsök – en till sjukhus - NLT
+- Ingmar Nevéus: Varför skulle Putin plötsligt vilja träffa Zelenskyj? - DN
+- Kiruna kyrka har fått ett nytt hem – en historisk flytt genomförd enligt plan - Cision News
 - Detta gäller när allmänhetens kräftfiske startar på fredag - Länsstyrelsen
+- Stort sökpådrag efter försvunnen man - DN
+- Åt guacamole i Italien – dog - GP
 - Gisslén: FHM gick emot sina medicinska experter - DN
 - C-ilskan mot Kristersson: ”Dubbla besked” - Expressen
-- Ingmar Nevéus: Varför skulle Putin plötsligt vilja träffa Zelenskyj? - DN
 - Forskare varnade för bränderna – tre månader före katastrofen - DN
 - Planerna sätts – ilsket svar från Ryssland - Expressen
+- Lavrov: Diskussion utan oss "en utopi" - Aftonbladet
 - Trump ringde Orbán efter EU-topparnas påtryckningar - Expressen
 - Oförändrad styrränta – men öppning för sänkning - SvD
 - Kör som Ingves – Riksbankens Volvo under klubban - Dagens industri
-- Efter tågstrulet – SJ granskas av Konsumentverket - Aftonbladet
-- "Allvarlig press" på Powell inför Fed-konferens - Affärsvärlden
-- Google laddar om med vikbar AI-mobil - Ny Teknik
+- Bessent hoppas på att kryptobolag ska köpa amerikanska statsobligationer - FT - Börsvärlden
+- Regeringen lyfter BNP-prognos för 2026 - SVT Nyheter
 - Gigantisk gasbubbla upptäckt runt stjärna - Forskning.se
+- Google laddar om med vikbar AI-mobil - Ny Teknik
 
 ## World News
 
-- Avolta will grow its footprint with two new 10-year contracts at Atlanta International Airport, the World’s Busiest Airport - Placera.se
+- NETMARBLE'S OPEN-WORLD RPG "THE SEVEN DEADLY SINS: ORIGIN" KICKS OFF GLOBAL CBT REGISTRATION - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
@@ -39,14 +40,13 @@ _Updated: 2025-08-20 23:39_
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Lars Henrikson – ny global chef för Mölndals-baserade DENTSPLY Implants - Dental Tribune US
-- Match Group to Present at the Citi Global TMT Conference - Placera.se
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Match Group to Present at the Citi Global TMT Conference - Placera.se
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Portugalidade - En ny global studie - The Portugal News
-- Portugal: En växande hubb för global teknik - The Portugal News
+- Trend Micro Unmasks Global "Task Scam" Industry - Placera.se
+- Den hetaste nya trenden inom global utbildning - The Portugal News
 
 ## Technology
 
