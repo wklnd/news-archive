@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-20 13:48_
+_Updated: 2025-08-20 15:18_
 
+- N.C., Virginia under Hurricane Erin storm alerts, some East Coast beaches shut - Axios
 - Kremlin plays down Zelensky talks as Trump warns Putin may not want to make deal - BBC
 - US, NATO planners start to craft Ukraine security guarantee options - Reuters
-- N.C., Virginia under Hurricane Erin storm alerts, some East Coast beaches shut - Axios
-- Trump administration revokes security clearances of 37 current and former government officials - AP News
 - NATO aircraft scrambled amid overnight Russian drone strikes on Ukraine - ABC News
-- Trump Says Smithsonian Focuses Too Much on ‘How Bad Slavery Was’ - The New York Times
+- Trump administration revokes security clearances of 37 current and former government officials - AP News
+- 5 Takeaways From the Times Analysis of Democratic Decline in Voter Registration - The New York Times
+- Texas House to take up GOP congressional map delayed by Democrats’ walkout - The Texas Tribune
+- A fire is burning one of the world's tallest trees near the Oregon coast - ABC News
+- How Gavin Newsom trolled his way to the top of social media - Politico
 - Gov. Tina Kotek doubles down on Oregon’s sanctuary laws in response to U.S. AG - OregonLive.com
-- Texas Democrats tear ‘permission slips’ imposed by Republican house speaker - The Guardian
-- Exclusive: Newsom pollster sees big support for California redistricting - Axios
-- Kilmar Abrego Garcia's lawyers ask judge to dismiss criminal charges, calling them "vindictive and selective" - CBS News
-- Israel calls up 60,000 reservists ahead of Gaza City offensive - BBC
+- Preparations for a Move on Gaza City Have Started, Israel’s Military Says - The New York Times
+- Man who was "humiliated and mistreated for months" dies during livestream in France, officials say - CBS News
+- For Trump, Flashy Summits Come First. Grunt Work Comes Next. - The New York Times
 - President Trump’s Talks with the Leaders of Russia and Ukraine - NPR
-- Chilling video shows Jean Pormanove being choked during livestream, days before death | Trending - Hindustan Times - Hindustan Times
-- Afghanistan: Dozens of deportees from Iran killed in bus crash - BBC
-- Target names longtime insider Michael Fiddelke its next CEO as retailer tries to break sales and stock slump - CNBC
+- Target’s CEO is stepping down as customers turn away - CNN
 - Walmart recalls frozen shrimp over potential radioactive contamination - NPR
-- Hint of Mini Labubu Launch Sends Pop Mart Stock Soaring 12% - The New York Times
-- UK inflation rises to highest since early 2024 at 3.8% - Reuters
+- Stock market today: Dow, S&P 500, Nasdaq futures steady after Target earnings with Fed minutes on deck - ca.finance.yahoo.com
+- Air Canada labor deal may reshape pay for North American airline crews - Reuters
 - Prices leak for the rest of Google’s new Pixel products - The Verge
-- Apple likely won’t release an M5 MacBook Pro until next year, but should you wait for it? - 9to5Mac
+- iPhone 17 Pro case line may have new leather alternative after flawed FineWoven - 9to5Mac
