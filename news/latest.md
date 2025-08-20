@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-20 12:51_
+_Updated: 2025-08-20 13:48_
 
 - Kremlin plays down Zelensky talks as Trump warns Putin may not want to make deal - BBC
-- "Politicizing intelligence": Trump admin revokes security clearances of 37 U.S. officials - Axios
 - US, NATO planners start to craft Ukraine security guarantee options - Reuters
-- Hurricane Erin forces Outer Banks evacuations as beaches close along the East Coast - CBS News
-- Trump Says Smithsonian Focuses Too Much on ‘How Bad Slavery Was’ - The New York Times
+- N.C., Virginia under Hurricane Erin storm alerts, some East Coast beaches shut - Axios
+- Trump administration revokes security clearances of 37 current and former government officials - AP News
 - NATO aircraft scrambled amid overnight Russian drone strikes on Ukraine - ABC News
-- A divine appointment? How Newsom's redistricting plan ran into busloads of opponents - CalMatters
+- Trump Says Smithsonian Focuses Too Much on ‘How Bad Slavery Was’ - The New York Times
 - Gov. Tina Kotek doubles down on Oregon’s sanctuary laws in response to U.S. AG - OregonLive.com
 - Texas Democrats tear ‘permission slips’ imposed by Republican house speaker - The Guardian
+- Exclusive: Newsom pollster sees big support for California redistricting - Axios
 - Kilmar Abrego Garcia's lawyers ask judge to dismiss criminal charges, calling them "vindictive and selective" - CBS News
-- Israel approves plan to conquer Gaza City, call up around 60,000 reservists - France 24
-- Afghanistan: Dozens of deportees from Iran killed in bus crash - BBC
+- Israel calls up 60,000 reservists ahead of Gaza City offensive - BBC
 - President Trump’s Talks with the Leaders of Russia and Ukraine - NPR
-- Netanyahu accuses Australian PM Albanese of 'betraying' Israel - BBC
+- Chilling video shows Jean Pormanove being choked during livestream, days before death | Trending - Hindustan Times - Hindustan Times
+- Afghanistan: Dozens of deportees from Iran killed in bus crash - BBC
+- Target names longtime insider Michael Fiddelke its next CEO as retailer tries to break sales and stock slump - CNBC
 - Walmart recalls frozen shrimp over potential radioactive contamination - NPR
-- Stocks Slide as Wall Street Tech Slump Hits Mood: Markets Wrap - Bloomberg.com
-- Pop Mart sees revenue hitting over $4 bln this year, to launch mini Labubus - Reuters
-- Target sales fall again, but retailer sticks by its outlook - CNBC
+- Hint of Mini Labubu Launch Sends Pop Mart Stock Soaring 12% - The New York Times
+- UK inflation rises to highest since early 2024 at 3.8% - Reuters
 - Prices leak for the rest of Google’s new Pixel products - The Verge
 - Apple likely won’t release an M5 MacBook Pro until next year, but should you wait for it? - 9to5Mac
