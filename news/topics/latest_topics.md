@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-20 11:42_
+_Updated: 2025-08-20 12:44_
 
 ## Top Stories
 
 - Källor: Här kan ett möte mellan Putin och Zelenskyj äga rum - DN
-- Statsepidemiologen säger upp sig i protest mot Folkhälsomyndigheten - GP
-- Detta gäller när allmänhetens kräftfiske startar på fredag - Länsstyrelsen
-- Nya L-ledaren: Jag har ändrat mig om SD - DN
-- Fler misstänkta i Örebro - 8 Sidor
-- Nu rullar Kiruna kyrka mot mål - kungen på plats - GP
-- Sköt ihjäl småbarnspappa i Malmö – döms till fängelse i åtta år - SVT Nyheter
+- Skulle fira sin dotters födelsedag – sköts ihjäl samma dag - Aftonbladet
 - Landerholm: Informerade Regeringskansliet om ohållbar arbetssituation - DN
+- ”Allt ser bra ut förutom väderprognosen” - Nerikes Allehanda
+- Stor sökinsats efter försvunnen man – tros ha kört vilse - SVT Nyheter
+- Brist på utbildade förskollärare – trots minskade barnkullar - DN
+- Nu rullar Kiruna kyrka mot upplopp och mål - GP
+- FHM:s generaldirektör: Kompetensen finns visst - DN
+- Nya L-ledaren: Jag har ändrat mig om SD - DN
 - Ny 30-sträcka – då blev det bötesfest: ”Fortsätter under veckan” - NWT
-- Man försvunnen – larmade själv polisen - Expressen
-- Israels försvarsminister godkänner Gazaplan – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Grönt ljus – Israel ska inta Gaza stad - Hufvudstadsbladet
+- Israeliskt ja till att klyva Västbanken - DN
 - Deporterade afghaner offer i svår busskrock - Västerbottens-Kuriren
-- När smörgåsen blir livsfarlig - Aftonbladet
 - De överlevde eldinfernot i Spanien – ”Jag sade adjö till allt” - DN
 - Penningpolitiskt beslut: Styrräntan oförändrad på 2 procent - Sveriges Riksbank
 - Stoppad kärnkraft får elpriset att rusa - DN
+- MIT-rapport om AI skapar techfrossa på Wall Street - Omni
 - PostNord pausar tillfälligt vissa försändelser för varor till USA och Puerto Rico - Cision News
-- Experten: Priserna skrämmer bort kunder - SvD
 - Gigantisk gasbubbla upptäckt runt stjärna - Forskning.se
-- Barnvagga återkallas, risk för kvävning och klämskada - Konsumentverket
+- Paradox stiger efter besked om nya spelsläpp - Dagens industri
 
 ## World News
 
+- NETMARBLE'S OPEN-WORLD RPG "THE SEVEN DEADLY SINS: ORIGIN" KICKS OFF GLOBAL CBT REGISTRATION - Placera.se
 - Avolta will grow its footprint with two new 10-year contracts at Atlanta International Airport, the World’s Busiest Airport - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- BIG Travel går in i globalt partnerskap - travelnews.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Lars Henrikson – ny global chef för Mölndals-baserade DENTSPLY Implants - Dental Tribune US
-- Timken Releases CSR Report, Showcasing Sustainable Innovation and Global Impact - Placera.se
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
-- Trend Micro Unmasks Global "Task Scam" Industry - Placera.se
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
+- BIG Travel går in i globalt partnerskap - travelnews.se
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Timken Releases CSR Report, Showcasing Sustainable Innovation and Global Impact - Placera.se
 - Den hetaste nya trenden inom global utbildning - The Portugal News
+- Trend Micro Unmasks Global "Task Scam" Industry - Placera.se
 
 ## Technology
 
@@ -58,17 +58,17 @@ _Updated: 2025-08-20 11:42_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
-- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
+- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
+- Lantern Pharma Announces Public Release of Transformative, Advanced AI Module for Blood-Brain Barrier Permeability Prediction, predictBBB.ai - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
-- How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Oron: Då tar datan på internet slut - SvD
 
 ## Business
@@ -104,61 +104,61 @@ _Updated: 2025-08-20 11:42_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- (+) Stor undersökning av jordbruket - Arbetarskydd
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- Stora anslag för innovationer i lantbruket - Lantbruksnytt
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Stora anslag för innovationer i lantbruket - Lantbruksnytt
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- De gick från reko till eko - ST-tidningen
