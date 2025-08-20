@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-20 08:56_
+_Updated: 2025-08-20 09:48_
 
-- Kremlin plays down Zelensky talks as Trump warns Putin may not want 'to make deal' - BBC
-- "Politicizing intelligence": Trump admin revokes security clearances of 37 U.S. officials - Axios
-- What Hurricane Erin will mean for Virginia, Maryland and Delaware beaches - The Washington Post
+- Why Putin is not ready to meet with Zelensky, and may never be - CNN
+- MAGA isolationists brace for details of Ukraine security guarantees - Axios
+- Trump administration revokes security clearances of 37 current and former government officials - AP News
+- Hurricane Erin forces Outer Banks evacuations as beaches close along the East Coast - CBS News
 - Trump Says Smithsonian Focuses Too Much on ‘How Bad Slavery Was’ - The New York Times
-- US, NATO planners start to craft Ukraine security guarantee options - Reuters
-- DHS Secretary Noem says entire southern border wall will be painted black to stop people from climbing it - CBS News
-- California Republicans sue to block Democratic redistricting plan - Reuters
-- 'Leave us the hell alone,' WA Democrats tell Bondi on immigration - KUOW
+- President Trump’s Peace Summit Hailed as a Game-Changer - The White House (.gov)
+- Gov. Bob Ferguson to U.S. AG Pam Bondi: WA won’t ‘bend the knee’ to Trump regime - The Olympian
+- California Republicans sue to pause Newsom's redistricting effort - Axios
 - Texas Democrats tear ‘permission slips’ imposed by Republican house speaker - The Guardian
 - Trump and Putin are both criticizing mail-in voting. Election officials are freaking out. - Politico
 - President Trump’s Talks with the Leaders of Russia and Ukraine - NPR
+- Netanyahu accuses Australian PM Albanese of 'betraying' Israel - BBC
 - Afghanistan: Dozens of deportees from Iran killed in bus crash - BBC
 - Israel weighs Hamas offer of 60-day Gaza truce and hostage release - Reuters
-- After Defying Back-to-Work Orders, Air Canada Employees Reach Tentative Deal - The New York Times
-- Walmart recalls shrimp after FDA warns of radioactive isotopes - BBC
+- FDA warns public about eating radioactive shrimp from Walmart - Axios
 - Tech selloff casts gloom over markets - Reuters
 - Target will report earnings before the bell. Here's what to expect - CNBC
-- Trump Embarks on $104 Million Bond-Buying Spree While in Office - Bloomberg.com
-- Jimmy Fallon is ‘officially hosting’ Google’s Pixel 10 event - 9to5Google
-- Spotify’s latest feature lets you add your own transitions to playlists - TechCrunch
+- After Defying Back-to-Work Orders, Air Canada Employees Reach Tentative Deal - The New York Times
+- Spotify copies Apple Music’s AutoMix feature before iOS 26 even ships - 9to5Mac
+- Can portable wind generators replace solar power? My advice after testing one at home - ZDNET
