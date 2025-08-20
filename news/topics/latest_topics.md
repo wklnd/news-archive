@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-20 04:17_
+_Updated: 2025-08-20 05:28_
 
 ## Top Stories
 
 - Alex Voronov Europas politiker tvingas spela med i Trumps teater - GP
-- DN Direkt - Wigzell tackade nej att möta Gisslén i Aktuellt - DN.se - DN
 - Natos ex-chef: Europa ska stå för styrkan i Ukraina - Hufvudstadsbladet
 - Källor: Här kan ett möte mellan Putin och Zelenskyj äga rum - DN
-- Stort läckage av farligt ämne i fabrik i Märsta - SVT Nyheter
+- Experterna backar Gisslén – efter kritiken mot FHM - GP
+- Colombias expresident på fri fot efter överklagan - SVT Nyheter
 - Kiruna kyrka rullas bort till jubel och tårar - DN
 - DN Direkt - Gällöfsta-anställda hördes om Landerholms dokument - DN.se - DN
 - Polismeddelande till alla som kör bil – gäller hela veckan - Marcus Oscarsson
 - En gripen för moskémordet - Expressen
-- Ygeman manar ministern att avgå: ”Anmärkningsvärt” - DN
-- Över 1 000 döda av spanska extremvärmen - Hufvudstadsbladet
-- Avhuggna huvuden hittade längs väg i Mexiko - Västerbottens-Kuriren
-- Kronprinsen efter åtalet: ”Utmanande och svårt” - Aftonbladet
+- Mångs fint – Faleij får deal och slutar direkt - Södra Dalarnes Tidning
+- De överlevde eldinfernot i Spanien – ”Jag sade adjö till allt” - DN
 - Håkan Boström: Någon perfekt fred mellan Ukraina och Ryssland finns inte - GP
+- Kronprinsen efter åtalet: ”Utmanande och svårt” - Aftonbladet
+- Sally Rooneys stöd till ”terrorister” är helt rätt - Aftonbladet
+- Expertens råd på börsen till småsparare i höst - Dagens PS
+- Små rörelser på Stockholmsbörsen – Balder backar efter Erik Selins avgång - Dagens industri
 - Vita huset skaffar Tiktok - Aftonbladet
-- Bahnhofs delårsrapport Q2 2025 - Cision News
 - Ny direktlinje från Göteborg till Tuzla – upptäck Bosnien och Hercegovina med Wizz Air - swedavia.se
-- Ekonom: Styrräntan bottnar på 1 procent – nästa år - EFN
-- DN Direkt - Upptäckt: ny mini-måne - DN.se - DN
+- Gamescom – här är nyheterna från Opening night live - Aftonbladet
 - Indiana Jones är tillbaka i expansion till hyllade "The Great Circle" - släpps om bara några veckor - MovieZine
 
 ## World News
@@ -104,16 +104,16 @@ _Updated: 2025-08-20 04:17_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
