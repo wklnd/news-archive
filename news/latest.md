@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-21 04:19_
+_Updated: 2025-08-21 05:30_
 
 - Texas House passes new GOP-friendly congressional maps - ABC News
+- Obama Endorses Newsom’s Redistricting Proposal as a ‘Responsible Approach’ - The New York Times
 - Trump vows to expand his review of U.S. museums. Can he do that? - NPR
-- Israeli military says first stages of assault on Gaza City have begun - BBC
-- Obama backs California effort to redraw districts in response to Texas - Politico
-- Strengthening Hurricane Erin on course to recurve out to sea - Yale Climate Connections
-- Military vehicle crashes into car in DC as states send more national guard troops - The Guardian
+- Israel says it has taken first steps of military operation in Gaza City - Reuters
+- These places will be hit by big waves and coastal flooding as Hurricane Erin passes - The Washington Post
+- Israel approves controversial E1 settlement plans in West Bank - BBC
+- Judge Halts Texas Law Mandating the Ten Commandments in School - The New York Times
 - ‘This cannot be normalized’: Blue cities and states rebuff White House over immigration enforcement - Politico
-- Judge blocks some Texas public schools from displaying Ten Commandments - The Washington Post
+- JD Vance booed during hamburger handout to national guard troops in DC - The Guardian
 - Camp Mystic Parents Demand Changes Before More Children Are Lost - The New York Times
-- US court allows Trump officials to end protected status for 60,000 migrants - The Guardian
-- Massacres in eastern Congo cast doubt on U.S. mediated peace deal - NPR
 - Mexico City mayor says police have arrested 13 in connection with killings of her staffers - AP News
+- Massacres in eastern Congo cast doubt on U.S. mediated peace deal - NPR
 - Imposing Further Sanctions in Response to the ICC’s Ongoing Threat to Americans and Israelis - U.S. Department of State (.gov)
-- Six states to send troops to D.C. And, Texas lawmakers to vote on redistricting today - NPR
-- Fed minutes reveal concern over 'the effects of higher tariffs' as central bank left rates unchanged - Fortune
-- Target CEO steps down as company faces weak sales and customer boycott - The Guardian
-- Trump calls for resignation of Federal Reserve governor Lisa Cook - The Washington Post
-- Exclusive | Meta Freezes AI Hiring After Blockbuster Spending Spree - The Wall Street Journal
-- Google launches its own ‘MagSafe’ with PixelSnap - TechCrunch
-- Today is your last chance to grab a PS5 before Sony’s price hikes go into effect - The Verge
+- Police investigating death of French streamer issue update - BBC
+- Minutes of the Federal Open Market Committee, July 29–30, 2025 - Federal Reserve Board (.gov)
+- Microsoft employee protests lead to 18 arrests as company reviews its work with Israel's military - AP News
+- Stock market may be obscuring ‘important realities’ about the U.S. economy - MarketWatch
+- Palantir Falls For Sixth Straight Session. Retreats 18% From All-Time High. - Investor's Business Daily
+- Every Piece of Pixel Hardware Announced at Made by Google 2025 - CNET
+- PlayStation 5 price changes in the U.S. - PlayStation.Blog
