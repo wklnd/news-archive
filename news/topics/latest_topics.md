@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-21 09:41_
+_Updated: 2025-08-21 10:48_
 
 ## Top Stories
 
-- SVT:s korrespondent: Handlar om att ta kontrollen från Hamas – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- DN Direkt - Ytterligare en gymnasieskola stängd efter hot - DN.se - DN
+- BBC: Hundratusentals väntas få evakueringsorder – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Massiv insats efter försvunnen man: ”Bråttom” - Aftonbladet
-- JUST NU: Björnjakten avlyst – en hona skjuten - NWT
-- Fallet Landerholm – det ser inte bra ut - SvD
-- Hård kritik mot uppdraget att ta fram medborgarskapsprov - DN
+- Björnjakten har startat – så många har skjutits hittills - SVT Nyheter
 - Gisslén: FHM gick emot sina medicinska experter - DN
-- Trenden fortsätter – färre barn föds - GP
-- Nu rullar Kiruna kyrka mot mål - kungen på plats - Västerbottens-Kuriren
-- Sågningen: Bidragskrav kan gynna kriminella gäng - GP
-- DEBATT: Ge invånarna större makt över sin mark – reformera strandskyddet - Norrtelje Tidning
+- Hård kritik mot uppdraget att ta fram medborgarskapsprov - DN
+- Man begärs häktad för dödsskjutningen vid Örebro moské - SVT Nyheter
+- DN Direkt - Världens äldsta människa fyller år i dag - DN.se - DN
+- Efter regeringens Gazabråk: Här träffar Tidöpolitikerna Israels ambassadör - ETC.se
+- Kungen om kyrkflytten: ”Jag tycker att det är fantastiskt” - SVT Nyheter
 - Zelenskyj: Möter Putin först efter garantier - Västerbottens-Kuriren
 - Ny Texaskarta kan stärka Trumps makt - GP
 - Minst en död i ryska attacker mot Ukraina - Expressen
 - Därför säger Trump ”exakt det Putin vill” - Expressen
 - Riksbanken lämnar styrräntan oförändrad på 2 procent - Skåne Plus
-- Ny rapport: Elbilen blir mer lönsam än bensinbilen - Dagens PS
 - Lundin-ägda Aker BP har gjort stort oljefynd i Nordsjön - Dagens industri
+- Five Guys möttes av skepsis – nu expanderar hamburgerkedjan - SvD
 - Regeringen lyfter BNP-prognos för 2026 - SVT Nyheter
-- Google utmanar Iphone – släpper vikbar mobil med AI-chip för 22 000 - Ny Teknik
-- Gigantisk gasbubbla upptäckt runt stjärna - Forskning.se
+- Nasa-upptäckt: Mini-måne undgick Voyager 2 – men inte Webb-teleskopet - Ny Teknik
+- 13 saker som visades upp på Googles Pixel 10-lansering – inklusive de bästa Pixel-telefonerna hittills - TechRadar
 
 ## World News
 
@@ -53,6 +53,7 @@ _Updated: 2025-08-21 09:41_
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
@@ -60,16 +61,15 @@ _Updated: 2025-08-21 09:41_
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Oron: Då tar datan på internet slut - SvD
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 
 ## Business
 
@@ -80,18 +80,18 @@ _Updated: 2025-08-21 09:41_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Valour Tether Gold (XAUt) SEK ETP – ISIN: CH1108679981 - Placera.se
-- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Bitcoin Cash (BCH), Unus Sed Leo (LEO), OKB (OKB), Polygon (POL), Algorand (ALGO), Filecoin (FIL), Arbitrum (ARB), and Stacks (STX) - Placera.se
+- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Accord Announces Amendment to its Banking Facility - Placera.se
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ALT5 Sigma Corporation Announces Closing of $1.5 Billion Registered Direct Offering and Concurrent Private Placement to Initiate World Liberty Financial $WLFI Treasury Strategy - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - SIGMA LITHIUM STREAMLINES LEADERSHIP COMBINING KEY ROLES UNDER VETERAN VPs; ANNOUNCES SHAREHOLDER MEETING RESULTS; TO RELEASE 2Q FINANCIALS ON AUG 14, 2025 - Placera.se
 
 ## Health
@@ -121,30 +121,31 @@ _Updated: 2025-08-21 09:41_
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-09-18 Seminarium: Norra Sverige som livsmedelsproducent - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
 - Från smågrisproduktion till äpplen och kimchi – Gavie´s Gårdar satsar på ekologiskt mathantverk - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -155,7 +156,6 @@ _Updated: 2025-08-21 09:41_
 - Många lantbruk vill producera egen el - Tidningen Extrakt
 - De gick från reko till eko - ST-tidningen
 - Små jordbruk kan mätta fler - FoodMonitor
-- Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
 - Tio jordbruksaktier för depån - Placera.se
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Hon blir verksamhetschef på Sweden Food Arena - Mynewsdesk
