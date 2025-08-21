@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-21 21:38_
+_Updated: 2025-08-21 22:42_
 
 ## Top Stories
 
+- Israels ambassadör: Invasionen inte inledd i Gaza stad - DN
+- Zelenskyj: Möter Putin först efter garantier - Västerbottens-Kuriren
 - Försvunne mannen i Blekinge hittad vid liv - Omni
-- Michael Winiarski: Till slut har Trump tvingats inse att dörren har slagits igen - DN
-- Sverige och 20 andra länder fördömer bosättarplan – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Kvinna död i trafikolycka i Ystad - GP
-- Strid mellan Tidöpartierna om vård av Gazas barn - SvD
-- Svenska FN-chefen om offensiven i Gaza: Det kommer att bli katastrofalt - Sydsvenskan
-- DN Direkt - Ministern kallar till nytt möte om FHM-kritik - DN.se - DN
+- DN Direkt - Amerikanska UD skärper visumgranskningar - DN.se - DN
+- Kvinna död efter trafikolycka i Löderup - SVT Nyheter
+- Misstänkt mördare kopplas till Vivallagäng - Nerikes Allehanda
+- Bråket på Folkhälsomyndigheten: Magnus Gisslén i konflikt med kollegan - GP
+- Uppgifter: Splittring om Israel mellan regeringstopparna - Aftonbladet
 - Vattenfall väljer att satsa på små reaktorer: ”Det bästa för Sverige” - Dagens industri
-- Björnjakten kritiseras: ”För många skjuts” - Östersunds-Posten
 - ”Allt ser bra ut förutom väderprognosen” - Nerikes Allehanda
 - Över en miljon hektar har brunnit upp - Västerbottens-Kuriren
+- De överlevde eldinfernot i Spanien – ”Jag sade adjö till allt” - Hufvudstadsbladet
+- DEBATT: Bilderna på de svältande i Gaza är olidliga – släpp fram matleveranserna - GP
 - Ukrainare gripen för Nord Stream-sabotage - SvD
-- Försvunnen svensk hittad död i Norge - Aftonbladet
-- Här är appen som ska ge Putin makt över ryska internet - DN
 - Trump backar från tullhot mot EU om läkemedel - SvD
-- Five Guys öppnar ny restaurang i Mall of Scandinavia - Fastighetsnytt
+- Pensionen närmar sig – är det smart att vara skuldfri då? - DN
 - Valbudgeten som ska lyfta Tidö: ”Ska göra allt för att vända konjunkturen” - ETC.se
 - Riksbanken lämnar styrräntan oförändrad på 2 procent - Skåne Plus
 - Exploderande supernova avslöjar naken stjärna - Forskning.se
-- 13 saker som visades upp på Googles Pixel 10-lansering – inklusive de bästa Pixel-telefonerna hittills - TechRadar
+- Astronomen om tecknen i rymden: ”Blev chockad” - Aftonbladet
 
 ## World News
 
@@ -34,42 +34,42 @@ _Updated: 2025-08-21 21:38_
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Kraton and International Paper Execute Strategic Continuity of Services Agreement - Placera.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
+- Kraton and International Paper Execute Strategic Continuity of Services Agreement - Placera.se
 - Match Group to Present at the Citi Global TMT Conference - Placera.se
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - EY.ai | EY - Sverige - EY
+- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Most active stocks today: NVDA stock, BMNR stock, AMD stock, RGTI - Markets.com
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Oron: Då tar datan på internet slut - SvD
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
+- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
+- How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 
 ## Business
 
@@ -121,36 +121,36 @@ _Updated: 2025-08-21 21:38_
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - (+) Stor undersökning av jordbruket - Arbetarskydd
