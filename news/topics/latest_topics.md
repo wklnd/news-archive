@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-21 20:48_
+_Updated: 2025-08-21 21:38_
 
 ## Top Stories
 
+- Försvunne mannen i Blekinge hittad vid liv - Omni
 - Michael Winiarski: Till slut har Trump tvingats inse att dörren har slagits igen - DN
-- JUST NU: Försvunne 78-åringen hittad vid liv – här fann polisen honom - Sydöstran
-- Bråket på Folkhälsomyndigheten: Magnus Gisslén i konflikt med kollegan - GP
-- Netanyahu: Redo att inleda förhandlingar om vapenvila – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- INSÄNDARE: Vi hungerstrejkar i solidaritet med Gazas svältande befolkning - Östersunds-Posten
-- Kängan mot KD: ”Har kontinuerlig kontakt med bosättarna” - ETC.se
+- Sverige och 20 andra länder fördömer bosättarplan – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Kvinna död i trafikolycka i Ystad - GP
+- Strid mellan Tidöpartierna om vård av Gazas barn - SvD
+- Svenska FN-chefen om offensiven i Gaza: Det kommer att bli katastrofalt - Sydsvenskan
+- DN Direkt - Ministern kallar till nytt möte om FHM-kritik - DN.se - DN
 - Vattenfall väljer att satsa på små reaktorer: ”Det bästa för Sverige” - Dagens industri
 - Björnjakten kritiseras: ”För många skjuts” - Östersunds-Posten
 - ”Allt ser bra ut förutom väderprognosen” - Nerikes Allehanda
-- Man begärs häktad för mord vid moskén - Nerikes Allehanda
 - Över en miljon hektar har brunnit upp - Västerbottens-Kuriren
-- Ukrainare gripen för Nord Stream-sabotage - GP
+- Ukrainare gripen för Nord Stream-sabotage - SvD
+- Försvunnen svensk hittad död i Norge - Aftonbladet
 - Här är appen som ska ge Putin makt över ryska internet - DN
-- Rysk våg av robotar och drönare mot Ukraina - GP
 - Trump backar från tullhot mot EU om läkemedel - SvD
 - Five Guys öppnar ny restaurang i Mall of Scandinavia - Fastighetsnytt
-- Familjen Persson fortsätter storköpa H&M-aktier - Dagens industri
 - Valbudgeten som ska lyfta Tidö: ”Ska göra allt för att vända konjunkturen” - ETC.se
-- Astronomen om tecknen i rymden: ”Blev chockad” - Aftonbladet
+- Riksbanken lämnar styrräntan oförändrad på 2 procent - Skåne Plus
+- Exploderande supernova avslöjar naken stjärna - Forskning.se
 - 13 saker som visades upp på Googles Pixel 10-lansering – inklusive de bästa Pixel-telefonerna hittills - TechRadar
 
 ## World News
@@ -98,17 +98,17 @@ _Updated: 2025-08-21 20:48_
 
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Johan von Schreeb - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Master­programmet i hälso­ekonomi, policy och management - Karolinska Institutet
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
@@ -137,28 +137,28 @@ _Updated: 2025-08-21 20:48_
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
-- Tio jordbruksaktier för depån - Placera.se
-- Danmark kan bli först med klimatskatt på jordbruket - SVT Nyheter
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Tuffa tider väntar för engelskt jordbruk - ATL
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- Stora anslag för innovationer i lantbruket - Lantbruksnytt
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Här är världens största jordbruk - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Stor nyhet för matglada katter - Mynewsdesk
