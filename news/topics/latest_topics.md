@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-21 18:47_
+_Updated: 2025-08-21 19:47_
 
 ## Top Stories
 
-- Försvunne mannen i Blekinge hittad vid liv - Omni
 - DN Direkt - FHM vidtar flera åtgärder efter Gissléns kritik - DN.se - DN
-- Boende i Gaza stad: Vi får möta döden med hedern i behåll – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Källor: Trump tar ett steg tillbaka i fredsprocessen - GP
-- Från Irland till Gaza – så blev svält ett politiskt verktyg - Global Bar Magazine
-- Misstänkt mord i södra Stockholm - Mitt i
-- DN Direkt - Tidöpartierna i pressträff om små kärnkraftsreaktorer - DN.se - DN
-- IS-svensk överklagar dom – pilot brändes ihjäl - GP
+- JUST NU: Försvunne 78-åringen hittad vid liv - Sydöstran
+- Granskning: Åtta av tio dödade i Gaza är civila – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Upprört i V efter petningarna: ”Extremt olyckligt” - DN
+- Zelenskyj: Möter Putin först efter garantier - Västerbottens-Kuriren
+- Hård kritik mot uppdraget att ta fram medborgarskapsprov - DN
+- Vattenfall väljer satsa på små reaktorer - GP
 - Björnjakten kritiseras: ”För många skjuts” - Östersunds-Posten
 - ”Allt ser bra ut förutom väderprognosen” - Nerikes Allehanda
+- IS-svensk överklagar dom – pilot brändes ihjäl - GP
 - Ukrainare gripen för Nord Stream-sabotage - SvD
-- Djurrester i sopstation - Expressen
 - Över en miljon hektar har brunnit upp - Västerbottens-Kuriren
+- Rysk våg av robotar och drönare mot Ukraina - GP
 - Här är appen som ska ge Putin makt över ryska internet - DN
 - EU och USA: Tullar på läkemedel och bilar får tak på 15 procent - Dagens industri
-- Möttes av skepsis – nu expanderar Five Guys - SvD
-- Bakom Metas siffror döljer sig en bomb - SvD
 - Familjen Persson fortsätter storköpa H&M-aktier - Dagens industri
+- Valbudgeten som ska lyfta Tidö: ”Ska göra allt för att vända konjunkturen” - ETC.se
+- Bakom Metas siffror döljer sig en bomb - SvD
 - Svenska AI-plattformen Lovable utnyttjas för nätfiske - Computer Sweden
 - Exploderande supernova avslöjar naken stjärna - Forskning.se
 
@@ -31,22 +31,22 @@ _Updated: 2025-08-21 18:47_
 - Phuket, Thailand Rises as a Global Residential Haven, Driven by Laguna Phuket and Banyan Group Residences - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- NETMARBLE'S OPEN-WORLD RPG "THE SEVEN DEADLY SINS: ORIGIN" KICKS OFF GLOBAL CBT REGISTRATION - Placera.se
+- Avolta will grow its footprint with two new 10-year contracts at Atlanta International Airport, the World’s Busiest Airport - Placera.se
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
-- Match Group to Present at the Citi Global TMT Conference - Placera.se
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- Kraton and International Paper Execute Strategic Continuity of Services Agreement - Placera.se
+- Match Group to Present at the Citi Global TMT Conference - Placera.se
 
 ## Technology
 
@@ -73,26 +73,26 @@ _Updated: 2025-08-21 18:47_
 
 ## Business
 
+- Letter from the CEO: Amber International's Vision, Strategy, and Roadmap - Placera.se
 - Ellington Credit Company Announces Financial Results for the First Fiscal Quarter Ended June 30, 2025 - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Valour Tether Gold (XAUt) SEK ETP – ISIN: CH1108679981 - Placera.se
+- REPAY Appoints New Chief Financial Officer - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
+- Valour Tether Gold (XAUt) SEK ETP – ISIN: CH1108679981 - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- REPAY Appoints New Chief Financial Officer - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
-- Letter from the CEO: Amber International's Vision, Strategy, and Roadmap - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- ALT5 Sigma Corporation Announces Closing of $1.5 Billion Registered Direct Offering and Concurrent Private Placement to Initiate World Liberty Financial $WLFI Treasury Strategy - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 
 ## Health
 
@@ -121,24 +121,24 @@ _Updated: 2025-08-21 18:47_
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - 5 myter om öppen vetenskap - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
 
 ## Jordbruk
 
