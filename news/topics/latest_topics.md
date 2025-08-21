@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-21 10:48_
+_Updated: 2025-08-21 11:42_
 
 ## Top Stories
 
-- DN Direkt - Ytterligare en gymnasieskola stängd efter hot - DN.se - DN
-- BBC: Hundratusentals väntas få evakueringsorder – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- SVT:s korrespondent: Handlar om att ta kontrollen från Hamas – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- ”Läkare ska leda Folkhälsomyndigheten” - Västerbottens-Kuriren
 - Massiv insats efter försvunnen man: ”Bråttom” - Aftonbladet
-- Björnjakten har startat – så många har skjutits hittills - SVT Nyheter
-- Gisslén: FHM gick emot sina medicinska experter - DN
-- Hård kritik mot uppdraget att ta fram medborgarskapsprov - DN
-- Man begärs häktad för dödsskjutningen vid Örebro moské - SVT Nyheter
-- DN Direkt - Världens äldsta människa fyller år i dag - DN.se - DN
-- Efter regeringens Gazabråk: Här träffar Tidöpolitikerna Israels ambassadör - ETC.se
-- Kungen om kyrkflytten: ”Jag tycker att det är fantastiskt” - SVT Nyheter
+- JUST NU: Björnjakten avlyst – en hona skjuten - NWT
+- DN Direkt - Åtal för finansiering av terrorism - DN.se - DN
+- Havet har tagit över ön - Aftonbladet
+- Universitet protesterar mot uppdrag: ”Politiskt” - Västerbottens-Kuriren
+- DN Direkt - En begärd häktad för mord vid Örebro moské - DN.se - DN
+- Håkan Juholt: ”Socialdemokraterna har visat att de inte vill ha någonting med mig att göra” - DN
+- Trenden fortsätter – färre barn föds - GP
 - Zelenskyj: Möter Putin först efter garantier - Västerbottens-Kuriren
 - Ny Texaskarta kan stärka Trumps makt - GP
-- Minst en död i ryska attacker mot Ukraina - Expressen
-- Därför säger Trump ”exakt det Putin vill” - Expressen
+- JUST NU: Ryssland har attackerat amerikansk fabrik - Marcus Oscarsson
+- ”Superföda” kan vända negativ trend för världens bin - SVT Nyheter
 - Riksbanken lämnar styrräntan oförändrad på 2 procent - Skåne Plus
+- Besked om ny kärnkraft väntas från Vattenfall - ETC.se
+- Möttes av skepsis – nu expanderar Five Guys - SvD
 - Lundin-ägda Aker BP har gjort stort oljefynd i Nordsjön - Dagens industri
-- Five Guys möttes av skepsis – nu expanderar hamburgerkedjan - SvD
-- Regeringen lyfter BNP-prognos för 2026 - SVT Nyheter
 - Nasa-upptäckt: Mini-måne undgick Voyager 2 – men inte Webb-teleskopet - Ny Teknik
-- 13 saker som visades upp på Googles Pixel 10-lansering – inklusive de bästa Pixel-telefonerna hittills - TechRadar
+- Exploderande supernova avslöjar naken stjärna - Forskning.se
 
 ## World News
 
+- Avolta will grow its footprint with two new 10-year contracts at Atlanta International Airport, the World’s Busiest Airport - Placera.se
 - NETMARBLE'S OPEN-WORLD RPG "THE SEVEN DEADLY SINS: ORIGIN" KICKS OFF GLOBAL CBT REGISTRATION - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- Riad Beladi i samtal med Alice Ancona, operativ chef för World Trade Center Miami – Fokus på America Food & Beverage Show & Conference – International Supermarket News - International Supermarket News
+- Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
-- Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
-- BIG Travel går in i globalt partnerskap - travelnews.se
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- BIG Travel går in i globalt partnerskap - travelnews.se
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Match Group to Present at the Citi Global TMT Conference - Placera.se
-- Den hetaste nya trenden inom global utbildning - The Portugal News
+- Timken Releases CSR Report, Showcasing Sustainable Innovation and Global Impact - Placera.se
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
 
@@ -80,7 +80,6 @@ _Updated: 2025-08-21 10:48_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Valour Tether Gold (XAUt) SEK ETP – ISIN: CH1108679981 - Placera.se
-- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Accord Announces Amendment to its Banking Facility - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -90,9 +89,10 @@ _Updated: 2025-08-21 10:48_
 - The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- ALT5 Sigma Corporation Announces Closing of $1.5 Billion Registered Direct Offering and Concurrent Private Placement to Initiate World Liberty Financial $WLFI Treasury Strategy - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- SIGMA LITHIUM STREAMLINES LEADERSHIP COMBINING KEY ROLES UNDER VETERAN VPs; ANNOUNCES SHAREHOLDER MEETING RESULTS; TO RELEASE 2Q FINANCIALS ON AUG 14, 2025 - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -119,46 +119,46 @@ _Updated: 2025-08-21 10:48_
 
 ## Science
 
-- Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-09-18 Seminarium: Norra Sverige som livsmedelsproducent - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
-- Från smågrisproduktion till äpplen och kimchi – Gavie´s Gårdar satsar på ekologiskt mathantverk - LRF - Lantbrukarnas Riksförbund
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- Stora anslag för innovationer i lantbruket - Lantbruksnytt
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Stora anslag för innovationer i lantbruket - Lantbruksnytt
-- Många lantbruk vill producera egen el - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
-- Små jordbruk kan mätta fler - FoodMonitor
-- Tio jordbruksaktier för depån - Placera.se
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Hon blir verksamhetschef på Sweden Food Arena - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
-- Globalt jordbruk förorenar mer vatten än industrin - Land Lantbruk
