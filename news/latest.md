@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-21 16:51_
+_Updated: 2025-08-21 17:49_
 
-- EU pushes to secure lower U.S. car tariff from Aug 1 - Reuters
-- Hurricane Erin slams North Carolina, Virginia coasts with strong winds, powerful waves, dangerous rip currents - FOX Weather
-- Ukraine's leader says huge Russian attack shows Putin isn't "really going to engage" in peace effort - CBS News
+- Trump half-billion-dollar civil fraud penalty thrown out by appeals court - CNBC
+- CWG Live updates: Clouds and a gusty breeze are all Hurricane Erin brings - The Washington Post
+- Joint Statement on a United States-European Union Framework on an Agreement on Reciprocal, Fair, and Balanced Trade - The White House (.gov)
 - California Supreme Court denies GOP request for hold on Dem-pushed redistricting legislation - ABC News
-- The National Guard has been deployed to enforce the law before. What's different now? - NPR
 - James Dobson, Influential Leader of the Religious Right, Dies at 89 - The New York Times
-- Trump celebrates 'big' Texas victory that could bolster GOP majority and more top headlines - Fox News
+- The National Guard has been deployed to enforce the law before. What's different now? - NPR
+- Lawmakers are debating GOP congressional maps. What does redistricting mean for Texans? - The Texas Tribune
 - Menendez brothers face parole hearings as they seek release after three decades - The Guardian
-- Meme-lord Newsom riles Republicans with Trump-trolling posts - France 24
-- Tulsi Gabbard announces plans to cut intelligence staff by half - BBC
+- The potential next target of Trump’s bid to control DC: Local courts - Politico
+- 'A wake-up call': Newsom's Trump trolling is riling Republicans - SFGATE
 - Ukrainian man arrested over Nord Stream pipeline attacks - Reuters
-- With Moves on West Bank and Gaza City, Israel Defies Global Outcry - The New York Times
-- Xi Hammers Home His Message of Control Over Tibet in Rare Visit - Bloomberg.com
-- Trump Is Asking Ukraine to Pay an Impossible Price - Slate Magazine
-- Behind Powell’s Big Gamble in Final Jackson Hole Speech - The New York Times
+- Gaza City offensive would be ‘death sentence’ for Israeli hostages, say relatives - The Guardian
+- Labour councils consider asylum hotel legal challenges - BBC
+- Security guarantees: Which countries could send troops to Ukraine - Euronews.com
+- Gold price today, Thursday, August 21, 2025: Gold rises after Trump calls for Fed governor resignation - Yahoo Finance
 - July home sales rise as prices approach inflection point - CNBC
-- Stock Market Today: Dow Leads Losses; Walmart Drops After Earnings — Live Updates - The Wall Street Journal
-- Trump housing regulator accuses Fed governor Cook of mortgage fraud - Axios
+- US tech-stock stumble shows vulnerability in AI trade - Reuters
+- US applications for jobless benefits rise last week, but layoffs remain historically low - AP News
 - Every Piece of Pixel Hardware Announced at Made by Google 2025 - CNET
-- Google Pixel 10 phones will narc on AI-edited images - Engadget
+- Silksong finally launches in September - The Verge
