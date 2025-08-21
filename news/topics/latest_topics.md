@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-21 05:52_
+_Updated: 2025-08-21 06:45_
 
 ## Top Stories
 
-- FN-chefen manar till omedelbar vapenvila – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Håkan Boström: Låt inte politrukerna ta över våra myndigheter - GP
 - DN Direkt - Dom mot Landerholm meddelas om drygt två veckor - DN.se - DN
-- Vite kommer att drabba bussbolaget efter strulet med skolskjutsarna - Smålandsposten
+- SVT:s korrespondent: Handlar om att ta kontrollen från Hamas – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Bets av fästing – fick allergichock av köttmiddagen - Aftonbladet
 - Ingmar Nevéus: Varför skulle Putin plötsligt vilja träffa Zelenskyj? - DN
-- Lavrov: Diskussion utan oss "en utopi" - GP
+- Uppgifter: Skissas på garantier för Ukraina - SvD
 - Sågningen: Bidragskrav kan gynna kriminella gäng - Västerbottens-Kuriren
-- DN Direkt - Kiruna kyrka är framme – klarade fem kilometer långa resan - DN.se - DN
+- Hård kritik mot uppdraget att ta fram medborgarskapsprov - DN
 - Björnjakten kritiseras: ”För många skjuts” - GP
-- 19 augusti 21.50, Försvunnen person, Blekinge län - polisen.se
-- Texas röstar för att rita om valkarta - Västerbottens-Kuriren
+- Kungen om kyrkflytten: ”Jag tycker att det är fantastiskt” - SVT Nyheter
+- Ny Texaskarta kan stärka Trumps makt - Västerbottens-Kuriren
+- DN Direkt - Försvaret mätte fel – uniformer pausas - DN.se - DN
+- Lavrov: Diskussion utan oss "en utopi" - Aftonbladet
 - Mordförsök – man skadad i bråk - Expressen
-- Trump ringde Orbán efter EU-topparnas påtryckningar - Expressen
-- Hur många ska dö innan ni i förbundet gör något? - Aftonbladet
-- Oförändrad styrränta – men öppning för sänkning - SvD
-- Stoppad kärnkraft får elpriset att rusa - Tidningen Näringslivet
+- Riksbanken lämnar styrräntan oförändrad på 2 procent - Skåne Plus
 - Regeringen lyfter BNP-prognos för 2026 - SVT Nyheter
-- Extra ledig dag till anställda på HVB och i vård och omsorg - Fackförbundet Vision
-- Gigantisk gasbubbla upptäckt runt stjärna - Forskning.se
+- Stoppad kärnkraft får elpriset att rusa - Tidningen Näringslivet
+- Kursrusning för Labubus ägare - Västerbottens-Kuriren
 - Google laddar om med vikbar AI-mobil - Ny Teknik
+- Gigantisk gasbubbla upptäckt runt stjärna - Forskning.se
 
 ## World News
 
@@ -51,25 +51,25 @@ _Updated: 2025-08-21 05:52_
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
-- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
+- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
 - EY.ai | EY - Sverige - EY
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
+- Oron: Då tar datan på internet slut - SvD
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Lantern Pharma Announces Public Release of Transformative, Advanced AI Module for Blood-Brain Barrier Permeability Prediction, predictBBB.ai - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
-- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
-- Oron: Då tar datan på internet slut - SvD
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 
 ## Business
 
@@ -106,14 +106,14 @@ _Updated: 2025-08-21 05:52_
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Öhman Hälsa och Ny Teknik ökade 3,5 procent i juli - Sedana Medical, Devyser och Camurus bidrog positivt - Placera.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
