@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-21 06:45_
+_Updated: 2025-08-21 07:42_
 
 ## Top Stories
 
+- FN-chefen manar till omedelbar vapenvila – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Håkan Boström: Låt inte politrukerna ta över våra myndigheter - GP
 - DN Direkt - Dom mot Landerholm meddelas om drygt två veckor - DN.se - DN
-- SVT:s korrespondent: Handlar om att ta kontrollen från Hamas – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Bets av fästing – fick allergichock av köttmiddagen - Aftonbladet
-- Ingmar Nevéus: Varför skulle Putin plötsligt vilja träffa Zelenskyj? - DN
-- Uppgifter: Skissas på garantier för Ukraina - SvD
-- Sågningen: Bidragskrav kan gynna kriminella gäng - Västerbottens-Kuriren
 - Hård kritik mot uppdraget att ta fram medborgarskapsprov - DN
+- Texaspolitiker röstade för att rita om valkartan - SVT Nyheter
+- Lova inte Ukraina mer än vi förmår hålla - NT
+- Sågningen: Bidragskrav kan gynna kriminella gäng - Västerbottens-Kuriren
 - Björnjakten kritiseras: ”För många skjuts” - GP
 - Kungen om kyrkflytten: ”Jag tycker att det är fantastiskt” - SVT Nyheter
-- Ny Texaskarta kan stärka Trumps makt - Västerbottens-Kuriren
-- DN Direkt - Försvaret mätte fel – uniformer pausas - DN.se - DN
+- DEBATT: Ge invånarna större makt över sin mark – reformera strandskyddet - Norrtelje Tidning
+- DN Direkt - Polis: Bolsonaro planerade flykt - DN.se - DN
 - Lavrov: Diskussion utan oss "en utopi" - Aftonbladet
+- Därför säger Trump ”exakt det Putin vill” - Expressen
 - Mordförsök – man skadad i bråk - Expressen
 - Riksbanken lämnar styrräntan oförändrad på 2 procent - Skåne Plus
 - Regeringen lyfter BNP-prognos för 2026 - SVT Nyheter
+- Image Systems: Suddig lönsamhetsbild - Affärsvärlden
 - Stoppad kärnkraft får elpriset att rusa - Tidningen Näringslivet
-- Kursrusning för Labubus ägare - Västerbottens-Kuriren
 - Google laddar om med vikbar AI-mobil - Ny Teknik
 - Gigantisk gasbubbla upptäckt runt stjärna - Forskning.se
 
@@ -62,14 +62,14 @@ _Updated: 2025-08-21 06:45_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Oron: Då tar datan på internet slut - SvD
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 
 ## Business
 
@@ -103,42 +103,42 @@ _Updated: 2025-08-21 06:45_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Europeisk konferens för socialmedicin: Praktik, teori och handling för en hälsosammare framtid - Svenska Läkaresällskapet
 - Johan von Schreeb - Karolinska Institutet
-- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Tema: AI inom medicin och hälsa - Karolinska Institutet
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
+- Anna Kiessling - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
 ## Science
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - 5 myter om öppen vetenskap - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
