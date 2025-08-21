@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-21 15:47_
+_Updated: 2025-08-21 16:44_
 
 ## Top Stories
 
-- Vattenfall vill satsa på små modulära kärnkraftsreaktorer på Ringhals - SVT Nyheter
-- ”Nu flyr man av rädsla, inte enbart av bristen på mat” - DN
-- Bråket på Folkhälsomyndigheten: Magnus Gisslén i konflikt med kollegan - GP
-- Massiv insats efter försvunnen man: ”Bråttom” - Aftonbladet
-- Ukrainare gripen för Nord Stream-sabotage - Västerbottens-Kuriren
-- Ramselebon Robin, 39, har fällt 40 björnar - Tidningen Ångermanland
-- Gymnasieskola i Önnestad stängd efter hot - SVT Nyheter
-- Landshövdingen och Kungen följde kyrkflytten i Kiruna - Länsstyrelsen
-- IS-svensk överklagar dom – pilot brändes ihjäl - GP
-- ”Allt ser bra ut förutom väderprognosen” - Nerikes Allehanda
 - Zelenskyj: Möter Putin först efter garantier - Västerbottens-Kuriren
-- Ny Texaskarta kan stärka Trumps makt - Sydsvenskan
+- DN Direkt - Ministern kallar till nytt möte om FHM-kritik - DN.se - DN
+- Boende i Gaza stad: Vi får möta döden med hedern i behåll – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Massiv insats efter försvunnen man: ”Bråttom” - Aftonbladet
+- Petad V-politiker vägrar svara: Inga kommentarer - GP
+- Misstänkt mord i södra Stockholm - Mitt i
+- Vattenfall vill satsa på små modulära kärnkraftsreaktorer på Ringhals - SVT Nyheter
+- Hot mot skola – en gripen - GP
+- Psalmer, världsrekord och kunglig glans när Kiruna kyrkas roadtrip gick i mål - Världen idag
+- DN Direkt - IS-svensk överklagar dom – pilot brändes ihjäl - DN.se - DN
+- Misstänkt Nord Stream-sabotör gripen i Italien - DN
+- Här är appen som ska ge Putin makt över ryska internet - DN
 - Ryssland har attackerat amerikansk fabrik - Marcus Oscarsson
-- Trumps budskap om säkerhet för Ukraina - Expressen
-- EU och USA: Tullar på läkemedel och bilar får tak på 15 procent - Dagens industri
+- Ny Texaskarta kan stärka Trumps makt - Sydsvenskan
+- Trumps vändning – backar om jättetullar på läkemedel - EFN
 - Möttes av skepsis – nu expanderar Five Guys - SvD
 - Färre ska göra mer: Äldreomsorgen – det stora pusslet för framtiden - DN
-- Lindvalls kaffe tvingas bort: "Otroligt sorgligt" - UNT
+- Riksbanken lämnar styrräntan oförändrad på 2 procent - Skåne Plus
 - Svenska AI-plattformen Lovable utnyttjas för nätfiske - Computer Sweden
 - Exploderande supernova avslöjar naken stjärna - Forskning.se
 
 ## World News
 
+- Sidus Space Strengthens International Presence with Participation in World Space Business Week in Paris - Placera.se
 - Phuket, Thailand Rises as a Global Residential Haven, Driven by Laguna Phuket and Banyan Group Residences - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- NETMARBLE'S OPEN-WORLD RPG "THE SEVEN DEADLY SINS: ORIGIN" KICKS OFF GLOBAL CBT REGISTRATION - Placera.se
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
-- Match Group to Present at the Citi Global TMT Conference - Placera.se
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Den hetaste nya trenden inom global utbildning - The Portugal News
-- Portugalidade - En ny global studie - The Portugal News
+- Match Group to Present at the Citi Global TMT Conference - Placera.se
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
 
@@ -73,26 +73,26 @@ _Updated: 2025-08-21 15:47_
 
 ## Business
 
+- Letter from the CEO: Amber International's Vision, Strategy, and Roadmap - Placera.se
 - Ellington Credit Company Announces Financial Results for the First Fiscal Quarter Ended June 30, 2025 - Placera.se
-- REPAY Appoints New Chief Financial Officer - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- REPAY Appoints New Chief Financial Officer - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Valour Tether Gold (XAUt) SEK ETP – ISIN: CH1108679981 - Placera.se
 - Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
+- Valour Tether Gold (XAUt) SEK ETP – ISIN: CH1108679981 - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
+- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
-- ALT5 Sigma Corporation Announces Closing of $1.5 Billion Registered Direct Offering and Concurrent Private Placement to Initiate World Liberty Financial $WLFI Treasury Strategy - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- ALT5 Sigma Corporation Announces Closing of $1.5 Billion Registered Direct Offering and Concurrent Private Placement to Initiate World Liberty Financial $WLFI Treasury Strategy - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- SIGMA LITHIUM STREAMLINES LEADERSHIP COMBINING KEY ROLES UNDER VETERAN VPs; ANNOUNCES SHAREHOLDER MEETING RESULTS; TO RELEASE 2Q FINANCIALS ON AUG 14, 2025 - Placera.se
 
 ## Health
 
@@ -107,15 +107,15 @@ _Updated: 2025-08-21 15:47_
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Öhman Hälsa och Ny Teknik ökade 3,5 procent i juli - Sedana Medical, Devyser och Camurus bidrog positivt - Placera.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
@@ -152,7 +152,6 @@ _Updated: 2025-08-21 15:47_
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Stora anslag för innovationer i lantbruket - Lantbruksnytt
 - De gick från reko till eko - ST-tidningen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
@@ -162,3 +161,4 @@ _Updated: 2025-08-21 15:47_
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- Små jordbruk kan mätta fler - FoodMonitor
