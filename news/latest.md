@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-21 01:48_
+_Updated: 2025-08-21 04:19_
 
-- Texas house votes to approve Republican redistricting maps - BBC
-- Flooding begins in the Outer Banks as Hurricane Erin moves north - NPR
+- Texas House passes new GOP-friendly congressional maps - ABC News
+- Trump vows to expand his review of U.S. museums. Can he do that? - NPR
+- Israeli military says first stages of assault on Gaza City have begun - BBC
 - Obama backs California effort to redraw districts in response to Texas - Politico
-- Israel says it has taken first steps of military operation in Gaza City - Reuters
-- JD Vance booed during hamburger handout to national guard troops in DC - The Guardian
-- Judge denies DOJ's request to unseal Epstein grand jury records - ABC News
+- Strengthening Hurricane Erin on course to recurve out to sea - Yale Climate Connections
+- Military vehicle crashes into car in DC as states send more national guard troops - The Guardian
+- ‘This cannot be normalized’: Blue cities and states rebuff White House over immigration enforcement - Politico
+- Judge blocks some Texas public schools from displaying Ten Commandments - The Washington Post
+- Camp Mystic Parents Demand Changes Before More Children Are Lost - The New York Times
 - US court allows Trump officials to end protected status for 60,000 migrants - The Guardian
-- Texas can't require the Ten Commandments in every public school classroom, judge says - NBC News
-- Gabbard announces 40% cut to workforce at key U.S. intelligence office - PBS
-- Trump targets the Smithsonian again, says it focuses too much on how bad slavery was - Reuters
 - Massacres in eastern Congo cast doubt on U.S. mediated peace deal - NPR
+- Mexico City mayor says police have arrested 13 in connection with killings of her staffers - AP News
+- Imposing Further Sanctions in Response to the ICC’s Ongoing Threat to Americans and Israelis - U.S. Department of State (.gov)
 - Six states to send troops to D.C. And, Texas lawmakers to vote on redistricting today - NPR
-- Zelenskyy's speedrun of gratitude—nine thank yous in one minute—shows how foreign leaders talk to Trump - Fortune
-- Why a 113-year-old, wooden church in Sweden was rolled away - NPR
-- Trump calls for resignation of Federal Reserve governor Lisa Cook - The Washington Post
-- Minutes of the Federal Open Market Committee, July 29–30, 2025 - Federal Reserve Board (.gov)
+- Fed minutes reveal concern over 'the effects of higher tariffs' as central bank left rates unchanged - Fortune
 - Target CEO steps down as company faces weak sales and customer boycott - The Guardian
-- Jerome Powell’s Jackson Hole Speech Could Make or Break the Stock Market Rally - Investopedia
+- Trump calls for resignation of Federal Reserve governor Lisa Cook - The Washington Post
+- Exclusive | Meta Freezes AI Hiring After Blockbuster Spending Spree - The Wall Street Journal
 - Google launches its own ‘MagSafe’ with PixelSnap - TechCrunch
-- Sony hikes PlayStation 5 prices in US as tariff uncertainty weighs - Reuters
+- Today is your last chance to grab a PS5 before Sony’s price hikes go into effect - The Verge
