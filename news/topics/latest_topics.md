@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-21 17:42_
+_Updated: 2025-08-21 18:47_
 
 ## Top Stories
 
-- Källor: Trump tar ett steg tillbaka i fredsprocessen - GP
-- Massiv insats efter försvunnen man: ”Bråttom” - Aftonbladet
-- DN Direkt - Ministern kallar till nytt möte om FHM-kritik - DN.se - DN
+- Försvunne mannen i Blekinge hittad vid liv - Omni
+- DN Direkt - FHM vidtar flera åtgärder efter Gissléns kritik - DN.se - DN
 - Boende i Gaza stad: Vi får möta döden med hedern i behåll – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Här är appen som ska ge Putin makt över ryska internet - DN
-- Petad V-politiker vägrar svara: Inga kommentarer - Västerbottens-Kuriren
+- Källor: Trump tar ett steg tillbaka i fredsprocessen - GP
+- Från Irland till Gaza – så blev svält ett politiskt verktyg - Global Bar Magazine
+- Misstänkt mord i södra Stockholm - Mitt i
 - DN Direkt - Tidöpartierna i pressträff om små kärnkraftsreaktorer - DN.se - DN
-- Landshövdingen och Kungen följde kyrkflytten i Kiruna - Länsstyrelsen
+- IS-svensk överklagar dom – pilot brändes ihjäl - GP
+- Björnjakten kritiseras: ”För många skjuts” - Östersunds-Posten
 - ”Allt ser bra ut förutom väderprognosen” - Nerikes Allehanda
-- Ramselebon Robin, 39, har fällt 40 björnar - Tidningen Ångermanland
-- Trump uppges backa från fredssamtal - Aftonbladet
-- Misstänkt Nord Stream-sabotör gripen i Italien - DN
-- Hade sex offentligt – man misstänkt för sexköp - Expressen
-- DEBATT: Bilderna på de svältande i Gaza är olidliga – släpp fram matleveranserna - GP
+- Ukrainare gripen för Nord Stream-sabotage - SvD
+- Djurrester i sopstation - Expressen
+- Över en miljon hektar har brunnit upp - Västerbottens-Kuriren
+- Här är appen som ska ge Putin makt över ryska internet - DN
 - EU och USA: Tullar på läkemedel och bilar får tak på 15 procent - Dagens industri
 - Möttes av skepsis – nu expanderar Five Guys - SvD
-- Färre ska göra mer: Äldreomsorgen – det stora pusslet för framtiden - DN
 - Bakom Metas siffror döljer sig en bomb - SvD
+- Familjen Persson fortsätter storköpa H&M-aktier - Dagens industri
 - Svenska AI-plattformen Lovable utnyttjas för nätfiske - Computer Sweden
 - Exploderande supernova avslöjar naken stjärna - Forskning.se
 
@@ -38,13 +38,13 @@ _Updated: 2025-08-21 17:42_
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- BIG Travel går in i globalt partnerskap - travelnews.se
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
+- BIG Travel går in i globalt partnerskap - travelnews.se
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Match Group to Present at the Citi Global TMT Conference - Placera.se
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
@@ -63,13 +63,13 @@ _Updated: 2025-08-21 17:42_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
-- Spår superintelligens om tio år – vill leda racet - Omni
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 
 ## Business
 
@@ -121,24 +121,24 @@ _Updated: 2025-08-21 17:42_
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
@@ -147,18 +147,18 @@ _Updated: 2025-08-21 17:42_
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Stora anslag för innovationer i lantbruket - Lantbruksnytt
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- De gick från reko till eko - ST-tidningen
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- Små jordbruk kan mätta fler - FoodMonitor
