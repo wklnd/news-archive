@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-21 19:47_
+_Updated: 2025-08-21 20:48_
 
 ## Top Stories
 
-- DN Direkt - FHM vidtar flera åtgärder efter Gissléns kritik - DN.se - DN
-- JUST NU: Försvunne 78-åringen hittad vid liv - Sydöstran
-- Granskning: Åtta av tio dödade i Gaza är civila – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Upprört i V efter petningarna: ”Extremt olyckligt” - DN
-- Zelenskyj: Möter Putin först efter garantier - Västerbottens-Kuriren
-- Hård kritik mot uppdraget att ta fram medborgarskapsprov - DN
-- Vattenfall väljer satsa på små reaktorer - GP
+- Michael Winiarski: Till slut har Trump tvingats inse att dörren har slagits igen - DN
+- JUST NU: Försvunne 78-åringen hittad vid liv – här fann polisen honom - Sydöstran
+- Bråket på Folkhälsomyndigheten: Magnus Gisslén i konflikt med kollegan - GP
+- Netanyahu: Redo att inleda förhandlingar om vapenvila – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- INSÄNDARE: Vi hungerstrejkar i solidaritet med Gazas svältande befolkning - Östersunds-Posten
+- Kängan mot KD: ”Har kontinuerlig kontakt med bosättarna” - ETC.se
+- Vattenfall väljer att satsa på små reaktorer: ”Det bästa för Sverige” - Dagens industri
 - Björnjakten kritiseras: ”För många skjuts” - Östersunds-Posten
 - ”Allt ser bra ut förutom väderprognosen” - Nerikes Allehanda
-- IS-svensk överklagar dom – pilot brändes ihjäl - GP
-- Ukrainare gripen för Nord Stream-sabotage - SvD
+- Man begärs häktad för mord vid moskén - Nerikes Allehanda
 - Över en miljon hektar har brunnit upp - Västerbottens-Kuriren
-- Rysk våg av robotar och drönare mot Ukraina - GP
+- Ukrainare gripen för Nord Stream-sabotage - GP
 - Här är appen som ska ge Putin makt över ryska internet - DN
-- EU och USA: Tullar på läkemedel och bilar får tak på 15 procent - Dagens industri
+- Rysk våg av robotar och drönare mot Ukraina - GP
+- Trump backar från tullhot mot EU om läkemedel - SvD
+- Five Guys öppnar ny restaurang i Mall of Scandinavia - Fastighetsnytt
 - Familjen Persson fortsätter storköpa H&M-aktier - Dagens industri
 - Valbudgeten som ska lyfta Tidö: ”Ska göra allt för att vända konjunkturen” - ETC.se
-- Bakom Metas siffror döljer sig en bomb - SvD
-- Svenska AI-plattformen Lovable utnyttjas för nätfiske - Computer Sweden
-- Exploderande supernova avslöjar naken stjärna - Forskning.se
+- Astronomen om tecknen i rymden: ”Blev chockad” - Aftonbladet
+- 13 saker som visades upp på Googles Pixel 10-lansering – inklusive de bästa Pixel-telefonerna hittills - TechRadar
 
 ## World News
 
@@ -31,43 +31,43 @@ _Updated: 2025-08-21 19:47_
 - Phuket, Thailand Rises as a Global Residential Haven, Driven by Laguna Phuket and Banyan Group Residences - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Avolta will grow its footprint with two new 10-year contracts at Atlanta International Airport, the World’s Busiest Airport - Placera.se
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Kraton and International Paper Execute Strategic Continuity of Services Agreement - Placera.se
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Match Group to Present at the Citi Global TMT Conference - Placera.se
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
-- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
+- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
-- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - EY.ai | EY - Sverige - EY
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Most active stocks today: NVDA stock, BMNR stock, AMD stock, RGTI - Markets.com
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- How Artificial Intelligence is Disrupting Radar Systems Designed for Military Defense Ops - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 
@@ -80,7 +80,6 @@ _Updated: 2025-08-21 19:47_
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Valour Tether Gold (XAUt) SEK ETP – ISIN: CH1108679981 - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -93,29 +92,30 @@ _Updated: 2025-08-21 19:47_
 - ALT5 Sigma Corporation Announces Closing of $1.5 Billion Registered Direct Offering and Concurrent Private Placement to Initiate World Liberty Financial $WLFI Treasury Strategy - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- SIGMA LITHIUM STREAMLINES LEADERSHIP COMBINING KEY ROLES UNDER VETERAN VPs; ANNOUNCES SHAREHOLDER MEETING RESULTS; TO RELEASE 2Q FINANCIALS ON AUG 14, 2025 - Placera.se
 
 ## Health
 
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Johan von Schreeb - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Öhman Hälsa och Ny Teknik ökade 3,5 procent i juli - Sedana Medical, Devyser och Camurus bidrog positivt - Placera.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Master­programmet i hälso­ekonomi, policy och management - Karolinska Institutet
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 
 ## Science
 
@@ -149,16 +149,16 @@ _Updated: 2025-08-21 19:47_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- Stora anslag för innovationer i lantbruket - Lantbruksnytt
-- De gick från reko till eko - ST-tidningen
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De gick från reko till eko - ST-tidningen
+- Tio jordbruksaktier för depån - Placera.se
+- Danmark kan bli först med klimatskatt på jordbruket - SVT Nyheter
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Tuffa tider väntar för engelskt jordbruk - ATL
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Små jordbruk kan mätta fler - FoodMonitor
+- Stor nyhet för matglada katter - Mynewsdesk
