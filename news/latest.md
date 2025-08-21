@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-21 15:51_
+_Updated: 2025-08-21 16:51_
 
-- Hurricane Erin makes closest pass to U.S., bringing big waves and flooding - The Washington Post
-- Trump backs off higher tariffs for E.U. pharma and chips - NBC News
-- California Supreme Court denies GOP request for hold on Dem-pushed redistricting legislation - ABC News
+- EU pushes to secure lower U.S. car tariff from Aug 1 - Reuters
+- Hurricane Erin slams North Carolina, Virginia coasts with strong winds, powerful waves, dangerous rip currents - FOX Weather
 - Ukraine's leader says huge Russian attack shows Putin isn't "really going to engage" in peace effort - CBS News
+- California Supreme Court denies GOP request for hold on Dem-pushed redistricting legislation - ABC News
 - The National Guard has been deployed to enforce the law before. What's different now? - NPR
-- NH mother killed husband, 2 kids before fatally shooting herself, state AG says - WCVB
+- James Dobson, Influential Leader of the Religious Right, Dies at 89 - The New York Times
+- Trump celebrates 'big' Texas victory that could bolster GOP majority and more top headlines - Fox News
 - Menendez brothers face parole hearings as they seek release after three decades - The Guardian
-- Tulsi Gabbard announces plans to cut intelligence staff by half - BBC
-- “My daughter was stolen from me": Grieving parents point to Texas camp failures at Capitol hearing - The Texas Tribune
 - Meme-lord Newsom riles Republicans with Trump-trolling posts - France 24
+- Tulsi Gabbard announces plans to cut intelligence staff by half - BBC
 - Ukrainian man arrested over Nord Stream pipeline attacks - Reuters
-- Xi Hammers Home His Message of Control Over Tibet in Rare Visit - Bloomberg.com
-- Israel Pounds Gaza City As Military Takes First Steps In Offensive - Barron's
 - With Moves on West Bank and Gaza City, Israel Defies Global Outcry - The New York Times
-- Walmart Stock Slips as Q2 Profit Comes Up Short - Investopedia
+- Xi Hammers Home His Message of Control Over Tibet in Rare Visit - Bloomberg.com
+- Trump Is Asking Ukraine to Pay an Impossible Price - Slate Magazine
+- Behind Powell’s Big Gamble in Final Jackson Hole Speech - The New York Times
+- July home sales rise as prices approach inflection point - CNBC
+- Stock Market Today: Dow Leads Losses; Walmart Drops After Earnings — Live Updates - The Wall Street Journal
 - Trump housing regulator accuses Fed governor Cook of mortgage fraud - Axios
-- Stock Market Today: Dow Futures Edge Lower; Walmart Posts Earnings—Live Updates - The Wall Street Journal
-- US tech-stock stumble shows vulnerability in AI trade - Reuters
 - Every Piece of Pixel Hardware Announced at Made by Google 2025 - CNET
 - Google Pixel 10 phones will narc on AI-edited images - Engadget
