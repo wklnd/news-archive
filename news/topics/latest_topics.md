@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-21 04:16_
+_Updated: 2025-08-21 05:28_
 
 ## Top Stories
 
-- SVT:s reporter: Kommer försvåra förhandlingar – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- FN-chefen manar till omedelbar vapenvila – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - DN Direkt - Dom mot Landerholm meddelas om drygt två veckor - DN.se - DN
+- Vite kommer att drabba bussbolaget efter strulet med skolskjutsarna - Smålandsposten
 - Bets av fästing – fick allergichock av köttmiddagen - Aftonbladet
 - Lavrov: Diskussion utan oss "en utopi" - GP
 - Folkfest och sorg i Kiruna: "Våra hus rivs" - Västerbottens-Kuriren
-- Ingmar Nevéus: Varför skulle Putin plötsligt vilja träffa Zelenskyj? - DN
-- Sågningen: Bidragskrav kan gynna kriminella gäng - GP
-- Stort sökpådrag efter försvunnen man - DN
+- Sågningen: Bidragskrav kan gynna kriminella gäng - Västerbottens-Kuriren
+- 19 augusti 21.50, Försvunnen person, Blekinge län - polisen.se
 - Håkan Boström: Låt inte politrukerna ta över våra myndigheter - GP
 - Ras av antalet skolbarn – behov av 700 grundskolor på väg försvinna - DN
+- Ingmar Nevéus: Varför skulle Putin plötsligt vilja träffa Zelenskyj? - DN
 - Texas röstar för att rita om valkarta - Västerbottens-Kuriren
-- Därför säger Trump ”exakt det Putin vill” - Expressen
 - Mordförsök – man skadad i bråk - Expressen
-- Trump ringde Orbán efter EU-topparnas påtryckningar - Expressen
-- Kör som Ingves – Riksbankens Volvo under klubban - Dagens industri
+- Osäkerhet efter toppmöten - Världen idag
+- Riksbanken lämnar styrräntan oförändrad på 2 procent - Skåne Plus
+- Rapport: Här är jobben som riskerar att ersättas av AI - DN
 - Stoppad kärnkraft får elpriset att rusa - Tidningen Näringslivet
-- Oförändrad styrränta – men öppning för sänkning - SvD
-- Regeringen lyfter BNP-prognos för 2026 - SVT Nyheter
+- Kör som Ingves – Riksbankens Volvo under klubban - Dagens industri
 - Gigantisk gasbubbla upptäckt runt stjärna - Forskning.se
 - Google laddar om med vikbar AI-mobil - Ny Teknik
 
@@ -36,17 +36,17 @@ _Updated: 2025-08-21 04:16_
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Match Group to Present at the Citi Global TMT Conference - Placera.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Timken Releases CSR Report, Showcasing Sustainable Innovation and Global Impact - Placera.se
+- Trend Micro Unmasks Global "Task Scam" Industry - Placera.se
 - Den hetaste nya trenden inom global utbildning - The Portugal News
-- Portugal öppet för global miljardärsskatt - The Portugal News
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
 
@@ -77,21 +77,21 @@ _Updated: 2025-08-21 04:16_
 - REPAY Appoints New Chief Financial Officer - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Valour Tether Gold (XAUt) SEK ETP – ISIN: CH1108679981 - Placera.se
+- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Bitcoin Cash (BCH), Unus Sed Leo (LEO), OKB (OKB), Polygon (POL), Algorand (ALGO), Filecoin (FIL), Arbitrum (ARB), and Stacks (STX) - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Accord Announces Amendment to its Banking Facility - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- ALT5 Sigma Corporation Announces Closing of $1.5 Billion Registered Direct Offering and Concurrent Private Placement to Initiate World Liberty Financial $WLFI Treasury Strategy - Placera.se
 - SIGMA LITHIUM STREAMLINES LEADERSHIP COMBINING KEY ROLES UNDER VETERAN VPs; ANNOUNCES SHAREHOLDER MEETING RESULTS; TO RELEASE 2Q FINANCIALS ON AUG 14, 2025 - Placera.se
 
 ## Health
@@ -104,18 +104,18 @@ _Updated: 2025-08-21 04:16_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Öhman Hälsa och Ny Teknik ökade 3,5 procent i juli - Sedana Medical, Devyser och Camurus bidrog positivt - Placera.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
