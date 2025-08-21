@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-21 08:57_
+_Updated: 2025-08-21 09:41_
 
 ## Top Stories
 
+- SVT:s korrespondent: Handlar om att ta kontrollen från Hamas – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Massiv insats efter försvunnen man: ”Bråttom” - Aftonbladet
-- FN-chefen manar till omedelbar vapenvila – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Håkan Boström: Låt inte politrukerna ta över våra myndigheter - GP
+- JUST NU: Björnjakten avlyst – en hona skjuten - NWT
 - Fallet Landerholm – det ser inte bra ut - SvD
-- Ambassadör: Ge barn från Gaza vård i Sverige - GP
 - Hård kritik mot uppdraget att ta fram medborgarskapsprov - DN
-- Årets björnjakt avslutad - SVT Nyheter
+- Gisslén: FHM gick emot sina medicinska experter - DN
+- Trenden fortsätter – färre barn föds - GP
 - Nu rullar Kiruna kyrka mot mål - kungen på plats - Västerbottens-Kuriren
-- Åt guacamole i Italien – dog - GP
-- Sågningen: Bidragskrav kan gynna kriminella gäng - Corren
+- Sågningen: Bidragskrav kan gynna kriminella gäng - GP
+- DEBATT: Ge invånarna större makt över sin mark – reformera strandskyddet - Norrtelje Tidning
+- Zelenskyj: Möter Putin först efter garantier - Västerbottens-Kuriren
 - Ny Texaskarta kan stärka Trumps makt - GP
-- Ingmar Nevéus: Varför skulle Putin plötsligt vilja träffa Zelenskyj? - DN
-- DN Direkt - Polis: Bolsonaro planerade flykt - DN.se - DN
+- Minst en död i ryska attacker mot Ukraina - Expressen
 - Därför säger Trump ”exakt det Putin vill” - Expressen
 - Riksbanken lämnar styrräntan oförändrad på 2 procent - Skåne Plus
+- Ny rapport: Elbilen blir mer lönsam än bensinbilen - Dagens PS
+- Lundin-ägda Aker BP har gjort stort oljefynd i Nordsjön - Dagens industri
 - Regeringen lyfter BNP-prognos för 2026 - SVT Nyheter
-- Image Systems: Suddig lönsamhetsbild - Affärsvärlden
-- Stoppad kärnkraft får elpriset att rusa - Tidningen Näringslivet
+- Google utmanar Iphone – släpper vikbar mobil med AI-chip för 22 000 - Ny Teknik
 - Gigantisk gasbubbla upptäckt runt stjärna - Forskning.se
-- Google laddar om med vikbar AI-mobil - Ny Teknik
 
 ## World News
 
@@ -104,7 +104,8 @@ _Updated: 2025-08-21 08:57_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
-- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Öhman Hälsa och Ny Teknik ökade 3,5 procent i juli - Sedana Medical, Devyser och Camurus bidrog positivt - Placera.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
@@ -115,7 +116,6 @@ _Updated: 2025-08-21 08:57_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-08-21 08:57_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- 2025-09-18 Seminarium: Norra Sverige som livsmedelsproducent - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Från smågrisproduktion till äpplen och kimchi – Gavie´s Gårdar satsar på ekologiskt mathantverk - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
-- Tio jordbruksaktier för depån - Placera.se
-- Danmark kan bli först med klimatskatt på jordbruket - SVT Nyheter
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Tuffa tider väntar för engelskt jordbruk - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Här är världens största jordbruk - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Stora anslag för innovationer i lantbruket - Lantbruksnytt
+- Många lantbruk vill producera egen el - Tidningen Extrakt
+- De gick från reko till eko - ST-tidningen
+- Små jordbruk kan mätta fler - FoodMonitor
+- Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
+- Tio jordbruksaktier för depån - Placera.se
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Hon blir verksamhetschef på Sweden Food Arena - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Stor nyhet för matglada katter - Mynewsdesk
+- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
+- Globalt jordbruk förorenar mer vatten än industrin - Land Lantbruk
