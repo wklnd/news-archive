@@ -1,6 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-21 05:28_
+_Updated: 2025-08-21 05:52_
 
 ## Top Stories
 
@@ -8,20 +8,20 @@ _Updated: 2025-08-21 05:28_
 - DN Direkt - Dom mot Landerholm meddelas om drygt två veckor - DN.se - DN
 - Vite kommer att drabba bussbolaget efter strulet med skolskjutsarna - Smålandsposten
 - Bets av fästing – fick allergichock av köttmiddagen - Aftonbladet
-- Lavrov: Diskussion utan oss "en utopi" - GP
-- Folkfest och sorg i Kiruna: "Våra hus rivs" - Västerbottens-Kuriren
-- Sågningen: Bidragskrav kan gynna kriminella gäng - Västerbottens-Kuriren
-- 19 augusti 21.50, Försvunnen person, Blekinge län - polisen.se
-- Håkan Boström: Låt inte politrukerna ta över våra myndigheter - GP
-- Ras av antalet skolbarn – behov av 700 grundskolor på väg försvinna - DN
 - Ingmar Nevéus: Varför skulle Putin plötsligt vilja träffa Zelenskyj? - DN
+- Lavrov: Diskussion utan oss "en utopi" - GP
+- Sågningen: Bidragskrav kan gynna kriminella gäng - Västerbottens-Kuriren
+- DN Direkt - Kiruna kyrka är framme – klarade fem kilometer långa resan - DN.se - DN
+- Björnjakten kritiseras: ”För många skjuts” - GP
+- 19 augusti 21.50, Försvunnen person, Blekinge län - polisen.se
 - Texas röstar för att rita om valkarta - Västerbottens-Kuriren
 - Mordförsök – man skadad i bråk - Expressen
-- Osäkerhet efter toppmöten - Världen idag
-- Riksbanken lämnar styrräntan oförändrad på 2 procent - Skåne Plus
-- Rapport: Här är jobben som riskerar att ersättas av AI - DN
+- Trump ringde Orbán efter EU-topparnas påtryckningar - Expressen
+- Hur många ska dö innan ni i förbundet gör något? - Aftonbladet
+- Oförändrad styrränta – men öppning för sänkning - SvD
 - Stoppad kärnkraft får elpriset att rusa - Tidningen Näringslivet
-- Kör som Ingves – Riksbankens Volvo under klubban - Dagens industri
+- Regeringen lyfter BNP-prognos för 2026 - SVT Nyheter
+- Extra ledig dag till anställda på HVB och i vård och omsorg - Fackförbundet Vision
 - Gigantisk gasbubbla upptäckt runt stjärna - Forskning.se
 - Google laddar om med vikbar AI-mobil - Ny Teknik
 
@@ -144,21 +144,21 @@ _Updated: 2025-08-21 05:28_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - De gick från reko till eko - ST-tidningen
 - Tio jordbruksaktier för depån - Placera.se
+- Danmark kan bli först med klimatskatt på jordbruket - SVT Nyheter
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Tuffa tider väntar för engelskt jordbruk - ATL
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Tuffa tider väntar för engelskt jordbruk - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Danmark kan bli först med klimatskatt på jordbruket - SVT Nyheter
+- Stor nyhet för matglada katter - Mynewsdesk
