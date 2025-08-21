@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-21 20:53_
+_Updated: 2025-08-21 21:48_
 
-- Appeals court throws out Trump's $500m civil fraud penalty - BBC
-- Ukraine's leader says huge Russian attack shows Putin isn't "really going to engage" in peace effort - CBS News
+- New York appeals court tosses $515m civil fraud penalty against Trump - Al Jazeera
+- Russian airstrikes hit a U.S. factory in western Ukraine - NPR
+- Trump says he's going to patrol D.C. Thursday night with police and National Guard - CBS News
 - CWG Live updates: Clouds and a gusty breeze are all Hurricane Erin brings - The Washington Post
-- Trump plans to join law enforcement on streets of Washington, DC, Thursday night - CNN
-- Joint Statement on a United States-European Union Framework on an Agreement on Reciprocal, Fair, and Balanced Trade - The White House (.gov)
+- Donald Trump backs down from 250% EU pharma tariff in deal - BBC
 - Illinois to Bondi: Sanctuary status stands firm - Politico
 - Texas Rep. Nicole Collier abruptly leaves call with Newsom after being told she’s committing a felony - New York Post
 - Lyle and Erik Menendez Make Their Case for Parole - The New York Times
-- Focus on the Family Founder James Dobson dies at 89 - NPR
 - 'A wake-up call': Newsom's Trump trolling is riling Republicans - SFGATE
+- James Dobson, influential founder of conservative Christian group Focus on the Family, dies age 89 - ABC News
 - Israel has approved a settlement project that could divide the West Bank - NPR
-- Ukrainian Suspected of Leading Nord Stream Sabotage Arrested in Italy - The Wall Street Journal
+- Ukrainian man arrested in Italy over Nord Stream pipeline attacks - Reuters
+- Netanyahu: Israel will conquer Gaza regardless of whether Hamas accepts hostage deal - The Times of Israel
 - World's oldest living person, Britain's Ethel Caterham, celebrates 116th birthday "at her own pace" - CBS News
-- Gaza City offensive would be ‘death sentence’ for Israeli hostages, say relatives - The Guardian
-- Gold price today, Thursday, August 21, 2025: Gold rises after Trump calls for Fed governor resignation - Yahoo Finance
-- With Fed under pressure, Jerome Powell prepares for a high-stakes speech - NPR
 - Walmart Stock Falls After Earnings Report. Here’s Why. - Barron's
-- July home sales rise as prices approach inflection point - CNBC
-- Google Pixel 10 Pro Fold vs. Samsung Galaxy Z Fold 7: How the newest foldable phones stack up - Engadget
-- Silksong finally launches in September - The Verge
+- Cracker Barrel shares plummet after pushback on new logo, brand refresh - CNBC
+- DOJ set to probe Fed governor Lisa Cook over alleged mortgage fraud after Trump urged her to resign - New York Post
+- With Fed under pressure, Jerome Powell prepares for a high-stakes speech - NPR
+- Every Pixel device announced at Made by Google yesterday: 10 Pro Fold, Watch, Buds, more - ZDNET
+- Jubilation, chaos, and a lot of screaming: inside a Hollow Knight community Discord as the Silksong release date finally hit - Eurogamer
