@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-21 07:42_
+_Updated: 2025-08-21 08:57_
 
 ## Top Stories
 
+- Massiv insats efter försvunnen man: ”Bråttom” - Aftonbladet
 - FN-chefen manar till omedelbar vapenvila – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Håkan Boström: Låt inte politrukerna ta över våra myndigheter - GP
-- DN Direkt - Dom mot Landerholm meddelas om drygt två veckor - DN.se - DN
+- Fallet Landerholm – det ser inte bra ut - SvD
+- Ambassadör: Ge barn från Gaza vård i Sverige - GP
 - Hård kritik mot uppdraget att ta fram medborgarskapsprov - DN
-- Texaspolitiker röstade för att rita om valkartan - SVT Nyheter
-- Lova inte Ukraina mer än vi förmår hålla - NT
-- Sågningen: Bidragskrav kan gynna kriminella gäng - Västerbottens-Kuriren
-- Björnjakten kritiseras: ”För många skjuts” - GP
-- Kungen om kyrkflytten: ”Jag tycker att det är fantastiskt” - SVT Nyheter
-- DEBATT: Ge invånarna större makt över sin mark – reformera strandskyddet - Norrtelje Tidning
+- Årets björnjakt avslutad - SVT Nyheter
+- Nu rullar Kiruna kyrka mot mål - kungen på plats - Västerbottens-Kuriren
+- Åt guacamole i Italien – dog - GP
+- Sågningen: Bidragskrav kan gynna kriminella gäng - Corren
+- Ny Texaskarta kan stärka Trumps makt - GP
+- Ingmar Nevéus: Varför skulle Putin plötsligt vilja träffa Zelenskyj? - DN
 - DN Direkt - Polis: Bolsonaro planerade flykt - DN.se - DN
-- Lavrov: Diskussion utan oss "en utopi" - Aftonbladet
 - Därför säger Trump ”exakt det Putin vill” - Expressen
-- Mordförsök – man skadad i bråk - Expressen
 - Riksbanken lämnar styrräntan oförändrad på 2 procent - Skåne Plus
 - Regeringen lyfter BNP-prognos för 2026 - SVT Nyheter
 - Image Systems: Suddig lönsamhetsbild - Affärsvärlden
 - Stoppad kärnkraft får elpriset att rusa - Tidningen Näringslivet
-- Google laddar om med vikbar AI-mobil - Ny Teknik
 - Gigantisk gasbubbla upptäckt runt stjärna - Forskning.se
+- Google laddar om med vikbar AI-mobil - Ny Teknik
 
 ## World News
 
@@ -34,19 +34,19 @@ _Updated: 2025-08-21 07:42_
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- BIG Travel går in i globalt partnerskap - travelnews.se
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
+- BIG Travel går in i globalt partnerskap - travelnews.se
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Match Group to Present at the Citi Global TMT Conference - Placera.se
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Trend Micro Unmasks Global "Task Scam" Industry - Placera.se
+- Match Group to Present at the Citi Global TMT Conference - Placera.se
 - Den hetaste nya trenden inom global utbildning - The Portugal News
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
 
@@ -103,42 +103,42 @@ _Updated: 2025-08-21 07:42_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Europeisk konferens för socialmedicin: Praktik, teori och handling för en hälsosammare framtid - Svenska Läkaresällskapet
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
-- Anna Kiessling - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
 - Kan DeSci lösa den "trasiga fönstereffekten" av vetenskaplig forskningsfinansiering? | OKX News - OKX
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 
 ## Jordbruk
 
