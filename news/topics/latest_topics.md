@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-22 19:41_
+_Updated: 2025-08-22 20:48_
 
 ## Top Stories
 
-- Den varma sommaren gynnar kräftorna - Tidningen Extrakt
-- Åkesson stöttar inte ICC:s arresteringsordrar - Omni
-- Här rivs det mytomspunna skjulet på Årsta holmar – blev en riksnyhet - DN
+- Tess från Unicef i Gaza: ”Rapporten återspeglar verkligheten – det värsta jag sett” - DN
+- Max, 14, ramlade från klippa – då grep de in - Aftonbladet
+- De hittade försvunna 80-åringen: ”Skrek på hjälp” - Omni
 - Tjejgäng trakasserar unga flickor i centrala Borås - GP
-- Gazabo: ”Livsmedel har blivit en lyxvara” - DN
-- Vändningen: Åklagaren återkallar häktning - Nerikes Allehanda
+- Allmänhetens kräftfiske startar i dag - Skillingaryd
+- 16-åring från Göteborg misstänks för mord vid moské i Örebro - GP
+- Här rivs det mytomspunna skjulet på Årsta holmar – blev en riksnyhet - DN
+- Nya beskedet: Planer på att dumpa muddringsmassa i skärgården pausas - DN
+- 22 augusti 10.56, Trafikolycka, Strängnäs - polisen.se
 - Polisen varnar efter inbrottsvåg - GP
-- DN Direkt - Man död efter att blivit påkörd vid E20 - DN.se - DN
-- Fler björnar skjutna på fredagen - Västerbottens-Kuriren
-- Här är Folkhälsomyndighetens kritiserade ledning – som helt saknar läkare - GP
-- FBI genomsökte tidigare Trump-rådgivaren John Boltons bostad - SVT Nyheter
-- Granskning: 83 procent av de dödade i Gaza var civila - DN
-- Kreml har svårt att locka nya soldater med bonusar - DN
+- Trump: Chicago näst på tur för nationalgardet - HD
+- Guterres: Svälten är orsakad av människan – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- FBI-räd mot Trumps förre säkerhetsrådgivare - GP
 - Trump uppges backa från fredssamtal - Hufvudstadsbladet
 - Expert: Så blir utmaningarna med små kärnkraftverk - SvD
-- Fed-chefen öppnar för räntesänkning – börsen stiger - Dagens industri
+- Europeiska länder pausar post till USA - Dagens industri
 - Riksbankens gamla Volvo har fått ny ägare – såldes på auktion - GP
-- Martin Oppenheimer ny VD för MAX Burgers - Cision News
+- AstraZeneca, Ericsson, Saab, SEB och Wallenberg startar AI-bolag - Evertiq
+- Rekordutbrott i rymden kan lösa astronomernas största gåta - Chalmers tekniska högskola
 - Upptäckten: En unik nakenstjärna – saknar universums vanligaste grundämnen - NyTeknik
-- Team Cherry: "Hollow Knight: Silksong var aldrig i 'utvecklingshelvetet'" - FZ.se
 
 ## World News
 
@@ -40,52 +40,52 @@ _Updated: 2025-08-22 19:41_
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
-- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Gap Inc. to Participate in the 32nd Annual Goldman Sachs Global Retailing Conference - Placera.se
-- Kraton and International Paper Execute Strategic Continuity of Services Agreement - Placera.se
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
-- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
+- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
-- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Spår superintelligens om tio år – vill leda racet - Omni
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- AI-akten - EU Digital Strategy
 
 ## Business
 
-- Ellington Credit Company Announces Financial Results for the First Fiscal Quarter Ended June 30, 2025 - Placera.se
 - REPAY Appoints New Chief Financial Officer - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - UDPN, G+D, and GFT Join CBMT Initiative to Enable Tokenized Commercial Bank Money for a More Digitalized Financial System - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - OppFi Publishes Supplemental Information Regarding its Warrants - Placera.se
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
