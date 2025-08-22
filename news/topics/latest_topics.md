@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-22 11:41_
+_Updated: 2025-08-22 12:44_
 
 ## Top Stories
 
+- 39-årig man döms till fängelse för olaga förföljelse - Sveriges Domstolar
 - FN-stödda IPC: Katastrofal svält råder i Gaza stad - DN
-- Oppositionen kräver svar om Israellinje - Sydsvenskan
-- Israel: Gaza stad kan förstöras – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Utrikesministern om regeringens Israel-spricka: ”En storm i en ankdamm” - DN
 - Allmänhetens kräftfiske startar i dag - Skillingaryd
-- 16-åring från Göteborg misstänks för moskémord - GP
 - Universitet kritiska mot uppdraget att skapa medborgarskapsprov - SVT Nyheter
-- DN Direkt - Efter kritiken: FHM vill öka samarbete med lärosäten - DN.se - DN
-- Den mest samhällshotande organiserade brottsligheten kartlagd - polisen.se
+- Legosoldaterna i Wagnergruppen fortsätter kriga - DN
 - Mer hjälp till offer för hedersbrott - GP
+- Ytterligare en begärs häktad för skott vid moskén i Örebro - SVT Nyheter
+- Regeringen måste ta ansvar för en myndighet i gungning - Altinget.se
 - Nya björnar skjutna i länet - Västerbottens-Kuriren
 - Michael Winiarski: Till slut har Trump tvingats inse att dörren har slagits igen - DN
-- Legosoldaterna i Wagnergruppen fortsätter kriga - DN
-- Erik Menendez nekas frigivning - Sydsvenskan
+- Israel: Gaza stad kan förstöras – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Peter Alestig: Oroande fenomenet kan ge fler megabränder - DN
+- Erik Menendez nekas frigivning - Sydsvenskan
 - SBAB: Räntesänkning bör inte dröja - Fastighetstidningen
-- Planer på små kärnkraftverk - 8 Sidor
+- Martin Oppenheimer ny VD för MAX Burgers - Cision News
 - Onlyfans-ägare lyfte 7 miljarder i utdelning - Sydsvenskan
 - Ingves Volvo på auktion – ”sober och potent” - SvD
 - Upptäckten: En unik nakenstjärna – saknar universums vanligaste grundämnen - Ny Teknik
@@ -51,23 +51,23 @@ _Updated: 2025-08-22 11:41_
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
-- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
+- Responding to the White House AI Action Plan, ZenaTech’s ZenaDrone Launches Zena AI, Inc., a Specialized AI Development Center for US Defense and Homeland Security Applications - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - EY.ai | EY - Sverige - EY
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Spår superintelligens om tio år – vill leda racet - Omni
 
@@ -80,6 +80,7 @@ _Updated: 2025-08-22 11:41_
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Valour Tether Gold (XAUt) SEK ETP – ISIN: CH1108679981 - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -88,9 +89,8 @@ _Updated: 2025-08-22 11:41_
 - UDPN, G+D, and GFT Join CBMT Initiative to Enable Tokenized Commercial Bank Money for a More Digitalized Financial System - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- OppFi Publishes Supplemental Information Regarding its Warrants - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
@@ -103,19 +103,19 @@ _Updated: 2025-08-22 11:41_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Europeisk konferens för socialmedicin: Praktik, teori och handling för en hälsosammare framtid - Svenska Läkaresällskapet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
-- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
+- Öhman Hälsa och Ny Teknik ökade 3,5 procent i juli - Sedana Medical, Devyser och Camurus bidrog positivt - Placera.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
@@ -152,8 +152,8 @@ _Updated: 2025-08-22 11:41_
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Stora anslag för innovationer i lantbruket - Lantbruksnytt
+- De gick från reko till eko - ST-tidningen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
@@ -161,4 +161,4 @@ _Updated: 2025-08-22 11:41_
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- De gick från reko till eko - ST-tidningen
+- Små jordbruk kan mätta fler - FoodMonitor
