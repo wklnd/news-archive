@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-22 13:48_
+_Updated: 2025-08-22 15:16_
 
-- Federal judge orders closure of Trump’s ‘Alligator Alcatraz’ immigration jail - The Guardian
+- FBI conducts search at John Bolton’s home - CNN
+- Florida ordered to dismantle Alligator Alcatraz over environmental impact - The Washington Post
 - Famine confirmed in Gaza City for first time, UN-backed report says - BBC
 - Newsom signs California redistricting measures in response to Texas bill - Axios
-- Villanova University says active shooter report was a 'cruel hoax' - ABC News
 - Erik Menendez denied parole after decades in prison - CBS News
-- DHS to states: Follow our voting rules or lose out on election security money - NPR
-- U.S. halts issuing worker visas for commercial truck drivers - CBS News
-- First wave of Epstein files is being sent to Congress, says Oversight Committee chair - NPR
-- Judge rules former Trump lawyer Alina Habba is unlawfully serving as U.S. attorney in New Jersey - PBS
-- Trump administration to vet all 55 million foreigners with U.S. visas - The Washington Post
+- Trump administration vetting all 55 million U.S. visa holders in growing crackdown - PBS
+- New visas paused for commercial truck drivers, Rubio says - Axios
+- Congress is set to receive the first batch of Epstein files. It's not likely to quell the drama. - Politico
+- Minnesota DFL rescinds Minneapolis mayoral endorsement of Omar Fateh - MPR News
+- Judge rules former Trump lawyer Alina Habba was unlawfully appointed as US Attorney - Reuters
 - Thailand’s former prime minister Thaksin Shinawatra cleared of defaming monarchy - Financial Times
+- Doctor accused of secretly recording 4,500 videos in Australian hospital restrooms released on bail - AP News
 - Gaza City will be razed if Hamas does not agree our terms, Israel minister says - BBC
-- Euroviews. Europe kneels before Trump in Washington - Euronews.com
-- Kim Jong Un says his ‘heart aches’ over North Korean soldiers killed fighting for Russia, in rare admission of losses - CNN
-- Fed Chair Powell to give major speech as Trump urges interest rate cuts - ABC News
+- North Korea's Kim decorates soldiers from Russia, consoles children with hugs - Reuters
+- Fed’s Powell Gives Final Jackson Hole Speech Today—Here’s What To Watch For On Interest Rates And More - Forbes
 - Meta Poaches Apple AI Executive Even as It Plans Hiring Slowdown - Bloomberg
-- Nvidia orders suppliers to halt work on China-focussed H20 AI chip, The Information says - Reuters
-- After a few chilly years, the real estate market is looking a little warmer - NPR
+- Nvidia Reportedly Halts H20 Production After Beijing Directive To Stop Buying AI Chip - Investor's Business Daily
+- Cracker Barrel loses almost $100 million in value as stock plunges after new logo release - CBS News
 - Every Piece of Pixel Hardware Announced at Made by Google 2025 - CNET
-- Surprise! Metal Gear Solid Delta: Snake Eater's secret mode was developed by the studio behind Bayonetta - Eurogamer
+- Metal Gear Solid Delta: Snake Eater Includes Remake of Fan-Favorite Secret Mode From Original PS2 Version — and Bayonetta Developer PlatinumGames Worked on It - IGN
