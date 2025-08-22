@@ -1,22 +1,22 @@
 # Top News Headlines
 
-_Updated: 2025-08-22 04:20_
+_Updated: 2025-08-22 05:30_
 
+- Erik Menendez denied parole 36 years after murdering his parents, Lyle Menendez to learn his fate on Friday - ABC News
+- Judge rules 'Alligator Alcatraz' can stay open for now, but no further detainees or construction are allowed - NBC News
 - Gov. Gavin Newsom signs redistricting plan to counter Texas' new congressional map - ABC7 Los Angeles
-- Lyle and Erik Menendez Make Their Case for Parole - The New York Times
-- Supreme Court clears way for nearly $800 million in cuts to NIH grants - The Washington Post
-- Hurricane Erin brings flooding to parts of Outer Banks as it pivots from East Coast - NPR
-- Trump administration is reviewing all 55 million foreigners with US visas for any violations - AP News
-- Report of active shooter at Villanova University a ‘cruel hoax,’ university president says - CNN
-- Judge orders Alligator Alcatraz shut down in 60 days, says no more new detainees - Miami Herald
-- US halts worker visas for commercial truck drivers, Rubio says - Reuters
-- Minnesota Democrats revoke endorsement of democratic socialist candidate for Minneapolis mayor - CNN
+- Trump thanks officers and National Guard troops in D.C. stop - The Washington Post
+- Supreme Court lets Trump administration cut $783 million of research funding in anti-DEI push - AP News
+- Trump admin vetting 55 million U.S. visa holders for potential deportation violations - Axios
+- New visas paused for commercial truck drivers, Rubio says - Axios
+- Minnesota DFL rescinds Minneapolis mayoral endorsement of Omar Fateh - MPR News
+- Judge says former Trump lawyer Alina Habba has been unlawfully serving as US attorney in New Jersey - AP News
 - Mayor Adams' former top adviser accused of 'wide-ranging' bribery schemes - Gothamist
 - Netanyahu orders ‘immediate negotiations’ to release hostages as Israel advances Gaza City operation - CNN
-- Colombia car bomb: At least five dead and dozens injured in Cali blast - BBC
-- Trump and Carney Talk About Trade, Agree to Speak Again Soon - Bloomberg.com
+- Car bomb and attack on a helicopter in Colombia kill at least 17, including police officers - AP News
 - Exclusive: Military options for Ukraine discussed by US, European national security advisers - Reuters
-- Newsom Mocks MAGA's Outrage Over Cracker Barrel's New Logo - Yahoo News Canada
+- Canada PM Carney Touts ‘Productive’ Call With President Trump Over Trade - The Wall Street Journal
+- Steak 'n Shake slams Cracker Barrel CEO for eliminating 'old-timer' from logo: 'We take pride in our history' - Fox Business
 - Fed Chair Powell set to deliver big Jackson Hole speech Friday. Here's what Wall Street expects - CNBC
 - Justice Dept. urges Fed chair to fire top official accused of mortgage fraud - The Washington Post
 - Meta Poaches Apple AI Executive Even as It Plans Hiring Slowdown - Bloomberg.com
