@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-22 01:48_
+_Updated: 2025-08-22 04:20_
 
-- California Legislature approves Newsom's redistricting plan to counter Texas' new congressional map - ABC7 Los Angeles
-- N.Y. Appeals Court Throws Out $500 Million Civil Fraud Penalty Against Trump - The Wall Street Journal
-- Trump joins police, military in DC as he pushes deployments in more cities - ABC News
-- Supreme Court allows NIH to stop making nearly $800M in research grants for now - NPR
-- Reported active shooter at Villanova University a "cruel hoax," authorities say - CBS News
-- ICE chief threatens to 'flood' Boston with agents after mayor won't abandon sanctuary policy - NBC News
-- Alina Habba's appointment as US attorney for New Jersey 'unlawful,' judge rules - NBC News
-- What to know about the Menendez brothers' case as their parole hearings begin - NPR
-- Doggett won’t seek reelection to Congress if new district is upheld by courts, paving way for Casar - The Texas Tribune
-- Vance touts tax cuts, Trump's domestic agenda in Georgia - NPR
-- Israel will begin talks to free all hostages, Netanyahu says - BBC
-- Canada PM Carney Touts ‘Productive’ Call With President Trump Over Trade - The Wall Street Journal
-- Israel has approved a settlement project that could divide the West Bank - NPR
-- Ukrainian man arrested in Italy over Nord Stream pipeline attacks - Reuters
+- Gov. Gavin Newsom signs redistricting plan to counter Texas' new congressional map - ABC7 Los Angeles
+- Lyle and Erik Menendez Make Their Case for Parole - The New York Times
+- Supreme Court clears way for nearly $800 million in cuts to NIH grants - The Washington Post
+- Hurricane Erin brings flooding to parts of Outer Banks as it pivots from East Coast - NPR
+- Trump administration is reviewing all 55 million foreigners with US visas for any violations - AP News
+- Report of active shooter at Villanova University a ‘cruel hoax,’ university president says - CNN
+- Judge orders Alligator Alcatraz shut down in 60 days, says no more new detainees - Miami Herald
+- US halts worker visas for commercial truck drivers, Rubio says - Reuters
+- Minnesota Democrats revoke endorsement of democratic socialist candidate for Minneapolis mayor - CNN
+- Mayor Adams' former top adviser accused of 'wide-ranging' bribery schemes - Gothamist
+- Netanyahu orders ‘immediate negotiations’ to release hostages as Israel advances Gaza City operation - CNN
+- Colombia car bomb: At least five dead and dozens injured in Cali blast - BBC
+- Trump and Carney Talk About Trade, Agree to Speak Again Soon - Bloomberg.com
+- Exclusive: Military options for Ukraine discussed by US, European national security advisers - Reuters
 - Newsom Mocks MAGA's Outrage Over Cracker Barrel's New Logo - Yahoo News Canada
 - Fed Chair Powell set to deliver big Jackson Hole speech Friday. Here's what Wall Street expects - CNBC
-- Walmart Stock Falls After Earnings Report. Here’s Why. - Barron's
-- NAR Existing-Home Sales Report Shows 2.0% Increase in July - National Association of REALTORS®
+- Justice Dept. urges Fed chair to fire top official accused of mortgage fraud - The Washington Post
+- Meta Poaches Apple AI Executive Even as It Plans Hiring Slowdown - Bloomberg.com
 - Every Pixel device announced at Made by Google yesterday: 10 Pro Fold, Watch, Buds, more - ZDNET
-- Microsoft AI chief says it’s ‘dangerous’ to study AI consciousness - TechCrunch
+- After successes like Severance and The Studio , Apple TV+ gets a price hike - Ars Technica
