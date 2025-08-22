@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-22 15:45_
+_Updated: 2025-08-22 16:42_
 
 ## Top Stories
 
-- IPC: Högsta nivån av svält konstaterad i Gaza - SVT Nyheter
 - Här är Folkhälsomyndighetens kritiserade ledning – som helt saknar läkare - GP
-- Boende vid fyndplatsen: ”Han har säkert hört helikoptrarna cirkulera precis ovanför” - Smålandsposten
+- 78-åringen hittades flera meter ner i en slänt: ”Höll sig i en gren” - Sydöstran
 - Den varma sommaren gynnar kräftorna - Tidningen Extrakt
-- Annie Reuterskiöld: Regeringen vill låta enade – men ute i världen ekar Buschs ord - DN
-- Åklagaren om 16-åringen: ”Avrättar den här killen” - Omni
-- Bianca Ingrossos stalker döms till fängelse - GP
-- DN Direkt - Man död efter att blivit påkörd vid E20 - DN.se - DN
+- Utrikesministern om regeringens Israel-spricka: ”En storm i en ankdamm” - DN
+- IPC: Högsta nivån av svält konstaterad i Gaza - SVT Nyheter
+- 16-åring från Göteborg misstänks för moskémord - GP
+- Man död efter att blivit påkörd vid E20 - GP
 - Fler björnar skjutna på fredagen - Västerbottens-Kuriren
+- Larmet: Flera kommuner stod utan ambulanser - DN
 - 21 augusti 17.50, Rån, Borås - polisen.se
-- FBI-räd mot USA:s tidigare säkerhetsrådgivare - DN
+- FBI genomsökte tidigare Trump-rådgivaren John Boltons bostad - SVT Nyheter
 - Kreml har svårt att locka nya soldater med bonusar - DN
-- Biståndsministern: ”Apokalyptiskt” – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- DN Direkt - Svensk VM-förlust efter premiärdrama - DN.se - DN
+- Guterres: Svälten är orsakad av människan – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Legosoldaterna i Wagnergruppen fortsätter kriga - DN
 - SBAB: Räntesänkning bör inte dröja - Fastighetstidningen
+- Börsen öppnar på plus i New York inför Fed-tal – men hr-mjukvarubolaget backar - Dagens industri
 - Martin Oppenheimer ny VD för MAX Burgers - Cision News
-- Onlyfans delar ut rekordvinst – planerar försäljning - Omni
-- Ytterligare steg mot ny kärnkraft i Sverige - Regeringen.se
+- ECB-toppen: Tröskeln för fler räntesänkningar är mycket hög - Dagens industri
 - Upptäckten: En unik nakenstjärna – saknar universums vanligaste grundämnen - Ny Teknik
-- Nya problem efter senaste Windows-uppdateringen - PC för Alla
+- Team Cherry: "Hollow Knight: Silksong var aldrig i 'utvecklingshelvetet'" - FZ.se
 
 ## World News
 
@@ -39,7 +39,7 @@ _Updated: 2025-08-22 15:45_
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -55,21 +55,21 @@ _Updated: 2025-08-22 15:45_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - EY.ai | EY - Sverige - EY
-- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Oron: Då tar datan på internet slut - SvD
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Lantern Pharma Announces Public Release of Transformative, Advanced AI Module for Blood-Brain Barrier Permeability Prediction, predictBBB.ai - Placera.se
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
-- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 
 ## Business
 
