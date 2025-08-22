@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-22 05:52_
+_Updated: 2025-08-22 06:44_
 
 ## Top Stories
 
+- Nour i Gaza stad: Jag hatar Hamas - GP
+- DN Direkt - Explosion vid trappuppgång i Malmö - DN.se - DN
 - Försvunne 78-åringen hittad vid liv – här fann polisen honom - Sydöstran
-- Explosion i Malmö – bombskyddet kallades in - GP
-- BBC: Hundratusentals väntas få evakueringsorder – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Retar upp Maga-rörelsen – trollar Trump på Trumps sätt - Expressen
-- Michael Winiarski: Till slut har Trump tvingats inse att dörren har slagits igen - DN
-- Turisterna är ersatta av nationalgardet i Washington - GP
+- Legosoldaterna i Wagnergruppen fortsätter kriga - DN
+- Dokumentet som enar regeringspartierna om Gaza - DN
+- Organiserade kriminella ofta bakom vardagsbrott - Omni
 - Bråket på Folkhälsomyndigheten: Magnus Gisslén i konflikt med kollegan - GP
 - Kvinna död efter trafikolycka i Löderup - SVT Nyheter
-- Björnjakten avlyst – en hona skjuten - NWT
+- Så många björnar har skjutits under första dagen - SVT Nyheter
 - Vattenfall väljer att satsa på små reaktorer: ”Det bästa för Sverige” - Dagens industri
-- Minst 18 döda i bombdåd och attack mot poliser i Colombia - SVT Nyheter
+- Michael Winiarski: Till slut har Trump tvingats inse att dörren har slagits igen - DN
 - Kalifornien röstar för ny valkarta - Västerbottens-Kuriren
+- DN Direkt - Falskt larm om skjutning på amerikanskt universitet - DN.se - DN
 - Svenska FN-chefen om offensiven i Gaza: Det kommer att bli katastrofalt - Sydsvenskan
-- Ukrainare gripen för Nord Stream-sabotage - GP
-- Valbudgeten som ska lyfta Tidö: ”Ska göra allt för att vända konjunkturen” - ETC.se
-- Hård kritik mot Foodora: ”Får inte luras” - SvD
-- Riksbanken lämnar styrräntan oförändrad på 2 procent - Skåne Plus
+- Storbanken: Räkna med en räntesänkning i september - EFN
+- Varnar för fusk med höjt bidrag - SvD
 - Trump backar från tullhot mot EU på läkemedel - Tidningen Näringslivet
+- Valbudgeten som ska lyfta Tidö: ”Ska göra allt för att vända konjunkturen” - ETC.se
 - Exploderande supernova avslöjar naken stjärna - Forskning.se
 - Google lanserar nya Pixel Buds 2a och en uppdatering till Pixel Buds Pro 2 - dopest.se
 
@@ -55,44 +55,44 @@ _Updated: 2025-08-22 05:52_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - EY.ai | EY - Sverige - EY
+- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Oron: Då tar datan på internet slut - SvD
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Lantern Pharma Announces Public Release of Transformative, Advanced AI Module for Blood-Brain Barrier Permeability Prediction, predictBBB.ai - Placera.se
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
+- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 
 ## Business
 
-- Letter from the CEO: Amber International's Vision, Strategy, and Roadmap - Placera.se
-- Ellington Credit Company Announces Financial Results for the First Fiscal Quarter Ended June 30, 2025 - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- REPAY Appoints New Chief Financial Officer - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Ellington Credit Company Announces Financial Results for the First Fiscal Quarter Ended June 30, 2025 - Placera.se
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- REPAY Appoints New Chief Financial Officer - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
+- Letter from the CEO: Amber International's Vision, Strategy, and Roadmap - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
+- AirNet has named Vikram Seth as its new Chief Investment Officer to lead the company's expansion into Web3 and cryptocurrency - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Novartis Appoints Mukul Mehta as Chief Financial Officer, as Harry Kirsch Retires after 22 Years with the Company - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- VBI Vaccines Secures $50 Million Debt Financing From K2 HealthVentures - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
+- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 
 ## Health
 
