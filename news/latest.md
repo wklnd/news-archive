@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-22 20:53_
+_Updated: 2025-08-22 21:48_
 
+- Ghislaine Maxwell provided no incriminating information during meetings with deputy AG on high-profile individuals who interacted with Jeffrey Epstein: Sources - ABC News
 - FBI raids former National Security Adviser John Bolton's home: Reports - Axios
-- National Guard members on DC streets for Trump's crackdown will soon be armed, Pentagon says - AP News
-- Parents of missing baby Emmanuel Haro arrested on suspicion of murder - Los Angeles Times
-- California State Assembly approves redistricting plan - ABC7 Los Angeles
-- Trump says Chicago next up for federal crime crackdown - CNN
-- Florida ordered to dismantle Alligator Alcatraz over environmental impact - The Washington Post
+- Kilmar Abrego Garcia is released from federal custody in Tennessee - NBC News
+- Love it or hate it? Poll shows how Californians feel about Newsom's redistricting fight with Trump - Los Angeles Times
+- Tour bus rolls over on upstate New York highway, killing multiple people, police say - CBS News
+- Investigators search home of parents accused of killing missing baby Emmanuel Haro - Los Angeles Times
 - California parole board denies release for Erik Menendez due to misbehavior in prison - PBS
-- Canada to remove many retaliatory tariffs on US goods, says Carney - Reuters
-- The ‘woke’ words Democrats should cut from their vocabulary - Politico
-- Famine confirmed in Gaza City region, global hunger monitor says - The Washington Post
+- Trump says Chicago next up for federal crime crackdown - CNN
+- Canada to remove many retaliatory tariffs on US, Carney says - Reuters
+- Epstein files land on Capitol Hill - Politico
+- Famine confirmed in Gaza City is 'failure of humanity', UN chief says - BBC
 - Egypt unveils 2,000-year old ruins carefully extracted from waters off Alexandria - The Times of Israel
 - Trainee doctor accused of secretly recording video of hundreds of female colleagues in hospital restrooms - CBS News
 - Iran Extends Government Shutdowns Amid Soaring Heat and Power Cuts - The New York Times
-- Dow soars 900 points to record as Powell speech sparks market rally: Live updates - CNBC
+- Dow soars more than 800 points to record as Powell speech sparks market rally: Live updates - CNBC
+- Trump Says Intel Has Agreed to Give the US a 10% Equity Stake - Bloomberg
 - Democrats join conservatives in slamming Cracker Barrel's woke rebrand and more top headlines - Fox News
-- Trump Poised to Unveil Intel Deal For Equity Stake on Friday - Bloomberg.com
-- JPMorgan agrees to pay Malaysia $330 million to settle 1MDB claims - Reuters
-- Every Piece of Pixel Hardware Announced at Made by Google 2025 - CNET
-- Apple TV+ raises subscription prices worldwide, including in UK - BBC
-- At This Point, It’s Impossible to Know What the Trump Phone Looks Like - WIRED
+- Trump says he will fire Fed governor Lisa Cook if she doesn't resign - NBC News
+- Google’s AI-stuffed Pixel 10 event - The Verge
+- Apple Explores Using Google Gemini AI to Power Revamped Siri - Bloomberg
