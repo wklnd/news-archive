@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-22 18:47_
+_Updated: 2025-08-22 19:41_
 
 ## Top Stories
 
-- IPC: Fullt utvecklad svält i delar av Gaza - Hufvudstadsbladet
-- 78-åringen hittades flera meter ner i en slänt: ”Höll sig i en gren” - Sydöstran
 - Den varma sommaren gynnar kräftorna - Tidningen Extrakt
-- Ruskvädret här för att stanna – augusti ut - Södermanlands Nyheter
-- 16-åring från Göteborg misstänks för moskémord - GP
-- JUST NU: Nya attacker mot Gaza: ”Helvetesnatt” - Expressen
-- Nya beskedet: Planer på att dumpa muddringsmassa i skärgården pausas - DN
-- Annie Reuterskiöld: Regeringen vill låta enade – men ute i världen ekar Buschs ord - DN
+- Åkesson stöttar inte ICC:s arresteringsordrar - Omni
+- Här rivs det mytomspunna skjulet på Årsta holmar – blev en riksnyhet - DN
 - Tjejgäng trakasserar unga flickor i centrala Borås - GP
-- 22 augusti 10.56, Trafikolycka, Strängnäs - polisen.se
+- Gazabo: ”Livsmedel har blivit en lyxvara” - DN
+- Vändningen: Åklagaren återkallar häktning - Nerikes Allehanda
+- Polisen varnar efter inbrottsvåg - GP
+- DN Direkt - Man död efter att blivit påkörd vid E20 - DN.se - DN
+- Fler björnar skjutna på fredagen - Västerbottens-Kuriren
+- Här är Folkhälsomyndighetens kritiserade ledning – som helt saknar läkare - GP
 - FBI genomsökte tidigare Trump-rådgivaren John Boltons bostad - SVT Nyheter
+- Granskning: 83 procent av de dödade i Gaza var civila - DN
 - Kreml har svårt att locka nya soldater med bonusar - DN
 - Trump uppges backa från fredssamtal - Hufvudstadsbladet
-- DN Direkt - Legosoldaterna i Wagnergruppen fortsätter kriga - DN.se - DN
 - Expert: Så blir utmaningarna med små kärnkraftverk - SvD
-- SBAB: Räntesänkning bör inte dröja - Fastighetstidningen
-- Martin Oppenheimer ny VD för MAX Burgers - Cision News
+- Fed-chefen öppnar för räntesänkning – börsen stiger - Dagens industri
 - Riksbankens gamla Volvo har fått ny ägare – såldes på auktion - GP
+- Martin Oppenheimer ny VD för MAX Burgers - Cision News
 - Upptäckten: En unik nakenstjärna – saknar universums vanligaste grundämnen - NyTeknik
 - Team Cherry: "Hollow Knight: Silksong var aldrig i 'utvecklingshelvetet'" - FZ.se
 
@@ -31,61 +31,61 @@ _Updated: 2025-08-22 18:47_
 - Phuket, Thailand Rises as a Global Residential Haven, Driven by Laguna Phuket and Banyan Group Residences - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- NETMARBLE'S OPEN-WORLD RPG "THE SEVEN DEADLY SINS: ORIGIN" KICKS OFF GLOBAL CBT REGISTRATION - Placera.se
+- Riad Beladi i samtal med Alice Ancona, operativ chef för World Trade Center Miami – Fokus på America Food & Beverage Show & Conference – International Supermarket News - International Supermarket News
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
-- Uppsala University in the top 90 in new global ranking - Uppsala universitet
+- World Athletics introduces gene test for female category - BBC
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
-- BIG Travel går in i globalt partnerskap - travelnews.se
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- BIG Travel går in i globalt partnerskap - travelnews.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Gap Inc. to Participate in the 32nd Annual Goldman Sachs Global Retailing Conference - Placera.se
 - Kraton and International Paper Execute Strategic Continuity of Services Agreement - Placera.se
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
-- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
+- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
+- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Spår superintelligens om tio år – vill leda racet - Omni
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
-- AI-akten - EU Digital Strategy
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 
 ## Business
 
+- Ellington Credit Company Announces Financial Results for the First Fiscal Quarter Ended June 30, 2025 - Placera.se
 - REPAY Appoints New Chief Financial Officer - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Webinarium: Bolagen på börsen höjer ambitionerna – fler företag sätter klimatmål - Stockholm Environment Institute
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
-- UDPN, G+D, and GFT Join CBMT Initiative to Enable Tokenized Commercial Bank Money for a More Digitalized Financial System - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
+- UDPN, G+D, and GFT Join CBMT Initiative to Enable Tokenized Commercial Bank Money for a More Digitalized Financial System - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- OppFi Publishes Supplemental Information Regarding its Warrants - Placera.se
+- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- OppFi Publishes Supplemental Information Regarding its Warrants - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
@@ -153,12 +153,12 @@ _Updated: 2025-08-22 18:47_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - De gick från reko till eko - ST-tidningen
 - Tio jordbruksaktier för depån - Placera.se
+- Danmark kan bli först med klimatskatt på jordbruket - SVT Nyheter
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Tuffa tider väntar för engelskt jordbruk - ATL
 - Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
 - Stor nyhet för matglada katter - Mynewsdesk
-- Urban Deli är först på jorden att lansera hampakorv The Mighty Merguez. - Mynewsdesk
