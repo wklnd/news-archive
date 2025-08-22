@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-22 04:17_
+_Updated: 2025-08-22 05:28_
 
 ## Top Stories
 
-- Militärexpert: ”Rena mardrömmen ur ett markstridsperspektiv” - DN
 - Försvunne 78-åringen hittad vid liv – här fann polisen honom - Sydöstran
 - Explosion i Malmö – bombskyddet kallades in - GP
+- BBC: Hundratusentals väntas få evakueringsorder – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Retar upp Maga-rörelsen – trollar Trump på Trumps sätt - Expressen
-- Glädjebeskedet för Putin – dyker upp på nya bilder - Aftonbladet
 - Kalifornien röstar för ny valkarta - Västerbottens-Kuriren
-- Kvinna död efter trafikolycka i Löderup - SVT Nyheter
+- Glädjebeskedet för Putin – dyker upp på nya bilder - Aftonbladet
 - Bråket på Folkhälsomyndigheten: Magnus Gisslén i konflikt med kollegan - GP
+- Kvinna död efter trafikolycka i Löderup - SVT Nyheter
 - Björnjakten avlyst – en hona skjuten - NWT
 - Vattenfall väljer att satsa på små reaktorer: ”Det bästa för Sverige” - Dagens industri
+- Minst 18 döda i bombdåd och attack mot poliser i Colombia - SVT Nyheter
 - Michael Winiarski: Till slut har Trump tvingats inse att dörren har slagits igen - DN
 - Svenska FN-chefen om offensiven i Gaza: Det kommer att bli katastrofalt - Sydsvenskan
-- Ukrainare gripen för Nord Stream-sabotage - GP
-- Marius offer bryter tystnaden: ”Jobbigt” - Expressen
+- Misstänkt Nord Stream-sabotör gripen i Italien - DN
 - Hård kritik mot Foodora: ”Får inte luras” - SvD
-- Ett av de största norska oljefynden på tio år - ETC.se
+- Aker BP har gjort betydande oljefynd – största på tio år - Omni
 - Valbudgeten som ska lyfta Tidö: ”Ska göra allt för att vända konjunkturen” - ETC.se
-- Trump backar från tullhot mot EU på läkemedel - Tidningen Näringslivet
+- Riksbanken lämnar styrräntan oförändrad på 2 procent - Skåne Plus
 - Exploderande supernova avslöjar naken stjärna - Forskning.se
 - Google lanserar nya Pixel Buds 2a och en uppdatering till Pixel Buds Pro 2 - dopest.se
 
@@ -31,22 +31,22 @@ _Updated: 2025-08-22 04:17_
 - Phuket, Thailand Rises as a Global Residential Haven, Driven by Laguna Phuket and Banyan Group Residences - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- NETMARBLE'S OPEN-WORLD RPG "THE SEVEN DEADLY SINS: ORIGIN" KICKS OFF GLOBAL CBT REGISTRATION - Placera.se
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - Uppsala University in the top 90 in new global ranking - Uppsala universitet
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
-- BIG Travel går in i globalt partnerskap - travelnews.se
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Gap Inc. to Participate in the 32nd Annual Goldman Sachs Global Retailing Conference - Placera.se
 - Kraton and International Paper Execute Strategic Continuity of Services Agreement - Placera.se
-- Match Group to Present at the Citi Global TMT Conference - Placera.se
 
 ## Technology
 
@@ -73,26 +73,26 @@ _Updated: 2025-08-22 04:17_
 
 ## Business
 
-- Letter from the CEO: Amber International's Vision, Strategy, and Roadmap - Placera.se
-- Ellington Credit Company Announces Financial Results for the First Fiscal Quarter Ended June 30, 2025 - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- REPAY Appoints New Chief Financial Officer - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Ellington Credit Company Announces Financial Results for the First Fiscal Quarter Ended June 30, 2025 - Placera.se
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Valour Tether Gold (XAUt) SEK ETP – ISIN: CH1108679981 - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- REPAY Appoints New Chief Financial Officer - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Letter from the CEO: Amber International's Vision, Strategy, and Roadmap - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
-- UDPN, G+D, and GFT Join CBMT Initiative to Enable Tokenized Commercial Bank Money for a More Digitalized Financial System - Placera.se
+- AirNet has named Vikram Seth as its new Chief Investment Officer to lead the company's expansion into Web3 and cryptocurrency - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- ALT5 Sigma Corporation Announces Closing of $1.5 Billion Registered Direct Offering and Concurrent Private Placement to Initiate World Liberty Financial $WLFI Treasury Strategy - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- SIGMA LITHIUM STREAMLINES LEADERSHIP COMBINING KEY ROLES UNDER VETERAN VPs; ANNOUNCES SHAREHOLDER MEETING RESULTS; TO RELEASE 2Q FINANCIALS ON AUG 14, 2025 - Placera.se
+- VBI Vaccines Secures $50 Million Debt Financing From K2 HealthVentures - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 
 ## Health
 
@@ -123,22 +123,22 @@ _Updated: 2025-08-22 04:17_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
 
 ## Jordbruk
 
@@ -152,13 +152,13 @@ _Updated: 2025-08-22 04:17_
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - De gick från reko till eko - ST-tidningen
-- Små jordbruk kan mätta fler - FoodMonitor
+- Tio jordbruksaktier för depån - Placera.se
+- Danmark kan bli först med klimatskatt på jordbruket - SVT Nyheter
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Tuffa tider väntar för engelskt jordbruk - ATL
 - Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Tio jordbruksaktier för depån - Placera.se
+- Stor nyhet för matglada katter - Mynewsdesk
