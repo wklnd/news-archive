@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-23 09:48_
+_Updated: 2025-08-23 10:51_
 
 - Ghislaine Maxwell interview transcripts released by US justice department - BBC
-- Lyle Menendez denied parole a day after brother Erik’s bid rejected - The Guardian
-- See how new voting maps in Texas and California would shift the political landscape - NPR
-- Pentagon Fires the Defense Intelligence Agency Chief - The New York Times
+- Lyle Menendez denied parole, will remain in prison along with younger brother Erik - Los Angeles Times
+- Texas Senate passes new Republican-drawn congressional map - NBC News
 - Trump floats "regular military" tackling crime with crackdowns in Chicago, NY - Axios
-- Parents of missing baby Emmanuel Haro faked kidnapping, now accused of murder, officials say - Los Angeles Times
-- Independent redistricting champion spends millions against California gerrymander - Politico
+- Parents of Missing 7-Month-Old Are Charged With His Murder - The New York Times
+- Trump again gives Putin ‘a couple of weeks’ with no sign of Ukraine peace talks underway - CNN
 - ‘Militarization of politics’: How bucolic Bethesda woke up to FBI search on John Bolton - CNN
 - Wrongly deported migrant Abrego released, may be detained again - Reuters
-- Tour bus rollover kills 5 on interstate highway in western New York - NPR
+- Tour bus rolls over on western New York highway, killing 5 people, police say - CBS News
+- Independent redistricting champion spends millions against California gerrymander - Politico
 - How Israel's policies created famine in Gaza - BBC
 - Can the new India-China bonhomie reshape trade and hurt the US in Asia? - Al Jazeera
 - Egypt unveils 2,000-year old ruins carefully extracted from waters off Alexandria - The Times of Israel
-- Hungary and Slovakia demand EU action after Ukraine bombs oil pipeline - Euronews.com
+- Milei Adds a Corruption Scandal to His Mounting List of Woes - Bloomberg
 - Trump makes deal giving U.S. government a 10% share of Intel - The Washington Post
 - Trump threatens heavy furniture tariffs in coming months - Axios
-- Stock Market News From Aug. 22, 2025: Dow Marks Record Close After Powell's Jackson Hole Speech - Barron's
-- Wall St Week Ahead Investors zero in on Nvidia results as US tech stocks waver - Reuters
+- Bond market rallies after Powell ‘walked a fine line’ with Jackson Hole speech - MarketWatch
+- Nvidia Is Making a New Chip for China Amid Debate on AI Exports - The New York Times
 - Microsoft tests letting you resume Android apps on Windows 11 - The Verge
-- Apple-Google Talks Heating Up Over Siri-Gemini IPhone Agreement? - Investor's Business Daily
+- The market leader strikes back – Samsung Galaxy Z Fold7 review - Notebookcheck
