@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-23 17:38_
+_Updated: 2025-08-23 18:42_
 
 ## Top Stories
 
-- Flera påkörda i Gamla stan - Aftonbladet
-- Läckt Iranrapport sade emot Trump – toppchef sparkas - DN
-- Alice, 6, får stanna – men nekas permanent uppehållstillstånd - DN
-- Angelica hade skönhetskomplex – fick hjälp via Facebook - GP
+- Två till sjukhus med allvarliga skador efter påkörning i Gamla stan - SVT Nyheter
+- Kräftsäsongen är igång – detta gäller i Stockholm - Mitt i
 - Minikommunen med 101 invånare: ”Vid 80 personer går gränsen” - DN
-- Här är Lunds mest olycksdrabbade gata - Sydsvenskan
-- En död efter bilexplosion i Stockholm – mord utreds - UNT
+- Angelica hade skönhetskomplex – fick hjälp via Facebook - GP
+- 22 augusti 21.07, Explosion, Stockholm - polisen.se
+- Alice, 6, får stanna – men nekas permanent uppehållstillstånd - DN
 - Fler björnar fällda i länet – ”Ganska högt tempo” - Västerbottens-Kuriren
 - Explosion vid flerfamiljshus i Södertälje - SVT Nyheter
 - Bra att Gisslén slutar som statsepidemiolog - Dagens Arena
+- Pia deltog i 24-timmarsmanifestationen i Malmö: ”Vansinnigt” - NWT
+- Sjukhus: 25 dödade i Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- DN Direkt - Så krossar Israel drömmen om en palestinsk stat - DN.se - DN
+- Toppchef sparkas – gick emot Trump i rapport - Hufvudstadsbladet
 - Trump: Jag har stoppat ett krig i månaden – SVT verifierar - SVT Nyheter
-- Fria ord: Kristerssons tafatthet gällande Gaza är en skam för Sverige - GP
-- Källor: Trump tar ett steg tillbaka i fredsförhandlingarna - DN
-- Europas beroende avslöjat – kris hotar efter ukrainska attacker - Dagens PS
-- Nu stoppas paket till USA – returneras direkt - SVT Nyheter
+- Nu stoppas paket till USA – returneras direkt - Aftonbladet
 - Flopp för skrotningspremie - 460 miljoner kvar - SvD
 - Vattenfall väljer mellan två SMR-koncept vid Ringhals - ENERGInyheter.se
-- Då kan bostadsmarknaden vakna till liv igen - UNT
+- Miljardstöd behövs för negativa utsläpp - SvD
 - Kan Nothing ta fajten med Apple och Samsung? - Expressen
 - Heels, vuxen - Prova-på-dans - Katrineholms kommun
 
@@ -31,8 +31,8 @@ _Updated: 2025-08-23 17:38_
 - Sidus Space Strengthens International Presence with Participation in World Space Business Week in Paris - Placera.se
 - Phuket, Thailand Rises as a Global Residential Haven, Driven by Laguna Phuket and Banyan Group Residences - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
 - Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
@@ -41,11 +41,11 @@ _Updated: 2025-08-23 17:38_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Gap Inc. to Participate in the 32nd Annual Goldman Sachs Global Retailing Conference - Placera.se
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
@@ -64,11 +64,11 @@ _Updated: 2025-08-23 17:38_
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 
 ## Business
@@ -103,42 +103,42 @@ _Updated: 2025-08-23 17:38_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Öhman Hälsa och Ny Teknik ökade 3,5 procent i juli - Sedana Medical, Devyser och Camurus bidrog positivt - Placera.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - 5 myter om öppen vetenskap - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Citizen science: Inspiring examples of societal engagement for Horizon Europe - CORDIS
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
 
 ## Jordbruk
 
