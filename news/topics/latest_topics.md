@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-23 15:40_
+_Updated: 2025-08-23 16:39_
 
 ## Top Stories
 
-- Uppgifter: Man skulle begå dåd – sprängde sig själv - Aftonbladet
-- Läckt Iranrapport sade emot Trump – toppchef sparkas - DN
+- En död efter bilexplosion i Stockholm – mord utreds - Sydsvenskan
 - Här är Lunds mest olycksdrabbade gata - Sydsvenskan
 - Alice, 6, får stanna – men nekas permanent uppehållstillstånd - DN
-- Gripen ukrainsk man misstänks ha samordnat Nord Stream-sabotage - DN
 - Angelica hade skönhetskomplex – fick hjälp via Facebook - GP
-- Fler björnar fällda i länet: ”Ganska högt tempo” - Västerbottens-Kuriren
+- Toppchef sparkas – gick emot Trump i rapport - Hufvudstadsbladet
+- Fler björnar fällda i länet – ”Ganska högt tempo” - Västerbottens-Kuriren
 - Bra att Gisslén slutar som statsepidemiolog - Dagens Arena
-- Strömmer om fängelset i Estland: Samma i Sverige - GP
 - Explosion vid flerfamiljshus i Södertälje - SVT Nyheter
+- Pia deltog i 24-timmarsmanifestationen i Malmö: ”Vansinnigt” - NWT
+- Kritik mot regeringen efter tullmöte: ”Slöseri” - Västerbottens-Kuriren
 - Trump: Jag har stoppat ett krig i månaden – SVT verifierar - SVT Nyheter
 - Sjukhus: 25 dödade i Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Ryssland: Nya framryckningar i Donetsk - Västerbottens-Kuriren
-- Lilla Hjärtats vänförening: Melinda Jacobs avgår från styrelsen - SVT Nyheter
+- Utrikesminister avgår – ville pressa Israel - Västerbottens-Kuriren
+- Källor: Trump tar ett steg tillbaka i fredsförhandlingarna - DN
 - Nu stoppas paket till USA – returneras direkt - SVT Nyheter
-- Då kan bostadsmarknaden vakna till liv igen - SvD
-- Flopp för skrotningspremie - 460 miljoner kvar - Skånska Dagbladet
+- Flopp för skrotningspremie - 460 miljoner kvar - SvD
+- Visninghelgerna är här – men bostadsmarknaden är trött - EFN
 - Vattenfall väljer mellan två SMR-koncept vid Ringhals - ENERGInyheter.se
 - Kan Nothing ta fajten med Apple och Samsung? - Expressen
-- TEST: Gps-klockor för barn – den ska du satsa på - Aftonbladet
+- Heels, vuxen - Prova-på-dans - Katrineholms kommun
 
 ## World News
 
@@ -121,44 +121,44 @@ _Updated: 2025-08-23 15:40_
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Framtidens jordbruk är regenerativt - greenpeace.org
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Stora anslag för innovationer i lantbruket - Lantbruksnytt
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Stora anslag för innovationer i lantbruket - Lantbruksnytt
-- Många lantbruk vill producera egen el - Tidningen Extrakt
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
+- De gick från reko till eko - ST-tidningen
