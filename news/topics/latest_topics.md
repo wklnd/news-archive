@@ -1,35 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-23 13:38_
+_Updated: 2025-08-23 15:01_
 
 ## Top Stories
 
 - 22 augusti 21.07, Explosion, Stockholm - polisen.se
 - Lilla Hjärtats vänförening: Melinda Jacobs avgår från styrelsen - SVT Nyheter
 - Läckt Iranrapport sade emot Trump – toppchef sparkas - DN
-- Trump: Jag har stoppat ett krig i månaden – SVT verifierar - SVT Nyheter
+- Alice, 6, får stanna – men nekas permanent uppehållstillstånd - DN
 - Här är Lunds mest olycksdrabbade gata - Sydsvenskan
-- Fler björnar fällda i länet – ”Ganska högt tempo” - Västerbottens-Kuriren
+- Angelica hade skönhetskomplex – fick hjälp via Facebook - GP
 - Trendbrott – allt fler hyreslägenheter står tomma i Skåne - Sydsvenskan
+- Fler björnar fällda i länet: ”Ganska högt tempo” - Västerbottens-Kuriren
 - Strömmer om fängelset i Estland: Samma i Sverige - Västerbottens-Kuriren
-- Dyr nota för regeringens sena avbokning - DN
-- Bra att Gisslén slutar som statsepidemiolog - Dagens Arena
-- Nederländernas utrikesminister avgår – ville pressa Israel – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Källor: Trump tar ett steg tillbaka i fredsprocessen - GP
-- Utrikesminister avgår – ville pressa Israel - Västerbottens-Kuriren
-- Trump hotar Chicago med nationalgardet - Hufvudstadsbladet
+- Kritik mot regeringen efter tullmöte: ”Slöseri” - Västerbottens-Kuriren
+- Trump: Jag har stoppat ett krig i månaden – SVT verifierar - SVT Nyheter
+- Sjukhus: 25 dödade i Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Källor: Trump tar ett steg tillbaka i fredsförhandlingarna - DN
+- Ryssland: Nya framryckningar i Donetsk - Hufvudstadsbladet
 - Nu stoppas paket till USA – returneras direkt - SVT Nyheter
-- Rally och rekord avslutade börsveckan i USA - EFN
-- Då kan bostadsmarknaden vakna till liv igen - SvD
-- Vattenfall väljer mellan två SMR-koncept vid Ringhals - ENERGInyheter.se
+- Flopp för skrotningspremie - 460 miljoner kvar - SvD
+- Visninghelgerna är här – men bostadsmarknaden är trött - EFN
+- Mjuk Powell eldar på högvärderad börs - Dagens industri
 - Kan Nothing ta fajten med Apple och Samsung? - Expressen
 - TEST: Gps-klockor för barn – den ska du satsa på - Aftonbladet
 
 ## World News
 
+- Sidus Space Strengthens International Presence with Participation in World Space Business Week in Paris - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
@@ -38,15 +38,15 @@ _Updated: 2025-08-23 13:38_
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
-- Ulrika Jonsson stämmer News of the World - Sydsvenskan
+- Gap Inc. to Participate in the 32nd Annual Goldman Sachs Global Retailing Conference - Placera.se
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Nu riskerar Murdoch att förlora allt - Aftonbladet
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Portugalidade - En ny global studie - The Portugal News
 
 ## Technology
 
@@ -57,19 +57,19 @@ _Updated: 2025-08-23 13:38_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
+- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 
 ## Business
 
@@ -143,22 +143,22 @@ _Updated: 2025-08-23 13:38_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 2025-09-18 Seminarium: Norra Sverige som livsmedelsproducent - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Stora anslag för innovationer i lantbruket - Lantbruksnytt
-- Många lantbruk vill producera egen el - Tidningen Extrakt
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
 - Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
