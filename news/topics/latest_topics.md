@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-23 09:37_
+_Updated: 2025-08-23 10:44_
 
 ## Top Stories
 
-- DN Direkt - Maxwell: Såg aldrig Trump göra något olämpligt - DN.se - DN
-- Ersättningen för en borttagen livmoder: 3 500 kronor - Aftonbladet
-- DN Direkt - Så krossar Israel drömmen om en palestinsk stat - DN.se - DN
-- 22 augusti 21.07, Explosion, Stockholm - polisen.se
+- Trump säger att han har stoppat sju krig – här är facit - DN
 - Wim har sovit 500 nätter på Västra Kyrkogården i Göteborg - GP
-- Trump säger att han har stoppat sju krig – så här är facit - DN
+- DN Direkt - Över 1 200 gripna i tillslag mot nätbedragare i Afrika - DN.se - DN
+- Anna: ”Jag känner mig inte välkommen längre” - SvD
+- 22 augusti 21.07, Explosion, Stockholm - polisen.se
+- Den varma sommaren gynnar kräftorna - Tidningen Extrakt
 - Trendbrott – allt fler hyreslägenheter står tomma i Skåne - Sydsvenskan
 - Strömmer om fängelset i Estland: Samma i Sverige - Västerbottens-Kuriren
 - Bra att Gisslén slutar som statsepidemiolog - Dagens Arena
-- Allmänhetens kräftfiske startar i dag - Skillingaryd
-- Toppchef sparkas – gick emot Trump i rapport - Hufvudstadsbladet
+- Beklaglig woke-inriktning på Ekumeniska veckan - Världen idag
+- Läckt Iranrapport sade emot Trump – toppchef sparkas - DN
 - Spansk strand stängde efter giftigt fynd - Västerbottens-Kuriren
-- Guterres: Svälten är orsakad av människan – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Fria ord: Kristerssons tafatthet gällande Gaza är en skam för Sverige - GP
 - Trump hotar Chicago med nationalgardet - Hufvudstadsbladet
 - Då kan bostadsmarknaden vakna till liv igen - SvD
-- DN Direkt - Över 1 200 gripna i tillslag mot nätbedragare i Afrika - DN.se - DN
-- Ledare: Stora kliv mot små reaktorer - NWT
-- Tom Lee förklarar hur man spelar teknikaktier och ETH efter Jackson Hole-symposiet - Invezz
+- Nu stoppas paket till USA – returneras direkt - Aftonbladet
+- Riksbankens gamla lyx-Volvo har sålts på auktion - EFN
+- Flygbranschen rasar mot Tullverket – vill ha Kinapaket: "Överlevnadsfråga" - Affärsvärlden
 - Nytt spår i mysteriet: Minimal förändring kan vara orsaken till att neandertalarna försvann - Illustrerad Vetenskap
 - TEST: Gps-klockor för barn – den ska du satsa på - Aftonbladet
 
 ## World News
 
 - Sidus Space Strengthens International Presence with Participation in World Space Business Week in Paris - Placera.se
+- Phuket, Thailand Rises as a Global Residential Haven, Driven by Laguna Phuket and Banyan Group Residences - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
+- Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Lars Henrikson – ny global chef för Mölndals-baserade DENTSPLY Implants - Dental Tribune US
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Gap Inc. to Participate in the 32nd Annual Goldman Sachs Global Retailing Conference - Placera.se
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
-- Portugalidade - En ny global studie - The Portugal News
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- Gap Inc. to Participate in the 32nd Annual Goldman Sachs Global Retailing Conference - Placera.se
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
+- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 
 ## Business
 
@@ -97,11 +97,11 @@ _Updated: 2025-08-23 09:37_
 ## Health
 
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
@@ -119,46 +119,46 @@ _Updated: 2025-08-23 09:37_
 
 ## Science
 
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
-- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- 2025-09-18 Seminarium: Norra Sverige som livsmedelsproducent - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Här är världens största jordbruk - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Stora anslag för innovationer i lantbruket - Lantbruksnytt
+- Många lantbruk vill producera egen el - Tidningen Extrakt
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Stora anslag för innovationer i lantbruket - Lantbruksnytt
+- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
