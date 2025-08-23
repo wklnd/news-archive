@@ -1,22 +1,22 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-24 00:40_
+_Updated: 2025-08-24 01:38_
 
 ## Top Stories
 
-- Kvinna död efter olycka vid Kungliga slottet – föraren gripen - DN
-- Kräftsäsongen är igång – detta gäller i Stockholm - Mitt i
+- DN Direkt - Varning för vattenbrist efter elavbrott på Gotland - DN.se - DN
+- En död efter påkörning i Gamla stan - SVT Nyheter
 - Ung man skjuten – barn under 15 misstänks - SvD
-- Stor sökinsats efter två personer i Hjälmaren - SVT Nyheter
+- Sökinsats på Hjälmaren – två saknas - Västerbottens-Kuriren
 - Björn af Kleen: Demokraten utmanar Trump – genom att härma presidenten - DN
-- Varning för vattenbrist på Gotland efter elavbrott - GP
-- 23 augusti 16.50, Försvunnen person, Trollhättan - polisen.se
+- Bra att Gisslén slutar som statsepidemiolog - Dagens Arena
+- Bebis försvann i Trollhättan – hittades efter sökinsats - SVT Nyheter
+- Kräftsäsongen är igång – detta gäller i Stockholm - Mitt i
 - Fler björnar fällda i länet – ”Ganska högt tempo” - Västerbottens-Kuriren
 - Kyrkan vrids 180 grader: Soltavlan hamnar i skuggan - NSD
-- Bra att Gisslén slutar som statsepidemiolog - Dagens Arena
 - Nya detaljer om sprängladdningar på Nord Stream - Hufvudstadsbladet
 - Landsomfattande protester i Israel – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Toppchef sparkas – gick emot Trump i rapport - GP
+- Toppchef sparkas – gick emot Trump i rapport - Västerbottens-Kuriren
 - DIREKT: Direktrapport om kriget i Ukraina - HD
 - Talangjakten hårdnar: lockar med höga löner - SvD
 - Vattenfall väljer mellan två SMR-koncept vid Ringhals - ENERGInyheter.se
@@ -58,41 +58,41 @@ _Updated: 2025-08-24 00:40_
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
+- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- 4 ETF:er som satsar på AI - Morningstar
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 
 ## Business
 
-- Accord Announces Amendment to its Banking Facility - Placera.se
+- DeFi Technologies Announces Inaugural Insights Symposium to Be Held in Frankfurt on September 25, 2025 - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Accord Announces Amendment to its Banking Facility - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Accord Announces Second Quarter Financial Results - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Accord Announces Second Quarter Financial Results - Placera.se
 - REPAY Appoints New Chief Financial Officer - Placera.se
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
 
 ## Health
 
@@ -106,14 +106,14 @@ _Updated: 2025-08-24 00:40_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
+- Öhman Hälsa och Ny Teknik ökade 3,5 procent i juli - Sedana Medical, Devyser och Camurus bidrog positivt - Placera.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
@@ -122,23 +122,23 @@ _Updated: 2025-08-24 00:40_
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
