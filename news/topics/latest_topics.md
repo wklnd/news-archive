@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-23 15:01_
+_Updated: 2025-08-23 15:40_
 
 ## Top Stories
 
-- 22 augusti 21.07, Explosion, Stockholm - polisen.se
-- Lilla Hjärtats vänförening: Melinda Jacobs avgår från styrelsen - SVT Nyheter
+- Uppgifter: Man skulle begå dåd – sprängde sig själv - Aftonbladet
 - Läckt Iranrapport sade emot Trump – toppchef sparkas - DN
-- Alice, 6, får stanna – men nekas permanent uppehållstillstånd - DN
 - Här är Lunds mest olycksdrabbade gata - Sydsvenskan
+- Alice, 6, får stanna – men nekas permanent uppehållstillstånd - DN
+- Gripen ukrainsk man misstänks ha samordnat Nord Stream-sabotage - DN
 - Angelica hade skönhetskomplex – fick hjälp via Facebook - GP
-- Trendbrott – allt fler hyreslägenheter står tomma i Skåne - Sydsvenskan
 - Fler björnar fällda i länet: ”Ganska högt tempo” - Västerbottens-Kuriren
-- Strömmer om fängelset i Estland: Samma i Sverige - Västerbottens-Kuriren
-- Kritik mot regeringen efter tullmöte: ”Slöseri” - Västerbottens-Kuriren
+- Bra att Gisslén slutar som statsepidemiolog - Dagens Arena
+- Strömmer om fängelset i Estland: Samma i Sverige - GP
+- Explosion vid flerfamiljshus i Södertälje - SVT Nyheter
 - Trump: Jag har stoppat ett krig i månaden – SVT verifierar - SVT Nyheter
 - Sjukhus: 25 dödade i Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Källor: Trump tar ett steg tillbaka i fredsförhandlingarna - DN
-- Ryssland: Nya framryckningar i Donetsk - Hufvudstadsbladet
+- Ryssland: Nya framryckningar i Donetsk - Västerbottens-Kuriren
+- Lilla Hjärtats vänförening: Melinda Jacobs avgår från styrelsen - SVT Nyheter
 - Nu stoppas paket till USA – returneras direkt - SVT Nyheter
-- Flopp för skrotningspremie - 460 miljoner kvar - SvD
-- Visninghelgerna är här – men bostadsmarknaden är trött - EFN
-- Mjuk Powell eldar på högvärderad börs - Dagens industri
+- Då kan bostadsmarknaden vakna till liv igen - SvD
+- Flopp för skrotningspremie - 460 miljoner kvar - Skånska Dagbladet
+- Vattenfall väljer mellan två SMR-koncept vid Ringhals - ENERGInyheter.se
 - Kan Nothing ta fajten med Apple och Samsung? - Expressen
 - TEST: Gps-klockor för barn – den ska du satsa på - Aftonbladet
 
 ## World News
 
 - Sidus Space Strengthens International Presence with Participation in World Space Business Week in Paris - Placera.se
+- Phuket, Thailand Rises as a Global Residential Haven, Driven by Laguna Phuket and Banyan Group Residences - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
 - Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
 - World Athletics introduces gene test for female category - BBC
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Gap Inc. to Participate in the 32nd Annual Goldman Sachs Global Retailing Conference - Placera.se
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Portugalidade - En ny global studie - The Portugal News
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- Gap Inc. to Participate in the 32nd Annual Goldman Sachs Global Retailing Conference - Placera.se
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
 
@@ -73,26 +73,26 @@ _Updated: 2025-08-23 15:01_
 
 ## Business
 
-- DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
+- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Accord Announces Amendment to its Banking Facility - Placera.se
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Accord Announces Second Quarter Financial Results - Placera.se
+- Accord Announces Amendment to its Banking Facility - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Accord Announces Second Quarter Financial Results - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - REPAY Appoints New Chief Financial Officer - Placera.se
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
 - The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
 
 ## Health
 
@@ -121,43 +121,43 @@ _Updated: 2025-08-23 15:01_
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - (+) Stor undersökning av jordbruket - Arbetarskydd
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Stora anslag för innovationer i lantbruket - Lantbruksnytt
+- Många lantbruk vill producera egen el - Tidningen Extrakt
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
