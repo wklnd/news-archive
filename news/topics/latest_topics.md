@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-23 23:38_
+_Updated: 2025-08-24 00:40_
 
 ## Top Stories
 
-- DN Direkt - Hela Gotland utan ström på lördagskvällen – börjar komma tillbaka - DN.se - DN
-- Ung man skjuten i södra Stockholm - SvD
-- En död efter påkörning i Gamla stan - SVT Nyheter
-- Stor sökinsats efter två personer i Hjälmaren - SVT Nyheter
-- 23 augusti 16.50, Försvunnen person, Trollhättan - polisen.se
-- Skräcken: Kan vara jag i morgon - Expressen
+- Kvinna död efter olycka vid Kungliga slottet – föraren gripen - DN
 - Kräftsäsongen är igång – detta gäller i Stockholm - Mitt i
+- Ung man skjuten – barn under 15 misstänks - SvD
+- Stor sökinsats efter två personer i Hjälmaren - SVT Nyheter
+- Björn af Kleen: Demokraten utmanar Trump – genom att härma presidenten - DN
+- Varning för vattenbrist på Gotland efter elavbrott - GP
+- 23 augusti 16.50, Försvunnen person, Trollhättan - polisen.se
 - Fler björnar fällda i länet – ”Ganska högt tempo” - Västerbottens-Kuriren
 - Kyrkan vrids 180 grader: Soltavlan hamnar i skuggan - NSD
-- Minikommunen med 101 invånare: ”Vid 80 personer går gränsen” - DN
+- Bra att Gisslén slutar som statsepidemiolog - Dagens Arena
 - Nya detaljer om sprängladdningar på Nord Stream - Hufvudstadsbladet
-- Björn af Kleen: Demokraten utmanar Trump – genom att härma presidenten - DN
 - Landsomfattande protester i Israel – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Toppchef sparkas – gick emot Trump i rapport - GP
+- DIREKT: Direktrapport om kriget i Ukraina - HD
 - Talangjakten hårdnar: lockar med höga löner - SvD
 - Vattenfall väljer mellan två SMR-koncept vid Ringhals - ENERGInyheter.se
 - Nu stoppas paket till USA – returneras direkt - Aftonbladet
@@ -34,18 +34,18 @@ _Updated: 2025-08-23 23:38_
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- How RFK Jr is eroding global trust in vaccines - Poddtoppen
 - Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
 - World Athletics introduces gene test for female category - BBC
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Gap Inc. to Participate in the 32nd Annual Goldman Sachs Global Retailing Conference - Placera.se
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
@@ -73,39 +73,39 @@ _Updated: 2025-08-23 23:38_
 
 ## Business
 
-- DeFi Technologies Announces Inaugural Insights Symposium to Be Held in Frankfurt on September 25, 2025 - Placera.se
+- Accord Announces Amendment to its Banking Facility - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Accord Announces Amendment to its Banking Facility - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Accord Announces Second Quarter Financial Results - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - REPAY Appoints New Chief Financial Officer - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
+- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
-- Öhman Hälsa och Ny Teknik ökade 3,5 procent i juli - Sedana Medical, Devyser och Camurus bidrog positivt - Placera.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
@@ -152,7 +152,7 @@ _Updated: 2025-08-23 23:38_
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Stora anslag för innovationer i lantbruket - Lantbruksnytt
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
@@ -161,4 +161,4 @@ _Updated: 2025-08-23 23:38_
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
-- De gick från reko till eko - ST-tidningen
+- Stora anslag för innovationer i lantbruket - Lantbruksnytt
