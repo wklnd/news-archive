@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-23 05:50_
+_Updated: 2025-08-23 06:43_
 
 ## Top Stories
 
 - Tess från Unicef i Gaza: ”Rapporten återspeglar verkligheten – det värsta jag sett” - DN
-- Stor brand i Ulricehamn – risk för explosion - Expressen
-- DN Direkt - Maxwell: Såg aldrig Trump göra något olämpligt - DN.se - DN
 - Explosion vid flerfamiljshus i Södertälje - SVT Nyheter
 - 22 augusti 21.07, Explosion, Stockholm - polisen.se
-- Bra att Gisslén slutar som statsepidemiolog - Dagens Arena
+- Wim har sovit 500 nätter på Västra Kyrkogården i Göteborg - GP
+- DN Direkt - Maxwell: Såg aldrig Trump göra något olämpligt - DN.se - DN
+- Spansk strand stängde efter giftigt fynd - Västerbottens-Kuriren
 - Jägare attackerad av skadskjuten björn – hamnade under djuret - SVT Nyheter
+- Bra att Gisslén slutar som statsepidemiolog - Dagens Arena
 - Allmänhetens kräftfiske startar i dag - Skillingaryd
 - 16-åring från Göteborg misstänks för mord vid moské i Örebro - GP
-- Fler björnar skjutna på fredagen - Västerbottens-Kuriren
+- Underrättelsechef sparkas efter omtalad Iran-rapport - Omni
 - Granskning: 83 procent av de dödade i Gaza var civila - DN
 - Trump uppges backa från fredssamtal - Hufvudstadsbladet
-- Vården kritiseras – kvinna dog av tarmcancer - SvD
-- Retar upp Maga-rörelsen – trollar Trump på Trumps sätt - Expressen
-- Powell öppnar för räntesänkning – samtidigt som Trumps attacker mot Fed fortsätter - DN
+- Så krossar Israel drömmen om en palestinsk stat - DN
+- Fed-chefen öppnar för räntesänkning – börsen stiger - Dagens industri
 - Anders Hellberg: Ingen vill prata om elefanten i Ringhals - Aktuell Hållbarhet
+- Amerikanska staten tar ägarandel i Intel - SvD
 - Veckans börsprofil: "Vi står inför en större uppgång" - Dagens PS
-- USA blir delägare i Intel enligt Donald Trump – aktien stiger - Dagens industri
 - Upptäckten: En unik nakenstjärna – saknar universums vanligaste grundämnen - NyTeknik
 - Rekordutbrott i rymden kan lösa astronomernas största gåta - Chalmers tekniska högskola
 
 ## World News
 
-- Sidus Space Strengthens International Presence with Participation in World Space Business Week in Paris - Placera.se
-- Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
-- Phuket, Thailand Rises as a Global Residential Haven, Driven by Laguna Phuket and Banyan Group Residences - Placera.se
+- NETMARBLE'S OPEN-WORLD RPG "THE SEVEN DEADLY SINS: ORIGIN" KICKS OFF GLOBAL CBT REGISTRATION - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- How RFK Jr is eroding global trust in vaccines - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
-- BIG Travel går in i globalt partnerskap - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Gap Inc. to Participate in the 32nd Annual Goldman Sachs Global Retailing Conference - Placera.se
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- BIG Travel går in i globalt partnerskap - travelnews.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
+- Ulrika Jonsson stämmer News of the World - Sydsvenskan
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
-- Den hetaste nya trenden inom global utbildning - The Portugal News
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Portugalidade - En ny global studie - The Portugal News
+- Nu riskerar Murdoch att förlora allt - Aftonbladet
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
 
 ## Technology
 
@@ -80,19 +80,19 @@ _Updated: 2025-08-23 05:50_
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- UDPN, G+D, and GFT Join CBMT Initiative to Enable Tokenized Commercial Bank Money for a More Digitalized Financial System - Placera.se
+- Accord Announces Second Quarter Financial Results - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
+- UDPN, G+D, and GFT Join CBMT Initiative to Enable Tokenized Commercial Bank Money for a More Digitalized Financial System - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
+- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - CANACCORD GENUITY GROUP INC. THROUGH ITS AUSTRALIAN OPERATION ANNOUNCES ACQUISITION OF WILSONS ADVISORY - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
 
 ## Health
 
@@ -119,26 +119,26 @@ _Updated: 2025-08-23 05:50_
 
 ## Science
 
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
-- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 
 ## Jordbruk
 
