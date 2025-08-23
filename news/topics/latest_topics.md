@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-23 18:42_
+_Updated: 2025-08-23 19:38_
 
 ## Top Stories
 
 - Två till sjukhus med allvarliga skador efter påkörning i Gamla stan - SVT Nyheter
+- 23 augusti 16.50, Försvunnen person, Trollhättan - polisen.se
 - Kräftsäsongen är igång – detta gäller i Stockholm - Mitt i
+- Skräcken: Kan vara jag i morgon - Expressen
+- Därför är Israels krigföring så dödlig för Gazas barn - DN
+- Expert: Inte säkert att vi får svar på exakt allt - Omni
 - Minikommunen med 101 invånare: ”Vid 80 personer går gränsen” - DN
-- Angelica hade skönhetskomplex – fick hjälp via Facebook - GP
-- 22 augusti 21.07, Explosion, Stockholm - polisen.se
-- Alice, 6, får stanna – men nekas permanent uppehållstillstånd - DN
-- Fler björnar fällda i länet – ”Ganska högt tempo” - Västerbottens-Kuriren
+- Fler björnar fällda i länet: ”Ganska högt tempo” - Västerbottens-Kuriren
+- Kyrkan vrids 180 grader: Soltavlan hamnar i skuggan - NSD
 - Explosion vid flerfamiljshus i Södertälje - SVT Nyheter
-- Bra att Gisslén slutar som statsepidemiolog - Dagens Arena
-- Pia deltog i 24-timmarsmanifestationen i Malmö: ”Vansinnigt” - NWT
-- Sjukhus: 25 dödade i Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - DN Direkt - Så krossar Israel drömmen om en palestinsk stat - DN.se - DN
+- Sjukhus: 25 dödade i Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Toppchef sparkas – gick emot Trump i rapport - Hufvudstadsbladet
 - Trump: Jag har stoppat ett krig i månaden – SVT verifierar - SVT Nyheter
-- Nu stoppas paket till USA – returneras direkt - Aftonbladet
 - Flopp för skrotningspremie - 460 miljoner kvar - SvD
 - Vattenfall väljer mellan två SMR-koncept vid Ringhals - ENERGInyheter.se
+- Nu stoppas paket till USA – returneras direkt - Aftonbladet
 - Miljardstöd behövs för negativa utsläpp - SvD
 - Kan Nothing ta fajten med Apple och Samsung? - Expressen
 - Heels, vuxen - Prova-på-dans - Katrineholms kommun
@@ -103,9 +103,9 @@ _Updated: 2025-08-23 18:42_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
+- Öhman Hälsa och Ny Teknik ökade 3,5 procent i juli - Sedana Medical, Devyser och Camurus bidrog positivt - Placera.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
@@ -136,29 +136,29 @@ _Updated: 2025-08-23 18:42_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - De gick från reko till eko - ST-tidningen
-- Tio jordbruksaktier för depån - Placera.se
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Tuffa tider väntar för engelskt jordbruk - ATL
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Stor nyhet för matglada katter - Mynewsdesk
-- Urban Deli är först på jorden att lansera hampakorv The Mighty Merguez. - Mynewsdesk
+- Tio jordbruksaktier för depån - Placera.se
