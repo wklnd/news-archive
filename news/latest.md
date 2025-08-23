@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-23 18:49_
+_Updated: 2025-08-23 19:48_
 
-- US seeks to deport Kilmar Abrego Garcia to Uganda after he refused to plea offer in smuggling case - AP News
-- Lyle Menendez denied parole, will remain in prison along with younger brother Erik - Los Angeles Times
+- Abrego Garcia's attorneys say government trying to coerce him to accept guilty plea or face deportation to Uganda - ABC News
+- Ghislaine Maxwell interview transcripts released by US justice department - BBC
 - California’s governor has become an anti-Trump comedian. It’s 2017 all over again | Dave Schilling - The Guardian
+- Lyle Menendez denied parole, will remain in prison along with younger brother Erik - Los Angeles Times
 - Mercy Flight reflects on teamwork after following Thruway bus crash that killed 5 people - WGRZ
 - Trump’s DC takeover produces moderate drop in crime — and huge spike in immigration arrests - CNN
-- National Guard in DC to carry M17 pistols, conduct law enforcement duties, task force says - ABC News
-- Texas Legislature Gives Final Approval to Redistricting Map Favoring Republicans - The New York Times
+- How California bluffed its way into a redistricting war with Trump - Politico
 - Judge blocks White House from defunding 34 municipalities over ‘sanctuary’ policies - The Guardian
-- Justice Department says U.S. won't defend grants for Hispanic-serving colleges, calling them unconstitutional - CBS News
-- Epstein associate Ghislaine Maxwell said she's not aware of any improper activity by Trump in interview with deputy AG - ABC News
+- Justice Department backs lawsuit seeking to end grants for Hispanic-serving colleges, calling them unconstitutional - CBS News
+- Trump coy on raid of critic John Bolton's house: 'I could know about it. I could be the one starting it' - Fortune
 - After Gaza Famine Report, U.S. Is Mostly Silent and Israel Is Defiant - The New York Times
-- Can the new India-China bonhomie reshape trade and hurt the US in Asia? - Al Jazeera
+- European postal services suspend shipment of packages to US over import tariffs - AP News
+- Japan's Ishiba, South Korea's Lee agree closer cooperation before Lee meets Trump - Reuters
 - Frustrated, Trump signals pause in his Ukraine peace effort - The Washington Post
-- El Salvador schools enforce military-style haircut checks - DW
 - Fed Chair Powell faces fresh challenges to Fed independence amid potential rate cuts - AP News
+- Lisa Cook, Who Broke Ground at the Fed, Faces Attack by Trump - The New York Times
 - Trump administration halts work on an almost-finished wind farm - NPR
 - Trump’s tech deals break with U.S. traditions of free enterprise - The Washington Post
-- What wealthy parents need to know about giving real estate to their kids - CNBC
-- Apple Looks to Use Google Gemini for AI, Report Says. Alphabet Stock Hits Record High. - Barron's
 - Apple Claims Ex-Employee, China’s Oppo Stole Trade Secrets - Bloomberg.com
+- ROG and Xbox's new handhelds are basically portable gaming PCs — Here's where to buy one - Windows Central
