@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-24 06:01_
+_Updated: 2025-08-24 06:46_
 
 ## Top Stories
 
-- Två personer hittade vid liv efter stor sökinsats i Hjälmaren - SVT Nyheter
-- Kvinna död efter olycka vid Kungliga slottet – föraren gripen - DN
 - Källor: USA har stoppat ukrainska attacker - Hufvudstadsbladet
-- ”Trumpviskaren” Stubb: Finländare är rakt på sak - Skånska Dagbladet
-- Varning för vattenbrist på Gotland efter elavbrott - GP
-- Bra att Gisslén slutar som statsepidemiolog - Dagens Arena
-- Bebis försvann i Trollhättan – hittades efter sökinsats - SVT Nyheter
+- Kroggästerna flyr bakvägen när Magnus knarkhundar kommer - GP
+- Därför pausar Trump räderna mot papperslösa lantarbetare - DN
+- En död efter påkörning i Gamla stan - SVT Nyheter
+- Sökinsats på Hjälmaren – två saknas - Västerbottens-Kuriren
+- Pust och stön ersätter lovsången i den gamla kyrkan - Smålandsposten
+- Varning för vattenbrist på Gotland efter elavbrott - Västerbottens-Kuriren
 - Kräftsäsongen är igång – detta gäller i Stockholm - Mitt i
-- Fler björnar fällda i länet – ”Ganska högt tempo” - Västerbottens-Kuriren
-- ”Hövdingens tips om halvt glas sommarens dummaste” - Helagotland
-- Nya detaljer om sprängladdningar på Nord Stream - Hufvudstadsbladet
+- Bebis försvann i Trollhättan – hittades efter sökinsats - SVT Nyheter
+- Tidigare VH-forwarden fick flytta kyrka efter flytten till Kiruna - Dagens Vimmerby
+- ”Trumpviskaren” Stubb: Finländare är rakt på sak - GP
 - Landsomfattande protester i Israel – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Wagnerledarens mor: ”Prigozjin förutsåg sin död” - DN
-- DIREKT: Ryssland: Nya framryckningar i Donetsk - Sydsvenskan
+- Nya detaljer om sprängladdningar på Nord Stream - GP
 - Vattenfall väljer mellan två SMR-koncept vid Ringhals - ENERGInyheter.se
+- Finansprofilerna kapas för att lura småsparare - SvD
 - Svenskar har tredje längst arbetsliv i Europa - Omni
 - 20 tvingades av flygplan – oväntade anledningen - Expressen
-- Svensk-finsk radiobeställning till försvaret värt 168 Mkr - Dagens industri
 - Visning av Erkenlaboratoriet - Naturskyddsföreningen
 - Jordens sjöar ändrar färg – här är förklaringen - GP
 
@@ -74,25 +74,25 @@ _Updated: 2025-08-24 06:01_
 ## Business
 
 - DeFi Technologies Announces Inaugural Insights Symposium to Be Held in Frankfurt on September 25, 2025 - Placera.se
-- Publication of the 2024 annual financial statements - Placera.se
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Accord Announces Amendment to its Banking Facility - Placera.se
-- Accord Announces Second Quarter Financial Results - Placera.se
-- REPAY Appoints New Chief Financial Officer - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
-- Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
-- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- REPAY Appoints New Chief Financial Officer - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 
 ## Health
 
