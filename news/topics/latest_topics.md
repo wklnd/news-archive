@@ -1,59 +1,59 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-24 05:34_
+_Updated: 2025-08-24 06:01_
 
 ## Top Stories
 
 - Två personer hittade vid liv efter stor sökinsats i Hjälmaren - SVT Nyheter
 - Kvinna död efter olycka vid Kungliga slottet – föraren gripen - DN
-- Kraftig rysk reaktion på finske presidentens ord - Expressen
-- USA har stoppat ukrainska attacker - Västerbottens-Kuriren
+- Källor: USA har stoppat ukrainska attacker - Hufvudstadsbladet
+- ”Trumpviskaren” Stubb: Finländare är rakt på sak - Skånska Dagbladet
 - Varning för vattenbrist på Gotland efter elavbrott - GP
-- Duplantis vann Finnkampen – på ingångshöjden - Omni
+- Bra att Gisslén slutar som statsepidemiolog - Dagens Arena
 - Bebis försvann i Trollhättan – hittades efter sökinsats - SVT Nyheter
 - Kräftsäsongen är igång – detta gäller i Stockholm - Mitt i
-- ”Hövdingens tips om halvt glas sommarens dummaste” - Helagotland
 - Fler björnar fällda i länet – ”Ganska högt tempo” - Västerbottens-Kuriren
+- ”Hövdingens tips om halvt glas sommarens dummaste” - Helagotland
 - Nya detaljer om sprängladdningar på Nord Stream - Hufvudstadsbladet
 - Landsomfattande protester i Israel – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- DIREKT: Direktrapport om kriget i Ukraina - HD
-- Trump: Har mäklat fred i sex krig – stämmer det? - GP
+- Wagnerledarens mor: ”Prigozjin förutsåg sin död” - DN
+- DIREKT: Ryssland: Nya framryckningar i Donetsk - Sydsvenskan
 - Vattenfall väljer mellan två SMR-koncept vid Ringhals - ENERGInyheter.se
 - Svenskar har tredje längst arbetsliv i Europa - Omni
+- 20 tvingades av flygplan – oväntade anledningen - Expressen
 - Svensk-finsk radiobeställning till försvaret värt 168 Mkr - Dagens industri
-- ”Riksbanken måste sluta fega med räntan” - Helagotland
 - Visning av Erkenlaboratoriet - Naturskyddsföreningen
 - Jordens sjöar ändrar färg – här är förklaringen - GP
 
 ## World News
 
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
+- Sidus Space Strengthens International Presence with Participation in World Space Business Week in Paris - Placera.se
+- Phuket, Thailand Rises as a Global Residential Haven, Driven by Laguna Phuket and Banyan Group Residences - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - How RFK Jr is eroding global trust in vaccines - Poddtoppen
 - Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
 - World Athletics introduces gene test for female category - BBC
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Nu riskerar Murdoch att förlora allt - Aftonbladet
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
@@ -64,12 +64,12 @@ _Updated: 2025-08-24 05:34_
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- 4 ETF:er som satsar på AI - Morningstar
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
 
@@ -97,15 +97,15 @@ _Updated: 2025-08-24 05:34_
 ## Health
 
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
+- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
+- Öhman Hälsa och Ny Teknik ökade 3,5 procent i juli - Sedana Medical, Devyser och Camurus bidrog positivt - Placera.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
@@ -144,21 +144,21 @@ _Updated: 2025-08-24 05:34_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - (+) Stor undersökning av jordbruket - Arbetarskydd
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Stora anslag för innovationer i lantbruket - Lantbruksnytt
+- Många lantbruk vill producera egen el - Tidningen Extrakt
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
