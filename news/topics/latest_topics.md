@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-24 16:40_
+_Updated: 2025-08-24 17:39_
 
 ## Top Stories
 
-- Regissören Richard Hobert är död - DN
 - Daniel Riazat och Lorena Delgado Varas lämnar V – blir kvar i riksdagen - SVT Nyheter
-- Inbrottsvåg mot tyska campinggäster – borrar hål i dörr - Aftonbladet
-- Sorgen: 17-åring död efter krasch - Expressen
-- ”Om en kvinna trakasseras omplaceras hon” - DN
-- Dricksvattnet åter i full drift på Gotland - Västerbottens-Kuriren
+- Flygplan har kraschat i ett träd: ”Tre-fyra meter upp” - Aftonbladet
+- Utrikesminister Maria Malmer Stenergards tal på Ukrainas självständighetsdag - Regeringen.se
+- Två män gripna för misstänkt mordförsök i Timrå - SVT Nyheter
+- Utdragen upprustning skapar stor förlust för Klippans konstkafé - GP
+- DN Direkt - Vattenförsörjningen på Gotland åter i drift - DN.se - DN
 - Förare i 80-årsåldern anhållen efter dödsolycka vid slottet - DN
 - Läkare ställer sig bakom Gisslén: ”Alldeles rimligt” - Omni
+- 24 augusti 04.14, Stöld/inbrott, Trollhättan - polisen.se
 - Förare åkte dit i trafikkontroll – här stod polisen - Norran
-- Kungaparet vid ekumenisk högtidsgudstjänst - Kungahuset
 - Ukraina slår mot ryska mål på självständighetsdagen - DN
-- Presidentfru till Melania: Stå upp för Gazas barn - Västerbottens-Kuriren
-- Därför pausar Trump räderna mot papperslösa lantarbetare - DN
+- DN Direkt - Därför pausar Trump räderna mot papperslösa lantarbetare - DN.se - DN
 - Netanyahus rival föreslår ny regeringskoalition – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- DIREKT: Brand på kärnanläggning i Ryssland - HD
 - Pensionspengar investerade i företag anklagade för folkrättsbrott i Gaza - tidningensyre.se
 - LO inför budgeten: Pengar till rika löser inget - SvD
 - Lars lurades av falska finansprofiler: ”Var väl naiv” - Omni
-- Höga förväntningar inför Nvidias rapport - SvD
+- Spotify flaggar för fler prishöjningar - Dagens industri
 - Sony återupptar försäljningen av Xperia 1 VII - mobil.se
 - Ny app-layout i Samsung Galaxy Z Trifold - mobil.se
 
@@ -103,7 +103,6 @@ _Updated: 2025-08-24 16:40_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Öhman Hälsa och Ny Teknik ökade 3,5 procent i juli - Sedana Medical, Devyser och Camurus bidrog positivt - Placera.se
@@ -116,6 +115,7 @@ _Updated: 2025-08-24 16:40_
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
@@ -146,6 +146,7 @@ _Updated: 2025-08-24 16:40_
 - 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
@@ -161,4 +162,3 @@ _Updated: 2025-08-24 16:40_
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
 - Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
