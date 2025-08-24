@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-24 06:46_
+_Updated: 2025-08-24 07:41_
 
 ## Top Stories
 
-- Källor: USA har stoppat ukrainska attacker - Hufvudstadsbladet
-- Kroggästerna flyr bakvägen när Magnus knarkhundar kommer - GP
 - Därför pausar Trump räderna mot papperslösa lantarbetare - DN
-- En död efter påkörning i Gamla stan - SVT Nyheter
-- Sökinsats på Hjälmaren – två saknas - Västerbottens-Kuriren
-- Pust och stön ersätter lovsången i den gamla kyrkan - Smålandsposten
-- Varning för vattenbrist på Gotland efter elavbrott - Västerbottens-Kuriren
+- Nya simhallen på Heleneholm löser inte Malmös badhuskris - Sydsvenskan
+- Kroggästerna flyr bakvägen när Magnus knarkhundar kommer - GP
+- Kvinna död i påkörning vid Stockholms slott - SvD
 - Kräftsäsongen är igång – detta gäller i Stockholm - Mitt i
-- Bebis försvann i Trollhättan – hittades efter sökinsats - SVT Nyheter
+- Källor: USA har stoppat ukrainska attacker - Hufvudstadsbladet
+- DN Direkt - Varning för vattenbrist efter elavbrott på Gotland - DN.se - DN
+- 24 augusti 07.00, Sammanfattning kväll och natt, Hallands län - polisen.se
+- Spädbarn försvann – stor sökinsats i Trollhättan - GP
 - Tidigare VH-forwarden fick flytta kyrka efter flytten till Kiruna - Dagens Vimmerby
-- ”Trumpviskaren” Stubb: Finländare är rakt på sak - GP
+- Nigeria: Över 35 jihadister dödade i flygräder - GP
+- ”Trumpviskaren” Stubb: Finländare är rakt på sak - Västerbottens-Kuriren
 - Landsomfattande protester i Israel – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Wagnerledarens mor: ”Prigozjin förutsåg sin död” - DN
-- Nya detaljer om sprängladdningar på Nord Stream - GP
+- Höga förväntningar på ”världens viktigaste bolag” - SvD
 - Vattenfall väljer mellan två SMR-koncept vid Ringhals - ENERGInyheter.se
-- Finansprofilerna kapas för att lura småsparare - SvD
+- Experternas analys av köpet: ”Inget vanligt startup-bolag” - SVT Nyheter
 - Svenskar har tredje längst arbetsliv i Europa - Omni
-- 20 tvingades av flygplan – oväntade anledningen - Expressen
 - Visning av Erkenlaboratoriet - Naturskyddsföreningen
 - Jordens sjöar ändrar färg – här är förklaringen - GP
 
 ## World News
 
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
-- Sidus Space Strengthens International Presence with Participation in World Space Business Week in Paris - Placera.se
-- Phuket, Thailand Rises as a Global Residential Haven, Driven by Laguna Phuket and Banyan Group Residences - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- How RFK Jr is eroding global trust in vaccines - Poddtoppen
-- Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
 - World Athletics introduces gene test for female category - BBC
+- Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- BIG Travel går in i globalt partnerskap - travelnews.se
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- BIG Travel går in i globalt partnerskap - travelnews.se
+- Lars Henrikson – ny global chef för Mölndals-baserade DENTSPLY Implants - Dental Tribune US
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Nu riskerar Murdoch att förlora allt - Aftonbladet
 
 ## Technology
 
@@ -74,38 +74,38 @@ _Updated: 2025-08-24 06:46_
 ## Business
 
 - DeFi Technologies Announces Inaugural Insights Symposium to Be Held in Frankfurt on September 25, 2025 - Placera.se
-- DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
+- Publication of the 2024 annual financial statements - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
+- DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Accord Announces Amendment to its Banking Facility - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Accord Announces Amendment to its Banking Facility - Placera.se
+- Accord Announces Second Quarter Financial Results - Placera.se
 - REPAY Appoints New Chief Financial Officer - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
+- Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
+- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
-- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
+- Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
-- Öhman Hälsa och Ny Teknik ökade 3,5 procent i juli - Sedana Medical, Devyser och Camurus bidrog positivt - Placera.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
@@ -144,21 +144,21 @@ _Updated: 2025-08-24 06:46_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - (+) Stor undersökning av jordbruket - Arbetarskydd
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Stora anslag för innovationer i lantbruket - Lantbruksnytt
-- Många lantbruk vill producera egen el - Tidningen Extrakt
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
