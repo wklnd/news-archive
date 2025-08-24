@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-24 17:39_
+_Updated: 2025-08-24 18:44_
 
 ## Top Stories
 
 - Daniel Riazat och Lorena Delgado Varas lämnar V – blir kvar i riksdagen - SVT Nyheter
 - Flygplan har kraschat i ett träd: ”Tre-fyra meter upp” - Aftonbladet
 - Utrikesminister Maria Malmer Stenergards tal på Ukrainas självständighetsdag - Regeringen.se
-- Två män gripna för misstänkt mordförsök i Timrå - SVT Nyheter
 - Utdragen upprustning skapar stor förlust för Klippans konstkafé - GP
-- DN Direkt - Vattenförsörjningen på Gotland åter i drift - DN.se - DN
+- Lägenhetsbrand i Vivalla i Örebro: ”Utbränd” - SVT Nyheter
+- Rysk gas fortsätter pumpas inom EU - DN
 - Förare i 80-årsåldern anhållen efter dödsolycka vid slottet - DN
 - Läkare ställer sig bakom Gisslén: ”Alldeles rimligt” - Omni
-- 24 augusti 04.14, Stöld/inbrott, Trollhättan - polisen.se
-- Förare åkte dit i trafikkontroll – här stod polisen - Norran
-- Ukraina slår mot ryska mål på självständighetsdagen - DN
+- Tar med äldre på cykeltur: ”Känner mig som en kung” - DN
+- Gotlänningarnas ord om avbrottet: ”Känns väldigt sårbart” - SVT Nyheter
+- Kvinna hittad död på ungdomsboende i Norge – 18-åring gripen - DN
 - DN Direkt - Därför pausar Trump räderna mot papperslösa lantarbetare - DN.se - DN
-- Netanyahus rival föreslår ny regeringskoalition – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- DIREKT: Brand på kärnanläggning i Ryssland - HD
+- Zelenskyj: Vår framtid avgörs endast av oss - Västerbottens-Kuriren
+- Analys: Putin nöjer sig knappast med Donbas - Omni
 - Pensionspengar investerade i företag anklagade för folkrättsbrott i Gaza - tidningensyre.se
 - LO inför budgeten: Pengar till rika löser inget - SvD
 - Lars lurades av falska finansprofiler: ”Var väl naiv” - Omni
-- Spotify flaggar för fler prishöjningar - Dagens industri
+- Spotify flaggar för fler prishöjningar - Aftonbladet
 - Sony återupptar försäljningen av Xperia 1 VII - mobil.se
 - Ny app-layout i Samsung Galaxy Z Trifold - mobil.se
 
@@ -52,8 +52,8 @@ _Updated: 2025-08-24 17:39_
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
@@ -115,50 +115,50 @@ _Updated: 2025-08-24 17:39_
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De gick från reko till eko - ST-tidningen
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Tuffa tider väntar för engelskt jordbruk - ATL
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
+- Stor nyhet för matglada katter - Mynewsdesk
+- Tio jordbruksaktier för depån - Placera.se
