@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-24 12:41_
+_Updated: 2025-08-24 13:38_
 
 ## Top Stories
 
+- Rasar mot partiet efter uteslutningen: ”Mobbning” - DN
 - Flera inbrott i husbilar – polisen ser mönster - SVT Nyheter
-- Riazat kallar till pressträff efter uteslutningen från V - SVT Nyheter
-- Förare i 80-årsåldern anhållen efter dödsolycka vid Slottet i Stockholm - HD
+- Gotlänningarnas ord om avbrottet: ”Känns väldigt sårbart” - SVT Nyheter
 - Man kidnappad – lyckades fly vid poliskontroll - Västerbottens-Kuriren
-- Soldaterna: ”Om en kvinna trakasseras omplaceras hon” - DN
+- ”Om en kvinna trakasseras omplaceras hon” - DN
 - Veteranen Yuriy om Trumps fredsplan: ”Meningslöst” - GP
+- Förare i 80-årsåldern anhållen efter dödsolycka vid slottet - DN
 - Tjänstemän i Västsverige mest förolämpade i landet - GP
 - 24 augusti 07.00, Sammanfattning kväll och natt, Hallands län - Polisen.se
-- Varning för vattenbrist på Gotland efter elavbrott - Västerbottens-Kuriren
-- Tidigare VH-forwarden fick flytta kyrka efter flytten till Kiruna - Dagens Vimmerby
+- Spädbarn försvann – stor sökinsats i Trollhättan - GP
 - Presidentfru till Melania: Stå upp för Gazas barn - Västerbottens-Kuriren
-- Nigeria: Över 35 jihadister dödade i flygräder - GP
+- Ukraina slår mot ryska mål på självständighetsdagen - DN
 - Därför pausar Trump räderna mot papperslösa lantarbetare - DN
 - Netanyahus rival föreslår ny regeringskoalition – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- DN Direkt - Därför pausar Trump räderna mot papperslösa lantarbetare - DN.se - DN
-- Finansprofilerna kapas för att lura småsparare - svd.se
 - Pensionspengar investerade i företag anklagade för folkrättsbrott i Gaza - tidningensyre.se
+- Spotify flaggar för fler prishöjningar - SVT Nyheter
+- Finansprofilerna kapas för att lura småsparare - svd.se
 - Höga förväntningar inför Nvidias rapport - svd.se
-- Kasserades som avfall: Nu kan förbisedd partikel kanske lösa kvantdatorns största problem - Illustrerad Vetenskap
 - Sony återupptar försäljningen av Xperia 1 VII - mobil.se
+- Ny dinosaurie upptäckt på brittiska ön Isle of Wight - GP
 
 ## World News
 
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
-- Sidus Space Strengthens International Presence with Participation in World Space Business Week in Paris - Placera.se
-- Phuket, Thailand Rises as a Global Residential Haven, Driven by Laguna Phuket and Banyan Group Residences - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- How RFK Jr is eroding global trust in vaccines - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
 - Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- BIG Travel går in i globalt partnerskap - travelnews.se
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- BIG Travel går in i globalt partnerskap - travelnews.se
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Here’s what happened in 2022 in 10 striking pictures - The World Economic Forum
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Nu riskerar Murdoch att förlora allt - Aftonbladet
 
 ## Technology
 
@@ -87,11 +87,11 @@ _Updated: 2025-08-24 12:41_
 - Accord Announces Second Quarter Financial Results - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - REPAY Appoints New Chief Financial Officer - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
 
 ## Health
@@ -106,14 +106,14 @@ _Updated: 2025-08-24 12:41_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
-- Öhman Hälsa och Ny Teknik ökade 3,5 procent i juli - Sedana Medical, Devyser och Camurus bidrog positivt - Placera.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
@@ -121,24 +121,24 @@ _Updated: 2025-08-24 12:41_
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - 5 myter om öppen vetenskap - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
 
 ## Jordbruk
 
