@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-24 09:38_
+_Updated: 2025-08-24 10:43_
 
 ## Top Stories
 
-- Kvinna död efter olycka vid Kungliga slottet – föraren gripen - DN
+- Förare i 80-årsåldern anhållen efter dödsolycka vid Slottet i Stockholm - HD
 - ”Trumpviskaren” Stubb: Finländare är rakt på sak - Skånska Dagbladet
 - Man kidnappad – lyckades fly vid poliskontroll - Västerbottens-Kuriren
 - Därför pausar Trump räderna mot papperslösa lantarbetare - DN
-- Nya simhallen på Heleneholm löser inte Malmös badhuskris - Sydsvenskan
 - Kroggästerna flyr bakvägen när Magnus knarkhundar kommer - GP
+- Badhuskris i Malmö – nytt bad täcker inte det stora behovet - Sydsvenskan
 - Så dominerar Trump i svenska medier - Västerbottens-Kuriren
 - Varning för vattenbrist på Gotland efter elavbrott - GP
 - 24 augusti 07.00, Sammanfattning kväll och natt, Hallands län - polisen.se
-- Tidigare VH-forwarden fick flytta kyrka efter flytten till Kiruna - Dagens Vimmerby
-- DIREKT: Brand på kärnanläggning i Ryssland - HD
+- Flera inbrott i husbilar – polisen ser mönster - SVT Nyheter
 - Presidentfru till Melania: Stå upp för Gazas barn - Västerbottens-Kuriren
+- DIREKT: Brand på kärnanläggning i Ryssland - HD
 - Nigeria: Över 35 jihadister dödade i flygräder - GP
 - Sjukhus: 25 dödade i Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- DN Direkt - Misstänkt mordförsök i Tingsryd - DN.se - DN
-- Finansprofilerna kapas för att lura småsparare - SvD
-- Höga förväntningar inför Nvidias rapport - SvD
-- Nytt Ethereum-rally efter Fed-chefens utspel - Dagens PS
+- Spotify flaggar för fler prishöjningar - SVT Nyheter
+- Pensionsmiljarder i bolag anklagade för brott i Gaza - SvD
+- Lars lurades av falska finansprofiler: ”Var väl naiv” - Omni
+- Höga förväntningar på ”världens viktigaste bolag” - Sydsvenskan
 - Kasserades som avfall: Nu kan förbisedd partikel kanske lösa kvantdatorns största problem - Illustrerad Vetenskap
 - Ny dinosaurie upptäckt på brittiska ön Isle of Wight - GP
 
@@ -31,20 +31,20 @@ _Updated: 2025-08-24 09:38_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- How RFK Jr is eroding global trust in vaccines - Poddtoppen
 - Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
 - World Athletics introduces gene test for female category - BBC
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Lars Henrikson – ny global chef för Mölndals-baserade DENTSPLY Implants - Dental Tribune US
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Nu riskerar Murdoch att förlora allt - Aftonbladet
 
@@ -52,8 +52,8 @@ _Updated: 2025-08-24 09:38_
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
@@ -64,12 +64,12 @@ _Updated: 2025-08-24 09:38_
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 
 ## Business
 
@@ -88,11 +88,11 @@ _Updated: 2025-08-24 09:38_
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - REPAY Appoints New Chief Financial Officer - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
 
@@ -121,36 +121,36 @@ _Updated: 2025-08-24 09:38_
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - (+) Stor undersökning av jordbruket - Arbetarskydd
