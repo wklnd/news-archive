@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-24 11:38_
+_Updated: 2025-08-24 12:41_
 
 ## Top Stories
 
 - Flera inbrott i husbilar – polisen ser mönster - SVT Nyheter
-- Man kidnappad – lyckades fly vid poliskontroll - GP
-- Därför pausar Trump räderna mot papperslösa lantarbetare - DN
+- Riazat kallar till pressträff efter uteslutningen från V - SVT Nyheter
+- Förare i 80-årsåldern anhållen efter dödsolycka vid Slottet i Stockholm - HD
+- Man kidnappad – lyckades fly vid poliskontroll - Västerbottens-Kuriren
+- Soldaterna: ”Om en kvinna trakasseras omplaceras hon” - DN
 - Veteranen Yuriy om Trumps fredsplan: ”Meningslöst” - GP
-- Förare i 80-årsåldern anhållen efter dödsolycka - Aftonbladet
-- Kroggästerna flyr bakvägen när Magnus knarkhundar kommer - GP
-- Så dominerar Trump i svenska medier - Västerbottens-Kuriren
-- Varning för vattenbrist på Gotland efter elavbrott - GP
+- Tjänstemän i Västsverige mest förolämpade i landet - GP
 - 24 augusti 07.00, Sammanfattning kväll och natt, Hallands län - Polisen.se
+- Varning för vattenbrist på Gotland efter elavbrott - Västerbottens-Kuriren
 - Tidigare VH-forwarden fick flytta kyrka efter flytten till Kiruna - Dagens Vimmerby
 - Presidentfru till Melania: Stå upp för Gazas barn - Västerbottens-Kuriren
 - Nigeria: Över 35 jihadister dödade i flygräder - GP
-- Ukraina slår mot ryska mål på självständighetsdagen - DN
-- ”Trumpviskaren” Stubb: Finländare är rakt på sak - Västerbottens-Kuriren
-- Spotify flaggar för fler prishöjningar - Dagens industri
-- Finansprofilerna kapas för att lura småsparare - SvD
-- Flera AP-fonder investerar miljarder i bolag som anklagas för brott i Gaza - Omni
-- Höga förväntningar inför Nvidias rapport - SvD
+- Därför pausar Trump räderna mot papperslösa lantarbetare - DN
+- Netanyahus rival föreslår ny regeringskoalition – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- DN Direkt - Därför pausar Trump räderna mot papperslösa lantarbetare - DN.se - DN
+- Finansprofilerna kapas för att lura småsparare - svd.se
+- Pensionspengar investerade i företag anklagade för folkrättsbrott i Gaza - tidningensyre.se
+- Höga förväntningar inför Nvidias rapport - svd.se
 - Kasserades som avfall: Nu kan förbisedd partikel kanske lösa kvantdatorns största problem - Illustrerad Vetenskap
-- Ny dinosaurie upptäckt på brittiska ön Isle of Wight - GP
+- Sony återupptar försäljningen av Xperia 1 VII - mobil.se
 
 ## World News
 
@@ -38,22 +38,22 @@ _Updated: 2025-08-24 11:38_
 - World Athletics introduces gene test for female category - BBC
 - Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- ICP ringer in julen med Global Xmas Townhall! - The Portugal News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
@@ -61,15 +61,15 @@ _Updated: 2025-08-24 11:38_
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Oron: Då tar datan på internet slut - SvD
+- Oron: Då tar datan på internet slut - svd.se
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 
 ## Business
 
@@ -82,17 +82,17 @@ _Updated: 2025-08-24 11:38_
 - DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Accord Announces Amendment to its Banking Facility - Placera.se
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Accord Announces Second Quarter Financial Results - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - REPAY Appoints New Chief Financial Officer - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
 
 ## Health
 
@@ -121,24 +121,24 @@ _Updated: 2025-08-24 11:38_
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
@@ -153,6 +153,7 @@ _Updated: 2025-08-24 11:38_
 - Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- De gick från reko till eko - ST-tidningen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
@@ -160,5 +161,4 @@ _Updated: 2025-08-24 11:38_
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
-- Stora anslag för innovationer i lantbruket - Lantbruksnytt
+- Små jordbruk kan mätta fler - FoodMonitor
