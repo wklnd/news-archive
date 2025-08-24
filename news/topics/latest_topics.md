@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-24 23:38_
+_Updated: 2025-08-25 00:41_
 
 ## Top Stories
 
-- Ulf Kristersson frågas ut i Agenda - SVT Nyheter
 - Statsministern sätter ner foten: Regeringen är ”helt enig” om Israel - Omni
 - Riazat och Delgado Varas lämnar – avslöjar Vänsterparti­ets stora problem - Arbetet
-- Traktorsläp med höbalar rullade in i villa i Hörby - SVT Nyheter
-- Flygplan kraschade i träd – piloten oskadd - Västerbottens-Kuriren
 - Kvinna hittad död på ungdomsboende i Norge – 18-åring gripen - DN
-- Gotlänningarnas ord om avbrottet: ”Känns väldigt sårbart” - SVT Nyheter
+- Traktorsläp med höbalar rullade in i villa i Hörby - SVT Nyheter
+- Analys: Putin nöjer sig knappast med Donbas - Omni
+- Zombiespindlar sprider sig över världen – forskarnas förklaring - Aftonbladet
 - Förare åkte dit i trafikkontroll – här stod polisen - Norran
+- Gotlänningarnas ord om avbrottet: ”Känns väldigt sårbart” - SVT Nyheter
 - 24 augusti 04.14, Stöld/inbrott, Trollhättan - polisen.se
-- Kungaparet vid ekumenisk högtidsgudstjänst - Kungahuset
+- Ukrainas självständighetsdag uppmärksammas med flaggning utanför Utrikesdepartementet - Regeringen.se
 - DN Direkt - Vietnam evakuerar hundratusentals undan tyfon - DN.se - DN
 - Zelenskyj: Vår framtid avgörs endast av oss - Västerbottens-Kuriren
-- Analys: Putin nöjer sig knappast med Donbas - Omni
+- SJ:s vd Monica Lingegård tvingas gå – får miljonfallskärm - DN
 - DN Direkt - Därför pausar Trump räderna mot papperslösa lantarbetare - DN.se - DN
-- SJ:s vd Monica Lingegård tvingas avgå - SVT Nyheter
 - Trumps drag – kan tjäna stort på kravet om sänkt ränta - Expressen
-- Amerikanska staten tar ägarandel i Intel - Tidningen Näringslivet
 - Trean gick upp 2,6 miljoner på några timmar - Aftonbladet
+- Rapport: Rysslands ekonomi nära ruinens brant - Dagens PS
+- Debatt: SMR-teknik är konkurrenskraftig och fungerar i praktiken - Tidningen Näringslivet
 - Snake Eater-remaken tränar yngre förmågor inför Metal Gears framtid - FZ.se
 - Sony återupptar försäljningen av Xperia 1 VII - mobil.se
 
@@ -34,18 +34,18 @@ _Updated: 2025-08-24 23:38_
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- How RFK Jr is eroding global trust in vaccines - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
 - Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Den hetaste nya trenden inom global utbildning - The Portugal News
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
@@ -89,10 +89,10 @@ _Updated: 2025-08-24 23:38_
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Accord Announces Amendment to its Banking Facility - Placera.se
 - Accord Announces Second Quarter Financial Results - Placera.se
-- BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
 - REPAY Appoints New Chief Financial Officer - Placera.se
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
 - The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 
 ## Health
 
@@ -105,60 +105,60 @@ _Updated: 2025-08-24 23:38_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
-- Öhman Hälsa och Ny Teknik ökade 3,5 procent i juli - Sedana Medical, Devyser och Camurus bidrog positivt - Placera.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Stora anslag för innovationer i lantbruket - Lantbruksnytt
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
+- Stora anslag för innovationer i lantbruket - Lantbruksnytt
