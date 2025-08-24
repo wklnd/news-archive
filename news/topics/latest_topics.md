@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-24 18:44_
+_Updated: 2025-08-24 19:39_
 
 ## Top Stories
 
-- Daniel Riazat och Lorena Delgado Varas lämnar V – blir kvar i riksdagen - SVT Nyheter
-- Flygplan har kraschat i ett träd: ”Tre-fyra meter upp” - Aftonbladet
+- Di avslöjar: SJ:s vd får gå – med fallskärm på 6,6 miljoner - Dagens industri
+- Riazat och Delgado Varas lämnar – avslöjar Vänsterparti­ets stora problem - Arbetet
+- Mindre plan kraschat i träd i Skånes Fagerhult - SVT Nyheter
 - Utrikesminister Maria Malmer Stenergards tal på Ukrainas självständighetsdag - Regeringen.se
 - Utdragen upprustning skapar stor förlust för Klippans konstkafé - GP
-- Lägenhetsbrand i Vivalla i Örebro: ”Utbränd” - SVT Nyheter
-- Rysk gas fortsätter pumpas inom EU - DN
+- Gotlänningarnas ord om avbrottet: ”Känns väldigt sårbart” - SVT Nyheter
 - Förare i 80-årsåldern anhållen efter dödsolycka vid slottet - DN
 - Läkare ställer sig bakom Gisslén: ”Alldeles rimligt” - Omni
-- Tar med äldre på cykeltur: ”Känner mig som en kung” - DN
-- Gotlänningarnas ord om avbrottet: ”Känns väldigt sårbart” - SVT Nyheter
+- Förare åkte dit i trafikkontroll – här stod polisen - Norran
+- 24 augusti 04.14, Stöld/inbrott, Trollhättan - polisen.se
 - Kvinna hittad död på ungdomsboende i Norge – 18-åring gripen - DN
 - DN Direkt - Därför pausar Trump räderna mot papperslösa lantarbetare - DN.se - DN
 - Zelenskyj: Vår framtid avgörs endast av oss - Västerbottens-Kuriren
 - Analys: Putin nöjer sig knappast med Donbas - Omni
 - Pensionspengar investerade i företag anklagade för folkrättsbrott i Gaza - tidningensyre.se
+- Trumps drag – kan tjäna stort på kravet om sänkt ränta - Expressen
 - LO inför budgeten: Pengar till rika löser inget - SvD
 - Lars lurades av falska finansprofiler: ”Var väl naiv” - Omni
-- Spotify flaggar för fler prishöjningar - Aftonbladet
+- Snake Eater-remaken tränar yngre förmågor inför Metal Gears framtid - FZ.se
 - Sony återupptar försäljningen av Xperia 1 VII - mobil.se
-- Ny app-layout i Samsung Galaxy Z Trifold - mobil.se
 
 ## World News
 
@@ -39,7 +39,7 @@ _Updated: 2025-08-24 18:44_
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
@@ -51,22 +51,22 @@ _Updated: 2025-08-24 18:44_
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
-- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- ZenaTech Signs Agreements to Acquire Two Florida Companies, Expanding Drone as a Service Footprint into Aviation, Defense, and Power Washing - Placera.se
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - EY.ai | EY - Sverige - EY
-- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
@@ -129,14 +129,14 @@ _Updated: 2025-08-24 18:44_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 
@@ -144,21 +144,21 @@ _Updated: 2025-08-24 18:44_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
-- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - De gick från reko till eko - ST-tidningen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Tuffa tider väntar för engelskt jordbruk - ATL
+- Här är världens största jordbruk - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Stor nyhet för matglada katter - Mynewsdesk
-- Tio jordbruksaktier för depån - Placera.se
+- Små jordbruk kan mätta fler - FoodMonitor
