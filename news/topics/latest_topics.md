@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-25 11:43_
+_Updated: 2025-08-25 12:45_
 
 ## Top Stories
 
-- Två personer skjutna till döds i bil i Järfälla - DN
-- Svenska regeringens Natopärm hittades av städare på Arlanda - Hufvudstadsbladet
-- Israelisk sjukhusattack – journalister dödade - GP
-- Misstänkt mord i Ulricehamn – en gripen - SVT Nyheter
-- Kristersson tappar kraftigt i förtroende - Affärsvärlden
-- Christina, 44, fick akut snitt – rädslan släppte inte - Sydsvenskan
+- Regeringens Natopärm hittades av städare på Arlanda - DN
+- En anhållen efter nattens dubbelmord i Kallhäll - SVT Nyheter
+- Flera dödade i israelisk attack mot sjukhus i Gaza – journalister bland offren - DN
+- Norska medier: Mordmisstänkt planerade moskédåd - GP
+- Person hittad död i Ulricehamn – misstänkt mord - Omni
+- ”Allt är en röra” – USA:s valbråk på väg till HD - SvD
+- Konkurs pressar vården i skärgårdskommunen - DN
+- 24 augusti 04.14, Stöld/inbrott, Trollhättan - polisen.se
 - Explosion vid bostadshus i Örebro - Västerbottens-Kuriren
 - Kajsa Dovstad: Har läkare ingen plats i ledningen för svensk sjukvård? - GP
-- Ovanlig viltolycka utanför Umeå – djuret skickas till Riksmuseet - Norran
-- Ytterligare en björn sköts under årets jakt – här sköts de: ”Smidigt” - NWT
-- Rymda ungdomar gripna av polis – planerade dåd - Ystads Allehanda
-- Bolsjojbalettens ballerinor får spionprogram i sina mobiler - DN
 - ”Cherson biter ihop under ryskt våld” - Västerbottens-Kuriren
-- Lastbil rammade traktorflak – pilgrimer döda - GP
+- Bolsjojbalettens ballerinor får spionprogram i sina mobiler - DN
+- DN Direkt - Regeringens pärm om Natomötet med Turkiet hittades av städare på Arlanda - DN.se - DN
+- Minst 15 döda i attack mot sjukhus i Khan Yunis – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Jonas Abrahamsson lämnar Swedavia för nytt uppdrag - Cision News
 - Lågprisbutikens närvaro pressar matpriserna - Tidningen Näringslivet
+- USA blir delägare i Intel – investerar 8,9 miljarder dollar - Evertiq
 - Fastighetsjätten slängs ut från börsen - Dagens PS
-- Svensk Handels skarpa kritik mot Temu: "Bryter regler rakt framför våra ögon" - Affärsvärlden
+- Samarbete med rivalen? Apple vill använda Googles AI i Siri - Nyteknik
 - Zombiespindlar sprider sig över världen – forskarnas förklaring - Aftonbladet
-- Hasselblad släpper teaser om kommande kamera och objektiv - Kamera & Bild
 
 ## World News
 
@@ -35,18 +35,18 @@ _Updated: 2025-08-25 11:43_
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - World Athletics introduces gene test for female category - BBC
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- How RFK Jr is eroding global trust in vaccines - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Liberty International i Stockholm växer - travelnews.se
+- How Sudan’s collapse exposes America’s fading global power - Poddtoppen
 - Den hetaste nya trenden inom global utbildning - The Portugal News
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
 
@@ -57,15 +57,15 @@ _Updated: 2025-08-25 11:43_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
-- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- 4 ETF:er som satsar på AI - Morningstar
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
@@ -73,26 +73,26 @@ _Updated: 2025-08-25 11:43_
 
 ## Business
 
-- Valour Rings the Bell at SIX Swiss Exchange to Mark Inaugural Listings of HBAR and ICP Staking ETPs - Placera.se
 - Publication of the 2024 annual financial statements - Placera.se
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - DeFi Technologies Announces Inaugural Insights Symposium to Be Held in Frankfurt on September 25, 2025 - Placera.se
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Accord Announces Amendment to its Banking Facility - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Accord Announces Second Quarter Financial Results - Placera.se
 - BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
 - REPAY Appoints New Chief Financial Officer - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
+- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
 
 ## Health
 
@@ -121,24 +121,24 @@ _Updated: 2025-08-25 11:43_
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
