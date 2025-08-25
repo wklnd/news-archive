@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-25 21:38_
+_Updated: 2025-08-25 22:42_
 
 ## Top Stories
 
-- SJ – Jonas Abrahamsson ny VD och Fredrik Henriksson ny Kommunikationsdirektör - Turismnytt
-- Mjällby rycker i allsvenska toppen - Aftonbladet
-- Sveriges Radios medarbetare skadad i attacken: ”Upprörande och oacceptabelt” - DN
+- SJ:s ordförande pudlar efter ålderism-kritiken - Aftonbladet
+- Skarp kritik efter attack på journalister i Gaza - GP
 - Förlorar Vänsterpartiet på att ledamöterna lämnar? - Dagens Arena
-- V KU-anmäler Kristersson efter pärmincident - Västerbottens-Kuriren
-- Ledare: Gazakriget kommer inte att avgöra riksdagsvalet - NT
-- Ministerns krav: FHM ska lära av grannländerna - SVT Nyheter
-- Två personer skjutna till döds i bil i Järfälla - GP
-- Polischefen om dödliga helgen i Stockholm: ”Fortsatt hög våldsnivå” - DN
-- Man i 90-årsåldern misstänkt förgiftad av närstående – polis utreder mordförsök - NWT
+- Två mordförsök på kort tid skakar Götene: ”Ofattbart och skrämmande” - NLT
 - Frankrikes tid som Västafrikas polis är över – efter 150 år - DN
+- MISSTANKEN: Man i 90-årsåldern förgiftad av närstående – polis utreder mordförsök - NWT
+- Uppgifter: Mördad i Kallhäll tidigare misstänkt för uppmärksammat mord - SVT Nyheter
+- Svenska regeringens Natopärm hittades av städare på Arlanda - Hufvudstadsbladet
+- Ministerns krav: FHM ska lära av grannländerna - SVT Nyheter
+- Avspärrningar hävda efter explosion - Nerikes Allehanda
 - Israels armé skövlar olivträd som medveten strategi - DN
+- SR-medarbetare skadad i sjukhusattack – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Massevakuering när tyfonen Kajiki når Vietnam - Västerbottens-Kuriren
-- DN Direkt - Norska medier: Mordmisstänkt planerade moskédåd - DN.se - DN
+- Frankrikes premiärminister kallar till förtroendeomröstning - DN
 - FMV säljer Gripen E/F till Thailand - FMV
-- Lågprisbutikens närvaro pressar matpriserna - Aftonbladet
 - Syrien ska ta bort nollor från valutan - SvD
 - Uppgifter: Aktiepriset Klarna siktar på vid notering - EFN
+- Lågprisbutikens närvaro pressar matpriserna - Aftonbladet
 - Galaxy Tab S10 Lite – en prisvärd surfplatta för vardagsbehoven - Mynewsdesk
-- Vi har kört tio mil på Mars: Se hur fordonen ser ut - Illustrerad Vetenskap
+- Pokémon Go får största uppdateringen på fem år - mobil.se
 
 ## World News
 
@@ -56,16 +56,16 @@ _Updated: 2025-08-25 21:38_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - EY.ai | EY - Sverige - EY
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 4 ETF:er som satsar på AI - Morningstar
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
@@ -96,11 +96,11 @@ _Updated: 2025-08-25 21:38_
 
 ## Health
 
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
@@ -110,35 +110,35 @@ _Updated: 2025-08-25 21:38_
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 
 ## Jordbruk
 
