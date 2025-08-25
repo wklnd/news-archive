@@ -1,40 +1,42 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-25 01:39_
+_Updated: 2025-08-25 04:21_
 
 ## Top Stories
 
-- Statsministern sätter ner foten: Regeringen är ”helt enig” om Israel - Omni
+- Två ihjälskjutna i bil i Järfälla - Aftonbladet
 - Riazat och Delgado Varas lämnar – avslöjar Vänsterparti­ets stora problem - Arbetet
+- Fyra kroppar flöt i Seine – hemlös mordmisstänkt - GP
 - Ulf Kristersson frågas ut i Agenda - SVT Nyheter
 - Analys: Putin nöjer sig knappast med Donbas - Omni
-- Zombiespindlar sprider sig över världen – forskarnas förklaring - Aftonbladet
-- Israel har attackerat mål i Jemen – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Superskrällen: Möregårdh slår världsettan i rysare - DN
 - Förare åkte dit i trafikkontroll – här stod polisen - Norran
 - Gotlänningarnas ord om avbrottet: ”Känns väldigt sårbart” - SVT Nyheter
 - Ukrainas självständighetsdag uppmärksammas med flaggning utanför Utrikesdepartementet - Regeringen.se
-- 24 augusti 04.14, Stöld/inbrott, Trollhättan - polisen.se
+- KRÖNIKA: De kriminella lever på att samhället tröttnar - Nerikes Allehanda
 - DN Direkt - Vietnam evakuerar hundratusentals undan tyfon - DN.se - DN
-- Zelenskyj: Vår framtid avgörs endast av oss - Västerbottens-Kuriren
+- Zelenskyj: Vår framtid avgörs endast av oss - GP
 - SJ:s vd Monica Lingegård tvingas gå – får miljonfallskärm - DN
-- DN Direkt - Därför pausar Trump räderna mot papperslösa lantarbetare - DN.se - DN
+- Netanyahus rival föreslår ny regeringskoalition – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Trean gick upp 2,6 miljoner på några timmar - Aftonbladet
 - Debatt: SMR-teknik är konkurrenskraftig och fungerar i praktiken - Tidningen Näringslivet
-- Därför sprids förkylningarna efter semestern - Sydsvenskan
-- Rapport: Rysslands ekonomi nära ruinens brant - Dagens PS
+- Därför sprids förkylningarna efter semestern - SvD
+- Forskare: Nya sopsystemet kommer med risker - Omni
+- Zombiespindlar sprider sig över världen – forskarnas förklaring - Aftonbladet
 - Snake Eater-remaken tränar yngre förmågor inför Metal Gears framtid - FZ.se
-- Sony återupptar försäljningen av Xperia 1 VII - mobil.se
 
 ## World News
 
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
+- Sidus Space Strengthens International Presence with Participation in World Space Business Week in Paris - Placera.se
+- Phuket, Thailand Rises as a Global Residential Haven, Driven by Laguna Phuket and Banyan Group Residences - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - World Athletics introduces gene test for female category - BBC
 - Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
@@ -42,11 +44,9 @@ _Updated: 2025-08-25 01:39_
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Nu riskerar Murdoch att förlora allt - Aftonbladet
-- Portugal: En växande hubb för global teknik - The Portugal News
+- Den hetaste nya trenden inom global utbildning - The Portugal News
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
 
@@ -58,16 +58,16 @@ _Updated: 2025-08-25 01:39_
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
@@ -89,10 +89,10 @@ _Updated: 2025-08-25 01:39_
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Accord Announces Amendment to its Banking Facility - Placera.se
 - Accord Announces Second Quarter Financial Results - Placera.se
-- BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
 - REPAY Appoints New Chief Financial Officer - Placera.se
-- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
+- BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
 
 ## Health
 
@@ -144,21 +144,21 @@ _Updated: 2025-08-25 01:39_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De gick från reko till eko - ST-tidningen
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Tuffa tider väntar för engelskt jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
-- Stora anslag för innovationer i lantbruket - Lantbruksnytt
+- Stor nyhet för matglada katter - Mynewsdesk
+- Tio jordbruksaktier för depån - Placera.se
