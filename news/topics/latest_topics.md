@@ -1,39 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-25 18:48_
+_Updated: 2025-08-25 19:40_
 
 ## Top Stories
 
-- Sveriges Radios medarbetare skadad i attacken mot sjukhus i Gaza - DN
-- Förlorar Vänsterpartiet på att ledamöterna lämnar? - Dagens Arena
-- Ministern efter turbulensen på FHM: ”Det krävs mer” - SVT Nyheter
-- Uppgifter: Mordet kopplas till dåd 2021 - SvD
-- Teorin: Pappan glömde bort var vagnen stod - GP
+- Flera dödade i attack mot sjukhus i Gaza – fem journalister bland offren - DN
+- Arne Larsson: Nooshi Dadgostar är ingen ny Stalin - GP
+- Ett av offren i Kallhäll tidigare misstänkt för uppmärksammat mord - SVT Nyheter
+- Ministerns krav: FHM ska lära av grannländerna - SVT Nyheter
 - Misstänkt förgiftning – äldre man till sjukhus - Aftonbladet
+- Frankrikes tid som Västafrikas polis är över – efter 150 år - DN
 - Svenska regeringens Natopärm hittades av städare på Arlanda - Hufvudstadsbladet
 - Avspärrningar hävda efter explosion - Nerikes Allehanda
-- Förklaringen: Därför blev hela ön strömlös under lördagen - Helagotland
+- Anton med autism har suttit ensam hela sin skoltid – mamman: ”Som om han inte fanns” - SVT Nyheter
 - Misstänkt mord i Ulricehamn – död person hittad i bostad - GP
 - Norska medier: Mordmisstänkt planerade moskédåd - Västerbottens-Kuriren
-- Frankrikes tid som Västafrikas polis är över – efter 150 år - DN
 - Massevakuering när tyfonen Kajiki når Vietnam - GP
 - Sveriges Radios medarbetare skadad i sjukhusattacken – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- DN Direkt - Djokovic tillbaka i spel – inleder med vinst - DN.se - DN
 - SJ – Jonas Abrahamsson ny VD och Fredrik Henriksson ny Kommunikationsdirektör - Turismnytt
 - FMV säljer Gripen E/F till Thailand - FMV
-- Håkan Boström: Göteborg bör slå vakt om sina billiga matbutiker - GP
-- Klarna snart redo för börsen - siktar på värdering på upp till 13,4 miljarder dollar - Breakit - Börsvärlden
+- Lågprisbutikens närvaro pressar matpriserna - Aftonbladet
+- Uppgifter: Aktiepriset Klarna siktar på vid notering - EFN
 - Elon Musks nya ai-bolag Macrohard ska simulera hela Microsoft - Nyteknik
-- Dansk hi-fi till ett överkomligt pris - Ljud & Bild
+- Zombiespindlar sprider sig över världen – forskarnas förklaring - Aftonbladet
 
 ## World News
 
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
-- Riad Beladi i samtal med Alice Ancona, operativ chef för World Trade Center Miami – Fokus på America Food & Beverage Show & Conference – International Supermarket News - International Supermarket News
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
-- World Athletics introduces gene test for female category - BBC
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Phuket, Thailand Rises as a Global Residential Haven, Driven by Laguna Phuket and Banyan Group Residences - Placera.se
+- World Athletics introduces gene test for female category - BBC
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
@@ -41,12 +40,13 @@ _Updated: 2025-08-25 18:48_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Sidus Space Strengthens International Presence with Participation in World Space Business Week in Paris - Placera.se
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
+- 1 426 potential victims identified in global operation against human trafficking - Europol
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- How Sudan’s collapse exposes America’s fading global power - Poddtoppen
-- Phuket, Thailand Rises as a Global Residential Haven, Driven by Laguna Phuket and Banyan Group Residences - Placera.se
-- Den hetaste nya trenden inom global utbildning - The Portugal News
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- Nu riskerar Murdoch att förlora allt - Aftonbladet
+- Portugal: En växande hubb för global teknik - The Portugal News
 
 ## Technology
 
@@ -96,24 +96,24 @@ _Updated: 2025-08-25 18:48_
 
 ## Health
 
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
@@ -136,8 +136,8 @@ _Updated: 2025-08-25 18:48_
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
@@ -149,16 +149,16 @@ _Updated: 2025-08-25 18:48_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
-- Här är världens största jordbruk - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Små jordbruk kan mätta fler - FoodMonitor
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Tuffa tider väntar för engelskt jordbruk - ATL
+- (+) Stor undersökning av jordbruket - Arbetarskydd
