@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-25 23:39_
+_Updated: 2025-08-26 00:41_
 
 ## Top Stories
 
-- Skarp kritik efter attack på journalister i Gaza - GP
-- Ledare: Gazakriget kommer inte att avgöra riksdagsvalet - NT
-- Statsvetare om kvarglömda handlingar: ”Det är pinsamt mot andra länder” - DN
-- El Mayo ångrar knarksmuggling och mord - Folkbladet
-- Larmet: Kvinna attackerad av okänd man i Götene – förd till sjukhus - SVT Nyheter
-- Död man hittad i bostad i Borlänge – utreds som mord - SVT Nyheter
-- Polischef om våldsam helg: Ansträngande läge - Aftonbladet
-- Uppgifter: Mördad i Kallhäll tidigare misstänkt för uppmärksammat mord - SVT Nyheter
+- Flera dödade i attack mot sjukhus i Gaza – fem journalister bland offren - DN
+- Arne Larsson: Nooshi Dadgostar är ingen ny Stalin - GP
 - Ministerns krav: FHM ska lära av grannländerna - SVT Nyheter
+- Två mordförsök på kort tid skakar Götene: ”Ofattbart och skrämmande” - NLT
+- ”Vägtullsgate” skakar Tyskland: ”Minns inte” - SvD
+- Uppgifter: Dubbelmordet motiverades av hämnd - Omni
+- DN Direkt - Elon Musk stämmer Apple och Open AI - DN.se - DN
+- Polischef om våldsam helg: Ansträngande läge - Västerbottens-Kuriren
 - 25 augusti 21.30, Trafikkontroll, Västerbottens län - polisen.se
-- Sydkoreas charmoffensiv bet inte på Trump - Omni
+- Avspärrningar hävda efter explosion - Nerikes Allehanda
 - Israels armé skövlar olivträd som medveten strategi - DN
-- Frankrikes tid som Västafrikas polis är över – efter 150 år - DN
 - Atarodi om israelisk utredning: Kan inte förvänta oss mycket – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Sydkoreas charmoffensiv bet inte på Trump - Omni
+- Frankrikes tid som Västafrikas polis är över – efter 150 år - DN
 - SJ – Jonas Abrahamsson ny VD och Fredrik Henriksson ny Kommunikationsdirektör - Turismnytt
 - FMV säljer Gripen E/F till Thailand - FMV
 - Syrien ska ta bort nollor från valutan - SvD
-- Uppgifter: Aktiepriset Klarna siktar på vid notering - EFN
+- Inför noteringen – går inte att handla aktier i Klarna - EFN
 - Galaxy Tab S10 Lite – en prisvärd surfplatta för vardagsbehoven - Mynewsdesk
 - Pokémon Go får största uppdateringen på fem år - mobil.se
 
@@ -33,42 +33,42 @@ _Updated: 2025-08-25 23:39_
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - World Athletics introduces gene test for female category - BBC
+- Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Sidus Space Strengthens International Presence with Participation in World Space Business Week in Paris - Placera.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Liberty International i Stockholm växer - travelnews.se
 - Phuket, Thailand Rises as a Global Residential Haven, Driven by Laguna Phuket and Banyan Group Residences - Placera.se
-- Den hetaste nya trenden inom global utbildning - The Portugal News
 - TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
 
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 4 ETF:er som satsar på AI - Morningstar
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
@@ -122,10 +122,10 @@ _Updated: 2025-08-25 23:39_
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
@@ -136,9 +136,9 @@ _Updated: 2025-08-25 23:39_
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
