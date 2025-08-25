@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-25 10:50_
+_Updated: 2025-08-25 11:43_
 
 ## Top Stories
 
-- SJ rekryterar ny vd från Swedavia - Dagens industri
-- Regeringens Natopärm hittades av städare på Arlanda - DN
-- En gripen efter dubbelmord i natt - SVT Nyheter
-- En person död i Ulricehamn – mord utreds - Aftonbladet
+- Två personer skjutna till döds i bil i Järfälla - DN
+- Svenska regeringens Natopärm hittades av städare på Arlanda - Hufvudstadsbladet
+- Israelisk sjukhusattack – journalister dödade - GP
+- Misstänkt mord i Ulricehamn – en gripen - SVT Nyheter
 - Kristersson tappar kraftigt i förtroende - Affärsvärlden
 - Christina, 44, fick akut snitt – rädslan släppte inte - Sydsvenskan
 - Explosion vid bostadshus i Örebro - Västerbottens-Kuriren
 - Kajsa Dovstad: Har läkare ingen plats i ledningen för svensk sjukvård? - GP
 - Ovanlig viltolycka utanför Umeå – djuret skickas till Riksmuseet - Norran
-- Frihamnsdagarna startar på torsdag – tre dagar om demokrati och hållbarhet - NewsMachine AB
-- DN Direkt - Lastbil rammade traktorflak – pilgrimer döda - DN.se - DN
+- Ytterligare en björn sköts under årets jakt – här sköts de: ”Smidigt” - NWT
+- Rymda ungdomar gripna av polis – planerade dåd - Ystads Allehanda
+- Bolsjojbalettens ballerinor får spionprogram i sina mobiler - DN
 - ”Cherson biter ihop under ryskt våld” - Västerbottens-Kuriren
-- Kristersson (M): ”Målar upp en felaktig bild” – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Fyra kroppar flöt i Seine – hemlös mordmisstänkt - GP
-- Lågprisbutikens närvaro pressar matpriserna - DN
-- Bostadsbyggandet tar fart igen - Tidningen Näringslivet
+- Lastbil rammade traktorflak – pilgrimer döda - GP
+- Jonas Abrahamsson lämnar Swedavia för nytt uppdrag - Cision News
+- Lågprisbutikens närvaro pressar matpriserna - Tidningen Näringslivet
+- Fastighetsjätten slängs ut från börsen - Dagens PS
 - Svensk Handels skarpa kritik mot Temu: "Bryter regler rakt framför våra ögon" - Affärsvärlden
-- USA blir delägare i Intel – investerar 8,9 miljarder dollar - Evertiq
 - Zombiespindlar sprider sig över världen – forskarnas förklaring - Aftonbladet
 - Hasselblad släpper teaser om kommande kamera och objektiv - Kamera & Bild
 
@@ -35,18 +35,18 @@ _Updated: 2025-08-25 10:50_
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - World Athletics introduces gene test for female category - BBC
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
+- How RFK Jr is eroding global trust in vaccines - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- Liberty International i Stockholm växer - travelnews.se
 - Den hetaste nya trenden inom global utbildning - The Portugal News
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
 
@@ -109,36 +109,36 @@ _Updated: 2025-08-25 10:50_
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
@@ -151,9 +151,10 @@ _Updated: 2025-08-25 10:50_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
@@ -161,4 +162,3 @@ _Updated: 2025-08-25 10:50_
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
