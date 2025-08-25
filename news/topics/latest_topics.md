@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-25 04:21_
+_Updated: 2025-08-25 05:34_
 
 ## Top Stories
 
 - Två ihjälskjutna i bil i Järfälla - Aftonbladet
 - Riazat och Delgado Varas lämnar – avslöjar Vänsterparti­ets stora problem - Arbetet
-- Fyra kroppar flöt i Seine – hemlös mordmisstänkt - GP
-- Ulf Kristersson frågas ut i Agenda - SVT Nyheter
-- Analys: Putin nöjer sig knappast med Donbas - Omni
-- Superskrällen: Möregårdh slår världsettan i rysare - DN
+- Kajsa Dovstad: Har läkare ingen plats i ledningen för svensk sjukvård? - GP
+- Alex Voronov I Ukraina kommer ingen undan krigsdöden - Hallands Nyheter
+- LEDARE: Gör inte kulturkrig av kyrkovalet - Smålandsposten
+- Fyra kroppar flöt i Seine – hemlös mordmisstänkt - Västerbottens-Kuriren
 - Förare åkte dit i trafikkontroll – här stod polisen - Norran
-- Gotlänningarnas ord om avbrottet: ”Känns väldigt sårbart” - SVT Nyheter
-- Ukrainas självständighetsdag uppmärksammas med flaggning utanför Utrikesdepartementet - Regeringen.se
 - KRÖNIKA: De kriminella lever på att samhället tröttnar - Nerikes Allehanda
+- Ukrainas självständighetsdag uppmärksammas med flaggning utanför Utrikesdepartementet - Regeringen.se
+- Gotlänningarnas ord om avbrottet: ”Känns väldigt sårbart” - SVT Nyheter
 - DN Direkt - Vietnam evakuerar hundratusentals undan tyfon - DN.se - DN
-- Zelenskyj: Vår framtid avgörs endast av oss - GP
-- SJ:s vd Monica Lingegård tvingas gå – får miljonfallskärm - DN
+- Kristerssons irritation i SVT: ”Du fiskar” - HD
 - Netanyahus rival föreslår ny regeringskoalition – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- SJ:s vd Monica Lingegård tvingas gå – får miljonfallskärm - DN
 - Trean gick upp 2,6 miljoner på några timmar - Aftonbladet
 - Debatt: SMR-teknik är konkurrenskraftig och fungerar i praktiken - Tidningen Näringslivet
 - Därför sprids förkylningarna efter semestern - SvD
@@ -33,19 +33,19 @@ _Updated: 2025-08-25 04:21_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - World Athletics introduces gene test for female category - BBC
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Den hetaste nya trenden inom global utbildning - The Portugal News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Lars Henrikson – ny global chef för Mölndals-baserade DENTSPLY Implants - Dental Tribune US
+- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
@@ -89,10 +89,10 @@ _Updated: 2025-08-25 04:21_
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Accord Announces Amendment to its Banking Facility - Placera.se
 - Accord Announces Second Quarter Financial Results - Placera.se
-- REPAY Appoints New Chief Financial Officer - Placera.se
 - BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
+- REPAY Appoints New Chief Financial Officer - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- The INX Digital Company Reports Q2 2025 Financial Results - Placera.se
+- Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
 
 ## Health
 
@@ -103,6 +103,7 @@ _Updated: 2025-08-25 04:21_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
@@ -115,30 +116,29 @@ _Updated: 2025-08-25 04:21_
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - 5 myter om öppen vetenskap - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Simple math behind major bison blunder - Forskning & Framsteg
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
 
 ## Jordbruk
 
