@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-25 15:47_
+_Updated: 2025-08-25 16:44_
 
 ## Top Stories
 
 - Flera dödade i attack mot sjukhus i Gaza – fem journalister bland offren - DN
-- Larmet: Kvinna attackerad av okänd man i Götene – förd till sjukhus - SVT Nyheter
-- Kajsa Dovstad: Har läkare ingen plats i ledningen för svensk sjukvård? - GP
-- Misstänkt förgiftning – äldre man till sjukhus - Aftonbladet
-- Det hände med försvunna bebisen: Pappan gick fel - TTELA
-- Kriminella utnyttjar barn som rekryterare av andra barn - Polisen.se
-- Regeringens Natopärm hittades av städare på Arlanda - DN
-- Skjutna till döds i bil i Järfälla - SVT Nyheter
-- 24 augusti 04.14, Stöld/inbrott, Trollhättan - Polisen.se
-- 25 augusti 12.34, Trafikkontroll, Västerbottens län - Polisen.se
-- Massevakuering när tyfonen Kajiki når Vietnam - GP
-- DN Direkt - Norska medier: Mordmisstänkt planerade moskédåd - DN.se - DN
-- Bolsjojbalettens ballerinor får spionprogram i sina mobiler - DN
-- Lastbil rammade traktorflak – pilgrimer döda - Västerbottens-Kuriren
+- Ministern efter turbulensen på FHM: ”Det krävs mer” - SVT Nyheter
+- Man i 90-årsåldern misstänkt förgiftad av närstående – polis utreder mordförsök - NWT
+- V KU-anmäler Kristersson efter pärmincident - Västerbottens-Kuriren
+- Kvinna knivhuggen i magen i Götene - Omni
+- Falluckorna har effekt – men fordon har kört i 99 km/h - Smålandsposten
+- 25 augusti 00.19, Skottlossning, Järfälla - Polisen.se
+- Våg av inbrott i husbilar – borrar sig in när ägarna sover - GP
+- Avspärrningar hävda efter explosion - Nerikes Allehanda
+- Konkurs pressar vården i skärgårdskommunen - DN
+- Massevakuering när tyfonen Kajiki når Vietnam - Västerbottens-Kuriren
+- Lastbil rammade traktorflak – pilgrimer döda - GP
+- ”Non-stop explosioner” nära Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- ”Cherson biter ihop under ryskt våld” - Västerbottens-Kuriren
+- SJ – Jonas Abrahamsson ny VD och Fredrik Henriksson ny Kommunikationsdirektör - Turismnytt
 - Storaffär: Thailand köper Jas 39 Gripen - Aftonbladet
-- Jonas Abrahamsson lämnar Swedavia för nytt uppdrag - Cision News
 - Lågprisbutikens närvaro pressar matpriserna - Tidningen Näringslivet
-- Ny smocka för Köpenhamnsbörsen: ”Tuff tid för danska aktieägare” - Dagens industri
+- Uppgifter: Klarna söker värdering på 120 miljarder - Dagens industri
 - Elon Musks nya ai-bolag Macrohard ska simulera hela Microsoft - Nyteknik
-- Uppgifter: Apple kan vända sig till Google för att förbättra Siri - Computer Sweden
+- Zombiespindlar sprider sig över världen – forskarnas förklaring - Aftonbladet
 
 ## World News
 
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
-- Sidus Space Strengthens International Presence with Participation in World Space Business Week in Paris - Placera.se
-- Phuket, Thailand Rises as a Global Residential Haven, Driven by Laguna Phuket and Banyan Group Residences - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Riad Beladi i samtal med Alice Ancona, operativ chef för World Trade Center Miami – Fokus på America Food & Beverage Show & Conference – International Supermarket News - International Supermarket News
+- Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - World Athletics introduces gene test for female category - BBC
-- Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
-- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Sidus Space Strengthens International Presence with Participation in World Space Business Week in Paris - Placera.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- How Sudan’s collapse exposes America’s fading global power - Poddtoppen
+- Phuket, Thailand Rises as a Global Residential Haven, Driven by Laguna Phuket and Banyan Group Residences - Placera.se
 - Den hetaste nya trenden inom global utbildning - The Portugal News
-- Portugal: En växande hubb för global teknik - The Portugal News
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
 
@@ -89,8 +89,8 @@ _Updated: 2025-08-25 15:47_
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Accord Announces Amendment to its Banking Facility - Placera.se
 - Accord Announces Second Quarter Financial Results - Placera.se
-- REPAY Appoints New Chief Financial Officer - Placera.se
 - BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
+- REPAY Appoints New Chief Financial Officer - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
 
@@ -121,44 +121,44 @@ _Updated: 2025-08-25 15:47_
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - 5 myter om öppen vetenskap - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Tuffa tider väntar för engelskt jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Stor nyhet för matglada katter - Mynewsdesk
+- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
