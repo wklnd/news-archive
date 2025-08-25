@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-25 16:44_
+_Updated: 2025-08-25 17:43_
 
 ## Top Stories
 
 - Flera dödade i attack mot sjukhus i Gaza – fem journalister bland offren - DN
+- Uppgifter: Mördad i Kallhäll tidigare misstänkt för uppmärksammat mord - SVT Nyheter
+- 90-åring misstänkt förgiftad av närstående - SVT Nyheter
+- JUST NU: Kvinna knivhuggen – polisen söker gärningsman: ”Attackerade plötsligt” - NLT
+- Birgitta Rubin: Dags för helande av jord och hjärtan i Kiruna - DN
 - Ministern efter turbulensen på FHM: ”Det krävs mer” - SVT Nyheter
-- Man i 90-årsåldern misstänkt förgiftad av närstående – polis utreder mordförsök - NWT
-- V KU-anmäler Kristersson efter pärmincident - Västerbottens-Kuriren
-- Kvinna knivhuggen i magen i Götene - Omni
-- Falluckorna har effekt – men fordon har kört i 99 km/h - Smålandsposten
-- 25 augusti 00.19, Skottlossning, Järfälla - Polisen.se
-- Våg av inbrott i husbilar – borrar sig in när ägarna sover - GP
+- Svenska regeringens Natopärm hittades av städare på Arlanda - Hufvudstadsbladet
+- FHM får en månad på sig – efter Gissléns hårda kritik - GP
 - Avspärrningar hävda efter explosion - Nerikes Allehanda
-- Konkurs pressar vården i skärgårdskommunen - DN
+- Flera inbrott i husbilar – polisen ser mönster - SVT Nyheter
+- Sveriges Radios medarbetare skadad i sjukhusattacken – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Massevakuering när tyfonen Kajiki når Vietnam - Västerbottens-Kuriren
-- Lastbil rammade traktorflak – pilgrimer döda - GP
-- ”Non-stop explosioner” nära Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- ”Cherson biter ihop under ryskt våld” - Västerbottens-Kuriren
+- Ukraina slår mot ryska mål på självständighetsdagen - DN
+- Stubb: Tror inte på Putin–Zelenskyj-möte - GP
 - SJ – Jonas Abrahamsson ny VD och Fredrik Henriksson ny Kommunikationsdirektör - Turismnytt
 - Storaffär: Thailand köper Jas 39 Gripen - Aftonbladet
-- Lågprisbutikens närvaro pressar matpriserna - Tidningen Näringslivet
-- Uppgifter: Klarna söker värdering på 120 miljarder - Dagens industri
+- Håkan Boström: Göteborg bör slå vakt om sina billiga matbutiker - GP
+- Klarna snart redo för börsen - siktar på värdering på upp till 13,4 miljarder dollar - Breakit - Börsvärlden
 - Elon Musks nya ai-bolag Macrohard ska simulera hela Microsoft - Nyteknik
 - Zombiespindlar sprider sig över världen – forskarnas förklaring - Aftonbladet
 
@@ -51,22 +51,22 @@ _Updated: 2025-08-25 16:44_
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
-- ZenaTech Signs Agreements to Acquire Two Florida Companies, Expanding Drone as a Service Footprint into Aviation, Defense, and Power Washing - Placera.se
+- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
-- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
-- Lantern Pharma Announces Public Release of Transformative, Advanced AI Module for Blood-Brain Barrier Permeability Prediction, predictBBB.ai - Placera.se
+- 4 ETF:er som satsar på AI - Morningstar
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
@@ -121,44 +121,44 @@ _Updated: 2025-08-25 16:44_
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
