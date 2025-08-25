@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-25 17:49_
+_Updated: 2025-08-25 18:54_
 
-- Trump Administration Live Updates: Kilmar Abrego Garcia Is Arrested and Will Be Re-Deported, Noem Says - The New York Times
-- Trump to sign executive orders aimed at ending cashless bail in D.C. and across the nation - NBC News
-- Governor JB Pritzker to speak Monday on President Donald Trump's plans for possible Chicago National Guard deployment - ABC7 Chicago
-- AP freelancer among 4 journalists killed in Israeli strikes on Gaza hospital, health officials say - AP News
+- Live updates: Kilmar Abrego Garcia is detained by ICE and facing possible deportation to Uganda - AP News
+- Four Journalists Among Those Killed in Israeli Strikes on Gaza Hospital, Officials Say - The New York Times
+- President Trump eyes another Democrat-led city for federal crime crackdown and more top headlines - Fox News
 - FEMA staff warn Trump officials’ actions risk a Katrina-level disaster - The Washington Post
-- Trump targets Christie with suggestion to reopen ‘Bridgegate‘ investigation - Politico
 - First human case of flesh-eating screwworm parasite detected in the U.S. - NBC News
+- France summons US Ambassador Kushner over 'unacceptable' letter about rising antisemitism - ABC News
+- National Guard members now carrying weapons in D.C. - The Washington Post
 - Philly lawyer George Bochetto hired to sue SEPTA to stop service cuts - Inquirer.com
-- Florida Cops Turn Traffic Stops Into Deportations - The Wall Street Journal
-- For their walkout, Texas Democrats get national attention — and partisan retribution at home - The Texas Tribune
-- France summons U.S. Ambassador Kushner over antisemitism letter - NBC News
+- Trump blasts South Korea hours before summit with new President Lee - Reuters
+- Grassley defends ‘blue slips’ amid latest Trump criticism - Politico
 - At Least One Dead as Typhoon Kajiki Slams Vietnam - The New York Times
+- Police apologize at grave of Japanese businessman who was wrongfully arrested and died after long detention - CBS News
 - U.K. migrant protests spark angry confrontations as government scrambles to respond - NPR
-- Australia mushroom poisonings sole survivor tells court he only feels "half-alive" - CBS News
-- Intel, Keurig Dr Pepper, Wayfair, Strategy, NIO, PDD, Nvidia, and More Movers - Barron's
+- Australia: Poisoning survivor 'half alive' without wife - DW
+- Intel, Keurig Dr Pepper, Wayfair, Strategy, Nvidia, Vital Energy, and More Movers - Barron's
 - Orsted Stock Plummets to Record Low After Trump Halts U.S. Wind Farm - The New York Times
-- S&P 500 slips to start week, Intel and Nvidia lend support to Nasdaq: Live updates - CNBC
-- Evergrande: China’s property giant delisted from Hong Kong stock exchange - The Guardian
+- Dow Jones Today: S&P 500, Dow Slip After Friday's Big Stock Market Rally; Nvidia Earnings in Focus This Week - Investopedia
+- Jay Powell’s risk-averse stance at Jackson Hole missed an opportunity - Financial Times
 - Deals: the Google Pixel 10 series, Watch 4 and Buds 2a are now on pre-order - GSMArena.com news - GSMArena.com
-- iPhone 17 Pro might gain unique new battery advantage, per rumor - 9to5Mac
+- Rumor: Apple testing iPhone 4-like case for iPhone 17 Air - 9to5Mac
