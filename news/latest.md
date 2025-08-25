@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-25 13:48_
+_Updated: 2025-08-25 15:18_
 
-- More than a dozen people killed in Israeli strikes on hospital in southern Gaza, including journalists - CNN
+- Kilmar Abrego Garcia taken into ICE custody at appointment - NBC News
+- Four journalists among 15 killed in Israeli strike on hospital in Gaza, say health officials - The Guardian
+- Governor JB Pritzker to speak Monday on President Donald Trump's plans for possible Chicago National Guard deployment - ABC7 Chicago
 - National Guard Patrols Begin to Carry Weapons in D.C. - The New York Times
-- Chicago leaders denounce Pentagon plans for military deployment in city - The Washington Post
-- Fifteen killed in alleged Israeli Air Force air strike - The Jerusalem Post
-- Kilmar Abrego Garcia expects to be detained by ICE again, attorney says - NPR
-- France summons US Ambassador Kushner over 'unacceptable' letter about rising antisemitism - ABC News
-- South Korea's Lee faces pivotal test at first summit with Trump - Reuters
-- $2.4B of Harvard’s canceled research grants, visualized - CNN
-- First human case of flesh-eating screwworm parasite detected in the U.S. - NBC News
-- As measles surged in Texas, Trump administration's actions hampered CDC's response - CBS News
-- Australia: Poisoning survivor 'half alive' without wife - DW
-- Vietnam plans mass evacuation, China's Sanya shuts as Typhoon Kajiki intensifies - CNBC
-- U.K. migrant protests spark angry confrontations as government scrambles to respond - NPR
+- Israel strikes Nasser Hospital, killing journalist - The Jerusalem Post
+- Trump Threatens to Investigate Chris Christie Over ‘Bridgegate’ - The New York Times
+- Scoop: Trump plans order to end "cashless bail" in D.C. - Axios
+- Trump threatens to send National Guard troops to Baltimore; D.C. troops now armed - The Washington Post
+- US fighters intercept Russian aircraft off Alaska for third time in a week - ABC News
+- Philadelphia Transit Cuts Take Hold, and Commuters Begin to Feel the Pain - The New York Times
+- France summons U.S. Ambassador Kushner over antisemitism letter - NBC News
+- Vietnam: 500,000 to be evacuated as Typhoon Kajiki nears - DW
 - E1 Settlement in West Bank Tied to Greater Israel Goal - The New York Times
+- Climber dies trying to rescue injured Russian woman from Kyrgystan's highest mountain; search halted - CBS News
 - Keurig Dr Pepper to Acquire Peet’s in $18 Billion Deal - The New York Times
-- Jay Powell’s risk-averse stance at Jackson Hole missed an opportunity - Financial Times
 - Stock futures slip after Dow's record close, traders await Nvidia earnings this week: Live updates - CNBC
-- Orsted shares tumble 17% to record low, as U.S. government halts wind project construction - CNBC
-- Apple Plans 3-Year iPhone Revamp - PYMNTS.com
-- Galaxy S26 Ultra rumored to shed even more of Note DNA - PhoneArena
+- Jay Powell’s risk-averse stance at Jackson Hole missed an opportunity - Financial Times
+- Nvidia gets a price target increase from Stifel ahead of earnings this week - CNBC
+- Two All-New iPhone 17 Colors Seemingly Confirmed - MacRumors
+- Deals: the Google Pixel 10 series, Watch 4 and Buds 2a are now on pre-order - GSMArena.com news - GSMArena.com
