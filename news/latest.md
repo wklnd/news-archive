@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-25 16:51_
+_Updated: 2025-08-25 17:49_
 
-- Kilmar Abrego Garcia detained by ICE during Baltimore check-in - NPR
+- Trump Administration Live Updates: Kilmar Abrego Garcia Is Arrested and Will Be Re-Deported, Noem Says - The New York Times
+- Trump to sign executive orders aimed at ending cashless bail in D.C. and across the nation - NBC News
 - Governor JB Pritzker to speak Monday on President Donald Trump's plans for possible Chicago National Guard deployment - ABC7 Chicago
-- Journalists killed in Israeli strike on Gaza's Nasser hospital - NBC News
-- National Guard members now carrying weapons in D.C. - The Washington Post
-- Scoop: Trump plans order to end "cashless bail" in D.C. - Axios
-- Trump Threatens to Investigate Chris Christie Over ‘Bridgegate’ - The New York Times
+- AP freelancer among 4 journalists killed in Israeli strikes on Gaza hospital, health officials say - AP News
+- FEMA staff warn Trump officials’ actions risk a Katrina-level disaster - The Washington Post
+- Trump targets Christie with suggestion to reopen ‘Bridgegate‘ investigation - Politico
 - First human case of flesh-eating screwworm parasite detected in the U.S. - NBC News
-- Philadelphia Transit Cuts Take Hold, and Commuters Begin to Feel the Pain - The New York Times
+- Philly lawyer George Bochetto hired to sue SEPTA to stop service cuts - Inquirer.com
 - Florida Cops Turn Traffic Stops Into Deportations - The Wall Street Journal
-- $2.4B of Harvard’s canceled research grants, visualized - CNN
+- For their walkout, Texas Democrats get national attention — and partisan retribution at home - The Texas Tribune
 - France summons U.S. Ambassador Kushner over antisemitism letter - NBC News
 - At Least One Dead as Typhoon Kajiki Slams Vietnam - The New York Times
-- European, Asian shippers cut U.S. off as tariff deadline nears - Axios
 - U.K. migrant protests spark angry confrontations as government scrambles to respond - NPR
-- Keurig Dr Pepper to Acquire Peet’s in $18 Billion Deal - The New York Times
-- Stock Market Today: Dow Falls Ahead Of Nvidia Earnings, Inflation Data; Palantir Sells Off (Live Coverage) - Investor's Business Daily
+- Australia mushroom poisonings sole survivor tells court he only feels "half-alive" - CBS News
+- Intel, Keurig Dr Pepper, Wayfair, Strategy, NIO, PDD, Nvidia, and More Movers - Barron's
+- Orsted Stock Plummets to Record Low After Trump Halts U.S. Wind Farm - The New York Times
+- S&P 500 slips to start week, Intel and Nvidia lend support to Nasdaq: Live updates - CNBC
 - Evergrande: China’s property giant delisted from Hong Kong stock exchange - The Guardian
-- World shares are mixed after Fed chair Powell hints at rate cuts - AP News
-- Apple's 'Liquid Silicone' iPhone 17 Case Colors Allegedly Revealed - MacRumors
 - Deals: the Google Pixel 10 series, Watch 4 and Buds 2a are now on pre-order - GSMArena.com news - GSMArena.com
+- iPhone 17 Pro might gain unique new battery advantage, per rumor - 9to5Mac
