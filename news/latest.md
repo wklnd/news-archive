@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-25 19:48_
+_Updated: 2025-08-25 20:54_
 
-- Kilmar Abrego Garcia detained at ICE office in Maryland - ABC News
+- Kilmar Abrego Garcia taken into ICE custody, facing deportation to Uganda - CBS News
+- AP freelancer among 5 journalists killed in Israeli strikes on Gaza hospital, health officials say - AP News
+- Trump questions whether U.S. can 'do business' in South Korea ahead of president's visit - CNBC
 - President Trump eyes another Democrat-led city for federal crime crackdown and more top headlines - Fox News
-- Trump chides South Korea’s Lee before Washington trade talks - Financial Times
-- What’s Next for Ukraine After All That Diplomacy? - The New York Times
-- FEMA staffers accuse Trump of weakening disaster programs - Politico
-- AP freelancer among 4 journalists killed in Israeli strikes on Gaza hospital, health officials say - AP News
-- First human case of flesh-eating screwworm parasite detected in the U.S. - NBC News
-- Philadelphia Transit Cuts Take Hold, and Commuters Begin to Feel the Pain - The New York Times
-- National Guard members now carrying weapons in D.C. - The Washington Post
 - Grassley defends ‘blue slips’ amid latest Trump criticism - Politico
+- FEMA Employees Warn That Trump Is Gutting Disaster Response - The New York Times
+- The U.S. confirms its first human case of New World screwworm. What is it? - NPR
+- Philly lawyer George Bochetto hired to sue SEPTA to stop service cuts - Inquirer.com
+- Mexican drug lord 'El Mayo' enters guilty plea - BBC
+- National Guard members now carrying weapons in D.C. - The Washington Post
 - France summons U.S. Ambassador Kushner over antisemitism letter - NBC News
 - At Least One Dead as Typhoon Kajiki Slams Vietnam - The New York Times
 - Police apologize at grave of Japanese businessman who was wrongfully arrested and died after long detention - CBS News
 - European, Asian shippers cut U.S. off as tariff deadline nears - Axios
-- Intel, Keurig Dr Pepper, Wayfair, Strategy, Nvidia, Vital Energy, and More Movers - Barron's
-- Trump told a major offshore wind project to stop construction just before it reached the finish line - The Verge
+- Dr Pepper will unwind its merger with Keurig after buying Peet's for $18 billion - NPR
 - Elon Musk's xAI sues Apple and OpenAI over AI competition, App Store rankings - Reuters
-- Evergrande: China’s property giant delisted from Hong Kong stock exchange - The Guardian
+- Trump told a major offshore wind project to stop construction just before it reached the finish line - The Verge
+- Stock Market Today: Dow falls over 200 points, S&P 500 edge lower, Nasdaq turns positive; investors await Nvidia results this week - MarketWatch
 - Apple will reportedly bring back Touch ID on a foldable iPhone - Engadget
-- Two All-New iPhone 17 Colors Seemingly Confirmed - MacRumors
+- Deals: the Google Pixel 10 series, Watch 4 and Buds 2a are now on pre-order - GSMArena.com news - GSMArena.com
