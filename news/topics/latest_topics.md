@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-25 09:40_
+_Updated: 2025-08-25 10:50_
 
 ## Top Stories
 
-- Två personer skjutna till döds i bil i Järfälla - DN
-- Regeringens pärm med sekretessbelagda handlingar glömdes på Arlanda - SVT Nyheter
+- SJ rekryterar ny vd från Swedavia - Dagens industri
+- Regeringens Natopärm hittades av städare på Arlanda - DN
+- En gripen efter dubbelmord i natt - SVT Nyheter
 - En person död i Ulricehamn – mord utreds - Aftonbladet
 - Kristersson tappar kraftigt i förtroende - Affärsvärlden
-- Frankrike kallar upp USA:s ambassadör - GP
-- Betala utan kort eller Swish – därför är kontanter livsviktiga i kris - GP
+- Christina, 44, fick akut snitt – rädslan släppte inte - Sydsvenskan
 - Explosion vid bostadshus i Örebro - Västerbottens-Kuriren
-- Ovanlig viltolycka utanför Umeå – djuret skickas till Riksmuseet - Norran
-- Flera förråd uppbrutna i natt - Ekuriren
 - Kajsa Dovstad: Har läkare ingen plats i ledningen för svensk sjukvård? - GP
-- DN Direkt - Regeringens pärm om Natomötet med Turkiet hittades av städare på Arlanda - DN.se - DN
+- Ovanlig viltolycka utanför Umeå – djuret skickas till Riksmuseet - Norran
+- Frihamnsdagarna startar på torsdag – tre dagar om demokrati och hållbarhet - NewsMachine AB
+- DN Direkt - Lastbil rammade traktorflak – pilgrimer döda - DN.se - DN
 - ”Cherson biter ihop under ryskt våld” - Västerbottens-Kuriren
-- Fyra kroppar flöt i Seine – hemlös mordmisstänkt - GP
 - Kristersson (M): ”Målar upp en felaktig bild” – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Fyra kroppar flöt i Seine – hemlös mordmisstänkt - GP
 - Lågprisbutikens närvaro pressar matpriserna - DN
-- Byggandet av flerbostadshus minskar – småhus ökar - Fastighetstidningen
-- SJ:s vd Monica Lingegård tvingas avgå - SVT Nyheter
+- Bostadsbyggandet tar fart igen - Tidningen Näringslivet
 - Svensk Handels skarpa kritik mot Temu: "Bryter regler rakt framför våra ögon" - Affärsvärlden
+- USA blir delägare i Intel – investerar 8,9 miljarder dollar - Evertiq
 - Zombiespindlar sprider sig över världen – forskarnas förklaring - Aftonbladet
-- Jennifer Aniston och Matthew Perry gjorde en sitcom om Windows 95 - Cafe.se
+- Hasselblad släpper teaser om kommande kamera och objektiv - Kamera & Bild
 
 ## World News
 
@@ -35,18 +35,18 @@ _Updated: 2025-08-25 09:40_
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - World Athletics introduces gene test for female category - BBC
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- How RFK Jr is eroding global trust in vaccines - Poddtoppen
 - Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
 - Den hetaste nya trenden inom global utbildning - The Portugal News
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
 
@@ -57,57 +57,56 @@ _Updated: 2025-08-25 09:40_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
-- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
+- Lumentum Expands U.S. Manufacturing for AI-Driven Co-Packaged Optics - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Artmarket.com: Double-digit growth in Q2 2025, Revolutionary Artprice-Perplexity AI rapprochement: The Mixed Subscription for the Second Half of 2025/2026 Will Redefine the Intelligence of the Art Market - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
 
+- Valour Rings the Bell at SIX Swiss Exchange to Mark Inaugural Listings of HBAR and ICP Staking ETPs - Placera.se
 - Publication of the 2024 annual financial statements - Placera.se
-- DeFi Technologies Announces Inaugural Insights Symposium to Be Held in Frankfurt on September 25, 2025 - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
+- DeFi Technologies Announces Inaugural Insights Symposium to Be Held in Frankfurt on September 25, 2025 - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Accord Announces Amendment to its Banking Facility - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Accord Announces Amendment to its Banking Facility - Placera.se
 - Accord Announces Second Quarter Financial Results - Placera.se
 - BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
 - REPAY Appoints New Chief Financial Officer - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
-- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
 
 ## Health
 
-- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
-- Öhman Hälsa och Ny Teknik ökade 3,5 procent i juli - Sedana Medical, Devyser och Camurus bidrog positivt - Placera.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
@@ -115,6 +114,7 @@ _Updated: 2025-08-25 09:40_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
@@ -127,18 +127,18 @@ _Updated: 2025-08-25 09:40_
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
