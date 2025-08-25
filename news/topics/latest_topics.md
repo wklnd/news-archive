@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-25 12:45_
+_Updated: 2025-08-25 13:39_
 
 ## Top Stories
 
 - Regeringens Natopärm hittades av städare på Arlanda - DN
-- En anhållen efter nattens dubbelmord i Kallhäll - SVT Nyheter
+- Thailand köper fyra Gripen-plan - SvD
 - Flera dödade i israelisk attack mot sjukhus i Gaza – journalister bland offren - DN
-- Norska medier: Mordmisstänkt planerade moskédåd - GP
-- Person hittad död i Ulricehamn – misstänkt mord - Omni
+- Misstänkt mord i Ulricehamn – en gripen - SVT Nyheter
 - ”Allt är en röra” – USA:s valbråk på väg till HD - SvD
+- Två skjutna i bil - 8 Sidor
+- Kajsa Dovstad: Har läkare ingen plats i ledningen för svensk sjukvård? - GP
 - Konkurs pressar vården i skärgårdskommunen - DN
 - 24 augusti 04.14, Stöld/inbrott, Trollhättan - polisen.se
-- Explosion vid bostadshus i Örebro - Västerbottens-Kuriren
-- Kajsa Dovstad: Har läkare ingen plats i ledningen för svensk sjukvård? - GP
-- ”Cherson biter ihop under ryskt våld” - Västerbottens-Kuriren
+- Ytterligare en björn sköts under årets jakt – här sköts de: ”Smidigt” - NWT
 - Bolsjojbalettens ballerinor får spionprogram i sina mobiler - DN
-- DN Direkt - Regeringens pärm om Natomötet med Turkiet hittades av städare på Arlanda - DN.se - DN
+- Lastbil rammade traktorflak – pilgrimer döda - Västerbottens-Kuriren
+- ”Cherson biter ihop under ryskt våld” - Västerbottens-Kuriren
 - Minst 15 döda i attack mot sjukhus i Khan Yunis – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Jonas Abrahamsson lämnar Swedavia för nytt uppdrag - Cision News
+- SJ rekryterar ny vd från Swedavia - Dagens industri
 - Lågprisbutikens närvaro pressar matpriserna - Tidningen Näringslivet
-- USA blir delägare i Intel – investerar 8,9 miljarder dollar - Evertiq
-- Fastighetsjätten slängs ut från börsen - Dagens PS
+- Bostadsbyggandet tar fart igen - Aftonbladet
+- Multiconsult: Ett norskt svar på Sweco? - Affärsvärlden
 - Samarbete med rivalen? Apple vill använda Googles AI i Siri - Nyteknik
 - Zombiespindlar sprider sig över världen – forskarnas förklaring - Aftonbladet
 
@@ -73,26 +73,26 @@ _Updated: 2025-08-25 12:45_
 
 ## Business
 
+- Valour Rings the Bell at SIX Swiss Exchange to Mark Inaugural Listings of HBAR and ICP Staking ETPs - Placera.se
 - Publication of the 2024 annual financial statements - Placera.se
-- DeFi Technologies Announces Inaugural Insights Symposium to Be Held in Frankfurt on September 25, 2025 - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
+- DeFi Technologies Announces Inaugural Insights Symposium to Be Held in Frankfurt on September 25, 2025 - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Accord Announces Amendment to its Banking Facility - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Accord Announces Amendment to its Banking Facility - Placera.se
 - Accord Announces Second Quarter Financial Results - Placera.se
-- BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
 - REPAY Appoints New Chief Financial Officer - Placera.se
+- BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
-- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
 
 ## Health
 
@@ -106,39 +106,39 @@ _Updated: 2025-08-25 12:45_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
+- Öhman Hälsa och Ny Teknik ökade 3,5 procent i juli - Sedana Medical, Devyser och Camurus bidrog positivt - Placera.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
 
 ## Jordbruk
 
