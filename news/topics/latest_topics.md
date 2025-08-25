@@ -1,37 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-25 19:40_
+_Updated: 2025-08-25 20:50_
 
 ## Top Stories
 
 - Flera dödade i attack mot sjukhus i Gaza – fem journalister bland offren - DN
-- Arne Larsson: Nooshi Dadgostar är ingen ny Stalin - GP
 - Ett av offren i Kallhäll tidigare misstänkt för uppmärksammat mord - SVT Nyheter
-- Ministerns krav: FHM ska lära av grannländerna - SVT Nyheter
-- Misstänkt förgiftning – äldre man till sjukhus - Aftonbladet
+- Förlorar Vänsterpartiet på att ledamöterna lämnar? - Dagens Arena
+- Ledare: Gazakriget kommer inte att avgöra riksdagsvalet - NT
+- Man i 90-årsåldern misstänkt förgiftad av närstående – polis utreder mordförsök - NWT
 - Frankrikes tid som Västafrikas polis är över – efter 150 år - DN
+- Ministerns krav: FHM ska lära av grannländerna - SVT Nyheter
 - Svenska regeringens Natopärm hittades av städare på Arlanda - Hufvudstadsbladet
+- Polischefen om dödliga helgen i Stockholm: ”Fortsatt hög våldsnivå” - DN
 - Avspärrningar hävda efter explosion - Nerikes Allehanda
-- Anton med autism har suttit ensam hela sin skoltid – mamman: ”Som om han inte fanns” - SVT Nyheter
-- Misstänkt mord i Ulricehamn – död person hittad i bostad - GP
+- Räddningsinsats i Sunne - Expressen
 - Norska medier: Mordmisstänkt planerade moskédåd - Västerbottens-Kuriren
 - Massevakuering när tyfonen Kajiki når Vietnam - GP
 - Sveriges Radios medarbetare skadad i sjukhusattacken – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- DN Direkt - Djokovic tillbaka i spel – inleder med vinst - DN.se - DN
 - SJ – Jonas Abrahamsson ny VD och Fredrik Henriksson ny Kommunikationsdirektör - Turismnytt
 - FMV säljer Gripen E/F till Thailand - FMV
 - Lågprisbutikens närvaro pressar matpriserna - Aftonbladet
-- Uppgifter: Aktiepriset Klarna siktar på vid notering - EFN
+- Syrien ska ta bort nollor från valutan - SvD
 - Elon Musks nya ai-bolag Macrohard ska simulera hela Microsoft - Nyteknik
-- Zombiespindlar sprider sig över världen – forskarnas förklaring - Aftonbladet
+- Vi har kört tio mil på Mars: Se hur fordonen ser ut - Illustrerad Vetenskap
 
 ## World News
 
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Phuket, Thailand Rises as a Global Residential Haven, Driven by Laguna Phuket and Banyan Group Residences - Placera.se
 - World Athletics introduces gene test for female category - BBC
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -41,32 +41,32 @@ _Updated: 2025-08-25 19:40_
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
-- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Sidus Space Strengthens International Presence with Participation in World Space Business Week in Paris - Placera.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Nu riskerar Murdoch att förlora allt - Aftonbladet
+- Liberty International i Stockholm växer - travelnews.se
+- Phuket, Thailand Rises as a Global Residential Haven, Driven by Laguna Phuket and Banyan Group Residences - Placera.se
+- Den hetaste nya trenden inom global utbildning - The Portugal News
 - Portugal: En växande hubb för global teknik - The Portugal News
 
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
-- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - 4 ETF:er som satsar på AI - Morningstar
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Deepseek är det nya Linux - Computer Sweden
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
@@ -103,42 +103,42 @@ _Updated: 2025-08-25 19:40_
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
+- Öhman Hälsa och Ny Teknik ökade 3,5 procent i juli - Sedana Medical, Devyser och Camurus bidrog positivt - Placera.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
@@ -150,6 +150,7 @@ _Updated: 2025-08-25 19:40_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -161,4 +162,3 @@ _Updated: 2025-08-25 19:40_
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- (+) Stor undersökning av jordbruket - Arbetarskydd
