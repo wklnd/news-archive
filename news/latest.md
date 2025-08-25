@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-25 20:54_
+_Updated: 2025-08-25 21:48_
 
-- Kilmar Abrego Garcia taken into ICE custody, facing deportation to Uganda - CBS News
+- Kilmar Abrego Garcia detained at ICE office in Maryland - ABC News
+- Trump orders crackdown on US flag burning, desecration - Reuters
 - AP freelancer among 5 journalists killed in Israeli strikes on Gaza hospital, health officials say - AP News
-- Trump questions whether U.S. can 'do business' in South Korea ahead of president's visit - CNBC
-- President Trump eyes another Democrat-led city for federal crime crackdown and more top headlines - Fox News
-- Grassley defends ‘blue slips’ amid latest Trump criticism - Politico
-- FEMA Employees Warn That Trump Is Gutting Disaster Response - The New York Times
-- The U.S. confirms its first human case of New World screwworm. What is it? - NPR
-- Philly lawyer George Bochetto hired to sue SEPTA to stop service cuts - Inquirer.com
+- Trump touts 'great relationship' with Kim Jong-un as he meets South Korea's president - CNBC
+- Trump says National Guard is at the ready but hedges on Chicago plans - NPR
+- Rare human case of flesh-eating parasite New World screwworm identified in US - CNN
+- Philadelphia's mass transit cuts foreshadow possible similar moves by other agencies across US - AP News
 - Mexican drug lord 'El Mayo' enters guilty plea - BBC
-- National Guard members now carrying weapons in D.C. - The Washington Post
+- FEMA Employees Warn That Trump Is Gutting Disaster Response - The New York Times
+- Here’s how close Hurricane Erin was to being another Sandy - The Washington Post
 - France summons U.S. Ambassador Kushner over antisemitism letter - NBC News
 - At Least One Dead as Typhoon Kajiki Slams Vietnam - The New York Times
 - Police apologize at grave of Japanese businessman who was wrongfully arrested and died after long detention - CBS News
-- European, Asian shippers cut U.S. off as tariff deadline nears - Axios
+- What’s Next for Ukraine After All That Diplomacy? - The New York Times
 - Dr Pepper will unwind its merger with Keurig after buying Peet's for $18 billion - NPR
 - Elon Musk's xAI sues Apple and OpenAI over AI competition, App Store rankings - Reuters
-- Trump told a major offshore wind project to stop construction just before it reached the finish line - The Verge
 - Stock Market Today: Dow falls over 200 points, S&P 500 edge lower, Nasdaq turns positive; investors await Nvidia results this week - MarketWatch
+- Evergrande: China’s property giant delisted from Hong Kong stock exchange - The Guardian
 - Apple will reportedly bring back Touch ID on a foldable iPhone - Engadget
-- Deals: the Google Pixel 10 series, Watch 4 and Buds 2a are now on pre-order - GSMArena.com news - GSMArena.com
+- How chatbot design choices are fueling AI delusions - TechCrunch
