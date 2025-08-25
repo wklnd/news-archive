@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-25 20:50_
+_Updated: 2025-08-25 21:38_
 
 ## Top Stories
 
-- Flera dödade i attack mot sjukhus i Gaza – fem journalister bland offren - DN
-- Ett av offren i Kallhäll tidigare misstänkt för uppmärksammat mord - SVT Nyheter
+- SJ – Jonas Abrahamsson ny VD och Fredrik Henriksson ny Kommunikationsdirektör - Turismnytt
+- Mjällby rycker i allsvenska toppen - Aftonbladet
+- Sveriges Radios medarbetare skadad i attacken: ”Upprörande och oacceptabelt” - DN
 - Förlorar Vänsterpartiet på att ledamöterna lämnar? - Dagens Arena
+- V KU-anmäler Kristersson efter pärmincident - Västerbottens-Kuriren
 - Ledare: Gazakriget kommer inte att avgöra riksdagsvalet - NT
+- Ministerns krav: FHM ska lära av grannländerna - SVT Nyheter
+- Två personer skjutna till döds i bil i Järfälla - GP
+- Polischefen om dödliga helgen i Stockholm: ”Fortsatt hög våldsnivå” - DN
 - Man i 90-årsåldern misstänkt förgiftad av närstående – polis utreder mordförsök - NWT
 - Frankrikes tid som Västafrikas polis är över – efter 150 år - DN
-- Ministerns krav: FHM ska lära av grannländerna - SVT Nyheter
-- Svenska regeringens Natopärm hittades av städare på Arlanda - Hufvudstadsbladet
-- Polischefen om dödliga helgen i Stockholm: ”Fortsatt hög våldsnivå” - DN
-- Avspärrningar hävda efter explosion - Nerikes Allehanda
-- Räddningsinsats i Sunne - Expressen
-- Norska medier: Mordmisstänkt planerade moskédåd - Västerbottens-Kuriren
-- Massevakuering när tyfonen Kajiki når Vietnam - GP
-- Sveriges Radios medarbetare skadad i sjukhusattacken – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- SJ – Jonas Abrahamsson ny VD och Fredrik Henriksson ny Kommunikationsdirektör - Turismnytt
+- Israels armé skövlar olivträd som medveten strategi - DN
+- Massevakuering när tyfonen Kajiki når Vietnam - Västerbottens-Kuriren
+- DN Direkt - Norska medier: Mordmisstänkt planerade moskédåd - DN.se - DN
 - FMV säljer Gripen E/F till Thailand - FMV
 - Lågprisbutikens närvaro pressar matpriserna - Aftonbladet
 - Syrien ska ta bort nollor från valutan - SvD
-- Elon Musks nya ai-bolag Macrohard ska simulera hela Microsoft - Nyteknik
+- Uppgifter: Aktiepriset Klarna siktar på vid notering - EFN
+- Galaxy Tab S10 Lite – en prisvärd surfplatta för vardagsbehoven - Mynewsdesk
 - Vi har kört tio mil på Mars: Se hur fordonen ser ut - Illustrerad Vetenskap
 
 ## World News
@@ -51,24 +51,24 @@ _Updated: 2025-08-25 20:50_
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Redwire Announces Major Release of Acorn 2.0 Software Product, Expanding Its AI-Powered Digital Engineering Tools for Aerospace and Defense Customers - Placera.se
 - EY.ai | EY - Sverige - EY
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 4 ETF:er som satsar på AI - Morningstar
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Deepseek är det nya Linux - Computer Sweden
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
@@ -96,11 +96,11 @@ _Updated: 2025-08-25 20:50_
 
 ## Health
 
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
@@ -150,7 +150,6 @@ _Updated: 2025-08-25 20:50_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -162,3 +161,4 @@ _Updated: 2025-08-25 20:50_
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- (+) Stor undersökning av jordbruket - Arbetarskydd
