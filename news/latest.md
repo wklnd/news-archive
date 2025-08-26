@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-26 11:50_
+_Updated: 2025-08-26 12:52_
 
 - Pritzker responds to Trump’s weight comments: ‘It takes one to know one’ - The Hill
-- Israeli strikes kill 22, including 5 journalists, in a Gaza hospital - NPR
 - Trump orders crackdown on US flag burning and desecration, raising free speech concern - Reuters
-- "Great relationship": Trump at South Korea summit says he wants to meet with Kim Jong-un - Axios
 - The weapons that National Guard troops now carry in Washington, D.C. - NBC News
-- Republicans try again to block California redistricting plan from November ballot - Los Angeles Times
-- Abrego Garcia shielded from deportation as judge questions legal process - Axios
-- 20 years after Hurricane Katrina, a barrier island in Alabama is disappearing - CBS News
+- 'The most illegal search': Judges push back against D.C. criminal charges - NPR
+- Judge rules Utah’s congressional map must be redrawn for the 2026 elections - AP News
 - Colleges across the country deal with shooting hoaxes as classes resume - NBC News
-- Travis Decker search: FBI conducting investigation at campground where 3 daughters were found dead - ABC News
+- Dust storm hits Phoenix area: Look at these wild photos - azcentral.com and The Arizona Republic
+- 20 years after Hurricane Katrina, a barrier island in Alabama is disappearing - CBS News
+- Trump Admin Arrests Kilmar Abrego Garcia Again, Ready to Deport Him to Uganda - Rolling Stone
+- Firefighters union leader launches bid for battleground Pennsylvania House seat - Politico
 - Australia Says Iran Was Behind Antisemitic Arson Attacks on Its Soil - The New York Times
+- 'Our country is in danger': French PM takes confidence vote gamble over budget woes - CNBC
 - US doubles down on support for envoy to France after antisemitism row - The Times of Israel
-- Destructive winds sweep Vietnam, thousands evacuated, as Typhoon Kajiki makes landfall - KSL.com
-- 2 Police Officers Killed in Shooting in Rural Australia - The New York Times
+- Leaders, journalist groups react to Israeli Gaza strike that killed five journalists - Reuters
 - Trump moves to fire Federal Reserve governor Lisa Cook - The Washington Post
-- Powerball estimated jackpot jumps to $815 million, game's 7th biggest, after no winners of $750 million grand prize - CBS News
 - Peet’s Coffee parent company sold for $18 billion to Keurig Dr. Pepper - Los Angeles Times
-- Cracker Barrel says it "could've done a better job" with release of new logo that angered some fans - AP News
+- Elon Musk’s xAI sues Apple and OpenAI, alleging anticompetitive collusion - TechCrunch
+- Powerball estimated jackpot jumps to $815 million, game's 7th biggest, after no winners of $750 million grand prize - CBS News
 - Google will block sideloading of unverified Android apps starting next year - Ars Technica
-- NVIDIA Blackwell Ultra “GB300” GPU, The Fastest AI Chip, Detailed: Dual Reticle GPU With Over 20K Cores, 288 GB HBM3e Memory at 8 TB/s & 50% Faster Than GB200 - Wccftech
+- Google Photos viewer redesign rolls out on Android - 9to5Google
