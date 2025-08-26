@@ -1,45 +1,45 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-26 12:45_
+_Updated: 2025-08-26 13:39_
 
 ## Top Stories
 
 - Åtal väckt för grovt jaktbrott i Strömsunds kommun - Åklagarmyndigheten
-- Ilska efter sjukhusattack: ”Ansvarsutkrävande nu” - GP
+- Jättebeslag av död ål – 300 kilo i en ryssja - SVT Nyheter
+- Hatt: V har ett allvarligt problem - GP
+- Ilskan mot Putin – snart tar vattnet slut - Expressen
 - Trodde att han mördat sin mamma – låg svårt skadad i Majorna - GP
-- DN Direkt - Cyberattack – känslig data kan ha läckt - DN.se - DN
-- Centern kräver skärpta klimatmål - SvD
-- Nu presenterar Vänsternvildarna sitt nya projekt - Sydsvenskan
-- Läkarintyg kan ha läckt ut i cyberattack - SVT Nyheter
-- DN Direkt - Man död efter trafikolycka i Tomelilla - DN.se - DN
-- 15 barn skadas dagligen – elsparkcyklar sticker ut - Västerbottens-Kuriren
-- DN Direkt - Efter DN:s avslöjande: Regeringskansliet ska se över rutiner - DN.se - DN
+- Alexander Stubb bryter tystnaden om sonen Oliver - Aftonbladet
+- Karlstad kommun: Känsliga uppgifter kan ha läckt - SVT Nyheter
+- Man död efter trafikolycka i Tomelilla - GP
+- 15 barn skadas dagligen – elsparkcyklar sticker ut - DN
+- C: ”Sverige måste bli ett klimatföredöme” - Västerbottens-Kuriren
 - Våg av protester i Israel - kräver att gisslan släpps - DN
 - Samkönat sex straffas med piskrapp - Västerbottens-Kuriren
-- Amnesty: Utred Israel för krigsbrott i Libanon - Hufvudstadsbladet
+- Lina Lund: Svensk press på Israel spelar föga roll när EU:s tungviktare bromsar - DN
 - Överfyllda dammar öppnas – tiotusentals evakueras - GP
 - Pensionsgruppen överens: en gas i pensionssystemet ska införas - Regeringen.se
 - Ministern om SJ-ordföranden: Märkligt uttalande - SvD
 - Risk för bakslag när Trump vill styra Fed - Dagens industri
 - Danmarks ekonomi krossar Sveriges: Inga utmaningar - omni.se
 - Röda galaxer ledtråd till universums födelse - Forskning.se
-- Kritisk sårbarhet i containerplattformen Docker - PC för Alla
+- Playstations live service-floppar: "När vi misslyckas är det bättre att göra det tidigt" - FZ.se
 
 ## World News
 
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Malaysia lanserar sin första AI-processorchip i global teknikkapplöpning av Investing.com - Investing.com Sverige
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - BBC fyller 100 år – äldsta public service i världen - omni.se
 - TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
 - World Athletics introduces gene test for female category - BBC
-- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
+- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
@@ -92,16 +92,16 @@ _Updated: 2025-08-26 12:45_
 - REPAY Appoints New Chief Financial Officer - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
+- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
