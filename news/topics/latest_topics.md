@@ -1,6 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-26 04:18_
+_Updated: 2025-08-26 05:29_
 
 ## Top Stories
 
@@ -8,22 +8,22 @@ _Updated: 2025-08-26 04:18_
 - Lisa, 17, ringde 112 i panik – hittades knivmördad - Aftonbladet
 - Hjälparbetaren om livet i Gaza: ”Värsta jag sett” - GP
 - Därför avgick V-topparna - GP
-- Ministerns krav: FHM ska lära av grannländerna - SVT Nyheter
-- DN Direkt - Efter DN:s avslöjande: Regeringskansliet ska se över rutiner - DN.se - DN
+- DEBATT: Erbjud barn till föräldralediga 25 timmar i veckan på förskolan - GP
+- FHM får en månad på sig – efter Gissléns hårda kritik - GP
+- Svenska regeringens Natopärm hittades av städare på Arlanda - Hufvudstadsbladet
+- 3500 kronor är vad en livmoder är värd i pengar - Piteå-Tidningen
 - 25 augusti 21.30, Trafikkontroll, Västerbottens län - polisen.se
-- Trolig gängkoppling i dubbelmordet – en anhållen - GP
-- Avspärrningar hävda efter explosion - Nerikes Allehanda
-- Victor Malms söndagskrönika: Borde vi sprängt kyrkan i Kiruna - Expressen
-- Frankrikes premiärminister kallar till förtroendeomröstning - DN
+- Uppgifter: Mördad i Kallhäll tidigare misstänkt för uppmärksammat mord - SVT Nyheter
+- Fransk misstroendeomröstning i september - Västerbottens-Kuriren
 - Atarodi om israelisk utredning: Kan inte förvänta oss mycket – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Tonåring häktad för mord och terrorbrott i Oslo - Folkbladet
-- Sydkoreas charmoffensiv bet inte på Trump - Omni
+- DIREKT: Brand på kärnanläggning i Ryssland - HD
 - SJ – Jonas Abrahamsson ny VD och Fredrik Henriksson ny Kommunikationsdirektör - Turismnytt
 - FMV säljer Gripen E/F till Thailand - FMV
+- Håkan Boström: Göteborg bör slå vakt om sina billiga matbutiker - GP
 - Ny smocka för Köpenhamnsbörsen: ”Tuff tid för danska aktieägare” - Dagens industri
-- Syrien ska ta bort nollor från valutan - SvD
 - Zombiespindlar sprider sig över världen – forskarnas förklaring - Aftonbladet
-- Pokémon Go får största uppdateringen på fem år - mobil.se
+- Apple iOS 26 förändrar CarPlay rejält – här är de 4 hetaste nya funktionerna - TechRadar
 
 ## World News
 
@@ -37,7 +37,7 @@ _Updated: 2025-08-26 04:18_
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
@@ -86,13 +86,13 @@ _Updated: 2025-08-26 04:18_
 - DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Volta Finance Limited Net Asset Value(s) as at 31 July 2025 - Placera.se
 - Accord Announces Amendment to its Banking Facility - Placera.se
 - Accord Announces Second Quarter Financial Results - Placera.se
 - BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
 - REPAY Appoints New Chief Financial Officer - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 
 ## Health
 
@@ -103,41 +103,41 @@ _Updated: 2025-08-26 04:18_
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 
 ## Science
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
