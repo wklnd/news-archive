@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-26 22:41_
+_Updated: 2025-08-26 23:38_
 
 ## Top Stories
 
 - Brand i flerfamiljshus – förskola evakueras - GP
-- Man i 25-årsåldern död i motorcykelolycka - Aftonbladet
+- DN Direkt - Man i 25-årsåldern död i trafikolycka - DN.se - DN
 - Putins krav skulle bli ödesdigert för Ukraina - DN
 - Tyska draget: kopierar den svenska värnplikten - SvD
-- Demonstranter rasar mot Netanyahus regering - Västerbottens-Kuriren
-- Hennes syster har kallats Vietnams Anne Frank: ”Unga vill bli som henne” - DN
+- Omfattande protester i Israel: ”Avsluta kriget” - SvD
+- ”Stor diskussion i Israel om krigets legitimitet” – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Cyberangrepp drabbar Region Gotland – känsliga personuppgifter kan ha läckt - SVT Nyheter
 - Ung kvinna mördades – maken och svärmodern döms till livstid - DN
-- Stölddrabbad Ica-butik sågar öppna spärrar i t-banan: ”Vi hatar det” - DN
 - Död person hittad bakbunden i Klarälven – polisen utreder mord - NWT
+- Stölddrabbad Ica-butik sågar öppna spärrar i t-banan: ”Vi hatar det” - DN
 - Målning stals av nazisterna – dök upp i mäklarannons - DN
+- Hennes syster har kallats Vietnams Anne Frank: ”Unga vill bli som henne” - DN
 - Sandra Stiskalo: Asylhotellen ökar stödet för Farage - DN
-- Bilderna från rymden visar förödelsen efter bränderna - DN
-- IDF: Sex av de dödade i attacken var terrorister – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Homosexuellt umgänge straffas med piskrapp - Västerbottens-Kuriren
 - Northvolt-anställda ägde aktier som blev värdelösa - Aftonbladet
 - Novo Nordisk föll tungt i Köpenhamn - Dagens industri
-- Nvidias resultat kan avslöja hur handelsspänningarna mellan Kina och USA slår mot teknikbranschen - Invezz
+- Pensionssystemet ska få en ”gas” – kritiseras som otillräckligt - tidningensyre.se
 - Lotta Ilona Häyrynen: SJ:s sparkade matriark får i alla fall en fallskärm - ETC.se
 - Röda galaxer ledtråd till universums födelse - Forskning.se
 - MGS Delta: Snake Eater – högt betygssnitt tightar till FZ High Score - FZ.se
@@ -46,7 +46,7 @@ _Updated: 2025-08-26 22:41_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- How Sudan’s collapse exposes America’s fading global power - Poddtoppen
+- OhioHealth Partners with bioMérieux as Newest Global Antimicrobial Stewardship Center of Excellence - Placera.se
 
 ## Technology
 
@@ -76,23 +76,23 @@ _Updated: 2025-08-26 22:41_
 - Valour Rings the Bell at SIX Swiss Exchange to Mark Inaugural Listings of HBAR and ICP Staking ETPs - Placera.se
 - Publication of the 2024 annual financial statements - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- DeFi Technologies Announces Inaugural Insights Symposium to Be Held in Frankfurt on September 25, 2025 - Placera.se
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
+- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Volta Finance Limited Net Asset Value(s) as at 31 July 2025 - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Accord Announces Second Quarter Financial Results - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
 - REPAY Appoints New Chief Financial Officer - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 
 ## Health
 
@@ -119,46 +119,46 @@ _Updated: 2025-08-26 22:41_
 
 ## Science
 
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- 2025-09-18 Seminarium: Norra Sverige som livsmedelsproducent - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Många lantbruk vill producera egen el - Tidningen Extrakt
-- Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
-- Små jordbruk kan mätta fler - FoodMonitor
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
-- Globalt jordbruk förorenar mer vatten än industrin - Land Lantbruk
