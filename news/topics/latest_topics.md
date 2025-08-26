@@ -1,74 +1,74 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-26 17:41_
+_Updated: 2025-08-26 18:46_
 
 ## Top Stories
 
-- Livstids fängelse för hedersmord på tvåbarnsmamma - SVT Nyheter
 - DN Direkt - Sjukhus i stabsläge efter misstänkt svampförgiftning - DN.se - DN
-- Cyberattack mot datasystem – känsliga uppgifter kan ha läckt - SVT Nyheter
-- Brand i flerfamiljshus i Göteborg – förskola utrymd - SVT Nyheter
+- Brand i flerfamiljshus – förskola evakueras - GP
 - Stölddrabbad Ica-butik sågar öppna spärrar i t-banan: ”Vi hatar det” - DN
-- Polisen i Jämtland varnar för ny typ av bedrägeri – låtsaspoliser plockar upp värdesaker - SVT Nyheter
+- IDF uppger att kamera var målet för sjukhusattack - Omni
+- Läkarintyg kan ha läckt efter cyberattack mot kommuner - DN
+- ”Israels folk vill få slut på den här mardrömmen” - Sydsvenskan
+- Livstids fängelse för hedersmord på tvåbarnsmamma - SVT Nyheter
 - JUST NU: Polisen utreder mord – död person hittad i Klarälven - NWT
-- Gazakriget: Så gick Israels sjukhusattack till - GP
+- KD-politiker bjöd hem Israels ambassadör på fika: ”Verkliga vänskapsband” - ETC.se
 - Sex män åtalas – ska ha skjutit björnhona och unge - DN
-- Man död efter trafikolycka i Tomelilla - Sydsvenskan
-- Våg av protester i Israel - kräver att gisslan släpps - DN
+- Högerextrema tar över när poliser tar värvning i kriget - DN
 - Ukrainsk drönare exploderade över Estland - Västerbottens-Kuriren
 - DN Direkt - Kvinna mördades – maken och svärmodern döms - DN.se - DN
-- Våldsamma israeliska räder på Västbanken – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Carl Johan von Seth: Så fungerar en ”gaspedal” i pensionssystemet - DN
-- SHB ser fortsatt köpläge i Novo Nordisk: ”En gamechanger” - Dagens industri
-- Lotta Ilona Häyrynen: SJ:s sparkade matriark får i alla fall en fallskärm - ETC.se
+- Rubio i samtal med EU-toppar om Ukraina - SVT Nyheter
+- ”Gas” införs i pensionssystemet – mer i pension i goda tider - DN
+- Risk för bakslag när Trump vill styra Fed - Dagens industri
+- Affärsvärlden sätter ett köpråd för Biogaia - Börsvärlden
 - Spotify lanserar Messages – nu kan du chatta om musik i appen - Nyteknik
 - Röda galaxer ledtråd till universums födelse - Forskning.se
-- Boom! – Marshall släpper sin första partyhögtalare - m3.se
+- Hasselblad XCD 35-100 mm f/2,8-4 E – normalzoom för mellanformat - Fotosidan.se
 
 ## World News
 
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Malaysia lanserar sin första AI-processorchip i global teknikkapplöpning av Investing.com - Investing.com Sverige
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
-- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
-- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
+- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - World Athletics introduces gene test for female category - BBC
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- How Sudan’s collapse exposes America’s fading global power - Poddtoppen
 
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- EY.ai | EY - Sverige - EY
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - 4 ETF:er som satsar på AI - Morningstar
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
+- AI-akten - Shaping Europe’s digital future
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
@@ -145,20 +145,20 @@ _Updated: 2025-08-26 17:41_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
