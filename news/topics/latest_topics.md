@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-26 13:39_
+_Updated: 2025-08-26 15:08_
 
 ## Top Stories
 
-- Åtal väckt för grovt jaktbrott i Strömsunds kommun - Åklagarmyndigheten
-- Jättebeslag av död ål – 300 kilo i en ryssja - SVT Nyheter
-- Hatt: V har ett allvarligt problem - GP
-- Ilskan mot Putin – snart tar vattnet slut - Expressen
-- Trodde att han mördat sin mamma – låg svårt skadad i Majorna - GP
-- Alexander Stubb bryter tystnaden om sonen Oliver - Aftonbladet
-- Karlstad kommun: Känsliga uppgifter kan ha läckt - SVT Nyheter
+- Flera familjemedlemmar fälls för hedersmord - Sydsvenskan
+- DN Direkt - Trots fin skörd – vetet ger mindre klirr i kassan - DN.se - DN
+- Reuters och AP: Ansvarsutkrävande nu - Västerbottens-Kuriren
+- Flera kommuner i Jämtlands län drabbade av stor cyberattack - SVT Nyheter
+- Sex jägare åtalas för grovt jaktbrott i Strömsunds kommun - SVT Nyheter
+- Brand i flerfamiljshus – förskola evakueras - GP
 - Man död efter trafikolycka i Tomelilla - GP
 - 15 barn skadas dagligen – elsparkcyklar sticker ut - DN
 - C: ”Sverige måste bli ett klimatföredöme” - Västerbottens-Kuriren
+- Ministerns krav: FHM ska lära av grannländerna - SVT Nyheter
+- DN Direkt - Sjukhus i stabsläge efter misstänkt svampförgiftning - DN.se - DN
 - Våg av protester i Israel - kräver att gisslan släpps - DN
-- Samkönat sex straffas med piskrapp - Västerbottens-Kuriren
+- Ukrainsk drönare exploderade över Estland - Västerbottens-Kuriren
 - Lina Lund: Svensk press på Israel spelar föga roll när EU:s tungviktare bromsar - DN
-- Överfyllda dammar öppnas – tiotusentals evakueras - GP
-- Pensionsgruppen överens: en gas i pensionssystemet ska införas - Regeringen.se
-- Ministern om SJ-ordföranden: Märkligt uttalande - SvD
-- Risk för bakslag när Trump vill styra Fed - Dagens industri
-- Danmarks ekonomi krossar Sveriges: Inga utmaningar - omni.se
+- Carl Johan von Seth: Så fungerar en ”gaspedal” i pensionssystemet - DN
+- Lotta Ilona Häyrynen: SJ:s sparkade matriark får i alla fall en fallskärm - ETC.se
+- SHB ser fortsatt köpläge i Novo Nordisk: ”En gamechanger” - Dagens industri
+- Fejden hårdnar – Trump sparkar Fed-topp - SvD
 - Röda galaxer ledtråd till universums födelse - Forskning.se
 - Playstations live service-floppar: "När vi misslyckas är det bättre att göra det tidigt" - FZ.se
 
@@ -32,14 +32,14 @@ _Updated: 2025-08-26 13:39_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
-- BBC fyller 100 år – äldsta public service i världen - omni.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
-- World Athletics introduces gene test for female category - BBC
 - Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
+- World Athletics introduces gene test for female category - BBC
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
@@ -54,21 +54,21 @@ _Updated: 2025-08-26 13:39_
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - 4 ETF:er som satsar på AI - Morningstar
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
@@ -92,7 +92,7 @@ _Updated: 2025-08-26 13:39_
 - REPAY Appoints New Chief Financial Officer - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 
 ## Health
 
@@ -121,24 +121,24 @@ _Updated: 2025-08-26 13:39_
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
