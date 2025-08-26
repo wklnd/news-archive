@@ -1,39 +1,39 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-26 05:54_
+_Updated: 2025-08-26 06:44_
 
 ## Top Stories
 
-- Lisa, 17, ringde 112 i panik – hittades knivmördad - Aftonbladet
-- Hjälparbetaren om livet i Gaza: ”Värsta jag sett” - GP
-- DEBATT: Erbjud barn till föräldralediga 25 timmar i veckan på förskolan - GP
-- Därför avgick V-topparna - GP
 - Gaza: Reportrar dödade – SR-medarbetare skadad - SVT Nyheter
+- DN Direkt - Efter DN:s avslöjande: Regeringskansliet ska se över rutiner - DN.se - DN
+- Interna larmet: Moderaterna på väg att förlora Stockholm – igen - Aftonbladet
+- Lisa, 17, ringde 112 i panik – hittades knivmördad - Aftonbladet
+- Unga söker sig till Hillsong – och riskerar att bli utbrända - GP
+- Därför har Växjö flera skolappar: ”Vi önskar att det inte hade behövt vara så” - Smålandsposten
+- 15 barn skadas dagligen – elsparkcyklar sticker ut - Västerbottens-Kuriren
 - FHM får en månad på sig – efter Gissléns hårda kritik - GP
-- Svenska regeringens Natopärm hittades av städare på Arlanda - Hufvudstadsbladet
 - 3500 kronor är vad en livmoder är värd i pengar - Piteå-Tidningen
 - 25 augusti 21.30, Trafikkontroll, Västerbottens län - polisen.se
-- Uppgifter: Mördad i Kallhäll tidigare misstänkt för uppmärksammat mord - SVT Nyheter
-- Frankrikes premiärminister kallar till förtroendeomröstning - DN
+- Amnesty: Utred Israel för krigsbrott i Libanon - Västerbottens-Kuriren
+- Fransk misstroendeomröstning i september - GP
 - Atarodi om israelisk utredning: Kan inte förvänta oss mycket – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Norska medier: Mordmisstänkt planerade moskédåd - HD
-- DIREKT: Brand på kärnanläggning i Ryssland - HD
 - SJ – Jonas Abrahamsson ny VD och Fredrik Henriksson ny Kommunikationsdirektör - Turismnytt
-- FMV säljer Gripen E/F till Thailand - FMV
-- Trump hotar med dubbla tullhot - SvD
+- DN Direkt - Trump: Sparkar Fed-ledamoten Cook - DN.se - DN
 - Håkan Boström: Göteborg bör slå vakt om sina billiga matbutiker - GP
+- FMV säljer Gripen E/F till Thailand - FMV
 - Zombiespindlar sprider sig över världen – forskarnas förklaring - Aftonbladet
-- Apple iOS 26 förändrar CarPlay rejält – här är de 4 hetaste nya funktionerna - TechRadar
+- Windows 10-användare får fullskärmsnotiser om Windows 11 - PC för Alla
 
 ## World News
 
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Malaysia lanserar sin första AI-processorchip i global teknikkapplöpning av Investing.com - Investing.com Sverige
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - World Athletics introduces gene test for female category - BBC
+- TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
@@ -42,33 +42,33 @@ _Updated: 2025-08-26 05:54_
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
+- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
+- 1 426 potential victims identified in global operation against human trafficking - Europol
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- How Sudan’s collapse exposes America’s fading global power - Poddtoppen
-- Den hetaste nya trenden inom global utbildning - The Portugal News
-- Portugal: En växande hubb för global teknik - The Portugal News
+- Nu riskerar Murdoch att förlora allt - Aftonbladet
 
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - EY.ai | EY - Sverige - EY
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - 4 ETF:er som satsar på AI - Morningstar
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
@@ -135,7 +135,7 @@ _Updated: 2025-08-26 05:54_
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
