@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-26 06:44_
+_Updated: 2025-08-26 07:42_
 
 ## Top Stories
 
-- Gaza: Reportrar dödade – SR-medarbetare skadad - SVT Nyheter
-- DN Direkt - Efter DN:s avslöjande: Regeringskansliet ska se över rutiner - DN.se - DN
+- Skarp kritik efter attack på journalister i Gaza - GP
 - Interna larmet: Moderaterna på väg att förlora Stockholm – igen - Aftonbladet
-- Lisa, 17, ringde 112 i panik – hittades knivmördad - Aftonbladet
 - Unga söker sig till Hillsong – och riskerar att bli utbrända - GP
+- Lisa, 17, ringde 112 i panik – hittades knivmördad - Aftonbladet
 - Därför har Växjö flera skolappar: ”Vi önskar att det inte hade behövt vara så” - Smålandsposten
-- 15 barn skadas dagligen – elsparkcyklar sticker ut - Västerbottens-Kuriren
-- FHM får en månad på sig – efter Gissléns hårda kritik - GP
+- Seoul: Kim kan göra fler kärnvapen - GP
+- 15 barn skadas dagligen – elsparkcyklar sticker ut - Corren
+- DN Direkt - Efter DN:s avslöjande: Regeringskansliet ska se över rutiner - DN.se - DN
 - 3500 kronor är vad en livmoder är värd i pengar - Piteå-Tidningen
-- 25 augusti 21.30, Trafikkontroll, Västerbottens län - polisen.se
-- Amnesty: Utred Israel för krigsbrott i Libanon - Västerbottens-Kuriren
-- Fransk misstroendeomröstning i september - GP
+- FHM får en månad på sig – efter Gissléns hårda kritik - GP
+- Amnesty: Utred Israel för krigsbrott i Libanon - Hufvudstadsbladet
 - Atarodi om israelisk utredning: Kan inte förvänta oss mycket – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Norska medier: Mordmisstänkt planerade moskédåd - HD
+- Stubb: Tror inte på Putin–Zelenskyj-möte - Västerbottens-Kuriren
+- BILDEXTRA: Ukrainas självständighetsdag firades i Arvika för tredje året i rad - Arvika Nyheter
+- Fejden hårdnar – Trump sparkar Fed-topp - SvD
 - SJ – Jonas Abrahamsson ny VD och Fredrik Henriksson ny Kommunikationsdirektör - Turismnytt
-- DN Direkt - Trump: Sparkar Fed-ledamoten Cook - DN.se - DN
-- Håkan Boström: Göteborg bör slå vakt om sina billiga matbutiker - GP
-- FMV säljer Gripen E/F till Thailand - FMV
+- Swedbank: Det lyfter ekonomin 2026 - EFN
+- Trots fin skörd – vetet ger mindre klirr i kassan - DN
 - Zombiespindlar sprider sig över världen – forskarnas förklaring - Aftonbladet
 - Windows 10-användare får fullskärmsnotiser om Windows 11 - PC för Alla
 
@@ -32,21 +32,21 @@ _Updated: 2025-08-26 06:44_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- World Athletics introduces gene test for female category - BBC
 - TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
+- World Athletics introduces gene test for female category - BBC
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
+- Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
-- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Nu riskerar Murdoch att förlora allt - Aftonbladet
+- Portugalidade - En ny global studie - The Portugal News
 
 ## Technology
 
@@ -109,12 +109,12 @@ _Updated: 2025-08-26 06:44_
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
@@ -143,7 +143,6 @@ _Updated: 2025-08-26 06:44_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
@@ -151,14 +150,15 @@ _Updated: 2025-08-26 06:44_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Här är världens största jordbruk - ATL
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk
