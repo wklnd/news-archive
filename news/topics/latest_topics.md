@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-26 19:41_
+_Updated: 2025-08-26 20:47_
 
 ## Top Stories
 
-- DN Direkt - Brand rasar fortsatt i Göteborg – förskola evakuerad - DN.se - DN
-- ”Israels folk vill få slut på den här mardrömmen” - GP
-- Pressas på miljonbelopp – data kan ha läckt - UNT
-- Stölddrabbad Ica-butik sågar öppna spärrar i t-banan: ”Vi hatar det” - DN
-- Person hittad död – utreds som mord - GP
+- Brand i flerfamiljshus – förskola evakueras - GP
+- Frontalkrock mellan personbil och motorcykel - Hem - Värnamo
 - Israels militär hävdar att terrorister dödades i sjukhusattack - DN
-- Livstids fängelse för hedersmord på tvåbarnsmamma - SVT Nyheter
-- Sjukhus i stabsläge efter misstänkt svampförgiftning - DN
+- Flera förgiftade i Kiruna – flyttas till andra sjukhus - SVT Nyheter
+- Stölddrabbad Ica-butik sågar öppna spärrar i t-banan: ”Vi hatar det” - DN
+- Tusentals protesterar i Israel: ”För alla hem” - SvD
+- Cyberangrepp drabbar Region Gotland – känsliga personuppgifter kan ha läckt - SVT Nyheter
+- Ung kvinna mördades – maken och svärmodern döms till livstid - DN
+- JUST NU: Polisen utreder mord – död person hittad i Klarälven - NWT
 - KD-topp fikade med Israels ambassadör i sin trädgård: ”Udda möte” - DN
-- Jagade björnhona med ungar -åtalas - Västerbottens-Kuriren
-- Ukrainsk drönare exploderade över Estland - Västerbottens-Kuriren
-- Samkönat sex straffas med piskrapp - GP
+- Hennes syster har kallats Vietnams Anne Frank: ”Unga vill bli som henne” - DN
+- Samkönat sex straffas med piskrapp - Västerbottens-Kuriren
 - Bilderna från rymden visar förödelsen efter bränderna - DN
-- Kristersson: Inte optimist efter Trumps möten - Västerbottens-Kuriren
+- Ukrainsk drönare exploderade över Estland - Västerbottens-Kuriren
 - Pensionsgruppen överens: en gas i pensionssystemet ska införas - Regeringen.se
-- Lyten måste övertyga biltillverkare efter Northvolts konkurs - Evertiq
-- Affärsvärlden sätter ett köpråd för Biogaia - Börsvärlden
-- Lotta Ilona Häyrynen: SJ:s sparkade matriark får i alla fall en fallskärm - ETC.se
+- Northvolt-anställda ägde aktier som blev värdelösa - Aftonbladet
+- Novo Nordisk föll tungt i Köpenhamn - Dagens industri
+- Nvidias resultat kan avslöja hur handelsspänningarna mellan Kina och USA slår mot teknikbranschen - Invezz
 - Röda galaxer ledtråd till universums födelse - Forskning.se
-- Nytt bolag startar i Umeå – ska verka i byggbranschen - Folkbladet
+- Hasselblad X2D II – först med lidar-AF och HDR - Fotosidan.se
 
 ## World News
 
@@ -46,7 +46,7 @@ _Updated: 2025-08-26 19:41_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- How Sudan’s collapse exposes America’s fading global power - Poddtoppen
 
 ## Technology
 
@@ -65,11 +65,11 @@ _Updated: 2025-08-26 19:41_
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - 4 ETF:er som satsar på AI - Morningstar
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- AI-akten - Shaping Europe’s digital future
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
 
 ## Business
 
@@ -145,20 +145,20 @@ _Updated: 2025-08-26 19:41_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Lantbruket i Polen lyfte med EU - Jordbruksaktuellt
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- Stor nyhet för matglada katter - Mynewsdesk
