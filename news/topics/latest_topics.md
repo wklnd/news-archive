@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-26 20:47_
+_Updated: 2025-08-26 21:38_
 
 ## Top Stories
 
 - Brand i flerfamiljshus – förskola evakueras - GP
-- Frontalkrock mellan personbil och motorcykel - Hem - Värnamo
-- Israels militär hävdar att terrorister dödades i sjukhusattack - DN
-- Flera förgiftade i Kiruna – flyttas till andra sjukhus - SVT Nyheter
-- Stölddrabbad Ica-butik sågar öppna spärrar i t-banan: ”Vi hatar det” - DN
 - Tusentals protesterar i Israel: ”För alla hem” - SvD
-- Cyberangrepp drabbar Region Gotland – känsliga personuppgifter kan ha läckt - SVT Nyheter
+- Flera förgiftade i Kiruna – flyttas till andra sjukhus - SVT Nyheter
+- Hennes syster har kallats Vietnams Anne Frank: ”Unga vill bli som henne” - DN
+- Stölddrabbad Ica-butik sågar öppna spärrar i t-banan: ”Vi hatar det” - DN
+- Pressas på miljonbelopp – data kan ha läckt - UNT
 - Ung kvinna mördades – maken och svärmodern döms till livstid - DN
 - JUST NU: Polisen utreder mord – död person hittad i Klarälven - NWT
 - KD-topp fikade med Israels ambassadör i sin trädgård: ”Udda möte” - DN
-- Hennes syster har kallats Vietnams Anne Frank: ”Unga vill bli som henne” - DN
-- Samkönat sex straffas med piskrapp - Västerbottens-Kuriren
+- ”Kan vara slut till helgen” - Allehanda.se
+- Målning stals av nazisterna – dök upp i mäklarannons - DN
 - Bilderna från rymden visar förödelsen efter bränderna - DN
+- Homosexuellt umgänge straffas med piskrapp - Västerbottens-Kuriren
 - Ukrainsk drönare exploderade över Estland - Västerbottens-Kuriren
-- Pensionsgruppen överens: en gas i pensionssystemet ska införas - Regeringen.se
+- Pensionssystemet ska få en ”gas” – kritiseras som otillräckligt - tidningensyre.se
 - Northvolt-anställda ägde aktier som blev värdelösa - Aftonbladet
-- Novo Nordisk föll tungt i Köpenhamn - Dagens industri
-- Nvidias resultat kan avslöja hur handelsspänningarna mellan Kina och USA slår mot teknikbranschen - Invezz
+- Investerare tar höjd för stora rapportrörelser i Nvidia - Dagens industri
+- Lyten måste övertyga biltillverkare efter Northvolts konkurs - Evertiq
 - Röda galaxer ledtråd till universums födelse - Forskning.se
 - Hasselblad X2D II – först med lidar-AF och HDR - Fotosidan.se
 
@@ -31,6 +31,7 @@ _Updated: 2025-08-26 20:47_
 - Malaysia lanserar sin första AI-processorchip i global teknikkapplöpning av Investing.com - Investing.com Sverige
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -41,12 +42,11 @@ _Updated: 2025-08-26 20:47_
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- How Sudan’s collapse exposes America’s fading global power - Poddtoppen
+- OhioHealth Partners with bioMérieux as Newest Global Antimicrobial Stewardship Center of Excellence - Placera.se
 
 ## Technology
 
@@ -65,11 +65,11 @@ _Updated: 2025-08-26 20:47_
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - 4 ETF:er som satsar på AI - Morningstar
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- AI-akten - Shaping Europe’s digital future
 - Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
 
 ## Business
 
@@ -77,13 +77,14 @@ _Updated: 2025-08-26 20:47_
 - Publication of the 2024 annual financial statements - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - DeFi Technologies Announces Inaugural Insights Symposium to Be Held in Frankfurt on September 25, 2025 - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Volta Finance Limited Net Asset Value(s) as at 31 July 2025 - Placera.se
@@ -92,17 +93,17 @@ _Updated: 2025-08-26 20:47_
 - REPAY Appoints New Chief Financial Officer - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
+- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
@@ -115,30 +116,29 @@ _Updated: 2025-08-26 20:47_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
