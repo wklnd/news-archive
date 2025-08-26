@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-26 23:38_
+_Updated: 2025-08-27 00:41_
 
 ## Top Stories
 
+- Läkarintyg kan ha läckt efter cyberattack mot kommuner - DN
 - Brand i flerfamiljshus – förskola evakueras - GP
-- DN Direkt - Man i 25-årsåldern död i trafikolycka - DN.se - DN
-- Putins krav skulle bli ödesdigert för Ukraina - DN
-- Tyska draget: kopierar den svenska värnplikten - SvD
-- Omfattande protester i Israel: ”Avsluta kriget” - SvD
 - ”Stor diskussion i Israel om krigets legitimitet” – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Cyberangrepp drabbar Region Gotland – känsliga personuppgifter kan ha läckt - SVT Nyheter
+- Man i 25-årsåldern död i motorcykelolycka - Aftonbladet
+- Tyska draget: kopierar den svenska värnplikten - SvD
+- Putins krav skulle bli ödesdigert för Ukraina - DN
 - Ung kvinna mördades – maken och svärmodern döms till livstid - DN
-- Död person hittad bakbunden i Klarälven – polisen utreder mord - NWT
 - Stölddrabbad Ica-butik sågar öppna spärrar i t-banan: ”Vi hatar det” - DN
+- Sjukhus i stabsläge efter misstänkt svampförgiftning - DN
+- Ministerns krav: FHM ska lära av grannländerna - SVT Nyheter
+- Demonstranter rasar mot Netanyahus regering - GP
 - Målning stals av nazisterna – dök upp i mäklarannons - DN
 - Hennes syster har kallats Vietnams Anne Frank: ”Unga vill bli som henne” - DN
-- Sandra Stiskalo: Asylhotellen ökar stödet för Farage - DN
-- Homosexuellt umgänge straffas med piskrapp - Västerbottens-Kuriren
+- ”Israels folk vill få slut på den här mardrömmen” - Västerbottens-Kuriren
 - Northvolt-anställda ägde aktier som blev värdelösa - Aftonbladet
 - Novo Nordisk föll tungt i Köpenhamn - Dagens industri
-- Pensionssystemet ska få en ”gas” – kritiseras som otillräckligt - tidningensyre.se
 - Lotta Ilona Häyrynen: SJ:s sparkade matriark får i alla fall en fallskärm - ETC.se
+- Spotify lanserar Messages – nu kan du chatta om musik i appen - Nyteknik
 - Röda galaxer ledtråd till universums födelse - Forskning.se
-- MGS Delta: Snake Eater – högt betygssnitt tightar till FZ High Score - FZ.se
+- Hasselblad X2D II – först med lidar-AF och HDR - Fotosidan.se
 
 ## World News
 
@@ -31,17 +31,17 @@ _Updated: 2025-08-26 23:38_
 - Malaysia lanserar sin första AI-processorchip i global teknikkapplöpning av Investing.com - Investing.com Sverige
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
-- World Athletics introduces gene test for female category - BBC
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
+- World Athletics introduces gene test for female category - BBC
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BIG Travel går in i globalt partnerskap - travelnews.se
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
@@ -77,22 +77,22 @@ _Updated: 2025-08-26 23:38_
 - Publication of the 2024 annual financial statements - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - DeFi Technologies Announces Inaugural Insights Symposium to Be Held in Frankfurt on September 25, 2025 - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Volta Finance Limited Net Asset Value(s) as at 31 July 2025 - Placera.se
 - Accord Announces Second Quarter Financial Results - Placera.se
 - BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
 - REPAY Appoints New Chief Financial Officer - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 
 ## Health
 
