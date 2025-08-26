@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-26 10:49_
+_Updated: 2025-08-26 11:43_
 
 ## Top Stories
 
-- Sex jägare åtalas för grovt jaktbrott i Strömsunds kommun - SVT Nyheter
-- Pressträff efter pensionsgruppens överläggningar - Regeringen.se
-- Unga söker sig till Hillsong – och riskerar att bli utbrända - GP
-- S kallar Strömmer till utskott efter nya våldsdåd - Aftonbladet
-- Våg av protester i Israel - kräver att gisslan släpps - DN
-- DN Direkt - S kallar Strömmer till utskott efter våldsvåg - DN.se - DN
+- Riksdagspartier överens om höjd pension - EFN
+- Åtal väckt för grovt jaktbrott i Strömsunds kommun - Åklagarmyndigheten
+- Israel ber om ursäkt för dödliga attacken i Gaza - ETC.se
+- DN Direkt - Höjda pensioner i bra tider – ”gas” införs i systemet - DN.se - DN
+- Man död – hittades i vattnet i Borås - GP
+- Man död efter drunkningslarm i Borås – mordutredning inledd - GP
 - 15 barn skadas dagligen – elsparkcyklar sticker ut - DN
-- Gaza: Reportrar dödade – SR-medarbetare skadad - SVT Nyheter
-- Gas exploderade – kvinna förd till sjukhus - SVT Nyheter
-- 3500 kronor är vad en livmoder är värd i pengar - Piteå-Tidningen
+- DN Direkt - S kallar Strömmer till utskott efter våldsvåg - DN.se - DN
+- Gas exploderade – kvinna fick brännskador i ansiktet - SVT Nyheter
+- Läkarintyg kan ha läckt ut i cyberattack - SVT Nyheter
+- Våg av protester i Israel - kräver att gisslan släpps - DN
 - Amnesty: Utred Israel för krigsbrott i Libanon - Hufvudstadsbladet
+- Överfyllda dammar öppnas – tiotusentals evakueras - Västerbottens-Kuriren
 - Lina Lund: Svensk press på Israel spelar föga roll när EU:s tungviktare bromsar - DN
-- Poliser skjutna till döds i Australien - Aftonbladet
-- Utrikeschefen: Traumatisk upplevelse – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Trump sparkar Fed-ledamoten Cook - Dagens industri
+- Hård kritik mot vd-bytet i SJ - Järnvägar.nu
 - Trump hotar med Kinatullar – ner på Asienbörserna - Västerbottens-Kuriren
-- Trots fin skörd – vetet ger mindre klirr i kassan - DN
-- SJ – Jonas Abrahamsson ny VD och Fredrik Henriksson ny Kommunikationsdirektör - Turismnytt
+- Fejden hårdnar – Trump sparkar Fed-topp - SvD
+- Novo Nordisks fall hotar danska succékonceptet - SvD
 - Larm i musikbranschen: Känd manager anklagas för att lura artister - SVT Nyheter
-- Gratis VPN påstås ta skärmdumpar av Chrome-användare - PC för Alla
+- Playstations live service-floppar: "När vi misslyckas är det bättre att göra det tidigt" - FZ.se
 
 ## World News
 
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Malaysia lanserar sin första AI-processorchip i global teknikkapplöpning av Investing.com - Investing.com Sverige
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
 - World Athletics introduces gene test for female category - BBC
-- Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Lars Henrikson – ny global chef för Mölndals-baserade DENTSPLY Implants - Dental Tribune US
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Den hetaste nya trenden inom global utbildning - The Portugal News
+- Portugal: En växande hubb för global teknik - The Portugal News
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 
 ## Technology
 
@@ -96,26 +96,26 @@ _Updated: 2025-08-26 10:49_
 
 ## Health
 
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
-- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
+- Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-08-26 10:49_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
-- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Många lantbruk vill producera egen el - Tidningen Extrakt
-- Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är världens största jordbruk - ATL
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
