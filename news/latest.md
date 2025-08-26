@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-26 21:48_
+_Updated: 2025-08-26 22:48_
 
-- Taylor Swift and Travis Kelce announce engagement on social media - The Guardian
-- Trump-appointed judge rebukes White House for ‘smear’ of judiciary - Politico
-- Reuters and AP demand answers from Israeli officials after airstrikes kill journalists - Axios
+- Taylor Swift and Travis Kelce Are Engaged, Singer Announces - The New York Times
+- Fed responds to Trump effort to fire Lisa Cook - CNBC
+- Judge dismisses Trump lawsuit against Maryland-based judges over handling of immigration cases - NBC News
 - Trump seeks death penalty for D.C. murders - Axios
+- "Mind-bendingly ridiculous": MAGA rages over Trump's Chinese students announcement - Axios
 - Whistleblower says Trump officials copied millions of Social Security numbers - NPR
-- Illinois governor hits back after Trump mocks his weight: ‘It takes one to know one’ - The Guardian
-- Towering dust storm known as a haboob plunges Phoenix into darkness - The Washington Post
+- What is a haboob? Here's what causes the dust storm like the one in Arizona. - CBS News
 - Trump's DOT threatens to withhold funds from states that don't enforce English requirements for truck drivers - NBC News
-- The foreigners working for DOGE - Politico
+- Democratic governors look to derail Trump's plan to send National Guard to Chicago and other cities - AP News
 - Man burns U.S. flag near White House to protest Trump order - The Washington Post
-- Thousands demonstrate, block roads on nationwide day of protests for hostages - The Times of Israel
+- ‘He loved his work deeply’: profiles of five Palestinian journalists killed in Gaza airstrike - The Guardian
+- Protesters in Israel demand hostage release, end to Gaza war - DW
 - Exclusive: Russia raises August oil export plan after drone strikes disrupt refineries, sources say - Reuters
-- Residents flee as Palestinians report overnight IDF shelling of Gaza City outskirts - The Times of Israel
-- France heads for political crisis as PM Bayrou risks all on confidence vote - BBC
-- Federal Reserve governor Lisa Cook says she’ll fight Trump’s move to fire her - The Washington Post
+- UK’s hard-right Reform party says it will mass-deport migrants if it wins power - AP News
+- S&P 500 closes higher as Nvidia gains, traders shake off Trump's latest Fed salvo - CNBC
 - Intel Worked With Chinese Firms Sanctioned For Enabling Human Rights Abuses - Forbes
-- Donald Trump’s attack on Fed shifts market bets on interest rates and inflation - Financial Times
-- Stock Market Today: Dow Wavers After Trump Moves to Oust Fed Governor Cook— Live Updates - The Wall Street Journal
-- Apple’s iPhone 17 launch event is set for September 9th - The Verge
+- Cracker Barrel responds to ‘woke’ logo outcry, as Trump urges them to revert back - yahoo.com
+- Trump Media, Crypto.com launch new crypto treasury firm via SPAC deal - Reuters
+- Apple to Hold Sept. 9 Event to Introduce iPhone 17 Lineup - Bloomberg.com
 - Google improves Gemini AI image editing with “nano banana” model - Ars Technica
