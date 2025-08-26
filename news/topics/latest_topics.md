@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-26 11:43_
+_Updated: 2025-08-26 12:45_
 
 ## Top Stories
 
-- Riksdagspartier överens om höjd pension - EFN
 - Åtal väckt för grovt jaktbrott i Strömsunds kommun - Åklagarmyndigheten
-- Israel ber om ursäkt för dödliga attacken i Gaza - ETC.se
-- DN Direkt - Höjda pensioner i bra tider – ”gas” införs i systemet - DN.se - DN
-- Man död – hittades i vattnet i Borås - GP
-- Man död efter drunkningslarm i Borås – mordutredning inledd - GP
-- 15 barn skadas dagligen – elsparkcyklar sticker ut - DN
-- DN Direkt - S kallar Strömmer till utskott efter våldsvåg - DN.se - DN
-- Gas exploderade – kvinna fick brännskador i ansiktet - SVT Nyheter
+- Ilska efter sjukhusattack: ”Ansvarsutkrävande nu” - GP
+- Trodde att han mördat sin mamma – låg svårt skadad i Majorna - GP
+- DN Direkt - Cyberattack – känslig data kan ha läckt - DN.se - DN
+- Centern kräver skärpta klimatmål - SvD
+- Nu presenterar Vänsternvildarna sitt nya projekt - Sydsvenskan
 - Läkarintyg kan ha läckt ut i cyberattack - SVT Nyheter
+- DN Direkt - Man död efter trafikolycka i Tomelilla - DN.se - DN
+- 15 barn skadas dagligen – elsparkcyklar sticker ut - Västerbottens-Kuriren
+- DN Direkt - Efter DN:s avslöjande: Regeringskansliet ska se över rutiner - DN.se - DN
 - Våg av protester i Israel - kräver att gisslan släpps - DN
+- Samkönat sex straffas med piskrapp - Västerbottens-Kuriren
 - Amnesty: Utred Israel för krigsbrott i Libanon - Hufvudstadsbladet
-- Överfyllda dammar öppnas – tiotusentals evakueras - Västerbottens-Kuriren
-- Lina Lund: Svensk press på Israel spelar föga roll när EU:s tungviktare bromsar - DN
-- Hård kritik mot vd-bytet i SJ - Järnvägar.nu
-- Trump hotar med Kinatullar – ner på Asienbörserna - Västerbottens-Kuriren
-- Fejden hårdnar – Trump sparkar Fed-topp - SvD
-- Novo Nordisks fall hotar danska succékonceptet - SvD
-- Larm i musikbranschen: Känd manager anklagas för att lura artister - SVT Nyheter
-- Playstations live service-floppar: "När vi misslyckas är det bättre att göra det tidigt" - FZ.se
+- Överfyllda dammar öppnas – tiotusentals evakueras - GP
+- Pensionsgruppen överens: en gas i pensionssystemet ska införas - Regeringen.se
+- Ministern om SJ-ordföranden: Märkligt uttalande - SvD
+- Risk för bakslag när Trump vill styra Fed - Dagens industri
+- Danmarks ekonomi krossar Sveriges: Inga utmaningar - omni.se
+- Röda galaxer ledtråd till universums födelse - Forskning.se
+- Kritisk sårbarhet i containerplattformen Docker - PC för Alla
 
 ## World News
 
@@ -31,7 +31,7 @@ _Updated: 2025-08-26 11:43_
 - Malaysia lanserar sin första AI-processorchip i global teknikkapplöpning av Investing.com - Investing.com Sverige
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- BBC fyller 100 år – äldsta public service i världen - omni.se
 - TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
 - World Athletics introduces gene test for female category - BBC
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
