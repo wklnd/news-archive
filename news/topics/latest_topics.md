@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-26 07:42_
+_Updated: 2025-08-26 08:52_
 
 ## Top Stories
 
-- Skarp kritik efter attack på journalister i Gaza - GP
+- Sex jägare åtalas för grovt jaktbrott i Strömsunds kommun - SVT Nyheter
 - Interna larmet: Moderaterna på väg att förlora Stockholm – igen - Aftonbladet
-- Unga söker sig till Hillsong – och riskerar att bli utbrända - GP
-- Lisa, 17, ringde 112 i panik – hittades knivmördad - Aftonbladet
 - Därför har Växjö flera skolappar: ”Vi önskar att det inte hade behövt vara så” - Smålandsposten
 - Seoul: Kim kan göra fler kärnvapen - GP
-- 15 barn skadas dagligen – elsparkcyklar sticker ut - Corren
+- Unga söker sig till Hillsong – och riskerar att bli utbrända - GP
 - DN Direkt - Efter DN:s avslöjande: Regeringskansliet ska se över rutiner - DN.se - DN
+- 15 barn skadas dagligen – elsparkcyklar sticker ut - Västerbottens-Kuriren
+- Skarp kritik efter attack på journalister i Gaza - UNT
 - 3500 kronor är vad en livmoder är värd i pengar - Piteå-Tidningen
-- FHM får en månad på sig – efter Gissléns hårda kritik - GP
+- Ministerns krav: FHM ska lära av grannländerna - SVT Nyheter
+- Våg av protester i Israel - kräver att gisslan släpps - DN
 - Amnesty: Utred Israel för krigsbrott i Libanon - Hufvudstadsbladet
 - Atarodi om israelisk utredning: Kan inte förvänta oss mycket – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Stubb: Tror inte på Putin–Zelenskyj-möte - Västerbottens-Kuriren
-- BILDEXTRA: Ukrainas självständighetsdag firades i Arvika för tredje året i rad - Arvika Nyheter
+- E4 avstängd mellan Söderhamn och Gävle efter lastbilshaveri - SVT Nyheter
 - Fejden hårdnar – Trump sparkar Fed-topp - SvD
-- SJ – Jonas Abrahamsson ny VD och Fredrik Henriksson ny Kommunikationsdirektör - Turismnytt
-- Swedbank: Det lyfter ekonomin 2026 - EFN
+- Trump hotar med Kinatullar – ner på Asienbörserna - Västerbottens-Kuriren
 - Trots fin skörd – vetet ger mindre klirr i kassan - DN
+- SJ – Jonas Abrahamsson ny VD och Fredrik Henriksson ny Kommunikationsdirektör - Turismnytt
+- Läckra, cyberpunkiga Replaced släpps 2026 - FZ.se
 - Zombiespindlar sprider sig över världen – forskarnas förklaring - Aftonbladet
-- Windows 10-användare får fullskärmsnotiser om Windows 11 - PC för Alla
 
 ## World News
 
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Malaysia lanserar sin första AI-processorchip i global teknikkapplöpning av Investing.com - Investing.com Sverige
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
 - World Athletics introduces gene test for female category - BBC
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
+- TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
 - Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
-- Portugalidade - En ny global studie - The Portugal News
+- How Sudan’s collapse exposes America’s fading global power - Poddtoppen
+- Den hetaste nya trenden inom global utbildning - The Portugal News
+- Portugal: En växande hubb för global teknik - The Portugal News
 
 ## Technology
 
@@ -88,11 +88,11 @@ _Updated: 2025-08-26 07:42_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Volta Finance Limited Net Asset Value(s) as at 31 July 2025 - Placera.se
-- Accord Announces Amendment to its Banking Facility - Placera.se
 - Accord Announces Second Quarter Financial Results - Placera.se
 - BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
 - REPAY Appoints New Chief Financial Officer - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
 
 ## Health
 
@@ -143,22 +143,22 @@ _Updated: 2025-08-26 07:42_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Här är världens största jordbruk - ATL
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Ny europeisk satsning ska utbilda framtidens hållbara jordbrukare - Lantbruksnytt
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Många lantbruk vill producera egen el - Tidningen Extrakt
+- Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
+- Här är världens största jordbruk - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
