@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-27 06:43_
+_Updated: 2025-08-27 07:41_
 
 ## Top Stories
 
-- Två skadade efter skottlossning i Järfälla - SVT Nyheter
-- Investerar i israeliska vapen - SvD
-- Oklart om värnpliktiga ska strida för Nato utomlands - DN
+- DN Direkt - Två skadade i ny skjutning i Järfälla - DN.se - DN
+- Jakt efter polismördare fortsätter: ”Stanna inne” - GP
 - Tyskland går i bräschen: ”Just nu vill alla köpa” - SvD
-- Hamas svar: Inga militanter dödades – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- ”Jag är fast i en karriär med hög lön och status” - DN
+- Liberalerna under spärren efter två månader med nya ledaren - GP
+- ”Vänsterpartiet brottas med den interna antisemitismen” - Västerbottens-Kuriren
+- DN Direkt - Svenska fonder investerar i svartlistat israeliskt vapenföretag - DN.se - DN
+- Oklart om värnpliktiga ska strida för Nato utomlands - DN
 - Pressas på miljonbelopp – data kan ha läckt - UNT
 - Stölddrabbad Ica-butik sågar öppna spärrar i t-banan: ”Vi hatar det” - DN
 - Brand i flerfamiljshus – förskola evakueras - GP
-- SR-chefen: ”Det är oacceptabelt” - Expressen
-- Atarodi om israelisk utredning: Kan inte förvänta oss mycket – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- SR-medarbetare skadad i sjukhusattack – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- DN Direkt - Uppgifter om amerikansk påverkanskampanj mot Grönland - DN.se - DN
 - ”Historisk tabbe" hindrar flyktingar att återvända - Västerbottens-Kuriren
-- Domare: Bolsonaro ska bevakas dygnet runt - GP
 - Ukraina bekräftar nya ryska intrång i sydost - UNT
-- Trumps nya vapen mot fienderna: gamla bolån - DN
-- Trendbrott: Kraven hos Kronofogden dyker - SvD
-- Bistånds- och utrikeshandelsminister Benjamin Dousa samtalar med företag om EU-USA:s ramverk om handelsrelationer - Regeringen.se
-- Pensionssystemet ska få en ”gas” – kritiseras som otillräckligt - tidningensyre.se
+- Trumps tullchock mot Indien i kraft - Aftonbladet
+- Räntekurvan brantare när Trump pressar Fed - Dagens industri
+- DN Direkt - Trump gör verklighet av hot – tullar mot Indien fördubblas - DN.se - DN
+- Lurad småsparare manar drabbade till samarbete - Dagens industri
+- Flamingos avslöjar hemligheter om åldrande - Aftonbladet
 - Röda galaxer ledtråd till universums födelse - Forskning.se
-- Flamingos avslöjar hemligheter om åldrande - SvD
 
 ## World News
 
@@ -33,20 +33,20 @@ _Updated: 2025-08-27 06:43_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
+- Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
-- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Lars Henrikson – ny global chef för Mölndals-baserade DENTSPLY Implants - Dental Tribune US
 - TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
-- Den hetaste nya trenden inom global utbildning - The Portugal News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - How Sudan’s collapse exposes America’s fading global power - Poddtoppen
-- Portugal: En växande hubb för global teknik - The Portugal News
 
 ## Technology
 
@@ -150,15 +150,15 @@ _Updated: 2025-08-27 06:43_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Här är världens största jordbruk - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Lantbruket i Polen lyfte med EU - Jordbruksaktuellt
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
