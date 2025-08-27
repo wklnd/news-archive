@@ -1,72 +1,72 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-27 17:41_
+_Updated: 2025-08-27 18:46_
 
 ## Top Stories
 
 - Skjutning vid katolsk skola i Minneapolis - SVT Nyheter
-- Trump-kopplade män misstänks för kampanj i Grönland - DN
-- Liberalerna positiva till förbud mot telefonförsäljning - Liberalerna
+- Konsumentverket vill förbjuda telefonförsäljning – anklagas för myndighetsaktivism - DN
+- Grönländsk flygtrafik ställs in - Västerbottens-Kuriren
 - Expert: Ryssarna krigar ikapp propagandabilden - SvD
-- Rasrisk från taket efter branden i Högsbo - GP
-- Trafikolycka utanför Vadstena – man med livshotade skador - SVT Nyheter
-- MSB samlar myndigheter över hela landet till extrainsatt möte om cyberattack - SVT Nyheter
-- Maria Gunther: Så farligt är det att bryta uran - DN
+- MSB kallar till extramöte efter cyberattacken - GP
+- Kraftig brand rasade – lägenheter förstörda - Expressen
+- Kommunveto mot uranbrytning försvinner - GP
+- Trump ska hålla möte om Gazas framtid - Hufvudstadsbladet
 - Olycka med motorcross – en person avliden - SVT Nyheter
-- 27 augusti 02.44, Mord/dråp, försök, Järfälla - polisen.se
+- DN Direkt - Chat GPT görs om sedan tonåring begick självmord - DN.se - DN
 - Omfattande jakt på rysk ubåt i Norge - UNT
-- DN Direkt - Danmark ber om ursäkt till grönländska kvinnor - DN.se - DN
-- Trumps jättetullar mot Indien i kraft: ”En strategisk chock” - Nyteknik
+- DN Direkt - Trump gör verklighet av hot – tullar mot Indien fördubblas - DN.se - DN
+- Hanna Grosshög: Danska ursäkten viktig delseger för Grönlands kvinnor - DN
 - Påve Leo XIV vädjar om ett slut på konflikten – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - EU tar snabbspår om tullar för att blidka Trump - Tidningen Näringslivet
-- Ytterligare tre av Swedbank Roburs fonder utvalda i Fondtorgsnämndens upphandling - Cision News
-- Ödesdag för börsen när halvledarjätte rapporterar - DN
-- Regeringen tog emot Perus försvarsminister och utrikesminister på Karlbergs slott - Regeringen.se
+- Så görs indexfonderna om – SHB vinnare - EFN
+- Pantkaos ska stoppas – statligt register införs - SvD
+- ISK-skatten höjs – och sänks för nära 4 miljoner sparare 2026 - Dagens PS
 - Underhållsarbete av fjärrvärme 1 september - Hammarö kommun
-- Flamingor avslöjar hemligheter om åldrande - Aftonbladet
+- DEBATT: Smittskyddsinstitutet var för litet för covid - Expressen
 
 ## World News
 
-- Daesang Group Showcases Global Talent at 5th University Student Smartphone Film Festival - Placera.se
-- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- New Secretary General appointed - Olof Palme International Center
-- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World Athletics introduces gene test for female category - BBC
+- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Daesang Group Showcases Global Talent at 5th University Student Smartphone Film Festival - Placera.se
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- Fosun International Announces 2025 Interim Results: Steady Growth in Core Businesses with Accelerated Innovation and Globalization - Placera.se
 
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
-- Spår superintelligens om tio år – vill leda racet - Omni
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Equity research, White Pearl Technology Group: A hidden gem among the tech companies - Carlsquare Corporate Finance
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - 4 ETF:er som satsar på AI - Morningstar
+- AI-akten - Shaping Europe’s digital future
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
@@ -100,22 +100,22 @@ _Updated: 2025-08-27 17:41_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 
 ## Science
 
@@ -128,7 +128,6 @@ _Updated: 2025-08-27 17:41_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
@@ -139,26 +138,27 @@ _Updated: 2025-08-27 17:41_
 - Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Lantbruket i Polen lyfte med EU - Jordbruksaktuellt
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- Stor nyhet för matglada katter - Mynewsdesk
