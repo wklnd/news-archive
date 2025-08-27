@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-27 22:41_
+_Updated: 2025-08-27 23:38_
 
 ## Top Stories
 
-- Skjutning vid katolsk kyrka i USA – två barn dödade - DN
+- Skjutning vid katolsk skola i Minneapolis - SVT Nyheter
 - Israels elitsoldater som gått från hjältar till symboler för allt som gått snett - Expressen
-- Misstänkt farligt föremål i centrala Göteborg - SVT Nyheter
-- ”En amerikan kan inte vara anonym på Grönland” - GP
-- Göteborgs stad i krismöten efter cyberattacken - GP
-- Medier: Alla Nord Stream-misstänkta identifierade - SvD
+- Ewa Stenberg: En kamp om Grönland som kan få Nato att brista - DN
+- Explosion i villaområde i Södertälje - SVT Nyheter
+- Misstänkt farligt föremål i Göteborg – en gripen - Aftonbladet
+- DN Direkt - MSB kallar till extramöte efter cyberattacken - DN.se - DN
 - Trump ska hålla möte om Gazas framtid - Hufvudstadsbladet
 - MP-utspel: Lägg ner Trafikverket - GP
-- Onanist gripen i Stockholm - Expressen
-- Maria Gunther: Så farligt är det att bryta uran - DN
-- USA i FN: Israel inte orsak till svält i Gaza - Västerbottens-Kuriren
-- Erik Esbjörnsson: Afrikanska unionen vill rita om världskartan – till Sveriges nackdel - DN
-- Fälld nynazist till kvinnofängelse – bytte kön efter domen - DN
+- Före detta missionshus flyttas i Herrljunga: ”Nytt spektakel som i Kiruna” - DN
+- Förbudet mot uranbrytning tas bort – öppnar för brytning på Öland - SVT Nyheter
+- Sju ukrainare misstänks för sabotaget mot Nord Stream - Skånska Dagbladet
+- USA i FN: Israel inte orsak till svält i Gaza - GP
 - Ukraina bekräftar nya ryska intrång i sydost - UNT
-- SvK tecknar jättekontrakt med NCC: ”Vårt största avtal någonsin” - Dagens industri
+- Erik Esbjörnsson: Afrikanska unionen vill rita om världskartan – till Sveriges nackdel - DN
+- UPPMÄRKSAMMAT FALL: Sandra sparkades från SBAB – experten: ”Grov åtgärd” - NWT
+- Bättre än väntat från Nvidia – men aktien tappar - Dagens industri
+- Svenska kraftnät har tecknat nytt miljardavtal - Aftonbladet
 - Ytterligare tre av Swedbank Roburs fonder utvalda i Fondtorgsnämndens upphandling - Cision News
-- EU tar snabbspår om tullar för att blidka Trump - Tidningen Näringslivet
-- Rapport visar att flickors skolresultat sjunker - Regeringen.se
+- Årets mest hajpade spel har fått flera andra studior att skjuta upp sina spel - MovieZine
 - DEBATT: Smittskyddsinstitutet var för litet för covid - Expressen
-- Underhållsarbete av fjärrvärme 1 september - Hammarö kommun
 
 ## World News
 
-- NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
+- Daesang Group Showcases Global Talent at 5th University Student Smartphone Film Festival - Placera.se
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
+- NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- World Athletics introduces gene test for female category - BBC
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
+- World Athletics introduces gene test for female category - BBC
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- BIG Travel går in i globalt partnerskap - travelnews.se
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
-- Daesang Group Showcases Global Talent at 5th University Student Smartphone Film Festival - Placera.se
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
+- Fosun International Announces 2025 Interim Results: Steady Growth in Core Businesses with Accelerated Innovation and Globalization - Placera.se
 
 ## Technology
 
@@ -122,43 +122,43 @@ _Updated: 2025-08-27 22:41_
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- USA tvingar ut EU på banan - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- Lantbruket i Polen lyfte med EU - Jordbruksaktuellt
