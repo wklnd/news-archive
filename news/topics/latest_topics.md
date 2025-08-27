@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-27 18:46_
+_Updated: 2025-08-27 19:40_
 
 ## Top Stories
 
 - Skjutning vid katolsk skola i Minneapolis - SVT Nyheter
 - Konsumentverket vill förbjuda telefonförsäljning – anklagas för myndighetsaktivism - DN
-- Grönländsk flygtrafik ställs in - Västerbottens-Kuriren
+- DN Direkt - Två dödade i masskjutning i USA - DN.se - DN
+- Uppgifter: Trump-män försöker infiltrera Grönland - GP
 - Expert: Ryssarna krigar ikapp propagandabilden - SvD
-- MSB kallar till extramöte efter cyberattacken - GP
-- Kraftig brand rasade – lägenheter förstörda - Expressen
-- Kommunveto mot uranbrytning försvinner - GP
+- Ica-butiken tröttnade – släpper bara in en skolungdom i taget - Aftonbladet
+- Carl-Oskar Bohlin (M) om cyberattacken: ”Säkerheten är eftersatt” - SVT Nyheter
+- Maria Gunther: Så farligt är det att bryta uran - DN
 - Trump ska hålla möte om Gazas framtid - Hufvudstadsbladet
-- Olycka med motorcross – en person avliden - SVT Nyheter
-- DN Direkt - Chat GPT görs om sedan tonåring begick självmord - DN.se - DN
-- Omfattande jakt på rysk ubåt i Norge - UNT
-- DN Direkt - Trump gör verklighet av hot – tullar mot Indien fördubblas - DN.se - DN
-- Hanna Grosshög: Danska ursäkten viktig delseger för Grönlands kvinnor - DN
+- Israels elitsoldater som gått från hjältar till symboler för allt som gått snett - Expressen
+- Omfattande jakt på rysk ubåt i Norge - Västerbottens-Kuriren
+- Erik Esbjörnsson: Afrikanska unionen vill rita om världskartan – till Sveriges nackdel - DN
 - Påve Leo XIV vädjar om ett slut på konflikten – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Trumps tullchock mot Indien i kraft - GP
 - EU tar snabbspår om tullar för att blidka Trump - Tidningen Näringslivet
-- Så görs indexfonderna om – SHB vinnare - EFN
-- Pantkaos ska stoppas – statligt register införs - SvD
+- Ytterligare tre av Swedbank Roburs fonder utvalda i Fondtorgsnämndens upphandling - Cision News
 - ISK-skatten höjs – och sänks för nära 4 miljoner sparare 2026 - Dagens PS
+- Försvarsministern om potentiell Gripenaffär: "Peru är i sluttampen" - Affärsvärlden
 - Underhållsarbete av fjärrvärme 1 september - Hammarö kommun
 - DEBATT: Smittskyddsinstitutet var för litet för covid - Expressen
 
@@ -31,22 +31,22 @@ _Updated: 2025-08-27 18:46_
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
-- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - World Athletics introduces gene test for female category - BBC
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- 7 saker om EQTY Global Growth II Fund - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Daesang Group Showcases Global Talent at 5th University Student Smartphone Film Festival - Placera.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
+- Daesang Group Showcases Global Talent at 5th University Student Smartphone Film Festival - Placera.se
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
 
 ## Technology
 
@@ -128,6 +128,7 @@ _Updated: 2025-08-27 18:46_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
@@ -138,27 +139,26 @@ _Updated: 2025-08-27 18:46_
 - Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Lantbruket i Polen lyfte med EU - Jordbruksaktuellt
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
-- Stor nyhet för matglada katter - Mynewsdesk
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
