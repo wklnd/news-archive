@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-27 20:46_
+_Updated: 2025-08-27 21:37_
 
 ## Top Stories
 
 - Skjutning vid katolsk kyrka i USA – två barn dödade - DN
-- Detta vet vi om Israels sjukhusattack i Gaza - GP
 - Misstänkt farligt föremål i Göteborg – bombskyddet larmat - GP
-- DN Direkt - MSB kallar till extramöte efter cyberattacken - DN.se - DN
-- Expert: Ryssarna krigar ikapp propagandabilden - SvD
+- Detta vet vi om Israels sjukhusattack i Gaza - GP
+- Ewa Stenberg: En kamp om Grönland som kan få Nato att brista - DN
+- Carl-Oskar Bohlin (M) om cyberattacken: ”Säkerheten är eftersatt” - SVT Nyheter
 - Branden i Högsbo – framtiden oviss för flera boende - SVT Nyheter
-- Onanist gripen i Stockholm - Expressen
 - Trump ska hålla möte om Gazas framtid - Hufvudstadsbladet
-- Husbilar i krock – avstängt på E6 - Expressen
+- Onanist gripen i Stockholm - Expressen
+- DN Direkt - Chat GPT görs om sedan tonåring begick självmord - DN.se - DN
 - Maria Gunther: Så farligt är det att bryta uran - DN
-- Grönländsk flygtrafik ställs in - Västerbottens-Kuriren
-- Omfattande jakt på rysk ubåt i Norge - UNT
+- Hanna Grosshög: Danska ursäkten viktig delseger för Grönlands kvinnor - DN
 - Israel vill stoppa svältvarning om Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Omfattande jakt på rysk ubåt i Norge - UNT
 - Erik Esbjörnsson: Afrikanska unionen vill rita om världskartan – till Sveriges nackdel - DN
 - EU tar snabbspår om tullar för att blidka Trump - Tidningen Näringslivet
 - Ytterligare tre av Swedbank Roburs fonder utvalda i Fondtorgsnämndens upphandling - Cision News
-- Rapport visar att flickors skolresultat sjunker - Regeringen.se
-- ISK-skatten höjs – och sänks för miljoner sparare 2026 - Dagens PS
+- Räntefrossa efter Trumps Fed-attack - SvD
+- Ödesdag för börsen när halvledarjätte rapporterar - DN
 - Underhållsarbete av fjärrvärme 1 september - Hammarö kommun
 - DEBATT: Smittskyddsinstitutet var för litet för covid - Expressen
 
@@ -30,45 +30,45 @@ _Updated: 2025-08-27 20:46_
 - NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- Riad Beladi i samtal med Alice Ancona, operativ chef för World Trade Center Miami – Fokus på America Food & Beverage Show & Conference – International Supermarket News - International Supermarket News
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - World Athletics introduces gene test for female category - BBC
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Daesang Group Showcases Global Talent at 5th University Student Smartphone Film Festival - Placera.se
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
+- BIG Travel går in i globalt partnerskap - travelnews.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Nu riskerar Murdoch att förlora allt - Aftonbladet
+- Daesang Group Showcases Global Talent at 5th University Student Smartphone Film Festival - Placera.se
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
 
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Equity research, White Pearl Technology Group: A hidden gem among the tech companies - Carlsquare Corporate Finance
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- ZhongAn Online Announces 2025 Interim Results - Placera.se
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- 4 ETF:er som satsar på AI - Morningstar
+- AI-akten - Shaping Europe’s digital future
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
 
 ## Business
@@ -134,8 +134,8 @@ _Updated: 2025-08-27 20:46_
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
@@ -159,6 +159,6 @@ _Updated: 2025-08-27 20:46_
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - USA tvingar ut EU på banan - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
