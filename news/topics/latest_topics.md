@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-27 05:49_
+_Updated: 2025-08-27 06:43_
 
 ## Top Stories
 
-- Två skjutna i bil i Järfälla: ”Hörde sex skott” - Omni
+- Två skadade efter skottlossning i Järfälla - SVT Nyheter
+- Investerar i israeliska vapen - SvD
+- Oklart om värnpliktiga ska strida för Nato utomlands - DN
+- Tyskland går i bräschen: ”Just nu vill alla köpa” - SvD
 - Hamas svar: Inga militanter dödades – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Jakt efter polismördare fortsätter: ”Stanna inne” - GP
-- Hundratusentals demonstrerar i Israel mot kriget - GP
-- Man i 25-årsåldern död i motorcykelolycka - Aftonbladet
-- Läkarintyg kan ha läckt efter cyberattack mot kommuner - DN
+- ”Jag är fast i en karriär med hög lön och status” - DN
+- Pressas på miljonbelopp – data kan ha läckt - UNT
+- Stölddrabbad Ica-butik sågar öppna spärrar i t-banan: ”Vi hatar det” - DN
 - Brand i flerfamiljshus – förskola evakueras - GP
-- Ung kvinna mördades – maken och svärmodern döms till livstid - DN
 - SR-chefen: ”Det är oacceptabelt” - Expressen
-- Ministerns krav: FHM ska lära av grannländerna - SVT Nyheter
-- Minst 20 döda i attack mot sjukhus i Khan Yunis – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Atarodi om israelisk utredning: Kan inte förvänta oss mycket – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- ”Historisk tabbe" hindrar flyktingar att återvända - Västerbottens-Kuriren
+- Domare: Bolsonaro ska bevakas dygnet runt - GP
 - Ukraina bekräftar nya ryska intrång i sydost - UNT
-- ”Israels folk vill få slut på den här mardrömmen” - Västerbottens-Kuriren
-- Stubb: Hoppas Trump lessnar på Putin snart - Västerbottens-Kuriren
-- Flyttsugen? Här är det köpläge på bostäder just nu - Expressen
+- Trumps nya vapen mot fienderna: gamla bolån - DN
+- Trendbrott: Kraven hos Kronofogden dyker - SvD
+- Bistånds- och utrikeshandelsminister Benjamin Dousa samtalar med företag om EU-USA:s ramverk om handelsrelationer - Regeringen.se
 - Pensionssystemet ska få en ”gas” – kritiseras som otillräckligt - tidningensyre.se
-- Lotta Ilona Häyrynen: SJ:s sparkade matriark får i alla fall en fallskärm - ETC.se
-- Spotify lanserar meddelandetjänst - Dagens industri
 - Röda galaxer ledtråd till universums födelse - Forskning.se
-- Apple bekräftar iPhone 17-event den 9:e september - Macworld.se
+- Flamingos avslöjar hemligheter om åldrande - SvD
 
 ## World News
 
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - World Athletics introduces gene test for female category - BBC
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
+- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
 - TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
 - Den hetaste nya trenden inom global utbildning - The Portugal News
-- Liberty International i Stockholm växer - travelnews.se
-- Nu riskerar Murdoch att förlora allt - Aftonbladet
+- How Sudan’s collapse exposes America’s fading global power - Poddtoppen
 - Portugal: En växande hubb för global teknik - The Portugal News
 
 ## Technology
@@ -97,15 +97,15 @@ _Updated: 2025-08-27 05:49_
 ## Health
 
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
@@ -114,8 +114,8 @@ _Updated: 2025-08-27 05:49_
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
@@ -150,15 +150,15 @@ _Updated: 2025-08-27 05:49_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Framtidens jordbruk är regenerativt - greenpeace.org
+- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Här är världens största jordbruk - ATL
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Lantbruket i Polen lyfte med EU - Jordbruksaktuellt
 - Data blir en tillgång för bönderna - Land Lantbruk
