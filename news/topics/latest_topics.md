@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-27 16:43_
+_Updated: 2025-08-27 17:41_
 
 ## Top Stories
 
-- Konsumentverket vill förbjuda telefonförsäljning - SVT Nyheter
+- Skjutning vid katolsk skola i Minneapolis - SVT Nyheter
 - Trump-kopplade män misstänks för kampanj i Grönland - DN
-- Trafikolycka vid Vadstena – man i 70-årsåldern allvarlig skadad - SVT Nyheter
+- Liberalerna positiva till förbud mot telefonförsäljning - Liberalerna
 - Expert: Ryssarna krigar ikapp propagandabilden - SvD
-- Branden i Högsbo: Ingen prognos - GP
-- Förslaget: Så ska sjukhusen i Kronoberg styras i framtiden - SVT Nyheter
+- Rasrisk från taket efter branden i Högsbo - GP
+- Trafikolycka utanför Vadstena – man med livshotade skador - SVT Nyheter
 - MSB samlar myndigheter över hela landet till extrainsatt möte om cyberattack - SVT Nyheter
 - Maria Gunther: Så farligt är det att bryta uran - DN
 - Olycka med motorcross – en person avliden - SVT Nyheter
-- Två unga män skjutna i bil vid skola - Västerbottens-Kuriren
+- 27 augusti 02.44, Mord/dråp, försök, Järfälla - polisen.se
 - Omfattande jakt på rysk ubåt i Norge - UNT
-- Trump straffar Indien med skyhöga tullar – efter landets köpet av rysk olja - ETC.se
 - DN Direkt - Danmark ber om ursäkt till grönländska kvinnor - DN.se - DN
-- Däck har exploderat på plan – undersöks i luften vid Arlanda - Sydsvenskan
+- Trumps jättetullar mot Indien i kraft: ”En strategisk chock” - Nyteknik
+- Påve Leo XIV vädjar om ett slut på konflikten – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - EU tar snabbspår om tullar för att blidka Trump - Tidningen Näringslivet
-- Axfood återkallar ägg efter salmonellalarm hos producent - Axfood
-- Försvarsministern om potentiell Gripenaffär: "Peru är i sluttampen" - Affärsvärlden
+- Ytterligare tre av Swedbank Roburs fonder utvalda i Fondtorgsnämndens upphandling - Cision News
 - Ödesdag för börsen när halvledarjätte rapporterar - DN
-- Anthropic lanserar Claude-tillägg för Chrome - PC för Alla
+- Regeringen tog emot Perus försvarsminister och utrikesminister på Karlbergs slott - Regeringen.se
 - Underhållsarbete av fjärrvärme 1 september - Hammarö kommun
+- Flamingor avslöjar hemligheter om åldrande - Aftonbladet
 
 ## World News
 
-- NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
+- Daesang Group Showcases Global Talent at 5th University Student Smartphone Film Festival - Placera.se
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
+- NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - New Secretary General appointed - Olof Palme International Center
-- Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
+- Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World Athletics introduces gene test for female category - BBC
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
-- Fosun International Announces 2025 Interim Results: Steady Growth in Core Businesses with Accelerated Innovation and Globalization - Placera.se
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- Fosun International Announces 2025 Interim Results: Steady Growth in Core Businesses with Accelerated Innovation and Globalization - Placera.se
 
 ## Technology
 
@@ -73,26 +73,26 @@ _Updated: 2025-08-27 16:43_
 
 ## Business
 
-- FREEMAN FINALIZES OPTION PAYMENT, ACQUIRES 46 UNPATENTED MINING CLAIMS, SECURES 100% OWNERSHIP OF THE LEMHI GOLD PROJECT - Placera.se
 - Valour Rings the Bell at SIX Swiss Exchange to Mark Inaugural Listings of HBAR and ICP Staking ETPs - Placera.se
+- Publication of the 2024 annual financial statements - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Volta Finance Limited Net Asset Value(s) as at 31 July 2025 - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Accord Announces Second Quarter Financial Results - Placera.se
+- FREEMAN FINALIZES OPTION PAYMENT, ACQUIRES 46 UNPATENTED MINING CLAIMS, SECURES 100% OWNERSHIP OF THE LEMHI GOLD PROJECT - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- REPAY Appoints New Chief Financial Officer - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
-- CHAMPION IRON ANNOUNCES THE DEPARTURE OF ITS CHIEF FINANCIAL OFFICER - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- REPAY Appoints New Chief Financial Officer - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- CHAMPION IRON ANNOUNCES THE DEPARTURE OF ITS CHIEF FINANCIAL OFFICER - Placera.se
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 
 ## Health
 
@@ -122,13 +122,13 @@ _Updated: 2025-08-27 16:43_
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning | Centrum för kritiska kulturarvsstudier - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
@@ -136,16 +136,15 @@ _Updated: 2025-08-27 16:43_
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
@@ -153,12 +152,13 @@ _Updated: 2025-08-27 16:43_
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Här är världens största jordbruk - ATL
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- USA tvingar ut EU på banan - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
