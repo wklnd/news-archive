@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-27 12:42_
+_Updated: 2025-08-27 13:37_
 
 ## Top Stories
 
-- DN Direkt - Isak med i VM-kvaltruppen i fotboll - DN.se - DN
-- Konsumentverket vill förbjuda telefonförsäljning - SVT Nyheter
-- Uppgifter: Trump-män försöker infiltrera Grönland - Västerbottens-Kuriren
+- Dahl Thomassons VM-kvaltrupp presenterad - Svensk fotboll
+- Två skadade i ny skjutning i Järfälla - DN
 - Expert: Ryssarna krigar ikapp propagandabilden - SvD
-- Flygplan har nödlandat på Arlanda – däck exploderade - GP
-- Ny skjutning i Järfälla - 8 Sidor
-- Svenska fonder investerar i israeliska vapen - SVT Nyheter
-- Kommuner drabbade i cyberattack – Ronneby bekräftar personuppgiftsincident - SVT Nyheter
-- JUST NU: Döde mannen i älven – så fortsätter polisens arbete: ”Kartlägger en persons liv” - NWT
+- Uppgifter: Trump-män försöker infiltrera Grönland - Hufvudstadsbladet
+- Brand i flerfamiljshus – förskola evakueras - GP
+- Akut vattenbrist över i Stockholm - Dagens industri
+- DN Direkt - Svenska fonder investerar i svartlistat israeliskt vapenföretag - DN.se - DN
 - Detta vet vi om Israels sjukhusattack i Gaza - Västerbottens-Kuriren
-- Trump straffar Indien med skyhöga tullar – efter landets köpet av rysk olja - ETC.se
+- Pressas på miljonbelopp – data kan ha läckt - UNT
+- Person hittad död i älven med bakbundna händer – nya uppgifter om identiteten - VF
+- Trumps tullchock mot Indien i kraft - Tidningen Näringslivet
+- Omfattande jakt på rysk ubåt i Norge - Västerbottens-Kuriren
 - Atarodi om israelisk utredning: Kan inte förvänta oss mycket – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Stockholmare kan använda vattnet som vanligt - Expressen
-- Oron: Renad från Gaza säger plötsligt hej då - Aftonbladet
+- Frederiksen ber om ursäkt för spiralskandal - GP
 - Ytterligare tre av Swedbank Roburs fonder utvalda i Fondtorgsnämndens upphandling - Cision News
-- Så viktigt är Nvidia för svenska soffliggare - SvD
-- Nordea: Räkna inte med någon räntesänkning nästa år - Dagens industri
 - Axfood återkallar ägg efter salmonellalarm hos producent - Axfood
+- Ödesdag för börsen när halvledarjätte rapporterar - DN
+- Nordea: Räkna inte med någon räntesänkning nästa år - Dagens industri
 - Google förbättrar bildredigeraren i chattboten Gemini - Computer Sweden
-- Flamingos avslöjar hemligheter om åldrande - Aftonbladet
+- Claude kommer till Chrome - Computer Sweden
 
 ## World News
 
@@ -54,6 +54,7 @@ _Updated: 2025-08-27 12:42_
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
+- Spår superintelligens om tio år – vill leda racet - Omni
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -65,7 +66,6 @@ _Updated: 2025-08-27 12:42_
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - 4 ETF:er som satsar på AI - Morningstar
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
@@ -82,17 +82,17 @@ _Updated: 2025-08-27 12:42_
 - DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Publication of the 2024 annual financial statements - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - FREEMAN FINALIZES OPTION PAYMENT, ACQUIRES 46 UNPATENTED MINING CLAIMS, SECURES 100% OWNERSHIP OF THE LEMHI GOLD PROJECT - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Mark A. Chancy Elected to Wells Fargo’s Board of Directors - Placera.se
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Wells Fargo Investment Institute Releases Midyear Outlook “Eyes Forward: Opportunities and Obstacles” - Placera.se
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
-- Wells Fargo Investment Institute Releases Midyear Outlook “Eyes Forward: Opportunities and Obstacles” - Placera.se
+- Wells Fargo Names Jessica Lupovici to Lead Its Middle Market Banking East Region - Placera.se
 
 ## Health
 
@@ -103,31 +103,32 @@ _Updated: 2025-08-27 12:42_
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
@@ -135,30 +136,29 @@ _Updated: 2025-08-27 12:42_
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Nyheter - LRF - Lantbrukarnas Riksförbund
-- Här är världens största jordbruk - ATL
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Här är världens största jordbruk - ATL
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
