@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-27 13:37_
+_Updated: 2025-08-27 15:04_
 
 ## Top Stories
 
-- Dahl Thomassons VM-kvaltrupp presenterad - Svensk fotboll
-- Två skadade i ny skjutning i Järfälla - DN
+- MSB kallar till extrainsatt möte om cyberattack - SVT Nyheter
 - Expert: Ryssarna krigar ikapp propagandabilden - SvD
-- Uppgifter: Trump-män försöker infiltrera Grönland - Hufvudstadsbladet
-- Brand i flerfamiljshus – förskola evakueras - GP
-- Akut vattenbrist över i Stockholm - Dagens industri
+- Uppgifter: Trump-män försöker infiltrera Grönland - GP
+- Risk för takras efter brand i Göteborg - Omni
+- Förslaget: Så ska sjukhusen i Kronoberg styras i framtiden - SVT Nyheter
+- Två skadade i ny skjutning i Järfälla - DN
 - DN Direkt - Svenska fonder investerar i svartlistat israeliskt vapenföretag - DN.se - DN
-- Detta vet vi om Israels sjukhusattack i Gaza - Västerbottens-Kuriren
-- Pressas på miljonbelopp – data kan ha läckt - UNT
-- Person hittad död i älven med bakbundna händer – nya uppgifter om identiteten - VF
-- Trumps tullchock mot Indien i kraft - Tidningen Näringslivet
-- Omfattande jakt på rysk ubåt i Norge - Västerbottens-Kuriren
-- Atarodi om israelisk utredning: Kan inte förvänta oss mycket – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Frederiksen ber om ursäkt för spiralskandal - GP
-- Ytterligare tre av Swedbank Roburs fonder utvalda i Fondtorgsnämndens upphandling - Cision News
-- Axfood återkallar ägg efter salmonellalarm hos producent - Axfood
-- Ödesdag för börsen när halvledarjätte rapporterar - DN
+- JUST NU: Polisens nya besked: ”Vi har en aning” - NWT
+- SR-chefen: ”Det är oacceptabelt” - Expressen
+- Ministerns krav: FHM ska lära av grannländerna - SVT Nyheter
+- Omfattande jakt på rysk ubåt i Norge - UNT
+- Trump straffar Indien med skyhöga tullar – efter landets köpet av rysk olja - ETC.se
+- Frederiksen ber om ursäkt för spiralskandal - Västerbottens-Kuriren
+- Däck har exploderat på plan – undersöks i luften - GP
+- Konsumentverket vill förbjuda telefonförsäljning - SVT Nyheter
+- Oron inför ödesrapporten: ”Aldrig varit så här snävt” - EFN
 - Nordea: Räkna inte med någon räntesänkning nästa år - Dagens industri
-- Google förbättrar bildredigeraren i chattboten Gemini - Computer Sweden
-- Claude kommer till Chrome - Computer Sweden
+- Axfood återkallar ägg efter salmonellalarm hos producent - Axfood
+- Anthropic lanserar Claude-tillägg för Chrome - PC för Alla
+- Underhållsarbete av fjärrvärme 1 september - Hammarö kommun
 
 ## World News
 
@@ -41,12 +41,12 @@ _Updated: 2025-08-27 13:37_
 - World Athletics introduces gene test for female category - BBC
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - BIG Travel går in i globalt partnerskap - travelnews.se
+- Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- OhioHealth Partners with bioMérieux as Newest Global Antimicrobial Stewardship Center of Excellence - Placera.se
 
 ## Technology
 
@@ -69,53 +69,53 @@ _Updated: 2025-08-27 13:37_
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- CI&T is Among 19 Global Leaders Selected for AWS Generative AI Partner Innovation Alliance - Placera.se
+- Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
 
 ## Business
 
+- FREEMAN FINALIZES OPTION PAYMENT, ACQUIRES 46 UNPATENTED MINING CLAIMS, SECURES 100% OWNERSHIP OF THE LEMHI GOLD PROJECT - Placera.se
 - Valour Rings the Bell at SIX Swiss Exchange to Mark Inaugural Listings of HBAR and ICP Staking ETPs - Placera.se
-- DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Volta Finance Limited Net Asset Value(s) as at 31 July 2025 - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Accord Announces Second Quarter Financial Results - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- FREEMAN FINALIZES OPTION PAYMENT, ACQUIRES 46 UNPATENTED MINING CLAIMS, SECURES 100% OWNERSHIP OF THE LEMHI GOLD PROJECT - Placera.se
+- REPAY Appoints New Chief Financial Officer - Placera.se
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
+- CHAMPION IRON ANNOUNCES THE DEPARTURE OF ITS CHIEF FINANCIAL OFFICER - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Mark A. Chancy Elected to Wells Fargo’s Board of Directors - Placera.se
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Wells Fargo Investment Institute Releases Midyear Outlook “Eyes Forward: Opportunities and Obstacles” - Placera.se
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
-- Wells Fargo Names Jessica Lupovici to Lead Its Middle Market Banking East Region - Placera.se
 
 ## Health
 
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 
 ## Science
 
@@ -145,20 +145,20 @@ _Updated: 2025-08-27 13:37_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Här är världens största jordbruk - ATL
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Här är världens största jordbruk - ATL
-- Nyheter - LRF - Lantbrukarnas Riksförbund
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
