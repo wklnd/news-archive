@@ -1,49 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-27 21:37_
+_Updated: 2025-08-27 22:41_
 
 ## Top Stories
 
 - Skjutning vid katolsk kyrka i USA – två barn dödade - DN
-- Misstänkt farligt föremål i Göteborg – bombskyddet larmat - GP
-- Detta vet vi om Israels sjukhusattack i Gaza - GP
-- Ewa Stenberg: En kamp om Grönland som kan få Nato att brista - DN
-- Carl-Oskar Bohlin (M) om cyberattacken: ”Säkerheten är eftersatt” - SVT Nyheter
-- Branden i Högsbo – framtiden oviss för flera boende - SVT Nyheter
+- Israels elitsoldater som gått från hjältar till symboler för allt som gått snett - Expressen
+- Misstänkt farligt föremål i centrala Göteborg - SVT Nyheter
+- ”En amerikan kan inte vara anonym på Grönland” - GP
+- Göteborgs stad i krismöten efter cyberattacken - GP
+- Medier: Alla Nord Stream-misstänkta identifierade - SvD
 - Trump ska hålla möte om Gazas framtid - Hufvudstadsbladet
+- MP-utspel: Lägg ner Trafikverket - GP
 - Onanist gripen i Stockholm - Expressen
-- DN Direkt - Chat GPT görs om sedan tonåring begick självmord - DN.se - DN
 - Maria Gunther: Så farligt är det att bryta uran - DN
-- Hanna Grosshög: Danska ursäkten viktig delseger för Grönlands kvinnor - DN
-- Israel vill stoppa svältvarning om Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Omfattande jakt på rysk ubåt i Norge - UNT
+- USA i FN: Israel inte orsak till svält i Gaza - Västerbottens-Kuriren
 - Erik Esbjörnsson: Afrikanska unionen vill rita om världskartan – till Sveriges nackdel - DN
-- EU tar snabbspår om tullar för att blidka Trump - Tidningen Näringslivet
+- Fälld nynazist till kvinnofängelse – bytte kön efter domen - DN
+- Ukraina bekräftar nya ryska intrång i sydost - UNT
+- SvK tecknar jättekontrakt med NCC: ”Vårt största avtal någonsin” - Dagens industri
 - Ytterligare tre av Swedbank Roburs fonder utvalda i Fondtorgsnämndens upphandling - Cision News
-- Räntefrossa efter Trumps Fed-attack - SvD
-- Ödesdag för börsen när halvledarjätte rapporterar - DN
-- Underhållsarbete av fjärrvärme 1 september - Hammarö kommun
+- EU tar snabbspår om tullar för att blidka Trump - Tidningen Näringslivet
+- Rapport visar att flickors skolresultat sjunker - Regeringen.se
 - DEBATT: Smittskyddsinstitutet var för litet för covid - Expressen
+- Underhållsarbete av fjärrvärme 1 september - Hammarö kommun
 
 ## World News
 
 - NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
+- 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Riad Beladi i samtal med Alice Ancona, operativ chef för World Trade Center Miami – Fokus på America Food & Beverage Show & Conference – International Supermarket News - International Supermarket News
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- World Athletics introduces gene test for female category - BBC
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- 7 saker om EQTY Global Growth II Fund - The Portugal News
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- BIG Travel går in i globalt partnerskap - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- World Athletics introduces gene test for female category - BBC
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
+- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Daesang Group Showcases Global Talent at 5th University Student Smartphone Film Festival - Placera.se
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
@@ -52,8 +52,10 @@ _Updated: 2025-08-27 21:37_
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
@@ -61,15 +63,13 @@ _Updated: 2025-08-27 21:37_
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - 4 ETF:er som satsar på AI - Morningstar
-- AI-akten - Shaping Europe’s digital future
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
+- CI&T is Among 19 Global Leaders Selected for AWS Generative AI Partner Innovation Alliance - Placera.se
 
 ## Business
 
