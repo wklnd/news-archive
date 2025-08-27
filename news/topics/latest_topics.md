@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-27 07:41_
+_Updated: 2025-08-27 08:48_
 
 ## Top Stories
 
+- Uppgifter: Män med kopplingar till Trump försöker infiltrera Grönland - GP
 - DN Direkt - Två skadade i ny skjutning i Järfälla - DN.se - DN
-- Jakt efter polismördare fortsätter: ”Stanna inne” - GP
-- Tyskland går i bräschen: ”Just nu vill alla köpa” - SvD
-- Liberalerna under spärren efter två månader med nya ledaren - GP
-- ”Vänsterpartiet brottas med den interna antisemitismen” - Västerbottens-Kuriren
+- Flickors betyg i skolan sjunker - GP
 - DN Direkt - Svenska fonder investerar i svartlistat israeliskt vapenföretag - DN.se - DN
+- Liberalerna under spärren efter två månader med nya ledaren - GP
+- Tyskland går i bräschen: ”Just nu vill alla köpa” - SvD
 - Oklart om värnpliktiga ska strida för Nato utomlands - DN
-- Pressas på miljonbelopp – data kan ha läckt - UNT
-- Stölddrabbad Ica-butik sågar öppna spärrar i t-banan: ”Vi hatar det” - DN
+- Gina Gustavsson: Är det en tillfällighet att så många av de inkompetenta cheferna är kvinnor? - DN
+- Göteborgs stad och Mellerud polisanmäler cyberangrepp – oro för anställdas data - SVT Nyheter
 - Brand i flerfamiljshus – förskola evakueras - GP
 - SR-medarbetare skadad i sjukhusattack – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- DN Direkt - Uppgifter om amerikansk påverkanskampanj mot Grönland - DN.se - DN
-- ”Historisk tabbe" hindrar flyktingar att återvända - Västerbottens-Kuriren
+- DN Direkt - Boeing vinnare på stillsam börs i USA - DN.se - DN
+- USA:s 50%-tullar mot Indien träder i kraft - Affärsvärlden
 - Ukraina bekräftar nya ryska intrång i sydost - UNT
-- Trumps tullchock mot Indien i kraft - Aftonbladet
+- DN Direkt - Trendbrott på Kronofogden – färre kravbrev - DN.se - DN
+- Rekordmånga på svarta listan – de är värst - Sydsvenskan
 - Räntekurvan brantare när Trump pressar Fed - Dagens industri
-- DN Direkt - Trump gör verklighet av hot – tullar mot Indien fördubblas - DN.se - DN
-- Lurad småsparare manar drabbade till samarbete - Dagens industri
+- Northvolt-anställda ägde aktier som blev värdelösa - Västerbottens-Kuriren
 - Flamingos avslöjar hemligheter om åldrande - Aftonbladet
 - Röda galaxer ledtråd till universums födelse - Forskning.se
 
@@ -36,17 +36,17 @@ _Updated: 2025-08-27 07:41_
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Lars Henrikson – ny global chef för Mölndals-baserade DENTSPLY Implants - Dental Tribune US
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- Den hetaste nya trenden inom global utbildning - The Portugal News
 - How Sudan’s collapse exposes America’s fading global power - Poddtoppen
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 
 ## Technology
 
@@ -119,26 +119,26 @@ _Updated: 2025-08-27 07:41_
 
 ## Science
 
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Simple math behind major bison blunder - Forskning & Framsteg
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
-- Irene Jensen - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
@@ -154,9 +154,9 @@ _Updated: 2025-08-27 07:41_
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
