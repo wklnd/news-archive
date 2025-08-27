@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-27 01:38_
+_Updated: 2025-08-27 04:13_
 
 ## Top Stories
 
-- Pressas på miljonbelopp – data kan ha läckt - UNT
-- Brand i flerfamiljshus – förskola evakueras - GP
 - Hamas svar: Inga militanter dödades – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Intensiv bergsjakt efter polismördare - SvD
+- Intensiv jakt på australisk polismördare - GP
+- Hundratusentals demonstrerar i Israel mot kriget - GP
+- Domare: Bolsonaro ska bevakas dygnet runt - SvD
+- Läkarintyg kan ha läckt efter cyberattack mot kommuner - DN
 - Man i 25-årsåldern död i motorcykelolycka - Aftonbladet
-- Tyska draget: kopierar den svenska värnplikten - SvD
 - Ung kvinna mördades – maken och svärmodern döms till livstid - DN
-- Sjukhus i stabsläge efter misstänkt svampförgiftning - DN
-- ”Kan vara slut till helgen” - Allehanda.se
+- Brand i flerfamiljshus – förskola evakueras - GP
+- SR-chefen: ”Det är oacceptabelt” - Expressen
 - Ministerns krav: FHM ska lära av grannländerna - SVT Nyheter
-- Demonstranter rasar mot Netanyahus regering - GP
 - Målning stals av nazisterna – dök upp i mäklarannons - DN
 - Ukraina bekräftar nya ryska intrång i sydost - UNT
-- Stubb: Hoppas Trump lessnar på Putin snart - Västerbottens-Kuriren
+- ”Israels folk vill få slut på den här mardrömmen” - Västerbottens-Kuriren
+- Stubb: Hoppas Trump lessnar på Putin snart - GP
+- Flyttsugen? Här är det köpläge på bostäder just nu - Expressen
 - Novo Nordisk föll tungt i Köpenhamn - Dagens industri
-- Tusen Northvolt-anställda ägde aktier – blev värdelösa - Norran
+- Pensionssystemet ska få en ”gas” – kritiseras som otillräckligt - tidningensyre.se
 - Lotta Ilona Häyrynen: SJ:s sparkade matriark får i alla fall en fallskärm - ETC.se
-- Spotify lanserar Messages – nu kan du chatta om musik i appen - Nyteknik
 - Röda galaxer ledtråd till universums födelse - Forskning.se
 - Boom! – Marshall släpper sin första partyhögtalare - m3.se
 
 ## World News
 
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
-- Malaysia lanserar sin första AI-processorchip i global teknikkapplöpning av Investing.com - Investing.com Sverige
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Riksbanken lämnar räntan oförändrad - Fastighetsvärlden
 - World Athletics introduces gene test for female category - BBC
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
-- BIG Travel går in i globalt partnerskap - travelnews.se
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
-- Portugal i hjärtat av en global fastighetsrörelse - The Portugal News
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- BIG Travel går in i globalt partnerskap - travelnews.se
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
+- TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
+- Den hetaste nya trenden inom global utbildning - The Portugal News
 - How Sudan’s collapse exposes America’s fading global power - Poddtoppen
+- Nu riskerar Murdoch att förlora allt - Aftonbladet
+- Portugal: En växande hubb för global teknik - The Portugal News
 
 ## Technology
 
@@ -58,6 +58,7 @@ _Updated: 2025-08-27 01:38_
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Equity research, White Pearl Technology Group: A hidden gem among the tech companies - Carlsquare Corporate Finance
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
@@ -65,11 +66,10 @@ _Updated: 2025-08-27 01:38_
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - 4 ETF:er som satsar på AI - Morningstar
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Avant Technologies and Ainnova Tech Advance Clinical Trial Protocol Following FDA Feedback - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- CI&T is Among 19 Global Leaders Selected for AWS Generative AI Partner Innovation Alliance - Placera.se
+- Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
 
 ## Business
 
@@ -86,8 +86,8 @@ _Updated: 2025-08-27 01:38_
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Volta Finance Limited Net Asset Value(s) as at 31 July 2025 - Placera.se
 - Accord Announces Second Quarter Financial Results - Placera.se
-- BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
 - REPAY Appoints New Chief Financial Officer - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
@@ -150,15 +150,15 @@ _Updated: 2025-08-27 01:38_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Här är världens största jordbruk - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Lantbruket i Polen lyfte med EU - Jordbruksaktuellt
+- Data blir en tillgång för bönderna - Land Lantbruk
