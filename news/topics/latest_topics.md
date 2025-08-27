@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-27 10:46_
+_Updated: 2025-08-27 11:41_
 
 ## Top Stories
 
-- Sarah Sjöström har blivit mamma – födde i ambulansen - DN
-- Uppgifter: Män med kopplingar till Trump försöker infiltrera Grönland - GP
-- DN Direkt - Inte längre akut vattenbrist i Stockholm - DN.se - DN
+- Efter larm om flyghaveri – planet har landat på Arlanda - SVT Nyheter
+- Förslaget: Förbjud all telefonförsäljning - SvD
+- Två skadade i ny skjutning i Järfälla - DN
+- Uppgifter: Trump-män försöker infiltrera Grönland - GP
 - Brand i flerfamiljshus – förskola evakueras - GP
-- Två unga män skjutna i Järfälla - SvD
-- Liberalerna under spärren efter två månader med nya ledaren - GP
+- DN Direkt - Inte längre akut vattenbrist i Stockholm - DN.se - DN
 - Svenska fonder investerar i israeliska vapen - SVT Nyheter
-- Oklart om värnpliktiga ska strida för Nato utomlands - DN
+- JUST NU: Döde mannen i älven – så fortsätter polisens arbete: ”Kartlägger en persons liv” - NWT
 - Gina Gustavsson: Är det en tillfällighet att så många av de inkompetenta cheferna är kvinnor? - DN
 - Pressas på miljonbelopp – data kan ha läckt - UNT
 - Atarodi om israelisk utredning: Kan inte förvänta oss mycket – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - DN Direkt - Trump gör verklighet av hot – tullar mot Indien fördubblas - DN.se - DN
-- ”Historisk tabbe" hindrar flyktingar att återvända - Västerbottens-Kuriren
-- BEDRÄGERI: Coop varnar för bluff-meddelanden: ”Ring inte upp” - NWT
-- Avanza Zero försvinner från PPM:s fondtorg - SvD
-- DN Direkt - Trendbrott på Kronofogden – färre kravbrev - DN.se - DN
-- Rekordmånga på svarta listan – de är värst - Sydsvenskan
-- Pensionssystemet ska få en ”gas” – kritiseras som otillräckligt - tidningensyre.se
+- Trump ska hålla möte om Gazas framtid - GP
+- Ukraina bekräftar nya ryska intrång i sydost - Västerbottens-Kuriren
+- Ytterligare tre av Swedbank Roburs fonder utvalda i Fondtorgsnämndens upphandling - Cision News
+- Trendbrott: Kraven hos Kronofogden dyker - Tidningen Näringslivet
+- Nordea: Räkna inte med någon räntesänkning nästa år - Dagens industri
+- Trumps nya vapen mot fienderna: gamla bolån - DN
 - Flamingos avslöjar hemligheter om åldrande - Aftonbladet
-- Röda galaxer ledtråd till universums födelse - Forskning.se
+- Apple håller lanseringsevent den 9 september - Affärsvärlden
 
 ## World News
 
@@ -58,7 +58,6 @@ _Updated: 2025-08-27 10:46_
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Equity research, White Pearl Technology Group: A hidden gem among the tech companies - Carlsquare Corporate Finance
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
@@ -70,29 +69,30 @@ _Updated: 2025-08-27 10:46_
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- CI&T is Among 19 Global Leaders Selected for AWS Generative AI Partner Innovation Alliance - Placera.se
 
 ## Business
 
+- FREEMAN FINALIZES OPTION PAYMENT, ACQUIRES 46 UNPATENTED MINING CLAIMS, SECURES 100% OWNERSHIP OF THE LEMHI GOLD PROJECT - Placera.se
 - Valour Rings the Bell at SIX Swiss Exchange to Mark Inaugural Listings of HBAR and ICP Staking ETPs - Placera.se
-- DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Publication of the 2024 annual financial statements - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Publication of the 2024 annual financial statements - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Volta Finance Limited Net Asset Value(s) as at 31 July 2025 - Placera.se
+- Accord Announces Second Quarter Financial Results - Placera.se
+- REPAY Appoints New Chief Financial Officer - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- FREEMAN FINALIZES OPTION PAYMENT, ACQUIRES 46 UNPATENTED MINING CLAIMS, SECURES 100% OWNERSHIP OF THE LEMHI GOLD PROJECT - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Mark A. Chancy Elected to Wells Fargo’s Board of Directors - Placera.se
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
-- Wells Fargo Investment Institute Releases Midyear Outlook “Eyes Forward: Opportunities and Obstacles” - Placera.se
+- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
+- CHAMPION IRON ANNOUNCES THE DEPARTURE OF ITS CHIEF FINANCIAL OFFICER - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 
 ## Health
 
@@ -100,63 +100,65 @@ _Updated: 2025-08-27 10:46_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- 5 myter om öppen vetenskap - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Sherry Nakhaeizadeh - Uppsala universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Citizen science: Inspiring examples of societal engagement for Horizon Europe - CORDIS
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- DSV i vetenskapligt samarbete med Spotify - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Nyheter - LRF - Lantbrukarnas Riksförbund
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Här är världens största jordbruk - ATL
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Framtidens jordbruk är regenerativt - greenpeace.org
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
