@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-28 04:12_
+_Updated: 2025-08-28 05:23_
 
 ## Top Stories
 
+- Minst tre döda efter stor attack mot Kiev - SvD
 - Robin Westman, 23, misstänks för masskjutningen i Minneapolis - GP
-- Explosion i villaområde i Södertälje - SVT Nyheter
-- Misstänkt farligt föremål i Göteborg – en gripen - aftonbladet.se
-- ”Deras mål är att skapa osäkerhet i samhället” - SvD
+- Får sparken – men hon vägrade lämna: ”Miljoner liv i fara” - Expressen
 - Ewa Stenberg: En kamp om Grönland som kan få Nato att brista - DN
-- Trump ska hålla möte om Gazas framtid - Hufvudstadsbladet
-- Detta vet vi om Israels sjukhusattack i Gaza - Västerbottens-Kuriren
-- MP-utspel: Lägg ner Trafikverket - GP
-- Beslut om kamerabevakning med drönare i Kungälv - polisen.se
+- Presidenten flydde efter stenkastning - Västerbottens-Kuriren
+- Naomi Abramowicz: Återvandring riskerar bli ännu en bidragskran - GP
+- Carl-Oskar Bohlin (M) om cyberattacken: ”Säkerheten är eftersatt” - SVT Nyheter
 - Maria Gunther: Så farligt är det att bryta uran - DN
+- Beslut om kamerabevakning med drönare i Kungälv - polisen.se
+- Detta vet vi om Israels sjukhusattack i Gaza - Västerbottens-Kuriren
 - Sju ukrainare misstänks för sabotaget mot Nord Stream - Skånska Dagbladet
-- Stor attack mot Kiev - Västerbottens-Kuriren
-- Israel vill stoppa svältvarning om Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- USA i FN: Israel inte orsak till svält i Gaza - GP
 - Däck har exploderat på plan – undersöks i luften vid Arlanda - Sydsvenskan
+- Fälld nynazist till kvinnofängelse – bytte kön efter domen - DN
 - Bättre än väntat för Nvidia – "AI-hajpen består" - SvD
 - SvK tecknar jättekontrakt med NCC: ”Vårt största avtal någonsin” - Dagens industri
 - EU tar snabbspår om tullar för att blidka Trump - Tidningen Näringslivet
-- Annie Reuterskiöld: Med S-beskedet släpper isen greppet om svensk energipolitik - DN
-- Årets mest hajpade spel har fått flera andra studior att skjuta upp sina spel - MovieZine
+- Källor: Kina vill trefaldiga produktionen av AI-chip nästa år - Nyteknik
 - Battlefield 6-effekten – BF2042 större än Call of Duty på Steam - FZ.se
+- Årets mest hajpade spel har fått flera andra studior att skjuta upp sina spel - MovieZine
 
 ## World News
 
-- NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
+- Daesang Group Showcases Global Talent at 5th University Student Smartphone Film Festival - Placera.se
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
+- 7 saker om EQTY Global Growth II Fund - The Portugal News
+- NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- New Secretary General appointed - Olof Palme International Center
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
+- Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- 7 saker om EQTY Global Growth II Fund - The Portugal News
-- BIG Travel går in i globalt partnerskap - travelnews.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Daesang Group Showcases Global Talent at 5th University Student Smartphone Film Festival - Placera.se
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- Fosun International Announces 2025 Interim Results: Steady Growth in Core Businesses with Accelerated Innovation and Globalization - Placera.se
 
 ## Technology
 
+- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Equity research, White Pearl Technology Group: A hidden gem among the tech companies - Carlsquare Corporate Finance
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - 4 ETF:er som satsar på AI - Morningstar
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
-- CI&T is Among 19 Global Leaders Selected for AWS Generative AI Partner Innovation Alliance - Placera.se
 
 ## Business
 
@@ -89,10 +89,10 @@ _Updated: 2025-08-28 04:12_
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Accord Announces Second Quarter Financial Results - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- REPAY Appoints New Chief Financial Officer - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
 - CHAMPION IRON ANNOUNCES THE DEPARTURE OF ITS CHIEF FINANCIAL OFFICER - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
@@ -121,24 +121,24 @@ _Updated: 2025-08-28 04:12_
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
@@ -151,7 +151,6 @@ _Updated: 2025-08-28 04:12_
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - (+) Stor undersökning av jordbruket - Arbetarskydd
 - Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
 - Små jordbruk kan mätta fler - FoodMonitor
@@ -162,3 +161,4 @@ _Updated: 2025-08-28 04:12_
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
+- Globalt jordbruk förorenar mer vatten än industrin - Land Lantbruk
