@@ -1,38 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-28 01:37_
+_Updated: 2025-08-28 04:12_
 
 ## Top Stories
 
-- 23-åringen sköt genom kyrkfönster – två barn dödades vid katolsk skola - SVT Nyheter
-- DN Direkt - Explosion vid villa i Södertälje - DN.se - DN
-- Ewa Stenberg: En kamp om Grönland som kan få Nato att brista - DN
+- Robin Westman, 23, misstänks för masskjutningen i Minneapolis - GP
+- Explosion i villaområde i Södertälje - SVT Nyheter
 - Misstänkt farligt föremål i Göteborg – en gripen - aftonbladet.se
 - ”Deras mål är att skapa osäkerhet i samhället” - SvD
-- USA i FN: Israel inte orsak till svält i Gaza - GP
+- Ewa Stenberg: En kamp om Grönland som kan få Nato att brista - DN
 - Trump ska hålla möte om Gazas framtid - Hufvudstadsbladet
 - Detta vet vi om Israels sjukhusattack i Gaza - Västerbottens-Kuriren
 - MP-utspel: Lägg ner Trafikverket - GP
+- Beslut om kamerabevakning med drönare i Kungälv - polisen.se
 - Maria Gunther: Så farligt är det att bryta uran - DN
 - Sju ukrainare misstänks för sabotaget mot Nord Stream - Skånska Dagbladet
-- Ukraina bekräftar nya ryska intrång i sydost - UNT
-- Fälld nynazist till kvinnofängelse – bytte kön efter domen - DN
+- Stor attack mot Kiev - Västerbottens-Kuriren
+- Israel vill stoppa svältvarning om Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Däck har exploderat på plan – undersöks i luften vid Arlanda - Sydsvenskan
 - Bättre än väntat för Nvidia – "AI-hajpen består" - SvD
 - SvK tecknar jättekontrakt med NCC: ”Vårt största avtal någonsin” - Dagens industri
 - EU tar snabbspår om tullar för att blidka Trump - Tidningen Näringslivet
-- Ytterligare tre av Swedbank Roburs fonder utvalda i Fondtorgsnämndens upphandling - Cision News
+- Annie Reuterskiöld: Med S-beskedet släpper isen greppet om svensk energipolitik - DN
 - Årets mest hajpade spel har fått flera andra studior att skjuta upp sina spel - MovieZine
-- DEBATT: Smittskyddsinstitutet var för litet för covid - Expressen
+- Battlefield 6-effekten – BF2042 större än Call of Duty på Steam - FZ.se
 
 ## World News
 
 - NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
-- 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -42,29 +40,31 @@ _Updated: 2025-08-28 01:37_
 - World Athletics introduces gene test for female category - BBC
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
+- 7 saker om EQTY Global Growth II Fund - The Portugal News
+- BIG Travel går in i globalt partnerskap - travelnews.se
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Daesang Group Showcases Global Talent at 5th University Student Smartphone Film Festival - Placera.se
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
 
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Equity research, White Pearl Technology Group: A hidden gem among the tech companies - Carlsquare Corporate Finance
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - 4 ETF:er som satsar på AI - Morningstar
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
@@ -89,10 +89,10 @@ _Updated: 2025-08-28 01:37_
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Accord Announces Second Quarter Financial Results - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- REPAY Appoints New Chief Financial Officer - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
 - CHAMPION IRON ANNOUNCES THE DEPARTURE OF ITS CHIEF FINANCIAL OFFICER - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
@@ -144,21 +144,21 @@ _Updated: 2025-08-28 01:37_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
+- Små jordbruk kan mätta fler - FoodMonitor
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
