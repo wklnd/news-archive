@@ -1,46 +1,46 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-28 22:40_
+_Updated: 2025-08-28 23:38_
 
 ## Top Stories
 
-- TV4 slutar sända i marknätet – blir betalkanal - SVT Nyheter
 - Två döda efter krock – gasbuss totalt utbränd - Arbetet
+- Vårdanställda i Skåne: "Ta emot Gaza-patienter" - Aftonbladet
+- Ingmar Nevéus: Därför stämplas Trump plötsligt som socialist - DN
 - TV: En person vårdas med livshotande skador - Östersunds-Posten
-- Minst 19 döda i attacker mot Kiev – EU-byggnad skadad - DN
+- Expert i Kiev: Allt svårare att hejda ryska angrepp - SvD
 - Rekordstort reformutrymme i regeringens höstbudget - DN
-- KRÖNIKA: Jag tror det är kört för Finland, vad än Ebba Witt-Brattström säger - Hufvudstadsbladet
+- Två skadade i Flemingsbergs-skjutning - SVT Nyheter
 - Insändare. Skapa en smittskyddsmyndighet med rätt kompetens - DN
-- Polisen varnar för nya fall av fysisk vishing i region Nord - polisen.se
-- Sociala medier-förbud införs i Malmös grundskolor - Omni
-- Hemligt nätverk skickar svarta pengar till Turkiet - GP
+- KRÖNIKA: Jag tror det är kört för Finland, vad än Ebba Witt-Brattström säger - Hufvudstadsbladet
+- Cyberattacken: Kommunerna som drabbats – känsliga personuppgifter kan ha läckt - NWT
 - Skenande bensinpriser får ryska bilister att ilskna till - DN
 - FN-topp: Barn i Gaza oigenkännliga - SVT Nyheter
-- Tekniktrassel på SOS Alarm - NWT
-- LKAB:s nya prognos för gruvan: "6000 personer påverkas" - NSD
+- Fejkade sin död och lämnade familjen – döms till fängelse - DN
+- Försvarsministern stöttar Danmark om Grönland - DN
 - AI-bjässens framtid avgörs i Kina - SvD
 - Tufft hitta studentbostad – men det finns ljusglimtar - Dagens industri
 - Fördubblad hampaodling i Sverige på ett år - Aftonbladet
-- Saab lanserar robot mot drönare - Saab
+- DN Direkt - Nytt försäljningsras för Tesla i Europa - DN.se - DN
 - Blommor ändrar utseende – även utan insekternas hjälp - Forskning.se
-- Playstation 6 kan bli en bärbar konsol - MovieZine
+- ”Resident Evil” blir för läskigt? Nya spelet får tryggare spelläge - MovieZine
 
 ## World News
 
 - NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
-- 7 saker om EQTY Global Growth II Fund - The Portugal News
+- F-16 ace pilot killed in training crash before Polish air show - TVP World
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Riad Beladi i samtal med Alice Ancona, operativ chef för World Trade Center Miami – Fokus på America Food & Beverage Show & Conference – International Supermarket News - International Supermarket News
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
-- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- New Secretary General appointed - Olof Palme International Center
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
@@ -61,11 +61,11 @@ _Updated: 2025-08-28 22:40_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Oron: Då tar datan på internet slut - SvD
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - ZenaTech Signs Agreements to Acquire Two Florida Companies, Expanding Drone as a Service Footprint into Aviation, Defense, and Power Washing - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
@@ -121,44 +121,44 @@ _Updated: 2025-08-28 22:40_
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Poddar och webbplatser - Forskning & Framsteg
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Här är världens största jordbruk - ATL
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
+- Små jordbruk kan mätta fler - FoodMonitor
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
+- Globalt jordbruk förorenar mer vatten än industrin - Land Lantbruk
