@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-28 11:41_
+_Updated: 2025-08-28 12:43_
 
 ## Top Stories
 
+- Buss brinner efter krock utanför Stockholm - SvD
 - Minst tio döda i attacker mot Kiev – EU-byggnad skadad - DN
-- JUST NU: Busskrock på Farstabron – kraftig brand - Nacka Värmdö Posten
-- Gapet till SD ökar – kan rucka Kristerssons maktbalans - Aftonbladet
+- Johan Carlson svarar på forskarnas kritik: SMI hade inte klarat pandemin - Dagens Medicin
 - Föremålet i Vasastan var skarpt – en gripen - GP
-- Cyberangrepp hos vår systemleverantör Miljödata - Lerums kommun
-- Explosion vid villa i Södertälje - SVT Nyheter
+- DN Direkt - Nytt försäljningsras för Tesla i Europa - DN.se - DN
+- Gapet till SD ökar – kan rucka Kristerssons maktbalans - Aftonbladet
+- Ismail Abdo begärs häktad för nya brott i Sverige - SVT Nyheter
+- Här är yrkena där folk har högst sjukskrivning – och lägst - GP
 - Rapport visar att flickors skolresultat sjunker - Regeringen.se
-- Anna-Karin Hatt om att bli partiledare: ”Det var inte ett självklart snabbt ja” - DN
-- CNN: Gazasjukhus anfölls tre gånger av Israel - Västerbottens-Kuriren
-- DEBATT: Smittskyddsinstitutet var för litet för covid - Expressen
+- Nästan dubbelt så många fångar i Sverige - Västerbottens-Kuriren
 - Uppgifter: Alla misstänkta för Nord Stream-attentatet är identifierade - Nyteknik
-- Sudan: Kriget som världen glömt bort - Global Bar Magazine
-- DN Direkt - FCK till Champions League – Claesson målskytt - DN.se - DN
+- Smittskyddschef sparkas – kaos efter vaccinbråk - Västerbottens-Kuriren
+- Sverige kräver EU-sanktioner – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Erik Esbjörnsson: Afrikanska unionen vill rita om världskartan – till Sveriges nackdel - DN
 - Tufft hitta studentbostad – men det finns ljusglimtar - Dagens industri
-- Har börsens motor börjat hacka? - SvD
-- Saab lanserar robot mot drönare - Saab
-- Ryanair vill fånga fler väskfuskare – höjer bonus - Sydsvenskan
+- Nytt försäljningsras för Tesla - Aftonbladet
+- Ny robot från Saab ska slå ut drönare - SvD
+- BRF-index visar: BRF:ers räntekostnader har rasat en tredjedel på ett år – dags att agera - Cision News
 - AI-datorer ökar kraftigt – tar över halva marknaden 2026 - Computer Sweden
-- Nationell halvledarstrategi tar form – Sverige vill stärka EU-samarbetet - Evertiq
+- Riddick, The Darkness och jobbiga storföretag – se historien om Machinegames - FZ.se
 
 ## World News
 
@@ -32,51 +32,51 @@ _Updated: 2025-08-28 11:41_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- New Secretary General appointed - Olof Palme International Center
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
-- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - World Athletics introduces gene test for female category - BBC
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- Fosun International Announces 2025 Interim Results: Steady Growth in Core Businesses with Accelerated Innovation and Globalization - Placera.se
 
 ## Technology
 
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
-- Spår superintelligens om tio år – vill leda racet - Omni
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Equity research, White Pearl Technology Group: A hidden gem among the tech companies - Carlsquare Corporate Finance
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- AI-akten - Shaping Europe’s digital future
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
+- Deepseek är det nya Linux - Computer Sweden
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
-- Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
+- Change in Aiforia Technologies Plc’s Management Team - Placera.se
 
 ## Business
 
 - FREEMAN FINALIZES OPTION PAYMENT, ACQUIRES 46 UNPATENTED MINING CLAIMS, SECURES 100% OWNERSHIP OF THE LEMHI GOLD PROJECT - Placera.se
-- Valour Rings the Bell at SIX Swiss Exchange to Mark Inaugural Listings of HBAR and ICP Staking ETPs - Placera.se
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Valour Rings the Bell at SIX Swiss Exchange to Mark Inaugural Listings of HBAR and ICP Staking ETPs - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -88,7 +88,7 @@ _Updated: 2025-08-28 11:41_
 - Volta Finance Limited Net Asset Value(s) as at 31 July 2025 - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Accord Announces Second Quarter Financial Results - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- REPAY Appoints New Chief Financial Officer - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
@@ -96,25 +96,25 @@ _Updated: 2025-08-28 11:41_
 
 ## Health
 
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
+- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
-- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Institutionen för medicinsk epidemiologi och biostatistik - Karolinska Institutet
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
 ## Science
@@ -145,20 +145,20 @@ _Updated: 2025-08-28 11:41_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Här är världens största jordbruk - ATL
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
