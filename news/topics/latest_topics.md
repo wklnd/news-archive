@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-28 21:38_
+_Updated: 2025-08-28 22:40_
 
 ## Top Stories
 
 - TV4 slutar sända i marknätet – blir betalkanal - SVT Nyheter
-- Svantesson: 80 miljarder i nya satsningar - Västerbottens-Kuriren
 - Två döda efter krock – gasbuss totalt utbränd - Arbetet
-- DN Direkt - Skottlossning i Flemingsberg – två skadade - DN.se - DN
-- DN Debatt Repliker. ”FHM väljer att missförstå min kritik – eller så förstår de bara inte” - DN
 - TV: En person vårdas med livshotande skador - Östersunds-Posten
+- Minst 19 döda i attacker mot Kiev – EU-byggnad skadad - DN
+- Rekordstort reformutrymme i regeringens höstbudget - DN
+- KRÖNIKA: Jag tror det är kört för Finland, vad än Ebba Witt-Brattström säger - Hufvudstadsbladet
+- Insändare. Skapa en smittskyddsmyndighet med rätt kompetens - DN
 - Polisen varnar för nya fall av fysisk vishing i region Nord - polisen.se
-- Ny studie: Unga har inget hopp för Sveriges framtid - GP
-- Hemligt nätverk skickar svarta pengar till Turkiet - Västerbottens-Kuriren
-- Carl-Oskar Bohlin (M) om cyberattacken: ”Säkerheten är eftersatt” - SVT Nyheter
-- Ställ din fråga till SVT:s korrespondent på plats i Ukraina - SVT Nyheter
-- FN-topp: Barn i Gaza oigenkännliga - SVT Nyheter
+- Sociala medier-förbud införs i Malmös grundskolor - Omni
+- Hemligt nätverk skickar svarta pengar till Turkiet - GP
 - Skenande bensinpriser får ryska bilister att ilskna till - DN
+- FN-topp: Barn i Gaza oigenkännliga - SVT Nyheter
 - Tekniktrassel på SOS Alarm - NWT
-- Nvidia återhämtar sig i förhandeln: ”Svårare att slå förväntningarna - Dagens industri
-- Nio av tio studenter möts av bostadsbrist - SvD
+- LKAB:s nya prognos för gruvan: "6000 personer påverkas" - NSD
+- AI-bjässens framtid avgörs i Kina - SvD
+- Tufft hitta studentbostad – men det finns ljusglimtar - Dagens industri
+- Fördubblad hampaodling i Sverige på ett år - Aftonbladet
 - Saab lanserar robot mot drönare - Saab
-- DN Direkt - Nytt försäljningsras för Tesla i Europa - DN.se - DN
 - Blommor ändrar utseende – även utan insekternas hjälp - Forskning.se
-- Samsung kommer hålla ett nytt Galaxy-event inför IFA-mässan nästa vecka - m3.se
+- Playstation 6 kan bli en bärbar konsol - MovieZine
 
 ## World News
 
@@ -33,20 +33,20 @@ _Updated: 2025-08-28 21:38_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
+- New Secretary General appointed - Olof Palme International Center
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - QuidelOrtho to Participate in the Baird 2025 Global Healthcare Conference - Placera.se
 - P&G to Webcast Presentation From the Barclays Global Consumer Staples Conference, September 4, 2025 - Placera.se
 - TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
-- Labcorp to Speak at the Morgan Stanley 23rd Annual Global Healthcare Conference - Placera.se
 
 ## Technology
 
@@ -61,14 +61,14 @@ _Updated: 2025-08-28 21:38_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Oron: Då tar datan på internet slut - SvD
-- Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - ZenaTech Signs Agreements to Acquire Two Florida Companies, Expanding Drone as a Service Footprint into Aviation, Defense, and Power Washing - Placera.se
-- Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
 
 ## Business
@@ -144,21 +144,21 @@ _Updated: 2025-08-28 21:38_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- USA tvingar ut EU på banan - Land Lantbruk
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
