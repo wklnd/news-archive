@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-28 15:45_
+_Updated: 2025-08-28 16:44_
 
 ## Top Stories
 
-- Reformer för att stärka familjerna och återhämtningen i ekonomin - Regeringen.se
+- Ytterligare en tredjedel av Kiruna påverkas av gruvan - SVT Nyheter
+- Stor risk att valfläsk får gå före samhällets bästa - Dagens Arena
 - Buss brinner efter krock utanför Stockholm - SvD
-- Minst tio döda i attacker mot Kiev – EU-byggnad skadad - Hufvudstadsbladet
-- Insändare. Skapa en smittskyddsmyndighet med rätt kompetens - DN
-- Tre till sjukhus efter frontalkrock på E14 i Mörsil - SVT Nyheter
+- Tre har rymt från Migrationsverkets förvar - Expressen
 - Föremålet i Vasastan var skarpt – en gripen - GP
+- Minst 15 döda i attacker mot Kiev – EU-byggnad skadad - DN
+- Insändare. Skapa en smittskyddsmyndighet med rätt kompetens - DN
 - Otrygga unga ser dystert på Sveriges framtid - Västerbottens-Kuriren
 - Här är yrkena där folk har högst sjukskrivning – och lägst - GP
-- Ismail Abdo begärs häktad för nya brott - GP
-- Urangruvor tillåts – slätten möjlig plats för brytning: ”Katastrof” - SVT Nyheter
+- Carl-Oskar Bohlin (M) om cyberattacken: ”Säkerheten är eftersatt” - SVT Nyheter
 - DN Direkt - Larm om flygolycka vid Helsingfors flygplats - DN.se - DN
+- USA i FN: Israel inte orsak till svält i Gaza - GP
 - En miljon drabbade av Pakistan-översvämningar - Västerbottens-Kuriren
-- Smittskyddschef sparkas – kaos efter vaccinbråk - GP
 - Försvarsministern stöttar Danmark om Grönland - DN
-- Tufft hitta studentbostad – men det finns ljusglimtar - Dagens industri
-- DN Direkt - Nytt försäljningsras för Tesla i Europa - DN.se - DN
+- Nvidia återhämtar sig i förhandeln: ”Svårare att slå förväntningarna - Dagens industri
 - Elpriserna skenar - tvingas till ovanlig elimport - SvD
-- AI-bjässens framtid avgörs i Kina - Aftonbladet
+- DN Direkt - Nytt försäljningsras för Tesla i Europa - DN.se - DN
+- Allt fler lediga studentbostäder - Sveriges Allmännytta
 - AI-datorer ökar kraftigt – tar över halva marknaden 2026 - Computer Sweden
 - Blommor ändrar utseende – även utan insekternas hjälp - Forskning.se
 
@@ -50,49 +50,49 @@ _Updated: 2025-08-28 15:45_
 
 ## Technology
 
-- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
+- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
+- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Equity research, White Pearl Technology Group: A hidden gem among the tech companies - Carlsquare Corporate Finance
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- 4 ETF:er som satsar på AI - Morningstar
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- ZenaTech Signs Agreements to Acquire Two Florida Companies, Expanding Drone as a Service Footprint into Aviation, Defense, and Power Washing - Placera.se
+- Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
-- CI&T is Among 19 Global Leaders Selected for AWS Generative AI Partner Innovation Alliance - Placera.se
 
 ## Business
 
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Valour Rings the Bell at SIX Swiss Exchange to Mark Inaugural Listings of HBAR and ICP Staking ETPs - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - FREEMAN FINALIZES OPTION PAYMENT, ACQUIRES 46 UNPATENTED MINING CLAIMS, SECURES 100% OWNERSHIP OF THE LEMHI GOLD PROJECT - Placera.se
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- REPAY Appoints New Chief Financial Officer - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Mark A. Chancy Elected to Wells Fargo’s Board of Directors - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- CHAMPION IRON ANNOUNCES THE DEPARTURE OF ITS CHIEF FINANCIAL OFFICER - Placera.se
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
 
@@ -160,5 +160,5 @@ _Updated: 2025-08-28 15:45_
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk
