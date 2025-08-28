@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-28 12:49_
+_Updated: 2025-08-28 13:48_
 
-- ‘God, come to our aid’: Community gathers to pray for victims of Minneapolis school shooting - The Guardian
+- Minneapolis community comes together to mourn two children killed in school shooting and call for change - CNN
 - White House fires CDC director who says RFK Jr. is ‘weaponizing public health’ - The Washington Post
-- Search for missing 7-month-old: Officials have 'strong indication' on location of baby's remains - ABC News
+- Rescuers race to reach victims after Russian strikes pound Kyiv, killing at least 15, including four children - CNN
 - Denmark summons U.S. envoy over claims of interference in Greenland - NPR
-- ‘Our president is listening’: Handful of Black MAGA activists in Chicago catch Trump’s eye - Chicago Tribune
-- Trump’s India tariffs take effect: Which sector will be hit, what’s exempt? - Al Jazeera
-- Trump’s D.C. Law Enforcement Takeover Has Black Parents on Edge - The New York Times
-- Missing New Orleans boy killed in alligator attack, police say - CBS News
-- Padilla’s options, Porter’s brushback, and Newsom’s crusade: 7 takeaways from POLITICO’s California summit - Politico
-- North Korean leader Kim Jong Un to attend victory celebration in China - Reuters
+- Kim and Putin top Xi’s guest list for China’s huge military parade in defiant show of unity - CNN
 - Mexico suspends postal shipments to United States over tariff confusion - Politico
+- Has Washington DC crime fallen two weeks on from Trump's takeover? - BBC
+- ICE asks for access to Chicago-area Navy base to assist operations - The Washington Post
+- How a grand jury acted as "sword" and "shield" for D.C. sandwich guy - Axios
+- Trump's doubling of tariffs hits India, damaging ties - Reuters
+- All UN Security Council members, except US, say famine in Gaza is 'man-made crisis' - Reuters
 - What to Know About Jimmy Lai’s Trial in Hong Kong - The New York Times
-- Inside La Tomatina, the ‘world’s biggest food fight’ in Spain: Photos - New York Post
-- Nvidia shares fall on a strong but not impenetrable quarter. There's still so much to like - CNBC
-- Stocks Steady as Traders Shake Off Nvidia Doubts: Markets Wrap - Bloomberg.com
+- Israel conducts landing on former air defence base in southwest Damascus - sources - Reuters
+- German government passes military service bill - DW
+- Nvidia Q2 results ahead, but shares slip on soft data center revenue, China risks - Investing.com
+- Powerball jackpot nears $1 billion mark at estimated $950 million after no one won grand prize of roughly $850 million - CBS News
 - ‘It sickens me to the core’: Newsom slams Trump's Intel deal - Politico
-- Nvidia Waiting for White House to Codify 15% Commission Plan - Bloomberg.com
+- Nvidia is caught in Trump's China trade war, and it could impact the stock market - Axios
 - Pixel 10 Pro review: Familiar hardware, filled with Google’s AI - TechCrunch
-- Samsung teases September 4 event for Galaxy Tab S11 and Galaxy S25 FE - 9to5Google
 - Google tells all 2.5 billion Gmail users: "Change your password now!" - PhoneArena
