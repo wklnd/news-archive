@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-29 00:40_
+_Updated: 2025-08-29 01:38_
 
 ## Top Stories
 
 - Två döda efter krock – gasbuss totalt utbränd - Arbetet
 - Det här vet vi om Minneapolis-skytten Robin Westman - GP
+- Ingmar Nevéus: Därför stämplas Trump plötsligt som socialist - DN
+- Larm om skottlossning – två män skadade - Västerbottens-Kuriren
 - Vårdanställda i Skåne: "Ta emot Gaza-patienter" - Aftonbladet
-- TV: En person vårdas med livshotande skador - Östersunds-Posten
-- Ställ din fråga till SVT:s korrespondent på plats i Ukraina - SVT Nyheter
-- Rekordstort reformutrymme i regeringens höstbudget - DN
-- Två skadade i Flemingsbergs-skjutning - SVT Nyheter
-- Insändare. Skapa en smittskyddsmyndighet med rätt kompetens - DN
+- USA:s sändebud: En vidrig attack mot Kiev - GP
+- Ny prognos: Tusentals fler Kirunabor måste flytta - GP
 - Åklagare: Grov utpressning kan ligga bakom cyberattacken - Arvika Nyheter
-- KRÖNIKA: Jag tror det är kört för Finland, vad än Ebba Witt-Brattström säger - Hufvudstadsbladet
-- Skenande bensinpriser får ryska bilister att ilskna till - DN
+- Rekordstort reformutrymme i regeringens höstbudget - DN
 - FN-topp: Barn i Gaza oigenkännliga - SVT Nyheter
+- Skenande bensinpriser får ryska bilister att ilskna till - DN
+- Gaza vid bristningsgräns – barn "oigenkännliga” - UNT
 - Fejkade sin död och lämnade familjen – döms till fängelse - DN
-- Tekniktrassel på SOS Alarm - Corren
+- Försvarsministern stöttar Danmark om Grönland - DN
 - Nvidia återhämtar sig i förhandeln: ”Svårare att slå förväntningarna - Dagens industri
-- Fördubblad hampaodling i Sverige på ett år - HD
 - DN Direkt - Nytt försäljningsras för Tesla i Europa - DN.se - DN
-- Nio av tio studenter möts av bostadsbrist - SvD
+- Försvarsindustrin: Saab presenterar Nimbrix - robot mot drönare - Svensk Verkstad
+- Fördubblad hampaodling i Sverige på ett år - HD
 - Blommor ändrar utseende – även utan insekternas hjälp - Forskning.se
 - ”Resident Evil” blir för läskigt? Nya spelet får tryggare spelläge - MovieZine
 
@@ -61,6 +61,7 @@ _Updated: 2025-08-29 00:40_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Oron: Då tar datan på internet slut - SvD
+- Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
@@ -69,7 +70,6 @@ _Updated: 2025-08-29 00:40_
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 
 ## Business
 
@@ -94,6 +94,29 @@ _Updated: 2025-08-29 00:40_
 - Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
 - CHAMPION IRON ANNOUNCES THE DEPARTURE OF ITS CHIEF FINANCIAL OFFICER - Placera.se
 
+## Health
+
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
+- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Johan von Schreeb - Karolinska Institutet
+- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+
 ## Science
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
@@ -104,11 +127,10 @@ _Updated: 2025-08-29 00:40_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
@@ -116,6 +138,7 @@ _Updated: 2025-08-29 00:40_
 - Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
