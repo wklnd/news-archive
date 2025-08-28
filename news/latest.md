@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-28 13:48_
+_Updated: 2025-08-28 15:16_
 
-- Minneapolis community comes together to mourn two children killed in school shooting and call for change - CNN
+- What we know about Minnesota school shooting suspect Robin Westman - ABC News
 - White House fires CDC director who says RFK Jr. is ‘weaponizing public health’ - The Washington Post
-- Rescuers race to reach victims after Russian strikes pound Kyiv, killing at least 15, including four children - CNN
-- Denmark summons U.S. envoy over claims of interference in Greenland - NPR
-- Kim and Putin top Xi’s guest list for China’s huge military parade in defiant show of unity - CNN
-- Mexico suspends postal shipments to United States over tariff confusion - Politico
+- EU delegation in Kyiv severely damaged by shock wave of Russian strike - Euronews.com
+- The road to famine: How U.S. policy failed Palestinians in Gaza - NPR
+- NFL owner secretly relapsed, got ketamine from private doctor before death - The Washington Post
 - Has Washington DC crime fallen two weeks on from Trump's takeover? - BBC
-- ICE asks for access to Chicago-area Navy base to assist operations - The Washington Post
-- How a grand jury acted as "sword" and "shield" for D.C. sandwich guy - Axios
+- ‘Our president is listening’: Handful of Black MAGA activists in Chicago catch Trump’s eye - Chicago Tribune
+- Denmark summons U.S. envoy over claims of interference in Greenland - NPR
+- Missing New Orleans boy killed in alligator attack, police say - CBS News
 - Trump's doubling of tariffs hits India, damaging ties - Reuters
+- With Russia’s help, North Korea expands its nuclear weapons capability - The Washington Post
 - All UN Security Council members, except US, say famine in Gaza is 'man-made crisis' - Reuters
-- What to Know About Jimmy Lai’s Trial in Hong Kong - The New York Times
-- Israel conducts landing on former air defence base in southwest Damascus - sources - Reuters
-- German government passes military service bill - DW
-- Nvidia Q2 results ahead, but shares slip on soft data center revenue, China risks - Investing.com
-- Powerball jackpot nears $1 billion mark at estimated $950 million after no one won grand prize of roughly $850 million - CBS News
-- ‘It sickens me to the core’: Newsom slams Trump's Intel deal - Politico
-- Nvidia is caught in Trump's China trade war, and it could impact the stock market - Axios
+- Final arguments conclude in Jimmy Lai national security trial in Hong Kong - The Guardian
+- Iran’s rial currency falls to near-record lows on European ‘snapback’ sanctions threat - AP News
+- NVIDIA Q2 Profit Soars 59% as Blackwell AI Surge Fuels Record Revenue - Yahoo Finance
+- Stock Market Today: Dow Rises After Surprise GDP, Jobless Claims; Nvidia Slides On Earnings (Live Coverage) - Investor's Business Daily
+- Amtrak’s flagship Acela trains get a long-awaited upgrade - NPR
+- Gross Domestic Product, 2nd Quarter 2025 (Second Estimate) and Corporate Profits (Preliminary) - U.S. Bureau of Economic Analysis (BEA) (.gov)
 - Pixel 10 Pro review: Familiar hardware, filled with Google’s AI - TechCrunch
-- Google tells all 2.5 billion Gmail users: "Change your password now!" - PhoneArena
+- Samsung teases September 4 event for Galaxy Tab S11 and Galaxy S25 FE - 9to5Google
