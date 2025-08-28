@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-28 05:23_
+_Updated: 2025-08-28 05:49_
 
 ## Top Stories
 
 - Minst tre döda efter stor attack mot Kiev - SvD
 - Robin Westman, 23, misstänks för masskjutningen i Minneapolis - GP
-- Får sparken – men hon vägrade lämna: ”Miljoner liv i fara” - Expressen
-- Ewa Stenberg: En kamp om Grönland som kan få Nato att brista - DN
-- Presidenten flydde efter stenkastning - Västerbottens-Kuriren
+- DN Direkt - Bättre än väntat för Nvidia - DN.se - DN
+- Luleå kommun förbereder sig för läckage av känsliga uppgifter - Kuriren
+- Misstänkt farligt föremål i Göteborg – en gripen - aftonbladet.se
 - Naomi Abramowicz: Återvandring riskerar bli ännu en bidragskran - GP
-- Carl-Oskar Bohlin (M) om cyberattacken: ”Säkerheten är eftersatt” - SVT Nyheter
 - Maria Gunther: Så farligt är det att bryta uran - DN
 - Beslut om kamerabevakning med drönare i Kungälv - polisen.se
 - Detta vet vi om Israels sjukhusattack i Gaza - Västerbottens-Kuriren
+- 27 augusti 02.44, Mord/dråp, försök, Järfälla - polisen.se
 - Sju ukrainare misstänks för sabotaget mot Nord Stream - Skånska Dagbladet
 - USA i FN: Israel inte orsak till svält i Gaza - GP
+- Ewa Stenberg: En kamp om Grönland som kan få Nato att brista - DN
 - Däck har exploderat på plan – undersöks i luften vid Arlanda - Sydsvenskan
-- Fälld nynazist till kvinnofängelse – bytte kön efter domen - DN
-- Bättre än väntat för Nvidia – "AI-hajpen består" - SvD
-- SvK tecknar jättekontrakt med NCC: ”Vårt största avtal någonsin” - Dagens industri
+- Ryanair skärper jakt på väskfuskare – höjer bonus - Dagens industri
+- Uppåt i Asien – Nvidia-utmanare klättrar - Västerbottens-Kuriren
+- Svenska kraftnät har tecknat nytt miljardavtal - Sydsvenskan
 - EU tar snabbspår om tullar för att blidka Trump - Tidningen Näringslivet
-- Källor: Kina vill trefaldiga produktionen av AI-chip nästa år - Nyteknik
 - Battlefield 6-effekten – BF2042 större än Call of Duty på Steam - FZ.se
 - Årets mest hajpade spel har fått flera andra studior att skjuta upp sina spel - MovieZine
 
 ## World News
 
-- Daesang Group Showcases Global Talent at 5th University Student Smartphone Film Festival - Placera.se
+- NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
-- NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- New Secretary General appointed - Olof Palme International Center
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World Athletics introduces gene test for female category - BBC
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
-- Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- BIG Travel går in i globalt partnerskap - travelnews.se
+- Daesang Group Showcases Global Talent at 5th University Student Smartphone Film Festival - Placera.se
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Fosun International Announces 2025 Interim Results: Steady Growth in Core Businesses with Accelerated Innovation and Globalization - Placera.se
 
@@ -68,8 +68,8 @@ _Updated: 2025-08-28 05:23_
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
+- CI&T is Among 19 Global Leaders Selected for AWS Generative AI Partner Innovation Alliance - Placera.se
 
 ## Business
 
@@ -96,17 +96,17 @@ _Updated: 2025-08-28 05:23_
 
 ## Health
 
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
