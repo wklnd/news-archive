@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-28 01:48_
+_Updated: 2025-08-28 04:15_
 
 - What we know about Minnesota school shooting suspect Robin Westman - ABC News
-- CDC Director Susan Monarez ousted, four other leaders quit health agency - CNBC
+- CDC Director Susan Monarez Resists Ouster as Other Officials Resign - The New York Times
 - Emmanuel Haro updates: Baby had been abused over time, succumbed to injuries, prosecutors say - ABC7 Los Angeles
-- Democratic win in Iowa special election breaks GOP supermajority - PBS
-- Colleges see significant drop in international students as fall semester begins - NPR
-- Trump’s planned Chicago blitz would use naval base to house ICE agents, possibly National Guard - Chicago Sun-Times
-- Grand Jury Declines to Indict Man Accused of Throwing Sandwich at Officer in D.C. - The Wall Street Journal
-- If Abrego Garcia is deported to Uganda, here’s how it might happen - NPR
-- Trump administration to take control of Washington's Union Station - Reuters
-- Denmark Summons U.S. Envoy Over Greenland Espionage Allegations - The New York Times
-- Trump holds Gaza policy meeting with Blair and Kushner, White House official says - Reuters
-- UN official says 'all hope is gone' if Israeli offensive on famine-stricken Gaza City goes ahead - AP News
-- Israeli protesters push harder for hostage deal as divide with Netanyahu deepens - CNN
-- Photos show revelers taking part in Tomatina, the tomato-throwing festival in Spain - AP News
+- Trump’s India tariffs take effect: Which sector will be hit, what’s exempt? - Al Jazeera
+- D.C. judges and grand jurors push back on Trump policing surge - The Washington Post
+- Scoop: Tony Blair and Jared Kushner brief Trump on Gaza post-war plans - Axios
+- Trump’s D.C. Law Enforcement Takeover Has Black Parents on Edge - The New York Times
+- Gavin Newsom: 'I don't think Donald Trump wants another election' - Politico
+- Department of Transportation will reclaim control of Washington's Union Station, Duffy announces - CBS News
+- Painting looted by Nazis has vanished again, say Argentine police - BBC
+- IAEA chief says Iran’s cooperation with inspectors is a ‘work in progress’ as sanctions loom - AP News
+- EU leaders open their arms to Moldova, denouncing Putin’s ‘lies’ - politico.eu
+- All UN Security Council members, except US, say famine in Gaza is 'man-made crisis' - Reuters
 - S&P 500 posts record close, dollar edges up; Nvidia shares down after the bell - Reuters
-- Trump’s Takeover of the Fed - The New York Times
+- Cracker Barrel Stock Jumps After Dumping New Logo. Now Comes the Hard Part. - Barron's
+- Trump White House pressures Fed Governor Lisa Cook to go on leave as lawsuit looms - CNBC
 - FDA limits approval for new coronavirus vaccines to high-risk people - The Washington Post
-- Teen killed himself after ‘months of encouragement from ChatGPT’, lawsuit claims - The Guardian
-- Apple Event Logo Hints at Two iPhone 17 Pro Features - MacRumors
 - Pixel 10 Pro review: Familiar hardware, filled with Google’s AI - TechCrunch
+- Samsung is Unpacking again in early September - The Verge
+- Apple Event Logo Hints at Two iPhone 17 Pro Features - MacRumors
