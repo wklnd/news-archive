@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-28 12:43_
+_Updated: 2025-08-28 13:38_
 
 ## Top Stories
 
 - Buss brinner efter krock utanför Stockholm - SvD
-- Minst tio döda i attacker mot Kiev – EU-byggnad skadad - DN
-- Johan Carlson svarar på forskarnas kritik: SMI hade inte klarat pandemin - Dagens Medicin
 - Föremålet i Vasastan var skarpt – en gripen - GP
-- DN Direkt - Nytt försäljningsras för Tesla i Europa - DN.se - DN
+- Minst tio döda i attacker mot Kiev – EU-byggnad skadad - Hufvudstadsbladet
+- Cyberangrepp hos vår systemleverantör Miljödata - Lerums kommun
 - Gapet till SD ökar – kan rucka Kristerssons maktbalans - Aftonbladet
-- Ismail Abdo begärs häktad för nya brott i Sverige - SVT Nyheter
+- CNN: Gazasjukhus anfölls tre gånger av Israel - GP
 - Här är yrkena där folk har högst sjukskrivning – och lägst - GP
 - Rapport visar att flickors skolresultat sjunker - Regeringen.se
+- Ismail Abdo begärs häktad för nya brott - DN
 - Nästan dubbelt så många fångar i Sverige - Västerbottens-Kuriren
 - Uppgifter: Alla misstänkta för Nord Stream-attentatet är identifierade - Nyteknik
-- Smittskyddschef sparkas – kaos efter vaccinbråk - Västerbottens-Kuriren
-- Sverige kräver EU-sanktioner – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Erik Esbjörnsson: Afrikanska unionen vill rita om världskartan – till Sveriges nackdel - DN
+- En miljon drabbade av Pakistan-översvämningar - Västerbottens-Kuriren
+- DN Direkt - FCK till Champions League – Claesson målskytt - DN.se - DN
+- Påvens audiens: "Kristen kärlek är inte flykt, utan beslutsam" - Vatican News
 - Tufft hitta studentbostad – men det finns ljusglimtar - Dagens industri
-- Nytt försäljningsras för Tesla - Aftonbladet
-- Ny robot från Saab ska slå ut drönare - SvD
-- BRF-index visar: BRF:ers räntekostnader har rasat en tredjedel på ett år – dags att agera - Cision News
+- DN Direkt - Åklagare lägger ner mål mot Blatter och Platini - DN.se - DN
+- AI-bjässens framtid avgörs i Kina - SvD
+- Elpriserna skenar - tvingas till ovanlig elimport - Tidningen Näringslivet
 - AI-datorer ökar kraftigt – tar över halva marknaden 2026 - Computer Sweden
 - Riddick, The Darkness och jobbiga storföretag – se historien om Machinegames - FZ.se
 
@@ -31,22 +31,22 @@ _Updated: 2025-08-28 12:43_
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Ukraine war latest: Zelenskyy condemns 'demonstrative' Russian strikes - as seven killed in Kharkiv - Sky News
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- New Secretary General appointed - Olof Palme International Center
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
-- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
+- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
-- TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- Fosun International Announces 2025 Interim Results: Steady Growth in Core Businesses with Accelerated Innovation and Globalization - Placera.se
 
 ## Technology
 
@@ -76,9 +76,9 @@ _Updated: 2025-08-28 12:43_
 - FREEMAN FINALIZES OPTION PAYMENT, ACQUIRES 46 UNPATENTED MINING CLAIMS, SECURES 100% OWNERSHIP OF THE LEMHI GOLD PROJECT - Placera.se
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Valour Rings the Bell at SIX Swiss Exchange to Mark Inaugural Listings of HBAR and ICP Staking ETPs - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Valour Rings the Bell at SIX Swiss Exchange to Mark Inaugural Listings of HBAR and ICP Staking ETPs - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
@@ -88,7 +88,7 @@ _Updated: 2025-08-28 12:43_
 - Volta Finance Limited Net Asset Value(s) as at 31 July 2025 - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Accord Announces Second Quarter Financial Results - Placera.se
-- REPAY Appoints New Chief Financial Officer - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
@@ -119,26 +119,26 @@ _Updated: 2025-08-28 12:43_
 
 ## Science
 
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
-- Simple math behind major bison blunder - Forskning & Framsteg
-- 606 forskare: Regeringen stoppar nödvändig forskning - Aftonbladet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- ”Det finns så mycket spännande forskning som väntar på att bli gjord” - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Nio miljoner till forskning om populärvetenskaplig visualisering av atmosfären - Mynewsdesk
-- Emmanuelle Charpentier tilldelas The Breakthrough Prize in Life Sciences - Mynewsdesk
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 
 ## Jordbruk
 
