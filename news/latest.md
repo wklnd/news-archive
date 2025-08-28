@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-28 18:53_
+_Updated: 2025-08-28 19:48_
 
 - Minneapolis Catholic school shooting: What we know so far - NPR
 - Lawyers for Susan Monarez say 'she remains as CDC Director', only Trump has power to 'fire her' - CNBC
 - Europe furious as deadly Russian attack damages prominent Kyiv offices - The Washington Post
-- 'Alligator Alcatraz' immigration facility will have no detainees in the next few days, Florida official says - ABC News
-- 'We didn't do enough': How U.S. policy failed Palestinians in Gaza - NPR
-- European ministers tell Rubio they'll trigger "snapback" sanctions against Iran Thursday - Axios
-- D.C. mayor: "Masked ICE agents" and out-of-town National Guard are ineffective - Axios
+- Florida's 'Alligator Alcatraz' detention facility to be empty 'within a few days' - NPR
+- Chicago prepares for National Guard to come in - Politico
+- This rule made many online purchases dirt cheap for U.S. consumers. Now it's ending - NPR
+- D.C. Democrats rebuke Mayor Muriel Bowser's comments that Trump's surge reduced crime - NBC News
 - Mississippi Museum Acquires Gun Linked to Emmett Till’s Murder - The New York Times
 - Trump's secret weapon: Housing chief Bill Pulte morphs into attack dog, wielding America's property records like a club - Fortune
-- Denmark summons U.S. envoy over claims of interference in Greenland - NPR
+- ‘Evacuate NOW!’: What it was like to sound the alarm ahead of Hurricane Katrina - Yale Climate Connections
+- Europeans launch UN sanctions process against Iran, drawing Tehran ire - Reuters
+- North Korea's Kim will meet with Xi and Putin at Chinese military parade - NPR
 - A Gaza City Neighborhood Is Now a Wasteland, Satellite Images Show - The New York Times
-- ‘This is his back yard’: police asked about booby traps and shelters as Porepunkah manhunt heads into fourth day - The Guardian
-- With Russia’s help, North Korea expands its nuclear weapons capability - The Washington Post
-- Judges retire to consider verdict in trial of Hong Kong pro-democracy firebrand Jimmy Lai - CNN
+- Manhunt underway in rugged Australian bush after gunman kills two policemen - CNN
 - Broadcom Stock Rises After Nvidia Earnings. How the Results Impact the Chip Sector. - Barron's
-- White House says it fired transportation regulator in latest move to reshape Trump government - NBC News
-- AT&T Can Provide a Dividend—and a Higher Stock Price, Too - Barron's
-- China Uncertainty Weighs On Nvidia Stock. What's Next For The AI-Chip Maker? - Investor's Business Daily
-- Sorry, Siri: Why this iPhone user is switching to the new Google Pixel 10 - MarketWatch
-- Honor’s Magic V5 is the thinnest foldable yet, but that’s not why it matters - The Verge
+- US stock indexes mostly edge higher but Nvidia shares slip; dollar weakens - Reuters
+- Union Leads in Vote at Ford Battery Plant - The New York Times
+- White House says it fired transportation regulator in latest move to reshape Trump's government - NBC News
+- Hey, Siri: Why this iPhone user is switching to the new Google Pixel 10 - MarketWatch
+- Honor launches the world’s thinnest foldable in Europe - The Verge
