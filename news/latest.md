@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-28 06:49_
+_Updated: 2025-08-28 07:48_
 
 - What we know about Minnesota school shooting suspect Robin Westman - ABC News
 - CDC director is out after less than a month; other agency leaders resign - NPR
 - Emmanuel Haro updates: Baby had been abused over time, succumbed to injuries, prosecutors say - ABC7 Los Angeles
-- John Bolton Inquiry Eyes Emails Obtained by Foreign Government - The New York Times
 - Trump’s India tariffs take effect: Which sector will be hit, what’s exempt? - Al Jazeera
-- Special election win spurs excitement among Iowa Democrats, but Republicans in the state are confident - NBC News
+- ICE asks for access to Chicago-area Navy base to assist operations - The Washington Post
+- Denmark summons U.S. envoy over claims of interference in Greenland - PBS
 - Padilla’s options, Porter’s brushback, and Newsom’s crusade: 7 takeaways from POLITICO’s California summit - Politico
 - Missing New Orleans boy killed in alligator attack, police say - CBS News
-- Gavin Newsom: 'I don't think Donald Trump wants another election' - Politico
-- Trump administration to take control of Washington's Union Station - Reuters
-- Kim Jong Un to join Putin and other leaders at China military parade - BBC
-- Bayrou: France’s survival is at stake - politico.eu
-- Trump holds Gaza policy meeting with Tony Blair and Jared Kushner - Reuters
-- European ministers tell U.S. they'll trigger "snapback" sanctions against Iran - Axios
-- Nvidia earnings recap: Stock slips despite earnings beat as China sales remain uncertain - Business Insider
-- Cracker Barrel Stock Jumps After Dumping New Logo. Now Comes the Hard Part. - Barron's
+- DOT secretary says agency will ‘take over’ Washington’s Union Station, building it already owns - Politico
+- If Abrego Garcia is deported to Uganda, here’s how it might happen - NPR
+- Putin, Kim Jong Un to attend Chinese parade in show of defiance to the West - Reuters
+- Russian ballistic missiles hit Kyiv in massive attack on Ukraine - The Kyiv Independent
+- Tony Blair attends White House meeting with Trump on postwar Gaza - The Guardian
+- European ministers tell Rubio they'll trigger "snapback" sanctions against Iran Thursday - Axios
+- US Futures, Nvidia Drop After Chipmaker’s Outlook: Markets Wrap - Bloomberg.com
+- How US restaurant chain Cracker Barrel became a Maga lightning rod - Financial Times
 - FDA issues narrower approvals for Covid boosters, revokes emergency authorizations - statnews.com
-- Trump’s Takeover of the Fed - The New York Times
+- ‘It sickens me to the core’: Newsom slams Trump's Intel deal - Politico
 - Pixel 10 Pro review: Familiar hardware, filled with Google’s AI - TechCrunch
-- Samsung is Unpacking again in early September - The Verge
+- Material 3 Expressive redesign rolls out to Google Clock, Pixel Watch app, more - 9to5Google
