@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-29 12:48_
+_Updated: 2025-08-29 13:48_
 
-- Parents of children killed in Annunciation Catholic school shooting speak out - ABC News
-- White House taps top RFK Jr. deputy as acting CDC director - The Washington Post
+- Minneapolis grieves for young shooting victims as police investigate motive - The Washington Post
+- RFK Jr. deputy Jim O'Neill chosen as acting CDC director - Axios
 - Thailand’s prime minister removed from office over leaked phone call scandal with Cambodian strongman - CNN
 - 20 years after Katrina, a Mississippi town is still waiting on FEMA funding to rebuild - CBS News
-- End of "de minimis" exemption means new tariffs on millions of packages - Axios
-- Firefighter from Oregon detained by Border Patrol while fighting wildfire - Oregon Public Broadcasting - OPB
+- US Ends Tariff Exemption for Small Packages, Upending Global E-Commerce - Bloomberg.com
+- Border Patrol arrests 2 firefighters battling Bear Gulch Fire in Washington - ABC News
+- From devastation to determination: Hurricane Katrina's legacy in pictures - NPR
 - Trump Administration Plans Immigration Crackdown in Chicago - The New York Times
-- 2 Weeks, 1,000 Arrests: How a Surge of Feds Changed D.C. Policing - The New York Times
-- Kilmar Abrego Garcia's lawyers ask judge to ban top Trump admin. officials from making "baseless public attacks" - CBS News
 - Officers found guilty in Tyre Nicholas case will have new trial - BBC
-- Contract breach or banditry? Inside the collapse of the Taliban's oil deal with China - NPR
+- Steve Witkoff’s go-it-alone diplomacy is frustrating US and European officials - Politico
+- E.U. furious as deadly Russian attack damages its Kyiv offices - The Washington Post
 - Pilot killed when F-16 jet crashes during preparations for a Polish air show - ABC News
-- Trump admin offers subdued response to Russia’s assault on Kyiv, and Europe’s outrage - Politico
-- Taiwan estimates China spent 40% more on military exercises in the Pacific last year, reaching $21 billion - CNBC
-- Trump faces key legal test in effort to exert control over Federal Reserve - The Guardian
-- Stock futures pull back after record close for the S&P 500: Live updates - CNBC
-- Tesla Is Collapsing In Europe As BYD Skyrockets - InsideEVs
-- Asia stocks mixed: China caps off stellar August, Japan falls on negative data - Investing.com
-- Honor launches the world’s thinnest foldable in Europe - The Verge
+- Rwanda says 7 deportees arrived from the US in August under agreement with Washington - CNN
+- European Nations Move to Restart Sanctions on Iran Over Nuclear Program - The New York Times
+- Trump official lodges new criminal referral against fired Fed Governor Lisa Cook - CNN
+- Shares dip from record highs before US inflation data - Reuters
+- China’s ‘big five’ banks pressured by consumer woes - Financial Times
+- Trophy-property ranches hit the market as more heirs chose to sell - CNBC
 - Hey, Siri: Why this iPhone user is switching to the new Google Pixel 10 - MarketWatch
+- Honor launches the world’s thinnest foldable in Europe - The Verge
