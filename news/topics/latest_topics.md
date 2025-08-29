@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-29 08:48_
+_Updated: 2025-08-29 09:39_
 
 ## Top Stories
 
 - Skattebetalarna fick stå för politikernas festkvällar - DN
 - USA godkänner vapen till Ukraina - SVT Nyheter
-- FN-anställda vill att Gaza klassas som folkmord – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Två döda efter krock – gasbuss totalt utbränd - Arbetet
-- LEDARE: Myndigheter och moln en dålig kombination - Gefle Dagblad
-- Två svårt skadade efter frontalkrock på E14 - Västerbottens-Kuriren
-- Ytterligare en tredjedel av Kiruna drabbas av gruvan - SVT Nyheter
-- Skottlossning i Flemingsberg – två till sjukhus - DN
-- Räddningstjänst ”tänkte fel” – kvinna dog - GP
-- Reformer för att stärka familjerna och återhämtningen i ekonomin - Regeringen.se
-- Natalya i Kiev: ”Gud välsignade min lägenhet” - Västerbottens-Kuriren
-- Kim, Putin och Xi träffas – ska visa enad front mot USA - DN
-- Maria Malmer Stenergard deltar i EU:s informella utrikesministermöte - Regeringen.se
-- Nato-strategin: Våtmarker ska stoppa Ryssland - Expressen
-- ”Tiotusentals skulle förlora jobbet” - Hallandsposten
-- Svensk BNP ökade något mer än väntat - Dagens industri
 - Tusentals bankkunder kan få pengar tillbaka - SvD
+- Över 20 döda i israeliska attacker i Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Tre åtalas efter att fem personer dog på byggarbetsplats i Sundbyberg - Åklagarmyndigheten
+- Ukrainsk forskare: Allt svårare att stoppa anfallen - Omni
+- Kommunalrådet efter LKAB:s chockbesked till Kirunaborna: ”Finns en gräns” - SVT Nyheter
+- Larm om skottlossning – två män skadade - Västerbottens-Kuriren
+- LEDARE: Myndigheter och moln en dålig kombination - Gefle Dagblad
+- Räddningstjänst ”tänkte fel” – kvinna dog - GP
+- Kim, Putin och Xi träffas – ska visa enad front mot USA - DN
+- Pojke allvarligt skadad – föll av flak på Öland - Expressen
+- Nato-strategin: Våtmarker ska stoppa Ryssland - Expressen
+- Maria Malmer Stenergard deltar i EU:s informella utrikesministermöte - Regeringen.se
+- Svensk BNP ökade något mer än väntat - Dagens industri
 - USA slopar tullundantag för små paket - Aftonbladet
-- ”Bisarr” dinosaurie täckt av livsfarliga taggar - Aftonbladet
-- Microsoft Copilot flyttar in i TV-apparater - PC för Alla
+- Skogsutredningen ger bättre villkor för skogsägare - LRF - Lantbrukarnas Riksförbund
+- Efter fängelsedomen – nu vill Bonnesen förhöras av HD - Omni
+- ”Bisarr” dinosaurie täckt av livsfarliga taggar - SvD
+- Honor släpper sin rekordtunna vikbara mobil i Europa - m3.se
 
 ## World News
 
+- NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - F-16 ace pilot killed in training crash before Polish air show - TVP World
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- P&G to Webcast Presentation From the Barclays Global Consumer Staples Conference, September 4, 2025 - Placera.se
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- BIG Travel går in i globalt partnerskap - travelnews.se
-- Wesco Declares Quarterly Dividend on Common Stock - Placera.se
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- Fosun International Announces 2025 Interim Results: Steady Growth in Core Businesses with Accelerated Innovation and Globalization - Placera.se
-- Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
-- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
+- P&G to Webcast Presentation From the Barclays Global Consumer Staples Conference, September 4, 2025 - Placera.se
+- EA SPORTS FC™ 26 Expands Global Footprint With New Partners, Leagues, and Stadiums In-Game - Placera.se
+- Wesco Declares Quarterly Dividend on Common Stock - Placera.se
+- TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
 
 ## Technology
 
@@ -63,87 +63,88 @@ _Updated: 2025-08-29 08:48_
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
+- 4 ETF:er som satsar på AI - Morningstar
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- ZenaTech Signs Agreements to Acquire Two Florida Companies, Expanding Drone as a Service Footprint into Aviation, Defense, and Power Washing - Placera.se
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
 
 ## Business
 
+- FREEMAN FINALIZES OPTION PAYMENT, ACQUIRES 46 UNPATENTED MINING CLAIMS, SECURES 100% OWNERSHIP OF THE LEMHI GOLD PROJECT - Placera.se
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Valour Rings the Bell at SIX Swiss Exchange to Mark Inaugural Listings of HBAR and ICP Staking ETPs - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Valour Rings the Bell at SIX Swiss Exchange to Mark Inaugural Listings of HBAR and ICP Staking ETPs - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
+- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
-- FREEMAN FINALIZES OPTION PAYMENT, ACQUIRES 46 UNPATENTED MINING CLAIMS, SECURES 100% OWNERSHIP OF THE LEMHI GOLD PROJECT - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Publication of the 2025 Half-Year Report - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- Wells Fargo Investment Institute Releases Midyear Outlook “Eyes Forward: Opportunities and Obstacles” - Placera.se
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
+- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
+- CHAMPION IRON ANNOUNCES THE DEPARTURE OF ITS CHIEF FINANCIAL OFFICER - Placera.se
 
 ## Health
 
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
+- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Europeisk konferens för socialmedicin: Praktik, teori och handling för en hälsosammare framtid - sls.se
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Poddar och webbplatser - Forskning & Framsteg
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -155,10 +156,9 @@ _Updated: 2025-08-29 08:48_
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Här är världens största jordbruk - ATL
 - Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
+- Här är världens största jordbruk - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
-- USA tvingar ut EU på banan - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
