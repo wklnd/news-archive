@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-29 23:37_
+_Updated: 2025-08-30 00:39_
 
 ## Top Stories
 
-- Per Gudmundson: En Magnus Gisslén på varje myndighet - GP
 - Bussföraren Abbas om bron där kollegan dog: ”Mycket som inte stämmer med den” - Arbetet
 - Blodig kvinna hittad i trädgård i Falköping - SVT Nyheter
-- Granskning: Nassersjukhuset besköts fyra gånger - DN
-- Signalkompani etableras i Enköping - Försvarsmakten
-- Sigrid Melchior: Bräcklig vapenvila i tullkriget mellan USA och Europa - DN
-- Kirunabon om stadsflytten: ”Absurt det som sker” - DN
-- Terrormisstänkta svenskar inför rätta i Danmark - Västerbottens-Kuriren
-- Värmländska KD-politiker lät regionen betala för fest och middag: ”Jätteolyckligt” - NWT
+- Per Gudmundson: En Magnus Gisslén på varje myndighet - GP
+- Trump rasar mot domstolen: ”Katastrof för landet” - Omni
+- Experten varnar för riskerna med strypsex - Aftonbladet
+- Israel: Staden Gaza en ”farlig stridszon” - Hufvudstadsbladet
 - Arvika och Eda tycks ha klarat cyberattacken bra - Arvika Nyheter
-- DN Direkt - Ukraina på agendan när EU:s försvarsministrar möts - DN.se - DN
+- ”Skogsbruket måste bli mer uthålligt” - SvD
+- Kiruna kommun om nya flytten: ”Worst case” - Västerbottens-Kuriren
+- Värmländska KD-politiker lät regionen betala för fest och middag: ”Jätteolyckligt” - NWT
+- Mutskandal skakar Argentina – presidenten attackerad med stenar - DN
 - Michael Winiarski: Trump kommer åter med ett förbryllande påstående om Ukraina - DN
-- Frankrike och Tyskland sänder mer luftförsvar - Västerbottens-Kuriren
 - Försvunna pappan fångad på video – gör inbrott i butik - GP
+- Turkiet bryter med Israel – stänger luftrum - Västerbottens-Kuriren
 - Rysslands ekonomi backar: ”Har nått vägs ände” - DN
-- Nya tester för att ta Oskarshamn 3 i drift - Mynewsdesk
-- Miljöpartiet: Regeringen har helt fel om skogen - Omni
-- Coop Nord går mot strömmen – gör vinst - DN
+- Oskarshamn 3 avställd längre tid – specialrobotar lyckas inte laga felet - Nyteknik
+- Därför måste Socialdemokraterna göra upp om ny kärnkraft - TTELA
+- S kallar kulturministern till utskott om TV4 - GP
 - Lidl utmanar Biltema – med ”Terminator” - Carup.se
 - Senaste läckan om Samsung Galaxy tri-fold avslöjar designen och 3 nyckelfunktioner - TechRadar
 
@@ -29,24 +29,24 @@ _Updated: 2025-08-29 23:37_
 
 - Hormel Foods Corporation to Participate in Barclays 18th Annual Global Consumer Staples Conference - Placera.se
 - JOHNNIE WALKER SCOTCH WHISKY ANNOUNCES GLOBAL PARTNERSHIP WITH GRAMMY AWARD-WINNING MUSIC ARTIST AND INTERNATIONAL SUPERSTAR SABRINA CARPENTER - Placera.se
-- 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - F-16 ace pilot killed in training crash before Polish air show - TVP World
 - NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
-- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- New Secretary General appointed - Olof Palme International Center
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - World Athletics introduces gene test for female category - BBC
+- 7 saker om EQTY Global Growth II Fund - The Portugal News
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Crocs, Inc. to Present at Goldman Sachs 32nd Annual Global Retailing Conference - Placera.se
+- EA SPORTS FC™ 26 Expands Global Footprint With New Partners, Leagues, and Stadiums In-Game - Placera.se
+- P&G to Webcast Presentation From the Barclays Global Consumer Staples Conference, September 4, 2025 - Placera.se
 - Booking Holdings Inc. to Present at the Citi 2025 Global TMT Conference - Placera.se
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -78,21 +78,21 @@ _Updated: 2025-08-29 23:37_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Publication of the 2025 Half-Year Report - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
-- Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - CHAMPION IRON ANNOUNCES THE DEPARTURE OF ITS CHIEF FINANCIAL OFFICER - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
 
