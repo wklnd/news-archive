@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-30 00:39_
+_Updated: 2025-08-30 01:38_
 
 ## Top Stories
 
-- Bussföraren Abbas om bron där kollegan dog: ”Mycket som inte stämmer med den” - Arbetet
-- Blodig kvinna hittad i trädgård i Falköping - SVT Nyheter
+- Domstol i USA: Många av Trumps tullar olagliga - Västerbottens-Kuriren
 - Per Gudmundson: En Magnus Gisslén på varje myndighet - GP
-- Trump rasar mot domstolen: ”Katastrof för landet” - Omni
-- Experten varnar för riskerna med strypsex - Aftonbladet
-- Israel: Staden Gaza en ”farlig stridszon” - Hufvudstadsbladet
-- Arvika och Eda tycks ha klarat cyberattacken bra - Arvika Nyheter
+- Bussföraren Abbas om bron där kollegan dog: ”Mycket som inte stämmer med den” - Arbetet
+- USA nekar palestinska delegater visum – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - ”Skogsbruket måste bli mer uthålligt” - SvD
-- Kiruna kommun om nya flytten: ”Worst case” - Västerbottens-Kuriren
-- Värmländska KD-politiker lät regionen betala för fest och middag: ”Jätteolyckligt” - NWT
+- Efter cyberattacken – nu fungerar Miljödatas IT-system - Södertälje kommun
+- LKAB om Kiruna: Kan bli fler flyttar - GP
+- Skolanställd åtalas för sexbrott mot 15 flickor - UNT
+- Beslut om kamerabevakning i Arvidsjaur - polisen.se
+- Experten varnar för riskerna med strypsex - Aftonbladet
+- Nya bilder uppges visa pappa på rymmen med sina barn - DN
+- Turkiet bryter med Israel – stänger luftrum - Västerbottens-Kuriren
 - Mutskandal skakar Argentina – presidenten attackerad med stenar - DN
 - Michael Winiarski: Trump kommer åter med ett förbryllande påstående om Ukraina - DN
-- Försvunna pappan fångad på video – gör inbrott i butik - GP
-- Turkiet bryter med Israel – stänger luftrum - Västerbottens-Kuriren
 - Rysslands ekonomi backar: ”Har nått vägs ände” - DN
-- Oskarshamn 3 avställd längre tid – specialrobotar lyckas inte laga felet - Nyteknik
-- Därför måste Socialdemokraterna göra upp om ny kärnkraft - TTELA
-- S kallar kulturministern till utskott om TV4 - GP
+- Sveriges BNP ökade som väntat i årstakt i andra kvartalet (uppdatering) - Placera.se
+- Oskarshamn 3 avställd längre tid – specialrobotar lyckas inte laga felet - nyteknik
+- Konsumentverket vill förbjuda telefonförsäljning - Världen idag
 - Lidl utmanar Biltema – med ”Terminator” - Carup.se
-- Senaste läckan om Samsung Galaxy tri-fold avslöjar designen och 3 nyckelfunktioner - TechRadar
+- QA-Testare inom API/Frontend till Söderberg & Partners! på PO Söderberg & Partner Aktiebolag - Ingenjörsjobb
 
 ## World News
 
 - Hormel Foods Corporation to Participate in Barclays 18th Annual Global Consumer Staples Conference - Placera.se
 - JOHNNIE WALKER SCOTCH WHISKY ANNOUNCES GLOBAL PARTNERSHIP WITH GRAMMY AWARD-WINNING MUSIC ARTIST AND INTERNATIONAL SUPERSTAR SABRINA CARPENTER - Placera.se
+- 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - F-16 ace pilot killed in training crash before Polish air show - TVP World
 - NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- New Secretary General appointed - Olof Palme International Center
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- World Athletics introduces gene test for female category - BBC
-- 7 saker om EQTY Global Growth II Fund - The Portugal News
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- World Athletics introduces gene test for female category - BBC
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Crocs, Inc. to Present at Goldman Sachs 32nd Annual Global Retailing Conference - Placera.se
-- EA SPORTS FC™ 26 Expands Global Footprint With New Partners, Leagues, and Stadiums In-Game - Placera.se
-- P&G to Webcast Presentation From the Barclays Global Consumer Staples Conference, September 4, 2025 - Placera.se
 - Booking Holdings Inc. to Present at the Citi 2025 Global TMT Conference - Placera.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
-- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
+- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
+- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Spår superintelligens om tio år – vill leda racet - Omni
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
-- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
+- 4 ETF:er som satsar på AI - Morningstar
 
 ## Business
 
@@ -78,7 +78,7 @@ _Updated: 2025-08-30 00:39_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
+- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Publication of the 2025 Half-Year Report - Placera.se
@@ -89,10 +89,10 @@ _Updated: 2025-08-30 00:39_
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - CHAMPION IRON ANNOUNCES THE DEPARTURE OF ITS CHIEF FINANCIAL OFFICER - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 
 ## Health
 
@@ -121,24 +121,24 @@ _Updated: 2025-08-30 00:39_
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Poddar och webbplatser - Forskning & Framsteg
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
@@ -154,8 +154,8 @@ _Updated: 2025-08-30 00:39_
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Här är världens största jordbruk - ATL
 - Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
+- Här är världens största jordbruk - ATL
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
