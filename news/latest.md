@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-29 10:52_
+_Updated: 2025-08-29 11:48_
 
-- Parents of children killed in Annunciation Catholic school shooting speak out - ABC News
-- White House taps top RFK Jr. deputy as acting CDC director - The Washington Post
-- End of "de minimis" exemption means new tariffs on millions of packages - Axios
-- Firefighter from Oregon detained by Border Patrol while fighting wildfire - Oregon Public Broadcasting - OPB
-- The federal government is taking over D.C.'s Union Station. What does that mean? - NPR
+- Minneapolis grieves for young shooting victims as police investigate motive - The Washington Post
+- White House selects Kennedy deputy Jim O'Neill as acting CDC director - Axios
+- US Ends Tariff Exemption for Small Packages, Upending Global E-Commerce - Bloomberg.com
+- 20 years after Katrina, a Mississippi town is still waiting on FEMA funding to rebuild - CBS News
+- Trump admin offers subdued response to Russia’s assault on Kyiv, and Europe’s outrage - Politico
+- Chicago school board approves budget without controversial $200 million loan - Chicago Tribune
 - Trump Administration Plans Immigration Crackdown in Chicago - The New York Times
 - Kilmar Abrego Garcia's lawyers ask judge to ban top Trump admin. officials from making "baseless public attacks" - CBS News
 - Officers found guilty in Tyre Nicholas case will have new trial - BBC
 - US offers military funeral honors to Capitol rioter Ashli Babbitt - AP News
-- Texas House Advances Anti-Abortion Bill - The New York Times
-- European Nations Move to Restart Sanctions on Iran Over Nuclear Program - The New York Times
-- Trump admin offers subdued response to Russia’s assault on Kyiv, and Europe’s outrage - Politico
-- Polish Army Pilot killed as F-16 jet crashes during airshow preparation - Al Jazeera
-- Ranking Member Shaheen, Senator Ernst, Representative Wilson Statement on Israeli Strikes in Damascus - Senate Committee on Foreign Relations (.gov)
+- Thailand’s prime minister removed from office over leaked phone call scandal with Cambodian strongman - CNN
+- European countries to notify U.N. of ‘snapback’ sanctions on Iran - The Washington Post
+- Polish F-16 crashes during airshow rehearsal - Reuters
+- Exclusive: Taiwan estimates China spent 40% more on Pacific drills last year to hit $21 bln - Reuters
 - Trump housing director Pulte lodges new criminal referral for Fed Governor Lisa Cook - CNBC
-- Gap stock falls as retailer misses sales expectations, warns tariffs will impact profits - CNBC
-- Asia-Pacific markets trade mixed, breaking ranks with Wall Street - CNBC
+- Shares dip from record highs before US inflation data - Reuters
 - Tesla Is Collapsing In Europe As BYD Skyrockets - InsideEVs
+- Microsoft fires two more employees for participating in Palestine protests on campus - The Verge
 - Hey, Siri: Why this iPhone user is switching to the new Google Pixel 10 - MarketWatch
 - DJI’s Mic 3 crams more features into a smaller package - The Verge
