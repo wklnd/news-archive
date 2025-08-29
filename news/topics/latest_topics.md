@@ -1,74 +1,74 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-29 09:39_
+_Updated: 2025-08-29 10:46_
 
 ## Top Stories
 
+- Befäl ”tänkte fel” – kvinna dog i brand - Aftonbladet
+- Tre åtalas efter dödliga hissolyckan i Sundbyberg - SVT Nyheter
 - Skattebetalarna fick stå för politikernas festkvällar - DN
+- 29 augusti 07.00, Sammanfattning kväll och natt, Västra Götalands län - polisen.se
+- Han för en lång kamp för att bryta med Meta - SvD
+- Anna ställde om livet – nu känns det som evig semester - GP
+- Kommunalrådet efter chockbeskedet: ”Finns en gräns” - SVT Nyheter
+- 28 augusti 19.45, Mord/dråp, försök, Huddinge - polisen.se
+- FN-anställda vill att Gaza klassas som folkmord – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Rekordstort reformutrymme i regeringens höstbudget - DN
+- Natalya i Kiev: ”Gud välsignade min lägenhet” - Västerbottens-Kuriren
 - USA godkänner vapen till Ukraina - SVT Nyheter
-- Tusentals bankkunder kan få pengar tillbaka - SvD
-- Över 20 döda i israeliska attacker i Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Tre åtalas efter att fem personer dog på byggarbetsplats i Sundbyberg - Åklagarmyndigheten
-- Ukrainsk forskare: Allt svårare att stoppa anfallen - Omni
-- Kommunalrådet efter LKAB:s chockbesked till Kirunaborna: ”Finns en gräns” - SVT Nyheter
-- Larm om skottlossning – två män skadade - Västerbottens-Kuriren
-- LEDARE: Myndigheter och moln en dålig kombination - Gefle Dagblad
-- Räddningstjänst ”tänkte fel” – kvinna dog - GP
 - Kim, Putin och Xi träffas – ska visa enad front mot USA - DN
 - Pojke allvarligt skadad – föll av flak på Öland - Expressen
-- Nato-strategin: Våtmarker ska stoppa Ryssland - Expressen
-- Maria Malmer Stenergard deltar i EU:s informella utrikesministermöte - Regeringen.se
 - Svensk BNP ökade något mer än väntat - Dagens industri
-- USA slopar tullundantag för små paket - Aftonbladet
-- Skogsutredningen ger bättre villkor för skogsägare - LRF - Lantbrukarnas Riksförbund
-- Efter fängelsedomen – nu vill Bonnesen förhöras av HD - Omni
+- Tiotusentals jobb i fara om telefonförsäljning stoppas - Omni
+- Aktiespararna gör omstart av korta portföljen och köper in 18 aktier - Placera.se
+- Nytt försäljningsras för Tesla - Aktuell Hållbarhet
 - ”Bisarr” dinosaurie täckt av livsfarliga taggar - SvD
-- Honor släpper sin rekordtunna vikbara mobil i Europa - m3.se
+- Microsoft Copilot flyttar in i TV-apparater - PC för Alla
 
 ## World News
 
-- NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - F-16 ace pilot killed in training crash before Polish air show - TVP World
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
-- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
+- P&G to Webcast Presentation From the Barclays Global Consumer Staples Conference, September 4, 2025 - Placera.se
+- New Secretary General appointed - Olof Palme International Center
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- BIG Travel går in i globalt partnerskap - travelnews.se
+- Wesco Declares Quarterly Dividend on Common Stock - Placera.se
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- P&G to Webcast Presentation From the Barclays Global Consumer Staples Conference, September 4, 2025 - Placera.se
-- EA SPORTS FC™ 26 Expands Global Footprint With New Partners, Leagues, and Stadiums In-Game - Placera.se
-- Wesco Declares Quarterly Dividend on Common Stock - Placera.se
-- TTEC Earns Global Recognition for Employee Experience Excellence in 2025 - Placera.se
+- Fosun International Announces 2025 Interim Results: Steady Growth in Core Businesses with Accelerated Innovation and Globalization - Placera.se
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 
 ## Technology
 
-- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
-- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - 4 ETF:er som satsar på AI - Morningstar
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Artificiell intelligens - Computer Sweden
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
@@ -103,19 +103,19 @@ _Updated: 2025-08-29 09:39_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Europeisk konferens för socialmedicin: Praktik, teori och handling för en hälsosammare framtid - sls.se
-- Johan von Schreeb - Karolinska Institutet
+- Osher centrum för integrativ hälsa - Karolinska Institutet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
