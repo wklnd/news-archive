@@ -1,39 +1,39 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-29 21:38_
+_Updated: 2025-08-29 22:40_
 
 ## Top Stories
 
 - Bussföraren Abbas om bron där kollegan dog: ”Mycket som inte stämmer med den” - Arbetet
 - Per Gudmundson: En Magnus Gisslén på varje myndighet - GP
 - Blodig kvinna hittad i trädgård i Falköping - SVT Nyheter
-- Sajt med sexistiska bilder på toppolitiker stoppas - GP
-- DN Direkt - EU:s utrikeschef: Mer militär utbildning efter vapenvila - DN.se - DN
-- Elfving: ”Det skapar problem för Ryssland” - SvD
-- Busch om Kiruna: ”Gruvor ska tjäna svenska folket” - SVT Nyheter
+- Sexistisk sajt stoppas: ”Äcklad” - SvD
+- Ministrar kräver hårdare tag mot Ryssland efter Kievattack - Europaportalen
+- Åsa, 68, brann inne – räddningstjänsten stod utanför huset - Aftonbladet
+- Kirunabon om stadsflytten: ”Absurt det som sker” - DN
 - Terrormisstänkta svenskar inför rätta i Danmark - Västerbottens-Kuriren
-- Israel: Staden Gaza en ”farlig stridszon” - Hufvudstadsbladet
-- Systemen normala efter cyberattack i kommunen - Skillingaryd
+- TV4 slutar vara en gratiskanal – satsar på streamingtjänsten - GP
+- Turkiet stänger luftrummet för israeliska flygplan – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Frankrike och Tyskland sänder mer luftförsvar - Västerbottens-Kuriren
 - Michael Winiarski: Trump kommer åter med ett förbryllande påstående om Ukraina - DN
-- Turkiet bryter med Israel – stänger luftrum - GP
-- Minst tio döda i attacker mot Kiev – EU-byggnad skadad - Hufvudstadsbladet
+- Natalya i Kiev: ”Gud välsignade min lägenhet” - GP
+- Nya bilder uppges visa pappa på rymmen med sina barn - DN
 - Nya tester för att ta Oskarshamn 3 i drift - Mynewsdesk
 - Coop Nord går mot strömmen – gör vinst - DN
-- ”Skogsbruket måste bli mer uthålligt” - SvD
-- Riksbanken varnar för fejkvideor med Thedéen - Dagens industri
+- Skogsutredningen ger bättre villkor för skogsägare - LRF - Lantbrukarnas Riksförbund
+- Därför måste Socialdemokraterna göra upp om ny kärnkraft - TTELA
 - ”Bisarr” dinosaurie täckt av livsfarliga taggar - Aftonbladet
 - Lidl utmanar Biltema – med ”Terminator” - Carup.se
 
 ## World News
 
+- Hormel Foods Corporation to Participate in Barclays 18th Annual Global Consumer Staples Conference - Placera.se
 - JOHNNIE WALKER SCOTCH WHISKY ANNOUNCES GLOBAL PARTNERSHIP WITH GRAMMY AWARD-WINNING MUSIC ARTIST AND INTERNATIONAL SUPERSTAR SABRINA CARPENTER - Placera.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
-- NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - F-16 ace pilot killed in training crash before Polish air show - TVP World
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
@@ -41,7 +41,7 @@ _Updated: 2025-08-29 21:38_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World Athletics introduces gene test for female category - BBC
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- BIG Travel går in i globalt partnerskap - travelnews.se
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
@@ -65,11 +65,11 @@ _Updated: 2025-08-29 21:38_
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- 4 ETF:er som satsar på AI - Morningstar Canada
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
 
 ## Business
 
@@ -144,7 +144,7 @@ _Updated: 2025-08-29 21:38_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
@@ -154,11 +154,11 @@ _Updated: 2025-08-29 21:38_
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - USA tvingar ut EU på banan - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
