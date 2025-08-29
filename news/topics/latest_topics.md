@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-29 12:42_
+_Updated: 2025-08-29 13:38_
 
 ## Top Stories
 
+- Bussförare död efter olycka på Värmdö - Arbetaren
 - ”Förtroendet för vårdens myndigheter är jätteviktigt” - LäkemedelsVärlden
 - Simona Mohamsson (L) slår bottenrekord i förtroendeligan - DN
-- Befäl ”tänkte fel” – kvinna dog i brand - Aftonbladet
 - Äldre man död i frontalkrock utanför Åre - GP
-- Thailands premiärminister tvingas avgå - SVT Nyheter
+- Befäl ”tänkte fel” – kvinna dog i brand - Aftonbladet
 - Han för en lång kamp för att bryta med Meta - SvD
-- Kommunalrådet efter LKAB:s chockbesked till Kirunaborna: ”Finns en gräns” - SVT Nyheter
-- Värmländska KD-politiker lät regionen betala för fester och middagar: ”Jätteolyckligt” - NWT
-- DN Direkt - Fem dog i hissolycka på bygge – tre åtalas - DN.se - DN
-- Skolanställd åtalas för sexualbrott mot 15 lågstadiebarn - SVT Nyheter
+- LKAB om Kiruna: Kan bli fler flyttar - GP
+- Värmländska KD-politiker lät regionen betala för fest och middag: ”Jätteolyckligt” - NWT
+- Skottlossning i Flemingsberg – två till sjukhus - DN
+- Tre åtalas efter dödliga hissolyckan i Sundbyberg - SVT Nyheter
 - Natalya i Kiev: ”Gud välsignade min lägenhet” - Västerbottens-Kuriren
+- FN: Minst 841 människor avrättade i Iran i år - GP
 - USA godkänner vapen till Ukraina - SVT Nyheter
-- Skolanställd man åtalas för sexbrott mot lågstadieflickor - Expressen
-- Kim, Putin och Xi träffas – ska visa enad front mot USA - DN
+- Uttalande från Utrikesdepartementet med anledning av uppkallande av Rysslands ambassadör - Regeringen.se
+- DN Direkt - Rysslands ambassadör uppkallad till UD - DN.se - DN
+- Konsumentverket vill förbjuda telefonförsäljning - Världen idag
 - Svensk BNP ökade något mer än väntat - Dagens industri
-- Tiotusentals jobb i fara om telefonförsäljning stoppas - Omni
-- Experten: Riksbanken sänker inte räntan i höst - Expressen
-- Danmark slaktar BNP-prognos – efter Novo Nordisks ras - EFN
-- ”Bisarr” dinosaurie täckt av livsfarliga taggar - Aftonbladet
-- Microsoft Copilot flyttar in i TV-apparater - PC för Alla
+- Varningen: Dyra reformer stoppar räntesänkningar - Dagens PS
+- Microsoft lanserar nya ”hemgjorda” AI-modeller - Computer Sweden
+- Windows Backup for Organizations ska hjälpa företag att gå över till Windows 11 - Computer Sweden
 
 ## World News
 
 - JOHNNIE WALKER SCOTCH WHISKY ANNOUNCES GLOBAL PARTNERSHIP WITH GRAMMY AWARD-WINNING MUSIC ARTIST AND INTERNATIONAL SUPERSTAR SABRINA CARPENTER - Placera.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
+- NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
 - F-16 ace pilot killed in training crash before Polish air show - TVP World
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - New Secretary General appointed - Olof Palme International Center
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - World Athletics introduces gene test for female category - BBC
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- P&G to Webcast Presentation From the Barclays Global Consumer Staples Conference, September 4, 2025 - Placera.se
+- Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Wesco Declares Quarterly Dividend on Common Stock - Placera.se
-- Fosun International Announces 2025 Interim Results: Steady Growth in Core Businesses with Accelerated Innovation and Globalization - Placera.se
-- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -78,44 +78,44 @@ _Updated: 2025-08-29 12:42_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Valour Rings the Bell at SIX Swiss Exchange to Mark Inaugural Listings of HBAR and ICP Staking ETPs - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - DeFi Technologies Announces Commencement of Options Trading on Nasdaq - Placera.se
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Publication of the 2025 Half-Year Report - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
 - Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
 - CHAMPION IRON ANNOUNCES THE DEPARTURE OF ITS CHIEF FINANCIAL OFFICER - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -127,18 +127,18 @@ _Updated: 2025-08-29 12:42_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
