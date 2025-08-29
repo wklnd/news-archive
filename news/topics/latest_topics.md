@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-29 10:46_
+_Updated: 2025-08-29 11:40_
 
 ## Top Stories
 
+- Thailands premiärminister tvingas avgå - SVT Nyheter
+- ”Förtroendet för vårdens myndigheter är jätteviktigt” - LäkemedelsVärlden
 - Befäl ”tänkte fel” – kvinna dog i brand - Aftonbladet
-- Tre åtalas efter dödliga hissolyckan i Sundbyberg - SVT Nyheter
+- Tre åtalas efter att fem personer dog på byggarbetsplats i Sundbyberg - Åklagarmyndigheten
 - Skattebetalarna fick stå för politikernas festkvällar - DN
-- 29 augusti 07.00, Sammanfattning kväll och natt, Västra Götalands län - polisen.se
 - Han för en lång kamp för att bryta med Meta - SvD
-- Anna ställde om livet – nu känns det som evig semester - GP
 - Kommunalrådet efter chockbeskedet: ”Finns en gräns” - SVT Nyheter
-- 28 augusti 19.45, Mord/dråp, försök, Huddinge - polisen.se
-- FN-anställda vill att Gaza klassas som folkmord – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Skottlossning i Flemingsberg – två till sjukhus - DN
+- Anställd på skola i Uppsala åtalas för sexualbrott mot 15 lågstadiebarn - SVT Nyheter
 - Rekordstort reformutrymme i regeringens höstbudget - DN
 - Natalya i Kiev: ”Gud välsignade min lägenhet” - Västerbottens-Kuriren
-- USA godkänner vapen till Ukraina - SVT Nyheter
+- USA godkänner vapen till Ukraina - GP
 - Kim, Putin och Xi träffas – ska visa enad front mot USA - DN
-- Pojke allvarligt skadad – föll av flak på Öland - Expressen
+- ”Förbannad mördare” – hårda ord i EU om Putin - Corren
 - Svensk BNP ökade något mer än väntat - Dagens industri
 - Tiotusentals jobb i fara om telefonförsäljning stoppas - Omni
+- Experten: Riksbanken sänker inte räntan i höst - Expressen
 - Aktiespararna gör omstart av korta portföljen och köper in 18 aktier - Placera.se
-- Nytt försäljningsras för Tesla - Aktuell Hållbarhet
 - ”Bisarr” dinosaurie täckt av livsfarliga taggar - SvD
 - Microsoft Copilot flyttar in i TV-apparater - PC för Alla
 
 ## World News
 
+- JOHNNIE WALKER SCOTCH WHISKY ANNOUNCES GLOBAL PARTNERSHIP WITH GRAMMY AWARD-WINNING MUSIC ARTIST AND INTERNATIONAL SUPERSTAR SABRINA CARPENTER - Placera.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
+- NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
 - F-16 ace pilot killed in training crash before Polish air show - TVP World
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - United Lisbon International School: Förändrar utbildning för en global framtid - The Portugal News
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- P&G to Webcast Presentation From the Barclays Global Consumer Staples Conference, September 4, 2025 - Placera.se
 - New Secretary General appointed - Olof Palme International Center
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
+- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World Athletics introduces gene test for female category - BBC
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- BIG Travel går in i globalt partnerskap - travelnews.se
-- Wesco Declares Quarterly Dividend on Common Stock - Placera.se
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- Fosun International Announces 2025 Interim Results: Steady Growth in Core Businesses with Accelerated Innovation and Globalization - Placera.se
-- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
+- P&G to Webcast Presentation From the Barclays Global Consumer Staples Conference, September 4, 2025 - Placera.se
+- Wesco Declares Quarterly Dividend on Common Stock - Placera.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -63,8 +63,8 @@ _Updated: 2025-08-29 10:46_
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - 4 ETF:er som satsar på AI - Morningstar
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Artificiell intelligens - Computer Sweden
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
+- ZenaTech Signs Agreements to Acquire Two Florida Companies, Expanding Drone as a Service Footprint into Aviation, Defense, and Power Washing - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
@@ -90,9 +90,9 @@ _Updated: 2025-08-29 10:46_
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Flushing Financial Corporation Declares Quarterly Dividend of $0.22 Per Share - Placera.se
 - CHAMPION IRON ANNOUNCES THE DEPARTURE OF ITS CHIEF FINANCIAL OFFICER - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
@@ -128,7 +128,6 @@ _Updated: 2025-08-29 10:46_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Poddar och webbplatser - Forskning & Framsteg
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
@@ -137,6 +136,7 @@ _Updated: 2025-08-29 10:46_
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 - Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
@@ -148,17 +148,17 @@ _Updated: 2025-08-29 10:46_
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
-- Här är världens största jordbruk - ATL
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
