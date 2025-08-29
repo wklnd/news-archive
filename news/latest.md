@@ -1,6 +1,6 @@
 # Top News Headlines
 
-_Updated: 2025-08-29 08:53_
+_Updated: 2025-08-29 09:48_
 
 - Parents of children killed in Annunciation Catholic school shooting speak out - ABC News
 - White House taps top RFK Jr. deputy as acting CDC director - The Washington Post
@@ -9,16 +9,16 @@ _Updated: 2025-08-29 08:53_
 - Florida taxpayers may lose $218M on ‘Alligator Alcatraz’ as judge orders shutdown - PBS
 - Border Patrol agents arrest fire crew members at Washington wildfire - NBC News
 - Trump preparing major immigration enforcement operations in Chicago next week similar to LA, DHS sources say - CBS News
-- Lawyers for Abrego Garcia Seek Gag Order Against Trump Officials - The New York Times
 - Officers found guilty in Tyre Nicholas case will have new trial - BBC
 - US offers military funeral honors to Capitol rioter Ashli Babbitt - AP News
-- European countries to notify U.N. of ‘snapback’ sanctions on Iran - The Washington Post
+- Lawyers for Abrego Garcia Seek Gag Order Against Trump Officials - The New York Times
+- European Nations Move to Restart Sanctions on Iran Over Nuclear Program - The New York Times
 - Ranking Member Shaheen, Senator Ernst, Representative Wilson Statement on Israeli Strikes in Damascus - Senate Committee on Foreign Relations (.gov)
-- Polish Army Pilot killed as F-16 jet crashes during airshow preparation - Al Jazeera
-- Exclusive: Taiwan estimates China spent 40% more on Pacific drills last year to hit $21 bln - Reuters
+- Polish F-16 crashes during airshow rehearsal - Reuters
+- Xi Prepares Meeting of Security Bloc to Rival US-Led World Order - Bloomberg.com
 - Trump housing director Pulte lodges new criminal referral for Fed Governor Lisa Cook - CNBC
-- Asia shares lifted by Wall St as markets await US inflation data - Reuters
+- Asia-Pacific markets trade mixed, breaking ranks with Wall Street - CNBC
 - Tesla Is Collapsing In Europe As BYD Skyrockets - InsideEVs
 - Microsoft fires two more employees for participating in Palestine protests on campus - The Verge
-- Hey, Siri: Why this iPhone user is switching to the new Google Pixel 10 - MarketWatch
 - DJI’s Mic 3 crams more features into a smaller package - The Verge
+- Hey, Siri: Why this iPhone user is switching to the new Google Pixel 10 - MarketWatch
