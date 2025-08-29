@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-29 22:40_
+_Updated: 2025-08-29 23:37_
 
 ## Top Stories
 
-- Bussföraren Abbas om bron där kollegan dog: ”Mycket som inte stämmer med den” - Arbetet
 - Per Gudmundson: En Magnus Gisslén på varje myndighet - GP
+- Bussföraren Abbas om bron där kollegan dog: ”Mycket som inte stämmer med den” - Arbetet
 - Blodig kvinna hittad i trädgård i Falköping - SVT Nyheter
-- Sexistisk sajt stoppas: ”Äcklad” - SvD
-- Ministrar kräver hårdare tag mot Ryssland efter Kievattack - Europaportalen
-- Åsa, 68, brann inne – räddningstjänsten stod utanför huset - Aftonbladet
+- Granskning: Nassersjukhuset besköts fyra gånger - DN
+- Signalkompani etableras i Enköping - Försvarsmakten
+- Sigrid Melchior: Bräcklig vapenvila i tullkriget mellan USA och Europa - DN
 - Kirunabon om stadsflytten: ”Absurt det som sker” - DN
 - Terrormisstänkta svenskar inför rätta i Danmark - Västerbottens-Kuriren
-- TV4 slutar vara en gratiskanal – satsar på streamingtjänsten - GP
-- Turkiet stänger luftrummet för israeliska flygplan – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Frankrike och Tyskland sänder mer luftförsvar - Västerbottens-Kuriren
+- Värmländska KD-politiker lät regionen betala för fest och middag: ”Jätteolyckligt” - NWT
+- Arvika och Eda tycks ha klarat cyberattacken bra - Arvika Nyheter
+- DN Direkt - Ukraina på agendan när EU:s försvarsministrar möts - DN.se - DN
 - Michael Winiarski: Trump kommer åter med ett förbryllande påstående om Ukraina - DN
-- Natalya i Kiev: ”Gud välsignade min lägenhet” - GP
-- Nya bilder uppges visa pappa på rymmen med sina barn - DN
+- Frankrike och Tyskland sänder mer luftförsvar - Västerbottens-Kuriren
+- Försvunna pappan fångad på video – gör inbrott i butik - GP
+- Rysslands ekonomi backar: ”Har nått vägs ände” - DN
 - Nya tester för att ta Oskarshamn 3 i drift - Mynewsdesk
+- Miljöpartiet: Regeringen har helt fel om skogen - Omni
 - Coop Nord går mot strömmen – gör vinst - DN
-- Skogsutredningen ger bättre villkor för skogsägare - LRF - Lantbrukarnas Riksförbund
-- Därför måste Socialdemokraterna göra upp om ny kärnkraft - TTELA
-- ”Bisarr” dinosaurie täckt av livsfarliga taggar - Aftonbladet
 - Lidl utmanar Biltema – med ”Terminator” - Carup.se
+- Senaste läckan om Samsung Galaxy tri-fold avslöjar designen och 3 nyckelfunktioner - TechRadar
 
 ## World News
 
@@ -36,26 +36,26 @@ _Updated: 2025-08-29 22:40_
 - NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- New Secretary General appointed - Olof Palme International Center
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- World Athletics introduces gene test for female category - BBC
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- World Athletics introduces gene test for female category - BBC
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Crocs, Inc. to Present at Goldman Sachs 32nd Annual Global Retailing Conference - Placera.se
 - Booking Holdings Inc. to Present at the Citi 2025 Global TMT Conference - Placera.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
-- Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Spår superintelligens om tio år – vill leda racet - Omni
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
@@ -64,8 +64,8 @@ _Updated: 2025-08-29 22:40_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Oron: Då tar datan på internet slut - SvD
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
@@ -144,21 +144,21 @@ _Updated: 2025-08-29 22:40_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- USA tvingar ut EU på banan - Land Lantbruk
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
