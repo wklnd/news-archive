@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-29 18:46_
+_Updated: 2025-08-29 19:39_
 
 ## Top Stories
 
 - Per Gudmundson: En Magnus Gisslén på varje myndighet - GP
-- Skytten var ”besatt av att döda barn” – de blev hans offer - DN
+- DN Direkt - EU:s utrikeschef: Mer militär utbildning efter vapenvila - DN.se - DN
+- Dämpad stämning på bussgaraget i Gustavsberg - Nacka Värmdö Posten
 - Frätande ämne läcker vid färjeterminal i Göteborg - Omni
-- En person död efter trafikolyckan på E14 mellan Mörsil och Mattmar - SVT Nyheter
 - Glömde hemliga handlingar – är i dag ambassadör - Aftonbladet
-- Susanne stod decimeter från handgranaten i Vasastaden - GP
+- USA godkänner vapenpaket till Ukraina – tusentals långdistansrobotar - Nyteknik
 - Busch om Kiruna: ”Gruvor ska tjäna svenska folket” - SVT Nyheter
-- Terrormisstänkta svenskar inför rätta i Danmark - GP
-- Omställningen i Norrbotten – En grön framtid eller kolonialism? - Piteå-Tidningen
+- S kallar kulturministern till utskott om TV4 - Västerbottens-Kuriren
+- Terrormisstänkta svenskar inför rätta i Danmark - Västerbottens-Kuriren
 - Israel: Staden Gaza en ”farlig stridszon” - Hufvudstadsbladet
-- ”Förbannad mördare” – hårda ord i EU om Putin - Västerbottens-Kuriren
+- Turkiet bryter med Israel – stänger luftrum - Västerbottens-Kuriren
 - Frankrike och Tyskland sänder mer luftförsvar - GP
+- Michael Winiarski: Trump kommer åter med ett förbryllande påstående om Ukraina - DN
 - Så kan Gaza bli ett judiskt hemland 29 augusti 2025 - Konflikt - Sveriges Radio
-- Turkiet bryter med Israel – stänger luftrum - DN
 - Nya tester för att ta Oskarshamn 3 i drift - Mynewsdesk
 - Coop Nord går mot strömmen – gör vinst - DN
 - Insiderkollen: Ledningen dumpar aktier i chipsbolaget - Affärsvärlden
 - Sveriges BNP ökade som väntat i årstakt i andra kvartalet (uppdatering) - Placera.se
+- ”Bisarr” dinosaurie täckt av livsfarliga taggar - Aftonbladet
 - Lidl utmanar Biltema – med ”Terminator” - Carup.se
-- AVSLÖJAR: AIK:s beslut – släpper supertalangen - FotbollDirekt
 
 ## World News
 
@@ -34,19 +34,19 @@ _Updated: 2025-08-29 18:46_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - F-16 ace pilot killed in training crash before Polish air show - TVP World
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World Athletics introduces gene test for female category - BBC
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- BIG Travel går in i globalt partnerskap - travelnews.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Crocs, Inc. to Present at Goldman Sachs 32nd Annual Global Retailing Conference - Placera.se
-- EA SPORTS FC™ 26 Expands Global Footprint With New Partners, Leagues, and Stadiums In-Game - Placera.se
-- P&G to Webcast Presentation From the Barclays Global Consumer Staples Conference, September 4, 2025 - Placera.se
-- Wesco Declares Quarterly Dividend on Common Stock - Placera.se
+- Booking Holdings Inc. to Present at the Citi 2025 Global TMT Conference - Placera.se
 
 ## Technology
 
@@ -119,46 +119,46 @@ _Updated: 2025-08-29 18:46_
 
 ## Science
 
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Poddar och webbplatser - Forskning & Framsteg
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är världens största jordbruk - ATL
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - USA tvingar ut EU på banan - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
