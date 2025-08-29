@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-29 01:48_
+_Updated: 2025-08-29 04:15_
 
-- Father of one of the children killed in Annunciation Catholic school shooting speaks out - ABC News
-- Fired CDC director clashed with Kennedy on vaccine policy - Reuters
+- What we know about the shooter who killed 2 and wounded 18 in Minneapolis - AP News
+- RFK Jr. deputy Jim O'Neill picked to temporarily lead CDC after former head Susan Monarez's ouster - CBS News
 - The federal government is taking over D.C.'s Union Station. What does that mean? - NPR
-- Trump administration plans big immigration enforcement operation in Chicago as soon as next week - CNN
+- Mexico suspends postal shipments to United States over tariff confusion - Politico
 - Federal judge says Kari Lake can't fire Voice of America director - NPR
-- Florida taxpayers may lose $218M on ‘Alligator Alcatraz’ as judge orders shutdown - PBS
-- Bowser says federal surge in DC is helping combat crime, but causing anxiety for some residents - WTOP
-- 70 years after Emmett Till's murder, Mississippi museum acquires gun used to kill him - NPR
-- ‘Grasping for straws’: Europe floats Ukraine-Russia buffer zone in push for peace - Politico
-- Democrats seek ‘immediate answers’ after reported arrests of firefighters by US border agents - The Guardian
-- Ranking Member Shaheen, Senator Ernst, Representative Wilson Statement on Israeli Strikes in Damascus - Senate Committee on Foreign Relations (.gov)
-- Europeans launch UN sanctions process against Iran, drawing Tehran ire - Reuters
-- Watch first-ever orange shark be caught by fisherman in Costa Rica - USA Today
-- Israel steps up bombardment of Gaza City, kills 16 people around enclave, medics say - Reuters
-- S&P 500 hits record high as Nvidia results butress AI rally - Reuters
+- Alleged DC sandwich thrower charged with a misdemeanor after grand jury rejects felony indictment - CNN
+- New trial for 3 Memphis ex-officers convicted in connection with the beating death of Tyre Nichols - CNN
+- Kilmar Abrego Garcia asks for gag order against Bondi, Noem - Politico
+- Trump preparing major immigration enforcement operations in Chicago next week similar to LA, DHS sources say - CBS News
+- E.U. furious as deadly Russian attack damages its Kyiv offices - The Washington Post
+- European countries to notify U.N. of ‘snapback’ sanctions on Iran - The Washington Post
+- Israeli Airstrikes Kill Soldiers in Syria, Officials There Say - The New York Times
+- Pilot killed when F-16 jet crashes during preparations for a Polish air show - AP News
+- Hundreds of UN staff pressure rights chief to call Gaza a genocide, letter shows - Reuters
+- Fed Governor Lisa Cook Sues Trump Over Dismissal - The New York Times
+- Stock futures are little changed after S&P 500's record high, inflation data looms: Live updates - CNBC
 - Salmonella outbreak linked to eggs sickens 95 people, CDC says - NBC News
-- Tesla sales plunge again in Europe as anger at Musk keeps buyers away for 7th month in a row - Yahoo Finance
-- Cracker Barrel quietly removes DEI and Pride pages from its website after logo upheaval - CNN
+- Microsoft fires two more employees for participating in Palestine protests on campus - The Verge
 - Hey, Siri: Why this iPhone user is switching to the new Google Pixel 10 - MarketWatch
-- Sony is reportedly planning a Nintendo Switch-style PlayStation 6 portable - Video Games Chronicle
+- iPhone 17 Air rumors: The thinnest iPhone with a potentially 'awe dropping' design - AppleInsider
