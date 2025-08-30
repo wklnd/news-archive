@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-30 19:48_
+_Updated: 2025-08-30 20:50_
 
-- Most of Trump's tariffs are not legal, court rules: what to know - Axios
+- California Highway Patrol to protect Kamala Harris after Trump pulls Secret Service detail, sources say - Los Angeles Times
+- In New Orleans 20 years after Hurricane Katrina, a mother, a surgeon and a police chief look back and find hope - CBS News
 - U.S. guided-missile cruiser spotted crossing the Panama Canal after warships deployed to Venezuela - CBS News
 - Houthi rebels say Israeli airstrike killed their prime minister in Yemen's capital - NPR
-- The new head of the CDC has no training in medicine and once helped Peter Thiel develop man-made islands floating outside U.S. territory - Fortune
-- Shoppers met with canceled orders, delays as de minimis exemption ends - The Washington Post
-- CHP to protect ex-VP Kamala Harris after Trump pulls Secret Service detail, sources say - Los Angeles Times
+- What to know about Jim O'Neill, new acting CDC director - Axios
+- Russia's 'massive strike' on Ukraine overnight kills 1, injures 29, Ukrainian authorities say - ABC News
 - Chicago mayor to sign order aimed at resisting Trump’s planned immigration crackdown - CNN
-- Firefighter arrested by US border agents was on track for legal status, lawyers say - The Guardian
-- Federal judge blocks Trump effort to expand fast-track deportations - Politico
+- Families of Minneapolis Church Shooting Victims Pay Loving Tributes - The New York Times
 - Palestinian president's visa to the U.S. revoked ahead of key meetings at United Nations - CBS News
+- Firefighter arrested by US border agents was on track for legal status, lawyers say - The Guardian
 - Prominent Ukrainian nationalist politician shot dead in Lviv - Financial Times
-- As Israel seeks to empty Gaza City, its residents weigh whether to leave - The Washington Post
+- Evacuation of Gaza City would be unsafe and unfeasible, says head of Red Cross - Reuters
 - 139 days: 3 Scottish brothers set a record for fastest row across the Pacific - NPR
 - Thailand's prime minister dismissed over compromising phone call - Euronews.com
 - Spirit Airlines files for bankruptcy for 2nd time in less than a year - NPR
 - Trump Takes Aim at South Korean Chipmakers’ China Operations - The New York Times
-- Malibu’s Beloved Reel Inn, Destroyed by L.A. Fires, Is Told It Can’t Rebuild - The Wall Street Journal
-- Six Months Into Tariffs, Businesses Have No Idea How to Price Anything - The Wall Street Journal
-- iPhone 17 vs iPhone 17 Air vs iPhone 17 Pro: Here's all the new rumored features - Tom's Guide
+- Why Wall Street has developed an unhealthy obsession with Nvidia - CNN
+- The 105+ Best Labor Day Sales of 2025: Apple, Ulta, Lowe's & More - NBC News
+- All 7 new products we're expecting Apple to announce at its 'Awe Dropping' September event - Fortune
 - Engadget review recap: Pixel 10 phones, Bose earbuds and a Sony camera - Engadget
