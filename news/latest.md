@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-30 04:09_
+_Updated: 2025-08-30 05:18_
 
-- Most of President Trump's tariffs are illegal, U.S. court rules - NPR
+- Court finds Trump's tariffs an illegal use of emergency power, but leaves them in place for now - AP News
+- Trump ends security protection for former Vice President Harris - Reuters
 - HCMC, Children's Minnesota share updates on Annunciation mass shooting victims - kare11.com
-- Trump revokes Secret Service detail for Harris that Biden had extended - The Washington Post
-- Missouri’s governor orders redrawing of U.S. House map in response to Trump’s urging - PBS
-- Trump blocks $4.9B in foreign aid Congress OK'd, using maneuver last seen nearly 50 years ago - AP News
-- US denies visas to Palestinian Authority leaders for UN general assembly - The Guardian
-- New CDC chief was part of meetings where officials pressed ousted leader on vaccines - CNN
-- Social Security whistleblower submits 'involuntary resignation,' citing 'intolerable' work conditions - NBC News
-- With newly approved maps in Texas, GOP puts its gains with Latinos to the test - NPR
-- Conservatives Use Minneapolis Shooting in Anti-Transgender Campaigns - The New York Times
-- IDF recovers body of slain hostage Ilan Weiss, remains of another captive, from Gaza - The Times of Israel
-- U.K. Court Overturns Ruling on Hotel at Center of Asylum Seeker Debate - The New York Times
-- Video appears to show New Zealand fugitive who fled into wilderness with children 4 years ago - CBS News
 - US tariff exemption for low-value packages ends with few hiccups but higher costs loom - Reuters
+- Hurricane Katrina in photos, 20 years after the "slow-motion catastrophe" - CBS News
+- US denies visas to Palestinian Authority leaders for UN general assembly - The Guardian
+- The new head of the CDC has no training in medicine and once helped Peter Thiel develop man-made islands floating outside U.S. territory - Fortune
+- Social Security Admin.'s chief data officer resigns after filing whistleblower complaint - CBS News
+- Trump cancels $4.9 billion in foreign aid, escalating spending fight with Congress - Reuters
+- With newly approved maps in Texas, GOP puts its gains with Latinos to the test - NPR
+- Video appears to show New Zealand fugitive who fled into wilderness with children 4 years ago - CBS News
+- After Netanyahu and Cindy McCain meet, she calls out ‘desperation’ in Gaza, and he accuses her of ‘misrepresentation' - The Forward
+- Weapons to Start Flowing Into Ukraine Under European Deal With Trump - The New York Times
+- Tensions soar across Indonesia as protests against police erupt in multiple cities - CNN
 - Judge grapples with Trump's attempt to remove Lisa Cook as Fed governor - CBS News
-- Spirit Airlines files for Chapter 11 bankruptcy protection for the second time in a year - CNBC
-- Stock Market Today: Dow Sinks, But Nasdaq Fares Much Worse; Nvidia Extends A Losing Streak (Live Coverage) - Investor's Business Daily
-- PCE Inflation Stayed Stable in July, Keeping Fed on Track to Lower Interest Rates - The New York Times
+- Spirit Airlines Files Second Bankruptcy in Less Than One Year - Bloomberg.com
+- Wall Street’s Momentum Train Hits Full Speed Into September - Yahoo Finance
+- The Cracker Barrel mess exposes the cynicism of the rightwing culture war | Sidney Blumenthal - The Guardian
 - The Morning After: The verdict on Google's Pixel 10 Pro and Pixel 10 - Engadget
 - Apple iPhone 17 launch event: What to expect - The Verge
