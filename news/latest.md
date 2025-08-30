@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-30 15:47_
+_Updated: 2025-08-30 16:47_
 
-- Appeals court strikes down Trump’s tariffs as illegal but leaves them in place - The Washington Post
-- Attorney General Pam Bondi fires DOJ staffer for alleged obscene gesture toward National Guard members - NBC News
-- The new head of the CDC has no training in medicine and once helped Peter Thiel develop man-made islands floating outside U.S. territory - Fortune
-- CHP to protect ex-VP Kamala Harris after Trump pulls Secret Service detail, sources say - Los Angeles Times
+- An appeals court said Trump couldn’t levy his tariffs. What happens now? - The Washington Post
 - In Secret Diaries, the Church Shooter’s Plans for Mass Murder - The New York Times
-- Andriy Parubiy: Prominent Ukrainian politician shot dead in western city - CNN
-- Federal judge issues order blocking Trump effort to expand speedy deportations of migrants - CNBC
+- The new head of the CDC has no training in medicine and once helped Peter Thiel develop man-made islands floating outside U.S. territory - Fortune
+- Attorney General Pam Bondi fires DOJ staffer for alleged obscene gesture toward National Guard members - NBC News
+- Judge blocks Trump administration from expanding fast-track deportations nationwide, citing due process concerns - CBS News
+- Trump Is Starting to Turn on the People He Handpicked - The Wall Street Journal
+- Firefighter arrested by US border agents was on track for legal status, lawyers say - The Guardian
+- US builds up forces in Caribbean as officials, experts, ask why - Reuters
 - America’s once-powerful doctors are struggling to remain relevant in Trump’s Washington - Politico
-- Social Security Admin.'s chief data officer resigns after filing whistleblower complaint - CBS News
-- Detainees report alleged uprising at ‘Alligator Alcatraz’: ‘A lot of people have bled’ - The Guardian
-- 3 dead after mob sets fire to Indonesian regional parliament building - AP News
+- Missouri's Republican governor calls special session on redistricting - CBS News
+- Prominent Ukrainian nationalist politician shot dead in Lviv - Financial Times
+- Evacuation of Gaza City would be unsafe and unfeasible, says head of Red Cross - Reuters
 - U.S. blocks Palestinian president from attending UN General Assembly - Axios
-- Israel declares Gaza City a combat zone, says bodies of 2 hostages recovered as it expands the war - CBS News
-- 3 Scottish brothers set a world record for fastest Pacific row - ABC News
+- Yemen’s Houthis say prime minister of rebel-controlled government killed in Israeli airstrike - CNN
 - Spirit Airlines declares bankruptcy for second time in less than a year - CBS News
-- Six Months Into Tariffs, Businesses Have No Idea How to Price Anything - The Wall Street Journal
-- Judge wants to hear more about Fed Governor Lisa Cook’s challenge to Trump’s effort to fire her before ruling - Yahoo News Singapore
-- Best Labor Day Deals Under $25: Massive Discounts on Tech, Kitchen Accessories, Games and More - CNET
-- iPhone 17 Air vs iPhone 17 Pro: 5 biggest trade-offs to expect - Tom's Guide
-- The Latest M4 MacBook Air Is Down to Its Lowest Price Ever for Labor Day - Lifehacker
+- The best Labor Day sales our editors found at Amazon, Walmart and more — save up to 75% - yahoo.com
+- Warren Buffett Turns 95 Today. 10 of His Biggest Investing Lessons. - Barron's
+- Trump Takes Aim at South Korean Chipmakers’ China Operations - The New York Times
+- The Morning After: The verdict on Google's Pixel 10 Pro and Pixel 10 - Engadget
+- Apple iPhone 17 launch event: What to expect - The Verge
