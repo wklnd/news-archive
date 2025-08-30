@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-30 05:10_
+_Updated: 2025-08-30 05:46_
 
 ## Top Stories
 
 - Domstol i USA: Många av Trumps tullar olagliga - SVT Nyheter
-- Ukrainsk guvernör: Massiv attack - SvD
-- Orden från AI före mordet: ”Är inte galen” - Aftonbladet
 - Per Gudmundson: En Magnus Gisslén på varje myndighet - GP
+- Ukrainsk guvernör: Massiv attack mot Dnipropetrovsk - Omni
+- Orden från AI före mordet: ”Är inte galen” - Aftonbladet
 - Israel: Staden Gaza en ”farlig stridszon” - Hufvudstadsbladet
-- Järfälla kommun drabbad av cyberattack - Mitt i
+- Lorena Delgado Varas seglar till Gaza - GP
+- Andersson: Inte nödvändigt med en säkerhetsrådgivare - Omni
 - Bron mot Värmdö olycksdrabbad – bilister hamnar i fel körfält - DN
 - Skogsutredningen väcker känslor – så tycker olika aktörer - Skogsaktuellt
-- Partidagar – då får skattebetalarna stå för notan - Västerbottens-Kuriren
-- Busch om Kiruna: ”Gruvor ska tjäna svenska folket” - SVT Nyheter
+- Arvika och Eda tycks ha klarat cyberattacken bra - Arvika Nyheter
 - USA godkänner vapen till Ukraina - GP
 - Mutskandal skakar Argentina – presidenten attackerad med stenar - DN
-- Turkiet bryter med Israel – stänger luftrum - Corren
-- Ministrar kräver hårdare tag mot Ryssland efter Kievattack - Europaportalen
+- ”Förbannad mördare” – hårda ord i EU om Putin - Västerbottens-Kuriren
+- Turkiet bryter med Israel – stänger luftrum - Hallandsposten
 - Sveriges BNP ökade som väntat i årstakt i andra kvartalet (uppdatering) - Placera.se
 - Nya tester för att ta Oskarshamn 3 i drift - Mynewsdesk
+- LKAB: Ännu fler kan behöva flytta i Kiruna - SvD
 - Konsumentverket vill förbjuda telefonförsäljning - Världen idag
-- Ledare - Dags att tända lampan – med ny kärnkraft i Sverige! - ENERGInyheter.se
 - Lidl utmanar Biltema – med ”Terminator” - Carup.se
 - Playstation 6 kan bli en bärbar konsol - MovieZine
 
@@ -53,6 +53,7 @@ _Updated: 2025-08-30 05:10_
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -67,9 +68,8 @@ _Updated: 2025-08-30 05:10_
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- ZenaTech Signs Agreements to Acquire Two Florida Companies, Expanding Drone as a Service Footprint into Aviation, Defense, and Power Washing - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
+- 4 ETF:er som satsar på AI - Morningstar
 
 ## Business
 
@@ -114,8 +114,8 @@ _Updated: 2025-08-30 05:10_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
@@ -127,17 +127,17 @@ _Updated: 2025-08-30 05:10_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
