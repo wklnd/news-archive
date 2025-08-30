@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-30 08:50_
+_Updated: 2025-08-30 09:48_
 
 - Most of Trump's tariffs are not legal, court rules: what to know - Axios
 - 'There is no message': The search for ideological motives in the Minneapolis shooting - NPR
-- Trump ends security protection for former Vice President Harris - Reuters
-- Judge says Trump effort to expand speedy deportations of migrants violates due process - CNN
-- With CDC in chaos, scientists and physicians piece together replacements for agency's lost work - AP News
-- Trump Administration Bars Palestinian Officials From U.N. Meeting in New York - The New York Times
-- Social Security Admin.'s chief data officer resigns after filing whistleblower complaint - CBS News
-- Trump cancels $4.9 billion in foreign aid, escalating spending fight with Congress - Reuters
-- Missouri’s governor orders redrawing of U.S. House map in response to Trump’s urging - PBS
+- CHP to protect ex-VP Kamala Harris after Trump pulls Secret Service detail, sources say - Los Angeles Times
+- Judge Blocks Pillar of Trump’s Mass Deportation Campaign - The New York Times
+- The new head of the CDC has no training in medicine and once helped Peter Thiel develop man-made islands floating outside U.S. territory - Fortune
+- US tariff exemption for low-value packages ends with few hiccups but higher costs loom - Reuters
+- Social Security whistleblower quits after saying Americans’ data was compromised - The Washington Post
+- Trump blocks $4.9B in foreign aid Congress OK'd, using maneuver last seen nearly 50 years ago - AP News
+- Missouri's Republican governor calls special session on redistricting - CBS News
 - Democrats pounce in reliably red Iowa, fueled by special election hopium - Politico
 - SCO summit: China’s Xi rolls out the red carpet for Putin and Modi as Trump upends global relations - CNN
-- Protests Spread Across Indonesia After a Deadly Clash With Police - The New York Times
+- Three dead as Indonesian protesters set fire to regional parliament building - Reuters
 - Zelenskiy wants higher-level talks on security guarantees next week - Reuters
-- "De minimis" U.S. tariffs exemption ends for low-value imports - CBS News
+- ‘Far more dangerous than war’: Iranians brace for prospect of UN sanctions - The Guardian
 - Spirit Airlines declares bankruptcy for second time in less than a year - CBS News
 - Cracker Barrel Did More Than Just Ditch Its Logo After MAGA Meltdown - The Daily Beast
-- Judge considers request to block Trump’s ouster of Federal Reserve board member - The Washington Post
-- PCE Inflation Stayed Stable in July, Keeping Fed on Track to Lower Interest Rates - The New York Times
+- Judge weighs Trump’s power to fire Fed board member - Politico
+- Wall Street’s Momentum Train Hits Full Speed Into September - Bloomberg.com
+- Google's Pixel 10 sets AI bar for smartphones - Axios
 - Lenovo leaks show concept laptop with rotating display - The Verge
-- The Morning After: The verdict on Google's Pixel 10 Pro and Pixel 10 - Engadget
