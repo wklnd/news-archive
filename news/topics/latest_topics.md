@@ -1,59 +1,58 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-30 01:38_
+_Updated: 2025-08-30 04:06_
 
 ## Top Stories
 
-- Domstol i USA: Många av Trumps tullar olagliga - Västerbottens-Kuriren
+- Domstol i USA: Många av Trumps tullar olagliga - SVT Nyheter
+- Natalya efter ryska jätteattacken mot Kiev: ”Gud välsignade min lägenhet” - Världen idag
+- Orden från AI före mordet: ”Är inte galen” - Aftonbladet
 - Per Gudmundson: En Magnus Gisslén på varje myndighet - GP
-- Bussföraren Abbas om bron där kollegan dog: ”Mycket som inte stämmer med den” - Arbetet
 - USA nekar palestinska delegater visum – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- ”Skogsbruket måste bli mer uthålligt” - SvD
-- Efter cyberattacken – nu fungerar Miljödatas IT-system - Södertälje kommun
-- LKAB om Kiruna: Kan bli fler flyttar - GP
-- Skolanställd åtalas för sexbrott mot 15 flickor - UNT
-- Beslut om kamerabevakning i Arvidsjaur - polisen.se
-- Experten varnar för riskerna med strypsex - Aftonbladet
-- Nya bilder uppges visa pappa på rymmen med sina barn - DN
-- Turkiet bryter med Israel – stänger luftrum - Västerbottens-Kuriren
+- Järfälla kommun drabbad av cyberattack - Mitt i
+- Bron mot Värmdö olycksdrabbad – bilister hamnar i fel körfält - DN
+- Skogsutredningen väcker känslor – så tycker olika aktörer - Skogsaktuellt
+- Värmländska KD-politiker lät regionen betala för fest och middag: ”Jätteolyckligt” - NWT
+- Busch om Kiruna: ”Gruvor ska tjäna svenska folket” - SVT Nyheter
+- USA godkänner vapen till Ukraina - SVT Nyheter
 - Mutskandal skakar Argentina – presidenten attackerad med stenar - DN
-- Michael Winiarski: Trump kommer åter med ett förbryllande påstående om Ukraina - DN
-- Rysslands ekonomi backar: ”Har nått vägs ände” - DN
+- Turkiet bryter med Israel – stänger luftrum - GP
+- Ministrar kräver hårdare tag mot Ryssland efter Kievattack - Europaportalen
 - Sveriges BNP ökade som väntat i årstakt i andra kvartalet (uppdatering) - Placera.se
-- Oskarshamn 3 avställd längre tid – specialrobotar lyckas inte laga felet - nyteknik
+- Rysslands ekonomi backar: ”Har nått vägs ände” - DN
+- Oskarshamn 3 avställd längre tid – specialrobotar lyckas inte laga felet - Nyteknik
 - Konsumentverket vill förbjuda telefonförsäljning - Världen idag
 - Lidl utmanar Biltema – med ”Terminator” - Carup.se
-- QA-Testare inom API/Frontend till Söderberg & Partners! på PO Söderberg & Partner Aktiebolag - Ingenjörsjobb
+- Playstation 6 kan bli en bärbar konsol - MovieZine
 
 ## World News
 
 - Hormel Foods Corporation to Participate in Barclays 18th Annual Global Consumer Staples Conference - Placera.se
 - JOHNNIE WALKER SCOTCH WHISKY ANNOUNCES GLOBAL PARTNERSHIP WITH GRAMMY AWARD-WINNING MUSIC ARTIST AND INTERNATIONAL SUPERSTAR SABRINA CARPENTER - Placera.se
-- 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - F-16 ace pilot killed in training crash before Polish air show - TVP World
 - NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
-- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- New Secretary General appointed - Olof Palme International Center
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
+- 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Crocs, Inc. to Present at Goldman Sachs 32nd Annual Global Retailing Conference - Placera.se
 - Booking Holdings Inc. to Present at the Citi 2025 Global TMT Conference - Placera.se
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -64,12 +63,13 @@ _Updated: 2025-08-30 01:38_
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- ZenaTech Signs Agreements to Acquire Two Florida Companies, Expanding Drone as a Service Footprint into Aviation, Defense, and Power Washing - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- 4 ETF:er som satsar på AI - Morningstar
+- Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
 
 ## Business
 
@@ -144,21 +144,21 @@ _Updated: 2025-08-30 01:38_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- USA tvingar ut EU på banan - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk
