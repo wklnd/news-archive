@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-30 15:38_
+_Updated: 2025-08-30 16:38_
 
 ## Top Stories
 
-- Åkesson: Livstid eller kastrering för pedofiler - GP
+- DN Direkt - Palestinademonstranter avbröt Jimmie Åkesson - DN.se - DN
+- Ukrainsk toppolitiker skjuten till döds - GP
 - DN Direkt - Man skadad på boende i Götene – kvinna gripen - DN.se - DN
-- E6 kapad av ras i Norge – en befaras död - SvD
-- Ukrainsk toppolitiker skjuten till döds på öppen gata - DN
-- Malmer Stenergard: Är frustrerad – vi har en skyldighet att agera – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Brandmän får cancer av giftig brandrök i kläderna – många stationer saknar tvättmaskiner - GP
+- Karl Dalén: Därför plockar soldaterna skräp på Washingtons gator - DN
+- Kim deltar i toppmöte – kan bryta isoleringen - SvD
+- Stort insats efter ras i Norge – en person saknas - Aftonbladet
 - Älskad och mytomspunnen – nu behöver igelkotten vår hjälp - DN
-- Tjejgäng trakasserar och förnedrar flickor - GP
 - Veckans nyheter: Fjälljakt, älgstam och björnattack - Svensk Jakt
+- Kamerabevakning i Landskrona - polisen.se
 - 30 augusti 07.42, Sammanfattning natt, Jämtlands län - polisen.se
-- Ukraina: Flera skadade i ”massiva” attacker - Västerbottens-Kuriren
-- Bil har rammat folkmassa i Frankrike - GP
-- DN Direkt - Finska flygvapnet tar bort hakkors från sin flagga - DN.se - DN
-- DN Direkt - Australiens plan: Skicka migranter till Stillahavsö - DN.se - DN
+- Australiens plan: Skicka migranter till Stillahavsö - Västerbottens-Kuriren
+- Ytterligare tio ihjälsvultna i Gaza - SVT Nyheter
+- Ukraina: Flera skadade i ”massiva” attacker - GP
+- DN Direkt - Bil har rammat folkmassa i Frankrike - DN.se - DN
 - Rysslands ekonomi backar: ”Har nått vägs ände” - DN
-- Varningen: Dyra reformer stoppar räntesänkningar - Dagens PS
-- Ledare: Rätt att förbjuda telefonförsäljning - sla.se
 - ”Ny kärnkraft tryggar södra Sverige.” - Sydsvenskan
+- Ledare: Rätt att förbjuda telefonförsäljning - sla.se
+- Oskarshamn 3 avställd längre tid – specialrobotar lyckas inte laga felet - Nyteknik
+- INSÄNDARE: Han säger alltid ett glatt ”hej hej” - VLT
 - Vaccinskeptikern Robert Kennedy jr rensar ut medicinska experter - GP
-- 97 är ingen ålder för den som spelar golf - Västerbottens-Kuriren
 
 ## World News
 
-- 7 saker om EQTY Global Growth II Fund - The Portugal News
+- Hormel Foods Corporation to Participate in Barclays 18th Annual Global Consumer Staples Conference - Placera.se
+- JOHNNIE WALKER SCOTCH WHISKY ANNOUNCES GLOBAL PARTNERSHIP WITH GRAMMY AWARD-WINNING MUSIC ARTIST AND INTERNATIONAL SUPERSTAR SABRINA CARPENTER - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - F-16 ace pilot killed in training crash before Polish air show - TVP World
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
-- New Secretary General appointed - Olof Palme International Center
+- NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
-- Umeå children in worldwide school project on AI - Umeå universitet
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Chinese Manufacturers Are Peeling Off the Veneer of Western Luxury - Morocco World News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- Prolific invasive plant will spread further as climate changes, warns a new global study - European Commission
-- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
+- UN Security Council calls emergency meeting on Gaza - Poddtoppen
+- Crocs, Inc. to Present at Goldman Sachs 32nd Annual Global Retailing Conference - Placera.se
+- Booking Holdings Inc. to Present at the Citi 2025 Global TMT Conference - Placera.se
 
 ## Technology
 
@@ -77,7 +77,6 @@ _Updated: 2025-08-30 15:38_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Publication of the 2025 Half-Year Report - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
@@ -86,13 +85,14 @@ _Updated: 2025-08-30 15:38_
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
 
 ## Health
 
@@ -122,28 +122,29 @@ _Updated: 2025-08-30 15:38_
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Poddar och webbplatser - Forskning & Framsteg
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -151,14 +152,13 @@ _Updated: 2025-08-30 15:38_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- USA tvingar ut EU på banan - Land Lantbruk
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
