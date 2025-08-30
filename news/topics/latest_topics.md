@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-30 17:38_
+_Updated: 2025-08-30 18:42_
 
 ## Top Stories
 
-- Experten om raset i Norge: ”Inte förvånande” - DN
-- Huthiledare död i israeliskt flyganfall - GP
 - Källor: Vita huset tycker att Europa saboterar samtalen om fred - Omni
+- Jimmie Åkesson (SD): Livstid för pedofiler - SVT Nyheter
 - Ukrainsk toppolitiker skjuten till döds på öppen gata - DN
-- Karl Dalén: Därför plockar soldaterna skräp på Washingtons gator - DN
+- Flera Göteborgskommuner rankas bland Sveriges bästa - GP
 - Kim deltar i toppmöte – kan bryta isoleringen - SvD
-- Åkesson: Livstid eller kastrering för pedofiler - SVT Nyheter
+- Karl Dalén: Därför plockar soldaterna skräp på Washingtons gator - DN
 - Tjejliga misstänks ha förnedrat flickor – tvingade dem att kyssa deras fötter - DN
 - Värmländska KD-politiker lät regionen betala för fest och middag: ”Jätteolyckligt” - NWT
-- Veckans nyheter: Fjälljakt, älgstam och björnattack - Svensk Jakt
+- Mardrömmen i hagen: "Jag fick skjuta dem nästan allihop" - Corren
+- Arvika och Eda tycks ha klarat cyberattacken bra - Arvika Nyheter
 - DN Direkt - Finska flygvapnet tar bort hakkors från sin flagga - DN.se - DN
-- Australiens plan: Skicka migranter till Stillahavsö - GP
-- En halv miljon på flykt undan översvämningar - Västerbottens-Kuriren
-- Utrikesministern: ”Ett svaghetstecken hos EU” – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Australiens plan: Skicka migranter till Stillahavsö - Västerbottens-Kuriren
+- Ytterligare tio ihjälsvultna i Gaza - SVT Nyheter
+- Palestine: Statement by the High Representative on behalf of the European Union - consilium.europa.eu
 - ”Ny kärnkraft tryggar södra Sverige.” - Sydsvenskan
-- Oskarshamn 3 avställd längre tid – specialrobotar lyckas inte laga felet - Nyteknik
-- Rekordmånga bostäder till salu - SVT Nyheter
+- Ledare: Rätt att förbjuda telefonförsäljning - sla.se
 - LKAB om Kiruna: Kan bli fler flyttar - Skånska Dagbladet
+- Rekordmånga husvisningar och affärer – mäklaren Victor: ”Nu växer intresset igen” - NLT
 - INSÄNDARE: Han säger alltid ett glatt ”hej hej” - VLT
 - Vaccinskeptikern Robert Kennedy jr rensar ut medicinska experter - GP
 
@@ -36,17 +36,17 @@ _Updated: 2025-08-30 17:38_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - World Athletics introduces gene test for female category - BBC
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Crocs, Inc. to Present at Goldman Sachs 32nd Annual Global Retailing Conference - Placera.se
 - Booking Holdings Inc. to Present at the Citi 2025 Global TMT Conference - Placera.se
+- BIG Travel går in i globalt partnerskap - travelnews.se
 
 ## Technology
 
@@ -62,14 +62,14 @@ _Updated: 2025-08-30 17:38_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- 4 ETF:er som satsar på AI - Morningstar
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
+- 4 ETF:er som satsar på AI - Morningstar
 
 ## Business
 
@@ -144,21 +144,21 @@ _Updated: 2025-08-30 17:38_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- USA tvingar ut EU på banan - Land Lantbruk
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
