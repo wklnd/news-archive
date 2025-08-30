@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-30 07:39_
+_Updated: 2025-08-30 08:45_
 
 ## Top Stories
 
-- Domstol i USA: Många av Trumps tullar olagliga - SVT Nyheter
+- Domstol: Många av Trumps tullar olagliga - SVT Nyheter
 - Per Gudmundson: En Magnus Gisslén på varje myndighet - GP
-- Partidagar – då får skattebetalarna stå för notan - Västerbottens-Kuriren
+- Betalade för partifester – visste inte att alkohol ingick - DN
 - Här väntas bostadspriserna öka mest – när det vänder - GP
-- Epa-olycka i Östersund - Expressen
-- Ukraina: Flera skadade i massiva attacker - Västerbottens-Kuriren
-- Magdalena Andersson: Onödigt med en säkerhetsrådgivare - Expressen
+- Xi samlar diktatorerna – men alla tittar på Modi - Omni
+- USA nekar palestinska delegater visum – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- S: Tveksamt att behålla säkerhetsrådgivaren - SvD
 - Skogsutredningen väcker känslor – så tycker olika aktörer - Skogsaktuellt
-- Busch om Kiruna: ”Gruvor ska tjäna svenska folket” - SVT Nyheter
-- Israel: Staden Gaza en ”farlig stridszon” - Hufvudstadsbladet
+- Skarpt föremål hittat i Malmö – stora avspärrningar - SVT Nyheter
+- I NATT: Misshandel och skadegörelse – så var natten i Värmland - NWT
+- Ukraina: Flera skadade i massiva attacker - Västerbottens-Kuriren
+- Vita huset: Jobbar fortsatt på Putin-Zelenskyjmöte - GP
 - USA godkänner vapen till Ukraina - GP
-- Hot med fårhuvud i Malmö - Expressen
 - DN Direkt - Ukraina på agendan när EU:s försvarsministrar möts - DN.se - DN
-- Blodig kvinna hittad i trädgård i Falköping - SVT Nyheter
-- Ledare: Rätt att förbjuda telefonförsäljning - sla.se
 - ”Ny kärnkraft tryggar södra Sverige.” - Sydsvenskan
-- Sveriges BNP ökade som väntat i årstakt i andra kvartalet - Placera.se
+- Ledare: Rätt att förbjuda telefonförsäljning - sla.se
+- Busch om Kiruna: Positivt att LKAB satsar - SvD
 - Rekordmånga bostäder till salu - SVT Nyheter
 - Microsoft utmanar med två egna AI-modeller - Omni
 - Lidl utmanar Biltema – med ”Terminator” - Carup.se
@@ -33,7 +33,7 @@ _Updated: 2025-08-30 07:39_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - F-16 ace pilot killed in training crash before Polish air show - TVP World
 - NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
-- Riad Beladi i samtal med Alice Ancona, operativ chef för World Trade Center Miami – Fokus på America Food & Beverage Show & Conference – International Supermarket News - International Supermarket News
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
@@ -78,10 +78,11 @@ _Updated: 2025-08-30 07:39_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Publication of the 2025 Half-Year Report - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
+- Publication of the 2025 Half-Year Report - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2025-08-30 07:39_
 - CHAMPION IRON ANNOUNCES THE DEPARTURE OF ITS CHIEF FINANCIAL OFFICER - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -114,8 +114,8 @@ _Updated: 2025-08-30 07:39_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -144,21 +144,21 @@ _Updated: 2025-08-30 07:39_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
