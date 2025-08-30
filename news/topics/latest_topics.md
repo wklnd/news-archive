@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-30 11:37_
+_Updated: 2025-08-30 12:39_
 
 ## Top Stories
 
-- Stort ras på E6 i Norge – en person saknas - DN
-- Bil har rammat folkmassa i Frankrike - Västerbottens-Kuriren
-- Domstol: Merparten av Trumps tullar är olagliga - Hufvudstadsbladet
+- Stort ras i Norge – en person saknas - SvD
+- Malmer Stenergard: Är frustrerad – vi har en skyldighet att agera – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- DN Direkt - Stort ras på E6 i Norge – bil i vattnet - DN.se - DN
 - Per Gudmundson: En Magnus Gisslén på varje myndighet - GP
+- Brandmän får cancer av giftig brandrök i kläderna – många stationer saknar tvättmaskiner - GP
 - Tjejliga misstänks ha förnedrat flickor – tvingade dem att kyssa deras fötter - DN
-- Uppsalas skattebetalare ska inte ta KD:s middagsnota - UNT
-- S: Tveksamt att behålla säkerhetsrådgivaren - SvD
+- Älskad och mytomspunnen – nu behöver igelkotten vår hjälp - DN
 - Skogsutredningen väcker känslor – så tycker olika aktörer - Skogsaktuellt
 - Johannes Klenell: Han dömdes i stor pensionshärva – men SD hyllar honom - DN
 - 30 augusti 07.42, Sammanfattning natt, Jämtlands län - polisen.se
-- Ukraina: Flera skadade i massiva attacker - Västerbottens-Kuriren
-- Renad från Gaza försvann plötsligt – visar upp nya livet - Aftonbladet
+- Ukrainsk toppolitiker skjuten till döds - Västerbottens-Kuriren
+- Ukraina: Flera skadade i ”massiva” attacker - Västerbottens-Kuriren
+- DN Direkt - Finska flygvapnet tar bort hakkors från sin flagga - DN.se - DN
+- Domstolen: Trumps handelstullar olagliga - GP
 - Rysslands ekonomi backar: ”Har nått vägs ände” - DN
-- USA godkänner vapen till Ukraina - GP
 - Avhopp och konflikter – rapporter inifrån Meta - Realtid
-- ”Ny kärnkraft tryggar södra Sverige.” - Sydsvenskan
-- Aktiebedrägerierna får finanstoppar att agera - SvD
-- Rekordmånga bostäder till salu - SVT Nyheter
+- Håkan Boström: Telefonförsäljning bör kräva samtycke - GP
+- Teknikprofilen rasar mot Meta: ”Ohygglig dubbelmoral” - Dagens industri
 - Vaccinskeptikern Robert Kennedy jr rensar ut medicinska experter - GP
 - DJI Mini 5 Pro kan sätta ribban för ultralätta drönare – till ett lockande pris - TechRadar
 
@@ -33,14 +33,14 @@ _Updated: 2025-08-30 11:37_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - F-16 ace pilot killed in training crash before Polish air show - TVP World
 - NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
-- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- New Secretary General appointed - Olof Palme International Center
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- 7 saker om EQTY Global Growth II Fund - The Portugal News
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
@@ -52,9 +52,8 @@ _Updated: 2025-08-30 11:37_
 
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
-- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
+- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
@@ -64,12 +63,13 @@ _Updated: 2025-08-30 11:37_
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- 4 ETF:er som satsar på AI - Morningstar
 
 ## Business
 
@@ -103,19 +103,19 @@ _Updated: 2025-08-30 11:37_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 
 ## Science
 
