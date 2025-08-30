@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-30 19:37_
+_Updated: 2025-08-30 20:44_
 
 ## Top Stories
 
-- Huthiledare död i israeliskt flyganfall - GP
+- Två stora bakslag för Trump på mindre än ett dygn: ”Hans maktposition testas” - DN
+- Norge hårt drabbat av ras och skred - SvD
 - Ukrainsk toppolitiker skjuten till döds på öppen gata - DN
-- Amerikansk domstol: Trumps tullar är olagliga - DN
-- E6 kapad av ras i Norge – en befaras död - UNT
+- Striden på Östermalm: ”De har roffat åt sig” - SvD
 - Karl Dalén: Därför plockar soldaterna skräp på Washingtons gator - DN
-- Jimmie Åkesson (SD): Livstid för pedofiler - SVT Nyheter
-- Tjejliga misstänks ha förnedrat flickor – tvingade dem att kyssa deras fötter - DN
+- Fritidsbåt exploderade – person kastades i vattnet - P4 Västmanland - Sveriges Radio
+- Åkesson: Livstid eller kastrering för pedofiler - SVT Nyheter
 - Mardrömmen i hagen: "Jag fick skjuta dem nästan allihop" - Corren
 - Arvika och Eda tycks ha klarat cyberattacken bra - Arvika Nyheter
 - Israel: Staden Gaza en ”farlig stridszon” - Hufvudstadsbladet
 - DN Direkt - Finska flygvapnet tar bort hakkors från sin flagga - DN.se - DN
-- En halv miljon på flykt undan översvämningar - Västerbottens-Kuriren
 - Palestine: Statement by the High Representative on behalf of the European Union - consilium.europa.eu
+- Nicolás Maduro – busschauffören som blev despot och jagas av USA - DN
 - Ukraina: Flera skadade i ”massiva” attacker - GP
+- LEDARE: Välkommet smörgåsbord för skogsbruket - Östersunds-Posten
 - ”Ny kärnkraft tryggar södra Sverige.” - Sydsvenskan
+- 3 procent inflation – känns som 15 i plånboken - Dagens PS
 - LKAB om Kiruna: Kan bli fler flyttar - Skånska Dagbladet
-- Rekordmånga husvisningar och affärer – mäklaren Victor: ”Nu växer intresset igen” - NLT
-- Bostadsbrist för 7 av 8 studenter – men inte i Borlänge - Borlänge Tidning
 - Vaccinskeptikern Robert Kennedy jr rensar ut medicinska experter - GP
-- INSÄNDARE: Han säger alltid ett glatt ”hej hej” - VLT
+- Så farligt kan binge-spelande vara för dig - MovieZine
 
 ## World News
 
@@ -38,36 +38,36 @@ _Updated: 2025-08-30 19:37_
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - World Athletics introduces gene test for female category - BBC
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
+- Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- Crocs, Inc. to Present at Goldman Sachs 32nd Annual Global Retailing Conference - Placera.se
+- How Sudan’s collapse exposes America’s fading global power - Poddtoppen
 - Booking Holdings Inc. to Present at the Citi 2025 Global TMT Conference - Placera.se
 
 ## Technology
 
-- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
+- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
+- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - 4 ETF:er som satsar på AI - Morningstar
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 
@@ -103,7 +103,6 @@ _Updated: 2025-08-30 19:37_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Europeisk konferens för socialmedicin: Praktik, teori och handling för en hälsosammare framtid - sls.se
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
@@ -111,34 +110,35 @@ _Updated: 2025-08-30 19:37_
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
