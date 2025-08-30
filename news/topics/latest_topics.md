@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-30 04:06_
+_Updated: 2025-08-30 05:10_
 
 ## Top Stories
 
 - Domstol i USA: Många av Trumps tullar olagliga - SVT Nyheter
-- Natalya efter ryska jätteattacken mot Kiev: ”Gud välsignade min lägenhet” - Världen idag
+- Ukrainsk guvernör: Massiv attack - SvD
 - Orden från AI före mordet: ”Är inte galen” - Aftonbladet
 - Per Gudmundson: En Magnus Gisslén på varje myndighet - GP
-- USA nekar palestinska delegater visum – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Israel: Staden Gaza en ”farlig stridszon” - Hufvudstadsbladet
 - Järfälla kommun drabbad av cyberattack - Mitt i
 - Bron mot Värmdö olycksdrabbad – bilister hamnar i fel körfält - DN
 - Skogsutredningen väcker känslor – så tycker olika aktörer - Skogsaktuellt
-- Värmländska KD-politiker lät regionen betala för fest och middag: ”Jätteolyckligt” - NWT
+- Partidagar – då får skattebetalarna stå för notan - Västerbottens-Kuriren
 - Busch om Kiruna: ”Gruvor ska tjäna svenska folket” - SVT Nyheter
-- USA godkänner vapen till Ukraina - SVT Nyheter
+- USA godkänner vapen till Ukraina - GP
 - Mutskandal skakar Argentina – presidenten attackerad med stenar - DN
-- Turkiet bryter med Israel – stänger luftrum - GP
+- Turkiet bryter med Israel – stänger luftrum - Corren
 - Ministrar kräver hårdare tag mot Ryssland efter Kievattack - Europaportalen
 - Sveriges BNP ökade som väntat i årstakt i andra kvartalet (uppdatering) - Placera.se
-- Rysslands ekonomi backar: ”Har nått vägs ände” - DN
-- Oskarshamn 3 avställd längre tid – specialrobotar lyckas inte laga felet - Nyteknik
+- Nya tester för att ta Oskarshamn 3 i drift - Mynewsdesk
 - Konsumentverket vill förbjuda telefonförsäljning - Världen idag
+- Ledare - Dags att tända lampan – med ny kärnkraft i Sverige! - ENERGInyheter.se
 - Lidl utmanar Biltema – med ”Terminator” - Carup.se
 - Playstation 6 kan bli en bärbar konsol - MovieZine
 
@@ -39,8 +39,8 @@ _Updated: 2025-08-30 04:06_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
-- 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- 7 saker om EQTY Global Growth II Fund - The Portugal News
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
@@ -78,21 +78,21 @@ _Updated: 2025-08-30 04:06_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- DeFi Technologies to Manage Nuvve's HYPE Treasury Strategy Through Newly Launched DeFi Advisory Business Line - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Publication of the 2025 Half-Year Report - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- CHAMPION IRON ANNOUNCES THE DEPARTURE OF ITS CHIEF FINANCIAL OFFICER - Placera.se
+- Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- CHAMPION IRON ANNOUNCES THE DEPARTURE OF ITS CHIEF FINANCIAL OFFICER - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -114,31 +114,31 @@ _Updated: 2025-08-30 04:06_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
