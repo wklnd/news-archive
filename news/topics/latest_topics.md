@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-30 06:41_
+_Updated: 2025-08-30 07:39_
 
 ## Top Stories
 
 - Domstol i USA: Många av Trumps tullar olagliga - SVT Nyheter
 - Per Gudmundson: En Magnus Gisslén på varje myndighet - GP
+- Partidagar – då får skattebetalarna stå för notan - Västerbottens-Kuriren
+- Här väntas bostadspriserna öka mest – när det vänder - GP
+- Epa-olycka i Östersund - Expressen
 - Ukraina: Flera skadade i massiva attacker - Västerbottens-Kuriren
-- Andersson: Inte nödvändigt med en säkerhetsrådgivare - Omni
-- USA nekar palestinska delegater visum – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Välkomnar flytten: ”Sorgligt för många, men en stor möjlighet” - NSD
+- Magdalena Andersson: Onödigt med en säkerhetsrådgivare - Expressen
 - Skogsutredningen väcker känslor – så tycker olika aktörer - Skogsaktuellt
-- Arvika och Eda tycks ha klarat cyberattacken bra - Arvika Nyheter
-- Carl Johan von Seth: Ett nytt gap i svensk ekonomi har öppnat sig inför valet - DN
-- Experten varnar för riskerna med strypsex - Aftonbladet
-- USA godkänner vapen till Ukraina - SVT Nyheter
+- Busch om Kiruna: ”Gruvor ska tjäna svenska folket” - SVT Nyheter
+- Israel: Staden Gaza en ”farlig stridszon” - Hufvudstadsbladet
+- USA godkänner vapen till Ukraina - GP
+- Hot med fårhuvud i Malmö - Expressen
 - DN Direkt - Ukraina på agendan när EU:s försvarsministrar möts - DN.se - DN
 - Blodig kvinna hittad i trädgård i Falköping - SVT Nyheter
-- Mutskandal skakar Argentina – presidenten attackerad med stenar - DN
-- Sveriges BNP ökade som väntat i årstakt i andra kvartalet - Placera.se
-- Nya tester för att ta Oskarshamn 3 i drift - Mynewsdesk
 - Ledare: Rätt att förbjuda telefonförsäljning - sla.se
 - ”Ny kärnkraft tryggar södra Sverige.” - Sydsvenskan
+- Sveriges BNP ökade som väntat i årstakt i andra kvartalet - Placera.se
+- Rekordmånga bostäder till salu - SVT Nyheter
+- Microsoft utmanar med två egna AI-modeller - Omni
 - Lidl utmanar Biltema – med ”Terminator” - Carup.se
-- Now Brief finns nu på Galaxy S24-mobilerna - m3.se
 
 ## World News
 
@@ -33,6 +33,7 @@ _Updated: 2025-08-30 06:41_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - F-16 ace pilot killed in training crash before Polish air show - TVP World
 - NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
+- Riad Beladi i samtal med Alice Ancona, operativ chef för World Trade Center Miami – Fokus på America Food & Beverage Show & Conference – International Supermarket News - International Supermarket News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
@@ -40,7 +41,6 @@ _Updated: 2025-08-30 06:41_
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- 7 saker om EQTY Global Growth II Fund - The Portugal News
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - European leaders to join Trump-Zelensky meeting - Poddtoppen
@@ -114,8 +114,8 @@ _Updated: 2025-08-30 06:41_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
@@ -144,21 +144,21 @@ _Updated: 2025-08-30 06:41_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
-- Små jordbruk kan mätta fler - FoodMonitor
-- Tio jordbruksaktier för depån - Placera.se
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
-- Globalt jordbruk förorenar mer vatten än industrin - Land Lantbruk
