@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-30 05:46_
+_Updated: 2025-08-30 06:41_
 
 ## Top Stories
 
 - Domstol i USA: Många av Trumps tullar olagliga - SVT Nyheter
 - Per Gudmundson: En Magnus Gisslén på varje myndighet - GP
-- Ukrainsk guvernör: Massiv attack mot Dnipropetrovsk - Omni
-- Orden från AI före mordet: ”Är inte galen” - Aftonbladet
-- Israel: Staden Gaza en ”farlig stridszon” - Hufvudstadsbladet
-- Lorena Delgado Varas seglar till Gaza - GP
+- Ukraina: Flera skadade i massiva attacker - Västerbottens-Kuriren
 - Andersson: Inte nödvändigt med en säkerhetsrådgivare - Omni
-- Bron mot Värmdö olycksdrabbad – bilister hamnar i fel körfält - DN
+- USA nekar palestinska delegater visum – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Välkomnar flytten: ”Sorgligt för många, men en stor möjlighet” - NSD
 - Skogsutredningen väcker känslor – så tycker olika aktörer - Skogsaktuellt
 - Arvika och Eda tycks ha klarat cyberattacken bra - Arvika Nyheter
-- USA godkänner vapen till Ukraina - GP
+- Carl Johan von Seth: Ett nytt gap i svensk ekonomi har öppnat sig inför valet - DN
+- Experten varnar för riskerna med strypsex - Aftonbladet
+- USA godkänner vapen till Ukraina - SVT Nyheter
+- DN Direkt - Ukraina på agendan när EU:s försvarsministrar möts - DN.se - DN
+- Blodig kvinna hittad i trädgård i Falköping - SVT Nyheter
 - Mutskandal skakar Argentina – presidenten attackerad med stenar - DN
-- ”Förbannad mördare” – hårda ord i EU om Putin - Västerbottens-Kuriren
-- Turkiet bryter med Israel – stänger luftrum - Hallandsposten
-- Sveriges BNP ökade som väntat i årstakt i andra kvartalet (uppdatering) - Placera.se
+- Sveriges BNP ökade som väntat i årstakt i andra kvartalet - Placera.se
 - Nya tester för att ta Oskarshamn 3 i drift - Mynewsdesk
-- LKAB: Ännu fler kan behöva flytta i Kiruna - SvD
-- Konsumentverket vill förbjuda telefonförsäljning - Världen idag
+- Ledare: Rätt att förbjuda telefonförsäljning - sla.se
+- ”Ny kärnkraft tryggar södra Sverige.” - Sydsvenskan
 - Lidl utmanar Biltema – med ”Terminator” - Carup.se
-- Playstation 6 kan bli en bärbar konsol - MovieZine
+- Now Brief finns nu på Galaxy S24-mobilerna - m3.se
 
 ## World News
 
@@ -53,7 +53,6 @@ _Updated: 2025-08-30 05:46_
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -69,6 +68,7 @@ _Updated: 2025-08-30 05:46_
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
 - 4 ETF:er som satsar på AI - Morningstar
 
 ## Business
@@ -114,8 +114,8 @@ _Updated: 2025-08-30 05:46_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -127,38 +127,38 @@ _Updated: 2025-08-30 05:46_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbruk och landsbygdsutveckling - European Commission
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
+- Små jordbruk kan mätta fler - FoodMonitor
+- Tio jordbruksaktier för depån - Placera.se
 - Här är världens största jordbruk - ATL
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- USA tvingar ut EU på banan - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
+- Globalt jordbruk förorenar mer vatten än industrin - Land Lantbruk
