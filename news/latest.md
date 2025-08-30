@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-30 06:48_
+_Updated: 2025-08-30 07:48_
 
-- Trump’s global tariffs are unlawful, appeals court says - ABC News
-- CHP to protect ex-VP Kamala Harris after Trump pulls Secret Service detail, sources say - Los Angeles Times
+- Most of Trump's tariffs are not legal, court rules: what to know - Axios
 - 'There is no message': The search for ideological motives in the Minneapolis shooting - NPR
-- Missouri's Republican governor calls special session on redistricting - CBS News
-- Trump administration faces rare bipartisan pushback for firing CDC director - The Guardian
-- Judge says Trump effort to expand speedy deportations of migrants violates due process - CNN
+- CHP to protect ex-VP Kamala Harris after Trump pulls Secret Service detail, sources say - Los Angeles Times
+- The new head of the CDC has no training in medicine and once helped Peter Thiel develop man-made islands floating outside U.S. territory - Fortune
+- Judge blocks Trump administration from expanding fast-track deportations nationwide, citing due process concerns - CBS News
+- Missouri’s governor orders redrawing of U.S. House map in response to Trump’s urging - PBS
 - Social Security Admin.'s chief data officer resigns after filing whistleblower complaint - CBS News
 - Trump blocks $4.9B in foreign aid Congress OK'd, using maneuver last seen nearly 50 years ago - AP News
-- Ernst won’t seek reelection, giving Democrats opening in battle for Senate - The Washington Post
+- Democrats pounce in reliably red Iowa, fueled by special election hopium - Politico
 - Xi Jinping to host Vladimir Putin and Narendra Modi as China presents rival front to US - Financial Times
+- Israel Military Says It Recovered Body of Ilan Weiss, Oct. 7 Victim, From Gaza - The New York Times
 - Zelenskiy wants higher-level talks on security guarantees next week - Reuters
-- "De minimis" U.S. tariffs exemption ends for low-value imports - CBS News
-- Tensions soar across Indonesia as protests against police erupt in multiple cities - CNN
-- Judge grapples with Trump's attempt to remove Lisa Cook as Fed governor - CBS News
-- Spirit Airlines Files Second Bankruptcy in Less Than One Year - Bloomberg.com
-- Cracker Barrel founder, 93, gives damning verdict on $7M-a-year CEO as she breaks cover after rebrand fiasco - Daily Mail
-- Wall Street’s Momentum Train Hits Full Speed Into September - Yahoo Finance
-- With new in-house models, Microsoft lays the groundwork for independence from OpenAI - Ars Technica
+- UK wins bid to overturn injunction to remove asylum seekers from hotel - CNN
+- Spirit Airlines declares bankruptcy for second time in less than a year - CBS News
+- Judge considers request to block Trump’s ouster of Federal Reserve board member - The Washington Post
+- Cracker Barrel Did More Than Just Ditch Its Logo After MAGA Meltdown - The Daily Beast
+- Wall Street’s Momentum Train Hits Full Speed Into September - Bloomberg.com
 - The Morning After: The verdict on Google's Pixel 10 Pro and Pixel 10 - Engadget
-- Apple iPhone 17 launch event: What to expect - The Verge
+- Lenovo leaks show concept laptop with rotating display - The Verge
+- iPhone 17 Pro: Three reasons you might want to upgrade from iPhone 16 Pro - 9to5Mac
