@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-31 18:43_
+_Updated: 2025-08-31 19:38_
 
 ## Top Stories
 
-- DN Direkt - Stopp i tågtrafiken till och från Stockholm - DN.se - DN
+- Tågstopp i Stockholm – dubbla signalfel - Dagens industri
+- Fem till sjukhus efter trafikolycka utanför Alvesta - SVT Nyheter
 - Ikea nämns i plan om nytt Gaza: ”Ej godkänt” - SvD
 - Tidigare anställda på Säpo varnar: Ryssland har ett nytt spionupplägg - Omni
-- Fem till sjukhus efter trafikolycka utanför Alvesta - SVT Nyheter
-- L-toppen Fredrik Malm lämnar politiken - Dagens industri
-- Huthirebeller stormade FN-kontor i Jemen - Västerbottens-Kuriren
+- Fredrik Malm (L) lämnar politiken - Aftonbladet
+- Ikea med i Trumps planer för ”Mellanösterns riviera” – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Brand i industri i Hylte - SVT Nyheter
 - S-topp använde regionpengar till fest och middagar - DN
+- Man död – hamnade under fyrhjuling i skidbacke - Västerbottens-Kuriren
 - Beslut: Polisen ska kamerabevaka område - Norran
-- Utredare avråder från arvsrätt för kusiner - Västerbottens-Kuriren
 - Påven bön: Slut på ”pandemi av vapen" - Aftonbladet
-- Uppgifter: Israelisk regeringstopp vill fängsla Greta Thunberg som terrorist - DN
-- Ryska smällen: Vinstras för Putins oljebolag - Västerbottens-Kuriren
+- Greta Thunberg seglar mot Gazaremsan – igen - Hufvudstadsbladet
+- ”Alligator Alcatraz” kan stängas – här är vittnesmålen inifrån Trumpfängelset - DN
 - Israel: Hamas militära talesperson dödad - GP
+- Vinstras för Putins oljebolag - Dagens industri
 - Åklagarens kritik: Snygg statistik viktigare än att jaga släktbaserade klaner - DN
 - Jakten på evigt liv rusar – ”billigare än Netflix” - SvD
-- Kändisarnas favorit: Finska ringar blev en global succé - Dagens industri
 - Industrin fortsätter bromsa i Kina - Aftonbladet
 - Snart får nyfödda skydd mot RS-virus - Aftonbladet
-- Larm om skogsbrand - Västerbottens-Kuriren
+- Höstparfymen som blir din nya signatur - Metro Mode
 
 ## World News
 
@@ -77,6 +77,7 @@ _Updated: 2025-08-31 18:43_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Publication of the 2025 Half-Year Report - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
@@ -85,14 +86,13 @@ _Updated: 2025-08-31 18:43_
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
 
 ## Health
 
@@ -122,30 +122,30 @@ _Updated: 2025-08-31 18:43_
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
@@ -159,6 +159,6 @@ _Updated: 2025-08-31 18:43_
 - Här är världens största jordbruk - ATL
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- USA tvingar ut EU på banan - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
