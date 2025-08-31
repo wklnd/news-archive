@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-31 15:03_
+_Updated: 2025-08-31 15:48_
 
 - India committed to improving ties with China, Modi tells Xi - Reuters
 - Trump news at a glance: Backlash in Chicago as mayor defies president’s immigration crackdown - The Guardian
-- Trump to order voter ID for every vote, ‘no exceptions’ - Al Jazeera
-- Why Maryland’s governor leaned into a fight with Trump: ‘This one is personal’ - The Washington Post
-- ‘No going back.’ Minneapolis church shooter turned violent after sometimes turbulent upbringing. - Star Tribune
-- Historians See Autocratic Playbook in Trump’s Attacks on Science - The New York Times
-- Sanders pressures RFK Jr. to resign as Health chief after CDC chaos - The Hill
-- Suspect in Montana Bar Shooting Faces 4 Murder Charges - The New York Times
+- Trump Says He Will Sign Executive Order Mandating Voter I.D. - The New York Times
+- Indonesian finance minister’s home looted as unrest spreads - Financial Times
+- US Trading Partners ‘Dazed and Confused’ After Tariff Court Loss - Bloomberg.com
+- What to Know About Jim O’Neill, the New Acting C.D.C. Director - The New York Times
+- Pope Leo XIV denounces "pandemic of arms" after Minnesota school shooting that killed 2 - CBS News
+- Bernie Sanders demands that RFK Jr step down as health secretary - The Guardian
+- Montana man who evaded authorities for a week after bar shooting faces four counts of murder - AP News
 - Musicians show support for longtime Utah violinist detained by ICE - NPR
-- Trump’s ‘Startling’ Rapid Deportation Policy Paused By US Judge - Bloomberg.com
 - Netanyahu vows more attacks after Israeli strike kills Houthi prime minister - The Washington Post
-- Deadly Indonesia protests force U-turn on lawmakers' pay - Reuters
-- Israel pounds Gaza City suburbs, Netanyahu to convene security cabinet - Reuters
-- Israel identifies body of hostage retrieved from Gaza - NBC News
+- Ships bound for Gaza carrying humanitarian aid and activists prepare to set sail from Barcelona - AP News
+- Scottish brothers complete incredible ocean row, battling tropical storms and man overboard - CNN
+- ‘Complex rescue mission’: IDF recovers bodies of two October 7 victims from Gaza; Netanyahu vows to retur - Times of India
 - Powerball jackpot soars to $1.1 billion on Labor Day after no winner in Saturday’s drawing - CNN
 - How Trump Could Overhaul the Fed - The New York Times
-- The best Labor Day sales our editors found at Amazon, Walmart and more — save up to 75% - yahoo.com
 - Trump administration cancels $679 million for offshore wind projects at ports - NPR
-- Jewish Billionaire Couple Lists $300M Aspen Estate, Set to Become U.S.’s Most Expensive Home - VINnews
+- Best Labor Day Deals Under $25: 50+ Massive Savings on Tech, Kitchen Accessories and Games - CNET
 - Google Issues Warning to Certain Users After Leaked Data Hack — Here’s Who's Affected - Yahoo News Australia
+- Engadget review recap: Pixel 10 phones, Bose earbuds and a Sony camera - Engadget
