@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-31 08:46_
+_Updated: 2025-08-31 09:37_
 
 ## Top Stories
 
-- ”Då förvandlas vi från koloni till oljeplattform” - SvD
-- ”Det finns inget bättre än att hjälpa mänskligheten att inte begå självmord” - DN
+- Sovande par överfölls och misshandlades av rånare utanför Kalmar - SVT Nyheter
+- Grannar varnade före raset: ”Vi förväntade oss detta” - Omni
 - Boende rasar mot förfallet i Bohus Centrum: ”Tjernobylkänsla” - GP
+- ”Drottning på Stureplan bestämmer allt” - SvD
 - Putin på plats på toppmötet i Kina - Hufvudstadsbladet
-- Två stora bakslag för Trump på mindre än ett dygn: ”Hans maktposition testas” - DN
-- USA vill skärpa visumregler för studenter - Dagens industri
-- Maskerade rånare misshandlade par i villa utanför Kalmar - SVT Nyheter
+- Tesla påstod sakna data om dödsolycka – hittades av hackare - GP
 - Könsbyte och självbefruktning – så maxar djuren sin fortplantning - DN
 - KRÖNIKA: Pärmar på toan – hur går det med digitaliseringen, statsministern? - Sydsvenskan
-- Fartsyndare fick böta - Folkbladet
-- Hamas bekräftar militärledares död - Västerbottens-Kuriren
-- Greta Thunberg seglar mot Gazaremsan – igen - GP
+- Åkesson: Livstid eller kastrering för pedofiler - GP
+- Per Gudmundson: En Magnus Gisslén på varje myndighet - GP
+- DN Direkt - Vladimir Putin framme i Kina - DN.se - DN
+- USA vill skärpa visumregler för studenter - Västerbottens-Kuriren
+- Hamas bekräftar militärledares död - GP
 - Diktatorns hot: Gå ner i vikt eller få sparken - Västerbottens-Kuriren
-- Lorena Delgado Varas seglar till Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Industrin fortsätter bromsa i Kina - Dagens industri
 - Så jobbar de för ökad jämställdhet - Land Lantbruk
-- Nu höjs panten för burkar och flaskor - Gefle Dagblad
-- Slaget mot Putin – ryska ekonomin backar - Expressen
+- Nu kommer den nya panten till hyllorna – detta gäller - Expressen
+- Rysk chefsekonom: En recession har inletts - Omni
 - Här är företagaren som cyklar mellan jobben - lt.se
 - Mini-DAC med maximal prestanda - Ljud & Bild
 
@@ -41,11 +41,11 @@ _Updated: 2025-08-31 08:46_
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
+- Daesang Group Showcases Global Talent at 5th University Student Smartphone Film Festival - Placera.se
 - How Sudan’s collapse exposes America’s fading global power - Poddtoppen
 
 ## Technology
@@ -73,16 +73,16 @@ _Updated: 2025-08-31 08:46_
 
 ## Business
 
-- FREEMAN FINALIZES OPTION PAYMENT, ACQUIRES 46 UNPATENTED MINING CLAIMS, SECURES 100% OWNERSHIP OF THE LEMHI GOLD PROJECT - Placera.se
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Publication of the 2025 Half-Year Report - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -103,62 +103,62 @@ _Updated: 2025-08-31 08:46_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 
 ## Science
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- University of Science, VNU-HCM tecknade ett samarbetsavtal med Vietnams atomenergiinstitut - Vietnam.vn
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
+- Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
-- Här är världens största jordbruk - ATL
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Lantbruket i Polen lyfte med EU - Jordbruksaktuellt
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Stor nyhet för matglada katter - Mynewsdesk
