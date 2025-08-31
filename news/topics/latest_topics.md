@@ -1,18 +1,18 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-31 05:26_
+_Updated: 2025-08-31 05:50_
 
 ## Top Stories
 
-- Anna-Lena Laurén: Spåren efter mordet på ukrainsk politiker kan leda till Moskva - DN
-- Domstol: Merparten av Trumps tullar är olagliga - Hufvudstadsbladet
+- Anna-Lena Laurén Spåren efter mordet på ukrainsk politiker leder till Moskva - Hufvudstadsbladet
+- Två stora bakslag för Trump på mindre än ett dygn: ”Hans maktposition testas” - DN
 - Misstänkt föremål i Malmö – hittades i damm - Västerbottens-Kuriren
 - Ryska medier: Putin framme i Kina - GP
 - Minst 66 dödade i attacker mot Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Per Gudmundson: En Magnus Gisslén på varje myndighet - GP
-- Jimmie Åkesson (SD): Livstid för pedofiler - SVT Nyheter
-- DN Direkt - Trendbrott för älgen – stammen ökar i hela landet - DN.se - DN
+- Så rustas Västerås nya sjukhus för kris - SVT Nyheter
 - Arvika och Eda tycks ha klarat cyberattacken bra - Arvika Nyheter
+- Åkesson: Livstid eller kastrering för pedofiler - GP
 - 29 augusti 12.30, Trafikkontroll, Västerbottens län - polisen.se
 - Hamas bekräftar militärledares död - Västerbottens-Kuriren
 - Ukraina: Flera skadade i ”massiva” attacker - GP
@@ -27,13 +27,12 @@ _Updated: 2025-08-31 05:26_
 
 ## World News
 
-- Hormel Foods Corporation to Participate in Barclays 18th Annual Global Consumer Staples Conference - Placera.se
-- NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - F-16 ace pilot killed in training crash before Polish air show - TVP World
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Booking Holdings Inc. to Present at the Citi 2025 Global TMT Conference - Placera.se
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -42,34 +41,35 @@ _Updated: 2025-08-31 05:26_
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
+- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- How Sudan’s collapse exposes America’s fading global power - Poddtoppen
 - Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
-- Booking Holdings Inc. to Present at the Citi 2025 Global TMT Conference - Placera.se
-- P&G to Webcast Presentation From the Barclays Global Consumer Staples Conference, September 4, 2025 - Placera.se
+- Global klimatstrejk den 3 mars - The Portugal News
 
 ## Technology
 
-- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
-- OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
+- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- 4 ETF:er som satsar på AI - Morningstar
-- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- 4 ETF:er som satsar på AI - Morningstar
+- AI-akten - Shaping Europe’s digital future
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Change in Aiforia Technologies Plc’s Management Team - Placera.se
 
 ## Business
 
