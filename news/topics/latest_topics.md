@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-31 01:37_
+_Updated: 2025-08-31 04:18_
 
 ## Top Stories
 
 - Två stora bakslag för Trump på mindre än ett dygn: ”Hans maktposition testas” - DN
 - Anna-Lena Laurén Spåren efter mordet på ukrainsk politiker leder till Moskva - Hufvudstadsbladet
-- Misstänkt föremål i Malmö – hittades i damm - GP
+- Misstänkt föremål i Malmö – hittades i damm - Västerbottens-Kuriren
+- Hamas bekräftar militärledares död - GP
 - Minst 66 dödade i attacker mot Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Norskt vägras – räddning avbryts - Folkbladet
 - Välkomnar flytten: ”Sorgligt för många, men en stor möjlighet” - NSD
 - DN Direkt - Trendbrott för älgen – stammen ökar i hela landet - DN.se - DN
 - Jimmie Åkesson (SD): Livstid för pedofiler - SVT Nyheter
 - Arvika och Eda tycks ha klarat cyberattacken bra - Arvika Nyheter
 - 29 augusti 12.30, Trafikkontroll, Västerbottens län - polisen.se
-- Nicolás Maduro – busschauffören som blev despot och jagas av USA - DN
-- Palestine: Statement by the High Representative on behalf of the European Union - consilium.europa.eu
 - Ukraina: Flera skadade i massiva attacker - Västerbottens-Kuriren
 - Brann på fritidsbåt – efter explosion - VLT
-- Rysslands ekonomi backar: ”Har nått vägs ände” - DN
+- Huthiledare död i israelisk flygräd - GP
+- Nathan Shachar: Jubel i Israel när palestinska självstyret portas från FN - DN
+- Slaget mot Putin – ryska ekonomin backar - Expressen
 - LEDARE: Välkommet smörgåsbord för skogsbruket - Östersunds-Posten
-- Ledare - Dags att tända lampan – med ny kärnkraft i Sverige! - ENERGInyheter.se
 - Förre chefen: "Då hade Northvolt lyckats" - Dagens PS
-- Så farligt kan binge-spelande vara för dig - MovieZine
-- INSÄNDARE: Han säger alltid ett glatt ”hej hej” - VLT
+- Veckans omslag: marknaderna vacklar, Trump kämpar mot Fed, Nvidia slår rekord, Musk står inför SEC-värme - Invezz
+- [Säljes] Spel till Xbox One/Series X/PS4/PS5/Switch/3DS - FZ.se
+- Ikea släpper sju nya smarta hemmet-enheter - m3.se
 
 ## World News
 
@@ -42,11 +42,11 @@ _Updated: 2025-08-31 01:37_
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - How Sudan’s collapse exposes America’s fading global power - Poddtoppen
+- Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
 - Booking Holdings Inc. to Present at the Citi 2025 Global TMT Conference - Placera.se
-- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
+- P&G to Webcast Presentation From the Barclays Global Consumer Staples Conference, September 4, 2025 - Placera.se
 
 ## Technology
 
@@ -54,19 +54,19 @@ _Updated: 2025-08-31 01:37_
 - OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
+- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Oron: Då tar datan på internet slut - SvD
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
@@ -103,14 +103,14 @@ _Updated: 2025-08-31 01:37_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Europeisk konferens för socialmedicin: Praktik, teori och handling för en hälsosammare framtid - sls.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
@@ -121,44 +121,44 @@ _Updated: 2025-08-31 01:37_
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Poddar och webbplatser - Forskning & Framsteg
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
-- Små jordbruk kan mätta fler - FoodMonitor
-- Tio jordbruksaktier för depån - Placera.se
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- USA tvingar ut EU på banan - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
-- Globalt jordbruk förorenar mer vatten än industrin - Land Lantbruk
