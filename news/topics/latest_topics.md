@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-31 20:45_
+_Updated: 2025-08-31 21:38_
 
 ## Top Stories
 
-- Fem till sjukhus efter trafikolycka utanför Alvesta - SVT Nyheter
-- Dubbla signalfel stoppade tågtrafiken - Aftonbladet
-- Hustruns vädjan till extremistiske polismördaren: ”Överlämna dig” - Aftonbladet
-- Nytt ryskt spionupplägg ökar pressen på Sverige - SvD
+- Tågstopp i Stockholm – dubbla signalfel - Dagens industri
+- EU planerar för potentiella militära insatser i Ukraina - SVT Nyheter
+- Mördaren jagas i vildmarken – hustruns vädjan - Aftonbladet
+- Björn af Kleen: Världsledarna fjäskar för Donald Trump – till vilket pris? - DN
+- Totalstopp på riksväg 27 vid Hjortsberga - Hem - Värnamo
 - Nästa mål för Trumps soldater: ”Kom inte hit” - SvD
-- Så ska Försvarsmakten få soldaterna att jobba kvar - GP
 - Tusentals arbetslösa har spårats via sina IP-adresser - DN
 - Brand i industri i Hylte - SVT Nyheter
-- S-topp använde regionpengar till fest och middagar - DN
 - Beslut: Polisen ska kamerabevaka område - Norran
+- Utredare avråder från arvsrätt för kusiner - Västerbottens-Kuriren
 - Påven bön: Slut på ”pandemi av vapen" - Aftonbladet
 - ”Alligator Alcatraz” kan stängas – här är vittnesmålen inifrån Trumpfängelset - DN
-- Thunberg och Delgado Varas har satt segel mot Gaza - SVT Nyheter
-- Man under fyrhjuling – allvarligt skadad - Västerbottens-Kuriren
+- Greta Thunberg seglar mot Gazaremsan – igen - Hufvudstadsbladet
+- Toppmötet i Kina – Putin och Modi på plats - Västerbottens-Kuriren
 - Ryska smällen: Vinstras för Putins oljebolag - SvD
-- Industrin fortsätter bromsa i Kina - Dagens industri
 - HR-chefer drunknar i AI-ansökningar - Tidningen Näringslivet
+- Far och söner tros ha sålt droger för miljoner - Aftonbladet
 - Så jobbar de för ökad jämställdhet - Land Lantbruk
 - Snart får nyfödda skydd mot RS-virus - Aftonbladet
 - Larm om skogsbrand - Västerbottens-Kuriren
 
 ## World News
 
+- JOHNNIE WALKER SCOTCH WHISKY ANNOUNCES GLOBAL PARTNERSHIP WITH GRAMMY AWARD-WINNING MUSIC ARTIST AND INTERNATIONAL SUPERSTAR SABRINA CARPENTER - Placera.se
+- Hormel Foods Corporation to Participate in Barclays 18th Annual Global Consumer Staples Conference - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - F-16 ace pilot killed in training crash before Polish air show - TVP World
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - World Athletics introduces gene test for female category - BBC
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
-- NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
-- Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
+- How Sudan’s collapse exposes America’s fading global power - Poddtoppen
+- NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
 - Crocs, Inc. to Present at Goldman Sachs 32nd Annual Global Retailing Conference - Placera.se
 
 ## Technology
@@ -63,13 +63,13 @@ _Updated: 2025-08-31 20:45_
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- AI-akten - Shaping Europe’s digital future
-- Spår superintelligens om tio år – vill leda racet - Omni
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
+- Spår superintelligens om tio år – vill leda racet - Omni
 
 ## Business
 
@@ -77,7 +77,6 @@ _Updated: 2025-08-31 20:45_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Publication of the 2025 Half-Year Report - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
@@ -89,10 +88,11 @@ _Updated: 2025-08-31 20:45_
 - Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -106,6 +106,7 @@ _Updated: 2025-08-31 20:45_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
+- Region Stockholm kan gå vidare med journalsystemet – CGM nekas prövningstillstånd - Dagens Medicin
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
@@ -115,50 +116,49 @@ _Updated: 2025-08-31 20:45_
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
-- Här är världens största jordbruk - ATL
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- USA tvingar ut EU på banan - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
