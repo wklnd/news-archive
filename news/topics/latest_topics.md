@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-31 05:50_
+_Updated: 2025-08-31 06:42_
 
 ## Top Stories
 
+- Boende rasar mot förfallet i Bohus Centrum: ”Tjernobylkänsla” - GP
 - Anna-Lena Laurén Spåren efter mordet på ukrainsk politiker leder till Moskva - Hufvudstadsbladet
+- Välkomnar flytten: ”Sorgligt för många, men en stor möjlighet” - NSD
 - Två stora bakslag för Trump på mindre än ett dygn: ”Hans maktposition testas” - DN
-- Misstänkt föremål i Malmö – hittades i damm - Västerbottens-Kuriren
-- Ryska medier: Putin framme i Kina - GP
 - Minst 66 dödade i attacker mot Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Per Gudmundson: En Magnus Gisslén på varje myndighet - GP
+- Fartsyndare fick böta - Folkbladet
 - Så rustas Västerås nya sjukhus för kris - SVT Nyheter
 - Arvika och Eda tycks ha klarat cyberattacken bra - Arvika Nyheter
-- Åkesson: Livstid eller kastrering för pedofiler - GP
-- 29 augusti 12.30, Trafikkontroll, Västerbottens län - polisen.se
+- Misstänkt föremål i Malmö – hittades i damm - GP
 - Hamas bekräftar militärledares död - Västerbottens-Kuriren
 - Ukraina: Flera skadade i ”massiva” attacker - GP
-- Brann på fritidsbåt – efter explosion - VLT
+- DN Direkt - Par i Kalmar misshandlat och rånat i sitt hem - DN.se - DN
 - Huthiledare död i israeliskt flyganfall - Folkbladet
-- Slaget mot Putin – ryska ekonomin backar - Expressen
+- Nu kommer den nya panten till hyllorna – detta gäller - Expressen
+- Rysk chefsekonom: En recession har inletts - Omni
 - LEDARE: Välkommet smörgåsbord för skogsbruket - Östersunds-Posten
-- LKAB om Kiruna: Kan bli fler flyttar - Sydsvenskan
 - Här är studentlyorna med noll månaders kö - UNT
+- Tumör och hjärntrötthet – Henrik, 46, kämpar för att hitta glädje: ”Tickande bomb” - NWT
 - Här är företagaren som cyklar mellan jobben - lt.se
-- [Säljes] Spel till Xbox One/Series X/PS4/PS5/Switch/3DS - FZ.se
 
 ## World News
 
@@ -42,11 +42,11 @@ _Updated: 2025-08-31 05:50_
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
-- UN Security Council calls emergency meeting on Gaza - Poddtoppen
+- Daesang Group Showcases Global Talent at 5th University Student Smartphone Film Festival - Placera.se
+- European leaders to join Trump-Zelensky meeting - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
-- Global klimatstrejk den 3 mars - The Portugal News
+- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 
 ## Technology
 
@@ -103,6 +103,7 @@ _Updated: 2025-08-31 05:50_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
@@ -113,9 +114,8 @@ _Updated: 2025-08-31 05:50_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
