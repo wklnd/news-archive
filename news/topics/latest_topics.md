@@ -1,33 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-31 09:37_
+_Updated: 2025-08-31 10:42_
 
 ## Top Stories
 
-- Sovande par överfölls och misshandlades av rånare utanför Kalmar - SVT Nyheter
-- Grannar varnade före raset: ”Vi förväntade oss detta” - Omni
+- Skulle övervaka stabiliteten – drogs med i raset - SvD
+- Maskerade rånare misshandlade par i villa utanför Kalmar – Polisen: ”Låg och sov” - SVT Nyheter
+- S om kulturkanon: Det är inte ett seriöst förslag - Omni
 - Boende rasar mot förfallet i Bohus Centrum: ”Tjernobylkänsla” - GP
-- ”Drottning på Stureplan bestämmer allt” - SvD
-- Putin på plats på toppmötet i Kina - Hufvudstadsbladet
-- Tesla påstod sakna data om dödsolycka – hittades av hackare - GP
+- S-topp använde regionpengar till fest och middagar - DN
+- Draghis jättesågning paralyserar Europa - SvD
 - Könsbyte och självbefruktning – så maxar djuren sin fortplantning - DN
 - KRÖNIKA: Pärmar på toan – hur går det med digitaliseringen, statsministern? - Sydsvenskan
 - Åkesson: Livstid eller kastrering för pedofiler - GP
 - Per Gudmundson: En Magnus Gisslén på varje myndighet - GP
-- DN Direkt - Vladimir Putin framme i Kina - DN.se - DN
+- ”Det finns inget bättre än att hjälpa mänskligheten att inte begå självmord” - DN
 - USA vill skärpa visumregler för studenter - Västerbottens-Kuriren
-- Hamas bekräftar militärledares död - GP
-- Diktatorns hot: Gå ner i vikt eller få sparken - Västerbottens-Kuriren
+- Polis skadad – kördes på av motocrossförare - SVT Nyheter
+- Diktatorns hot: Gå ner i vikt eller få sparken - GP
 - Industrin fortsätter bromsa i Kina - Dagens industri
-- Så jobbar de för ökad jämställdhet - Land Lantbruk
 - Nu kommer den nya panten till hyllorna – detta gäller - Expressen
-- Rysk chefsekonom: En recession har inletts - Omni
+- Så jobbar de för ökad jämställdhet - Land Lantbruk
+- Fler lyxbilar i beslag – kriminellas ”bling-bling” - SvD
 - Här är företagaren som cyklar mellan jobben - lt.se
-- Mini-DAC med maximal prestanda - Ljud & Bild
+- Condo Nordic Holding AB (publ) senarelägger kvartalsrapporten för Q2 2025 - Cision News
 
 ## World News
 
-- NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
+- JOHNNIE WALKER SCOTCH WHISKY ANNOUNCES GLOBAL PARTNERSHIP WITH GRAMMY AWARD-WINNING MUSIC ARTIST AND INTERNATIONAL SUPERSTAR SABRINA CARPENTER - Placera.se
+- Hormel Foods Corporation to Participate in Barclays 18th Annual Global Consumer Staples Conference - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - F-16 ace pilot killed in training crash before Polish air show - TVP World
@@ -35,41 +36,40 @@ _Updated: 2025-08-31 09:37_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
-- Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
-- Daesang Group Showcases Global Talent at 5th University Student Smartphone Film Festival - Placera.se
-- How Sudan’s collapse exposes America’s fading global power - Poddtoppen
+- NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
+- Crocs, Inc. to Present at Goldman Sachs 32nd Annual Global Retailing Conference - Placera.se
 
 ## Technology
 
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
-- OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
+- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- BEML inviger Tech Milan 2025: Banbrytande dialog om AI, robotik, kvantteknik och framväxande teknologier - PSU Connect
+- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
 - Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
-- 4 ETF:er som satsar på AI - Morningstar
 
 ## Business
 
@@ -80,9 +80,9 @@ _Updated: 2025-08-31 09:37_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Publication of the 2025 Half-Year Report - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
