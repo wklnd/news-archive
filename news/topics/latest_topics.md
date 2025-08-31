@@ -1,36 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-31 06:42_
+_Updated: 2025-08-31 07:39_
 
 ## Top Stories
 
 - Boende rasar mot förfallet i Bohus Centrum: ”Tjernobylkänsla” - GP
-- Anna-Lena Laurén Spåren efter mordet på ukrainsk politiker leder till Moskva - Hufvudstadsbladet
+- DN Direkt - Vladimir Putin framme i Kina - DN.se - DN
+- Fler lyxbilar i beslag – kriminellas ”bling-bling” - SvD
 - Välkomnar flytten: ”Sorgligt för många, men en stor möjlighet” - NSD
-- Två stora bakslag för Trump på mindre än ett dygn: ”Hans maktposition testas” - DN
-- Minst 66 dödade i attacker mot Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Anna-Lena Laurén Spåren efter mordet på ukrainsk politiker leder till Moskva - Hufvudstadsbladet
 - Per Gudmundson: En Magnus Gisslén på varje myndighet - GP
-- Fartsyndare fick böta - Folkbladet
 - Så rustas Västerås nya sjukhus för kris - SVT Nyheter
+- 29 augusti 12.30, Trafikkontroll, Västerbottens län - polisen.se
 - Arvika och Eda tycks ha klarat cyberattacken bra - Arvika Nyheter
-- Misstänkt föremål i Malmö – hittades i damm - GP
+- Två stora bakslag för Trump på mindre än ett dygn: ”Hans maktposition testas” - DN
 - Hamas bekräftar militärledares död - Västerbottens-Kuriren
-- Ukraina: Flera skadade i ”massiva” attacker - GP
-- DN Direkt - Par i Kalmar misshandlat och rånat i sitt hem - DN.se - DN
-- Huthiledare död i israeliskt flyganfall - Folkbladet
+- Lorena Delgado Varas seglar till Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Rånare trängde in i villa – par till sjukhus - Aftonbladet
+- Har aktivisterna rätt – kan fyra miljarder människor dö? - DN
+- Industrin fortsätter bromsa i Kina - Aftonbladet
 - Nu kommer den nya panten till hyllorna – detta gäller - Expressen
 - Rysk chefsekonom: En recession har inletts - Omni
 - LEDARE: Välkommet smörgåsbord för skogsbruket - Östersunds-Posten
-- Här är studentlyorna med noll månaders kö - UNT
-- Tumör och hjärntrötthet – Henrik, 46, kämpar för att hitta glädje: ”Tickande bomb” - NWT
 - Här är företagaren som cyklar mellan jobben - lt.se
+- [Säljes] Spel till Xbox One/Series X/PS4/PS5/Switch/3DS - FZ.se
 
 ## World News
 
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - F-16 ace pilot killed in training crash before Polish air show - TVP World
-- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Booking Holdings Inc. to Present at the Citi 2025 Global TMT Conference - Placera.se
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
@@ -42,34 +41,35 @@ _Updated: 2025-08-31 06:42_
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Daesang Group Showcases Global Talent at 5th University Student Smartphone Film Festival - Placera.se
-- European leaders to join Trump-Zelensky meeting - Poddtoppen
+- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
+- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
-- UN Security Council calls emergency meeting on Gaza - Poddtoppen
+- Global klimatstrejk den 3 mars - The Portugal News
 
 ## Technology
 
-- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
+- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
+- OPEN Tech Talks: Technology worth Talking| Artificial Intelligence |Tools & Tips - Poddtoppen
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
-- 4 ETF:er som satsar på AI - Morningstar
-- AI-akten - Shaping Europe’s digital future
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Change in Aiforia Technologies Plc’s Management Team - Placera.se
+- Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
+- 4 ETF:er som satsar på AI - Morningstar
 
 ## Business
 
@@ -103,7 +103,6 @@ _Updated: 2025-08-31 06:42_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
@@ -114,8 +113,9 @@ _Updated: 2025-08-31 06:42_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 
 ## Science
 
@@ -126,19 +126,19 @@ _Updated: 2025-08-31 06:42_
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 
 ## Jordbruk
 
@@ -151,14 +151,14 @@ _Updated: 2025-08-31 06:42_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - USA tvingar ut EU på banan - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
