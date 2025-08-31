@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-08-31 18:49_
+_Updated: 2025-08-31 19:48_
 
-- Resigned health official: 'I only see harm coming' - Politico
-- Trump Says He Will Sign Executive Order Mandating Voter I.D. - The New York Times
 - Transcript: Illinois Gov. JB Pritzker on "Face the Nation with Margaret Brennan," Aug. 31, 2025 - CBS News
-- As U.S. fleet steams toward coast, Venezuelans face uncertainty, fear and, for some, hope - Los Angeles Times
-- Removal of Guatemalan children in US custody expected to begin Sunday - CNN
-- India and China are partners, not rivals, Modi and Xi say - Reuters
+- Trump Says He Will Sign Executive Order Mandating Voter I.D. - The New York Times
+- Former CDC immunizations chief: ‘I only see harm coming’ with RFK Jr. leading HHS - ABC News
+- Judge blocks abrupt deportation of hundreds of Guatemalan children - Politico
+- Why Maryland’s governor leaned into a fight with Trump: ‘This one is personal’ - The Washington Post
+- Trump mulling postwar Gaza plan relocating 2 million Palestinians for multi-billion dollar investment - Ynetnews
 - Pope Leo demands end to ‘pandemic of arms’ after Minnesota school shooting - The Guardian
+- ‘We’re trapped’: Trump’s tariffs lock US businesses in China - Politico
 - Blocking tariffs would be "end of the United States," top Trump adviser says - Axios
-- Moore: ‘I have no interest in fighting with the president, but I have an interest in fighting for my communities’ - ABC News
-- RFK Jr says he’ll ‘fix’ a vaccine program - by canceling compensation for people with vaccine injuries - The Guardian
+- Government shutdown looms as Congress returns after monthlong August recess - AP News
+- India and China are partners, not rivals, Modi and Xi say - Reuters
 - Indonesia’s Leader Says He Will Bow to Some Protester Demands After Riots - The New York Times
-- Houthis storm UN building in Yemen’s Sanaa, officials say, as Netanyahu vows to continue striking the rebel group - CNN
+- Netanyahu vows more attacks after Israeli strike kills Houthi prime minister - The Washington Post
 - ‘The face of Hamas’: Israel confirms terror group’s spokesman Abu Obeida killed - The Times of Israel
-- Ukraine vows to retaliate after Russian attacks on power sector - Reuters
-- $1B Powerball Is Minting Social Media Gold - Gizmodo
+- Powerball Jackpot Tops $1.1 Billion—This Year’s Biggest Lottery Prize - Forbes
 - Tame US Job Growth Expected in Approach to Fed Meeting - Bloomberg.com
-- Stock Market’s Fate Comes Down to the Next 14 Trading Sessions - Bloomberg.com
+- September Is the Worst Month for Stocks. This Year Might be Different. - Barron's
 - Rhode Island's 'Taylor Swift Tax' on vacation homes of the wealthy is spreading to other states - CNBC
-- QD-OLED vs. WOLED: What's the difference in 2025? - Tom's Guide
 - Samsung Galaxy S26 Edge design and battery upgrades in doubt following new leak - Notebookcheck
+- QD-OLED vs. WOLED: What's the difference in 2025? - Tom's Guide
