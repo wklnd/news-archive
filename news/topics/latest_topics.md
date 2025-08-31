@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-31 07:39_
+_Updated: 2025-08-31 08:46_
 
 ## Top Stories
 
+- ”Då förvandlas vi från koloni till oljeplattform” - SvD
+- ”Det finns inget bättre än att hjälpa mänskligheten att inte begå självmord” - DN
 - Boende rasar mot förfallet i Bohus Centrum: ”Tjernobylkänsla” - GP
-- DN Direkt - Vladimir Putin framme i Kina - DN.se - DN
-- Fler lyxbilar i beslag – kriminellas ”bling-bling” - SvD
-- Välkomnar flytten: ”Sorgligt för många, men en stor möjlighet” - NSD
-- Anna-Lena Laurén Spåren efter mordet på ukrainsk politiker leder till Moskva - Hufvudstadsbladet
-- Per Gudmundson: En Magnus Gisslén på varje myndighet - GP
-- Så rustas Västerås nya sjukhus för kris - SVT Nyheter
-- 29 augusti 12.30, Trafikkontroll, Västerbottens län - polisen.se
-- Arvika och Eda tycks ha klarat cyberattacken bra - Arvika Nyheter
+- Putin på plats på toppmötet i Kina - Hufvudstadsbladet
 - Två stora bakslag för Trump på mindre än ett dygn: ”Hans maktposition testas” - DN
+- USA vill skärpa visumregler för studenter - Dagens industri
+- Maskerade rånare misshandlade par i villa utanför Kalmar - SVT Nyheter
+- Könsbyte och självbefruktning – så maxar djuren sin fortplantning - DN
+- KRÖNIKA: Pärmar på toan – hur går det med digitaliseringen, statsministern? - Sydsvenskan
+- Fartsyndare fick böta - Folkbladet
 - Hamas bekräftar militärledares död - Västerbottens-Kuriren
+- Greta Thunberg seglar mot Gazaremsan – igen - GP
+- Diktatorns hot: Gå ner i vikt eller få sparken - Västerbottens-Kuriren
 - Lorena Delgado Varas seglar till Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Rånare trängde in i villa – par till sjukhus - Aftonbladet
-- Har aktivisterna rätt – kan fyra miljarder människor dö? - DN
-- Industrin fortsätter bromsa i Kina - Aftonbladet
-- Nu kommer den nya panten till hyllorna – detta gäller - Expressen
-- Rysk chefsekonom: En recession har inletts - Omni
-- LEDARE: Välkommet smörgåsbord för skogsbruket - Östersunds-Posten
+- Industrin fortsätter bromsa i Kina - Dagens industri
+- Så jobbar de för ökad jämställdhet - Land Lantbruk
+- Nu höjs panten för burkar och flaskor - Gefle Dagblad
+- Slaget mot Putin – ryska ekonomin backar - Expressen
 - Här är företagaren som cyklar mellan jobben - lt.se
-- [Säljes] Spel till Xbox One/Series X/PS4/PS5/Switch/3DS - FZ.se
+- Mini-DAC med maximal prestanda - Ljud & Bild
 
 ## World News
 
+- NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - F-16 ace pilot killed in training crash before Polish air show - TVP World
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Booking Holdings Inc. to Present at the Citi 2025 Global TMT Conference - Placera.se
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
-- UN Security Council calls emergency meeting on Gaza - Poddtoppen
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
-- Global klimatstrejk den 3 mars - The Portugal News
+- How Sudan’s collapse exposes America’s fading global power - Poddtoppen
 
 ## Technology
 
@@ -73,26 +73,26 @@ _Updated: 2025-08-31 07:39_
 
 ## Business
 
+- FREEMAN FINALIZES OPTION PAYMENT, ACQUIRES 46 UNPATENTED MINING CLAIMS, SECURES 100% OWNERSHIP OF THE LEMHI GOLD PROJECT - Placera.se
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 
 ## Health
 
@@ -126,39 +126,39 @@ _Updated: 2025-08-31 07:39_
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
-- USA tvingar ut EU på banan - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
