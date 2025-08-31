@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2025-08-31 17:38_
+_Updated: 2025-08-31 18:43_
 
 ## Top Stories
 
-- Ikea nämns i plan om nytt Gaza: ”Ej godkänt” - SvD
-- Man död efter olycka med fyrhjuling utanför Norrköping - SVT Nyheter
-- Liberalernas Fredrik Malm lämnar politiken - GP
-- Nytt ryskt spionupplägg ökar pressen på Sverige - SvD
 - DN Direkt - Stopp i tågtrafiken till och från Stockholm - DN.se - DN
-- Skolans beslut – kan ta elevers telefoner i fyra dagar - Aftonbladet
-- DN Direkt - Victor Lindelöf uppges klar för Aston Villa - DN.se - DN
+- Ikea nämns i plan om nytt Gaza: ”Ej godkänt” - SvD
+- Tidigare anställda på Säpo varnar: Ryssland har ett nytt spionupplägg - Omni
+- Fem till sjukhus efter trafikolycka utanför Alvesta - SVT Nyheter
+- L-toppen Fredrik Malm lämnar politiken - Dagens industri
+- Huthirebeller stormade FN-kontor i Jemen - Västerbottens-Kuriren
+- Brand i industri i Hylte - SVT Nyheter
 - S-topp använde regionpengar till fest och middagar - DN
 - Beslut: Polisen ska kamerabevaka område - Norran
 - Utredare avråder från arvsrätt för kusiner - Västerbottens-Kuriren
 - Påven bön: Slut på ”pandemi av vapen" - Aftonbladet
 - Uppgifter: Israelisk regeringstopp vill fängsla Greta Thunberg som terrorist - DN
-- Tågolycka i Egypten – nästan 100 skadade - GP
-- Toppmötet i Kina – Putin och Modi på plats - Hufvudstadsbladet
-- Ryska smällen: Vinstras för Putins oljebolag - SvD
+- Ryska smällen: Vinstras för Putins oljebolag - Västerbottens-Kuriren
+- Israel: Hamas militära talesperson dödad - GP
 - Åklagarens kritik: Snygg statistik viktigare än att jaga släktbaserade klaner - DN
-- Smarta ringen har koll på din hälsa – vi testar tre av de populäraste - Expressen
 - Jakten på evigt liv rusar – ”billigare än Netflix” - SvD
-- DN Direkt - USA vill skärpa visumregler för studenter - DN.se - DN
+- Kändisarnas favorit: Finska ringar blev en global succé - Dagens industri
+- Industrin fortsätter bromsa i Kina - Aftonbladet
+- Snart får nyfödda skydd mot RS-virus - Aftonbladet
 - Larm om skogsbrand - Västerbottens-Kuriren
 
 ## World News
 
+- Hormel Foods Corporation to Participate in Barclays 18th Annual Global Consumer Staples Conference - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - F-16 ace pilot killed in training crash before Polish air show - TVP World
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World Athletics introduces gene test for female category - BBC
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
+- NETMARBLE ANNOUNCES WORLDWIDE LAUNCH FOR THE BRUTAL DARK FANTASY MMORPG RAVEN2 - Placera.se
 - How Sudan’s collapse exposes America’s fading global power - Poddtoppen
-- Nobel Algarve British International School värd för global olympisk tävling - The Portugal News
+- Booking Holdings Inc. to Present at the Citi 2025 Global TMT Conference - Placera.se
+- P&G to Webcast Presentation From the Barclays Global Consumer Staples Conference, September 4, 2025 - Placera.se
 
 ## Technology
 
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- ZenaTech Signs Agreements to Acquire Two Florida Companies, Expanding Drone as a Service Footprint into Aviation, Defense, and Power Washing - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
 - Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
+- Spår superintelligens om tio år – vill leda racet - Omni
 
 ## Business
 
@@ -122,23 +122,23 @@ _Updated: 2025-08-31 17:38_
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
