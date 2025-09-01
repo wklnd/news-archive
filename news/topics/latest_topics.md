@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-01 15:45_
+_Updated: 2025-09-01 16:42_
 
 ## Top Stories
 
-- Ledande forskargrupp: Israel begår folkmord - DN
 - Statsepidemiologen slutar – riktar hård kritik mot FHM - Lokalpressen
-- Dom i målet om mordförsök ombord på en buss i Eslöv - Sveriges Domstolar
+- S svänger – vill sänka matmomsen - DN
+- Malmer Stenergard: Folkmord är en juridisk term - GP
 - JUST NU: SMHI varnar för skyfall i delar av Värmland - NWT
-- Ny försening för miljardterminal - Bussmagasinet
+- Dom i målet om mordförsök ombord på en buss i Eslöv - Sveriges Domstolar
 - Förseningar för Arlanda Express – och vissa pendeltåg - Mitt i
 - DN Direkt - Åklagaren: 15-åring dog i sprängning i Stockholm - DN.se - DN
-- Polis söker försvunnen kvinna i 80-årsåldern från Stavby - SVT Nyheter
 - Torsten, 82: ”Jag kör tills det börjar svaja – då ställer jag bilen” - DN
-- Rösta i kyrkovalet - Dagens Arena
-- Utrikesministern: Håller fast vid vår princip om folkmord – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Greta Thunberg seglar mot Gazaremsan – igen - Hufvudstadsbladet
+- Gunnar Strömmer kräver att Magdalena Andersson stoppar öppna spärrar i t-banan - DN
+- Nu får Sverige en kulturkanon – det här vet vi - Västerbottens-Kuriren
+- Thunbergs konvoj vänder tillbaka - SVT Nyheter
+- Så ser hotet från Hamas ut: ”Omöjligt döda alla” - DN
+- Över 600 döda i skalv i Afghanistan - UNT
 - Från matdiplomati till löpdiplomati – därför blev toppolitikerna hurtbullar - DN
-- Dansk exminister döms till fyra månaders fängelse - Västerbottens-Kuriren
-- Nu höjs panten på burkar och pet-flaskor - Aftonbladet
+- Scania varslar – 750 tjänster ska bort - SvD
+- Nu höjs panten på burkar och pet-flaskor - Aktuell Hållbarhet
 - Teslas kollaps fortsätter på svenska bilmarknaden - Nyteknik
 - Så vill Trump stöpa om USA:s centralbank - DN
-- Grekland jagar arbetskraft som flytt: Kom tillbaka - SvD
-- Snart får nyfödda skydd mot RS-virus - HD
-- Hotas av nedläggning: ”Inte fattat beslut” - Södra Dalarnes Tidning
+- Snart får nyfödda skydd mot RS-virus - Västerbottens-Kuriren
+- Battle royale-läget i Battlefield 6 i läckt video - FZ.se
 
 ## World News
 
@@ -62,28 +62,29 @@ _Updated: 2025-09-01 15:45_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
+- Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
 - Spår superintelligens om tio år – vill leda racet - Omni
 
 ## Business
 
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Publication of the 2025 Half-Year Report - Placera.se
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Publication of the 2025 Half-Year Report - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2025-09-01 15:45_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 
 ## Health
 
@@ -144,21 +144,21 @@ _Updated: 2025-09-01 15:45_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- USA tvingar ut EU på banan - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Framtidens jordbruk är regenerativt - greenpeace.org
