@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-01 01:48_
+_Updated: 2025-09-01 04:32_
 
 - Rudy Giuliani Is Hurt in Car Crash in New Hampshire - The New York Times
-- Judge blocks Guatemalan minors' deportation after questioning government's argument - ABC News
-- Trump trade adviser blasts tariff ruling, calling it 'weaponized partisan injustice' - CNBC
+- Judge blocks Trump administration move to deport Guatemalan children - BBC
+- Trump says US would be 'destroyed' without tariff cash - Fox Business
 - India and China are partners, not rivals, Modi and Xi say - Reuters
-- JB Pritzker calls for ‘all to stand up’ to Trump’s immigration crackdown in Chicago - The Guardian
 - Trump Calls for Voter Identification for All U.S. Elections - The Wall Street Journal
 - Homeland Security Secretary Kristi Noem says "we haven't taken anything off the table" on expanding immigration operations to other cities - CBS News
 - Pope demands end to the 'pandemic of arms' as he prays for victims of Minnesota school shooting - AP News
+- Cleveland’s mayor wants Democrats to know millennials like him are impatient and ready to lead - Politico
 - Montana man who evaded authorities for a week after bar shooting faces 4 counts of murder - CNN
-- Resigned health official: 'I only see harm coming' - Politico
+- Former CDC immunizations chief: ‘I only see harm coming’ with RFK Jr. leading HHS - ABC News
 - Houthis Vow Revenge After Israeli Attack Kills Senior Officials - The New York Times
-- ‘The face of Hamas’: Israel confirms terror group’s spokesman Abu Obeida killed - The Times of Israel
-- Iran-backed Houthis raid UN offices in Yemen and detain at least 11 employees - AP News
-- Multiple casualties feared after 6.0-magnitude earthquake rocks eastern Afghanistan - CNN
-- Powerball Jackpot Tops $1.1 Billion—This Year’s Biggest Lottery Prize - Forbes
+- Zelenskyy announces arrest in shooting death of pro-Western Ukrainian politician Andriy Parubiy - AP News
+- The Global Sumud Flotilla sets sail from Barcelona for Gaza - Euronews.com
+- Houthi rebels raid UN premises in Yemen, detain at least 11 people - Reuters
 - Stock Market’s Fate Comes Down to the Next 14 Trading Sessions - Bloomberg.com
+- Powerball player misses $1 billion jackpot but still wins big in North Carolina - Charlotte Observer
+- Exclusive | The Podcast Gold Rush: Why Media Companies Are Racing to License Star Creators - WSJ - The Wall Street Journal
 - Trump’s Plan to Pack the Fed With Loyalists - The New York Times
-- Social Security and Medicare cuts are coming because the bond market will force Congress: economist - Fortune
-- Forget Liquid Glass. I'm waiting for these 7 iOS 26 features. - Mashable
-- Northern lights may be visible in these 18 US states Sept. 1-2 - Space
+- 'Christmas Vacation' cast wore cards with Chevy Chase's lines because he couldn't remember them - Entertainment Weekly
+- Google Tensor G5 shows mixed results in new Pixel 10 XL gaming test - Notebookcheck
