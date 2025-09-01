@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-01 05:39_
+_Updated: 2025-09-01 06:47_
 
 ## Top Stories
 
+- Sport: Uppgifter: Alexander Isak klar för Liverpool - SVT Nyheter
 - von der Leyen: EU har "tydlig plan" för militära insatser - DN
-- Toppmötet i Kina – Putin och Modi på plats - Hufvudstadsbladet
-- Tågstopp i Stockholm – dubbla signalfel - Dagens industri
-- Ikea med i Trumps planer för ”Mellanösterns riviera” – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Misstänkt drograttfylleri – fem till sjukhus - Västerbottens-Kuriren
-- Flaggviftande britter i protest mot migrationen - SvD
-- Inrätta digital haverikommission efter senaste angreppen - Kuriren
+- Stort polispådrag i centrala Norrköping efter knivdåd - NT
+- ”Gränsbevakarna” en succé för tullen – tusentals sökande i södra Sverige - Sydsvenskan
+- Toppmötet i Kina – Putin och Modi på plats - GP
+- Fyra kvinnor flyttade ihop i kollektiv: ”Lär känna varandra på ett annat sätt” - DN
+- Arbetsförmedlingen spårar IP-adresser - NWT
+- Ledare: Svensk IT-säkerhet i kris - NWT
 - Lista: Så många älgar får skjutas i ditt område - Norran
-- Beslut: Polisen ska kamerabevaka område - Norran
-- Rösta i kyrkovalet - Dagens Arena
+- Explosion vid port i södra Stockholm - Västerbottens-Kuriren
+- DN Direkt - Två döda i jordbävning i Afghanistan - DN.se - DN
+- Zelenskyj: En gripen efter mord på toppolitiker - Västerbottens-Kuriren
+- Nicolás Maduro – busschauffören som blev despot och jagas av USA - DN
 - Huthirebeller stormade FN-kontor i Jemen - GP
-- Uppgifter: Israelisk regeringstopp vill fängsla Greta Thunberg som terrorist - DN
-- Ukraina: Flera skadade i ”massiva” attacker - GP
-- DN Direkt - En till sjukhus – stor polisinsats i Norrköping - DN.se - DN
-- HR-chefer drunknar i AI-ansökningar - Tidningen Näringslivet
+- Nu höjs panten på burkar och pet-flaskor - Aftonbladet
+- Vill snåla på Bregott åt barnen – förskoleägarna tar ut 64,5 miljoner i vinst - Aftonbladet
+- Expert: AI-rekrytering kan bli en dyr fälla för företag - EFN
 - Så jobbar de för ökad jämställdhet - Land Lantbruk
-- Fick 3,3 miljoner på Swish - drev familjeföretag inom droger - Aftonbladet
-- Larmet om kollaps – hotet mot Sverige - Expressen
 - Snart får nyfödda skydd mot RS-virus - Aftonbladet
-- Rasmus: Talangen hyllades i e-sportsvärlden – blev bara 22 år - TTELA
+- Ny forskning: "Vikingarna var besatta av silver" - Dagens PS
 
 ## World News
 
@@ -61,15 +61,15 @@ _Updated: 2025-09-01 05:39_
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - AI-akten - Shaping Europe’s digital future
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
 - Change in Aiforia Technologies Plc’s Management Team - Placera.se
-- It's time to get serious about artificial intelligence and the UN Sustainable Development Goals - Jönköping University
 
 ## Business
 
@@ -121,24 +121,24 @@ _Updated: 2025-09-01 05:39_
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Lång väg till öppen vetenskap - Universitetsläraren
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
@@ -152,13 +152,13 @@ _Updated: 2025-09-01 05:39_
 - Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Lantbruket i Polen lyfte med EU - Jordbruksaktuellt
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- De gick från reko till eko - ST-tidningen
+- Lantbruket i Polen lyfte med EU - Jordbruksaktuellt
