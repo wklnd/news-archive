@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-01 06:47_
+_Updated: 2025-09-01 07:42_
 
 ## Top Stories
 
-- Sport: Uppgifter: Alexander Isak klar för Liverpool - SVT Nyheter
-- von der Leyen: EU har "tydlig plan" för militära insatser - DN
-- Stort polispådrag i centrala Norrköping efter knivdåd - NT
+- Kebabpizza, Silvana Imam och Vasaloppet – nu presenteras den omdebatterade kanonutredningen - DN
+- Explosion vid port i södra Stockholm - Aftonbladet
+- EU planerar för potentiella militära insatser i Ukraina - SVT Nyheter
 - ”Gränsbevakarna” en succé för tullen – tusentals sökande i södra Sverige - Sydsvenskan
 - Toppmötet i Kina – Putin och Modi på plats - GP
-- Fyra kvinnor flyttade ihop i kollektiv: ”Lär känna varandra på ett annat sätt” - DN
-- Arbetsförmedlingen spårar IP-adresser - NWT
+- Dags för nystart – även utan nyårslöften - Mitt i
 - Ledare: Svensk IT-säkerhet i kris - NWT
 - Lista: Så många älgar får skjutas i ditt område - Norran
-- Explosion vid port i södra Stockholm - Västerbottens-Kuriren
+- Rösta i kyrkovalet - Dagens Arena
+- Hedersrelaterat fall upptäckt i Värmland: ”Med kunskap kan fler räddas” - Arvika Nyheter
 - DN Direkt - Två döda i jordbävning i Afghanistan - DN.se - DN
-- Zelenskyj: En gripen efter mord på toppolitiker - Västerbottens-Kuriren
+- Ex-borgmästaren Giuliani skadad i bilolycka - Västerbottens-Kuriren
+- Zelenskyj: En gripen efter mord på toppolitiker - GP
 - Nicolás Maduro – busschauffören som blev despot och jagas av USA - DN
-- Huthirebeller stormade FN-kontor i Jemen - GP
 - Nu höjs panten på burkar och pet-flaskor - Aftonbladet
+- Konkurserna minskar igen – ner 11 procent - Fastighetsvärlden
+- Nu byts alla körkort ut – så här går det till - Dagens PS
 - Vill snåla på Bregott åt barnen – förskoleägarna tar ut 64,5 miljoner i vinst - Aftonbladet
-- Expert: AI-rekrytering kan bli en dyr fälla för företag - EFN
-- Så jobbar de för ökad jämställdhet - Land Lantbruk
 - Snart får nyfödda skydd mot RS-virus - Aftonbladet
-- Ny forskning: "Vikingarna var besatta av silver" - Dagens PS
+- Bästa träningshörlurar 2025: Toppval för varje sport & aktivitet - TechRadar
 
 ## World News
 
@@ -51,6 +51,7 @@ _Updated: 2025-09-01 06:47_
 ## Technology
 
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
@@ -61,15 +62,14 @@ _Updated: 2025-09-01 06:47_
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- AI-akten - Shaping Europe’s digital future
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
-- Change in Aiforia Technologies Plc’s Management Team - Placera.se
+- Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
+- Spår superintelligens om tio år – vill leda racet - Omni
 
 ## Business
 
@@ -103,62 +103,62 @@ _Updated: 2025-09-01 06:47_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Osher centrum för integrativ hälsa - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Lång väg till öppen vetenskap - Universitetsläraren
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Simple math behind major bison blunder - Forskning & Framsteg
+- 606 forskare: Regeringen stoppar nödvändig forskning - Aftonbladet
+- Biologisk mångfald ger större skördar - Forskning.se
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
+- ”Det finns så mycket spännande forskning som väntar på att bli gjord” - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Emmanuelle Charpentier tilldelas The Breakthrough Prize in Life Sciences - Mynewsdesk
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
+- Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- De gick från reko till eko - ST-tidningen
+- Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Lantbruket i Polen lyfte med EU - Jordbruksaktuellt
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
