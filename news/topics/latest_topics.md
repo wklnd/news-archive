@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-01 07:42_
+_Updated: 2025-09-01 08:52_
 
 ## Top Stories
 
+- DN Direkt - Hundratals uppges döda i skalv i Afghanistan - DN.se - DN
 - Kebabpizza, Silvana Imam och Vasaloppet – nu presenteras den omdebatterade kanonutredningen - DN
-- Explosion vid port i södra Stockholm - Aftonbladet
 - EU planerar för potentiella militära insatser i Ukraina - SVT Nyheter
+- Explosion i södra Stockholm - Folkbladet
 - ”Gränsbevakarna” en succé för tullen – tusentals sökande i södra Sverige - Sydsvenskan
-- Toppmötet i Kina – Putin och Modi på plats - GP
-- Dags för nystart – även utan nyårslöften - Mitt i
+- Forssmed låter politrukerna ta över - SvD
+- Över 2000 föreningar har ansökt om att vara en del av Fritidskortet – flest ansökningar från Västra Götaland, minst antal från Gotland - Via TT
 - Ledare: Svensk IT-säkerhet i kris - NWT
 - Lista: Så många älgar får skjutas i ditt område - Norran
-- Rösta i kyrkovalet - Dagens Arena
-- Hedersrelaterat fall upptäckt i Värmland: ”Med kunskap kan fler räddas” - Arvika Nyheter
-- DN Direkt - Två döda i jordbävning i Afghanistan - DN.se - DN
-- Ex-borgmästaren Giuliani skadad i bilolycka - Västerbottens-Kuriren
-- Zelenskyj: En gripen efter mord på toppolitiker - GP
-- Nicolás Maduro – busschauffören som blev despot och jagas av USA - DN
-- Nu höjs panten på burkar och pet-flaskor - Aftonbladet
-- Konkurserna minskar igen – ner 11 procent - Fastighetsvärlden
-- Nu byts alla körkort ut – så här går det till - Dagens PS
-- Vill snåla på Bregott åt barnen – förskoleägarna tar ut 64,5 miljoner i vinst - Aftonbladet
-- Snart får nyfödda skydd mot RS-virus - Aftonbladet
+- Misstänkt skottlossning i Linköping – mordförsök utreds - SVT Nyheter
+- Zelenskyj: En gripen efter mord på toppolitiker - Västerbottens-Kuriren
+- Ex-borgmästaren Giuliani skadad i bilolycka - GP
+- Putin: Alltihop är västs fel - Västerbottens-Kuriren
+- Toppmötet i Kina – Putin och Modi på plats - Hufvudstadsbladet
+- Panten på burkar och pet-flaskor höjs - SVT Nyheter
+- UC: Konkurserna fortsätter minska - Fastighetsnytt
+- Gerald Engström köper kursraketen: Gått väldigt bra - Affärsvärlden
+- Expert: AI-rekrytering kan bli en dyr fälla för företag - EFN
+- Ny strategi mot RS-virus: ”Räcker med en dos” - SvD
 - Bästa träningshörlurar 2025: Toppval för varje sport & aktivitet - TechRadar
 
 ## World News
@@ -73,18 +73,19 @@ _Updated: 2025-09-01 07:42_
 
 ## Business
 
+- Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Publication of the 2025 Half-Year Report - Placera.se
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2025-09-01 07:42_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 
 ## Health
 
@@ -119,26 +119,26 @@ _Updated: 2025-09-01 07:42_
 
 ## Science
 
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
-- Simple math behind major bison blunder - Forskning & Framsteg
-- 606 forskare: Regeringen stoppar nödvändig forskning - Aftonbladet
-- Biologisk mångfald ger större skördar - Forskning.se
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
-- ”Det finns så mycket spännande forskning som väntar på att bli gjord” - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Emmanuelle Charpentier tilldelas The Breakthrough Prize in Life Sciences - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Poddar och webbplatser - Forskning & Framsteg
 
 ## Jordbruk
 
