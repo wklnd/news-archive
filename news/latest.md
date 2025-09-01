@@ -1,23 +1,23 @@
 # Top News Headlines
 
-_Updated: 2025-09-01 09:48_
+_Updated: 2025-09-01 10:54_
 
-- Narendra Modi and Xi Jinping meet: Donald Trump as the wildcard and other takeaways for India-China relationship - BBC
-- Judge halts deportation of hundreds of Guatemalan children - Axios
+- Judge blocks Trump administration move to deport Guatemalan children - BBC
 - Hundreds Dead After 6.0-Magnitude Earthquake Hits Afghanistan - The New York Times
 - Rudy Giuliani hospitalized with multiple injuries after car crash - The Washington Post
-- Mueller's family tells NYT he has Parkinson's disease - Axios
-- CNBC Daily Open: Tariff uncertainty intensifies with the U.S. court's ruling - CNBC
-- Burning Man death prompts homicide investigation - CBS News
+- House Oversight has withdrawn subpoena for Robert Mueller; new report says he has Parkinson's disease - ABC News
+- 1.2M immigrants are gone from the US labor force under Trump, preliminary data shows - AP News
+- Trump aides scramble to defend tariffs after bombshell court ruling – and as crucial jobs report looms - The Independent
+- DHS Secretary Kristi Noem acknowledges ICE surge in Chicago; says National Guard deployment up to Trump - Chicago Tribune
 - Trump news at a glance: US president issues threat to mandate voter ID - The Guardian
-- 11-year-old shot dead after ringing doorbell and running from Houston home, officials say - NBC News
-- Chicago's mayor pushes back as Trump administration readies immigration crackdown - NPR
+- Burning Man death prompts homicide investigation - CBS News
+- 11-year-old dies after being shot while ‘ding dong ditching’ in Houston, police say - CNN
+- SCO summit: Xi and Modi say they are 'partners, not rivals' - DW
 - Suspect arrested in shooting death of pro-Western Ukrainian politician Andriy Parubiy, Zelenskyy says - CBS News
 - Security said boosted around Netanyahu, other leaders amid Houthi revenge threats - The Times of Israel
 - Israel says it killed longtime spokesman of Hamas’s military wing - The Washington Post
-- UN employees detained when Iran-backed Houthis raid offices in Yemen - Politico
 - China manufacturing activity shrinks for fifth straight month in August - Reuters
-- Stock Market’s Fate Comes Down to the Next 14 Trading Sessions - Bloomberg.com
+- Equinor to invest $1bn in Ørsted rights issue as Trump attacks offshore wind - Financial Times
 - What’s open, what’s closed on Labor Day? Store hours for Walmart, Costco, Target, Publix and more - AL.com
 - Two Powerball tickets worth $1 million sold in Southern California - CBS News
 - Report: Samsung's tri-fold phone, XR headset, and AI smart glasses to be revealed at Sep 29 Unpacked event - ZDNET
