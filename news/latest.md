@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-01 13:48_
+_Updated: 2025-09-01 15:16_
 
-- Hundreds Dead After 6.0-Magnitude Earthquake Hits Afghanistan - The New York Times
-- Judge blocks Trump administration move to deport Guatemalan children - BBC
-- House Oversight has withdrawn subpoena for Robert Mueller; new report says he has Parkinson's disease - ABC News
-- Blocking tariffs would be "end of the United States," top Trump adviser says - Axios
-- Rudy Giuliani hospitalized with multiple injuries after car crash - The Washington Post
+- More than 800 dead after earthquake hits eastern Afghanistan, Taliban say - The Washington Post
+- Has Trump kept his campaign promises to American workers? Here's what some say. - NPR
 - Plane carrying EU’s top leader targeted by alleged Russian GPS jamming - CNN
+- What to Know About Giuliani’s Car Crash - The New York Times
+- House Oversight has withdrawn subpoena for Robert Mueller; new report says he has Parkinson's disease - ABC News
+- India and China are partners, not rivals, Modi and Xi say - Reuters
 - Burning Man death prompts homicide investigation - CBS News
-- DHS Secretary Kristi Noem acknowledges ICE surge in Chicago; says National Guard deployment up to Trump - Chicago Tribune
-- 11-year-old dies after being shot while ‘ding dong ditching’ in Houston, police say - CNN
-- 20 years after Katrina, Houston still feels the impact of New Orleans migration - Houston Chronicle
-- Xi and Putin stand shoulder to shoulder as China casts itself as an alternative global leader - CNN
-- Delivery Driver’s Death Unleashes Rage at Indonesia’s Elites - Bloomberg.com
-- Ukraine arrests suspect in former parliamentary speaker’s murder - Al Jazeera
+- Judge blocks Trump administration move to deport Guatemalan children - BBC
+- The sprint to Election Day begins in the Virginia and New Jersey governor's races - NBC News
+- Government shutdown looms as Congress returns after monthlong August recess - AP News
+- China’s Xi urges regional leaders to oppose ‘Cold War mentality’ at summit - Al Jazeera
+- Kyiv Links Moscow to Killing of Former Ukrainian Parliament Speaker - The New York Times
 - Israel's Gaza actions meet genocide criteria, scholars say - The Jerusalem Post
-- Here's what's open and closed on Labor Day 2025 - WRAL.com
-- China manufacturing activity shrinks for fifth straight month in August - Reuters
-- This ‘twice in a lifetime’ opportunity means the S&P 500 can hit 7,750 by end of next year - MarketWatch
-- Two Powerball tickets worth $1 million sold in Southern California - CBS News
+- Delivery Driver’s Death Unleashes Rage at Indonesia’s Elites - Bloomberg.com
+- What's open and closed on Labor Day 2025? See what stores, banks and other businesses are operating today. - CBS News
+- A downturn in international travel to the U.S. may last beyond summer, experts warn - ABC News
+- Corn and Soybeans Rule the American Farm. Why That’s a Growing Problem, in Charts - The Wall Street Journal
+- Meet the man defending Trump's political adversaries - ABC News
+- iPhone 17 vs iPhone 17 Air vs iPhone 17 Pro: Here's all the new rumored features - Tom's Guide
 - Samsung doesn’t want you to enjoy a Galaxy S26 Edge with a big battery, but it’s not all bad news - PhoneArena
-- Report: Samsung's tri-fold phone, XR headset, and AI smart glasses to be revealed at Sep 29 Unpacked event - ZDNET
