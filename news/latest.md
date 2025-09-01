@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-01 16:48_
+_Updated: 2025-09-01 17:48_
 
-- More than 800 dead after earthquake hits eastern Afghanistan, Taliban say - The Washington Post
+- What to Know About the Earthquake in Afghanistan - The New York Times
+- What Are Trump’s Options If His Tariffs Are Ruled Unlawful? - Bloomberg
+- How Trump is decimating federal employee unions one step at a time - NPR
+- Narendra Modi hails India’s energy ties with Russia despite US anger - Financial Times
 - Xi and Putin stand shoulder to shoulder as China casts itself as an alternative global leader - CNN
-- Has Trump kept his campaign promises to American workers? Here's what some say. - NPR
-- Russia is suspected of jamming navigation on EU leader’s plane above Bulgaria, an official says - AP News
-- House Oversight has withdrawn subpoena for Robert Mueller; new report says he has Parkinson's disease - ABC News
-- Brandon Johnson, JB Pritzker fighting Donald Trump's planned Chicago immigration crackdown, possible National Guard deployment - ABC7 Chicago
+- India and China are partners, not rivals, Modi and Xi say - Reuters
+- Government shutdown looms as Congress returns after monthlong August recess - AP News
 - Burning Man festival death investigated as homicide - BBC
-- US judge blocks government from deporting unaccompanied Guatemalan children - Reuters
-- 11-year-old dies after being shot while ‘ding dong ditching’ in Houston, police say - CNN
-- Solar storm could bring the Northern Lights to Western New York for Labor Day - WGRZ
-- Xi, Putin and Modi are grinning and smiling, but at whom? - South China Morning Post
-- Leading genocide scholars organization says Israeli action in Gaza is genocide - AP News
+- 11-year-old boy shot and killed while playing "ding dong ditch" doorbell prank in Houston - CBS News
+- Bullet fragment reportedly found in boy’s neck after Annunciation Church shooting - 5 EYEWITNESS NEWS
+- Russia suspected of jamming GPS on plane carrying Ursula von der Leyen - The Guardian
 - Indonesian students defy crackdown after deadly riots, demanding reform - Reuters
-- Kyiv Links Moscow to Killing of Former Ukrainian Parliament Speaker - The New York Times
+- Media outlets demand Israel grant access to Gaza, halt attacks on journalists there - NPR
+- Leading genocide scholars organization says Israel is committing genocide in Gaza - AP News
 - A downturn in international travel to the U.S. may last beyond summer, experts warn - ABC News
 - What's open and closed on Labor Day 2025? See what stores, banks and other businesses are operating today. - CBS News
-- How To Make A Billion Dollars Selling Hot Dogs - Forbes
-- Corn and Soybeans Rule the American Farm. Why That’s a Growing Problem, in Charts - The Wall Street Journal
-- The iPhone Alarm Picker Feels Like Magic Until You Realize It Is Just a List That Stops Dead At 4:39 - Wccftech
-- Apple iPhone 17 Release Date Latest: What To Expect When — And Where - Forbes
+- What To Expect in Markets: Jobs Report, Broadcom Earnings Lead Holiday-Shortened Week - Investopedia
+- Trump plans a hefty tax on imported drugs, risking higher prices and shortages - AP News
+- Snapdragon 8 Elite Gen 5’s Power Consumption Is Around The Same As The Snapdragon 8 Elite But The Chipset Doubles Down On Performance - Wccftech
+- Apple Preparing iOS 18.7 for iPhones as iOS 26 Release Date Nears - MacRumors
