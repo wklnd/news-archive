@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-01 04:32_
+_Updated: 2025-09-01 05:41_
 
 - Rudy Giuliani Is Hurt in Car Crash in New Hampshire - The New York Times
-- Judge blocks Trump administration move to deport Guatemalan children - BBC
-- Trump says US would be 'destroyed' without tariff cash - Fox Business
+- Judge orders administration to halt deportation of hundreds of Guatemalan children - The Washington Post
 - India and China are partners, not rivals, Modi and Xi say - Reuters
+- Mueller's family tells NYT he has Parkinson's disease - Axios
+- Trump's trade adviser says tariffs aren't permanent after appeals court strikes down reciprocal duties - Fortune
 - Trump Calls for Voter Identification for All U.S. Elections - The Wall Street Journal
-- Homeland Security Secretary Kristi Noem says "we haven't taken anything off the table" on expanding immigration operations to other cities - CBS News
-- Pope demands end to the 'pandemic of arms' as he prays for victims of Minnesota school shooting - AP News
+- Man Found Dead in Suspected Homicide at Burning Man, Attendees Told to ‘Be Vigilant’ - Rolling Stone
+- DHS Secretary Kristi Noem acknowledges ICE surge in Chicago; says National Guard deployment up to Trump - Chicago Tribune
 - Cleveland’s mayor wants Democrats to know millennials like him are impatient and ready to lead - Politico
-- Montana man who evaded authorities for a week after bar shooting faces 4 counts of murder - CNN
 - Former CDC immunizations chief: ‘I only see harm coming’ with RFK Jr. leading HHS - ABC News
-- Houthis Vow Revenge After Israeli Attack Kills Senior Officials - The New York Times
 - Zelenskyy announces arrest in shooting death of pro-Western Ukrainian politician Andriy Parubiy - AP News
+- Houthis Vow Revenge After Israeli Attack Kills Senior Officials - The New York Times
+- Afghanistan earthquake: At least 20 killed and dozens more feared dead - BBC
 - The Global Sumud Flotilla sets sail from Barcelona for Gaza - Euronews.com
-- Houthi rebels raid UN premises in Yemen, detain at least 11 people - Reuters
 - Stock Market’s Fate Comes Down to the Next 14 Trading Sessions - Bloomberg.com
 - Powerball player misses $1 billion jackpot but still wins big in North Carolina - Charlotte Observer
-- Exclusive | The Podcast Gold Rush: Why Media Companies Are Racing to License Star Creators - WSJ - The Wall Street Journal
 - Trump’s Plan to Pack the Fed With Loyalists - The New York Times
-- 'Christmas Vacation' cast wore cards with Chevy Chase's lines because he couldn't remember them - Entertainment Weekly
-- Google Tensor G5 shows mixed results in new Pixel 10 XL gaming test - Notebookcheck
+- China manufacturing activity shrinks for fifth straight month in August - Reuters
+- Samsung doesn’t want you to enjoy a Galaxy S26 Edge with a big battery, but it’s not all bad news - PhoneArena
+- Apple iPhone 15 Pro Max Price Slashed By $726 In Labor Day Sale - Forbes
