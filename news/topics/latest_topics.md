@@ -1,67 +1,67 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-01 19:38_
+_Updated: 2025-09-01 20:46_
 
 ## Top Stories
 
-- Statsepidemiologen slutar – riktar hård kritik mot FHM - Lokalpressen
-- Polisen undersöker misstänkt föremål vid villa i Eskilstuna - SVT Nyheter
+- »Vet inte om jag är intresserad av att bli ordinarie statsepidemiolog« - Läkartidningen
+- JUST NU: SMHI varnar för skyfall i delar av Värmland - NWT
+- Förskolan snålar på Bregott åt barnen – ägarna tar ut 64,5 miljoner i vinst - GP
+- Fler älgar får skjutas i årets älgjakt - tidningensyre.se
+- Misstänkt farligt föremål vid villa i Eskilstuna – flera hus utrymda - SVT Nyheter
+- S rustar för maktskifte och presenterar konkreta förberedelser - Socialdemokraterna
 - Uppgifter: Svantesson vill halvera matmomsen - SVT Nyheter
-- SMHI varnar för skyfall i Götaland - Aftonbladet
-- EU-chefen Ursula von der Leyens flygplan utsatt för GPS-störningar - Yle
-- Dom i målet om mordförsök ombord på en buss i Eslöv - Sveriges Domstolar
-- Forskargrupp anklagar Israel för folkmord i Gaza - SVT Nyheter
-- Torsten, 82: ”Jag kör tills det börjar svaja – då ställer jag bilen” - DN
-- Strömmer kräver att S-ledaren stoppar öppna spärrar i t-banan - DN
-- Symbolpolitik på bekostnad av kulturens överlevnad - Altinget.se
-- Israel om folkmordsresolution: Hamas lögner – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- SSU-toppen bar kritiserad sjal – ångrar sig: ”Misstag” - DN
+- Utrikesministern: Folkmord är en juridisk term - GP
+- Svenska försvaret köper fler israeliska vapen - DN
 - Toppmötet i Kina – Putin och Modi på plats - GP
+- Lina Lund: Rysk upptrappning tar kriget närmare Bryssel - DN
+- Utrikesministern: Håller fast vid vår princip om folkmord – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - 850 000 syrier har återvänt efter al-Assads fall - Västerbottens-Kuriren
-- Unga ukrainska män får lämna landet – trots bristen på soldater - DN
 - Scania varslar – 750 tjänster ska bort i Sverige - Dagens industri
+- Nestlés vd får sparken efter förbjuden affär - HD
+- ”Kronkatastrof” slår mot svenska sparare - SvD
 - Nu höjs panten på burkar och pet-flaskor - Aktuell Hållbarhet
-- Grekland jagar arbetskraft som flytt: Kom tillbaka - SvD
-- Stormade chefens kontor – fick sparken - SvD
-- Bland det sämsta jag spelat på Playstation 5 - Aftonbladet
 - Ny strategi mot RS-virus: ”Räcker med en dos” - SvD
+- Bland det sämsta jag spelat på Playstation 5 - Aftonbladet
 
 ## World News
 
 - APsystems Named Most Bankable Inverter Company Worldwide by Sinovoltaics - Placera.se
+- Hormel Foods Corporation to Participate in Barclays 18th Annual Global Consumer Staples Conference - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - F-16 ace pilot killed in training crash before Polish air show - TVP World
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Kinesisk region ny etta på FN:s innovationslista - Omni
-- Booking Holdings Inc. to Present at the Citi 2025 Global TMT Conference - Placera.se
-- UN Security Council calls emergency meeting on Gaza - Poddtoppen
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
-- Nobel Algarve British International School värd för global olympisk tävling - The Portugal News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 
 ## Technology
 
-- Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
+- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- BEML inviger Tech Milan 2025: Banbrytande dialog om AI, robotik, kvantteknik och framväxande teknologier - PSU Connect
+- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
@@ -94,6 +94,29 @@ _Updated: 2025-09-01 19:38_
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 
+## Health
+
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
+- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Johan von Schreeb - Karolinska Institutet
+- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
+- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+
 ## Science
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
@@ -122,7 +145,6 @@ _Updated: 2025-09-01 19:38_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
@@ -131,11 +153,12 @@ _Updated: 2025-09-01 19:38_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- De gick från reko till eko - ST-tidningen
+- Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- USA tvingar ut EU på banan - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
