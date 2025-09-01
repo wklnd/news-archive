@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-01 15:50_
+_Updated: 2025-09-01 16:48_
 
 - More than 800 dead after earthquake hits eastern Afghanistan, Taliban say - The Washington Post
-- Xi and Putin stand shoulder to shoulder as China casts itself an alternative global leader - yahoo.com
+- Xi and Putin stand shoulder to shoulder as China casts itself as an alternative global leader - CNN
 - Has Trump kept his campaign promises to American workers? Here's what some say. - NPR
-- Narendra Modi hails India’s energy ties with Russia despite US anger - Financial Times
-- Plane carrying EU’s top leader targeted by alleged Russian GPS jamming - CNN
+- Russia is suspected of jamming navigation on EU leader’s plane above Bulgaria, an official says - AP News
 - House Oversight has withdrawn subpoena for Robert Mueller; new report says he has Parkinson's disease - ABC News
+- Brandon Johnson, JB Pritzker fighting Donald Trump's planned Chicago immigration crackdown, possible National Guard deployment - ABC7 Chicago
 - Burning Man festival death investigated as homicide - BBC
 - US judge blocks government from deporting unaccompanied Guatemalan children - Reuters
-- The sprint to Election Day begins in the Virginia and New Jersey governor's races - NBC News
-- Rudy Giuliani injured in New Hampshire car crash, his spokesperson says - Newsday
+- 11-year-old dies after being shot while ‘ding dong ditching’ in Houston, police say - CNN
+- Solar storm could bring the Northern Lights to Western New York for Labor Day - WGRZ
 - Xi, Putin and Modi are grinning and smiling, but at whom? - South China Morning Post
+- Leading genocide scholars organization says Israeli action in Gaza is genocide - AP News
+- Indonesian students defy crackdown after deadly riots, demanding reform - Reuters
 - Kyiv Links Moscow to Killing of Former Ukrainian Parliament Speaker - The New York Times
-- Israel's Gaza actions meet genocide criteria, scholars say - The Jerusalem Post
-- Delivery Driver’s Death Unleashes Rage at Indonesia’s Elites - Bloomberg.com
 - A downturn in international travel to the U.S. may last beyond summer, experts warn - ABC News
 - What's open and closed on Labor Day 2025? See what stores, banks and other businesses are operating today. - CBS News
+- How To Make A Billion Dollars Selling Hot Dogs - Forbes
 - Corn and Soybeans Rule the American Farm. Why That’s a Growing Problem, in Charts - The Wall Street Journal
-- Meet the man defending Trump's political adversaries - ABC News
 - The iPhone Alarm Picker Feels Like Magic Until You Realize It Is Just a List That Stops Dead At 4:39 - Wccftech
-- Samsung doesn’t want you to enjoy a Galaxy S26 Edge with a big battery, but it’s not all bad news - PhoneArena
+- Apple iPhone 17 Release Date Latest: What To Expect When — And Where - Forbes
