@@ -1,38 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-02 00:40_
+_Updated: 2025-09-02 01:38_
 
 ## Top Stories
 
-- Lina Lund: Rysk upptrappning tar kriget närmare Bryssel - DN
-- Putin och Modi i ”insiktsfullt” samtal i limousine - GP
-- Efter förseningsbeskedet för Slussen – notan växer till över 1,5 miljarder kronor för stockholmarna - dagensinfrastruktur -
-- Åklagaren: 15-åring dog i sprängningen i Östberga - Mitt i
-- ”Hans fantasier skapar förvirring vid fronten” - SvD
+- Åklagare: 15-årig pojke sprängde sig själv av misstag - DN
+- Bussterminalen vid Slussen försenas igen: ”Kommer att bli dyrare” - Entreprenad
 - Trumpkritikernas advokat rear ut sina tjänster - DN
+- ”Hans fantasier skapar förvirring vid fronten” - SvD
+- Varningen: Någon håller polismördaren gömd - Aftonbladet
+- SMHI varnar för skyfall - GP
 - Gissléns efterträdare: ”Känner inte igen mig” - Västerbottens-Kuriren
 - Forskargrupp anklagar Israel för folkmord i Gaza - SVT Nyheter
 - Svenska försvaret köper fler israeliska vapen - GP
 - Älgjakten inledd – fler älgar får skjutas i år - Västerbottens-Kuriren
 - Ny rasismskandal skakar Finlands regering - DN
 - Trump hedrar Giuliani med frihetsmedalj - GP
-- Kreml: Inga planer på trilateralt möte - Expressen
-- Hundratals befaras döda i skalv i Afghanistan - SVT Nyheter
+- Putin och Modi i ”insiktsfullt” samtal i limousine - DN
+- Gazakonvoj avseglar på nytt – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Scanias personaldirektör om storvarslet: ”Tufft beslut” - Dagens industri
 - Nestlés vd får sparken efter förbjuden romans - Aftonbladet
-- ”Kronkatastrof” slår mot svenska sparare - SvD
 - Teslas kollaps fortsätter på svenska bilmarknaden - Nyteknik
+- ”Kronkatastrof” slår mot svenska sparare - SvD
 - Bland det sämsta jag spelat på Playstation 5 - Aftonbladet
 - Ny strategi mot RS-virus: ”Räcker med en dos” - SvD
 
 ## World News
 
 - APsystems Named Most Bankable Inverter Company Worldwide by Sinovoltaics - Placera.se
-- Hormel Foods Corporation to Participate in Barclays 18th Annual Global Consumer Staples Conference - Placera.se
+- JOHNNIE WALKER SCOTCH WHISKY ANNOUNCES GLOBAL PARTNERSHIP WITH GRAMMY AWARD-WINNING MUSIC ARTIST AND INTERNATIONAL SUPERSTAR SABRINA CARPENTER - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - F-16 ace pilot killed in training crash before Polish air show - TVP World
-- JOHNNIE WALKER SCOTCH WHISKY ANNOUNCES GLOBAL PARTNERSHIP WITH GRAMMY AWARD-WINNING MUSIC ARTIST AND INTERNATIONAL SUPERSTAR SABRINA CARPENTER - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
@@ -41,12 +41,12 @@ _Updated: 2025-09-02 00:40_
 - World Athletics introduces gene test for female category - BBC
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
-- Kinesisk region ny etta på FN:s innovationslista - Omni
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- UN Security Council calls emergency meeting on Gaza - Poddtoppen
-- Crocs, Inc. to Present at Goldman Sachs 32nd Annual Global Retailing Conference - Placera.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Kinesisk region ny etta på FN:s innovationslista - Omni
+- UN Security Council calls emergency meeting on Gaza - Poddtoppen
+- Den hetaste nya trenden inom global utbildning - The Portugal News
+- Hormel Foods Corporation to Participate in Barclays 18th Annual Global Consumer Staples Conference - Placera.se
+- Crocs, Inc. to Present at Goldman Sachs 32nd Annual Global Retailing Conference - Placera.se
 
 ## Technology
 
@@ -73,26 +73,26 @@ _Updated: 2025-09-02 00:40_
 
 ## Business
 
-- Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Publication of the 2025 Half-Year Report - Placera.se
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
+- Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
+- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 
 ## Health
 
@@ -103,19 +103,19 @@ _Updated: 2025-09-02 00:40_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Osher centrum för integrativ hälsa - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -127,6 +127,7 @@ _Updated: 2025-09-02 00:40_
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Poddar och webbplatser - Forskning & Framsteg
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
@@ -134,11 +135,10 @@ _Updated: 2025-09-02 00:40_
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- Poddar och webbplatser - Forskning & Framsteg
+- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
 
 ## Jordbruk
 
