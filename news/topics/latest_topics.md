@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-01 18:45_
+_Updated: 2025-09-01 19:38_
 
 ## Top Stories
 
 - Statsepidemiologen slutar – riktar hård kritik mot FHM - Lokalpressen
-- Förskolan snålar på Bregott åt barnen – ägarna tar ut 64,5 miljoner i vinst - GP
+- Polisen undersöker misstänkt föremål vid villa i Eskilstuna - SVT Nyheter
+- Uppgifter: Svantesson vill halvera matmomsen - SVT Nyheter
 - SMHI varnar för skyfall i Götaland - Aftonbladet
 - EU-chefen Ursula von der Leyens flygplan utsatt för GPS-störningar - Yle
-- Magdalena Andersson är segerviss - Dagens Arena
-- Tidigare Bandidosledaren Mehdi Seyyed döms – men slipper fängelse - GP
+- Dom i målet om mordförsök ombord på en buss i Eslöv - Sveriges Domstolar
 - Forskargrupp anklagar Israel för folkmord i Gaza - SVT Nyheter
 - Torsten, 82: ”Jag kör tills det börjar svaja – då ställer jag bilen” - DN
 - Strömmer kräver att S-ledaren stoppar öppna spärrar i t-banan - DN
-- Död i bilexplosion i Stockholm var 15-åring - Aftonbladet
-- Thunbergs konvoj vänder tillbaka - SVT Nyheter
-- Toppmötet i Kina – Putin och Modi på plats - GP
+- Symbolpolitik på bekostnad av kulturens överlevnad - Altinget.se
 - Israel om folkmordsresolution: Hamas lögner – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Toppmötet i Kina – Putin och Modi på plats - GP
 - 850 000 syrier har återvänt efter al-Assads fall - Västerbottens-Kuriren
-- Scania varslar 750 tjänster – ”chockartat för vår organisation” - SVT Nyheter
+- Unga ukrainska män får lämna landet – trots bristen på soldater - DN
+- Scania varslar – 750 tjänster ska bort i Sverige - Dagens industri
+- Nu höjs panten på burkar och pet-flaskor - Aktuell Hållbarhet
 - Grekland jagar arbetskraft som flytt: Kom tillbaka - SvD
-- Affärsvärlden slopar köprådet för Handelsbanken och Swedbank - Affärsvärlden
-- Microsoftanställda sparkade – stormade chefens kontor i protest mot affärer med Israel - ETC.se
-- Ny strategi mot RS-virus: ”Räcker med en dos” - SvD
+- Stormade chefens kontor – fick sparken - SvD
 - Bland det sämsta jag spelat på Playstation 5 - Aftonbladet
+- Ny strategi mot RS-virus: ”Räcker med en dos” - SvD
 
 ## World News
 
@@ -50,6 +50,7 @@ _Updated: 2025-09-01 18:45_
 
 ## Technology
 
+- Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
@@ -59,63 +60,39 @@ _Updated: 2025-09-01 18:45_
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
-- Most active stocks today: NVDA stock, BMNR stock, AMD stock, RGTI - Markets.com
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
+- Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
 
 ## Business
 
+- Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Publication of the 2025 Half-Year Report - Placera.se
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
-- Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Wells Fargo Securities Names Christopher Harvey Head of Equity Strategy - Placera.se
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-
-## Health
-
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
-- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Osher centrum för integrativ hälsa - Karolinska Institutet
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
-- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -155,10 +132,10 @@ _Updated: 2025-09-01 18:45_
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - USA tvingar ut EU på banan - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
