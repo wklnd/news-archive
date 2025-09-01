@@ -1,34 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-01 04:30_
+_Updated: 2025-09-01 05:39_
 
 ## Top Stories
 
 - von der Leyen: EU har "tydlig plan" för militära insatser - DN
 - Toppmötet i Kina – Putin och Modi på plats - Hufvudstadsbladet
-- Stort polispådrag i centrala Norrköping efter knivdåd - NT
+- Tågstopp i Stockholm – dubbla signalfel - Dagens industri
 - Ikea med i Trumps planer för ”Mellanösterns riviera” – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- 31 augusti 16.34, Försvunnen person, Uppsala - polisen.se
+- Misstänkt drograttfylleri – fem till sjukhus - Västerbottens-Kuriren
+- Flaggviftande britter i protest mot migrationen - SvD
 - Inrätta digital haverikommission efter senaste angreppen - Kuriren
-- Brand på pappersbruket i Hylte - GP
+- Lista: Så många älgar får skjutas i ditt område - Norran
 - Beslut: Polisen ska kamerabevaka område - Norran
 - Rösta i kyrkovalet - Dagens Arena
-- DN Direkt - Trendbrott för älgen – stammen ökar i hela landet - DN.se - DN
 - Huthirebeller stormade FN-kontor i Jemen - GP
 - Uppgifter: Israelisk regeringstopp vill fängsla Greta Thunberg som terrorist - DN
 - Ukraina: Flera skadade i ”massiva” attacker - GP
 - DN Direkt - En till sjukhus – stor polisinsats i Norrköping - DN.se - DN
 - HR-chefer drunknar i AI-ansökningar - Tidningen Näringslivet
-- Ryska smällen: Vinstras för Putins oljebolag - DN
 - Så jobbar de för ökad jämställdhet - Land Lantbruk
 - Fick 3,3 miljoner på Swish - drev familjeföretag inom droger - Aftonbladet
+- Larmet om kollaps – hotet mot Sverige - Expressen
 - Snart får nyfödda skydd mot RS-virus - Aftonbladet
 - Rasmus: Talangen hyllades i e-sportsvärlden – blev bara 22 år - TTELA
 
 ## World News
 
-- JOHNNIE WALKER SCOTCH WHISKY ANNOUNCES GLOBAL PARTNERSHIP WITH GRAMMY AWARD-WINNING MUSIC ARTIST AND INTERNATIONAL SUPERSTAR SABRINA CARPENTER - Placera.se
 - Hormel Foods Corporation to Participate in Barclays 18th Annual Global Consumer Staples Conference - Placera.se
+- JOHNNIE WALKER SCOTCH WHISKY ANNOUNCES GLOBAL PARTNERSHIP WITH GRAMMY AWARD-WINNING MUSIC ARTIST AND INTERNATIONAL SUPERSTAR SABRINA CARPENTER - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - F-16 ace pilot killed in training crash before Polish air show - TVP World
@@ -41,8 +41,8 @@ _Updated: 2025-09-01 04:30_
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Den hetaste nya trenden inom global utbildning - The Portugal News
 - How Sudan’s collapse exposes America’s fading global power - Poddtoppen
@@ -82,17 +82,17 @@ _Updated: 2025-09-01 04:30_
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- BlackRock TCP Capital Corp. to Report Second Quarter Ended June 30, 2025 Financial Results on August 7, 2025 - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 
 ## Health
 
@@ -126,19 +126,19 @@ _Updated: 2025-09-01 04:30_
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 - Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Pressträff: Sex forskare med aktuell och spännande forskning inom Life Science - Mynewsdesk
 
 ## Jordbruk
 
