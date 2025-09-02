@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-02 07:41_
+_Updated: 2025-09-02 08:51_
 
 ## Top Stories
 
 - Ledare: Därför ska vi välkomna den nya kulturkanon - NWT
 - Var är läkarna i Folkhälsomyndighetens högsta ledning? - Altinget.se
-- Världens värsta kris – människor tvingas äta djurfoder för att överleva - DN
 - Hela listan: Här är Malmös farligaste korsningar för cyklister - Sydsvenskan
+- Xi och Putin bekräftar vänskap i Peking - Västerbottens-Kuriren
 - Stängdes av från jobbet – kan få rätt i domstol - SvD
-- Gazakonvoj avseglar på nytt – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Ny trend: Svenskfödda elever tappar i skolan - GP
+- Världens värsta kris – människor tvingas äta djurfoder för att överleva - DN
+- Ny trend: Svenskfödda elever tappar i skolan - Västerbottens-Kuriren
+- Grislunga transplanterad till hjärndöd människa - Västerbottens-Kuriren
 - Åklagare: 15-årig pojke sprängde sig själv av misstag - DN
-- Jamal El-Haj bildar nytt parti - Västerbottens-Kuriren
-- Älgjakten inledd – fler älgar får skjutas i år - Västerbottens-Kuriren
+- Mc-förare avliden efter bilkrock utanför Söderköping - SVT Nyheter
+- DIREKT: Sydkorea: 2 000 nordkoreaner har dött i Ukraina - HD
+- Körde mot trafiken vid Öresundsbron - Expressen
 - Minst 1 000 döda i jordskred i Sudan - DN
-- Militärjuntan i Burkina Faso förbjuder homosexualitet - SVT Nyheter
-- Putin och Modi i ”insiktsfullt” samtal i limousine - DN
-- Över 800 döda i skalv i Afghanistan - UNT
+- DN Direkt - Ryssland och Kina i nytt avtal om gasledning - DN.se - DN
 - Bostadspriserna tog ett litet glädjeskutt i augusti – men räkna med stillastående priser för helåret - sbab.se
-- Nestlés vd får sparken efter förbjuden romans - Aftonbladet
-- Scania varslar – 750 tjänster ska bort - Tidningen Näringslivet
+- Matpriserna stilla – men kyckling blir dyrare - Omni
 - Guldpriset nådde ny rekordnivå - Dagens industri
+- Scania varslar – 750 tjänster ska bort - Tidningen Näringslivet
 - Succébok förbjuds i Kanada: Sexuell - SvD
 - Bland det sämsta jag spelat på Playstation 5 - Aftonbladet
 
