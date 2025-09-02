@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-02 04:17_
+_Updated: 2025-09-02 05:28_
 
+- Afghanistan: Rescue efforts resume after earthquake kills more than 800 - follow live - BBC
+- Trump says he'll honor Giuliani with Presidential Medal of Freedom - Axios
 - Hundreds of ‘Workers Over Billionaires’ Labor Day rallies take place across US - The Guardian
 - Maduro vows to declare a "republic in arms" if U.S. forces in the Caribbean attack Venezuela - CBS News
 - Trump raises fresh questions about Covid-19 vaccines that he says have ‘ripped apart’ CDC - CNN
-- Nadler, Pillar of Democratic Party’s Old Guard, Will Retire Next Year - The New York Times
-- An earthquake destroys villages in eastern Afghanistan and kills 800 people, with 2,500 injured - Politico
+- Democratic Rep. Jerry Nadler to retire from Congress - NBC News
 - Rudy Giuliani Released From Hospital After Car Crash - The New York Times
-- Trump says he'll honor Giuliani with Presidential Medal of Freedom - Axios
-- Trump orders more agencies to nix collective bargaining agreements - Maryland Matters
-- Interviewed student to undergo surgery after Annunciation Church mass shooting - kare11.com
-- 1.2 million immigrants are gone from the U.S. workforce under Trump, preliminary data shows - PBS
+- Former CDC directors say RFK Jr. is endangering Americans' health - ABC News
+- In windy Iowa, a GOP lawmaker faces a reckoning over Trump’s clean energy war - Politico
+- CNBC Daily Open: Even if the U.S. Supreme Court rules tariffs illegal, the case for them might not be closed - CNBC
+- Xi’s Parade to Showcase China’s Military Might and Circle of Autocrats - The New York Times
 - Modi joins hands with Xi and Putin in message to Trump - Axios
-- Explainer: The slow train from North Korea: How Kim Jong Un travels to China - Reuters
+- The slow train from North Korea: How Kim Jong Un travels to China - Reuters
 - Over 1,000 killed in landslide in western Sudan village, armed group says - CNN
-- Flotilla headed to Gaza leaves Barcelona for a second time after storm delay - AP News
-- Nestlé dismisses CEO Laurent Freixe after probe into ‘romantic relationship’ - Financial Times
-- Powerball jackpot reaches $1.1 billion for Labor Day drawing, 5th largest in history - ABC News
-- September is historically the worst month of the year for stocks. Why this time could be different. - MarketWatch
+- How to watch $1.1 billion Labor Day Powerball drawing live - Axios
+- Nestlé Board appoints Philipp Navratil as CEO following the departure of Laurent Freixe - GlobeNewswire
+- Gold hits new high on rising uncertainty, while U.S. stock futures little changed - MarketWatch
 - Trump Family Profits Even With Tepid Launch of Crypto Tokens - The New York Times
-- Samsung's massive 85-inch Neo QLED 4K TV just hit a new record-low price for Labor Day - Mashable
+- You can try Apple’s lightning-fast video captioning model right from your browser - 9to5Mac
 - Samsung just added these Galaxy phones to the One UI 8 beta ahead of stable rollout - 9to5Google
