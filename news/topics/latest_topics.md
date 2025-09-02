@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-02 09:40_
+_Updated: 2025-09-02 10:47_
 
 ## Top Stories
 
+- Fotboll: Alexander Isak till Liverpool: ”Det har varit en lång väg hit” - SVT Nyheter
 - Ledare: Därför ska vi välkomna den nya kulturkanon - NWT
+- Var är läkarna i Folkhälsomyndighetens högsta ledning? - Altinget.se
+- DN Direkt - Putin kallar Xi för ”god vän” när samtalen inleds - DN.se - DN
 - Hela listan: Här är Malmös farligaste korsningar för cyklister - Sydsvenskan
-- Stängdes av från jobbet – kan få rätt i domstol - SvD
-- Världens värsta kris – människor tvingas äta djurfoder för att överleva - DN
-- Tidvis kraftigt regn under dagen - Skillingaryd
-- Belgien ska erkänna Palestina som stat – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Målet: Upprättelse efter lönechocken som gravid - SvD
 - Ny trend: Svenskfödda elever tappar i skolan - Västerbottens-Kuriren
+- Malmö blockerar sociala medier på elevernas skoldatorer - DN
 - Jamal El-Haj bildar nytt parti - GP
-- Allt färre unga vill engagera sig i kommunpolitiken - Omni
-- Åklagare: 15-årig pojke sprängde sig själv av misstag - DN
-- Bilolycka på E6 – en till sjukhus - Expressen
+- 01 september 18.46, Trafikolycka, personskada, Söderköping - polisen.se
+- DIREKT: Sydkorea: 2 000 nordkoreaner har dött i Ukraina - HD
+- Minst 900 döda i jordbävning i Afghanistan - Hufvudstadsbladet
 - Minst 1 000 döda i jordskred i Sudan - DN
-- Xi och Putin bekräftar vänskap i Peking - GP
-- Thunbergs konvoj vänder tillbaka - Västerbottens-Kuriren
-- Matpriserna stilla – men kyckling blir dyrare - Omni
-- Guldpriset nådde ny rekordnivå - Dagens industri
+- Sandra Stiskalo: Kunde drottningens okända åsikt om brexit ha förändrat allt? - DN
+- Klarna lanserar nytt betalkort - Sydsvenskan
 - Bostadspriserna tog ett litet glädjeskutt i augusti – men räkna med stillastående priser för helåret - sbab.se
-- Kris i Scania – inget varsel lagt på Ferruform i Luleå - NSD
-- Pokémon-kort ökar i popularitet – och pris - Aftonbladet
-- Succébok förbjuds i Kanada: Sexuell - SvD
+- Jonas Fröberg: När Trump nyser blir Södertälje förkylt - DN
+- Matpriserna stilla – men kyckling blir dyrare - Omni
+- DN Direkt - Pokémon-kort ökar i popularitet – och pris - DN.se - DN
+- ”The handmaid's tale” förbjuds i Kanada: Sexuell - Västerbottens-Kuriren
 
 ## World News
 
@@ -61,12 +61,12 @@ _Updated: 2025-09-02 09:40_
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- WiMi Explores Quantum Algorithms for Large-Scale Machine Learning Models - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
@@ -103,62 +103,62 @@ _Updated: 2025-09-02 09:40_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Johan von Schreeb - Karolinska Institutet
+- Osher centrum för integrativ hälsa - Karolinska Institutet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Lång väg till öppen vetenskap - Universitetsläraren
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- De gick från reko till eko - ST-tidningen
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
