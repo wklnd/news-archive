@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-02 18:47_
+_Updated: 2025-09-02 19:39_
 
 ## Top Stories
 
-- Björn Wiman: Kulturkanon är skrattretande – kunde tagits fram av AI - DN
+- Här är Sveriges nya kulturkanon: Strindberg och Pippi Långstrump - SVT Nyheter
+- Stor polisinsats i Lunden i Göteborg – misstänkt grovt brott - SVT Nyheter
 - Sveriges handelsflotta för liten – måste dubblas - DN
 - Var är läkarna i Folkhälsomyndighetens högsta ledning? - Altinget.se
 - Flydde från kriget – misstänks ha mördat - Aftonbladet
-- Stor polisinsats i Lunden i Göteborg – misstänkt grovt brott - SVT Nyheter
-- Folkmordsexpert: Långt till dom om Gaza - Västerbottens-Kuriren
-- SMHI varnar för skyfall i Götaland - SVT Nyheter
+- ”Israels ord om extrema våldet är självhypnos” - SvD
+- Regnvarningen utökas – här kommer största mängderna: ”Kraftiga regnmängder” - NWT
 - Just nu: Jägare till sjukhus efter björnattack - Västerbottens-Kuriren
 - Usel ekonomi i Göteborg – politiker vädjar om 20 miljarder - GP
-- Politiker vill stoppa Palestinademonstrationer efter misshandel - DN
-- Terrordömd dansk var spion – vinner unikt mål - DN
-- Utländska turister undviker USA – minskade ankomster i sommar - DN
+- Många reservofficerare för gamla för tjänst - GP
 - Erkänner mord på toppolitiker – ville hämnas mot myndigheterna - DN
+- Flera skadade i knivattack i Frankrike - SVT Nyheter
+- Terrordömd dansk var spion - vinner unikt mål - Västerbottens-Kuriren
 - Minst 900 döda i jordbävning i Afghanistan - Hufvudstadsbladet
 - Klarna bekräftar börsnotering – högre värdering än väntat - Dagens industri
+- Swedbank sänker maxgränsen för Swish - Expressen
 - Hedgefondmiljardären till attack mot Trump - Dagens industri
-- ”Den starka kronan sätter krokben för sparandet” - Omni
-- Affärsvärlden landar i ett neutralt råd för Systemair - Affärsvärlden
-- Google dementerar säkerhetsbrist i Gmail - Computer Sweden
+- Undersökning: Arbetsmarknaden allt sämre för akademiker - Tidningen Näringslivet
 - Gamla Pokémon-kort kan vara guldgruva – ökar i popularitet och pris: ”Lär fortsätter växa” - NLT
+- Google dementerar säkerhetsbrist i Gmail - Computer Sweden
 
 ## World News
 
@@ -42,9 +42,9 @@ _Updated: 2025-09-02 18:47_
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Kinesisk region ny etta på FN:s innovationslista - Omni
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
-- Hormel Foods Corporation to Participate in Barclays 18th Annual Global Consumer Staples Conference - Placera.se
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Merck to Participate in the Morgan Stanley 23rd Annual Global Healthcare Conference - Placera.se
-- Quasar Medical Strengthens Global CDMO Platform with Acquisition of Nordson Medical's Galway and Tecate Facilities - Placera.se
+- Hormel Foods Corporation to Participate in Barclays 18th Annual Global Consumer Staples Conference - Placera.se
 - Crocs, Inc. to Present at Goldman Sachs 32nd Annual Global Retailing Conference - Placera.se
 - BIG Travel går in i globalt partnerskap - travelnews.se
 
@@ -69,7 +69,7 @@ _Updated: 2025-09-02 18:47_
 - Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
-- Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
+- Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
 
 ## Business
 
@@ -77,7 +77,7 @@ _Updated: 2025-09-02 18:47_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Publication of the 2025 Half-Year Report - Placera.se
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
@@ -98,24 +98,24 @@ _Updated: 2025-09-02 18:47_
 
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Europeisk konferens för socialmedicin: Praktik, teori och handling för en hälsosammare framtid - sls.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -144,21 +144,21 @@ _Updated: 2025-09-02 18:47_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - European Commission
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- (+) Stor undersökning av jordbruket - Arbetarskydd
 - De gick från reko till eko - ST-tidningen
-- Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Lantbruket i Polen lyfte med EU - Jordbruksaktuellt
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
