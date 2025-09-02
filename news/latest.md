@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-02 11:48_
+_Updated: 2025-09-02 12:49_
 
-- Congress returns to a messy fall with Democrats ready to fight - CNN
-- Why was the Afghanistan earthquake so deadly? A disaster resilience expert explains - The Conversation
+- A shutdown fight and Epstein drama await as Congress returns to Washington - NBC News
+- Afghanistan earthquake: Taliban appeal for aid as death toll rises to 900 - The Guardian
 - Photos: Labor Day "Workers Over Billionaires" protests held across U.S. - Axios
-- North Korea's Kim Jong Un travels to Beijing to watch military parade alongside Putin and Xi Jinping - AP News
-- Trump calls for more Covid vaccine data to stop CDC ‘being ripped apart’ - Financial Times
-- Boy dies after being shot in door-knocking prank gone wrong - ABC News
-- Longtime Democratic Rep. Jerry Nadler to retire from Congress - The Washington Post
-- Rudy Giuliani Released From Hospital After Car Crash - The New York Times
+- The slow train from North Korea: How Kim Jong Un travels to China - Reuters
+- Trump raises fresh questions about Covid-19 vaccines that he says have ‘ripped apart’ CDC - CNN
+- Democratic Rep. Jerry Nadler to retire from Congress, citing need for "generational change" in interview with The New York Times - CBS News
+- Giuliani Finds a Home Away From Home in New Hampshire - The New York Times
 - Trump admin live updates: Rudy Giuliani to receive Presidential Medal of Freedom - ABC News
+- University of Kentucky student arrested after infant found dead in closet - WHAS11
 - Stock futures fall at start of September amid new uncertainty about tariffs after court decision: Live updates - CNBC
 - On WWII anniversary, China seeks to erase U.S. role in victory - The Washington Post
 - A landslide in Sudan’s Darfur wipes out a village, killing more than 1,000 people - AP News
-- Putin hails 'unprecedented' Russia-China ties - DW
-- Russia accused of jamming GPS of Ursula von der Leyen's plane during Bulgaria trip - Euronews.com
-- Powerball Jackpot Hits $1.3 Billion After Labor Day Drawing—Here’s What The Winner Could Take Home - Forbes
-- Nestle investors face more turbulence after another CEO ousted - Reuters
-- Gold price vaults past $3,500 to new record - Financial Times
-- Stock Market Today: Dow Futures Fall; Gold, Silver Prices Rally — Live Updates - The Wall Street Journal
+- Belgium to recognize Palestinian state at UN General Assembly, impose sanctions on Israel - The Times of Israel
+- Leading genocide scholars organization says Israel is committing genocide in Gaza - PBS
+- Powerball jackpot rises to an estimated $1.3 billion after no winning ticket sold - AP News
+- Suntory Boss Resigns After Buying Supplement That May Be Illegal in Japan - The New York Times
+- Why being cautious investors in September may be justified. Here's what the data shows - CNBC
+- Nestlé says it dismissed CEO Laurent Freixe over an undisclosed romantic relationship with his direct subordinate - Business Insider
 - Google says reports of a major Gmail security issue are 'entirely false' - Engadget
-- Pixel 10 Pro XL proves its got the strength to match its software update promise - Android Authority
+- Google Maps may soon keep your navigation updates where you can’t lose them - Android Authority
