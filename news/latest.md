@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-02 12:49_
+_Updated: 2025-09-02 13:48_
 
 - A shutdown fight and Epstein drama await as Congress returns to Washington - NBC News
-- Afghanistan earthquake: Taliban appeal for aid as death toll rises to 900 - The Guardian
+- How Jair Bolsonaro Tried, and Failed, to Stage a Coup in Brazil - The New York Times
+- Taliban calls for foreign help after deadly Afghanistan earthquake. Here’s what we know - CNN
 - Photos: Labor Day "Workers Over Billionaires" protests held across U.S. - Axios
-- The slow train from North Korea: How Kim Jong Un travels to China - Reuters
-- Trump raises fresh questions about Covid-19 vaccines that he says have ‘ripped apart’ CDC - CNN
 - Democratic Rep. Jerry Nadler to retire from Congress, citing need for "generational change" in interview with The New York Times - CBS News
+- The slow train from North Korea: How Kim Jong Un travels to China - Reuters
+- Trump says he'll honor Giuliani with Presidential Medal of Freedom - Axios
 - Giuliani Finds a Home Away From Home in New Hampshire - The New York Times
-- Trump admin live updates: Rudy Giuliani to receive Presidential Medal of Freedom - ABC News
-- University of Kentucky student arrested after infant found dead in closet - WHAS11
+- Trump to make surprise announcement amid health rumors; internet asks, 'Is he resigning?' - Hindustan Times - Hindustan Times
 - Stock futures fall at start of September amid new uncertainty about tariffs after court decision: Live updates - CNBC
 - On WWII anniversary, China seeks to erase U.S. role in victory - The Washington Post
 - A landslide in Sudan’s Darfur wipes out a village, killing more than 1,000 people - AP News
-- Belgium to recognize Palestinian state at UN General Assembly, impose sanctions on Israel - The Times of Israel
-- Leading genocide scholars organization says Israel is committing genocide in Gaza - PBS
-- Powerball jackpot rises to an estimated $1.3 billion after no winning ticket sold - AP News
-- Suntory Boss Resigns After Buying Supplement That May Be Illegal in Japan - The New York Times
-- Why being cautious investors in September may be justified. Here's what the data shows - CNBC
-- Nestlé says it dismissed CEO Laurent Freixe over an undisclosed romantic relationship with his direct subordinate - Business Insider
-- Google says reports of a major Gmail security issue are 'entirely false' - Engadget
+- Genocide scholar says group pushed through Israel condemnation without debate - The Times of Israel
+- Xi Wages ‘Memory War’ to Rewrite WWII History With Eye on Taiwan - Bloomberg
+- Powerball jackpot reaches $1.3 billion after Labor Day drawing sees no winner - ABC News
+- Kraft Heinz to Break Up Its Food Businesses - The New York Times
+- Suntory’s Outspoken CEO Resigns After Police Drug Search - Bloomberg
+- Gold price hits record high as investors seek safe haven - The Guardian
 - Google Maps may soon keep your navigation updates where you can’t lose them - Android Authority
+- Pixel 10 Pro XL proves its got the strength to match its software update promise - Android Authority
