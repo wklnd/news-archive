@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-02 18:51_
+_Updated: 2025-09-02 19:48_
 
-- Judge rules Trump illegally deployed National Guard and Marines to Los Angeles - NBC News
-- Trump will move Space Command from Colorado to Alabama - Politico
-- Texas man charged after 11-year-old boy shot dead while playing doorbell prank - The Guardian
-- Scientists Denounce Trump Administration’s Climate Report - The New York Times
-- Giuliani Finds a Home Away From Home in New Hampshire - The New York Times
-- At Labor Day rallies, speakers decry Trump - Los Angeles Times
-- Trump to make Oval Office announcement today, White House says - 6abc Philadelphia
+- US judge blocks Trump administration's use of troops in California - Reuters
+- Trump to announce Space Command headquarters moving from Colorado to Alabama, sources say - CBS News
+- Texas man charged with murder in shooting of child playing doorbell prank - BBC
+- Trump vows to take on crime in Chicago 'fast' after violent Labor Day weekend - ABC News
+- As many as 1,000 killed in Sudan landslide - NPR
+- Capitol agenda: The latest on Epstein, Trump’s crime bill and shutdown talks - Politico
 - University of Kentucky athlete charged after dead infant found hidden in closet - The Guardian
-- Former CDC directors say RFK Jr. is endangering Americans' health - ABC News
+- Newsom rolls out ‘shock and awe’ ad campaign for redistricting measure - Politico
 - Murkowski slams White House pocket rescission proposal - Politico
+- Labor Day Protests Denounce Trump While Supporting Workers - The New York Times
 - Death toll climbs to over 1,400 after Afghanistan earthquake, official says - ABC News
-- Putin hails ties with China as Kim Jong-un arrives in Beijing on eve of parade - The Guardian
-- Former KMT chair, Want Want manager among Taiwanese set to attend Beijing parade - South China Morning Post
-- Belgium to Recognize Palestinian State, Joining Pressure on Israel - The New York Times
-- Kraft Heinz is splitting up, separating hot dogs from ketchup - NPR
-- Dow falls 500 points to kick off September on tariff worries, rising bond yields: Live updates - CNBC
-- PepsiCo Stock Jumps. Why Elliott Investment Management Is Taking a $4 Billion Stake. - Barron's
-- Suntory’s Outspoken CEO Resigns After Police Drug Search - Bloomberg.com
+- Putin and Xi Invoke Wartime Unity as They Hail Ties in Beijing - The New York Times
+- On WWII anniversary, China seeks to erase U.S. role in victory - The Washington Post
+- Indonesian police fire tear gas, rubber bullets at student protesters - Reuters
+- Centerview Leads Kraft Heinz Breakup a Decade After Megamerger - Bloomberg.com
+- Starbucks to launch protein-packed cold foam, lattes later this month - CNBC
+- Constellation Brands Stock Drops as Modelo Maker Cuts Outlook on Weak Beer Demand - Yahoo Finance
+- Rising inequality is turning US into an autocratic state, billionaire warns - The Guardian
+- Microsoft pushes Windows 11 25H2 to Release Preview - theregister.com
 - Dolby Vision 2 goes beyond HDR with more AI and ‘authentic motion’ smoothing - The Verge
-- Samsung Is Preparing The Mass Production Of Its Exynos 2600 For The Galaxy S26 Series, Hinting That It Has Overcome Its Yields Problems - Wccftech
