@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-02 01:48_
+_Updated: 2025-09-02 04:17_
 
-- Rudy Giuliani to receive Presidential Medal of Freedom, Trump says - BBC
-- More than 800 dead after earthquake hits eastern Afghanistan, Taliban say - The Washington Post
 - Hundreds of ‘Workers Over Billionaires’ Labor Day rallies take place across US - The Guardian
-- Hundreds of unaccompanied Guatemalan children can stay in the U.S. for now, judge says - NPR
+- Maduro vows to declare a "republic in arms" if U.S. forces in the Caribbean attack Venezuela - CBS News
+- Trump raises fresh questions about Covid-19 vaccines that he says have ‘ripped apart’ CDC - CNN
+- Nadler, Pillar of Democratic Party’s Old Guard, Will Retire Next Year - The New York Times
+- An earthquake destroys villages in eastern Afghanistan and kills 800 people, with 2,500 injured - Politico
 - Rudy Giuliani Released From Hospital After Car Crash - The New York Times
-- Trump Declares D.C. a ‘Crime Free Zone’ Despite 442 Crimes Reported in Past Week - Rolling Stone
+- Trump says he'll honor Giuliani with Presidential Medal of Freedom - Axios
 - Trump orders more agencies to nix collective bargaining agreements - Maryland Matters
-- Former CDC directors say RFK Jr. is endangering Americans' health - ABC News
-- Federal data reveals 1.2 million drop in immigrant workers under Trump - CBS News
-- Great Lakes ghost ships emerge, courtesy of the quagga mussel - Financial Times
+- Interviewed student to undergo surgery after Annunciation Church mass shooting - kare11.com
+- 1.2 million immigrants are gone from the U.S. workforce under Trump, preliminary data shows - PBS
 - Modi joins hands with Xi and Putin in message to Trump - Axios
-- Israel committing genocide in Gaza, world’s top scholars on the crime say - The Guardian
-- EU chief plane hit by suspected Russian GPS jamming - DW
-- Aid flotilla for Gaza departs Barcelona after stormy weather turnaround - Reuters
+- Explainer: The slow train from North Korea: How Kim Jong Un travels to China - Reuters
+- Over 1,000 killed in landslide in western Sudan village, armed group says - CNN
+- Flotilla headed to Gaza leaves Barcelona for a second time after storm delay - AP News
 - Nestlé dismisses CEO Laurent Freixe after probe into ‘romantic relationship’ - Financial Times
-- Bessent says Trump administration will tackle high housing costs with new measures - Reuters
+- Powerball jackpot reaches $1.1 billion for Labor Day drawing, 5th largest in history - ABC News
 - September is historically the worst month of the year for stocks. Why this time could be different. - MarketWatch
-- Trump Family Amasses $5 Billion Fortune After Crypto Launch - The Wall Street Journal
-- iPhone 17 Pro: Apple’s rumored not-so-clear case design shown in video - 9to5Mac
-- Space investing goes mainstream as VCs ditch the rocket science requirements - TechCrunch
+- Trump Family Profits Even With Tepid Launch of Crypto Tokens - The New York Times
+- Samsung's massive 85-inch Neo QLED 4K TV just hit a new record-low price for Labor Day - Mashable
+- Samsung just added these Galaxy phones to the One UI 8 beta ahead of stable rollout - 9to5Google
