@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-02 19:39_
+_Updated: 2025-09-02 20:46_
 
 ## Top Stories
 
+- Uppgifter: Två män ihjälskjutna i Lunden - GP
 - Här är Sveriges nya kulturkanon: Strindberg och Pippi Långstrump - SVT Nyheter
-- Stor polisinsats i Lunden i Göteborg – misstänkt grovt brott - SVT Nyheter
+- »Vet inte om jag är intresserad av att bli ordinarie statsepidemiolog« - Läkartidningen
+- En allvarligt skadad efter villabrand i Motala – VMA utfärdat - Aftonbladet
+- Rekordmånga fåglar häckade på Pepparholm i år - newsoresund.se
 - Sveriges handelsflotta för liten – måste dubblas - DN
-- Var är läkarna i Folkhälsomyndighetens högsta ledning? - Altinget.se
-- Flydde från kriget – misstänks ha mördat - Aftonbladet
-- ”Israels ord om extrema våldet är självhypnos” - SvD
-- Regnvarningen utökas – här kommer största mängderna: ”Kraftiga regnmängder” - NWT
-- Just nu: Jägare till sjukhus efter björnattack - Västerbottens-Kuriren
+- SMHI varnar för skyfall i Götaland - SVT Nyheter
 - Usel ekonomi i Göteborg – politiker vädjar om 20 miljarder - GP
 - Många reservofficerare för gamla för tjänst - GP
-- Erkänner mord på toppolitiker – ville hämnas mot myndigheterna - DN
+- Alla barn i Sverige får gratis peng för aktiviteter med ”Fritidskortet” - Expressen
+- Nu möts Xi, Kim och Putin för första gången - GP
+- DN Direkt - Dödssiffran stiger efter jordskalv i Afghanistan - DN.se - DN
 - Flera skadade i knivattack i Frankrike - SVT Nyheter
-- Terrordömd dansk var spion - vinner unikt mål - Västerbottens-Kuriren
-- Minst 900 döda i jordbävning i Afghanistan - Hufvudstadsbladet
-- Klarna bekräftar börsnotering – högre värdering än väntat - Dagens industri
-- Swedbank sänker maxgränsen för Swish - Expressen
+- Malmö stad utreder att ta emot barn från Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Klarnas ägare som säljer mest i IPO:n – se hela listan - EFN
+- Trump trappar upp räntekriget: ”Katastrof” - SvD
 - Hedgefondmiljardären till attack mot Trump - Dagens industri
 - Undersökning: Arbetsmarknaden allt sämre för akademiker - Tidningen Näringslivet
 - Gamla Pokémon-kort kan vara guldgruva – ökar i popularitet och pris: ”Lär fortsätter växa” - NLT
-- Google dementerar säkerhetsbrist i Gmail - Computer Sweden
+- Nu är det dags för tv-apparater med Dolby Vision 2 - m3.se
 
 ## World News
 
 - Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
 - APsystems Named Most Bankable Inverter Company Worldwide by Sinovoltaics - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - JOHNNIE WALKER SCOTCH WHISKY ANNOUNCES GLOBAL PARTNERSHIP WITH GRAMMY AWARD-WINNING MUSIC ARTIST AND INTERNATIONAL SUPERSTAR SABRINA CARPENTER - Placera.se
 - Ukraine war latest: Putin responds to claims Moscow is planning to attack Europe - Sky News
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
+- BIG Travel går in i globalt partnerskap - travelnews.se
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Kinesisk region ny etta på FN:s innovationslista - Omni
-- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Merck to Participate in the Morgan Stanley 23rd Annual Global Healthcare Conference - Placera.se
 - Hormel Foods Corporation to Participate in Barclays 18th Annual Global Consumer Staples Conference - Placera.se
-- Crocs, Inc. to Present at Goldman Sachs 32nd Annual Global Retailing Conference - Placera.se
-- BIG Travel går in i globalt partnerskap - travelnews.se
+- 7 saker om EQTY Global Growth II Fund - The Portugal News
 
 ## Technology
 
@@ -69,7 +69,7 @@ _Updated: 2025-09-02 19:39_
 - Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
-- Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
+- Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
 
 ## Business
 
@@ -77,7 +77,7 @@ _Updated: 2025-09-02 19:39_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Publication of the 2025 Half-Year Report - Placera.se
-- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
@@ -144,21 +144,21 @@ _Updated: 2025-09-02 19:39_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Lantbruket i Polen lyfte med EU - Jordbruksaktuellt
+- USA tvingar ut EU på banan - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
