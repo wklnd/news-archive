@@ -1,37 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-02 11:41_
+_Updated: 2025-09-02 12:43_
 
 ## Top Stories
 
 - Nio anhållna misstänkta för grova insiderbrott - Dagens industri
-- Sveriges kulturkanon presenteras kl 11.00 – SVT sänder live - SVT Nyheter
+- Nu presenteras Sveriges kulturkanon – SVT sänder live - SVT Nyheter
 - Var är läkarna i Folkhälsomyndighetens högsta ledning? - Altinget.se
-- Xi och Putin bekräftar vänskap i Peking - GP
-- DN Direkt - Nio anhållna för grova insiderbrott - DN.se - DN
-- Hela listan: Här är Malmös farligaste korsningar för cyklister - Sydsvenskan
+- DN Direkt - Putin kallar Xi för ”god vän” när samtalen inleds - DN.se - DN
+- Kvinna hittad död i bostad – utesluter inte brott - TTELA
+- Tusen döda i jordskred i Sudan - Västerbottens-Kuriren
+- Malmö blockerar sociala medier på elevernas skoldatorer - DN
+- Jamal El-Haj bildar nytt parti - Västerbottens-Kuriren
 - Ny trend: Svenskfödda elever tappar i skolan - GP
-- Jamal El-Haj bildar nytt parti - Sydsvenskan
 - MC-förare död efter olyckan utanför Söderköping - NT
-- Grislunga transplanterad till hjärndöd människa - Aftonbladet
 - DIREKT: Sydkorea: 2 000 nordkoreaner har dött i Ukraina - HD
 - Minst 900 döda i jordbävning i Afghanistan - Hufvudstadsbladet
 - Sandra Stiskalo: Kunde drottningens okända åsikt om brexit ha förändrat allt? - DN
 - Belgien kommer att erkänna Palestina - Västerbottens-Kuriren
 - Bostadspriserna tog ett litet glädjeskutt i augusti – men räkna med stillastående priser för helåret - sbab.se
-- Jonas Fröberg: När Trump nyser blir Södertälje förkylt - DN
+- ”Den starka kronan sätter krokben för sparandet” - Omni
 - Klarna lanserar nytt betalkort - Sydsvenskan
-- Svag dollar lyfter guldpriset till nytt rekord - Aftonbladet
-- DN Direkt - Pokémon-kort ökar i popularitet – och pris - DN.se - DN
-- Apple klassar tre Macbook-modeller som föråldrade – dags att uppgradera? - Nyteknik
+- Nestlés vd får sparken efter förbjuden romans - Aftonbladet
+- Gamla Pokémon-kort kan vara guldgruva – ökar i popularitet och pris: ”Lär fortsätter växa” - NLT
+- Battlefield 6 får sina slutgiltiga systemkrav - Nordichardware
 
 ## World News
 
+- Batterilagring väntas öka kraftigt – niofaldig global tillväxt till 2040 - Börskollen
 - APsystems Named Most Bankable Inverter Company Worldwide by Sinovoltaics - Placera.se
-- JOHNNIE WALKER SCOTCH WHISKY ANNOUNCES GLOBAL PARTNERSHIP WITH GRAMMY AWARD-WINNING MUSIC ARTIST AND INTERNATIONAL SUPERSTAR SABRINA CARPENTER - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- JOHNNIE WALKER SCOTCH WHISKY ANNOUNCES GLOBAL PARTNERSHIP WITH GRAMMY AWARD-WINNING MUSIC ARTIST AND INTERNATIONAL SUPERSTAR SABRINA CARPENTER - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
@@ -39,14 +39,14 @@ _Updated: 2025-09-02 11:41_
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Kinesisk region ny etta på FN:s innovationslista - Omni
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Hormel Foods Corporation to Participate in Barclays 18th Annual Global Consumer Staples Conference - Placera.se
-- Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
+- Crocs, Inc. to Present at Goldman Sachs 32nd Annual Global Retailing Conference - Placera.se
+- Den hetaste nya trenden inom global utbildning - The Portugal News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 
 ## Technology
 
@@ -60,16 +60,16 @@ _Updated: 2025-09-02 11:41_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
-- WiMi Explores Quantum Algorithms for Large-Scale Machine Learning Models - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
+- Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
 
 ## Business
 
@@ -121,24 +121,24 @@ _Updated: 2025-09-02 11:41_
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Vetenskap, skratt och naturupplevelser – när postdoktorer möts i Kronlund - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Lång väg till öppen vetenskap - Universitetsläraren
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- University of Science, VNU-HCM tecknade ett samarbetsavtal med Vietnams atomenergiinstitut - Vietnam.vn
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
