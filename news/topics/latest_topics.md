@@ -1,36 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-02 16:44_
+_Updated: 2025-09-02 17:42_
 
 ## Top Stories
 
 - Björn Wiman: Kulturkanon är skrattretande – kunde tagits fram av AI - DN
+- Sveriges handelsflotta för liten – måste dubblas - DN
 - Var är läkarna i Folkhälsomyndighetens högsta ledning? - Altinget.se
 - Flydde från kriget – misstänks ha mördat - Aftonbladet
-- Bombskyddet inkallat efter explosion i Arlöv - Folkbladet
-- Jägare attackerad av björn – till sjukhus med helikopter - SVT Nyheter
-- Moskva och Washington uppges planera nytt möte - Aftonbladet
-- JUST NU Regnvarningen utökas – här kommer största mängderna: ”Kraftiga regnmängder” - NWT
-- Många reservofficerare för gamla för tjänst - GP
+- DN Direkt - Explosion i Arlöv – bombskyddet inkallat - DN.se - DN
+- Baraa Lafi överlevde sjukhusattacken: ”Det är svårt att andas” - Journalisten
+- JUST NU: Regnvarningen utökas – här kommer största mängderna: ”Kraftiga regnmängder” - NWT
+- Just nu: Jägare till sjukhus efter björnattack - Västerbottens-Kuriren
 - Politiker vill stoppa Palestinademonstrationer efter misshandel - DN
-- Älgjakten inledd - Allehanda.se
+- Många reservofficerare för gamla för tjänst - GP
 - DN Direkt - Dödssiffran stiger efter jordskalv i Afghanistan - DN.se - DN
+- Erkänner mord på toppolitiker – ville hämnas mot myndigheterna - DN
 - Terrordömd dansk var spion - vinner unikt mål - Västerbottens-Kuriren
 - Utländska turister undviker USA – minskade ankomster i sommar - DN
-- Pål Wrange: Resolutionen har ett mervärde – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Klarna bekräftar börsnotering – högre värdering än väntat - Dagens industri
-- Miljardären: Skuldorsakad hjärtattack nära i USA - Dagens PS
-- Affärsvärlden landar i ett neutralt råd för Systemair - Affärsvärlden
-- Ketchupjätten delas upp i två - Västerbottens-Kuriren
+- Hedgefondmiljardären Ray Dalio till attack mot Donald Trump - Dagens industri
+- ”Den starka kronan sätter krokben för sparandet” - Omni
+- Börskrasch eller inte? Så tror analytikerna nu - Dagens PS
 - Google dementerar säkerhetsbrist i Gmail - Computer Sweden
-- Apple klassar tre Macbook-modeller som föråldrade – dags att uppgradera? - Nyteknik
+- Gamla Pokémon-kort kan vara guldgruva – ökar i popularitet och pris: ”Lär fortsätter växa” - NLT
 
 ## World News
 
 - Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
+- Batterilagring väntas öka kraftigt – niofaldig global tillväxt till 2040 - Börskollen
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ukraine war latest: EU works up 'pretty precise plans' to send troops to Ukraine as Russia vows to continue invasion - Sky News
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
@@ -45,7 +46,6 @@ _Updated: 2025-09-02 16:44_
 - Kinesisk region ny etta på FN:s innovationslista - Omni
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- Global klimatstrejk den 3 mars - The Portugal News
 - Servier and IDEAYA Biosciences Partner to Bring Darovasertib, a Promising Uveal Melanoma Treatment, to Patients Worldwide - Placera.se
 
 ## Technology
@@ -64,9 +64,9 @@ _Updated: 2025-09-02 16:44_
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
 - Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
@@ -127,18 +127,18 @@ _Updated: 2025-09-02 16:44_
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Lång väg till öppen vetenskap - Universitetsläraren
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
