@@ -1,11 +1,11 @@
 # Top News Headlines
 
-_Updated: 2025-09-02 05:28_
+_Updated: 2025-09-02 05:55_
 
 - Afghanistan: Rescue efforts resume after earthquake kills more than 800 - follow live - BBC
-- Trump says he'll honor Giuliani with Presidential Medal of Freedom - Axios
-- Hundreds of ‘Workers Over Billionaires’ Labor Day rallies take place across US - The Guardian
+- Labor Day Protests Denounce Trump While Supporting Workers - The New York Times
 - Maduro vows to declare a "republic in arms" if U.S. forces in the Caribbean attack Venezuela - CBS News
+- Trump says he'll honor Giuliani with Presidential Medal of Freedom - Axios
 - Trump raises fresh questions about Covid-19 vaccines that he says have ‘ripped apart’ CDC - CNN
 - Democratic Rep. Jerry Nadler to retire from Congress - NBC News
 - Rudy Giuliani Released From Hospital After Car Crash - The New York Times
@@ -16,9 +16,9 @@ _Updated: 2025-09-02 05:28_
 - Modi joins hands with Xi and Putin in message to Trump - Axios
 - The slow train from North Korea: How Kim Jong Un travels to China - Reuters
 - Over 1,000 killed in landslide in western Sudan village, armed group says - CNN
-- How to watch $1.1 billion Labor Day Powerball drawing live - Axios
+- Labor Day Powerball drawing: Numbers drawn for $1.1 billion lottery drawing - Axios
 - Nestlé Board appoints Philipp Navratil as CEO following the departure of Laurent Freixe - GlobeNewswire
-- Gold hits new high on rising uncertainty, while U.S. stock futures little changed - MarketWatch
-- Trump Family Profits Even With Tepid Launch of Crypto Tokens - The New York Times
+- September is historically the worst month of the year for stocks. Why this time could be different. - MarketWatch
+- Dollar weak on rate outlook, gold hits record high - Yahoo Finance
 - You can try Apple’s lightning-fast video captioning model right from your browser - 9to5Mac
 - Samsung just added these Galaxy phones to the One UI 8 beta ahead of stable rollout - 9to5Google
