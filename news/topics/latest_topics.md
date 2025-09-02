@@ -1,41 +1,42 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-02 06:44_
+_Updated: 2025-09-02 07:41_
 
 ## Top Stories
 
-- Var är läkarna i Folkhälsomyndighetens högsta ledning? - Altinget.se
 - Ledare: Därför ska vi välkomna den nya kulturkanon - NWT
-- Över 1 000 döda i jordskred i Sudan - SVT Nyheter
+- Var är läkarna i Folkhälsomyndighetens högsta ledning? - Altinget.se
+- Världens värsta kris – människor tvingas äta djurfoder för att överleva - DN
 - Hela listan: Här är Malmös farligaste korsningar för cyklister - Sydsvenskan
 - Stängdes av från jobbet – kan få rätt i domstol - SvD
-- Världens värsta kris – människor tvingas äta djurfoder för att överleva - DN
-- Jamal El-Haj bildar nytt parti - GP
+- Gazakonvoj avseglar på nytt – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Ny trend: Svenskfödda elever tappar i skolan - GP
+- Åklagare: 15-årig pojke sprängde sig själv av misstag - DN
+- Jamal El-Haj bildar nytt parti - Västerbottens-Kuriren
 - Älgjakten inledd – fler älgar får skjutas i år - Västerbottens-Kuriren
-- SSU-toppen bar kritiserad sjal – ångrar sig: ”Misstag” - DN
-- Därför dök ministern upp på Donsö - GP
-- Belgien kommer att erkänna Palestina - Västerbottens-Kuriren
-- 13 dödade i israeliska luftangrepp i Gaza - GP
-- Putin och Modi i ”insiktsfullt” samtal i limousine - DN
+- Minst 1 000 döda i jordskred i Sudan - DN
 - Militärjuntan i Burkina Faso förbjuder homosexualitet - SVT Nyheter
-- Guldpriset nådde ny rekordnivå - Dagens industri
-- Danske Banks Boprisindikator: Bostadspriserna i augusti återhämtar sommarens tapp - Danske Bank
-- Kris i Scania – inget varsel lagt på Ferruform i Luleå - NSD
+- Putin och Modi i ”insiktsfullt” samtal i limousine - DN
+- Över 800 döda i skalv i Afghanistan - UNT
+- Bostadspriserna tog ett litet glädjeskutt i augusti – men räkna med stillastående priser för helåret - sbab.se
 - Nestlés vd får sparken efter förbjuden romans - Aftonbladet
-- Pokémon-kort ökar i popularitet – och pris - Aftonbladet
+- Scania varslar – 750 tjänster ska bort - Tidningen Näringslivet
+- Guldpriset nådde ny rekordnivå - Dagens industri
+- Succébok förbjuds i Kanada: Sexuell - SvD
 - Bland det sämsta jag spelat på Playstation 5 - Aftonbladet
 
 ## World News
 
 - APsystems Named Most Bankable Inverter Company Worldwide by Sinovoltaics - Placera.se
-- JOHNNIE WALKER SCOTCH WHISKY ANNOUNCES GLOBAL PARTNERSHIP WITH GRAMMY AWARD-WINNING MUSIC ARTIST AND INTERNATIONAL SUPERSTAR SABRINA CARPENTER - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- F-16 ace pilot killed in training crash before Polish air show - TVP World
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- F-16 ace pilot killed in training crash before Polish air show - TVP World
+- Riad Beladi i samtal med Alice Ancona, operativ chef för World Trade Center Miami – Fokus på America Food & Beverage Show & Conference – International Supermarket News - International Supermarket News
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
+- New Secretary General appointed - Olof Palme International Center
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
@@ -46,30 +47,29 @@ _Updated: 2025-09-02 06:44_
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
-- Hormel Foods Corporation to Participate in Barclays 18th Annual Global Consumer Staples Conference - Placera.se
 
 ## Technology
 
 - Amazon Launches Infrastructure Region in New Zealand - Placera.se
-- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- ZenaTech Signs Agreements to Acquire Two Florida Companies, Expanding Drone as a Service Footprint into Aviation, Defense, and Power Washing - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
-- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
+- Change in Aiforia Technologies Plc’s Management Team - Placera.se
 
 ## Business
 
@@ -119,46 +119,46 @@ _Updated: 2025-09-02 06:44_
 
 ## Science
 
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Proof of concept-finansiering för life science-innovationer - Mynewsdesk
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Irene Jensen - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- De gick från reko till eko - ST-tidningen
-- Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
+- Här är världens största jordbruk - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
+- Framtidens jordbruk är regenerativt - greenpeace.org
