@@ -1,38 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-02 01:38_
+_Updated: 2025-09-02 04:15_
 
 ## Top Stories
 
-- Åklagare: 15-årig pojke sprängde sig själv av misstag - DN
-- Bussterminalen vid Slussen försenas igen: ”Kommer att bli dyrare” - Entreprenad
-- Trumpkritikernas advokat rear ut sina tjänster - DN
 - ”Hans fantasier skapar förvirring vid fronten” - SvD
-- Varningen: Någon håller polismördaren gömd - Aftonbladet
-- SMHI varnar för skyfall - GP
-- Gissléns efterträdare: ”Känner inte igen mig” - Västerbottens-Kuriren
+- Efter förseningsbeskedet för Slussen – notan växer till över 1,5 miljarder kronor för stockholmarna - dagensinfrastruktur -
+- Kraftigt oväder drar in: ”Rejäl rotblöta” - Expressen
+- Åklagare: 15-årig pojke sprängde sig själv av misstag - DN
+- Lina Lund: Rysk upptrappning tar kriget närmare Bryssel - DN
+- Putin och Modi i ”insiktsfullt” samtal i limousine - GP
+- Var är läkarna i Folkhälsomyndighetens högsta ledning? - Altinget.se
 - Forskargrupp anklagar Israel för folkmord i Gaza - SVT Nyheter
 - Svenska försvaret köper fler israeliska vapen - GP
 - Älgjakten inledd – fler älgar får skjutas i år - Västerbottens-Kuriren
 - Ny rasismskandal skakar Finlands regering - DN
-- Trump hedrar Giuliani med frihetsmedalj - GP
-- Putin och Modi i ”insiktsfullt” samtal i limousine - DN
-- Gazakonvoj avseglar på nytt – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Militärjuntan i Burkina Faso förbjuder homosexualitet - SVT Nyheter
+- Belgien kommer att erkänna Palestina - Västerbottens-Kuriren
+- Trumpkritikernas advokat rear ut sina tjänster - DN
 - Scanias personaldirektör om storvarslet: ”Tufft beslut” - Dagens industri
 - Nestlés vd får sparken efter förbjuden romans - Aftonbladet
 - Teslas kollaps fortsätter på svenska bilmarknaden - Nyteknik
-- ”Kronkatastrof” slår mot svenska sparare - SvD
+- Orden om Fed-scenariot: ”Hemsk, kaos, katastrof” - EFN
 - Bland det sämsta jag spelat på Playstation 5 - Aftonbladet
-- Ny strategi mot RS-virus: ”Räcker med en dos” - SvD
+- Succébok förbjuds i Kanada: Sexuell - SvD
 
 ## World News
 
 - APsystems Named Most Bankable Inverter Company Worldwide by Sinovoltaics - Placera.se
-- JOHNNIE WALKER SCOTCH WHISKY ANNOUNCES GLOBAL PARTNERSHIP WITH GRAMMY AWARD-WINNING MUSIC ARTIST AND INTERNATIONAL SUPERSTAR SABRINA CARPENTER - Placera.se
+- Hormel Foods Corporation to Participate in Barclays 18th Annual Global Consumer Staples Conference - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- F-16 ace pilot killed in training crash before Polish air show - TVP World
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- F-16 ace pilot killed in training crash before Polish air show - TVP World
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
@@ -43,10 +43,10 @@ _Updated: 2025-09-02 01:38_
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Kinesisk region ny etta på FN:s innovationslista - Omni
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
-- Den hetaste nya trenden inom global utbildning - The Portugal News
-- Hormel Foods Corporation to Participate in Barclays 18th Annual Global Consumer Staples Conference - Placera.se
-- Crocs, Inc. to Present at Goldman Sachs 32nd Annual Global Retailing Conference - Placera.se
+- Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 
 ## Technology
 
@@ -61,6 +61,7 @@ _Updated: 2025-09-02 01:38_
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
@@ -68,31 +69,30 @@ _Updated: 2025-09-02 01:38_
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
-- Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
 
 ## Business
 
+- Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Publication of the 2025 Half-Year Report - Placera.se
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
-- Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
-- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 
 ## Health
 
@@ -143,22 +143,22 @@ _Updated: 2025-09-02 01:38_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
-- De gick från reko till eko - ST-tidningen
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Lantbruket i Polen lyfte med EU - Jordbruksaktuellt
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- USA tvingar ut EU på banan - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Stor nyhet för matglada katter - Mynewsdesk
