@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-03 16:42_
+_Updated: 2025-09-03 17:41_
 
 ## Top Stories
 
-- LEDARE: I SD:s Sverige kan invandrare fortfarande inte bli svenskar - DN
+- Kritik mot SD-ledamots kanonkommentar - DN
 - Uppdrag till Folkhälsomyndigheten om medicinsk kompetens - Regeringen.se
-- Hovrätten lindrar straffet för Nytorgsmannen – döms till fyra års fängelse - SVT Nyheter
-- ”Herren räknar med att jag står på Israels sida” - SvD
-- Minderårig anhållen för inblandning i dubbelmordet i Kallhäll - SVT Nyheter
+- Bil kraschade in i hus – polisen misstänker grovt brott i Hallstahammar - SVT Nyheter
+- Hon spås bli Nordkoreas nästa diktator – Pekingbesöket spär på spekulationerna - DN
+- Delar av Arlanda utryms – lastbil läcker gas - Dagens industri
 - Mördarjakt efter dubbelmordet i Lunden - GP
 - En avliden efter frontalkrock mellan lastbil och personbil - SVT Nyheter
+- Uppdrag till Folkhälsomyndigheten att ta fram en vägledning för genomförande av hälsokontroll och uppföljande smittskyddsåtgärder vid inresa till Sverige - Regeringen.se
 - Drömjobbet – att rädda liv på de sjukaste husdjuren - DN
 - LEDARE: Säg nej tack till högerns B-skola - Expressen
-- Undervisning på engelska ofta torftig och ogenomtänkt - DN
+- I Moskva ses paraden i Peking som en seger för Putin - DN
 - Björn af Kleen: Nej, Trump är inte död - DN
 - Zelenskyj och Kristersson på toppmöte i Danmark - Västerbottens-Kuriren
-- Kim, Putin och Xi jämsides inför Kinas nya vapen - GP
-- DN Direkt - Domare: Olagligt av Trump att skicka soldater till Los Angeles - DN.se - DN
-- Västlänken-entreprenör krävs på miljardbelopp - SVT Nyheter
+- Trump: Vi går in i ”helvetet” Chicago - GP
 - Storbanker oeniga – Nordea tror på höjd styrränta - Tidningen Näringslivet
-- Polestar rasar tvåsiffrigt efter miljardförlust - Dagens industri
 - Analyschefen om Klarna: Dyr ”högriskaktie” - SvD
+- Västlänken-entreprenör krävs på miljardbelopp - SVT Nyheter
+- Polestar rasar tvåsiffrigt efter miljardförlust - Dagens industri
 - Gamla Pokémon-kort kan vara guldgruva – ökar i pris - Mariestads-Tidningen
-- Nu är det dags för tv-apparater med Dolby Vision 2 - m3.se
+- Recension: "Cronos: The New Dawn" är årets bästa skräckspel - MovieZine
 
 ## World News
 
@@ -54,8 +54,8 @@ _Updated: 2025-09-03 16:42_
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
@@ -103,7 +103,6 @@ _Updated: 2025-09-03 16:42_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Europeisk konferens för socialmedicin: Praktik, teori och handling för en hälsosammare framtid - sls.se
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
@@ -111,34 +110,35 @@ _Updated: 2025-09-03 16:42_
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Olika slutsatser från samma data - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
