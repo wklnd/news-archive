@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-03 07:39_
+_Updated: 2025-09-03 08:47_
 
 ## Top Stories
 
 - Polisen: Två skjutna till döds i Göteborg - SvD
 - Björn Wiman: Kulturkanon är skrattretande – kunde tagits fram av AI - DN
-- Kim, Putin och Xi jämsides inför Kinas nya vapen - Västerbottens-Kuriren
-- Snabbkoll – detta hände när du sov - Sydsvenskan
-- Träd för 400 000 kronor höggs ner - GP
+- Explosion vid port i Malmö - GP
+- Jagade sin egen bil på E4 - Expressen
 - Trump har inga planer på att sänka tullar för Indien - Dagens industri
-- Strömavbrott på hela Gotland efter blixtnedslag - SVT Nyheter
+- Rektorn: Lämna svansar och Labubus hemma - SvD
+- Insändare. Staten måste kompensera oss Kirunabor fullt ut - DN
+- Här erkänner 15-åringen: ”Min epa går inte 30” - SVT Nyheter
 - Var fjärde kommun saknar politiker under 30 år – varför är det ett problem? - SVT Nyheter
 - Ovanlig haj fångad utanför Tjörn - Aftonbladet
-- Villabrand i Motala – en person allvarligt skadad - Expressen
+- Xi Jinping samlar världens diktatorer till ”segerdagen” – och göder inhemsk patriotism - DN
 - Trump: ”Knarkbåt” från Venezuela attackerad – 11 uppges döda - DN
-- Xi och Putin bekräftar vänskap i Peking - Västerbottens-Kuriren
-- Thailands parlament mot upplösning - GP
-- Malmö stad utreder att ta emot barn från Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Thailands parlament mot upplösning - Sydsvenskan
+- Xis show: Kina i centrum för ny världsordning? - Västerbottens-Kuriren
 - Analyschefen om Klarna: Dyr ”högriskaktie” - SvD
+- Globalfonder har skiftat form – ”ökad fallhöjd” - SvD
 - Jonas von Essen: Hur kan vi bara titta på och inte ifrågasätta det? - Aftonbladet
-- Swedbank ändrar maxgränserna för Swish - Expressen
-- Katastrofsiffror för Tesla i Sverige – kollapsen fortsätter - Breakit
+- Storbanken: Riksbanken sänker igen i november - EFN
 - Gamla Pokémon-kort kan vara guldgruva – ökar i popularitet och pris: ”Lär fortsätter växa” - NLT
-- Bananflugor på sin vakt – även när de sover - Aftonbladet
+- Bananflugor på sin vakt när de sover - SvD
 
 ## World News
 
@@ -32,21 +32,21 @@ _Updated: 2025-09-03 07:39_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ukraine war latest: Kim Jong Un in Beijing to join Putin and Xi for summit; suspect confesses to killing ex-speaker - Sky News
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World Athletics introduces gene test for female category - BBC
+- Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Kinesisk region ny etta på FN:s innovationslista - Omni
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
-- Den hetaste nya trenden inom global utbildning - The Portugal News
-- ORIX Corporation USA Completes Acquisition of Majority Stake in Hilco Global - Placera.se
-- Hormel Foods Corporation to Participate in Barclays 18th Annual Global Consumer Staples Conference - Placera.se
-- JOHNNIE WALKER SCOTCH WHISKY ANNOUNCES GLOBAL PARTNERSHIP WITH GRAMMY AWARD-WINNING MUSIC ARTIST AND INTERNATIONAL SUPERSTAR SABRINA CARPENTER - Placera.se
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- ORIX Corporation USA Completes Acquisition of Majority Stake in Hilco Global - Placera.se
+- Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
 
 ## Technology
 
@@ -121,44 +121,44 @@ _Updated: 2025-09-03 07:39_
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Olika slutsatser från samma data - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Poddar och webbplatser - Forskning & Framsteg
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- De gick från reko till eko - ST-tidningen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
