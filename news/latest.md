@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-03 11:48_
+_Updated: 2025-09-03 12:48_
 
-- China's Xi projects power at military parade with Putin and Kim - Reuters
-- House Oversight Panel Releases Some Epstein Files as Pressure Mounts - The New York Times
-- Appeals court rejects Trump’s bid to deport Venezuelan immigrants he deems ‘alien enemies’ - Politico
+- China military parade live: Beijing showcases new weapons with Xi flanked by Putin and Kim - Reuters
+- Appeals Court Blocks Trump’s Use of Alien Enemies Act to Deport Venezuelans - The New York Times
+- US House committee releases more than 33,000 pages of Epstein files - BBC
+- Military lawyers called up to relieve a shortfall in immigration judges - NPR
 - How Trump's quiet holiday weekend fueled a viral death hoax - Axios
-- Trump broke the law by sending National Guard to L.A., federal judge rules - CalMatters
-- Trump says 11 killed in US strike on drug-carrying vessel from Venezuela - BBC
-- Trump Plans to Send Texas National Guard, ‘Armed Military Personnel’ to Chicago: Pritzker - WTTW News
-- Trump to move U.S. Space Command headquarters from Colorado to Alabama - The Washington Post
-- Wildfire Destroys Buildings in Gold Rush Town of Chinese Camp - The New York Times
-- Fired Democratic FTC commissioner reinstated by US appeals court - Reuters
-- IDF chief: War ‘will not stop’ until Hamas is defeated; PM says ‘decisive stage’ starting - The Times of Israel
+- What we know about the White House push for federal troops in Chicago – and the pushback from local politicians - CNN
+- US judge blocks Trump from using troops to fight crime in California - Reuters
+- 1 killed, 3 injured in Wyoming mountains plane crash - ABC News
+- Chinese Camp: Quick-moving wildfire scorches historic California gold mining town, burning multiple homes - CNN
+- U.S. kills 11 in strike on alleged drug vessel from Venezuela, Trump says - The Washington Post
 - Kim Jong-un Brings a Guest to Beijing: His Daughter and Potential Heir - The New York Times
 - Belgium to Recognize Palestinian State, Joining Pressure on Israel - The New York Times
-- Death toll climbs to over 1,400 after Afghanistan earthquake, official says - ABC News
-- Stock futures edge higher after Google avoids harsh antitrust penalty: Live updates - CNBC
-- Gen Z slashes holiday budgets ahead of shopping season - NBC News
-- Powerball jackpot data shows where winners could take home the most, and least - CBS News
-- Air Lease to Be Sold to Sumitomo-Led Group for $7.4 Billion - Bloomberg.com
-- The new Dolby Vision 2 HDR standard is probably going to be controversial - Ars Technica
+- Sweeping Russian air attack hits Ukraine as Putin attends China parade - Reuters
+- Israel begins ground operation in Gaza City, IDF says - ABC News
+- Alphabet stock pops 6% in premarket trading after Google avoids break-up in antitrust case - CNBC
+- Global long-dated bond selloff keeps on going as gold hits records - Reuters
+- Family of dead teen say ChatGPT's new parental controls not enough - BBC
+- Gold Holds After Surging to Record on Rate-Cut Bets, Debt Fears - Bloomberg.com
+- Some Pixel 10 owners get September 2025 update - 9to5Google
 - iPhone 17 and iPhone 17 Pro Prices Estimated Ahead of Apple Event Next Week - MacRumors
