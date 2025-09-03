@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-03 05:07_
+_Updated: 2025-09-03 05:44_
 
 ## Top Stories
 
 - Polisen: Två skjutna till döds i Göteborg - SvD
 - Här är Sveriges nya kulturkanon: Strindberg och Pippi Långstrump - SVT Nyheter
-- Nytt stort strömavbrott på Gotland - SvD
-- Xi Jinping samlar världens diktatorer till ”segerdagen” – och göder inhemsk patriotism - DN
+- DN Direkt - Kim och Putin på hedersplats vid militärparad - DN.se - DN
+- Trump: Elva döda i attack mot knarkbåt - GP
 - Var är läkarna i Folkhälsomyndighetens högsta ledning? - Altinget.se
-- Malmö stad utreder att ta emot barn från Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Strömavbrott på hela Gotland efter blixtnedslag - SVT Nyheter
 - Skyfallsliknande regn drar in – fronten böljar fram och tillbaka - DN
 - Ovanlig haj fångad utanför Tjörn - Aftonbladet
+- Var fjärde kommun saknar politiker under 30 år – varför är det ett problem? - SVT Nyheter
 - Jan näst bäst i Sverige på att köra buss - Östersunds-Posten
-- Uppgifter om barn kan ha läckt i cyberattacken - Hudiksvalls Tidning
-- Trump: ”Knarkbåt” från Venezuela attackerad – 11 uppges döda - DN
+- Malmö stad utreder att ta emot barn från Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Dödsoffer i flera självmordsattacker i Pakistan - Västerbottens-Kuriren
 - Utländska turister undviker USA – minskade ankomster i sommar - DN
-- Nytt stort strömavbrott på Gotland - Västerbottens-Kuriren
+- Strömavbrott på Gotland – igen - Expressen
 - Anna-Karin Wyndhamn: Normkritik förklarar inte skolresultaten - GP
-- Klarnas ägare som säljer mest i IPO:n – se hela listan - EFN
-- Avskalat och tekniskt – Audi visar ny design med Concept C - Elbilen
-- Bred nedgång på Stockholmsbörsen - UNT
+- Tuff arbetsmarknad för Scanias varslade - Dagens industri
+- DN Direkt - Misstänkt grovt brott i Göteborg - DN.se - DN
+- Saab etablerar strategiskt samarbete med det polska bolaget WB Group - Saab
 - Gamla Pokémon-kort kan vara guldgruva – ökar i popularitet och pris: ”Lär fortsätter växa” - NLT
 - Battlefield 6 får sina slutgiltiga systemkrav - Nordichardware
 
@@ -103,7 +103,7 @@ _Updated: 2025-09-03 05:07_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Europeisk konferens för socialmedicin: Praktik, teori och handling för en hälsosammare framtid - sls.se
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
@@ -111,54 +111,31 @@ _Updated: 2025-09-03 05:07_
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Lång väg till öppen vetenskap - Universitetsläraren
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-
-## Jordbruk
-
-- Effekten av Conservation Agriculture - Länsstyrelsen
-- Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- USA tvingar ut EU på banan - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
