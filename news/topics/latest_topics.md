@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-03 04:06_
+_Updated: 2025-09-03 05:07_
 
 ## Top Stories
 
-- Två män ihjälskjutna i Lunden - GP
+- Polisen: Två skjutna till döds i Göteborg - SvD
 - Här är Sveriges nya kulturkanon: Strindberg och Pippi Långstrump - SVT Nyheter
-- Trump: Elva döda i attack mot knarkbåt - GP
-- Väljer vem som räddas – efter två timmars sömn - SvD
-- Explosion vid port i Malmö - Aftonbladet
+- Nytt stort strömavbrott på Gotland - SvD
+- Xi Jinping samlar världens diktatorer till ”segerdagen” – och göder inhemsk patriotism - DN
 - Var är läkarna i Folkhälsomyndighetens högsta ledning? - Altinget.se
+- Malmö stad utreder att ta emot barn från Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Skyfallsliknande regn drar in – fronten böljar fram och tillbaka - DN
 - Ovanlig haj fångad utanför Tjörn - Aftonbladet
 - Jan näst bäst i Sverige på att köra buss - Östersunds-Posten
 - Uppgifter om barn kan ha läckt i cyberattacken - Hudiksvalls Tidning
-- Kim och Putin på hedersplats vid militärparad - Västerbottens-Kuriren
-- Dödsoffer i flera självmordsattacker i Pakistan - GP
-- Malmö stad utreder att ta emot barn från Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Terrordömd dansk var spion – vinner unikt mål - DN
-- Klarnas ägare som säljer mest i IPO:n – se hela listan - EFN
+- Trump: ”Knarkbåt” från Venezuela attackerad – 11 uppges döda - DN
+- Dödsoffer i flera självmordsattacker i Pakistan - Västerbottens-Kuriren
+- Utländska turister undviker USA – minskade ankomster i sommar - DN
+- Nytt stort strömavbrott på Gotland - Västerbottens-Kuriren
 - Anna-Karin Wyndhamn: Normkritik förklarar inte skolresultaten - GP
+- Klarnas ägare som säljer mest i IPO:n – se hela listan - EFN
 - Avskalat och tekniskt – Audi visar ny design med Concept C - Elbilen
-- Förskolejätte tar ut miljoner i vinst – drar in på smöret - ETC.se
+- Bred nedgång på Stockholmsbörsen - UNT
 - Gamla Pokémon-kort kan vara guldgruva – ökar i popularitet och pris: ”Lär fortsätter växa” - NLT
 - Battlefield 6 får sina slutgiltiga systemkrav - Nordichardware
 
@@ -39,14 +39,14 @@ _Updated: 2025-09-03 04:06_
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
 - Kinesisk region ny etta på FN:s innovationslista - Omni
-- IDEXX Laboratories to Participate in Morgan Stanley 23rd Annual Global Healthcare Conference - Placera.se
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 - Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
 - Nobel Algarve British International School värd för global olympisk tävling - The Portugal News
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
+- Global klimatstrejk den 3 mars - The Portugal News
 
 ## Technology
 
@@ -62,21 +62,21 @@ _Updated: 2025-09-03 04:06_
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
 - Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
+- Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
 
 ## Business
 
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Publication of the 2025 Half-Year Report - Placera.se
+- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
@@ -92,7 +92,7 @@ _Updated: 2025-09-03 04:06_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- BTQ Technologies Announces 2025 AGM Results - Placera.se
 
 ## Health
 
@@ -121,24 +121,24 @@ _Updated: 2025-09-03 04:06_
 
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Lång väg till öppen vetenskap - Universitetsläraren
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
