@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-03 11:40_
+_Updated: 2025-09-03 12:41_
 
 ## Top Stories
 
 - Två män skjutna till döds i Lunden i Göteborg - GP
-- Lawen Redar (S) om SD-inlägget: ”Man kan inte bli svensk” - SVT Nyheter
-- DN Direkt - Färre studerar utomlands: ”En högre kostnad” - DN.se - DN
-- Jagade sin egen bil på E4 - Expressen
-- Björn af Kleen: Nej, Trump är inte död - DN
-- Äntligen är Lars Trägårdhs kulturkanon-cirkus över - Arbetet
-- DN Direkt - En person allvarligt skadad i villabrand - DN.se - DN
+- Hovrätten lindrar straffet för Nytorgsmannen – döms till fyra års fängelse - SVT Nyheter
+- SD-topp om kulturdebatten: ”En kurd och en perser” - DN
+- Andreas Johansson Heinö om kulturkanon: ”SD har blivit trollade” - Dagens Arena
+- Trump efter dödsryktena: ”Varit väldigt aktiv” - Expressen
+- Xi, Kim och Putin möts för första gången - SVT Nyheter
 - HVB-hem i Göteborg hade dömda anställda - GP
 - Insändare. Staten måste kompensera oss Kirunabor fullt ut - DN
-- Ohyggliga scener efter dödliga hissolyckan: ”Jag grät och grät” - DN
-- Chatt: Xi, Kim och Putin möts – vad undrar du? - SVT Nyheter
+- Fem barn dödade – hämtade vatten i ”säker zon” - Aftonbladet
+- MP-toppen Åsa Lindhagen lämnar Stockholm – interna kritiken - Expressen
 - Zelenskyj och Kristersson på toppmöte i Danmark - Västerbottens-Kuriren
 - Xis show: Kina i centrum för ny världsordning? - GP
+- Toppmöten i skuggan av intensiva attacker över hela Ukraina - DN
 - Malmö stad utreder att ta emot barn från Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Analyschefen om Klarna: Dyr ”högriskaktie” - SvD
+- Forskaren om Scanias varsel: Uppsägningarna kommer aldrig att upphöra - Arbetsvärlden
 - Storbanker oeniga – Nordea tror på höjd styrränta - Tidningen Näringslivet
-- Tuff arbetsmarknad för Scanias varslade - Dagens industri
 - Färre studerar utomlands – 20 procent färre på 25 år - CSN
-- Gamla Pokémon-kort kan vara guldgruva – ökar i popularitet och pris: ”Lär fortsätter växa” - NLT
+- Gamla Pokémon-kort kan vara guldgruva – ökar i pris - Mariestads-Tidningen
 - Nu är det dags för tv-apparater med Dolby Vision 2 - m3.se
 
 ## World News
@@ -32,26 +32,25 @@ _Updated: 2025-09-03 11:40_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Ukraine war latest: Kim Jong Un in Beijing to join Putin and Xi for summit; suspect confesses to killing ex-speaker - Sky News
-- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
-- Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Kinesisk region ny etta på FN:s innovationslista - Omni
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 - ORIX Corporation USA Completes Acquisition of Majority Stake in Hilco Global - Placera.se
 - Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 
 ## Technology
 
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
@@ -62,14 +61,15 @@ _Updated: 2025-09-03 11:40_
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
+- Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
 
 ## Business
 
@@ -100,10 +100,9 @@ _Updated: 2025-09-03 11:40_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Engineering Health 2024 - Chalmers
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
@@ -116,6 +115,7 @@ _Updated: 2025-09-03 11:40_
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -144,21 +144,21 @@ _Updated: 2025-09-03 11:40_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
+- Här är världens största jordbruk - ATL
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - USA tvingar ut EU på banan - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
