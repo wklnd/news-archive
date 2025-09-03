@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-03 23:37_
+_Updated: 2025-09-04 00:39_
 
 ## Top Stories
 
-- DN Direkt - Stegrud svarar på kritiken: ”Spaning om samtiden” - DN.se - DN
-- Flera döda i olycka i Lissabon - UNT
+- Bergbana kraschade i Lissabon – minst 15 döda - DN
+- SD: Har haft ett samtal med Stegrud - GP
+- 113 dödade i Gaza senaste dygnet - Västerbottens-Kuriren
+- Målning som stals av nazisterna hittad i Argentina - DN
+- Anna Sundström: Kulturkanon löser ingen läs- och bildningskris - UNT
 - Dubbelmordet i Lunden: Det här vet vi - SVT Nyheter
 - Polisen Louise kallades för ”hora” – anmälde: ”Det tär” - DN
-- En till sjukhus när strömkablar föll ned - Västerbottens-Kuriren
-- Nödhjälp från luften stoppad över Gaza - GP
-- Anna Sundström: Kulturkanon löser ingen läs- och bildningskris - UNT
-- Allt fler unga pressas på pengar för nakenbilder - polisen.se
-- Soporna ger klirr i kassan – så mycket får hushållen tillbaka i november - Skånska Dagbladet
 - Väska med känsliga handlingar återfunnen - Aftonbladet
+- Soporna ger klirr i kassan – så mycket får hushållen tillbaka i november - Skånska Dagbladet
+- Tolv nya växtarter på konstgjorda ön i Öresund - Aftonbladet
 - Hon spås bli Nordkoreas nästa diktator – Pekingbesöket spär på spekulationerna - DN
-- Michael Winiarski: Polens president vänder grannländerna ryggen - DN
-- Målning som stals av nazisterna hittad i Argentina - DN
 - Kim, Putin och Xi jämsides inför Kinas nya vapen - GP
+- Misstänkt mördare dök upp som klädmodell hos nätjätte - DN
+- Minst 900 döda i jordbävning i Afghanistan - Hufvudstadsbladet
 - Franska miljardböter mot Google och Shein - SvD
 - Ryanair-anställda ska få mer betalt för att sätta dit resenärer - Sydsvenskan
-- Brakförlust för Polestar: 7 miljarder i nedskrivning för modell 3 - Nyteknik
 - 37-åringen blev kallad dinosaurie – sa upp sig - SvD
+- Brakförlust för Polestar: 7 miljarder i nedskrivning för modell 3 - Nyteknik
 - Gamla Pokémon-kort kan vara guldgruva – ökar i pris - Mariestads-Tidningen
 - Recension: "Cronos: The New Dawn" är årets bästa skräckspel - MovieZine
 
@@ -31,7 +31,7 @@ _Updated: 2025-09-03 23:37_
 - Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- APsystems Named Most Bankable Inverter Company Worldwide by Sinovoltaics - Placera.se
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -39,14 +39,14 @@ _Updated: 2025-09-03 23:37_
 - World Athletics introduces gene test for female category - BBC
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Kinesisk region ny etta på FN:s innovationslista - Omni
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 - Roblox Partners With IARC to Enhance Global Age and Content Ratings - Placera.se
 - Liberty Global Schedules Investor Call for Third Quarter 2025 Results - Placera.se
 - ORIX Corporation USA Completes Acquisition of Majority Stake in Hilco Global - Placera.se
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 
 ## Technology
 
@@ -103,49 +103,48 @@ _Updated: 2025-09-03 23:37_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Osher centrum för integrativ hälsa - Karolinska Institutet
-- Engineering Health 2024 - Chalmers
-- Fakulteten för hälsa och samhälle - Malmö universitet
+- Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Vetenskap, skratt och naturupplevelser – när postdoktorer möts i Kronlund - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
@@ -155,6 +154,7 @@ _Updated: 2025-09-03 23:37_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
