@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-03 12:48_
+_Updated: 2025-09-03 13:48_
 
-- China military parade live: Beijing showcases new weapons with Xi flanked by Putin and Kim - Reuters
+- China military parade sees Xi Jinping joined by Putin and Kim Jong Un for huge display of anti-U.S. unity - CBS News
 - Appeals Court Blocks Trump’s Use of Alien Enemies Act to Deport Venezuelans - The New York Times
 - US House committee releases more than 33,000 pages of Epstein files - BBC
-- Military lawyers called up to relieve a shortfall in immigration judges - NPR
 - How Trump's quiet holiday weekend fueled a viral death hoax - Axios
-- What we know about the White House push for federal troops in Chicago – and the pushback from local politicians - CNN
-- US judge blocks Trump from using troops to fight crime in California - Reuters
-- 1 killed, 3 injured in Wyoming mountains plane crash - ABC News
-- Chinese Camp: Quick-moving wildfire scorches historic California gold mining town, burning multiple homes - CNN
-- U.S. kills 11 in strike on alleged drug vessel from Venezuela, Trump says - The Washington Post
+- Trump says China conspiring against US with Putin, Kim meeting at military parade - ABC News
 - Kim Jong-un Brings a Guest to Beijing: His Daughter and Potential Heir - The New York Times
+- D.C. grand jurors reject latest wave of Justice Dept. indictment requests - CBS News
+- 1 killed, 3 injured in Wyoming mountains plane crash - ABC News
+- U.S. kills 11 in strike on alleged drug vessel from Venezuela, Trump says - The Washington Post
+- ‘Exmo’ Influencers Mount a TikTok War Against the Mormon Church - MSN
 - Belgium to Recognize Palestinian State, Joining Pressure on Israel - The New York Times
-- Sweeping Russian air attack hits Ukraine as Putin attends China parade - Reuters
-- Israel begins ground operation in Gaza City, IDF says - ABC News
-- Alphabet stock pops 6% in premarket trading after Google avoids break-up in antitrust case - CNBC
-- Global long-dated bond selloff keeps on going as gold hits records - Reuters
+- Death toll climbs to over 1,400 after Afghanistan earthquake, official says - ABC News
+- Five children in Gaza among those killed by Israeli strike while fetching water - The Guardian
+- Rubio Flies to Mexico for Security Talks Amid Trump Pressure Campaign - The New York Times
+- 30-year Treasury yield tops 5% briefly as traders deal with tariff uncertainty, Fed independence threat - CNBC
 - Family of dead teen say ChatGPT's new parental controls not enough - BBC
-- Gold Holds After Surging to Record on Rate-Cut Bets, Debt Fears - Bloomberg.com
-- Some Pixel 10 owners get September 2025 update - 9to5Google
+- Macy's easily beats earnings estimates, raises full-year guidance - CNBC
+- Wedbush Analyst Daniel Ives Hails Court Ruling as a ‘Massive Win’ for Google and Apple Stocks - TipRanks
 - iPhone 17 and iPhone 17 Pro Prices Estimated Ahead of Apple Event Next Week - MacRumors
+- Some Pixel 10 owners get September 2025 update - 9to5Google
