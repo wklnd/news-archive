@@ -1,68 +1,68 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-03 01:38_
+_Updated: 2025-09-03 04:06_
 
 ## Top Stories
 
-- Polisen bekräftar: Dubbelmord i Lunden – sköts till döds i en bil - SVT Nyheter
-- DN Direkt - Almega granskar förskolekoncerner efter avslöjande - DN.se - DN
+- Två män ihjälskjutna i Lunden - GP
 - Här är Sveriges nya kulturkanon: Strindberg och Pippi Långstrump - SVT Nyheter
+- Trump: Elva döda i attack mot knarkbåt - GP
 - Väljer vem som räddas – efter två timmars sömn - SvD
-- Trump: ”Knarkbåt” från Venezuela attackerad - GP
-- En svårt skadad efter villabrand i Motala - Aftonbladet
+- Explosion vid port i Malmö - Aftonbladet
+- Var är läkarna i Folkhälsomyndighetens högsta ledning? - Altinget.se
 - Skyfallsliknande regn drar in – fronten böljar fram och tillbaka - DN
-- Trump efter dödsryktena: ”Varit väldigt aktiv” - Expressen
 - Ovanlig haj fångad utanför Tjörn - Aftonbladet
-- Sveriges handelsflotta för liten – måste dubblas - DN
-- Terrordömd dansk var spion – vinner unikt mål - GP
-- Xi Jinping samlar världens diktatorer till ”segerdagen” – och göder inhemsk patriotism - DN
-- Flera skadade i knivattack i Marseille - UNT
+- Jan näst bäst i Sverige på att köra buss - Östersunds-Posten
+- Uppgifter om barn kan ha läckt i cyberattacken - Hudiksvalls Tidning
+- Kim och Putin på hedersplats vid militärparad - Västerbottens-Kuriren
+- Dödsoffer i flera självmordsattacker i Pakistan - GP
 - Malmö stad utreder att ta emot barn från Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Terrordömd dansk var spion – vinner unikt mål - DN
 - Klarnas ägare som säljer mest i IPO:n – se hela listan - EFN
-- Skolverket: Elever med svensk bakgrund presterar sämre - Aktuellt i Politiken
+- Anna-Karin Wyndhamn: Normkritik förklarar inte skolresultaten - GP
+- Avskalat och tekniskt – Audi visar ny design med Concept C - Elbilen
 - Förskolejätte tar ut miljoner i vinst – drar in på smöret - ETC.se
-- Risk att kompetens och invånare lämnar kommunen efter nedläggningen av bruket - LindeNytt.com – Senaste nytt från Lindesberg
 - Gamla Pokémon-kort kan vara guldgruva – ökar i popularitet och pris: ”Lär fortsätter växa” - NLT
-- Nu är det dags för tv-apparater med Dolby Vision 2 - m3.se
+- Battlefield 6 får sina slutgiltiga systemkrav - Nordichardware
 
 ## World News
 
-- Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
-- APsystems Named Most Bankable Inverter Company Worldwide by Sinovoltaics - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Ukraine war latest: Putin responds to claims Moscow is planning to attack Europe - Sky News
-- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- ORIX Corporation USA Completes Acquisition of Majority Stake in Hilco Global - Placera.se
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - World Athletics introduces gene test for female category - BBC
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Kinesisk region ny etta på FN:s innovationslista - Omni
+- IDEXX Laboratories to Participate in Morgan Stanley 23rd Annual Global Healthcare Conference - Placera.se
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- IDEXX Laboratories to Participate in Morgan Stanley 23rd Annual Global Healthcare Conference - Placera.se
 - Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Nobel Algarve British International School värd för global olympisk tävling - The Portugal News
+- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
 
 ## Technology
 
-- Qualcomm’s Board of Directors Appoints Jeremy (Zico) Kolter to Board - Placera.se
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
-- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
@@ -145,20 +145,20 @@ _Updated: 2025-09-03 01:38_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- USA tvingar ut EU på banan - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Lantbruket i Polen lyfte med EU - Jordbruksaktuellt
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
