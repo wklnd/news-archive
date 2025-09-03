@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-03 10:46_
+_Updated: 2025-09-03 11:40_
 
 ## Top Stories
 
-- Lawen Redar (S) om SD-inlägget: ”Man kan inte bli svensk” - SVT Nyheter
 - Två män skjutna till döds i Lunden i Göteborg - GP
+- Lawen Redar (S) om SD-inlägget: ”Man kan inte bli svensk” - SVT Nyheter
+- DN Direkt - Färre studerar utomlands: ”En högre kostnad” - DN.se - DN
+- Jagade sin egen bil på E4 - Expressen
+- Björn af Kleen: Nej, Trump är inte död - DN
 - Äntligen är Lars Trägårdhs kulturkanon-cirkus över - Arbetet
-- Misstänkt mordbrand i flerfamiljshus - Aftonbladet
-- Höjt bostadsbidrag för ekonomiskt utsatta barnfamiljer med höga boendekostnader - Regeringen.se
-- Kim, Putin och Xi jämsides inför Kinas nya vapen - Västerbottens-Kuriren
+- DN Direkt - En person allvarligt skadad i villabrand - DN.se - DN
 - HVB-hem i Göteborg hade dömda anställda - GP
 - Insändare. Staten måste kompensera oss Kirunabor fullt ut - DN
 - Ohyggliga scener efter dödliga hissolyckan: ”Jag grät och grät” - DN
-- Här erkänner 15-åringen: ”Min epa går inte 30” - SVT Nyheter
-- Björn af Kleen: Nej, Trump är inte död - DN
-- Trump: Elva döda i attack mot knarkbåt i Karibisk havet - GP
-- Zelenskyj: Med på viktigt möte i Danmark - Hallands Nyheter
-- Xis show: Kina i centrum för ny världsordning? - Västerbottens-Kuriren
+- Chatt: Xi, Kim och Putin möts – vad undrar du? - SVT Nyheter
+- Zelenskyj och Kristersson på toppmöte i Danmark - Västerbottens-Kuriren
+- Xis show: Kina i centrum för ny världsordning? - GP
+- Malmö stad utreder att ta emot barn från Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Analyschefen om Klarna: Dyr ”högriskaktie” - SvD
-- Storbanker oeniga – Nordea tror på höjd styrränta - Aftonbladet
+- Storbanker oeniga – Nordea tror på höjd styrränta - Tidningen Näringslivet
 - Tuff arbetsmarknad för Scanias varslade - Dagens industri
-- Globalfonder har skiftat form – ”ökad fallhöjd” - SvD
+- Färre studerar utomlands – 20 procent färre på 25 år - CSN
 - Gamla Pokémon-kort kan vara guldgruva – ökar i popularitet och pris: ”Lär fortsätter växa” - NLT
 - Nu är det dags för tv-apparater med Dolby Vision 2 - m3.se
 
@@ -35,18 +35,18 @@ _Updated: 2025-09-03 10:46_
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
+- Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Kinesisk region ny etta på FN:s innovationslista - Omni
-- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 - ORIX Corporation USA Completes Acquisition of Majority Stake in Hilco Global - Placera.se
 - Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 
 ## Technology
 
@@ -100,9 +100,10 @@ _Updated: 2025-09-03 10:46_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Engineering Health 2024 - Chalmers
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
@@ -115,7 +116,6 @@ _Updated: 2025-09-03 10:46_
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -129,6 +129,7 @@ _Updated: 2025-09-03 10:46_
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
@@ -138,27 +139,26 @@ _Updated: 2025-09-03 10:46_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- De gick från reko till eko - ST-tidningen
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- USA tvingar ut EU på banan - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
