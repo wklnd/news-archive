@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-03 21:48_
+_Updated: 2025-09-03 22:48_
 
-- Epstein files push hits a ‘boiling point’ in Congress as Trump dismisses it as a hoax - CNN
-- Hegseth warns "narco-terrorists will face the same fate" after U.S. military strikes boat off Venezuela - CBS News
-- Florida plans to end all state vaccine mandates, including for schools - Reuters
-- China’s military parade reveals new hypersonic missiles, drone submarines and ICBMs - AP News
-- Snubbing Kennedy, States Announce Plans to Coordinate on Vaccines - The New York Times
+- 'This is not a hoax': Epstein survivors speak out demanding files be released - ABC News
+- Florida Moves to End Vaccine Mandates for Schoolchildren - The New York Times
+- Oregon, Washington, California form health care alliance to protect vaccine access - Oregon Public Broadcasting - OPB
 - Trump floats federal troops to New Orleans, not Chicago - Politico
+- China parade: What new weapons on show say about Beijing's military strength - BBC
+- More than 1,000 health workers urge Kennedy to quit over anti-vax policies - The Guardian
 - Nadler’s retirement reignites debate over advanced age of many in Congress - Politico
-- Wildfire near Yosemite National Park tears through historic Gold Rush town - SFGATE
-- More than 1,000 current, former HHS employees sign letter calling on RFK Jr. to resign - ABC News
+- Wildfire scorches historic California gold mining town, burning multiple homes - AP News
 - Democrats confront limited options to block GOP's spreading redistricting efforts - NBC News
+- Trump officials defend lethal strike on alleged Venezuelan drug boat - The Washington Post
+- Putin tells Ukraine: End war via talks or I will end it by force - Reuters
 - Putin tells Xi organ transplants could offer immortality - Financial Times
 - UAE warns Israel: Annexing West Bank is a ‘red line’ that would ‘end regional integration’ - The Times of Israel
-- Putin tells Ukraine: End war via talks or I will end it by force - Reuters
-- Controversy over TV writer Graham Linehan's arrest for anti-transgender posts sees police appeal for clarity - CBS News
+- Rubio says US and Mexico will strengthen security collaboration - AP News
 - In a brawl over right-wing TV, Newsmax sues Fox News - NPR
-- Safe-haven gold rally gains further momentum after soft US data - Reuters
-- S&P 500 gains, boosted by Big Tech and Alphabet: Live updates - CNBC
-- Trump-backed crypto firm American Bitcoin notches $5 billion valuation in Nasdaq debut - Fortune
+- Trump’s Attack on the Fed Fires Up Gold Bulls Betting on Crisis - Bloomberg.com
+- U.S. Oil Giant ConocoPhillips Will Lay Off Up to 25% of Its Work Force - The New York Times
+- Exclusive | Trump Brothers-Backed Bitcoin Mining Company Surges After Nasdaq Listing - The Wall Street Journal
 - The first new Bond game in over a decade is Hitman meets action blockbuster - Engadget
-- More Pixel phones are getting Google’s new look for Android - The Verge
+- Remarkable’s new digital notepad is smaller than a paperback - The Verge
