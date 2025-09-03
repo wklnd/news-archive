@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-03 21:37_
+_Updated: 2025-09-03 22:40_
 
 ## Top Stories
 
-- Tre döda i Lissabon – bergsbana spårade ur - GP
-- Ministrar rasar mot SD-toppens inlägg - Altinget.se
+- DN Direkt - Stegrud svarar på kritiken: ”Spaning om samtiden” - DN.se - DN
+- Minst 15 döda när bergbana kraschade i Lissabon - UNT
 - Uppdrag till Folkhälsomyndigheten om medicinsk kompetens - Regeringen.se
+- Dubbelmord kopplas till gängkonflikt - Västerbottens-Kuriren
 - I Moskva ses paraden i Peking som en seger för Putin - DN
+- Nödhjälp från luften stoppad över Gaza - Västerbottens-Kuriren
 - Polisen Louise kallades för ”hora” – anmälde: ”Det tär” - DN
-- Insändare. Noterat av DN:s läsare den 3 september - DN
 - Allt fler unga pressas på pengar för nakenbilder - polisen.se
-- Dubbelmordet i Lunden: Det här vet vi - SVT Nyheter
+- Här är Sveriges nya kulturkanon: Strindberg och Pippi Långstrump - SVT Nyheter
 - Soporna ger klirr i kassan – så mycket får hushållen tillbaka i november - Skånska Dagbladet
-- Väska med känsliga handlingar återfunnen - Aftonbladet
 - Hon spås bli Nordkoreas nästa diktator – Pekingbesöket spär på spekulationerna - DN
-- Nödhjälp från luften stoppad över Gaza - GP
-- Zelenskyj har bett Trump öka pressen på Putin - DN
-- Michael Winiarski: Polens president vänder grannländerna ryggen - DN
+- Nytt samtal mellan Zelenskyj och Trump i morgon - Västerbottens-Kuriren
+- Venezuela: USA använde AI för att skapa video på sprängd ”knarkbåt” - DN
+- Toppmöten i skuggan av intensiva attacker över hela Ukraina - DN
 - Trafikverkets granskning av delprojekt i Västlänken visar på allvarliga brister hos entreprenören - Järnvägar.nu
 - Ryanair-anställda ska få mer betalt för att sätta dit resenärer - Sydsvenskan
-- Experter: Kronans offensiv fortsätter i höst - DN
-- Medlingsinstitutet ger upp i Teslakonflikten - Dagens Arbete
+- Polestar rasar tvåsiffrigt efter miljardförlust - Dagens industri
+- 37-åringen blev kallad dinosaurie – sa upp sig - SvD
 - Gamla Pokémon-kort kan vara guldgruva – ökar i pris - Mariestads-Tidningen
-- Hollow Knight: Silksong – alla detaljer inför spelsläppet - Aftonbladet
+- Recension: "Cronos: The New Dawn" är årets bästa skräckspel - MovieZine
 
 ## World News
 
@@ -39,14 +39,14 @@ _Updated: 2025-09-03 21:37_
 - World Athletics introduces gene test for female category - BBC
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Kinesisk region ny etta på FN:s innovationslista - Omni
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 - Roblox Partners With IARC to Enhance Global Age and Content Ratings - Placera.se
+- Liberty Global Schedules Investor Call for Third Quarter 2025 Results - Placera.se
 - ORIX Corporation USA Completes Acquisition of Majority Stake in Hilco Global - Placera.se
-- Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 
 ## Technology
 
@@ -56,20 +56,20 @@ _Updated: 2025-09-03 21:37_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
-- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- ZenaTech Signs Agreements to Acquire Two Florida Companies, Expanding Drone as a Service Footprint into Aviation, Defense, and Power Washing - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- WiMi Explores Quantum Algorithms for Large-Scale Machine Learning Models - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
-- Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
-- Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
 
 ## Business
 
@@ -151,14 +151,14 @@ _Updated: 2025-09-03 21:37_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
 - Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
+- Här är världens största jordbruk - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
