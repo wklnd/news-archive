@@ -1,19 +1,19 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-04 00:39_
+_Updated: 2025-09-04 01:37_
 
 ## Top Stories
 
-- Bergbana kraschade i Lissabon – minst 15 döda - DN
-- SD: Har haft ett samtal med Stegrud - GP
+- DN Direkt - Stegrud svarar på kritiken: ”Spaning om samtiden” - DN.se - DN
+- Tre döda i Lissabon – bergsbana spårade ur - GP
 - 113 dödade i Gaza senaste dygnet - Västerbottens-Kuriren
 - Målning som stals av nazisterna hittad i Argentina - DN
+- Nära 30 döda i båtolycka i Nigeria - GP
 - Anna Sundström: Kulturkanon löser ingen läs- och bildningskris - UNT
-- Dubbelmordet i Lunden: Det här vet vi - SVT Nyheter
-- Polisen Louise kallades för ”hora” – anmälde: ”Det tär” - DN
+- Två män skjutna till döds i Lunden i Göteborg - GP
+- Internationella suicidpreventiva dagen den 10 september - Region Blekinge
 - Väska med känsliga handlingar återfunnen - Aftonbladet
-- Soporna ger klirr i kassan – så mycket får hushållen tillbaka i november - Skånska Dagbladet
-- Tolv nya växtarter på konstgjorda ön i Öresund - Aftonbladet
+- En till sjukhus när strömkablar föll ned - Aftonbladet
 - Hon spås bli Nordkoreas nästa diktator – Pekingbesöket spär på spekulationerna - DN
 - Kim, Putin och Xi jämsides inför Kinas nya vapen - GP
 - Misstänkt mördare dök upp som klädmodell hos nätjätte - DN
@@ -23,7 +23,7 @@ _Updated: 2025-09-04 00:39_
 - 37-åringen blev kallad dinosaurie – sa upp sig - SvD
 - Brakförlust för Polestar: 7 miljarder i nedskrivning för modell 3 - Nyteknik
 - Gamla Pokémon-kort kan vara guldgruva – ökar i pris - Mariestads-Tidningen
-- Recension: "Cronos: The New Dawn" är årets bästa skräckspel - MovieZine
+- Hollow Knight: Silksong – alla detaljer inför spelsläppet - Aftonbladet
 
 ## World News
 
@@ -51,7 +51,7 @@ _Updated: 2025-09-04 00:39_
 ## Technology
 
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
+- 290 million for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
@@ -68,31 +68,31 @@ _Updated: 2025-09-04 00:39_
 - Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
 - Change in Aiforia Technologies Plc’s Management Team - Placera.se
-- Data 2025 outlook: AI drives a renaissance of data - SiliconANGLE
 - Lösningar för artificiell intelligens (AI) - SAS: Data and AI Solutions
+- Data 2025 outlook: AI drives a renaissance of data - SiliconANGLE
 
 ## Business
 
+- Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Publication of the 2025 Half-Year Report - Placera.se
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
-- Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
 
 ## Health
 
@@ -119,26 +119,26 @@ _Updated: 2025-09-04 00:39_
 
 ## Science
 
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Vetenskap, skratt och naturupplevelser – när postdoktorer möts i Kronlund - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Poddar och webbplatser - Forskning & Framsteg
 
 ## Jordbruk
 
