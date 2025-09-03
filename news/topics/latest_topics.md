@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-03 19:39_
+_Updated: 2025-09-03 20:44_
 
 ## Top Stories
 
-- LEDARE: I SD:s Sverige kan invandrare fortfarande inte bli svenskar - DN
+- Tre döda efter urspårad bergsbana Elevador da Glória i Lissabon - GP
+- SD-toppens kanonutspel väcker ilska: ”Dags att Kristersson vågar markera” - DN
 - Uppdrag till Folkhälsomyndigheten om medicinsk kompetens - Regeringen.se
-- Hon spås bli Nordkoreas nästa diktator – Pekingbesöket spär på spekulationerna - DN
-- Insändare: Varför saknas IFK Norrköping i kulturkanon? - NT
-- Grovt våldsbrott i samband med trafikolycka - Expressen
-- Kim, Putin och Xi jämsides inför Kinas nya vapen - GP
-- Hovrätten lindrar straffet för Nytorgsmannen – döms till fyra års fängelse - SVT Nyheter
-- Två män ihjälskjutna i Lunden, Göteborg – misstänkt dubbelmord - GP
+- I Moskva ses paraden i Peking som en seger för Putin - DN
+- Anna Sundström: Kulturkanon löser ingen läs- och bildningskris - UNT
+- Uppgift: Kan vara hämnd efter mordet på C Gambino - Omni
+- Allt fler unga pressas på pengar för nakenbilder - polisen.se
+- Nadia Jebril: Jag tar en mosbricka för att motverka gatuköksdöden - DN
 - Uppdrag till Folkhälsomyndigheten att ta fram en vägledning för genomförande av hälsokontroll och uppföljande smittskyddsåtgärder vid inresa till Sverige - Regeringen.se
 - En avliden efter frontalkrock mellan lastbil och personbil - SVT Nyheter
+- Hon spås bli Nordkoreas nästa diktator – Pekingbesöket spär på spekulationerna - DN
 - Nytt samtal mellan Zelenskyj och Trump i morgon - GP
-- Zelenskyj och Kristersson på toppmöte i Danmark - Västerbottens-Kuriren
 - Toppmöten i skuggan av intensiva attacker över hela Ukraina - DN
 - Venezuela: USA använde AI för att skapa video på sprängd ”knarkbåt” - DN
 - Storbanker oeniga – Nordea tror på höjd styrränta - Tidningen Näringslivet
-- Analyschefen om Klarna: Dyr ”högriskaktie” - SvD
 - Polestar rasar tvåsiffrigt efter miljardförlust - Dagens industri
+- Trafikverkets granskning av delprojekt i Västlänken visar på allvarliga brister hos entreprenören - Järnvägar.nu
 - Medlingsinstitutet ger upp i Teslakonflikten - Dagens Arbete
 - Gamla Pokémon-kort kan vara guldgruva – ökar i pris - Mariestads-Tidningen
 - Hollow Knight: Silksong – alla detaljer inför spelsläppet - Aftonbladet
@@ -40,18 +40,18 @@ _Updated: 2025-09-03 19:39_
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Kinesisk region ny etta på FN:s innovationslista - Omni
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
-- Den hetaste nya trenden inom global utbildning - The Portugal News
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 - Roblox Partners With IARC to Enhance Global Age and Content Ratings - Placera.se
 - ORIX Corporation USA Completes Acquisition of Majority Stake in Hilco Global - Placera.se
-- Nobel Algarve British International School värd för global olympisk tävling - The Portugal News
+- Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
 
 ## Technology
 
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
+- 290 million for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
