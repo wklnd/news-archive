@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-03 22:48_
+_Updated: 2025-09-03 23:47_
 
-- 'This is not a hoax': Epstein survivors speak out demanding files be released - ABC News
-- Florida Moves to End Vaccine Mandates for Schoolchildren - The New York Times
+- Harvard Secures a Court Victory in Its Fight With Trump - The New York Times
+- Florida moves to end all school vaccine mandates, first in nation to do so - The Washington Post
+- Epstein files push hits a ‘boiling point’ in Congress as Trump dismisses it as a hoax - CNN
 - Oregon, Washington, California form health care alliance to protect vaccine access - Oregon Public Broadcasting - OPB
-- Trump floats federal troops to New Orleans, not Chicago - Politico
-- China parade: What new weapons on show say about Beijing's military strength - BBC
-- More than 1,000 health workers urge Kennedy to quit over anti-vax policies - The Guardian
-- Nadler’s retirement reignites debate over advanced age of many in Congress - Politico
-- Wildfire scorches historic California gold mining town, burning multiple homes - AP News
-- Democrats confront limited options to block GOP's spreading redistricting efforts - NBC News
-- Trump officials defend lethal strike on alleged Venezuelan drug boat - The Washington Post
-- Putin tells Ukraine: End war via talks or I will end it by force - Reuters
-- Putin tells Xi organ transplants could offer immortality - Financial Times
+- President Trump floats deploying National Guard troops to New Orleans - NPR
+- China’s military parade reveals new hypersonic missiles, drone submarines and ICBMs - AP News
+- More than 1,000 current, former HHS employees sign letter calling on RFK Jr. to resign - ABC News
+- A Kennedy, a Protégé and a Progressive Star Eye Nadler’s N.Y. House Seat - The New York Times
+- Trump’s redistricting war spreads to Missouri and Maryland - Politico
+- Trump administration says more operations against cartels coming - Reuters
+- Landmark streetcar in Lisbon derails, killing 15 people - ABC News
+- US military to continue targeting vessels belonging to alleged Venezuelan drug cartels, Rubio warns – live - The Guardian
 - UAE warns Israel: Annexing West Bank is a ‘red line’ that would ‘end regional integration’ - The Times of Israel
-- Rubio says US and Mexico will strengthen security collaboration - AP News
-- In a brawl over right-wing TV, Newsmax sues Fox News - NPR
+- Putin tells Ukraine: End war via talks or I will end it by force - Reuters
+- Conservative news network Newsmax files antitrust lawsuit against Fox News - AP News
 - Trump’s Attack on the Fed Fires Up Gold Bulls Betting on Crisis - Bloomberg.com
-- U.S. Oil Giant ConocoPhillips Will Lay Off Up to 25% of Its Work Force - The New York Times
-- Exclusive | Trump Brothers-Backed Bitcoin Mining Company Surges After Nasdaq Listing - The Wall Street Journal
+- How Trump’s latest crypto launch enriches his family - NPR
+- Exclusive: ConocoPhillips says it will cut workforce by 20-25%, shares fall - Reuters
 - The first new Bond game in over a decade is Hitman meets action blockbuster - Engadget
-- Remarkable’s new digital notepad is smaller than a paperback - The Verge
+- PS5 Digital Edition Reportedly Getting Surprise Downgrade in Europe - GameSpot
