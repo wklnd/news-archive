@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-03 20:50_
+_Updated: 2025-09-03 21:48_
 
-- 'This is not a hoax': Epstein survivors speak out demanding files be released - ABC News
+- Epstein files push hits a ‘boiling point’ in Congress as Trump dismisses it as a hoax - CNN
+- Hegseth warns "narco-terrorists will face the same fate" after U.S. military strikes boat off Venezuela - CBS News
+- Florida plans to end all state vaccine mandates, including for schools - Reuters
 - China’s military parade reveals new hypersonic missiles, drone submarines and ICBMs - AP News
-- Florida to end vaccine mandates for children as state’s surgeon general likens them to ‘slavery’ - The Guardian
 - Snubbing Kennedy, States Announce Plans to Coordinate on Vaccines - The New York Times
-- Texas National Guard preps for Chicago deployment as President Trump positions feds in north suburbs, Governor JB Pritzker says - ABC7 Chicago
-- More than 1,000 HHS workers demand RFK Jr.'s resignation in new letter - Axios
-- Wildfire scorches historic California gold mining town, burning multiple homes - AP News
+- Trump floats federal troops to New Orleans, not Chicago - Politico
 - Nadler’s retirement reignites debate over advanced age of many in Congress - Politico
-- Trump appeals ruling that National Guard deployment to LA broke the law - CNBC
+- Wildfire near Yosemite National Park tears through historic Gold Rush town - SFGATE
+- More than 1,000 current, former HHS employees sign letter calling on RFK Jr. to resign - ABC News
 - Democrats confront limited options to block GOP's spreading redistricting efforts - NBC News
-- TV writer Graham Linehan's arrest over posts on X sparks debate over free speech and its limits - AP News
-- North Korea: Kim Jong-un’s daughter makes international debut fuelling succession speculation - The Guardian
 - Putin tells Xi organ transplants could offer immortality - Financial Times
-- Lawmakers push for release of more Epstein files. And, Trump family launches crypto - NPR
-- Newsmax sues Fox News for allegedly abusing monopoly power - CNBC
-- Column | A $1.3 billion Powerball win sounds life-changing. Here’s the catch. - The Washington Post
-- From Tokyo to London, bond investor fears over fiscal discipline leave markets on edge - Reuters
-- Trump-backed bitcoin company begins trading on Nasdaq - AP News
-- Remarkable’s new digital notepad is smaller than a paperback - The Verge
-- Instagram Unveils iPad App for First Time, Focused on Reels - Bloomberg.com
+- UAE warns Israel: Annexing West Bank is a ‘red line’ that would ‘end regional integration’ - The Times of Israel
+- Putin tells Ukraine: End war via talks or I will end it by force - Reuters
+- Controversy over TV writer Graham Linehan's arrest for anti-transgender posts sees police appeal for clarity - CBS News
+- In a brawl over right-wing TV, Newsmax sues Fox News - NPR
+- Safe-haven gold rally gains further momentum after soft US data - Reuters
+- S&P 500 gains, boosted by Big Tech and Alphabet: Live updates - CNBC
+- Trump-backed crypto firm American Bitcoin notches $5 billion valuation in Nasdaq debut - Fortune
+- The first new Bond game in over a decade is Hitman meets action blockbuster - Engadget
+- More Pixel phones are getting Google’s new look for Android - The Verge
