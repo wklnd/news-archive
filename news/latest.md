@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-04 23:48_
+_Updated: 2025-09-05 00:48_
 
 - Senators from both parties grilled RFK Jr. on vaccines and more - NPR
-- White House to defend its drug boat strike to Congress - Politico
+- Trump says the U.S. military destroyed a boat operated by Tren de Aragua off Venezuela. Here's what to know about the gang. - CBS News
+- Medical groups call on US Health Secretary Kennedy to step down - Reuters
 - Northwestern University president steps down following federal funding freeze - CNN
+- Trump asks Supreme Court to let him fire FTC Commissioner Rebecca Slaughter - CNBC
 - Court Smacks Down Trump’s Roving Military Police Force - Above the Law
-- On Epstein Files, Women Lead the G.O.P. Resistance to Trump - The New York Times
-- "Calvinball": Judges give rare public rebuke of Supreme Court - Axios
-- D.C. Sues Trump Administration Over Deployment of National Guard - The New York Times
-- Deadly Eaton fire ignited by Southern California Edison, feds allege in lawsuit - Los Angeles Times
-- House Republicans launch bill to extend health subsidies past midterms - Politico
-- Scott breaks with DeSantis on Florida's vaccine rollback - Axios
+- DC lawsuit challenges Trump’s National Guard deployment as a forced ‘military occupation’ - AP News
+- Who is Joseph Ladapo, the Florida health official who opposes vaccine mandates? - BBC
+- Harvard Won Its Money Back, but Will It Actually Get It? - The New York Times
+- Judge rules White House ‘pocket rescission’ gambit is illegal - Politico
 - ‘Someone needs to answer for what happened’: Lisbon reacts to streetcar crash that killed 16 - The Guardian
-- Macron says 26 countries pledge troops as a reassurance force for Ukraine after fighting ends - AP News
+- Chinese Military Parade Highlights Naval Drones And Missiles - navalnews.com
 - After Afghanistan Earthquake, Women Tell of Being Shunned by Male Rescuers - The New York Times
-- North Korean leader Kim Jong Un meets with Chinese leader Xi Jinping - NPR
+- Macron says Trump to outline Ukraine security guarantees in days - Financial Times
+- Powerball jackpot jumps to $1.7 billion, third-highest ever - Los Angeles Times
 - Stock Market Today: Stocks Rise; Miran Would Consider Keeping White House Job While at Fed - The Wall Street Journal
+- S&P 500 registers record-high close as data keeps rate cut views intact - Reuters
 - The antitrust fight against Big Tech may already be over - The Verge
-- Live updates: DOJ probes mortgage fraud claims against Federal Reserve governor, AP source says - AP News
-- First they came for Netflix passwords. Now, some free Amazon deliveries are ending - Los Angeles Times
 - ‘Hollow Knight: Silksong’ Is Already Causing Online Gaming Stores to Crash - WIRED
 - IFA 2025: the biggest tech and gadget announcements - The Verge
