@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-04 13:48_
+_Updated: 2025-09-04 15:06_
 
-- Trump asks Supreme Court to reverse tariffs ruling finding them illegal - NPR
+- Trump officials ask Supreme Court to quickly allow sweeping tariffs - The Washington Post
+- Trump says US strike targeting Venezuelan gang will cause cartels to think twice - AP News
 - RFK Jr. to face questions about chaos at the CDC - NPR
-- Judge Hands Victory to Harvard in Funding Lawsuit, Ruling Trump Administration’s Freeze Unconstitutional - The Harvard Crimson
-- Trump ordered strike on suspected drug boat to send a message, Rubio says - The Washington Post
-- 'Out of control': Witnesses describe fatal Lisbon funicular crash - BBC
-- Residents of Chicago’s most violent block don’t want Trump to send the National Guard - WBEZ Chicago
-- Florida plans to become first state to ban all vaccine requirements - BBC
-- DHS opens new immigration detention facility inside Louisiana's Angola prison - CBS News
-- These 3 states are teaming up to counter the CDC's vaccine recommendations - Axios
+- After Deadly Lisbon Funicular Crash, Portugal Declares a Day of Mourning - The New York Times
+- Trump administration unlawfully cut Harvard's funding, US judge rules - Reuters
+- As national consensus on vaccines unravels, Mass. and other states chart disparate paths - The Boston Globe
+- ICE Opens Immigrant Detention Center in Louisiana’s Angola Prison - The New York Times
 - 10 federal judges criticize Supreme Court's handling of Trump cases in rare interviews - NBC News
-- 'It may be… possible to live to 150 years old’: Open mic captures Xi, Putin's candid chat; moment caught - The Times of India
+- Capitol agenda: Sen. Bill Cassidy walks a tightrope at RFK Jr.'s hearing - Politico
+- Democratic research finds voters prefer populism over ‘Abundance’ - Politico
+- 'It may be… possible to live to 150 years old’: Open mic captures Xi, Putin's candid chat; moment caught - Times of India
 - Encouraged by Trump, Europeans plan to send troops to secure postwar Ukraine - The Washington Post
-- Nuclear triad and ‘robot wolves’: parade shows off array of Chinese weapons - The Guardian
-- North Korea's Kim Jong Un debuts daughter – and potential successor – to the world - CBS News
-- Powerball estimated jackpot soars to $1.7 billion for Saturday drawing after no one won Wednesday's $1.4 billion grand prize - CBS News
+- Russia issues warning as European leaders, Zelenskyy gather in Paris before Trump call - ABC News
+- Kim Jong Un Brings Daughter as Potential Successor on China Trip - Bloomberg.com
+- Houston player wins $2M in Powerball drawing - KHOU
 - Gold could hit nearly $5,000 if Trump undermines Fed, says Goldman Sachs - Financial Times
 - Google News: Alphabet Stock Hits All-Time High as Antitrust Fears Fade - Barron's
-- American Eagle Credits Sydney Sweeney Ads for ‘Brand and Business Reset’ - The Wall Street Journal
+- Budget airline ending service to Alabama airport after again filing for bankruptcy - AL.com
 - Meet Samsung Galaxy Tab S11 Series: Packing Everything You Expect From a Premium Tablet - Samsung Newsroom
-- Huawei’s second trifold adds stylus support and purple pleather - The Verge
+- Apple’s Siri upgrade could reportedly be powered by Google Gemini - TechCrunch
