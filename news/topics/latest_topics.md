@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-04 23:37_
+_Updated: 2025-09-05 00:39_
 
 ## Top Stories
 
-- Ny gul vädervarning för skyfall i Jönköpings län – risk för översvämning - SVT Nyheter
-- Ny regel införs för anhöriginvandring - SvD
-- Svensk kultur formades inte i en vit liten bubbla - Aftonbladet
-- Just nu: Större olycka på E4 – ett körfält blockerat - Kuriren
-- Misstänkt farligt föremål utanför Karlskrona - SVT Nyheter
+- Tennis: Björn Borg bekräftar cancerdiagnosen – opererades förra året - SVT Nyheter
+- SMHI varnar för skyfall i väst - Aftonbladet
+- Allra-profilen tillbaka i rätten – nu om lyxvillan på Lidingö - Expressen
+- Frågan på vilken vår kulturkanon är svaret - SvD
+- Kennedy pressades i kongressen: ”Försätter barn i fara” - DN
 - Krönika: Därför har rika personer slutat bära lyxklockor - GP
 - Kraftig ökning av GPS-störningar – spåras till Ryssland - SVT Nyheter
 - Vinstförbud i förskolan – S lägger förslaget på riksdagens bord - Socialdemokraterna
-- Kristersson och Åkesson oense om Stegrud - Västerbottens-Kuriren
+- Kristersson och Åkesson oense om Stegrud - UNT
 - Misstanken: Åt och drack på lyxkrogar för 87 000 med falska swishar - DN
-- Sju knivhuggna i Kanada – en död - Sydsvenskan
-- Kina visade upp framtidens vapen: ”Helt annan skala” - DN
-- Kennedy pressades i kongressen: ”Försätter barn i fara” - DN
-- Washington DC stämmer Trumpadministrationen - GP
+- Sju knivhuggna i Kanada – en död - Västerbottens-Kuriren
+- EU-topp: Folkmord i Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Dödssiffran i Gaza passerar 64 000 - GP
+- Dansk hjälporganisation beskjuten i Ukraina - DN
 - Sänkt matmoms – en missad chans att styra mot mer hållbara matval - wwf.se
 - Efter Northvolts kris – så ska Lyten bygga framtidens batterier - DN
 - Inför fredagsbeskedet: Färre sysselsatta än väntat i USA:s privata sektor - Dagens industri
@@ -38,15 +38,15 @@ _Updated: 2025-09-04 23:37_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
-- Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
-- BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- S&P Global Announces Key Leadership Appointments for Mobility Business - Placera.se
+- Global hållbarhetskonferens meddelar flytt till "Portugals Venedig - The Portugal News
+- Roblox Partners With IARC to Enhance Global Age and Content Ratings - Placera.se
+- APsystems Named Most Bankable Inverter Company Worldwide by Sinovoltaics - Placera.se
 
 ## Technology
 
@@ -73,25 +73,25 @@ _Updated: 2025-09-04 23:37_
 
 ## Business
 
+- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Publication of the 2025 Half-Year Report - Placera.se
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Publication of the 2025 Half-Year Report - Placera.se
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
@@ -120,8 +120,8 @@ _Updated: 2025-09-04 23:37_
 ## Science
 
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
@@ -132,11 +132,11 @@ _Updated: 2025-09-04 23:37_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
