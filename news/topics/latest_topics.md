@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-04 18:46_
+_Updated: 2025-09-04 19:39_
 
 ## Top Stories
 
-- Norrman gripen misstänkt för dubbelmordet i Lunden - GP
-- Gick på Sverigeoffensiv – nu tappar Listhaug fart - SvD
-- Ministern orolig efter skånska Hesa Fredrik-fadäsen - Sydsvenskan
-- Läkare på Sahlgrenska tar lunchrast – i protest - GP
-- Larmade om brister före dödsbranden på Öland: ”Otroligt frustrerande” - Aftonbladet
-- Insändare. ”Utvandrarna” som utvalt verk borde få SD att tänka till - DN
-- Kristersson och Åkesson oense om Stegrud - Västerbottens-Kuriren
-- Vinstförbud i förskolan – S lägger förslaget på riksdagens bord - Socialdemokraterna
 - Ny gul vädervarning för skyfall i Jönköpings län – risk för översvämning - SVT Nyheter
-- Kraftig ökning av GPS-störningar – spåras till Ryssland - SVT Nyheter
-- Filmen om Hind Rajab fick stående ovationer – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- EU-topp: Folkmord i Gaza - Västerbottens-Kuriren
+- Gick på Sverigeoffensiv – nu tappar Listhaug fart - SvD
+- Larmade om brister före dödsbranden på Öland: ”Otroligt frustrerande” - Aftonbladet
+- Norrman häktad – greps bara timmar efter dubbelmordet - DN
+- Öppen konflikt mellan Kristersson och Åkesson på presskonferens: ”Håller inte med” - DN
+- Vinstförbud i förskolan – S lägger förslaget på riksdagens bord - Socialdemokraterna
+- Motstridiga vittnesmål inför domen mot Landerholm - DN
+- Världen förundrad över kulturkanon utan Abba - Västerbottens-Kuriren
+- 25-åring dog på spåret i Malmö – nu har polisen en misstänkt - Arbetet
 - Kina visade upp framtidens vapen: ”Helt annan skala” - DN
-- DN Direkt - Danske landslagsstjärnan tränar med Malmö FF - DN.se - DN
-- Minröjare vid dansk organisation dödade i attack - GP
+- Macron: 26 länder redo sända soldater till Ukraina - UNT
+- Washington DC stämmer Trumpadministrationen - GP
+- Minröjare vid dansk organisation dödade i attack - Västerbottens-Kuriren
 - Nordea: Sänkt matmoms kan ge duvaktig lutning åt Riksbanken - Dagens industri
 - Efter Northvolts kris – så ska Lyten bygga framtidens batterier - DN
-- Goldman Sachs: Fed-attack kan få fart på guldet - GP
-- Lennarts chock över elpriset: ”Vansinne” - Expressen
-- Samsung Galaxy Tab S11-serien lanseras i Sverige – allt du kan förvänta dig av en premium-surfplatta - Mynewsdesk
+- Guldpriset rusar – experten: ”Så börjar du investera i guld” - NWT
+- Neonode rasar i efterhandeln i USA – efter utfall i patenttvist - EFN
+- Svart hål kan omkullkasta alla tidigare teorier - GP
 - Mobiltelefon på toa ökar risken för hemorrojder - Hufvudstadsbladet
 
 ## World News
@@ -33,17 +33,17 @@ _Updated: 2025-09-04 18:46_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
-- Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
-- BIG Travel går in i globalt partnerskap - travelnews.se
-- 7 saker om EQTY Global Growth II Fund - The Portugal News
+- Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- Dine Brands Global, Inc. Announces Third Quarter 2025 Dividend - Placera.se
 - ORIX Corporation USA Completes Acquisition of Majority Stake in Hilco Global - Placera.se
 - FleishmanHillard Appoints EJ Kim as Global Managing Director of TRUE Global Intelligence - Placera.se
 - S&P Global Announces Key Leadership Appointments for Mobility Business - Placera.se
@@ -144,21 +144,21 @@ _Updated: 2025-09-04 18:46_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- De gick från reko till eko - ST-tidningen
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
