@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-04 10:46_
+_Updated: 2025-09-04 11:40_
 
 ## Top Stories
 
-- Fotboll: Bekräftar: Christian Eriksen tränar med Malmö FF - SVT Nyheter
+- C vill halvera matmomsen: ”Många har det tufft” - GP
+- DN Direkt - En gripen för dubbelmordet i Göteborg - DN.se - DN
 - Tre döda i Lissabon – bergsbana spårade ur - GP
-- Skottlossning mot bostad i Malmö - Västerbottens-Kuriren
+- Massivt stenblock stoppar tågen på norska Malmbanan - SVT Nyheter
 - Kiruna spricker – men vad säger det om Sverige? - Arbetet
-- Läckande plaströr måste bytas i prestigebygget – hyresgästerna rasar - DN
-- ”Man blir trött på kulturknuttarnas buttra attityd” - Västerbottens-Kuriren
-- Unga ägnar sig åt strypsex – läkare varnar för risker - Omni
-- Nya krafttag mot suicid – fler behöver stöd och färre ska fara illa - Region Jönköpings
-- Nytt larm om explosion – utryckning i Norrköping - Västerbottens-Kuriren
-- SD: Har haft ett samtal med Stegrud - GP
+- Xi varnar för 'fred eller krig' i spåren av Trump anklagelse om konspiration - Börsvärlden
+- Varnar för strypsex: Safe word funkar inte - Västerbottens-Kuriren
+- Explosion vid port i Linköping - SVT Nyheter
+- Geopolitisk oro dämpade utländsk investeringsvilja - Omni
+- ”Väntar på Frödings vålnad” – experten om kanonens tuffa petning - NWT
 - Lina Lund: Européerna uppträder likt katten Findus - DN
-- Nära 30 döda i båtolycka i Nigeria - GP
+- Granskning: En fjärdedel av palestinska fångar militanta – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Nära 30 döda i båtolycka i Nigeria - Västerbottens-Kuriren
 - Erkänner mord på toppolitiker – ville hämnas mot myndigheterna - DN
-- Nu möts Xi, Kim och Putin för första gången - Hufvudstadsbladet
 - Inflationen steg mer än väntat – men kärninflationen lägre - Dagens industri
+- Läckande plaströr måste bytas i prestigebygget – hyresgästerna rasar - DN
 - Lennarts chock över elpriset: ”Vansinne” - Expressen
-- Franska miljardböter mot Google och Shein - SvD
-- Byggfel kostar miljarder – så gör du som drabbas - DN
-- Mobiltelefon på toa ökar risken för hemorrojder - SkLT
+- Lyten utser ny ledning i Europa efter tillkännagivet förvärv av Northvolt - Cision News
+- Mobiltelefon på toa ökar risken för hemorrojder - GP
 - Tre scenarier för framtidens elsystem – fler komponenter men lägre kostnader utan ny kärnkraft - Chalmers
 
 ## World News
 
-- Resmed Launches Sleep Institute to Elevate Sleep Health as a Global Priority - Placera.se
 - World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
 - Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- New Secretary General appointed - Olof Palme International Center
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
 - Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
+- FORTUNE RELEASES ANNUAL FORTUNE GLOBAL 500 LIST (PR Newswire) - Aktiellt
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 - Kinesisk region ny etta på FN:s innovationslista - Omni
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
-- ORIX Corporation USA Completes Acquisition of Majority Stake in Hilco Global - Placera.se
-- S&P Global Announces Key Leadership Appointments for Mobility Business - Placera.se
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 
 ## Technology
@@ -56,20 +56,20 @@ _Updated: 2025-09-04 10:46_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
-- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
-- Kina föreslår global AI-samarbetsorganisation - Computer Sweden
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
+- Xiao-I Corporation Renews Service with Leading Asset Manager to Enhance Financial Services with Cognitive AI - Placera.se
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 
 ## Business
 
@@ -122,42 +122,42 @@ _Updated: 2025-09-04 10:46_
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
