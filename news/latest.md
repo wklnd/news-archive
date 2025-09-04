@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-04 16:48_
+_Updated: 2025-09-04 17:48_
 
-- Italian fashion designer Giorgio Armani dies aged 91 - CNN
-- RFK Jr. set to testify before Senate Finance Committee amid CDC turmoil, vaccine changes - ABC News
-- Trump asks US supreme court to overturn trade tariffs ruling - The Guardian
-- Residents of Chicago’s most violent block don’t want Trump to send the National Guard - WBEZ Chicago
+- Watch as RFK Jr pressed on vaccines and CDC turmoil at Senate hearing - BBC
+- Trump’s killing of 11 alleged Venezuelan drug traffickers sets a dangerous precedent | Kenneth Roth - The Guardian
+- Trump asks Supreme Court to reverse tariffs ruling finding them illegal - NPR
+- Here’s how Chicago is preparing as possible National Guard deployment looms - CNN
 - 10 federal judges criticize Supreme Court's handling of Trump cases in rare interviews - NBC News
-- As national consensus on vaccines unravels, Mass. and other states chart disparate paths - The Boston Globe
+- These 3 states are teaming up to counter the CDC's vaccine recommendations - Axios
+- DC sues Trump administration over National Guard deployment - CNN
 - Judge Hands Victory to Harvard in Funding Lawsuit, Ruling Trump Administration’s Freeze Unconstitutional - The Harvard Crimson
 - Researcher missing after falling into stream on Alaska’s Mendenhall Glacier - The Guardian
 - DHS opens new immigration detention facility inside Louisiana's Angola prison - CBS News
-- Trump Administration Says Boat Strike Is Start of Campaign Against Venezuelan Cartels - The New York Times
-- Lisbon funicular crash: Portugal declares day of mourning as death toll rises to 17 - The Guardian
-- North Korean leader Kim Jong Un meets with Chinese leader Xi Jinping - AP News
+- Lisbon funicular crash death toll climbs to 17 as Elevador da Gloria disaster leaves Portugal reeling - CBS News
+- Xi meets Kim a day after unprecedented show of unity with Putin at Chinese military parade - CNN
+- European leaders face tough choices as the UK and France host another meeting on Ukraine - AP News
 - Putin and China's Xi heard on hot mic discussing life-prolonging organ transplants and immortality - CBS News
-- Encouraged by Trump, Europeans plan to send troops to secure postwar Ukraine - The Washington Post
-- Stock Market Today: Dow Wavers; Trump's Fed Nominee to Face Senate — Live Updates - The Wall Street Journal
-- Gold could hit nearly $5,000 if Trump undermines Fed, says Goldman Sachs - Financial Times
 - Houston player wins $2M in Powerball drawing - KHOU
-- Wall Street Strategists See More Unease on Fed Independence - Yahoo Finance
-- Meet Samsung Galaxy S25 FE: The Gateway to the Galaxy AI and Flagship Essentials - Samsung Newsroom
-- Apple’s rumored AI search tool for Siri could rely on Google - The Verge
+- Gold could hit nearly $5,000 if Trump undermines Fed, says Goldman Sachs - Financial Times
+- American Eagle rides high on Sydney Sweeney ad buzz - Reuters
+- Stock Market Today: Dow Up On Jobs Data; American Eagle Soars, McDonald's Hits Early Entry (Live Coverage) - Investor's Business Daily
+- Galaxy Tab S11 revives 11-inch size as S Pen ditches Bluetooth, copies iPad placement - 9to5Google
+- Samsung launches the Galaxy S25 FE at IFA 2025 - Engadget
