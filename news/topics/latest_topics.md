@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-04 07:40_
+_Updated: 2025-09-04 08:48_
 
 ## Top Stories
 
-- Bergbana kraschade i Lissabon – minst 15 döda - DN
-- Skottlossning mot bostad i Malmö - SVT Nyheter
-- DN Direkt - Stegrud svarar på kritiken: ”Spaning om samtiden” - DN.se - DN
-- Mördarjakt efter dubbelmordet i Lunden - GP
+- ”Dörren är inte stängd för räntesänkning” - SvD
+- Tre döda i Lissabon – bergsbana spårade ur - GP
+- Skottlossning mot bostad i Malmö - Omni
 - Robotvargar och ubåtsdrönare – det här är Kinas nya vapen - GP
+- Läckande plaströr måste bytas i prestigebygget – hyresgästerna rasar - DN
 - ”Man blir trött på kulturknuttarnas buttra attityd” - Västerbottens-Kuriren
-- DN Direkt - Nytt larm om explosion – utryckning i Norrköping - DN.se - DN
-- Strypsexet oroar ministern: Oerhört farligt - Aftonbladet
+- Strypsex kan vara farligare än man trott: ”Kan få långsiktiga skador” - SVT Nyheter
 - Geopolitisk oro dämpade utländsk investeringsvilja - Omni
-- En till sjukhus när strömkablar föll ned - Aftonbladet
+- SD: Har haft ett samtal med Stegrud - GP
+- Dubbelmordet i Lunden: Det här vet vi - SVT Nyheter
+- Lina Lund: Européerna uppträder likt katten Findus - DN
 - Nära 30 döda i båtolycka i Nigeria - Västerbottens-Kuriren
 - Man erkänner mordet – kan ha utpressats av Ryssland - Omni
-- Zelenskyj har bett Trump öka pressen på Putin - DN
-- Domare: Olagligt frysa Harvards statliga bidrag - SvD
-- Läckande plaströr måste bytas i prestigebygget – hyresgästerna rasar - DN
-- Neonode rasade i USA-efterhandeln på patentutslag - Dagens industri
-- Franska miljardböter mot Google och Shein - GP
-- Här är verkliga vinnaren på den höjda panten - SvD
+- Skalven i Afghanistan: Därför drabbas kvinnor värst - Västerbottens-Kuriren
+- Franska miljardböter mot Google och Shein - SvD
+- Analyser: Sänkt matmoms dyrt valfläsk – inte träffsäkert - Omni
+- Analyschefen om Klarna: Dyr ”högriskaktie” - Aftonbladet
+- Byggfel kostar miljarder – så gör du som drabbas - DN
+- Mobiltelefon på toa ökar risken för hemorrojder - SkLT
 - Tre scenarier för framtidens elsystem – fler komponenter men lägre kostnader utan ny kärnkraft - Chalmers
-- Gamla Pokémon-kort kan vara guldgruva – ökar i pris - Mariestads-Tidningen
 
 ## World News
 
@@ -32,21 +32,21 @@ _Updated: 2025-09-04 07:40_
 - Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
-- BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Kinesisk region ny etta på FN:s innovationslista - Omni
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
-- Liberty International i Stockholm växer - travelnews.se
-- Roblox Partners With IARC to Enhance Global Age and Content Ratings - Placera.se
-- APsystems Named Most Bankable Inverter Company Worldwide by Sinovoltaics - Placera.se
-- ORIX Corporation USA Completes Acquisition of Majority Stake in Hilco Global - Placera.se
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
+- Nobel Algarve British International School värd för global olympisk tävling - The Portugal News
+- Global klimatstrejk den 3 mars - The Portugal News
 
 ## Technology
 
@@ -103,6 +103,7 @@ _Updated: 2025-09-04 07:40_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Engineering Health 2024 - Chalmers
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
@@ -114,7 +115,6 @@ _Updated: 2025-09-04 07:40_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
@@ -144,21 +144,21 @@ _Updated: 2025-09-04 07:40_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Lantbruket i Polen lyfte med EU - Jordbruksaktuellt
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
