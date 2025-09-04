@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-04 05:45_
+_Updated: 2025-09-04 06:42_
 
 ## Top Stories
 
 - Bergbana kraschade i Lissabon – minst 15 döda - DN
-- Dubbla explosioner – polisen utreder samband - GP
+- DN Direkt - Nytt larm om explosion – utryckning i Norrköping - DN.se - DN
 - DN Direkt - Stegrud svarar på kritiken: ”Spaning om samtiden” - DN.se - DN
-- Kim, Putin och Xi på massiv militärparad i Peking - Sydsvenskan
-- Så hjälper du barnet med bättre sömnrutiner - DN
-- Putin och Xi: Vi kan leva tills vi är 150 år gamla - Omni
-- Polisen Louise kallades för ”hora” – anmälde: ”Det tär” - DN
-- Anna Sundström: Kulturkanon löser ingen läs- och bildningskris - UNT
-- Justitieministern om skjutningen i Lunden: ”Förfärligt” - GP
-- Internationella suicidpreventiva dagen den 10 september - Region Blekinge
+- Ny forskning: 40 gånger mer troligt med storbränder - GP
+- Robotvargar och ubåtsdrönare – det här är Kinas nya vapen - GP
+- Strömmer om dubbelmordet: ”Ett förfärligt våldsdåd” - Omni
+- Strypsexet oroar ministern: Oerhört farligt - SvD
+- Här är Sveriges nya kulturkanon: Strindberg och Pippi Långstrump - SVT Nyheter
+- En till sjukhus när strömkablar föll ned - Aftonbladet
+- Väska med känsliga handlingar återfunnen - Aftonbladet
+- Nära 30 döda i båtolycka i Nigeria - Västerbottens-Kuriren
+- Skalven i Afghanistan: Därför drabbas kvinnor värst - Västerbottens-Kuriren
+- Fem barn dödade i israelisk attack i ”säker zon” – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Hon spås bli Nordkoreas nästa diktator – Pekingbesöket spär på spekulationerna - DN
-- Domare: Olagligt frysa Harvards statliga bidrag - GP
-- 113 personer dödade i Gaza senaste dygnet - Västerbottens-Kuriren
-- Stulen tavla försvann – nazistdotter misstänkt - Västerbottens-Kuriren
+- Läckande plaströr måste bytas i prestigebygget – hyresgästerna rasar - DN
 - Franska miljardböter mot Google och Shein - SvD
-- Analyschefen om Klarna: Dyr ”högriskaktie” - Aftonbladet
-- Trafikverkets granskning av delprojekt i Västlänken visar på allvarliga brister hos entreprenören - Järnvägar.nu
-- Medlingsinstitutet ger upp i Teslakonflikten - Dagens Arbete
+- Neonode rasade i USA-efterhandeln på patentutslag - Dagens industri
+- ”Hur skyddar jag min funktionshindrade son när jag gått bort?” - DN
 - Tre scenarier för framtidens elsystem – fler komponenter men lägre kostnader utan ny kärnkraft - Chalmers
 - Gamla Pokémon-kort kan vara guldgruva – ökar i pris - Mariestads-Tidningen
 
@@ -41,8 +41,8 @@ _Updated: 2025-09-04 05:45_
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Kinesisk region ny etta på FN:s innovationslista - Omni
-- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 - Liberty Global Schedules Investor Call for Third Quarter 2025 Results - Placera.se
 - ORIX Corporation USA Completes Acquisition of Majority Stake in Hilco Global - Placera.se
@@ -56,6 +56,7 @@ _Updated: 2025-09-04 05:45_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
@@ -63,10 +64,9 @@ _Updated: 2025-09-04 05:45_
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - ZenaTech Signs Agreements to Acquire Two Florida Companies, Expanding Drone as a Service Footprint into Aviation, Defense, and Power Washing - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - WiMi Explores Quantum Algorithms for Large-Scale Machine Learning Models - Placera.se
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
-- Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
@@ -100,65 +100,65 @@ _Updated: 2025-09-04 05:45_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers
 - Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Poddar och webbplatser - Forskning & Framsteg
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De gick från reko till eko - ST-tidningen
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Lantbruket i Polen lyfte med EU - Jordbruksaktuellt
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
