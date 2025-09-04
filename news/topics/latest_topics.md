@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-04 16:42_
+_Updated: 2025-09-04 17:41_
 
 ## Top Stories
 
-- Italienska modeikonen Giorgio Armani är död - SvD
-- Norsk medborgare gripen för dubbelmordet i Lunden i Göteborg - SVT Nyheter
 - Kina visade upp framtidens vapen: ”Helt annan skala” - DN
 - Här protesterar Sahlgrenskas läkare med lunch – vill visa på läkarnas obetalda arbete - Läkartidningen
-- Kristersson och Åkesson i bråk – efter SD-utspelet - GP
-- Ny gul varning för skyfallsliknande regn - Hällekis-Kuriren
+- Gick på Sverigeoffensiv – nu tappar Listhaug fart - SvD
+- Norsk medborgare gripen för dubbelmordet i Lunden i Göteborg - SVT Nyheter
+- Här är Ö-viks kulturkanon - Allehanda.se
+- Stegruds närhet till extremhögern borde vara ett problem för SD - expo.se
+- Ny gul vädervarning för skyfall i Jönköpings län – risk för översvämning - SVT Nyheter
+- Kraftig ökning av GPS-störningar – spåras till Ryssland - SVT Nyheter
 - 25-åring dog på spåret i Malmö – nu har polisen en misstänkt - Arbetet
-- Gps-störningar i svenskt luftrum ökar - GP
 - DN Direkt - 36-åring först att dömas för förolämpning av polis - DN.se - DN
-- Din röst i kyrkovalet är viktigare än du tror - Landskrona Direkt
-- Skalvet i Afghanistan: Över 2 200 döda - Västerbottens-Kuriren
-- Nytt samtal mellan Zelenskyj och Trump i morgon - GP
+- Macron: 26 länder redo sända soldater till Ukraina - UNT
+- Filmen om Hind Rajab fick stående ovationer – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Minröjare vid dansk organisation dödade i attack - GP
-- Granskning: En fjärdedel av palestinska fångar militanta – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Tidöpartierna föreslår tillfälligt sänkt matmoms - SVT Nyheter
-- Trots högre inflation – räntan kan sänkas - SvD
-- Små rörelser på Wall Street – Neonode kollapsar - Dagens industri
+- Äldre och sjuka bland Israels ”olagliga stridande” - Västerbottens-Kuriren
+- Nordea: Sänkt matmoms kan ge duvaktig lutning åt Riksbanken - Dagens industri
+- Inflationen steg till 3,3 procent i augusti - Omni
 - Lennarts chock över elpriset: ”Vansinne” - Expressen
+- Goldman Sachs: Fed-attack kan få fart på guldet - GP
+- Mobiltelefon på toa ökar risken för hemorrojder - Hufvudstadsbladet
 - Återstående asfaltering Mörmovägen och Hagakorset - Hammarö kommun
-- Samsung Galaxy Tab S11-serien lanseras i Sverige – allt du kan förvänta dig av en premium-surfplatta - Mynewsdesk
 
 ## World News
 
@@ -33,20 +33,20 @@ _Updated: 2025-09-04 16:42_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
-- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
-- Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
+- BIG Travel går in i globalt partnerskap - travelnews.se
+- 7 saker om EQTY Global Growth II Fund - The Portugal News
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- Dine Brands Global, Inc. Announces Third Quarter 2025 Dividend - Placera.se
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- Roblox Partners With IARC to Enhance Global Age and Content Ratings - Placera.se
 - ORIX Corporation USA Completes Acquisition of Majority Stake in Hilco Global - Placera.se
 - FleishmanHillard Appoints EJ Kim as Global Managing Director of TRUE Global Intelligence - Placera.se
-- S&P Global Announces Key Leadership Appointments for Mobility Business - Placera.se
 
 ## Technology
 
@@ -98,31 +98,31 @@ _Updated: 2025-09-04 16:42_
 
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Osher centrum för integrativ hälsa - Karolinska Institutet
-- Engineering Health 2024 - Chalmers
+- Europeisk konferens för socialmedicin: Praktik, teori och handling för en hälsosammare framtid - sls.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
@@ -130,15 +130,15 @@ _Updated: 2025-09-04 16:42_
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
