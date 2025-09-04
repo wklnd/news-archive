@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-04 20:47_
+_Updated: 2025-09-04 21:38_
 
 ## Top Stories
 
 - Ny gul vädervarning för skyfall i Jönköpings län – risk för översvämning - SVT Nyheter
-- Insändare. Låt mig slippa en kulturkanon för att få elever att läsa - DN
-- Stenblock sprängt – Malmbanan öppen igen - GP
 - Ministern orolig efter skånska Hesa Fredrik-fadäsen - Sydsvenskan
-- S öppnar för att bygga över E6 – vid Olskroken - GP
-- Gick på Sverigeoffensiv – nu tappar Listhaug fart - SvD
+- Frågan på vilken vår kulturkanon är svaret - SvD
+- Läkare på Sahlgrenska tar lunchrast – i protest - GP
+- Pressträff när migrationsminister Johan Forssell tar emot betänkande från utredningen om skärpta villkor för anhöriginvandring - Regeringen.se
+- Norrman häktad – greps bara timmar efter dubbelmordet - DN
 - Vinstförbud i förskolan – S lägger förslaget på riksdagens bord - Socialdemokraterna
-- Öppen konflikt mellan Kristersson och Åkesson på presskonferens: ”Håller inte med” - DN
 - Kraftig ökning av GPS-störningar – spåras till Ryssland - SVT Nyheter
-- Norrman gripen misstänkt för dubbelmordet i Lunden - GP
-- Macron: 26 länder redo att delta i ukrainsk stödstyrka - DN
+- Kristersson och Åkesson oense om Stegrud - Västerbottens-Kuriren
+- Motstridiga vittnesmål inför domen mot Landerholm - DN
+- Kina visade upp framtidens vapen: ”Helt annan skala” - DN
+- Macron: 26 länder redo sända soldater till Ukraina - UNT
+- Trump till Putin: Saker kommer hända - Västerbottens-Kuriren
 - Kennedy pressades i kongressen: ”Försätter barn i fara” - DN
-- Washington DC stämmer Trumpadministrationen - Hufvudstadsbladet
-- Filmen om Hind Rajab fick stående ovationer – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Nordea: Sänkt matmoms kan ge duvaktig lutning åt Riksbanken - Dagens industri
 - Efter Northvolts kris – så ska Lyten bygga framtidens batterier - DN
 - Neonode rasar i efterhandeln i USA – efter utfall i patenttvist - EFN
 - Wihlborgs: Skånes bästa lägen - Affärsvärlden
-- No Man's Sky-chef missnöjd med Silksong-priset – vill betala mer - FZ.se
-- Svart hål kan omkullkasta alla tidigare teorier - GP
+- Kaos när “Hollow Knight: Silksong” släpptes – spelbutiker kraschade - MovieZine
+- Samsung Galaxy Tab S11-serien lanseras i Sverige – allt du kan förvänta dig av en premium-surfplatta - Mynewsdesk
 
 ## World News
 
@@ -88,11 +88,11 @@ _Updated: 2025-09-04 20:47_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
 
@@ -106,7 +106,7 @@ _Updated: 2025-09-04 20:47_
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Engineering Health 2024 - Chalmers
 - Johan von Schreeb - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- West Sweden’s life science community collaborates to launch HackHERHealth, a trailblazing femtech innovation hackathon - NewsMachine AB
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
@@ -122,23 +122,23 @@ _Updated: 2025-09-04 20:47_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
@@ -146,6 +146,7 @@ _Updated: 2025-09-04 20:47_
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
@@ -154,11 +155,10 @@ _Updated: 2025-09-04 20:47_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- USA tvingar ut EU på banan - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
