@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-04 15:42_
+_Updated: 2025-09-04 16:42_
 
 ## Top Stories
 
-- Giorgio Armani är död - SVT Nyheter
-- JUST NU: SMHI varnar för skyfall – igen - NWT
-- Kristersson och Åkesson i bråk – efter SD-utspelet - GP
-- Norrman misstänks för dubbelmordet i Lunden - SvD
+- Italienska modeikonen Giorgio Armani är död - SvD
+- Norsk medborgare gripen för dubbelmordet i Lunden i Göteborg - SVT Nyheter
 - Kina visade upp framtidens vapen: ”Helt annan skala” - DN
-- Läkare på Sahlgrenska tar lunchrast – i protest - GP
+- Här protesterar Sahlgrenskas läkare med lunch – vill visa på läkarnas obetalda arbete - Läkartidningen
+- Kristersson och Åkesson i bråk – efter SD-utspelet - GP
+- Ny gul varning för skyfallsliknande regn - Hällekis-Kuriren
 - 25-åring dog på spåret i Malmö – nu har polisen en misstänkt - Arbetet
+- Gps-störningar i svenskt luftrum ökar - GP
 - DN Direkt - 36-åring först att dömas för förolämpning av polis - DN.se - DN
 - Din röst i kyrkovalet är viktigare än du tror - Landskrona Direkt
-- Strypsexet oroar ministern: Oerhört farligt - SvD
 - Skalvet i Afghanistan: Över 2 200 döda - Västerbottens-Kuriren
-- Äldre och sjuka bland Israels ”olagliga stridande” - Västerbottens-Kuriren
+- Nytt samtal mellan Zelenskyj och Trump i morgon - GP
+- Minröjare vid dansk organisation dödade i attack - GP
 - Granskning: En fjärdedel av palestinska fångar militanta – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Putin, Xi och Kim talade om odödlighet - DN
 - Tidöpartierna föreslår tillfälligt sänkt matmoms - SVT Nyheter
-- Neonode rasade i USA-efterhandeln på patentutslag - Dagens industri
 - Trots högre inflation – räntan kan sänkas - SvD
+- Små rörelser på Wall Street – Neonode kollapsar - Dagens industri
 - Lennarts chock över elpriset: ”Vansinne” - Expressen
-- Mobiltelefon på toa ökar risken för hemorrojder - SkLT
 - Återstående asfaltering Mörmovägen och Hagakorset - Hammarö kommun
+- Samsung Galaxy Tab S11-serien lanseras i Sverige – allt du kan förvänta dig av en premium-surfplatta - Mynewsdesk
 
 ## World News
 
-- Resmed Launches Sleep Institute to Elevate Sleep Health as a Global Priority - Placera.se
+- Choice Hotels International Debuts in Argentina with the Opening of Radisson Blu Bariloche - Placera.se
 - World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
-- Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
+- Resmed Launches Sleep Institute to Elevate Sleep Health as a Global Priority - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
-- BIG Travel går in i globalt partnerskap - travelnews.se
-- 7 saker om EQTY Global Growth II Fund - The Portugal News
+- Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
-- Roblox Partners With IARC to Enhance Global Age and Content Ratings - Placera.se
+- Dine Brands Global, Inc. Announces Third Quarter 2025 Dividend - Placera.se
 - ORIX Corporation USA Completes Acquisition of Majority Stake in Hilco Global - Placera.se
 - FleishmanHillard Appoints EJ Kim as Global Managing Director of TRUE Global Intelligence - Placera.se
+- S&P Global Announces Key Leadership Appointments for Mobility Business - Placera.se
 
 ## Technology
 
@@ -121,11 +121,11 @@ _Updated: 2025-09-04 15:42_
 
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
