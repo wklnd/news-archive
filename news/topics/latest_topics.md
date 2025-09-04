@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-04 15:01_
+_Updated: 2025-09-04 15:42_
 
 ## Top Stories
 
-- Skatteexperten sågar sänkt matmoms: Upprörande och populistiskt - Dagens industri
-- Kristersson och Åkesson i tjafs – efter SD-utspelet - GP
-- Norsk medborgare gripen för dubbelmordet i Lunden i Göteborg - SVT Nyheter
+- Giorgio Armani är död - SVT Nyheter
+- JUST NU: SMHI varnar för skyfall – igen - NWT
+- Kristersson och Åkesson i bråk – efter SD-utspelet - GP
+- Norrman misstänks för dubbelmordet i Lunden - SvD
+- Kina visade upp framtidens vapen: ”Helt annan skala” - DN
 - Läkare på Sahlgrenska tar lunchrast – i protest - GP
-- Kulturkanon föreslås få kosta över 60 miljoner - DN
-- Bergbana kraschade i Lissabon – minst 17 döda - DN
 - 25-åring dog på spåret i Malmö – nu har polisen en misstänkt - Arbetet
 - DN Direkt - 36-åring först att dömas för förolämpning av polis - DN.se - DN
-- Strypsexet oroar ministern: Oerhört farligt - SvD
 - Din röst i kyrkovalet är viktigare än du tror - Landskrona Direkt
+- Strypsexet oroar ministern: Oerhört farligt - SvD
 - Skalvet i Afghanistan: Över 2 200 döda - Västerbottens-Kuriren
-- Kartläggning: Äldre och sjuka bland ”olagliga stridande” - DN
+- Äldre och sjuka bland Israels ”olagliga stridande” - Västerbottens-Kuriren
 - Granskning: En fjärdedel av palestinska fångar militanta – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Erkänner mord på toppolitiker – ville hämnas mot myndigheterna - DN
+- Putin, Xi och Kim talade om odödlighet - DN
+- Tidöpartierna föreslår tillfälligt sänkt matmoms - SVT Nyheter
+- Neonode rasade i USA-efterhandeln på patentutslag - Dagens industri
 - Trots högre inflation – räntan kan sänkas - SvD
 - Lennarts chock över elpriset: ”Vansinne” - Expressen
-- Neonode rasade i USA-efterhandeln på patentutslag - Dagens industri
-- Byggfusk: Läckande rör kostar fastighetsägare 55 miljoner - Fastighetsnytt
 - Mobiltelefon på toa ökar risken för hemorrojder - SkLT
 - Återstående asfaltering Mörmovägen och Hagakorset - Hammarö kommun
 
 ## World News
 
+- Resmed Launches Sleep Institute to Elevate Sleep Health as a Global Priority - Placera.se
 - World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
 - Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
-- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Techarenan News goes English (Partly at least) - Techarenan.news
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- New Secretary General appointed - Olof Palme International Center
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- World Athletics introduces gene test for female category - BBC
-- Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
-- BIG Travel går in i globalt partnerskap - travelnews.se
-- Dine Brands Global, Inc. Announces Third Quarter 2025 Dividend - Placera.se
-- Kinesisk region ny etta på FN:s innovationslista - Omni
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
+- World Athletics introduces gene test for female category - BBC
+- BIG Travel går in i globalt partnerskap - travelnews.se
+- 7 saker om EQTY Global Growth II Fund - The Portugal News
+- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
+- Roblox Partners With IARC to Enhance Global Age and Content Ratings - Placera.se
+- ORIX Corporation USA Completes Acquisition of Majority Stake in Hilco Global - Placera.se
 - FleishmanHillard Appoints EJ Kim as Global Managing Director of TRUE Global Intelligence - Placera.se
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
-- Chinese Manufacturers Are Peeling Off the Veneer of Western Luxury - Morocco World News
 
 ## Technology
 
@@ -122,30 +122,30 @@ _Updated: 2025-09-04 15:01_
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
-- Simple math behind major bison blunder - Forskning & Framsteg
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
@@ -153,12 +153,12 @@ _Updated: 2025-09-04 15:01_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- USA tvingar ut EU på banan - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
