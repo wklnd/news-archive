@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-04 01:37_
+_Updated: 2025-09-04 04:07_
 
 ## Top Stories
 
 - DN Direkt - Stegrud svarar på kritiken: ”Spaning om samtiden” - DN.se - DN
 - Tre döda i Lissabon – bergsbana spårade ur - GP
+- Insändare. Noterat av DN:s läsare den 3 september - DN
+- Kim, Putin och Xi på massiv militärparad i Peking - Sydsvenskan
 - 113 dödade i Gaza senaste dygnet - Västerbottens-Kuriren
 - Målning som stals av nazisterna hittad i Argentina - DN
-- Nära 30 döda i båtolycka i Nigeria - GP
-- Anna Sundström: Kulturkanon löser ingen läs- och bildningskris - UNT
+- Polisen Louise kallades för ”hora” – anmälde: ”Det tär” - DN
+- 18-årige Love tog sitt liv – pappa Örjan föreläser i Eda: ”Vanliga teorier stämmer inte alltid” - Arvika Nyheter
 - Två män skjutna till döds i Lunden i Göteborg - GP
-- Internationella suicidpreventiva dagen den 10 september - Region Blekinge
 - Väska med känsliga handlingar återfunnen - Aftonbladet
-- En till sjukhus när strömkablar föll ned - Aftonbladet
 - Hon spås bli Nordkoreas nästa diktator – Pekingbesöket spär på spekulationerna - DN
-- Kim, Putin och Xi jämsides inför Kinas nya vapen - GP
-- Misstänkt mördare dök upp som klädmodell hos nätjätte - DN
-- Minst 900 döda i jordbävning i Afghanistan - Hufvudstadsbladet
+- Explosion vid port i Linköping - SVT Nyheter
+- Venezuela: USA använde AI för att skapa video på sprängd ”knarkbåt” - DN
+- Toppmöten i skuggan av intensiva attacker över hela Ukraina - DN
 - Franska miljardböter mot Google och Shein - SvD
-- Ryanair-anställda ska få mer betalt för att sätta dit resenärer - Sydsvenskan
-- 37-åringen blev kallad dinosaurie – sa upp sig - SvD
+- Analyschefen om Klarna: Dyr ”högriskaktie” - Aftonbladet
+- Trafikverkets granskning av delprojekt i Västlänken visar på allvarliga brister hos entreprenören - Järnvägar.nu
 - Brakförlust för Polestar: 7 miljarder i nedskrivning för modell 3 - Nyteknik
+- Tre scenarier för framtidens elsystem – fler komponenter men lägre kostnader utan ny kärnkraft - Chalmers
 - Gamla Pokémon-kort kan vara guldgruva – ökar i pris - Mariestads-Tidningen
-- Hollow Knight: Silksong – alla detaljer inför spelsläppet - Aftonbladet
 
 ## World News
 
@@ -37,39 +37,39 @@ _Updated: 2025-09-04 01:37_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
-- BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Kinesisk region ny etta på FN:s innovationslista - Omni
-- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- Roblox Partners With IARC to Enhance Global Age and Content Ratings - Placera.se
+- Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
 - Liberty Global Schedules Investor Call for Third Quarter 2025 Results - Placera.se
 - ORIX Corporation USA Completes Acquisition of Majority Stake in Hilco Global - Placera.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 
 ## Technology
 
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
-- 290 million for digitalisation of Swedish industry - Vinnova
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
+- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
-- Change in Aiforia Technologies Plc’s Management Team - Placera.se
-- Lösningar för artificiell intelligens (AI) - SAS: Data and AI Solutions
-- Data 2025 outlook: AI drives a renaissance of data - SiliconANGLE
 
 ## Business
 
@@ -146,19 +146,19 @@ _Updated: 2025-09-04 01:37_
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- De gick från reko till eko - ST-tidningen
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- USA tvingar ut EU på banan - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Lantbruket i Polen lyfte med EU - Jordbruksaktuellt
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
