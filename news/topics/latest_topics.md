@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-05 00:39_
+_Updated: 2025-09-05 01:37_
 
 ## Top Stories
 
-- Tennis: Björn Borg bekräftar cancerdiagnosen – opererades förra året - SVT Nyheter
-- SMHI varnar för skyfall i väst - Aftonbladet
-- Allra-profilen tillbaka i rätten – nu om lyxvillan på Lidingö - Expressen
-- Frågan på vilken vår kulturkanon är svaret - SvD
+- Ny gul vädervarning för skyfall i Jönköpings län – risk för översvämning - SVT Nyheter
+- Biden opererad för hudcancer - GP
+- EU-topp: Folkmord i Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Insändare. Låt mig slippa en kulturkanon för att få elever att läsa - DN
 - Kennedy pressades i kongressen: ”Försätter barn i fara” - DN
 - Krönika: Därför har rika personer slutat bära lyxklockor - GP
 - Kraftig ökning av GPS-störningar – spåras till Ryssland - SVT Nyheter
-- Vinstförbud i förskolan – S lägger förslaget på riksdagens bord - Socialdemokraterna
 - Kristersson och Åkesson oense om Stegrud - UNT
+- Vinstförbud i förskolan – S lägger förslaget på riksdagens bord - Socialdemokraterna
 - Misstanken: Åt och drack på lyxkrogar för 87 000 med falska swishar - DN
-- Sju knivhuggna i Kanada – en död - Västerbottens-Kuriren
-- EU-topp: Folkmord i Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Sju knivhuggna i Kanada – en död - HD
 - Dödssiffran i Gaza passerar 64 000 - GP
-- Dansk hjälporganisation beskjuten i Ukraina - DN
+- Macron: 26 länder redo sända soldater till Ukraina - UNT
+- Xi och Kim på tu man hand: Betonar omutlig vänskap - Västerbottens-Kuriren
 - Sänkt matmoms – en missad chans att styra mot mer hållbara matval - wwf.se
-- Efter Northvolts kris – så ska Lyten bygga framtidens batterier - DN
+- Små rörelser på Wall Street – Neonode kollapsar - Dagens industri
+- Allra-profilen Ernstberger tillbaka i rätten - Omni
 - Inför fredagsbeskedet: Färre sysselsatta än väntat i USA:s privata sektor - Dagens industri
-- Neonode rasar i efterhandeln i USA – efter utfall i patenttvist - EFN
 - Hollow Knight: Silksong – alla detaljer inför spelsläppet - Aftonbladet
 - Knepet för att slippa hemorrojder – sluta skrolla - SvD
 
@@ -73,15 +73,15 @@ _Updated: 2025-09-05 00:39_
 
 ## Business
 
-- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Ally Bank Earns Fourth Consecutive 'Outstanding' CRA Rating - Placera.se
 - Publication of the 2025 Half-Year Report - Placera.se
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -103,42 +103,42 @@ _Updated: 2025-09-05 00:39_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Osher centrum för integrativ hälsa - Karolinska Institutet
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Engineering Health 2024 - Chalmers
+- Johan von Schreeb - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
