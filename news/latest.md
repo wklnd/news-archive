@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-04 17:48_
+_Updated: 2025-09-04 18:52_
 
 - Watch as RFK Jr pressed on vaccines and CDC turmoil at Senate hearing - BBC
-- Trump’s killing of 11 alleged Venezuelan drug traffickers sets a dangerous precedent | Kenneth Roth - The Guardian
-- Trump asks Supreme Court to reverse tariffs ruling finding them illegal - NPR
-- Here’s how Chicago is preparing as possible National Guard deployment looms - CNN
 - 10 federal judges criticize Supreme Court's handling of Trump cases in rare interviews - NBC News
-- These 3 states are teaming up to counter the CDC's vaccine recommendations - Axios
-- DC sues Trump administration over National Guard deployment - CNN
-- Judge Hands Victory to Harvard in Funding Lawsuit, Ruling Trump Administration’s Freeze Unconstitutional - The Harvard Crimson
-- Researcher missing after falling into stream on Alaska’s Mendenhall Glacier - The Guardian
-- DHS opens new immigration detention facility inside Louisiana's Angola prison - CBS News
-- Lisbon funicular crash death toll climbs to 17 as Elevador da Gloria disaster leaves Portugal reeling - CBS News
-- Xi meets Kim a day after unprecedented show of unity with Putin at Chinese military parade - CNN
-- European leaders face tough choices as the UK and France host another meeting on Ukraine - AP News
-- Putin and China's Xi heard on hot mic discussing life-prolonging organ transplants and immortality - CBS News
+- Here’s how Chicago is preparing as possible National Guard deployment looms - CNN
+- Medical groups call on US Health Secretary Kennedy to step down - Reuters
+- Trump asks US supreme court to overturn trade tariffs ruling - The Guardian
+- As national consensus on vaccines unravels, Mass. and other states chart disparate paths - The Boston Globe
+- 2 tourists fall to their deaths in separate incidents near Alaska glacier - CBS News
+- Trump’s killing of 11 alleged Venezuelan drug traffickers sets a dangerous precedent | Kenneth Roth - The Guardian
+- Trump administration unlawfully cut Harvard's funding, US judge rules - Reuters
+- The Bleak Fantasy Of Donald Trump’s Death - Defector
+- Lisbon funicular crash death toll climbs to 16 as Elevador da Gloria disaster leaves Portugal reeling - CBS News
+- Xi Jinping and Kim Jong Un hold talks as west fears emergence of ‘autocratic alliance’ - Financial Times
+- Macron says 26 countries pledge troops as a reassurance force for Ukraine after fighting ends - AP News
+- Afghan earthquake death toll jumps to 2,205, as rescue efforts continue, official says - ABC News
+- Stock Market Today: Dow Edges Up; Stephen Miran Hearing Begins — Live Updates - The Wall Street Journal
 - Houston player wins $2M in Powerball drawing - KHOU
+- Danish company sues Trump administration over wind farm stop-work order - Politico
 - Gold could hit nearly $5,000 if Trump undermines Fed, says Goldman Sachs - Financial Times
-- American Eagle rides high on Sydney Sweeney ad buzz - Reuters
-- Stock Market Today: Dow Up On Jobs Data; American Eagle Soars, McDonald's Hits Early Entry (Live Coverage) - Investor's Business Daily
-- Galaxy Tab S11 revives 11-inch size as S Pen ditches Bluetooth, copies iPad placement - 9to5Google
-- Samsung launches the Galaxy S25 FE at IFA 2025 - Engadget
+- Meet Samsung Galaxy S25 FE: The Gateway to the Galaxy AI and Flagship Essentials - Samsung Newsroom
+- Hollow Knight: Silksong causes server chaos on Xbox, Steam, and Nintendo as platforms grind to a halt - Eurogamer
