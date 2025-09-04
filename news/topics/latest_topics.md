@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-04 04:07_
+_Updated: 2025-09-04 05:07_
 
 ## Top Stories
 
 - DN Direkt - Stegrud svarar på kritiken: ”Spaning om samtiden” - DN.se - DN
 - Tre döda i Lissabon – bergsbana spårade ur - GP
 - Insändare. Noterat av DN:s läsare den 3 september - DN
-- Kim, Putin och Xi på massiv militärparad i Peking - Sydsvenskan
-- 113 dödade i Gaza senaste dygnet - Västerbottens-Kuriren
 - Målning som stals av nazisterna hittad i Argentina - DN
+- Kim, Putin och Xi på massiv militärparad i Peking - Sydsvenskan
+- Nödhjälp från luften stoppad över Gaza - GP
 - Polisen Louise kallades för ”hora” – anmälde: ”Det tär” - DN
 - 18-årige Love tog sitt liv – pappa Örjan föreläser i Eda: ”Vanliga teorier stämmer inte alltid” - Arvika Nyheter
-- Två män skjutna till döds i Lunden i Göteborg - GP
+- Dubbelmordet i Lunden: Det här vet vi - SVT Nyheter
 - Väska med känsliga handlingar återfunnen - Aftonbladet
 - Hon spås bli Nordkoreas nästa diktator – Pekingbesöket spär på spekulationerna - DN
-- Explosion vid port i Linköping - SVT Nyheter
 - Venezuela: USA använde AI för att skapa video på sprängd ”knarkbåt” - DN
+- Explosion vid port i Linköping - SVT Nyheter
 - Toppmöten i skuggan av intensiva attacker över hela Ukraina - DN
 - Franska miljardböter mot Google och Shein - SvD
-- Analyschefen om Klarna: Dyr ”högriskaktie” - Aftonbladet
 - Trafikverkets granskning av delprojekt i Västlänken visar på allvarliga brister hos entreprenören - Järnvägar.nu
-- Brakförlust för Polestar: 7 miljarder i nedskrivning för modell 3 - Nyteknik
+- Klarnas ägare som säljer mest i IPO:n – se hela listan - EFN
+- Medlingsinstitutet ger upp i Teslakonflikten - Dagens Arbete
 - Tre scenarier för framtidens elsystem – fler komponenter men lägre kostnader utan ny kärnkraft - Chalmers
 - Gamla Pokémon-kort kan vara guldgruva – ökar i pris - Mariestads-Tidningen
 
@@ -37,16 +37,16 @@ _Updated: 2025-09-04 04:07_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
+- BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Kinesisk region ny etta på FN:s innovationslista - Omni
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
 - Liberty Global Schedules Investor Call for Third Quarter 2025 Results - Placera.se
 - ORIX Corporation USA Completes Acquisition of Majority Stake in Hilco Global - Placera.se
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
 
 ## Technology
 
@@ -77,6 +77,7 @@ _Updated: 2025-09-04 04:07_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Publication of the 2025 Half-Year Report - Placera.se
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
@@ -92,7 +93,6 @@ _Updated: 2025-09-04 04:07_
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 
 ## Health
 
@@ -103,19 +103,19 @@ _Updated: 2025-09-04 04:07_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Johan von Schreeb - Karolinska Institutet
+- Osher centrum för integrativ hälsa - Karolinska Institutet
+- Engineering Health 2024 - Chalmers
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -123,18 +123,18 @@ _Updated: 2025-09-04 04:07_
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
@@ -145,20 +145,20 @@ _Updated: 2025-09-04 04:07_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Lantbruket i Polen lyfte med EU - Jordbruksaktuellt
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
