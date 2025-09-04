@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-04 19:39_
+_Updated: 2025-09-04 20:47_
 
 ## Top Stories
 
 - Ny gul vädervarning för skyfall i Jönköpings län – risk för översvämning - SVT Nyheter
-- EU-topp: Folkmord i Gaza - Västerbottens-Kuriren
+- Insändare. Låt mig slippa en kulturkanon för att få elever att läsa - DN
+- Stenblock sprängt – Malmbanan öppen igen - GP
+- Ministern orolig efter skånska Hesa Fredrik-fadäsen - Sydsvenskan
+- S öppnar för att bygga över E6 – vid Olskroken - GP
 - Gick på Sverigeoffensiv – nu tappar Listhaug fart - SvD
-- Larmade om brister före dödsbranden på Öland: ”Otroligt frustrerande” - Aftonbladet
-- Norrman häktad – greps bara timmar efter dubbelmordet - DN
-- Öppen konflikt mellan Kristersson och Åkesson på presskonferens: ”Håller inte med” - DN
 - Vinstförbud i förskolan – S lägger förslaget på riksdagens bord - Socialdemokraterna
-- Motstridiga vittnesmål inför domen mot Landerholm - DN
-- Världen förundrad över kulturkanon utan Abba - Västerbottens-Kuriren
-- 25-åring dog på spåret i Malmö – nu har polisen en misstänkt - Arbetet
-- Kina visade upp framtidens vapen: ”Helt annan skala” - DN
-- Macron: 26 länder redo sända soldater till Ukraina - UNT
-- Washington DC stämmer Trumpadministrationen - GP
-- Minröjare vid dansk organisation dödade i attack - Västerbottens-Kuriren
+- Öppen konflikt mellan Kristersson och Åkesson på presskonferens: ”Håller inte med” - DN
+- Kraftig ökning av GPS-störningar – spåras till Ryssland - SVT Nyheter
+- Norrman gripen misstänkt för dubbelmordet i Lunden - GP
+- Macron: 26 länder redo att delta i ukrainsk stödstyrka - DN
+- Kennedy pressades i kongressen: ”Försätter barn i fara” - DN
+- Washington DC stämmer Trumpadministrationen - Hufvudstadsbladet
+- Filmen om Hind Rajab fick stående ovationer – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Nordea: Sänkt matmoms kan ge duvaktig lutning åt Riksbanken - Dagens industri
 - Efter Northvolts kris – så ska Lyten bygga framtidens batterier - DN
-- Guldpriset rusar – experten: ”Så börjar du investera i guld” - NWT
 - Neonode rasar i efterhandeln i USA – efter utfall i patenttvist - EFN
+- Wihlborgs: Skånes bästa lägen - Affärsvärlden
+- No Man's Sky-chef missnöjd med Silksong-priset – vill betala mer - FZ.se
 - Svart hål kan omkullkasta alla tidigare teorier - GP
-- Mobiltelefon på toa ökar risken för hemorrojder - Hufvudstadsbladet
 
 ## World News
 
@@ -33,18 +33,18 @@ _Updated: 2025-09-04 19:39_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
-- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
-- Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
+- Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
+- BIG Travel går in i globalt partnerskap - travelnews.se
+- 7 saker om EQTY Global Growth II Fund - The Portugal News
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
-- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- Dine Brands Global, Inc. Announces Third Quarter 2025 Dividend - Placera.se
-- ORIX Corporation USA Completes Acquisition of Majority Stake in Hilco Global - Placera.se
+- UN Security Council calls emergency meeting on Gaza - Poddtoppen
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 - FleishmanHillard Appoints EJ Kim as Global Managing Director of TRUE Global Intelligence - Placera.se
 - S&P Global Announces Key Leadership Appointments for Mobility Business - Placera.se
 
@@ -98,67 +98,67 @@ _Updated: 2025-09-04 19:39_
 
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Europeisk konferens för socialmedicin: Praktik, teori och handling för en hälsosammare framtid - sls.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Engineering Health 2024 - Chalmers
 - Johan von Schreeb - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
