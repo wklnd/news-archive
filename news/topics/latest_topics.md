@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-04 06:42_
+_Updated: 2025-09-04 07:40_
 
 ## Top Stories
 
 - Bergbana kraschade i Lissabon – minst 15 döda - DN
-- DN Direkt - Nytt larm om explosion – utryckning i Norrköping - DN.se - DN
+- Skottlossning mot bostad i Malmö - SVT Nyheter
 - DN Direkt - Stegrud svarar på kritiken: ”Spaning om samtiden” - DN.se - DN
-- Ny forskning: 40 gånger mer troligt med storbränder - GP
+- Mördarjakt efter dubbelmordet i Lunden - GP
 - Robotvargar och ubåtsdrönare – det här är Kinas nya vapen - GP
-- Strömmer om dubbelmordet: ”Ett förfärligt våldsdåd” - Omni
-- Strypsexet oroar ministern: Oerhört farligt - SvD
-- Här är Sveriges nya kulturkanon: Strindberg och Pippi Långstrump - SVT Nyheter
+- ”Man blir trött på kulturknuttarnas buttra attityd” - Västerbottens-Kuriren
+- DN Direkt - Nytt larm om explosion – utryckning i Norrköping - DN.se - DN
+- Strypsexet oroar ministern: Oerhört farligt - Aftonbladet
+- Geopolitisk oro dämpade utländsk investeringsvilja - Omni
 - En till sjukhus när strömkablar föll ned - Aftonbladet
-- Väska med känsliga handlingar återfunnen - Aftonbladet
 - Nära 30 döda i båtolycka i Nigeria - Västerbottens-Kuriren
-- Skalven i Afghanistan: Därför drabbas kvinnor värst - Västerbottens-Kuriren
-- Fem barn dödade i israelisk attack i ”säker zon” – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Hon spås bli Nordkoreas nästa diktator – Pekingbesöket spär på spekulationerna - DN
+- Man erkänner mordet – kan ha utpressats av Ryssland - Omni
+- Zelenskyj har bett Trump öka pressen på Putin - DN
+- Domare: Olagligt frysa Harvards statliga bidrag - SvD
 - Läckande plaströr måste bytas i prestigebygget – hyresgästerna rasar - DN
-- Franska miljardböter mot Google och Shein - SvD
 - Neonode rasade i USA-efterhandeln på patentutslag - Dagens industri
-- ”Hur skyddar jag min funktionshindrade son när jag gått bort?” - DN
+- Franska miljardböter mot Google och Shein - GP
+- Här är verkliga vinnaren på den höjda panten - SvD
 - Tre scenarier för framtidens elsystem – fler komponenter men lägre kostnader utan ny kärnkraft - Chalmers
 - Gamla Pokémon-kort kan vara guldgruva – ökar i pris - Mariestads-Tidningen
 
@@ -40,13 +40,13 @@ _Updated: 2025-09-04 06:42_
 - World Athletics introduces gene test for female category - BBC
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
-- Kinesisk region ny etta på FN:s innovationslista - Omni
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- UN Security Council calls emergency meeting on Gaza - Poddtoppen
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- Liberty Global Schedules Investor Call for Third Quarter 2025 Results - Placera.se
-- ORIX Corporation USA Completes Acquisition of Majority Stake in Hilco Global - Placera.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- UN Security Council calls emergency meeting on Gaza - Poddtoppen
+- Liberty International i Stockholm växer - travelnews.se
+- Roblox Partners With IARC to Enhance Global Age and Content Ratings - Placera.se
+- APsystems Named Most Bankable Inverter Company Worldwide by Sinovoltaics - Placera.se
+- ORIX Corporation USA Completes Acquisition of Majority Stake in Hilco Global - Placera.se
 
 ## Technology
 
@@ -56,7 +56,6 @@ _Updated: 2025-09-04 06:42_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
@@ -67,6 +66,7 @@ _Updated: 2025-09-04 06:42_
 - WiMi Explores Quantum Algorithms for Large-Scale Machine Learning Models - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
@@ -100,19 +100,19 @@ _Updated: 2025-09-04 06:42_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Engineering Health 2024 - Chalmers
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
@@ -145,20 +145,20 @@ _Updated: 2025-09-04 06:42_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
-- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Här är världens största jordbruk - ATL
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Lantbruket i Polen lyfte med EU - Jordbruksaktuellt
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Lantbruket i Polen lyfte med EU - Jordbruksaktuellt
