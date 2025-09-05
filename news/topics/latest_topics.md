@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-05 23:38_
+_Updated: 2025-09-06 00:39_
 
 ## Top Stories
 
 - Sveriges tar ledningen i VM-kvalet - SvD
 - Flygplan har kraschat i sjö – två personer döda - DN
-- DN Direkt - Rapport: Över 122 000 flyg störda av ryska signaler - DN.se - DN
-- Carl Bildt ställer upp i kyrkovalet - Expressen
 - Personuppgifter om 165 000 göteborgare läckta - SvD
-- ”Kulturkanon och tornedalingar” - Västerbottens-Kuriren
+- Misslyckat underrättelseuppdrag i Nordkorea avslöjat - GP
+- Hon stormade kongressen - får nu militär hedersbegravning av Trump - Expressen
+- Falska sms sprids – påstås att Sverige utsätts för väpnat angrepp - SVT Nyheter
+- Ryska signaler hotar flygsäkerheten - Västerbottens-Kuriren
 - Almsjukan dödar träd på ett år – så sprids den - DN
 - 05 september 18.16, Skottlossning, Botkyrka - polisen.se
-- Falska sms sprids – påstås att Sverige utsätts för väpnat angrepp - SVT Nyheter
-- Hultqvist (S) efter Landerholm-domen: Se över lagen - SVT Nyheter
+- Kulturkanon föreslås få kosta 170 miljoner - UNT
 - Trump döper om Försvarsdepartementet – ska heta ”Krigsdepartementet” - SVT Nyheter
-- Israelisk attack mot höghus i Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Israeliska attacker mot Gazas höghus - Västerbottens-Kuriren
 - Modeexpert om Stubbs klädval: ”Visar var hans lojalitet ligger” - DN
 - Europeiskt land nära inbördeskrig uppger premiärmister - Marcus Oscarsson
 - Trump hotar EU efter Googles miljardböter - DN
 - Tesla lockar Elon Musk – med 1 000 miljarder dollar - Aftonbladet
-- Ilija Batljan Invest återköper obligationer - Dagens industri
-- Varsel om nya sympatiåtgärder från Elektrikerna i IF Metalls konflikt mot Tesla - Elektrikerna
+- Livsmedelsföretagen om sänkt matmoms: ”Välkomnar alla åtgärder som kan stärka köpkraften” - Mynewsdesk
+- Fackförbundet Elektrikerna trappar upp Teslastrejken - Evertiq
 - Så fångar du helgens blodmåne med mobilen – grundtipsen för en magisk bild - SVT Nyheter
 - Populära indiespelet tvingar rivalerna skjuta upp lanseringar - Expressen
 
@@ -30,23 +30,23 @@ _Updated: 2025-09-05 23:38_
 - Global tillväxt för halvledarutrustning under Q2 - Evertiq
 - CHiQ Showcases Panda-Themed AI Tech, FIS Sponsorship, and ESG Leadership at IFA 2025 - Placera.se
 - World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
-- Choice Hotels International Debuts in Argentina with the Opening of Radisson Blu Bariloche - Placera.se
+- Resmed Launches Sleep Institute to Elevate Sleep Health as a Global Priority - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Choice Hotels International Debuts in Argentina with the Opening of Radisson Blu Bariloche - Placera.se
+- Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
+- Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
+- BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - economictimes.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
-- Coca-Cola väljer Cascais för ny global kampanj - The Portugal News
-- Global hållbarhetskonferens meddelar flytt till "Portugals Venedig - The Portugal News
 
 ## Technology
 
@@ -73,15 +73,15 @@ _Updated: 2025-09-05 23:38_
 
 ## Business
 
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
-- Publication of the 2025 Half-Year Report - Placera.se
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Publication of the 2025 Half-Year Report - Placera.se
+- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - DeFi Technologies Reports All-Time High in Bitcoin Assets Under Management and Treasury Holdings - Placera.se
@@ -91,8 +91,8 @@ _Updated: 2025-09-05 23:38_
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -122,23 +122,23 @@ _Updated: 2025-09-05 23:38_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
