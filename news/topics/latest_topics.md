@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-05 21:37_
+_Updated: 2025-09-05 22:40_
 
 ## Top Stories
 
-- Känsliga uppgifter från Kalmar kommun har läckt ut efter it-attacken - SVT Nyheter
-- Man skottskadad i Alby – polisen jagar skytten - Västerbottens-Kuriren
-- Kvinna hittad död – man gripen - Aftonbladet
-- 123 000 flyg störda av Ryssland på fyra månader - Omni
+- Mindre flygplan har störtat i sjö i Norrtälje - SvD
+- 05 september 18.16, Skottlossning, Botkyrka - polisen.se
+- Carl Bildt ställer upp i kyrkovalet - Expressen
 - Hon flyr Trumps USA: ”Helt annan nivå nu” - SvD
-- Lättnad för Kristersson – men krisen är inte över - TV4 Nyheterna
-- Mindre plan kraschade i sjö i Uppland - UNT
-- Falska sms sprids – påstås att Sverige utsätts för väpnat angrepp - SVT Nyheter
+- Personuppgifter om 165 000 göteborgare läckta - GP
+- Dom om misstänkt vårdslöshet med hemlig uppgift - Säkerhetspolisen
+- DN Direkt - Rapport: Över 122 000 flyg störda av ryska signaler - DN.se - DN
 - Almsjukan dödar träd på ett år – så sprids den - DN
+- Falska sms sprids – påstås att Sverige utsätts för väpnat angrepp - SVT Nyheter
 - Skyfall över Jönköping – räddningstjänst nerringd - Aftonbladet
 - Israelisk attack mot höghus i Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Modeexpert om Stubbs klädval: ”Visar var hans lojalitet ligger” - DN
 - Minst 15 döda i ryska attacker - SVT Nyheter
-- Dödssiffran i Gaza passerar 64 000 - GP
-- Livsmedelsföretagen om sänkt matmoms: ”Välkomnar alla åtgärder som kan stärka köpkraften” - Mynewsdesk
+- 26 länder lovar militärt stöd till Ukraina – Sverige ett av dem - Europaportalen
+- Trump hotar EU efter Googles miljardböter - DN
 - Tesla lockar Elon Musk – med 1 000 miljarder dollar - Aftonbladet
-- ILIJA BATLJAN INVEST AB (PUBL) OFFENTLIGGÖR RESULTAT FRÅN ÅTERKÖPSERBJUDANDEN AV UTESTÅENDE OBLIGATIONER - Cision News
-- Jobbras i USA – betydligt färre nya jobb - SvD
+- Ilija Batljan Invest återköper obligationer - Dagens industri
+- Varsel om nya sympatiåtgärder från Elektrikerna i IF Metalls konflikt mot Tesla - Elektrikerna
 - Populära indiespelet tvingar rivalerna skjuta upp lanseringar - Expressen
 - Så fångar du helgens blodmåne med mobilen – grundtipsen för en magisk bild - SVT Nyheter
 
@@ -34,19 +34,19 @@ _Updated: 2025-09-05 21:37_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Choice Hotels International Debuts in Argentina with the Opening of Radisson Blu Bariloche - Placera.se
-- Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
-- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
-- Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
+- Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
+- Roblox Partners With IARC to Enhance Global Age and Content Ratings - Placera.se
 
 ## Technology
 
@@ -59,17 +59,17 @@ _Updated: 2025-09-05 21:37_
 - The Ondas and Unusual Machines collaboration is expected to include: - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
-- Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
+- Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
 
 ## Business
 
@@ -96,7 +96,6 @@ _Updated: 2025-09-05 21:37_
 
 ## Health
 
-- Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
@@ -104,18 +103,19 @@ _Updated: 2025-09-05 21:37_
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Osher centrum för integrativ hälsa - Karolinska Institutet
 - Europeisk konferens för socialmedicin: Praktik, teori och handling för en hälsosammare framtid - sls.se
+- Fakulteten för hälsa och samhälle - Malmö universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
+- Johan von Schreeb - Karolinska Institutet
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
