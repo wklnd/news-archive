@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-05 18:43_
+_Updated: 2025-09-05 19:39_
 
 ## Top Stories
 
-- Hamas publicerar ny gisslanvideo – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Flygplan har kraschat i sjö – två personer hittade - DN
-- Efter attacken: Uppgifter från universitetet läckte – kommunen har inte fått besked - Västerbottens-Kuriren
+- Israelisk attack mot höghus i Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Man skottskadad i Alby – polisen jagar skytten - Västerbottens-Kuriren
+- Mindre flygplan har störtat i sjö i Norrtälje - SvD
 - Åskoväder rör sig upp över landet – villa i brand - Aftonbladet
 - Man skadad vid skärmflygarolycka på Åreskutan - SVT Nyheter
-- Skyfall över Jönköping – räddningstjänst nerringd - Aftonbladet
+- Här har 5 000 i Göteborg drabbats av den stora it-attacken - GP
 - Hultqvist (S) efter Landerholm-domen: Se över lagen - SVT Nyheter
 - SOS Alarm varnar: Falska sms om VMA - GP
-- Bildt ställer upp i kyrkovalet – på sista plats - GP
 - Marlen Eskander: Regeringens kanon exkluderar de nya svenskarnas erfarenheter - DN
+- Oväder – trafikstrul och översvämningar - Expressen
 - Bosättarnas ”gudmor”: ”Netanyahu är jätteglad, men han kan inte säga det” - DN
-- KRÖNIKA: Fruars och flickvänners bröst och rumpor delades på Facebook - Sydsvenskan
-- Storbritanniens biträdande premiärminister avgår efter skattemiss - DN
+- Modeexpert om Stubbs klädval: ”Visar var hans lojalitet ligger” - DN
+- Brittisk toppolitiker avgår efter skattemiss - GP
 - Putin om Ukraina i Kina: Ljus i slutet av tunneln eller fortsättning av kriget? - Bulletin
 - Livsmedelsföretagen om sänkt matmoms: ”Välkomnar alla åtgärder som kan stärka köpkraften” - Mynewsdesk
+- Tesla lockar Elon Musk – med 1 000 miljarder dollar - Aftonbladet
 - EU trotsar Trump – ger Google miljardböter - Dagens industri
-- Fackförbundet Elektrikerna trappar upp Teslastrejken - Evertiq
-- Stiltje på bomarknaden lockar fler spekulanter - SvD
+- ILIJA BATLJAN INVEST AB (PUBL) OFFENTLIGGÖR RESULTAT FRÅN ÅTERKÖPSERBJUDANDEN AV UTESTÅENDE OBLIGATIONER - Cision News
 - Populära indiespelet tvingar rivalerna skjuta upp lanseringar - Expressen
 - Så fångar du helgens blodmåne med mobilen – grundtipsen för en magisk bild - SVT Nyheter
 
@@ -29,7 +29,6 @@ _Updated: 2025-09-05 18:43_
 
 - Global tillväxt för halvledarutrustning under Q2 - Evertiq
 - CHiQ Showcases Panda-Themed AI Tech, FIS Sponsorship, and ESG Leadership at IFA 2025 - Placera.se
-- Riviera or statehood: the future of Gaza - Poddtoppen
 - World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
 - Resmed Launches Sleep Institute to Elevate Sleep Health as a Global Priority - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
@@ -40,12 +39,13 @@ _Updated: 2025-09-05 18:43_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - S&P Global Announces Key Leadership Appointments for Mobility Business - Placera.se
 
 ## Technology
@@ -91,8 +91,8 @@ _Updated: 2025-09-05 18:43_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
@@ -103,41 +103,41 @@ _Updated: 2025-09-05 18:43_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Osher centrum för integrativ hälsa - Karolinska Institutet
 - Europeisk konferens för socialmedicin: Praktik, teori och handling för en hälsosammare framtid - sls.se
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
@@ -154,11 +154,11 @@ _Updated: 2025-09-05 18:43_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- De gick från reko till eko - ST-tidningen
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Tio jordbruksaktier för depån - Placera.se
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
