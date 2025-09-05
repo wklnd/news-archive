@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-05 01:37_
+_Updated: 2025-09-05 04:09_
 
 ## Top Stories
 
-- Ny gul vädervarning för skyfall i Jönköpings län – risk för översvämning - SVT Nyheter
-- Biden opererad för hudcancer - GP
-- EU-topp: Folkmord i Gaza – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Insändare. Låt mig slippa en kulturkanon för att få elever att läsa - DN
+- Landssorg efter bergbaneolycka mitt i Lissabon - GP
+- Biden opererad för hudcancer - SVT Nyheter
 - Kennedy pressades i kongressen: ”Försätter barn i fara” - DN
-- Krönika: Därför har rika personer slutat bära lyxklockor - GP
+- Hemligt vilka förvaltningar som drabbats i hackerattack - GP
+- Dödssiffran i Gaza passerar 64 000 - Hufvudstadsbladet
+- Greps i Oslo för dubbelmordet - Expressen
 - Kraftig ökning av GPS-störningar – spåras till Ryssland - SVT Nyheter
-- Kristersson och Åkesson oense om Stegrud - UNT
-- Vinstförbud i förskolan – S lägger förslaget på riksdagens bord - Socialdemokraterna
 - Misstanken: Åt och drack på lyxkrogar för 87 000 med falska swishar - DN
-- Sju knivhuggna i Kanada – en död - HD
-- Dödssiffran i Gaza passerar 64 000 - GP
+- Kristersson och Åkesson oense om Stegrud - UNT
+- Kulturkanon föreslås få kosta över 60 miljoner - Västerbottens-Kuriren
+- Sju knivhuggna i Kanada – en död - Västerbottens-Kuriren
 - Macron: 26 länder redo sända soldater till Ukraina - UNT
-- Xi och Kim på tu man hand: Betonar omutlig vänskap - Västerbottens-Kuriren
+- Dödssiffran i Gaza passerar 64 000 - GP
+- Trumps krav: Pressa Kina och sluta köpa rysk olja - Hufvudstadsbladet
 - Sänkt matmoms – en missad chans att styra mot mer hållbara matval - wwf.se
-- Små rörelser på Wall Street – Neonode kollapsar - Dagens industri
+- Inför fredagsbeskedet: Färre sysselsatta än väntat i USA:s privata sektor - DI
 - Allra-profilen Ernstberger tillbaka i rätten - Omni
-- Inför fredagsbeskedet: Färre sysselsatta än väntat i USA:s privata sektor - Dagens industri
+- Nvidia uppges komma att investera första gången i kvantdatorbolaget Quantinuum - BN - Placera.se
 - Hollow Knight: Silksong – alla detaljer inför spelsläppet - Aftonbladet
-- Knepet för att slippa hemorrojder – sluta skrolla - SvD
+- Samsung Galaxy Tab S11-serien lanseras i Sverige – allt du kan förvänta dig av en premium-surfplatta - Mynewsdesk
 
 ## World News
 
-- Choice Hotels International Debuts in Argentina with the Opening of Radisson Blu Bariloche - Placera.se
-- World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
 - Resmed Launches Sleep Institute to Elevate Sleep Health as a Global Priority - Placera.se
+- World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
+- Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
+- Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
+- BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- Global hållbarhetskonferens meddelar flytt till "Portugals Venedig - The Portugal News
-- Roblox Partners With IARC to Enhance Global Age and Content Ratings - Placera.se
-- APsystems Named Most Bankable Inverter Company Worldwide by Sinovoltaics - Placera.se
+- FleishmanHillard Appoints EJ Kim as Global Managing Director of TRUE Global Intelligence - Placera.se
+- S&P Global Announces Key Leadership Appointments for Mobility Business - Placera.se
 
 ## Technology
 
@@ -54,9 +54,10 @@ _Updated: 2025-09-05 01:37_
 - 290 million for digitalisation of Swedish industry - Vinnova
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
+- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
@@ -69,12 +70,11 @@ _Updated: 2025-09-05 01:37_
 - Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
-- Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
 
 ## Business
 
+- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
@@ -83,16 +83,16 @@ _Updated: 2025-09-05 01:37_
 - Ally Bank Earns Fourth Consecutive 'Outstanding' CRA Rating - Placera.se
 - Publication of the 2025 Half-Year Report - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
 
@@ -108,14 +108,14 @@ _Updated: 2025-09-05 01:37_
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -146,6 +146,7 @@ _Updated: 2025-09-05 01:37_
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
@@ -154,11 +155,10 @@ _Updated: 2025-09-05 01:37_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- USA tvingar ut EU på banan - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
