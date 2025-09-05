@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-05 16:41_
+_Updated: 2025-09-05 17:38_
 
 ## Top Stories
 
-- Israelisk attack mot höghus i Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Henrik Landerholm frias från åtalet om vårdslöshet med hemlig uppgift - SVT Nyheter
-- Beskedet: Uppgifter från Linköpings kommun stals i cyberattacken - Corren
+- Mindre plan har kraschat i sjö – stor insats - SvD
+- Här har 5 000 i Göteborg drabbats av den stora it-attacken - GP
 - Moderattopp vägrade ta emot flyktingar – åtalas - DN
-- Skärmflygare har flugit in i berg i Åre - GP
-- Bosättarnas ”gudmor”: ”Netanyahu är jätteglad, men han kan inte säga det” - DN
+- Åskoväder rör sig upp över landet – villa i brand - Aftonbladet
+- Man skadad vid skärmflygarolycka på Åreskutan - SVT Nyheter
+- Fullt utvecklad brand i radhuslänga - Expressen
+- Åklagaren om friande domen: ”Mycket talar för att domen kommer överklagas” - DN
+- SOS Alarm varnar: Falska sms om VMA - GP
+- Bildt ställer upp i kyrkovalet – på sista plats - Västerbottens-Kuriren
 - Turkiet kan begära att Sverige tar emot PKK-medlemmar - Sydsvenskan
-- Kraftigt regnoväder drar in - Expressen
-- Högerväljarna tappar tron på M-ledd regering 2026 - DN
-- Invandring av anhöriga kan stramas åt - Aftonbladet
-- BBC: 125 000 ryska soldater dödade i Ukrainakriget - DN
-- Partierna öppnar för svenska soldater i Ukraina - Västerbottens-Kuriren
-- Veteranpolitiker vald till ny premiärminister - GP
-- 26 länder lovar militärt stöd till Ukraina – Sverige ett av dem - Europaportalen
+- Uppgifter: Venezuelanska flyg över USA-fartyg - GP
+- Bosättarnas ”gudmor”: ”Netanyahu är jätteglad, men han kan inte säga det” - DN
+- Israelisk attack mot höghus i Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Storbritanniens biträdande premiärminister avgår efter skattemiss - DN
 - Livsmedelsföretagen om sänkt matmoms: ”Välkomnar alla åtgärder som kan stärka köpkraften” - Mynewsdesk
-- Stiltje på bomarknaden lockar fler spekulanter - SvD
+- Bostadsrättspriserna oförändrade – men försäljningarna ökar - Fastighetstidningen
 - Tesla lockar Elon Musk – med 1 000 miljarder dollar - Aftonbladet
 - Varsel om nya sympatiåtgärder från Elektrikerna i IF Metalls konflikt mot Tesla - Elektrikerna
-- Warner Bros Discovery stämmer Midjourney - Computer Sweden
 - Populära indiespelet tvingar rivalerna skjuta upp lanseringar - Expressen
+- Så fångar du helgens blodmåne med mobilen – grundtipsen för en magisk bild - SVT Nyheter
 
 ## World News
 
@@ -34,15 +34,15 @@ _Updated: 2025-09-05 16:41_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
+- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
 - Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- 7 saker om EQTY Global Growth II Fund - The Portugal News
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
@@ -60,16 +60,16 @@ _Updated: 2025-09-05 16:41_
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
-- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
-- Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
-- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
+- Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
+- ParTec AG: Chancellor Merz thanks all project partners and manufacturers ParTec and Eviden for their pioneering work – Europe's first exascale supercomputer JUPITER inaugurated - Placera.se
 
 ## Business
 
@@ -79,6 +79,7 @@ _Updated: 2025-09-05 16:41_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Ally Bank Earns Fourth Consecutive 'Outstanding' CRA Rating - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2025-09-05 16:41_
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 
 ## Health
 
@@ -104,6 +104,8 @@ _Updated: 2025-09-05 16:41_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Osher centrum för integrativ hälsa - Karolinska Institutet
+- Europeisk konferens för socialmedicin: Praktik, teori och handling för en hälsosammare framtid - sls.se
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
@@ -114,31 +116,29 @@ _Updated: 2025-09-05 16:41_
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
-- University of Science, VNU-HCM tecknade ett samarbetsavtal med Vietnams atomenergiinstitut - Vietnam.vn
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
 
