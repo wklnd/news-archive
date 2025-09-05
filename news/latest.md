@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-05 07:47_
+_Updated: 2025-09-05 08:52_
 
 - 4 major moments from RFK Jr.’s contentious hearing with senators - PBS
-- Trump to rebrand Pentagon as Department of War - BBC
+- Trump to rebrand Defense Department as War Department - The Washington Post
 - Zuckerberg, Gates and Altman lavish praise on Trump at dinner - Axios
-- Venezuelan Jets Fly Over U.S. Navy Ship in Show of Force - The New York Times
-- Pentagon approves use of Navy base for Chicago ICE operations - The Washington Post
-- Hawaii to join West Coast Health Alliance with California, Oregon, and Washington - Governor of California (.gov)
+- China’s JL-1 Air Launched Ballistic Missile’s Official Debut Is A Big Deal - The War Zone
+- 2 Venezuelan military aircraft flew near US Navy vessel in 'highly provocative move,' Pentagon says - ABC News
+- Jeffrey Epstein discharge petition will fail, Mike Johnson predicts - Politico
 - New Congressional Map Clears First Hurdle in Missouri - The New York Times
-- Northwestern University President Michael Schill resigns amid funding freeze - Chicago Tribune
-- Trump administration unlawfully cut Harvard's funding, US judge rules - Reuters
+- Northwestern president resigns amid funding cuts, White House negotiations - The Washington Post
+- DC lawsuit challenges Trump’s National Guard deployment as a forced ‘military occupation’ - AP News
 - Trump's DOJ sues Boston over immigration enforcement policy - Politico
-- Kim tells Xi that North Korea will support China's interests, KCNA reports - Reuters
+- Afghanistan earthquake death toll tops 2,200 - DW
 - Macron says 26 nations ready to provide postwar military backing to Ukraine - The Guardian
-- After Afghanistan Earthquake, Women Tell of Being Shunned by Male Rescuers - The New York Times
-- Thailand’s ‘cannabis king’ poised to be next prime minister - Financial Times
-- Treasury Traders Await Payrolls Report That Could Sway Fed Bets - Bloomberg.com
-- Asia to Join Global Equity Rally Before Jobs Data: Markets Wrap - Bloomberg.com
+- Denying famine, Israel threatens more curbs on Gaza aid - NPR
+- What to know about the streetcar derailment in Lisbon - AP News
 - Justice Department issues subpoenas targeting Fed governor Trump is trying to oust - The Washington Post
-- Boeing Defense plans to replace striking workers with new hires - Reuters
+- Futures: AI Giant Jumps Late, Jobs Data Due - Investor's Business Daily
+- Treasury Traders Await Payrolls Report That Could Sway Fed Bets - Bloomberg.com
+- We raised our Broadcom price target after a stock pop that was all about the conference call - CNBC
 - IFA 2025: the biggest tech and gadget announcements - The Verge
 - Facebook is trying to make ‘pokes’ happen again - TechCrunch
