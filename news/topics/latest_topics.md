@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-05 19:39_
+_Updated: 2025-09-05 20:45_
 
 ## Top Stories
 
-- Israelisk attack mot höghus i Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Man skottskadad i Alby – polisen jagar skytten - Västerbottens-Kuriren
-- Mindre flygplan har störtat i sjö i Norrtälje - SvD
-- Åskoväder rör sig upp över landet – villa i brand - Aftonbladet
+- Skottlossning vid Alby tunnelbanestation – man skadad - SvD
+- Flygplan har kraschat i sjö – två personer hittade - DN
+- 123 000 flyg störda av Ryssland på fyra månader - Omni
 - Man skadad vid skärmflygarolycka på Åreskutan - SVT Nyheter
-- Här har 5 000 i Göteborg drabbats av den stora it-attacken - GP
+- Miljödata om attacken: Uppgifter har läckt – alla drabbade är informerade - Voister
+- Fullt utvecklad brand i radhuslänga - Expressen
 - Hultqvist (S) efter Landerholm-domen: Se över lagen - SVT Nyheter
-- SOS Alarm varnar: Falska sms om VMA - GP
-- Marlen Eskander: Regeringens kanon exkluderar de nya svenskarnas erfarenheter - DN
+- Polis varnar för falska VMA-sms i Västsverige - GP
 - Oväder – trafikstrul och översvämningar - Expressen
-- Bosättarnas ”gudmor”: ”Netanyahu är jätteglad, men han kan inte säga det” - DN
+- Marlen Eskander: Regeringens kanon exkluderar de nya svenskarnas erfarenheter - DN
+- Israelisk attack mot höghus i Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Modeexpert om Stubbs klädval: ”Visar var hans lojalitet ligger” - DN
-- Brittisk toppolitiker avgår efter skattemiss - GP
-- Putin om Ukraina i Kina: Ljus i slutet av tunneln eller fortsättning av kriget? - Bulletin
+- Bosättarnas ”gudmor”: ”Netanyahu är jätteglad, men han kan inte säga det” - DN
+- Minst 15 döda i ryska attacker - SVT Nyheter
 - Livsmedelsföretagen om sänkt matmoms: ”Välkomnar alla åtgärder som kan stärka köpkraften” - Mynewsdesk
 - Tesla lockar Elon Musk – med 1 000 miljarder dollar - Aftonbladet
-- EU trotsar Trump – ger Google miljardböter - Dagens industri
 - ILIJA BATLJAN INVEST AB (PUBL) OFFENTLIGGÖR RESULTAT FRÅN ÅTERKÖPSERBJUDANDEN AV UTESTÅENDE OBLIGATIONER - Cision News
+- Hexagon säljer D&E till Cadence för 2,7 miljarder euro - Evertiq
 - Populära indiespelet tvingar rivalerna skjuta upp lanseringar - Expressen
 - Så fångar du helgens blodmåne med mobilen – grundtipsen för en magisk bild - SVT Nyheter
 
@@ -30,23 +30,23 @@ _Updated: 2025-09-05 19:39_
 - Global tillväxt för halvledarutrustning under Q2 - Evertiq
 - CHiQ Showcases Panda-Themed AI Tech, FIS Sponsorship, and ESG Leadership at IFA 2025 - Placera.se
 - World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
-- Resmed Launches Sleep Institute to Elevate Sleep Health as a Global Priority - Placera.se
+- Choice Hotels International Debuts in Argentina with the Opening of Radisson Blu Bariloche - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Choice Hotels International Debuts in Argentina with the Opening of Radisson Blu Bariloche - Placera.se
 - Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
 - Techarenan News goes English (Partly at least) - Techarenan.news
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- New Secretary General appointed - Olof Palme International Center
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
+- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
-- BIG Travel går in i globalt partnerskap - travelnews.se
+- 7 saker om EQTY Global Growth II Fund - The Portugal News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
-- S&P Global Announces Key Leadership Appointments for Mobility Business - Placera.se
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -60,16 +60,16 @@ _Updated: 2025-09-05 19:39_
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
-- Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
 
 ## Business
 
@@ -121,23 +121,23 @@ _Updated: 2025-09-05 19:39_
 
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
