@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-05 01:47_
+_Updated: 2025-09-05 04:12_
 
-- Trump seeks to rename Department of Defense to Department of War - Axios
-- Senators from both parties grilled RFK Jr. on vaccines and more - NPR
-- Trump says the U.S. military destroyed a boat operated by Tren de Aragua off Venezuela. Here's what to know about the gang. - CBS News
-- Medical groups call on US Health Secretary Kennedy to step down - Reuters
-- President of Northwestern, a School Attacked by the G.O.P., Will Resign - The New York Times
-- Trump will host top tech CEOs except Musk at a White House dinner - PBS
+- Trump praises RFK Jr.’s performance even as some Republicans grow weary of his tumultuous term - CNN
+- Trump to rebrand Pentagon as Department of War - BBC
+- RFK Jr. accuses ousted CDC director of lying about pressure to preapprove vaccine recommendations - CBS News
+- Democrats say they were left in the dark on Trump's drug boat strike - Axios
+- The U.S. is designating Ecuador's largest gangs as terrorists - NPR
+- Northwestern University President Michael Schill resigns amid funding freeze - Chicago Tribune
 - Harvard Won Its Money Back, but Will It Actually Get It? - The New York Times
-- DC sues Trump over National Guard deployment - Politico
-- Who is Joseph Ladapo, the Florida health official who opposes vaccine mandates? - BBC
-- RFK Jr. says former CDC director Susan Monarez lied to Americans - Axios
-- ‘Someone needs to answer for what happened’: Lisbon reacts to streetcar crash that killed 16 - The Guardian
-- North Korean leader Kim Jong Un meets with Chinese leader Xi Jinping - NPR
-- Macron says 26 countries pledge troops as a reassurance force for Ukraine after fighting ends - AP News
+- Scoop: D.C. mayor urged AG against raising tensions with Trump, suing over National Guard - Axios
+- Trump's DOJ sues Boston over immigration enforcement policy - Politico
+- Justice Dept. Accuses California Utility of Starting Deadly Eaton Fire - The New York Times
+- Macron says 26 nations ready to provide postwar military backing to Ukraine - The Guardian
+- What to know about the streetcar derailment in Lisbon - AP News
 - After Afghanistan Earthquake, Women Tell of Being Shunned by Male Rescuers - The New York Times
+- Israeli military says it controls 40% of Gaza City, plans to expand operation in coming days - Reuters
 - Powerball jackpot increases to $1.7B, SC tickets win from Wednesday drawing - WIS News 10
-- Stock Market Today: Stocks Rise; Miran Would Consider Keeping White House Job While at Fed - The Wall Street Journal
-- First they came for Netflix passwords. Now, some free Amazon deliveries are ending - Los Angeles Times
-- Lululemon shares plunge as earnings guidance falls well short of estimates - CNBC
+- Senate Republicans face a surprise new Fed dilemma - Politico
+- What To Expect From This Week's Jobs Report - Investopedia
+- US Moves to Eliminate Rules Requiring Flight Delay Compensation - Bloomberg.com
 - ‘Hollow Knight: Silksong’ Is Already Causing Online Gaming Stores to Crash - WIRED
 - IFA 2025: the biggest tech and gadget announcements - The Verge
