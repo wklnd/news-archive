@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-05 04:09_
+_Updated: 2025-09-05 05:10_
 
 ## Top Stories
 
 - Landssorg efter bergbaneolycka mitt i Lissabon - GP
-- Biden opererad för hudcancer - SVT Nyheter
-- Kennedy pressades i kongressen: ”Försätter barn i fara” - DN
+- Misstänkt farligt föremål utanför Karlskrona - Västerbottens-Kuriren
+- Källor: Toppar kritiserar Netanyahus offensiv – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Uppgifter: Venezuelanska flyg över USA-fartyg - GP
 - Hemligt vilka förvaltningar som drabbats i hackerattack - GP
-- Dödssiffran i Gaza passerar 64 000 - Hufvudstadsbladet
-- Greps i Oslo för dubbelmordet - Expressen
-- Kraftig ökning av GPS-störningar – spåras till Ryssland - SVT Nyheter
+- Kulturkanon föreslås få kosta över 60 miljoner - Sydsvenskan
 - Misstanken: Åt och drack på lyxkrogar för 87 000 med falska swishar - DN
 - Kristersson och Åkesson oense om Stegrud - UNT
-- Kulturkanon föreslås få kosta över 60 miljoner - Västerbottens-Kuriren
-- Sju knivhuggna i Kanada – en död - Västerbottens-Kuriren
-- Macron: 26 länder redo sända soldater till Ukraina - UNT
+- Norrman gripen för dubbelmordet - SVT Nyheter
+- Kraftig ökning av GPS-störningar – spåras till Ryssland - SVT Nyheter
+- Sju knivhuggna i Kanada – en död - HD
+- Macron: 26 länder redo att delta i ukrainsk stödstyrka - DN
+- Kennedy pressades i kongressen: ”Försätter barn i fara” - DN
 - Dödssiffran i Gaza passerar 64 000 - GP
-- Trumps krav: Pressa Kina och sluta köpa rysk olja - Hufvudstadsbladet
 - Sänkt matmoms – en missad chans att styra mot mer hållbara matval - wwf.se
-- Inför fredagsbeskedet: Färre sysselsatta än väntat i USA:s privata sektor - DI
-- Allra-profilen Ernstberger tillbaka i rätten - Omni
-- Nvidia uppges komma att investera första gången i kvantdatorbolaget Quantinuum - BN - Placera.se
+- ”Vi löste det – och sedan stannade produktionen” - SvD
+- Goldman Sachs: Fed-attack kan få fart på guldet - GP
+- Elektrikerna trappar upp konflikten med Tesla - Arbetet
 - Hollow Knight: Silksong – alla detaljer inför spelsläppet - Aftonbladet
 - Samsung Galaxy Tab S11-serien lanseras i Sverige – allt du kan förvänta dig av en premium-surfplatta - Mynewsdesk
 
@@ -39,7 +39,7 @@ _Updated: 2025-09-05 04:09_
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
-- Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
+- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
@@ -75,24 +75,24 @@ _Updated: 2025-09-05 04:09_
 
 - DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Ally Bank Earns Fourth Consecutive 'Outstanding' CRA Rating - Placera.se
 - Publication of the 2025 Half-Year Report - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
 
@@ -108,6 +108,7 @@ _Updated: 2025-09-05 04:09_
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
@@ -115,50 +116,49 @@ _Updated: 2025-09-05 04:09_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- 5 myter om öppen vetenskap - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Samtal om rymdforskning: Science Today – an exploration of space - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- USA tvingar ut EU på banan - Land Lantbruk
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
