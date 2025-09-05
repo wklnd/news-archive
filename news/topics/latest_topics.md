@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-05 05:10_
+_Updated: 2025-09-05 05:47_
 
 ## Top Stories
 
 - Landssorg efter bergbaneolycka mitt i Lissabon - GP
-- Misstänkt farligt föremål utanför Karlskrona - Västerbottens-Kuriren
-- Källor: Toppar kritiserar Netanyahus offensiv – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Källor: Militärchefer kritiserar Netanyahus offensiv – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Uppgifter: Venezuelanska flyg över USA-fartyg - GP
-- Hemligt vilka förvaltningar som drabbats i hackerattack - GP
-- Kulturkanon föreslås få kosta över 60 miljoner - Sydsvenskan
+- Frontalkrock i Luleå – man allvarligt skadad - Västerbottens-Kuriren
+- Greps i Oslo för dubbelmordet - Expressen
+- ”Man blir trött på kulturknuttarnas buttra attityd” - Västerbottens-Kuriren
 - Misstanken: Åt och drack på lyxkrogar för 87 000 med falska swishar - DN
 - Kristersson och Åkesson oense om Stegrud - UNT
-- Norrman gripen för dubbelmordet - SVT Nyheter
-- Kraftig ökning av GPS-störningar – spåras till Ryssland - SVT Nyheter
-- Sju knivhuggna i Kanada – en död - HD
+- SMHI varnar för ”skyfallsliknande” regn - Expressen
+- Uppgifter om anställda stulna vid cyberattack mot kommunen - NWT
+- Sju knivhuggna i Kanada – en död - Västerbottens-Kuriren
 - Macron: 26 länder redo att delta i ukrainsk stödstyrka - DN
-- Kennedy pressades i kongressen: ”Försätter barn i fara” - DN
 - Dödssiffran i Gaza passerar 64 000 - GP
+- Trumps krav: Pressa Kina och sluta köpa rysk olja - Hufvudstadsbladet
 - Sänkt matmoms – en missad chans att styra mot mer hållbara matval - wwf.se
-- ”Vi löste det – och sedan stannade produktionen” - SvD
-- Goldman Sachs: Fed-attack kan få fart på guldet - GP
+- Mark Zuckerberg stäms – av Mark Zuckerberg - Expressen
+- HGF: Rekordstort missnöje hos hyresgäster - Fastighetstidningen
 - Elektrikerna trappar upp konflikten med Tesla - Arbetet
 - Hollow Knight: Silksong – alla detaljer inför spelsläppet - Aftonbladet
 - Samsung Galaxy Tab S11-serien lanseras i Sverige – allt du kan förvänta dig av en premium-surfplatta - Mynewsdesk
@@ -60,11 +60,11 @@ _Updated: 2025-09-05 05:10_
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
@@ -76,18 +76,18 @@ _Updated: 2025-09-05 05:10_
 - DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Publication of the 2025 Half-Year Report - Placera.se
+- Ally Bank Earns Fourth Consecutive 'Outstanding' CRA Rating - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
+- Publication of the 2025 Half-Year Report - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
@@ -103,13 +103,13 @@ _Updated: 2025-09-05 05:10_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Osher centrum för integrativ hälsa - Karolinska Institutet
+- Engineering Health 2024 - Chalmers
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
@@ -145,20 +145,20 @@ _Updated: 2025-09-05 05:10_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- USA tvingar ut EU på banan - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
