@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-05 21:48_
+_Updated: 2025-09-05 22:48_
 
-- South Koreans Swept Up in Immigration Raid at Hyundai E.V. Plant in Georgia - The New York Times
-- 2 teens arrested, 3rd suspect at large in DC murder of congressional intern - ABC News
+- South Koreans Are Swept Up in Immigration Raid at Hyundai Plant in Georgia - The New York Times
 - US Navy Seals killed North Korean civilians in botched 2019 mission, report says - The Guardian
-- Putin says any Western troops in Ukraine would be fair targets - Reuters
-- Trump seeks to rebrand Department of Defense as Department of War - BBC
-- Lisbon funicular crash victims' nationalities slowly emerge after Portugal streetcar disaster that killed 16 - CBS News
-- Florida grandma accused of masterminding family murder-for-hire plot found guilty - The Independent
+- Putin threatens any troops sent to Ukraine as Europe readies postwar force - The Washington Post
+- Trump decries Epstein "hoax" despite Republicans demanding transparency - Axios
+- Navy base to serve as hub for up to 250 federal agents for Chicago immigration crackdown, memo indicates - CBS News
+- Lisbon funicular crash victims' nationalities emerge after Portugal streetcar disaster that killed 16 - CBS News
 - Republicans move quickly to support Ashley Hinson’s Senate bid - Politico
-- PBS slashes 15% of its staff after federal funding cuts - Axios
-- State Rep. James Talarico to jump in Texas Senate race - Politico
+- Texas Rep. James Talarico will launch a Democratic bid for US Senate, sources tell CNN - CNN
+- Florida grandma accused of masterminding family murder-for-hire plot found guilty - The Independent
+- Navy diver is linked to decades-old rape cases in California, Indiana, Michigan and Ohio - NBC News
 - Angela Rayner resigns over tax as UK deputy PM in damaging blow to Keir Starmer - Reuters
 - Europe’s Postwar Plan: Can 10,000 French & British Troops Secure Ukraine Without U.S. Military Firepower? - EurAsian Times
 - Land quarrels in rebel-occupied Congo threaten Trump peace deal - Reuters
 - IDF blows up a Gaza City high-rise building, says it housed Hamas infrastructure - The Times of Israel
-- US unemployment rate near 4-year high as labor market hits stall speed - Reuters
+- Second Weak Jobs Report Undercuts Trump’s Claims of a Booming Economy - The New York Times
 - Tesla Board Proposes Musk Pay Package Worth as Much as $1 Trillion Over Decade - The Wall Street Journal
-- Google Fined Almost €3 Billion by EU for Adtech Power Abuse - Bloomberg.com
-- Kenvue stock drops 10% on report RFK Jr. will link autism to Tylenol use during pregnancy - CNBC
-- Everything Apple Plans to Show at Sept. 9 ‘Awe Dropping’ iPhone 17 Event - Bloomberg.com
+- Donald Trump summoned Big Tech CEOs to a White House dinner. We decided to zoom in on the seating chart. - Business Insider
+- Anthropic Agrees to Pay Authors at Least $1.5 Billion in AI Copyright Settlement - WIRED
+- iPhone 17 Pro and Pro Max back design mystery may be solved ahead of Apple event - 9to5Mac
 - The Lenovo Legion Go 2 will get Xbox-flavored Windows in spring 2026 - The Verge
