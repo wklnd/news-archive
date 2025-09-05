@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-05 05:47_
+_Updated: 2025-09-05 06:43_
 
 ## Top Stories
 
-- Landssorg efter bergbaneolycka mitt i Lissabon - GP
-- Källor: Militärchefer kritiserar Netanyahus offensiv – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Uppgifter: Venezuelanska flyg över USA-fartyg - GP
-- Frontalkrock i Luleå – man allvarligt skadad - Västerbottens-Kuriren
-- Greps i Oslo för dubbelmordet - Expressen
-- ”Man blir trött på kulturknuttarnas buttra attityd” - Västerbottens-Kuriren
-- Misstanken: Åt och drack på lyxkrogar för 87 000 med falska swishar - DN
+- Carl är narcissist – har inte berättat för sin flickvän - GP
+- Motstridiga vittnesmål inför domen mot Landerholm - DN
+- Så mår Tidösamarbetet ett år kvar till valet - expo.se
+- Frontalkrock i Luleå – man allvarligt skadad - SVT Nyheter
+- Dödssiffran i Gaza passerar 64 000 - Hufvudstadsbladet
+- 300 000 personer i kö – planen: Bygga 1 000 nya hyresrätter i Göteborg varje år - GP
+- Kulturkanon föreslås få kosta över 60 miljoner - DN
 - Kristersson och Åkesson oense om Stegrud - UNT
-- SMHI varnar för ”skyfallsliknande” regn - Expressen
-- Uppgifter om anställda stulna vid cyberattack mot kommunen - NWT
-- Sju knivhuggna i Kanada – en död - Västerbottens-Kuriren
-- Macron: 26 länder redo att delta i ukrainsk stödstyrka - DN
-- Dödssiffran i Gaza passerar 64 000 - GP
-- Trumps krav: Pressa Kina och sluta köpa rysk olja - Hufvudstadsbladet
+- Norrman gripen för dubbelmordet - SVT Nyheter
+- Insändare: Svaret är enkelt - sla.se
+- Kina visade upp framtidens vapen: ”Helt annan skala” - DN
+- Biden opererad för hudcancer - SVT Nyheter
+- Minst 15 döda i ryska attacker - SVT Nyheter
+- Bolsonaro i rätten – påstås ha velat förgifta Lula - Västerbottens-Kuriren
+- Stiltje på bomarknaden lockar fler spekulanter - SvD
+- Efter Northvolts kris – så ska Lyten bygga framtidens batterier - DN
 - Sänkt matmoms – en missad chans att styra mot mer hållbara matval - wwf.se
 - Mark Zuckerberg stäms – av Mark Zuckerberg - Expressen
-- HGF: Rekordstort missnöje hos hyresgäster - Fastighetstidningen
-- Elektrikerna trappar upp konflikten med Tesla - Arbetet
+- Ny funktion avslöjar vad du gillat på Instagram – så här stängder du av den - Expressen
 - Hollow Knight: Silksong – alla detaljer inför spelsläppet - Aftonbladet
-- Samsung Galaxy Tab S11-serien lanseras i Sverige – allt du kan förvänta dig av en premium-surfplatta - Mynewsdesk
 
 ## World News
 
-- Resmed Launches Sleep Institute to Elevate Sleep Health as a Global Priority - Placera.se
+- Choice Hotels International Debuts in Argentina with the Opening of Radisson Blu Bariloche - Placera.se
 - World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
 - Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
+- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- New Secretary General appointed - Olof Palme International Center
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
-- BIG Travel går in i globalt partnerskap - travelnews.se
-- 7 saker om EQTY Global Growth II Fund - The Portugal News
-- UN Security Council calls emergency meeting on Gaza - Poddtoppen
+- Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- FleishmanHillard Appoints EJ Kim as Global Managing Director of TRUE Global Intelligence - Placera.se
+- Dine Brands Global, Inc. Announces Third Quarter 2025 Dividend - Placera.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 - S&P Global Announces Key Leadership Appointments for Mobility Business - Placera.se
+- Silicon Labs Announces Global Works With 2025 IoT Conference Series - Placera.se
 
 ## Technology
 
@@ -60,11 +60,11 @@ _Updated: 2025-09-05 05:47_
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
@@ -96,11 +96,11 @@ _Updated: 2025-09-05 05:47_
 
 ## Health
 
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Osher centrum för integrativ hälsa - Karolinska Institutet
@@ -145,20 +145,20 @@ _Updated: 2025-09-05 05:47_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- USA tvingar ut EU på banan - Land Lantbruk
+- De vill integrera AI i lantbrukarnas vardag - Jordbruksaktuellt
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
