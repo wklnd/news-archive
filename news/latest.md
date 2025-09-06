@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-06 13:48_
+_Updated: 2025-09-06 15:01_
 
-- Seoul ‘deeply concerned’ over ICE arrest of South Koreans at US Hyundai plant - France 24
-- Trump administration plans to deport Kilmar Abrego Garcia to Eswatini - CNN
-- Maryland deploys more law enforcement to Baltimore amid Trump’s threats to send troops - The Washington Post
-- Trump is back to touting his Covid shot - Politico
-- Foreign troops in Ukraine would be considered 'legitimate targets' to Russia, Putin says - ABC News
+- Trump backs Kennedy on vaccines despite health, political risks - Reuters
+- Inside the raid: How a monthslong federal immigration operation led to 475 arrests at a Hyundai plant in Georgia - CNN
 - 'We are the troops': Chicago braces for Trump's National Guard plan - BBC
-- Eric Adams refuses to exit NYC mayor race after reports of Trump job offer - Axios
-- RFK Jr. challenged to square COVID vaccine skepticism with Trump's Operation Warp Speed - ABC News
-- New Summer Camp Safety Laws Follow Texas’ Tragic Floods - The New York Times
+- Trump administration tells Abrego Garcia he now faces deportation to African country of Eswatini - CBS News
 - Judge halts Trump officials from ending special status for Venezuelans, Haitians - The Washington Post
+- Putin: Western troops in Ukraine would be fair 'targets' - DW
+- Trumps says Venezuelan jets will be 'shot down' if they endanger US ships - BBC
+- New Summer Camp Safety Laws Follow Texas’ Tragic Floods - The New York Times
+- Fact Sheet: President Donald J. Trump Restores the United States Department of War - The White House (.gov)
+- US Navy SEALs killed North Korean civilians during botched mission: Report - Al Jazeera
 - Israeli military urges Gaza City residents to leave - Reuters
 - UK foreign secretary Lammy to be replaced as Starmer reshuffles cabinet - The Times of Israel
-- In deepening war of words, Netanyahu accuses Egypt of ‘imprisoning’ Gazans in Strip - The Times of Israel
-- Trump executive order targets nations that detain U.S. citizens - The Washington Post
-- Donald Trump’s economy falters as US jobs growth grinds to a halt - Financial Times
-- This is why you MUST check your Powerball ticket, even if you know you didn’t win the $1.8 billion jackpot - CNN
-- Anthropic settles with authors in first-of-its-kind AI copyright infringement lawsuit - NPR
-- Tesla's proposed pay package could make Elon Musk a trillionaire - ABC News
-- Awe Dropping: Everything Coming at the September 9 Apple Event - MacRumors
-- The Lenovo Legion Go 2 will get Xbox-flavored Windows in spring 2026 - The Verge
+- Xi Jinping asks the world to choose ‘war or peace.’ Which direction is China headed? - CNN
+- With ‘Ghost Bat’ Drone, Australia Gears Up for New Arms Race - The New York Times
+- HHS responds to report about autism and acetaminophen : Shots - Health News - NPR
+- Powerball jumps to $1.8 billion for Saturday, near all-time record - Axios
+- Tesla board proposes $1 trillion pay package for Elon Musk - DW
+- The U.S. government is taking a stake in Intel. It's rare — and it has some risks - NPR
+- Apple’s Sept. 9 Event to Feature Next-Generation iPhone and Apple Watch - PYMNTS.com
+- "I'm picking it up a lot faster" Hollow Knight newcomers and veterans respond to the first few hours of Silksong - Eurogamer
