@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-06 17:37_
+_Updated: 2025-09-06 18:41_
 
 ## Top Stories
 
-- Sista mätningen: Rödgrönt överläge i Norge - GP
-- DN Direkt - Ingen gripen efter skjutning i Alby - DN.se - DN
-- USA:s misslyckade spionuppdrag – dödade nordkoreanska fiskare - DN
 - Nya attacker mot höghus i Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Oppositionen kräver: öppna BB familj igen - Sydsvenskan
-- Trettiotal hemlösa efter storbranden: ”Förfärligt” - SvD
+- Sista mätningen: Rödgrönt överläge i Norge - GP
+- Gällivare sjukhus i stabsläge – mobilnätet utslaget - SVT Nyheter
+- ”Gamlestadsgalej” lockade många besökare - GP
+- Misstanken: Svindlade lyxkrogar med fejk-Swish - GP
+- DN Direkt - Ingen gripen efter skjutning i Alby - DN.se - DN
 - Pappa tappade bort bebis – misstänks för brott - SVT Nyheter
-- Kvinna föll från balkong – misstänkt mordförsök - SVT Nyheter
-- Halkbanan fyller 50 år: ”Det avgör om du klarar dig” - DN
-- PO Enquist hade också sina ständiga listor - Västerbottens-Kuriren
-- Klimatministerns kusin hungerstrejkar mot den norska oljepolitiken - DN
+- Trettiotal hemlösa efter storbranden: ”Förfärligt” - DN
+- Benjamin Dousa: När Jessica Stegrud skrev på X om kurder och perser gick proppen ur - DN
+- SMHI varnar för skyfall - Västerbottens-Kuriren
+- USA:s misslyckade spionuppdrag – dödade nordkoreanska fiskare - DN
 - Krishöst i Europa – i skuggan av Trump - Västerbottens-Kuriren
+- Klimatministerns kusin hungerstrejkar mot den norska oljepolitiken - DN
 - Zelenskyj om Putins invit: ”Omöjligt" - GP
-- Nya våldsamheter i Serbien - Corren
 - Trump pekar ut tre ”finalister” att efterträda Fed-chefen - Dagens industri
 - ENKÄT: Sänkt matmoms – så tycker Lidköpingsborna: ”Tror inte priserna kommer bli lägre” - NLT
 - Trump hotar EU efter Googles miljardböter - SvD
-- AI-tjuren styr våra äventyr - EFN
+- Här är hyresjättarnas krav – kan ge tiotusentals höjd hyra - Hem & Hyra
 - Nästa chans blir först om flera år: Missa inte en av årets största astronomiska händelser - Illustrerad Vetenskap
 - Populära indiespelet tvingar rivalerna skjuta upp lanseringar - Expressen
 
@@ -30,22 +30,22 @@ _Updated: 2025-09-06 17:37_
 - Global tillväxt för halvledarutrustning under Q2 - Evertiq
 - Resmed Launches Sleep Institute to Elevate Sleep Health as a Global Priority - Placera.se
 - World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
-- Choice Hotels International Debuts in Argentina with the Opening of Radisson Blu Bariloche - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Techarenan News goes English (Partly at least) - Techarenan.news
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
+- Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 - Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
 
 ## Technology
@@ -96,6 +96,7 @@ _Updated: 2025-09-06 17:37_
 
 ## Health
 
+- Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
@@ -103,13 +104,12 @@ _Updated: 2025-09-06 17:37_
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Osher centrum för integrativ hälsa - Karolinska Institutet
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
@@ -122,23 +122,23 @@ _Updated: 2025-09-06 17:37_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
@@ -154,8 +154,8 @@ _Updated: 2025-09-06 17:37_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - (+) Stor undersökning av jordbruket - Arbetarskydd
-- De gick från reko till eko - ST-tidningen
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
