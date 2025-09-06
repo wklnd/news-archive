@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-06 07:48_
+_Updated: 2025-09-06 08:49_
 
-- Raid at Georgia battery plant points to conflicts in Trump's growth plans - Axios
 - Trump administration tells Abrego Garcia he now faces deportation to African country of Eswatini - CBS News
+- Raid at Hyundai factory in Georgia is Trump administration’s largest yet - The Washington Post
 - Foreign troops in Ukraine would be considered 'legitimate targets' to Russia, Putin says - ABC News
+- Trump expresses reservations over Florida eliminating vaccine mandates: ‘We have to be very careful’ - yahoo.com
 - Judge rules ending protections for Venezuelan and Haitian migrants is unlawful - BBC
+- Maryland deploys more law enforcement to Baltimore amid Trump’s threats to send troops - The Washington Post
 - Fact Sheet: President Donald J. Trump Restores the United States Department of War - The White House (.gov)
-- Will Trump Have to Run From the Economy? - The New York Times
+- New Summer Camp Safety Laws Follow Texas’ Tragic Floods - The New York Times
 - Eric Adams refuses to exit NYC mayor race after reports of Trump job offer - Axios
 - Democrat who called RFK Jr. a 'charlatan' says U.S. is vulnerable to next pandemic - NPR
-- Two Minnesota Men Arrested for Funding and Directing Kidnappings, Bombings, and Killings Overseas - Department of Justice (.gov)
-- Trump Will Host G20 Summit in 2026 at His Doral Resort - The New York Times
 - College of Charleston instructor among victims killed in Lisbon funicular crash - NBC News
-- Angela Rayner resigns over tax as UK deputy PM in damaging blow to Keir Starmer - Reuters
-- Trump executive order targets nations that detain U.S. citizens - The Washington Post
-- ‘No skin contact with males’: Afghan women left under earthquake rubble. Courtesy - Gender rules | World News - Hindustan Times
+- Two powerful aftershocks pummel Afghanistan after earthquakes kill 2,200 - Reuters
+- UK foreign secretary Lammy to be replaced as Starmer reshuffles cabinet - The Times of Israel
+- Xi’s Parade and Summit Send a Powerful Message Straight to Trump - Bloomberg
 - A Second Weak Jobs Report Challenges Trump’s Claim the Economy Is Booming - The New York Times
-- Anthropic to pay authors $1.5 billion to settle lawsuit over pirated books used to train AI chatbots - AP News
+- Anthropic settles with authors in first-of-its-kind AI copyright infringement lawsuit - NPR
 - Tesla's proposed pay package could make Elon Musk a trillionaire - ABC News
 - Powerball winners can opt for potentially "dangerous" lump sum or "safe bet" annual payments. An accountant gives advice. - CBS News
-- Apple’s Sept. 9 Event to Feature Next-Generation iPhone and Apple Watch - PYMNTS.com
+- Preorders Are Live for Lenovo Legion Go 2 Gaming Handhelds - IGN
 - Galaxy S26 Edge renders show the iPhone 17-like design, corroborate Qi2 magnets [Gallery] - 9to5Google
