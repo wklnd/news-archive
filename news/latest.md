@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-06 22:48_
+_Updated: 2025-09-06 23:48_
 
 - US Hyundai raid: South Korea vows support for citizens detained by ICE - BBC
-- Trump appears to again threaten sending troops to Chicago for immigration enforcement - CBS News
-- Trump backs Kennedy on vaccines despite health, political risks - Reuters
+- Trump says Chicago ‘will find out why it’s called the Department of WAR’ ahead of planned crackdown - CNN
 - For 2nd day, after warning, IDF strikes Gaza City high-rise it says served Hamas terror - The Times of Israel
+- Trump backs Kennedy on vaccines despite health, political risks - Reuters
 - What to Know About a Rapid U.S. Military Buildup in the Caribbean - The New York Times
-- Fact Sheet: President Donald J. Trump Restores the United States Department of War - The White House (.gov)
-- Chicago's Mexican Independence Day celebrations shadowed by Trump's threats for the city - NBC News
-- ‘It’s bad politics’: Why California Republicans are avoiding Donald Trump — and muscling in behind Arnold Schwarzenegger - Politico
+- Vance defends strike on alleged drug boat: ‘Highest and best use of our military’ - Politico
+- Mexican festivals in Chicago canceled amid Trump plans to deploy troops - The Guardian
 - Robert F. Kennedy Jr.'s family calls for his resignation - Axios
-- Trump administration plans to deport Kilmar Abrego Garcia to Eswatini - CNN
-- L.G.B.T.Q. Catholics Have Jubilee With Pope’s Blessing, if Not His Presence - The New York Times
-- Reform UK is on the rise. Leader Nigel Farage hopes the Trump playbook can propel him to power - AP News
+- Adams refuses to leave NYC mayor race after reports of Trump job offer - Axios
+- U.S. says it will deport Kilmar Abrego Garcia to Eswatini because he fears deportation to Uganda - AP News
 - Surfer dead after mauling by large shark off Australia beach - CBS News
-- Pilot and influencer Ethan Guo released from Antarctic air base after two months - AP News
-- Donald Trump’s economy falters as US jobs growth grinds to a halt - Financial Times
+- Reform UK is on the rise. Leader Nigel Farage hopes the Trump playbook can propel him to power - AP News
+- L.G.B.T.Q. Catholics Have Jubilee With Pope’s Blessing, if Not His Presence - The New York Times
+- A World War II Dispute Between Ukraine and Poland Is Put to Rest - The New York Times
+- Murdoch Paper Slams Trump After Disastrous Jobs Report - The Daily Beast
 - HHS responds to report about autism and acetaminophen : Shots - Health News - NPR
-- Powerball jumps to $1.8 billion for Saturday, near all-time record - Axios
-- Tesla investor presses board address Elon Musk's politics and their impact on the EV maker's business - Fortune
+- Elon Musk delivered on Tesla’s ‘mission impossible’ goals before—but the targets for his $1 trillion pay package are even more delusional - Fortune
+- Lottery Winners Share Hard Lessons Ahead of $1.8 Billion Powerball Drawing - The New York Times
 - The Top New Gadgets We Saw at IFA Berlin 2025 - WIRED
 - Don't expect the new AI Siri to debut at the Sept. 9 Apple event - Mashable
