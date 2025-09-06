@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-07 00:38_
+_Updated: 2025-09-07 01:37_
 
 ## Top Stories
 
-- Israel manar till evakuering till ifrågasatt zon - DN
-- Misslyckat underrättelseuppdrag i Nordkorea avslöjat - GP
 - AC-bråk under Putin och Kims toppmöte: ”Tappade besinningen” - Aftonbladet
-- Chicago svarar på Trumps hot: ”Motbjudande” - DN
 - DN Direkt - Familjen uppmanar hälsominister Kennedy att avgå - DN.se - DN
-- Förslaget: Kartlägg hbtqi-hat på Göteborgs skolor - GP
-- DN Direkt - Regeringen kan slopa matkrav på krogar till nästa sommar - DN.se - DN
-- En häktad efter dubbelmord i Kallhäll - UNT
-- Pappa tappade bort bebis – misstänks för brott - SVT Nyheter
+- Misslyckat underrättelseuppdrag i Nordkorea avslöjat - GP
+- Chicago svarar på Trumps hot: ”Motbjudande” - DN
+- 25 fulla tyskar härjade på tåg: "Ville inte kliva av" - UNT
+- Familjen uppmanar Kennedy att avgå - SvD
+- DN Direkt - Minderårig häktad efter dubbelmord i Kallhäll - DN.se - DN
 - ”Kyrkan behöver mer än politiska markeringar” - Västerbottens-Kuriren
+- Regeringen: Slopa krogarnas matkrav nästa sommar - GP
+- SMHI varnar för skyfall - SVT Nyheter
+- Ny attack mot höghus i Gaza stad - SVT Nyheter
 - Många gripna vid propalestinsk protest i London - GP
-- Flodhäst välte båt – elva saknas - Hufvudstadsbladet
 - Populära nagellack förbjuds – innehåller skadligt ämne - DN
-- Motivationsras bland soldater i Washington: ”Sjunker snabbt” - DN
-- 88 postoperatörer stoppar paket till USA - Aftonbladet
+- Flodhäst välte båt – elva saknas - Hufvudstadsbladet
 - Svenskar tar smällen när Norge inför fastpris på el - Omni
+- Trump: Tre möjliga efterträdare till Fed-chefen - Aftonbladet
 - ”Jämnt skägg” mellan rörlig och bunden ränta - SvD
-- Trump pekar ut tre ”finalister” att efterträda Fed-chefen - DI
+- 88 postoperatörer stoppar paket till USA - DI
 - Titta upp – då blir månen röd - DN
 - Populära indiespelet tvingar rivalerna skjuta upp lanseringar - Expressen
 
@@ -30,6 +30,7 @@ _Updated: 2025-09-07 00:38_
 - Global tillväxt för halvledarutrustning under Q2 - Evertiq
 - Resmed Launches Sleep Institute to Elevate Sleep Health as a Global Priority - Placera
 - World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
+- Choice Hotels International Debuts in Argentina with the Opening of Radisson Blu Bariloche - Placera
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera
@@ -37,7 +38,6 @@ _Updated: 2025-09-07 00:38_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
-- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
@@ -60,16 +60,16 @@ _Updated: 2025-09-07 00:38_
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera
-- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera
+- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera
-- Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera
 
 ## Business
 
@@ -80,7 +80,6 @@ _Updated: 2025-09-07 00:38_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Publication of the 2025 Half-Year Report - Placera
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2025-09-07 00:38_
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 
 ## Health
 
@@ -103,40 +103,40 @@ _Updated: 2025-09-07 00:38_
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Osher centrum för integrativ hälsa - Karolinska Institutet
-- Fakulteten för hälsa och samhälle - Malmö universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Europeisk konferens för socialmedicin: Praktik, teori och handling för en hälsosammare framtid - sls.se
+- Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
