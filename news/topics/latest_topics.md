@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-06 19:37_
+_Updated: 2025-09-06 20:42_
 
 ## Top Stories
 
+- 06 september 12.13, Farligt föremål, misstänkt, Kristianstad - polisen.se
 - Sista mätningen: Rödgrönt överläge i Norge - GP
-- Kvinna har fallit från balkong – misstänkt mordförsök - Expressen
-- Nya attacker mot höghus i Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Israel: ”Ta chansen” att fly till ny skyddad zon - DN
 - ”Gamlestadsgalej” lockade många besökare - GP
-- Benjamin Dousa: När Jessica Stegrud skrev på X om kurder och perser gick proppen ur - DN
-- USA:s misslyckade spionuppdrag – dödade nordkoreanska fiskare - DN
-- Trettiotal hemlösa efter storbranden: ”Förfärligt” - DN
-- Pappa tappade bort bebis – misstänks för brott - SVT Nyheter
-- Varnar för skyfall i Västerbotten – kraftigt regn väntas - Norran
-- SVT: Ryska signaler har stört 123 000 flyg i Östersjö­området på fyra månader - Yle
+- SMHI utfärdar gul varning för skyfallsliknande regn - Expressen
+- PO Enquist hade också sina ständiga listor - Västerbottens-Kuriren
+- DN Direkt - Pappa tappade bort bebis – misstänks för brott - DN.se - DN
+- 05 september 18.16, Skottlossning, Botkyrka - polisen.se
+- Dousa kritiserar Stegrud: ”Knuffa inte ut mig” - Västerbottens-Kuriren
+- Känsliga uppgifter från Kalmar kommun har läckt ut efter it-attacken - SVT Nyheter
 - Netanyahu väntas till Argentina – ICC:s första chefsåklagare: ”Kommer gripas” - DN
-- Krishöst i Europa – i skuggan av Trump - Västerbottens-Kuriren
-- Zelenskyj om Putins invit: ”Omöjligt" - GP
-- Nya våldsamheter i Serbien - Corren
-- Trump pekar ut tre ”finalister” att efterträda Fed-chefen - Di
+- Nya våldsamheter i Serbien - Västerbottens-Kuriren
+- Krishöst i Europa – i skuggan av Trump - GP
+- Zelenskyj: Putin kan komma till Kiev istället - SVT Nyheter
+- 88 postoperatörer stoppar paket till USA - DI
+- Trump: Tre möjliga efterträdare till Fed-chefen - GP
 - ENKÄT: Sänkt matmoms – så tycker Lidköpingsborna: ”Tror inte priserna kommer bli lägre” - NLT
 - Knepet i godishyllan: Så köper du choklad – för nästan en tredjedel av priset - Expressen
-- Här är hyresjättarnas krav – kan ge tiotusentals höjd hyra - Hem & Hyra
-- Nästa chans blir först om flera år: Missa inte en av årets största astronomiska händelser - Illustrerad Vetenskap
+- Se upp – då blir månen röd - Aftonbladet
 - Populära indiespelet tvingar rivalerna skjuta upp lanseringar - Expressen
 
 ## World News
@@ -32,7 +32,6 @@ _Updated: 2025-09-06 19:37_
 - World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
@@ -42,11 +41,12 @@ _Updated: 2025-09-06 19:37_
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
-- Prologis to Participate in BofA Securities 2025 Global Real Estate Conference - Placera.se
+- Coca-Cola väljer Cascais för ny global kampanj - The Portugal News
+- Global hållbarhetskonferens meddelar flytt till "Portugals Venedig - The Portugal News
 
 ## Technology
 
@@ -62,14 +62,14 @@ _Updated: 2025-09-06 19:37_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
+- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- ZenaTech Signs Agreements to Acquire Two Florida Companies, Expanding Drone as a Service Footprint into Aviation, Defense, and Power Washing - Placera.se
+- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
-- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
-- Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
 
 ## Business
 
@@ -96,7 +96,6 @@ _Updated: 2025-09-06 19:37_
 
 ## Health
 
-- Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
@@ -104,41 +103,42 @@ _Updated: 2025-09-06 19:37_
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Osher centrum för integrativ hälsa - Karolinska Institutet
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Johan von Schreeb - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
