@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-06 15:37_
+_Updated: 2025-09-06 16:37_
 
 ## Top Stories
 
-- Nya attacker mot höghus i Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Kvinna föll från balkong – man gripen för mordförsök - SVT Nyheter
 - DN Direkt - Ingen gripen efter skjutning i Alby - DN.se - DN
 - Sista mätningen: Rödgrönt överläge i Norge - GP
-- Benjamin Dousa: När Jessica Stegrud skrev på X om kurder och perser gick proppen ur - DN
 - Oppositionen kräver: öppna BB familj igen - Sydsvenskan
 - USA:s misslyckade spionuppdrag – dödade nordkoreanska fiskare - DN
-- Kvinna föll från balkong – misstänkt mordförsök - SVT Nyheter
+- Benjamin Dousa: När Jessica Stegrud skrev på X om kurder och perser gick proppen ur - DN
+- Pappa tappade bort bebis – misstänks för brott - SVT Nyheter
 - Trettiotal hemlösa efter storbranden: ”Förfärligt” - DN
 - Halkbanan fyller 50 år: ”Det avgör om du klarar dig” - DN
-- Tiktok ska locka unga i ”det bortglömda valet” - Västerbottens-Kuriren
+- Tiktok ska locka unga i ”det bortglömda valet” - GP
+- Nya attacker mot höghus i Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Klimatministerns kusin hungerstrejkar mot den norska oljepolitiken - DN
 - Krishöst i Europa – i skuggan av Trump - Västerbottens-Kuriren
 - Nya våldsamheter i Serbien - Corren
-- Zelenskyj: Putin kan komma till Kiev istället - SVT Nyheter
 - Trump pekar ut tre ”finalister” att efterträda Fed-chefen - Dagens industri
-- ENKÄT: Sänkt matmoms – så tycker Lidköpingsborna: ”Tror inte priserna kommer bli lägre” - NLT
 - Trump hotar EU efter Googles miljardböter - SvD
+- ENKÄT: Sänkt matmoms – så tycker Lidköpingsborna: ”Tror inte priserna kommer bli lägre” - NLT
 - AI-tjuren styr våra äventyr - EFN
 - Nästa chans blir först om flera år: Missa inte en av årets största astronomiska händelser - Illustrerad Vetenskap
 - Populära indiespelet tvingar rivalerna skjuta upp lanseringar - Expressen
@@ -32,6 +32,7 @@ _Updated: 2025-09-06 15:37_
 - World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
@@ -41,12 +42,11 @@ _Updated: 2025-09-06 15:37_
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- Global hållbarhetskonferens meddelar flytt till "Portugals Venedig - The Portugal News
+- Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
+- Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
+- Roblox Partners With IARC to Enhance Global Age and Content Ratings - Placera.se
 
 ## Technology
 
@@ -73,26 +73,26 @@ _Updated: 2025-09-06 15:37_
 
 ## Business
 
-- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Publication of the 2025 Half-Year Report - Placera.se
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -103,19 +103,19 @@ _Updated: 2025-09-06 15:37_
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Osher centrum för integrativ hälsa - Karolinska Institutet
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Johan von Schreeb - Karolinska Institutet
-- West Sweden’s life science community collaborates to launch HackHERHealth, a trailblazing femtech innovation hackathon - NewsMachine AB
+- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -154,7 +154,6 @@ _Updated: 2025-09-06 15:37_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - (+) Stor undersökning av jordbruket - Arbetarskydd
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Här är världens största jordbruk - ATL
@@ -162,3 +161,4 @@ _Updated: 2025-09-06 15:37_
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
