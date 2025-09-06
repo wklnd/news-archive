@@ -1,22 +1,22 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-06 06:41_
+_Updated: 2025-09-06 07:38_
 
 ## Top Stories
 
-- DN Direkt - Explosion i Södertälje – skador på husfasad - DN.se - DN
-- Mindre plan har kraschat i sjö - GP
+- Explosion vid flerfamiljshus i Barkaby - SVT Nyheter
+- Kvinna föll från balkong – misstänkt mordförsök - Aftonbladet
 - Misslyckat underrättelseuppdrag i Nordkorea avslöjat - GP
-- Kvinna hittad död i Helsingborg – man gripen - Sydsvenskan
 - Merry är tacksam över åttonde barnet – Brie har klippt sina äggledare - DN
 - Göteborgs butiker i kris: ”En död stad” - GP
+- ”Kan vi övervinna kulturkrockarna i vårt äktenskap?” - DN
+- Mindre plan har kraschat i sjö - GP
+- Märta Stenevi berättar om bulimin: ”Ett sätt att hantera saker som är svåra” - HD
 - Känsliga uppgifter från Kalmar kommun har läckt ut efter it-attacken - SVT Nyheter
 - ”Kulturkanon och tornedalingar” - Västerbottens-Kuriren
-- DN Direkt - Landerholms första ord: ”Det är med lättnad jag tagit del av tingsrättens friande dom” - DN.se - DN
-- Oväder – trafikstrul och översvämningar - Expressen
 - Nya våldsamheter i Serbien - Västerbottens-Kuriren
-- DN Direkt - Trump ger klartecken för krigsdepartement - DN.se - DN
 - Trump: Haft djupa förhandlingar med Hamas – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Klart: Trump har skapat sitt krigsdepartementet - GP
 - Krishöst i Europa – i skuggan av Trump - Västerbottens-Kuriren
 - Trump hotar EU efter Googles miljardböter - DN
 - ”Nästan alla norrmän känner att något är fel” - SvD
@@ -28,12 +28,10 @@ _Updated: 2025-09-06 06:41_
 ## World News
 
 - Global tillväxt för halvledarutrustning under Q2 - Evertiq
-- CHiQ Showcases Panda-Themed AI Tech, FIS Sponsorship, and ESG Leadership at IFA 2025 - Placera.se
+- Choice Hotels International Debuts in Argentina with the Opening of Radisson Blu Bariloche - Placera.se
 - World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
-- Resmed Launches Sleep Institute to Elevate Sleep Health as a Global Priority - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Choice Hotels International Debuts in Argentina with the Opening of Radisson Blu Bariloche - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
@@ -42,11 +40,13 @@ _Updated: 2025-09-06 06:41_
 - World Athletics introduces gene test for female category - BBC
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - economictimes.com
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
-- Prologis to Participate in BofA Securities 2025 Global Real Estate Conference - Placera.se
+- Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- Global hållbarhetskonferens meddelar flytt till "Portugals Venedig - The Portugal News
 
 ## Technology
 
@@ -63,13 +63,13 @@ _Updated: 2025-09-06 06:41_
 - Industry Insight: Why AI-Powered Search Is Redefining Digital Strategies - Poddtoppen
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
+- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
-- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
 
@@ -103,19 +103,19 @@ _Updated: 2025-09-06 06:41_
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
-- Jätte inom medicinteknik etablerar stort biolabb i Göteborg under 2025 - it-halsa.se
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
@@ -155,10 +155,10 @@ _Updated: 2025-09-06 06:41_
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- USA tvingar ut EU på banan - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
