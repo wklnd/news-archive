@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-06 14:56_
+_Updated: 2025-09-06 15:37_
 
 ## Top Stories
 
 - Nya attacker mot höghus i Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Gärningsman på fri fot efter skottlossning - GP
-- Det här behöver du veta inför valet i Norge - Dagens Arena
-- Kvinna föll från balkong i Helsingborg – misstänkt mordförsök - Sydsvenskan
+- DN Direkt - Ingen gripen efter skjutning i Alby - DN.se - DN
+- Sista mätningen: Rödgrönt överläge i Norge - GP
 - Benjamin Dousa: När Jessica Stegrud skrev på X om kurder och perser gick proppen ur - DN
 - Oppositionen kräver: öppna BB familj igen - Sydsvenskan
-- Tiktok ska locka unga i ”det bortglömda valet” - Västerbottens-Kuriren
+- USA:s misslyckade spionuppdrag – dödade nordkoreanska fiskare - DN
+- Kvinna föll från balkong – misstänkt mordförsök - SVT Nyheter
 - Trettiotal hemlösa efter storbranden: ”Förfärligt” - DN
 - Halkbanan fyller 50 år: ”Det avgör om du klarar dig” - DN
-- PO Enquist hade också sina ständiga listor - Västerbottens-Kuriren
-- USA:s misslyckade spionuppdrag – dödade nordkoreanska fiskare - DN
+- Tiktok ska locka unga i ”det bortglömda valet” - Västerbottens-Kuriren
+- Klimatministerns kusin hungerstrejkar mot den norska oljepolitiken - DN
 - Krishöst i Europa – i skuggan av Trump - Västerbottens-Kuriren
-- Nya våldsamheter i Serbien - GP
+- Nya våldsamheter i Serbien - Corren
 - Zelenskyj: Putin kan komma till Kiev istället - SVT Nyheter
-- Svenskar tar smällen när Norge inför fastpris på el - Omni
 - Trump pekar ut tre ”finalister” att efterträda Fed-chefen - Dagens industri
+- ENKÄT: Sänkt matmoms – så tycker Lidköpingsborna: ”Tror inte priserna kommer bli lägre” - NLT
 - Trump hotar EU efter Googles miljardböter - SvD
 - AI-tjuren styr våra äventyr - EFN
-- Så fångar du helgens blodmåne med mobilen – grundtipsen för en magisk bild - SVT Nyheter
+- Nästa chans blir först om flera år: Missa inte en av årets största astronomiska händelser - Illustrerad Vetenskap
 - Populära indiespelet tvingar rivalerna skjuta upp lanseringar - Expressen
 
 ## World News
@@ -32,8 +32,6 @@ _Updated: 2025-09-06 14:56_
 - World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
-- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
@@ -42,11 +40,13 @@ _Updated: 2025-09-06 14:56_
 - World Athletics introduces gene test for female category - BBC
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
-- Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
-- FleishmanHillard Appoints EJ Kim as Global Managing Director of TRUE Global Intelligence - Placera.se
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- Global hållbarhetskonferens meddelar flytt till "Portugals Venedig - The Portugal News
 
 ## Technology
 
@@ -147,18 +147,18 @@ _Updated: 2025-09-06 14:56_
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Här är världens största jordbruk - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- USA tvingar ut EU på banan - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
