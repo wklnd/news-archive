@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-06 19:48_
+_Updated: 2025-09-06 20:48_
 
-- Hyundai raid: South Korea mounts swift response to deal with raid on US facility - BBC
+- US Hyundai raid: South Korea vows support for citizens detained by ICE - BBC
 - Trump backs Kennedy on vaccines despite health, political risks - Reuters
-- Trumps says Venezuelan jets will be 'shot down' if they endanger US ships - BBC
-- RFK Jr. allies claim momentum as Florida targets vaccines: ‘Fight is coming’ - The Washington Post
-- Where things stand with Trump's National Guard threats in Chicago and other cities - NPR
+- Venezuela flies military aircraft near U.S. Navy ship for a second time, Pentagon officials say - CBS News
+- Trump threatens Chicago with "Department of WAR" ahead of planned crackdown - Axios
+- Large Shark Kills Surfer Near Sydney, Police Say - The New York Times
+- US Navy SEALs killed North Korean civilians during botched mission: Report - Al Jazeera
 - Amy Coney Barrett says supreme court rulings are ‘not opinion polls’ - The Guardian
-- Experts skeptical of legality of Trump’s strike on alleged drug boat - CNN
 - Mayor Eric Adams insists he's not quitting reelection campaign - Politico
-- Owners of Central NY factory raided by federal agents shocked: ‘We feel terrorized’ - Syracuse.com
-- Hawaii under state of emergency ahead of Hurricane Kiko - ABC News
-- Israeli military warns Gaza City residents to leave, bombs high-rise tower - Reuters
-- Starmer resets after Rayner row, but Labour turmoil is a gift for Reform - BBC
-- Surfer dead after mauling by large shark off Australia beach - CBS News
-- Xi Jinping asks the world to choose ‘war or peace.’ Which direction is China headed? - CNN
-- HHS responds to report about autism and acetaminophen : Shots - Health News - NPR
+- Judge halts Trump officials from ending special status for Venezuelans, Haitians - The Washington Post
+- US tells Kilmar Ábrego García he faces deportation to Eswatini - BBC
+- For 2nd day, after warning, IDF strikes Gaza City high-rise it says served Hamas terror - The Times of Israel
+- India's honk-happy drivers are switching to even louder horns - NPR
+- Angela Rayner resigns over tax as UK deputy PM in damaging blow to Keir Starmer - Reuters
+- 'Semi-official' LGBTQ+ Jubilee marks watershed moment at Vatican for long-marginalized Catholics - National Catholic Reporter
 - Trump Tells Tech CEOs He'll Work To Get Them Permits for Data Centers - Realtor.com
-- And the next Fed chair is? Trump's short list - Reuters
 - A Second Weak Jobs Report Challenges Trump’s Claim the Economy Is Booming - The New York Times
-- Don't expect the new AI Siri to debut at the Sept. 9 Apple event - Mashable
+- This is why you MUST check your Powerball ticket, even if you know you didn’t win the $1.8 billion jackpot - CNN
+- HHS responds to report about autism and acetaminophen : Shots - Health News - NPR
 - What we've been playing - it's not all Hollow Knight Silksong you know - Eurogamer
+- Google Gemini dubbed ‘high risk’ for kids and teens in new safety assessment - TechCrunch
