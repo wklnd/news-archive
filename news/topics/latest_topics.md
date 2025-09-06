@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-06 16:37_
+_Updated: 2025-09-06 17:37_
 
 ## Top Stories
 
-- Kvinna föll från balkong – man gripen för mordförsök - SVT Nyheter
-- DN Direkt - Ingen gripen efter skjutning i Alby - DN.se - DN
 - Sista mätningen: Rödgrönt överläge i Norge - GP
-- Oppositionen kräver: öppna BB familj igen - Sydsvenskan
+- DN Direkt - Ingen gripen efter skjutning i Alby - DN.se - DN
 - USA:s misslyckade spionuppdrag – dödade nordkoreanska fiskare - DN
-- Benjamin Dousa: När Jessica Stegrud skrev på X om kurder och perser gick proppen ur - DN
-- Pappa tappade bort bebis – misstänks för brott - SVT Nyheter
-- Trettiotal hemlösa efter storbranden: ”Förfärligt” - DN
-- Halkbanan fyller 50 år: ”Det avgör om du klarar dig” - DN
-- Tiktok ska locka unga i ”det bortglömda valet” - GP
 - Nya attacker mot höghus i Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Oppositionen kräver: öppna BB familj igen - Sydsvenskan
+- Trettiotal hemlösa efter storbranden: ”Förfärligt” - SvD
+- Pappa tappade bort bebis – misstänks för brott - SVT Nyheter
+- Kvinna föll från balkong – misstänkt mordförsök - SVT Nyheter
+- Halkbanan fyller 50 år: ”Det avgör om du klarar dig” - DN
+- PO Enquist hade också sina ständiga listor - Västerbottens-Kuriren
 - Klimatministerns kusin hungerstrejkar mot den norska oljepolitiken - DN
 - Krishöst i Europa – i skuggan av Trump - Västerbottens-Kuriren
+- Zelenskyj om Putins invit: ”Omöjligt" - GP
 - Nya våldsamheter i Serbien - Corren
 - Trump pekar ut tre ”finalister” att efterträda Fed-chefen - Dagens industri
-- Trump hotar EU efter Googles miljardböter - SvD
 - ENKÄT: Sänkt matmoms – så tycker Lidköpingsborna: ”Tror inte priserna kommer bli lägre” - NLT
+- Trump hotar EU efter Googles miljardböter - SvD
 - AI-tjuren styr våra äventyr - EFN
 - Nästa chans blir först om flera år: Missa inte en av årets största astronomiska händelser - Illustrerad Vetenskap
 - Populära indiespelet tvingar rivalerna skjuta upp lanseringar - Expressen
@@ -30,9 +30,10 @@ _Updated: 2025-09-06 16:37_
 - Global tillväxt för halvledarutrustning under Q2 - Evertiq
 - Resmed Launches Sleep Institute to Elevate Sleep Health as a Global Priority - Placera.se
 - World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
+- Choice Hotels International Debuts in Argentina with the Opening of Radisson Blu Bariloche - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
@@ -46,7 +47,6 @@ _Updated: 2025-09-06 16:37_
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Algarve-författare vinner Global Book Award Gold Medal - The Portugal News
 - Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
-- Roblox Partners With IARC to Enhance Global Age and Content Ratings - Placera.se
 
 ## Technology
 
@@ -73,26 +73,26 @@ _Updated: 2025-09-06 16:37_
 
 ## Business
 
+- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Publication of the 2025 Half-Year Report - Placera.se
-- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
+- Publication of the 2025 Half-Year Report - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
+- Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 
 ## Health
 
@@ -155,10 +155,10 @@ _Updated: 2025-09-06 16:37_
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - (+) Stor undersökning av jordbruket - Arbetarskydd
+- De gick från reko till eko - ST-tidningen
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
