@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-06 18:41_
+_Updated: 2025-09-06 19:37_
 
 ## Top Stories
 
-- Nya attacker mot höghus i Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Sista mätningen: Rödgrönt överläge i Norge - GP
-- Gällivare sjukhus i stabsläge – mobilnätet utslaget - SVT Nyheter
+- Kvinna har fallit från balkong – misstänkt mordförsök - Expressen
+- Nya attacker mot höghus i Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - ”Gamlestadsgalej” lockade många besökare - GP
-- Misstanken: Svindlade lyxkrogar med fejk-Swish - GP
-- DN Direkt - Ingen gripen efter skjutning i Alby - DN.se - DN
-- Pappa tappade bort bebis – misstänks för brott - SVT Nyheter
-- Trettiotal hemlösa efter storbranden: ”Förfärligt” - DN
 - Benjamin Dousa: När Jessica Stegrud skrev på X om kurder och perser gick proppen ur - DN
-- SMHI varnar för skyfall - Västerbottens-Kuriren
 - USA:s misslyckade spionuppdrag – dödade nordkoreanska fiskare - DN
+- Trettiotal hemlösa efter storbranden: ”Förfärligt” - DN
+- Pappa tappade bort bebis – misstänks för brott - SVT Nyheter
+- Varnar för skyfall i Västerbotten – kraftigt regn väntas - Norran
+- SVT: Ryska signaler har stört 123 000 flyg i Östersjö­området på fyra månader - Yle
+- Netanyahu väntas till Argentina – ICC:s första chefsåklagare: ”Kommer gripas” - DN
 - Krishöst i Europa – i skuggan av Trump - Västerbottens-Kuriren
-- Klimatministerns kusin hungerstrejkar mot den norska oljepolitiken - DN
 - Zelenskyj om Putins invit: ”Omöjligt" - GP
-- Trump pekar ut tre ”finalister” att efterträda Fed-chefen - Dagens industri
+- Nya våldsamheter i Serbien - Corren
+- Trump pekar ut tre ”finalister” att efterträda Fed-chefen - Di
 - ENKÄT: Sänkt matmoms – så tycker Lidköpingsborna: ”Tror inte priserna kommer bli lägre” - NLT
-- Trump hotar EU efter Googles miljardböter - SvD
+- Knepet i godishyllan: Så köper du choklad – för nästan en tredjedel av priset - Expressen
 - Här är hyresjättarnas krav – kan ge tiotusentals höjd hyra - Hem & Hyra
 - Nästa chans blir först om flera år: Missa inte en av årets största astronomiska händelser - Illustrerad Vetenskap
 - Populära indiespelet tvingar rivalerna skjuta upp lanseringar - Expressen
@@ -39,7 +39,6 @@ _Updated: 2025-09-06 18:41_
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
-- Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
@@ -47,6 +46,7 @@ _Updated: 2025-09-06 18:41_
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 - Philip Morris International Participates in 2025 Barclays Global Consumer Staples Conference - Placera.se
+- Prologis to Participate in BofA Securities 2025 Global Real Estate Conference - Placera.se
 
 ## Technology
 
