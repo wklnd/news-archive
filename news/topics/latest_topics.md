@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-07 06:40_
+_Updated: 2025-09-07 07:38_
 
 ## Top Stories
 
-- Sverige pekas ut som skatteparadis – i Norge - DN
+- Dödligt anfall mot Kiev – regeringsbyggnad träffad - Hufvudstadsbladet
 - Explosion vid flerfamiljshus i Nödinge, Ale - GP
-- Tre döda i Kyiv-attacker: Regeringsbyggnad brinner - Omni
-- DN Direkt - Tak rasade in på tysk stormarknad – flera skadade - DN.se - DN
+- Sverige pekas ut som skatteparadis – i Norge - DN
+- En död i rysk attack mot Ukraina - GP
 - USA:s misslyckade spionuppdrag – dödade nordkoreanska fiskare - DN
-- Nya attacker mot höghus i Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Pojkar knivdödade av maskerat gäng i Melbourne - SvD
+- Här provsprängde Sverige för att skaffa kärnvapen - DN
+- Chockbeskedet från LKAB – tvingar gruvarbetaren Niklas att flytta - Dagens Arbete
 - ”Kyrkan behöver mer än politiska markeringar” - Västerbottens-Kuriren
-- Känsliga uppgifter från Kalmar kommun har läckt ut efter it-attacken - SVT Nyheter
-- ”Kulturkanon och tornedalingar” - Västerbottens-Kuriren
-- Skyfallet kom av sig på nytt – men: ”Inte fel att gå ut med varningen” - NWT
-- Pensionärer grips vid Gazademonstrationen i London – misstänks ha stöttat terrororganisation - DN
-- Familjen uppmanar hälsominister Kennedy att avgå - GP
-- Nya våldsamheter i Serbien - Corren
-- Nya siffror: Svenskar jobbar näst längst i EU - Expressen
-- Ryanair drar ner på flyg i Spanien - SvD
+- Läget i björnjakten - Jakt & Jägare
+- Flera döda i ryska attacker mot Ukraina - GP
+- Israel uppmanar Gazabor att evakuera – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- DN Direkt - Familjen uppmanar hälsominister Kennedy att avgå - DN.se - DN
+- Slog sönder fönster på förskola i Lund – hittades av hund - Expressen
+- Åtta punkter: Så attackerar Trump vindkraften - SvD
 - 5 238 patent ger Sverige global topprankning - Dagens PS
-- Trump: Tre möjliga efterträdare till Fed-chefen - Aftonbladet
 - Halverad matmoms sänker inflationen – men räkna inte med lägre ränta - Omni
-- Så fångar du helgens blodmåne med mobilen – grundtipsen för en magisk bild - SVT Nyheter
+- Ryanair drar ner på flyg i Spanien - Aftonbladet
+- Då kommer blodmånen och så kan du se den - Aftonbladet
 - Populära indiespelet tvingar rivalerna skjuta upp lanseringar - Expressen
 
 ## World News
@@ -61,15 +61,15 @@ _Updated: 2025-09-07 06:40_
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera
-- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera
+- Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera
 
 ## Business
 
@@ -148,6 +148,7 @@ _Updated: 2025-09-07 06:40_
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
@@ -160,5 +161,4 @@ _Updated: 2025-09-07 06:40_
 - USA tvingar ut EU på banan - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
 - VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
