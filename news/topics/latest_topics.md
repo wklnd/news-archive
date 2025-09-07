@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-07 11:37_
+_Updated: 2025-09-07 12:39_
 
 ## Top Stories
 
-- Ukrainas regeringsbyggnad i brand - DN
 - Två tåg har spårat ur – regnkaos längs Höga kusten - Aftonbladet
-- Stegrud svarar på kritiken: ”Enkel spaning” - Västerbottens-Kuriren
-- Om norska högern förlorar kan Ulf Kristersson bli en vinnare - Corren
+- Ukrainas regeringsbyggnad i brand - DN
+- (+) Personbil påkörd av nattåg - Jämtlands Tidning
 - En anhållen efter skjutning i tunnelbana - SvD
-- Explosion vid flerfamiljshus i Nödinge, Ale - GP
-- Väg bortspolad – bilist körde ned i spricka - GP
+- Sjöhästar och får i Östersjöns nationalpark - SvD
+- Arbetsplatsolycka på Volvo – man fick balk i huvudet - GP
+- Stegrud svarar på kritiken: ”Enkel spaning” - DN
+- ”Kyrkan behöver mer än politiska markeringar” - Västerbottens-Kuriren
+- JUST NU: Ny varning – risk för kraftigt regn i Skellefteå - Norran
 - Här provsprängde Sverige för att skaffa kärnvapen - DN
-- Barn riskerar livet för status: ”Brutal skadebild” - GP
-- Man klämd under 300 kilo tungt cementblock - Västerbottens-Kuriren
-- Medier: Japans premiärminister kommer avgå - Västerbottens-Kuriren
+- Japans premiärminister avgår - SVT Nyheter
+- Larm om vilt från gatan: "Tickande bomb" - GP
+- Cannabisprofil ny premiärminister - Västerbottens-Kuriren
 - Pojkar knivdödade av maskerat gäng i Melbourne - SvD
-- Cannabisprofil ny premiärminister - GP
-- Henrik Brandão Jönsson: Tropikernas Trump riskerar årtionden i fängelse - DN
 - Ryanair stryper spanska utbudet – en miljon flygstolar försvinner - EFN
+- Stålindustrin varnar om kollaps: “Kommer inte överleva” - Dagens PS
 - Åtta punkter: Så attackerar Trump vindkraften - SvD
-- ”AI:s gudfader”: Fler blir rika – resten fattigare - Dagens PS
-- Stormens öga triggar Tuchman – börsgolvets ”Einstein” - Dagens PS
+- Beslagtagna lyxbilar ger klirr i kassan åt staten - DN
 - Venus metallsnö och komethopp – här är platserna i rymden du inte får missa - Nyteknik
 - Titta upp – då blir månen röd - DN
 
 ## World News
 
-- Global tillväxt för halvledarutrustning under Q2 - Evertiq
-- Resmed Launches Sleep Institute to Elevate Sleep Health as a Global Priority - Placera.se
-- World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
 - Choice Hotels International Debuts in Argentina with the Opening of Radisson Blu Bariloche - Placera.se
+- World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
-- Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
-- BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
+- BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- UN Security Council calls emergency meeting on Gaza - Poddtoppen
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- Global hållbarhetskonferens meddelar flytt till "Portugals Venedig - The Portugal News
+- Portugal sjunker på global rankning för antagande av kryptovalutor - The Portugal News
 
 ## Technology
 
@@ -67,9 +67,9 @@ _Updated: 2025-09-07 11:37_
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
+- Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
 
 ## Business
 
@@ -96,7 +96,6 @@ _Updated: 2025-09-07 11:37_
 
 ## Health
 
-- Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
@@ -107,15 +106,16 @@ _Updated: 2025-09-07 11:37_
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- West Sweden’s life science community collaborates to launch HackHERHealth, a trailblazing femtech innovation hackathon - NewsMachine AB
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
@@ -144,21 +144,21 @@ _Updated: 2025-09-07 11:37_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Här är världens största jordbruk - ATL
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
+- De gick från reko till eko - ST-tidningen
