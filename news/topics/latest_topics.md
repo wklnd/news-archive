@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-07 15:37_
+_Updated: 2025-09-07 16:37_
 
 ## Top Stories
 
-- Häst skenade på Jägersro travbana – sex personer till sjukhus - SVT Nyheter
-- Två tåg har spårat ur – regnkaos längs Höga kusten - Aftonbladet
-- Stegrud om kritiken: ”Illa formulerad tweet" - GP
-- DN Direkt - Påkörd man i Åre död - DN.se - DN
+- Två tåg har spårat ur – regnkaos längs Höga kusten: ”Krigszon” - Aftonbladet
+- Stegrud om kritiken: ”Illa formulerad tweet” - SVT Nyheter
 - En anhållen efter skjutning i tunnelbana - SvD
-- MEDAN DU SOV: Här är nattens händelser – explosion utanför flerfamiljshus - NLT
-- Emma och Viktoria (BKS) – Vi vill ha en mänsklig kyrka - Norran
+- DN Direkt - Påkörd man i Åre död - DN.se - DN
+- Explosion vid flerfamiljshus i Nödinge, Ale - GP
+- Kör sin döda syster genom hela Sverige: ”Det är lite bisarrt” - Aftonbladet
+- Barn allvarligt skadat efter olycka på Jägersro - DN
+- KYRKOVAL #1: Största gruppen har ny toppkandidat: "Mångfalden är viktig" - Dagens Vimmerby
 - Hundratals taxar orsakar bilköer i Stockholm - GP
 - Ny drönarincident – färg släppt på ryska ambassaden - Västerbottens-Kuriren
-- V-ledaren efter avhoppen: Ingen splittring - SvD
-- Ukrainas regeringsbyggnad i brand - DN
 - Larm om vilt från gatan: "Tickande bomb" - Västerbottens-Kuriren
 - Cannabisprofil ny premiärminister - GP
-- Japans premiärminister avgår - SVT Nyheter
-- Ryanair drar ner på flyg i Spanien - SvD
+- Israel uppmanar Gazabor att evakuera – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Misstänkt föremål i Solna var ofarligt - Omni
 - Stålindustrin varnar om kollaps: “Kommer inte överleva” - Dagens PS
+- Britterna på väg att fastna i ”dödsspiral” - SvD
+- Ryanair drar ner på flyg i Spanien - Aftonbladet
 - ”Jämnt skägg” mellan rörlig och bunden ränta - SvD
-- Halverad matmoms sänker inflationen – men räkna inte med lägre ränta - Omni
 - Titta upp – i kväll får månen en ny kostym - SvD
 - Kan målade vind­kraft­verk rädda insekter, fladder­möss och fåglar? - Natursidan
 
@@ -31,22 +31,22 @@ _Updated: 2025-09-07 15:37_
 - Resmed Launches Sleep Institute to Elevate Sleep Health as a Global Priority - Placera.se
 - World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
+- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
+- Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- Global hållbarhetskonferens meddelar flytt till "Portugals Venedig - The Portugal News
 
 ## Technology
 
