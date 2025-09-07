@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-07 01:37_
+_Updated: 2025-09-07 04:15_
 
 ## Top Stories
 
-- AC-bråk under Putin och Kims toppmöte: ”Tappade besinningen” - Aftonbladet
-- DN Direkt - Familjen uppmanar hälsominister Kennedy att avgå - DN.se - DN
-- Misslyckat underrättelseuppdrag i Nordkorea avslöjat - GP
+- Explosionslarm i Nödinge – boende inrymda - SVT Nyheter
+- Byter namn på Pentagon: ”Redo dominera våra fiender” - DN
 - Chicago svarar på Trumps hot: ”Motbjudande” - DN
+- DN Direkt - Protester i Washington mot soldater på stadens gator - DN.se - DN
 - 25 fulla tyskar härjade på tåg: "Ville inte kliva av" - UNT
-- Familjen uppmanar Kennedy att avgå - SvD
-- DN Direkt - Minderårig häktad efter dubbelmord i Kallhäll - DN.se - DN
+- Nya attacker mot höghus i Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - ”Kyrkan behöver mer än politiska markeringar” - Västerbottens-Kuriren
-- Regeringen: Slopa krogarnas matkrav nästa sommar - GP
 - SMHI varnar för skyfall - SVT Nyheter
-- Ny attack mot höghus i Gaza stad - SVT Nyheter
+- Personuppgifter om 165 000 göteborgare läckta - GP
+- Statens haverikommission startar utredning efter flygkraschen i Norrtälje - GP
+- Familjen uppmanar hälsominister Kennedy att avgå - Västerbottens-Kuriren
 - Många gripna vid propalestinsk protest i London - GP
+- Nya våldsamheter i Serbien - Corren
 - Populära nagellack förbjuds – innehåller skadligt ämne - DN
-- Flodhäst välte båt – elva saknas - Hufvudstadsbladet
-- Svenskar tar smällen när Norge inför fastpris på el - Omni
 - Trump: Tre möjliga efterträdare till Fed-chefen - Aftonbladet
-- ”Jämnt skägg” mellan rörlig och bunden ränta - SvD
-- 88 postoperatörer stoppar paket till USA - DI
+- Svenskar tar smällen när Norge inför fastpris på el - Omni
+- ENKÄT: Sänkt matmoms – så tycker Lidköpingsborna: ”Tror inte priserna kommer bli lägre” - NLT
+- Debatt: Lär av Skövde – det måste gå fortare att komma igång med bostadsbyggande - skaraborgsbygden.se
 - Titta upp – då blir månen röd - DN
 - Populära indiespelet tvingar rivalerna skjuta upp lanseringar - Expressen
 
@@ -39,12 +39,12 @@ _Updated: 2025-09-07 01:37_
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
+- Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 - Global hållbarhetskonferens meddelar flytt till "Portugals Venedig - The Portugal News
 
@@ -60,15 +60,15 @@ _Updated: 2025-09-07 01:37_
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera
-- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera
 
 ## Business
@@ -122,43 +122,43 @@ _Updated: 2025-09-07 01:37_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Här är världens största jordbruk - ATL
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- USA tvingar ut EU på banan - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
