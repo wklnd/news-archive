@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-07 08:45_
+_Updated: 2025-09-07 09:37_
 
 ## Top Stories
 
-- Två lottköpare delar på mångmiljardvinst - Aftonbladet
 - Ukrainas regeringsbyggnad i brand - DN
+- Väg bortspolad – bilist körde ned i spricka - SVT Nyheter
+- Explosion vid flerfamiljshus i Nödinge, Ale - GP
 - Om norska högern förlorar kan Ulf Kristersson bli en vinnare - Corren
-- Flera döda i ryska attacker mot Ukraina - GP
-- Tonåring blir helgon – första ur millenniegenerationen - Omni
+- Nu får alla millennials sitt första helgon - Aftonbladet
 - Här provsprängde Sverige för att skaffa kärnvapen - DN
-- Vägras utanför Härnösand – bil har kört ner i spricka - Omni
 - Barn riskerar livet för status: ”Brutal skadebild” - Västerbottens-Kuriren
-- Chockbeskedet från LKAB – tvingar gruvarbetaren Niklas att flytta - Dagens Arbete
+- Man livshotande skadad efter brand i Höganäs - SVT Nyheter
 - Varnar för skyfall i Västerbotten – kraftigt regn väntas - Norran
-- Pojkar knivdödade av maskerat gäng i Melbourne - Aftonbladet
+- Man klämd under 300 kilo tungt cementblock - GP
+- Pojkar knivdödade av maskerat gäng i Melbourne - SvD
+- Cannabisprofil ny premiärminister - Västerbottens-Kuriren
+- DN Direkt - En person anhållen för skjutningen på tunnelbanan i Alby - DN.se - DN
 - Israel uppmanar Gazabor att evakuera – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Man följde efter och överföll kvinna i Skärholmen - Aftonbladet
-- Familjen uppmanar vaccinskeptiske Kennedy att avgå som hälsominister - Hufvudstadsbladet
 - Ryanair stryper spanska utbudet – en miljon flygstolar försvinner - EFN
 - Åtta punkter: Så attackerar Trump vindkraften - SvD
 - Trump hotar EU efter Googles miljardböter - DN
-- Halverad matmoms sänker inflationen – men räkna inte med lägre ränta - Omni
+- Stålindustrin varnar om kollaps: “Kommer inte överleva” - Dagens PS
 - Titta upp – då blir månen röd - DN
-- Populära indiespelet tvingar rivalerna skjuta upp lanseringar - Expressen
+- Tetsuya Nomura ger oss en (liten) uppdatering om Kingdom Hearts 4 - FZ.se
 
 ## World News
 
@@ -38,15 +38,15 @@ _Updated: 2025-09-07 08:45_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
+- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
+- Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- Global hållbarhetskonferens meddelar flytt till "Portugals Venedig - The Portugal News
 
 ## Technology
 
@@ -96,26 +96,26 @@ _Updated: 2025-09-07 08:45_
 
 ## Health
 
+- Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Fakulteten för hälsa och samhälle - Malmö universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Europeisk konferens för socialmedicin: Praktik, teori och handling för en hälsosammare framtid - sls.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Tema: AI inom medicin och hälsa - Karolinska Institutet
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
@@ -134,11 +134,11 @@ _Updated: 2025-09-07 08:45_
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Rovtidskrifter exploaterar forskares strävan efter snabb publicering - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
 
