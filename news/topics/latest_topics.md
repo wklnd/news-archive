@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-07 22:38_
+_Updated: 2025-09-07 23:37_
 
 ## Top Stories
 
 - Risk för dieselläckage efter urspårning i Västernorrland - DN
 - Häst skenade på Jägersro travbana – två allvarligt skadade - SVT Nyheter
 - Stegrud om kritiken: ”Illa formulerad tweet" - Västerbottens-Kuriren
+- VMA utfärdat efter brand i avfallsanläggning - Aftonbladet
 - Kulturdebatt. I Harold Blooms kanon står litteraturens egenart alltid i centrum - DN
-- En anhållen efter skjutning i tunnelbana - Aftonbladet
 - Explosion vid flerfamiljshus i Nödinge, Ale - GP
+- Hundratals taxar orsakar bilköer i Stockholm - Hufvudstadsbladet
 - En person död i kollision mellan tåg och bil - GP
-- V-ledaren efter avhoppen: Ingen splittring - GP
 - Tiktok ska locka unga i ”det bortglömda valet” - Smålänningen
-- Läget i björnjakten - Jakt & Jägare
 - Ukrainas regeringsbyggnad i brand - DN
 - Ny attack mot höghus i Gaza stad - SVT Nyheter
 - Påvens predikan under helgonförklaringen: "Vi är kallade att, liksom de, vara helgon" - Vatican News
 - DN Direkt - Avspärrning i Solna - misstänkt farligt föremål hittat - DN.se - DN
 - Sakerna du ska leta efter för att avslöja AI-genererade bilder - Expressen
-- Ryanair stryper utbudet – en miljon flygstolar försvinner - EFN
 - "Sänkt matmoms – en elegant förolämpning mot svenska folket" - Realtid
 - Nooshi Dadgostar höll sommartal i Luleå: ” Nästa år byter vi regering” - Vänsterpartiet
-- Då färgas månen röd – så ser du den bäst - GP
+- DN Direkt - Två vinnare fick dela på jackpotten på 1,8 miljarder dollar - DN.se - DN
 - Hej hopp, här kommer prinsessan i en kopp - Aftonbladet
+- Kabelbrott i Röda havet drabbar Asien - Hufvudstadsbladet
+- Kan målade vind­kraft­verk rädda insekter, fladder­möss och fåglar? - Natursidan
 
 ## World News
 
@@ -36,12 +36,12 @@ _Updated: 2025-09-07 22:38_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
-- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Resmed Launches Sleep Institute to Elevate Sleep Health as a Global Priority - Placera.se
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
@@ -61,9 +61,9 @@ _Updated: 2025-09-07 22:38_
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
@@ -96,26 +96,26 @@ _Updated: 2025-09-07 22:38_
 
 ## Health
 
-- Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
-- Hälso- och sjukvården tar plats i Almedalen - dagensmedicin.se
+- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Europeisk konferens för socialmedicin: Praktik, teori och handling för en hälsosammare framtid - sls.se
+- Osher centrum för integrativ hälsa - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
+- Engineering Health 2024 - Chalmers tekniska högskola
+- West Sweden’s life science community collaborates to launch HackHERHealth, a trailblazing femtech innovation hackathon - NewsMachine AB
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
@@ -144,21 +144,21 @@ _Updated: 2025-09-07 22:38_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Holmgren: Centerpartiet – vi verkar vara överrens - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk
