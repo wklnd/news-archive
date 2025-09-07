@@ -1,21 +1,21 @@
 # Top News Headlines
 
-_Updated: 2025-09-07 18:47_
+_Updated: 2025-09-07 19:48_
 
 - 300 South Koreans detained at Hyundai plant in US to be released, says Seoul - The Guardian
+- Ukraine cabinet building hit in largest Russian strike of war, Zelenskyy says - ABC News
 - CBS News poll: On Trump deploying National Guard, divisions over impact on crime, rights - CBS News
-- Russia launches record mass drone attack on Ukraine - Financial Times
 - Japan’s prime minister resigns after party suffered historic defeat in summer election - AP News
-- Pope Leo XIV declares teen computer whiz Carlo Acutis the first millennial saint - ABC News
-- Zelenskyy says Trump’s Alaska summit ‘gave Putin what he wanted’ - ABC News
+- Carlo Acutis: From London baptism to first millennial saint - BBC
+- Poll: Trump's job ratings stay negative; Americans express strong support for vaccines - NBC News
 - In Chicago, residents celebrate Mexican Independence Day amid threats of heightened immigration enforcement - CNN
-- Rand Paul clashes with JD Vance over US strike on boat leaving Venezuela - Politico
+- "Despicable and thoughtless": Vance's drug vessel strike praise slammed by senator - Axios
 - Justice Barrett defends Supreme Court’s decision to overturn Roe - The Washington Post
 - Conservatives have a message for Trump: We want more babies - Politico
 - Colombia's lone Amazon port faces drying river and rising tensions with Peru - NPR
 - Lisbon funicular cable disconnected before crash — report - DW
 - In a rare hit, a drone fired by Yemen’s Houthi rebels strikes Israel’s southern airport - AP News
-- Andy Burnham concerned about balance of cabinet after Angela Rayner exit - BBC
+- Deadly attack: Shark fatally mauls man at beach, authorities say - WJLA
 - Powerball lottery players in Missouri and Texas to split nearly $1.8 billion jackpot - AP News
 - OPEC+ agrees further oil output boost from October to regain market share - Reuters
 - AI shakes up the call center industry, but some tasks are still better left to the humans - AP News
