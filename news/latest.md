@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-07 20:49_
+_Updated: 2025-09-07 21:48_
 
-- 300 South Koreans detained at Hyundai plant in US to be released, says Seoul - The Guardian
-- CBS News poll: On Trump deploying National Guard, divisions over impact on crime, rights - CBS News
+- Seoul concludes US talks to release South Koreans detained in Hyundai raid - BBC
 - Ukraine cabinet building hit in largest Russian strike of war, Zelenskyy says - ABC News
-- Carlo Acutis: From London baptism to first millennial saint - BBC
+- CBS News poll: On Trump deploying National Guard, divisions over impact on crime, rights - CBS News
 - Japan’s prime minister resigns after his party suffered a historic defeat in a summer election - AP News
-- Poll: Trump's job ratings stay negative; Americans express strong support for vaccines - NBC News
-- "Despicable and thoughtless": Vance's drug vessel strike praise slammed by senator - Axios
+- Pope Leo declares two new saints - The Hill
+- Republican condemns Vance for ‘despicable’ comments on Venezuelan boat strike - The Guardian
 - In Chicago, residents celebrate Mexican Independence Day amid threats of heightened immigration enforcement - CNN
-- Conservatives have a message for Trump: We want more babies - Politico
-- Republicans brace for redistricting ‘catastrophe’ in California - Politico
-- Palestinians Begin a Perilous Flight From Gaza City - The Wall Street Journal
+- Florida surgeon general denies need for study ahead of end to vaccine mandates in the state - Politico
+- Why some Republicans are newly worried about RFK Jr. - The Washington Post
+- America will refund about ‘half the tariffs’ if SCOTUS rules Trump overstepped, Bessent says - CNN
 - Colombia's lone Amazon port faces drying river and rising tensions with Peru - NPR
+- Palestinians Begin a Perilous Flight From Gaza City - The Wall Street Journal
 - Lisbon funicular cable disconnected before crash — report - DW
-- Houthi drone evades defenses, smashes into Ramon Airport terminal in south; one hurt - The Times of Israel
-- Powerball lottery players in Missouri and Texas to split nearly $1.8 billion jackpot - AP News
+- Israel's Ramon Airport near Eilat reopens after being hit by drone from Yemen - Reuters
+- One of two winning Powerball tickets was sold in Texas Hill Country - Houston Chronicle
 - OPEC+ agrees further oil output boost from October to regain market share - Reuters
-- Donald Trump maelstrom likely to leave US economic model unrecognisable | Heather Stewart - The Guardian
-- I toured an $85 million Hamptons mansion and learned something about the economy - Business Insider
+- AI shakes up the call center industry, but some tasks are still better left to the humans - AP News
+- Trump's Job Market Promises Fall Flat As Hiring Collapses And Inflation Ticks Up - HuffPost
 - Porsche’s insanely clever hybrid engine comes to the 911 Turbo S - Ars Technica
 - Korean carrier may have leaked iPhone 17 specifications ahead of event - AppleInsider
