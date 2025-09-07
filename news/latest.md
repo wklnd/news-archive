@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-07 07:48_
+_Updated: 2025-09-07 08:50_
 
-- $1.8 billion Powerball drawing turns up winners in Texas and Missouri - NBC News
 - Tensions Mount as Trump Administration Threatens Federal Crackdown in Chicago - The New York Times
 - South Korea says US release of video showing workers' arrest was regrettable - Reuters
+- Thousands march in D.C. against Trump’s law enforcement takeover - The Washington Post
 - Israel destroys second high-rise as assault on Gaza City intensifies - BBC
-- Thousands protest for a ‘Free DC’ on the fourth week of federal control in Washington - AP News
 - LAPD ends protection of former Vice President Kamala Harris amid criticism over diverting cops, sources say - Los Angeles Times
-- Mexican festivals in Chicago canceled amid Trump plans to deploy troops - The Guardian
+- Hawaii under state of emergency ahead of Hurricane Kiko - ABC News
+- 2 tickets -- sold in Missouri, Texas -- win massive $1.8B Powerball jackpot - ABC News
+- Trump news at a glance: Anxiety in Chicago as Trump plans to send troops; postal traffic into US drops 80% - The Guardian
 - Trump administration launches immigration crackdown in Massachusetts, reports say - Reuters
-- Carlo Acutis: From London baptism to first millennial saint - BBC
-- RFK. Jr’s family members call for his resignation, say he is a ‘threat’ to Americans’ health - PBS
-- Lisbon funicular cable disconnected before crash — report - dw.com
+- Carlo Acutis: From a baptism in London to the first millennial saint - BBC
+- Lisbon funicular cable snapped before deadly crash, report finds - The Guardian
+- Infant among three killed in Russian attack that sets ablaze seat of Ukraine government - Reuters
 - Reform UK is on the rise. Leader Nigel Farage hopes the Trump playbook can propel him to power - AP News
-- At least 2 killed, including infant, 17 injured in Kyiv amid Russian drone, missile attacks on residential buildings - The Kyiv Independent
 - South Sudan repatriates Mexican man deported from U.S. in July - CBS News
-- Microsoft Says Azure Service Affected by Damaged Red Sea Cables - Bloomberg.com
+- Undersea cables cut in the Red Sea, disrupting internet access in Asia and the Mideast - AP News
 - Donald Trump’s economy falters as US jobs growth grinds to a halt - Financial Times
 - 'Godfather of AI' says the technology will create massive unemployment and send profits soaring — 'that is the capitalist system' - Fortune
-- EU fines Google $3.5B over adtech ‘abuse’ - TechCrunch
+- Off-duty pilot pleads guilty to trying to crash Alaska Airlines jet - BBC
 - What we've been playing - it's not all Hollow Knight Silksong you know - Eurogamer
 - Top Stories: iPhone 17, New Apple Watch Models, and More Expected at Tuesday's Event - MacRumors
