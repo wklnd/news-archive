@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-07 10:48_
+_Updated: 2025-09-07 11:48_
 
-- Tensions Mount as Trump Administration Threatens Federal Crackdown in Chicago - The New York Times
+- South Korea says US release of video showing workers' arrest was regrettable - Reuters
 - Russia's largest air attack on Ukraine sets fire to main government building - Reuters
-- ICE arrests at a Georgia Hyundai plant create new tension with South Korea - NPR
+- Tensions Mount as Trump Administration Threatens Federal Crackdown in Chicago - The New York Times
 - Japan Prime Minister Ishiba to resign: reports - CNN
-- Thousands march in D.C. against Trump’s law enforcement takeover - The Washington Post
 - Trump administration begins new Ice operation in Massachusetts - The Guardian
+- Thousands march in D.C. against Trump’s law enforcement takeover - The Washington Post
 - 2 tickets -- sold in Missouri, Texas -- win massive $1.8B Powerball jackpot - ABC News
-- Pilsen’s Mexican Independence Day Carries On Amid Trump’s Threats: ‘Joy Is Resistance’ - Block Club Chicago
-- LAPD ends protection of former VP Harris amid criticism, sources say - The Seattle Times
+- L.A.P.D. Stops Security Services for Kamala Harris - The New York Times
 - Carlo Acutis: From London baptism to first millennial saint - BBC
-- Israel destroys second high-rise as assault on Gaza City intensifies - BBC
-- Lisbon funicular cable disconnected before crash — report - DW
-- South Sudan repatriates Mexican man deported from US - CNN
+- RFK. Jr’s family members call for his resignation, say he is a ‘threat’ to Americans’ health - PBS
+- Israel calls on famine-stricken residents to flee and targets more high-rises in Gaza City - Politico
+- South Sudan repatriates Mexican man deported from U.S. in July - CBS News
 - Reform UK is on the rise. Leader Nigel Farage hopes the Trump playbook can propel him to power - AP News
+- Hippo capsizes boat in Ivory Coast; 11 people missing, including children and baby - CBS News
+- Murdoch Paper Slams Trump After Disastrous Jobs Report - The Daily Beast
 - Undersea cables cut in the Red Sea, disrupting internet access in Asia and the Mideast - AP News
 - OPEC+ Agrees in Principle to Increase Production in October - Bloomberg
-- Donald Trump’s economy falters as US jobs growth grinds to a halt - Financial Times
 - 'Godfather of AI' says the technology will create massive unemployment and send profits soaring — 'that is the capitalist system' - Fortune
 - What we've been playing - it's not all Hollow Knight Silksong you know - Eurogamer
-- Top Stories: iPhone 17, New Apple Watch Models, and More Expected at Tuesday's Event - MacRumors
+- An ‘iPhone Air,’ price hikes and AI: What to watch at Apple’s biggest event of the year - CNN
