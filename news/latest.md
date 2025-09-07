@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-07 11:48_
+_Updated: 2025-09-07 12:48_
 
-- South Korea says US release of video showing workers' arrest was regrettable - Reuters
+- Seoul concludes US talks to release South Koreans detained in Hyundai raid - BBC
+- Chicago braces for expanded immigration enforcement as local officials push back on Trump post - ABC News
 - Russia's largest air attack on Ukraine sets fire to main government building - Reuters
-- Tensions Mount as Trump Administration Threatens Federal Crackdown in Chicago - The New York Times
-- Japan Prime Minister Ishiba to resign: reports - CNN
-- Trump administration begins new Ice operation in Massachusetts - The Guardian
-- Thousands march in D.C. against Trump’s law enforcement takeover - The Washington Post
+- A teen nicknamed 'God's influencer' is becoming the first millennial saint - NPR
+- Japan PM Ishiba resigns after series of bruising election losses - CNN
+- ICE Has Begun Immigration Crackdown in Massachusetts - The New York Times
 - 2 tickets -- sold in Missouri, Texas -- win massive $1.8B Powerball jackpot - ABC News
 - L.A.P.D. Stops Security Services for Kamala Harris - The New York Times
-- Carlo Acutis: From London baptism to first millennial saint - BBC
-- RFK. Jr’s family members call for his resignation, say he is a ‘threat’ to Americans’ health - PBS
+- Thousands march in D.C. against Trump’s law enforcement takeover - The Washington Post
+- President of Peace, Department of War. A New Name Sends Mixed Signals. - The New York Times
+- Lisbon funicular cable disconnected before crash — report - DW
 - Israel calls on famine-stricken residents to flee and targets more high-rises in Gaza City - Politico
+- US said to give Hamas, via mediator, principles for comprehensive hostage deal - The Times of Israel
 - South Sudan repatriates Mexican man deported from U.S. in July - CBS News
-- Reform UK is on the rise. Leader Nigel Farage hopes the Trump playbook can propel him to power - AP News
-- Hippo capsizes boat in Ivory Coast; 11 people missing, including children and baby - CBS News
 - Murdoch Paper Slams Trump After Disastrous Jobs Report - The Daily Beast
-- Undersea cables cut in the Red Sea, disrupting internet access in Asia and the Mideast - AP News
-- OPEC+ Agrees in Principle to Increase Production in October - Bloomberg
-- 'Godfather of AI' says the technology will create massive unemployment and send profits soaring — 'that is the capitalist system' - Fortune
+- Internet disruptions in Middle East and South Asia after Red Sea cable cuts - Al Jazeera
+- Tesla investor presses board address Elon Musk's politics and their impact on the EV maker's business - Fortune
+- ‘Godfather of AI’ says the technology will create massive unemployment and send profits soaring — ‘that is the capitalist system’ - yahoo.com
+- Apple AirPods Pro 3 LEAKS Reveal INSANE New Features - Geeky Gadgets
 - What we've been playing - it's not all Hollow Knight Silksong you know - Eurogamer
-- An ‘iPhone Air,’ price hikes and AI: What to watch at Apple’s biggest event of the year - CNN
