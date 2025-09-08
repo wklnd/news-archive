@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-08 21:38_
+_Updated: 2025-09-08 22:41_
 
 ## Top Stories
 
-- DN Direkt - Acko Ankarberg Johansson lämnar regeringen - DN.se - DN
+- Carl-Oskar Bohlin förföljd av demonstranter - GP
+- Fiaskohalvlek för Sverige mot Kosovo i VM-kvalet - Aftonbladet
 - 1 600 vallokaler är öppna i Norge – Val i Norge – förväntas bli jämn strid mellan blocken - SVT Nyheter
-- SJ ställer in all tågtrafik på drabbade sträckor - Västerbottens-Kuriren
+- Andreas Carlson besöker Västernorrland efter regnovädret - Regeringen.se
+- DN Direkt - Acko Ankarberg Johansson lämnar regeringen - DN.se - DN
 - Lägesrapport om försök till mord i Alby, Botkyrka - Åklagarmyndigheten
-- Frankrikes regering faller efter omröstning - GP
-- Här är sista spåret efter David – som varit försvunnen i fem månader - GP
-- Regeringen sänker skatten: ”Mer pengar i plånboken” - NWT
-- Väg rasade: Man död i olycka - Västerbottens-Kuriren
+- Tonvis med PFAS på svenska åkrar - SVT Nyheter
 - Tre år med Tidöregeringen – så har det gått för Sverige - DN
-- Spelade genom bulvaner – hotas av fängelse - DN
-- USA:s finansminister i bråk: ”Ska slå dig på käften” - DN
+- Annie Reuterskiöld: Regeringens valfläsk sätter S i en rävsax - DN
+- Tiktok ska locka unga i ”det bortglömda valet” - Smålänningen
+- DN Direkt - Frankrikes regering faller i misstroendeomröstning - DN.se - DN
 - Nervositeten ökar efter Mileis valflopp - SvD
-- Minst 19 har dödats i protester i Nepal - DN
-- Israelisk attack mot 12-våningshus i Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Netanyahus uppmaning: Lämna Gaza stad nu – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Jättedamm i Nilen invigs trots hot, bråk och intriger - DN
 - Småbolag rusade i sluthandeln – Nasdaq stryker ”felaktiga affärer” - Dagens industri
-- Salmonella på äldreboenden i Katrineholm - Aftonbladet
+- Kinas export ökade 4,4 procent på årsbasis i augusti - väntat var ökning 5,5 procent - Börsvärlden
+- Nationalekonom sågar sänkt matmoms: ”Öppnar Pandoras box” - Tidningen Näringslivet
 - CUPRA accelererar med världspremiären av Tindaya – visar även upp Tribe Editions och CUPRA Raval - Via TT
-- Därför gläds Domeij åt regeringens besked: Sänkt matmoms en dörröppnare för framtiden - Aktuell Hållbarhet
 - Skördemånen blev blodröd – här är bilderna på blodmånen - Nyteknik
 - Senaste nytt från Apple – vi listar heta släpp - Aftonbladet
 
@@ -30,12 +30,13 @@ _Updated: 2025-09-08 21:38_
 - Global tillväxt för halvledarutrustning under Q2 - Evertiq
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Techarenan News goes English (Partly at least) - Techarenan.news
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
-- Introducing PayPal World: a global platform connecting the world's largest payment systems and digital wallets, starting with interoperability to PayPal and Venmo - Placera.se
 - World Athletics introduces gene test for female category - BBC
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
@@ -43,10 +44,9 @@ _Updated: 2025-09-08 21:38_
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- Nobel Algarve British International School värd för global olympisk tävling - The Portugal News
 
 ## Technology
 
@@ -104,18 +104,18 @@ _Updated: 2025-09-08 21:38_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
+- West Sweden’s life science community collaborates to launch HackHERHealth, a trailblazing femtech innovation hackathon - NewsMachine AB
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
 ## Science
 
