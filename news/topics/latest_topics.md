@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-08 15:06_
+_Updated: 2025-09-08 15:46_
 
 ## Top Stories
 
-- Trafikkaos och skyfall – vägar och banvallar i Ångermanland spolades bort - SVT Nyheter
-- Barnet hjälpte polisen att hitta sina syskon - Omni
 - Kristersson: Fortsätter öka trycket på Ryssland - Västerbottens-Kuriren
-- Bil körde in i uteservering – en död - GP
+- DN Direkt - Risk för dieselläckage efter urspårning i Västernorrland - DN.se - DN
+- Bil körde in i uteservering – en död - Västerbottens-Kuriren
+- Barnet hjälpte polisen att hitta sina syskon - Omni
 - Expert om bombade höghusen: ”Ny taktik” - DN
-- En anhållen efter skjutning i tunnelbana - Aftonbladet
-- Ekonomen: ”En historisk plånboksbudget” - Dagens industri
+- Guide: Här är de större satsningarna i regeringens budget för 2026 - SVT Nyheter
 - Man uppe ur kalkbrott – förd till sjukhus - Omni
 - Se läsarnas klipp från åskovädret - Piteå-Tidningen
 - S-profilerna hängde på låset till kyrkovalet - Aktuellt i Politiken
+- ”Var finns folkrörelserna och föreningslivet i kanonen?” - Västerbottens-Kuriren
 - Svampmördaren döms till livstids fängelse - Expressen
 - Påvens predikan under helgonförklaringen: "Vi är kallade att, liksom de, vara helgon" - Vatican News
 - Iryna Zarutska, 23, mördad på spårvagn – politisk storm i USA - Aftonbladet
 - UPPGIFTER: Stor katastrof hotar på Östersjön – svenska hushåll får betala - Marcus Oscarsson
 - Klarnas börsdebut bland årets största i USA - SvD
 - "Sänkt matmoms – en elegant förolämpning mot svenska folket" - Realtid
+- Sjukvårdsministern lämnar - Dagens industri
 - DN Direkt - Två vinnare fick dela på jackpotten på 1,8 miljarder dollar - DN.se - DN
-- Återhämtningen dröjer – skogsindustrin får hoppas på 2026 - Dagens industri
 - Nu syns blodmånen runtom i Sverige - Aftonbladet
-- Kabelbrott i Röda havet drabbar Asien - Hufvudstadsbladet
+- Salmonella på äldreboenden i Katrineholm - SvD
 
 ## World News
 
 - Global tillväxt för halvledarutrustning under Q2 - Evertiq
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Techarenan News goes English (Partly at least) - Techarenan.news
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
+- JOHNNIE WALKER SCOTCH WHISKY ANNOUNCES GLOBAL PARTNERSHIP WITH GRAMMY AWARD-WINNING MUSIC ARTIST AND INTERNATIONAL SUPERSTAR SABRINA CARPENTER - Placera.se
 - World Athletics introduces gene test for female category - BBC
-- World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
+- World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
 - Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 - Global hållbarhetskonferens meddelar flytt till "Portugals Venedig - The Portugal News
 
@@ -60,15 +60,15 @@ _Updated: 2025-09-08 15:06_
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
-- ZenaTech Signs Agreements to Acquire Two Florida Companies, Expanding Drone as a Service Footprint into Aviation, Defense, and Power Washing - Placera.se
-- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
-- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
+- Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
 
 ## Business
@@ -104,10 +104,9 @@ _Updated: 2025-09-08 15:06_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Europeisk konferens för socialmedicin: Praktik, teori och handling för en hälsosammare framtid - sls.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
@@ -116,49 +115,50 @@ _Updated: 2025-09-08 15:06_
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Rovtidskrifter exploaterar forskares strävan efter snabb publicering - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Holmgren: Centerpartiet – vi verkar vara överrens - Land Lantbruk
-- Nyheter - LRF - Lantbrukarnas Riksförbund
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
