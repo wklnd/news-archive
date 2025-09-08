@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-08 20:51_
+_Updated: 2025-09-08 21:48_
 
-- Noem says immigration raid at Hyundai plant in Georgia won’t deter investment in the U.S. - PBS
-- Supreme Court lifts restrictions on Trump immigration tactics in California - ABC News
+- House Oversight receives Epstein estate files, including 'birthday book' - Politico
+- Supreme Court rules that immigration raids in LA can continue - BBC
 - Supreme Court allows Trump to fire FTC commissioner - NBC News
-- Appeals Court Upholds Carroll’s $83 Million Judgment Against Trump - The New York Times
-- Six killed, 6 seriously injured in Jerusalem as terrorists open fire on bus, pedestrians - The Times of Israel
-- Grisly Charlotte stabbing video fuels MAGA's crime message - Axios
-- 'Best I walk alone:' Man accused of trying to kill Trump prepares to defend himself at trial - Reuters
-- Trump says Department of Education will issue guidance about prayer in public schools - CBS News
-- Beloved Auburn veterinary professor was killed by man stealing her truck, records state - AL.com
-- Johnson says he didn’t use ‘right terminology’ in calling Trump an Epstein ‘informant’ - Politico
-- French government collapses after PM Bayrou ousted in confidence vote - Al Jazeera
-- Video shows destruction of fourth Gaza tower block in as many days - BBC
-- Police in Nepal open fire on protesters outside parliament, killing 17 - CNN
+- Noem says immigration raid at Hyundai plant in Georgia won’t deter investment in the U.S. - PBS
+- French government collapses after prime minister loses confidence vote - CNN
+- Several killed in Jerusalem bus station shooting, police say - ABC News
+- Fatal stabbing of Ukrainian refugee in North Carolina ignites crime debate - BBC
+- Man accused of Trump assassination attempt heads to trial. Here's what to know - Axios
+- Appeals court upholds E. Jean Carroll's $83 million judgment against Trump - NBC News
+- Trump Downplays Post Threatening Chicago, Saying He Wants to ‘Clean Up’ City - The New York Times
+- Argentine markets plunge after Milei's party loses to Peronists in Buenos Aires vote - Reuters
+- UN ready to assist Nepal following deadly protests over social media ban - UN News
 - Harrowing details emerge after surfer killed by shark off popular beach in Australia: "Really dramatic" - CBS News
-- SpaceX buys wireless spectrum from EchoStar in $17 billion deal - Reuters
-- Nasdaq hits new record, but S&P 500 is little changed ahead of inflation data this week: Live updates - CNBC
+- Freight train slams into a bus outside Mexico City and kills at least 8 people - AP News
+- Not the BIG one, but Powerball tickets sold in Minnesota worth serious bucks - kare11.com
+- EchoStar Stock Jumps On Spectrum Sale To SpaceX. AST, Iridium Retreat. - Investor's Business Daily
+- Oil gains after OPEC+ opts for modest output hike - Reuters
 - Billionaire CEO who voted for Trump sounds the alarm on Fed attacks - CNN
-- Oil Prices Rise After Producers Announce New Increase in Output - The New York Times
 - iPhone 17, the 'thinnest iPhone ever,' and everything else we're expecting out of Apple's hardware event - TechCrunch
 - Lenovo says its $1,100 handheld will also get the Xbox mode coming to the ROG Xbox Ally - Video Games Chronicle
