@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-08 19:40_
+_Updated: 2025-09-08 20:46_
 
 ## Top Stories
 
 - DN Direkt - Acko Ankarberg Johansson lämnar regeringen - DN.se - DN
-- Guide: Här är de större satsningarna i regeringens budget för 2026 - SVT Nyheter
-- Skyfallet skar av Skorped – vägar och järnväg bortspolade: ”Fruktansvärt” - DN
-- Strömmer (M) besökte mordplatsen: ”Vissa händelser som griper tag extra” - GP
-- Salmonella på äldreboenden i Katrineholm - SvD
-- Handlaren om skjutningen: "Alla bara sprang" - Mitt i
-- Tiktok ska locka unga i ”det bortglömda valet” - Smålänningen
-- Man död i olycka under väderkaoset - Expressen
-- Personuppgifter om medarbetare i Västerås stad har läckt - Västerås stad
-- Nu avgörs norska valet – Sverige tas som exempel i flera frågor - Aftonbladet
-- Flera döda i protest mot sociala medieförbud - GP
+- SJ ställer in all tågtrafik på drabbade sträckor - Västerbottens-Kuriren
+- DN Direkt - Budgeten: nytt jobbskatteavdrag och sänkt skatt för pensionärer - DN.se - DN
+- 1 600 vallokaler är öppna i Norge – Val i Norge – förväntas bli jämn strid mellan blocken - SVT Nyheter
+- Lägesrapport om försök till mord i Alby, Botkyrka - Åklagarmyndigheten
+- Salmonella på äldreboenden i Katrineholm - GP
+- Tre år med Tidöregeringen – så har det gått för Sverige - DN
+- Spelade genom bulvaner – hotas av fängelse - DN
+- Man död i olycka – vägen rasade - Tidningen Ångermanland
+- Carl Johan Rehbinder: Detta saknas i vår kulturkanon - Fokus - Sveriges nyhetsmagasin
+- Kraftigt börsras i Argentina efter presidentens bakslag - Dagens industri
+- Minst sex döda vid skottlossning i Jerusalem - SVT Nyheter
 - Ukrainas regeringsbyggnad i brand - DN
-- Netanyahu uppmanar invånare: Lämna Gaza stad nu - Västerbottens-Kuriren
-- Premiärministern röstas bort – ny regeringskris i Frankrike - SVT Nyheter
+- Livshotande skadad efter brand i Höganäs - Expressen
+- Teknisk strul på börsen – flera småbolag rusade - EFN
 - Analytiker: Klarnas värdering kan bli 150 miljarder - Dagens industri
-- Sparare och pensionärer får tillbaka Allrapengar - Pensionsmyndigheten
+- Därför gläds Domeij åt regeringens besked: Sänkt matmoms en dörröppnare för framtiden - Aktuell Hållbarhet
 - Vänsterpartiet kräver priskontroll på matpriser - tidningensyre.se
-- "Sänkt matmoms – en elegant förolämpning mot svenska folket" - Realtid
 - I NATT: Blodmåne över Värmland – se läsarnas bilder - NWT
-- Europeisk jätte satsar på fransk AI-utmanare - Omni
+- Senaste nytt från Apple – vi listar heta släpp - Aftonbladet
 
 ## World News
 
-- Global tillväxt för halvledarutrustning under Q2 - Evertiq
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
-- Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
-- BIG Travel går in i globalt partnerskap - travelnews.se
 - World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
+- BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- Global hållbarhetskonferens meddelar flytt till "Portugals Venedig - The Portugal News
+- Nobel Algarve British International School värd för global olympisk tävling - The Portugal News
+- Global klimatstrejk den 3 mars - The Portugal News
 
 ## Technology
 
@@ -107,7 +107,7 @@ _Updated: 2025-09-08 19:40_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- West Sweden’s life science community collaborates to launch HackHERHealth, a trailblazing femtech innovation hackathon - NewsMachine AB
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
@@ -143,22 +143,22 @@ _Updated: 2025-09-08 19:40_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- (+) Stor undersökning av jordbruket - Arbetarskydd
