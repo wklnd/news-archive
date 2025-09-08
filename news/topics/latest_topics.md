@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-08 13:38_
+_Updated: 2025-09-08 15:06_
 
 ## Top Stories
 
+- Trafikkaos och skyfall – vägar och banvallar i Ångermanland spolades bort - SVT Nyheter
+- Barnet hjälpte polisen att hitta sina syskon - Omni
 - Kristersson: Fortsätter öka trycket på Ryssland - Västerbottens-Kuriren
-- DN Direkt - Risk för dieselläckage efter urspårning i Västernorrland - DN.se - DN
+- Bil körde in i uteservering – en död - GP
 - Expert om bombade höghusen: ”Ny taktik” - DN
-- Pojke gripen efter skotten i Alby - Expressen
-- I Harold Blooms kanon står litteraturens egenart alltid i centrum - DN
-- Se bilderna – här fick månen en ny kostym - SvD
-- Tidöpartierna: Så mycket sänks elskatten - Aftonbladet
+- En anhållen efter skjutning i tunnelbana - Aftonbladet
+- Ekonomen: ”En historisk plånboksbudget” - Dagens industri
+- Man uppe ur kalkbrott – förd till sjukhus - Omni
+- Se läsarnas klipp från åskovädret - Piteå-Tidningen
 - S-profilerna hängde på låset till kyrkovalet - Aktuellt i Politiken
-- Kommunen om den stora it-attacken: ”En tankeställare” - Östersunds-Posten
-- Nej, Jonna Sima gör inte som Jessica Stegrud - Arbetet
 - Svampmördaren döms till livstids fängelse - Expressen
 - Påvens predikan under helgonförklaringen: "Vi är kallade att, liksom de, vara helgon" - Vatican News
 - Iryna Zarutska, 23, mördad på spårvagn – politisk storm i USA - Aftonbladet
 - UPPGIFTER: Stor katastrof hotar på Östersjön – svenska hushåll får betala - Marcus Oscarsson
+- Klarnas börsdebut bland årets största i USA - SvD
 - "Sänkt matmoms – en elegant förolämpning mot svenska folket" - Realtid
 - DN Direkt - Två vinnare fick dela på jackpotten på 1,8 miljarder dollar - DN.se - DN
 - Återhämtningen dröjer – skogsindustrin får hoppas på 2026 - Dagens industri
-- Fem saker att ha koll på innan börsen öppnar - Dagens industri
-- Kan målade vind­kraft­verk rädda insekter, fladder­möss och fåglar? - Natursidan
+- Nu syns blodmånen runtom i Sverige - Aftonbladet
 - Kabelbrott i Röda havet drabbar Asien - Hufvudstadsbladet
 
 ## World News
@@ -30,23 +30,23 @@ _Updated: 2025-09-08 13:38_
 - Global tillväxt för halvledarutrustning under Q2 - Evertiq
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
-- 7 saker om EQTY Global Growth II Fund - The Portugal News
 - World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
+- 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
-- UN Security Council calls emergency meeting on Gaza - Poddtoppen
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 - Global hållbarhetskonferens meddelar flytt till "Portugals Venedig - The Portugal News
-- Portugal sjunker på global rankning för antagande av kryptovalutor - The Portugal News
 
 ## Technology
 
@@ -60,16 +60,16 @@ _Updated: 2025-09-08 13:38_
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
-- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
+- ZenaTech Signs Agreements to Acquire Two Florida Companies, Expanding Drone as a Service Footprint into Aviation, Defense, and Power Washing - Placera.se
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
-- Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
 
 ## Business
 
@@ -121,24 +121,24 @@ _Updated: 2025-09-08 13:38_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Rovtidskrifter exploaterar forskares strävan efter snabb publicering - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
 
