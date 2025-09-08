@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-08 19:48_
+_Updated: 2025-09-08 20:51_
 
-- Korean companies admit cutting corners on US visas but say they have little choice - Financial Times
-- Supreme Court lifts limits on roving immigration patrols in Los Angeles area - NBC News
+- Noem says immigration raid at Hyundai plant in Georgia won’t deter investment in the U.S. - PBS
+- Supreme Court lifts restrictions on Trump immigration tactics in California - ABC News
+- Supreme Court allows Trump to fire FTC commissioner - NBC News
 - Appeals Court Upholds Carroll’s $83 Million Judgment Against Trump - The New York Times
-- Several killed in Jerusalem bus station shooting, police say - ABC News
-- French government collapses after prime minister loses confidence vote - CNN
-- Chief Justice John Roberts clears way for Trump to fire FTC commissioner for now - CBS News
+- Six killed, 6 seriously injured in Jerusalem as terrorists open fire on bus, pedestrians - The Times of Israel
 - Grisly Charlotte stabbing video fuels MAGA's crime message - Axios
-- Trial to Begin for Ryan Routh, Man Charged in Trump Assassination Attempt in Florida - The New York Times
-- Trump says he’ll direct Education Department to protect praying in public school - Politico
-- Trump Downplays Post Threatening Chicago, Saying He Wants to ‘Clean Up’ City - The New York Times
-- Police open fire on protests of Nepal’s social media policy, killing at least 17 - AP News
-- Argentina's Milei suffers landslide defeat in key Buenos Aires province election - Euronews.com
+- 'Best I walk alone:' Man accused of trying to kill Trump prepares to defend himself at trial - Reuters
+- Trump says Department of Education will issue guidance about prayer in public schools - CBS News
+- Beloved Auburn veterinary professor was killed by man stealing her truck, records state - AL.com
+- Johnson says he didn’t use ‘right terminology’ in calling Trump an Epstein ‘informant’ - Politico
+- French government collapses after PM Bayrou ousted in confidence vote - Al Jazeera
+- Video shows destruction of fourth Gaza tower block in as many days - BBC
+- Police in Nepal open fire on protesters outside parliament, killing 17 - CNN
 - Harrowing details emerge after surfer killed by shark off popular beach in Australia: "Really dramatic" - CBS News
-- Australian woman is sentenced to life for poisoning relatives with mushrooms - NPR
 - SpaceX buys wireless spectrum from EchoStar in $17 billion deal - Reuters
-- Not the BIG one, but Powerball tickets sold in Minnesota worth serious bucks - kare11.com
-- Stock Market Today: S&P 500, Nasdaq Rise on Hopes for Faster Rate Cuts - The Wall Street Journal
-- Oil gains after OPEC+ opts for modest output hike - Reuters
-- Apple iPhone event may lack sparkle, but rumored iPhone Air likely to spur upgrades - Reuters
-- With the Pixel 10 Pro XL, Google finally made a faultless flagship - Android Central
+- Nasdaq hits new record, but S&P 500 is little changed ahead of inflation data this week: Live updates - CNBC
+- Billionaire CEO who voted for Trump sounds the alarm on Fed attacks - CNN
+- Oil Prices Rise After Producers Announce New Increase in Output - The New York Times
+- iPhone 17, the 'thinnest iPhone ever,' and everything else we're expecting out of Apple's hardware event - TechCrunch
+- Lenovo says its $1,100 handheld will also get the Xbox mode coming to the ROG Xbox Ally - Video Games Chronicle
