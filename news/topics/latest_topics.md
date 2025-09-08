@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-08 22:41_
+_Updated: 2025-09-08 23:38_
 
 ## Top Stories
 
-- Carl-Oskar Bohlin förföljd av demonstranter - GP
-- Fiaskohalvlek för Sverige mot Kosovo i VM-kvalet - Aftonbladet
-- 1 600 vallokaler är öppna i Norge – Val i Norge – förväntas bli jämn strid mellan blocken - SVT Nyheter
+- Betyg på svenska spelarna efter Kosovo–Sverige - Aftonbladet
+- DN Direkt - Trumps försvarsdepartement reser till Puerto Rico - DN.se - DN
 - Andreas Carlson besöker Västernorrland efter regnovädret - Regeringen.se
-- DN Direkt - Acko Ankarberg Johansson lämnar regeringen - DN.se - DN
+- Carl-Oskar Bohlin förföljd av demonstranter - GP
 - Lägesrapport om försök till mord i Alby, Botkyrka - Åklagarmyndigheten
+- Netanyahu uppmanar invånare: Lämna Gaza stad nu - Corren
+- Acko Ankarberg Johansson lämnar regeringen - Västerbottens-Kuriren
 - Tonvis med PFAS på svenska åkrar - SVT Nyheter
 - Tre år med Tidöregeringen – så har det gått för Sverige - DN
 - Annie Reuterskiöld: Regeringens valfläsk sätter S i en rävsax - DN
-- Tiktok ska locka unga i ”det bortglömda valet” - Smålänningen
 - DN Direkt - Frankrikes regering faller i misstroendeomröstning - DN.se - DN
 - Nervositeten ökar efter Mileis valflopp - SvD
-- Netanyahus uppmaning: Lämna Gaza stad nu – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Jättedamm i Nilen invigs trots hot, bråk och intriger - DN
+- USA:s finansminister i bråk: ”Ska slå dig på käften” - DN
 - Småbolag rusade i sluthandeln – Nasdaq stryker ”felaktiga affärer” - Dagens industri
+- Miljardförlikning i AI-fall: ”Framgång för förlag och författare” - Sveriges Radio
 - Kinas export ökade 4,4 procent på årsbasis i augusti - väntat var ökning 5,5 procent - Börsvärlden
-- Nationalekonom sågar sänkt matmoms: ”Öppnar Pandoras box” - Tidningen Näringslivet
-- CUPRA accelererar med världspremiären av Tindaya – visar även upp Tribe Editions och CUPRA Raval - Via TT
+- Analytiker: Det avgör om noteringen blir lyckad - EFN
 - Skördemånen blev blodröd – här är bilderna på blodmånen - Nyteknik
 - Senaste nytt från Apple – vi listar heta släpp - Aftonbladet
 
@@ -104,18 +104,18 @@ _Updated: 2025-09-08 22:41_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- West Sweden’s life science community collaborates to launch HackHERHealth, a trailblazing femtech innovation hackathon - NewsMachine AB
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -145,20 +145,20 @@ _Updated: 2025-09-08 22:41_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Här är världens största jordbruk - ATL
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Holmgren: Centerpartiet – vi verkar vara överrens - Land Lantbruk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
