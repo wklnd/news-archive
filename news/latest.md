@@ -1,19 +1,19 @@
 # Top News Headlines
 
-_Updated: 2025-09-08 04:18_
+_Updated: 2025-09-08 05:29_
 
-- Russia’s largest-ever air attack on Ukraine burns Kyiv government building - The Washington Post
-- South Korea reaches deal with U.S. to return home 300 workers detained in Hyundai plant raid - PBS
+- Ukraine cabinet building hit in largest Russian strike of war, Zelenskyy says - ABC News
 - White House envoy sends new proposal to Hamas through Israeli peace activist - Axios
 - Playbook: Trump’s ‘Apocalypse Now’ moment - Politico
+- South Korea reaches deal with U.S. to return home 300 workers detained in Hyundai plant raid - PBS
 - Doubts about RFK Jr. grow for some Republicans - The Washington Post
-- Massie on Epstein files: ‘We can't avoid justice to avoid embarrassment for some very powerful men’ - ABC News
-- Trump Is Met With Mostly Boos at U.S. Open as Security Delays a Match - The New York Times
+- Pope Leo XIV proclaims Carlo Acutis the first millennial saint - Euronews.com
+- Adversaries Bruce Springsteen and Donald Trump Both Attend U.S. Open - Rolling Stone
 - Sen. Tammy Duckworth says Trump "essentially just declared war" on Chicago, but there's no "indications" of deployment - CBS News
 - Trump administration launches immigration enforcement surge in Massachusetts - CNN
-- Republican condemns Vance for ‘despicable’ comments on Venezuelan boat strike - The Guardian
+- Florida’s plan to drop school vaccine rule won’t start for 90 days, won’t cover all diseases - AP News
+- IDF string of attacks on Gaza City high rises continues on way to full invasion - The Jerusalem Post
 - Argentina’s largest province holds elections in a political test for President Milei - AP News
-- UN says time is short to stop famine spreading as Israel bombards Gaza City - Reuters
 - Almost 900 people were arrested at London Palestine Action protest, police say - Reuters
 - Cable broke before Lisbon funicular crash, initial findings show - politico.eu
 - The most troubling feature of the job market is how thinly spread gains are, top economist says — 'this only happens when the economy is in recession' - Fortune
@@ -21,4 +21,4 @@ _Updated: 2025-09-08 04:18_
 - Stock futures are little changed as Wall Street awaits key inflation data: Live updates - CNBC
 - OPEC+ agrees further oil output boost from October to regain market share - Reuters
 - Porsche’s insanely clever hybrid engine comes to the 911 Turbo S - Ars Technica
-- Both ‘Silksong’ And ‘Hollow Knight’ Are Setting Playercount Records By The Minute - Forbes
+- Korean carrier may have leaked iPhone 17 specifications ahead of event - AppleInsider
