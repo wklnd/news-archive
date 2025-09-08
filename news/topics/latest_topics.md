@@ -1,37 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-08 01:38_
+_Updated: 2025-09-08 04:15_
 
 ## Top Stories
 
-- Tåg spårade ur – veckor innan trafiken är igång - SvD
-- Häst skenade på Jägersro travbana – två allvarligt skadade - SVT Nyheter
-- Iryna Zarutska, 23, mördad på tåg – politisk storm i USA - Aftonbladet
-- Stegrud om kritiken: ”Illa formulerad tweet" - Västerbottens-Kuriren
-- Regeringsbyggnad i Kiev träffad för första gången - GP
-- DN Direkt - En person anhållen för skjutningen på tunnelbanan i Alby - DN.se - DN
-- VMA utfärdat efter brand i avfallsanläggning - GP
+- DN Direkt - Risk för dieselläckage efter urspårning i Västernorrland - DN.se - DN
+- Iryna Zarutska, 23, mördad på spårvagn – politisk storm i USA - Aftonbladet
+- Kristersson: Fortsätter öka trycket på Ryssland - Västerbottens-Kuriren
 - Kulturdebatt. I Harold Blooms kanon står litteraturens egenart alltid i centrum - DN
-- TV: Handgranat sprängdes av Nationella bombskyddet – VMA gick ut till Hörbyborna - Skånska Dagbladet
+- Expert om bombade höghusen: ”Ny taktik” - DN
+- Häst skenade på Jägersro travbana – två allvarligt skadade - SVT Nyheter
+- Stegrud svarar på kritiken: ”Enkel spaning” - DN
 - Tiktok ska locka unga i ”det bortglömda valet” - Smålänningen
-- Ny attack mot höghus i Gaza stad - SVT Nyheter
+- TV: Handgranat sprängdes av Nationella bombskyddet – VMA gick ut till Hörbyborna - Skånska Dagbladet
+- Läget i björnjakten - Jakt & Jägare
+- Efter ryska attacken: Signaler om nya sanktioner - Corren
 - Påvens predikan under helgonförklaringen: "Vi är kallade att, liksom de, vara helgon" - Vatican News
-- DN Direkt - Avspärrning i Solna - misstänkt farligt föremål hittat - DN.se - DN
 - UPPGIFTER: Stor katastrof hotar på Östersjön – svenska hushåll får betala - Marcus Oscarsson
+- DN Direkt - Avspärrning i Solna - misstänkt farligt föremål hittat - DN.se - DN
 - "Sänkt matmoms – en elegant förolämpning mot svenska folket" - Realtid
-- Ryanair stryper utbudet – en miljon flygstolar försvinner - EFN
-- Nooshi Dadgostar höll sommartal i Luleå: ” Nästa år byter vi regering” - Vänsterpartiet
 - DN Direkt - Två vinnare fick dela på jackpotten på 1,8 miljarder dollar - DN.se - DN
+- Nooshi Dadgostar höll sommartal i Luleå: ” Nästa år byter vi regering” - Vänsterpartiet
+- Sakerna du ska leta efter för att avslöja AI-genererade bilder - Expressen
 - Se bilderna – här fick månen en ny kostym - SvD
 - Hej hopp, här kommer prinsessan i en kopp - Aftonbladet
 
 ## World News
 
-- Choice Hotels International Debuts in Argentina with the Opening of Radisson Blu Bariloche - Placera.se
+- Global tillväxt för halvledarutrustning under Q2 - Evertiq
 - World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Techarenan News goes English (Partly at least) - Techarenan.news
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
@@ -39,12 +39,12 @@ _Updated: 2025-09-08 01:38_
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
+- Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Resmed Launches Sleep Institute to Elevate Sleep Health as a Global Priority - Placera.se
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 - Global hållbarhetskonferens meddelar flytt till "Portugals Venedig - The Portugal News
 
@@ -60,16 +60,16 @@ _Updated: 2025-09-08 01:38_
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
-- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
-- Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
+- Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
 
 ## Business
 
@@ -143,22 +143,22 @@ _Updated: 2025-09-08 01:38_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Copa Cogeca får två platser i det nya EU-rådet - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
-- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Här är världens största jordbruk - ATL
