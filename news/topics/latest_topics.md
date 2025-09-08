@@ -1,41 +1,42 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-08 16:44_
+_Updated: 2025-09-08 17:42_
 
 ## Top Stories
 
+- Tågtrafik mellan Umeå och Sundsvall inställd efter översvämningar - SVT Nyheter
 - Sjukvårdsministern lämnar - Dagens industri
-- Guide: Här är de större satsningarna i regeringens budget för 2026 - SVT Nyheter
-- Översvämningar och vägras efter skyfall i Ångermanland - SVT Nyheter
+- Remiss av promemorian Sänkt skatt på arbetsinkomster, pension och sjuk- och aktivitetsersättning - Regeringen.se
 - Kristersson: Fortsätter öka trycket på Ryssland - Västerbottens-Kuriren
-- Bil körde in i uteservering – en död - Västerbottens-Kuriren
-- Expert om bombade höghusen: ”Ny taktik” - DN
-- En anhållen efter skjutning i tunnelbana - Västerbottens-Kuriren
+- Socialsekreterare misstänks för brott – ville omhänderta barn - GP
+- En anhållen efter skjutning i tunnelbana - SvD
 - Man uppe ur kalkbrott – förd till sjukhus - Omni
 - I Harold Blooms kanon står litteraturens egenart alltid i centrum - DN
-- S-profilerna hängde på låset till kyrkovalet - Aktuellt i Politiken
+- Häst skenade – två allvarligt skadade på Jägersro - Skånska Dagbladet
+- Nej, Jonna Sima gör inte som Jessica Stegrud - Arbetet
+- Israel manar till evakuering till ifrågasatt zon - Corren
 - Kidnappade barn återfunna – pappan skjuten till döds av polis - Expressen
-- Trump: Min sista varning till Hamas - GP
-- Flera döda i skjutning i Jerusalem: ”Obeskrivligt” - Aftonbladet
 - ”Svampmörderskan” döms till livstids fängelse - Aftonbladet
-- Klarnas börsdebut bland årets största i USA - SvD
+- Trump: Min sista varning till Hamas - GP
+- Analytiker: Klarnas värdering kan bli 150 miljarder - Dagens industri
 - "Sänkt matmoms – en elegant förolämpning mot svenska folket" - Realtid
 - DN Direkt - Två vinnare fick dela på jackpotten på 1,8 miljarder dollar - DN.se - DN
-- Fem saker att ha koll på innan börsen öppnar - Dagens industri
+- Återhämtningen dröjer – skogsindustrin får hoppas på 2026 - Dagens industri
 - Nu syns blodmånen runtom i Sverige - Aftonbladet
 - Kabelbrott i Röda havet drabbar Asien - Hufvudstadsbladet
 
 ## World News
 
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Techarenan News goes English (Partly at least) - Techarenan.news
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 - New Secretary General appointed - Olof Palme International Center
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
+- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
 - Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
@@ -43,10 +44,9 @@ _Updated: 2025-09-08 16:44_
 - Chinese Manufacturers Are Peeling Off the Veneer of Western Luxury - Morocco World News
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- UN Security Council calls emergency meeting on Gaza - Poddtoppen
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
-- Global hållbarhetskonferens meddelar flytt till "Portugals Venedig - The Portugal News
 
 ## Technology
 
@@ -60,22 +60,21 @@ _Updated: 2025-09-08 16:44_
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- ZenaTech Signs Agreements to Acquire Two Florida Companies, Expanding Drone as a Service Footprint into Aviation, Defense, and Power Washing - Placera.se
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
+- Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
-- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
+- Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
 
 ## Business
 
 - DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
@@ -83,12 +82,13 @@ _Updated: 2025-09-08 16:44_
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Publication of the 2025 Half-Year Report - Placera.se
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
