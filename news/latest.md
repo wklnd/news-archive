@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-08 22:49_
+_Updated: 2025-09-08 23:48_
 
-- Democrats in Congress release alleged Trump birthday note to Epstein - BBC
-- Supreme Court lifts restrictions on Trump immigration tactics in California - ABC News
-- French government collapses after prime minister loses confidence vote - CNN
-- Raid on Georgia E.V. Battery Plant Raises New Risks for a Shaken Industry - The New York Times
-- Supreme Court allows Trump to fire FTC commissioner - NBC News
-- Decarlos Brown Latest: Trump Calls Charlotte Train Murder 'Evil, Horrible' - Newsweek
-- 'Best I walk alone:' Man accused of trying to kill Trump prepares to defend himself at trial - Reuters
+- GOP-led House Oversight Committee receives Epstein estate documents, 'birthday book' - ABC News
+- US Supreme Court backs Trump on aggressive immigration raids - Reuters
 - ICE Launches Operation Midway Blitz in Honor of Katie Abraham to Target Criminal Illegal Aliens Terrorizing Americans in Sanctuary Illinois - Homeland Security (.gov)
-- Auburn professor stabbed to death while walking her dog in Alabama park; man charged with murder - CBS News
-- Trump says he’ll direct Education Department to protect praying in public school - Politico
+- Charlotte Murder Exposes Democrat Failures After Career Criminal Freed by Woke Policies - The White House (.gov)
+- French government collapses after prime minister loses confidence vote - CNN
+- Noem says immigration raid at Hyundai plant in Georgia won’t deter investment in the U.S. - PBS
+- 'Best I walk alone:' Man accused of trying to kill Trump prepares to defend himself at trial - Reuters
+- Florida surgeon general says decision to end school vaccine requirements wasn't based on data - CBS News
+- Beloved Auburn veterinary professor was killed by man stealing her truck, records state - AL.com
+- President Trump Champions Religious Freedom, Unveils America Prays - The White House (.gov)
 - Europeans call for halt to violence after Jerusalem terror attack kills six - The Times of Israel
 - Argentine markets plunge after Milei's party loses to Peronists in Buenos Aires vote - Reuters
-- Nepal police open fire on ‘Gen Z’ protests sparked by social media block - Financial Times
-- Harrowing details emerge after surfer killed by shark off popular beach in Australia: "Really dramatic" - CBS News
-- EchoStar Stock Jumps On Spectrum Sale To SpaceX. AST, Iridium Retreat. - Investor's Business Daily
-- Billionaire CEO who voted for Trump sounds the alarm on Fed attacks - CNN
-- Anthropic’s Settlement Shows the U.S. Can’t Afford AI Copyright Lawsuits - Lawfare
+- At least 19 killed in Nepal protests over social media ban, corruption - Al Jazeera
+- Shark kills surfer in Australia who 'lost a number of limbs': Police - Yahoo News Canada
+- Lachlan Murdoch Snares Voting Control of Fox, News Corp. in Family Settlement - Variety
+- EchoStar Stock Jumps On Spectrum Sale To SpaceX. AST, Iridium Retreat. Globalstar Pops. - Investor's Business Daily
 - Oil settles up after OPEC+ opts for modest output hike - Reuters
+- Anthropic’s Settlement Shows the U.S. Can’t Afford AI Copyright Lawsuits - Lawfare
 - Apple's Upcoming 'Awe Dropping' Event With iPhone 17 Air Draws Criticism As Commentator Daniel Newman Slams 'Lack Of Innovation' - Yahoo Finance
-- Bose QuietComfort Ultra headphones will get a 2nd-gen update next month - 9to5Mac
+- AI-powered eavesdropping "Friend" gadget reviewed - Boing Boing
