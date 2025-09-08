@@ -1,6 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-08 05:51_
+_Updated: 2025-09-08 06:43_
 
 ## Top Stories
 
@@ -10,11 +10,11 @@ _Updated: 2025-09-08 05:51_
 - Expert om bombade höghusen: ”Ny taktik” - DN
 - Kulturdebatt. I Harold Blooms kanon står litteraturens egenart alltid i centrum - DN
 - Nej, Jonna Sima gör inte som Jessica Stegrud - Arbetet
+- 1 000 blixtnedslag – ovädret har nått Norrbotten - Expressen
 - Häst skenade på Jägersro travbana – två allvarligt skadade - SVT Nyheter
-- Tiktok ska locka unga i ”det bortglömda valet” - Smålänningen
 - Läget i björnjakten - Jakt & Jägare
-- TV: Handgranat sprängdes av Nationella bombskyddet – VMA gick ut till Hörbyborna - Skånska Dagbladet
-- Efter ryska attacken: Signaler om nya sanktioner - Corren
+- Tiktok ska locka unga i ”det bortglömda valet” - Smålänningen
+- Trump: Är redo med nya sanktioner mot Ryssland - Omni
 - Trump: Min sista varning till Hamas - GP
 - Påvens predikan under helgonförklaringen: "Vi är kallade att, liksom de, vara helgon" - Vatican News
 - UPPGIFTER: Stor katastrof hotar på Östersjön – svenska hushåll får betala - Marcus Oscarsson
@@ -41,7 +41,7 @@ _Updated: 2025-09-08 05:51_
 - Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - Resmed Launches Sleep Institute to Elevate Sleep Health as a Global Priority - Placera.se
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
@@ -60,16 +60,16 @@ _Updated: 2025-09-08 05:51_
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
-- Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
 
 ## Business
 
@@ -84,15 +84,15 @@ _Updated: 2025-09-08 05:51_
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Publication of the 2025 Half-Year Report - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Commerce Bancshares, Inc. Receives Regulatory Approval to Acquire FineMark Holdings, Inc. - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 
 ## Health
 
@@ -121,24 +121,24 @@ _Updated: 2025-09-08 05:51_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Rovtidskrifter exploaterar forskares strävan efter snabb publicering - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
 
