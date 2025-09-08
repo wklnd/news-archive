@@ -1,41 +1,40 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-08 17:42_
+_Updated: 2025-09-08 18:46_
 
 ## Top Stories
 
-- Tågtrafik mellan Umeå och Sundsvall inställd efter översvämningar - SVT Nyheter
-- Sjukvårdsministern lämnar - Dagens industri
-- Remiss av promemorian Sänkt skatt på arbetsinkomster, pension och sjuk- och aktivitetsersättning - Regeringen.se
-- Kristersson: Fortsätter öka trycket på Ryssland - Västerbottens-Kuriren
-- Socialsekreterare misstänks för brott – ville omhänderta barn - GP
-- En anhållen efter skjutning i tunnelbana - SvD
-- Man uppe ur kalkbrott – förd till sjukhus - Omni
+- Regeringen föreslår stora skattesänkningar i höstbudgeten - DN
+- Sjukvårdsminister Acko Ankarberg Johansson (KD) avgår - GP
+- Skyfallet skar av Skorped – vägar och järnväg bortspolade: ”Fruktansvärt” - DN
+- Skulle lösa klimatkrisen – nu ifrågasätts effekten - SvD
+- Spelade genom bulvaner – hotas av fängelse - DN
+- Här kan du förtidsrösta i kyrkovalet i Göteborg - GP
+- Uppgifter: Misstänkt skytt gripen - Aftonbladet
+- Antons hus står på kanten till vattenmassorna – kan rasa - Expressen
 - I Harold Blooms kanon står litteraturens egenart alltid i centrum - DN
-- Häst skenade – två allvarligt skadade på Jägersro - Skånska Dagbladet
-- Nej, Jonna Sima gör inte som Jessica Stegrud - Arbetet
-- Israel manar till evakuering till ifrågasatt zon - Corren
-- Kidnappade barn återfunna – pappan skjuten till döds av polis - Expressen
-- ”Svampmörderskan” döms till livstids fängelse - Aftonbladet
-- Trump: Min sista varning till Hamas - GP
+- Man död i olycka under väderkaoset - Expressen
+- Minst 19 har dödats i protester i Nepal - DN
+- Kristersson: Fortsätter öka trycket på Ryssland - Västerbottens-Kuriren
+- Expert om bombade höghusen: ”Ny taktik” - DN
+- Frankrikes premiärminister kan tvingas avgå - SVT Nyheter
 - Analytiker: Klarnas värdering kan bli 150 miljarder - Dagens industri
+- Hotade att stena Rasmus Paludan – döms att betala skadestånd - DN
 - "Sänkt matmoms – en elegant förolämpning mot svenska folket" - Realtid
-- DN Direkt - Två vinnare fick dela på jackpotten på 1,8 miljarder dollar - DN.se - DN
-- Återhämtningen dröjer – skogsindustrin får hoppas på 2026 - Dagens industri
-- Nu syns blodmånen runtom i Sverige - Aftonbladet
-- Kabelbrott i Röda havet drabbar Asien - Hufvudstadsbladet
+- Sparare och pensionärer får tillbaka Allrapengar - Pensionsmyndigheten
+- I NATT: Blodmåne över Värmland – se läsarnas bilder - NWT
+- Europeisk jätte satsar på fransk AI-utmanare - Omni
 
 ## World News
 
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
-- New Secretary General appointed - Olof Palme International Center
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
 - Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
@@ -44,7 +43,8 @@ _Updated: 2025-09-08 17:42_
 - Chinese Manufacturers Are Peeling Off the Veneer of Western Luxury - Morocco World News
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 
@@ -120,25 +120,25 @@ _Updated: 2025-09-08 17:42_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- 5 myter om öppen vetenskap - Läkartidningen
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Rovtidskrifter exploaterar forskares strävan efter snabb publicering - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
