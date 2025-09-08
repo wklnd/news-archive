@@ -1,48 +1,48 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-08 10:48_
+_Updated: 2025-09-08 11:42_
 
 ## Top Stories
 
-- DN Direkt - Risk för dieselläckage efter urspårning i Västernorrland - DN.se - DN
 - Kristersson: Fortsätter öka trycket på Ryssland - Västerbottens-Kuriren
-- Trump-toppens oro: Vore förödande – vi skulle behöva betala - Expressen
+- DN Direkt - Risk för dieselläckage efter urspårning i Västernorrland - DN.se - DN
 - Expert om bombade höghusen: ”Ny taktik” - DN
-- Explosionsartad ökning av dömda ungdomar på Sis - SvD
 - I Harold Blooms kanon står litteraturens egenart alltid i centrum - DN
+- Man skadad på Volvo i Göteborg - Expressen
 - Nej, Jonna Sima gör inte som Jessica Stegrud - Arbetet
-- Sjöhästar och får i Östersjöns nationalpark - Aftonbladet
 - Kommunen om den stora it-attacken: ”En tankeställare” - Östersunds-Posten
-- Häst skenade på Jägersro travbana – två allvarligt skadade - SVT Nyheter
+- Barn allvarligt skadat efter olycka på Jägersro - DN
+- Läget i björnjakten - Jakt & Jägare
+- Tiktok ska locka unga i ”det bortglömda valet” - Smålänningen
 - Tidöpartierna: Sänkt elskatt – och ett nytt högkostnadsskydd - Aftonbladet
 - Svampmördaren döms till livstids fängelse - Expressen
 - Iryna Zarutska, 23, mördad på spårvagn – politisk storm i USA - Aftonbladet
 - UPPGIFTER: Stor katastrof hotar på Östersjön – svenska hushåll får betala - Marcus Oscarsson
 - "Sänkt matmoms – en elegant förolämpning mot svenska folket" - Realtid
 - DN Direkt - Två vinnare fick dela på jackpotten på 1,8 miljarder dollar - DN.se - DN
+- Fem saker att ha koll på innan börsen öppnar - Dagens industri
 - Elektas nya vd rensar ut i ledningen - Dagens industri
-- SEB: Färre tror på stigande bopriser - Privata Affärer
 - Se bilderna – här fick månen en ny kostym - SvD
 - Kan målade vind­kraft­verk rädda insekter, fladder­möss och fåglar? - Natursidan
 
 ## World News
 
 - Global tillväxt för halvledarutrustning under Q2 - Evertiq
-- World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Techarenan News goes English (Partly at least) - Techarenan.news
+- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Resmed Launches Sleep Institute to Elevate Sleep Health as a Global Priority - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
+- World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Resmed Launches Sleep Institute to Elevate Sleep Health as a Global Priority - Placera.se
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
@@ -121,44 +121,44 @@ _Updated: 2025-09-08 10:48_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Rovtidskrifter exploaterar forskares strävan efter snabb publicering - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Holmgren: Centerpartiet – vi verkar vara överrens - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk
+- (+) Stor undersökning av jordbruket - Arbetarskydd
