@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-08 18:52_
+_Updated: 2025-09-08 19:48_
 
 - Korean companies admit cutting corners on US visas but say they have little choice - Financial Times
-- Spaniard among six killed in Jerusalem shooting – Middle East crisis live - The Guardian
-- Appeals court upholds E. Jean Carroll's $83 million judgment against Trump - NBC News
-- US Supreme Court backs Trump on aggressive immigration raids - Reuters
-- Trump Downplays Post Threatening Chicago, Saying He Wants to ‘Clean Up’ City - The New York Times
-- How JPMorgan Enabled the Crimes of Jeffrey Epstein - The New York Times
-- Jury selection off to rocky start in case of man who allegedly tried to kill Trump on golf course - ABC News
-- Trump administration asks Supreme Court to allow freeze on billions in foreign aid - The Washington Post
-- RFK Jr. says he sees no successes in the agency he leads - CNN
+- Supreme Court lifts limits on roving immigration patrols in Los Angeles area - NBC News
+- Appeals Court Upholds Carroll’s $83 Million Judgment Against Trump - The New York Times
+- Several killed in Jerusalem bus station shooting, police say - ABC News
+- French government collapses after prime minister loses confidence vote - CNN
+- Chief Justice John Roberts clears way for Trump to fire FTC commissioner for now - CBS News
 - Grisly Charlotte stabbing video fuels MAGA's crime message - Axios
+- Trial to Begin for Ryan Routh, Man Charged in Trump Assassination Attempt in Florida - The New York Times
+- Trump says he’ll direct Education Department to protect praying in public school - Politico
+- Trump Downplays Post Threatening Chicago, Saying He Wants to ‘Clean Up’ City - The New York Times
 - Police open fire on protests of Nepal’s social media policy, killing at least 17 - AP News
-- Argentine markets slump after Milei loses badly in Buenos Aires - Financial Times
-- Israel vows 'hurricane' of strikes on Gaza to force Hamas to accept surrender demand - Reuters
-- France faces more political upheaval as prime minister's fate hangs in the balance - ABC News
-- SpaceX strikes $17B deal to buy EchoStar’s spectrum for Starlink’s direct-to-phone service - TechCrunch
-- Ken Griffin Speaks Out Against Trump’s Attacks on the Fed - The New York Times
-- Where in Missouri was the $1.787 billion Powerball ticket sold? - KSDK
-- Donald Trump's tariffs put US manufacturing revival hopes to the test - BBC
+- Argentina's Milei suffers landslide defeat in key Buenos Aires province election - Euronews.com
+- Harrowing details emerge after surfer killed by shark off popular beach in Australia: "Really dramatic" - CBS News
+- Australian woman is sentenced to life for poisoning relatives with mushrooms - NPR
+- SpaceX buys wireless spectrum from EchoStar in $17 billion deal - Reuters
+- Not the BIG one, but Powerball tickets sold in Minnesota worth serious bucks - kare11.com
+- Stock Market Today: S&P 500, Nasdaq Rise on Hopes for Faster Rate Cuts - The Wall Street Journal
+- Oil gains after OPEC+ opts for modest output hike - Reuters
 - Apple iPhone event may lack sparkle, but rumored iPhone Air likely to spur upgrades - Reuters
-- I took 100 cat photos with the Google Pixel 10; here’s what I learned about its cameras - Android Police
+- With the Pixel 10 Pro XL, Google finally made a faultless flagship - Android Central
