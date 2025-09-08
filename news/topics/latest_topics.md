@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-08 09:39_
+_Updated: 2025-09-08 10:48_
 
 ## Top Stories
 
-- Trump-toppens oro: Vore förödande – vi skulle behöva betala - Expressen
 - DN Direkt - Risk för dieselläckage efter urspårning i Västernorrland - DN.se - DN
 - Kristersson: Fortsätter öka trycket på Ryssland - Västerbottens-Kuriren
-- Explosionsartad ökning av dömda ungdomar på Sis - SvD
+- Trump-toppens oro: Vore förödande – vi skulle behöva betala - Expressen
 - Expert om bombade höghusen: ”Ny taktik” - DN
+- Explosionsartad ökning av dömda ungdomar på Sis - SvD
 - I Harold Blooms kanon står litteraturens egenart alltid i centrum - DN
-- Tidöpartierna: Sänkt elskatt – och ett nytt högkostnadsskydd - Aftonbladet
 - Nej, Jonna Sima gör inte som Jessica Stegrud - Arbetet
-- 1 000 blixtnedslag – ovädret har nått Norrbotten - Expressen
+- Sjöhästar och får i Östersjöns nationalpark - Aftonbladet
 - Kommunen om den stora it-attacken: ”En tankeställare” - Östersunds-Posten
+- Häst skenade på Jägersro travbana – två allvarligt skadade - SVT Nyheter
+- Tidöpartierna: Sänkt elskatt – och ett nytt högkostnadsskydd - Aftonbladet
 - Svampmördaren döms till livstids fängelse - Expressen
-- UPPGIFTER: Stor katastrof hotar på Östersjön – svenska hushåll får betala - Marcus Oscarsson
 - Iryna Zarutska, 23, mördad på spårvagn – politisk storm i USA - Aftonbladet
-- Påvens predikan under helgonförklaringen: "Vi är kallade att, liksom de, vara helgon" - Vatican News
+- UPPGIFTER: Stor katastrof hotar på Östersjön – svenska hushåll får betala - Marcus Oscarsson
 - "Sänkt matmoms – en elegant förolämpning mot svenska folket" - Realtid
 - DN Direkt - Två vinnare fick dela på jackpotten på 1,8 miljarder dollar - DN.se - DN
-- Fem saker att ha koll på innan börsen öppnar - Dagens industri
+- Elektas nya vd rensar ut i ledningen - Dagens industri
 - SEB: Färre tror på stigande bopriser - Privata Affärer
 - Se bilderna – här fick månen en ny kostym - SvD
 - Kan målade vind­kraft­verk rädda insekter, fladder­möss och fåglar? - Natursidan
@@ -31,18 +31,18 @@ _Updated: 2025-09-08 09:39_
 - World Gold Council Avtäcker Grossist Digitalt Guld för att Transformera Global Handel - Bitcoin.com News
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- U.S. News & World Report names Choice Privileges its No. 1 Hotel Rewards Program - Placera.se
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Resmed Launches Sleep Institute to Elevate Sleep Health as a Global Priority - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
+- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
 - BIG Travel går in i globalt partnerskap - travelnews.se
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Resmed Launches Sleep Institute to Elevate Sleep Health as a Global Priority - Placera.se
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
@@ -58,18 +58,18 @@ _Updated: 2025-09-08 09:39_
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - The Ondas and Unusual Machines collaboration is expected to include: - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
-- Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
-- Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
+- Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
 
 ## Business
 
@@ -114,8 +114,8 @@ _Updated: 2025-09-08 09:39_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-09-08 09:39_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Holmgren: Centerpartiet – vi verkar vara överrens - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
