@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-09 20:49_
+_Updated: 2025-09-09 21:48_
 
-- Apple unveils iPhone 17 Pro and iPhone 17 Pro Max, the most powerful and advanced Pro models ever - Apple
-- Israel conducts 'precise strike' on Hamas leadership in Qatar: Officials - ABC News
+- Apple unveils iPhone 17, including first-ever iPhone Air - ABC News
+- Man faces a federal charge in the fatal stabbing of Ukrainian refugee on a Charlotte train - CNN
+- Hamas claims leadership survived Israeli strike on Doha, but confirms six deaths - BBC
 - GOP leaders shrug off Trump’s possible note in Epstein birthday book - Politico
-- Nepal parliament set on fire after PM resigns over anti-corruption protests - BBC
-- What To Know About ICE’s Operation Midway Blitz In Chicago - Block Club Chicago
-- RFK Jr.'s new MAHA roadmap is finally public - Politico
-- Over 600 people arrested in operations targeting Sinaloa drug cartel, DEA says - CBS News
+- The MAHA plan for healthier kids includes 128 ideas, but few details - NPR
+- Wife of Ex-Nepali Prime Minister Burnt Alive, Parliament Set on Fire: Live Updates - Newsweek
 - US high school students lose ground in math and reading, continuing yearslong decline - AP News
-- Missouri Republicans advance plan to draw Rep. Cleaver into Republican-leaning seat - STLPR
-- Florida police charge Assemblies of God pastor with failing to report child sex abuse - NBC News
+- Missouri House enacts new US House maps that seeks to erase a Democratic seat - CNN
+- DEA arrests over 600 people in massive operation against the Sinaloa drug cartel - ABC News
+- South Korea to send plane for workers detained in US raid at car battery plant - Reuters
 - Activists say Gaza aid boat set to test Israel's blockade attacked by drone in Tunisia - CBS News
-- Government downfall tests Macron like never before - politico.eu
+- Macron Picks Sébastien Lecornu as France’s Next Prime Minister - The New York Times
+- Russian missile that hit government headquarters contained over 30 foreign-made parts, Ukraine says - The Kyiv Independent
 - Israel orders full evacuation of Gaza City as Netanyahu warns ‘this is only the beginning’ - CNN
-- New Zealand police investigate how a man hid his 3 children in a forest for years without discovery - AP News
-- US payrolls benchmark revision estimate suggests labor market weaker than previously thought - Reuters
+- U.S. employers added 911,000 fewer jobs than first reported, new BLS data shows - The Washington Post
 - Cracker Barrel cancels plans to remodel its restaurants after conservative backlash - NBC News
 - Succession War Over, Lachlan Murdoch Turns to Next Era of Empire Building - The Hollywood Reporter
-- Stock Market Today: Nasdaq, S&P 500 Slip; BLS Revises Jobs Growth Lower — Live Updates - The Wall Street Journal
-- Apple shows new AirPods Pro with live translation, blood pressure monitor in latest Apple Watch - Reuters
+- This Starbucks drink is the bane of baristas’ existence. It’s also a big test for the company - The Seattle Times
 - The Apple Watch Ultra 3 has 42 hours of battery life and satellite connectivity - The Verge
+- Apple shows new AirPods Pro with live translation, blood pressure monitor in latest Apple Watch - Reuters
