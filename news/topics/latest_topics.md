@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-09 05:48_
+_Updated: 2025-09-09 06:43_
 
 ## Top Stories
 
-- Fyra nya år för Arbeiderpartiet och en rödgrön majoritet - Dagens Arena
-- Andreas Carlson besöker Västernorrland efter regnovädret - Regeringen.se
-- Gazafartyg uppges träffat av drönare - GP
-- Flera döda i protester i Nepal - SVT Nyheter
+- Karin Eriksson: Gahr Støre kan tacka partikamraten Stoltenberg - DN
+- Fartyg i Thunbergs konvoj uppges beskjutet - GP
+- Villorna var för dyra – då renoverade paret vinden - GP
+- Miljardförluster och spårkaos – vem tar ansvar för järnvägen? - DN
 - Lägesrapport om försök till mord i Alby, Botkyrka - Åklagarmyndigheten
-- INSÄNDARE: En öppen och inkluderande kyrka – för alla! - Hudiksvalls Tidning
+- Håkan Boström: De rödgröna har mest tomma ord att komma med - GP
 - Ministern Carl-Oskar Bohlin: Förföljd av Palestinademonstranter - DN
+- Andreas Carlson besöker Västernorrland efter regnovädret - Regeringen.se
+- Debatt: Svenska kyrkan ska vara tillsammansskap - NWT
 - Guide: Här är de större satsningarna i regeringens budget för 2026 - SVT Nyheter
-- Uppgift till DN: Ankarberg Johansson avgick efter samtal med Busch - DN
-- S pressar Strömmer om kriminaliteten: ”Jag säger välkommen ombord” - DN
 - DN Direkt - Frankrikes regering faller i misstroendeomröstning - DN.se - DN
-- Israelisk attack mot 12-våningshus i Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Kristersson: Fortsätter öka trycket på Ryssland - Västerbottens-Kuriren
-- Misstänkt terrorattack i Jerusalem – många skjutna - Corren
+- Många döda i tågolycka i Mexiko - SVT Nyheter
+- Netanyahu uppmanar invånare: Lämna Gaza stad nu - Västerbottens-Kuriren
+- Paasikivi om attacken mot Kiev: Ingen effekt - Hufvudstadsbladet
 - Mer pengar till drabbade i Allra-härvan: ”Upprättelse” - Omni
+- Viktiga ”tidsfönstret” för krisande tyska bilar - SvD
 - CUPRA accelererar med världspremiären av Tindaya – visar även upp Tribe Editions och CUPRA Raval - Via TT
 - Nationalekonom sågar sänkt matmoms: ”Öppnar Pandoras box” - Tidningen Näringslivet
-- Volkswagen lanserar serie av små elbilar 2026 - Investing.com Sverige
 - Skördemånen blev blodröd – här är bilderna på blodmånen - Nyteknik
 - Senaste nytt från Apple – vi listar heta släpp - Aftonbladet
 
@@ -37,12 +37,12 @@ _Updated: 2025-09-09 05:48_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
+- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
@@ -96,46 +96,46 @@ _Updated: 2025-09-09 05:48_
 
 ## Health
 
-- Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- Medicinpedagogisk forskning krävs för utveckling av läkarutbildningen - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Rovtidskrifter exploaterar forskares strävan efter snabb publicering - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
@@ -147,7 +147,7 @@ _Updated: 2025-09-09 05:48_
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Kostnader för jordbrukets gröna omställning - lrf.se
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -155,7 +155,7 @@ _Updated: 2025-09-09 05:48_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Nyheter - lrf.se
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
