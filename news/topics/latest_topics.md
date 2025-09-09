@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-09 13:38_
+_Updated: 2025-09-09 15:07_
 
 ## Top Stories
 
-- Ny regnvarning från SMHI: ”Stora mängder” - GP
-- Fyra nya år för Arbeiderpartiet och en rödgrön majoritet - Dagens Arena
+- ”Busch tar en stor risk när hon petar sjukvårdsministern” - Västerbottens-Kuriren
+- Nytt oväder mot Västernorrland: ”Stora mängder” - DN
+- Prognos: Rödgrön seger i valet - GP
 - Uppdaterat: En person begärd häktad för mordförsök i Alby, Botkyrka - Åklagarmyndigheten
+- Här är nyheterna i dagens regeringsförklaring - SVT Nyheter
 - Ministern Carl-Oskar Bohlin: Förföljd av Palestinademonstranter - DN
-- Personuppgifter läckte från Växjö kommun vid cyberangreppet - SVT Nyheter
-- Se sändningen: Statsministern presenterar ny minister - Altinget.se
-- Acko Ankarberg Johansson lämnar regeringen - GP
 - Chocken: Vattnet steg 4 meter – bro kan rasa - Västerbottens-Kuriren
+- Personuppgifter om alla stadens anställda har läckt - Mitt i
 - Kallades Sveriges värsta skola – så vände det - DN
 - Busch: Islam måste anpassa sig till Sverige - GP
-- Thunbergs fartyg uppges beskjutet – fattade eld - GP
-- Beskjutet fartyg – Thunberg uppges ha varit ombord – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Hamas väpnade gren tar på sig Jerusalemdåd – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Över 20 döda i rysk attack mot by - SVT Nyheter
+- Thunbergs fartyg uppges beskjutet – fattade eld - Västerbottens-Kuriren
 - DN Direkt - Minst åtta döda i Mexiko – tåg kolliderade med buss - DN.se - DN
-- DN Direkt - Frankrikes regering faller i misstroendeomröstning - DN.se - DN
+- Klart: Norge sätter ett fast elpris - Dagens industri
+- SEB:s försvarsranking: Flera svenska bolag i topp - Dagens industri
+- Rupert Murdoch köper ut barnen – tvisten löst - EFN
 - Handelsbanken upprepar köprekommendation för MTG - Affärsvärlden
-- SEB:s rankning: Rheinmetall och MilDef bäst av försvarsbolagen - Affärsvärlden
-- Coop Östra och Coop Syd tar första steget mot fusion - Cision News
-- Norge slår fast: Norgepris från 1 oktober - Västerbottens-Kuriren
-- Uppgifter: Så tunn blir nya Iphone - Dagens industri
+- Knäckfrågan inför Apples släpp: ”Inte hängt med” - EFN
 - Blodmåne över Värmland – se läsarnas bilder - NWT
 
 ## World News
@@ -41,11 +41,11 @@ _Updated: 2025-09-09 13:38_
 - World Athletics introduces gene test for female category - BBC
 - Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- FORTUNE RELEASES ANNUAL FORTUNE GLOBAL 500 LIST (PR Newswire) - Aktiellt
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 - Silicon Labs Announces Global Works With 2025 IoT Conference Series - Placera.se
 
 ## Technology
@@ -61,13 +61,13 @@ _Updated: 2025-09-09 13:38_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
-- SMCI Stock Analysis: What Drives Super Micro Computer Inc. Stock Price? - Markets.com
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
+- Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
 
@@ -107,15 +107,15 @@ _Updated: 2025-09-09 13:38_
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -147,18 +147,18 @@ _Updated: 2025-09-09 13:38_
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- USA tvingar ut EU på banan - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk
