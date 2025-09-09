@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-09 15:48_
+_Updated: 2025-09-09 16:43_
 
 ## Top Stories
 
-- DN Direkt - Flera explosioner har hörts i Doha - DN.se - DN
-- Ministern Carl-Oskar Bohlin: Förföljd av Palestinademonstranter - DN
+- Explosioner i Doha i Qatar – Israel ska ha försökt attackera Hamas - SVT Nyheter
 - ”Busch tar en stor risk när hon petar sjukvårdsministern” - Västerbottens-Kuriren
-- Fyra nya år för Arbeiderpartiet och en rödgrön majoritet - Dagens Arena
+- Ministern Carl-Oskar Bohlin: Förföljd av Palestinademonstranter - DN
 - Uppdaterat: En person begärd häktad för mordförsök i Alby, Botkyrka - Åklagarmyndigheten
-- Se sändningen: Statsministern presenterar ny minister - Altinget.se
-- DN Direkt - Försvaret köper nytt luftvärn – för flera miljarder - DN.se - DN
-- Personuppgifter om alla stadens anställda har läckt - Mitt i
-- Busch: Islam måste anpassa sig till Sverige - GP
-- Chocken: Vattnet steg 4 meter – bro kan rasa - Västerbottens-Kuriren
+- Förlängt stopp för SJ-tåg genom Västernorrland - GP
+- Försvaret köper luftvärn från Polen för tre miljarder - Omni
+- 101 000 anställdas uppgifter röjda i hackerattack mot Region Skåne - SVT Nyheter
+- Kristerssons budskap till gängkriminella: Rättsväsendet kommer jaga er över landsgränser - DN
+- Annie Reuterskiöld: Stressen i M – hur ska partiet undgå att käkas upp av SD? - DN
+- Mobiler förbjuds i skolan – även på raster och fritids - Omni
 - Över 20 döda i rysk attack mot by - SVT Nyheter
 - Ny israelisk varning: Lämna Gaza stad omedelbart - Västerbottens-Kuriren
-- Hamas tar på sig bussattack i Jerusalem - GP
 - Fartyg i Thunbergs konvoj uppges beskjutet – började brinna - Hufvudstadsbladet
+- Hamas tar på sig bussattack i Jerusalem - GP
 - Klart: Norge sätter ett fast elpris - Dagens industri
-- Rupert Murdoch köper ut barnen – tvisten löst - EFN
 - Handelsbanken upprepar köprekommendation för MTG - Affärsvärlden
+- Ny avgift på elfakturan i vinter - Falu-Kuriren
 - Coop Östra och Coop Syd tar första steget mot fusion - Cision News
 - De hade ingen aning om att det existerade: Nu har forskare upptäckt en dold jätte i vår egen galax - Illustrerad Vetenskap
 - Knäckfrågan inför Apples släpp: ”Inte hängt med” - EFN
@@ -28,25 +28,25 @@ _Updated: 2025-09-09 15:48_
 ## World News
 
 - Alila Hotels Beckons Travelers to Experience the Luxury of Wonder Through Global Campaign, A World Awaits - Placera.se
+- Global tillväxt för halvledarutrustning under Q2 - Evertiq
 - Ivonescimab Plus Chemotherapy Demonstrates Consistent Global Benefit: HARMONi Data Update Shows OS HR=0.78, Nominal P=0.0332 - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Techarenan News goes English (Partly at least) - Techarenan.news
-- New Secretary General appointed - Olof Palme International Center
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
 - Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
-- FORTUNE RELEASES ANNUAL FORTUNE GLOBAL 500 LIST (PR Newswire) - Aktiellt
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - bloomberg.com
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- JOHNNIE WALKER SCOTCH WHISKY ANNOUNCES GLOBAL PARTNERSHIP WITH GRAMMY AWARD-WINNING MUSIC ARTIST AND INTERNATIONAL SUPERSTAR SABRINA CARPENTER - Placera.se
 
 ## Technology
 
@@ -121,44 +121,44 @@ _Updated: 2025-09-09 15:48_
 
 - Rovtidskrifter exploaterar forskares strävan efter snabb publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- University of Science, VNU-HCM tecknade ett samarbetsavtal med Vietnams atomenergiinstitut - Vietnam.vn
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Framtidens jordbruk är regenerativt - greenpeace.org
