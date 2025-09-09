@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-09 21:37_
+_Updated: 2025-09-09 22:40_
 
 ## Top Stories
 
 - Elisabet Lann (KD) blir ny sjukvårdsminister – dramatisk första pressträff i Rosenbad - DN
-- Uppgifter: En skjuten på Hisingen - Aftonbladet
 - Uppdaterat: En person begärd häktad för mordförsök i Alby, Botkyrka - Åklagarmyndigheten
+- Karl-Eriks hem översvämmat – flyttar till dottern: ”Åt helvete” - Aftonbladet
 - Explosioner i Doha i Qatar – Israel ska ha försökt attackera Hamas - SVT Nyheter
-- Lägesrapport - följderna av helgens skyfall - Örnsköldsviks kommun
-- Ökad närvaro efter misstänkt skjutning i Skäggetorp - Linköpings kommun
-- 101 000 anställdas uppgifter röjda i hackerattack mot Region Skåne - SVT Nyheter
-- Bortglömd järnväg räddningen efter ovädret - DN
+- Tankbil i kollision med lastbil – E6 avstängd - GP
+- Uppgifter: Person skjuten i Göteborg - SvD
+- Man död efter skottlossning i Linköping - GP
+- Efter skyfallen – totalstopp för SJ:s tåg till Norrbotten - SVT Nyheter
 - Anna-Karin Hatt: Moderaterna talar med kluven tunga om SD - DN
-- Kristersson: Straffbarhetsåldern sänks - GP
+- 101 000 anställdas uppgifter röjda i hackerattack mot Region Skåne - SVT Nyheter
 - Sébastien Lecornu ny premiärminister i Frankrike - DN
+- Ukraina: 23 civila dödade i ryskt flygangrepp - SVT Nyheter
 - Hamas tar på sig bussattack i Jerusalem - Västerbottens-Kuriren
-- Över 20 döda i rysk attack mot by - SVT Nyheter
-- Nilens nya jättedamm ska ladda Etiopiens elbilar - GP
+- Ny israelisk varning: Lämna Gaza stad omedelbart - GP
 - Nasdaqs vd kommenterar makuleringen av avslut på Stockholmsbörsen - Afv - Placera.se
 - Klart: Norge sätter ett fast elpris - Dagens industri
 - Viktiga ”tidsfönstret” för krisande tyska bilar - SvD
-- HMS Networks presenterar strategiska mål för 2030 (GlobeNewswire) - Aktiellt
-- Knäckfrågan inför Apples släpp: ”Inte hängt med” - EFN
-- Airpods Pro 3 översätter konversationer i realtid - Omni
+- Sverige först i världen: Stim lanserar AI-licens för musik - Cision News
+- Nya rekord på Wall Street – men Apple föll efter produktlansering - Dagens industri
+- AirPods Pro 3 vs AirPods Pro 2: så jämför sig Apples nya hörlurar med de äldre - TechRadar
 
 ## World News
 
-- Global Payments Releases 2025 Global Responsibility Report - Placera.se
 - Alila Hotels Beckons Travelers to Experience the Luxury of Wonder Through Global Campaign, A World Awaits - Placera.se
+- Ivonescimab Plus Chemotherapy Demonstrates Consistent Global Benefit: HARMONi Data Update Shows OS HR=0.78, Nominal P=0.0332 - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Ivonescimab Plus Chemotherapy Demonstrates Consistent Global Benefit: HARMONi Data Update Shows OS HR=0.78, Nominal P=0.0332 - Placera.se
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Global tillväxt för halvledarutrustning under Q2 - Evertiq
-- Techarenan News goes English (Partly at least) - Techarenan.news
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
+- Techarenan News goes English (Partly at least) - Techarenan.news
+- New Secretary General appointed - Olof Palme International Center
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
-- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
+- Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- 7 saker om EQTY Global Growth II Fund - The Portugal News
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- Genpact Marks Next Phase as Advanced Technology Company with Global Rebrand - Placera.se
-- JOHNNIE WALKER SCOTCH WHISKY ANNOUNCES GLOBAL PARTNERSHIP WITH GRAMMY AWARD-WINNING MUSIC ARTIST AND INTERNATIONAL SUPERSTAR SABRINA CARPENTER - Placera.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -76,14 +76,15 @@ _Updated: 2025-09-09 21:37_
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Publication of the 2025 Half-Year Report - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- DeFi Technologies Reports All-Time High in Bitcoin Assets Under Management and Treasury Holdings - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
@@ -92,11 +93,11 @@ _Updated: 2025-09-09 21:37_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
@@ -104,13 +105,12 @@ _Updated: 2025-09-09 21:37_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Osher centrum för integrativ hälsa - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Fakulteten för hälsa och samhälle - Malmö universitet
-- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
@@ -136,9 +136,9 @@ _Updated: 2025-09-09 21:37_
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Stärkt life science-forskning är till godo för patienterna - Läkartidningen
 - Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
@@ -157,8 +157,8 @@ _Updated: 2025-09-09 21:37_
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk
