@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-09 18:53_
+_Updated: 2025-09-09 19:48_
 
-- Job Growth Revised Down by Nearly a Million, Updated BLS Data Shows - The New York Times
-- Israel carries out strike on senior Hamas leaders in Qatari capital - BBC
-- Photo of novelty check suggests Epstein ‘sold’ Trump a woman for $22,500 - The Guardian
-- Ex Nepal PM's Wife Burnt Alive As Protesters Set His House On Fire - NDTV
-- Israel orders full evacuation of Gaza City as Netanyahu warns ‘this is only the beginning’ - CNN
+- Israel attacks Hamas leaders in Doha, drawing condemnation from Qatar over "cowardly strike" - CBS News
+- 'It's a dead issue': Trump declines to comment on alleged Epstein 'birthday book' letter - ABC News
+- Nepal’s prime minister resigns as protests against the government and corruption rage on - AP News
+- Michigan 'fake electors' will not face criminal trial, judge rules - NBC News
 - Trump's ICE targets Chicago amid objections from mayor, Illinois governor - Axios
-- Missouri House is about to enact new US House maps that erase a Democratic seat - CNN
-- Over 600 people arrested in operations targeting Sinaloa drug cartel, DEA says - CBS News
-- Mamdani Holds Huge Lead in Mayor’s Race, Times/Siena Poll Finds - The New York Times
-- Michigan judge tosses case against 15 accused fake electors for President Donald Trump in 2020 - AP News
-- Activists say Gaza aid boat set to test Israel's blockade attacked by drone in Tunisia - CBS News
-- Macron under pressure to name new PM as France simmers ahead of protests - BBC
-- Charting the past year of Russian drone and missile attacks on Ukraine - Al Jazeera
-- New Zealand police investigate how a man hid his 3 children in a forest for years without discovery - AP News
+- Greta Thunberg's Gaza flotilla hit by drone, organisers claim - BBC
+- US high school students lose ground in math and reading, continuing yearslong decline - AP News
+- Mamdani takes big lead in NYC mayoral race, new poll shows - Politico
+- Missouri House Set to Vote on Map That Boosts Republicans - The New York Times
+- House GOP waiting on Trump for spending cues, Johnson says - Politico
+- Macron inches closer to tapping Lecornu as prime minister - politico.eu
+- Ethiopia launches Africa's largest hydroelectric dam - Reuters
+- In first, Israel orders all of Gaza City to evacuate ahead of ground invasion - The Times of Israel
+- Russian missile that hit government headquarters contained over 30 foreign-made parts, Ukraine says - The Kyiv Independent
+- US payrolls benchmark revision estimate suggests labor market weaker than previously thought - Reuters
 - Succession War Over, Lachlan Murdoch Turns to Next Era of Empire Building - The Hollywood Reporter
 - Cracker Barrel cancels plans to remodel its restaurants after conservative backlash - NBC News
-- Starbucks CEO Brian Niccol's 1-year report card is in. Here's the verdict on how he did. - Business Insider
-- New Exploremores Girl Scout cookie flavor coming this season - Good Morning America
+- JPMorgan CEO Jamie Dimon says the economy 'is weakening' - CNBC
 - Apple event expected to feature a slimmer iPhone as pricing, AI questions linger - Reuters
-- Switch modder owes Nintendo $2 million after representing himself in court - Ars Technica
+- Apple Watch Series 11 announced with 5G and stronger glass - The Verge
