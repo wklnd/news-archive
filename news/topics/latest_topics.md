@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-09 08:49_
+_Updated: 2025-09-09 09:39_
 
 ## Top Stories
 
-- Epoken Erna Solberg går mot slutet i Norge - DN
+- Ministern Carl-Oskar Bohlin: Förföljd av Palestinademonstranter - DN
+- Andersson borde vägra debatt mot Kristersson - Arbetet
 - Andreas Carlson besöker Västernorrland efter regnovädret - Regeringen.se
-- Bilbrand har spridit sig till villa i Arlöv - SVT Nyheter
+- Debatt: Svenska kyrkan ska vara tillsammansskap - NWT
 - Varannan väljare saknar förtroende för Kristersson - GP
 - Claire och Jaw driver populär japansk restaurang i Malmö – nu ska de utvisas - Sydsvenskan
-- Villorna var för dyra – då renoverade paret vinden - GP
-- Ministern Carl-Oskar Bohlin: Förföljd av Palestinademonstranter - DN
 - Guide: Här är de större satsningarna i regeringens budget för 2026 - SVT Nyheter
-- S-topparna röstade först ut i kyrkovalet - Dagen
 - Uppgift till DN: Ankarberg Johansson avgick efter samtal med Busch - DN
-- DN Direkt - Frankrikes regering faller i misstroendeomröstning - DN.se - DN
-- Många döda i tågolycka i Mexiko - SVT Nyheter
-- Netanyahu uppmanar invånare: Lämna Gaza stad nu - Västerbottens-Kuriren
 - Svan räddad – gick på Ölandsbron: "Mindre kaos" - Expressen
+- Man knivhuggen på parkering – polisen utreder mordförsök - VP – Alltid nära
+- Thunbergs fartyg uppges beskjutet – började brinna - UNT
+- Israel beordrar fullständig evakuering av Gaza stad - DN
+- Frankrikes regering faller efter omröstning - GP
+- Många döda i tågolycka i Mexiko - SVT Nyheter
 - Stark veckostart på Tokyobörsen - Dagens industri
-- Mer pengar till drabbade i Allra-härvan: ”Upprättelse” - Omni
+- Inför Fed-beskedet: Landeborn om aktierna som kan lyfta - Dagens PS
 - CUPRA accelererar med världspremiären av Tindaya – visar även upp Tribe Editions och CUPRA Raval - Via TT
-- Viktiga ”tidsfönstret” för krisande tyska bilar - SvD
-- Skördemånen blev blodröd – här är bilderna på blodmånen - Nyteknik
-- Fem bondgårdar i centrum i Viaplays nya serie - Västerbottens-Kuriren
+- Nationalekonom sågar sänkt matmoms: ”Öppnar Pandoras box” - Tidningen Näringslivet
+- Blodmåne över Värmland – se läsarnas bilder - NWT
+- Bilmärkets designchock: Ändrar folklig favorit helt - Carup.se
 
 ## World News
 
@@ -39,13 +39,13 @@ _Updated: 2025-09-09 08:49_
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
+- Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
-- Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
-- BIG Travel går in i globalt partnerskap - travelnews.se
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 - JOHNNIE WALKER SCOTCH WHISKY ANNOUNCES GLOBAL PARTNERSHIP WITH GRAMMY AWARD-WINNING MUSIC ARTIST AND INTERNATIONAL SUPERSTAR SABRINA CARPENTER - Placera.se
 
 ## Technology
@@ -97,7 +97,6 @@ _Updated: 2025-09-09 08:49_
 ## Health
 
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
@@ -105,40 +104,41 @@ _Updated: 2025-09-09 08:49_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Osher centrum för integrativ hälsa - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Johan von Schreeb - Karolinska Institutet
+- West Sweden’s life science community collaborates to launch HackHERHealth, a trailblazing femtech innovation hackathon - NewsMachine AB
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Yuncture och Mölnlycke Health Care inleder ett unikt samarbete - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Rovtidskrifter exploaterar forskares strävan efter snabb publicering - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
@@ -153,12 +153,12 @@ _Updated: 2025-09-09 08:49_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Holmgren: Centerpartiet – vi verkar vara överrens - Land Lantbruk
+- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
