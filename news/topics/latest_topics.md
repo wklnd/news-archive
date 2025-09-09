@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-09 04:11_
+_Updated: 2025-09-09 05:21_
 
 ## Top Stories
 
-- Karin Eriksson: Gahr Støre kan tacka partikamraten Stoltenberg - DN
-- SJ ställer in all tågtrafik på drabbade sträckor - Västerbottens-Kuriren
-- Gazafartyg uppges träffat av misstänkt drönare - VLT
-- Lägesrapport om försök till mord i Alby, Botkyrka - Åklagarmyndigheten
+- Fyra nya år för Arbeiderpartiet och en rödgrön majoritet - Dagens Arena
 - Flera döda i protester i Nepal - SVT Nyheter
-- Här är planen för att göra Svenska kyrkan fri från partipolitik - Dagen
+- Andreas Carlson besöker Västernorrland efter regnovädret - Regeringen.se
+- Organisation: Drönare attackerade fartyg i Gazaflotta - Yle
+- Lägesrapport om försök till mord i Alby, Botkyrka - Åklagarmyndigheten
+- INSÄNDARE: En öppen och inkluderande kyrka – för alla! - Hudiksvalls Tidning
 - Ministern Carl-Oskar Bohlin: Förföljd av Palestinademonstranter - DN
-- Remiss av promemorian Sänkt skatt på arbetsinkomster, pension och sjuk- och aktivitetsersättning - Regeringen.se
+- Guide: Här är de större satsningarna i regeringens budget för 2026 - SVT Nyheter
 - Uppgift till DN: Ankarberg Johansson avgick efter samtal med Busch - DN
 - S pressar Strömmer om kriminaliteten: ”Jag säger välkommen ombord” - DN
 - DN Direkt - Frankrikes regering faller i misstroendeomröstning - DN.se - DN
 - Israelisk attack mot 12-våningshus i Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Kristersson: Fortsätter öka trycket på Ryssland - Västerbottens-Kuriren
-- Terminal på Heathrow evakuerad - Aftonbladet
-- Småbolag rusade i sluthandeln – Nasdaq stryker ”felaktiga affärer” - Dagens industri
+- Flera döda i skjutning i Jerusalem: ”Obeskrivligt” - GP
 - CUPRA accelererar med världspremiären av Tindaya – visar även upp Tribe Editions och CUPRA Raval - Via TT
 - Nationalekonom sågar sänkt matmoms: ”Öppnar Pandoras box” - Tidningen Näringslivet
 - Byggnads stämmer Stenhusgruppen – kräver 13,5 miljoner: ”Välkomnar rättslig prövning” - Byggnadsarbetaren
+- Volkswagen lanserar serie av små elbilar 2026 - Investing.com Sverige
 - Skördemånen blev blodröd – här är bilderna på blodmånen - Nyteknik
 - Senaste nytt från Apple – vi listar heta släpp - Aftonbladet
 
@@ -32,21 +32,21 @@ _Updated: 2025-09-09 04:11_
 - Ivonescimab Plus Chemotherapy Demonstrates Consistent Global Benefit: HARMONi Data Update Shows OS HR=0.78, Nominal P=0.0332 - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
-- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - World Athletics introduces gene test for female category - BBC
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
-- Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
 - BIG Travel går in i globalt partnerskap - travelnews.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- Portugal sjunker på global rankning för antagande av kryptovalutor - The Portugal News
 
 ## Technology
 
@@ -60,16 +60,16 @@ _Updated: 2025-09-09 04:11_
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
-- Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
 
@@ -120,45 +120,45 @@ _Updated: 2025-09-09 04:11_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- 5 myter om öppen vetenskap - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Rovtidskrifter exploaterar forskares strävan efter snabb publicering - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- (+) Stor undersökning av jordbruket - Arbetarskydd
