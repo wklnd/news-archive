@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-09 11:48_
+_Updated: 2025-09-09 12:49_
 
-- Trump's alleged drawing in Epstein birthday book released by House Democrats - Axios
+- In Epstein’s ‘Birthday Book,’ a Celebration of His Lecherous Exploits - The New York Times
 - Israel orders full evacuation of Gaza City as Netanyahu warns ‘this is only the beginning’ - CNN
 - Fatal stabbing of Ukrainian refugee in North Carolina ignites crime debate - BBC
 - ICE launches ‘Operation Midway Blitz’ targeting immigrants in Chicago - The Washington Post
-- France's government collapses with Prime Minister François Bayrou ousted in a confidence vote - CBS News
-- Oversight Committee Releases Records Provided by the Epstein Estate, Chairman Comer Provides Statement - House.gov
+- Nepal political leaders’ homes set on fire as protests over retracted social media ban grow - AP News
+- 'It's going to get ugly': L.A. immigrants fear the worst as Supreme Court allows raids to resume - Los Angeles Times
 - South Korea to send plane for workers detained in US immigration raid - Al Jazeera
-- Student test scores are sliding, reaching new lows - The Washington Post
-- Firefighters Race to Save a Treasured Sequoia Grove in California - The New York Times
+- 12th Grade Reading Skills Hit a New Low - The New York Times
 - Wealthy N.Y. Developers Call Meeting to Plot Mamdani’s Defeat - The New York Times
-- Nepal PM Oli quits as anti-corruption protests spiral, his aide says - Reuters
+- President Trump Champions Religious Freedom, Unveils America Prays - The White House (.gov)
+- France's Macron seeks new prime minister after government's collapse - Reuters
+- Thai Court Sends Thaksin to One Year in Jail for Dodging Prison - Bloomberg
 - Indonesian markets rattled after Prabowo Subianto fires finance minister - Financial Times
-- Thailand’s top court orders former prime minister Thaksin Shinawatra to spend one year in jail - CNN
-- Tunisia denies claims Greta Thunberg's Gaza flotilla was hit by drone - BBC
+- Activist group says a drone hit a Gaza aid boat in Tunisia, but authorities deny attack - AP News
 - Murdoch family resolves dispute over ownership in multibillion-dollar deal - The Washington Post
+- OpenAI denies that it's weighing a 'last-ditch' California exit amid regulatory pressure over its restructuring - TechCrunch
 - Australia's ANZ to cut 3,500 jobs as new CEO Matos takes charge - Reuters
-- DoorDash CEO Tony Xu says path to autonomous deliveries filled with 'lots of pain and suffering' but company is nearing first inning of commercial progress - Fortune
-- Stock futures inch higher after Nasdaq hits new record: Live updates - CNBC
-- Apple Event 2025 Live Updates: Last Minute iPhone 17 Rumors to Know - CNET
+- Major jobs revision Tuesday could show the labor market is weaker than previously thought - CBS News
+- AirPods Pro 3 Won't Get 'Major' Audio or Active Noise Cancellation Improvements - MacRumors
 - If the latest OnePlus 15 leaks are true, you might get yourself real flagship killer once again - PhoneArena
