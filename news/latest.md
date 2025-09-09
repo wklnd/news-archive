@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-09 19:48_
+_Updated: 2025-09-09 20:49_
 
-- Israel attacks Hamas leaders in Doha, drawing condemnation from Qatar over "cowardly strike" - CBS News
-- 'It's a dead issue': Trump declines to comment on alleged Epstein 'birthday book' letter - ABC News
-- Nepal’s prime minister resigns as protests against the government and corruption rage on - AP News
-- Michigan 'fake electors' will not face criminal trial, judge rules - NBC News
-- Trump's ICE targets Chicago amid objections from mayor, Illinois governor - Axios
-- Greta Thunberg's Gaza flotilla hit by drone, organisers claim - BBC
+- Apple unveils iPhone 17 Pro and iPhone 17 Pro Max, the most powerful and advanced Pro models ever - Apple
+- Israel conducts 'precise strike' on Hamas leadership in Qatar: Officials - ABC News
+- GOP leaders shrug off Trump’s possible note in Epstein birthday book - Politico
+- Nepal parliament set on fire after PM resigns over anti-corruption protests - BBC
+- What To Know About ICE’s Operation Midway Blitz In Chicago - Block Club Chicago
+- RFK Jr.'s new MAHA roadmap is finally public - Politico
+- Over 600 people arrested in operations targeting Sinaloa drug cartel, DEA says - CBS News
 - US high school students lose ground in math and reading, continuing yearslong decline - AP News
-- Mamdani takes big lead in NYC mayoral race, new poll shows - Politico
-- Missouri House Set to Vote on Map That Boosts Republicans - The New York Times
-- House GOP waiting on Trump for spending cues, Johnson says - Politico
-- Macron inches closer to tapping Lecornu as prime minister - politico.eu
-- Ethiopia launches Africa's largest hydroelectric dam - Reuters
-- In first, Israel orders all of Gaza City to evacuate ahead of ground invasion - The Times of Israel
-- Russian missile that hit government headquarters contained over 30 foreign-made parts, Ukraine says - The Kyiv Independent
+- Missouri Republicans advance plan to draw Rep. Cleaver into Republican-leaning seat - STLPR
+- Florida police charge Assemblies of God pastor with failing to report child sex abuse - NBC News
+- Activists say Gaza aid boat set to test Israel's blockade attacked by drone in Tunisia - CBS News
+- Government downfall tests Macron like never before - politico.eu
+- Israel orders full evacuation of Gaza City as Netanyahu warns ‘this is only the beginning’ - CNN
+- New Zealand police investigate how a man hid his 3 children in a forest for years without discovery - AP News
 - US payrolls benchmark revision estimate suggests labor market weaker than previously thought - Reuters
-- Succession War Over, Lachlan Murdoch Turns to Next Era of Empire Building - The Hollywood Reporter
 - Cracker Barrel cancels plans to remodel its restaurants after conservative backlash - NBC News
-- JPMorgan CEO Jamie Dimon says the economy 'is weakening' - CNBC
-- Apple event expected to feature a slimmer iPhone as pricing, AI questions linger - Reuters
-- Apple Watch Series 11 announced with 5G and stronger glass - The Verge
+- Succession War Over, Lachlan Murdoch Turns to Next Era of Empire Building - The Hollywood Reporter
+- Stock Market Today: Nasdaq, S&P 500 Slip; BLS Revises Jobs Growth Lower — Live Updates - The Wall Street Journal
+- Apple shows new AirPods Pro with live translation, blood pressure monitor in latest Apple Watch - Reuters
+- The Apple Watch Ultra 3 has 42 hours of battery life and satellite connectivity - The Verge
