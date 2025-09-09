@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-09 22:40_
+_Updated: 2025-09-09 23:37_
 
 ## Top Stories
 
 - Elisabet Lann (KD) blir ny sjukvårdsminister – dramatisk första pressträff i Rosenbad - DN
-- Uppdaterat: En person begärd häktad för mordförsök i Alby, Botkyrka - Åklagarmyndigheten
+- Uppgifter: En skjuten på Hisingen - Aftonbladet
+- Starka reaktioner på ministerns klipp: ”Hör inte hemma på våra gator” - SVT Nyheter
+- Netanyahu: Kriget kan avslutas "direkt" - Västerbottens-Kuriren
 - Karl-Eriks hem översvämmat – flyttar till dottern: ”Åt helvete” - Aftonbladet
-- Explosioner i Doha i Qatar – Israel ska ha försökt attackera Hamas - SVT Nyheter
-- Tankbil i kollision med lastbil – E6 avstängd - GP
-- Uppgifter: Person skjuten i Göteborg - SvD
-- Man död efter skottlossning i Linköping - GP
-- Efter skyfallen – totalstopp för SJ:s tåg till Norrbotten - SVT Nyheter
-- Anna-Karin Hatt: Moderaterna talar med kluven tunga om SD - DN
-- 101 000 anställdas uppgifter röjda i hackerattack mot Region Skåne - SVT Nyheter
-- Sébastien Lecornu ny premiärminister i Frankrike - DN
+- Uppdaterat: En person begärd häktad för mordförsök i Alby, Botkyrka - Åklagarmyndigheten
+- En man i 30-årsåldern död efter skottlossning i Linköping - SVT Nyheter
+- Bortglömd järnväg räddningen efter ovädret - DN
+- Stegrud tror på blod och jord - Dagens Arena
+- Läcka omfattar alla anställda i Stockholms stad - DN
+- Macron utser ny premiärminister – Sébastien Lecornu - SVT Nyheter
 - Ukraina: 23 civila dödade i ryskt flygangrepp - SVT Nyheter
+- Nilens nya jättedamm ska ladda Etiopiens elbilar - GP
 - Hamas tar på sig bussattack i Jerusalem - Västerbottens-Kuriren
-- Ny israelisk varning: Lämna Gaza stad omedelbart - GP
 - Nasdaqs vd kommenterar makuleringen av avslut på Stockholmsbörsen - Afv - Placera.se
-- Klart: Norge sätter ett fast elpris - Dagens industri
-- Viktiga ”tidsfönstret” för krisande tyska bilar - SvD
+- Inför Fed-beskedet: Landeborn om aktierna som kan lyfta - Dagens PS
 - Sverige först i världen: Stim lanserar AI-licens för musik - Cision News
+- Klart: Norge sätter ett fast elpris - Dagens industri
 - Nya rekord på Wall Street – men Apple föll efter produktlansering - Dagens industri
 - AirPods Pro 3 vs AirPods Pro 2: så jämför sig Apples nya hörlurar med de äldre - TechRadar
 
 ## World News
 
+- Global Payments Releases 2025 Global Responsibility Report - Placera.se
 - Alila Hotels Beckons Travelers to Experience the Luxury of Wonder Through Global Campaign, A World Awaits - Placera.se
-- Ivonescimab Plus Chemotherapy Demonstrates Consistent Global Benefit: HARMONi Data Update Shows OS HR=0.78, Nominal P=0.0332 - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
-- Techarenan News goes English (Partly at least) - Techarenan.news
-- New Secretary General appointed - Olof Palme International Center
-- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
-- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
-- World Athletics introduces gene test for female category - BBC
-- Increasing understanding is the aim of today's International Holocaust Remembrance Day - Sveriges Radio
-- News of the Worlds reportrar kan få nya jobb - Journalisten
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Ivonescimab Plus Chemotherapy Demonstrates Consistent Global Benefit: HARMONi Data Update Shows OS HR=0.78, Nominal P=0.0332 - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Global tillväxt för halvledarutrustning under Q2 - Evertiq
+- Techarenan News goes English (Partly at least) - Techarenan.news
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
+- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
+- World Athletics introduces gene test for female category - BBC
+- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- 7 saker om EQTY Global Growth II Fund - The Portugal News
+- Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- Genpact Marks Next Phase as Advanced Technology Company with Global Rebrand - Placera.se
 
 ## Technology
 
@@ -61,15 +61,15 @@ _Updated: 2025-09-09 22:40_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
-- SMCI Stock Analysis: What Drives Super Micro Computer Inc. Stock Price? - Markets.com
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
-- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
+- Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
 
@@ -143,22 +143,22 @@ _Updated: 2025-09-09 22:40_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Framtidens jordbruk är regenerativt - greenpeace.org
