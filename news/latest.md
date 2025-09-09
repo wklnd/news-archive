@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-09 16:50_
+_Updated: 2025-09-09 17:50_
 
-- Israeli carries out strike targeting Hamas leadership in Qatar - CNN
-- Job growth revised down by 911,000 through March, signaling economy on shakier footing than realized - CNBC
+- Israel carries out strike on senior Hamas leaders in Qatari capital - BBC
+- Job Growth Revised Down by Nearly a Million, Updated BLS Data Shows - The New York Times
 - MAGA claims Trump signature in Epstein birthday book is fake - Axios
-- Israeli military issues full evacuation order for all of Gaza City - ABC News
-- Nepal’s prime minister resigns after 19 killed in protests against social media ban and corruption - AP News
+- ‘Topple this government’: Nepal’s Gen Z protesters demand mass resignations - Al Jazeera
 - Chicago mayor says city "received no notice" ahead of Homeland Security's "Operation Midway Blitz" announcement - CBS News
+- Israel orders full evacuation of Gaza City as Netanyahu warns ‘this is only the beginning’ - CNN
+- Michigan judge tosses case against 15 accused fake electors for President Donald Trump in 2020 - AP News
 - Missouri House is about to enact new US House maps that erase a Democratic seat - CNN
-- ICE Raid Threatens to Unravel South Korea’s Wins With Trump - Bloomberg
-- Fatal stabbing of Ukrainian refugee in North Carolina ignites crime debate - BBC
+- DEA arrests over 600 people in massive operation against the Sinaloa drug cartel - ABC News
 - Wealthy New York Developers Hold Meeting to Plot Mamdani’s Defeat - The New York Times
+- Activists say Gaza aid boat set to test Israel's blockade attacked by drone in Tunisia - CBS News
 - Charting the past year of Russian drone and missile attacks on Ukraine - Al Jazeera
-- Macron Has No Good Options After Repeat Collapse of French Government - The New York Times
-- Indonesia's new finance minister plans liquidity measures with central bank to boost growth - Reuters
-- Greta Thunberg's Gaza flotilla hit by drone, organisers claim - BBC
-- Rupert Murdoch's family reaches deal on who will control media empire - Euronews.com
+- Macron inches closer to tapping Lecornu as prime minister - politico.eu
+- Thai Court Orders Thaksin, Ex-Premier, to Serve a Year in Prison - The New York Times
+- Murdoch family resolves messy succession battle with new family trust - Axios
 - Starbucks CEO Brian Niccol's 1-year report card is in. Here's the verdict on how he did. - Business Insider
 - OpenAI denies that it's weighing a 'last-ditch' California exit amid regulatory pressure over its restructuring - TechCrunch
 - Sorry Jerome, weakening economic data is ‘exactly what markets needed’, says Wharton professor - Yahoo Finance
 - Apple event expected to feature a slimmer iPhone as pricing, AI questions linger - Reuters
-- Leak says AirPods Pro 3 will be available to purchase starting today - 9to5Mac
+- Switch modder who acted as his own lawyer now owes Nintendo $2 million - Ars Technica
