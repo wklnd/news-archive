@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-09 23:37_
+_Updated: 2025-09-10 00:39_
 
 ## Top Stories
 
-- Elisabet Lann (KD) blir ny sjukvårdsminister – dramatisk första pressträff i Rosenbad - DN
-- Uppgifter: En skjuten på Hisingen - Aftonbladet
+- En person skjuten till döds på Hisingen i Göteborg - GP
+- DN Direkt - Pojke häktad för skott i tunnelbana - DN.se - DN
+- När tågen står: Kraftigt uppsving för flyget - Västerbottens-Kuriren
 - Starka reaktioner på ministerns klipp: ”Hör inte hemma på våra gator” - SVT Nyheter
-- Netanyahu: Kriget kan avslutas "direkt" - Västerbottens-Kuriren
-- Karl-Eriks hem översvämmat – flyttar till dottern: ”Åt helvete” - Aftonbladet
-- Uppdaterat: En person begärd häktad för mordförsök i Alby, Botkyrka - Åklagarmyndigheten
+- Elisabet Lann (KD) blir ny sjukvårdsminister – dramatisk första pressträff i Rosenbad - DN
+- Israelisk attack i Doha – fem Hamasmedlemmar döda - DN
 - En man i 30-årsåldern död efter skottlossning i Linköping - SVT Nyheter
-- Bortglömd järnväg räddningen efter ovädret - DN
-- Stegrud tror på blod och jord - Dagens Arena
-- Läcka omfattar alla anställda i Stockholms stad - DN
-- Macron utser ny premiärminister – Sébastien Lecornu - SVT Nyheter
+- Personuppgifter om anställda i Region Skåne har röjts vid angrepp mot företaget Miljödata - Region Skåne
+- Här är nyheterna i dagens regeringsförklaring - SVT Nyheter
+- Mobiler förbjuds i skolan – även på raster och fritids - Omni
+- Förste domaren fäller Bolsonaro för kuppförsök - Västerbottens-Kuriren
 - Ukraina: 23 civila dödade i ryskt flygangrepp - SVT Nyheter
-- Nilens nya jättedamm ska ladda Etiopiens elbilar - GP
-- Hamas tar på sig bussattack i Jerusalem - Västerbottens-Kuriren
-- Nasdaqs vd kommenterar makuleringen av avslut på Stockholmsbörsen - Afv - Placera.se
+- Ny israelisk varning: Lämna Gaza stad omedelbart - GP
+- Nilens nya jättedamm ska ladda Etiopiens elbilar - Västerbottens-Kuriren
 - Inför Fed-beskedet: Landeborn om aktierna som kan lyfta - Dagens PS
+- Nasdaqs vd kommenterar makuleringen av avslut på Stockholmsbörsen - Afv - Placera.se
 - Sverige först i världen: Stim lanserar AI-licens för musik - Cision News
-- Klart: Norge sätter ett fast elpris - Dagens industri
+- HMS Networks släpper nya mål och ger affärsuppdatering - Dagens industri
 - Nya rekord på Wall Street – men Apple föll efter produktlansering - Dagens industri
 - AirPods Pro 3 vs AirPods Pro 2: så jämför sig Apples nya hörlurar med de äldre - TechRadar
 
 ## World News
 
-- Global Payments Releases 2025 Global Responsibility Report - Placera.se
 - Alila Hotels Beckons Travelers to Experience the Luxury of Wonder Through Global Campaign, A World Awaits - Placera.se
+- Ivonescimab Plus Chemotherapy Demonstrates Consistent Global Benefit: HARMONi Data Update Shows OS HR=0.78, Nominal P=0.0332 - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Ivonescimab Plus Chemotherapy Demonstrates Consistent Global Benefit: HARMONi Data Update Shows OS HR=0.78, Nominal P=0.0332 - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global tillväxt för halvledarutrustning under Q2 - Evertiq
 - Techarenan News goes English (Partly at least) - Techarenan.news
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- K-pop band 1VERSE, featuring two North Korean defectors, makes global debut - PBS News Hour - Art Beat - Poddtoppen
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
-- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
-- 7 saker om EQTY Global Growth II Fund - The Portugal News
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Frida Dunger Johnsson appointed Executive Director of the International Federation of Psoriasis Associations - NewsMachine AB
+- 7 saker om EQTY Global Growth II Fund - The Portugal News
+- BIG Travel går in i globalt partnerskap - travelnews.se
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- Genpact Marks Next Phase as Advanced Technology Company with Global Rebrand - Placera.se
+- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 
 ## Technology
 
@@ -61,15 +61,15 @@ _Updated: 2025-09-09 23:37_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- ZenaTech Signs Agreements to Acquire Two Florida Companies, Expanding Drone as a Service Footprint into Aviation, Defense, and Power Washing - Placera.se
 - Intellistake Provides Corporate Update, Including Update on Financing and Announcement of Development of IntelliScope, Its Enterprise AI Suite Leveraging Decentralized Technologies - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
-- Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
-- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
 
@@ -84,7 +84,6 @@ _Updated: 2025-09-09 23:37_
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- DeFi Technologies Reports All-Time High in Bitcoin Assets Under Management and Treasury Holdings - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
@@ -92,7 +91,8 @@ _Updated: 2025-09-09 23:37_
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 
 ## Health
 
@@ -119,26 +119,26 @@ _Updated: 2025-09-09 23:37_
 
 ## Science
 
-- Rovtidskrifter exploaterar forskares strävan efter snabb publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
+- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Rovtidskrifter exploaterar forskares strävan efter snabb publicering - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
 
