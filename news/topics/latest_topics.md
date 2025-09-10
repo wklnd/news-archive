@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-10 20:47_
+_Updated: 2025-09-10 21:37_
 
 ## Top Stories
 
-- Jessica Stegrud (SD) filmade tonåringar på Centralstationen - SVT Nyheter
+- Högeraktivisten Charlie Kirk skjuten under debatt i Utah - SVT Nyheter
 - Michael Winiarski: Putin vill tvinga ett bräckligt Nato att visa sina kort - DN
 - Varningen efter it-läckan: Därför bör du vara på din vakt - GP
-- Misstänkt mordförsök på industriområde i Uddevalla - SVT Nyheter
-- Boende om dödsskjutningen på Hisingen: ”Gick på sekunder” - DN
-- Nadja Bloms son stämmer staten – på en miljon - GP
-- DN Direkt - Partiledardebatten: Regeringsoduglighet, kulturkrig och dörrmatta - DN
+- Mordförsök utreds i Uddevalla - Aftonbladet
+- Polischefen om mordvågen: ”Mycket hänsynslöst" - SvD
+- Här deltar Jessica Stegrud (SD) i högerextremistens konfrontation - expo.se
+- Busch om ministerns svimning: ”Gjorde det jag kunde” - DN
+- Mer regn väntar i Västernorrland: ”Jobbar mot klockan” - DN
 - Statsminister Ulf Kristersson presenterade förändringar i regeringen - Regeringen.se
-- Elisabet Lann efter kollapsen: ”Jag skadade mig inte” - SVT Nyheter
-- Profilen rasar mot kedjans gravidkampanj: “Otroligt fel” - Breakit
+- Pojke häktad för skott i tunnelbanan - Västerbottens-Kuriren
 - Utrikesministern välkomnar von der Leyens besked om fryst stöd till Israel - Dagens Arena
-- Fem punkter: Därför hamnade Frankrike i skuldkris - GP
 - Israeliska attacker mot Jemen – flera döda - Västerbottens-Kuriren
-- DN Direkt - Israelisk attack mot Hamasledare i Doha under förhandlingar om vapenvila - DN.se - DN
-- Klarnas aktie rusar över 30 procent i börsdebut - SvD
+- Israelisk attack i Doha – Hamasledare uppges dödad - GP
+- Så kan Ukraina vinna kriget - Kvartal
 - Novo Nordisk avskedar 9 000 medarbetare i ett omfattande sparpaket - newsoresund.se
-- Dalsland har Västra Götalands näst dyraste fjärrvärme - prisökningar upp till 67 % på fem år - Via TT
+- Strängare krav på öppenhet för fjärrvärmebolag - Fastighetstidningen
 - Nu blir det äntligen bättre ljud på Spotify – för premiumkunderna - Nyteknik
-- Tunn som 17 – vi har snabbtestat nya Iphone - Aftonbladet
-- Träpanel och USB-C när Asus lanserar ProArt RTX 5080 - SweClockers
+- Tidöpartierna: Miljarder till jobb för unga - Omni
+- Apple presenterar ny Iphone-modell – höjer priserna - EFN
+- Nya ministern ifrågasätts för abortutspel - Aftonbladet
 
 ## World News
 
@@ -64,40 +64,41 @@ _Updated: 2025-09-10 20:47_
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
+- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Digital Realty Launches Innovation Lab to Accelerate AI and Hybrid Cloud Implementation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
-- Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
 
 ## Business
 
-- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Publication of the 2025 Half-Year Report - Placera.se
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Publication of the 2025 Half-Year Report - Placera.se
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - NextDecade Announces Positive Final Investment Decision and Financial Close on Train 4 at Rio Grande LNG - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - ATI Chief Financial Officer Don Newman Announces Retirement - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Centessa Pharmaceuticals Reports Financial Results and Business Highlights for the Second Quarter of 2025 - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
@@ -106,16 +107,15 @@ _Updated: 2025-09-10 20:47_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Johan von Schreeb - Karolinska Institutet
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Tema: AI inom medicin och hälsa - Karolinska Institutet
-- Samverkan - Göteborgs universitet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
