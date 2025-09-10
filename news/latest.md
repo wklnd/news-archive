@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-10 05:16_
+_Updated: 2025-09-10 05:50_
 
 - Judge Rules Fed Governor Can Remain in Role, for Now - The New York Times
-- White House rebukes Israel over strike on Hamas in Qatar - The Washington Post
-- 'It's not my signature': Trump says about alleged Epstein 'birthday book' letter - ABC News
-- Supreme Court will expedite Trump tariff case - Axios
-- Trump signs executive action cracking down on pharma ads as RFK Jr. releases report on children's health - CBS News
+- Trump says he's 'very unhappy' with Israeli strike in Qatar - ABC News
+- Trump calls release of suggestive note to convicted sex trafficker Jeffrey Epstein a ‘dead issue’ - The Guardian
+- Polish armed forces say Russian drones shot down in its airspace - BBC
 - Trump is keeping RFK Jr. in his tent and on a leash - Politico
-- Suspect in Charlotte train stabbing facing federal charges, possible death penalty: DOJ - ABC News
+- US Supreme Court pauses judge's order that Trump spend foreign aid - Reuters
+- Suspect in stabbing of Ukrainian woman in North Carolina charged with federal crime - The Guardian
 - James Walkinshaw, Democrat of Virginia, Wins House Special Election - The New York Times
 - ICE operations ramp up in Chicago ahead of Mexican Independence Day - Chicago Sun-Times
-- New Report Card Data Confirms We Can, And Must, Do Better on Education - The White House (.gov)
-- For Nepal’s Protesters, Wealthy ‘Nepo Kids’ Are a Source of Outrage - The New York Times
-- Elizabeth Tsurkov, Princeton student held captive in Iraq, is released, Trump says - The Washington Post
-- Poland engages drones in its airspace during Russian attack on Ukraine - Reuters
-- French President Emmanuel Macron appoints outgoing defense minister Sébastien Lecornu as prime minister - CNN
+- Missouri House passes gerrymandered congressional map, limits on initiative petitions - Missouri Independent
+- Protests against Nepal's social-media ban grow more violent as demonstrators set buildings on fire - AP News
+- Princeton grad student kidnapped for over 900 days in Iraq has been released, Trump says - CBS News
+- Macron Picks Sébastien Lecornu as France’s Next Prime Minister - The New York Times
+- Cruise ship passenger in Puerto Rico jumps overboard allegedly to avoid $16,000 gambling debt - CBS News
 - U.S. employers added 911,000 fewer jobs than first reported, new BLS data shows - The Washington Post
-- Meta blocked research on kids using VR, two former employees say - NBC News
 - Klarna raises $1.37 billion in US IPO, boosting fintech hopefuls - Reuters
-- Stock Market News Review: SPY, QQQ Shrug Off Record-Breaking Jobs Revision and Warning from JPMorgan CEO Jamie Dimon - TipRanks
+- Oracle Stock Pops 25% Despite Earnings Miss. Its AI Cloud Backlog Is Surging. - Investor's Business Daily
+- US consumer finances stay robust even as jobs data cloud economic outlook, bankers say - Yahoo Finance
 - Apple Events live updates: iPhone 17, iPhone Air, AirPods Pro 3, and new wearables just unveiled - ZDNET
-- The New Apple Watches Are Here. You Should Probably Upgrade - WIRED
+- Hypertension Alerts Coming to Older Apple Watch Models - MacRumors
