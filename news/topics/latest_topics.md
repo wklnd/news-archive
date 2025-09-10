@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-10 15:42_
+_Updated: 2025-09-10 16:41_
 
 ## Top Stories
 
 - Drönare sköts ner – Polen åberopar Natos artikel 4 - SVT Nyheter
 - ”Mobbar som hotar folkvalda undergräver demokratin” - Västerbottens-Kuriren
+- Ebba Busch flög fram – Ulf Kristersson rättade till slipsen - GP
+- Boende om dödsskjutningen på Hisingen: ”Gick på sekunder” - DN
+- Jag blev skuldbelagd för jag flög från Skellefteå till Stockholm - Norran
 - Ny person gripen efter mordet i Lammhult 2023 - SVT Nyheter
-- VIKTOR BARTH-KRON: Titta – här öppnar Hatt faktiskt för SD - Expressen
 - Mer regn väntar i Västernorrland: ”Jobbar mot klockan” - DN
+- "Straffbarhetsåldern ska sänkas till 13 år" - Regeringen.se
 - DN Direkt - Partiledardebatten: Regeringsoduglighet, kulturkrig och dörrmatta - DN.se - DN
-- Straffbarhetsåldern ska sänkas till – 13 år - SVT Nyheter
-- Ebba Busch om Lanns kollaps: ”Enkelt beslut” - GP
 - Tre döms för grova våldtäkter i stora pedofilhärvan i Sjuhärad - SVT Nyheter
-- En anhållen misstänkt för dödsskjutningen i Linköping - SVT Nyheter
-- Teodorescu om Israelvändningen i EU: Skamligt - Västerbottens-Kuriren
-- IS-medlem knivdödade tre på festival – får livstid - GP
-- Macron utser ny premiärminister – Sébastien Lecornu - SVT Nyheter
-- Ursula von der Leyen: ”Vi ska bygga en drönarmur” - DN
-- Regeringen sänker arbetsgivaravgifter för unga – facket: ”Går till vinst för företagen” - Arbetet
-- Förvaltarens kritik inför IPO:n: ”Sämsta jag sett” - EFN
+- Utrikesministern välkomnar von der Leyens besked om fryst stöd till Israel - Dagens Arena
+- Därför demonstrerar och strejkar över 100 000 i Frankrike - GP
+- Inför kriget, del 2: Ryssland - RiktpunKt.nu
+- IS-medlem knivdödade tre på festival – får livstid - Västerbottens-Kuriren
+- Dissen som blev Klarnas startskott: ”Som bensin” - EFN
 - Jobbslakt hos Novo Nordisk – tusentals jobb bort - Tidningen Näringslivet
-- Nu blir det äntligen bättre ljud på Spotify - Dagens industri
+- Klarna-bossen uppladdning inför börsdebuten – sitter och vibekodar - Breakit
+- Regeringen sänker arbetsgivaravgifter för unga – facket: ”Går till vinst för företagen” - Arbetet
 - Apple presenterar ny Iphone-modell – höjer priserna - EFN
 - AirPods Pro 3 vs AirPods Pro 2: så jämför sig Apples nya hörlurar med de äldre - TechRadar
 
 ## World News
 
+- Alila Hotels Beckons Travelers to Experience the Luxury of Wonder Through Global Campaign, A World Awaits - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Trumps beställning: Visa att global uppvärmning är bra - Omni
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- New Secretary General appointed - Olof Palme International Center
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- UN Security Council calls emergency meeting on Gaza - Poddtoppen
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - World Athletics introduces gene test for female category - BBC
+- Dangbei S7 Ultra Max: Cinema Projector Goes Global - Tech News Today | 2 Min News - Poddtoppen
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- News of the Worlds reportrar kan få nya jobb - Journalisten
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- HDBank, OCB, MSB och VPBank samarbetar för att främja global grön finans - Vietnam.vn
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- BIG Travel går in i globalt partnerskap - travelnews.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -98,47 +98,47 @@ _Updated: 2025-09-10 15:42_
 
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Osher centrum för integrativ hälsa - Karolinska Institutet
 - Fakulteten för hälsa och samhälle - Malmö universitet
-- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
-- Samverkan - Göteborgs universitet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
+- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Stärkt life science-forskning är till godo för patienterna - Läkartidningen
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
 
