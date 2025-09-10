@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-10 22:40_
+_Updated: 2025-09-10 23:37_
 
 ## Top Stories
 
-- Jessica Stegrud (SD) filmade tonåringar på Centralstationen - SVT Nyheter
 - Konservative debattören Charlie Kirk skjuten i USA - Västerbottens-Kuriren
 - Varningen efter it-läckan: Därför bör du vara på din vakt - GP
-- Man skadades i industriområde – utreds som mordförsök - TV4 Nyheterna
-- Mer regn väntar i Västernorrland: ”Jobbar mot klockan” - DN
+- Misstänkt mordförsök på industriområde i Uddevalla - SVT Nyheter
+- Elisabet Lann: ”Inte den entré som jag hade planerat för” - GP
 - Michael Winiarski: Putin vill tvinga ett bräckligt Nato att visa sina kort - DN
+- DN Direkt - Minst två skadade i skolskjutning i Denver - DN
+- Jessica Stegrud (SD) filmade tonåringar på Centralstationen - SVT Nyheter
 - "Straffbarhetsåldern ska sänkas till 13 år" - Regeringen.se
-- Busch om ministerns svimning: ”Gjorde det jag kunde” - DN
-- Valfläsk och Porschar i partiledardebatten - GP
+- Mer regn väntar i Västernorrland: ”Jobbar mot klockan” - DN
 - Pojke häktad för skott i tunnelbanan - Västerbottens-Kuriren
+- Europas självständighet och kursändring om Gaza: Här är de viktigaste punkterna i EU-chefens stora tal - Altinget.se
 - Därför demonstrerar och strejkar över 100 000 i Frankrike - GP
 - Israeliska attacker mot Jemen – flera döda - Västerbottens-Kuriren
-- Tillståndet i EU: säkerhet, Ukraina, Gaza, konkurrenskraft och handel - European Parliament
-- Säkerhetstoppar försökte stoppa attack mot Qatar – kördes över av Netanyahu - DN
-- Från sågad pitch till Wall Street – historien om Klarna - EFN
+- Netanyahu hotar Qatar: ”Utvisa terrorister” - Corren
+- Klarnas aktie ser ut att rusa med 30 procent - SVT Nyheter
 - Novo Nordisk avskedar 9 000 medarbetare i ett omfattande sparpaket - newsoresund.se
-- Ellison världens rikaste – petar Musk från tronen - DN
+- Elon Musk omsprungen – Larry Ellison är världens rikaste man - Placera.se
 - Nu blir det äntligen bättre ljud på Spotify - Sydsvenskan
 - Apple presenterar ny Iphone-modell – höjer priserna - EFN
 - Forskare har sett tecken på forntida liv på Mars - Omni
@@ -28,24 +28,24 @@ _Updated: 2025-09-10 22:40_
 ## World News
 
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Global Payments Releases 2025 Global Responsibility Report - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Techarenan News goes English (Partly at least) - Techarenan.news
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- World Athletics introduces gene test for female category - BBC
+- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - DO Black - the world’s first credit card with a carbon limit - mastercard.com
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
+- Alila Hotels Beckons Travelers to Experience the Luxury of Wonder Through Global Campaign, A World Awaits - Placera.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Flest coronasäkra stränder i Portugal och ny global säkerhetsmärkning - travelnews.se
 
 ## Technology
@@ -73,26 +73,26 @@ _Updated: 2025-09-10 22:40_
 
 ## Business
 
+- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Publication of the 2025 Half-Year Report - Placera.se
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- NextDecade Announces Positive Final Investment Decision and Financial Close on Train 4 at Rio Grande LNG - Placera.se
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- ATI Chief Financial Officer Don Newman Announces Retirement - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Centessa Pharmaceuticals Reports Financial Results and Business Highlights for the Second Quarter of 2025 - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Publication of the 2025 Half-Year Report - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- DeFi Technologies Reports All-Time High in Bitcoin Assets Under Management and Treasury Holdings - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
