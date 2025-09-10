@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-10 16:41_
+_Updated: 2025-09-10 17:40_
 
 ## Top Stories
 
-- Drönare sköts ner – Polen åberopar Natos artikel 4 - SVT Nyheter
-- ”Mobbar som hotar folkvalda undergräver demokratin” - Västerbottens-Kuriren
-- Ebba Busch flög fram – Ulf Kristersson rättade till slipsen - GP
-- Boende om dödsskjutningen på Hisingen: ”Gick på sekunder” - DN
+- Elisabet Lann efter kollapsen: ”Jag skadade mig inte” - SVT Nyheter
+- Ryska drönare över Polen nedskjutna - kränkte luftrum - DN
 - Jag blev skuldbelagd för jag flög från Skellefteå till Stockholm - Norran
-- Ny person gripen efter mordet i Lammhult 2023 - SVT Nyheter
-- Mer regn väntar i Västernorrland: ”Jobbar mot klockan” - DN
-- "Straffbarhetsåldern ska sänkas till 13 år" - Regeringen.se
-- DN Direkt - Partiledardebatten: Regeringsoduglighet, kulturkrig och dörrmatta - DN.se - DN
+- ”Mobbar som hotar folkvalda undergräver demokratin” - Västerbottens-Kuriren
+- Barnens skolväg klövs itu: "Helt galet" - GP
+- Carl Johan von Seth: Därför kommer Trumps chocktullar att bli kvar - DN
+- Valfläsk och Porschar i partiledardebatten - Västerbottens-Kuriren
 - Tre döms för grova våldtäkter i stora pedofilhärvan i Sjuhärad - SVT Nyheter
-- Utrikesministern välkomnar von der Leyens besked om fryst stöd till Israel - Dagens Arena
-- Därför demonstrerar och strejkar över 100 000 i Frankrike - GP
-- Inför kriget, del 2: Ryssland - RiktpunKt.nu
+- Två stängs av för misstänkt korruption i Malmö stad - DN
+- En anhållen misstänkt för dödsskjutningen i Linköping - SVT Nyheter
+- Teodorescu om Israelvändningen i EU: Skamligt - GP
+- Israel har attackerat Jemens huvudstad - Västerbottens-Kuriren
+- Sébastien Lecornu ny premiärminister i Frankrike - DN
 - IS-medlem knivdödade tre på festival – får livstid - Västerbottens-Kuriren
-- Dissen som blev Klarnas startskott: ”Som bensin” - EFN
-- Jobbslakt hos Novo Nordisk – tusentals jobb bort - Tidningen Näringslivet
-- Klarna-bossen uppladdning inför börsdebuten – sitter och vibekodar - Breakit
+- Första indikation om Klarnas noteringskurs – ser ut att rusa över 25 procent - Dagens industri
+- Snittet: Analytiker ser uppsida på 36 procent - EFN
 - Regeringen sänker arbetsgivaravgifter för unga – facket: ”Går till vinst för företagen” - Arbetet
+- MEDS avser att notera sina aktier på Nasdaq First North Premier Growth Market (MFN) - Aktiellt
 - Apple presenterar ny Iphone-modell – höjer priserna - EFN
 - AirPods Pro 3 vs AirPods Pro 2: så jämför sig Apples nya hörlurar med de äldre - TechRadar
 
 ## World News
 
-- Alila Hotels Beckons Travelers to Experience the Luxury of Wonder Through Global Campaign, A World Awaits - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
-- New Secretary General appointed - Olof Palme International Center
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
+- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - World Athletics introduces gene test for female category - BBC
-- Dangbei S7 Ultra Max: Cinema Projector Goes Global - Tech News Today | 2 Min News - Poddtoppen
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- BIG Travel går in i globalt partnerskap - travelnews.se
 
 ## Technology
 
@@ -98,7 +98,6 @@ _Updated: 2025-09-10 16:41_
 
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
@@ -114,6 +113,7 @@ _Updated: 2025-09-10 16:41_
 - Johan von Schreeb - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
@@ -121,24 +121,24 @@ _Updated: 2025-09-10 16:41_
 
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Stärkt life science-forskning är till godo för patienterna - Läkartidningen
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
