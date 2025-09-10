@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-10 10:46_
+_Updated: 2025-09-10 11:40_
 
 ## Top Stories
 
-- Ryska drönare beskjutna i Polen - SVT Nyheter
+- Ryska drönare över Polen nedskjutna - kränkte luftrum - DN
 - Adam Cwejman: Ta Palestinarörelsens hot mot våra folkvalda på allvar - GP
-- Inlandsbanan håller trafiken igång när övriga banor stängs - JARNVAGSnyheter.se
-- "Jag vet inte hur jag ska säga det så jag säger det bara" - Folkbladet
-- Efter ministerns kollaps – så ska du agera om någon i din närhet svimmar - DN
-- Statsminister Ulf Kristersson presenterade förändringar i regeringen - Regeringen.se
-- SVT avslöjar: Foxtrot infiltrerade Securitas - Västerbottens-Kuriren
+- Mer regn väntas – sandsäckar och pumpar på väg - GP
+- "Straffbarhetsåldern ska sänkas till 13 år" - Regeringen.se
+- DN Direkt - En gripen – försökte köra på man med sin bil - DN.se - DN
+- EU-toppen: Pausa handelsavtalet med Israel - DN
+- Salmonellautbrottet växer – 33 personer smittade - Västerbottens-Kuriren
 - DN Direkt - S: Gör det möjligt att tvångsförvalta förskolor - DN.se - DN
+- SVT avslöjar: Foxtrot infiltrerade Securitas - GP
 - Utkast visar: Så kan Sveriges klimatmål förändras - DN
-- Varnade för våldtäktsman – dömdes för förtal - DN
-- EU-basen: Pausa avtalet med Israel - Västerbottens-Kuriren
+- Macron utser ny premiärminister – Sébastien Lecornu - SVT Nyheter
 - Faller hon i höst? EU-basen pressas i parlamentet - GP
 - Protester i Gaza stad mot evakuering – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Pressträff för att presentera en budgetnyhet - Regeringen.se
+- Israelisk attack i Doha – fem Hamasmedlemmar döda - DN
 - DN Direkt - Misstänkt mordförsök i Uppsala – man knivhuggen - DN.se - DN
-- Strängare krav på öppenhet för fjärrvärmebolag - Fastighetstidningen
-- Klarna sätter teckningskurs till 40 dollar per aktie – värderas till 15 miljarder dollar - Placera.se
-- Stockholmsbörsen öppnar upp – Clas Ohlson rusar på kvartalssiffror - Dagens industri
+- Svensk Handel välkomnar sänkta arbetsgivaravgifter för unga - Svensk Handel
+- Klarna blir störst sedan Spotify - SvD
+- Länets dyraste fjärrvärme finns i Boxholm – men den högsta höjningen finns i Vadstena - Via TT
 - Nya uppgångar på Wall Street – men Apple föll efter produktlansering - Dagens industri
-- Apple försökte dölja en väldigt viktig detalj om Apple Watch Series 11 och Ultra 3 – men jag märkte det - TechRadar
+- Nya Magsafe-batteripack, men fungerar bara med Iphone Air - Macworld.se
 
 ## World News
 
@@ -32,11 +32,11 @@ _Updated: 2025-09-10 10:46_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - New Secretary General appointed - Olof Palme International Center
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
@@ -59,17 +59,17 @@ _Updated: 2025-09-10 10:46_
 - Leveraging AI in Swedish Development Cooperation - FUF Föreningen för utvecklingsfrågor
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- Qualcomm’s Board of Directors Appoints Jeremy (Zico) Kolter to Board - Placera.se
 - ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
+- ZenaTech Signs Agreements to Acquire Two Florida Companies, Expanding Drone as a Service Footprint into Aviation, Defense, and Power Washing - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
-- Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
-- Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
+- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 
 ## Business
 
@@ -87,12 +87,12 @@ _Updated: 2025-09-10 10:46_
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Centessa Pharmaceuticals Reports Financial Results and Business Highlights for the Second Quarter of 2025 - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -145,20 +145,20 @@ _Updated: 2025-09-10 10:46_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk
