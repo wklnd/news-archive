@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-11 00:39_
+_Updated: 2025-09-11 01:37_
 
 ## Top Stories
 
 - Högerdebattören Charlie Kirk ihjälskjuten i USA - Västerbottens-Kuriren
 - Varningen efter it-läckan: Därför bör du vara på din vakt - GP
-- Misstänkt mordförsök på industriområde i Uddevalla - SVT Nyheter
+- Explosion vid lägenhetshus i Linköping - SVT Nyheter
+- Man skadades i industriområde – utreds som mordförsök - TV4 Nyheterna
+- SD-toppen Jessica Stegrud deltog i filmad konfrontation - DN
 - Mer regn väntar i Västernorrland: ”Jobbar mot klockan” - DN
-- Kyrkovalet – ett uttryck för Svenska kyrkans partipolitisering - Med Israel för fred
-- Elisabet Lann efter kollapsen: ”Jag skadade mig inte” - SVT Nyheter
-- Jessica Stegrud (SD) filmade tonåringar på Centralstationen - SVT Nyheter
+- Kristofer Ahlström: Ulf Kristerssons reaktion under pressträffen avslöjar hans talang - DN
 - Pojke häktad för skott i tunnelbanan - Västerbottens-Kuriren
-- "Straffbarhetsåldern ska sänkas till 13 år" - Regeringen.se
-- Elektronikjättens gravidkampanj väcker ilska: ”Smaklöst” - DN
-- Därför demonstrerar och strejkar över 100 000 i Frankrike - GP
-- Karlskrona kommun stoppar barnens minnesresa – oro i Polen efter ryska drönare - SVT Nyheter
-- Tillståndet i EU: säkerhet, Ukraina, Gaza, konkurrenskraft och handel - European Parliament
+- Straffbarhetsåldern ska sänkas till 13 år - SVT Nyheter
+- En person skjuten till döds på Hisingen i Göteborg - GP
+- Stora protester i Frankrike – 80 000 poliser mobiliserade - SVT Nyheter
+- Israeliska attacker mot Jemen – flera döda - GP
 - Netanyahu hotar Qatar: ”Utvisa terrorister” - Västerbottens-Kuriren
+- Efter drönarna: Polen åberopar Natos artikel 4 - UNT
 - Från sågad pitch till Wall Street – historien om Klarna - EFN
 - Novo Nordisk avskedar 9 000 medarbetare i ett omfattande sparpaket - newsoresund.se
-- Elon Musk omsprungen – Larry Ellison är världens rikaste man - Placera.se
+- Elon Musk – inte längre världens rikaste person - GP
 - Nu blir det äntligen bättre ljud på Spotify - Sydsvenskan
 - Apple presenterar ny Iphone-modell – höjer priserna - EFN
 - Forskare har hittat tecken på tidigare liv på Mars - DN
@@ -59,40 +59,40 @@ _Updated: 2025-09-11 00:39_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
-- Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Digital Realty Launches Innovation Lab to Accelerate AI and Hybrid Cloud Implementation - Placera.se
-- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
+- Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
-- Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
 
 ## Business
 
-- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Publication of the 2025 Half-Year Report - Placera.se
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Publication of the 2025 Half-Year Report - Placera.se
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- NextDecade Announces Positive Final Investment Decision and Financial Close on Train 4 at Rio Grande LNG - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
+- ATI Chief Financial Officer Don Newman Announces Retirement - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
+- ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- DeFi Technologies Reports All-Time High in Bitcoin Assets Under Management and Treasury Holdings - Placera.se
+- Centessa Pharmaceuticals Reports Financial Results and Business Highlights for the Second Quarter of 2025 - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -110,35 +110,35 @@ _Updated: 2025-09-11 00:39_
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Samverkan - Göteborgs universitet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
 ## Science
 
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Stärkt life science-forskning är till godo för patienterna - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
@@ -146,17 +146,17 @@ _Updated: 2025-09-11 00:39_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- De gick från reko till eko - ST-tidningen
+- Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Nyheter - LRF - Lantbrukarnas Riksförbund
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
