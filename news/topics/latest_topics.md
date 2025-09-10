@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-10 15:02_
+_Updated: 2025-09-10 15:42_
 
 ## Top Stories
 
-- Ryska drönare över Polen nedskjutna - kränkte luftrum - DN
+- Drönare sköts ner – Polen åberopar Natos artikel 4 - SVT Nyheter
 - ”Mobbar som hotar folkvalda undergräver demokratin” - Västerbottens-Kuriren
-- Ebba Busch flög fram – Ulf Kristersson rättade till slipsen - GP
-- DN Direkt - Partiledardebatten: Regeringsoduglighet och kulturkrig - DN.se - DN
-- VIKTOR BARTH-KRON: Titta – här öppnar Hatt faktiskt för SD - Expressen
 - Ny person gripen efter mordet i Lammhult 2023 - SVT Nyheter
+- VIKTOR BARTH-KRON: Titta – här öppnar Hatt faktiskt för SD - Expressen
 - Mer regn väntar i Västernorrland: ”Jobbar mot klockan” - DN
-- Tidöpartierna: Straffbarhetsåldern ska sänkas till 13 år - SVT Nyheter
+- DN Direkt - Partiledardebatten: Regeringsoduglighet, kulturkrig och dörrmatta - DN.se - DN
+- Straffbarhetsåldern ska sänkas till – 13 år - SVT Nyheter
+- Ebba Busch om Lanns kollaps: ”Enkelt beslut” - GP
 - Tre döms för grova våldtäkter i stora pedofilhärvan i Sjuhärad - SVT Nyheter
-- Utkast visar: Så kan Sveriges klimatmål förändras - DN
-- Teodorescu om Israelvändningen i EU: Skamligt - GP
+- En anhållen misstänkt för dödsskjutningen i Linköping - SVT Nyheter
+- Teodorescu om Israelvändningen i EU: Skamligt - Västerbottens-Kuriren
 - IS-medlem knivdödade tre på festival – får livstid - GP
 - Macron utser ny premiärminister – Sébastien Lecornu - SVT Nyheter
-- Ukraina: 24 dödade i ryskt flygangrepp - SVT Nyheter
-- Snittet: Analytiker ser uppsida på 36 procent - EFN
-- Företagarna ifrågasätter tillfälligt sänkt arbetsgivaravgift för unga: Sluta lek jojo med företagens pengar - NewsMachine AB
+- Ursula von der Leyen: ”Vi ska bygga en drönarmur” - DN
+- Regeringen sänker arbetsgivaravgifter för unga – facket: ”Går till vinst för företagen” - Arbetet
+- Förvaltarens kritik inför IPO:n: ”Sämsta jag sett” - EFN
+- Jobbslakt hos Novo Nordisk – tusentals jobb bort - Tidningen Näringslivet
 - Nu blir det äntligen bättre ljud på Spotify - Dagens industri
-- Sparekonomen om Klarnas börsnotering: Man måste göra sin hemläxa - DN
 - Apple presenterar ny Iphone-modell – höjer priserna - EFN
 - AirPods Pro 3 vs AirPods Pro 2: så jämför sig Apples nya hörlurar med de äldre - TechRadar
 
@@ -29,22 +29,22 @@ _Updated: 2025-09-10 15:02_
 
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Techarenan News goes English (Partly at least) - Techarenan.news
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
-- Dangbei S7 Ultra Max: Cinema Projector Goes Global - Tech News Today | 2 Min News - Poddtoppen
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- HDBank, OCB, MSB och VPBank samarbetar för att främja global grön finans - Vietnam.vn
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - BIG Travel går in i globalt partnerskap - travelnews.se
 
@@ -56,7 +56,7 @@ _Updated: 2025-09-10 15:02_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The Ondas and Unusual Machines collaboration is expected to include: - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
-- Leveraging AI in Swedish Development Cooperation - FUF Föreningen för utvecklingsfrågor
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
@@ -67,13 +67,12 @@ _Updated: 2025-09-10 15:02_
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Digital Realty Launches Innovation Lab to Accelerate AI and Hybrid Cloud Implementation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
-- Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
 
 ## Business
 
-- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Publication of the 2025 Half-Year Report - Placera.se
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
@@ -81,6 +80,7 @@ _Updated: 2025-09-10 15:02_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
+- DeFi Technologies Reports All-Time High in Bitcoin Assets Under Management and Treasury Holdings - Placera.se
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
@@ -88,9 +88,9 @@ _Updated: 2025-09-10 15:02_
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Centessa Pharmaceuticals Reports Financial Results and Business Highlights for the Second Quarter of 2025 - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Centessa Pharmaceuticals Reports Financial Results and Business Highlights for the Second Quarter of 2025 - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
@@ -98,7 +98,6 @@ _Updated: 2025-09-10 15:02_
 
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
@@ -113,32 +112,33 @@ _Updated: 2025-09-10 15:02_
 - Samverkan - Göteborgs universitet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Tema: AI inom medicin och hälsa - Karolinska Institutet
-- Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Stärkt life science-forskning är till godo för patienterna - Läkartidningen
 - Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
