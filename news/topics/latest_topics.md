@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-10 09:38_
+_Updated: 2025-09-10 10:46_
 
 ## Top Stories
 
-- Ryska drönare över Polen nedskjutna - kränkte luftrum - DN
-- Novo Nordisk skär ner 9 000 tjänster - SvD
-- Tidöpartierna: Straffbarhetsåldern ska sänkas till 13 år - SVT Nyheter
-- En person skjuten till döds på Hisingen i Göteborg - GP
-- Uppdaterat: En person begärd häktad för mordförsök i Alby, Botkyrka - Åklagarmyndigheten
-- Alla regeringspartier backar – rekordlågt stöd för L - Omni
-- SVT avslöjar: Foxtrot infiltrerade Securitas - GP
+- Ryska drönare beskjutna i Polen - SVT Nyheter
+- Adam Cwejman: Ta Palestinarörelsens hot mot våra folkvalda på allvar - GP
+- Inlandsbanan håller trafiken igång när övriga banor stängs - JARNVAGSnyheter.se
+- "Jag vet inte hur jag ska säga det så jag säger det bara" - Folkbladet
+- Efter ministerns kollaps – så ska du agera om någon i din närhet svimmar - DN
+- Statsminister Ulf Kristersson presenterade förändringar i regeringen - Regeringen.se
+- SVT avslöjar: Foxtrot infiltrerade Securitas - Västerbottens-Kuriren
+- DN Direkt - S: Gör det möjligt att tvångsförvalta förskolor - DN.se - DN
+- Utkast visar: Så kan Sveriges klimatmål förändras - DN
 - Varnade för våldtäktsman – dömdes för förtal - DN
-- Så kan KD förändras i Göteborg när Lann lämnar - GP
-- Man död efter skottlossningen i Linköping - NT
-- Utrikesministern: Eskalering måste undvikas – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Faller hon i höst? EU-basen pressas i parlamentet - Västerbottens-Kuriren
-- Lojal vapendragare Macrons nye premiärminister - GP
-- Israelisk attack i Doha – fem Hamasmedlemmar döda - DN
-- Klarna sätter teckningskurs till 40 dollar per aktie – värderas till 15 miljarder dollar - Placera.se
+- EU-basen: Pausa avtalet med Israel - Västerbottens-Kuriren
+- Faller hon i höst? EU-basen pressas i parlamentet - GP
+- Protester i Gaza stad mot evakuering – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Pressträff för att presentera en budgetnyhet - Regeringen.se
+- DN Direkt - Misstänkt mordförsök i Uppsala – man knivhuggen - DN.se - DN
 - Strängare krav på öppenhet för fjärrvärmebolag - Fastighetstidningen
-- Svenskarna öste in 8 miljarder i fonder under augusti - Dagens industri
-- Klarnas börsnotering: Sebastian Siemiatkowski en gränslös ledare på väg mot sitt livs utmaning - SvD
-- Nya rekord på Wall Street – men Apple föll efter produktlansering - Dagens industri
+- Klarna sätter teckningskurs till 40 dollar per aktie – värderas till 15 miljarder dollar - Placera.se
+- Stockholmsbörsen öppnar upp – Clas Ohlson rusar på kvartalssiffror - Dagens industri
+- Nya uppgångar på Wall Street – men Apple föll efter produktlansering - Dagens industri
 - Apple försökte dölja en väldigt viktig detalj om Apple Watch Series 11 och Ultra 3 – men jag märkte det - TechRadar
 
 ## World News
 
-- Fler mammor ska överleva sin förlossning – ny global kraftsamling - Sveriges Radio
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -45,8 +44,9 @@ _Updated: 2025-09-10 09:38_
 - World Athletics introduces gene test for female category - BBC
 - Dangbei S7 Ultra Max: Cinema Projector Goes Global - Tech News Today | 2 Min News - Poddtoppen
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 
 ## Technology
 
@@ -56,9 +56,9 @@ _Updated: 2025-09-10 09:38_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - The Ondas and Unusual Machines collaboration is expected to include: - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
+- Leveraging AI in Swedish Development Cooperation - FUF Föreningen för utvecklingsfrågor
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
@@ -105,16 +105,16 @@ _Updated: 2025-09-10 09:38_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Johan von Schreeb - Karolinska Institutet
+- Osher centrum för integrativ hälsa - Karolinska Institutet
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
-- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Samverkan - Göteborgs universitet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Johan von Schreeb - Karolinska Institutet
 - Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Tema: AI inom medicin och hälsa - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
@@ -122,43 +122,43 @@ _Updated: 2025-09-10 09:38_
 - Rovtidskrifter exploaterar forskares strävan efter snabb publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - 5 myter om öppen vetenskap - Läkartidningen
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Stärkt life science-forskning är till godo för patienterna - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Olika slutsatser från samma data - Läkartidningen
+- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Program för Proof of Concept-finansiering stärker innovationer inom life science - Mynewsdesk
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- De gick från reko till eko - ST-tidningen
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
