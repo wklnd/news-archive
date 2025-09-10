@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-10 21:37_
+_Updated: 2025-09-10 22:40_
 
 ## Top Stories
 
-- Högeraktivisten Charlie Kirk skjuten under debatt i Utah - SVT Nyheter
-- Michael Winiarski: Putin vill tvinga ett bräckligt Nato att visa sina kort - DN
+- Jessica Stegrud (SD) filmade tonåringar på Centralstationen - SVT Nyheter
+- Konservative debattören Charlie Kirk skjuten i USA - Västerbottens-Kuriren
 - Varningen efter it-läckan: Därför bör du vara på din vakt - GP
-- Mordförsök utreds i Uddevalla - Aftonbladet
-- Polischefen om mordvågen: ”Mycket hänsynslöst" - SvD
-- Här deltar Jessica Stegrud (SD) i högerextremistens konfrontation - expo.se
-- Busch om ministerns svimning: ”Gjorde det jag kunde” - DN
+- Man skadades i industriområde – utreds som mordförsök - TV4 Nyheterna
 - Mer regn väntar i Västernorrland: ”Jobbar mot klockan” - DN
-- Statsminister Ulf Kristersson presenterade förändringar i regeringen - Regeringen.se
+- Michael Winiarski: Putin vill tvinga ett bräckligt Nato att visa sina kort - DN
+- "Straffbarhetsåldern ska sänkas till 13 år" - Regeringen.se
+- Busch om ministerns svimning: ”Gjorde det jag kunde” - DN
+- Valfläsk och Porschar i partiledardebatten - GP
 - Pojke häktad för skott i tunnelbanan - Västerbottens-Kuriren
-- Utrikesministern välkomnar von der Leyens besked om fryst stöd till Israel - Dagens Arena
+- Därför demonstrerar och strejkar över 100 000 i Frankrike - GP
 - Israeliska attacker mot Jemen – flera döda - Västerbottens-Kuriren
-- Israelisk attack i Doha – Hamasledare uppges dödad - GP
-- Så kan Ukraina vinna kriget - Kvartal
+- Tillståndet i EU: säkerhet, Ukraina, Gaza, konkurrenskraft och handel - European Parliament
+- Säkerhetstoppar försökte stoppa attack mot Qatar – kördes över av Netanyahu - DN
+- Från sågad pitch till Wall Street – historien om Klarna - EFN
 - Novo Nordisk avskedar 9 000 medarbetare i ett omfattande sparpaket - newsoresund.se
-- Strängare krav på öppenhet för fjärrvärmebolag - Fastighetstidningen
-- Nu blir det äntligen bättre ljud på Spotify – för premiumkunderna - Nyteknik
-- Tidöpartierna: Miljarder till jobb för unga - Omni
+- Ellison världens rikaste – petar Musk från tronen - DN
+- Nu blir det äntligen bättre ljud på Spotify - Sydsvenskan
 - Apple presenterar ny Iphone-modell – höjer priserna - EFN
-- Nya ministern ifrågasätts för abortutspel - Aftonbladet
+- Forskare har sett tecken på forntida liv på Mars - Omni
 
 ## World News
 
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Global Payments Releases 2025 Global Responsibility Report - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- UN Security Council calls emergency meeting on Gaza - Poddtoppen
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
-- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- World Athletics introduces gene test for female category - BBC
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - DO Black - the world’s first credit card with a carbon limit - mastercard.com
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
-- Alila Hotels Beckons Travelers to Experience the Luxury of Wonder Through Global Campaign, A World Awaits - Placera.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Flest coronasäkra stränder i Portugal och ny global säkerhetsmärkning - travelnews.se
 
 ## Technology
@@ -64,12 +64,12 @@ _Updated: 2025-09-10 21:37_
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
-- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Digital Realty Launches Innovation Lab to Accelerate AI and Hybrid Cloud Implementation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
+- Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
 
 ## Business
 
@@ -146,6 +146,7 @@ _Updated: 2025-09-10 21:37_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
@@ -155,7 +156,6 @@ _Updated: 2025-09-10 21:37_
 - (+) Stor undersökning av jordbruket - Arbetarskydd
 - De gick från reko till eko - ST-tidningen
 - Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
-- Små jordbruk kan mätta fler - FoodMonitor
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
