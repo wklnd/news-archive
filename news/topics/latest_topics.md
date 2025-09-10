@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-10 18:46_
+_Updated: 2025-09-10 19:38_
 
 ## Top Stories
 
-- Drönare sköts ner – Polen åberopar Natos artikel 4 - SVT Nyheter
-- Ebba Busch flög fram – Ulf Kristersson rättade till slipsen - GP
-- Boende om dödsskjutningen på Hisingen: ”Gick på sekunder” - DN
-- Här deltar Jessica Stegrud (SD) i högerextremistens konfrontation - expo.se
+- Michael Winiarski: Putin vill tvinga ett bräckligt Nato att visa sina kort - DN
+- Jessica Stegrud (SD) filmade tonåringar på Centralstationen - SVT Nyheter
+- Mordförsök utreds i Uddevalla - GP
+- En person skjuten till döds på Hisingen i Göteborg - GP
 - Mer regn väntar i Västernorrland: ”Jobbar mot klockan” - DN
-- Carl Johan von Seth: Därför kommer Trumps chocktullar att bli kvar - DN
+- Elisabet Lann efter kollapsen: ”Jag skadade mig inte” - SVT Nyheter
 - Valfläsk och Porschar i partiledardebatten - Västerbottens-Kuriren
+- Statsminister Ulf Kristersson presenterade förändringar i regeringen - Regeringen.se
 - Tre döms för grova våldtäkter i stora pedofilhärvan i Sjuhärad - SVT Nyheter
 - Två stängs av för misstänkt korruption i Malmö stad - DN
-- Misstänkt släppt efter dödsskjutningen i Linköping - SVT Nyheter
+- Därför demonstrerar och strejkar över 100 000 i Frankrike - GP
 - Europas självständighet och kursändring om Gaza: De viktigaste punkterna i EU-chefens stora tal - Altinget.se
+- DN Direkt - Israelisk attack mot Hamasledare i Doha under förhandlingar om vapenvila - DN.se - DN
 - Israeliska attacker mot Jemen – flera döda - Västerbottens-Kuriren
-- IS-medlem knivdödade tre på festival – får livstid - GP
-- Israelisk attack i Doha – fem Hamasmedlemmar döda - DN
-- Fortsatta rekordhöjningar av fjärrvärmepriser - Dagens industri
-- Klarnas aktie ser ut att rusa över 30 procent - SvD
 - Snittet: Analytiker ser uppsida på 36 procent - EFN
-- Regeringen sänker arbetsgivaravgifter för unga – facket: ”Går till vinst för företagen” - Arbetet
+- Ellison världens rikaste – petar Musk från tronen - DN
+- Fjärrvärmepriset rusar – ”aggressiva höjningar” - Tidningen Näringslivet
+- Spotify lanserar ny funktion för ljud-konnässörer - Dagens industri
 - Apple presenterar ny Iphone-modell – höjer priserna - EFN
 - Atari släpper metroidvania samtidigt som Silksong – med Steam-topp på 15 spelare - FZ.se
 
@@ -64,63 +64,63 @@ _Updated: 2025-09-10 18:46_
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
+- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Digital Realty Launches Innovation Lab to Accelerate AI and Hybrid Cloud Implementation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
-- Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
 
 ## Business
 
-- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Publication of the 2025 Half-Year Report - Placera.se
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Publication of the 2025 Half-Year Report - Placera.se
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- NextDecade Announces Positive Final Investment Decision and Financial Close on Train 4 at Rio Grande LNG - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - ATI Chief Financial Officer Don Newman Announces Retirement - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
+- Centessa Pharmaceuticals Reports Financial Results and Business Highlights for the Second Quarter of 2025 - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 
 ## Health
 
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Osher centrum för integrativ hälsa - Karolinska Institutet
 - Fakulteten för hälsa och samhälle - Malmö universitet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Samverkan - Göteborgs universitet
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Miljardinvestering ökar takten i GoCo Health Innovation City – näringslivets tungviktare, sjukvården och akademin i storsatsning på forskningskluster i göteborgsregionen. - Mynewsdesk
 
 ## Science
 
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
@@ -138,7 +138,7 @@ _Updated: 2025-09-10 18:46_
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 
 ## Jordbruk
 
@@ -146,17 +146,17 @@ _Updated: 2025-09-10 18:46_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- De gick från reko till eko - ST-tidningen
+- Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
+- Små jordbruk kan mätta fler - FoodMonitor
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Nyheter - LRF - Lantbrukarnas Riksförbund
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
