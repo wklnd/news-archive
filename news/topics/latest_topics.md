@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-10 06:41_
+_Updated: 2025-09-10 07:40_
 
 ## Top Stories
 
 - Ryska drönare över Polen nedskjutna - kränkte luftrum - DN
 - Uppdaterat: En person begärd häktad för mordförsök i Alby, Botkyrka - Åklagarmyndigheten
 - En person skjuten till döds på Hisingen i Göteborg - GP
-- Hon blir ny sjukvårdsminister: ”Vi behöver växla upp” - Altinget.se
-- Tidöpartierna: Straffbarhetsåldern sänks till 13 år - SVT Nyheter
+- Så kan KD förändras i Göteborg när Lann lämnar - GP
+- Palestinaaktivismen hotar demokratins kärna - UNT
 - Pressträff för att presentera en budgetnyhet - Regeringen.se
+- SVT avslöjar: Foxtrot infiltrerade Securitas - Västerbottens-Kuriren
+- ”Jag ringde mamma och tog farväl” – nu hjälper Kristoffer andra med psykisk ohälsa - DN
 - En man i 30-årsåldern död efter skottlossning i Linköping - SVT Nyheter
-- C-ledamot: För SD kommer etnicitet alltid först - Altinget.se
-- Statsminister Ulf Kristersson presenterade förändringar i regeringen - Regeringen.se
-- Explosioner i Doha i Qatar – Israel ska ha försökt attackera Hamas - SVT Nyheter
-- Trumps krav på EU: ”Frågan är om de har viljan” - Expressen
+- DN Direkt - Äldre man död i Skurup – mord utreds - DN.se - DN
+- Faller hon i höst? EU-basen pressas i parlamentet - Västerbottens-Kuriren
 - Ukraina: 23 civila dödade i ryskt flygangrepp - SVT Nyheter
-- Lojal vapendragare Macrons nye premiärminister - Västerbottens-Kuriren
-- Klarna värderas till 140 miljarder kronor - SvD
+- Israelisk attack i Doha – Hamasledare uppges dödad - GP
+- Macron utser ny premiärminister – Sébastien Lecornu - SVT Nyheter
+- Klarna höjer priset – värderas till 142 miljarder kronor - Dagens industri
+- Jobbslakt hos Novo Nordisk – tusentals jobb bort - Aftonbladet
 - Strängare krav på öppenhet för fjärrvärmebolag - Fastighetstidningen
-- Inför Fed-beskedet: Landeborn om aktierna som kan lyfta - Dagens PS
-- Efter regeländringen – många nyttjar ROT-avdraget: ”Redan nått max” - Mariestads-Tidningen
+- Klarnas börsnotering: Sebastian Siemiatkowski en gränslös ledare på väg mot sitt livs utmaning - SvD
 - Nya rekord på Wall Street – men Apple föll efter produktlansering - Dagens industri
 - Silksong blir lättare i början efter första patchen - FZ.se
-- AirPods Pro 3 vs AirPods Pro 2: så jämför sig Apples nya hörlurar med de äldre - TechRadar
 
 ## World News
 
@@ -73,26 +73,26 @@ _Updated: 2025-09-10 06:41_
 
 ## Business
 
-- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Publication of the 2025 Half-Year Report - Placera.se
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Publication of the 2025 Half-Year Report - Placera.se
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- NextDecade Announces Positive Final Investment Decision and Financial Close on Train 4 at Rio Grande LNG - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -146,19 +146,19 @@ _Updated: 2025-09-10 06:41_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- De gick från reko till eko - ST-tidningen
 - OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
