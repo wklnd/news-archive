@@ -1,42 +1,42 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-10 12:41_
+_Updated: 2025-09-10 13:38_
 
 ## Top Stories
 
 - Ryska drönare över Polen nedskjutna - kränkte luftrum - DN
-- Adam Cwejman: Ta Palestinarörelsens hot mot våra folkvalda på allvar - GP
-- Efter ministerns kollaps – så ska du agera om någon i din närhet svimmar - DN
-- Utrikesministern välkomnar von der Leyens besked om fryst stöd till Israel - Dagens Arena
-- Stort utbrott av magsjuka på grundskola i Växjö - SVT Nyheter
-- SVT avslöjar: Foxtrot-allierad infiltrerade Securitas i fem år - Affärsvärlden
+- Carl-Oskar Bohlin förföljd av Palestinademonstranter - SVT Nyheter
+- Ebba Busch om Lanns kollaps: ”Enkelt beslut” - GP
+- Ny person gripen efter mordet i Lammhult 2023 - SVT Nyheter
+- Barnens skolväg klövs itu av regnet: ”Helt galet” - Västerbottens-Kuriren
+- Tidöpartierna: Straffbarhetsåldern ska sänkas till 13 år - SVT Nyheter
+- Partiledardebatt i riksdagen - Omni
+- Salmonellautbrottet växer – 33 personer smittade - GP
 - Utkast visar: Så kan Sveriges klimatmål förändras - DN
-- Varnade för våldtäktsman – dömdes för förtal - DN
-- 33 personer smittade med salmonella - Katrineholms-Kuriren
-- Bortglömd järnväg räddningen efter ovädret - DN
-- Lojal vapendragare Macrons nye premiärminister - GP
-- Ukraina: 24 dödade i ryskt flygangrepp - SVT Nyheter
-- Ursula von der Leyen: ”Vi ska bygga en drönarmur” - DN
-- Protester i Gaza stad mot evakuering – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Regeringen vill sänka arbetsgivaravgiften för unga - DN
+- UG: Foxtrot hade hemlig kontakt på Securitas - Aftonbladet
+- EU-toppen: Pausa handelsavtalet med Israel - DN
+- IS-medlem knivdödade tre på festival – får livstid - GP
+- Macron utser ny premiärminister – Sébastien Lecornu - SVT Nyheter
+- von der Leyen: EU fryser utbetalningar till Israel – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Företagarna ifrågasätter tillfälligt sänkt arbetsgivaravgift för unga: Sluta lek jojo med företagens pengar - NewsMachine AB
 - Experten: Lågt aktiepris – men finns andra drivkrafter - EFN
+- Dalsland har Västra Götalands näst dyraste fjärrvärme - prisökningar upp till 67 % på fem år - Via TT
 - Analytiker gillar Novo Nordisk: "Läckor har sannolikt tyngt aktien" - Placera.se
-- Alla anställda erbjuds köpa Meds aktier: Det blir jätteroligt - Svensk Farmaci
-- Nya uppgångar på Wall Street – men Apple föll efter produktlansering - Dagens industri
-- Atari släpper metroidvania samtidigt som Silksong – med Steam-topp på 15 spelare - FZ.se
+- Apple presenterar ny Iphone-modell – höjer priserna - EFN
+- Nya Magsafe-batteripack, men fungerar bara med Iphone Air - Macworld.se
 
 ## World News
 
+- Fler mammor ska överleva sin förlossning – ny global kraftsamling - Sveriges Radio
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
@@ -89,15 +89,16 @@ _Updated: 2025-09-10 12:41_
 - DeFi Technologies Reports All-Time High in Bitcoin Assets Under Management and Treasury Holdings - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
 
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
@@ -112,33 +113,32 @@ _Updated: 2025-09-10 12:41_
 - Samverkan - Göteborgs universitet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Tema: AI inom medicin och hälsa - Karolinska Institutet
+- Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
 - Rovtidskrifter exploaterar forskares strävan efter snabb publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Stärkt life science-forskning är till godo för patienterna - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
