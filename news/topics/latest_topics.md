@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-10 17:40_
+_Updated: 2025-09-10 18:46_
 
 ## Top Stories
 
-- Elisabet Lann efter kollapsen: ”Jag skadade mig inte” - SVT Nyheter
-- Ryska drönare över Polen nedskjutna - kränkte luftrum - DN
-- Jag blev skuldbelagd för jag flög från Skellefteå till Stockholm - Norran
-- ”Mobbar som hotar folkvalda undergräver demokratin” - Västerbottens-Kuriren
-- Barnens skolväg klövs itu: "Helt galet" - GP
+- Drönare sköts ner – Polen åberopar Natos artikel 4 - SVT Nyheter
+- Ebba Busch flög fram – Ulf Kristersson rättade till slipsen - GP
+- Boende om dödsskjutningen på Hisingen: ”Gick på sekunder” - DN
+- Här deltar Jessica Stegrud (SD) i högerextremistens konfrontation - expo.se
+- Mer regn väntar i Västernorrland: ”Jobbar mot klockan” - DN
 - Carl Johan von Seth: Därför kommer Trumps chocktullar att bli kvar - DN
 - Valfläsk och Porschar i partiledardebatten - Västerbottens-Kuriren
 - Tre döms för grova våldtäkter i stora pedofilhärvan i Sjuhärad - SVT Nyheter
 - Två stängs av för misstänkt korruption i Malmö stad - DN
-- En anhållen misstänkt för dödsskjutningen i Linköping - SVT Nyheter
-- Teodorescu om Israelvändningen i EU: Skamligt - GP
-- Israel har attackerat Jemens huvudstad - Västerbottens-Kuriren
-- Sébastien Lecornu ny premiärminister i Frankrike - DN
-- IS-medlem knivdödade tre på festival – får livstid - Västerbottens-Kuriren
-- Första indikation om Klarnas noteringskurs – ser ut att rusa över 25 procent - Dagens industri
+- Misstänkt släppt efter dödsskjutningen i Linköping - SVT Nyheter
+- Europas självständighet och kursändring om Gaza: De viktigaste punkterna i EU-chefens stora tal - Altinget.se
+- Israeliska attacker mot Jemen – flera döda - Västerbottens-Kuriren
+- IS-medlem knivdödade tre på festival – får livstid - GP
+- Israelisk attack i Doha – fem Hamasmedlemmar döda - DN
+- Fortsatta rekordhöjningar av fjärrvärmepriser - Dagens industri
+- Klarnas aktie ser ut att rusa över 30 procent - SvD
 - Snittet: Analytiker ser uppsida på 36 procent - EFN
 - Regeringen sänker arbetsgivaravgifter för unga – facket: ”Går till vinst för företagen” - Arbetet
-- MEDS avser att notera sina aktier på Nasdaq First North Premier Growth Market (MFN) - Aktiellt
 - Apple presenterar ny Iphone-modell – höjer priserna - EFN
-- AirPods Pro 3 vs AirPods Pro 2: så jämför sig Apples nya hörlurar med de äldre - TechRadar
+- Atari släpper metroidvania samtidigt som Silksong – med Steam-topp på 15 spelare - FZ.se
 
 ## World News
 
@@ -41,7 +41,7 @@ _Updated: 2025-09-10 17:40_
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - World Athletics introduces gene test for female category - BBC
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -73,26 +73,26 @@ _Updated: 2025-09-10 17:40_
 
 ## Business
 
+- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Publication of the 2025 Half-Year Report - Placera.se
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
-- DeFi Technologies Reports All-Time High in Bitcoin Assets Under Management and Treasury Holdings - Placera.se
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Publication of the 2025 Half-Year Report - Placera.se
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- NextDecade Announces Positive Final Investment Decision and Financial Close on Train 4 at Rio Grande LNG - Placera.se
+- ATI Chief Financial Officer Don Newman Announces Retirement - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Centessa Pharmaceuticals Reports Financial Results and Business Highlights for the Second Quarter of 2025 - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 
 ## Health
 
@@ -108,44 +108,43 @@ _Updated: 2025-09-10 17:40_
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Miljardinvestering ökar takten i GoCo Health Innovation City – näringslivets tungviktare, sjukvården och akademin i storsatsning på forskningskluster i göteborgsregionen. - Mynewsdesk
 
 ## Science
 
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Stärkt life science-forskning är till godo för patienterna - Läkartidningen
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- Forskning: Åkerbönan kartlagd – stor potential för svenskt lantbruk - food-supply.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
@@ -162,3 +161,4 @@ _Updated: 2025-09-10 17:40_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk
