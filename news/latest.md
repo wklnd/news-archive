@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-10 22:48_
+_Updated: 2025-09-10 23:48_
 
-- Charlie Kirk: Trump ally shot at campus event in Utah - BBC
-- What to know as Poland invokes NATO Article 4, citing Russian drone violation - The Washington Post
+- Charlie Kirk: Trump ally shot dead at campus event in Utah - BBC
+- Trump Weighs In on Russian Drone NATO Incursion, but Doesn’t Condemn It - The Wall Street Journal
 - Former top FBI officials sue, say Kash Patel fired them to stay in Trump's good graces - NBC News
-- 'Recklessness': Kamala Harris turns on Joe Biden in new book - ABC News
-- Trump demands death penalty for Charlotte stabbing suspect - Axios
-- Who else appears in Jeffrey Epstein’s 50th birthday book? - PBS
-- Trump is fine with letting his DC police takeover lapse, White House officials say - CNN
-- Children’s literature professor fired by Texas university over ‘gender’ content - The Guardian
+- Harris says it was ‘recklessness’ to defer to Bidens on reelection decision - The Washington Post
+- Charlotte light rail stabbing: Trump demands death penalty for suspect - ABC News
+- Trump’s signature under new scrutiny thanks to the Epstein case - PBS
+- Supreme Court allows transgender student to use boys' restrooms at S.C. school - NBC News
+- Trump's controversial takeover of Washington DC police set to expire - BBC
+- Texas A&M professor fired after video shows classroom confrontation over gender identity coursework - AP News
 - 1.6M fewer US immigrants expected this year amid Trump, GOP policies, CBO predicts - Politico
-- It is now peak hurricane season: What to expect for storms in the Atlantic - ABC News
-- Canada is evaluating ties with Israel after Qatar attack: Foreign minister - Al Jazeera
-- EU is unlikely to hike tariffs on India, China at Trump's request - Reuters
-- Incendiary Munitions Strike Gaza-bound Flotilla Two Nights in a Row - Bellingcat
-- Prince Harry Reunites With King Charles for First Time in Over a Year - The New York Times
-- Oracle's Larry Ellison surpasses Elon Musk as world's richest man - BBC
+- Senior Hamas officials likely survived Israeli strikes on Doha, Israeli sources say - ABC News
+- Prince Harry meets King Charles for first time in over a year - BBC
+- ‘This is our revolution. It’s our turn now’: Nepal’s ‘gen Z protesters’ speak out against corruption - The Guardian
+- 'Block Everything' protests sweep France, intensifying pressure on Macron - NBC News
+- Musk loses crown as world's richest to software giant Larry Ellison in new Bloomberg ranking - AP News
 - Oracle Shares Skyrocket as Software Giant Scores Massive AI Deals - The Wall Street Journal
-- Klarna’s IPO pops, raising $1.4B, with Sequoia as the biggest winner - TechCrunch
+- Klarna IPO: Stock Climbs 15% in Trading Debut - Barron's
 - Labor Department watchdog opens probe of BLS jobs, inflation data collection - CNBC
 - Apple Events live updates: iPhone 17, iPhone Air, AirPods Pro 3, and reactions to new wearables - ZDNET
-- Spotify peeved after 10,000 users sold data to build AI tools - Ars Technica
+- Spotify is finally launching support for lossless music streaming - TechCrunch
