@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-10 23:37_
+_Updated: 2025-09-11 00:39_
 
 ## Top Stories
 
-- Konservative debattören Charlie Kirk skjuten i USA - Västerbottens-Kuriren
+- Högerdebattören Charlie Kirk ihjälskjuten i USA - Västerbottens-Kuriren
 - Varningen efter it-läckan: Därför bör du vara på din vakt - GP
 - Misstänkt mordförsök på industriområde i Uddevalla - SVT Nyheter
-- Elisabet Lann: ”Inte den entré som jag hade planerat för” - GP
-- Michael Winiarski: Putin vill tvinga ett bräckligt Nato att visa sina kort - DN
-- DN Direkt - Minst två skadade i skolskjutning i Denver - DN
-- Jessica Stegrud (SD) filmade tonåringar på Centralstationen - SVT Nyheter
-- "Straffbarhetsåldern ska sänkas till 13 år" - Regeringen.se
 - Mer regn väntar i Västernorrland: ”Jobbar mot klockan” - DN
+- Kyrkovalet – ett uttryck för Svenska kyrkans partipolitisering - Med Israel för fred
+- Elisabet Lann efter kollapsen: ”Jag skadade mig inte” - SVT Nyheter
+- Jessica Stegrud (SD) filmade tonåringar på Centralstationen - SVT Nyheter
 - Pojke häktad för skott i tunnelbanan - Västerbottens-Kuriren
-- Europas självständighet och kursändring om Gaza: Här är de viktigaste punkterna i EU-chefens stora tal - Altinget.se
+- "Straffbarhetsåldern ska sänkas till 13 år" - Regeringen.se
+- Elektronikjättens gravidkampanj väcker ilska: ”Smaklöst” - DN
 - Därför demonstrerar och strejkar över 100 000 i Frankrike - GP
-- Israeliska attacker mot Jemen – flera döda - Västerbottens-Kuriren
-- Netanyahu hotar Qatar: ”Utvisa terrorister” - Corren
-- Klarnas aktie ser ut att rusa med 30 procent - SVT Nyheter
+- Karlskrona kommun stoppar barnens minnesresa – oro i Polen efter ryska drönare - SVT Nyheter
+- Tillståndet i EU: säkerhet, Ukraina, Gaza, konkurrenskraft och handel - European Parliament
+- Netanyahu hotar Qatar: ”Utvisa terrorister” - Västerbottens-Kuriren
+- Från sågad pitch till Wall Street – historien om Klarna - EFN
 - Novo Nordisk avskedar 9 000 medarbetare i ett omfattande sparpaket - newsoresund.se
 - Elon Musk omsprungen – Larry Ellison är världens rikaste man - Placera.se
 - Nu blir det äntligen bättre ljud på Spotify - Sydsvenskan
 - Apple presenterar ny Iphone-modell – höjer priserna - EFN
-- Forskare har sett tecken på forntida liv på Mars - Omni
+- Forskare har hittat tecken på tidigare liv på Mars - DN
 
 ## World News
 
@@ -59,17 +59,17 @@ _Updated: 2025-09-10 23:37_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
-- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Digital Realty Launches Innovation Lab to Accelerate AI and Hybrid Cloud Implementation - Placera.se
-- Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
+- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
+- Fosun Pharmaceutical Deeply Embraces AI, Self-developed PharmAID Decision Intelligence Platform Boosts Efficient Innovation - Placera.se
 
 ## Business
 
@@ -102,43 +102,43 @@ _Updated: 2025-09-10 23:37_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
-- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Johan von Schreeb - Karolinska Institutet
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
+- Osher centrum för integrativ hälsa - Karolinska Institutet
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
-- Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Samverkan - Göteborgs universitet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Stärkt life science-forskning är till godo för patienterna - Läkartidningen
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
@@ -146,17 +146,17 @@ _Updated: 2025-09-10 23:37_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- De gick från reko till eko - ST-tidningen
-- Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
+- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
