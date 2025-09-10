@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-10 16:48_
+_Updated: 2025-09-10 17:48_
 
-- Poland Says It Shot Down Russian Drones That Entered Its Airspace - The New York Times
-- Israel attacks Hamas leadership in Qatar: What we know - Al Jazeera
+- NATO downs Russian drones over Poland after 'unprecedented' aggression - ABC News
 - Trump blames Democrats for Charlotte stabbing. Records complicate the story. - The Washington Post
-- Chicago immigration enforcement surge begins with 3 arrests: ICE - ABC News
-- Army tries to restore order in Nepal after protest violence intensifies - Politico
-- In new book, Kamala Harris says it was reckless to let Biden make reelection decision on his own - CNN
-- Trump's control of the D.C. police is due to expire tonight. Then what? - NPR
-- Delayed Release of Workers Detained in Georgia Raid Fuels Anger in Korea - The New York Times
-- Boston Mayor Michelle Wu and challenger Josh Kraft advance to one-on-one general election - NBC News
+- Trump greeted by protesters in D.C. restaurant where he had dinner but cheers outside - CBS News
+- Vance defends strike on suspected smugglers off Venezuela but concedes 'due process concerns' - Politico
+- On Chicago's first full day of 'Operation Midway Blitz,' fear, tension and a 'reality show' - Chicago Sun-Times
+- Israel attacks Hamas leadership in Qatar: What we know - Al Jazeera
+- One of Trump’s Powers Over D.C. Reaches a Time Limit. Many Remain. - The New York Times
 - Democrats embrace government shutdowns in Trump 2.0 - Axios
-- Trump Floats New Tariffs on China, India to Squeeze Russia - Bloomberg.com
-- France hit by protests as Prime Minister Sébastien Lecornu takes office - BBC
-- France Braces for Protests - The New York Times
+- Plans in the works for Korean workers detained in raid to go home while fear lingers for residents - AP News
+- Kamala Harris Decries “Recklessness” In Joe Biden’s Decision To Run In 2024 And Remain In Race For So Long - Deadline
+- ‘This is our revolution. It’s our turn now’: Nepal’s ‘gen Z protesters’ speak out against corruption - The Guardian
+- Von der Leyen proposes halt to 'all payments' to Israel - Euronews.com
+- French police arrest dozens as 'Block Everything' protests escalate - Euronews.com
+- Donald Trump tells EU to hit China and India with 100% tariffs to pressure Vladimir Putin - Financial Times
+- Elon Musk is on the cusp of losing his title as world’s richest person - CNN
 - Who is Lachlan Murdoch, the anointed media tycoon? - NPR
 - US Producer Prices Unexpectedly Drop, First Decline Since April - Bloomberg.com
-- The U.S. economy actually grew by nearly a million fewer jobs than previously thought, and it shows 'AI is automating away tech jobs,' economist says - Fortune
-- JPMorgan CEO Jamie Dimon warns of a cloudy US economic outlook - Reuters
+- Court rules Lisa Cook can remain a Fed governor while fighting Trump’s attempt to fire her - AP News
 - The Morning After: Hands-on with the iPhone Air, iPhone 17 Pro, AirPods Pro 3 and more - Engadget
-- AirPods Pro 3 have less overall battery life than AirPods Pro 2 - 9to5Mac
-- Apple Announces Apple Watch Series 11 with 24-Hour Battery Life - IGN
+- Spotify is finally launching support for lossless music streaming - TechCrunch
