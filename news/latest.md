@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-10 18:51_
+_Updated: 2025-09-10 19:48_
 
 - 'Here we go': Trump reacts after Russian drones shot down over Poland - ABC News
 - Trump jeered by protesters as he dines at Washington DC restaurant - The Guardian
-- Harris' new book rips open old wounds over Biden's 2024 decision - Politico
+- Former top FBI officials sue, say Kash Patel fired them to stay in Trump's good graces - NBC News
+- Kamala Harris: Joe Biden's re-election bid was 'recklessness' - BBC
 - Trump blames Democrats for Charlotte stabbing. Records complicate the story. - The Washington Post
-- Vance defends strike on suspected smugglers off Venezuela but concedes 'due process concerns' - Politico
-- Oil prices up $1 after Israeli attacks, but oversupply caps gains - Reuters
-- Trump is fine with letting his DC police takeover lapse, White House officials say - CNN
-- Delayed Release of Workers Detained in Georgia Raid Fuels Anger in Korea - The New York Times
+- Trump's strike on alleged Venezuelan drug boat raises questions about his use of military power - AP News
+- Live updates: Trump’s emergency order over Washington, D.C., set to expire - AP News
+- Top Democratic leaders will meet Wednesday afternoon to plot shutdown strategy - Politico
 - Johnson backs Virginia wind project in break with Trump - Politico
-- Democrats retake Connolly’s seat in Virginia’s 11th Congressional District special election - Virginia Mercury
-- ‘This is our revolution. It’s our turn now’: Nepal’s ‘gen Z protesters’ speak out against corruption - The Guardian
+- Delayed Release of Workers Detained in Georgia Raid Fuels Anger in Korea - The New York Times
+- Israel threatens ‘enemies everywhere’ after strike against Hamas in Qatar - The Washington Post
+- Who’s leading Nepal after Oli resignation, what’s next for Gen Z protests? - Al Jazeera
 - South Korean Woman Cleared Decades After Biting Attacker’s Tongue During Attempted Rape - The New York Times
-- France hit by protests as Prime Minister Sébastien Lecornu takes office - BBC
-- Larry Ellison eclipses Elon Musk as world's richest person - NBC News
+- French police arrest dozens as 'Block Everything' protests escalate - Euronews.com
+- Oracle's Larry Ellison surpasses Elon Musk as world's richest man - BBC
+- Oracle Shares Skyrocket as Software Giant Scores Massive AI Deals - The Wall Street Journal
+- Klarna IPO: Stock Soars 30% in Trading Debut - Barron's
 - Who is Lachlan Murdoch, the anointed media tycoon? - NPR
-- Court rules Lisa Cook can remain a Fed governor while fighting Trump’s attempt to fire her - AP News
-- Ozempic Maker Novo Nordisk to Cut 9,000 Jobs, Around 11% of Workforce - The Wall Street Journal
-- The Morning After: Hands-on with the iPhone Air, iPhone 17 Pro, AirPods Pro 3 and more - Engadget
-- Spotify Adds Lossless Audio for Premium Users - Pitchfork
-- Apple is giving iPhone 14 and 15 users another free year of satellite features - The Verge
+- Apple Events live updates: iPhone 17, iPhone Air, AirPods Pro 3, and reactions to new wearables - ZDNET
+- Apple reveals AirPods Pro 3 and upgrades its watches - and you can preorder them today - Fox News
