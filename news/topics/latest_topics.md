@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-11 05:48_
+_Updated: 2025-09-11 06:42_
 
 ## Top Stories
 
 - Högerkommentatorn Charlie Kirk skjuten under debatt i USA - GP
-- Explosion vid villa i Södertälje - SVT Nyheter
-- Domare: Bolsonaromål politiskt - GP
+- ”Tror de att jag gömmer mig här i Ukraina?” - SvD
+- Stefan Sundström gräver i arv och minnen i sin nya bok - Sveriges Radio
 - ”Ska vi amortera lånet – eller spara pengarna?” - DN
-- Varningen efter it-läckan: Därför bör du vara på din vakt - GP
-- Forskare: Företagen som gör värmeböljorna värre - Aftonbladet
-- INSÄNDARE: Svenska kyrkan ska vara en röst för solidaritet - Blekinge Läns Tidning
-- Mer regn väntar i Västernorrland: ”Jobbar mot klockan” - DN
-- Ebba Busch flög fram – Ulf Kristersson rättade till slipsen - GP
-- Explosion vid lägenhetshus i Linköping - SVT Nyheter
-- Stora protester i Frankrike – 80 000 poliser mobiliserade - SVT Nyheter
-- Trump om ryska drönarna i Polen: "Vad är grejen?" - GP
-- Europas självständighet och kursändring om Gaza: Här är de viktigaste punkterna i EU-chefens stora tal - Altinget.se
 - WHO:s arbetare stannar i Gaza stad - Västerbottens-Kuriren
+- Varningen efter it-läckan: Därför bör du vara på din vakt - GP
+- Fortsatt dyster arbetsmarknad - Västerbottens-Kuriren
+- Varför vänta ett år på att få börja jobba? - Kyrkans Tidning
+- Mer regn väntar i Västernorrland: ”Jobbar mot klockan” - DN
+- Explosion vid lägenhetshus i Linköping - SVT Nyheter
+- Karlskrona kommun stoppar barnens minnesresa – oro i Polen efter ryska drönare - SVT Nyheter
+- Därför demonstrerar och strejkar över 100 000 i Frankrike - GP
+- Säkerhetstoppar försökte stoppa attack mot Qatar – kördes över av Netanyahu - DN
+- Europas självständighet och kursändring om Gaza: Här är de viktigaste punkterna i EU-chefens stora tal - Altinget.se
 - Trumps omsvängning banade väg för Klarnas notering - Dagens industri
 - Elon Musk – inte längre världens rikaste person - GP
 - Nu blir det äntligen bättre ljud på Spotify - UNT
 - Svensk Handel välkomnar sänkta arbetsgivaravgifter för unga - Svensk Handel
 - Apple presenterar ny Iphone-modell – höjer priserna - EFN
-- Nasa: Möjligt tecken på tidigare liv på mars - Aftonbladet
+- Tecken hittat på tidigare liv på mars - SvD
 
 ## World News
 
@@ -51,10 +51,10 @@ _Updated: 2025-09-11 05:48_
 ## Technology
 
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
-- The Ondas and Unusual Machines collaboration is expected to include: - Placera.se
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- The Ondas and Unusual Machines collaboration is expected to include: - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
@@ -73,26 +73,26 @@ _Updated: 2025-09-11 05:48_
 
 ## Business
 
-- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Publication of the 2025 Half-Year Report - Placera.se
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
+- Publication of the 2025 Half-Year Report - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- NextDecade Announces Positive Final Investment Decision and Financial Close on Train 4 at Rio Grande LNG - Placera.se
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- ATI Chief Financial Officer Don Newman Announces Retirement - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 
 ## Health
 
@@ -122,18 +122,18 @@ _Updated: 2025-09-11 05:48_
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Studie om mikroplast fälld för fusk - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
@@ -154,8 +154,8 @@ _Updated: 2025-09-11 05:48_
 - Här är världens största jordbruk - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Nyheter - LRF - Lantbrukarnas Riksförbund
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
