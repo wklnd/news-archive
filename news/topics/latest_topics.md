@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-11 08:48_
+_Updated: 2025-09-11 09:38_
 
 ## Top Stories
 
-- Ebba Busch om Charlie Kirk: Förfärad och bestört - GP
-- Kan få fängelse i Sverige – strider nu för Ukraina - SvD
+- Högerkommentatorn Charlie Kirk skjuten under debatt i USA - GP
+- Svenska fotbollsprofilen strider för Ukraina - GP
+- Hamnkonflikt över – tecknar avtal - Västerbottens-Kuriren
 - Mer regn väntar i Västernorrland: ”Jobbar mot klockan” - DN
 - WHO kvar i Gaza stad – trots evakueringsorder – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Gazafotograf fruktar för sitt liv efter artiklar - Aftonbladet
-- Inför finalen av ”Downton Abbey” – Julian Fellowes om hur det började - Sveriges Radio
+- Budgetpaket för att förebygga kriminalitet hos barn och unga - Regeringen.se
 - Fejk-Labubus kan innehålla farliga kemikalier - DN
-- Fortsatt dyster arbetsmarknad - GP
+- Fortsatt dyster arbetsmarknad - Folkbladet
 - ”Gör kyrkan till en bättre arbetsplats – rösta i kyrkovalet” - Arbetet
-- 11 september 00.19, Explosion, Linköping - polisen.se
+- Inför finalen av ”Downton Abbey” – Julian Fellowes om hur det började - Sveriges Radio
 - Uppgifter: Ryssland siktade på Ukraina-nav i Polen - Västerbottens-Kuriren
 - Stora protester i Frankrike – 80 000 poliser mobiliserade - SVT Nyheter
-- Netanyahu hotar Qatar: ”Utvisa terrorister” - GP
 - DN Direkt - Förste domaren fäller Bolsonaro för kuppförsök - DN
-- Inflationstakten i augusti justeras ned - Dagens industri
-- Från sågad pitch till Wall Street – historien om Klarna - EFN
+- Netanyahu hotar Qatar: ”Utvisa terrorister” - GP
+- Matpriserna sjunker – första gången i år - SvD
+- Trumps omsvängning banade väg för Klarnas notering - Dagens industri
 - Elon Musk – inte längre världens rikaste person - GP
-- Svensk Handel välkomnar sänkta arbetsgivaravgifter för unga - Svensk Handel
-- Apple presenterar ny Iphone-modell – höjer priserna - EFN
+- Svenska succébolaget rider på försvarsvågen – nobbar börsen - Affärsvärlden
 - STANNA HEMMA: Covid-19 sprids – läkarens uppmaning: ”Kommer öka” - NWT
+- Tecken hittat på tidigare liv på mars - SvD
 
 ## World News
 
@@ -36,6 +36,7 @@ _Updated: 2025-09-11 08:48_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - News of the Worlds reportrar kan få nya jobb - Journalisten
@@ -44,7 +45,6 @@ _Updated: 2025-09-11 08:48_
 - DO Black - the world’s first credit card with a carbon limit - mastercard.com
 - Alila Hotels Beckons Travelers to Experience the Luxury of Wonder Through Global Campaign, A World Awaits - Placera.se
 - Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
-- 1 426 potential victims identified in global operation against human trafficking - Europol
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Flest coronasäkra stränder i Portugal och ny global säkerhetsmärkning - travelnews.se
 
@@ -73,26 +73,26 @@ _Updated: 2025-09-11 08:48_
 
 ## Business
 
-- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Publication of the 2025 Half-Year Report - Placera.se
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- Publication of the 2025 Half-Year Report - Placera.se
+- NextDecade Announces Positive Final Investment Decision and Financial Close on Train 4 at Rio Grande LNG - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
+- ATI Chief Financial Officer Don Newman Announces Retirement - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
+- ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- DeFi Technologies Reports All-Time High in Bitcoin Assets Under Management and Treasury Holdings - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -123,22 +123,22 @@ _Updated: 2025-09-11 08:48_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Stärkt life science-forskning är till godo för patienterna - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
 
