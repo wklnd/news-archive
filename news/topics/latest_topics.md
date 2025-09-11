@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-11 10:45_
+_Updated: 2025-09-11 11:40_
 
 ## Top Stories
 
 - Charlie Kirk: Han fick unga att älska Trump - Västerbottens-Kuriren
+- Nytt kollektivavtal i svenska hamnar – konflikt över - Omni
 - Jessica Stegrud (SD) filmade tonåringar på Centralstationen - SVT Nyheter
-- Hamnarbetarförbundet avslutar konflikt ”Kommer inte längre” - Arbetet
-- ”Maffians Bankir” gripen – efter 18 månader på flykt - GP
-- Militärexpert: ”Ryssland vill skrämma till fred” - DN
+- Brukare om hemtjänsten i Uddevalla: ”Jag vågar inte trycka på larmet” - DN
 - Insändare: Värna skogen - använd din röst i kyrkovalet - NWT
-- Fejk-Labubus kan innehålla farliga kemikalier - DN
-- Inför finalen av ”Downton Abbey” – Julian Fellowes om hur det började - Sveriges Radio
+- Qatar bjuder in gulfstater till möte i Doha – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Fejk-Labubus kan skada – så ser du om den är äkta - Västerbottens-Kuriren
+- Hjälp från MSB på plats i Örnsköldsvik - GP
 - 11 september 00.19, Explosion, Linköping - polisen.se
-- Fortsatt dyster arbetsmarknad - TTELA
-- Hamas vill fortsätta samtal om vapenvila – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Varningen efter it-läckan: Därför bör du vara på din vakt - GP
+- Uppgifter: Ryssland siktade på Ukraina-nav i Polen - DN
+- Lik hittade i frysboxar i Finland - Västerbottens-Kuriren
 - Därför demonstrerar och strejkar över 100 000 i Frankrike - GP
-- Netanyahu hotar Qatar: ”Utvisa terrorister” - Västerbottens-Kuriren
-- DN Direkt - Förste domaren fäller Bolsonaro för kuppförsök - DN
-- Inflationstakten i augusti justeras ned - Dagens industri
-- Norén om Klarnas börsnotering: ”En nesa för Stockholmsbörsen” - SVT Nyheter
-- Ny vd för Investor-ägda bolaget Laborie - Dagens industri
-- Svenska succébolaget rider på försvarsvågen – nobbar börsen - Affärsvärlden
-- Trenden: Covidsmittan fortsätter att öka - Aftonbladet
+- Säkerhetstoppar försökte stoppa attack mot Qatar – kördes över av Netanyahu - DN
+- Matpriserna sjunker – första gången i år - SvD
+- Börssuccén mattades av – det blev Klarnas stängningskurs - Dagens industri
+- Arbetslösheten ökade till 7 procent i augusti - Omni
+- Chris Smith ny vd för Laborie - Cision News
+- STANNA HEMMA: Covid-19 sprids – läkarens uppmaning: ”Kommer öka” - NWT
 - Dödlig svampsjukdom sprids snabbt i Europa - SvD
 
 ## World News
 
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Global Payments Releases 2025 Global Responsibility Report - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- UN Security Council calls emergency meeting on Gaza - Poddtoppen
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- World Athletics introduces gene test for female category - BBC
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- News of the Worlds reportrar kan få nya jobb - Journalisten
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
-- Alila Hotels Beckons Travelers to Experience the Luxury of Wonder Through Global Campaign, A World Awaits - Placera.se
-- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
-- 1 426 potential victims identified in global operation against human trafficking - Europol
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Flest coronasäkra stränder i Portugal och ny global säkerhetsmärkning - travelnews.se
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
+- News of the Worlds reportrar kan få nya jobb - Journalisten
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- QCP signalerar kryptons mognad när Trumps tullar återupplivar global handelsosäkerhet - Bitcoin.com News
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- Coca-Cola väljer Cascais för ny global kampanj - The Portugal News
 
 ## Technology
 
@@ -73,19 +73,18 @@ _Updated: 2025-09-11 10:45_
 
 ## Business
 
-- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Publication of the 2025 Half-Year Report - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- DeFi Technologies Reports All-Time High in Bitcoin Assets Under Management and Treasury Holdings - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2025-09-11 10:45_
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 
 ## Health
 
@@ -120,45 +120,45 @@ _Updated: 2025-09-11 10:45_
 ## Science
 
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
-- Rovtidskrifter exploaterar forskares strävan efter snabb publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- 5 myter om öppen vetenskap - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Stärkt life science-forskning är till godo för patienterna - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- Här är världens största jordbruk - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- De gick från reko till eko - ST-tidningen
