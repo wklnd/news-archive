@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-11 15:41_
+_Updated: 2025-09-11 16:41_
 
 ## Top Stories
 
+- Bussolycka i Linköping – flera personer drabbade - SVT Nyheter
 - USA-forskare: Trumps uttalande efter mordet är farligt - Hufvudstadsbladet
-- Risk för mycket mer regn i Västernorrland - DN
+- SD om Stegruds filmande: Förvånad - DN
 - ”Bara ett starkt svar på attacken stoppar Ryssland” - Västerbottens-Kuriren
 - Ingen gripen efter mord i Skurup - Aftonbladet
-- Ofarligt pulver hos Försäkringskassan i Östersund - GP
-- Så ska vistelseförbud stoppa fotbollsvåld på stan: ”Ska inte kunna komma hit och slåss” - GP
-- Jessica Stegrud är imponerande ignorant - Arbetet
-- Dödlig svampsjukdom sprids i Europa – flera fall i Sverige - GP
-- Brukare om hemtjänsten i Uddevalla: ”Jag vågar inte trycka på larmet” - DN
+- Annie Reuterskiöld: Stegrud-affären gör att Kristersson riskerar falla på eget grepp - DN
+- Inför finalen av ”Downton Abbey” – Julian Fellowes om hur det började - Sveriges Radio
+- Lömsk svampsjukdom sprider sig i Europa - GP
+- Risk för ännu mycket mer regn i Västernorrland - DN
 - Sverige utlovar 70 nya miljarder till Ukraina - Västerbottens-Kuriren
 - Trädgårdens framtid kan vara säkrad - Expressen
+- Medier: Två kroppar hittade i frysboxar - Hufvudstadsbladet
 - Belarus har släppt 52 fångar efter Trumps uppmaning - Omni
-- Parlamentet kräver hjälp till Gaza, frigivning av gisslan och rättvisa - European Parliament
-- Qatar bjuder in till arabiskt-islamiskt toppmöte – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Klarna på börsen – så agerar småspararna - SvD
+- Missnöjet mot von der Leyen kommer inte längre bara från ytterkanterna - Altinget.se
 - Inflationen revideras ner – matpriserna sjunker - Omni
+- Klarna på börsen – så agerar småspararna - SvD
 - Inget mer hemarbete på Novo Nordisk - Fastighetsnytt
-- ECB sitter still i räntebåten - Dagens industri
+- ECB-chefen: Vi är på ett bra ställe - Dagens industri
 - Apple presenterar ny Iphone-modell – höjer priserna - EFN
-- En ballong stor som en fotbollsplan har redan nått stratosfären – och nu kan du kanske snart följa med ombord - Illustrerad Vetenskap
+- Inloggning med QR-kod införs för att underlätta för internationella användare - Lunds universitet
 
 ## World News
 
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Global Payments Releases 2025 Global Responsibility Report - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - World Athletics introduces gene test for female category - BBC
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - DO Black - the world’s first credit card with a carbon limit - mastercard.com
-- ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- Coca-Cola väljer Cascais för ny global kampanj - The Portugal News
+- Alila Hotels Beckons Travelers to Experience the Luxury of Wonder Through Global Campaign, A World Awaits - Placera.se
+- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Flest coronasäkra stränder i Portugal och ny global säkerhetsmärkning - travelnews.se
 
 ## Technology
@@ -109,56 +109,56 @@ _Updated: 2025-09-11 15:41_
 - Osher centrum för integrativ hälsa - Karolinska Institutet
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
+- Samverkan - Göteborgs universitet
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
-- Rovtidskrifter exploaterar forskares strävan efter snabb publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Stärkt life science-forskning är till godo för patienterna - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Jag vägrar att se miljöarbete som ett hinder - landlantbruk.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - landlantbruk.se
 - (+) Stor undersökning av jordbruket - Arbetarskydd
 - De gick från reko till eko - ST-tidningen
 - Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - landlantbruk.se
+- Agri Venture slår ett slag för innovationer inom lantbruk - landlantbruk.se
+- Här är tio megagårdar att drömma om - landlantbruk.se
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - landlantbruk.se
+- Data blir en tillgång för bönderna - landlantbruk.se
