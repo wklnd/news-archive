@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-11 18:42_
+_Updated: 2025-09-11 19:37_
 
 ## Top Stories
 
-- FBI släpper bild på misstänkt man i utredningen om Charlie Kirk - SVT Nyheter
-- Tre allvarligt skadade i bussolycka i Linköping - HD
+- FBI släpper bild på misstänkt man i Charlie Kirk-utredningen - SVT Nyheter
+- Tre mycket allvarligt skadade – studentbuss välte utanför Linköping - DN
+- Jessica Stegrud (SD) filmade tonåringar på Centralstationen - SVT Nyheter
 - Àsthildur med i it-läckan – riktar skarp kritik mot Göteborgs stad - GP
 - Ingen gripen efter mord i Skurup - Aftonbladet
+- Känslosamt när historisk alm sågades ner: ”Har en liten tår i ögonvrån” - DN
 - Risk för ännu mycket mer regn i Västernorrland - DN
-- Annie Reuterskiöld: Stegrud-affären gör att Kristersson riskerar falla på eget grepp - DN
-- Jessica Stegrud (SD) filmade tonåringar på Centralstationen - SVT Nyheter
-- Lömsk svampsjukdom sprider sig i Europa - Västerbottens-Kuriren
-- DN Direkt - Irland bojkottar Eurovision – om Israel släpps in - DN
+- Dödlig svampsjukdom sprids i Europa – flera fall i Sverige - GP
+- Inför finalen av ”Downton Abbey” – Julian Fellowes om hur det började - Sveriges Radio
 - Brukare om hemtjänsten i Uddevalla: ”Jag vågar inte trycka på larmet” - DN
-- Storbritanniens ambassadör i USA får sparken efter Epsteinkopplingar - ETC.se
-- Två kroppar hittades i frysboxar – oupptäckta i 30 år - DN
+- Zelenskyj jämför ryska drönarattacken mot Polen med annekteringen av Krim - Hufvudstadsbladet
 - Belarus har släppt 52 fångar efter Trumps uppmaning - Omni
-- Uttalande från Utrikesdepartementet med anledning av uppkallande av Rysslands ambassadör - Regeringen.se
+- Missnöjet mot von der Leyen kommer inte längre bara från ytterkanterna - Altinget.se
+- Kvinna påkörd två gånger i Uppsala – föraren skrek glåpord - SVT Nyheter
 - Inflationen revideras ner – matpriserna sjunker - Omni
 - Stort intresse för Klarna-aktien bland svenska småsparare - EFN
-- Novo Nordisk slutar tillåta hemarbete - GP
+- Öresundsinstitutets vd: Novo Nordisk i aktiekris snarare än företagskris - Life Science Sweden
 - Efter Oracles rusning – Larry Ellison var rikast i världen en stund - Breakit
 - STANNA HEMMA: Covid-19 sprids – läkarens uppmaning: ”Kommer öka” - Filipstads Tidning
-- Apple presenterar ny Iphone-modell – höjer priserna - EFN
+- Inloggning med QR-kod införs för att underlätta för internationella användare - Lunds universitet
 
 ## World News
 
@@ -36,16 +36,16 @@ _Updated: 2025-09-11 18:42_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - World Athletics introduces gene test for female category - BBC
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Coca-Cola väljer Cascais för ny global kampanj - The Portugal News
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - DO Black - the world’s first credit card with a carbon limit - mastercard.com
 - ”Tack och hejdå” – News of the World tar farväl - Aftonbladet
+- 🌏 Global ojämlikhet minskar faktiskt - Warp News
 - 1 426 potential victims identified in global operation against human trafficking - Europol
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- Here’s what happened in 2022 in 10 striking pictures - The World Economic Forum
+- Is the space for civil society really shrinking? - International IDEA
 - Flest coronasäkra stränder i Portugal och ny global säkerhetsmärkning - travelnews.se
 
 ## Technology
@@ -74,25 +74,25 @@ _Updated: 2025-09-11 18:42_
 ## Business
 
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Publication of the 2025 Half-Year Report - Placera.se
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
+- Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
+- DeFi Technologies Reports All-Time High in Bitcoin Assets Under Management and Treasury Holdings - Placera.se
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Publication of the 2025 Half-Year Report - Placera.se
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- NextDecade Announces Positive Final Investment Decision and Financial Close on Train 4 at Rio Grande LNG - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ATI Chief Financial Officer Don Newman Announces Retirement - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Centessa Pharmaceuticals Reports Financial Results and Business Highlights for the Second Quarter of 2025 - Placera.se
 
 ## Health
 
@@ -106,39 +106,39 @@ _Updated: 2025-09-11 18:42_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Johan von Schreeb - Karolinska Institutet
+- Osher centrum för integrativ hälsa - Karolinska Institutet
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Samverkan - Göteborgs universitet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
-- Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
 ## Science
 
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
-- Rovtidskrifter exploaterar forskares strävan efter snabb publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Stärkt life science-forskning är till godo för patienterna - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
