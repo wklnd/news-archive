@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-11 10:52_
+_Updated: 2025-09-11 11:48_
 
-- Charlie Kirk shot and killed at Utah event; manhunt for shooter still ongoing - CBS News
+- Charlie Kirk’s killing and the ‘despicable violence’ of US politics - Financial Times
 - Poland responds to Russian drones incursion by invoking Article 4 of the NATO treaty − what happens next? - The Conversation
-- Comer rejects calls for handwriting expert to analyze alleged Trump signature on Epstein birthday letter - ABC News
+- Trump demanded Netanyahu commit not to strike Qatar again - Axios
 - Mother, sister of Charlotte stabbing suspect describe history of mental illness - ABC News
-- Evergreen High School shooting leaves suspect dead, 3 injured - Axios
-- Former top FBI officials sue, say Kash Patel fired them to stay in Trump's good graces - NBC News
-- Israel threatens ‘enemies everywhere’ after strike against Hamas in Qatar - The Washington Post
-- Newspaper headlines: 'Harry's tea with the King' and 'Mandelson on brink' - BBC
-- 'Block Everything' protests sweep France, intensifying pressure on Macron - NBC News
-- Tunisia investigates Sumud Flotilla alleged drone strike - The Jerusalem Post
-- Larry Ellison briefly tops Elon Musk as world’s richest person - San Francisco Chronicle
-- Lisa Cook Judge Not Persuaded by Supreme Court on Trump Firings - Bloomberg.com
+- South Korea president says Korean companies will hesitate to invest in US without better visa system - AP News
+- Evergreen High School shooter dead from self-inflicted gunshot wound - Colorado Public Radio
+- France welcomes new prime minister with ‘block everything’ protests - The Washington Post
+- After 18 Months, Prince Harry and King Charles Meet in Person - The Wall Street Journal
+- Incendiary Munitions Strike Gaza-bound Flotilla Two Nights in a Row - Bellingcat
+- Massive gas tanker explosion in Mexico City kills 3 people and injures 70 others - ABC News
+- Musk loses crown as the world’s richest person to Larry Ellison and then snatches it back - AP News
 - Futures Rise After Oracle Rockets; Five New AI Buys - Investor's Business Daily
-- How August’s CPI could impact stock-market investors over the rest of 2025 - MarketWatch
+- Trump appeals judge's order letting Cook stay on Fed board - Axios
+- Labor Department watchdog launches probe into the Bureau of Labor Statistics - CBS News
 - New iPhone 17 lineup and iPhone Air now at Verizon: 5G power, incredible trade-in offers and savings that add up - Verizon
-- New Apple Watch 5G Feature Missing in Multiple Countries at Launch - MacRumors
-- Spotify’s HiFi Listening Feature Is Here (Finally) - Billboard
-- Israeli Film Industry Leaders Call Growing Boycott “Counterproductive” - The Hollywood Reporter
-- Body found in trunk of singer’s car. Will he perform in Kansas City tonight? - Kansas City Star
-- Spinal Tap is back. Director Rob Reiner says they're still dialed up to 11 - NPR
+- Apple Watch Ultra 3 vs Series 11, Ultra 2 battery life: Big upgrades - 9to5Mac
+- Latest Galaxy S26 Pro renders hint at camera changes and lineup shuffle - Android Central
+- Spotify is finally launching support for lossless music streaming - TechCrunch
+- Horoscope for Thursday, September 11, 2025 - Chicago Sun-Times
+- Emma Heming Willis explains why Bruce Willis has separate home as part of dementia care: "Each caregiving journey is our own" - CBS News
