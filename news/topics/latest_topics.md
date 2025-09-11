@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-11 21:37_
+_Updated: 2025-09-11 22:38_
 
 ## Top Stories
 
-- DN Direkt - Expresident Bolsonaro fälls för kuppförsök - DN
-- FBI släpper bild på misstänkt man i Charlie Kirk-utredningen - SVT Nyheter
-- Tre mycket allvarligt skadade i bussolycka i Linköping - Sydsvenskan
-- ”Bidrar till hot mot en redan utsatt grupp” - SvD
+- Jair Bolsonaro kommer att dömas för kuppförsök i Brasilien - SVT Nyheter
+- USA-forskare: Trumps uttalande efter mordet är farligt - Hufvudstadsbladet
+- Studentbuss välte utanför Linköping – misstanke om vårdslöshet i trafik - DN
+- ”En tidsfråga innan ammunitionen tar slut” - SvD
 - Räls och vägar spolas bort – nu varnas för mer regn i krisdrabbade Västernorrland - GP
-- Jessica Stegrud är imponerande ignorant - Arbetet
-- Nedfallna träd och plåttak som blåst bort – starka vindar i Stockholms län - SVT Nyheter
-- Känslosamt när historisk alm sågades ner: ”Har en liten tår i ögonvrån” - DN
+- Uttalande från Utrikesdepartementet med anledning av uppkallande av Rysslands ambassadör - Regeringen.se
+- Regn och hårda vindar – tusentals utan ström - DN
 - Fick nog av hatet – moderattoppen hoppar av - DN
-- Lömsk svampsjukdom sprider sig i Europa - Västerbottens-Kuriren
-- Zelenskyj jämför ryska drönarattacken mot Polen med annekteringen av Krim - Hufvudstadsbladet
-- Islamfientligt mc-gäng vaktar maten i Gaza - DN
-- Netanyahu till bosättare: Ska inte bli någon palestinsk stat - HD
+- Känslosamt när historisk alm sågades ner: ”Har en liten tår i ögonvrån” - DN
+- Räddningstjänsten: ”Finns risker med nya bussterminalen” - DN
 - Missnöjet mot von der Leyen kommer inte längre bara från ytterkanterna - Altinget.se
-- Matpriserna sjönk i augusti - Statistikmyndigheten SCB
+- Islamfientligt mc-gäng vaktar maten i Gaza - Västerbottens-Kuriren
+- Kvinna påkörd av bil – två gånger - Expressen
+- Ryssland varnar Polen om stängd Belarus-gräns - Aftonbladet
+- Matpriserna sjunker – första gången i år - Tidningen Näringslivet
 - Stort intresse för Klarna-aktien bland svenska småsparare - EFN
 - Novo Nordisk slutar tillåta hemarbete - Aftonbladet
-- Här stiger villapriserna mest i länet - Östersunds-Posten
+- Efter Oracles rusning – Larry Ellison var rikast i världen en stund - Breakit
 - Tecken hittat på tidigare liv på mars - SvD
 - Analytikernas tro på Apple dalar efter kursfallet - Dagens industri
 
@@ -59,10 +59,9 @@ _Updated: 2025-09-11 21:37_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- 290 million for digitalisation of Swedish industry - Vinnova
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
-- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
@@ -70,6 +69,7 @@ _Updated: 2025-09-11 21:37_
 - Digital Realty Launches Innovation Lab to Accelerate AI and Hybrid Cloud Implementation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
+- Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
 
 ## Business
 
@@ -77,6 +77,7 @@ _Updated: 2025-09-11 21:37_
 - Publication of the 2025 Half-Year Report - Placera.se
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - DeFi Technologies Reports All-Time High in Bitcoin Assets Under Management and Treasury Holdings - Placera.se
@@ -92,7 +93,6 @@ _Updated: 2025-09-11 21:37_
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Centessa Pharmaceuticals Reports Financial Results and Business Highlights for the Second Quarter of 2025 - Placera.se
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -109,10 +109,10 @@ _Updated: 2025-09-11 21:37_
 - Osher centrum för integrativ hälsa - Karolinska Institutet
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
@@ -123,42 +123,42 @@ _Updated: 2025-09-11 21:37_
 - Rovtidskrifter exploaterar forskares strävan efter snabb publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Stärkt life science-forskning är till godo för patienterna - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
