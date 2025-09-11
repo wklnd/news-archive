@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-11 06:42_
+_Updated: 2025-09-11 07:40_
 
 ## Top Stories
 
 - Högerkommentatorn Charlie Kirk skjuten under debatt i USA - GP
-- ”Tror de att jag gömmer mig här i Ukraina?” - SvD
+- Explosion vid villa i Södertälje - SVT Nyheter
+- Kan få fängelse i Sverige – strider nu för Ukraina - SvD
+- DN Direkt - Explosion på balkong i Linköping - DN
 - Stefan Sundström gräver i arv och minnen i sin nya bok - Sveriges Radio
 - ”Ska vi amortera lånet – eller spara pengarna?” - DN
-- WHO:s arbetare stannar i Gaza stad - Västerbottens-Kuriren
-- Varningen efter it-läckan: Därför bör du vara på din vakt - GP
 - Fortsatt dyster arbetsmarknad - Västerbottens-Kuriren
-- Varför vänta ett år på att få börja jobba? - Kyrkans Tidning
 - Mer regn väntar i Västernorrland: ”Jobbar mot klockan” - DN
-- Explosion vid lägenhetshus i Linköping - SVT Nyheter
-- Karlskrona kommun stoppar barnens minnesresa – oro i Polen efter ryska drönare - SVT Nyheter
-- Därför demonstrerar och strejkar över 100 000 i Frankrike - GP
-- Säkerhetstoppar försökte stoppa attack mot Qatar – kördes över av Netanyahu - DN
+- Ebba Busch flög fram – Ulf Kristersson rättade till slipsen - GP
+- Kyrkovalet – ett uttryck för Svenska kyrkans partipolitisering - Med Israel för fred
+- Stora protester i Frankrike – 80 000 poliser mobiliserade - SVT Nyheter
+- Trump om ryska drönarna i Polen: "Vad är grejen?" - GP
+- Netanyahu hotar Qatar: ”Utvisa terrorister” - Västerbottens-Kuriren
 - Europas självständighet och kursändring om Gaza: Här är de viktigaste punkterna i EU-chefens stora tal - Altinget.se
-- Trumps omsvängning banade väg för Klarnas notering - Dagens industri
+- Börssuccén mattades av – det blev Klarnas stängningskurs - Dagens industri
 - Elon Musk – inte längre världens rikaste person - GP
-- Nu blir det äntligen bättre ljud på Spotify - UNT
+- Nu blir det äntligen bättre ljud på Spotify - Sydsvenskan
 - Svensk Handel välkomnar sänkta arbetsgivaravgifter för unga - Svensk Handel
+- STANNA HEMMA: Covid-19 sprids – läkarens uppmaning: ”Kommer öka” - NWT
 - Apple presenterar ny Iphone-modell – höjer priserna - EFN
-- Tecken hittat på tidigare liv på mars - SvD
 
 ## World News
 
@@ -39,7 +39,7 @@ _Updated: 2025-09-11 06:42_
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
@@ -51,40 +51,41 @@ _Updated: 2025-09-11 06:42_
 ## Technology
 
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- The Ondas and Unusual Machines collaboration is expected to include: - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- The Ondas and Unusual Machines collaboration is expected to include: - Placera.se
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
-- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Digital Realty Launches Innovation Lab to Accelerate AI and Hybrid Cloud Implementation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
+- Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
 
 ## Business
 
+- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Publication of the 2025 Half-Year Report - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
+- ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
@@ -92,72 +93,71 @@ _Updated: 2025-09-11 06:42_
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 
 ## Health
 
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Osher centrum för integrativ hälsa - Karolinska Institutet
 - Fakulteten för hälsa och samhälle - Malmö universitet
-- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Miljardinvestering ökar takten i GoCo Health Innovation City – näringslivets tungviktare, sjukvården och akademin i storsatsning på forskningskluster i göteborgsregionen. - Mynewsdesk
 
 ## Science
 
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
+- Rovtidskrifter exploaterar forskares strävan efter snabb publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Stärkt life science-forskning är till godo för patienterna - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
