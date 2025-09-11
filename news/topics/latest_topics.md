@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-11 07:40_
+_Updated: 2025-09-11 08:48_
 
 ## Top Stories
 
-- Högerkommentatorn Charlie Kirk skjuten under debatt i USA - GP
-- Explosion vid villa i Södertälje - SVT Nyheter
+- Ebba Busch om Charlie Kirk: Förfärad och bestört - GP
 - Kan få fängelse i Sverige – strider nu för Ukraina - SvD
-- DN Direkt - Explosion på balkong i Linköping - DN
-- Stefan Sundström gräver i arv och minnen i sin nya bok - Sveriges Radio
-- ”Ska vi amortera lånet – eller spara pengarna?” - DN
-- Fortsatt dyster arbetsmarknad - Västerbottens-Kuriren
 - Mer regn väntar i Västernorrland: ”Jobbar mot klockan” - DN
-- Ebba Busch flög fram – Ulf Kristersson rättade till slipsen - GP
-- Kyrkovalet – ett uttryck för Svenska kyrkans partipolitisering - Med Israel för fred
+- WHO kvar i Gaza stad – trots evakueringsorder – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Gazafotograf fruktar för sitt liv efter artiklar - Aftonbladet
+- Inför finalen av ”Downton Abbey” – Julian Fellowes om hur det började - Sveriges Radio
+- Fejk-Labubus kan innehålla farliga kemikalier - DN
+- Fortsatt dyster arbetsmarknad - GP
+- ”Gör kyrkan till en bättre arbetsplats – rösta i kyrkovalet” - Arbetet
+- 11 september 00.19, Explosion, Linköping - polisen.se
+- Uppgifter: Ryssland siktade på Ukraina-nav i Polen - Västerbottens-Kuriren
 - Stora protester i Frankrike – 80 000 poliser mobiliserade - SVT Nyheter
-- Trump om ryska drönarna i Polen: "Vad är grejen?" - GP
-- Netanyahu hotar Qatar: ”Utvisa terrorister” - Västerbottens-Kuriren
-- Europas självständighet och kursändring om Gaza: Här är de viktigaste punkterna i EU-chefens stora tal - Altinget.se
-- Börssuccén mattades av – det blev Klarnas stängningskurs - Dagens industri
+- Netanyahu hotar Qatar: ”Utvisa terrorister” - GP
+- DN Direkt - Förste domaren fäller Bolsonaro för kuppförsök - DN
+- Inflationstakten i augusti justeras ned - Dagens industri
+- Från sågad pitch till Wall Street – historien om Klarna - EFN
 - Elon Musk – inte längre världens rikaste person - GP
-- Nu blir det äntligen bättre ljud på Spotify - Sydsvenskan
 - Svensk Handel välkomnar sänkta arbetsgivaravgifter för unga - Svensk Handel
-- STANNA HEMMA: Covid-19 sprids – läkarens uppmaning: ”Kommer öka” - NWT
 - Apple presenterar ny Iphone-modell – höjer priserna - EFN
+- STANNA HEMMA: Covid-19 sprids – läkarens uppmaning: ”Kommer öka” - NWT
 
 ## World News
 
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Global Payments Releases 2025 Global Responsibility Report - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - UN Security Council calls emergency meeting on Gaza - Poddtoppen
-- World Athletics introduces gene test for female category - BBC
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Vi introducerar World Computer Hacker League: Fyra månaders global tävling för att bygga nästa generations appar - The Portugal News
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- BIG Travel går in i globalt partnerskap - travelnews.se
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
+- Alila Hotels Beckons Travelers to Experience the Luxury of Wonder Through Global Campaign, A World Awaits - Placera.se
+- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Flest coronasäkra stränder i Portugal och ny global säkerhetsmärkning - travelnews.se
 
 ## Technology
 
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
-- The Ondas and Unusual Machines collaboration is expected to include: - Placera.se
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- The Ondas and Unusual Machines collaboration is expected to include: - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Digital Realty Launches Innovation Lab to Accelerate AI and Hybrid Cloud Implementation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
-- Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
 
 ## Business
 
@@ -98,66 +98,66 @@ _Updated: 2025-09-11 07:40_
 
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Dr. Isis Amer-Wåhlin - 2Heal Medical - Both-And Instead of Either-Or - Poddtoppen
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Osher centrum för integrativ hälsa - Karolinska Institutet
 - Fakulteten för hälsa och samhälle - Malmö universitet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Miljardinvestering ökar takten i GoCo Health Innovation City – näringslivets tungviktare, sjukvården och akademin i storsatsning på forskningskluster i göteborgsregionen. - Mynewsdesk
 
 ## Science
 
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
-- Rovtidskrifter exploaterar forskares strävan efter snabb publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- 5 myter om öppen vetenskap - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Stärkt life science-forskning är till godo för patienterna - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
