@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-11 12:48_
+_Updated: 2025-09-11 13:48_
 
-- Trump ally Charlie Kirk gunned down in brazen act of public violence - The Washington Post
-- UK fires ambassador to US Peter Mandelson over Epstein links - CNN
-- South Korea says detained Korean workers released from Georgia facility before flight home - AP News
-- Poland responds to Russian drones incursion by invoking Article 4 of the NATO treaty − what happens next? - The Conversation
+- Charlie Kirk, Close Trump Ally, Is Shot Dead at University in Utah: Live Updates - The New York Times
 - Trump demanded Netanyahu commit not to strike Qatar again - Axios
-- Mother, sister of Charlotte stabbing suspect describe history of mental illness - ABC News
-- Suspect dead, 2 students injured in shooting at Evergreen High School - The Denver Post
-- Scoop: Biden world explodes at Kamala Harris' new book - Axios
+- Harris goes there on the Biden question — and Biden world isn’t having it - Politico
+- UK fires ambassador to US Peter Mandelson over links to Epstein - Al Jazeera
+- Poland responds to Russian drones incursion by invoking Article 4 of the NATO treaty − what happens next? - The Conversation
+- South Korea says detained Korean workers released from Georgia facility before flight home - AP News
+- Evergreen, Conifer schools closed Thursday after shooting - 9News.com
+- Russia’s Strategy Against the West: Escalate Slowly and See if It Responds - The New York Times
+- China to establish nature reserve in disputed Scarborough Shoal in South China Sea - Reuters
 - France welcomes new prime minister with ‘block everything’ protests - The Washington Post
-- Tunisia investigates Sumud Flotilla alleged drone strike - The Jerusalem Post
-- Prince Harry Reunites With King Charles for First Time in Over a Year - The New York Times
-- Army tries to restore order in Nepal after protest violence intensifies - Politico
+- Prince Harry Finally Got to See His Father - The Cut
 - Musk loses crown as the world’s richest person to Larry Ellison and then snatches it back - AP News
-- Oracle Shares Skyrocket as Software Giant Scores Massive AI Deals - The Wall Street Journal
-- Stock futures are little changed ahead of closely watched inflation data: Live updates - CNBC
-- Morning Bid: Asia gets AI fever as Oracle surges - Reuters
+- Stocks and euro tread water ahead of ECB and US inflation data - Reuters
+- Futures Rise After Oracle Rockets; Five New AI Buys - Investor's Business Daily
+- Stock futures gain ahead of inflation data that could clinch a Fed rate cut: Live updates - CNBC
 - New iPhone 17 lineup and iPhone Air now at Verizon: 5G power, incredible trade-in offers and savings that add up - Verizon
 - Apple Watch Ultra 3 vs Series 11, Ultra 2 battery life: Big upgrades - 9to5Mac
 - Latest Galaxy S26 Pro renders hint at camera changes and lineup shuffle - Android Central
 - Apple iPhone Air and iPhone 17 Feature A19 Chips With Spyware-Resistant Memory Safety - The Hacker News
+- How Paul McCartney and Elton John begged to be in ‘Spinal Tap’ sequel - San Francisco Chronicle
