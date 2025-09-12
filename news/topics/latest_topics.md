@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-12 20:44_
+_Updated: 2025-09-12 21:38_
 
 ## Top Stories
 
-- Tyler Robinson, 22, misstänks för mordet på Charlie Kirk - SVT Nyheter
-- 300 mil väg påverkat av skyfallet – krishjälp från EU - DN
-- Tusk: Trump har fel om ryska drönarna - GP
-- Hur kunde Trump gå fri när Bolsonaro dömdes? - Aftonbladet
+- 22-årig man gripen för mordet på Charlie Kirk - DN
+- Så ska svenska vägar anpassas för att klara mer regnkaos - GP
+- Uttalande från Utrikesdepartementet med anledning av uppkallande av Rysslands ambassadör - Regeringen.se
+- Fjellner om V-toppens mejl: En skandal utan dess like - Aftonbladet
 - Fejkade tjänsteresa till Ghana – Malmö stad sparkar anställd - Sydsvenskan
-- En sommar av förnedring är över - SvD
+- Regeringen satsar på bättre förutsättningar för lärares undervisningsuppdrag och förbättrat stöd till elever - Regeringen.se
 - Nu visas den omtalade rymdstenen - Västerbottens-Kuriren
-- Kraftfull satsning för att stärka arbetet med psykisk hälsa, beroendevård och suicidprevention - Regeringen.se
-- Lärare får mer planeringstid – planen kritiseras - GP
 - Trio åtalas för mord på kvinna i 60-årsåldern – ska ha planerat fler mord samma dag - DN
-- WHO:s arbetare stannar i Gaza stad - GP
-- Efter valfiaskot: Erna Solberg avgår - GP
+- Insändare. Läs guiden om skogen innan du röstar i kyrkovalet - DN
+- SD:s gruppledare om Stegrud: ”Kommer inte vidta åtgärder” - DN
+- DN Direkt - Trump hotar skicka militär till Memphis - DN
+- Israel om FN:s ja till tvåstatslösning: ”Skamligt” - GP
+- Bolsonaro döms till fängelse & äldre vill lyssna på nostalgi – P3 Nyheter med Linnéa Beijer - Sveriges Radio
 - Ryssland ska ha skjutit ner över 200 ukrainska drönare - Omni
-- Fallskärmshoppare i Västerås svårt skadad efter landning på golfbana - SVT Nyheter
-- Svenska Erik stämd av miljardären – hämnden - Expressen
 - Stocks in Play - uppåt för Svolder efter höjd utdelning - Börsvärlden
+- Svenska Erik stämd av miljardären – hämnden - Expressen
 - Meko: Skrotpris på aktien - Affärsvärlden
 - Han kan skjuta ner Putins drönare för 5000 dollar - Dagens PS
-- Carlos vinner Europeiskt pris för bästa poster i stor konkurrens - Umeå universitet
 - Teaser: Chris Pratt är tillbaka som Mario i ”The Super Mario Galaxy Movie” – premiär i vår - MovieZine
+- Carlos vinner Europeiskt pris för bästa poster i stor konkurrens - Umeå universitet
 
 ## World News
 
@@ -55,21 +55,21 @@ _Updated: 2025-09-12 20:44_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- 290 million for digitalisation of Swedish industry - Vinnova
+- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Digital Realty Launches Innovation Lab to Accelerate AI and Hybrid Cloud Implementation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
+- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 
 ## Business
 
@@ -82,40 +82,40 @@ _Updated: 2025-09-12 20:44_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
-- DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - NextDecade Announces Positive Final Investment Decision and Financial Close on Train 4 at Rio Grande LNG - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ATI Chief Financial Officer Don Newman Announces Retirement - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - The ONE Group Hospitality, Inc. Appoints Nicole Thaung as Chief Financial Officer - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
-- Triglyceridrika lipoproteiner – farligare än LDL-kolesterol? - Läkartidningen
 - Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Johan von Schreeb - Karolinska Institutet
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
-- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Osher centrum för integrativ hälsa - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
-- Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
 ## Science
 
@@ -125,7 +125,6 @@ _Updated: 2025-09-12 20:44_
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - The Association for Frontotemporal Degeneration
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
@@ -137,28 +136,29 @@ _Updated: 2025-09-12 20:44_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Stärkt life science-forskning är till godo för patienterna - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- USA tvingar ut EU på banan - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
