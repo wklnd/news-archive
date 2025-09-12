@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-12 13:37_
+_Updated: 2025-09-12 15:01_
 
 ## Top Stories
 
+- Adam Cwejman: Kirk hade rätt, när vi slutar prata så börjar våldet - GP
 - SD:s gruppledare om Stegrud: ”Kommer inte vidta åtgärder” - DN
-- Republikan i Utah skyller mordet på transrörelsen - DN
+- Tusk: Trump har fel om ryska drönarna - GP
 - Tongivande gängkriminell utlämnad från Dubai - polisen.se
-- En fortsatt allvarligt skadad i bussolyckan på E4 - Folkbladet
-- Bolsonaro döms till fängelse & äldre vill lyssna på nostalgi – P3 Nyheter med Linnéa Beijer - Sveriges Radio
+- Mer regn har fallit i redan översvämmade områden - GP
 - Krogprofil i Göteborg häktad misstänkt för våldtäkt - GP
-- Örnsköldsvik förbereder sig för ännu mer regn - DN
-- Nu ska lärare får mer tid för planering - GP
-- Norsk fiskeindustri förlorar miljoner efter skyfallen - DN
-- Sex säljs i köp-och-sälj grupper på sociala medier: ”Gigantiskt problem” - DN
+- Kommunalrådet: Kiruna kommer att stå sig starkt - Aftonbladet
+- Tidöpartierna vill satsa miljarder på psykiatrivården - SVT Nyheter
+- Sex säljs i köp-och-sälj-grupper på sociala medier: ”Gigantiskt problem” - DN
+- Kebnekaises sydtopp krymper - GP
 - Danmark köper luftvärn för rekordbelopp - Aftonbladet
 - Stigande dödstal i oroligt Nepal - Västerbottens-Kuriren
 - 161 misstänkta IS-medlemmar gripna i Turkiet - GP
 - Ryssland ska ha skjutit ner över 200 ukrainska drönare - Omni
-- Siemiatkowski lånade en miljard inför Klarnas IPO - EFN
+- Sebastian Siemiatkowski miljardlånar – köper ut amerikaner - Dagens industri
 - Microsoft plockar bort Teams ur Office-paketet - Aftonbladet
+- Brittisk tillväxt stod still i juli - Västerbottens-Kuriren
 - SSAB:s VD råkar säga fel sanning - Affärsvärlden
-- Volkswagenchefen varnar: Festen är över - SvD
 - Idag släpps ”Borderlands 4” – pangar in fina betyg - MovieZine
 - Intel återlanserar 2020-CPU som Core i5-110 - SweClockers
 
@@ -50,22 +50,22 @@ _Updated: 2025-09-12 13:37_
 
 ## Technology
 
-- ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
+- ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- 290 million for digitalisation of Swedish industry - Vinnova
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
+- Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Digital Realty Launches Innovation Lab to Accelerate AI and Hybrid Cloud Implementation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
@@ -87,12 +87,12 @@ _Updated: 2025-09-12 13:37_
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
-- DeFi Technologies Reports All-Time High in Bitcoin Assets Under Management and Treasury Holdings - Placera.se
 
 ## Health
 
@@ -100,21 +100,21 @@ _Updated: 2025-09-12 13:37_
 - Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Osher centrum för integrativ hälsa - Karolinska Institutet
-- Fakulteten för hälsa och samhälle - Malmö universitet
+- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
+- Tema: AI inom medicin och hälsa - Karolinska Institutet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Samverkan - Göteborgs universitet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
 ## Science
@@ -143,22 +143,22 @@ _Updated: 2025-09-12 13:37_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- De gick från reko till eko - ST-tidningen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
