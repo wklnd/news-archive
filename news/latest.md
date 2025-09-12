@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-12 11:48_
+_Updated: 2025-09-12 12:48_
 
 - Searching for Charlie Kirk shooter, officials still lack suspect name or location - The Washington Post
-- Rubio vows US response following conviction of Brazil's Bolsonaro - Reuters
-- Patel and F.B.I. Face Scrutiny as Kirk’s Killer Remains at Large - The New York Times
-- Trump to meet Qatar's PM Friday in aftermath of Israeli strike in Doha - Axios
-- Evergreen High School shooter identified by authorities - Colorado Public Radio
+- South Korean workers who were detained in a Hyundai factory raid are now headed home. Here’s what else to know - PBS
 - After Russian drones were downed in Poland, what does triggering NATO Article 4 mean? - CNN
-- 1 injured while U.S. Naval Academy building was cleared after reported threat - CBS News
-- Ryan Routh begins self-defense in attempted Trump assassination trial - BBC
-- ICE Agents Can’t Wear Masks Under Bill Passed in California - The New York Times
+- Trump to meet Qatar's PM Friday in aftermath of Israeli strike in Doha - Axios
+- 'Chilling reminder': Multiple historically Black universities under lockdown after receiving threats - ABC News
+- No shooter threat found at US Naval Academy in Maryland, official says - Reuters
 - Josh Kraft bows out of Boston race for mayor - WBUR
-- China Gives Mexico Stiff Warning Over Tariffs Seen Appeasing US - Bloomberg.com
-- Russia Urges Poland to Reopen Belarus Border - The Moscow Times
-- Nepal's former chief justice Karki likely to be appointed interim PM, source says - Reuters
-- Netanyahu vows 'there will be no Palestinian state' - DW
-- Asian shares ride Fed easing hopes to record highs - Reuters
+- Ryan Routh begins self-defense in attempted Trump assassination trial - BBC
+- Evergreen High School shooter posted photo of handgun to social media shortly before shooting - KUSA.com
+- California lawmakers pass bill to ban ICE agents from wearing masks - Politico
+- Prince Harry makes surprise visit to Ukraine in support of wounded servicemen - AP News
+- NATO on edge as Russia follows up drone incursion with Belarus military drills - France 24
+- Mexico to slap 50% tariff on Chinese cars under US pressure - Financial Times
+- Trump finally wants to put the squeeze on Russia. Now comes the hard part. - politico.eu
+- Stocks firm on Fed rate cut bets, gold on a tear - Reuters
 - S&P 500 Gains & Losses Today: Warner Bros. Discovery Stock Soars; Oracle, Netflix Slip - Investopedia
 - Trump administration requests emergency ruling to remove Lisa Cook from Fed board - PBS
-- Health care inflation rises as patients, employers brace for biggest jump in health spending in 15 years - CNBC
+- Inflation Ticks Up to 2.9%, but Fed Rate Cut Seems Assured as New Unemployment Claims Surge - Realtor.com
 - Apple iPhone 17 event recap: Reactions to iPhone Air, Apple Watches, AirPods Pro 3, more - ZDNET
-- Apple Watch Hypertension Detection Coming Next Week After FDA Nod - Bloomberg.com
+- Apple Watch hypertension alerts cleared by FDA for new and old watches - The Verge
