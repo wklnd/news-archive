@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-12 05:49_
+_Updated: 2025-09-12 06:48_
 
-- Charlie Kirk's body flown on Air Force Two to his home in Arizona - CBS News
-- FBI Director Kash Patel faces scrutiny for inaccurately saying Kirk killer had been caught - Reuters
-- Student Who Shot 2 Others at Colorado School Was ‘Radicalized,’ Officials Say - The New York Times
+- Police release photo of person of interest in Charlie Kirk shooting death - Axios
 - Jair Bolsonaro sentenced to 27 years in prison for plotting Brazil coup - BBC
+- Evergreen High School shooter identified by authorities - Colorado Public Radio
 - 2 Massachusetts teachers placed on leave over Charlie Kirk social media posts, superintendents say - CBS News
 - ‘Every time they’re making progress, it seems like he bombs someone’ - Politico
+- Senate Republicans trigger 'nuclear option,' changing rules to speed up Trump nominees - NBC News
 - Ryan Routh begins self-defense in attempted Trump assassination trial - BBC
-- No shooter threat found at US Naval Academy in Maryland, official says - Reuters
-- California lawmakers pass bill to ban ICE agents from wearing masks - Politico
-- Senate GOP invokes "nuclear option" to confirm batches of Trump nominees - Axios
+- 1 injured while U.S. Naval Academy building was cleared after reported threat - CBS News
+- ICE Agents Can’t Wear Masks Under Bill Passed in California - The New York Times
+- South Korean workers detained in immigration raid leave Atlanta and head home - NPR
 - NATO allies accuse Russia of deliberate drone incursion to test readiness - The Washington Post
-- Sheinbaum Aims to Calm China Tensions After Tariff Plan Backlash - Bloomberg.com
 - U.S. influencer who filmed himself wrestling wild crocodiles in Australia is under investigation: "Dangerous and illegal" - CBS News
-- Belarus frees political prisoners in exchange for easing of US sanctions - BBC
+- Sheinbaum Aims to Calm China Tensions After Tariff Backlash - Bloomberg.com
+- Families reel from tragedy as authorities investigate Mexico City gas tanker blast that killed 8 - AP News
 - Paramount Skydance preparing bid for Warner Bros Discovery, source says - Reuters
 - Stagflation concerns rise with increased inflation and jobless claims - The Washington Post
-- Trump Asks Appeals Court to Allow Firing of Lisa Cook Ahead of Key Fed Meeting - The New York Times
+- Donald Trump asks appeals court to let him fire Lisa Cook before next week’s Fed meeting - Financial Times
 - Home mortgage demand surges as rates drop to 6.35% - NPR
-- Apple iPhone 17 event recap: Reactions to iPhone Air, Apple Watches, AirPods Pro 3, more - ZDNET
-- The Apple Watch SE 3 May Be the Biggest Underdog of Apple's Entire Fall Lineup - CNET
+- Get ready to discover the next generation of iPhone, Apple Watch, and AirPods - Apple
+- Apple Watch hypertension alerts feature receives FDA clearance - 9to5Mac
