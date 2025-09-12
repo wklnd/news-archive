@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-12 12:48_
+_Updated: 2025-09-12 13:48_
 
-- Searching for Charlie Kirk shooter, officials still lack suspect name or location - The Washington Post
-- South Korean workers who were detained in a Hyundai factory raid are now headed home. Here’s what else to know - PBS
-- After Russian drones were downed in Poland, what does triggering NATO Article 4 mean? - CNN
+- Shooter of Charlie Kirk evades capture as manhunt pushes into third day - Reuters
+- Poland rejects Trump's suggestion that Russia's drone raid "could have been a mistake" - CBS News
+- Georgia ICE Raid Netted Workers With Short-Term Business Visas - The New York Times
 - Trump to meet Qatar's PM Friday in aftermath of Israeli strike in Doha - Axios
 - 'Chilling reminder': Multiple historically Black universities under lockdown after receiving threats - ABC News
-- No shooter threat found at US Naval Academy in Maryland, official says - Reuters
+- Colorado student shot 2 peers and then himself at high school, authorities say - PBS
 - Josh Kraft bows out of Boston race for mayor - WBUR
-- Ryan Routh begins self-defense in attempted Trump assassination trial - BBC
-- Evergreen High School shooter posted photo of handgun to social media shortly before shooting - KUSA.com
-- California lawmakers pass bill to ban ICE agents from wearing masks - Politico
-- Prince Harry makes surprise visit to Ukraine in support of wounded servicemen - AP News
-- NATO on edge as Russia follows up drone incursion with Belarus military drills - France 24
-- Mexico to slap 50% tariff on Chinese cars under US pressure - Financial Times
-- Trump finally wants to put the squeeze on Russia. Now comes the hard part. - politico.eu
-- Stocks firm on Fed rate cut bets, gold on a tear - Reuters
-- S&P 500 Gains & Losses Today: Warner Bros. Discovery Stock Soars; Oracle, Netflix Slip - Investopedia
+- ICE Agents Can’t Wear Masks Under Bill Passed in California - The New York Times
+- Student shot after mistaken ID mishap with officer during Naval Academy lockdown - NBC News
+- Jury trial of Ryan Routh, man accused of trying to kill Trump, begins in Florida - NPR
+- Prince Harry makes surprise visit to Ukraine in support of wounded troops - AP News
+- China Gives Mexico Stiff Warning Over Tariffs Seen Appeasing US - Bloomberg.com
+- Nepal's former chief justice Karki likely to be appointed interim PM, source says - Reuters
+- U.S. influencer who filmed himself wrestling wild crocodiles in Australia is under investigation: "Dangerous and illegal" - CBS News
+- Paramount Skydance preparing bid for Warner Bros Discovery, source says - Reuters
+- Asia stocks extend rally tracking Wall St record highs; tech sector leads gains - Investing.com
+- Health care costs are soaring. Blame insurers, drug companies — and your employer - NPR
 - Trump administration requests emergency ruling to remove Lisa Cook from Fed board - PBS
-- Inflation Ticks Up to 2.9%, but Fed Rate Cut Seems Assured as New Unemployment Claims Surge - Realtor.com
-- Apple iPhone 17 event recap: Reactions to iPhone Air, Apple Watches, AirPods Pro 3, more - ZDNET
+- Apple iPhone 17 event recap: iPhone Air preorders, Apple Watch 11, AirPods Pro 3, more - ZDNET
 - Apple Watch hypertension alerts cleared by FDA for new and old watches - The Verge
