@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-12 17:40_
+_Updated: 2025-09-12 18:42_
 
 ## Top Stories
 
-- Erna Solberg avgår som partiledare för norska konservativa partiet - SVT Nyheter
-- Man gripen efter mordet på högerdebattören Charlie Kirk - GP
-- SD:s gruppledare om Stegrud: ”Kommer inte vidta åtgärder” - DN
+- 22-årig man gripen för mordet på Charlie Kirk - DN
 - Tusk: Trumps teori om ryska drönare stämmer inte - Västerbottens-Kuriren
-- En sommar av förnedring är över - SvD
-- Mer regn har fallit i redan översvämmade områden - GP
-- Tongivande gängkriminell utlämnad från Dubai - Polisen.se
-- Budgetsatsning på psykiatrivården - SVT Nyheter
+- Regeringen satsar på bättre förutsättningar för lärares undervisningsuppdrag och förbättrat stöd till elever - Regeringen.se
+- Vill inte bråka med Trump – Europa bakbundet om Gaza - GP
+- Fortsatt strömavbrott på Ingarö – många träd föll i ovädret - Nacka Värmdö Posten
+- Fejkade tjänsteresa till Ghana – Malmö stad sparkar anställd - Sydsvenskan
+- 300 mil väg påverkat av skyfallet – krishjälp från EU - DN
+- Tongivande gängkriminell utlämnad från Dubai - polisen.se
+- SD:s gruppledare om Stegrud: ”Kommer inte vidta åtgärder” - DN
 - Sex säljs i köp-och-sälj-grupper på sociala medier: ”Gigantiskt problem” - DN
-- DN Direkt - Svensk radioprofil vinner internationellt countrypris - DN
-- Danmark köper luftvärn för rekordbelopp - Aftonbladet
-- Stigande dödstal i oroligt Nepal - Västerbottens-Kuriren
-- WHO:s arbetare stannar i Gaza stad - GP
-- 161 misstänkta IS-medlemmar gripna i Turkiet - Västerbottens-Kuriren
+- WHO:s arbetare stannar i Gaza stad - Västerbottens-Kuriren
+- Ryssland ska ha skjutit ner över 200 ukrainska drönare - Omni
+- Svensken som hamnade mitt i Kennedys vaccinkrig 12 september 2025 - Konflikt - Sveriges Radio
+- Expresident Bolsonaro döms till fängelse för kuppförsök - DN
+- Svenska Erik stämd av miljardären – hämnden - Expressen
+- Stocks in Play - uppåt för Svolder efter höjd utdelning - Börsvärlden
 - Sebastian Siemiatkowski miljardlånar – köper ut amerikaner - Dagens industri
-- Oracles Larry Ellison blev världens rikaste – finns ett problem | Björn Jeffery - SvD
-- Affärsvärlden landar i en neutral hållning för Svolder - Börsvärlden
-- Microsoft plockar bort Teams ur Office-paketet - Aftonbladet
+- Fler tvingas flyga inrikes efter ovädret - Omni
 - Teaser: Chris Pratt är tillbaka som Mario i ”The Super Mario Galaxy Movie” – premiär i vår - MovieZine
 - Idag släpps ”Borderlands 4” – pangar in fina betyg - MovieZine
 
@@ -59,8 +59,8 @@ _Updated: 2025-09-12 17:40_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
@@ -79,6 +79,7 @@ _Updated: 2025-09-12 17:40_
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
@@ -92,7 +93,6 @@ _Updated: 2025-09-12 17:40_
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - The ONE Group Hospitality, Inc. Appoints Nicole Thaung as Chief Financial Officer - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
@@ -117,25 +117,48 @@ _Updated: 2025-09-12 17:40_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
+## Science
+
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
+- Sherry Nakhaeizadeh - Uppsala universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Upp till försvar för forskningen - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Stärkt life science-forskning är till godo för patienterna - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Nyheter - LRF - Lantbrukarnas Riksförbund
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
