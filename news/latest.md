@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-12 19:48_
+_Updated: 2025-09-12 20:49_
 
-- Tyler Robinson named suspect in Charlie Kirk shooting, how he was caught - ABC News
-- Nato to bolster eastern defences after Russian drone incursion - Financial Times
-- Trump scraps plans to send National Guard to Chicago for now, says they're going to Memphis instead - CBS News
+- What we know about Charlie Kirk shooting suspect Tyler Robinson - CNN
+- US immigration officers kill man trying to flee vehicle stop near Chicago - The Guardian
+- President Trump Honors Charlie Kirk, Calls for Unity Through Success in Powerful Interview - The White House (.gov)
+- News: NATO launches “Eastern Sentry” to bolster posture along eastern flank, 12-Sep.-2025 - NATO
+- Trump says he’ll send National Guard to Memphis, escalating his use of troops in US cities - AP News
 - Rubio vows US response following conviction of Brazil's Bolsonaro - Reuters
-- US joins UN Security Council condemnation of Israeli strikes on Qatar - BBC
-- Exclusive: "Silly" to plan for a tariff loss at SCOTUS, Lutnick says - Axios
-- California passes ICE mask ban in closing days of legislative session - CalMatters
-- South Korea outraged at 300 workers treated as ‘prisoners of war’ in US raid - The Guardian
-- Supreme Court's upcoming term could be marked by disputes over Trump policies - CBS News
+- California lawmakers pass bill banning law enforcement officers from covering their faces - Los Angeles Times
+- U.S. Secret Service puts agent on leave who wrote negative Facebook post about Charlie Kirk, official says - CBS News
+- South Korean workers return home after days in detention following US immigration raid - AP News
 - Hoaxes Target Black Colleges, Shutting Classes as Anxiety Mounts in U.S. - The New York Times
-- Former Judge Sushila Karki Named Nepal’s Leader After Gen Z Protests - The New York Times
+- Nepal appoints its first female PM after historic week of deadly protests - The Guardian
+- Prince Harry makes surprise visit to Kyiv to see wounded veterans - The Washington Post
 - South Africa reopens inquest into death of Steve Biko - NPR
-- Prince Harry makes surprise visit to Ukraine in support of wounded service members - ABC News
-- After 5 lions kill zookeeper in Thailand, scrutiny on safari park's animal treatment intensifies - CBS News
-- OpenAI reaches new agreement with Microsoft to change its corporate structure - Yahoo Finance
-- Nasdaq hits record, S&P 500 heads for winning week as Fed decision looms: Live updates - CNBC
+- Secret Report Undercuts U.K. Condemnations of Pro-Palestinian Group - The New York Times
 - Trump officials to link covid shots to child deaths, alarming career scientists - The Washington Post
+- Warner Bros. Discovery Stock Extends Surge on Paramount Skydance Takeover Reports - Investopedia
+- Dow Jones Today: Dow Slips as Nasdaq Hits New Record High; Warner Bros. Discovery Extends Gains on Paramount Bid - Investopedia
 - Health care costs are soaring. Blame insurers, drug companies — and your employer - NPR
-- Verizon will give you an iPhone 17 Pro free with trade-in right now - how the deal works - ZDNET
+- iPhone 17 preorders are open: Here's where you can find free phone deals - ZDNET
 - Apple Watch hypertension alerts cleared by FDA for new and old watches - The Verge
