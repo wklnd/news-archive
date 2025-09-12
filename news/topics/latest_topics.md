@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-12 18:42_
+_Updated: 2025-09-12 19:38_
 
 ## Top Stories
 
-- 22-årig man gripen för mordet på Charlie Kirk - DN
+- Man gripen efter mordet på högerdebattören Charlie Kirk - GP
+- Fjellner om V-toppens mejl: En skandal utan dess like - Aftonbladet
 - Tusk: Trumps teori om ryska drönare stämmer inte - Västerbottens-Kuriren
+- En sommar av förnedring är över - SvD
 - Regeringen satsar på bättre förutsättningar för lärares undervisningsuppdrag och förbättrat stöd till elever - Regeringen.se
-- Vill inte bråka med Trump – Europa bakbundet om Gaza - GP
-- Fortsatt strömavbrott på Ingarö – många träd föll i ovädret - Nacka Värmdö Posten
-- Fejkade tjänsteresa till Ghana – Malmö stad sparkar anställd - Sydsvenskan
+- SD:s gruppledare om Stegrud: ”Kommer inte vidta åtgärder” - DN
 - 300 mil väg påverkat av skyfallet – krishjälp från EU - DN
 - Tongivande gängkriminell utlämnad från Dubai - polisen.se
-- SD:s gruppledare om Stegrud: ”Kommer inte vidta åtgärder” - DN
-- Sex säljs i köp-och-sälj-grupper på sociala medier: ”Gigantiskt problem” - DN
-- WHO:s arbetare stannar i Gaza stad - Västerbottens-Kuriren
+- ”Förbered för våldsammare väder” - Västerbottens-Kuriren
+- Budgetsatsning på psykiatrivården - SVT Nyheter
+- WHO:s arbetare stannar i Gaza stad - GP
 - Ryssland ska ha skjutit ner över 200 ukrainska drönare - Omni
-- Svensken som hamnade mitt i Kennedys vaccinkrig 12 september 2025 - Konflikt - Sveriges Radio
-- Expresident Bolsonaro döms till fängelse för kuppförsök - DN
-- Svenska Erik stämd av miljardären – hämnden - Expressen
+- Bolsonaro döms till fängelse & äldre vill lyssna på nostalgi – P3 Nyheter med Linnéa Beijer - Sveriges Radio
+- Larm om skadad person i Liljeholmen - Expressen
 - Stocks in Play - uppåt för Svolder efter höjd utdelning - Börsvärlden
+- Oracles Larry Ellison blev världens rikaste – finns ett problem | Björn Jeffery - SvD
 - Sebastian Siemiatkowski miljardlånar – köper ut amerikaner - Dagens industri
-- Fler tvingas flyga inrikes efter ovädret - Omni
+- Meko: Skrotpris på aktien - Affärsvärlden
 - Teaser: Chris Pratt är tillbaka som Mario i ”The Super Mario Galaxy Movie” – premiär i vår - MovieZine
 - Idag släpps ”Borderlands 4” – pangar in fina betyg - MovieZine
 
@@ -58,11 +58,11 @@ _Updated: 2025-09-12 18:42_
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
+- 290 million for digitalisation of Swedish industry - Vinnova
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
@@ -74,13 +74,12 @@ _Updated: 2025-09-12 18:42_
 ## Business
 
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Publication of the 2025 Half-Year Report - Placera.se
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
+- Decibel Delivers Strong Revenue Growth and Profitability in Second Quarter - Placera.se
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
@@ -92,7 +91,8 @@ _Updated: 2025-09-12 18:42_
 - ATI Chief Financial Officer Don Newman Announces Retirement - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - The ONE Group Hospitality, Inc. Appoints Nicole Thaung as Chief Financial Officer - Placera.se
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
@@ -144,21 +144,21 @@ _Updated: 2025-09-12 18:42_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- USA tvingar ut EU på banan - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
