@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-12 12:41_
+_Updated: 2025-09-12 13:37_
 
 ## Top Stories
 
-- Tongivande gängkriminell utlämnad från Dubai - polisen.se
 - SD:s gruppledare om Stegrud: ”Kommer inte vidta åtgärder” - DN
-- FBI släpper bild på misstänkt man i Charlie Kirk-utredningen - SVT Nyheter
+- Republikan i Utah skyller mordet på transrörelsen - DN
+- Tongivande gängkriminell utlämnad från Dubai - polisen.se
+- En fortsatt allvarligt skadad i bussolyckan på E4 - Folkbladet
 - Bolsonaro döms till fängelse & äldre vill lyssna på nostalgi – P3 Nyheter med Linnéa Beijer - Sveriges Radio
-- Avhoppade V-toppen anklagas: Pressade sin hyresvärd - Omni
 - Krogprofil i Göteborg häktad misstänkt för våldtäkt - GP
 - Örnsköldsvik förbereder sig för ännu mer regn - DN
-- Kommunalrådet: Kiruna kommer att stå sig starkt - Aftonbladet
+- Nu ska lärare får mer tid för planering - GP
 - Norsk fiskeindustri förlorar miljoner efter skyfallen - DN
-- Kebnekaises sydtopp krymper - Västerbottens-Kuriren
+- Sex säljs i köp-och-sälj grupper på sociala medier: ”Gigantiskt problem” - DN
 - Danmark köper luftvärn för rekordbelopp - Aftonbladet
-- 161 misstänkta IS-medlemmar gripna i Turkiet - GP
-- Tusk: Trumps teori om ryska drönare stämmer inte - Hufvudstadsbladet
 - Stigande dödstal i oroligt Nepal - Västerbottens-Kuriren
-- Microsoft plockar bort Teams ur Office-paketet - Aftonbladet
+- 161 misstänkta IS-medlemmar gripna i Turkiet - GP
+- Ryssland ska ha skjutit ner över 200 ukrainska drönare - Omni
 - Siemiatkowski lånade en miljard inför Klarnas IPO - EFN
-- Spotify-vd:ns aktieaffärer förbryllar – på väg bort? - Dagens PS
+- Microsoft plockar bort Teams ur Office-paketet - Aftonbladet
 - SSAB:s VD råkar säga fel sanning - Affärsvärlden
+- Volkswagenchefen varnar: Festen är över - SvD
 - Idag släpps ”Borderlands 4” – pangar in fina betyg - MovieZine
 - Intel återlanserar 2020-CPU som Core i5-110 - SweClockers
 
@@ -30,22 +30,23 @@ _Updated: 2025-09-12 12:41_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
-- 1 426 potential victims identified in global operation against human trafficking - Europol
-- Here’s what happened in 2022 in 10 striking pictures - The World Economic Forum
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Thailand and Cambodia to hold talks on deadly border conflict in Malaysia - Reuters
-- We Are One: How the world's film festivals came together - BBC
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Quebec judge authorizes class-action lawsuit against ‘addictive’ Fortnite video game - Global News
-- Tugs free ship grounded in Egypt's Suez Canal - one of world's busiest shipping routes - Sky News
-- Chris Licht Named Chairman and CEO of Discovery’s CNN Global - Variety
+- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
-- A Pessimist’s Guide to Global Economic Risks in 2024 - Bloomberg.com
-- Ikea paves way for first Indian store - BBC
-- Geetanjali Shree is first Indian winner of International Booker Prize - BBC
-- Russia picks team for film shot on International Space Station - BBC
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Från bussresor i Småland till global resehub med miljardomsättning - Dagens PS
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- 🌏 Global ojämlikhet minskar faktiskt - Warp News
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 
 ## Technology
 
@@ -74,24 +75,24 @@ _Updated: 2025-09-12 12:41_
 
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
-- Publication of the 2025 Half-Year Report - Placera.se
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- NextDecade Announces Positive Final Investment Decision and Financial Close on Train 4 at Rio Grande LNG - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- ATI Chief Financial Officer Don Newman Announces Retirement - Placera.se
-- The ONE Group Hospitality, Inc. Appoints Nicole Thaung as Chief Financial Officer - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Publication of the 2025 Half-Year Report - Placera.se
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- DeFi Technologies Reports All-Time High in Bitcoin Assets Under Management and Treasury Holdings - Placera.se
 
 ## Health
 
@@ -107,14 +108,14 @@ _Updated: 2025-09-12 12:41_
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - Samverkan - Göteborgs universitet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
 ## Science
 
@@ -137,14 +138,13 @@ _Updated: 2025-09-12 12:41_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -152,8 +152,8 @@ _Updated: 2025-09-12 12:41_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - (+) Stor undersökning av jordbruket - Arbetarskydd
+- De gick från reko till eko - ST-tidningen
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Nyheter - LRF - Lantbrukarnas Riksförbund
@@ -161,3 +161,4 @@ _Updated: 2025-09-12 12:41_
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk
