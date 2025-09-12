@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-13 00:39_
+_Updated: 2025-09-13 01:38_
 
 ## Top Stories
 
 - Man gripen efter mordet på högerdebattören Charlie Kirk - GP
 - 300 mil väg påverkat av skyfallet – krishjälp från EU - DN
-- Fler länder kallar upp ryska ambassadörer - Västerbottens-Kuriren
-- Europeiska utrikesministrar fördömer Israels Qatarattack – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Efter ryska drönarna: Nato förstärker i öst - Västerbottens-Kuriren
+- Ovädret orsakade totalstopp i tågtrafiken – då får du pengar - Södermanlands Nyheter
 - Efter attacken: Rubio ska träffa Qatar och Israel - GP
 - Mannen som förvarade sina föräldrar i frysbox: ”Ovanligt i Finland” - Hufvudstadsbladet
 - Nu visas den omtalade rymdstenen - Västerbottens-Kuriren
 - Lärare får mer planeringstid – planen kritiseras - GP
 - Insändare. Läs guiden om skogen innan du röstar i kyrkovalet - DN
 - SD:s gruppledare om Stegrud: ”Kommer inte vidta åtgärder” - DN
+- Intensiva bombningar i Gaza – minst 50 döda – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - DN Direkt - Trump hotar skicka militär till Memphis - DN
 - Bolsonaro döms till fängelse & äldre vill lyssna på nostalgi – P3 Nyheter med Linnéa Beijer - Sveriges Radio
 - Michael Winiarski: Trump på väg att överge Ukraina och Europa - DN
-- Israel om FN:s ja till tvåstatslösning: ”Skamligt” - Västerbottens-Kuriren
 - Stocks in Play - uppåt för Svolder efter höjd utdelning - Börsvärlden
+- MINDRE RÖRELSER MED BOLIDEN I TOPP, OMXS30 OFÖR - Placera.se
 - Microsoft plockar bort Teams ur Office-paketet - Aftonbladet
 - Sebastian Siemiatkowski miljardlånar – köper ut amerikaner - Dagens industri
-- Affärsvärlden landar i köpråd för Meko - Affärsvärlden
 - Teaser: Chris Pratt är tillbaka som Mario i ”The Super Mario Galaxy Movie” – premiär i vår - moviezine.se
-- Carlos vinner Europeiskt pris för bästa poster i stor konkurrens - Umeå universitet
+- Dolda miljonsuccén: Spel med Umeåkoppling toppade säljlista - Västerbottens-Kuriren
 
 ## World News
 
@@ -41,7 +41,7 @@ _Updated: 2025-09-13 00:39_
 - Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Från bussresor i Småland till global resehub med miljardomsättning - Dagens PS
+- Kabinpersonalens nej hotar din höstresa – flygbranschen i global konflikt - Dagens PS
 - 7 saker om EQTY Global Growth II Fund - The Portugal News
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -73,26 +73,26 @@ _Updated: 2025-09-13 00:39_
 
 ## Business
 
-- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Decibel Delivers Strong Revenue Growth and Profitability in Second Quarter - Placera.se
-- DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Publication of the 2025 Half-Year Report - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- NextDecade Announces Positive Final Investment Decision and Financial Close on Train 4 at Rio Grande LNG - Placera.se
-- ATI Chief Financial Officer Don Newman Announces Retirement - Placera.se
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- NextDecade Announces Positive Final Investment Decision and Financial Close on Train 4 at Rio Grande LNG - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ATI Chief Financial Officer Don Newman Announces Retirement - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 
 ## Health
 
