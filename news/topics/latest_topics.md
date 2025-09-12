@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-12 21:38_
+_Updated: 2025-09-12 22:39_
 
 ## Top Stories
 
-- 22-årig man gripen för mordet på Charlie Kirk - DN
-- Så ska svenska vägar anpassas för att klara mer regnkaos - GP
-- Uttalande från Utrikesdepartementet med anledning av uppkallande av Rysslands ambassadör - Regeringen.se
+- Tyler Robinson, 22, misstänks för mordet på Charlie Kirk - SVT Nyheter
+- 300 mil väg påverkat av skyfallet – krishjälp från EU - DN
+- Efter ryska drönarna: Nato förstärker i öst - GP
 - Fjellner om V-toppens mejl: En skandal utan dess like - Aftonbladet
+- Ryssland och Belarus inleder stor militärövning - GP
 - Fejkade tjänsteresa till Ghana – Malmö stad sparkar anställd - Sydsvenskan
-- Regeringen satsar på bättre förutsättningar för lärares undervisningsuppdrag och förbättrat stöd till elever - Regeringen.se
 - Nu visas den omtalade rymdstenen - Västerbottens-Kuriren
-- Trio åtalas för mord på kvinna i 60-årsåldern – ska ha planerat fler mord samma dag - DN
+- Lärare får mer planeringstid – planen kritiseras - GP
 - Insändare. Läs guiden om skogen innan du röstar i kyrkovalet - DN
-- SD:s gruppledare om Stegrud: ”Kommer inte vidta åtgärder” - DN
-- DN Direkt - Trump hotar skicka militär till Memphis - DN
-- Israel om FN:s ja till tvåstatslösning: ”Skamligt” - GP
-- Bolsonaro döms till fängelse & äldre vill lyssna på nostalgi – P3 Nyheter med Linnéa Beijer - Sveriges Radio
-- Ryssland ska ha skjutit ner över 200 ukrainska drönare - Omni
+- Trio åtalas för mord på kvinna i 60-årsåldern – ska ha planerat fler mord samma dag - DN
+- Trump hotar skicka militär till Memphis - Västerbottens-Kuriren
+- Europeiska utrikesministrar fördömer Israels Qatarattack – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Israel om FN:s ja till tvåstatslösning: ”Skamligt” - Västerbottens-Kuriren
+- Expresident Bolsonaro döms till 27 års fängelse - UNT
 - Stocks in Play - uppåt för Svolder efter höjd utdelning - Börsvärlden
-- Svenska Erik stämd av miljardären – hämnden - Expressen
+- Microsoft plockar bort Teams ur Office-paketet - Aftonbladet
 - Meko: Skrotpris på aktien - Affärsvärlden
-- Han kan skjuta ner Putins drönare för 5000 dollar - Dagens PS
+- Sebastian Siemiatkowski miljardlånar – köper ut amerikaner - Dagens industri
 - Teaser: Chris Pratt är tillbaka som Mario i ”The Super Mario Galaxy Movie” – premiär i vår - MovieZine
 - Carlos vinner Europeiskt pris för bästa poster i stor konkurrens - Umeå universitet
 
@@ -58,12 +58,12 @@ _Updated: 2025-09-12 21:38_
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- 290 million for digitalisation of Swedish industry - Vinnova
-- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
@@ -82,17 +82,17 @@ _Updated: 2025-09-12 21:38_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
+- DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- NextDecade Announces Positive Final Investment Decision and Financial Close on Train 4 at Rio Grande LNG - Placera.se
+- ALT5 Sigma Corporation Appoints Jonathan Hugh as CFO - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ATI Chief Financial Officer Don Newman Announces Retirement - Placera.se
+- NextDecade Announces Positive Final Investment Decision and Financial Close on Train 4 at Rio Grande LNG - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- ATI Chief Financial Officer Don Newman Announces Retirement - Placera.se
 - The ONE Group Hospitality, Inc. Appoints Nicole Thaung as Chief Financial Officer - Placera.se
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
@@ -125,6 +125,7 @@ _Updated: 2025-09-12 21:38_
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Studie om mikroplast fälld för fusk - Stockholms universitet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - The Association for Frontotemporal Degeneration
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
@@ -136,29 +137,28 @@ _Updated: 2025-09-12 21:38_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Stärkt life science-forskning är till godo för patienterna - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Nyheter - LRF - Lantbrukarnas Riksförbund
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- USA tvingar ut EU på banan - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
