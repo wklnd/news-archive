@@ -1,33 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-13 06:40_
+_Updated: 2025-09-13 07:38_
 
 ## Top Stories
 
-- Man gripen efter mordet på högerdebattören Charlie Kirk - GP
-- Åkaren Simon efter skyfallen: ”Värsta jag sett” - Västerbottens-Kuriren
-- Trump: Mitt tålamod med Putin börjar snabbt ta slut - Expressen
+- Ledare: Kan vi lära oss något av mordet på Charlie Kirk? - NWT
+- Trump mötte Qatars premiärminister efter israelisk attack – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Toaletten som kunde kostat Rörö en vårdcentral - GP
 - ”Min regering kommer inte vara soft on crime” - SvD
-- Intensiva bombningar i Gaza – minst 50 döda - GP
-- DN Direkt - V kallar Busch till utskott om Kirunastöd - DN
+- Åkaren Simon efter skyfallen: ”Värsta jag sett” - Västerbottens-Kuriren
+- Explosion vid flerfamiljshus - Aftonbladet
 - Så byggdes Sveriges hemliga motståndsrörelse - DN
-- Lärare får mer planeringstid – planen kritiseras - GP
-- Insändare. Läs guiden om skogen innan du röstar i kyrkovalet - DN
+- Kommunalrådet: Kiruna kommer att stå sig starkt - Västerbottens-Kuriren
+- Regeringen satsar på bättre förutsättningar för lärares undervisningsuppdrag och förbättrat stöd till elever - Regeringen.se
+- Insändare: Din röst i kyrkovalet kan rädda skogen - VF
+- Syrien: Förhandlar med Israel - Västerbottens-Kuriren
+- Mordförsök i Malmö – kvinna svårt skadad - Expressen
 - Tusk: Trumps teori om ryska drönare stämmer inte - Hufvudstadsbladet
-- DN Direkt - Trump hotar skicka militär till Memphis - DN
 - Ryssland ska ha skjutit ner över 200 ukrainska drönare - Omni
-- Vill inte bråka med Trump – Europa bakbundet om Gaza - Västerbottens-Kuriren
-- Regeringen skrotar dagens elevstöd – barn med NPF-diagnos får lämna klassen - Skånska Dagbladet
+- Oracles Larry Ellison blev världens rikaste – finns ett problem | Björn Jeffery - SvD
 - Byggnads hyllar stopp för långa underentreprenörsled - Byggnads
+- Regeringen skrotar dagens elevstöd – barn med NPF-diagnos får lämna klassen - Skånska Dagbladet
 - Dyrare fjärrvärme nästa år: ”Leverera värme på ett stabilt, tryggt och hållbart sätt” - sla.se
-- DEBATT: Regeringens hushållspaket ger mer i plånboken! - VLT
+- Sony släpper ny Xperia-mobil med kamerabar - m3.se
 - Releasedatum för ”Metroid Prime 4” – Samus trivs bäst i öppna landskap - MovieZine
-- Idag släpps ”Borderlands 4” – pangar in fina betyg - MovieZine
 
 ## World News
 
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- VNV Global ska återköpa aktier - Privata Affärer
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
@@ -35,7 +36,6 @@ _Updated: 2025-09-13 06:40_
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -74,25 +74,25 @@ _Updated: 2025-09-13 06:40_
 ## Business
 
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Publication of the 2025 Half-Year Report - Placera.se
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Decibel Delivers Strong Revenue Growth and Profitability in Second Quarter - Placera.se
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
+- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
-- DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Tribe Property Technologies Appoints Scott Ullrich as New Chief Financial Officer - Placera.se
+- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- NextDecade Announces Positive Final Investment Decision and Financial Close on Train 4 at Rio Grande LNG - Placera.se
+- Publication of the 2025 Half-Year Report - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ATI Chief Financial Officer Don Newman Announces Retirement - Placera.se
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- The ONE Group Hospitality, Inc. Appoints Nicole Thaung as Chief Financial Officer - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
