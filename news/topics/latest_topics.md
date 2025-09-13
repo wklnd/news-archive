@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-13 22:37_
+_Updated: 2025-09-13 23:37_
 
 ## Top Stories
 
-- Ryska drönare nära Polens gräns – Natos jaktplan inkallade - Hufvudstadsbladet
 - Människor samlas för att se bombningarna – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Utredarna försöker kartlägga motivet på Charlie Kirk - DN
-- Kristersson om Stegrud: ”Förfärligt” - Västerbottens-Kuriren
-- Från folkhem till Hemnetdröm – så lärde bankerna och mäklarna oss att älska bolån - DN
-- Omfattande demonstrationer i London - SVT Nyheter
+- Rysslands drönare flög in i Rumänien - Hufvudstadsbladet
+- Kristersson om Stegrud: Mycket dumheter i svensk politik - DN
+- Debatt: Charlie Kirk är död – och med honom en bit av det fria ordet - Norran
+- Drivor med post dumpades – i fel trapphus - Aftonbladet
+- Sista Viggenpiloten: ”Vi skulle överraska Sovjet” - SvD
 - DN Direkt - Hotar publicera personuppgifter från it-attack - DN
 - Försvaret tvingas åka till Kreta för att skjuta skarpt - DN
 - SMHI varnar: Mer regn väntar Västernorrland - GP
-- Kristersson bjuder in till tillväxtpakt - SVT Nyheter
-- Frontalkrock på E4 – fem till sjukhus - Expressen
-- Trump utlovar hårda sanktioner mot Ryssland – på ett villkor - Hufvudstadsbladet
-- Minst 25 skadade efter gasexplosion i Madrid - Västerbottens-Kuriren
-- DIREKT: Polen i flygmanöver efter rysk kränkning - HD
+- ”Rösta i kyrkovalet – för de anställdas skull” - Västerbottens-Kuriren
+- Erkänner: Dödade barnen och lade dem i resväskor - Västerbottens-Kuriren
+- Musk deltog i högerextrem demonstration i London - GP
+- Trump: Nya sanktioner – om Nato stryper rysk olja - DN
+- DN Direkt - Explosion på kafé i Madrid – 20-tal skadade - DN
 - Norgepriser och kvartspriser – så blir elpriserna i vinter - Expressen
-- Astra Zeneca pausar brittisk miljardsatsning - Aftonbladet
-- Vapenvila, bubbelfarhågor och AI-kompetenskris - Realtid
 - Staten har lagt 600 miljarder på att skapa en kris - Aftonbladet
-- Super Mario Galaxy-spelen i kollektionen går att köpa separata - FZ.se
+- Astra Zeneca pausar brittisk miljardinvestering - Omni
+- DEBATT: ”Fjärrvärmens framtid hotas av skenande priser” - Barometern-OT
 - Satte dieselmotor i sin Lamborghini - Carup.se
+- Super Mario Galaxy-spelen i kollektionen går att köpa separata - FZ.se
 
 ## World News
 
@@ -59,61 +59,61 @@ _Updated: 2025-09-13 22:37_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- USA:s AI-försprång mot Kina krymper snabbt - Computer Sweden
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
-- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
+- Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
 
 ## Business
 
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Publication of the 2025 Half-Year Report - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Tribe Property Technologies Appoints Scott Ullrich as New Chief Financial Officer - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
 
 ## Health
 
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Osher centrum för integrativ hälsa - Karolinska Institutet
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
+- Möjliga samband mellan orala sjukdomar och demens - Läkartidningen
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
@@ -131,14 +131,14 @@ _Updated: 2025-09-13 22:37_
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Upp till försvar för forskningen - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Stärkt life science-forskning är till godo för patienterna - Läkartidningen
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
 
