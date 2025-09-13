@@ -1,57 +1,56 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-13 05:40_
+_Updated: 2025-09-13 06:40_
 
 ## Top Stories
 
 - Man gripen efter mordet på högerdebattören Charlie Kirk - GP
 - Åkaren Simon efter skyfallen: ”Värsta jag sett” - Västerbottens-Kuriren
-- Europeiska utrikesministrar fördömer Israels Qatarattack – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Trump: Mitt tålamod med Putin börjar snabbt ta slut - Expressen
-- Kvinna överfallen av okänd man i Malmö - Omni
-- Efter ryska drönarna: Nato förstärker i öst - Västerbottens-Kuriren
-- Lärare får mer planeringstid – planen kritiseras - GP
-- Debatt: Hållbarhetsmålen måste genomsyra hela kyrkans verksamhet - Corren
-- SD-topp om Stegrud: Vidtar inga åtgärder - Västerbottens-Kuriren
+- Toaletten som kunde kostat Rörö en vårdcentral - GP
+- ”Min regering kommer inte vara soft on crime” - SvD
+- Intensiva bombningar i Gaza – minst 50 döda - GP
 - DN Direkt - V kallar Busch till utskott om Kirunastöd - DN
+- Så byggdes Sveriges hemliga motståndsrörelse - DN
+- Lärare får mer planeringstid – planen kritiseras - GP
+- Insändare. Läs guiden om skogen innan du röstar i kyrkovalet - DN
+- Tusk: Trumps teori om ryska drönare stämmer inte - Hufvudstadsbladet
 - DN Direkt - Trump hotar skicka militär till Memphis - DN
 - Ryssland ska ha skjutit ner över 200 ukrainska drönare - Omni
-- Bolsonaro döms till fängelse & äldre vill lyssna på nostalgi – P3 Nyheter med Linnéa Beijer - Sveriges Radio
 - Vill inte bråka med Trump – Europa bakbundet om Gaza - Västerbottens-Kuriren
-- Oracle gör rekordaffär med Open AI och Ellison blir världens rikaste – ett tag - Voister
 - Regeringen skrotar dagens elevstöd – barn med NPF-diagnos får lämna klassen - Skånska Dagbladet
 - Byggnads hyllar stopp för långa underentreprenörsled - Byggnads
 - Dyrare fjärrvärme nästa år: ”Leverera värme på ett stabilt, tryggt och hållbart sätt” - sla.se
+- DEBATT: Regeringens hushållspaket ger mer i plånboken! - VLT
 - Releasedatum för ”Metroid Prime 4” – Samus trivs bäst i öppna landskap - MovieZine
-- Här är höjdpunkterna från Nintendos stora höstpresentation - Cafe.se
+- Idag släpps ”Borderlands 4” – pangar in fina betyg - MovieZine
 
 ## World News
 
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Global Payments Releases 2025 Global Responsibility Report - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Från bussresor i Småland till global resehub med miljardomsättning - Dagens PS
-- 7 saker om EQTY Global Growth II Fund - The Portugal News
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- 🌏 Global ojämlikhet minskar faktiskt - Warp News
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
-- Kabinpersonalens nej hotar din höstresa – flygbranschen i global konflikt - Dagens PS
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
 ## Technology
 
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -59,7 +58,7 @@ _Updated: 2025-09-13 05:40_
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- 290 million for digitalisation of Swedish industry - Vinnova
+- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
@@ -67,6 +66,7 @@ _Updated: 2025-09-13 05:40_
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
@@ -106,14 +106,14 @@ _Updated: 2025-09-13 05:40_
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Osher centrum för integrativ hälsa - Karolinska Institutet
-- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
@@ -143,22 +143,22 @@ _Updated: 2025-09-13 05:40_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- USA tvingar ut EU på banan - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Skyll inte på bönderna! - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- De gick från reko till eko - ST-tidningen
