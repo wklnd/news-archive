@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-13 19:37_
+_Updated: 2025-09-13 20:41_
 
 ## Top Stories
 
 - DN Direkt - Hotar publicera personuppgifter från it-attack - DN
-- Ryska drönare nära Polens gräns – Natos jaktplan inkallade - Hufvudstadsbladet
 - Omfattande demonstrationer i London - SVT Nyheter
+- Ryska drönare nära Polens gräns – Natos jaktplan inkallade - Hufvudstadsbladet
 - Charlie Kirks änka bryter tystnaden - GP
-- Kristersson bjuder in till tillväxtpakt - SVT Nyheter
-- Kriminella utlämnade från Dubai häktade - Västerbottens-Kuriren
-- Kristersson om Stegrud: Mycket dumheter i svensk politik - DN
-- SMHI varnar: Mer regn väntar Västernorrland - Västerbottens-Kuriren
-- Massiv protest till sjöss: Dumpa inte muddermassor här - DN
 - Försvaret tvingas åka till Kreta för att skjuta skarpt - DN
+- Sista Viggenpiloten: ”Vi skulle överraska Sovjet” - SvD
+- Kristersson om Stegrud: ”Förfärligt” - Västerbottens-Kuriren
+- Kristersson bjuder in till tillväxtpakt - SVT Nyheter
+- SMHI varnar: Mer regn väntar Västernorrland - GP
+- ”Rösta i kyrkovalet – för de anställdas skull” - Västerbottens-Kuriren
 - Trump: Nya sanktioner – om Nato stryper rysk olja - DN
-- Minst 25 skadade efter gasexplosion i Madrid - GP
-- DIREKT: Trump vill att Natoländerna inför strafftullar mot Kina - HD
 - Människor samlas för att se bombningarna – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Astra Zeneca pausar brittisk miljardsatsning - Aftonbladet
-- Trump: Redo för stora sanktioner mot Ryssland - Expressen
+- Minst 25 skadade efter gasexplosion i Madrid - GP
+- DIREKT: Polen i flygmanöver efter rysk kränkning - HD
 - Norgepriser och kvartspriser – så blir elpriserna i vinter - Expressen
-- Ölstriden: ”Vi är inte frun, utan älskarinnan” - SvD
+- Länsförsäkringars Swishproblem lösta - Aftonbladet
+- Vapenvila, bubbelfarhågor och AI-kompetenskris - Realtid
+- Astra Zeneca pausar brittisk miljardinvestering - Omni
 - Blind box framgångsrik affärsidé - grisen i säcken - SvD
-- Båtintresserade gjorde stopp i Säffle – studiebesök hos bogserbåten Rolf - Säffle-Tidningen
+- Hela remake-trilogin av Final Fantasy 7 kommer till Switch 2 - FZ.se
 
 ## World News
 
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - VNV Global ska återköpa aktier - Privata Affärer
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
-- Techarenan News goes English (Partly at least) - Techarenan.news
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Here’s what happened in 2022 in 10 striking pictures - The World Economic Forum
+- We Are One: How the world's film festivals came together - BBC
+- Cleanup of air pollution heats the Earth - cicero.oslo.no
+- Chinese Manufacturers Are Peeling Off the Veneer of Western Luxury - Morocco World News
+- The Art of the Deal (Greenland edition) - Politico
+- Sudan court sentences three men to hand amputation for stealing - The Guardian
 - World Athletics introduces gene test for female category - BBC
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- ARAMIS Global Ambassador, Dwyane Wade, Celebrates New Fragrance Launch During New York Fashion Week - Placera.se
-- 🌏 Global ojämlikhet minskar faktiskt - Warp News
+- A Pessimist’s Guide to Global Economic Risks in 2024 - Bloomberg.com
+- Geetanjali Shree is first Indian winner of International Booker Prize - BBC
 
 ## Technology
 
@@ -96,69 +96,69 @@ _Updated: 2025-09-13 19:37_
 
 ## Health
 
-- Triglyceridrika lipoproteiner – farligare än LDL-kolesterol? - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
-- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Osher centrum för integrativ hälsa - Karolinska Institutet
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
+- Möjliga samband mellan orala sjukdomar och demens - Läkartidningen
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Studie om mikroplast fälld för fusk - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Upp till försvar för forskningen - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Stärkt life science-forskning är till godo för patienterna - Läkartidningen
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
