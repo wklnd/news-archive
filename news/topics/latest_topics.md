@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-13 21:37_
+_Updated: 2025-09-13 22:37_
 
 ## Top Stories
 
-- Rysslands drönare flög in i Rumänien - Hufvudstadsbladet
+- Ryska drönare nära Polens gräns – Natos jaktplan inkallade - Hufvudstadsbladet
 - Människor samlas för att se bombningarna – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Utredarna försöker kartlägga motivet på Charlie Kirk - DN
-- Omfattande demonstrationer i London - SVT Nyheter
 - Kristersson om Stegrud: ”Förfärligt” - Västerbottens-Kuriren
-- Sista Viggenpiloten: ”Vi skulle överraska Sovjet” - SvD
+- Från folkhem till Hemnetdröm – så lärde bankerna och mäklarna oss att älska bolån - DN
+- Omfattande demonstrationer i London - SVT Nyheter
 - DN Direkt - Hotar publicera personuppgifter från it-attack - DN
-- Kristersson bjuder in till tillväxtpakt - SVT Nyheter
-- Massiv protest till sjöss: Dumpa inte muddermassor här - DN
 - Försvaret tvingas åka till Kreta för att skjuta skarpt - DN
-- Trump: Nya sanktioner – om Nato stryper rysk olja - DN
-- Minst 25 skadade efter gasexplosion i Madrid - GP
+- SMHI varnar: Mer regn väntar Västernorrland - GP
+- Kristersson bjuder in till tillväxtpakt - SVT Nyheter
+- Frontalkrock på E4 – fem till sjukhus - Expressen
+- Trump utlovar hårda sanktioner mot Ryssland – på ett villkor - Hufvudstadsbladet
+- Minst 25 skadade efter gasexplosion i Madrid - Västerbottens-Kuriren
 - DIREKT: Polen i flygmanöver efter rysk kränkning - HD
-- Viktigast i veckan: Ett mer oberoende EU efterlyses – Israels krigföring kritiseras - Europaportalen
 - Norgepriser och kvartspriser – så blir elpriserna i vinter - Expressen
+- Astra Zeneca pausar brittisk miljardsatsning - Aftonbladet
 - Vapenvila, bubbelfarhågor och AI-kompetenskris - Realtid
-- Länsförsäkringars Swishproblem lösta - Aftonbladet
-- Astra Zeneca pausar brittisk miljardinvestering - Omni
+- Staten har lagt 600 miljarder på att skapa en kris - Aftonbladet
 - Super Mario Galaxy-spelen i kollektionen går att köpa separata - FZ.se
 - Satte dieselmotor i sin Lamborghini - Carup.se
 
 ## World News
 
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - VNV Global ska återköpa aktier - Privata Affärer
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
@@ -39,6 +38,7 @@ _Updated: 2025-09-13 21:37_
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- New Secretary General appointed - Olof Palme International Center
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
@@ -51,7 +51,6 @@ _Updated: 2025-09-13 21:37_
 ## Technology
 
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -61,7 +60,8 @@ _Updated: 2025-09-13 21:37_
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- USA:s AI-försprång mot Kina krymper snabbt - Computer Sweden
+- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
@@ -76,44 +76,44 @@ _Updated: 2025-09-13 21:37_
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Green Dot Adds Stripe as Green Dot Network Partner - Placera.se
+- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Publication of the 2025 Half-Year Report - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
 
 ## Health
 
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Osher centrum för integrativ hälsa - Karolinska Institutet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
-- Möjliga samband mellan orala sjukdomar och demens - Läkartidningen
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
@@ -143,22 +143,22 @@ _Updated: 2025-09-13 21:37_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- (+) Stor undersökning av jordbruket - Arbetarskydd
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
