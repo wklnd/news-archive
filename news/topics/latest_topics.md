@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-14 00:37_
+_Updated: 2025-09-14 01:38_
 
 ## Top Stories
 
-- Rysk drönare kränkte Rumäniens luftrum - DN
-- Människor samlas för att se bombningarna – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Kristersson om Stegrud: ”Förfärligt” - Västerbottens-Kuriren
-- Dödade barnen och lade dem i resväskor - SvD
-- Drivor med post dumpades – i fel trapphus - Aftonbladet
-- Sista Viggenpiloten: ”Vi skulle överraska Sovjet” - SvD
-- Hotar publicera personuppgifter från it-attack - Västerbottens-Kuriren
+- Rysslands drönare flög in i Rumänien - Hufvudstadsbladet
+- Rubio: Doha förändrar inte samarbetet – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Kristersson om Stegrud: Mycket dumheter i svensk politik - DN
+- Erkänner: Dödade barnen och lade dem i resväskor - Sydsvenskan
+- Explosion vid hus på Södermalm - Folkbladet
+- Debatt: Charlie Kirk är död – och med honom en bit av det fria ordet - Norran
 - SMHI varnar: Mer regn väntar Västernorrland - GP
-- Försvaret tvingas åka till Kreta för att skjuta skarpt - DN
+- Hotar publicera personuppgifter från it-attack - Västerbottens-Kuriren
 - ”Rösta i kyrkovalet – för de anställdas skull” - Västerbottens-Kuriren
-- Trump: Nya sanktioner – om Nato stryper rysk olja - DN
-- Minst 25 skadade efter gasexplosion i Madrid - GP
-- DIREKT: Polen i flygmanöver efter rysk kränkning - HD
-- Omfattande demonstrationer i London - SVT Nyheter
+- Massiv protest till sjöss: Dumpa inte muddermassor här - DN
+- DN Direkt - Explosion på kafé i Madrid – 20-tal skadade - DN
+- Musk deltog i högerextrem demonstration i London - GP
+- Viktigast i veckan: Ett mer oberoende EU efterlyses – Israels krigföring kritiseras - Europaportalen
+- Ryssland: Ukrainsk drönarattack mot raffinaderi - Aftonbladet
 - DEBATT: ”Fjärrvärmens framtid hotas av skenande priser” - Barometern-OT
 - ”Riskerar bli dyrt” – Arbetsförmedlingen om sänkt arbetsgivaravgift för unga - Arbetet
-- Länsförsäkringars Swishproblem lösta - Aftonbladet
 - Aptitrundan Höst 13-14 september - Katrineholms kommun
+- Ledare: Jobbskatteavdraget är hushållspaketets verkliga ryggrad - sla.se
 - Satte dieselmotor i sin Lamborghini - Carup.se
-- Super Mario Galaxy-spelen i kollektionen går att köpa separata - FZ.se
+- Säljes: Orbea rallon XL 2018 - Happyride
 
 ## World News
 
@@ -60,39 +60,39 @@ _Updated: 2025-09-14 00:37_
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- USA:s AI-försprång mot Kina krymper snabbt - Computer Sweden
-- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
+- Aiforia honors two AI pioneers in digital pathology at the 37th European Congress of Pathology - Placera.se
 
 ## Business
 
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
-- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
+- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- ATI Chief Financial Officer Don Newman Announces Retirement - Placera.se
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- Mineros Announces Departure of Chief Financial Officer - Placera.se
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Green Dot Adds Stripe as Green Dot Network Partner - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
 
@@ -100,65 +100,65 @@ _Updated: 2025-09-14 00:37_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
+- Osher centrum för integrativ hälsa - Karolinska Institutet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
-- Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
 ## Science
 
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - The Association for Frontotemporal Degeneration
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - The Association for Frontotemporal Degeneration
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Upp till försvar för forskningen - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Stärkt life science-forskning är till godo för patienterna - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- (+) Stor undersökning av jordbruket - Arbetarskydd
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
