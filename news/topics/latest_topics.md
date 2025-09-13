@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-13 16:36_
+_Updated: 2025-09-13 17:37_
 
 ## Top Stories
 
-- Rissveds succé – tog första VM-guldet - SvD
-- SMHI: Ännu mer regn väntar Västernorrland - DN
-- Kristersson bjuder in till tillväxtpakt - SVT Nyheter
+- Charlie Kirks änka bryter tystnaden - GP
+- Omfattande demonstrationer i London - SVT Nyheter
+- Ulf Kristersson bjuder in C till sin tillväxtpakt - DN
 - Kriminella utlämnade från Dubai häktade - Västerbottens-Kuriren
-- DN Direkt - Högerextrema i jättedemonstration i London - DN
 - Se bilderna inifrån Göteborgs nya stationshus: ”Kommer bli en hallelujakänsla” - GP
+- SMHI: Ännu mer regn väntar Västernorrland - DN
 - Kristersson om Stegrud: Mycket dumheter i svensk politik - DN
+- Massiv protest till sjöss: Dumpa inte muddermassor här - DN
 - Niklas Orrenius: Nazistvåld på Stockholms gator går under radarn - DN
 - 13 september 07.49, Sammanfattning natt, Västerbottens län - polisen.se
-- Insändare: Din röst i kyrkovalet kan rädda skogen - VF
-- Trump utlovar hårda sanktioner mot Ryssland – på ett villkor - Hufvudstadsbladet
+- Trump: Nya sanktioner – om Nato stryper rysk olja - GP
 - DIREKT: Trump vill att Natoländerna inför strafftullar mot Kina - HD
-- IDF: Över 250 000 har lämnat Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Flera barn döda i attacker mot Gaza stad - Hufvudstadsbladet
 - Källor: Mossad vägrade attackera Qatar - DN
-- Trump: Redo för stora sanktioner mot Ryssland - Expressen
 - Astra Zeneca pausar brittisk miljardsatsning - Aftonbladet
+- Trump: Redo för stora sanktioner mot Ryssland - Expressen
 - Ölstriden: ”Vi är inte frun, utan älskarinnan” - SvD
 - Alla pratar om Larry Ellison – men inte om allt - Dagens PS
 - Blind box framgångsrik affärsidé - grisen i säcken - SvD
@@ -30,7 +30,6 @@ _Updated: 2025-09-13 16:36_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - VNV Global ska återköpa aktier - Privata Affärer
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
@@ -45,8 +44,9 @@ _Updated: 2025-09-13 16:36_
 - World Athletics introduces gene test for female category - BBC
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Från bussresor i Småland till global resehub med miljardomsättning - Dagens PS
+- Chinese Manufacturers Are Peeling Off the Veneer of Western Luxury - Morocco World News
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- 🌏 Global ojämlikhet minskar faktiskt - Warp News
 
 ## Technology
 
@@ -105,15 +105,15 @@ _Updated: 2025-09-13 16:36_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Osher centrum för integrativ hälsa - Karolinska Institutet
 - »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
-- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
+- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
