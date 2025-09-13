@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-13 17:37_
+_Updated: 2025-09-13 18:39_
 
 ## Top Stories
 
+- Nato förstärker östflanken efter drönarincidenten i Polen - Hufvudstadsbladet
 - Charlie Kirks änka bryter tystnaden - GP
 - Omfattande demonstrationer i London - SVT Nyheter
-- Ulf Kristersson bjuder in C till sin tillväxtpakt - DN
-- Kriminella utlämnade från Dubai häktade - Västerbottens-Kuriren
-- Se bilderna inifrån Göteborgs nya stationshus: ”Kommer bli en hallelujakänsla” - GP
+- Inga förluster efter cyberangrepp - Västerbottens-Kuriren
+- DN Direkt - Svalt intresse för prinsessan Madeleines lansering - DN
 - SMHI: Ännu mer regn väntar Västernorrland - DN
 - Kristersson om Stegrud: Mycket dumheter i svensk politik - DN
+- Kristersson bjuder in till tillväxtpakt - SVT Nyheter
 - Massiv protest till sjöss: Dumpa inte muddermassor här - DN
-- Niklas Orrenius: Nazistvåld på Stockholms gator går under radarn - DN
-- 13 september 07.49, Sammanfattning natt, Västerbottens län - polisen.se
-- Trump: Nya sanktioner – om Nato stryper rysk olja - GP
-- DIREKT: Trump vill att Natoländerna inför strafftullar mot Kina - HD
+- Källor: Regeringsfrågan kan bli intern strid inför valet - Omni
+- Trump: Nya sanktioner – om Nato stryper rysk olja - DN
+- Minst 25 skadade efter gasexplosion i Madrid - Västerbottens-Kuriren
 - Flera barn döda i attacker mot Gaza stad - Hufvudstadsbladet
-- Källor: Mossad vägrade attackera Qatar - DN
+- DIREKT: Trump vill att Natoländerna inför strafftullar mot Kina - HD
 - Astra Zeneca pausar brittisk miljardsatsning - Aftonbladet
-- Trump: Redo för stora sanktioner mot Ryssland - Expressen
 - Ölstriden: ”Vi är inte frun, utan älskarinnan” - SvD
-- Alla pratar om Larry Ellison – men inte om allt - Dagens PS
+- Norgepriser och kvartspriser – så blir elpriserna i vinter - Expressen
+- Explosion på bar i Spanien – 25 skadade - Expressen
+- Super Mario Galaxy-spelen i kollektionen går att köpa separata - FZ.se
 - Blind box framgångsrik affärsidé - grisen i säcken - SvD
-- Säljes: Retro Marin Palisades trail (1992) - Happyride
 
 ## World News
 
@@ -31,22 +31,22 @@ _Updated: 2025-09-13 17:37_
 - VNV Global ska återköpa aktier - Privata Affärer
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
-- Techarenan News goes English (Partly at least) - Techarenan.news
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
-- World Athletics introduces gene test for female category - BBC
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Från bussresor i Småland till global resehub med miljardomsättning - Dagens PS
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Flest coronasäkra stränder i Portugal och ny global säkerhetsmärkning - travelnews.se
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Here’s what happened in 2022 in 10 striking pictures - The World Economic Forum
+- We Are One: How the world's film festivals came together - BBC
+- Cleanup of air pollution heats the Earth - cicero.oslo.no
 - Chinese Manufacturers Are Peeling Off the Veneer of Western Luxury - Morocco World News
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- The Art of the Deal (Greenland edition) - Politico
+- Sudan court sentences three men to hand amputation for stealing - The Guardian
+- World Athletics introduces gene test for female category - BBC
+- A Pessimist’s Guide to Global Economic Risks in 2024 - Bloomberg.com
 
 ## Technology
 
@@ -58,41 +58,41 @@ _Updated: 2025-09-13 17:37_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Kina föreslår global AI-samarbetsorganisation - Computer Sweden
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Safe Pro Completes Training Program with Philippine Military on Drone Operations and AI Analysis for Army and Navy Units - Placera.se
 
 ## Business
 
+- Green Dot Adds Stripe as Green Dot Network Partner - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Decibel Delivers Strong Revenue Growth and Profitability in Second Quarter - Placera.se
-- DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
+- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
+- Tribe Property Technologies Appoints Scott Ullrich as New Chief Financial Officer - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Publication of the 2025 Half-Year Report - Placera.se
+- ATI Chief Financial Officer Don Newman Announces Retirement - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 
 ## Health
 
@@ -103,19 +103,19 @@ _Updated: 2025-09-13 17:37_
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- En allt starkare alternativ röst om global hälsa - Läkartidningen
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 
 ## Science
 
@@ -131,7 +131,7 @@ _Updated: 2025-09-13 17:37_
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
@@ -143,22 +143,22 @@ _Updated: 2025-09-13 17:37_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
