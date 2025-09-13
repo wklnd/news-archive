@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-13 03:56_
+_Updated: 2025-09-13 05:01_
 
 ## Top Stories
 
 - Man gripen efter mordet på högerdebattören Charlie Kirk - GP
+- Åkaren Simon efter skyfallen: ”Värsta jag sett” - Västerbottens-Kuriren
 - Europeiska utrikesministrar fördömer Israels Qatarattack – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Rutte: Natogränsen förstärks efter drönarattacker - GP
-- 300 mil väg påverkat av skyfallet – krishjälp från EU - DN
-- Trump: Mitt tålamod med Putin är snart slut - Omni
-- Regeringen satsar på bättre förutsättningar för lärares undervisningsuppdrag och förbättrat stöd till elever - Regeringen.se
-- Nu visas den omtalade rymdstenen - Västerbottens-Kuriren
-- Insändare: Din röst i kyrkovalet kan rädda skogen - VF
+- Efter ryska drönarna: Nato förstärker i öst - Västerbottens-Kuriren
+- Trump: Mitt tålamod med Putin börjar snabbt ta slut - Expressen
 - SD:s gruppledare om Stegrud: ”Kommer inte vidta åtgärder” - DN
+- Regeringen satsar på bättre förutsättningar för lärares undervisningsuppdrag och förbättrat stöd till elever - Regeringen.se
+- Insändare. Läs guiden om skogen innan du röstar i kyrkovalet - DN
 - Stor oro i Kiruna efter nya flyttbeskedet: "Medelhyran kommer att öka oerhört mycket" - Hem & Hyra
+- Nu visas den omtalade rymdstenen - Västerbottens-Kuriren
 - DN Direkt - Trump hotar skicka militär till Memphis - DN
-- Expresident Bolsonaro döms till 27 års fängelse - UNT
 - Ryssland ska ha skjutit ner över 200 ukrainska drönare - Omni
+- Bolsonaro döms till fängelse & äldre vill lyssna på nostalgi – P3 Nyheter med Linnéa Beijer - Sveriges Radio
 - Vill inte bråka med Trump – Europa bakbundet om Gaza - Västerbottens-Kuriren
 - Oracle gör rekordaffär med Open AI och Ellison blir världens rikaste – ett tag - Voister
-- Microsoft slipper EU-böter – separerar Teams och Office - Computer Sweden
 - Regeringen skrotar dagens elevstöd – barn med NPF-diagnos får lämna klassen - Skånska Dagbladet
+- Byggnads hyllar stopp för långa underentreprenörsled - Byggnads
 - Dyrare fjärrvärme nästa år: ”Leverera värme på ett stabilt, tryggt och hållbart sätt” - sla.se
-- Teaser: Chris Pratt är tillbaka som Mario i ”The Super Mario Galaxy Movie” – premiär i vår - MovieZine
-- Dolda miljonsuccén: Spel med Umeåkoppling toppade säljlista - Västerbottens-Kuriren
+- Releasedatum för ”Metroid Prime 4” – Samus trivs bäst i öppna landskap - MovieZine
+- Här är höjdpunkterna från Nintendos stora höstpresentation - Cafe.se
 
 ## World News
 
@@ -37,13 +37,13 @@ _Updated: 2025-09-13 03:56_
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Från bussresor i Småland till global resehub med miljardomsättning - Dagens PS
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Kabinpersonalens nej hotar din höstresa – flygbranschen i global konflikt - Dagens PS
@@ -63,8 +63,8 @@ _Updated: 2025-09-13 03:56_
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
 - Apex Systems Partners with Composabl to Build and Deploy Autonomous AI Agents in Physical Environments - Placera.se
-- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
@@ -96,26 +96,26 @@ _Updated: 2025-09-13 03:56_
 
 ## Health
 
-- Triglyceridrika lipoproteiner – farligare än LDL-kolesterol? - Läkartidningen
 - Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
-- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
-- Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Osher centrum för integrativ hälsa - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Miljardinvestering ökar takten i GoCo Health Innovation City – näringslivets tungviktare, sjukvården och akademin i storsatsning på forskningskluster i göteborgsregionen. - Mynewsdesk
 
 ## Science
 
