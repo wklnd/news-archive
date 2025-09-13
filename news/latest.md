@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-13 23:48_
+_Updated: 2025-09-14 00:48_
 
-- Questions linger about alleged shooter’s motivation for killing Charlie Kirk - The Guardian
-- People are losing jobs due to social media posts about Charlie Kirk - NPR
-- Poland scrambles jets, closes Lublin airport in 'preventative' move - Reuters
-- Trump Escalates Attacks on Political Opponents After Charlie Kirk’s Killing - The New York Times
-- Trump demands NATO action on Russian oil before any U.S. sanctions - The Washington Post
+- Accused sniper jailed in Charlie Kirk killing awaits formal charges in Utah - Reuters
+- Sources: Kirk suspect's transgender roommate "aghast," may be key to motive - Axios
+- Mexican congressional staffer resigns after TV comments about Charlie Kirk - The Guardian
+- New Nato mission to bolster eastern flank after Russia drone incursion - BBC
 - Thousands fill London streets for "Unite the Kingdom" rally organized by far-right activist Tommy Robinson - CBS News
+- Trump calls on all NATO countries to stop buying Russian oil, threatens 50% to 100% tariffs on China - AP News
 - ICE agent shoots dead man who tried to drive at agents, officials say - BBC
-- Trump is selling a strong economy. Voters aren’t buying it. - Politico
+- Families on Obamacare brace for higher health care premiums next year - NBC News
+- Trump Escalates Attacks on Political Opponents After Charlie Kirk’s Killing - The New York Times
 - University of Minnesota, Teamsters reach deal to end strike that threatened Farm Aid concert - Star Tribune
-- NPR and PBS Must Transform After Trump’s Cuts Cripple Broadcasters - The New York Times
 - Israel ramps up strikes on Gaza City and hospital says at least 32 are dead - NPR
 - U.N. General Assembly overwhelmingly votes for a two-state solution to the Israel-Palestinian conflict - CBS News
 - Fearful of Russian aggression, Poles flock to military training | Hindustan Times - Hindustan Times
-- Netanyahu’s gamble on striking Qatar may have failed, but he’s not backing down - The Times of Israel
-- Fed's Cook claimed second residence as 'vacation home,' undercutting Trump fraud claims - NPR
+- Rubio Heads to a Defiant Israel After Qatar Strike - The New York Times
+- In Some Records, Fed Governor Listed Atlanta Home as Secondary - The New York Times
 - The $14 Trillion US Stock Rally is Seeking a Fed Cut Playbook - Bloomberg.com
 - FAA seeks to fine Boeing $3.1 million for safety violations, door plug blowout - NPR
 - US electric grids under pressure from energy-hungry data centers are changing strategy - AP News
 - Strong appetite for new iPhone in China as pre-orders break record - South China Morning Post
-- EcoFlow is giving away free gear with select power station purchases — here's how to claim it - Mashable
+- Nintendo's Back in VR With a New Virtual Boy, Coming Next Year for Switch - CNET
