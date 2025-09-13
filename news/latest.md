@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-13 05:48_
+_Updated: 2025-09-13 06:48_
 
 - Tyler Robinson named suspect in Charlie Kirk shooting: What to know about him and how he was apprehended - ABC News
 - ICE agent shoots dead man who tried to drive at agents, officials say - BBC
-- CEO whose comments sparked Trump’s Memphis action also pitched him on a big rail merger - Politico
+- UN assembly votes overwhelmingly to back two-state solution to Israel-Palestinian conflict - NBC News
 - Contentious housing bill narrowly clears California statehouse - Politico
-- Exclusive | How Israel Used Ballistic Missiles From the Red Sea to Carry Out Its Audacious Qatar Attack - The Wall Street Journal
 - Trump shelves Chicago crackdown plans for now as advisers warn of legal headaches - CNN
-- Missouri Senate passes Trump-backed plan that could help Republicans win an additional US House seat - AP News
-- Trump declines to call for unity after Charlie Kirk killing in stunning move - The Guardian
+- Trump says he'll send National Guard to 'deeply troubled' Memphis - ABC News
+- Missouri passes Trump-backed redistricting plan to help the GOP in the midterms - NPR
+- Trump doubles down on blaming 'radical left' after vow to go after political violence - ABC News
+- Right-Wing Activists Urge Followers to Expose Those Celebrating Charlie Kirk Killing - The New York Times
 - Former Judge Sushila Karki Named Nepal’s Leader After Gen Z Protests - The New York Times
-- ‘It wasn’t’ — Poland rebuffs Trump on Russian drone incident as maybe a mistake - The Washington Post
+- Ukraine war briefing: Poland’s allies decry ‘flagrant violation’; Warsaw sends troops to border to monitor Belarus drills - The Guardian
 - At least 193 killed in two separate boat accidents in northwestern DR Congo - Al Jazeera
-- General Assembly endorses New York Declaration on two-State solution between Israel and Palestine - UN News
-- Federal Reserve governor Lisa Cook listed contested home as vacation property - Financial Times
-- BofA appoints co-presidents as CEO Moynihan says he will serve through the decade - Yahoo Finance
+- Israeli intelligence agency balked at Netanyahu’s strike in Qatar - The Washington Post
+- Fed governor Lisa Cook called condo a second home, documents show - The Washington Post
 - Stock Market Today: Nasdaq Closes At Record High; Palantir Marks Strong Week; Gemini Debuts - Investor's Business Daily
-- Trump officials to link covid shots to child deaths, alarming career scientists - The Washington Post
-- Preorders for iPhone Air, iPhone 17, and iPhone 17 Pro have begun - AppleInsider
+- Massachusetts sues Kalshi alleging illegal sports gambling - CNBC
+- Moderna Falls as Trump Officials Tie Child Deaths to Covid Shots - Bloomberg.com
+- Apple iPhone 17 event recap: iPhone Air preorders, Apple Watch 11, AirPods Pro 3, more - ZDNET
 - Watch all the new trailers from Nintendo Direct September 2025: Super Mario Galaxy, Yoshi, and Mortal Kombat Legacy - Mashable
-- Prepare your iPhone for iOS 26 - 6 things I do before every update - ZDNET
-- Pokémon™ Legends: Z-A – Mega Dimension DLC - Nintendo
+- Pokémon Legends Z-A Game's Videos Reveal Paid DLC, Mega Evolutions of Pokémon X/Y Starters, Raichu - Anime News Network
