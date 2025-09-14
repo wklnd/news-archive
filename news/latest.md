@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-14 21:48_
+_Updated: 2025-09-14 22:48_
 
-- Utah governor says suspect in Charlie Kirk assassination is not cooperating with authorities - CBS News
-- Arriving in Israel, Rubio Meets Netanyahu at Jerusalem’s Western Wall - The New York Times
-- Charlie Kirk's assassination: Trump takes on messenger-in-chief role; blames 'radical left' for killing - The Times of India
+- House Speaker Mike Johnson after Charlie Kirk assassination: "I think this could be a turning point" for the country - CBS News
+- Kirk Shooting Suspect Held ‘Leftist Ideology,’ Utah Governor Says - The New York Times
+- Trump adopts messenger-in-chief role after Charlie Kirk's death - Reuters
+- Rubio visits Israel in wake of Qatar attack as Israeli strikes intensify in northern Gaza - PBS
+- Airlines suspend workers for posts about shooting of Charlie Kirk - CNN
+- RFK Jr.'s MAHA report on children's health leaves something out: nicotine - NPR
 - Charlie Kirk’s death raises fears of ‘beginning of a darker chapter’ for US violence - The Guardian
-- Fox host apologizes for saying mentally ill homeless people should be executed - Politico
-- Republican Rep. Michael McCaul won’t seek reelection after 11 terms - ABC News
-- Sen. Chris Coons: The internet "is driving extremism in our country" - CBS News
+- Fox News' Brian Kilmeade apologizes for saying mentally ill homeless people should be executed - AP News
+- 20-year-old man sentenced to prison for sexually exploiting minor girls on Discord - NBC News
 - Aurora mayor defends decision to fly flags at full-staff this weekend - Chicago Tribune
-- After Charlie Kirk’s death, workers learn the limits of free speech in and out of their jobs - AP News
-- Governor Cox: 'Social media is a cancer' - Politico
-- Boxing champion Ricky 'Hitman' Hatton dies at 46 ahead of professional comeback - CBS Sports
-- Arab-Islamic summit to back Qatar after Israeli attack - Reuters
+- Arab Ministers Meet on Response to Israeli Attack in Qatar - The New York Times
+- Students, swarms, and factories: How Russia took over Ukraine’s skies — Inside Putin’s drone war - The Times of India
 - We will never surrender our flag, Sir Keir Starmer says - BBC
-- Support for far-right triples in western German vote, early forecasts show - Reuters
+- Israel bombards four towers in Gaza City as residents continue to evacuate area - The Times of Israel
+- Global 36-Hour Interest-Rate Spree Heralds First US Cut of 2025 - Bloomberg.com
+- Trump Administration Live Updates: White House Races to Keep Fed Governor Out of Central Bank Meeting - The New York Times
 - What You Need to Know About Fume Events on Airplanes - The Wall Street Journal
 - Fed faces key week of decisions with membership, political independence in doubt - Reuters
-- Her Daughter Killed Herself. Then She Saw the ChatGPT logs. - slate.com
-- Global 36-Hour Interest-Rate Spree Heralds First US Cut of 2025 - Bloomberg.com
-- iPhone 17 sales off to a strong start in China, while iPhone Air launch is blocked - 9to5Mac
+- iPhone 17 Pro vs. iPhone 15 Pro: My buying advice after comparing the upgrades - ZDNET
 - Samsung Reportedly Beginning Exynos 2600 Mass Production By The End Of September On Its Cutting-Edge 2nm GAA Process - Wccftech
