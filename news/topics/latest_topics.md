@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-14 19:37_
+_Updated: 2025-09-14 20:42_
 
 ## Top Stories
 
-- DN Direkt - Minnesstund för Kirk i Arizona - DN
-- Rubio i Israel för samtal med Netanyahu – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Två män har rymt från anstalt: ”Allvarligt” - SvD
-- Hon leder motståndet mot Trump i Washington - DN
-- Cassandra kan vara ett av seriemördarens offer i Alaska - GP
+- Misstänkte mördaren skämtade om dådet: ”Var min dubbelgångare” - DN
+- Sanna Torén Björling: Nato förstärker östgränsen – en ny järnridå tar form - DN
+- Flera barn saknas efter skolstart – här får eleverna lära sig om hedersvåld - DN
 - It-experten: Skyddade personuppgifter röjda i dataläckan - TV4 Nyheterna
+- Cassandra kan vara ett av seriemördarens offer i Alaska - GP
+- Två män har rymt från anstalt: ”Allvarligt” - SvD
 - Ministern: ”Man har förbisett människors önskan att bo i småhus” - DN
 - Ännu mer regn över Västernorrland – nya varningar - GP
 - Delar av Helsingborg kamerabevakas - polisen.se
 - ENKÄT: Rösta eller inte – folk på stan om kyrkovalet: ”Måste läsa på lite innan” - NLT
+- Rubio i Israel för samtal med Netanyahu – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Högerextrem jättedemonstration i London – 110 000 deltagare - Hufvudstadsbladet
-- Sanna Torén Björling: Nato förstärker östgränsen – en ny järnridå tar form - DN
 - Flera barn döda i attacker mot Gaza stad - Västerbottens-Kuriren
-- Nepals nya ledare: Stannar bara sex månader - GP
-- Trots miljonlöftena – ingen utbetald ersättning för vindkraft - Tidningen Näringslivet
+- Qatar efter Israels attack: Måste straffas - GP
 - Finns Europas framtid 800 meter in i berget? - SvD
-- Regeringen ökar stöd till regionala flygplatser - Aftonbladet
+- Kivras kommunikationsfiasko ger skrämmande signaler - Dagens PS
+- Regeringen ökar stöd till regionala flygplatser - Tidningen Näringslivet
 - Udda fynden – i nya pantmaskinen - Strengnäs Tidning
 - Miljonsuccén: ”Skön kvittering på övertid” - Aftonbladet
 - Säljes: Scott Spark rc sl 2021 - Happyride
@@ -33,8 +33,10 @@ _Updated: 2025-09-14 19:37_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
@@ -42,8 +44,6 @@ _Updated: 2025-09-14 19:37_
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- World Athletics introduces gene test for female category - BBC
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
@@ -100,22 +100,22 @@ _Updated: 2025-09-14 19:37_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Osher centrum för integrativ hälsa - Karolinska Institutet
 - »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
-- Johan von Schreeb - Karolinska Institutet
-- Samverkan - Göteborgs universitet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- En allt starkare alternativ röst om global hälsa - Läkartidningen
-- Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Johan von Schreeb - Karolinska Institutet
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 
 ## Science
 
@@ -131,7 +131,7 @@ _Updated: 2025-09-14 19:37_
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Upp till försvar för forskningen - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
