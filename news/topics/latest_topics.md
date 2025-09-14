@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-14 22:37_
+_Updated: 2025-09-14 23:37_
 
 ## Top Stories
 
-- Expert: Skyddade personuppgifter läckta på darknet - DN
-- Rymning från anstalt – klättrade över stängsel - Aftonbladet
-- Chris Martin: Skicka kärlek till Charlie Kirks familj - GP
+- Misstänkte mördaren skämtade om dådet: ”Var min dubbelgångare” - DN
+- Expert: Stulen data nu läckt på darknet - Nerikes Allehanda
+- Två män har rymt från anstalt: ”Allvarligt” - SvD
 - Sanna Torén Björling: Nato förstärker östgränsen – en ny järnridå tar form - DN
 - Flera barn saknas efter skolstart – här får eleverna lära sig om hedersvåld - DN
-- Israel tvångsförflyttar alla i Gaza stad – till ett redan överbefolkat område - DN
-- Ministern: ”Man har förbisett människors önskan att bo i småhus” - DN
 - Ännu mer regn över Västernorrland – nya varningar - GP
+- Ministern: ”Man har förbisett människors önskan att bo i småhus” - DN
 - Delar av Helsingborg kamerabevakas - polisen.se
 - GW Persson totalsågar nya polisstationen på gränsen: ”Stolligt” - NWT
+- ENKÄT: Rösta eller inte – folk på stan om kyrkovalet: ”Måste läsa på lite innan” - NLT
+- Rubio och Netanyahu i samtal om Qatar – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Högerextrem jättedemonstration i London – 110 000 deltagare - Hufvudstadsbladet
 - Flera barn döda i attacker mot Gaza stad - Västerbottens-Kuriren
-- Nepals nya ledare: Stannar bara sex månader - GP
-- Qatar efter Israels attack: Måste straffas - Corren
-- Kivras kommunikationsfiasko ger skrämmande signaler - Dagens PS
+- 15 000 fångar på rymmen i Nepal efter upproret - DN
 - Regeringen ökar stöd till regionala flygplatser - Tidningen Näringslivet
-- Finns Europas framtid 800 meter in i berget? - SvD
+- Kivras kommunikationsfiasko ger skrämmande signaler - Dagens PS
 - Kommuner väntar på miljoner för vindkraft – pengarna dröjer - Omni
+- SD vill sänka dansbandsmomsen - dans blir billigare - Omni
 - Pixel Watch kan snart låsa upp din Android utan fingeravtryck - mobil.se
 - Mallorca, Ibiza och Sardinien – Medelhavsöar i 4K - MSN
 
@@ -33,17 +33,17 @@ _Updated: 2025-09-14 22:37_
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- News of the Worlds reportrar kan få nya jobb - Journalisten
-- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - New Secretary General appointed - Olof Palme International Center
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - ARAMIS Global Ambassador, Dwyane Wade, Celebrates New Fragrance Launch During New York Fashion Week - Placera.se
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
@@ -73,26 +73,26 @@ _Updated: 2025-09-14 22:37_
 
 ## Business
 
+- Green Dot Adds Stripe as Green Dot Network Partner - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Mineros Announces Departure of Chief Financial Officer - Placera.se
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 
 ## Health
 
@@ -119,26 +119,26 @@ _Updated: 2025-09-14 22:37_
 
 ## Science
 
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - The Association for Frontotemporal Degeneration
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Upp till försvar för forskningen - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Stärkt life science-forskning är till godo för patienterna - Läkartidningen
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
 
