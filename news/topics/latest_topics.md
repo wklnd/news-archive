@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-14 11:38_
+_Updated: 2025-09-14 12:37_
 
 ## Top Stories
 
 - DN Direkt - Minnesstund för Kirk i Arizona - DN
 - Två män har rymt från anstalt i Borås - SVT Nyheter
 - Justeringen som kan förändra allt - SvD
-- Uppgifter läckta i cyberattack mot Ängelholms kommun - Skåne Plus
+- Här ska Hans dö – har valt plats - GP
+- Ukrainsk attack mot ännu ett ryskt raffinaderi - GP
 - Kristersson om Stegrud: ”Förfärligt” - Västerbottens-Kuriren
-- KTH-professor: Blev en katastrofal avslutning - SvD
+- Experten: En miljon svenskars personuppgifter publicerade på darknet - SVT Nyheter
 - Få svenskar har råd med eget hus: ”Politiken har abdikerat” - DN
 - Regeringen ökar stöd till regionala flygplatser - Västerbottens-Kuriren
-- DEBATT: Välfärden kan bara räddas om staten garanterar en långsiktig finansiering - GP
-- SMHI varnar: Mer regn väntar Västernorrland - GP
+- ENKÄT: Rösta eller inte – folk på stan om kyrkovalet: ”Måste läsa på lite innan” - NLT
 - Ryska drönare nära Polens gräns – Natos jaktplan inkallade - Hufvudstadsbladet
-- Allt fler israeliska soldater vägrar kriga - DN
+- Tröstlös flykt i Gaza: ”Lär inte kunna återvända” - GP
 - Trumps sändebud vill se hårdare tag mot Ryssland: Våga höja risknivån - DN
 - Nytt vaccin skyddar koalor mot klamydia - Västerbottens-Kuriren
 - Kommuner väntar fortfarande på vindkraftsmiljoner - tidningensyre.se
-- Klarnas vd: “Svenskhet” är en jättestor tillgång - SvD
 - Guldpriset dansar på dollarns förfall - Dagens PS
-- Krämig men inte rinnande – så undviks salmonella - DN
+- Klarnas vd: “Svenskhet” är en jättestor tillgång - Dagens industri
+- Norgepriser och kvartspriser – så blir elpriserna i vinter - Expressen
 - Miljonsuccén: ”Skön kvittering på övertid” - Aftonbladet
 - Talet om ”narrativ” förstör debatten - SvD
 
@@ -37,16 +37,16 @@ _Updated: 2025-09-14 11:38_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- New Secretary General appointed - Olof Palme International Center
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- World Athletics introduces gene test for female category - BBC
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - ARAMIS Global Ambassador, Dwyane Wade, Celebrates New Fragrance Launch During New York Fashion Week - Placera.se
-- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -82,7 +82,6 @@ _Updated: 2025-09-14 11:38_
 - Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mineros Announces Departure of Chief Financial Officer - Placera.se
@@ -93,47 +92,53 @@ _Updated: 2025-09-14 11:38_
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
+- Triglyceridrika lipoproteiner – farligare än LDL-kolesterol? - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Osher centrum för integrativ hälsa - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Hudcancerdiagnostikbolaget AI Medical Technology har utsett Emil Billbäck, VD för Bonesupport - it-halsa.se
+- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
 ## Science
 
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - The Association for Frontotemporal Degeneration
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Program för Proof of Concept-finansiering stärker innovationer inom life science - Mynewsdesk
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Upp till försvar för forskningen - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Stärkt life science-forskning är till godo för patienterna - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
 
 ## Jordbruk
 
