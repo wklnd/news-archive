@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-14 22:48_
+_Updated: 2025-09-14 23:48_
 
-- House Speaker Mike Johnson after Charlie Kirk assassination: "I think this could be a turning point" for the country - CBS News
-- Kirk Shooting Suspect Held ‘Leftist Ideology,’ Utah Governor Says - The New York Times
-- Trump adopts messenger-in-chief role after Charlie Kirk's death - Reuters
+- Charlie Kirk shooting suspect not cooperating with authorities, Utah governor says - Reuters
+- In an Era of Deep Polarization, Unity Is Not Trump’s Mission - The New York Times
 - Rubio visits Israel in wake of Qatar attack as Israeli strikes intensify in northern Gaza - PBS
-- Airlines suspend workers for posts about shooting of Charlie Kirk - CNN
 - RFK Jr.'s MAHA report on children's health leaves something out: nicotine - NPR
-- Charlie Kirk’s death raises fears of ‘beginning of a darker chapter’ for US violence - The Guardian
-- Fox News' Brian Kilmeade apologizes for saying mentally ill homeless people should be executed - AP News
+- Airlines suspend workers for posts about shooting of Charlie Kirk - CNN
+- Governor Cox: 'Social media is a cancer' - Politico
+- Historian Jon Meacham on political violence and the threat to American democracy - CBS News
+- Iowa official defies governor’s order to fly flags at half-staff for Charlie Kirk - The Guardian
 - 20-year-old man sentenced to prison for sexually exploiting minor girls on Discord - NBC News
-- Aurora mayor defends decision to fly flags at full-staff this weekend - Chicago Tribune
-- Arab Ministers Meet on Response to Israeli Attack in Qatar - The New York Times
-- Students, swarms, and factories: How Russia took over Ukraine’s skies — Inside Putin’s drone war - The Times of India
-- We will never surrender our flag, Sir Keir Starmer says - BBC
-- Israel bombards four towers in Gaza City as residents continue to evacuate area - The Times of Israel
+- Fox News' Brian Kilmeade apologizes for saying mentally ill homeless people should be executed - AP News
+- Arab-Islamic summit to back Qatar after Israeli attack - Reuters
+- Romania Says Russian Drone Entered Its Airspace - The New York Times
+- 25 arrested for assaulting police at massive anti-migrant London march - Euronews.com
+- China hits back at Trump's 100% tariffs threat: ‘We don’t participate in…' | World News - Hindustan Times
+- Trump administration renews push to fire Fed governor Lisa Cook ahead of key vote - AP News
 - Global 36-Hour Interest-Rate Spree Heralds First US Cut of 2025 - Bloomberg.com
-- Trump Administration Live Updates: White House Races to Keep Fed Governor Out of Central Bank Meeting - The New York Times
-- What You Need to Know About Fume Events on Airplanes - The Wall Street Journal
 - Fed faces key week of decisions with membership, political independence in doubt - Reuters
-- iPhone 17 Pro vs. iPhone 15 Pro: My buying advice after comparing the upgrades - ZDNET
+- UK's Sainsbury's ends talks to sell Argos to China's JD.com - Reuters
+- iPhone 17 vs iPhone 16 Pro: Similar displays, distinctly different packages - 9to5Mac
 - Samsung Reportedly Beginning Exynos 2600 Mass Production By The End Of September On Its Cutting-Edge 2nm GAA Process - Wccftech
