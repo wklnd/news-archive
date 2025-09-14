@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-14 15:48_
+_Updated: 2025-09-14 16:48_
 
 - Utah campus concealed carry permit under fresh scrutiny after Kirk shooting - The Guardian
-- Trump ramps up rhetoric against ‘radical left’ in the wake of Charlie Kirk’s killing - CNN
-- Marco Rubio meets Benjamin Netanyahu in Israel after Qatar strike - Financial Times
-- 'Nazi Karens' Go Full Cancel Culture on Charlie Kirk Critics By Trying to Get Them Fired - The Daily Beast
-- Trump defends Patel amid scrutiny of FBI director’s leadership during Kirk assassination investigation - Politico
-- Trump demands NATO action on Russian oil before any U.S. sanctions - The Washington Post
-- Book Review: ‘We the People,’ by Jill Lepore - The New York Times
+- In an Era of Deep Polarization, Unity Is Not Trump’s Mission - The New York Times
 - Charlie Kirk’s death raises fears of ‘beginning of a darker chapter’ for US violence - The Guardian
-- Finding God in the App Store - The New York Times
-- Inside a ‘Hell on Earth’ in Oklahoma - The New York Times
+- We will never surrender our flag, Sir Keir Starmer says - BBC
+- ‘It’s unacceptable’: Inside growing concerns about Patel’s FBI leadership - CNN
+- Trump says ready for ‘major’ Moscow sanctions if NATO stops buying Russian oil - politico.eu
+- Marco Rubio meets Benjamin Netanyahu in Israel after Qatar strike - Financial Times
+- After Charlie Kirk’s death, workers learn the limits of free speech in and out of their jobs - AP News
+- Iowa official defies governor’s order to fly flags at half-staff for Charlie Kirk - The Guardian
+- Book Review: ‘We the People,’ by Jill Lepore - The New York Times
+- Poland, Romania scramble jets as NATO ally records new Russian drone violation - ABC News
 - After Israel strikes Hamas leaders in Qatar, Turkey worries it could be next - The Times of Israel
-- Romania becomes second Nato country to report Russian drone in its airspace - BBC
-- Musk calls for new UK government at far-right rally in London - politico.eu
-- Federal Judge Questions Deportations to Ghana - The New York Times
+- Funicular Crash Has Jarred Lisbon’s Sense of Itself - The New York Times
+- Nepal’s new prime minister urges calm after deadly protests - AP News
 - Political turbulence engulfs the Fed as Trump pushes to assert control - The Washington Post
-- China launches probes targeting US semiconductors ahead of Madrid trade talks - AP News
-- Trump administration launches trial program to fast-track electric air taxis - NPR
-- French companies’ borrowing costs fall below government’s as debt fears intensify - Financial Times
-- Here Are 5 Smaller iPhone Air Details You Might Have Missed, Including Only a Single Speaker - MacRumors
-- The iPhone to get this year - The Verge
+- A Strange Gas-Pumping Defect Is Making $100,000 Corvettes Go Up in Flames - The Wall Street Journal
+- Mortgage Rates Are Finally Falling. Here’s Why They Can Move Fast. - The Wall Street Journal
+- Fed Governor Cook declared her Atlanta property as ‘vacation home,’ documents show - CNN
+- Apple still has 10 more product launches in the pipeline, here’s what’s coming - 9to5Mac
+- Apple breaks records in China with high iPhone 17 preorders - AppleInsider
