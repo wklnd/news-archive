@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-14 15:00_
+_Updated: 2025-09-14 15:48_
 
-- Key questions remain about Charlie Kirk’s assassination as his memorial is announced. Here’s what we know - CNN
-- In an Era of Deep Polarization, Unity Is Not Trump’s Mission - The New York Times
-- Over 100,000 attend London rally organized by far-right activist, clashes break out - NPR
+- Utah campus concealed carry permit under fresh scrutiny after Kirk shooting - The Guardian
+- Trump ramps up rhetoric against ‘radical left’ in the wake of Charlie Kirk’s killing - CNN
+- Marco Rubio meets Benjamin Netanyahu in Israel after Qatar strike - Financial Times
+- 'Nazi Karens' Go Full Cancel Culture on Charlie Kirk Critics By Trying to Get Them Fired - The Daily Beast
 - Trump defends Patel amid scrutiny of FBI director’s leadership during Kirk assassination investigation - Politico
-- Turkey wary of Israeli threat following airstrike on Hamas in Qatar - AP News
-- Mexican congressional staffer resigns after TV comments about Charlie Kirk - The Guardian
-- Rubio arrives in Israel as Israeli strikes intensify in northern Gaza - NPR
-- Inside a ‘Hell on Earth’ in Oklahoma - The New York Times
-- ‘We need to be unafraid’: SF conservatives honor Charlie Kirk at Noe Valley vigil - The San Francisco Standard
-- Romania becomes second Nato country to detect Russian drones in airspace - BBC
 - Trump demands NATO action on Russian oil before any U.S. sanctions - The Washington Post
-- Death toll from Nepal's anti-corruption protests raised to 72 - Reuters
+- Book Review: ‘We the People,’ by Jill Lepore - The New York Times
+- Charlie Kirk’s death raises fears of ‘beginning of a darker chapter’ for US violence - The Guardian
+- Finding God in the App Store - The New York Times
+- Inside a ‘Hell on Earth’ in Oklahoma - The New York Times
+- After Israel strikes Hamas leaders in Qatar, Turkey worries it could be next - The Times of Israel
+- Romania becomes second Nato country to report Russian drone in its airspace - BBC
+- Musk calls for new UK government at far-right rally in London - politico.eu
 - Federal Judge Questions Deportations to Ghana - The New York Times
 - Political turbulence engulfs the Fed as Trump pushes to assert control - The Washington Post
-- Companies from Delta to Office Depot are disciplining employees for their public comments on Charlie Kirk's death - Business Insider
+- China launches probes targeting US semiconductors ahead of Madrid trade talks - AP News
 - Trump administration launches trial program to fast-track electric air taxis - NPR
-- Fed Governor Cook declared her Atlanta property as ‘vacation home,’ documents show - CNN
-- Apple breaks records in China with high iPhone 17 preorders - AppleInsider
-- What time will Apple release iOS 26, iPadOS 26 and watchOS 26 on September 15 in your time zone? - Cult of Mac
-- Staffordshire Super Mario fan with major merchandise collection - BBC
+- French companies’ borrowing costs fall below government’s as debt fears intensify - Financial Times
+- Here Are 5 Smaller iPhone Air Details You Might Have Missed, Including Only a Single Speaker - MacRumors
+- The iPhone to get this year - The Verge
