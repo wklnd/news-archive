@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-14 12:37_
+_Updated: 2025-09-14 13:37_
 
 ## Top Stories
 
 - DN Direkt - Minnesstund för Kirk i Arizona - DN
 - Två män har rymt från anstalt i Borås - SVT Nyheter
 - Justeringen som kan förändra allt - SvD
-- Här ska Hans dö – har valt plats - GP
+- Expert: Stulen data nu läckt på darknet - Dagens industri
 - Ukrainsk attack mot ännu ett ryskt raffinaderi - GP
-- Kristersson om Stegrud: ”Förfärligt” - Västerbottens-Kuriren
-- Experten: En miljon svenskars personuppgifter publicerade på darknet - SVT Nyheter
+- Här ska Hans dö – har valt plats - GP
 - Få svenskar har råd med eget hus: ”Politiken har abdikerat” - DN
 - Regeringen ökar stöd till regionala flygplatser - Västerbottens-Kuriren
 - ENKÄT: Rösta eller inte – folk på stan om kyrkovalet: ”Måste läsa på lite innan” - NLT
+- Polisen använder drönare inför derbyt - FotbollDirekt
 - Ryska drönare nära Polens gräns – Natos jaktplan inkallade - Hufvudstadsbladet
-- Tröstlös flykt i Gaza: ”Lär inte kunna återvända” - GP
+- Rubio i Israel för samtal med Netanyahu – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Trumps sändebud vill se hårdare tag mot Ryssland: Våga höja risknivån - DN
 - Nytt vaccin skyddar koalor mot klamydia - Västerbottens-Kuriren
 - Kommuner väntar fortfarande på vindkraftsmiljoner - tidningensyre.se
-- Guldpriset dansar på dollarns förfall - Dagens PS
-- Klarnas vd: “Svenskhet” är en jättestor tillgång - Dagens industri
+- Rysk recession enligt siffrorna – centralbanken: "Avkylning" - Dagens PS
 - Norgepriser och kvartspriser – så blir elpriserna i vinter - Expressen
+- Hotas av konkurs efter hackerattack: ”Dominoeffekt” - Carup.se
 - Miljonsuccén: ”Skön kvittering på övertid” - Aftonbladet
 - Talet om ”narrativ” förstör debatten - SvD
 
@@ -37,13 +37,13 @@ _Updated: 2025-09-14 12:37_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
-- New Secretary General appointed - Olof Palme International Center
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
+- World Athletics introduces gene test for female category - BBC
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - ARAMIS Global Ambassador, Dwyane Wade, Celebrates New Fragrance Launch During New York Fashion Week - Placera.se
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
@@ -105,17 +105,17 @@ _Updated: 2025-09-14 12:37_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Osher centrum för integrativ hälsa - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
+- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-09-14 12:37_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
