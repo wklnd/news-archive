@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-14 16:37_
+_Updated: 2025-09-14 17:37_
 
 ## Top Stories
 
-- DN Direkt - Minnesstund för Kirk i Arizona - DN
-- Rubio i Israel för samtal med Netanyahu – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Stor sökinsats i Borås ― två män har rymt från anstalt - GP
-- Ryskt fartyg i haveri på danskt vatten – Nato inkopplat - Hufvudstadsbladet
-- Uppgifter: Man fick näsan avbiten av hund - Borlänge Tidning
-- Ukrainsk attack mot ännu ett ryskt raffinaderi - GP
-- Experten: En miljon svenskars personuppgifter publicerade på darknet - SVT Nyheter
+- Ryskt fartyg i haveri på danskt vatten - SVT Nyheter
+- Israel tvångsförflyttar alla i Gaza stad – till ett redan överbefolkat område - DN
+- Coldplay: Skicka kärlek till Charlie Kirks familj - Västerbottens-Kuriren
+- Två män har rymt från anstalt: ”Allvarligt” - SvD
+- Cassandra kan vara ett av seriemördarens offer i Alaska - GP
+- Antons hus nära att rasa – nu slår ovädret till igen - Expressen
+- Expert: Skyddade personuppgifter läckta på darknet - DN
 - Få svenskar har råd med eget hus: ”Politiken har abdikerat” - DN
 - Delar av Helsingborg kamerabevakas - polisen.se
 - ENKÄT: Rösta eller inte – folk på stan om kyrkovalet: ”Måste läsa på lite innan” - NLT
-- Ryska drönare nära Polens gräns – Natos jaktplan inkallade - Hufvudstadsbladet
+- Sanna Torén Björling: Nato förstärker östgränsen – en ny järnridå tar form - DN
+- Flera barn döda i attacker mot Gaza stad - Hufvudstadsbladet
+- Man "svårt biten" i ansiktet av hund - Expressen
 - Musk deltog i högerextrem demonstration i London - Västerbottens-Kuriren
-- IDF: Över 250 000 har lämnat Gaza stad - GP
-- Källa: Ukraina bakom tågsabotage i Ryssland - GP
 - Kommuner väntar fortfarande på vindkraftsmiljoner - tidningensyre.se
-- Rysk recession enligt siffrorna – centralbanken: "Avkylning" - Dagens PS
 - Regeringen ökar stöd till regionala flygplatser - Tidningen Näringslivet
+- Finns Europas framtid 800 meter in i berget? - SvD
 - Klarnas vd: “Svenskhet” är en jättestor tillgång - Dagens industri
 - Miljonsuccén: ”Skön kvittering på övertid” - Aftonbladet
 - Säljes: Scott Spark rc sl 2021 - Happyride
@@ -43,30 +43,30 @@ _Updated: 2025-09-14 16:37_
 - Techarenan News goes English (Partly at least) - Techarenan.news
 - Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- World Athletics introduces gene test for female category - BBC
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- ARAMIS Global Ambassador, Dwyane Wade, Celebrates New Fragrance Launch During New York Fashion Week - Placera.se
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
-- ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- 290 million for digitalisation of Swedish industry - Vinnova
+- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
+- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - USA:s AI-försprång mot Kina krymper snabbt - Computer Sweden
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
-- ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
@@ -103,19 +103,19 @@ _Updated: 2025-09-14 16:37_
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
-- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Samverkan - Göteborgs universitet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- En allt starkare alternativ röst om global hälsa - Läkartidningen
-- Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
+- Osher centrum för integrativ hälsa - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 
 ## Science
 
@@ -143,22 +143,20 @@ _Updated: 2025-09-14 16:37_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- De gick från reko till eko - ST-tidningen
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Nyheter - LRF - Lantbrukarnas Riksförbund
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Tio jordbruksaktier för depån - Placera.se
+- Organic Food Lifetime Achievment Award till Ekomatcentrum - NewsMachine AB
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Mjau bjuder katter på naturnära matupplevelser - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Mjau lanserar nyhet för seniora katter - Mynewsdesk
+- Magnus Sjösten ny vd på Doggy AB - Mynewsdesk
+- Klassiker i ny tappning - Mynewsdesk
