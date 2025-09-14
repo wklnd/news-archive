@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-14 20:42_
+_Updated: 2025-09-14 21:37_
 
 ## Top Stories
 
-- Misstänkte mördaren skämtade om dådet: ”Var min dubbelgångare” - DN
 - Sanna Torén Björling: Nato förstärker östgränsen – en ny järnridå tar form - DN
+- Två män har rymt från anstalt: ”Allvarligt” - SvD
+- Misstänkte mördaren skämtade om dådet: ”Var min dubbelgångare” - DN
 - Flera barn saknas efter skolstart – här får eleverna lära sig om hedersvåld - DN
 - It-experten: Skyddade personuppgifter röjda i dataläckan - TV4 Nyheterna
-- Cassandra kan vara ett av seriemördarens offer i Alaska - GP
-- Två män har rymt från anstalt: ”Allvarligt” - SvD
+- Rubio i Israel för samtal med Netanyahu – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - Ministern: ”Man har förbisett människors önskan att bo i småhus” - DN
 - Ännu mer regn över Västernorrland – nya varningar - GP
 - Delar av Helsingborg kamerabevakas - polisen.se
-- ENKÄT: Rösta eller inte – folk på stan om kyrkovalet: ”Måste läsa på lite innan” - NLT
-- Rubio i Israel för samtal med Netanyahu – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- GW Persson totalsågar nya polisstationen på gränsen: ”Stolligt” - NWT
 - Högerextrem jättedemonstration i London – 110 000 deltagare - Hufvudstadsbladet
 - Flera barn döda i attacker mot Gaza stad - Västerbottens-Kuriren
 - Qatar efter Israels attack: Måste straffas - GP
-- Finns Europas framtid 800 meter in i berget? - SvD
+- 15 000 fångar på rymmen i Nepal efter upproret - DN
 - Kivras kommunikationsfiasko ger skrämmande signaler - Dagens PS
+- Finns Europas framtid 800 meter in i berget? - SvD
 - Regeringen ökar stöd till regionala flygplatser - Tidningen Näringslivet
 - Udda fynden – i nya pantmaskinen - Strengnäs Tidning
 - Miljonsuccén: ”Skön kvittering på övertid” - Aftonbladet
@@ -43,14 +43,15 @@ _Updated: 2025-09-14 20:42_
 - New Secretary General appointed - Olof Palme International Center
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Techarenan News goes English (Partly at least) - Techarenan.news
-- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- ARAMIS Global Ambassador, Dwyane Wade, Celebrates New Fragrance Launch During New York Fashion Week - Placera.se
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -60,7 +61,6 @@ _Updated: 2025-09-14 20:42_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
@@ -91,8 +91,8 @@ _Updated: 2025-09-14 20:42_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 
 ## Health
 
@@ -143,22 +143,22 @@ _Updated: 2025-09-14 20:42_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
-- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
