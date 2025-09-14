@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-14 07:39_
+_Updated: 2025-09-14 08:45_
 
 ## Top Stories
 
-- Debatt: Charlie Kirk är död – och med honom en bit av det fria ordet - Norran
+- Källor: möjligt kärleksmotiv bakom Kirks mord - GP
 - Rysslands drönare flög in i Rumänien - Hufvudstadsbladet
-- Rubio: Doha förändrar inte samarbetet – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Ryskt fartyg fast utanför Öresund - Omni
-- Hade en representant i KTH:s korridorer - SvD
-- Ryssland: Ukrainsk drönarattack mot raffinaderi - Aftonbladet
+- KTH-professor: Blev en katastrofal avslutning - SvD
+- Ryskt fartyg strömlöst i Öresund - Expressen
+- Biljakt slutade med spikmatta – förare flydde till fots - Norran
+- ”Varför blev jag plötsligt ghostad av min väninna?” - DN
+- Experten: En miljon svenskars personuppgifter publicerade på darknet - SVT Nyheter
 - SMHI varnar: Mer regn väntar Västernorrland - GP
-- DN Direkt - Varning för skyfall på Gotland - DN
 - ”Rösta i kyrkovalet – för de anställdas skull” - Västerbottens-Kuriren
-- LKAB-chefen Jan Moström: ”Vi måste fortsätta ta mark i anspråk” - SVT Nyheter
-- Musk deltog i högerextrem demonstration i London - Västerbottens-Kuriren
-- Viktigast i veckan: Ett mer oberoende EU efterlyses – Israels krigföring kritiseras - Europaportalen
-- Erkänner: Dödade barnen och lade dem i resväskor - GP
-- Minst 25 skadade efter gasexplosion i Madrid - Sydsvenskan
+- Regeringen ökar stöd till regionala flygplatser - Västerbottens-Kuriren
+- Zelenskyj: Sluta leta ursäkter mot sanktioner - GP
+- Venezuela anklagar USA för att trakassera fiskare - Västerbottens-Kuriren
+- Rubio: Doha förändrar inte samarbetet – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- DN Direkt - Fler oroligheter hotar i London - DN
 - Peter Alestig: Tvärnit för vindkraften – här är orsakerna - DN
 - Klarnas vd: “Svenskhet” är en jättestor tillgång - SvD
-- Krämig men inte rinnande – så undviks salmonella - SvD
-- DEBATT: ”Fjärrvärmens framtid hotas av skenande priser” - Barometern-OT
+- Superbillig suv som utmanar Toyota RAV4 - Aftonbladet
+- Krämig men inte rinnande – så undviks salmonella - GP
 - Hoppade av gymnasiet – nu utvecklar han Sora på Open AI - Ny Teknik
 - Talet om ”narrativ” förstör debatten - SvD
 
@@ -51,48 +51,48 @@ _Updated: 2025-09-14 07:39_
 ## Technology
 
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI-revolutionen släpps lös: Genombrott, storföretagens satsningar & etiska stormar (slutet av juli 2025) - ts2.tech
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Kina föreslår global AI-samarbetsorganisation - Computer Sweden
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- USA:s AI-försprång mot Kina krymper snabbt - Computer Sweden
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - ZenaTech’s Spider Vision Sensors Expands Drone Component Manufacturing Capabilities Enabling Compliant Global Supply Chain for US Defense Customers - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Namibox Set to Launch World's First AI-Powered Learning Glasses - Placera.se
+- Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
 
 ## Business
 
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- DeFi Technologies Announces Filing of Base Shelf Prospectus - Placera.se
 - DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Tribe Property Technologies Appoints Scott Ullrich as New Chief Financial Officer - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -103,62 +103,62 @@ _Updated: 2025-09-14 07:39_
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
+- Osher centrum för integrativ hälsa - Karolinska Institutet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Samverkan - Göteborgs universitet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- En allt starkare alternativ röst om global hälsa - Läkartidningen
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - The Association for Frontotemporal Degeneration
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Program för Proof of Concept-finansiering stärker innovationer inom life science - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Stärkt life science-forskning är till godo för patienterna - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- (+) Stor undersökning av jordbruket - Arbetarskydd
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
