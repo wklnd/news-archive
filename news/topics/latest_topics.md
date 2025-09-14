@@ -1,49 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-14 21:37_
+_Updated: 2025-09-14 22:37_
 
 ## Top Stories
 
+- Expert: Skyddade personuppgifter läckta på darknet - DN
+- Rymning från anstalt – klättrade över stängsel - Aftonbladet
+- Chris Martin: Skicka kärlek till Charlie Kirks familj - GP
 - Sanna Torén Björling: Nato förstärker östgränsen – en ny järnridå tar form - DN
-- Två män har rymt från anstalt: ”Allvarligt” - SvD
-- Misstänkte mördaren skämtade om dådet: ”Var min dubbelgångare” - DN
 - Flera barn saknas efter skolstart – här får eleverna lära sig om hedersvåld - DN
-- It-experten: Skyddade personuppgifter röjda i dataläckan - TV4 Nyheterna
-- Rubio i Israel för samtal med Netanyahu – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Israel tvångsförflyttar alla i Gaza stad – till ett redan överbefolkat område - DN
 - Ministern: ”Man har förbisett människors önskan att bo i småhus” - DN
 - Ännu mer regn över Västernorrland – nya varningar - GP
 - Delar av Helsingborg kamerabevakas - polisen.se
 - GW Persson totalsågar nya polisstationen på gränsen: ”Stolligt” - NWT
 - Högerextrem jättedemonstration i London – 110 000 deltagare - Hufvudstadsbladet
 - Flera barn döda i attacker mot Gaza stad - Västerbottens-Kuriren
-- Qatar efter Israels attack: Måste straffas - GP
-- 15 000 fångar på rymmen i Nepal efter upproret - DN
+- Nepals nya ledare: Stannar bara sex månader - GP
+- Qatar efter Israels attack: Måste straffas - Corren
 - Kivras kommunikationsfiasko ger skrämmande signaler - Dagens PS
-- Finns Europas framtid 800 meter in i berget? - SvD
 - Regeringen ökar stöd till regionala flygplatser - Tidningen Näringslivet
-- Udda fynden – i nya pantmaskinen - Strengnäs Tidning
-- Miljonsuccén: ”Skön kvittering på övertid” - Aftonbladet
-- Säljes: Scott Spark rc sl 2021 - Happyride
+- Finns Europas framtid 800 meter in i berget? - SvD
+- Kommuner väntar på miljoner för vindkraft – pengarna dröjer - Omni
+- Pixel Watch kan snart låsa upp din Android utan fingeravtryck - mobil.se
+- Mallorca, Ibiza och Sardinien – Medelhavsöar i 4K - MSN
 
 ## World News
 
 - VNV Global ska återköpa aktier - Privata Affärer
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
+- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - New Secretary General appointed - Olof Palme International Center
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Techarenan News goes English (Partly at least) - Techarenan.news
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - ARAMIS Global Ambassador, Dwyane Wade, Celebrates New Fragrance Launch During New York Fashion Week - Placera.se
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
@@ -51,7 +51,6 @@ _Updated: 2025-09-14 21:37_
 ## Technology
 
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -61,6 +60,7 @@ _Updated: 2025-09-14 21:37_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
@@ -120,12 +120,12 @@ _Updated: 2025-09-14 21:37_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - The Association for Frontotemporal Degeneration
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
@@ -134,11 +134,11 @@ _Updated: 2025-09-14 21:37_
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Upp till försvar för forskningen - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 
 ## Jordbruk
 
@@ -146,19 +146,19 @@ _Updated: 2025-09-14 21:37_
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Här är världens största jordbruk - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Innovationer i jordbruket behövs för klimatutmaningen - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Framtidens jordbruk är regenerativt - greenpeace.org
