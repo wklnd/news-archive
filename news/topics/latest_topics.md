@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-15 05:28_
+_Updated: 2025-09-15 05:51_
 
 ## Top Stories
 
 - Sanna Torén Björling: Nato förstärker östgränsen – en ny järnridå tar form - DN
-- Chris Martin: Skicka kärlek till Charlie Kirks familj - GP
 - Flicka knivhuggen i Borås – jämnårig flicka gripen - SVT Nyheter
-- Män rymde från anstalt i Borås – gängtopp i Göteborg jagas av polis - Omni
-- Ännu mer regn över Västernorrland – nya varningar - GP
-- Dubbla lågtryck rör sig mot Sverige: ”Blir blött” - SvD
+- David Berntsen Lundin har rymt – jagas av polis - GP
+- Coldplay: Skicka kärlek till Charlie Kirks familj - Västerbottens-Kuriren
+- Öbor utan internet i ett år – efter protester - GP
+- Sökinsats efter man från Söderhamn - Söderhamns-Kuriren
 - EXPERTEN: Stulen data nu läckt på darknet: ”Skrämmer offren” - NWT
+- Ännu mer regn över Västernorrland – nya varningar - GP
+- Fritidskort ska locka unga till aktivitet: ”Viktigt med samhörighet” - SVT Nyheter
 - ENKÄT: Rösta eller inte – folk på stan om kyrkovalet: ”Måste läsa på lite innan” - NLT
-- Delar av Helsingborg kamerabevakas - polisen.se
-- DEBATT: Välfärden kan bara räddas om staten garanterar en långsiktig finansiering - GP
 - Israel tvångsförflyttar alla i Gaza stad – till ett redan överbefolkat område - DN
 - Flera barn döda i attacker mot Gaza stad - Hufvudstadsbladet
 - Musk deltog i högerextrem demonstration i London - GP
 - Nepals nya ledare: Stannar bara sex månader - Västerbottens-Kuriren
 - Regeringen ökar stöd till regionala flygplatser - Tidningen Näringslivet
 - Kommuner väntar på miljoner för vindkraft – pengarna dröjer - Omni
-- Megaaffär nära – Indien vill köpa stridsflyg för över 200 miljarder - Dagens industri
 - ”Jobbskatteavdraget viktigast i regeringens hushållspaket” - Helagotland
+- SD vill sänka dansbandsmomsen - dans blir billigare - Omni
 - Säljes: Orbea Rise M20 / 2022 modell - Happyride
 - Pixel Watch kan snart låsa upp din Android utan fingeravtryck - mobil.se
 
