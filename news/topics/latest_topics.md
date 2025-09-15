@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-16 00:39_
+_Updated: 2025-09-16 01:37_
 
 ## Top Stories
 
-- Trump: Har dödat ”narkotikaterrorister” från Venezuela - Omni
-- Karl Dalén: Var Charlie Kirk extremist eller frihetskämpe? - DN
 - Drönare oskadliggjorda vid Polens presidentpalats - SVT Nyheter
-- Stormvarning utfärdad i södra Sverige - Aftonbladet
-- Villa övertänd utanför Eslöv - Skånska Dagbladet
-- Ilskan mot nya lagförslagen: Många på ståplats kommer få sitta i fängelse - Sydsvenskan
-- Fler hastighetskontroller i hela landet - polisen.se
-- Personuppgifter om anställda i Nässjö har läckt ut på darknet - SVT Nyheter
+- Israel uppges attackera Gaza stad - GP
+- Trump: USA har dödat ”narkotikaterrorister” i ny attack mot fartyg - DN
+- Misstänkte Charlie Kirk-mördaren pluggade till elektriker - Arbetet
+- Gula varningar: Vind och stormbyar på ingång - Omni
+- Kulturministern rasar mot protest vid judiska skolan: ”Vedervärdigt” - Expressen
 - Trafiken igång på Botniabanan - Västerbottens-Kuriren
-- Arkitekten Kjell Forshed: ”Skönhet kunde man inte prata om” - DN
-- ”Jag rasade ihop – oförmögen att gå” – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- Fler hastighetskontroller i hela landet - polisen.se
+- LISTA: Många skolkar i valet – här är deltagandet lägst - Arvika Nyheter
+- Beredskapsdag och gemensamma insatser stärker beredskapen i kommunen - Håbo
 - FN-siffror: Över 250 journalister dödade i Gaza - Västerbottens-Kuriren
 - Premiärministern till Elon Musk: ”Farligt och hetsande” - Hufvudstadsbladet
+- USA avfärdar nya israeliska attacker mot Qatar - GP
 - Gunnar Strömmer glömde surfplatta på flygplan - Västerbottens-Kuriren
+- Kraftigt ökad satsning på regionala flygplatser - Regeringen.se
+- Artistens AI-karriär oroväckande tecken - SvD
 - Kinas industriproduktion ökade mindre än väntat i augusti - Dagens industri
-- Vill kalla minister till utskott efter DN:s avslöjande - DN
-- Kraftigt ökad satsning på regionala flygplatser - Liberalerna
 - Bico sjunker efter SHB sänkt till behåll och kapat riktkursen - Placera.se
 - Nu ska telefonen kunna filtrera bort samtal - SvD
 - Qualcomm lanserar Snapdragon 8 Elite Gen 5 - mobil.se
@@ -34,19 +34,19 @@ _Updated: 2025-09-16 00:39_
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
-- Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
-- World Athletics introduces gene test for female category - BBC
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - /C O R R E C T I O N from source -- Global X Investments Canada Inc./ - Placera.se
-- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
 - VML Achieves Global Winning Streak with Trio of Major Awards - Placera.se
+- BlackRock Debuts Active ETFs from its Global Allocation Franchise - Placera.se
+- ARAMIS Global Ambassador, Dwyane Wade, Celebrates New Fragrance Launch During New York Fashion Week - Placera.se
+- S&P Global, Cambridge Associates and Mercer Collaborate to Create Comprehensive Private Markets Performance Analytics - Placera.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -74,25 +74,25 @@ _Updated: 2025-09-16 00:39_
 ## Business
 
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Green Dot Adds Stripe as Green Dot Network Partner - Placera.se
 - TPG RE Finance Trust, Inc. Announces Retirement of Chief Financial Officer Bob Foley and Appointment of Brandon Fox as Interim Chief Financial Officer - Placera.se
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
+- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Spelman College wins 7th annual Moguls in the Making entrepreneurial pitch competition - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -143,22 +143,22 @@ _Updated: 2025-09-16 00:39_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
