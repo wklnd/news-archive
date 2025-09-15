@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-15 13:47_
+_Updated: 2025-09-15 15:15_
 
-- Oakland comedian’s blunt response to Charlie Kirk’s killing: ‘I won’t be gaslit’ - San Francisco Chronicle
-- A record number of Congressional lawmakers aren't running for reelection in 2026. Here's the list - NPR
-- Behind the Curtain: Four ominous trends tearing America apart - Axios
-- Rubio, in Israel, Meets Netanyahu as Trump Grows Impatient - The New York Times
+- After Charlie Kirk’s killing, conservative evangelical leaders hail him as a martyr - CNN
+- Kirk Shooting Suspect Held ‘Leftist Ideology,’ Utah Governor Says - The New York Times
+- US and China hold second day of trade talks as TikTok deadline looms - BBC
 - Kash Patel criticized for his actions and posts during Charlie Kirk shooting investigation - NBC News
-- Kathy Hochul endorses Zohran Mamdani’s bid for mayor - Politico
+- A record number of congressional lawmakers aren't running for reelection in 2026. Here's the list - NPR
+- Charlie Kirk death supercharges Right-wing cancel culture - UnHerd
 - Trump says foreign experts welcome after South Korean outrage over raid - Axios
-- Fox News’ Brian Kilmeade says comment about killing mentally ill homeless people an ‘extremely callous remark’ - CNN
-- FBI arrests 2 after incendiary device left under FOX 13 News vehicle - The Salt Lake Tribune
-- Lawmakers are weighing a farm labor bill. Pennsylvania's farmers are telling them to hurry up. - Politico
-- Cruise missiles over Franz Josef Land - The Barents Observer
-- Romania 2nd NATO nation in a week to report Russian drone in its airspace - Axios
-- Qatar PM urges world to end 'double standards' and hold Israel accountable - France 24
-- Australia warns of cascading climate risks ahead of emissions target announcement - Reuters
-- ANZ fined record $160mn over bond trading and customer account issues - Financial Times
-- Stocks and dollar hold firm at start of action-packed week - Reuters
-- Tesla shares gain after Elon Musk reveals $1 billion stock buy - CNBC
-- China’s Economy Shows Signs of Summer Slowdown - The Wall Street Journal
-- Apple iPhone 17 demand tracking to surpass 16 based on delivery lead times- JPM - Investing.com
+- Blame game after acts of political violence can lead to further attacks, experts warn - AP News
+- 'The whole thing is screwed up': Farmers in deep-red Pennsylvania struggle to find workers - Politico
+- Rubio, in Israel, Meets Netanyahu as Trump Grows Impatient - The New York Times
+- British politicians condemn Elon Musk's comments at anti-migrant rally - ABC News
+- US military officers pay surprise visit to Belarus to observe war games with Russia - Reuters
+- Melting glaciers mean an uncertain future for Europe’s rivers - NPR
+- Prime suspect in Madeleine McCann case turns down interview with British police, on verge of release - CNN
+- Elon Musk Purchases About $1 Billion Worth of Tesla Shares - Bloomberg.com
+- China says Nvidia violated anti-monopoly laws, significantly escalating trade tensions with US - CNN
+- Trump advocates that companies stop reporting earnings on a quarterly basis - CNBC
+- Australia's ANZ to pay $160 million over bond deal, customer violations - Reuters
+- As with every year, Apple’s launch event made waves — but this time, the AirPods Pro 3 took center stage - Ynetnews
 - The most popular Android phones in Q2 2025 also beat the cheapest new iPhone - Android Authority
