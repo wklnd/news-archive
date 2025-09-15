@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-15 08:51_
+_Updated: 2025-09-15 09:40_
 
 ## Top Stories
 
-- DN Direkt - Flicka knivhuggen i Borås – jämnårig gripen - DN
+- Sanna Torén Björling: Nato förstärker östgränsen – en ny järnridå tar form - DN
+- Flicka knivhuggen – jämnårig gripen - SvD
 - Coldplay: Skicka kärlek till Charlie Kirks familj - Västerbottens-Kuriren
 - DN Direkt - 100 personer demonstrerade i Malmö - DN
-- Ekonomin nyckelfråga för båda: ”Inte så man gör” - Omni
-- När Truls, 22, reste till Lettland höll sambon Ellen, 23, ställningarna hemma - Sydsvenskan
-- Rumänien kallar upp rysk ambassadör - GP
+- Magdalena Andersson (S) vill inte ge besked om regeringsfrågan: Inte läge - SVT Nyheter
+- Rymning från anstalt – klättrade över stängsel - Aftonbladet
 - Psykologens råd: Så undviker man att bli höstdeppig - SVT Nyheter
-- Dömda pedofiler fick träna barn - DN
-- Kristersson och Andersson i hetluften – panelen reagerar ”Tydligt att de förbereder sig för valåret” - Sveriges Radio
 - Fler får rösta i nästa års val - Västerbottens-Kuriren
+- När Truls, 22, reste till Lettland höll sambon Ellen, 23, ställningarna hemma - Sydsvenskan
+- Dömda pedofiler tränade barn i idrottsklubbar - GP
+- Israelisk militär: 320 000 har lämnat Gaza Stad - Västerbottens-Kuriren
 - ”Hellre en humanoid än äldreboende” – 80-årigt par vill köpa en robot - DN
-- Rubio och Netanyahu i samtal om Qatar – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Flera barn döda i attacker mot Gaza stad - Hufvudstadsbladet
 - Man misstänkt för mord på kvinna i Borås - SVT Nyheter
-- Analytiker: Skyddade uppgifter på darknet - SvD
-- Svenskarna mindre nöjda med sin bank - Aftonbladet
-- Jätteböter för australisk bank - Dagens industri
-- Ökad försäljning för modehandeln i augusti - Stilindex - Börsvärlden
+- Man död i drunkning i Motala - Expressen
+- Påvens ord om Elon Musk: ”Då är vi illa ute” - SvD
+- Svenskar mindre nöjda med sin bank - SVT Nyheter
+- Högt guldpris skapar rusning till pantbanken i Umeå: ”Galet” - SVT Nyheter
+- Risfråga sinkar EU-avtal med Indien - Aftonbladet
 - Battlefield 6-teamet om att skippa 128 spelare: "Vi testar grejer. Ibland funkar det, ibland inte" - FZ.se
-- Säljes: Orbea Rise M20 / 2022 modell - Happyride
+- Corning blir Apples glasrike när Iphone Air gör entré - Macworld.se
 
 ## World News
 
@@ -34,24 +34,23 @@ _Updated: 2025-09-15 08:51_
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Danish brewer Carlsberg evaluating IPO of India arm - Moneycontrol
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - World Athletics introduces gene test for female category - BBC
 - ARAMIS Global Ambassador, Dwyane Wade, Celebrates New Fragrance Launch During New York Fashion Week - Placera.se
+- 🌏 Global ojämlikhet minskar faktiskt - Warp News
 - Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
 
 ## Technology
 
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -61,7 +60,8 @@ _Updated: 2025-09-15 08:51_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
+- 290 million for digitalisation of Swedish industry - Vinnova
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
@@ -143,22 +143,22 @@ _Updated: 2025-09-15 08:51_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Nyheter - LRF - Lantbrukarnas Riksförbund
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
