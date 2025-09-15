@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-15 23:37_
+_Updated: 2025-09-16 00:39_
 
 ## Top Stories
 
+- Trump: Har dödat ”narkotikaterrorister” från Venezuela - Omni
+- Karl Dalén: Var Charlie Kirk extremist eller frihetskämpe? - DN
 - Drönare oskadliggjorda vid Polens presidentpalats - SVT Nyheter
-- Trump: USA har dödat ”narkotikaterrorister” i ny attack mot fartyg - DN
-- Misstänkte Charlie Kirk-mördaren pluggade till elektriker - Arbetet
 - Stormvarning utfärdad i södra Sverige - Aftonbladet
-- Anhöriga kritiska mot kommunen: ”Inga svar” - DN
 - Villa övertänd utanför Eslöv - Skånska Dagbladet
+- Ilskan mot nya lagförslagen: Många på ståplats kommer få sitta i fängelse - Sydsvenskan
 - Fler hastighetskontroller i hela landet - polisen.se
-- Gängtopp gripen efter rymning – tog sig två mil - Västerbottens-Kuriren
-- Pressbriefing efter mötet om trygghet och säkerhet vid riksdagen - Regeringen.se
+- Personuppgifter om anställda i Nässjö har läckt ut på darknet - SVT Nyheter
+- Trafiken igång på Botniabanan - Västerbottens-Kuriren
 - Arkitekten Kjell Forshed: ”Skönhet kunde man inte prata om” - DN
+- ”Jag rasade ihop – oförmögen att gå” – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
 - FN-siffror: Över 250 journalister dödade i Gaza - Västerbottens-Kuriren
 - Premiärministern till Elon Musk: ”Farligt och hetsande” - Hufvudstadsbladet
-- Qatar: Alla förbindelser med Israel ska ses över - GP
-- Netanyahu: Israels ekonomi isolerad – vi måste klara oss själva - DN
+- Gunnar Strömmer glömde surfplatta på flygplan - Västerbottens-Kuriren
 - Kinas industriproduktion ökade mindre än väntat i augusti - Dagens industri
-- DN Direkt - Trump: Skrota kvartalsrapporterna - DN
 - Vill kalla minister till utskott efter DN:s avslöjande - DN
-- Kraftigt ökad satsning på regionala flygplatser - Regeringen.se
+- Kraftigt ökad satsning på regionala flygplatser - Liberalerna
+- Bico sjunker efter SHB sänkt till behåll och kapat riktkursen - Placera.se
 - Nu ska telefonen kunna filtrera bort samtal - SvD
 - Qualcomm lanserar Snapdragon 8 Elite Gen 5 - mobil.se
 
@@ -31,22 +31,22 @@ _Updated: 2025-09-15 23:37_
 - Efter taxiapp-affären: VNV Global ska återköpa aktier - Dagens industri
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- /C O R R E C T I O N from source -- Global X Investments Canada Inc./ - Placera.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Global konflikt hotar din höstresa - Dagens PS
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- /C O R R E C T I O N from source -- Global X Investments Canada Inc./ - Placera.se
+- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
 - VML Achieves Global Winning Streak with Trio of Major Awards - Placera.se
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
-- BlackRock Debuts Active ETFs from its Global Allocation Franchise - Placera.se
-- ARAMIS Global Ambassador, Dwyane Wade, Celebrates New Fragrance Launch During New York Fashion Week - Placera.se
-- S&P Global, Cambridge Associates and Mercer Collaborate to Create Comprehensive Private Markets Performance Analytics - Placera.se
 
 ## Technology
 
@@ -97,24 +97,24 @@ _Updated: 2025-09-15 23:37_
 ## Health
 
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- SLS eHälsodag 2025 - sls.se
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Tema: AI inom medicin och hälsa - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- En allt starkare alternativ röst om global hälsa - Läkartidningen
+- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Samverkan - Göteborgs universitet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
 ## Science
@@ -143,22 +143,22 @@ _Updated: 2025-09-15 23:37_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Jordbruk och landsbygdsutveckling - European Commission
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
+- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
