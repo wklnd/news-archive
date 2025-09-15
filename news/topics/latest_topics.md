@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-15 12:43_
+_Updated: 2025-09-15 13:38_
 
 ## Top Stories
 
-- Lämnar, nästa säsong - Frölunda HC
-- Kristersson om Orbáns Sverigeutspel: ”Skamlösa lögner” - SVT Nyheter
-- 15 september 08.54, Farligt föremål, misstänkt, Malmö - polisen.se
-- DN Direkt - 100 personer demonstrerade i Malmö - DN
-- Flicka knivhuggen i Borås – jämnårig flicka gripen - Sydsvenskan
-- ”Jag fick betala full hyra – fast jag inte kunde bo där” - DN
-- David Berntsen Lundin har rymt – jagas av polis - GP
-- Valet är en nationell särskild händelse - polisen.se
-- Dömda pedofiler fick träna barn - DN
-- Ella, 18, och Filippa, 17, inför kyrkovalet: Förstår inte vad man röstar på - SVT Nyheter
 - Rumänien kallar upp rysk ambassadör - UNT
+- 15 september 08.54, Farligt föremål, misstänkt, Malmö - polisen.se
+- Kristersson om Orbáns Sverigeutspel: ”Skamlösa lögner” - SVT Nyheter
+- David Berntsen Lundin har rymt – jagas av polis - GP
+- DN Direkt - 100 personer demonstrerade i Malmö - DN
+- Misstänkte Charlie Kirk-mördaren pluggade till elektriker - Arbetet
+- DN Direkt - 26,6 miljarder mer till försvaret - DN
+- Valet är en nationell särskild händelse - polisen.se
+- Dömda pedofiler tränade barn i idrottsklubbar - Västerbottens-Kuriren
+- Ella, 18, och Filippa, 17, inför kyrkovalet: Förstår inte vad man röstar på - SVT Nyheter
 - Trump hotar att utlysa nytt nödläge i Washington - DN
 - IDF-kritiken mot Netanyahu växer – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- ”Hellre en humanoid än äldreboende” – 80-årigt par vill köpa en robot - DN
+- Rappare döms i hovrätten för mordplaner - polisen.se
+- Fullt utvecklad brand i flerfamiljshus - Expressen
+- Elon Musk har köpt Tesla-aktier för omkring 9,3 miljarder - Dagens industri
 - Experter: 1,5 miljoner personuppgifter på darknet – även skyddade uppgifter läckta - Voister
 - Sparbankerna bäst igen – kundfavorit för sjätte året i rad - Mynewsdesk
 - Wildo stämmer Stormberg – bråk om klassiska koppen - Expressen
-- 58.000 inbetalningar försenades – storbanken betalade ur egen ficka - Dagens industri
-- Samsung täpper till kritisk sårbarhet i sina mobiltelefoner - Computer Sweden
-- Dying Light: The Beast släpps tidigare – för att fira 1 miljon förhandsköp - FZ.se
+- Microsoft testar AI-dubbning i Edge - PC för Alla
+- Hudvård: AI och långlevnad styr just nu - Aftonbladet
 
 ## World News
 
@@ -45,8 +45,8 @@ _Updated: 2025-09-15 12:43_
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- BlackRock Debuts Active ETFs from its Global Allocation Franchise - Placera.se
 - ARAMIS Global Ambassador, Dwyane Wade, Celebrates New Fragrance Launch During New York Fashion Week - Placera.se
-- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
 
 ## Technology
 
