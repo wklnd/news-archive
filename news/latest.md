@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-15 10:52_
+_Updated: 2025-09-15 11:48_
 
 - Suspect in Charlie Kirk’s murder has ‘leftist ideology’, Utah governor says - Al Jazeera
+- Oakland comedian’s blunt response to Charlie Kirk’s killing: ‘I won’t be gaslit’ - San Francisco Chronicle
 - Airlines suspend workers for posts about shooting of Charlie Kirk - CNN
-- N.Y. Gov. Kathy Hochul endorses Zohran Mamdani for NYC mayor - Axios
-- EU decries Russian drone’s breach of Romanian airspace - politico.eu
+- New York Gov. Kathy Hochul backs NYC mayoral candidate Zohran Mamdani - NBC News
+- Kash Patel criticized for his actions and posts during Charlie Kirk shooting investigation - NBC News
 - US and China hold second day of trade talks as TikTok deadline looms - BBC
-- Trump vows tough action after beheading of Indian motel manager in Dallas - BBC
 - 2 men arrested in Utah after explosive device found under news vehicle - Axios
 - Blame game after acts of political violence can lead to further attacks, experts warn - AP News
-- Former two-term Illinois Gov. Jim Edgar, who led the state through much of the 1990s, dies at 79 - Chicago Tribune
 - Iowa official defies governor’s order to fly flags at half-staff for Charlie Kirk - The Guardian
+- 'Time for being soft is over': Donald Trump reacts to Indian man beheading in Dallas; vows action - The Times of India
+- Cruise missiles over Franz Josef Land - The Barents Observer
+- After deadly protests, Nepal’s new prime minister urges calm - Politico
+- Romania 2nd NATO nation in a week to report Russian drone in its airspace - Axios
 - Qatar PM urges world to end 'double standards' and hold Israel accountable - France 24
-- China hits back at Trump's 100% tariffs threat: ‘We don’t participate in…' | World News - Hindustan Times
-- Germany: Merz's CDU set to win in NRW, AfD makes big gains - DW
-- Israel strikes high-rises in Gaza City, ahead of cabinet meeting to discuss risk of ground operation to hostages - CNN
-- ANZ fined record $160mn over bond trading and customer account issues - Financial Times
 - China's economy slumps in August, casts doubt on growth target - Reuters
-- Stocks Hold Near Record as Focus Turns to Fed Meet: Markets Wrap - Bloomberg.com
-- Trump administration renews push to fire Fed governor Lisa Cook ahead of key vote - AP News
-- Apple iPhone 17 demand tracking to surpass 16 based on delivery lead times- JPM - Investing.com
-- The Pixel 10 Pro offers a competitive edge in smartphone photography - Android Central
+- ANZ fined record $160mn over bond trading and customer account issues - Financial Times
+- China Finds Nvidia Violated Antitrust Law After Initial Probe - Bloomberg.com
+- Stocks hesitant in Asia, with a lot riding on Fed decision - Reuters
+- iOS 26 arrives on Monday: Find out if your iPhone is eligible for the free update - Engadget
+- Xiaomi Hastens Flagship Phone Release to Take On iPhone 17 - Bloomberg.com
