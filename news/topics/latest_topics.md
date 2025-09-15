@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-15 22:40_
+_Updated: 2025-09-15 23:37_
 
 ## Top Stories
 
-- Trump: Ny ”knarkbåt” från Venezuela attackerad - GP
-- Misstänkte Charlie Kirk-mördaren pluggade till elektriker - Arbetet
 - Drönare oskadliggjorda vid Polens presidentpalats - SVT Nyheter
-- Blåsig tisdag väntar Skåne – värst vid kusterna - Sydsvenskan
+- Trump: USA har dödat ”narkotikaterrorister” i ny attack mot fartyg - DN
+- Misstänkte Charlie Kirk-mördaren pluggade till elektriker - Arbetet
+- Stormvarning utfärdad i södra Sverige - Aftonbladet
 - Anhöriga kritiska mot kommunen: ”Inga svar” - DN
 - Villa övertänd utanför Eslöv - Skånska Dagbladet
-- Olika bud om läckt information: ”Behöver få klarhet” - Ljusnan
 - Fler hastighetskontroller i hela landet - polisen.se
-- Så fuskar matteelever med AI: ”Utbrett problem” - DN
-- Valet är en särskild händelse - Västerbottens-Kuriren
-- Netanyahu: Israels ekonomi isolerad – vi måste klara oss själva - DN
-- Israelisk militär: 320 000 har lämnat Gaza Stad - Västerbottens-Kuriren
+- Gängtopp gripen efter rymning – tog sig två mil - Västerbottens-Kuriren
+- Pressbriefing efter mötet om trygghet och säkerhet vid riksdagen - Regeringen.se
+- Arkitekten Kjell Forshed: ”Skönhet kunde man inte prata om” - DN
+- FN-siffror: Över 250 journalister dödade i Gaza - Västerbottens-Kuriren
 - Premiärministern till Elon Musk: ”Farligt och hetsande” - Hufvudstadsbladet
-- Rubio: USA ”orubbligt” i sitt stöd för Israel - Corren
-- Trump uppmanar amerikanska bolag att slopa kvartalsrapportering - Dagens industri
-- Industriproduktionen i Kina ökade mindre än väntat i augusti - ökningstakten lägst för året (uppdatering) - Placera.se
+- Qatar: Alla förbindelser med Israel ska ses över - GP
+- Netanyahu: Israels ekonomi isolerad – vi måste klara oss själva - DN
+- Kinas industriproduktion ökade mindre än väntat i augusti - Dagens industri
+- DN Direkt - Trump: Skrota kvartalsrapporterna - DN
 - Vill kalla minister till utskott efter DN:s avslöjande - DN
-- Kraftigt ökad satsning på regionala flygplatser - Liberalerna
+- Kraftigt ökad satsning på regionala flygplatser - Regeringen.se
 - Nu ska telefonen kunna filtrera bort samtal - SvD
 - Qualcomm lanserar Snapdragon 8 Elite Gen 5 - mobil.se
 
@@ -42,8 +42,8 @@ _Updated: 2025-09-15 22:40_
 - World Athletics introduces gene test for female category - BBC
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Global konflikt hotar din höstresa - Dagens PS
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - VML Achieves Global Winning Streak with Trio of Major Awards - Placera.se
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - BlackRock Debuts Active ETFs from its Global Allocation Franchise - Placera.se
 - ARAMIS Global Ambassador, Dwyane Wade, Celebrates New Fragrance Launch During New York Fashion Week - Placera.se
 - S&P Global, Cambridge Associates and Mercer Collaborate to Create Comprehensive Private Markets Performance Analytics - Placera.se
@@ -74,25 +74,25 @@ _Updated: 2025-09-15 22:40_
 ## Business
 
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
-- Spelman College wins 7th annual Moguls in the Making entrepreneurial pitch competition - Placera.se
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Green Dot Adds Stripe as Green Dot Network Partner - Placera.se
+- TPG RE Finance Trust, Inc. Announces Retirement of Chief Financial Officer Bob Foley and Appointment of Brandon Fox as Interim Chief Financial Officer - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -119,46 +119,46 @@ _Updated: 2025-09-15 22:40_
 
 ## Science
 
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Unikt möte mellan konst och vetenskap i yttersta havsbandet - Stockholms universitet
+- Upp till försvar för forskningen - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Stärkt life science-forskning är till godo för patienterna - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - European Commission
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
