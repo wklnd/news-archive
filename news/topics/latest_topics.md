@@ -1,39 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-15 15:42_
+_Updated: 2025-09-15 16:40_
 
 ## Top Stories
 
-- Gängtopp har rymt från anstalt i Borås – söks av polisen - SVT Nyheter
-- Kristersson om Orbáns attack: ”Hårresande lögner” - Västerbottens-Kuriren
-- 15 september 08.54, Farligt föremål, misstänkt, Malmö - polisen.se
-- DN Direkt - 100 personer demonstrerade i Malmö - DN
-- Ella, 18, och Filippa, 17, inför kyrkovalet: Förstår inte vad man röstar på - SVT Nyheter
-- Ryska drönare kränkte avsiktligen polskt luftrum - UNT
+- Friidrott: Armand Duplantis har säkrat VM-guldet - SVT Nyheter
+- David Berntsen Lundin har rymt – jagas av polis - GP
+- 15 september 08.54, Farligt föremål, misstänkt, Malmö - Polisen.se
+- Trafiken i gång på Botniabanan - GP
+- Anhållen frisläppt efter misstänkta mordbranden - Enköpingsposten
+- ”Jag fick betala full hyra – fast jag inte kunde bo där” - DN
 - Flicka knivhöggs i rygg och mage av jämnårig – allvarligt skadad - DN
 - 26 miljarder mer till försvaret - Liberalerna
-- Valet är en nationell särskild händelse - polisen.se
-- DN Direkt - Man häktad för mord i Skåne - DN
+- Kristersson om Orbáns attack: ”Hårresande lögner” - Västerbottens-Kuriren
+- DN Direkt - Pojke häktad efter mord vid moské - DN
+- Ryska drönare kränkte avsiktligen polskt luftrum - UNT
 - IDF-kritiken mot Netanyahu växer – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- Person har fått frätande ämne i ögat - Expressen
-- Trump hotar att utlysa nytt nödläge i Washington - DN
-- ”Soldat F” inför rätta för mord under Blodiga söndagen 1972 - DN
+- Nathan Shachar: Irans förslag om militärallians mot Israel får nobben - DN
+- Person hittad död i Skellefteå - Expressen
 - Elon Musk har köpt Tesla-aktier för omkring 9,3 miljarder - Dagens industri
+- Trump uppmanar amerikanska bolag att slopa kvartalsrapportering - Dagens industri
 - VEF:s VD om höga substansrabatten: ”Tack herr Marknad” - Affärsvärlden
-- Experter: 1,5 miljoner personuppgifter på darknet – även skyddade uppgifter läckta - Voister
-- Svenskarna mindre nöjda med sin bank - Aftonbladet
+- Cyberangrepp mot Kumla kommun – personuppgifter läckta - SVT Nyheter
 - Pokemonkort – monsterinvesteringen slår det mesta på börsen - SvD
-- Squadron 42 kan missa 2026: "Jag vet inte om vi kommer klara det" - FZ.se
+- Det går inte att jogga sig till förtroende och goda relationer - Lundagard.se
 
 ## World News
 
 - Svenskt mjukvarubolag inleder pilotprojekt med global leverantör - Börskollen
 - Efter taxiapp-affären: VNV Global ska återköpa aktier - Dagens industri
-- VNV Global ska återköpa aktier - Privata Affärer
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
@@ -43,6 +42,7 @@ _Updated: 2025-09-15 15:42_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- VNV Global ska återköpa aktier - Privata Affärer
 - Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - VML Achieves Global Winning Streak with Trio of Major Awards - Placera.se
 - BlackRock Debuts Active ETFs from its Global Allocation Franchise - Placera.se
@@ -74,8 +74,8 @@ _Updated: 2025-09-15 15:42_
 ## Business
 
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
@@ -83,6 +83,7 @@ _Updated: 2025-09-15 15:42_
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Mineros Announces Departure of Chief Financial Officer - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -90,7 +91,6 @@ _Updated: 2025-09-15 15:42_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 
@@ -98,47 +98,47 @@ _Updated: 2025-09-15 15:42_
 
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Osher centrum för integrativ hälsa - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- SLS eHälsodag 2025 - sls.se
+- En allt starkare alternativ röst om global hälsa - Läkartidningen
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Värdebaserad vård – ingen »quick fix« för vården - Läkartidningen
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Samverkan - Göteborgs universitet
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - The Association for Frontotemporal Degeneration
+- Olika slutsatser från samma data - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - The Association for Frontotemporal Degeneration
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Upp till försvar för forskningen - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
+- Stärkt life science-forskning är till godo för patienterna - Läkartidningen
 
 ## Jordbruk
 
@@ -146,19 +146,19 @@ _Updated: 2025-09-15 15:42_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - (+) Stor undersökning av jordbruket - Arbetarskydd
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Här är världens största jordbruk - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
 - Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
