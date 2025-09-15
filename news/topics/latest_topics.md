@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-15 11:42_
+_Updated: 2025-09-15 12:43_
 
 ## Top Stories
 
+- Lämnar, nästa säsong - Frölunda HC
 - Kristersson om Orbáns Sverigeutspel: ”Skamlösa lögner” - SVT Nyheter
 - 15 september 08.54, Farligt föremål, misstänkt, Malmö - polisen.se
-- Borås: Flicka knivhuggen – annan flicka gripen - Aftonbladet
+- DN Direkt - 100 personer demonstrerade i Malmö - DN
+- Flicka knivhuggen i Borås – jämnårig flicka gripen - Sydsvenskan
+- ”Jag fick betala full hyra – fast jag inte kunde bo där” - DN
 - David Berntsen Lundin har rymt – jagas av polis - GP
-- DN Direkt - Skarp ordväxling mellan Kristersson och Andersson - DN
-- Dömda pedofiler tränade barn i idrottsklubbar - SvD
 - Valet är en nationell särskild händelse - polisen.se
+- Dömda pedofiler fick träna barn - DN
 - Ella, 18, och Filippa, 17, inför kyrkovalet: Förstår inte vad man röstar på - SVT Nyheter
-- Judoklubben i Växjö säger nej till fritidskortet: ”Administrativ börda” - SVT Nyheter
-- Psykologens råd: Så undviker man att bli höstdeppig - SVT Nyheter
 - Rumänien kallar upp rysk ambassadör - UNT
-- IDF: 320 000 har lämnat Gaza stad – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
-- ”Hellre en humanoid än äldreboende” – 80-årigt par vill köpa en robot - DN
 - Trump hotar att utlysa nytt nödläge i Washington - DN
+- IDF-kritiken mot Netanyahu växer – Senaste nytt om kriget i Gaza och Mellanöstern - SVT Nyheter
+- ”Hellre en humanoid än äldreboende” – 80-årigt par vill köpa en robot - DN
 - Experter: 1,5 miljoner personuppgifter på darknet – även skyddade uppgifter läckta - Voister
-- Svenskar mindre nöjda med sin bank - SVT Nyheter
+- Sparbankerna bäst igen – kundfavorit för sjätte året i rad - Mynewsdesk
 - Wildo stämmer Stormberg – bråk om klassiska koppen - Expressen
-- Ekonom om guldruschen: En oroväckande signal - Omni
-- Hemliga knappen: Parkoppla Airpods med prylar från andra tillverkare än Apple - mobil.se
+- 58.000 inbetalningar försenades – storbanken betalade ur egen ficka - Dagens industri
+- Samsung täpper till kritisk sårbarhet i sina mobiltelefoner - Computer Sweden
 - Dying Light: The Beast släpps tidigare – för att fira 1 miljon förhandsköp - FZ.se
 
 ## World News
@@ -30,8 +30,8 @@ _Updated: 2025-09-15 11:42_
 - Svenskt mjukvarubolag inleder pilotprojekt med global leverantör - Börskollen
 - Efter taxiapp-affären: VNV Global ska återköpa aktier - Dagens industri
 - VNV Global ska återköpa aktier - Privata Affärer
-- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -51,30 +51,31 @@ _Updated: 2025-09-15 11:42_
 ## Technology
 
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI-revolutionen släpps lös: Genombrott, storföretagens satsningar & etiska stormar (slutet av juli 2025) - ts2.tech
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
-- 290 million for digitalisation of Swedish industry - Vinnova
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Attachments Terranet to exhibit at Auto.AI Europe 2025 - Placera.se
 - Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
-- Aiforia honors two AI pioneers in digital pathology at the 37th European Congress of Pathology - Placera.se
 
 ## Business
 
+- Green Dot Adds Stripe as Green Dot Network Partner - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- DeFi Technologies Announces Shareholder Call to Discuss Q2 2025 Financial Results - Placera.se
+- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
@@ -90,55 +91,54 @@ _Updated: 2025-09-15 11:42_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
+- Triglyceridrika lipoproteiner – farligare än LDL-kolesterol? - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Osher centrum för integrativ hälsa - Karolinska Institutet
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
+- SLS eHälsodag 2025 - sls.se
 - Johan von Schreeb - Karolinska Institutet
+- Samverkan - Göteborgs universitet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- En allt starkare alternativ röst om global hälsa - Läkartidningen
+- Lisa Dinkler now assistant professor at Karolinska Institutet - Göteborgs universitet
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 
 ## Science
 
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Studie om mikroplast fälld för fusk - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Upp till försvar för forskningen - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Stärkt life science-forskning är till godo för patienterna - Läkartidningen
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 
 ## Jordbruk
 
@@ -152,10 +152,10 @@ _Updated: 2025-09-15 11:42_
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
