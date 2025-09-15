@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-15 15:15_
+_Updated: 2025-09-15 15:49_
 
+- Trump advocates that companies stop reporting earnings on a quarterly basis - CNBC
 - After Charlie Kirk’s killing, conservative evangelical leaders hail him as a martyr - CNN
-- Kirk Shooting Suspect Held ‘Leftist Ideology,’ Utah Governor Says - The New York Times
-- US and China hold second day of trade talks as TikTok deadline looms - BBC
-- Kash Patel criticized for his actions and posts during Charlie Kirk shooting investigation - NBC News
+- U.S. has 'framework' for deal with China over TikTok - NBC News
 - A record number of congressional lawmakers aren't running for reelection in 2026. Here's the list - NPR
-- Charlie Kirk death supercharges Right-wing cancel culture - UnHerd
+- Here are the details of Trump’s $1.2-billion call to remake UCLA in a conservative image - Los Angeles Times
+- Kash Patel criticized for his actions and posts during Charlie Kirk shooting investigation - NBC News
 - Trump says foreign experts welcome after South Korean outrage over raid - Axios
-- Blame game after acts of political violence can lead to further attacks, experts warn - AP News
+- Charlie Kirk was more than a conservative activist - vox.com
 - 'The whole thing is screwed up': Farmers in deep-red Pennsylvania struggle to find workers - Politico
 - Rubio, in Israel, Meets Netanyahu as Trump Grows Impatient - The New York Times
-- British politicians condemn Elon Musk's comments at anti-migrant rally - ABC News
+- British politicians condemn Elon Musk’s comments at anti-migrant rally - AP News
 - US military officers pay surprise visit to Belarus to observe war games with Russia - Reuters
-- Melting glaciers mean an uncertain future for Europe’s rivers - NPR
 - Prime suspect in Madeleine McCann case turns down interview with British police, on verge of release - CNN
-- Elon Musk Purchases About $1 Billion Worth of Tesla Shares - Bloomberg.com
-- China says Nvidia violated anti-monopoly laws, significantly escalating trade tensions with US - CNN
-- Trump advocates that companies stop reporting earnings on a quarterly basis - CNBC
-- Australia's ANZ to pay $160 million over bond deal, customer violations - Reuters
-- As with every year, Apple’s launch event made waves — but this time, the AirPods Pro 3 took center stage - Ynetnews
+- What to know about 'Eastern Sentry,' NATO's response to Russian drones - ABC News
+- Nvidia Broke Antitrust Law, China Says, as Tensions With U.S. Mount - The New York Times
+- Tesla jumps after Musk acquires EV maker's shares worth $1 billion - Reuters
+- The Fed Tried to Avoid a Fight With Trump. It Got One Anyway. - The New York Times
+- ANZ fined record $160mn over bond trading and customer account issues - Financial Times
+- AirPods Pro 3 Case Features U2 Chip With Improved 'Find My' Range - MacRumors
 - The most popular Android phones in Q2 2025 also beat the cheapest new iPhone - Android Authority
