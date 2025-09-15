@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-15 19:48_
+_Updated: 2025-09-15 20:52_
 
-- DNA evidence links suspect to killing of Charlie Kirk, FBI director says - The Guardian
+- JD Vance hosting "The Charlie Kirk Show" today after Kirk's assassination - CBS News
 - US says framework for deal on future of TikTok ownership agreed with China - BBC
+- Charlie Kirk killing: What we know about suspect Tyler Robinson’s motives - Al Jazeera
 - Maurene Comey, prosecutor who handled Jeffrey Epstein case, sues over firing - Politico
-- After Charlie Kirk’s killing, conservative evangelical leaders hail him as a martyr - CNN
-- Workers fired, placed on leave for Charlie Kirk comments after assassination - CBS News
-- Trump Redirects Millions to HBCUs, Charter Schools - The New York Times
-- Washington Post columnist says she was fired over her posts about Charlie Kirk and political violence - CNN
-- Trump vows national emergency in Washington, DC over ICE dispute - Reuters
+- US military officers pay surprise visit to Belarus to observe war games with Russia - Reuters
+- Trump vows tough action after beheading of Indian motel manager in Dallas - BBC
+- Trump aide Stephen Miller vows to ‘destroy’ what he claims is ‘domestic terror movement’ after Charlie Kirk killing – live - The Guardian
 - Trump Warns of Financial Penalties After Hochul Endorses Mamdani - Bloomberg.com
-- Charlie Kirk was more than a conservative activist - vox.com
-- British politicians condemn Elon Musk's comments at anti-migrant rally - ABC News
-- UN Human Rights Council to hold urgent debate on Israeli airstrike on Qatar - Reuters
-- Alongside Rubio, Netanyahu claims Qatar strike succeeded because it sent a ‘message’ - The Times of Israel
+- Workers fired, placed on leave for Charlie Kirk comments after assassination - CBS News
+- Behind the Curtain: Four ominous trends tearing America apart - Axios
 - Germany state elections: AfD makes gains, Greens fall behind - DW
+- The Fleeting Fantasy of a King Who Would Return to Save Nepal - The New York Times
+- Can the EU and NATO impose tariffs on India and China, as Trump wants? - Al Jazeera
+- British politicians condemn Elon Musk's comments at anti-migrant rally - ABC News
 - Trump renews push to end companies' quarterly reports - BBC
-- Dow Jones Futures Rise: Tesla Soars On Elon Musk Stock Move; Nvidia Falls On China News - Investor's Business Daily
-- Nvidia Broke Antitrust Law, China Says, as Tensions With U.S. Mount - The New York Times
-- Australia's ANZ to pay $160 million over bond deal, customer violations - Reuters
-- New versions of Apple’s software platforms are available today - Apple
-- Apple AirPods Pro 3 with Heart Rate: Sports & Fitness Review - DC Rainmaker
+- Stock Market Today: Dow Wavers; Trump Hints at TikTok Deal; Tesla in Focus — Live Updates - The Wall Street Journal
+- China says Nvidia violated antitrust regulations - TechCrunch
+- Why Prediction Markets Like Kalshi Are Attracting Savvy Billionaire Investors - Forbes
+- iOS 26 with Apple’s Liquid Glass redesign is out now - The Verge
+- Amazon may be announcing new Echo and Kindle devices on September 30 - Engadget
