@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-15 05:29_
+_Updated: 2025-09-15 05:56_
 
-- What to know about the aftermath of Charlie Kirk’s assassination - AP News
+- Charlie Kirk’s Killing Has Left Other Political Influencers Reeling - The New York Times
 - Rubio visits Israel in wake of Qatar attack - Politico
-- Kash Patel criticized for his actions and posts during Charlie Kirk shooting investigation - NBC News
-- N.Y. Gov. Kathy Hochul endorses Zohran Mamdani for NYC mayor - Axios
+- Trump adopts messenger-in-chief role after Charlie Kirk's death - Reuters
+- U.S. and China Resume Talks on Tariffs and TikTok - The New York Times
 - Former Illinois Gov. Jim Edgar, a popular two-term Republican, dies at 79 - NBC News
-- In an Era of Deep Polarization, Unity Is Not Trump’s Mission - The New York Times
-- FBI arrests 2 after incendiary device left under FOX 13 News vehicle - FOX 13 News Utah
+- Kash Patel criticized for his actions and posts during Charlie Kirk shooting investigation - NBC News
+- Two men arrested in Utah after bomb found under news vehicle - The Guardian
+- Hochul, Van Hollen back Zohran Mamdani as senator slams ‘spineless’ Democrats - The Washington Post
 - Fox News’ Brian Kilmeade says comment about killing mentally ill homeless people an ‘extremely callous remark’ - CNN
-- Rep. McCaul will retire, but GOP hawk worries about World War III after Russian escalation - AP News
 - Trump says foreign experts welcome after South Korean outrage over raid - Axios
 - Romania 2nd NATO nation in a week to report Russian drone in its airspace - Axios
-- Arab-Islamic summit to warn Israeli attacks threaten normalisation of ties, draft resolution shows - Reuters
-- Ukrainian drone strike sparks fire at one of Russia’s top oil refineries - PBS
-- 25 arrested for assaulting police at massive anti-migrant London march - Euronews.com
+- UK PM Starmer says people have a right to 'peaceful protest' after anti-migrant march - Reuters
+- Ricky Hatton: Wayne Rooney pays tribute to friend and former world champion boxer - BBC
+- Qatari PM says Israel must be ‘punished’ for strike, vows to continue ceasefire efforts - The Times of Israel
+- China's economy slowdown deepens in August with retail sales, industrial output missing expectations - CNBC
+- Trump Administration Claims Vast Powers as It Races to Fire Fed Governor Before Meeting - The New York Times
 - Markets Gear Up for Series of Fed Cuts With Bullish Bets at Risk - Bloomberg.com
 - Political turbulence engulfs the Fed as Trump pushes to assert control - The Washington Post
-- Housing market: the 'most critical' variable for predicting recessions is at lowest since pandemic - Fortune
-- US financial firms pledge $1.7 billion to UK ahead of Trump's visit - Reuters
 - iPhone 17 vs iPhone 16 Pro: Similar displays, distinctly different packages - 9to5Mac
 - Nintendo Direct Switch 2 Preorders At Amazon - All New Games & Amiibo You Can Reserve Now - GameSpot
