@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-15 20:52_
+_Updated: 2025-09-15 21:48_
 
-- JD Vance hosting "The Charlie Kirk Show" today after Kirk's assassination - CBS News
-- US says framework for deal on future of TikTok ownership agreed with China - BBC
-- Charlie Kirk killing: What we know about suspect Tyler Robinson’s motives - Al Jazeera
-- Maurene Comey, prosecutor who handled Jeffrey Epstein case, sues over firing - Politico
-- US military officers pay surprise visit to Belarus to observe war games with Russia - Reuters
-- Trump vows tough action after beheading of Indian motel manager in Dallas - BBC
-- Trump aide Stephen Miller vows to ‘destroy’ what he claims is ‘domestic terror movement’ after Charlie Kirk killing – live - The Guardian
-- Trump Warns of Financial Penalties After Hochul Endorses Mamdani - Bloomberg.com
+- Vance says 'left-wing extremism' helped lead to Charlie Kirk's killing - ABC News
+- Stephen Miller blames "terrorist networks" for Kirk's death, stoking MAGA outrage - Axios
+- Maurene Comey, prosecutor in Epstein and Combs cases and daughter of former FBI director, sues after being fired - CNN
 - Workers fired, placed on leave for Charlie Kirk comments after assassination - CBS News
-- Behind the Curtain: Four ominous trends tearing America apart - Axios
-- Germany state elections: AfD makes gains, Greens fall behind - DW
+- Trump vows national emergency in Washington, DC over ICE dispute - Reuters
+- Trump vows tough action after beheading of Indian motel manager in Dallas - BBC
+- Patel says he doesn’t regret prematurely announcing suspect in Kirk killing was in custody - Politico
+- Washington Post columnist says she was fired over her posts about Charlie Kirk and political violence - CNN
+- U.S. and China Reach ‘Framework’ for a TikTok Sale - The New York Times
+- New York Governor Kathy Hochul endorses Zohran Mamdani for NYC mayor - BBC
+- Poland calls for NATO-backed no-fly zone over Ukraine - The Washington Post
+- British politicians condemn Elon Musk's comments at anti-migrant rally - ABC News
 - The Fleeting Fantasy of a King Who Would Return to Save Nepal - The New York Times
 - Can the EU and NATO impose tariffs on India and China, as Trump wants? - Al Jazeera
-- British politicians condemn Elon Musk's comments at anti-migrant rally - ABC News
-- Trump renews push to end companies' quarterly reports - BBC
-- Stock Market Today: Dow Wavers; Trump Hints at TikTok Deal; Tesla in Focus — Live Updates - The Wall Street Journal
-- China says Nvidia violated antitrust regulations - TechCrunch
-- Why Prediction Markets Like Kalshi Are Attracting Savvy Billionaire Investors - Forbes
-- iOS 26 with Apple’s Liquid Glass redesign is out now - The Verge
-- Amazon may be announcing new Echo and Kindle devices on September 30 - Engadget
+- Trump wants to abolish quarterly earnings reports in favor of biannual. Here's what that would mean. - CBS News
+- Tesla Stock Goes Positive for 2025 as Elon Musk Buys About $1B of Shares - Investopedia
+- S&P 500 rises after Trump's positive comments on China trade talks, gain in Tesla: Live updates - CNBC
+- McDonald's plans $200 million investment to promote regenerative practices on US cattle ranches - AP News
+- Apple’s iOS 26 with the new Liquid Glass design is now available to everyone - TechCrunch
+- Apple Stock Gains. What Preorders Say About iPhone 17 Demand. - Barron's
