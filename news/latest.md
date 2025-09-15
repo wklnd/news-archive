@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-15 18:52_
+_Updated: 2025-09-15 19:48_
 
-- Trump Says Companies Should Stop Reporting Finances Every Quarter - The New York Times
+- DNA evidence links suspect to killing of Charlie Kirk, FBI director says - The Guardian
+- US says framework for deal on future of TikTok ownership agreed with China - BBC
+- Maurene Comey, prosecutor who handled Jeffrey Epstein case, sues over firing - Politico
 - After Charlie Kirk’s killing, conservative evangelical leaders hail him as a martyr - CNN
-- Donald Trump signals US and China have struck TikTok deal - Financial Times
-- Charlie Kirk killing: Suspect had 'obsession' with the conservative influencer, FBI says - ABC News
-- Trump vows national emergency in Washington, DC over ICE dispute - Reuters
-- Washington Post Columnist Says She Was Fired for Posts After Charlie Kirk Shooting - The New York Times
 - Workers fired, placed on leave for Charlie Kirk comments after assassination - CBS News
-- Charlie Kirk was more than a conservative activist - vox.com
-- Trump says foreign experts welcome after South Korean outrage over raid - Axios
+- Trump Redirects Millions to HBCUs, Charter Schools - The New York Times
+- Washington Post columnist says she was fired over her posts about Charlie Kirk and political violence - CNN
+- Trump vows national emergency in Washington, DC over ICE dispute - Reuters
 - Trump Warns of Financial Penalties After Hochul Endorses Mamdani - Bloomberg.com
+- Charlie Kirk was more than a conservative activist - vox.com
 - British politicians condemn Elon Musk's comments at anti-migrant rally - ABC News
+- UN Human Rights Council to hold urgent debate on Israeli airstrike on Qatar - Reuters
 - Alongside Rubio, Netanyahu claims Qatar strike succeeded because it sent a ‘message’ - The Times of Israel
 - Germany state elections: AfD makes gains, Greens fall behind - DW
-- Madeleine McCann suspect Christian Brueckner, set for release in Germany, refuses to talk to U.K. police - CBS News
-- Elon Musk Buys $1 Billion in Tesla Stock as Board Defends His Pay - The New York Times
-- Stock market opens higher on Tesla boost; traders await upcoming Fed meeting - Seeking Alpha
+- Trump renews push to end companies' quarterly reports - BBC
+- Dow Jones Futures Rise: Tesla Soars On Elon Musk Stock Move; Nvidia Falls On China News - Investor's Business Daily
+- Nvidia Broke Antitrust Law, China Says, as Tensions With U.S. Mount - The New York Times
 - Australia's ANZ to pay $160 million over bond deal, customer violations - Reuters
-- China accuses Nvidia of violating anti-monopoly laws - BBC
+- New versions of Apple’s software platforms are available today - Apple
 - Apple AirPods Pro 3 with Heart Rate: Sports & Fitness Review - DC Rainmaker
-- All 2025 Nintendo Switch 2 game releases confirmed with preorder details - Mashable
