@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-16 05:09_
+_Updated: 2025-09-16 05:46_
 
 ## Top Stories
 
-- Flera attacker mot Gaza stad - GP
 - Ryska drönare kränkte avsiktligen polskt luftrum - UNT
 - Misstänkte Charlie Kirk-mördaren pluggade till elektriker - Arbetet
+- Flera attacker mot Gaza stad - GP
 - Trump beordrar militär till Memphis - Västerbottens-Kuriren
 - Kravet inom EU: stoppa de rika ryska turisterna - SvD
-- USA ska ha attackerat en båt utanför Venezuela - SVT Nyheter
+- Gängtopp gripen efter rymning – tog sig två mil - Aftonbladet
 - Olika bud om läckt information: ”Behöver få klarhet” - Ljusnan
 - Trafiken igång på Botniabanan - Västerbottens-Kuriren
-- Ella, 18, och Filippa, 17, inför kyrkovalet: Förstår inte vad man röstar på - SVT Nyheter
+- Insändare i korthet 15 september - NWT
 - Fritidskort ska locka unga till aktivitet: ”Viktigt med samhörighet” - SVT Nyheter
+- Trump: USA har dödat ”narkotikaterrorister” i ny attack mot fartyg - DN
 - FN-siffror: Över 250 journalister dödade i Gaza - Västerbottens-Kuriren
 - Allt större attacker mot Ukraina – räcker luftvärnet? - Västerbottens-Kuriren
 - Trump: Israel måste vara ”försiktigt” - Hufvudstadsbladet
-- Premiärministern till Elon Musk: ”Farligt och hetsande” - Hufvudstadsbladet
-- OpenAI:s ordförande håller med Altman: Befinner oss i AI-bubbla - Börsvärlden
 - Kraftigt ökad satsning på regionala flygplatser - Liberalerna
 - Pandemins munskydd – en tickande miljöbomb - Aktuell Hållbarhet
-- Största rallyt för guldpriset sedan 1979 - Placera.se
+- OpenAI:s ordförande håller med Altman: Befinner oss i AI-bubbla - Börsvärlden
+- Riksbankschefen om räntebeskedet: ”Svårbedömt” - Aftonbladet
 - Nu ska telefonen kunna filtrera bort samtal - SvD
 - Qualcomm lanserar Snapdragon 8 Elite Gen 5 - mobil.se
 
@@ -51,25 +51,25 @@ _Updated: 2025-09-16 05:09_
 ## Technology
 
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI-revolutionen släpps lös: Genombrott, storföretagens satsningar & etiska stormar (slutet av juli 2025) - ts2.tech
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
-- USA:s AI-försprång mot Kina krymper snabbt - Computer Sweden
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
-- The Trade Desk Appoints Omar Tawakol to Board of Directors - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Attachments Terranet to exhibit at Auto.AI Europe 2025 - Placera.se
-- Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
 
 ## Business
 
@@ -98,24 +98,24 @@ _Updated: 2025-09-16 05:09_
 
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- SLS eHälsodag 2025 - sls.se
-- Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- En allt starkare alternativ röst om global hälsa - Läkartidningen
-- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Tema: AI inom medicin och hälsa - Karolinska Institutet
+- En allt starkare alternativ röst om global hälsa - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Samverkan - Göteborgs universitet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Värdebaserad vård – ingen »quick fix« för vården - Läkartidningen
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-09-16 05:09_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Nyheter - LRF - Lantbrukarnas Riksförbund
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Jordbruk och landsbygdsutveckling - European Commission
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
+- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
