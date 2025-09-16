@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-16 16:43_
+_Updated: 2025-09-16 17:41_
 
 ## Top Stories
 
-- Martin Gelin: Charlie Kirk förstod utanförskapet som radikaliserar unga män - DN
-- FN-utredare: Israel begår folkmord i Gaza – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Barn misstänks för förberedelse till mord – hade kniv på skola - Omni
-- Demonstranter vid judisk skola: Var mot IDF-soldat - DN
-- Tre svenskar gripna i Portugal efter omfattande bedrägerier i Sverige - polisen.se
-- Ärkebiskopen: ”Tydligt att något är på gång” - SvD
-- Kinesisk fabrik får grönt ljus – till utsläpp av cancerframkallande ämne - GP
-- Uddevalla kommun polisanmäler hemtjänsten - DN
-- Nytt paket för ett starkare civilt försvar - Regeringen.se
+- Emma Bouvin: ”Liv går före lag” säger Netanyahu och sätter Gaza i brand - DN
+- Det här vet vi om Charlie Kirks misstänkta mördare Tyler Robinson - GP
+- Ukrainsk man misstänkt drönarpilot i Polen - GP
+- Lektionen avbröts av flicka med kniv – då ingrep läraren Eric: ”Livrädd” - Aftonbladet
+- Henrik Brandão Jönsson: Trump har lyckats skrämma regimen i Venezuela - DN
+- IDF-föreläsning orsak till kritiserad demonstration vid judisk skola - SVT Nyheter
+- Tre svenskar gripna i Portugal – misstänks ha lurat äldre på 150 miljoner - SVT Nyheter
+- Kommunen polisanmäler efter skandal i hemtjänsten - Arbetet
+- Tre nya miljarder till det civila försvaret - Västerbottens-Kuriren
 - Misstänkt skottlossning på Gotland - DN
 - Israel har attackerat hamnstad i Jemen - Västerbottens-Kuriren
 - Livstid för knivdåd vid tyskt torgmöte - Aftonbladet
-- Israel begår folkmord enligt FN-kommission – markoffensiv inledd mot Gaza stad - DN
-- Ukrainsk man misstänkt drönarpilot i Polen - GP
+- Domstol: Nord Stream-misstänkt ska utlämnas - GP
+- Trump historisk när han gör sitt andra statsbesök – väntas skriva under pakt - DN
 - Svenska AI-bolaget köps upp – för 10 miljarder - Dagens industri
-- Fikarasten är snart ett minne blott - DN
+- Nytt Tesla-bakslag – 174 000 bilar ska granskas - GP
 - Affärsvärlden ger ett neutralt råd för Bioarctic - Placera.se
-- Därför får rekordmånga a-kassa trots massor av lediga jobb – ”Allvarligt läge” - Tidningen Näringslivet
+- Region Skåne bekräftar: Skyddade personuppgifter i läckan - DN
 - Office-appar får gratis Copilot Chat-funktioner - Computer Sweden
-- Ios 26 är här – nu får din Iphone ett helt nytt utseende - Nyteknik
+- Första ”videon” av ett svart hål – visar hur magnetfält ändras - Nyteknik
 
 ## World News
 
@@ -52,24 +52,24 @@ _Updated: 2025-09-16 16:43_
 
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
-- 290 million for digitalisation of Swedish industry - Vinnova
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
+- Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
+- Qualcomm’s Board of Directors Appoints Jeremy (Zico) Kolter to Board - Placera.se
+- Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
+- Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Attachments Terranet to exhibit at Auto.AI Europe 2025 - Placera.se
-- Aiforia honors two AI pioneers in digital pathology at the 37th European Congress of Pathology - Placera.se
-- Digital Realty Launches Innovation Lab to Accelerate AI and Hybrid Cloud Implementation - Placera.se
-- ZenaTech’s ZenaDrone Subsidiary Commences Testing of Its IQ Square Drone for Public Safety and Emergency Response Applications, a USD $5.5 Billion Market - Placera.se
 
 ## Business
 
@@ -97,25 +97,25 @@ _Updated: 2025-09-16 16:43_
 ## Health
 
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Phu Ly Medical Center: Att följa Uncle Ho är att uppfylla uppgiften att skydda och ta hand om människors hälsa. - Vietnam.vn
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Osher centrum för integrativ hälsa - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Värdebaserad vård – ingen »quick fix« för vården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
+- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
 ## Science
 
