@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-17 00:48_
+_Updated: 2025-09-17 01:48_
 
-- Live Updates: Charlie Kirk shooting suspect charged with aggravated murder, could face death penalty - CBS News
-- TikTok to stay in the US as Donald Trump says deal is done - BBC
+- Charlie Kirk murder suspect Tyler Robinson appears in court, with prosecutors seeking death penalty - BBC
+- U.S. Investors, Trump Close In on TikTok Deal With China - The Wall Street Journal
 - Republicans release 7-week spending bill as Democrats warn of a potential shutdown - NPR
-- New York judge tosses terrorism charges against Luigi Mangione, lets murder count stand - AP News
-- Palestinians flee Gaza City as Israel says it launched ground assault amid global outcry - CNN
-- Trump heads to U.K. for carefully choreographed state visit - The Washington Post
-- Kash Patel says others under investigation in Charlie Kirk shooting probe - ABC News
-- Sotomayor rebukes calls to ‘criminalize free speech’ in apparent swipe at Pam Bondi - Politico
-- Russia's drones in Poland raised NATO concerns. Now its war games in Belarus add to tensions - AP News
-- Russia has network of 200 camps for ‘brainwashing’ Ukrainian children – report - The Guardian
-- A U.N. inquiry accuses Israel of genocide in Gaza, joining a rising chorus - NPR
+- Israeli military begins its ground offensive in Gaza City as thousands of Palestinians flee - AP News
+- Memphis Residents Welcome President Trump’s Action to Restore Public Safety - The White House (.gov)
+- Luigi Mangione Terrorism Charges Dropped, Murder Charges Upheld During New York State Hearing - Rolling Stone
+- Man arrested for allegedly faking confession to Charlie Kirk’s killing - The Guardian
+- The people who have lost their jobs for posts about Charlie Kirk - Axios
+- President Donald Trump and Melania land in UK for second state visit - follow live - BBC
+- Trump discloses U.S. targeted a third alleged drug boat from Venezuela - The Washington Post
+- US military confirms it sent observers to Russia-Belarus war games - Reuters
+- Russia Indoctrinates Children From Occupied Ukraine at 210 Sites, Study Says - The New York Times
+- U.N. commission finds that Israel committed genocide in Gaza - The Washington Post
 - Titanic's sister ship Britannic was sunk by a mine in 1916. Divers have recovered artifacts from the wreckage. - CBS News
+- Fed set to cut rates, but forecast for rest of 2025 is key to markets with politics clouding the picture - CNBC
 - US orders Delta and Aeromexico to dissolve their partnership over fairness concerns in Mexico - AP News
-- Mortgage Rates Near 3 Year Lows Ahead of Fed - Mortgage News Daily
 - Rivian Is Building a Georgia Factory in the Face of an EV Slump - The Wall Street Journal
-- S&P 500 eases a bit from record as traders await big Fed rate decision: Live updates - CNBC
-- Here are all the new features in iOS 26, iPadOS 26, macOS Tahoe - 9to5Mac
-- Apple Watch Ultra 3: A closer look at its satellite communications tools - Engadget
-- Google rolls out new Windows desktop app with Spotlight-like search tool - TechCrunch
-- Roku's first TV projector gives you a 150-inch screen - for less than $200 - ZDNET
+- After losing their son, parents urge Senate to take action on AI chatbots - Mashable
+- iOS 26 has arrived: See if your iPhone is eligible for the free update - Engadget
+- Hands-On: The Apple Watch Series 11, Ultra 3, and SE 3 - Hodinkee
