@@ -1,24 +1,24 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-16 20:47_
+_Updated: 2025-09-16 21:37_
 
 ## Top Stories
 
 - Martin Gelin: Charlie Kirk förstod utanförskapet som radikaliserar unga män - DN
-- Psykisk terror sätter spår – stalkning kopplas till hjärtproblem - DN
-- Nato: Vi ska vara stolta - SvD
-- ”Barn och kvinnor gick längs vägen – gråtande” – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Larm om misstänkt farligt föremål i Stockholm - Västerbottens-Kuriren
+- Israels offensiv: Gazabor flyr i ren fasa - Hufvudstadsbladet
 - Kommunen polisanmäler efter skandal i hemtjänsten - Arbetet
 - Nytt paket för ett starkare civilt försvar - Regeringen.se
+- FN-kommission: ”Israel begår folkmord i Gaza” - SvD
 - Tre svenskar gripna i Portugal efter omfattande bedrägerier i Sverige - polisen.se
+- Psykisk terror sätter spår – stalkning kopplas till hjärtproblem - DN
+- Kyrkovalet: Svenska kyrkan kan leda klimatomställningen - NT
 - Regeringen lovar fyra miljarder till skolan - GP
-- Här är föreningar som anslutit sig till Fritidskortet - Smålands Dagblad
-- Trygghets- och beredskapsdag i Märsta centrum - Sigtuna kommun
 - Henrik Brandão Jönsson: Trump har lyckats skrämma regimen i Venezuela - DN
-- Trump får kunglig show under Londonbesök - Hufvudstadsbladet
-- Israel begår folkmord enligt FN-kommission – markoffensiv inledd mot Gaza stad - DN
-- Israel har attackerat hamnstad i Jemen - GP
-- Open AI:s nya regler för barn: Kan kontakta polisen - Omni
+- Ukrainsk man misstänkt drönarpilot i Polen - Västerbottens-Kuriren
+- Sandra Stiskalo: Trump ville ligga med prinsessan Diana – nu måste kung Charles massera hans ego - DN
+- Teknik och ekonomi avgör kriget - SvD
+- Larm om misstänkt farligt föremål - DN
 - Workday köper svenska AI-bolaget Sana Labs för strax över 10 miljarder kronor (R) - Placera.se
 - Region Skåne bekräftar: Skyddade personuppgifter i läckan - DN
 - Kontorsexperten: Svenska kontor bland de bästa i världen - DN
@@ -54,7 +54,7 @@ _Updated: 2025-09-16 20:47_
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - mynewsdesk.com
 - AI-revolutionen släpps lös: Genombrott, storföretagens satsningar & etiska stormar (slutet av juli 2025) - ts2.tech
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
@@ -75,70 +75,70 @@ _Updated: 2025-09-16 20:47_
 
 - Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
 - DeFi Technologies Invests in Continental Stablecoin Inc., Backers of cNGN, to Accelerate Regulated Stablecoin Adoption Across Africa - Placera.se
-- Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - mynewsdesk.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - mynewsdesk.com
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - mynewsdesk.com
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - TPG RE Finance Trust, Inc. Announces Retirement of Chief Financial Officer Bob Foley and Appointment of Brandon Fox as Interim Chief Financial Officer - Placera.se
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - mynewsdesk.com
 - Spelman College wins 7th annual Moguls in the Making entrepreneurial pitch competition - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - mynewsdesk.com
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - mynewsdesk.com
+- Hans Skruvfors blir VD för Sambla Group - mynewsdesk.com
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - mynewsdesk.com
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - mynewsdesk.com
 
 ## Health
 
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - mynewsdesk.com
 - »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - mynewsdesk.com
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Osher centrum för integrativ hälsa - Karolinska Institutet
 - SLS eHälsodag 2025 - sls.se
+- Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
+- En allt starkare alternativ röst om global hälsa - Läkartidningen
+- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - mynewsdesk.com
+- Tema: AI inom medicin och hälsa - Karolinska Institutet
+- Samverkan - Göteborgs universitet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - mynewsdesk.com
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - mynewsdesk.com
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Upp till försvar för forskningen - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
 
 ## Jordbruk
 
@@ -151,7 +151,7 @@ _Updated: 2025-09-16 20:47_
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - mynewsdesk.com
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Här är världens största jordbruk - ATL
