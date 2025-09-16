@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-17 00:37_
+_Updated: 2025-09-17 01:37_
 
 ## Top Stories
 
+- Åklagaren yrkar på dödsstraff för mordet på Kirk - GP
 - 16 september 19.36, Farligt föremål, misstänkt, Stockholm - polisen.se
-- Martin Gelin: Charlie Kirk förstod utanförskapet som radikaliserar unga män - DN
+- Källor: Ukrainsk underättelsetjänst slog till 700 mil från Kyiv - Omni
+- Fem punkter: Så vet du om du har drabbats av Miljödataläckan - GP
+- Experten: Sverige är skyldiga att stoppa folkmord – även i Gaza - ETC.se
 - ”Barn och kvinnor gick längs vägen – gråtande” – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Storbritannien förbereder för ”alla tänkbara utfall” - DN
-- Ex-fotbollshuligan leder det brittiska missnöjet - SvD
-- Kommunen polisanmäler nattpatrullen i Uddevalla – olaga hot och narkotikabrott - GP
-- Tre svenskar gripna i Portugal efter omfattande bedrägerier i Sverige - polisen.se
 - Nytt bidrag till barnens aktiviteter - lt.se
-- Psykisk terror sätter spår – stalkning kopplas till hjärtproblem - DN
-- Kyrkovalet väcker oro för politisering av kyrkan - NLT
-- Ukrainsk man misstänkt drönarpilot i Polen - Västerbottens-Kuriren
+- Tre svenskar gripna i Portugal efter omfattande bedrägerier i Sverige - polisen.se
+- Debatt: Rösta i kyrkovalet för en levande gemenskap - Norran
+- Kyrkovalet: Svenska kyrkan kan leda klimatomställningen - NT
 - Ryska soldater förklär sig till civila: ”Taktikanpassning” - DN
-- FN-utredare: Israel begår folkmord - UNT
 - Henrik Brandão Jönsson: Trump har lyckats skrämma regimen i Venezuela - DN
+- Teknik och ekonomi avgör kriget - SvD
+- Trump historisk när han gör sitt andra statsbesök – väntas skriva under pakt - DN
 - Uppgifter: De ska ta över Tiktok i USA - Dagens industri
-- Region Skåne bekräftar: Skyddade personuppgifter i läckan - DN
-- Workday köper svenska AI-bolaget Sana Labs för strax över 10 miljarder kronor (R) - Placera.se
+- Open AI:s nya regler för barn: Kan kontakta polisen - Omni
+- Känsliga uppgifter om anställda på Volvo Cars i Skövde har läckt - sla.se
 - ”En påminnelse om hur skruvad svensk skola har varit” - Västerbottens-Kuriren
-- Första ”videon” av ett svart hål – visar hur magnetfält ändras - Nyteknik
 - Apple släpper stora uppdateringar för iOS, macOS och mer - se alla nyheter - dopest.se
+- Första ”videon” av ett svart hål – visar hur magnetfält ändras - Nyteknik
 
 ## World News
 
 - S&P Global Declares Fourth Quarter Dividend - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Toronto becomes the stage for global bartending excellence as host for the 2025 Diageo World Class Global Final - Placera.se
 - UNI Global Union ansluter sig till uppmaning att förbjuda handel med olagliga israeliska bosättningar - UNI Global Union
+- Toronto becomes the stage for global bartending excellence as host for the 2025 Diageo World Class Global Final - Placera.se
 - Svenskt mjukvarubolag inleder pilotprojekt med global leverantör - Börskollen
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- BlueMatrix Expands Global Reach and Product Breadth Through Acquisition of RMS - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- BlueMatrix Expands Global Reach and Product Breadth Through Acquisition of RMS - Placera.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
-- New Secretary General appointed - Olof Palme International Center
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Mirion Partners with IAEA to Enhance Radiation Safety on a Global Scale - Placera.se
+- /C O R R E C T I O N from source -- Global X Investments Canada Inc./ - Placera.se
+- Meet Us at IROS 2025 丨 Witness the Global Premiere：AC2 - The Real Eye of Embodied Robots - Placera.se
 
 ## Technology
 
@@ -96,49 +96,49 @@ _Updated: 2025-09-17 00:37_
 
 ## Health
 
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Triglyceridrika lipoproteiner – farligare än LDL-kolesterol? - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - mynewsdesk.com
-- Triglyceridrika lipoproteiner – farligare än LDL-kolesterol? - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - mynewsdesk.com
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- SLS eHälsodag 2025 - sls.se
-- Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - mynewsdesk.com
+- Osher centrum för integrativ hälsa - Karolinska Institutet
 - »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
+- SLS eHälsodag 2025 - sls.se
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - mynewsdesk.com
+- Johan von Schreeb - Karolinska Institutet
 - Samverkan - Göteborgs universitet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - En allt starkare alternativ röst om global hälsa - Läkartidningen
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - mynewsdesk.com
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - mynewsdesk.com
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Upp till försvar för forskningen - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
