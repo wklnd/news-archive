@@ -1,23 +1,23 @@
 # Top News Headlines
 
-_Updated: 2025-09-16 05:18_
+_Updated: 2025-09-16 05:50_
 
-- VP Vance hosts 'The Charlie Kirk Show' as memorial for conservative icon nears - Fox News
-- Trump Says U.S. Military Struck Another Boat From Venezuela: Live Updates - The New York Times
 - ‘It was me’: Suspect in Charlie Kirk shooting appeared to confess in Discord chat - The Washington Post
-- Suspect sent text saying he would 'take out' Charlie Kirk, FBI says as scrutiny of Patel's performance increases - Los Angeles Times
-- TikTok will retain "Chinese characteristics" after sale, Bessent says - Axios
+- J.D. Vance Said Some Pretty Serious Things on Charlie Kirk’s Podcast Today - Slate
+- Venezuela’s President Maduro Denounces U.S. Boat Attack, as Trump Announces Another - The New York Times
+- Trump administration says it’s reached ‘framework’ deal to keep TikTok running in US - Politico
+- Donald Trump Cornered With List of Right-Wing Attacks on Democrats - The Daily Beast
 - Washington Post columnist says she was fired over posts after Charlie Kirk’s killing - The Guardian
 - Appeals Court Says Lisa Cook Can Remain on Fed Board - The New York Times
+- Suspected gunman Robinson wrote note threatening Kirk, tied to scene by DNA, FBI director says - Reuters
 - Trump backs Patel amid MAGA divide over FBI director - Axios
 - Trump signs memo sending federal law enforcement to join Tennessee National Guard in Memphis - CBS News
-- Schwarzenegger tees off on Newsom’s redistricting measure as ‘insane’ - Politico
-- Drone neutralised flying over government buildings in Warsaw, PM Donald Tusk says - Euronews.com
 - Scoop: Netanyahu spoke to Trump before Israel bombed Qatar - Axios
-- British politicians condemn Elon Musk’s comments at anti-migrant rally - AP News
-- Denmark’s Parenting Test Becomes the Latest Flashpoint in Greenland - The New York Times
+- Drone neutralised flying over government buildings in Warsaw, PM Donald Tusk says - Euronews.com
+- Surprising Guests at Belarus-Russia War Games: Two American Observers - The New York Times
+- Can the EU and NATO impose tariffs on India and China, as Trump wants? - Al Jazeera
 - Why Trump wants companies to report earnings less frequently - NPR
-- Long-term unemployment at post-pandemic high, straining workers and economy - The Washington Post
+- The Long-Term Unemployed Today? College Grads. - The New York Times
 - Investors eyeing a Fed rate cut this week: Beware the unintended fallout for U.S. markets and the economy - MarketWatch
 - Tesla Stock Turns Positive for 2025 as Elon Musk Buys About $1B of Shares - Investopedia
 - Apple’s iOS 26 with the new Liquid Glass design is now available to everyone - TechCrunch
