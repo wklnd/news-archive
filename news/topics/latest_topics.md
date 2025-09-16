@@ -1,34 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-16 19:39_
+_Updated: 2025-09-16 20:47_
 
 ## Top Stories
 
-- Emma Bouvin: ”Liv går före lag” säger Netanyahu och sätter Gaza i brand - DN
-- Det här vet vi om Charlie Kirks misstänkta mördare Tyler Robinson - GP
-- Henrik Brandão Jönsson: Trump har lyckats skrämma regimen i Venezuela - DN
-- Lastbil med släp välte utanför Uppsala – föraren till sjukhus - UNT
-- Skarp handgranat placerades i Malmö - DN
+- Martin Gelin: Charlie Kirk förstod utanförskapet som radikaliserar unga män - DN
 - Psykisk terror sätter spår – stalkning kopplas till hjärtproblem - DN
-- Uddevalla kommun polisanmäler hemtjänsten - DN
-- Tre svenskar gripna i Portugal – misstänks ha lurat äldre på 150 miljoner - SVT Nyheter
-- Tre nya miljarder till det civila försvaret - Västerbottens-Kuriren
-- Kinesisk fabrik får grönt ljus – till utsläpp av cancerframkallande ämne - GP
+- Nato: Vi ska vara stolta - SvD
+- ”Barn och kvinnor gick längs vägen – gråtande” – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Kommunen polisanmäler efter skandal i hemtjänsten - Arbetet
+- Nytt paket för ett starkare civilt försvar - Regeringen.se
+- Tre svenskar gripna i Portugal efter omfattande bedrägerier i Sverige - polisen.se
+- Regeringen lovar fyra miljarder till skolan - GP
+- Här är föreningar som anslutit sig till Fritidskortet - Smålands Dagblad
+- Trygghets- och beredskapsdag i Märsta centrum - Sigtuna kommun
+- Henrik Brandão Jönsson: Trump har lyckats skrämma regimen i Venezuela - DN
 - Trump får kunglig show under Londonbesök - Hufvudstadsbladet
-- Ukrainsk man misstänkt drönarpilot i Polen - Västerbottens-Kuriren
+- Israel begår folkmord enligt FN-kommission – markoffensiv inledd mot Gaza stad - DN
 - Israel har attackerat hamnstad i Jemen - GP
-- Teknik och ekonomi avgör kriget - SvD
+- Open AI:s nya regler för barn: Kan kontakta polisen - Omni
 - Workday köper svenska AI-bolaget Sana Labs för strax över 10 miljarder kronor (R) - Placera.se
-- Nu ska unga användare få en egen version av Chat GPT - Expressen
 - Region Skåne bekräftar: Skyddade personuppgifter i läckan - DN
-- Affärsvärlden ger ett neutralt råd för Bioarctic - Placera.se
-- Office-appar får gratis Copilot Chat-funktioner - Computer Sweden
+- Kontorsexperten: Svenska kontor bland de bästa i världen - DN
 - Första ”videon” av ett svart hål – visar hur magnetfält ändras - Nyteknik
+- Apple släpper stora uppdateringar för iOS, macOS och mer - se alla nyheter - dopest.se
 
 ## World News
 
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Toronto becomes the stage for global bartending excellence as host for the 2025 Diageo World Class Global Final - Placera.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - UNI Global Union ansluter sig till uppmaning att förbjuda handel med olagliga israeliska bosättningar - UNI Global Union
 - BlueMatrix Expands Global Reach and Product Breadth Through Acquisition of RMS - Placera.se
 - Svenskt mjukvarubolag inleder pilotprojekt med global leverantör - Börskollen
@@ -43,9 +43,9 @@ _Updated: 2025-09-16 19:39_
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - /C O R R E C T I O N from source -- Global X Investments Canada Inc./ - Placera.se
 - VML Achieves Global Winning Streak with Trio of Major Awards - Placera.se
-- BlackRock Debuts Active ETFs from its Global Allocation Franchise - Placera.se
 - Meet Us at IROS 2025 丨 Witness the Global Premiere：AC2 - The Real Eye of Embodied Robots - Placera.se
 
 ## Technology
@@ -61,8 +61,8 @@ _Updated: 2025-09-16 19:39_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
+- ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
@@ -98,47 +98,47 @@ _Updated: 2025-09-16 19:39_
 
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Johan von Schreeb - Karolinska Institutet
+- Osher centrum för integrativ hälsa - Karolinska Institutet
+- SLS eHälsodag 2025 - sls.se
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- En allt starkare alternativ röst om global hälsa - Läkartidningen
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
-- Samverkan - Göteborgs universitet
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Värdebaserad vård – ingen »quick fix« för vården - Läkartidningen
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - The Association for Frontotemporal Degeneration
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Upp till försvar för forskningen - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Upp till försvar för forskningen - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
 
 ## Jordbruk
 
