@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-16 15:15_
+_Updated: 2025-09-16 15:50_
 
 - Robert Redford, magnetic Hollywood icon and Sundance founder, dies at 89 - NBC News
 - Israel launches ground offensive to occupy Gaza City - Axios
-- Charlie Kirk shooting suspect appeared to confess on Discord, sources tell CBS - BBC
-- Trump sues ‘degenerate’ New York Times for $15B - Politico
-- Patel says he doesn't regret social media post about Charlie Kirk case that turned out to be wrong - CBS News
-- JD Vance says national unity is impossible with those celebrating Charlie Kirk’s killing - PBS
-- Former Georgia Republican Geoff Duncan launches a run for governor as a Democrat - NBC News
-- Florida attorney general declares open carry of guns ‘law of the state’ - Politico
-- Trump says the U.S. military targeted a boat allegedly carrying drugs from Venezuela - NPR
+- Charlie Kirk assassination: FBI Director Kash Patel reveals new details about suspect - Fox News
+- Trump Sues The New York Times For Articles Questioning His Success - The New York Times
+- Education Dept. reroutes grants to charter schools, other Trump priorities - The Washington Post
+- Iowa lawmakers call for termination of ISU employees for online comments on Charlie Kirk - Iowa Capital Dispatch
+- Kash Patel, FBI director, facing questions on Charlie Kirk investigation at Congress - BBC
 - Beijing says TikTok’s US app will use Chinese algorithm - Financial Times
-- Israel Is Committing Genocide in Gaza, U.N. Inquiry Says - The New York Times
+- US military again targeted a boat allegedly carrying drugs from Venezuela, Trump says - AP News
+- Florida attorney general declares open carry of guns ‘law of the state’ - Politico
 - Smoke-dried human remains found in Asia may be world's oldest known mummies, researchers say - CBS News
 - Qatar, US near defence deal after Israeli strike in Doha - Reuters
-- Drone neutralised flying over government buildings in Warsaw, PM Donald Tusk says - Euronews.com
+- Surprising Guests at Belarus-Russia War Games: Two American Observers - The New York Times
+- China Fires Water Cannons After Collision With Philippine Ship - Bloomberg.com
+- Against the odds, Americans are still spending - CNN
 - Stock Market Today: Dow Futures Waver; Retail Sales Grow More Than Expected — Live Updates - The Wall Street Journal
+- US appeals court blocks Trump’s bid to fire Lisa Cook from Federal Reserve - Al Jazeera
 - Trump renews calls for ending quarterly reports for companies - Reuters
-- Appeals Court Blocks Trump’s Bid To Fire Fed Governor Lisa Cook For Now - Forbes
-- Will the Fed cut rates on Wednesday? See 5 economic charts that may determine its decision. - CBS News
+- Meta’s new smart glasses are coming this week - The Verge
 - Apple Watch Series 11 review: stuck in the middle - The Verge
-- Meta leaked its own announcement about its new smart glasses display - Business Insider
