@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-16 09:38_
+_Updated: 2025-09-16 10:47_
 
 ## Top Stories
 
-- FN-utredare: Israel begår folkmord i Gaza - Omni
-- Efter It-attacken: Göteborgare med skyddade uppgifter hittade i läckan - GP
-- Martin Gelin: Charlie Kirk förstod utanförskapet som radikaliserar unga män - DN
-- Drönare nedskjuten över presidentpalatset i Polen - UNT
+- Nato hänger inte med i Rysslands drönarkrig - Dagens PS
+- Israels ledare pekas ut: ”Har hetsat till folkmord” - Omni
 - Uppgifter: Invasion inledd i Gaza stad - GP
-- Sveriges arbete med globala mål sågas - Aftonbladet
+- Stormvarning utfärdad i södra Sverige - Corren
+- Sandra Stiskalo: Trump ville ligga med prinsessan Diana – nu måste kung Charles massera hans ego - DN
+- Sveriges arbete med globala mål sågas - SvD
+- Regeringen gör ”historisk satsning på skolan” - DN
 - Ett av åttio större skyddsrum har rustats upp - SVT Nyheter
-- Svenska kyrkan i kris: Vilken identitet har vi kvar? - NT
-- DEBATT: S: Kyrkans skogsbruk måste ställas om - Norrtelje Tidning
-- Trafiken i gång på Botniabanan - GP
+- Så misslyckades vården när Agnes dog – hemskickad från akuten - DN
+- Så vill väljarna satsa budgetens miljarder – ”väldigt tydligt utslag” - DN
+- Trump: Ny ”knarkbåt” från Venezuela attackerad - GP
 - Enorm risrätt slår världsrekord i Nigeria - Västerbottens-Kuriren
-- Flera skadade i ryska attacker - GP
 - DN Direkt - Trump stämmer New York Times på 140 miljarder - DN
-- Trump: USA har dödat ”narkotikaterrorister” i ny attack mot fartyg - DN
+- Flera skadade i ryska attacker - GP
+- Cyberangrepp mot Kumla kommun – personuppgifter läckta - SVT Nyheter
 - Allt svagare dollar – detta ska du tänka på - SvD
-- Morgonkoll: Mindre uppgång i Asien – nudeljätten rusar - Dagens industri
-- Musks 9 000-miljardersbonus – en föraning om AI-samhället? - Aftonbladet
-- Donald Trump: Skrota kvartalsrapporterna - Expressen
-- Nu ska telefonen kunna filtrera bort samtal - SvD
-- Amazon gör sig redo att visa upp nya Echo och Kindle-produkter - m3.se
+- Uppåt på Asienbörserna efter Trumps besked - Aftonbladet
+- Bostadspriserna stiger i höst: "Nu vänder det" - Cision News
+- Första ”videon” av ett svart hål – visar hur magnetfält ändras - Ny Teknik
+- IOS 26 får beröm – men nya Siri saknas fortfarande - Omni
 
 ## World News
 
 - Svenskt mjukvarubolag inleder pilotprojekt med global leverantör - Börskollen
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Armand Duplantis soars to third world title and 14th world record - BBC
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Armand Duplantis soars to third world title and 14th world record - BBC
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Techarenan News goes English (Partly at least) - Techarenan.news
+- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - /C O R R E C T I O N from source -- Global X Investments Canada Inc./ - Placera.se
 - VML Achieves Global Winning Streak with Trio of Major Awards - Placera.se
 - BlackRock Debuts Active ETFs from its Global Allocation Franchise - Placera.se
 - S&P Global, Cambridge Associates and Mercer Collaborate to Create Comprehensive Private Markets Performance Analytics - Placera.se
-- ARAMIS Global Ambassador, Dwyane Wade, Celebrates New Fragrance Launch During New York Fashion Week - Placera.se
 
 ## Technology
 
@@ -121,44 +121,44 @@ _Updated: 2025-09-16 09:38_
 
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - The Association for Frontotemporal Degeneration
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Upp till försvar för forskningen - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Upp till försvar för forskningen - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Stärkt life science-forskning är till godo för patienterna - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- Nyheter - LRF - Lantbrukarnas Riksförbund
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- De gick från reko till eko - ST-tidningen
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
