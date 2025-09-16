@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-16 18:46_
+_Updated: 2025-09-16 19:39_
 
 ## Top Stories
 
-- Martin Gelin: Charlie Kirk förstod utanförskapet som radikaliserar unga män - DN
 - Emma Bouvin: ”Liv går före lag” säger Netanyahu och sätter Gaza i brand - DN
-- Lektionen avbröts av flicka med kniv – då ingrep läraren Eric: ”Livrädd” - Aftonbladet
+- Det här vet vi om Charlie Kirks misstänkta mördare Tyler Robinson - GP
 - Henrik Brandão Jönsson: Trump har lyckats skrämma regimen i Venezuela - DN
 - Lastbil med släp välte utanför Uppsala – föraren till sjukhus - UNT
-- Skarp handgranat placerades i Malmö - GP
+- Skarp handgranat placerades i Malmö - DN
+- Psykisk terror sätter spår – stalkning kopplas till hjärtproblem - DN
+- Uddevalla kommun polisanmäler hemtjänsten - DN
 - Tre svenskar gripna i Portugal – misstänks ha lurat äldre på 150 miljoner - SVT Nyheter
 - Tre nya miljarder till det civila försvaret - Västerbottens-Kuriren
-- Uddevalla kommun polisanmäler hemtjänsten - DN
 - Kinesisk fabrik får grönt ljus – till utsläpp av cancerframkallande ämne - GP
 - Trump får kunglig show under Londonbesök - Hufvudstadsbladet
 - Ukrainsk man misstänkt drönarpilot i Polen - Västerbottens-Kuriren
-- Israel har attackerat hamnstad i Jemen - Västerbottens-Kuriren
-- Israel begår folkmord enligt FN-kommission – markoffensiv inledd mot Gaza stad - DN
-- Svenska AI-bolaget köps upp – för 10 miljarder - Dagens industri
+- Israel har attackerat hamnstad i Jemen - GP
+- Teknik och ekonomi avgör kriget - SvD
+- Workday köper svenska AI-bolaget Sana Labs för strax över 10 miljarder kronor (R) - Placera.se
 - Nu ska unga användare få en egen version av Chat GPT - Expressen
-- Kontorsexperten: Svenska kontor bland de bästa i världen - DN
+- Region Skåne bekräftar: Skyddade personuppgifter i läckan - DN
 - Affärsvärlden ger ett neutralt råd för Bioarctic - Placera.se
 - Office-appar får gratis Copilot Chat-funktioner - Computer Sweden
 - Första ”videon” av ett svart hål – visar hur magnetfält ändras - Nyteknik
@@ -43,10 +43,10 @@ _Updated: 2025-09-16 18:46_
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - /C O R R E C T I O N from source -- Global X Investments Canada Inc./ - Placera.se
 - VML Achieves Global Winning Streak with Trio of Major Awards - Placera.se
 - BlackRock Debuts Active ETFs from its Global Allocation Franchise - Placera.se
+- Meet Us at IROS 2025 丨 Witness the Global Premiere：AC2 - The Real Eye of Embodied Robots - Placera.se
 
 ## Technology
 
@@ -73,26 +73,26 @@ _Updated: 2025-09-16 18:46_
 
 ## Business
 
+- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
+- DeFi Technologies Invests in Continental Stablecoin Inc., Backers of cNGN, to Accelerate Regulated Stablecoin Adoption Across Africa - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Green Dot Adds Stripe as Green Dot Network Partner - Placera.se
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - TPG RE Finance Trust, Inc. Announces Retirement of Chief Financial Officer Bob Foley and Appointment of Brandon Fox as Interim Chief Financial Officer - Placera.se
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
+- Spelman College wins 7th annual Moguls in the Making entrepreneurial pitch competition - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- DeFi Technologies Invests in Continental Stablecoin Inc., Backers of cNGN, to Accelerate Regulated Stablecoin Adoption Across Africa - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 
 ## Health
 
@@ -119,46 +119,46 @@ _Updated: 2025-09-16 18:46_
 
 ## Science
 
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Upp till försvar för forskningen - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
-- Stärkt life science-forskning är till godo för patienterna - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Arbetande förman | Jobb | ATL - Land Lantbruk
-- Nyheter - LRF - Lantbrukarnas Riksförbund
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - European Commission
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Här är världens största jordbruk - ATL
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- USA tvingar ut EU på banan - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
