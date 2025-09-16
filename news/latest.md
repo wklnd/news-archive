@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-16 11:48_
+_Updated: 2025-09-16 12:48_
 
-- Live updates: Israel begins ground offensive in Gaza City, as UN commission says Israel is committing genocide - CNN
-- Charlie Kirk murder suspect appeared to confess to killing on Discord, company says - CBS News
+- Israel launches offensive to occupy Gaza City - Axios
 - Trump sues The New York Times for $15 billion, alleging defamation and libel - CNBC
+- Charlie Kirk murder suspect appeared to confess to killing on Discord, company says - CBS News
 - U.S. kills 3 in strike on alleged drug boat from Venezuela, Trump says - The Washington Post
-- Trump backs Patel amid MAGA divide over FBI director - Axios
-- Iowa lawmakers call for termination of ISU employees for online comments on Charlie Kirk - Iowa Capital Dispatch
-- US appeals court rejects Trump bid to oust Fed's Lisa Cook - Reuters
+- Patel says he doesn’t regret prematurely announcing suspect in Kirk killing was in custody - Politico
+- After Charlie Kirk's death, Trump team calls for dismantling leftist groups - Reuters
+- "Not welcome": Rubio says U.S. is deporting visa holders who celebrated Kirk's death - Axios
 - Lina Hidalgo Will Not Run for Re-election in Texas - The New York Times
 - Trump, Bessent say U.S. and China have agreed on TikTok sale - The Washington Post
-- After Charlie Kirk's death, Trump team calls for dismantling leftist groups - Reuters
+- King Charles will warn Trump about the fate of the planet. Trump probably won’t listen. - politico.eu
+- Why the EU won't hit China with the 100% tariffs that Trump wants - Euronews.com
+- Israel's Qatar attack was a costly failure - Axios
 - British politicians condemn Elon Musk’s comments at anti-migrant rally - AP News
-- Poland ‘neutralized a drone operating over government buildings’: Polish prime minister - The Hill
-- UN inquiry finds top Israeli officials incited genocide in Gaza - Reuters
-- Can the EU and NATO impose tariffs on India and China, as Trump wants? - Al Jazeera
-- Trump economic adviser Miran gets Senate nod to join Fed board - Reuters
-- Stocks firm, dollar down as bets build for Fed rate cuts - Reuters
+- Bulgaria arrests Russian owner of ship at centre of Beirut port blast that killed 218 - Euronews.com
+- US appeals court blocks Trump’s bid to fire Lisa Cook from Federal Reserve - Al Jazeera
+- Trump renews calls for ending quarterly reports for companies - Reuters
+- Senate confirms Trump adviser to top Fed role - The Washington Post
 - The Fed faces economic uncertainty and political pressure as it decides whether to cut rates - AP News
-- Trump Wants End Of Quarterly Reports—Says Business Should Report Every 6 Months - Forbes
-- iOS 26: How to change Safari toolbar design on iPhone - 9to5Mac
-- Spotify scraps shuffle restriction for users of free tier - Music Business Worldwide
+- Apple’s iOS 26 with the new Liquid Glass design is now available to everyone - TechCrunch
+- Here's your first official look at the first Snapdragon 8 Elite Gen 5 flagship phones - Android Authority
