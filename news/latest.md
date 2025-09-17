@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-17 16:48_
+_Updated: 2025-09-17 17:48_
 
 - Trump arrives for UK state visit, welcomed by king, prince at Windsor Castle - ABC News
-- Key takeaways from the charges against Tyler Robinson, Charlie Kirk shooting suspect - CNN
-- Ousted CDC director Susan Monarez to warn of "real risk" of less vaccine access for kids when new panel meets this week - CBS News
+- Ousted CDC Director Susan Monarez says RFK Jr. politicizing vaccine decisions "really concerns me" - CBS News
 - Trump Invokes Kirk’s Killing in Seeking to Silence Opponents on Left - The New York Times
-- Photos: Activists beam Trump, Epstein images onto U.K. castle during president's visit - Axios
-- Homeland Security Secretary Kristi Noem leads Elgin raid; 1 U.S. citizen among 6 detained - Chicago Sun-Times
-- Democrat wins special election for seat held by slain Minnesota lawmaker Melissa Hortman - NBC News
-- Spirit Airlines flight warned to move farther from Air Force One over Long Island: "Pay attention. Get off the iPad." - CBS News
-- Government shutdown fears intensify as Democrats stiffen resolve to block GOP spending bill - CNN
-- Abigail Spanberger gets show of support from 2 former GOP lawmakers in bid to be Virginia governor - CBS News
-- German suspect in Madeleine McCann disappearance is released after serving time in unrelated case - AP News
-- Navalny’s widow says new lab evidence proves he was poisoned in prison - The Washington Post
+- Former GOP officials fear US strikes on alleged drug smugglers aren't legal - Politico
+- Spirit Airlines flight repeatedly warned to turn away from Air Force One - NBC News
 - Thousands of Palestinians flee Gaza City as Israeli troops advance - BBC
-- EU Commission proposes suspending free-trade arrangements on Israeli goods - Reuters
+- Obama says Charlie Kirk assassination was ‘horrific’ and praises Utah Gov. Cox’s response - CNN
+- Democrat wins special election for seat held by slain Minnesota lawmaker Melissa Hortman - NBC News
+- Strong winds at Mount St. Helens stirs up ash from 1980 eruption - ABC News
+- Scoop: Democrats lean into shutdown fight with alternative funding plan - Axios
+- Main suspect in British toddler Madeleine McCann's disappearance released - Reuters
+- Navalny’s widow says new lab evidence proves he was poisoned in prison - The Washington Post
+- Greetings from American University of Beirut, where more than 1,000 cats roam - NPR
+- Nepal Gen-Z protests: Politicians get rich while we suffer - so I helped bring down the government in 48 hours - BBC
 - Fed expected to cut rates, update views of Trump economic plan with new projections - Reuters
-- China Orders Firms to Stop Buying Nvidia AI Chip, FT Says - Bloomberg.com
-- Jerry of Ben & Jerry’s Resigns, Saying Company Has Been ‘Silenced’ - The New York Times
-- Gold eases after scaling record peak, Fed rate verdict looms - Reuters
-- The iPhone 17 is the one to get this year - The Verge
-- iOS 26 Liquid Glass Design Makes App Icons Look Crooked, Report Users - MacRumors
+- Fed Meeting Today: Dow Rises Ahead of Interest-Rate Decision — Live Updates - The Wall Street Journal
+- Nvidia Stock Drops on Report China Has Banned Its Chips. Alibaba, TikTok Parent Affected. - Barron's
+- Morning Bid: Ailing dollar gets toehold as Fed awaited - Reuters
+- T-Mobile is giving away a free iPhone 17 Pro with trade-in — here's how to get yours - Mashable
+- iOS 26 is finally here: Everything to know about the free iPhone software update - Engadget
