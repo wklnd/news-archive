@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-17 04:06_
+_Updated: 2025-09-17 05:07_
 
 ## Top Stories
 
 - Åklagaren yrkar på dödsstraff för mordet på Kirk - GP
 - 16 september 19.36, Farligt föremål, misstänkt, Stockholm - polisen.se
-- Nato: Vi ska vara stolta - GP
+- Ukrainsk man misstänkt drönarpilot i Polen - Västerbottens-Kuriren
 - Israel begår folkmord enligt FN-kommission – markoffensiv inledd mot Gaza stad - DN
-- ”Barn och kvinnor gick längs vägen – gråtande” – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Israels offensiv: Gazabor flyr i ren fasa - Västerbottens-Kuriren
 - Storbritannien förbereder för ”alla tänkbara utfall” - DN
+- BILDEXTRA: Här lyfts tåget - Allehanda.se
 - Debatt: Rösta i kyrkovalet för en levande gemenskap - Norran
 - Nytt bidrag till barnens aktiviteter - lt.se
-- Kyrkovalet: Svenska kyrkan kan leda klimatomställningen - NT
 - Uddevalla kommun polisanmäler hemtjänsten - DN
 - Henrik Brandão Jönsson: Trump har lyckats skrämma regimen i Venezuela - DN
-- Ryska soldater förklär sig till civila: ”Taktikanpassning” - DN
 - Teknik och ekonomi avgör kriget - SvD
 - Trump stämmer New York Times på multimiljardbelopp - Expressen
-- Uppgifter: De ska ta över Tiktok i USA - Dagens industri
+- Sköter försvarets hemliga kommunikation – nu ligger känsliga uppgifter på darknet - SVT Nyheter
 - Känsliga uppgifter om anställda på Volvo Cars i Skövde har läckt - sla.se
+- Trump förlänger frist för Tiktok-uppgörelse - Aftonbladet
 - ”En påminnelse om hur skruvad svensk skola har varit” - Västerbottens-Kuriren
 - Pendeltågen i Stockholm: Egen regi alltför riskabel – SL ändrar affärsinriktning - Bussmagasinet
 - Apple släpper stora uppdateringar för iOS, macOS och mer - se alla nyheter - dopest.se
-- Xbox samlar alla Windows-spel i en universal-lösning - FZ.se
+- Första ”videon” av ett svart hål – visar hur magnetfält ändras - Nyteknik
 
 ## World News
 
@@ -40,24 +40,24 @@ _Updated: 2025-09-17 04:06_
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Undersökning: Vd:ar håller fast vid hållbarhet – trots global motreaktion - Aktuell Hållbarhet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - BlueMatrix Expands Global Reach and Product Breadth Through Acquisition of RMS - Placera.se
 - Mirion Partners with IAEA to Enhance Radiation Safety on a Global Scale - Placera.se
 - Meet Us at IROS 2025 丨 Witness the Global Premiere：AC2 - The Real Eye of Embodied Robots - Placera.se
-- /C O R R E C T I O N from source -- Global X Investments Canada Inc./ - Placera.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 
 ## Technology
 
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
-- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI-revolutionen släpps lös: Genombrott, storföretagens satsningar & etiska stormar (slutet av juli 2025) - ts2.tech
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
+- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - AI i juli 2025: Superintelligens, talangkrig och samhälleliga förändringar / Uppdaterad: 2025, 3 juli, 00:01 CET - ts2.tech
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
@@ -65,7 +65,7 @@ _Updated: 2025-09-17 04:06_
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Qualcomm’s Board of Directors Appoints Jeremy (Zico) Kolter to Board - Placera.se
+- Trane Technologies Launches BrainBox AI Lab to Transform Energy Management and Sustainability in Buildings - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
@@ -112,10 +112,10 @@ _Updated: 2025-09-17 04:06_
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -146,15 +146,14 @@ _Updated: 2025-09-17 04:06_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
+- Här är världens största jordbruk - ATL
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
@@ -162,3 +161,4 @@ _Updated: 2025-09-17 04:06_
 - Maskinförare | Jobb | ATL - Land Lantbruk
 - Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
 - Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
