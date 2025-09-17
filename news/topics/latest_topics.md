@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-17 12:41_
+_Updated: 2025-09-17 13:38_
 
 ## Top Stories
 
-- Bidragstak införs – storfamilj mister tusenlappar - SVT Nyheter
-- Billström kritisk mot prestigeprojektet - DN
-- Man död i trafikolycka utanför Örnsköldsvik - GP
-- Lina Lund: Därför går Orbán till verbal attack mot Sverige - DN
-- 17 september 07.38, Sammanfattning natt, Jönköpings län - Polisen.se
+- Regeringen presenterar bidragsreform – vill sänka socialbidrag - DN
+- Anna-Karin Hatt (C): Kristersson underkänner sin egen politik - DN
+- Israels eskalering fördöms: ”Blodbad” - Hufvudstadsbladet
+- Tobias Billström kritiserar statsministerns prestigeprojekt - SVT Nyheter
+- 17 september 07.38, Sammanfattning natt, Jönköpings län - polisen.se
 - Klart: De tar över Malmöfestivalen – som blir rekordtidig - Sydsvenskan
-- Debatt: Norrköpings församlingar i fokus inför kyrkovalet - NT
-- Värnpliktiga rasar mot sin nya ersättning - GP
-- Larmet: Kalhyggen kan göra översvämningar värre - SVT Nyheter
-- Beredskaps­veckan 2025 – Du är en del av Gotlands beredskap - Region Gotland
-- FN: 26 000 barn akut undernärda i Gaza - UNT
+- Värnpliktiga rasar mot sin nya ersättning - Västerbottens-Kuriren
+- Larmet: Kalhyggen kan göra översvämningar värre - GP
+- Debatt: Rösta i kyrkovalet för en levande gemenskap - Norran
+- Beredskapsdag i Märsta centrum nästa lördag - märsta.nu
 - Aleksej Navalnyjs fru Julija Navalnaja: Han blev förgiftad - SVT Nyheter
+- Expert om ryska drönarna: Nato måste bli bättre - GP
 - 1 600 turister evakuerade nära Machu Picchu - Västerbottens-Kuriren
 - Hjälporganisationer: Agera i Gaza - SVT Nyheter
-- USA nära Tiktok-avtal – techbolag väntas ta kontroll - Dagens industri
-- Snabbmatskedjan öppnar i Sverige - Nerikes Allehanda
-- Siemiatkowski vill flytta Klarna-aktier till Flat Capital - Placera.se
-- Avanza lanserar aktiehandel på Londonbörsen - Avanza
+- Verisure inför noteringen: ”Företagets naturliga hem är på börsen” - Dagens industri
+- De kan ta över Tiktok i USA - SvD
+- Avanza lanserar digital handel på Londonbörsen - Aftonbladet
+- Flat föreslår en apportemission genom vilken Double Sunday AB, med ett värde av 9,5 miljarder kronor, integreras i Flat - Aktiellt
 - Googles AI-app toppar Appstore-lista efter nya uppdateringar - Placera.se
 - Över 50? Då är det nyttigt att skrolla - SvD
 
@@ -34,10 +34,11 @@ _Updated: 2025-09-17 12:41_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- The Upcoming 8th CIIE: Countdown to Global Opportunities and Collaboration - PR Newswire
 - Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - Toronto becomes the stage for global bartending excellence as host for the 2025 Diageo World Class Global Final - Placera.se
-- News of the Worlds reportrar kan få nya jobb - Journalisten
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Undersökning: Vd:ar håller fast vid hållbarhet – trots global motreaktion - Aktuell Hållbarhet
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
@@ -46,53 +47,52 @@ _Updated: 2025-09-17 12:41_
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - BlueMatrix Expands Global Reach and Product Breadth Through Acquisition of RMS - Placera.se
 - DXC Launches Global AI Center of Competence to Accelerate Enterprise AI Adoption - Placera.se
-- Mirion Partners with IAEA to Enhance Radiation Safety on a Global Scale - Placera.se
 
 ## Technology
 
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
-- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - AI-revolutionen släpps lös: Genombrott, storföretagens satsningar & etiska stormar (slutet av juli 2025) - ts2.tech
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
+- Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
+- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - AI i juli 2025: Superintelligens, talangkrig och samhälleliga förändringar / Uppdaterad: 2025, 3 juli, 00:01 CET - ts2.tech
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- Qualcomm’s Board of Directors Appoints Jeremy (Zico) Kolter to Board - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
-- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
 
-- SYNCHRONY INVESTS $1 MILLION IN EDUCATORS TO ADVANCE PERSONAL FINANCE EDUCATION FOR STUDENTS NATIONWIDE - Placera.se
-- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- DeFi Technologies Invests in Continental Stablecoin Inc., Backers of cNGN, to Accelerate Regulated Stablecoin Adoption Across Africa - Placera.se
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Green Dot Adds Stripe as Green Dot Network Partner - Placera.se
+- SYNCHRONY INVESTS $1 MILLION IN EDUCATORS TO ADVANCE PERSONAL FINANCE EDUCATION FOR STUDENTS NATIONWIDE - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Spelman College wins 7th annual Moguls in the Making entrepreneurial pitch competition - Placera.se
+- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- DeFi Technologies Invests in Continental Stablecoin Inc., Backers of cNGN, to Accelerate Regulated Stablecoin Adoption Across Africa - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 
 ## Health
 
