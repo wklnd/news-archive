@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-17 18:52_
+_Updated: 2025-09-17 19:47_
 
-- Watch Live: Ousted CDC Director Susan Monarez says RFK Jr. politicizing vaccine decisions "really concerns me" - CBS News
-- Thousands protest against Trump's second UK state visit - BBC
-- Kristi Noem Joins ICE Raid—US Citizens Arrested by Mistake - Newsweek
-- Republicans are honoring Charlie Kirk’s memory by declaring war on the First Amendment - The Verge
-- Kash Patel says court orders bar him from releasing the Epstein files. Judges have said otherwise. - Politico
-- Trump’s threat to target ‘radical left’ after Kirk killing raises fears he’s trying to silence foes - AP News
-- Obama says Charlie Kirk assassination was ‘horrific’ and praises Utah Gov. Cox’s response - CNN
-- Democrat wins special election for seat held by slain Minnesota lawmaker Melissa Hortman - NBC News
-- DOJ impeachments could continue Democratic retaliation against Ilhan Omar censure push - Politico
+- Ousted CDC director testifies she was fired for resisting pressure from RFK Jr. - NPR
+- Trump meeting with royal family in pomp-filled state visit to Britain - The Washington Post
+- Charlie Kirk’s murder suspect Tyler Robinson appears in anti-suicide vest as state seeks death penalty: Live updates - The Independent
 - At Home and on the Seas, Trump Expands Use of American Force - The New York Times
+- Republicans are honoring Charlie Kirk’s memory by declaring war on the First Amendment - The Verge
+- Kristi Noem Joins ICE Raid—US Citizens Arrested by Mistake - Newsweek
+- Watch Live: FBI Director Kash Patel testifies at House hearing in aftermath of Charlie Kirk assassination - CBS News
+- USCIS Unveils First Changes to Naturalization Test in Multi-Step Overhaul of American Citizenship Standards - USCIS (.gov)
+- Democrat wins special election for seat held by slain Minnesota lawmaker Melissa Hortman - NBC News
+- Trump Invokes Kirk’s Killing in Seeking to Silence Opponents on Left - The New York Times
+- Thousands of Palestinians flee Gaza City as Israeli troops advance - BBC
 - Navalny’s widow says new lab evidence proves he was poisoned in prison - The Washington Post
-- The Latest: Israel military presses on with its new ground offensive on Gaza City - AP News
-- Prime suspect in Madeleine McCann case, Christian Brueckner, released from German prison - CBS News
+- German suspect in Madeleine McCann disappearance is released after serving time in unrelated case - AP News
 - Pharaoh's 3,000-year-old gold bracelet missing from Egypt museum - NBC News
 - Fed Meeting Live Updates: Interest Rates and Economic News - The New York Times
-- Nvidia’s AI chips are no longer welcome in China - The Verge
-- Caesars’ Times Square Casino Bid Ends After Community Vote - Bloomberg.com
-- Dollar edges up from four-year low versus euro as traders await Fed decision - Reuters
+- StubHub Stock Opens Above IPO Price in First Trading Session - Investopedia
+- Profit-taking price pressure on precious metals as U.S. rate cut looms - KITCO
+- Bessent made mortgage claims similar to ones Trump cited to try to fire Fed's Cook: Report - CNBC
+- iOS 26 Liquid Glass Design Makes App Icons Look Crooked, Report Users - MacRumors
 - Apple’s iPhone 17 Pro Models Give You Exactly What You Want - WIRED
-- iOS 26 is finally here: Everything to know about the free iPhone software update - Engadget
