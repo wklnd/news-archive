@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-17 15:04_
+_Updated: 2025-09-17 15:43_
 
 ## Top Stories
 
-- Saab och Tobii vinnare på lugn börs - Placera.se
 - Bidragstak införs – storfamilj mister tusenlappar - SVT Nyheter
-- JUST NU: Person attackerad med knivliknande föremål – misstänkt gripen av polis - NWT
-- Statsministerns projekt sågas av Billström i ny bok - GP
-- Hatt vill inte samarbeta med Tidöpartierna - SVT Nyheter
-- Salmonellautbrott på äldreboende – kopplas till ägg - Expressen
-- Larmet: Kalhyggen kan göra översvämningar värre - SVT Nyheter
-- Askersund och Kumla är redo för beredskapsveckan - Sydnärkenytt
-- Flera avstängda från arbetet inom äldreomsorgen i Kinda kommun - SVT Nyheter
-- DEBATT: Norrköpings församlingar i fokus inför kyrkovalet - NT
-- FN: 26 000 barn akut undernärda i Gaza - UNT
+- 17 september 12.59, Mord/dråp, försök, Bengtsfors - polisen.se
+- Steg för steg – det här hände efter skjutningen av Charlie Kirk - GP
+- Tobias Billström kritiserar statsministerns prestigeprojekt - SVT Nyheter
+- Hatt: Vi tänker inte rädda Kristerssons politiska projekt - DN
+- Gängkonflikten i Gislaved fortsätter – tre anhållna för mordförsök - SVT Nyheter
+- 17-årig flicka häktas efter knivdåd mot jämnårig - SVT Nyheter
+- Miljonvilla i Skåne beslagtagen med nya lagen – tros ha byggts med brottspengar - DN
+- Postnord: 50 000 paket har fastnat på postterminal - DN
+- Larmet: Kalhyggen kan göra översvämningar värre - GP
+- Ny tillfällig flyktväg från Gaza stad – men många blir kvar - DN
 - EU-kommissionen vill frysa handel och rikta sanktioner mot ministrar - DN
-- Aleksej Navalnyjs fru Julija Navalnaja: Han blev förgiftad - SVT Nyheter
-- Expert om ryska drönarna: Nato måste bli bättre - Västerbottens-Kuriren
+- Kungligt mottagande för Trump i England - Västerbottens-Kuriren
+- Danmark: Vi ska skaffa långdistansrobotar - SVT Nyheter
+- De kommer dansa efter Klarna-aktiens pipa - EFN
 - Verisure inför noteringen: ”Företagets naturliga hem är på börsen” - Dagens industri
 - Elliott har köpt aktier i Workday för 2 miljarder dollar - Dagens industri
 - Avanza lanserar digital handel på Londonbörsen - Aftonbladet
-- SEB:s jättefond tankar i Saab – efter ändrade reglerna - Placera.se
 - Spår av liv hittade i finsk meteoritkrater – ger ledtrådar om livets uppkomst - Forskning.se
 - Över 50? Då är det nyttigt att skrolla - SvD
 
@@ -34,6 +34,7 @@ _Updated: 2025-09-17 15:04_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- The Upcoming 8th CIIE: Countdown to Global Opportunities and Collaboration - PR Newswire
 - Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - Toronto becomes the stage for global bartending excellence as host for the 2025 Diageo World Class Global Final - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -46,19 +47,18 @@ _Updated: 2025-09-17 15:04_
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - BlueMatrix Expands Global Reach and Product Breadth Through Acquisition of RMS - Placera.se
 - DXC Launches Global AI Center of Competence to Accelerate Enterprise AI Adoption - Placera.se
-- AllianceBernstein Launches AB International Growth ETF - Placera.se
 
 ## Technology
 
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
+- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI-revolutionen släpps lös: Genombrott, storföretagens satsningar & etiska stormar (slutet av juli 2025) - ts2.tech
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
-- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - AI i juli 2025: Superintelligens, talangkrig och samhälleliga förändringar / Uppdaterad: 2025, 3 juli, 00:01 CET - ts2.tech
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
@@ -68,8 +68,8 @@ _Updated: 2025-09-17 15:04_
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
-- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
 
@@ -127,18 +127,18 @@ _Updated: 2025-09-17 15:04_
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Upp till försvar för forskningen - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
-- Stärkt life science-forskning är till godo för patienterna - Läkartidningen
 
 ## Jordbruk
 
