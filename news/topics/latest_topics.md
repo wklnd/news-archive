@@ -1,57 +1,57 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-17 15:43_
+_Updated: 2025-09-17 16:42_
 
 ## Top Stories
 
+- Dödstalet i Gaza stiger över 65 000 offer - Västerbottens-Kuriren
 - Bidragstak införs – storfamilj mister tusenlappar - SVT Nyheter
-- 17 september 12.59, Mord/dråp, försök, Bengtsfors - polisen.se
-- Steg för steg – det här hände efter skjutningen av Charlie Kirk - GP
-- Tobias Billström kritiserar statsministerns prestigeprojekt - SVT Nyheter
-- Hatt: Vi tänker inte rädda Kristerssons politiska projekt - DN
-- Gängkonflikten i Gislaved fortsätter – tre anhållna för mordförsök - SVT Nyheter
+- Mordförsök på skola – elev skadad - SvD
+- Analys: Pompa och ståt är vägen till Trumps hjärta - Omni
+- Anna-Karin Hatt (C): Kristersson underkänner sin egen politik - DN
+- Misstänkte skyttens sms: Oro för vapnet och pappan - Västerbottens-Kuriren
 - 17-årig flicka häktas efter knivdåd mot jämnårig - SVT Nyheter
 - Miljonvilla i Skåne beslagtagen med nya lagen – tros ha byggts med brottspengar - DN
-- Postnord: 50 000 paket har fastnat på postterminal - DN
-- Larmet: Kalhyggen kan göra översvämningar värre - GP
-- Ny tillfällig flyktväg från Gaza stad – men många blir kvar - DN
+- Ytterligare en häktad för dubbelmord i Kallhäll - Västerbottens-Kuriren
+- Föreningar nobbar det nya fritidskortet: ”Inte värt det” - GP
+- Hjälporganisationer: Agera i Gaza - SVT Nyheter
 - EU-kommissionen vill frysa handel och rikta sanktioner mot ministrar - DN
-- Kungligt mottagande för Trump i England - Västerbottens-Kuriren
-- Danmark: Vi ska skaffa långdistansrobotar - SVT Nyheter
-- De kommer dansa efter Klarna-aktiens pipa - EFN
-- Verisure inför noteringen: ”Företagets naturliga hem är på börsen” - Dagens industri
-- Elliott har köpt aktier i Workday för 2 miljarder dollar - Dagens industri
-- Avanza lanserar digital handel på Londonbörsen - Aftonbladet
+- Spanien griper flera efter brutal migrantfärd - Västerbottens-Kuriren
+- Aleksej Navalnyjs fru Julija Navalnaja: Han blev förgiftad - SVT Nyheter
+- Verisure bekräftar jättenotering i Stockholm - EFN
+- Siemiatkowski om flytten av Klarna-aktier till Flat Capital, 'vill skapa ett nytt Investor' - Di - Placera.se
+- Uppgifter: TikTok blir ny app i USA – Trump skjuter upp förbudet igen - Breakit
+- Avanza lanserar aktiehandel på Londonbörsen - Avanza
 - Spår av liv hittade i finsk meteoritkrater – ger ledtrådar om livets uppkomst - Forskning.se
-- Över 50? Då är det nyttigt att skrolla - SvD
+- AMD lanserar nya Ryzen-processorer för både AM5 och AM4 - SweClockers
 
 ## World News
 
-- OPPENHEIMER EXPANDS GLOBAL CREDIT TEAM - Placera.se
+- “UNO Wonder” Hits App Store & Google Play Worldwide - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - UNI Global Union ansluter sig till uppmaning att förbjuda handel med olagliga israeliska bosättningar - UNI Global Union
+- OPPENHEIMER EXPANDS GLOBAL CREDIT TEAM - Placera.se
 - Adyen, Partner of LVMH, Redefines Payments in the Global Luxury Sector - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- The Upcoming 8th CIIE: Countdown to Global Opportunities and Collaboration - PR Newswire
 - Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
-- Toronto becomes the stage for global bartending excellence as host for the 2025 Diageo World Class Global Final - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Toronto becomes the stage for global bartending excellence as host for the 2025 Diageo World Class Global Final - Placera.se
 - Undersökning: Vd:ar håller fast vid hållbarhet – trots global motreaktion - Aktuell Hållbarhet
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - S&P Global Declares Fourth Quarter Dividend - Placera.se
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - BlueMatrix Expands Global Reach and Product Breadth Through Acquisition of RMS - Placera.se
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - DXC Launches Global AI Center of Competence to Accelerate Enterprise AI Adoption - Placera.se
+- AllianceBernstein Launches AB International Growth ETF - Placera.se
 
 ## Technology
 
-- Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
+- Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
@@ -99,46 +99,42 @@ _Updated: 2025-09-17 15:43_
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
+- Triglyceridrika lipoproteiner – farligare än LDL-kolesterol? - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
+- Tema: AI inom medicin och hälsa - Karolinska Institutet
 - Samverkan - Göteborgs universitet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- En allt starkare alternativ röst om global hälsa - Läkartidningen
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Upp till försvar för forskningen - Läkartidningen
+- Citizen science: Inspiring examples of societal engagement for Horizon Europe - CORDIS
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
+- Studie om mikroplast fälld för fusk - Stockholms universitet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Fusk eller Slarv - Forskning & Framsteg
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
+- Konferenser och seminarier - Stockholms universitet
 
 ## Jordbruk
 
