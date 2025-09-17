@@ -1,40 +1,39 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-17 13:38_
+_Updated: 2025-09-17 15:04_
 
 ## Top Stories
 
-- Regeringen presenterar bidragsreform – vill sänka socialbidrag - DN
-- Anna-Karin Hatt (C): Kristersson underkänner sin egen politik - DN
-- Israels eskalering fördöms: ”Blodbad” - Hufvudstadsbladet
-- Tobias Billström kritiserar statsministerns prestigeprojekt - SVT Nyheter
-- 17 september 07.38, Sammanfattning natt, Jönköpings län - polisen.se
-- Klart: De tar över Malmöfestivalen – som blir rekordtidig - Sydsvenskan
-- Värnpliktiga rasar mot sin nya ersättning - Västerbottens-Kuriren
-- Larmet: Kalhyggen kan göra översvämningar värre - GP
-- Debatt: Rösta i kyrkovalet för en levande gemenskap - Norran
-- Beredskapsdag i Märsta centrum nästa lördag - märsta.nu
+- Saab och Tobii vinnare på lugn börs - Placera.se
+- Bidragstak införs – storfamilj mister tusenlappar - SVT Nyheter
+- JUST NU: Person attackerad med knivliknande föremål – misstänkt gripen av polis - NWT
+- Statsministerns projekt sågas av Billström i ny bok - GP
+- Hatt vill inte samarbeta med Tidöpartierna - SVT Nyheter
+- Salmonellautbrott på äldreboende – kopplas till ägg - Expressen
+- Larmet: Kalhyggen kan göra översvämningar värre - SVT Nyheter
+- Askersund och Kumla är redo för beredskapsveckan - Sydnärkenytt
+- Flera avstängda från arbetet inom äldreomsorgen i Kinda kommun - SVT Nyheter
+- DEBATT: Norrköpings församlingar i fokus inför kyrkovalet - NT
+- FN: 26 000 barn akut undernärda i Gaza - UNT
+- EU-kommissionen vill frysa handel och rikta sanktioner mot ministrar - DN
 - Aleksej Navalnyjs fru Julija Navalnaja: Han blev förgiftad - SVT Nyheter
-- Expert om ryska drönarna: Nato måste bli bättre - GP
-- 1 600 turister evakuerade nära Machu Picchu - Västerbottens-Kuriren
-- Hjälporganisationer: Agera i Gaza - SVT Nyheter
+- Expert om ryska drönarna: Nato måste bli bättre - Västerbottens-Kuriren
 - Verisure inför noteringen: ”Företagets naturliga hem är på börsen” - Dagens industri
-- De kan ta över Tiktok i USA - SvD
+- Elliott har köpt aktier i Workday för 2 miljarder dollar - Dagens industri
 - Avanza lanserar digital handel på Londonbörsen - Aftonbladet
-- Flat föreslår en apportemission genom vilken Double Sunday AB, med ett värde av 9,5 miljarder kronor, integreras i Flat - Aktiellt
-- Googles AI-app toppar Appstore-lista efter nya uppdateringar - Placera.se
+- SEB:s jättefond tankar i Saab – efter ändrade reglerna - Placera.se
+- Spår av liv hittade i finsk meteoritkrater – ger ledtrådar om livets uppkomst - Forskning.se
 - Över 50? Då är det nyttigt att skrolla - SvD
 
 ## World News
 
-- Adyen, Partner of LVMH, Redefines Payments in the Global Luxury Sector - Placera.se
+- OPPENHEIMER EXPANDS GLOBAL CREDIT TEAM - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - UNI Global Union ansluter sig till uppmaning att förbjuda handel med olagliga israeliska bosättningar - UNI Global Union
-- OPPENHEIMER EXPANDS GLOBAL CREDIT TEAM - Placera.se
+- Adyen, Partner of LVMH, Redefines Payments in the Global Luxury Sector - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- The Upcoming 8th CIIE: Countdown to Global Opportunities and Collaboration - PR Newswire
 - Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - Toronto becomes the stage for global bartending excellence as host for the 2025 Diageo World Class Global Final - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -47,6 +46,7 @@ _Updated: 2025-09-17 13:38_
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - BlueMatrix Expands Global Reach and Product Breadth Through Acquisition of RMS - Placera.se
 - DXC Launches Global AI Center of Competence to Accelerate Enterprise AI Adoption - Placera.se
+- AllianceBernstein Launches AB International Growth ETF - Placera.se
 
 ## Technology
 
@@ -68,27 +68,27 @@ _Updated: 2025-09-17 13:38_
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
 
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Green Dot Adds Stripe as Green Dot Network Partner - Placera.se
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Green Dot Adds Stripe as Green Dot Network Partner - Placera.se
 - SYNCHRONY INVESTS $1 MILLION IN EDUCATORS TO ADVANCE PERSONAL FINANCE EDUCATION FOR STUDENTS NATIONWIDE - Placera.se
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - DeFi Technologies Invests in Continental Stablecoin Inc., Backers of cNGN, to Accelerate Regulated Stablecoin Adoption Across Africa - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- DeFi Technologies Reports All-Time High in SUI Assets Under Management and Treasury Holdings - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -143,22 +143,22 @@ _Updated: 2025-09-17 13:38_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- VGR och SLU satsar på hållbart och innovativt lantbruk - NewsMachine AB
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
-- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
