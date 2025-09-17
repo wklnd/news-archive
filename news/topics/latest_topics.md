@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-17 23:38_
+_Updated: 2025-09-18 00:38_
 
 ## Top Stories
 
 - Därför var Kirks misstänkta mördare klädd i grön väst - GP
 - Kristersson svarar på ungersk attack med öppet brev: ”Kära Viktor” - SVT Nyheter
-- Trump under kunglig bankett: Mitt livs största ära - DN
+- Trump på statsbesök – Diane tog med stor flagga - Hufvudstadsbladet
+- Svensk man död i arbetsolycka i Norge - SVT Nyheter
 - MC-förare i olycka – hotade med kniv - Västerbottens-Kuriren
-- Bernie Sanders blir första senator att anklaga Israel för folkmord - Omni
+- Dalbobron i Vänersborg stängs omedelbart - SVT Nyheter
 - Tobias Billström kritisk mot statsministerns prestigeprojekt: ”Har blivit uppenbart” - DN
 - Annie Reuterskiöld: Skyddas judar av att politikerna är trigger happy? - DN
 - Carl Bildts nya spionmyndighet får kritik av ÖB - DN
 - Regeringen vill sänka försörjningsstöd för stora barnfamiljer - DN
-- Hatt: Vi tänker inte rädda Kristerssons politiska projekt - DN
-- Ny tillfällig flyktväg från Gaza stad – men många blir kvar - DN
-- Trump på statsbesök – Diane tog med stor flagga - Hufvudstadsbladet
-- Aleksej Navalnyjs fru Julija Navalnaja: Han blev förgiftad - SVT Nyheter
-- EU-kommissionen vill frysa handel och rikta sanktioner mot ministrar - DN
+- FN: 26 000 barn akut undernärda i Gaza - UNT
+- Hjälporganisationer: Agera i Gaza - SVT Nyheter
+- Anna-Lena Laurén: Nya prover efter Navalnyjs död väcker frågor - DN
+- Expert om ryska drönarna: Nato måste bli bättre - Västerbottens-Kuriren
 - Carl Johan von Seth: Trumps strid om centralbankens själ har inletts - DN
 - Person med skyddad identitet röjd i läckan - SvD
 - Infekterad Unilever-konflikt kring Ben & Jerry´s har lett till avhopp - food-supply.se
-- Fall av salmonella i Sörmland del av större utbrott - Folkhälsomyndigheten
+- Uppgifter: TikTok blir ny app i USA – Trump skjuter upp förbudet igen - Breakit
 - Spår av liv hittade i finsk meteoritkrater – ger ledtrådar om livets uppkomst - Forskning.se
 - Escape From Tarkov-ägare måste köpa spelet igen för att spela på Steam - FZ.se
 
@@ -36,17 +36,17 @@ _Updated: 2025-09-17 23:38_
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - Adyen, Partner of LVMH, Redefines Payments in the Global Luxury Sector - Placera.se
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- News of the Worlds reportrar kan få nya jobb - Journalisten
-- Undersökning: Vd:ar håller fast vid hållbarhet – trots global motreaktion - Aktuell Hållbarhet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - OPPENHEIMER EXPANDS GLOBAL CREDIT TEAM - Placera.se
+- News of the Worlds reportrar kan få nya jobb - Journalisten
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Undersökning: Vd:ar håller fast vid hållbarhet – trots global motreaktion - Aktuell Hållbarhet
 - Toronto becomes the stage for global bartending excellence as host for the 2025 Diageo World Class Global Final - Placera.se
 - S&P Global Declares Fourth Quarter Dividend - Placera.se
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - BlueMatrix Expands Global Reach and Product Breadth Through Acquisition of RMS - Placera.se
 - “UNO Wonder” Hits App Store & Google Play Worldwide - Placera.se
-- DXC Launches Global AI Center of Competence to Accelerate Enterprise AI Adoption - Placera.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -80,17 +80,17 @@ _Updated: 2025-09-17 23:38_
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Green Dot Adds Stripe as Green Dot Network Partner - Placera.se
-- Tribe Property Technologies Appoints Scott Ullrich as New Chief Financial Officer - Placera.se
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- SYNCHRONY INVESTS $1 MILLION IN EDUCATORS TO ADVANCE PERSONAL FINANCE EDUCATION FOR STUDENTS NATIONWIDE - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Tribe Property Technologies Appoints Scott Ullrich as New Chief Financial Officer - Placera.se
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- SYNCHRONY INVESTS $1 MILLION IN EDUCATORS TO ADVANCE PERSONAL FINANCE EDUCATION FOR STUDENTS NATIONWIDE - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - DeFi Technologies Invests in Continental Stablecoin Inc., Backers of cNGN, to Accelerate Regulated Stablecoin Adoption Across Africa - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
