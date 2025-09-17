@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-17 17:48_
+_Updated: 2025-09-17 18:52_
 
-- Trump arrives for UK state visit, welcomed by king, prince at Windsor Castle - ABC News
-- Ousted CDC Director Susan Monarez says RFK Jr. politicizing vaccine decisions "really concerns me" - CBS News
-- Trump Invokes Kirk’s Killing in Seeking to Silence Opponents on Left - The New York Times
-- Former GOP officials fear US strikes on alleged drug smugglers aren't legal - Politico
-- Spirit Airlines flight repeatedly warned to turn away from Air Force One - NBC News
-- Thousands of Palestinians flee Gaza City as Israeli troops advance - BBC
+- Watch Live: Ousted CDC Director Susan Monarez says RFK Jr. politicizing vaccine decisions "really concerns me" - CBS News
+- Thousands protest against Trump's second UK state visit - BBC
+- Kristi Noem Joins ICE Raid—US Citizens Arrested by Mistake - Newsweek
+- Republicans are honoring Charlie Kirk’s memory by declaring war on the First Amendment - The Verge
+- Kash Patel says court orders bar him from releasing the Epstein files. Judges have said otherwise. - Politico
+- Trump’s threat to target ‘radical left’ after Kirk killing raises fears he’s trying to silence foes - AP News
 - Obama says Charlie Kirk assassination was ‘horrific’ and praises Utah Gov. Cox’s response - CNN
 - Democrat wins special election for seat held by slain Minnesota lawmaker Melissa Hortman - NBC News
-- Strong winds at Mount St. Helens stirs up ash from 1980 eruption - ABC News
-- Scoop: Democrats lean into shutdown fight with alternative funding plan - Axios
-- Main suspect in British toddler Madeleine McCann's disappearance released - Reuters
+- DOJ impeachments could continue Democratic retaliation against Ilhan Omar censure push - Politico
+- At Home and on the Seas, Trump Expands Use of American Force - The New York Times
 - Navalny’s widow says new lab evidence proves he was poisoned in prison - The Washington Post
-- Greetings from American University of Beirut, where more than 1,000 cats roam - NPR
-- Nepal Gen-Z protests: Politicians get rich while we suffer - so I helped bring down the government in 48 hours - BBC
-- Fed expected to cut rates, update views of Trump economic plan with new projections - Reuters
-- Fed Meeting Today: Dow Rises Ahead of Interest-Rate Decision — Live Updates - The Wall Street Journal
-- Nvidia Stock Drops on Report China Has Banned Its Chips. Alibaba, TikTok Parent Affected. - Barron's
-- Morning Bid: Ailing dollar gets toehold as Fed awaited - Reuters
-- T-Mobile is giving away a free iPhone 17 Pro with trade-in — here's how to get yours - Mashable
+- The Latest: Israel military presses on with its new ground offensive on Gaza City - AP News
+- Prime suspect in Madeleine McCann case, Christian Brueckner, released from German prison - CBS News
+- Pharaoh's 3,000-year-old gold bracelet missing from Egypt museum - NBC News
+- Fed Meeting Live Updates: Interest Rates and Economic News - The New York Times
+- Nvidia’s AI chips are no longer welcome in China - The Verge
+- Caesars’ Times Square Casino Bid Ends After Community Vote - Bloomberg.com
+- Dollar edges up from four-year low versus euro as traders await Fed decision - Reuters
+- Apple’s iPhone 17 Pro Models Give You Exactly What You Want - WIRED
 - iOS 26 is finally here: Everything to know about the free iPhone software update - Engadget
