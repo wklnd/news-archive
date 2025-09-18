@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-18 12:48_
+_Updated: 2025-09-18 13:48_
 
-- Ukraine stands out as a test of UK’s soft power to sway Trump - CNN
-- Three US police officers killed, two injured, in Pennsylvania shooting - Al Jazeera
-- Pentagon reviewing service members' social media posts on Charlie Kirk - CBS News
-- The US is at a dangerous crossroads after Charlie Kirk shooting - BBC
-- House Democrats successful in tabling Mace's resolution to censure Omar - ABC News
-- Trump says he's designating antifa as "a major terrorist organization" - Axios
-- US judge orders deportation of Palestinian activist Mahmoud Khalil - BBC
-- Deputies respond to potential helicopter crash near military base in Washington State - ABC News
-- Democrats release counteroffer to avert shutdown while House moves ahead on GOP plan - CBS News
+- Photos: Scenes from Trump's U.K. visit, from pageantry to protests - Axios
+- Charlie Kirk's accused assassin feared being shot by police and agreed to peaceful surrender, sheriff says - CBS News
+- Pentagon’s crackdown on Kirk comments stirs fears among troops - Politico
+- What is the US ‘antifa’ movement and why does Trump want it outlawed? - BBC
+- Pennsylvania police shooting: What happened, who are the suspect, victims? - Al Jazeera
+- Ousted CDC Director Says RFK Jr. Tried to Bar Her From Speaking to Lawmakers - Rolling Stone
+- US immigration judge orders Khalil deportation, his lawyers say separate ruling protects him for now - Reuters
+- Possible military helicopter crash in Washington state near Joint Base Lewis-McChord - CBS News
 - Mississippi police await autopsy results for Black student found hanged at university - NPR
+- Effort to censure Rep. Ilhan Omar over Charlie Kirk comments fails - The Washington Post
+- Satellite images show mass evacuation from northern Gaza amid Israeli ground offensive in Gaza City - ABC News
 - French unions strike against austerity, pressuring Macron - Reuters
+- 'He's f**king me!': Trump furious with Netanyahu after Qatar attack, but avoids public rift - Ynetnews
 - Trump to return to the United Nations as Gaza, Ukraine conflicts rage - Reuters
-- ‘The visit is the message.’ Canada-Mexico summit sets stage for diplomatic reset. - The Christian Science Monitor
-- Gaza City’s communications cut amid widening Israeli ground invasion - The Washington Post
 - How the Fed’s rate cut impacts mortgage rates - AP News
-- Hyundai adjusts full-year forecast, citing tariffs, ahead of investor day - CNBC
+- Dow futures gain 300 points as traders digest Fed rate cut and outlook: Live updates - CNBC
+- Amex Revamps Its Platinum Card, Raises Fee to $895 - The Wall Street Journal
 - What the market got wrong in reacting to Powell’s press conference, according to Goldman economist - MarketWatch
-- Cracker Barrel expects fewer patrons after failed logo rebrand - The Washington Post
-- Meta launches smart glasses with built-in display, reaching for 'superintelligence' - Reuters
-- Photographer Tyler Stalman reviews the iPhone 17, iPhone Air, and iPhone 17 Pro cameras - 9to5Mac
+- Meta Connect 2025 live updates: Reactions to Ray-Ban Display, Oakley Vanguard glasses, more - ZDNET
+- Will the iPhone Air Bend? This Extreme Test Reveals the Answer - MacRumors
