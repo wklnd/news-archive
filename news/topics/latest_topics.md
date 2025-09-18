@@ -1,29 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-19 00:39_
-
-## Top Stories
-
-- Tonåring död i A-traktorolycka i Borlänge - SVT Nyheter
-- Ung svensk man klämd till döds på norskt oljeraffinaderi - Arbetet
-- USA lägger veto mot FN-krav på vapenvila – igen - Omni
-- Putins plan för efterträdaren: ”Riskerar livet” - Aftonbladet
-- Grekiska arvtagerskan död – efter insektsbett - Expressen
-- Misstänkt för mord på 63-årig kvinna – erbjöd sig att döda barn - DN
-- Färre svenskar begick självmord i fjol - SVT Nyheter
-- Busch öppnar för stöd till havsvindkraft - DN
-- Jag trodde Ulf Kristersson höll med Viktor Orbán om Sverige - Arbetet
-- Forssell efter avslöjandet: Oppositionen utnyttjar min familj - DN
-- Sandra Stiskalo: Sällan har Donald Trump gett ett soligare intryck - DN
-- IDF-soldaten om att han dödat barn: ”Jag ville kräkas” - DN
-- Israel inleder attacker mot Libanon - Hufvudstadsbladet
-- Miljöministrar oeniga – EU-toppmöte får avgöra klimatmål - Europaportalen
-- Carl Johan von Seth: Har AI-revolutionen börjat äta medelklassens jobb än? - DN
-- NCC ska stämma Trafikverket för hävt kontrakt för Västlänken - Placera.se
-- Oförändrad brittisk styrränta - Aftonbladet
-- Så påverkas Region Gävleborg av cyberangreppet mot Miljödata - Region Gävleborg
-- Vit dvärg slukar rester av Pluto-liknande planet - Aftonbladet
-- Test: Nothing Ear 3 – Välljudande headset med charm och kvalitet - mobil.se
+_Updated: 2025-09-19 01:38_
 
 ## World News
 
@@ -33,20 +10,20 @@ _Updated: 2025-09-19 00:39_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Armand Duplantis soars to third world title and 14th world record - BBC
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - VIVOTEK Hosts Global Partner Summit, driving AI and Growth - Placera.se
 - The Upcoming 8th CIIE: Countdown to Global Opportunities and Collaboration - PR Newswire
 - Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - “UNO Wonder” Hits App Store & Google Play Worldwide - Placera.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Undersökning: Vd:ar håller fast vid hållbarhet – trots global motreaktion - Aktuell Hållbarhet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - UNI Global Union ansluter sig till uppmaning att förbjuda handel med olagliga israeliska bosättningar - UNI Global Union
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- Kelyniam Global, Inc. Receives FDA Clearance for Innovative Fusion™ BCP-PEEK Implant - Placera.se
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- AllianceBernstein Launches AB International Growth ETF - Placera.se
+- JIM BEAM AND THE CADILLAC FORMULA 1® TEAM ANNOUNCE GLOBAL PARTNERSHIP, FUELING A VISION TO REACH NEW AUDIENCES - Placera.se
 
 ## Technology
 
@@ -73,16 +50,14 @@ _Updated: 2025-09-19 00:39_
 
 ## Business
 
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
-- Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
 - CIMG Inc. Entered Into an MOU With iZUMi to Launch a $20 Million Upstarts Fund - Placera.se
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
+- Tribe Property Technologies Appoints Scott Ullrich as New Chief Financial Officer - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - SYNCHRONY INVESTS $1 MILLION IN EDUCATORS TO ADVANCE PERSONAL FINANCE EDUCATION FOR STUDENTS NATIONWIDE - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -90,9 +65,11 @@ _Updated: 2025-09-19 00:39_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - DeFi Technologies Invests in Continental Stablecoin Inc., Backers of cNGN, to Accelerate Regulated Stablecoin Adoption Across Africa - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Spelman College wins 7th annual Moguls in the Making entrepreneurial pitch competition - Placera.se
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -125,20 +102,20 @@ _Updated: 2025-09-19 00:39_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
 
