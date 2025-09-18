@@ -1,18 +1,18 @@
 # Top News Headlines
 
-_Updated: 2025-09-18 08:52_
+_Updated: 2025-09-18 09:47_
 
 - Three US police officers killed, two injured, in Pennsylvania shooting - Al Jazeera
-- RFK Jr’s actions risk restricting children’s access to vaccines, say ousted CDC officials - The Guardian
+- Ousted CDC Director Susan Monarez testifies about RFK Jr., says she's "very nervous" about vaccine recommendations - CBS News
 - Trump greeted by king, thousands of protesters in UK visit - ABC News
-- People closest to Tyler Robinson made horrifying discoveries in hours after Charlie Kirk killing, authorities say - Los Angeles Times
+- The US is at a dangerous crossroads after Charlie Kirk shooting - BBC
 - Trump targets antifa movement as 'terrorist organization' - Reuters
-- Kash Patel doubles down on his handling of the Epstein files in heated Hill testimony - Politico
+- Trump, Vance to headline Charlie Kirk memorial - Politico
 - Immigration judge says Mahmoud Khalil must be deported to Syria or Algeria - Axios
-- Autopsy results awaited for Black student found hanged on Mississippi campus - Politico
-- Republican Brad Raffensperger to run for Georgia governor after defying Trump over 2020 election - AP News
-- After Kirk’s Death, Students Return to Campus and Learn ‘How to Be Adults’ - The New York Times
-- Trump to return to the United Nations as Gaza, Ukraine conflicts rage - Reuters
+- Effort to censure Rep. Ilhan Omar over Charlie Kirk comments fails - The Washington Post
+- Kash Patel doubles down on his handling of the Epstein files in heated Hill testimony - Politico
+- In Charlie Kirk’s name: Trump officials signal move to limit free speech - Financial Times
+- Explainer: Who will speak at the UN and what is on the agenda? - Reuters
 - Gaza City’s communications cut amid widening Israeli ground invasion - The Washington Post
 - Israeli fighter jets launched ballistic missiles from the Red Sea in Qatar strike, official says - AP News
 - Bernie Sanders becomes first US senator to say Israel committing genocide in Gaza - The Guardian
