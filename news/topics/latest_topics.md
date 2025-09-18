@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-18 09:38_
+_Updated: 2025-09-18 10:46_
 
 ## Top Stories
 
-- MP anmäler hela regeringen för passivitet kring Gaza - Omni
-- Flera bränder i Skara – polisen inkopplad - SVT Nyheter
-- JUST NU: Öresundsbron stängs av omedelbart - Marcus Oscarsson
-- Trafikverkets generaldirektör avfärdar uppgörelse med NCC - GP
-- Kristersson svarar på ungersk attack med öppet brev: ”Kära Viktor” - SVT Nyheter
+- Öresundsbron stängd för trafik – vattenmassor i Danmark - SVT Nyheter
+- Åklagare överklagar friande domen mot Henrik Landerholm - DN
+- Miljöpartiet anmäler regeringen: ”Skamligt” - GP
+- 17 september 19.44, Brand, Skara - polisen.se
 - Efter 200 ansökningar i Skåne – nu lockas Alicia Höök av danska jobboomen - DN
-- Regeringen vill sänka försörjningsstöd för stora barnfamiljer - DN
+- Kristersson svarar på ungersk attack med öppet brev: ”Kära Viktor” - SVT Nyheter
 - Åklagarens teori om mordet i Boländerna: En felskjutning - UNT
 - Fler kommuner inleder granskning efter larm om fusk med p-vakter - DN
-- Fordonshaveri - E4 från Trafikplats Kungens Kurva (151) t... - Trafiken.nu
-- Kimmels pratshow stoppas efter Kirk-kommentar - SVT Nyheter
+- Forskare sågar regeringens bidragskrav - Arbetet
+- Lång väntan på normal tågtrafik - Järnvägar.nu
+- Uppgift: Storbritannien erkänner Palestina – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Trump på statsbesök – Diane tog med stor flagga - Hufvudstadsbladet
-- Tre poliser skjutna till döds i USA – skytten död - Västerbottens-Kuriren
-- Expert om ryska drönarna: Nato måste bli bättre - GP
+- Kimmels pratshow stoppas efter Kirk-kommentar - SVT Nyheter
+- Tre poliser skjutna till döds i USA – skytten död - GP
 - Glatt på Asienbörserna efter USA:s räntesänkning - Aftonbladet
 - BESKEDET: 160 varslas på Gruvön – fackliga förhandlingar inleds - NWT
-- Tokyobörsen på rekordnivå efter Fed-sänkning - EFN
 - Volvochefen om EX60: ”viktigaste lanseringen” - SvD
+- Så är Region Gävleborg påverkad av cyberangreppen mot Miljödata - Region Gävleborg
 - Fiskeguider kan bidra till stärkt övervakning - sva.se
-- Spår av liv hittade i finsk meteoritkrater – ger ledtrådar om livets uppkomst - Forskning.se
+- 400.000 följer First North-bolagets hajpade lansering - Dagens industri
 
 ## World News
 
@@ -37,16 +37,16 @@ _Updated: 2025-09-18 09:38_
 - “UNO Wonder” Hits App Store & Google Play Worldwide - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- OPPENHEIMER EXPANDS GLOBAL CREDIT TEAM - Placera.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Undersökning: Vd:ar håller fast vid hållbarhet – trots global motreaktion - Aktuell Hållbarhet
-- UNI Global Union ansluter sig till uppmaning att förbjuda handel med olagliga israeliska bosättningar - UNI Global Union
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Adyen, Partner of LVMH, Redefines Payments in the Global Luxury Sector - Placera.se
+- OPPENHEIMER EXPANDS GLOBAL CREDIT TEAM - Placera.se
 - S&P Global Declares Fourth Quarter Dividend - Placera.se
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - DXC Launches Global AI Center of Competence to Accelerate Enterprise AI Adoption - Placera.se
-- Mirion Partners with IAEA to Enhance Radiation Safety on a Global Scale - Placera.se
+- UNI Global Union ansluter sig till uppmaning att förbjuda handel med olagliga israeliska bosättningar - UNI Global Union
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -68,8 +68,8 @@ _Updated: 2025-09-18 09:38_
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
 
@@ -143,22 +143,22 @@ _Updated: 2025-09-18 09:38_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Här är världens största jordbruk - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
-- USA tvingar ut EU på banan - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- USA tvingar ut EU på banan - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Maskinförare | Jobb | ATL - Land Lantbruk
