@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-18 13:38_
+_Updated: 2025-09-18 15:04_
 
 ## Top Stories
 
-- Öresundsbron stängs helt för trafik – vattenmassor i Danmark - SVT Nyheter
-- MP:s kritik: Bryter mot internationell rätt - SvD
-- 17 september 19.44, Brand, Skara - polisen.se
-- LEDARE: Drönarna i Polen försvann tyvärr bakom mordet på Kirk - Kristianstadsbladet
+- Busch: Ingen energiöverenskommelse – samtalen avslutade - Dagens industri
+- Öresundsbron öppen igen efter översvämningsraset - DN
+- Bakslag för Västlänken: Trafikverket häver avtalet med NCC - GP
 - Ung svensk man klämd till döds på norskt oljeraffinaderi - Arbetet
-- Kristersson svarar på ungersk attack med öppet brev: ”Kära Viktor” - SVT Nyheter
-- Tidöpartierna: 819 miljoner mer till Kriminalvården 2026 - DN
+- Medeltida silverskatt upphittad i Stockholmsområdet - Aktuellt i Politiken
+- Sju bränder på kort tid i Skara: "Ovanligt" - Expressen
 - Åklagare överklagar friande domen mot Henrik Landerholm - DN
-- Åklagarens teori om mordet i Boländerna: En felskjutning - UNT
 - Forskare sågar regeringens bidragskrav - Arbetet
+- 18 september 13.22, Trafikkontroll, Norrbottens län - polisen.se
+- POSK: För en kyrka fri från politiska partiers agenda - NT
 - Uppgift: Storbritannien erkänner Palestina – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Tårgas vid stora protester mot Macron - DN
+- Peter Alestig: Nedmonteringen av USA:s klimatpolitik går i rasande tempo - DN
 - Mer av både skyfall och torka på jorden - Sydsvenskan
-- Trump på statsbesök – Diane tog med stor flagga - Hufvudstadsbladet
-- Person med skyddad identitet röjd i läckan - SvD
-- Ebba Busch om energifrågan och partiernas samsyn - Aktuell Hållbarhet
+- Så är Region Gävleborg påverkad av cyberangreppet mot Miljödata - Region Gävleborg
+- NCC kastas ut från Västlänken - förlorar miljardkontrakt: "Förbannade" - EFN
+- Novo Nordisks aktie stiger efter studieframgång för Ozempic jämfört med Eli Lilly - Börsvärlden
 - Elexpert sågar regeringens högkostnadsskydd: ”Ett slags bluff” - DN
-- Glatt på Asienbörserna efter USA:s räntesänkning - Aftonbladet
 - Fiskeguider kan bidra till stärkt övervakning - sva.se
-- KRÖNIKA: Svårt leva upp till hajpen för lilla ”Silksong” och jätten ”GTA 6” - Sydsvenskan
+- Nu kan du spela in telefonsamtal med Samsung Galaxy S25 - mobil.se
 
 ## World News
 
@@ -41,11 +41,11 @@ _Updated: 2025-09-18 13:38_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Adyen, Partner of LVMH, Redefines Payments in the Global Luxury Sector - Placera.se
-- OPPENHEIMER EXPANDS GLOBAL CREDIT TEAM - Placera.se
-- S&P Global Declares Fourth Quarter Dividend - Placera.se
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- DXC Launches Global AI Center of Competence to Accelerate Enterprise AI Adoption - Placera.se
 - UNI Global Union ansluter sig till uppmaning att förbjuda handel med olagliga israeliska bosättningar - UNI Global Union
+- OPPENHEIMER EXPANDS GLOBAL CREDIT TEAM - Placera.se
+- DXC Launches Global AI Center of Competence to Accelerate Enterprise AI Adoption - Placera.se
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - AllianceBernstein Launches AB International Growth ETF - Placera.se
 
 ## Technology
@@ -73,72 +73,49 @@ _Updated: 2025-09-18 13:38_
 
 ## Business
 
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - CIMG Inc. Entered Into an MOU With iZUMi to Launch a $20 Million Upstarts Fund - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Green Dot Adds Stripe as Green Dot Network Partner - Placera.se
+- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- SYNCHRONY INVESTS $1 MILLION IN EDUCATORS TO ADVANCE PERSONAL FINANCE EDUCATION FOR STUDENTS NATIONWIDE - Placera.se
+- Tribe Property Technologies Appoints Scott Ullrich as New Chief Financial Officer - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
+- SYNCHRONY INVESTS $1 MILLION IN EDUCATORS TO ADVANCE PERSONAL FINANCE EDUCATION FOR STUDENTS NATIONWIDE - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- DeFi Technologies Invests in Continental Stablecoin Inc., Backers of cNGN, to Accelerate Regulated Stablecoin Adoption Across Africa - Placera.se
+- PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
+- DeFi Technologies Invests in Continental Stablecoin Inc., Backers of cNGN, to Accelerate Regulated Stablecoin Adoption Across Africa - Placera.se
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
-- Spelman College wins 7th annual Moguls in the Making entrepreneurial pitch competition - Placera.se
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Osher centrum för integrativ hälsa - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-
-## Science
-
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 
 ## Jordbruk
 
