@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-18 22:40_
+_Updated: 2025-09-18 23:38_
 
 ## Top Stories
 
-- BK Häcken utslaget efter förlängning mot Atlético Madrid - Svensk fotboll
 - Ung svensk man klämd till döds på norskt oljeraffinaderi - Arbetet
 - De flydde från Gaza stad - 8 Sidor
-- USA lägger veto mot FN-krav på vapenvila – igen - Omni
-- Jagas över världen för mord – här är gängledarens brev - GP
+- USA lägger in veto mot FN-resolution om vapenvila i Gaza - TV4 Nyheterna
 - Misstänkt för mord på 63-årig kvinna – erbjöd sig att döda barn - DN
+- Trump: Putin har svikit mig - GP
+- I Polen blev flyglarmet på riktigt - SvD
 - Färre svenskar begick självmord i fjol - SVT Nyheter
-- Jag trodde Ulf Kristersson höll med Viktor Orbán om Sverige - Arbetet
 - Busch öppnar för stöd till havsvindkraft - DN
+- Jag trodde Ulf Kristersson höll med Viktor Orbán om Sverige - Arbetet
 - Forssell efter avslöjandet: Oppositionen utnyttjar min familj - DN
 - Sandra Stiskalo: Sällan har Donald Trump gett ett soligare intryck - DN
 - IDF-soldaten om att han dödat barn: ”Jag ville kräkas” - DN
 - Israel inleder attacker mot Libanon - Hufvudstadsbladet
-- Trump om kriget i Ukraina: Putin har svikit mig - DN
-- Rotavdraget sänks vid årsskiftet - SVT Nyheter
-- Göteborg nobbar mer trängselskatt: Låt en kommission utreda Västlänken - DN
+- Miljöministrar oeniga – EU-toppmöte får avgöra klimatmål - Europaportalen
+- Rotavdraget sänks vid årsskiftet – möts av kritik - DN
 - Ny forskning: Anställda blir dummare av AI - Voister
 - Rea på bostäder: ”Borde vara dyrare” - Expressen
+- Oförändrad brittisk styrränta - Aftonbladet
 - Vit dvärg slukar rester av Pluto-liknande planet - Aftonbladet
 - Test: Nothing Ear 3 – Välljudande headset med charm och kvalitet - mobil.se
 
@@ -30,22 +30,22 @@ _Updated: 2025-09-18 22:40_
 - MDA SPACE RECEIVES 2025 GLOBAL SATELLITE BUSINESS OF THE YEAR AWARD AT WORLD SPACE BUSINESS WEEK - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Portugisiska handelshögskolor på global ranking - The Portugal News
-- UNI Global Union ansluter sig till uppmaning att förbjuda handel med olagliga israeliska bosättningar - UNI Global Union
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - VIVOTEK Hosts Global Partner Summit, driving AI and Growth - Placera.se
 - Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Toronto becomes the stage for global bartending excellence as host for the 2025 Diageo World Class Global Final - Placera.se
+- Adyen, Partner of LVMH, Redefines Payments in the Global Luxury Sector - Placera.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Undersökning: Vd:ar håller fast vid hållbarhet – trots global motreaktion - Aktuell Hållbarhet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- UNI Global Union ansluter sig till uppmaning att förbjuda handel med olagliga israeliska bosättningar - UNI Global Union
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - “UNO Wonder” Hits App Store & Google Play Worldwide - Placera.se
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- AllianceBernstein Launches AB International Growth ETF - Placera.se
-- Kelyniam Global, Inc. Receives FDA Clearance for Innovative Fusion™ BCP-PEEK Implant - Placera.se
+- Mirion Partners with IAEA to Enhance Radiation Safety on a Global Scale - Placera.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 
 ## Technology
@@ -55,11 +55,10 @@ _Updated: 2025-09-18 22:40_
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- AI-revolutionen släpps lös: Genombrott, storföretagens satsningar & etiska stormar (slutet av juli 2025) - ts2.tech
-- AI i juli 2025: Superintelligens, talangkrig och samhälleliga förändringar / Uppdaterad: 2025, 3 juli, 00:01 CET - ts2.tech
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
@@ -69,7 +68,8 @@ _Updated: 2025-09-18 22:40_
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
+- Attachments Terranet to exhibit at Auto.AI Europe 2025 - Placera.se
+- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 
 ## Business
 
@@ -79,20 +79,20 @@ _Updated: 2025-09-18 22:40_
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Green Dot Adds Stripe as Green Dot Network Partner - Placera.se
 - Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Tribe Property Technologies Appoints Scott Ullrich as New Chief Financial Officer - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - SYNCHRONY INVESTS $1 MILLION IN EDUCATORS TO ADVANCE PERSONAL FINANCE EDUCATION FOR STUDENTS NATIONWIDE - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - DeFi Technologies Invests in Continental Stablecoin Inc., Backers of cNGN, to Accelerate Regulated Stablecoin Adoption Across Africa - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
