@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-18 13:48_
+_Updated: 2025-09-18 15:14_
 
-- Photos: Scenes from Trump's U.K. visit, from pageantry to protests - Axios
-- Charlie Kirk's accused assassin feared being shot by police and agreed to peaceful surrender, sheriff says - CBS News
-- Pentagon’s crackdown on Kirk comments stirs fears among troops - Politico
-- What is the US ‘antifa’ movement and why does Trump want it outlawed? - BBC
+- ‘Censoring you in real time’: suspension of Jimmy Kimmel show sparks shock and fears for free speech - The Guardian
+- Ukraine stands out as a test of UK’s soft power to sway Trump - CNN
 - Pennsylvania police shooting: What happened, who are the suspect, victims? - Al Jazeera
-- Ousted CDC Director Says RFK Jr. Tried to Bar Her From Speaking to Lawmakers - Rolling Stone
-- US immigration judge orders Khalil deportation, his lawyers say separate ruling protects him for now - Reuters
-- Possible military helicopter crash in Washington state near Joint Base Lewis-McChord - CBS News
-- Mississippi police await autopsy results for Black student found hanged at university - NPR
+- House Democrats fume about vote to honor Charlie Kirk: "We're being totally set up" - Axios
 - Effort to censure Rep. Ilhan Omar over Charlie Kirk comments fails - The Washington Post
-- Satellite images show mass evacuation from northern Gaza amid Israeli ground offensive in Gaza City - ABC News
-- French unions strike against austerity, pressuring Macron - Reuters
-- 'He's f**king me!': Trump furious with Netanyahu after Qatar attack, but avoids public rift - Ynetnews
-- Trump to return to the United Nations as Gaza, Ukraine conflicts rage - Reuters
-- How the Fed’s rate cut impacts mortgage rates - AP News
-- Dow futures gain 300 points as traders digest Fed rate cut and outlook: Live updates - CNBC
-- Amex Revamps Its Platinum Card, Raises Fee to $895 - The Wall Street Journal
-- What the market got wrong in reacting to Powell’s press conference, according to Goldman economist - MarketWatch
-- Meta Connect 2025 live updates: Reactions to Ray-Ban Display, Oakley Vanguard glasses, more - ZDNET
-- Will the iPhone Air Bend? This Extreme Test Reveals the Answer - MacRumors
+- Pentagon reviewing service members' social media posts on Charlie Kirk - CBS News
+- US immigration judge orders Khalil deportation, his lawyers say separate ruling protects him for now - Reuters
+- Visitor dies after becoming unresponsive on Universal Epic Universe roller coaster - CBS News
+- Democrats are barreling toward a shutdown with no clear plan to get out - Politico
+- Rescue mission underway after military helicopter crash in Thurston County - KING5.com
+- Gaza hit by telecoms blackout as Israeli tanks advance - Reuters
+- Anti-Austerity Strikes and Protests Grip France - The New York Times
+- Mayor of London Sadiq Khan describes Gaza situation as genocide - BBC
+- Machu Picchu is at risk of losing its ‘credibility’ as one of the New 7 Wonders of the World. What’s happening? - CNN
+- What Decides Where Mortgage Rates Go From Here - The Wall Street Journal
+- Intel Stock Soars 29%. Nvidia to Invest $5 Billion in Chip Maker. - Barron's
+- Amex Boosts Platinum Fee to $895, Adds Resy and Lululemon Perks - Bloomberg.com
+- China tells its tech companies they can’t buy AI chips from Nivida - TechCrunch
+- Meta Connect 2025 live updates: Ray-Ban Display, Oakley Vanguard glasses, more - ZDNET
+- Galaxy S25 One UI 8 update is now rolling out worldwide - SamMobile
