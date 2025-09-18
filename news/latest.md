@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-18 10:52_
+_Updated: 2025-09-18 11:48_
 
-- Behind Castle Walls, the Rich and Powerful Celebrate Trump - The New York Times
+- Trump news at a glance: royals roll out red carpet amid protests; Kimmel taken off air over Kirk comments - The Guardian
 - Three US police officers killed, two injured, in Pennsylvania shooting - Al Jazeera
-- RFK Jr’s actions risk restricting children’s access to vaccines, say ousted CDC officials - The Guardian
+- How Vaccines Are Revealing Cracks in Trump’s G.O.P. - The New York Times
+- Pentagon reviewing service members' social media posts on Charlie Kirk - CBS News
 - The US is at a dangerous crossroads after Charlie Kirk shooting - BBC
-- Trump targets antifa movement as 'terrorist organization' - Reuters
-- Trump, Vance to headline Charlie Kirk memorial - Politico
-- Judge orders Columbia activist Mahmoud Khalil to be deported to Algeria or Syria - CBS News
-- Effort to censure Rep. Ilhan Omar over Charlie Kirk comments fails - The Washington Post
-- Republican leaders reject Democratic health care demands for bill to avoid shutdown - AP News
-- In Charlie Kirk’s name: Trump officials signal move to limit free speech - Financial Times
+- House Republicans help Democrats quash Nancy Mace's rogue Ilhan Omar censure - Axios
+- Unresolved questions hang over case against Charlie Kirk's accused killer - Reuters
+- US judge orders deportation of Palestinian activist Mahmoud Khalil - BBC
+- After Kirk’s Death, Students Return to Campus and Learn ‘How to Be Adults’ - The New York Times
+- Mississippi police await autopsy results for Black student found hanged at university - NPR
 - French unions strike against austerity, pressuring Macron - Reuters
-- 'He's f**king me!': Trump furious with Netanyahu after Qatar attack, but avoids public rift - Ynetnews
 - Trump to return to the United Nations as Gaza, Ukraine conflicts rage - Reuters
 - Israeli fighter jets launched ballistic missiles from the Red Sea in Qatar strike, official says - AP News
+- Bernie Sanders calls war in Gaza a "genocide" - Axios
 - Will mortgage rates drop further after the Fed’s rate cut? Not necessarily - AP News
 - Powell Rallies Fed Colleagues as Economic, Political Risks Grow - Bloomberg.com
-- Ben & Jerry's co-founder Jerry Greenfield resigns over dispute with owner Unilever - NPR
 - Stocks churn as traders assess Fed outlook following rate cut - Reuters
+- Spirit CEO says struggling airline will slash flights, braces employees for more job cuts - CNBC
 - Meta launches smart glasses with built-in display, reaching for 'superintelligence' - Reuters
-- Will the iPhone Air Bend? This Extreme Test Reveals the Answer - MacRumors
+- Photographer Tyler Stalman reviews the iPhone 17, iPhone Air, and iPhone 17 Pro cameras - 9to5Mac
