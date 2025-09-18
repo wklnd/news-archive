@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-18 05:47_
+_Updated: 2025-09-18 06:42_
 
 ## Top Stories
 
-- Polis: Robinson ville undvika insatsstyrkan - Västerbottens-Kuriren
-- Kristersson svarar på ungersk attack med öppet brev: ”Kära Viktor” - SVT Nyheter
-- Kimmels pratshow stoppas efter Kirkkommentar - SVT Nyheter
-- Ukraina räknar med nya vapenköp - GP
-- Trump klassar Antifa som en terrororganisation - Omni
-- Kultur, tradition och medmänsklighet: Stöd en kyrka som är aktiv i lokalsamhället. - Lidingö Nyheter
-- Svensk man död i arbetsolycka i Norge - SVT Nyheter
-- Efter urspårning: Stambanan öppnas 6 oktober - Västerbottens-Kuriren
-- 17 september 14.00, Trafikkontroll, Norrbottens län - polisen.se
-- BESKEDET: Socialbidraget sänks – familjer mister tusenlappar - NWT
+- Polis: Robinson ville undvika insatsstyrkan - GP
+- Efter 200 ansökningar i Skåne – nu lockas Alicia Höök av danska jobboomen - DN
+- Trafikverkets generaldirektör avfärdar uppgörelse med NCC - GP
+- Dalbobron i Vänersborg stängs omedelbart - SVT Nyheter
+- Köpte surfplatta – sen öppnades avgrunden - SvD
+- Lömska GPS-störningar gäckar trafiken i Östersjön: Transportbolag skärper sin säkerhet - Sydsvenskan
+- Larmet: Kalhyggen kan göra översvämningar värre - SVT Nyheter
+- Svensk man i 20-årsåldern död i arbetsplatsolycka i Norge - GP
+- Insändare: Rösta i kyrkovalet på söndag - Arvika Nyheter
+- Kristersson svarar Orbán i öppet brev: ”Vill inte bli en del av er valrörelse” - DN
 - Trump på statsbesök – Diane tog med stor flagga - Hufvudstadsbladet
+- Anna-Lena Laurén: Nya prover efter Navalnyjs död väcker frågor - DN
 - Bernie Sanders: Israel begår folkmord - GP
-- Expert om ryska drönarna: Nato måste bli bättre - Västerbottens-Kuriren
-- FN: 26 000 barn akut undernärda i Gaza - UNT
+- Anders Holmberg om intervjun med ryska ambassadören: ”Det finns en poäng i att höra regimen resonera” - Dagens Media
 - Carl Johan von Seth: Trumps strid om centralbankens själ har inletts - DN
-- Person med skyddad identitet röjd i läckan - SvD
+- Volvochefen om EX60: ”viktigaste lanseringen” - SvD
+- Så är Region Gävleborg påverkad av cyberangreppen mot Miljödata - Region Gävleborg
 - FHM: Utbrett utbrott av salmonella - Aftonbladet
-- Bank of America spår guldpris på 4 000 dollar nästa år - Placera.se
 - Spår av liv hittade i finsk meteoritkrater – ger ledtrådar om livets uppkomst - Forskning.se
 - Kommunalrådet: ”Det börjar röra på sig kring Google” - Avesta Tidning
 
@@ -32,21 +32,21 @@ _Updated: 2025-09-18 05:47_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - VIVOTEK Hosts Global Partner Summit, driving AI and Growth - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
-- OPPENHEIMER EXPANDS GLOBAL CREDIT TEAM - Placera.se
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- “UNO Wonder” Hits App Store & Google Play Worldwide - Placera.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Adyen, Partner of LVMH, Redefines Payments in the Global Luxury Sector - Placera.se
-- Undersökning: Vd:ar håller fast vid hållbarhet – trots global motreaktion - Aktuell Hållbarhet
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- OPPENHEIMER EXPANDS GLOBAL CREDIT TEAM - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Undersökning: Vd:ar håller fast vid hållbarhet – trots global motreaktion - Aktuell Hållbarhet
 - UNI Global Union ansluter sig till uppmaning att förbjuda handel med olagliga israeliska bosättningar - UNI Global Union
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Adyen, Partner of LVMH, Redefines Payments in the Global Luxury Sector - Placera.se
 - S&P Global Declares Fourth Quarter Dividend - Placera.se
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- “UNO Wonder” Hits App Store & Google Play Worldwide - Placera.se
 - DXC Launches Global AI Center of Competence to Accelerate Enterprise AI Adoption - Placera.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- AllianceBernstein Launches AB International Growth ETF - Placera.se
+- Mirion Partners with IAEA to Enhance Radiation Safety on a Global Scale - Placera.se
 
 ## Technology
 
@@ -56,10 +56,11 @@ _Updated: 2025-09-18 05:47_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
+- AI-revolutionen släpps lös: Genombrott, storföretagens satsningar & etiska stormar (slutet av juli 2025) - ts2.tech
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
+- AI i juli 2025: Superintelligens, talangkrig och samhälleliga förändringar / Uppdaterad: 2025, 3 juli, 00:01 CET - ts2.tech
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
@@ -67,9 +68,8 @@ _Updated: 2025-09-18 05:47_
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
-- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Attachments Terranet to exhibit at Auto.AI Europe 2025 - Placera.se
 
 ## Business
 
@@ -120,45 +120,45 @@ _Updated: 2025-09-18 05:47_
 ## Science
 
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Stärkt life science-forskning är till godo för patienterna - Läkartidningen
-- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Nyheter - LRF - Lantbrukarnas Riksförbund
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
+- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
