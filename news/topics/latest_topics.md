@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-18 08:48_
+_Updated: 2025-09-18 09:38_
 
 ## Top Stories
 
+- MP anmäler hela regeringen för passivitet kring Gaza - Omni
 - Flera bränder i Skara – polisen inkopplad - SVT Nyheter
-- Kristersson svarar Orbán i öppet brev: ”Vill inte bli en del av er valrörelse” - DN
-- Efter 200 ansökningar i Skåne – nu lockas Alicia Höök av danska jobboomen - DN
+- JUST NU: Öresundsbron stängs av omedelbart - Marcus Oscarsson
 - Trafikverkets generaldirektör avfärdar uppgörelse med NCC - GP
-- Köpte surfplatta – sen öppnades avgrunden - SvD
-- Fyraåringen efter flykt: Vem ska jag leka med? - SvD
-- Regeringen presenterar bidragsreform – vill sänka socialbidrag - DN
-- Tonårspojkar åtalas för dödsskjutning i Uppsala - Västerbottens-Kuriren
+- Kristersson svarar på ungersk attack med öppet brev: ”Kära Viktor” - SVT Nyheter
+- Efter 200 ansökningar i Skåne – nu lockas Alicia Höök av danska jobboomen - DN
+- Regeringen vill sänka försörjningsstöd för stora barnfamiljer - DN
+- Åklagarens teori om mordet i Boländerna: En felskjutning - UNT
+- Fler kommuner inleder granskning efter larm om fusk med p-vakter - DN
 - Fordonshaveri - E4 från Trafikplats Kungens Kurva (151) t... - Trafiken.nu
-- Svensk man död i arbetsolycka i Norge - SVT Nyheter
+- Kimmels pratshow stoppas efter Kirk-kommentar - SVT Nyheter
 - Trump på statsbesök – Diane tog med stor flagga - Hufvudstadsbladet
 - Tre poliser skjutna till döds i USA – skytten död - Västerbottens-Kuriren
-- Kimmels pratshow stoppas efter Kirkkommentar - Västerbottens-Kuriren
-- Anders Holmberg om intervjun med ryska ambassadören: ”Det finns en poäng i att höra regimen resonera” - Dagens Media
-- Federal Reserve sänker styrräntan - SVT Nyheter
-- JUST NU: Billerud ska spara mångmiljonbelopp – hotar hundratals tjänster - NWT
-- Morgonkoll: Europabörserna mot uppgång efter Fed-sänkning - Dagens industri
+- Expert om ryska drönarna: Nato måste bli bättre - GP
+- Glatt på Asienbörserna efter USA:s räntesänkning - Aftonbladet
+- BESKEDET: 160 varslas på Gruvön – fackliga förhandlingar inleds - NWT
+- Tokyobörsen på rekordnivå efter Fed-sänkning - EFN
 - Volvochefen om EX60: ”viktigaste lanseringen” - SvD
-- 400.000 följer First North-bolagets hajpade lansering - Dagens industri
 - Fiskeguider kan bidra till stärkt övervakning - sva.se
+- Spår av liv hittade i finsk meteoritkrater – ger ledtrådar om livets uppkomst - Forskning.se
 
 ## World News
 
@@ -52,13 +52,13 @@ _Updated: 2025-09-18 08:48_
 
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
-- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - AI-revolutionen släpps lös: Genombrott, storföretagens satsningar & etiska stormar (slutet av juli 2025) - ts2.tech
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
+- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - AI i juli 2025: Superintelligens, talangkrig och samhälleliga förändringar / Uppdaterad: 2025, 3 juli, 00:01 CET - ts2.tech
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
@@ -68,8 +68,8 @@ _Updated: 2025-09-18 08:48_
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - Avant Technologies and Ainnova Tech Announce Enhanced Patient Recruitment Strategy Ahead of FDA Clinical Trial - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
-- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
 
