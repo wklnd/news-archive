@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-18 01:48_
+_Updated: 2025-09-18 04:09_
 
-- ABC pulls 'Jimmy Kimmel Live' off air 'indefinitely' over Charlie Kirk comments - CNBC
-- Three police officers killed in Pennsylvania shooting, with two others critical - BBC
+- ABC Pulls Jimmy Kimmel Off Air for Charlie Kirk Comments After F.C.C. Pressure - The New York Times
+- Five police officers shot, three fatally, in Pennsylvania - Al Jazeera
 - Ousted CDC Director Susan Monarez testifies about RFK Jr., says she's "very nervous" about vaccine recommendations - CBS News
+- The Justice Department sues Maine and Oregon, ratcheting up demands for voter data - NPR
+- Trump says he’s designating far-left anti-fascism group Antifa as a terrorist organization - CNN
 - Those closest to Tyler Robinson made horrifying discoveries in hours after Charlie Kirk killing, authorities say - Los Angeles Times
-- Trump greeted by king, thousands of protesters in UK visit - ABC News
-- Kash Patel doubles down on his handling of the Epstein files in heated Hill testimony - Politico
 - Pentagon’s crackdown on Kirk comments stirs fears among troops - Politico
-- GOP defections sink effort to censure Rep. Ilhan Omar - Politico
-- Mississippi university student found hanged on campus with no signs of foul play – but family raises questions - CNN
-- What to Know About ‘Hate Speech’ and the First Amendment - The New York Times
+- As Shutdown Looms, Democrats Outline Spending Demands on Medicaid and Obamacare - The New York Times
+- Immigration judge orders Mahmoud Khalil to be deported to Algeria or Syria - NBC News
+- King Charles lauds Trump’s peace efforts at massive UK state dinner - The Hill
+- Trump to return to the United Nations as Gaza, Ukraine conflicts rage - Reuters
 - Israeli tanks surround Gaza City ahead of ground incursion as EU proposes sanctions amid global outcry - CNN
 - Russia gives Ukrainian kids military training and reeducation, Yale researchers find - NPR
-- Trump to return to the United Nations as Gaza, Ukraine conflicts rage - Reuters
-- Search for ancient Egyptian gold bracelet missing from museum - BBC
+- Bernie Sanders becomes first US senator to say Israel committing genocide in Gaza - The Guardian
 - Fed Cuts Rates for First Time This Year - The New York Times
 - Ben & Jerry's co-founder Jerry Greenfield resigns over dispute with owner Unilever - NPR
-- What Trump and the tech CEOs want from the UK - Politico
-- Cracker Barrel sales plunging amid MAGA backlash - Axios
-- Apple Details iOS 26 Features Like Call Screening, Live Translation, AutoMix, and More - MacRumors
-- Here’s how the iPhone 17 Pro vapor chamber actually works - 9to5Mac
+- Powell Rallies Fed Colleagues as Economic, Political Risks Grow - Bloomberg.com
+- Cracker Barrel stock falls as company reports mixed earnings after rebrand controversy - CNBC
+- Meta Connect 2025 live updates: Ray-Ban Display and more new smartglasses unveiled - Engadget
+- Photographer Tyler Stalman reviews the iPhone 17, iPhone Air, and iPhone 17 Pro cameras - 9to5Mac
