@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-18 06:48_
+_Updated: 2025-09-18 07:48_
 
-- Jimmy Kimmel taken off air over Charlie Kirk comments - BBC
 - Three US police officers killed, two injured, in Pennsylvania shooting - Al Jazeera
 - Ousted CDC Director Susan Monarez testifies about RFK Jr., says she's "very nervous" about vaccine recommendations - CBS News
-- A Note, a Gun and a Mother’s Conscience Led to an Arrest in Kirk’s Killing - The New York Times
+- Trump, Vance to headline Charlie Kirk memorial - Politico
+- Trump greeted by king, thousands of protesters in UK visit - ABC News
+- Trump targets antifa movement as 'terrorist organization' - Reuters
 - The Justice Department sues Maine and Oregon, ratcheting up demands for voter data - NPR
-- Trump says he’s designating Antifa as a terrorist organization - CNN
-- Immigration judge orders Mahmoud Khalil to be deported to Algeria or Syria - NBC News
+- US judge orders Mahmoud Khalil deported citing ‘misrepresented facts’ on green card form - The Guardian
 - Autopsy results awaited for Black student found hanged on Mississippi campus - Politico
+- After Kirk’s Death, Students Return to Campus and Learn ‘How to Be Adults’ - The New York Times
 - Sheriff describes peaceful surrender of man accused of killing Charlie Kirk - KSL.com
-- Republican Brad Raffensperger to run for Georgia governor after defying Trump over 2020 election - AP News
 - Trump to return to the United Nations as Gaza, Ukraine conflicts rage - Reuters
-- Russia gives Ukrainian kids military training and reeducation, Yale researchers find - NPR
 - Gaza City’s communications cut amid widening Israeli ground invasion - The Washington Post
 - Israeli fighter jets launched ballistic missiles from the Red Sea in Qatar strike, official says - AP News
+- Bernie Sanders becomes first US senator to say Israel committing genocide in Gaza - The Guardian
 - Fed Meeting Live Updates: Interest Rates and Economic News - The New York Times
-- Ben & Jerry's co-founder Jerry Greenfield resigns over dispute with owner Unilever - NPR
-- Cracker Barrel expects fewer patrons after failed logo rebrand - The Washington Post
+- Jerry quits Ben & Jerry’s, saying its independence on social issues has been stifled - NewsNation
+- Tesla exec says the company will redesign door handles that reportedly pose safety risks - Engadget
 - Spirit CEO says struggling airline will slash flights, braces employees for more job cuts - CNBC
-- Meta Connect 2025 as it happened: Ray-Ban Display, Oakley Vanguard smart glasses, more - ZDNET
-- Apple Details iOS 26 Features Like Call Screening, Live Translation, AutoMix, and More - MacRumors
+- Meta launches smart glasses with built-in display, reaching for 'superintelligence' - Reuters
+- Photographer Tyler Stalman reviews the iPhone 17, iPhone Air, and iPhone 17 Pro cameras - 9to5Mac
