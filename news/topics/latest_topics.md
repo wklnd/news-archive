@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-18 05:09_
+_Updated: 2025-09-18 05:47_
 
 ## Top Stories
 
-- Därför var Kirks misstänkta mördare klädd i grön väst - GP
+- Polis: Robinson ville undvika insatsstyrkan - Västerbottens-Kuriren
 - Kristersson svarar på ungersk attack med öppet brev: ”Kära Viktor” - SVT Nyheter
+- Kimmels pratshow stoppas efter Kirkkommentar - SVT Nyheter
 - Ukraina räknar med nya vapenköp - GP
-- Viktiga bron stängs akut – i nio månader: ”Katastrof” - Expressen
+- Trump klassar Antifa som en terrororganisation - Omni
 - Kultur, tradition och medmänsklighet: Stöd en kyrka som är aktiv i lokalsamhället. - Lidingö Nyheter
-- Ny tillfällig flyktväg från Gaza stad – men många blir kvar - DN
 - Svensk man död i arbetsolycka i Norge - SVT Nyheter
-- Carl Bildts nya spionmyndighet får kritik av ÖB - DN
-- Efter urspårning då öppnas Stambanan igen - Nyteknik
+- Efter urspårning: Stambanan öppnas 6 oktober - Västerbottens-Kuriren
 - 17 september 14.00, Trafikkontroll, Norrbottens län - polisen.se
+- BESKEDET: Socialbidraget sänks – familjer mister tusenlappar - NWT
 - Trump på statsbesök – Diane tog med stor flagga - Hufvudstadsbladet
-- Anna-Lena Laurén: Nya prover efter Navalnyjs död väcker frågor - DN
 - Bernie Sanders: Israel begår folkmord - GP
 - Expert om ryska drönarna: Nato måste bli bättre - Västerbottens-Kuriren
+- FN: 26 000 barn akut undernärda i Gaza - UNT
 - Carl Johan von Seth: Trumps strid om centralbankens själ har inletts - DN
 - Person med skyddad identitet röjd i läckan - SvD
 - FHM: Utbrett utbrott av salmonella - Aftonbladet
-- SSAB har tagit första spadtaget för nytt stålverk i Luleå - Placera.se
+- Bank of America spår guldpris på 4 000 dollar nästa år - Placera.se
 - Spår av liv hittade i finsk meteoritkrater – ger ledtrådar om livets uppkomst - Forskning.se
-- Nothing presenterar OS 4.0 och lockar med nya lurar från CMF - mobil.se
+- Kommunalrådet: ”Det börjar röra på sig kring Google” - Avesta Tidning
 
 ## World News
 
@@ -32,21 +32,21 @@ _Updated: 2025-09-18 05:09_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - VIVOTEK Hosts Global Partner Summit, driving AI and Growth - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
-- “UNO Wonder” Hits App Store & Google Play Worldwide - Placera.se
-- News of the Worlds reportrar kan få nya jobb - Journalisten
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - OPPENHEIMER EXPANDS GLOBAL CREDIT TEAM - Placera.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Undersökning: Vd:ar håller fast vid hållbarhet – trots global motreaktion - Aktuell Hållbarhet
-- UNI Global Union ansluter sig till uppmaning att förbjuda handel med olagliga israeliska bosättningar - UNI Global Union
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Adyen, Partner of LVMH, Redefines Payments in the Global Luxury Sector - Placera.se
+- Undersökning: Vd:ar håller fast vid hållbarhet – trots global motreaktion - Aktuell Hållbarhet
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- UNI Global Union ansluter sig till uppmaning att förbjuda handel med olagliga israeliska bosättningar - UNI Global Union
 - S&P Global Declares Fourth Quarter Dividend - Placera.se
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- “UNO Wonder” Hits App Store & Google Play Worldwide - Placera.se
 - DXC Launches Global AI Center of Competence to Accelerate Enterprise AI Adoption - Placera.se
-- Mirion Partners with IAEA to Enhance Radiation Safety on a Global Scale - Placera.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- AllianceBernstein Launches AB International Growth ETF - Placera.se
 
 ## Technology
 
@@ -89,56 +89,56 @@ _Updated: 2025-09-18 05:09_
 - DeFi Technologies Invests in Continental Stablecoin Inc., Backers of cNGN, to Accelerate Regulated Stablecoin Adoption Across Africa - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Spelman College wins 7th annual Moguls in the Making entrepreneurial pitch competition - Placera.se
 
 ## Health
 
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Triglyceridrika lipoproteiner – farligare än LDL-kolesterol? - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Osher centrum för integrativ hälsa - Karolinska Institutet
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - SLS eHälsodag 2025 - sls.se
-- Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - Samverkan - Göteborgs universitet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Tema: AI inom medicin och hälsa - Karolinska Institutet
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Sherry Nakhaeizadeh - Uppsala universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Stärkt life science-forskning är till godo för patienterna - Läkartidningen
+- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
