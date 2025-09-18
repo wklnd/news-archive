@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-18 10:46_
+_Updated: 2025-09-18 11:41_
 
 ## Top Stories
 
-- Öresundsbron stängd för trafik – vattenmassor i Danmark - SVT Nyheter
+- Öresundsbron stängdes för trafik – vattenmassor i Danmark - SVT Nyheter
+- Hyllningsprogram till högerextrema Charlie Kirk tar Jimmy Kimmels plats - ETC.se
 - Åklagare överklagar friande domen mot Henrik Landerholm - DN
-- Miljöpartiet anmäler regeringen: ”Skamligt” - GP
 - 17 september 19.44, Brand, Skara - polisen.se
-- Efter 200 ansökningar i Skåne – nu lockas Alicia Höök av danska jobboomen - DN
-- Kristersson svarar på ungersk attack med öppet brev: ”Kära Viktor” - SVT Nyheter
-- Åklagarens teori om mordet i Boländerna: En felskjutning - UNT
-- Fler kommuner inleder granskning efter larm om fusk med p-vakter - DN
+- Fyraåringen efter flykten: Vem ska jag leka med nu? - GP
+- Bernie Sanders: Israel begår folkmord - HD
 - Forskare sågar regeringens bidragskrav - Arbetet
+- Gick ut för att prata med pojken – sköts ihjäl - UNT
 - Lång väntan på normal tågtrafik - Järnvägar.nu
-- Uppgift: Storbritannien erkänner Palestina – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Fordonshaveri - E4 från Trafikplats Kungens Kurva (151) t... - Trafiken.nu
 - Trump på statsbesök – Diane tog med stor flagga - Hufvudstadsbladet
-- Kimmels pratshow stoppas efter Kirk-kommentar - SVT Nyheter
+- Mer av både skyfall och torka på jorden - SvD
+- Peter Alestig: Nedmonteringen av USA:s klimatpolitik går i rasande tempo - DN
 - Tre poliser skjutna till döds i USA – skytten död - GP
 - Glatt på Asienbörserna efter USA:s räntesänkning - Aftonbladet
 - BESKEDET: 160 varslas på Gruvön – fackliga förhandlingar inleds - NWT
+- Elexpert sågar regeringens högkostnadsskydd: ”En slags bluff” - DN
 - Volvochefen om EX60: ”viktigaste lanseringen” - SvD
-- Så är Region Gävleborg påverkad av cyberangreppen mot Miljödata - Region Gävleborg
 - Fiskeguider kan bidra till stärkt övervakning - sva.se
-- 400.000 följer First North-bolagets hajpade lansering - Dagens industri
+- KRÖNIKA: Svårt leva upp till hajpen för lilla ”Silksong” och jätten ”GTA 6” - Sydsvenskan
 
 ## World News
 
@@ -35,18 +35,18 @@ _Updated: 2025-09-18 10:46_
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - “UNO Wonder” Hits App Store & Google Play Worldwide - Placera.se
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Undersökning: Vd:ar håller fast vid hållbarhet – trots global motreaktion - Aktuell Hållbarhet
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Undersökning: Vd:ar håller fast vid hållbarhet – trots global motreaktion - Aktuell Hållbarhet
 - Adyen, Partner of LVMH, Redefines Payments in the Global Luxury Sector - Placera.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - OPPENHEIMER EXPANDS GLOBAL CREDIT TEAM - Placera.se
 - S&P Global Declares Fourth Quarter Dividend - Placera.se
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - DXC Launches Global AI Center of Competence to Accelerate Enterprise AI Adoption - Placera.se
 - UNI Global Union ansluter sig till uppmaning att förbjuda handel med olagliga israeliska bosättningar - UNI Global Union
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- AllianceBernstein Launches AB International Growth ETF - Placera.se
 
 ## Technology
 
@@ -73,30 +73,20 @@ _Updated: 2025-09-18 10:46_
 
 ## Business
 
-- CIMG Inc. Entered Into an MOU With iZUMi to Launch a $20 Million Upstarts Fund - Placera.se
-- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
-- Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Tribe Property Technologies Appoints Scott Ullrich as New Chief Financial Officer - Placera.se
+- CIMG Inc. Entered Into an MOU With iZUMi to Launch a $20 Million Upstarts Fund - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- SYNCHRONY INVESTS $1 MILLION IN EDUCATORS TO ADVANCE PERSONAL FINANCE EDUCATION FOR STUDENTS NATIONWIDE - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- DeFi Technologies Invests in Continental Stablecoin Inc., Backers of cNGN, to Accelerate Regulated Stablecoin Adoption Across Africa - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- UK Financial Services Compensation Scheme förklarar 30 företag i standard mellan november och januari - FinanceFeeds
 
 ## Health
 
-- Triglyceridrika lipoproteiner – farligare än LDL-kolesterol? - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
@@ -105,17 +95,18 @@ _Updated: 2025-09-18 10:46_
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Osher centrum för integrativ hälsa - Karolinska Institutet
-- SLS eHälsodag 2025 - sls.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
-- Samverkan - Göteborgs universitet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 
 ## Science
 
