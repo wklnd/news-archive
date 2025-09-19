@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-19 22:39_
+_Updated: 2025-09-19 23:37_
 
 ## Top Stories
 
-- Ryska militärflyg uppges ha kränkt estniskt luftrum - DN
+- Estlands utrikesminister: ”Putin försöker koka oss som en groda” - DN
 - 20-åring dog: Klämdes under lyftoperation - Entreprenad
-- Brittisk extremhöger använder Kirks död - expo.se
+- Misstänkt skottlossning i Västerås – en till sjukhus - Omni
 - Misstänkt hot på Gotlandsfärjan – personal förhörs - SVT Nyheter
-- EU: Stäng av den ryska gasen - GP
-- Ungdomsprästen om kyrkovalet: ”Många unga som tar det på stort allvar” - ETC.se
+- EU riktar kikarsiktet mot krypto och Kina - SvD
+- Brittisk extremhöger använder Kirks död - expo.se
 - Åklagare: Ingen förundersökning efter inlägg om ”odjur” på X - SVT Nyheter
+- Knivhögg frun framför barnet – döms till fängelse - GP
 - 19 september 17.32, Farligt föremål, misstänkt, Katrineholm - polisen.se
 - Jakthundar låg i sin egen avföring – utländsk jägare åtalas - DN
-- Knivhögg frun framför barnet – man i Boden döms till 11 års fängelse - SVT Nyheter
-- Trafikkaos och förtvivlan på vägar från Gaza stad - GP
+- Trafikkaos och förtvivlan på vägar från Gaza stad - Västerbottens-Kuriren
+- Här är kartan som avslöjar krigets rörelser – Ukraina pressas vid fronten - DN
+- ”Arg och besviken” – Harris kritiserar Biden i ny bok - DN
 - Flygvapnets väg till Nato-operationen i Polen - Försvarsmakten
-- Regeringen deltar vid FN:s generalförsamlings öppnande i New York - Regeringen.se
-- Fullt utvecklad brand på hotell i Göteborg - DN
 - Uppdaterad information gällande cyberangreppet mot leverantör till Håbo kommun - Håbo
 - Trafikverket häver kontrakt i Västlänken - Järnvägar.nu
 - Affärsvärlden slopar köprådet för Profilgruppen efter dubbla avhopp - Affärsvärlden
@@ -35,18 +35,18 @@ _Updated: 2025-09-19 22:39_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- The Upcoming 8th CIIE: Countdown to Global Opportunities and Collaboration - PR Newswire
 - S&P Global Declares Fourth Quarter Dividend - Placera.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Philip Morris International Increases Dividend by 8.9% to Annualized Rate of $5.88 per Share - Placera.se
 - Garmin celebrates global innovators and collaborations at 2025 Garmin Health Summit - Placera.se
 - Diebold Nixdorf Receives Credit Rating Upgrade from S&P Global Ratings - Placera.se
 - Kelyniam Global, Inc. Receives FDA Clearance for Innovative Fusion™ BCP-PEEK Implant - Placera.se
-- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 
 ## Technology
 
@@ -57,19 +57,19 @@ _Updated: 2025-09-19 22:39_
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - AI-revolutionen släpps lös: Genombrott, storföretagens satsningar & etiska stormar (slutet av juli 2025) - ts2.tech
 - Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
+- AI i juli 2025: Superintelligens, talangkrig och samhälleliga förändringar / Uppdaterad: 2025, 3 juli, 00:01 CET - ts2.tech
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
-- Qualcomm’s Board of Directors Appoints Jeremy (Zico) Kolter to Board - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 
 ## Business
 
@@ -89,10 +89,10 @@ _Updated: 2025-09-19 22:39_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Realty Income to Present at Bank of America's 2025 Global Real Estate Conference - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Golub Capital BDC, Inc. Prices Public Offering of $250 Million 7.050% Notes Due 2028 - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 
 ## Health
 
@@ -121,44 +121,44 @@ _Updated: 2025-09-19 22:39_
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
+- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
