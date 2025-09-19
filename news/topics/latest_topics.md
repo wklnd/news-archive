@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-19 19:39_
+_Updated: 2025-09-19 20:46_
 
 ## Top Stories
 
 - Ryska militärflyg uppges ha kränkt estniskt luftrum - DN
+- 20-åring dog: Klämdes under lyftoperation - Entreprenad
 - Efter ordkriget med Ungern: ”Kristersson går i Orbáns fälla” - DN
+- EU:s 19:e sanktionspaket lanserat – "Rysslands krigsekonomi på bristningsgränsen" - Europaportalen
 - Brand på hotell i Göteborg – gäster fick utrymmas - SVT Nyheter
-- EU: Dags att stänga av den ryska kranen - Västerbottens-Kuriren
-- Misstänkt farligt föremål i Katrineholm - Omni
-- Du är en del av Sveriges totalförsvar - Trollhättans Stad
+- Efter cyberattacken: Var extra uppmärksam - Linköpings kommun
 - Åklagare: Ingen förundersökning efter inlägg om ”odjur” på X - SVT Nyheter
+- Misstänkt farligt föremål i Katrineholm - GP
 - Polisen erkänner brister i Mohameds försvinnande: “Borde ha fått tolk” - DN
 - Expert: Det är hetaste frågan i kyrkovalet - DN
-- Mjölkkor får behålla betesrätten tills vidare - Västerbottens-Kuriren
-- Trafikkaos och förtvivlan på vägar från Gaza stad - DN
+- Trafikkaos och förtvivlan på vägar från Gaza stad - Västerbottens-Kuriren
 - Flygvapnets väg till Nato-operationen i Polen - Försvarsmakten
-- Årets IgNobelpris: Zebramålade kor, teflondiet och flygfylleri hos fladdermöss - DN
+- Talibanerna förbjuder böcker av kvinnor - SVT Nyheter
 - Regeringen deltar vid FN:s generalförsamlings öppnande i New York - Regeringen.se
 - Trafikverket häver kontrakt i Västlänken - Järnvägar.nu
 - JPMorgan: Wall Street balanserar på slak lina - Dagens PS
-- Sandviks personaluppgifter finns på Darknet - Metal Supply
+- Regeringen bjuder in till internationell konferens om ny kärnkraft - Regeringen.se
 - Affärsvärlden slopar köprådet för Profilgruppen efter dubbla avhopp - Affärsvärlden
 - Apples nya Iphone 17 skapar stora köer vid Peking-butik - Placera.se
 - Tusentals blir utan Bank-id nästa år – har för gamla telefoner - Nyteknik
@@ -34,12 +34,12 @@ _Updated: 2025-09-19 19:39_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - The Upcoming 8th CIIE: Countdown to Global Opportunities and Collaboration - PR Newswire
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Undersökning: Vd:ar håller fast vid hållbarhet – trots global motreaktion - Aktuell Hållbarhet
 - Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - World Athletics introduces gene test for female category - BBC
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas | Mediemyndigheten - Via TT
 - Philip Morris International Increases Dividend by 8.9% to Annualized Rate of $5.88 per Share - Placera.se
@@ -62,14 +62,14 @@ _Updated: 2025-09-19 19:39_
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
-- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 
 ## Business
 
@@ -103,19 +103,19 @@ _Updated: 2025-09-19 19:39_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Fakulteten för hälsa och samhälle - Malmö universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -128,37 +128,37 @@ _Updated: 2025-09-19 19:39_
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
+- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
