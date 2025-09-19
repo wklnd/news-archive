@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-19 01:48_
+_Updated: 2025-09-19 04:13_
 
-- Calls grow to boycott ABC owner Disney over Jimmy Kimmel suspension - The Guardian
-- Charlie Kirk's widow Erika elected as new CEO for Turning Point USA after husband's death - ABC News
-- Pennsylvania Officials Identify Man Accused of Killing 3 Officers - The New York Times
-- Magnitude 7.8 earthquake strikes off Russia's coast - CBS News
+- What Jimmy Kimmel’s Suspension Says About the Trump Administration’s Crackdown Against Mainstream Media - The New York Times
+- Erika Kirk named new Turning Point USA CEO after Charlie Kirk's death - Axios
+- TikTok deal looms as China talks stall - Politico
+- Suspect in killing of Pennsylvania officers was a 24-year-old being sought on stalking charges - PBS
+- Strong quake hits Russia's Kamchatka, no damage reported - Reuters
 - FCC chair puts ‘The View’ under the spotlight after Kimmel pressure - Politico
-- Democrats voice fears of violence over Charlie Kirk vote: "Ugliest meeting I've ever seen" - Axios
-- GOP pummels DC officials on local crime - Politico
-- Kamala Harris tells of dismay as Tim Walz ‘fumbled’ debate answer in book - The Guardian
-- Judge Blocks Administration From Immediately Removing Guatemalan Children - The New York Times
-- Royals, Maga and tech CEOs: What we learned from state banquet guest list - BBC
-- Starmer prepares to recognize Palestinian state before UN summit - politico.eu
+- Buttigieg responds to Harris’ VP snub: You earn voters’ trust on ‘what they think you’re going to do,’ not ‘on categories’ - Politico
+- Mayor Bowser, top D.C. officials on Capitol Hill for grilling on crime - The Washington Post
+- What to Know About the North American Summit Taking Place Without the U.S. - The New York Times
+- Judge blocks administration from deporting unaccompanied minors to Guatemala - ABC News
+- Trump and Starmer, Skirting Differences, Praise Each Other in U.K. - The New York Times
 - Saudi Arabia signs a mutual defense pact with nuclear-armed Pakistan after Israel's attack on Qatar - The Washington Post
-- More than 250,000 displaced from Gaza City in past month, UN figures show - The Guardian
-- Workers across France strike over budget cut plans - BBC
-- Intel stock soars most in 38 years after Nvidia reveals a $5 billion partnership - Business Insider
-- FTC sues Live Nation and Ticketmaster alleging illegal resale tactics - NPR
+- Trump Says Putin ‘Let Me Down,’ Allies Must Stop Buying Oil - Bloomberg.com
+- 'Cataclysmic' situation in Gaza City, UN official says, as Israeli tanks advance - BBC
+- Nvidia to invest $5B in Intel and develop chips with onetime rival - NBC News
+- Ticketmaster, Live Nation Sued by FTC Over Ticket Resales - Bloomberg.com
 - Harvard Business School graduate arrested on charges he cheated fellow alums out of over $4 million - AP News
-- Why mortgage rates are actually going up after the Fed cut interest rates - MarketWatch
+- FedEx stock rises on better-than-expected earnings - CNBC
 - Watch the Meta Ray-Ban Display glasses fail in Mark Zuckerberg's painful live demo - Mashable
 - First iPhone 17 pre-orders now arriving to customers - 9to5Mac
