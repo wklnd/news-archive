@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-19 04:11_
+_Updated: 2025-09-19 05:13_
 
 ## Top Stories
 
-- Pojke död efter singelolycka - Aftonbladet
-- Putins plan för efterträdaren: ”Riskerar livet” - Aftonbladet
-- USA lägger in veto mot FN-resolution om vapenvila i Gaza - TV4 Nyheterna
-- Tusentals evakueras i Berlin – gammal bomb hittad - GP
+- Tonåring död i A-traktorolycka i Borlänge - SVT Nyheter
 - Ung svensk man klämd till döds på norskt oljeraffinaderi - Arbetet
-- Israel: Thunbergs konvoj är ett ”jihad-initiativ” - GP
-- Färre svenskar begick självmord förra året - NWT
-- Forssell efter avslöjandet: Oppositionen utnyttjar min familj - DN
-- Jag trodde Ulf Kristersson höll med Viktor Orbán om Sverige - Arbetet
+- USA lägger in veto mot FN-resolution om vapenvila i Gaza - TV4 Nyheterna
+- Putins plan för efterträdaren: ”Riskerar livet” - Aftonbladet
 - Arbetsmiljö och politikens roll i kyrkan frågor i kyrkovalet - Dagens Arena
-- Sandra Stiskalo: Sällan har Donald Trump gett ett soligare intryck - DN
-- Israel inleder attacker mot Libanon - Hufvudstadsbladet
 - Soldater campar utanför Netanyahus hus – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Färre svenskar begick självmord förra året - NWT
+- Jag trodde Ulf Kristersson höll med Viktor Orbán om Sverige - Arbetet
+- 18 september 17.50, Trafikkontroll, Norrbottens län - polisen.se
+- Kårén: Skyfallet och förödelsen i Västernorrland - Nordsverige
+- Sandra Stiskalo: Sällan har Donald Trump gett ett soligare intryck - DN
+- Israel attackerar fem städer i södra Libanon - Västerbottens-Kuriren
 - I Polen blev flyglarmet på riktigt - SvD
-- ”Siemiatkowski ute efter att bygga en dynasti” - SvD
+- Miljöministrar oeniga – EU-toppmöte får avgöra klimatmål - Europaportalen
 - Så påverkas Region Gävleborg av cyberangreppet mot Miljödata - Region Gävleborg
+- ”Siemiatkowski ute efter att bygga en dynasti” - SvD
 - KVÄLLENS NYHETER: Flera fall av salmonella • Färre självmord förra året • Värmländsk slalomklubb gör storsatsning - NWT
-- Uppgifter: S vill bygga ny vindkraft i Östersjön - Affärsvärlden
+- Energiföretagen frustrerade: Bestäm er om kärnkraft och vindkraft - Nyteknik
+- Här är operatörerna som erbjuder lägst pris på Iphone 17 - Expressen
 - Vit dvärg slukar rester av Pluto-liknande planet - Aftonbladet
-- Spår av liv hittade i finsk meteoritkrater – ger ledtrådar om livets uppkomst - Forskning.se
 
 ## World News
 
 - MDA SPACE RECEIVES 2025 GLOBAL SATELLITE BUSINESS OF THE YEAR AWARD AT WORLD SPACE BUSINESS WEEK - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Portugisiska handelshögskolor på global ranking - The Portugal News
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - VIVOTEK Hosts Global Partner Summit, driving AI and Growth - Placera.se
-- Armand Duplantis soars to third world title and 14th world record - BBC
 - The Upcoming 8th CIIE: Countdown to Global Opportunities and Collaboration - PR Newswire
 - Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
-- Toronto becomes the stage for global bartending excellence as host for the 2025 Diageo World Class Global Final - Placera.se
+- Adyen, Partner of LVMH, Redefines Payments in the Global Luxury Sector - Placera.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Undersökning: Vd:ar håller fast vid hållbarhet – trots global motreaktion - Aktuell Hållbarhet
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
-- Adyen, Partner of LVMH, Redefines Payments in the Global Luxury Sector - Placera.se
-- DXC Launches Global AI Center of Competence to Accelerate Enterprise AI Adoption - Placera.se
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Undersökning: Vd:ar håller fast vid hållbarhet – trots global motreaktion - Aktuell Hållbarhet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- UNI Global Union ansluter sig till uppmaning att förbjuda handel med olagliga israeliska bosättningar - UNI Global Union
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 
 ## Technology
 
@@ -96,26 +96,26 @@ _Updated: 2025-09-19 04:11_
 
 ## Health
 
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Fakulteten för hälsa och samhälle - Malmö universitet
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- West Sweden’s life science community collaborates to launch HackHERHealth, a trailblazing femtech innovation hackathon - NewsMachine AB
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Tema: AI inom medicin och hälsa - Karolinska Institutet
+- Samverkan - Göteborgs universitet
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -144,21 +144,21 @@ _Updated: 2025-09-19 04:11_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- USA tvingar ut EU på banan - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Maskinförare | Jobb | ATL - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
