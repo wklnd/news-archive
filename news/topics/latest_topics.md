@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-19 05:13_
+_Updated: 2025-09-19 05:47_
 
 ## Top Stories
 
+- Spanien: Gripen kopplad till mordplaner i Sverige - Västerbottens-Kuriren
 - Tonåring död i A-traktorolycka i Borlänge - SVT Nyheter
-- Ung svensk man klämd till döds på norskt oljeraffinaderi - Arbetet
 - USA lägger in veto mot FN-resolution om vapenvila i Gaza - TV4 Nyheterna
-- Putins plan för efterträdaren: ”Riskerar livet” - Aftonbladet
-- Arbetsmiljö och politikens roll i kyrkan frågor i kyrkovalet - Dagens Arena
-- Soldater campar utanför Netanyahus hus – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Gammal bomb hittad i Berlin – tusentals evakuerade - DN
+- Tonåringarna Elita och Adam går mot trenden – väntar tvillingar - DN
+- Hamas: Inga fler ur gisslan kommer att friges – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Färre svenskar begick självmord förra året - NWT
-- Jag trodde Ulf Kristersson höll med Viktor Orbán om Sverige - Arbetet
+- Arbetsmiljö och politikens roll i kyrkan frågor i kyrkovalet - Dagens Arena
 - 18 september 17.50, Trafikkontroll, Norrbottens län - polisen.se
 - Kårén: Skyfallet och förödelsen i Västernorrland - Nordsverige
-- Sandra Stiskalo: Sällan har Donald Trump gett ett soligare intryck - DN
-- Israel attackerar fem städer i södra Libanon - Västerbottens-Kuriren
+- Årets IgNobelpris: Zebramålade kor, teflondiet och flygfylleri hos fladdermöss - DN
+- Trump och Starmer håller pressträff – Politiska samtal under Donald Trumps sista dag i London - SVT Nyheter
 - I Polen blev flyglarmet på riktigt - SvD
 - Miljöministrar oeniga – EU-toppmöte får avgöra klimatmål - Europaportalen
 - Så påverkas Region Gävleborg av cyberangreppet mot Miljödata - Region Gävleborg
-- ”Siemiatkowski ute efter att bygga en dynasti” - SvD
+- Stockholmsbörsen steg efter Feds räntesänkning – bankerna backade - Dagens industri
 - KVÄLLENS NYHETER: Flera fall av salmonella • Färre självmord förra året • Värmländsk slalomklubb gör storsatsning - NWT
-- Energiföretagen frustrerade: Bestäm er om kärnkraft och vindkraft - Nyteknik
-- Här är operatörerna som erbjuder lägst pris på Iphone 17 - Expressen
-- Vit dvärg slukar rester av Pluto-liknande planet - Aftonbladet
+- Regeringen öppnar för vindkraftsstöd – SD emot - SvD
+- Din katt gör det om och om igen — nu kan forskare ha hittat förklaringen till det mystiska beteendet - Illustrerad Vetenskap
+- Jasplan vände efter varning - Folkbladet
 
 ## World News
 
 - MDA SPACE RECEIVES 2025 GLOBAL SATELLITE BUSINESS OF THE YEAR AWARD AT WORLD SPACE BUSINESS WEEK - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Portugisiska handelshögskolor på global ranking - The Portugal News
-- Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- VIVOTEK Hosts Global Partner Summit, driving AI and Growth - Placera.se
 - The Upcoming 8th CIIE: Countdown to Global Opportunities and Collaboration - PR Newswire
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
-- Adyen, Partner of LVMH, Redefines Payments in the Global Luxury Sector - Placera.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Undersökning: Vd:ar håller fast vid hållbarhet – trots global motreaktion - Aktuell Hållbarhet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
-- Undersökning: Vd:ar håller fast vid hållbarhet – trots global motreaktion - Aktuell Hållbarhet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - UNI Global Union ansluter sig till uppmaning att förbjuda handel med olagliga israeliska bosättningar - UNI Global Union
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Kelyniam Global, Inc. Receives FDA Clearance for Innovative Fusion™ BCP-PEEK Implant - Placera.se
+- Techarenan News goes English (Partly at least) - Techarenan.news
 
 ## Technology
 
@@ -62,14 +62,14 @@ _Updated: 2025-09-19 05:13_
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Attachments Terranet to exhibit at Auto.AI Europe 2025 - Placera.se
 
 ## Business
 
@@ -96,26 +96,26 @@ _Updated: 2025-09-19 05:13_
 
 ## Health
 
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
-- Samverkan - Göteborgs universitet
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
