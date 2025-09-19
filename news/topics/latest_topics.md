@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-19 20:46_
+_Updated: 2025-09-19 21:38_
 
 ## Top Stories
 
 - Ryska militärflyg uppges ha kränkt estniskt luftrum - DN
-- 20-åring dog: Klämdes under lyftoperation - Entreprenad
-- Efter ordkriget med Ungern: ”Kristersson går i Orbáns fälla” - DN
-- EU:s 19:e sanktionspaket lanserat – "Rysslands krigsekonomi på bristningsgränsen" - Europaportalen
-- Brand på hotell i Göteborg – gäster fick utrymmas - SVT Nyheter
 - Efter cyberattacken: Var extra uppmärksam - Linköpings kommun
+- 20-åring dog: Klämdes under lyftoperation - Entreprenad
+- EU: Dags att stänga av rysk kran - SVT Nyheter
+- Brittisk extremhöger använder Kirks död - expo.se
+- Efter ordkriget med Ungern: ”Kristersson går i Orbáns fälla” - DN
 - Åklagare: Ingen förundersökning efter inlägg om ”odjur” på X - SVT Nyheter
-- Misstänkt farligt föremål i Katrineholm - GP
 - Polisen erkänner brister i Mohameds försvinnande: “Borde ha fått tolk” - DN
-- Expert: Det är hetaste frågan i kyrkovalet - DN
+- Farligt föremål i Katrineholm bedöms vara skarpt - DN
+- Knivhögg frun framför barnet – man i Boden döms till 11 års fängelse - SVT Nyheter
 - Trafikkaos och förtvivlan på vägar från Gaza stad - Västerbottens-Kuriren
 - Flygvapnets väg till Nato-operationen i Polen - Försvarsmakten
-- Talibanerna förbjuder böcker av kvinnor - SVT Nyheter
 - Regeringen deltar vid FN:s generalförsamlings öppnande i New York - Regeringen.se
+- Hot mot Gotlandsfärja - Expressen
 - Trafikverket häver kontrakt i Västlänken - Järnvägar.nu
-- JPMorgan: Wall Street balanserar på slak lina - Dagens PS
-- Regeringen bjuder in till internationell konferens om ny kärnkraft - Regeringen.se
 - Affärsvärlden slopar köprådet för Profilgruppen efter dubbla avhopp - Affärsvärlden
-- Apples nya Iphone 17 skapar stora köer vid Peking-butik - Placera.se
+- Viaplay: Ett play på marginalen - Affärsvärlden
+- Regeringen bjuder in till internationell konferens om ny kärnkraft - Regeringen.se
+- Högt tryck på nya iPhone – ökar produktionen - Dagens industri
 - Tusentals blir utan Bank-id nästa år – har för gamla telefoner - Nyteknik
 
 ## World News
 
+- DXC Launches Global AI Center of Competence to Accelerate Enterprise AI Adoption - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Portugisiska handelshögskolor på global ranking - The Portugal News
+- S&P Global Declares Fourth Quarter Dividend - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- The Upcoming 8th CIIE: Countdown to Global Opportunities and Collaboration - PR Newswire
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- News of the Worlds reportrar kan få nya jobb - Journalisten
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Undersökning: Vd:ar håller fast vid hållbarhet – trots global motreaktion - Aktuell Hållbarhet
-- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- World Athletics introduces gene test for female category - BBC
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas | Mediemyndigheten - Via TT
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Philip Morris International Increases Dividend by 8.9% to Annualized Rate of $5.88 per Share - Placera.se
-- 🌏 Global ojämlikhet minskar faktiskt - Warp News
 - Garmin celebrates global innovators and collaborations at 2025 Garmin Health Summit - Placera.se
 - Diebold Nixdorf Receives Credit Rating Upgrade from S&P Global Ratings - Placera.se
 - Kelyniam Global, Inc. Receives FDA Clearance for Innovative Fusion™ BCP-PEEK Implant - Placera.se
+- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 
 ## Technology
 
@@ -73,26 +73,26 @@ _Updated: 2025-09-19 20:46_
 
 ## Business
 
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
-- Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- Gold Surges Past $3,650 on Fed Cuts and Central Bank Demand - Placera.se
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Faciliteten för återhämtning och resiliens - European Commission
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
-- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- BURKE & HERBERT FINANCIAL SERVICES CORP. ENHANCES COMMERCIAL BANKING AND DEPOSIT GROWTH TEAMS - Placera.se
+- BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
+- Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Tribe Property Technologies Appoints Scott Ullrich as New Chief Financial Officer - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
+- Realty Income to Present at Bank of America's 2025 Global Real Estate Conference - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 
 ## Health
 
@@ -101,21 +101,21 @@ _Updated: 2025-09-19 20:46_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -128,7 +128,6 @@ _Updated: 2025-09-19 20:46_
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
@@ -139,26 +138,27 @@ _Updated: 2025-09-19 20:46_
 - Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Arbetande förman | Jobb | ATL - Land Lantbruk
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Nyheter - LRF - Lantbrukarnas Riksförbund
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Här är världens största jordbruk - ATL
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
