@@ -1,48 +1,48 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-19 17:40_
+_Updated: 2025-09-19 18:44_
 
 ## Top Stories
 
-- Ryskt militärflyg uppges kränka estniskt luftrum - DN
+- Ryska militärflyg uppges ha kränkt estniskt luftrum - DN
+- EU: Dags att stänga av rysk kran - SVT Nyheter
+- Efter ordkriget med Ungern: ”Kristersson går i Orbáns fälla” - DN
 - Fullt utvecklad brand på hotell i Göteborg - Västerbottens-Kuriren
-- 20-åring dog: klämdes under lyftoperation - Entreprenad
-- Anna-Lena Laurén: Ryssarna vill ha fred – men stödjer också kriget - DN
-- Efter cyberattacken: Var extra uppmärksam - Linköpings kommun
-- Tonåring häktas efter knivdåd på skola - Västerbottens-Kuriren
+- MP: Så vill vi lösa energibehovet - SvD
+- Personalen på Gröna Lund larmar om matsnusket: ”Hade aldrig ätit här” - DN
 - Åklagare: Ingen förundersökning efter inlägg om ”odjur” på X - SVT Nyheter
+- Farligt föremål i Katrineholm bedöms vara skarpt - DN
 - Expert: Det är hetaste frågan i kyrkovalet - DN
 - Mjölkkor får behålla betesrätten tills vidare - Västerbottens-Kuriren
-- Klippte hål i underbyxor – skyller på nissebus - GP
+- Trafikkaos och förtvivlan på vägar från Gaza stad - DN
+- Anna-Lena Laurén: Ryssarna vill ha fred – men stödjer också kriget - DN
 - Talibanerna förbjuder böcker av kvinnor - SVT Nyheter
-- Trafikkaos och förtvivlan på vägar från Gaza stad - Västerbottens-Kuriren
 - Flygvapnets väg till Nato-operationen i Polen - Försvarsmakten
-- Alternativt Nobelpris till fyllesnack och pastasås - Västerbottens-Kuriren
+- Trafikverket häver kontrakt i Västlänken - Järnvägar.nu
 - ”En månad försvann mer än halva lönen” - SvD
-- Nya EU-sanktioner mot Ryssland - Aftonbladet
+- JPMorgan: Wall Street balanserar på slak lina - Dagens PS
 - Viaplay: Ett play på marginalen - Affärsvärlden
-- Klart: Finska staten börsnoterar Posti i Helsingfors - Börsvärlden
 - Apples nya Iphone 17 skapar stora köer vid Peking-butik - Placera.se
 - Tusentals blir utan Bank-id nästa år – har för gamla telefoner - Nyteknik
 
 ## World News
 
+- DXC Launches Global AI Center of Competence to Accelerate Enterprise AI Adoption - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Portugisiska handelshögskolor på global ranking - The Portugal News
+- S&P Global Declares Fourth Quarter Dividend - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - The Upcoming 8th CIIE: Countdown to Global Opportunities and Collaboration - PR Newswire
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Undersökning: Vd:ar håller fast vid hållbarhet – trots global motreaktion - Aktuell Hållbarhet
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- UNI Global Union ansluter sig till uppmaning att förbjuda handel med olagliga israeliska bosättningar - UNI Global Union
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - Philip Morris International Increases Dividend by 8.9% to Annualized Rate of $5.88 per Share - Placera.se
 - Garmin celebrates global innovators and collaborations at 2025 Garmin Health Summit - Placera.se
 - Diebold Nixdorf Receives Credit Rating Upgrade from S&P Global Ratings - Placera.se
@@ -101,8 +101,8 @@ _Updated: 2025-09-19 17:40_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
@@ -110,55 +110,55 @@ _Updated: 2025-09-19 17:40_
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Arbetande förman | Jobb | ATL - Land Lantbruk
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Få unga lockas av lantbruk: ”Många tror att man föds till bonde” - DN
-- Tio jordbruksaktier för depån - Placera.se
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
-- Globalt jordbruk förorenar mer vatten än industrin - Land Lantbruk
+- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
+- Tio jordbruksaktier för depån - Placera.se
