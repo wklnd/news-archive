@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-19 08:48_
+_Updated: 2025-09-19 09:37_
 
 ## Top Stories
 
-- Gammal bomb hittad i Berlin – tusentals evakuerade - DN
+- Hamas: Inga fler ur gisslan kommer att friges - SvD
 - Regeringen missar alla klimatmål – sämre än väntat - GP
-- Zelenskyj: Framgångsrik motoffensiv – har tagit tillbaka 160 kvadratkilometer - Omni
+- L-ministerns vädjan: Gör det inte svårare! - SvD
 - Gävleborg först ut med att bolagisera hälsocentraler - Omni
 - De flydde från Gaza stad - 8 Sidor
-- Efter Kirkmordet: Våg av avskedanden i USA - Västerbottens-Kuriren
-- Chefsekonomen: Självmål av Svantesson - GP
+- Efter Kirkmordet: Våg av avskedanden i USA - DN
+- Skarpa kritiken inifrån Socialdemokraterna: ”Missat flera chanser” - DN
+- Chefsekonomen: Självmål av Svantesson - Aftonbladet
 - Arbetsmiljö och politikens roll i kyrkan frågor i kyrkovalet - Dagens Arena
-- Tonåringarna Elita och Adam går mot trenden – väntar tvillingar - DN
 - Misstänkt för mord på 63-årig kvinna – erbjöd sig att döda barn - DN
-- Högsta utsläppen på 23 år efter sommarens bränder - Västerbottens-Kuriren
-- Expert efter Trumps presskonferens med Starmer: ”Bisarra frågor” - DN
-- Macron: Erkännande av Palestina isolerar Hamas - GP
-- Flygvapnets väg till Nato-operationen i Polen - Försvarsmakten
-- Anställda rasar: ”Vidrig affär för de allra flesta” - SvD
+- Ryskt sändebud: Danmark hotar oss med Bornholm - Västerbottens-Kuriren
+- Tusentals evakueras i Berlin – gammal bomb hittad - Folkbladet
+- Årets IgNobelpris: Zebramålade kor, teflondiet och flygfylleri hos fladdermöss - DN
+- Högsta utsläppen på 23 år efter sommarens bränder - GP
+- ”En månad försvann mer än halva lönen” - SvD
 - Rotavdraget sänks vid årsskiftet - SVT Nyheter
-- Så påverkas Region Gävleborg av cyberangreppet mot Miljödata - Region Gävleborg
-- Tokyobörsen backar efter japanskt räntebesked - Aftonbladet
-- Din katt gör det om och om igen — nu kan forskare ha hittat förklaringen till det mystiska beteendet - Illustrerad Vetenskap
+- Bank-id slutar att fungera – på vissa telefoner - Expressen
+- Martin Blomgren: Flat Capital kommer dansa efter Klarna-aktiens pipa - EFN
 - Jasplan vände efter varning - Aftonbladet
+- Vit dvärg slukar rester av Pluto-liknande planet - Västerbottens-Kuriren
 
 ## World News
 
 - MDA SPACE RECEIVES 2025 GLOBAL SATELLITE BUSINESS OF THE YEAR AWARD AT WORLD SPACE BUSINESS WEEK - Placera.se
 - Portugisiska handelshögskolor på global ranking - The Portugal News
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- DXC Launches Global AI Center of Competence to Accelerate Enterprise AI Adoption - Placera.se
+- Adyen, Partner of LVMH, Redefines Payments in the Global Luxury Sector - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - The Upcoming 8th CIIE: Countdown to Global Opportunities and Collaboration - PR Newswire
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Toronto becomes the stage for global bartending excellence as host for the 2025 Diageo World Class Global Final - Placera.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Undersökning: Vd:ar håller fast vid hållbarhet – trots global motreaktion - Aktuell Hållbarhet
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - UNI Global Union ansluter sig till uppmaning att förbjuda handel med olagliga israeliska bosättningar - UNI Global Union
-- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
+- DXC Launches Global AI Center of Competence to Accelerate Enterprise AI Adoption - Placera.se
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Kelyniam Global, Inc. Receives FDA Clearance for Innovative Fusion™ BCP-PEEK Implant - Placera.se
+- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 
 ## Technology
 
@@ -73,26 +73,26 @@ _Updated: 2025-09-19 08:48_
 
 ## Business
 
-- PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
+- Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Faciliteten för återhämtning och resiliens - European Commission
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
-- Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Tribe Property Technologies Appoints Scott Ullrich as New Chief Financial Officer - Placera.se
+- BURKE & HERBERT FINANCIAL SERVICES CORP. ENHANCES COMMERCIAL BANKING AND DEPOSIT GROWTH TEAMS - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
-- Realty Income to Present at Bank of America's 2025 Global Real Estate Conference - Placera.se
+- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
+- Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
 
 ## Health
 
