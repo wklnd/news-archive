@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-19 15:03_
+_Updated: 2025-09-19 15:43_
 
 ## Top Stories
 
+- Personalen på Gröna Lund larmar om matsnusket: ”Hade aldrig ätit här” - DN
 - 20-åring dog: klämdes under lyftoperation - Entreprenad
 - 100-tal ryssar tagna till fånga i motoffensiv - Expressen
 - Anna-Lena Laurén: Ryssarna vill ha fred – men stödjer också kriget - DN
-- Nya utgångspunkter för totalförsvaret - Försvarsmakten
 - Drabbad av dataläcka – detta kan du göra - Vi Lärare
-- Spricka i Tidöpartierna om vindkraften - DN
-- Klippte hål i underbyxor – skyller på nissebus - Västerbottens-Kuriren
-- Expert: Det är hetaste frågan i kyrkovalet - DN
-- ”Helt fantastisk” upptäckt om vanlig huvudvärkstablett - Marcus Oscarsson
-- Beredskapsveckan i Norrbotten – tillsammans stärker vi vår trygghet - Länsstyrelsen
 - Trafikkaos och förtvivlan på vägar från Gaza stad - DN
+- Klippte hål i underbyxor – skyller på nissebus - Västerbottens-Kuriren
+- Beredskapsveckan – Du är en del av Sveriges totalförsvar - Länsstyrelsen
+- Expert: Det är hetaste frågan i kyrkovalet - DN
+- Arbetsmiljö och politikens roll i kyrkan frågor i kyrkovalet - Dagens Arena
 - Talibanerna förbjuder böcker av kvinnor - SVT Nyheter
-- Alternativt Nobelpris till slät cacio e pepe - SvD
 - Flygvapnets väg till Nato-operationen i Polen - Försvarsmakten
+- Italienska forskare löser mysteriet med grynig pastasås – här är årets Ig Nobel - Nyteknik
+- Trump: Antifa är en terrororganisation - Hufvudstadsbladet
+- BESKEDET: 160 varslas på Gruvön: ”Väntat att någonting skulle hända” - Säffle-Tidningen
 - Elisabeth Svantesson om skattesänkningarna: ”Handlar om frihet” - DN
-- Xi Jinping och Trump i Tiktoksamtal i dag - Folkbladet
 - Tusentals blir utan Bank-id nästa år - Sydsvenskan
 - Handelskriget: Hel bransch hotad av konkurs - Dagens PS
 - Apples nya Iphone 17 skapar stora köer vid Peking-butik - Placera.se
@@ -50,11 +50,11 @@ _Updated: 2025-09-19 15:03_
 
 ## Technology
 
-- FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
+- FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - AI-revolutionen släpps lös: Genombrott, storföretagens satsningar & etiska stormar (slutet av juli 2025) - ts2.tech
 - Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
 - AI i juli 2025: Superintelligens, talangkrig och samhälleliga förändringar / Uppdaterad: 2025, 3 juli, 00:01 CET - ts2.tech
@@ -67,9 +67,9 @@ _Updated: 2025-09-19 15:03_
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Attachments Terranet to exhibit at Auto.AI Europe 2025 - Placera.se
 
 ## Business
 
