@@ -1,47 +1,47 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-19 21:38_
+_Updated: 2025-09-19 22:39_
 
 ## Top Stories
 
 - Ryska militärflyg uppges ha kränkt estniskt luftrum - DN
-- Efter cyberattacken: Var extra uppmärksam - Linköpings kommun
 - 20-åring dog: Klämdes under lyftoperation - Entreprenad
-- EU: Dags att stänga av rysk kran - SVT Nyheter
 - Brittisk extremhöger använder Kirks död - expo.se
-- Efter ordkriget med Ungern: ”Kristersson går i Orbáns fälla” - DN
+- Misstänkt hot på Gotlandsfärjan – personal förhörs - SVT Nyheter
+- EU: Stäng av den ryska gasen - GP
+- Ungdomsprästen om kyrkovalet: ”Många unga som tar det på stort allvar” - ETC.se
 - Åklagare: Ingen förundersökning efter inlägg om ”odjur” på X - SVT Nyheter
-- Polisen erkänner brister i Mohameds försvinnande: “Borde ha fått tolk” - DN
-- Farligt föremål i Katrineholm bedöms vara skarpt - DN
+- 19 september 17.32, Farligt föremål, misstänkt, Katrineholm - polisen.se
+- Jakthundar låg i sin egen avföring – utländsk jägare åtalas - DN
 - Knivhögg frun framför barnet – man i Boden döms till 11 års fängelse - SVT Nyheter
-- Trafikkaos och förtvivlan på vägar från Gaza stad - Västerbottens-Kuriren
+- Trafikkaos och förtvivlan på vägar från Gaza stad - GP
 - Flygvapnets väg till Nato-operationen i Polen - Försvarsmakten
 - Regeringen deltar vid FN:s generalförsamlings öppnande i New York - Regeringen.se
-- Hot mot Gotlandsfärja - Expressen
+- Fullt utvecklad brand på hotell i Göteborg - DN
+- Uppdaterad information gällande cyberangreppet mot leverantör till Håbo kommun - Håbo
 - Trafikverket häver kontrakt i Västlänken - Järnvägar.nu
 - Affärsvärlden slopar köprådet för Profilgruppen efter dubbla avhopp - Affärsvärlden
 - Viaplay: Ett play på marginalen - Affärsvärlden
-- Regeringen bjuder in till internationell konferens om ny kärnkraft - Regeringen.se
-- Högt tryck på nya iPhone – ökar produktionen - Dagens industri
 - Tusentals blir utan Bank-id nästa år – har för gamla telefoner - Nyteknik
+- Högt tryck på nya iPhone – ökar produktionen - Dagens industri
 
 ## World News
 
-- DXC Launches Global AI Center of Competence to Accelerate Enterprise AI Adoption - Placera.se
+- Adyen, Partner of LVMH, Redefines Payments in the Global Luxury Sector - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Portugisiska handelshögskolor på global ranking - The Portugal News
-- S&P Global Declares Fourth Quarter Dividend - Placera.se
+- DXC Launches Global AI Center of Competence to Accelerate Enterprise AI Adoption - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
+- The Upcoming 8th CIIE: Countdown to Global Opportunities and Collaboration - PR Newswire
+- S&P Global Declares Fourth Quarter Dividend - Placera.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- News of the Worlds reportrar kan få nya jobb - Journalisten
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Philip Morris International Increases Dividend by 8.9% to Annualized Rate of $5.88 per Share - Placera.se
 - Garmin celebrates global innovators and collaborations at 2025 Garmin Health Summit - Placera.se
 - Diebold Nixdorf Receives Credit Rating Upgrade from S&P Global Ratings - Placera.se
@@ -57,19 +57,19 @@ _Updated: 2025-09-19 21:38_
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - AI-revolutionen släpps lös: Genombrott, storföretagens satsningar & etiska stormar (slutet av juli 2025) - ts2.tech
 - Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
-- AI i juli 2025: Superintelligens, talangkrig och samhälleliga förändringar / Uppdaterad: 2025, 3 juli, 00:01 CET - ts2.tech
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Qualcomm’s Board of Directors Appoints Jeremy (Zico) Kolter to Board - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 
 ## Business
 
@@ -77,22 +77,22 @@ _Updated: 2025-09-19 21:38_
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Tribe Property Technologies Appoints Scott Ullrich as New Chief Financial Officer - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Realty Income to Present at Bank of America's 2025 Global Real Estate Conference - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 
 ## Health
 
