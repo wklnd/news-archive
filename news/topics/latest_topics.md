@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-19 10:45_
+_Updated: 2025-09-19 11:40_
 
 ## Top Stories
 
-- Godsvagn läcker farligt ämne – en person drabbad - SVT Nyheter
+- LIVE: En person förd till sjukhus efter läckage av farligt gods - NT
 - Nya utgångspunkter för totalförsvaret - Försvarsmakten
 - Hamas: Inga fler ur gisslan kommer att friges - SvD
-- Regeringen missar alla klimatmål – sämre än väntat - Västerbottens-Kuriren
+- Efter Kirkmordet: Våg av avskedanden i USA - Västerbottens-Kuriren
 - L-ministerns vädjan: Gör det inte svårare! - SvD
-- Gammal bomb hittad i Berlin – tusentals evakuerade - DN
+- Här är kartan som avslöjar krigets rörelser – Ukraina pressas vid fronten - DN
+- Regeringen missar alla klimatmål – sämre än väntat - Västerbottens-Kuriren
 - Skarpa kritiken inifrån Socialdemokraterna: ”Missat flera chanser” - DN
 - Arbetsmiljö och politikens roll i kyrkan frågor i kyrkovalet - Dagens Arena
-- Gävleborg först ut med att bolagisera hälsocentraler - Omni
-- INSÄNDARE: Utan Inlandsbanan ett svagt och sårbart land - Ljusdals-Posten
-- Ryskt sändebud: Danmark hotar oss med Bornholm - Västerbottens-Kuriren
-- Stora utsläpp från bränder - 8 Sidor
-- Israel: Thunbergs konvoj är ett ”jihad-initiativ” – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Flygvapnets väg till Nato-operationen i Polen - Försvarsmakten
+- Beredskapsveckan i Norrbotten – tillsammans stärker vi vår trygghet - Länsstyrelsen
+- Tusentals i Berlin evakuerades - SVT Nyheter
+- Trafikkaos och förtvivlan på vägar från Gaza stad - Västerbottens-Kuriren
+- Ryskt sändebud: Danmark hotar oss med Bornholm - GP
+- Alternativt Nobelpris till fyllesnack och pastasås - GP
 - Elisabeth Svantesson om skattesänkningarna: ”Handlar om frihet” - DN
-- ”Siemiatkowski ute efter att bygga en dynasti” - SvD
+- Locket på från storägarna – efter Siemiatkowskis drag - EFN
 - ”En månad försvann mer än halva lönen” - SvD
-- Bank-id slutar att fungera – på vissa telefoner - Expressen
+- Då slutar Bank-id fungera – helt - Expressen
 - Här är operatörerna som erbjuder lägst pris på Iphone 17 - Expressen
 - Jasplan vände efter varning - GP
 
@@ -52,13 +52,15 @@ _Updated: 2025-09-19 10:45_
 
 - FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
 - Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
-- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI-revolutionen släpps lös: Genombrott, storföretagens satsningar & etiska stormar (slutet av juli 2025) - ts2.tech
-- The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- AI i juli 2025: Superintelligens, talangkrig och samhälleliga förändringar / Uppdaterad: 2025, 3 juli, 00:01 CET - ts2.tech
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
@@ -66,10 +68,8 @@ _Updated: 2025-09-19 10:45_
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
-- ZenaTech to Highlight Progress on Drone as a Service and US Defense Business at Multiple Upcoming Investor Conferences - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
-- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 
 ## Business
 
@@ -107,15 +107,15 @@ _Updated: 2025-09-19 10:45_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -130,35 +130,35 @@ _Updated: 2025-09-19 10:45_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Arbetande förman | Jobb | ATL - Land Lantbruk
 - OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Här är världens största jordbruk - ATL
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- USA tvingar ut EU på banan - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Maskinförare | Jobb | ATL - Land Lantbruk
+- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
