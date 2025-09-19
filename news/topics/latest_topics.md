@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-19 16:42_
+_Updated: 2025-09-19 17:40_
 
 ## Top Stories
 
-- Tre ryska militärplan har kränkt Estlands luftrum - Omni
-- Ingen förundersökning mot Karlsson (M) - Västerbottens-Kuriren
+- Ryskt militärflyg uppges kränka estniskt luftrum - DN
+- Fullt utvecklad brand på hotell i Göteborg - Västerbottens-Kuriren
 - 20-åring dog: klämdes under lyftoperation - Entreprenad
 - Anna-Lena Laurén: Ryssarna vill ha fred – men stödjer också kriget - DN
-- 100-tal ryssar tagna till fånga i motoffensiv - Expressen
-- Drabbad av dataläcka – detta kan du göra - Vi Lärare
-- Klippte hål i underbyxor – skyller på nissebus - DN
-- Beredskapsveckan – Du är en del av Sveriges totalförsvar - Länsstyrelsen
-- Expert: Det är hetaste frågan i kyrkovalet - GP
-- Arbetsmiljö och politikens roll i kyrkan frågor i kyrkovalet - Dagens Arena
-- Trafikkaos och förtvivlan på vägar från Gaza stad - DN
+- Efter cyberattacken: Var extra uppmärksam - Linköpings kommun
+- Tonåring häktas efter knivdåd på skola - Västerbottens-Kuriren
+- Åklagare: Ingen förundersökning efter inlägg om ”odjur” på X - SVT Nyheter
+- Expert: Det är hetaste frågan i kyrkovalet - DN
+- Mjölkkor får behålla betesrätten tills vidare - Västerbottens-Kuriren
+- Klippte hål i underbyxor – skyller på nissebus - GP
 - Talibanerna förbjuder böcker av kvinnor - SVT Nyheter
+- Trafikkaos och förtvivlan på vägar från Gaza stad - Västerbottens-Kuriren
 - Flygvapnets väg till Nato-operationen i Polen - Försvarsmakten
-- Regeringen deltar vid FN:s generalförsamlings öppnande i New York - Regeringen.se
+- Alternativt Nobelpris till fyllesnack och pastasås - Västerbottens-Kuriren
 - ”En månad försvann mer än halva lönen” - SvD
+- Nya EU-sanktioner mot Ryssland - Aftonbladet
 - Viaplay: Ett play på marginalen - Affärsvärlden
-- Xi Jinping och Trump i Tiktoksamtal i dag - SvD
-- Finland börsnoterar posten - Aftonbladet
+- Klart: Finska staten börsnoterar Posti i Helsingfors - Börsvärlden
 - Apples nya Iphone 17 skapar stora köer vid Peking-butik - Placera.se
-- Bank-id slutar fungera för vissa: ”Skandalöst!” - SvD
+- Tusentals blir utan Bank-id nästa år – har för gamla telefoner - Nyteknik
 
 ## World News
 
@@ -38,12 +38,12 @@ _Updated: 2025-09-19 16:42_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Undersökning: Vd:ar håller fast vid hållbarhet – trots global motreaktion - Aktuell Hållbarhet
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - UNI Global Union ansluter sig till uppmaning att förbjuda handel med olagliga israeliska bosättningar - UNI Global Union
-- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- World Athletics introduces gene test for female category - BBC
+- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - Philip Morris International Increases Dividend by 8.9% to Annualized Rate of $5.88 per Share - Placera.se
-- 🌏 Global ojämlikhet minskar faktiskt - Warp News
 - Garmin celebrates global innovators and collaborations at 2025 Garmin Health Summit - Placera.se
 - Diebold Nixdorf Receives Credit Rating Upgrade from S&P Global Ratings - Placera.se
 - Kelyniam Global, Inc. Receives FDA Clearance for Innovative Fusion™ BCP-PEEK Implant - Placera.se
@@ -73,7 +73,7 @@ _Updated: 2025-09-19 16:42_
 
 ## Business
 
-- PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
+- BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
 - Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
@@ -81,18 +81,18 @@ _Updated: 2025-09-19 16:42_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Faciliteten för återhämtning och resiliens - European Commission
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Gold Surges Past $3,650 on Fed Cuts and Central Bank Demand - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
+- BURKE & HERBERT FINANCIAL SERVICES CORP. ENHANCES COMMERCIAL BANKING AND DEPOSIT GROWTH TEAMS - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Realty Income to Present at Bank of America's 2025 Global Real Estate Conference - Placera.se
 - Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 
 ## Health
 
@@ -122,23 +122,23 @@ _Updated: 2025-09-19 16:42_
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
