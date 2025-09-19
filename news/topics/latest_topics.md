@@ -1,49 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-19 18:44_
+_Updated: 2025-09-19 19:39_
 
 ## Top Stories
 
 - Ryska militärflyg uppges ha kränkt estniskt luftrum - DN
-- EU: Dags att stänga av rysk kran - SVT Nyheter
 - Efter ordkriget med Ungern: ”Kristersson går i Orbáns fälla” - DN
-- Fullt utvecklad brand på hotell i Göteborg - Västerbottens-Kuriren
-- MP: Så vill vi lösa energibehovet - SvD
-- Personalen på Gröna Lund larmar om matsnusket: ”Hade aldrig ätit här” - DN
+- Brand på hotell i Göteborg – gäster fick utrymmas - SVT Nyheter
+- EU: Dags att stänga av den ryska kranen - Västerbottens-Kuriren
+- Misstänkt farligt föremål i Katrineholm - Omni
+- Du är en del av Sveriges totalförsvar - Trollhättans Stad
 - Åklagare: Ingen förundersökning efter inlägg om ”odjur” på X - SVT Nyheter
-- Farligt föremål i Katrineholm bedöms vara skarpt - DN
+- Polisen erkänner brister i Mohameds försvinnande: “Borde ha fått tolk” - DN
 - Expert: Det är hetaste frågan i kyrkovalet - DN
 - Mjölkkor får behålla betesrätten tills vidare - Västerbottens-Kuriren
 - Trafikkaos och förtvivlan på vägar från Gaza stad - DN
-- Anna-Lena Laurén: Ryssarna vill ha fred – men stödjer också kriget - DN
-- Talibanerna förbjuder böcker av kvinnor - SVT Nyheter
 - Flygvapnets väg till Nato-operationen i Polen - Försvarsmakten
+- Årets IgNobelpris: Zebramålade kor, teflondiet och flygfylleri hos fladdermöss - DN
+- Regeringen deltar vid FN:s generalförsamlings öppnande i New York - Regeringen.se
 - Trafikverket häver kontrakt i Västlänken - Järnvägar.nu
-- ”En månad försvann mer än halva lönen” - SvD
 - JPMorgan: Wall Street balanserar på slak lina - Dagens PS
-- Viaplay: Ett play på marginalen - Affärsvärlden
+- Sandviks personaluppgifter finns på Darknet - Metal Supply
+- Affärsvärlden slopar köprådet för Profilgruppen efter dubbla avhopp - Affärsvärlden
 - Apples nya Iphone 17 skapar stora köer vid Peking-butik - Placera.se
 - Tusentals blir utan Bank-id nästa år – har för gamla telefoner - Nyteknik
 
 ## World News
 
-- DXC Launches Global AI Center of Competence to Accelerate Enterprise AI Adoption - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Portugisiska handelshögskolor på global ranking - The Portugal News
-- S&P Global Declares Fourth Quarter Dividend - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- The Upcoming 8th CIIE: Countdown to Global Opportunities and Collaboration - PR Newswire
-- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
-- News of the Worlds reportrar kan få nya jobb - Journalisten
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- The Upcoming 8th CIIE: Countdown to Global Opportunities and Collaboration - PR Newswire
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Undersökning: Vd:ar håller fast vid hållbarhet – trots global motreaktion - Aktuell Hållbarhet
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- World Athletics introduces gene test for female category - BBC
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas | Mediemyndigheten - Via TT
 - Philip Morris International Increases Dividend by 8.9% to Annualized Rate of $5.88 per Share - Placera.se
+- 🌏 Global ojämlikhet minskar faktiskt - Warp News
 - Garmin celebrates global innovators and collaborations at 2025 Garmin Health Summit - Placera.se
 - Diebold Nixdorf Receives Credit Rating Upgrade from S&P Global Ratings - Placera.se
 - Kelyniam Global, Inc. Receives FDA Clearance for Innovative Fusion™ BCP-PEEK Implant - Placera.se
@@ -73,26 +73,26 @@ _Updated: 2025-09-19 18:44_
 
 ## Business
 
-- BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
-- Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
-- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
+- Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
+- Gold Surges Past $3,650 on Fed Cuts and Central Bank Demand - Placera.se
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Faciliteten för återhämtning och resiliens - European Commission
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Gold Surges Past $3,650 on Fed Cuts and Central Bank Demand - Placera.se
+- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
+- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - BURKE & HERBERT FINANCIAL SERVICES CORP. ENHANCES COMMERCIAL BANKING AND DEPOSIT GROWTH TEAMS - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
@@ -101,64 +101,64 @@ _Updated: 2025-09-19 18:44_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Fakulteten för hälsa och samhälle - Malmö universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
+- Tema: AI inom medicin och hälsa - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Johan von Schreeb - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Studie om mikroplast fälld för fusk - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
+- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Arbetande förman | Jobb | ATL - Land Lantbruk
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Nyheter - LRF - Lantbrukarnas Riksförbund
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- Här är världens största jordbruk - ATL
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
-- Tio jordbruksaktier för depån - Placera.se
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
+- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
