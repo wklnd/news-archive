@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-19 07:48_
+_Updated: 2025-09-19 08:52_
 
+- Security will be tight for the Charlie Kirk memorial at State Farm Stadium - Axios
 - Trump poised to fire US attorney for resisting effort to charge NY AG Letitia James: Sources - ABC News
-- Mississippi police await autopsy results for Black student found hanging from tree at Delta State - PBS
 - Washington dad accused of killing 3 daughters is found after manhunt - NBC News
-- Erika Kirk Takes a Leadership Role in Turning Point USA - The New York Times
-- Shooter who killed 3 Pa. officers was accused of stalking ex, officials say - The Washington Post
+- Mississippi police await autopsy results for Black student found hanging from tree at Delta State - PBS
 - Chris Mason: Delight and relief in government after Trump state visit - BBC
-- Trump floats pulling TV licenses after Kimmel suspension - Axios
+- Shooter who killed 3 Pa. officers was accused of stalking ex, officials say - The Washington Post
+- Kamala Harris Lambastes Media For “Capitulating” To Trump In Light Of Jimmy Kimmel Suspension: “Attacking Critics & Using Fear As A Weapon” - Deadline
 - Threatened by Trump, Canada tries to make up, team up with Mexico - The Washington Post
 - Texas A&M President to Step Down After Controversy Over ‘Gender Ideology’ - The New York Times
-- Harris' score-settling, elbow-throwing, bridge-burning memoir - Politico
+- Trump admin’s basis for deporting Guatemalan kids ‘crumbled like a house of cards,’ judge rules - Politico
 - Magnitude 7.8 quake shakes Russia’s Far East region, prompts tsunami alert - Al Jazeera
 - US vetoes UN Security Council resolution demanding immediate Gaza ceasefire and hostage release - AP News
 - 'Cataclysmic' situation in Gaza City, UN official says, as Israeli tanks advance - BBC
-- Trump tells Britain to ‘call out the military’ to control its borders - The Guardian
-- Intel says Arc GPUs will live on after Nvidia deal - The Verge
-- Ticketmaster, Live Nation Sued by FTC Over Ticket Resales - Bloomberg.com
+- Starmer prepares to recognize Palestinian state before UN summit - politico.eu
 - Why mortgage rates are actually going up after the Fed cut interest rates - MarketWatch
-- Harvard Business School graduate arrested on charges he cheated fellow alums out of over $4 million - AP News
-- Watch the Meta Ray-Ban Display glasses fail in Mark Zuckerberg's painful live demo - Mashable
+- Intel says Arc GPUs will live on after Nvidia deal - The Verge
+- Fed cut sets stage for Asia’s next easing wave amid trade strains - CNBC
+- FedEx rallies after topping profit expectations, updating on business split; UPS also higher (FDX:NYSE) - Seeking Alpha
+- ‘I don’t know what happened’: AI glasses fail during Zuckerberg’s Meta Connect keynote - KRON4
 - First iPhone 17 pre-orders now arriving to customers - 9to5Mac
