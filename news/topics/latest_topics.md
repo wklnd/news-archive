@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-20 17:37_
+_Updated: 2025-09-20 18:40_
 
 ## Top Stories
 
-- Ambulanspersonal i Nordanstig dödad – man gick till attack - SVT Nyheter
+- Ambulansvårdare dödad: ”Ett gallskrik” - SvD
+- Förlust mot Djurgården - Malmö FF
+- Dublin flygplats öppnat efter misstänkt föremål - DN
 - Zelenskyj: En massiv attack - GP
-- GUIDE: Det vill partierna i kyrkovalet - UNT
-- FN-chefen: Saknas politisk vilja att stoppa svälten – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Polisen utreder grovt våldsbrott i Nordanstig - GP
-- Han svälter för att stoppa AI-jätten - SvD
+- FN-toppen om svälten i Gaza: ”Förfärligt” - Västerbottens-Kuriren
+- Succéschema lyfte läsningen: ”Läser 18 böcker” - DN
 - Storbrand i Hells Angels klubblokal i Gunnilse - GP
 - Misstänkt farligt föremål i trapphus i Malmö - DN
 - Missar alla klimatmål – ”Gigantisk utmaning” - Västerbottens-Kuriren
 - Internt fokus under beredskapsveckan - Alekuriren
+- Fyra ryssar döda efter drönarattack från Ukraina - GP
+- ”Europas försvarsförmåga mot drönare mycket begränsad” - DN
 - Ryssland förnekar kränkning av Estlands luftrum - UNT
-- Viktigast i veckan: Nytt sanktionspaket mot Ryssland – EU ökar pressen på Israel - Europaportalen
-- Kvinna gripen för misshandel - Expressen
-- Venezuela vädjar till FN efter USA:s angrepp - DN
+- Cyberattack riktad mot flera europeiska flygplatser - Hufvudstadsbladet
 - Tiktok-effekten: Priset på trenddrycken rusar - Aftonbladet
 - Barnfamiljer vinnare i regeringens budget - SvD
-- Forskare varnar: AI kan skapa en ny våg av utbrändhet - Dagens PS
-- Pixel 10 Pro hade mått bra av lite galnare design - Expressen
-- Tusentals blir utan Bank-id nästa år – har för gamla telefoner - NyTeknik
+- Uppdaterad information gällande cyberangreppet mot leverantör till Håbo kommun - risk för ökade bedrägeriförsök - Håbo
+- Viktigast i veckan: Nytt sanktionspaket mot Ryssland – EU ökar pressen på Israel - Europaportalen
+- Tusentals blir utan Bank-id nästa år – har för gamla telefoner - Nyteknik
 - Recension: “Borderlands 4” – en explosiv fest fylld med fart och freaks - MovieZine
 
 ## World News
 
-- Adyen, Partner of LVMH, Redefines Payments in the Global Luxury Sector - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- S&P Global Declares Fourth Quarter Dividend - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Svenska bolagen kan slå till: ”Vore nästan tjänstefel” - EFN
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- New Secretary General appointed - Olof Palme International Center
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- World Athletics introduces gene test for female category - BBC
 - Philip Morris International Increases Dividend by 8.9% to Annualized Rate of $5.88 per Share - Placera.se
 - Garmin celebrates global innovators and collaborations at 2025 Garmin Health Summit - Placera.se
-- DXC Launches Global AI Center of Competence to Accelerate Enterprise AI Adoption - Placera.se
+- BlueMatrix Expands Global Reach and Product Breadth Through Acquisition of RMS - Placera.se
 - Diebold Nixdorf Receives Credit Rating Upgrade from S&P Global Ratings - Placera.se
 
 ## Technology
@@ -104,18 +104,18 @@ _Updated: 2025-09-20 17:37_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Osher centrum för integrativ hälsa - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-09-20 17:37_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - SLU gets important UN mission on antibiotic resistance - Mynewsdesk
+- Odlingsförutsättningar i Östafrikanska jordar kartläggs med satellit - Mynewsdesk
 - Tio jordbruksaktier för depån - Placera.se
-- Nu släpps konferensprogrammet till Sveriges största mötesplats för hela livsmedelsbranschen! - Mynewsdesk
