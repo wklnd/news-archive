@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-20 15:38_
+_Updated: 2025-09-20 16:38_
 
 ## Top Stories
 
+- Ambulanspersonal i Nordanstig dödad – man gick till attack - SVT Nyheter
 - Minst 31 personer dödade i Gaza senaste dygnet – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Polisen utreder grovt våldsbrott i Nordanstig - DN
-- Estlands utrikesminister: ”Putin försöker koka oss som en groda” - Hufvudstadsbladet
-- Mannens sista vilja – gav nio miljoner till SD - Expressen
-- Handgranat hittades i trapphus i Malmö - Aftonbladet
-- Cyberattack mot flygplatser – flera plan inställda - GP
-- Misstänkt bomb vid Hells Angels i Göteborg efter nattens storbrand - SVT Nyheter
-- Missar alla klimatmål – ”Gigantisk utmaning” - GP
-- Förvirrad? UNT reder ut frågetecknen kring kyrkovalet - UNT
-- 20 september 14.44, Trafikkontroll, Västernorrlands län - polisen.se
+- Dublin flygplats öppnat efter misstänkt föremål - DN
+- Ryssland förnekar kränkning av Estlands luftrum - Västerbottens-Kuriren
+- Fyra ryssar döda efter drönarattack från Ukraina - GP
+- Petter Nilsson (SD) – dags att vi bryter med vänsterkyrkan - Norran
+- Misstänkt farligt föremål i trapphus i Malmö - DN
+- Storbrand i Hells Angels klubblokal i Gunnilse - GP
+- Regeringen missar alla klimatmål – sämre än väntat - Corren
+- Internt fokus under beredskapsveckan - Alekuriren
+- Cyberattack riktad mot flera europeiska flygplatser - Hufvudstadsbladet
 - Större attacker mot Ukraina – räcker luftvärnet? - Västerbottens-Kuriren
-- Trump och Zelenskyj ska träffas i New York - Expressen
+- Viktigast i veckan: Nytt sanktionspaket mot Ryssland – EU ökar pressen på Israel - Europaportalen
 - Venezuela vädjar till FN efter USA:s angrepp - DN
-- SAS-plan tvingades nödlanda i Budapest - Omni
 - Pixel 10 Pro hade mått bra av lite galnare design - Expressen
 - Barnfamiljer vinnare i regeringens budget - SvD
 - Tiktok-effekten: Priset på trenddrycken rusar - Aftonbladet
 - Utbränd av botar – ”prompttrötthet” sprider sig på arbetsplatserna - Computer Sweden
-- Han har följt 7 000 par i över ett årtionde och lade märke till en detalj som kan förutsäga om en parrelation kommer att bli långvarig - Illustrerad Vetenskap
 - Tusentals blir utan Bank-id nästa år – har för gamla telefoner - NyTeknik
+- Recension: “Borderlands 4” – en explosiv fest fylld med fart och freaks - MovieZine
 
 ## World News
 
@@ -59,6 +59,7 @@ _Updated: 2025-09-20 15:38_
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - AI i juli 2025: Superintelligens, talangkrig och samhälleliga förändringar / Uppdaterad: 2025, 3 juli, 00:01 CET - ts2.tech
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
@@ -69,30 +70,29 @@ _Updated: 2025-09-20 15:38_
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Aiforia forms strategic alliance with Dedalus to integrate AI into pathology diagnostic workflows - Placera.se
 
 ## Business
 
-- PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Tribe Property Technologies Appoints Scott Ullrich as New Chief Financial Officer - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Realty Income to Present at Bank of America's 2025 Global Real Estate Conference - Placera.se
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Golub Capital BDC, Inc. Prices Public Offering of $250 Million 7.050% Notes Due 2028 - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- BURKE & HERBERT FINANCIAL SERVICES CORP. ENHANCES COMMERCIAL BANKING AND DEPOSIT GROWTH TEAMS - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 
 ## Health
 
@@ -125,16 +125,16 @@ _Updated: 2025-09-20 15:38_
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
@@ -143,6 +143,7 @@ _Updated: 2025-09-20 15:38_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
@@ -150,15 +151,14 @@ _Updated: 2025-09-20 15:38_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
+- Odlingsförutsättningar i Östafrikanska jordar kartläggs med satellit - Mynewsdesk
+- Tio jordbruksaktier för depån - Placera.se
