@@ -1,49 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-20 10:43_
+_Updated: 2025-09-20 11:37_
 
 ## Top Stories
 
-- Gravida Onlyfans-parets glädje över miljonvinsten i TV4 - Expressen
-- Storbrand i Hells Angels klubblokal - Aftonbladet
-- Estlands utrikesminister: ”Putin försöker koka oss som en groda” - Hufvudstadsbladet
-- Ryssland trycker ner Moldavien – med trollfabriker, hot och röstköp - DN
-- Zacs tuffa kamp – för att bli av med adhd-diagnos - SvD
-- Så röstar Uppsalaungdomarna i kyrkovalet - UNT
-- Bryr sig Malmer Stenergard inte om fakta? - Dagens Arena
-- Ska du gå och rösta i kyrkovalet – håll koll på dessa frågor - SVT Nyheter
-- Så många i Finnveden är drabbade i den stora dataläckan - Värnamo Nyheter
-- Beredskapsveckan – Du är en del av Sveriges totalförsvar - Länsstyrelsen
-- Barn i Gaza vill dö: ”Där kommer jag ha mat” - Västerbottens-Kuriren
-- Cyberattack mot europeiska flygplatser – störningar i flygtrafiken - SVT Nyheter
+- Storbrand i Hells Angels klubblokal i Göteborg - Aftonbladet
 - Zelenskyj: En massiv attack - GP
-- Venezuela vädjar till FN efter USA:s angrepp - DN
+- Cyberattack mot europeiska flygplatser – störningar i flygtrafiken - SVT Nyheter
+- Estlands utrikesminister: ”Putin försöker koka oss som en groda” - Hufvudstadsbladet
+- Svenska skattesystemet sågas: ”rena lapptäcket” - SvD
+- FN-chefen: Saknas politisk vilja att stoppa svälten – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Sänkt skatt på husvagnar - Regeringen.se
+- Bryr sig Malmer Stenergard inte om fakta? - Dagens Arena
+- Förvirrad? UNT reder ut frågetecknen kring kyrkovalet - UNT
+- Ska du gå och rösta i kyrkovalet – håll koll på dessa frågor - SVT Nyheter
+- Ryssland trycker ner Moldavien – med trollfabriker, hot och röstköp - DN
+- Inbjudan från António Costa till Europeiska rådets medlemmar inför det informella mötet i Köpenhamn den 1 oktober 2025 - consilium.europa.eu
+- Venezuela vädjar till FN efter USA:s angrepp - GP
+- EU-kommissionär: ”Europas förmåga att försvara sig mot drönare begränsad” - Hufvudstadsbladet
 - Barnfamiljer vinnare i regeringens budget - SvD
-- Svensk rikedom sticker i ögonen och en farfar som ger bort miljarder - Dagens PS
-- Trafikverket häver kontrakt i Västlänken - Järnvägar.nu
-- Regeringen bjuder in till internationell konferens om ny kärnkraft - Regeringen.se
+- Miljardmaskin skickas till Norge – Sverige fastnar i sega upphandlingar - DN
+- Uppdaterad information gällande cyberangreppet mot leverantör till Håbo kommun - risk för ökade bedrägeriförsök - Håbo
+- EU-ordförande Ursula von der Leyen: Stäng av den ryska gasen - Vasabladet
 - Tusentals blir utan Bank-id nästa år – har för gamla telefoner - nyteknik
 - Recension: “Borderlands 4” – en explosiv fest fylld med fart och freaks - MovieZine
 
 ## World News
 
-- Adyen, Partner of LVMH, Redefines Payments in the Global Luxury Sector - Placera.se
+- Så driver svenska spelbolag tillväxt – innovation, kapital och global expansion - Börskollen
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Portugisiska handelshögskolor på global ranking - The Portugal News
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Svenska bolagen kan slå till: ”Vore nästan tjänstefel” - EFN
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- New Secretary General appointed - Olof Palme International Center
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- World Athletics introduces gene test for female category - BBC
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
-- Så driver svenska spelbolag tillväxt – innovation, kapital och global expansion - Börskollen
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Philip Morris International Increases Dividend by 8.9% to Annualized Rate of $5.88 per Share - Placera.se
 - Garmin celebrates global innovators and collaborations at 2025 Garmin Health Summit - Placera.se
 - Diebold Nixdorf Receives Credit Rating Upgrade from S&P Global Ratings - Placera.se
@@ -68,30 +68,30 @@ _Updated: 2025-09-20 10:43_
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - ZenaTech to Highlight Progress on Drone as a Service and US Defense Business at Multiple Upcoming Investor Conferences - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 
 ## Business
 
+- Golub Capital BDC, Inc. Prices Public Offering of $250 Million 7.050% Notes Due 2028 - Placera.se
 - BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
-- Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Realty Income to Present at Bank of America's 2025 Global Real Estate Conference - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Golub Capital BDC, Inc. Prices Public Offering of $250 Million 7.050% Notes Due 2028 - Placera.se
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
+- Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 
 ## Health
@@ -145,20 +145,20 @@ _Updated: 2025-09-20 10:43_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Här är världens största jordbruk - ATL
-- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- USA tvingar ut EU på banan - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Maskinförare | Jobb | ATL - Land Lantbruk
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
