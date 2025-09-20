@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-20 01:48_
+_Updated: 2025-09-20 04:08_
 
-- Trump imposes $100K fee on H-1B visas in new immigration action - CNN
-- Ted Cruz compares FCC Chair Carr to Mafia boss in Jimmy Kimmel warnings - CNBC
-- Trump says US attorney should be fired after not prosecuting NY AG James - Politico
+- Trump signs proclamation imposing $100K annual fee for H-1B visa applications - AP News
+- Trump Administration: Live Updates and Latest News - The New York Times
+- US attorney resigns amid pressure from Trump after sources say he refused to charge NY AG Letitia James - ABC News - Breaking News, Latest News and Videos
+- Tear gas used on protesters at Chicago-area ICE site as immigration crackdown escalates - NBC News
+- Trump says US struck another ‘drug smuggling vessel’, killing three - Al Jazeera
+- Man who tried to assassinate Kavanaugh in 2022 wanted to kill 3 justices, prosecutors say - CBS News
 - Senate rejects both parties' bills to avoid a shutdown, leaving next steps uncertain - NBC News
-- Estonia seeks Nato consultation after Russian jets violate airspace - BBC
-- Death of Black Mississippi student ruled a suicide after autopsy - The Guardian
-- Florida federal judge tosses Trump’s $15B defamation lawsuit against The New York Times - AP News
-- Texas A&M president resigns after instructor’s firing over gender teachings - The Washington Post
 - US appeals court orders deportation of Atlanta journalist detained by Ice - The Guardian
-- House, Senate pass 'National Day of Remembrance for Charlie Kirk' ahead of memorial service - ABC News - Breaking News, Latest News and Videos
-- Under Trump Pressure, EU Proposes Going After Chinese Companies Buying Russia Oil - The Wall Street Journal
+- Colin Kaepernick Shows True Character After College Student Found Dead On Campus - Yahoo Sports
+- Charlie Kirk Resolution Splits House Democrats - The Wall Street Journal
+- Russian jets enter Estonia's airspace in latest test for NATO - Reuters
+- Notre Dame Cathedral's iconic towers reopen 6 years after devastating fire - CBS News
 - IDF warns will use ‘unprecedented force’ in Gaza City as 480,000 thought to have fled - The Times of Israel
-- France officially reopens Notre Dame's cathedral towers 6 years after devastating fire - ABC News - Breaking News, Latest News and Videos
-- Here’s how this weekend’s solar eclipse in Virgo can mess with your body - New York Post
-- Intel, Nvidia deal may have implications for Astera Labs, Morgan Stanley says (ALAB:NASDAQ) - Seeking Alpha
-- JPMorgan Chase hires two senior bankers to bolster consumer and retail investment team - Yahoo Finance
-- Tesla Stock Gets Upgrade. Why This Analyst Says Its an AI Buy. - Barron's
-- Supreme Court Doesn’t Immediately Act on Trump Bid to Fire Cook - Bloomberg.com
+- UN Security Council votes against lifting Iran ‘snapback’ sanctions ahead of deadline - AP News
+- DFW, Love Field flights paused due to telephone issue, FAA says - Dallas News
+- In latest anti-wind action, Trump administration moves to revoke SouthCoast Wind permit - WBUR
+- Asia’s Intel Suppliers Soar on Hopes of Nvidia Investment Boost - Bloomberg.com
+- It’s not just Sam Altman warning about an AI bubble. Now Mark Zuckerberg says a ‘collapse’ is ‘definitely a possibility’ - Fortune
 - Meta CTO explains why the smart glasses demos failed at Meta Connect — and it wasn't the Wi-Fi - TechCrunch
-- Microsoft is making Xbox consoles even more expensive in the US - Engadget
+- Microsoft hikes Xbox prices in US once again as tariff challenges persist - Reuters
