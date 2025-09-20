@@ -1,17 +1,17 @@
 # Top News Headlines
 
-_Updated: 2025-09-20 04:08_
+_Updated: 2025-09-20 05:16_
 
 - Trump signs proclamation imposing $100K annual fee for H-1B visa applications - AP News
 - Trump Administration: Live Updates and Latest News - The New York Times
 - US attorney resigns amid pressure from Trump after sources say he refused to charge NY AG Letitia James - ABC News - Breaking News, Latest News and Videos
-- Tear gas used on protesters at Chicago-area ICE site as immigration crackdown escalates - NBC News
-- Trump says US struck another ‘drug smuggling vessel’, killing three - Al Jazeera
+- Congressional candidate thrown to ground during protest outside ICE facility - The Washington Post
+- ABC10 station struck by gunfire Friday afternoon - ABC10
 - Man who tried to assassinate Kavanaugh in 2022 wanted to kill 3 justices, prosecutors say - CBS News
-- Senate rejects both parties' bills to avoid a shutdown, leaving next steps uncertain - NBC News
-- US appeals court orders deportation of Atlanta journalist detained by Ice - The Guardian
+- Trump says US struck another ‘drug smuggling vessel’, killing three - Al Jazeera
+- Trump again asks supreme court to end protections for Venezuelans in US - The Guardian
 - Colin Kaepernick Shows True Character After College Student Found Dead On Campus - Yahoo Sports
-- Charlie Kirk Resolution Splits House Democrats - The Wall Street Journal
+- Senate rejects both parties' bills to avoid a shutdown, leaving next steps uncertain - NBC News
 - Russian jets enter Estonia's airspace in latest test for NATO - Reuters
 - Notre Dame Cathedral's iconic towers reopen 6 years after devastating fire - CBS News
 - IDF warns will use ‘unprecedented force’ in Gaza City as 480,000 thought to have fled - The Times of Israel
