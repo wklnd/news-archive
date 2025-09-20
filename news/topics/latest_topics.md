@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-20 16:38_
+_Updated: 2025-09-20 17:37_
 
 ## Top Stories
 
 - Ambulanspersonal i Nordanstig dödad – man gick till attack - SVT Nyheter
-- Minst 31 personer dödade i Gaza senaste dygnet – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Dublin flygplats öppnat efter misstänkt föremål - DN
-- Ryssland förnekar kränkning av Estlands luftrum - Västerbottens-Kuriren
-- Fyra ryssar döda efter drönarattack från Ukraina - GP
-- Petter Nilsson (SD) – dags att vi bryter med vänsterkyrkan - Norran
-- Misstänkt farligt föremål i trapphus i Malmö - DN
+- Zelenskyj: En massiv attack - GP
+- GUIDE: Det vill partierna i kyrkovalet - UNT
+- FN-chefen: Saknas politisk vilja att stoppa svälten – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Polisen utreder grovt våldsbrott i Nordanstig - GP
+- Han svälter för att stoppa AI-jätten - SvD
 - Storbrand i Hells Angels klubblokal i Gunnilse - GP
-- Regeringen missar alla klimatmål – sämre än väntat - Corren
+- Misstänkt farligt föremål i trapphus i Malmö - DN
+- Missar alla klimatmål – ”Gigantisk utmaning” - Västerbottens-Kuriren
 - Internt fokus under beredskapsveckan - Alekuriren
-- Cyberattack riktad mot flera europeiska flygplatser - Hufvudstadsbladet
-- Större attacker mot Ukraina – räcker luftvärnet? - Västerbottens-Kuriren
+- Ryssland förnekar kränkning av Estlands luftrum - UNT
 - Viktigast i veckan: Nytt sanktionspaket mot Ryssland – EU ökar pressen på Israel - Europaportalen
+- Kvinna gripen för misshandel - Expressen
 - Venezuela vädjar till FN efter USA:s angrepp - DN
-- Pixel 10 Pro hade mått bra av lite galnare design - Expressen
-- Barnfamiljer vinnare i regeringens budget - SvD
 - Tiktok-effekten: Priset på trenddrycken rusar - Aftonbladet
-- Utbränd av botar – ”prompttrötthet” sprider sig på arbetsplatserna - Computer Sweden
+- Barnfamiljer vinnare i regeringens budget - SvD
+- Forskare varnar: AI kan skapa en ny våg av utbrändhet - Dagens PS
+- Pixel 10 Pro hade mått bra av lite galnare design - Expressen
 - Tusentals blir utan Bank-id nästa år – har för gamla telefoner - NyTeknik
 - Recension: “Borderlands 4” – en explosiv fest fylld med fart och freaks - MovieZine
 
@@ -36,7 +36,7 @@ _Updated: 2025-09-20 16:38_
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
@@ -60,7 +60,6 @@ _Updated: 2025-09-20 16:38_
 - AI i juli 2025: Superintelligens, talangkrig och samhälleliga förändringar / Uppdaterad: 2025, 3 juli, 00:01 CET - ts2.tech
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
-- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
@@ -68,30 +67,31 @@ _Updated: 2025-09-20 16:38_
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
 
-- Golub Capital BDC, Inc. Prices Public Offering of $250 Million 7.050% Notes Due 2028 - Placera.se
-- Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
+- Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- BURKE & HERBERT FINANCIAL SERVICES CORP. ENHANCES COMMERCIAL BANKING AND DEPOSIT GROWTH TEAMS - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Realty Income to Present at Bank of America's 2025 Global Real Estate Conference - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Golub Capital BDC, Inc. Prices Public Offering of $250 Million 7.050% Notes Due 2028 - Placera.se
 - Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
+- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 
 ## Health
@@ -143,22 +143,22 @@ _Updated: 2025-09-20 16:38_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - SLU gets important UN mission on antibiotic resistance - Mynewsdesk
-- Odlingsförutsättningar i Östafrikanska jordar kartläggs med satellit - Mynewsdesk
 - Tio jordbruksaktier för depån - Placera.se
+- Nu släpps konferensprogrammet till Sveriges största mötesplats för hela livsmedelsbranschen! - Mynewsdesk
