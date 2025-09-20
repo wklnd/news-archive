@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-20 18:48_
+_Updated: 2025-09-20 19:48_
 
-- New US H-1B visa fee could disrupt Indian IT operations, says industry body - Reuters
-- Charlie Kirk memorial in Arizona expected to draw 100,000, with Trump and Vance headlining - Fox News
-- U.S. attorney resigns under pressure from Trump to charge N.Y. AG Letitia James - NPR
-- Pentagon Introduces New Restrictions on Reporter Access - The New York Times
-- 3 killed in 3rd US strike on alleged drug boat in international waters, Trump says - ABC News - Breaking News, Latest News and Videos
-- Suspect Arrested In ABC Sacramento Affiliate Station Shooting – Update - Deadline
-- Congressional candidate thrown to ground, protesters tear gassed in clashes at Broadview ICE facility - Chicago Sun-Times
-- Trump administration asks Supreme Court to strip legal protections from Venezuelan migrants - Politico
-- Two-year-old boy drowns after heavy rain unleashes mudslides in southern California - The Guardian
+- How to watch the Charlie Kirk memorial service - ABC News - Breaking News, Latest News and Videos
+- Big Tech companies, foreign governments scramble after Trump slaps $100,000 annual fee on H-1B visas - CNBC
+- Defense Secretary Hegseth requires new 'pledge' for reporters at the Pentagon - NPR
+- After diplomatic blitz on Ukraine and Gaza, Trump moves to passenger seat - Reuters
+- Schumer, Jeffries demand meeting with Trump amid shutdown showdown - Politico
+- Trump and China, in Vague Statements, Suggest TikTok Deal Could Move Ahead - The New York Times
+- Trump says U.S. military fatally struck another alleged drug-smuggling boat - NPR
+- Could 2028 be the 'YouTube election’? - Politico
+- Ted Cruz says FCC chair sounded like a mafia boss in threats against ABC over Jimmy Kimmel - Dallas News
+- Fact check: The fake photos, false claims and wild conspiracy theories swirling around the murder of Charlie Kirk - CNN
 - Airports across Europe face disruptions due to cyberattack - dw.com
-- Poland scrambles aircraft after Russia launches strikes on Ukraine - Reuters
+- A Polish Soldier, an Unusual Radar Dot and Then NATO Jets - The New York Times
+- Russian jets over Estonia ignored signals from NATO pilots, officials say - AP News
 - Ukraine says three killed in 'massive' Russian aerial attack - BBC
-- IDF warns will use ‘unprecedented force’ in Gaza City as 480,000 thought to have fled - The Times of Israel
 - Club nation: Why Costco, Sam's Club and BJ's are opening new stores and gaining members - CNBC
 - Gen Z fell in love with high-yield cash savings. The Fed just crashed the party. - MarketWatch
+- Trump administration moves to revoke permit for Massachusetts offshore wind project - AP News
 - In Fashion, What’s Old May Finally Really Become New - The Wall Street Journal
-- In latest anti-wind action, Trump administration moves to revoke SouthCoast Wind permit - WBUR
-- Meta’s Smart Glasses Might Make You Smarter. They’ll Certainly Make You More Awkward - WIRED
+- People are complaining that Apple’s new iPhone 17 scratches easily — but these Wall Street analysts say it won’t hurt sales - MarketWatch
 - Microsoft hikes Xbox prices in US once again as tariff challenges persist - Reuters
-- Apple's standard iPhone 17 "no longer means missing out," say reviewers; Air 'a nod to the future' - Seeking Alpha
