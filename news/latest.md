@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-20 23:48_
+_Updated: 2025-09-21 00:48_
 
+- Big Tech companies, foreign governments scramble after Trump slaps $100,000 fee on H-1B visas - CNBC
 - Armed man arrested at stadium ahead of Charlie Kirk memorial in Arizona: Officials - ABC News - Breaking News, Latest News and Videos
 - Schumer, Jeffries demand meeting with Trump amid shutdown showdown - Politico
-- Big Tech companies, foreign governments scramble after Trump slaps $100,000 fee on H-1B visas - CNBC
 - Trump says prosecutor fired after gaining "UNUSUALLY STRONG" Democratic support - Axios
 - White House Outlines a TikTok Deal With a U.S. Board - The New York Times
-- California defies Trump, shields schools and clinics from ICE - Politico
+- California bans most law enforcement officers from wearing masks during operations - AP News
 - Could 2028 be the 'YouTube election’? - Politico
-- Conservatives are talking about ‘unbelievably dangerous’ precedent being set by FCC chair - Fortune
 - Suspect Arrested In ABC Sacramento Affiliate Station Shooting – Update - Deadline
-- Trump says U.S. military fatally struck another alleged drug-smuggling boat - NPR
+- Pentagon Demands Journalists Allow Government to Vet Information - Bloomberg.com
 - Gaza hospital director receives bodies of brother and other relatives while on duty - CNN
-- Cyberattack causes disruptions at major European airports - Euronews.com
+- Airports across Europe face disruptions due to cyberattack - dw.com
 - Poland scrambles aircraft after Russia launches strikes on Ukraine - Reuters
-- Dutch anti-immigration protest turns violent - politico.eu
-- Equipment Outage Disrupts More Than 1,000 Flights at Dallas Airports - The New York Times
-- Prediction: Nvidia's Stake in Intel Could Be the Catalyst for Its Next Trillion-Dollar Milestone - The Motley Fool
+- Violence erupts at right-wing demonstration in the Netherlands ahead of election - CBS News
+- Air Traffic Returns to Normal at Dallas-Area Airports After Outage, FAA Says - The Wall Street Journal
+- Nissan Beats Tesla To $25K EV Musk Said Would Never Happen - Carscoops
+- Analysts revamp Nvidia stock outlook on its investment in Intel - TheStreet
 - The Fed’s cut was 'more hawkish than anticipated,' Moody’s Zandi says — and warns it won’t be enough - Fortune
-- The US government is taking a second stab at breaking up Google - The Verge
+- Meta’s Smart Glasses Might Make You Smarter. They’ll Certainly Make You More Awkward - WIRED
+- 7 must-know OnePlus 15 rumors: the good, the bad and the great - PhoneArena
 - Samsung has updated these Galaxy devices to Android 16 – here’s the schedule - 9to5Google
-- OnePlus 15: Tipster reveals hands-on experience and contradicts earlier design leaks - Notebookcheck
