@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-20 23:37_
+_Updated: 2025-09-21 00:38_
 
 ## Top Stories
 
-- Ambulansvårdare dödad – man anhållen - SvD
-- Man död efter skjutning i Hagsätra - DN
-- 20 september 18.15, Skottlossning, Norrköping - polisen.se
-- Beväpnad man gripen vid minnesstund för Charlie Kirk - GP
+- Ambulanspersonal i Nordanstig dödad – man gick till attack - SVT Nyheter
+- Man ihjälskjuten i Hagsätra – polisjakt efter gärningsman - Aftonbladet
+- Upplopp vid högerextrem demonstration - GP
 - Ryska kränkningar ger information – och sprider rädsla - DN
-- Unga röstar för ungdomar i kyrkovalet - DN
+- Efter beskedet: ”USA inte längre en demokrati” - SvD
+- Barn i Gaza vill dö: ”Där kommer jag ha mat” - GP
+- Man död efter larm om skottlossning i Norrköping - DN
+- Så röstar Uppsalaungdomarna i kyrkovalet - UNT
 - 700 kyrkomusiker saknas – en valfråga för (POSK) - Sveriges Radio
-- Storbrand i Hells Angels klubblokal i Gunnilse - GP
 - Jag trodde inte ministrar skulle kalla judar ”odjur” - Aftonbladet
-- Sverige vädjar till EU – vill ha sänkta klimatkrav på skogen - DN
-- Minst 31 personer dödade i Gaza senaste dygnet – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Trump hotar Venezuela: ”Ofattbara konsekvenser” - Västerbottens-Kuriren
-- Större attacker mot Ukraina – räcker luftvärnet? - GP
-- Mordförsök på Medborgarplatsen - DN
-- Vita husets krav för Tiktok: Amerikansk dominans - DN
+- Brittiskt erkännande av Palestina - GP
+- Här är kartan som avslöjar krigets rörelser – Ukraina pressas vid fronten - DN
+- Cyberattack riktad mot flera europeiska flygplatser - Hufvudstadsbladet
+- Vita husets krav: USA styr Tiktok - SvD
 - Motala kommun ökar säkerheten efter omfattande cyberattack - Corren
+- Viktigast i veckan: Nytt sanktionspaket mot Ryssland – EU ökar pressen på Israel - Europaportalen
 - Tiktok-effekten: Priset på trenddrycken rusar - Dagens industri
-- Barnfamiljer vinnare i regeringens budget - SvD
 - Tusentals blir utan Bank-id nästa år – har för gamla telefoner - Nyteknik
 - Recension: “Borderlands 4” – en explosiv fest fylld med fart och freaks - MovieZine
 
@@ -45,31 +45,31 @@ _Updated: 2025-09-20 23:37_
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - World Athletics introduces gene test for female category - BBC
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Philip Morris International Increases Dividend by 8.9% to Annualized Rate of $5.88 per Share - Placera.se
+- Chinese Manufacturers Are Peeling Off the Veneer of Western Luxury - Morocco World News
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 
 ## Technology
 
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
+- Lansering av Au Lac Artificial Intelligence Alliance för att utveckla strategisk teknologi - Vietnam.vn
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
 - AI-revolutionen släpps lös: Genombrott, storföretagens satsningar & etiska stormar (slutet av juli 2025) - ts2.tech
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
-- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
-- Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
-- Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
-- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 
 ## Business
 
@@ -120,23 +120,23 @@ _Updated: 2025-09-20 23:37_
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Studie om mikroplast fälld för fusk - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
@@ -161,4 +161,4 @@ _Updated: 2025-09-20 23:37_
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - USA tvingar ut EU på banan - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
