@@ -1,85 +1,85 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-20 21:37_
+_Updated: 2025-09-20 22:37_
 
 ## Top Stories
 
-- Ambulanspersonal i Nordanstig dödad – man gick till attack - SVT Nyheter
-- En person skjuten i Hagsätra - Aftonbladet
+- Ambulansvårdare dödad – man anhållen - SvD
+- Man död efter skjutning i Hagsätra - DN
+- Pentagons nya pressregler oroar journalister - DN
+- 20 september 18.15, Skottlossning, misstänkt, Norrköping - polisen.se
 - Våldsam högerextrem demonstration - SvD
-- Unga röstar för ungdomar i kyrkovalet - DN
-- En död i israelisk attack i Libanon - GP
-- Barn i Gaza vill dö: ”Där kommer jag ha mat” - GP
-- Misstänkt grovt våldsbrott i Norrköping – en person skadad - SVT Nyheter
-- Succéschema lyfte läsningen: ”Läser 18 böcker” - DN
+- Beväpnad man gripen vid minnesstund för Charlie Kirk - GP
+- Så röstar Uppsalaungdomarna i kyrkovalet - UNT
 - 20 september 14.44, Trafikkontroll, Västernorrlands län - polisen.se
-- Storbrand i Hells Angels klubblokal i Gunnilse - GP
+- 700 kyrkomusiker saknas – en valfråga för (POSK) - Sveriges Radio
+- Succéschema lyfte läsningen: ”Läser 18 böcker” - DN
+- Minst 31 personer dödade i Gaza senaste dygnet – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Trump hotar Venezuela: ”Ofattbara konsekvenser” - Västerbottens-Kuriren
-- Ryssland förnekar kränkning av Estlands luftrum - UNT
 - Större attacker mot Ukraina – räcker luftvärnet? - GP
-- Cyberattack riktad mot flera europeiska flygplatser - Hufvudstadsbladet
+- Ryssland förnekar kränkning av Estlands luftrum - UNT
 - Vita husets krav: USA styr Tiktok - SvD
 - Därför kan elräkningen höjas – trots sänkt skatt - DN
 - Motala kommun ökar säkerheten efter omfattande cyberattack - Corren
-- Tiktok-effekten: Priset på trenddrycken rusar - Aftonbladet
+- Tiktok-effekten: Priset på trenddrycken rusar - Dagens industri
 - Tusentals blir utan Bank-id nästa år – har för gamla telefoner - Nyteknik
 - Recension: “Borderlands 4” – en explosiv fest fylld med fart och freaks - MovieZine
 
 ## World News
 
-- S&P Global Declares Fourth Quarter Dividend - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Medlemmar i GSF:s styrgrupp i möte med Hamas - Omni
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Thunberg lämnar GSF:s styrelse – på vägen till Gaza - Omni
-- Adyen, Partner of LVMH, Redefines Payments in the Global Luxury Sector - Placera.se
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
-- Philip Morris International Increases Dividend by 8.9% to Annualized Rate of $5.88 per Share - Placera.se
-- Garmin celebrates global innovators and collaborations at 2025 Garmin Health Summit - Placera.se
-- DXC Launches Global AI Center of Competence to Accelerate Enterprise AI Adoption - Placera.se
-- Diebold Nixdorf Receives Credit Rating Upgrade from S&P Global Ratings - Placera.se
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Techarenan News goes English (Partly at least) - Techarenan.news
+- New Secretary General appointed - Olof Palme International Center
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- World Athletics introduces gene test for female category - BBC
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Chinese Manufacturers Are Peeling Off the Veneer of Western Luxury - Morocco World News
+- Philip Morris International Increases Dividend by 8.9% to Annualized Rate of $5.88 per Share - Placera.se
 
 ## Technology
 
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
-- Lansering av Au Lac Artificial Intelligence Alliance för att utveckla strategisk teknologi - Vietnam.vn
-- Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
+- AI-revolutionen släpps lös: Genombrott, storföretagens satsningar & etiska stormar (slutet av juli 2025) - ts2.tech
+- AI i juli 2025: Superintelligens, talangkrig och samhälleliga förändringar / Uppdaterad: 2025, 3 juli, 00:01 CET - ts2.tech
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- 290 million for digitalisation of Swedish industry - Vinnova
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
+- Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
+- Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - Architect of AI-Powered Solutions Unlocks Emerging Opportunities in Business Efficiency - Placera.se
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
-- Lösningar för artificiell intelligens (AI) - SAS: Data and AI Solutions
-- New study: This is how Swedish media reports on AI - Techarenan.news
-- Amazon's SWOT Analysis: Stock Positioned for Growth Amid AI Initiatives - Markets.com
-- Cathie Wood on the first year of The Ark and Avanza Partnership - Avanzabloggen
-- Altair Global Survey Reveals Growing Impact of Digital Twin Technology in Banking, Financial Services, and Insurance Industries - Mynewsdesk
-- Nam Dinh använder programmet "Digital utbildning för folket" för att nå ut till unga människor - Vietnam.vn
-- Shadow AI: Companies struggle to control unsanctioned use of new tools - SiliconANGLE
-- Sam Altman: The extraordinary firing of an AI superstar - BBC
-- Artificial intelligence will not turn into a Frankenstein's monster | Alan Winfield - The Guardian
+- ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
+- Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 
 ## Business
 
+- Golub Capital BDC, Inc. Prices Public Offering of $250 Million 7.050% Notes Due 2028 - Placera.se
 - BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
 - PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- OXFORD COMMERCIAL FINANCE TRANSITIONS TOP LEADERSHIP TO SUPPORT CONTINUED BUSINESS GROWTH AND EXPANSION (PR Newswire) - Aktiellt
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -88,9 +88,9 @@ _Updated: 2025-09-20 21:37_
 - First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Realty Income to Present at Bank of America's 2025 Global Real Estate Conference - Placera.se
-- Golub Capital BDC, Inc. Prices Public Offering of $250 Million 7.050% Notes Due 2028 - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 
@@ -103,62 +103,62 @@ _Updated: 2025-09-20 21:37_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Arbetande förman | Jobb | ATL - Land Lantbruk
+- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
-- Odlingsförutsättningar i Östafrikanska jordar kartläggs med satellit - Mynewsdesk
-- Tio jordbruksaktier för depån - Placera.se
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- USA tvingar ut EU på banan - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
