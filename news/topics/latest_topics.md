@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-21 00:38_
+_Updated: 2025-09-21 01:37_
 
 ## Top Stories
 
-- Ambulanspersonal i Nordanstig dödad – man gick till attack - SVT Nyheter
-- Man ihjälskjuten i Hagsätra – polisjakt efter gärningsman - Aftonbladet
-- Upplopp vid högerextrem demonstration - GP
+- Ambulansvårdare dödad – man anhållen - SvD
+- En person skjuten utomhus i Hagsätra – förd till sjukhus - DN
+- Blodbadet i Gaza fortsätter – minst 87 dödade - GP
 - Ryska kränkningar ger information – och sprider rädsla - DN
-- Efter beskedet: ”USA inte längre en demokrati” - SvD
-- Barn i Gaza vill dö: ”Där kommer jag ha mat” - GP
-- Man död efter larm om skottlossning i Norrköping - DN
+- Upplopp vid högerextrem demonstration - GP
+- 20 september 18.15, Skottlossning, Norrköping - polisen.se
 - Så röstar Uppsalaungdomarna i kyrkovalet - UNT
 - 700 kyrkomusiker saknas – en valfråga för (POSK) - Sveriges Radio
-- Jag trodde inte ministrar skulle kalla judar ”odjur” - Aftonbladet
-- Trump hotar Venezuela: ”Ofattbara konsekvenser” - Västerbottens-Kuriren
-- Brittiskt erkännande av Palestina - GP
+- S kräver Pourmokhtaris avgång: ”Är hennes löfte" - DN
+- Avsätt utrikesminister Maria Malmer Stenergard – försvarar folkmord, attackerar demokratin - MittSkifte
+- Storbritannien väntas erkänna palestinsk stat - Västerbottens-Kuriren
+- Trump hotar Venezuela: ”Ofattbara konsekvenser” - GP
 - Här är kartan som avslöjar krigets rörelser – Ukraina pressas vid fronten - DN
-- Cyberattack riktad mot flera europeiska flygplatser - Hufvudstadsbladet
-- Vita husets krav: USA styr Tiktok - SvD
+- Man gripen vid platsen för Charlie Kirks minnesstund - DN
+- Tiktok-effekten: Priset på trenddrycken rusar - Aftonbladet
 - Motala kommun ökar säkerheten efter omfattande cyberattack - Corren
 - Viktigast i veckan: Nytt sanktionspaket mot Ryssland – EU ökar pressen på Israel - Europaportalen
-- Tiktok-effekten: Priset på trenddrycken rusar - Dagens industri
+- Här är badhuset alla Kirunabor väntar på: "Bara vi blir färdiga" - NSD
 - Tusentals blir utan Bank-id nästa år – har för gamla telefoner - Nyteknik
 - Recension: “Borderlands 4” – en explosiv fest fylld med fart och freaks - MovieZine
 
@@ -35,9 +35,9 @@ _Updated: 2025-09-21 00:38_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Techarenan News goes English (Partly at least) - Techarenan.news
 - Thunberg lämnar GSF:s styrelse – på vägen till Gaza - Omni
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - New Secretary General appointed - Olof Palme International Center
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
@@ -68,26 +68,26 @@ _Updated: 2025-09-21 00:38_
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
-- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 
 ## Business
 
-- Golub Capital BDC, Inc. Prices Public Offering of $250 Million 7.050% Notes Due 2028 - Placera.se
 - BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
+- Sambla Group rekryterar ny Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Realty Income to Present at Bank of America's 2025 Global Real Estate Conference - Placera.se
+- Golub Capital BDC, Inc. Prices Public Offering of $250 Million 7.050% Notes Due 2028 - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -124,41 +124,41 @@ _Updated: 2025-09-21 00:38_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk är regenerativt - greenpeace.org
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
-- USA tvingar ut EU på banan - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
+- Tio jordbruksaktier för depån - Placera.se
+- Nu släpps konferensprogrammet till Sveriges största mötesplats för hela livsmedelsbranschen! - Mynewsdesk
