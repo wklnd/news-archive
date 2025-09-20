@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-20 14:59_
+_Updated: 2025-09-20 15:38_
 
 ## Top Stories
 
-- Misstänkt bomb vid Hells Angels i Göteborg efter nattens storbrand - SVT Nyheter
+- Minst 31 personer dödade i Gaza senaste dygnet – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Polisen utreder grovt våldsbrott i Nordanstig - DN
 - Estlands utrikesminister: ”Putin försöker koka oss som en groda” - Hufvudstadsbladet
+- Mannens sista vilja – gav nio miljoner till SD - Expressen
+- Handgranat hittades i trapphus i Malmö - Aftonbladet
 - Cyberattack mot flygplatser – flera plan inställda - GP
-- Misstänkt föremål i Malmö bedöms ha varit skarpt - Aftonbladet
-- Tidigare polischefen Klas Friberg: ”Hur katten tog vi oss igenom 2015?” - GP
-- Svantessons rådgivare vill se ny skattepolitik - SvD
+- Misstänkt bomb vid Hells Angels i Göteborg efter nattens storbrand - SVT Nyheter
 - Missar alla klimatmål – ”Gigantisk utmaning” - GP
 - Förvirrad? UNT reder ut frågetecknen kring kyrkovalet - UNT
 - 20 september 14.44, Trafikkontroll, Västernorrlands län - polisen.se
-- Insändare: Rösta för skogens skull - NWT
-- Minst 31 personer dödade i Gaza senaste dygnet – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Större attacker mot Ukraina – räcker luftvärnet? - Västerbottens-Kuriren
-- Ryssland trycker ner Moldavien – med trollfabriker, hot och röstköp - DN
-- Venezuela vädjar till FN efter USA:s angrepp - GP
+- Trump och Zelenskyj ska träffas i New York - Expressen
+- Venezuela vädjar till FN efter USA:s angrepp - DN
+- SAS-plan tvingades nödlanda i Budapest - Omni
 - Pixel 10 Pro hade mått bra av lite galnare design - Expressen
 - Barnfamiljer vinnare i regeringens budget - SvD
-- EQT-miljardärens snusbolag utmanar Zyn - Affärsvärlden
 - Tiktok-effekten: Priset på trenddrycken rusar - Aftonbladet
+- Utbränd av botar – ”prompttrötthet” sprider sig på arbetsplatserna - Computer Sweden
 - Han har följt 7 000 par i över ett årtionde och lade märke till en detalj som kan förutsäga om en parrelation kommer att bli långvarig - Illustrerad Vetenskap
 - Tusentals blir utan Bank-id nästa år – har för gamla telefoner - NyTeknik
 
@@ -124,41 +124,41 @@ _Updated: 2025-09-20 14:59_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk är regenerativt - greenpeace.org
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
-- USA tvingar ut EU på banan - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Maskinförare | Jobb | ATL - Land Lantbruk
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
