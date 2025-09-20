@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-20 22:37_
+_Updated: 2025-09-20 23:37_
 
 ## Top Stories
 
 - Ambulansvårdare dödad – man anhållen - SvD
 - Man död efter skjutning i Hagsätra - DN
-- Pentagons nya pressregler oroar journalister - DN
-- 20 september 18.15, Skottlossning, misstänkt, Norrköping - polisen.se
-- Våldsam högerextrem demonstration - SvD
+- 20 september 18.15, Skottlossning, Norrköping - polisen.se
 - Beväpnad man gripen vid minnesstund för Charlie Kirk - GP
-- Så röstar Uppsalaungdomarna i kyrkovalet - UNT
-- 20 september 14.44, Trafikkontroll, Västernorrlands län - polisen.se
+- Ryska kränkningar ger information – och sprider rädsla - DN
+- Unga röstar för ungdomar i kyrkovalet - DN
 - 700 kyrkomusiker saknas – en valfråga för (POSK) - Sveriges Radio
-- Succéschema lyfte läsningen: ”Läser 18 böcker” - DN
+- Storbrand i Hells Angels klubblokal i Gunnilse - GP
+- Jag trodde inte ministrar skulle kalla judar ”odjur” - Aftonbladet
+- Sverige vädjar till EU – vill ha sänkta klimatkrav på skogen - DN
 - Minst 31 personer dödade i Gaza senaste dygnet – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Trump hotar Venezuela: ”Ofattbara konsekvenser” - Västerbottens-Kuriren
 - Större attacker mot Ukraina – räcker luftvärnet? - GP
-- Ryssland förnekar kränkning av Estlands luftrum - UNT
-- Vita husets krav: USA styr Tiktok - SvD
-- Därför kan elräkningen höjas – trots sänkt skatt - DN
+- Mordförsök på Medborgarplatsen - DN
+- Vita husets krav för Tiktok: Amerikansk dominans - DN
 - Motala kommun ökar säkerheten efter omfattande cyberattack - Corren
 - Tiktok-effekten: Priset på trenddrycken rusar - Dagens industri
+- Barnfamiljer vinnare i regeringens budget - SvD
 - Tusentals blir utan Bank-id nästa år – har för gamla telefoner - Nyteknik
 - Recension: “Borderlands 4” – en explosiv fest fylld med fart och freaks - MovieZine
 
@@ -35,9 +35,9 @@ _Updated: 2025-09-20 22:37_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - Thunberg lämnar GSF:s styrelse – på vägen till Gaza - Omni
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
-- Techarenan News goes English (Partly at least) - Techarenan.news
 - New Secretary General appointed - Olof Palme International Center
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
@@ -45,8 +45,8 @@ _Updated: 2025-09-20 22:37_
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - World Athletics introduces gene test for female category - BBC
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Chinese Manufacturers Are Peeling Off the Veneer of Western Luxury - Morocco World News
 - Philip Morris International Increases Dividend by 8.9% to Annualized Rate of $5.88 per Share - Placera.se
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 
 ## Technology
 
@@ -56,9 +56,9 @@ _Updated: 2025-09-20 22:37_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
 - AI-revolutionen släpps lös: Genombrott, storföretagens satsningar & etiska stormar (slutet av juli 2025) - ts2.tech
-- AI i juli 2025: Superintelligens, talangkrig och samhälleliga förändringar / Uppdaterad: 2025, 3 juli, 00:01 CET - ts2.tech
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
+- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
@@ -69,7 +69,7 @@ _Updated: 2025-09-20 22:37_
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
+- InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
 
 ## Business
 
