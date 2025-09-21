@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-21 10:41_
+_Updated: 2025-09-21 11:37_
 
 ## Top Stories
 
-- Ambulansvårdare dödad – man anhållen - SvD
-- Iran avbryter samarbete efter FN-omröstning - GP
-- Ingen trodde på idén – idag hyllas hotellet världen över - GP
+- Ambulanspersonal i Nordanstig dödad – man gick till attack - SVT Nyheter
+- ”Trumpismens Jackie Kennedy” tar över efter mördade maken Charlie Kirk - DN
 - Läkarkritik mot Socialstyrelsen - GP
-- Ryska kränkningar ger information – och sprider rädsla - DN
-- Många gripna efter upplopp i Haag - DN
-- S-kritik mot budget: Lite godis till många - Västerbottens-Kuriren
-- Man död efter larm om skottlossning i Norrköping - DN
 - Därför ska du rösta i kyrkovalet: "En plikt" - UNT
 - Ordet är fritt: Du är en del av Sveriges totalförsvar - Hallands Nyheter
-- Blodbadet i Gaza fortsätter – minst 87 dödade - UNT
+- Blodbadet i Gaza fortsätter – minst 87 dödade - GP
+- S-kritik mot budget: Lite godis till många - Västerbottens-Kuriren
+- Man död efter larm om skottlossning i Norrköping - DN
+- Man död efter skottlossning - Expressen
+- 20 september 14.44, Trafikkontroll, Västernorrlands län - polisen.se
+- Iran avbryter samarbete efter FN-omröstning - Västerbottens-Kuriren
 - Efter protesterna: Står Frankrike inför ett politiskt sammanbrott? - Yle
 - Venezuelas presidents Youtubekonto borta - DN
-- Tonårspojke skadad på fest – fem anhållna - Folkbladet
+- Många gripna efter upplopp i Haag - GP
+- Kronan upp 18 procent mot dollarn - Aftonbladet
 - Nytt räntebesked i veckan – tusenlappar på spel - SvD
+- Nu avslöjas Europas dolda arbetslöshet – Sverige i topp - Dagens PS
 - Vita husets krav för Tiktok: Amerikansk dominans - DN
-- Motala kommun ökar säkerheten efter omfattande cyberattack - Corren
-- Hit går miljarderna i Svantessons rekordbudget - Aftonbladet
 - Astronomer: Vi kommer att med 90 procents säkerhet se en mycket våldsam händelse i rymden inom tio år - Illustrerad Vetenskap
-- ”Utan Kuben skulle allt ha blivit skit” - Sundsvalls Tidning
+- Svenskutvecklade ”Jump Space” har hoppat ut på marknaden - Aftonbladet
 
 ## World News
 
@@ -31,22 +31,22 @@ _Updated: 2025-09-21 10:41_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- Trumps beställning: Visa att global uppvärmning är bra - Omni
+- KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- New Secretary General appointed - Olof Palme International Center
-- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - World Athletics introduces gene test for female category - BBC
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Chinese Manufacturers Are Peeling Off the Veneer of Western Luxury - Morocco World News
-- Portugisiska handelshögskolor på global ranking - The Portugal News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Techarenan Launches Global Tech Event at the Swedish National Stadium, Bringing Together Leaders in Business and Innovation - Techarenan.news
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- Adyen, Partner of LVMH, Redefines Payments in the Global Luxury Sector - Placera.se
+- 🌏 Global ojämlikhet minskar faktiskt - Warp News
+- DXC Launches Global AI Center of Competence to Accelerate Enterprise AI Adoption - Placera.se
+- Labcorp to Speak at the Morgan Stanley 23rd Annual Global Healthcare Conference - Placera.se
 
 ## Technology
 
@@ -59,40 +59,40 @@ _Updated: 2025-09-21 10:41_
 - AI-revolutionen släpps lös: Genombrott, storföretagens satsningar & etiska stormar (slutet av juli 2025) - ts2.tech
 - FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
-- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Tillståndet för artificiell intelligens 2025: Genombrott, utmaningar och vägen framåt / Uppdaterad: 1 juli 2025, 12:02 CET - ts2.tech
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
-- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
+- Spår superintelligens om tio år – vill leda racet - Omni
 
 ## Business
 
-- PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
+- Golub Capital BDC, Inc. Prices Public Offering of $250 Million 7.050% Notes Due 2028 - Placera.se
+- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Realty Income to Present at Bank of America's 2025 Global Real Estate Conference - Placera.se
-- Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
+- BURKE & HERBERT FINANCIAL SERVICES CORP. ENHANCES COMMERCIAL BANKING AND DEPOSIT GROWTH TEAMS - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Golub Capital BDC, Inc. Prices Public Offering of $250 Million 7.050% Notes Due 2028 - Placera.se
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
+- Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
 
 ## Health
 
@@ -124,20 +124,20 @@ _Updated: 2025-09-21 10:41_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
@@ -153,12 +153,12 @@ _Updated: 2025-09-21 10:41_
 - Här är världens största jordbruk - ATL
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - SLU gets important UN mission on antibiotic resistance - Mynewsdesk
 - Odlingsförutsättningar i Östafrikanska jordar kartläggs med satellit - Mynewsdesk
-- Tio jordbruksaktier för depån - Placera.se
-- Nu släpps konferensprogrammet till Sveriges största mötesplats för hela livsmedelsbranschen! - Mynewsdesk
-- 7 av 10 svenskar firar hundens födelsedag - Mynewsdesk
