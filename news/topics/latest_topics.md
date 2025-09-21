@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-21 20:44_
+_Updated: 2025-09-21 21:38_
 
 ## Top Stories
 
-- Mannen försökte slå ambulanspersonal med basebollträ – dagarna innan dådet - SVT Nyheter
-- Nathan Shachar: Erkännandet gör varken till eller från i palestiniers vardag - DN
+- Attackerade ambulanspersonal bara dagar tidigare - SvD
 - Minnesstund för Charlie Kirk – SVT liverapporterar - SVT Nyheter
-- Trump lovar försvara Polen om Ryssland eskalerar - GP
-- Långa köer i soluppgången inför Kirks minnesstund - Omni
-- Misstänkt våldtäkt i Gävle - Expressen
-- Misstänkt granat hittad i Norrköping - DN
+- ”Viktigt för demokratin att rösta i kyrkovalet” - GP
+- Nathan Shachar: Erkännandet gör varken till eller från i palestiniers vardag - DN
+- Över 40 dödade i Gaza – Israel utökar offensiv - Hufvudstadsbladet
+- Trumps ord efter ryska kränkningen i Estland - SVT Nyheter
 - Termosbomb hittad vid Hells Angels klubblokal - GP
-- Trump lovar att försvara Baltikum mot kränkningar - Expressen
-- S kräver klimatministerns avgång efter missade mål - Omni
-- Larm om misstänkt farligt föremål i Västerås – bombskyddet på plats - SVT Nyheter
+- Misstänkt granat hittad i Norrköping - DN
+- S kräver Pourmokhtaris avgång: ”Är hennes löfte” - HD
+- Polisinsats vid kyrka – ung man gripen - Expressen
+- Syrien håller parlamentsval i oktober - DN
 - Fem döda efter Israelisk attack i Libanon - Västerbottens-Kuriren
-- Blodbadet i Gaza fortsätter – minst 87 dödade - UNT
-- Större attacker mot Ukraina – räcker luftvärnet? - GP
+- Saudiarabien varnar Israel efter utspel om annektering av Västbanken - DN
+- Större attacker mot Ukraina – räcker luftvärnet? - Västerbottens-Kuriren
 - Techjättar kan snuvas på finansiell data i EU - Omni
+- Skattesänkningar dominerar höstbudgeten – fem huvudpunkter att ha koll på - DN
 - Nära 1 200 i Nynäshamn drabbade av stor dataläcka - Nynäshamns Posten
-- LEDARE: Kortsiktigheten är budgetens problem - Dagens industri
 - Hushållens räkning kan bli dyrare trots sänkt elskatt - Omni
 - Kritiskt datum för många – då slutar Bank-id fungera på vissa mobiler - Börskollen
-- Säljes: Cannondale SuperSix EVO 3 58:a med extra allt! - Happyride
+- Chrome första Google-appen med Liquid Glass - mobil.se
 
 ## World News
 
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Trumps beställning: Visa att global uppvärmning är bra - Omni
 - KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
 - Källor: EQT inleder försäljning av Global Connect - EFN
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - Techarenan News goes English (Partly at least) - Techarenan.news
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - New Secretary General appointed - Olof Palme International Center
-- Diebold Nixdorf Receives Credit Rating Upgrade from S&P Global Ratings - Placera.se
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
+- World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - World Athletics introduces gene test for female category - BBC
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 
 ## Technology
 
@@ -143,22 +143,22 @@ _Updated: 2025-09-21 20:44_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Ho Chi Minh Citys lantbrukarförening skickar lantbrukare till Japan för att lära sig högteknologiskt jordbruk - Vietnam.vn
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
