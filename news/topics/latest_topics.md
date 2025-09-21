@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-21 19:37_
+_Updated: 2025-09-21 20:44_
 
 ## Top Stories
 
-- JUST NU: Brand på HVB-hem - Expressen
-- Efter mordet: ambulanspersonal vill säga upp sig - DN
-- Trumps ord efter ryska kränkningen i Estland - SVT Nyheter
-- Storbritannien och Kanada erkänner Palestina - GP
-- Två hot oroar inför Kirks begravning - DN
-- Handgranat vid lekpark – bombskyddet på plats - Västerbottens-Kuriren
+- Mannen försökte slå ambulanspersonal med basebollträ – dagarna innan dådet - SVT Nyheter
+- Nathan Shachar: Erkännandet gör varken till eller från i palestiniers vardag - DN
+- Minnesstund för Charlie Kirk – SVT liverapporterar - SVT Nyheter
+- Trump lovar försvara Polen om Ryssland eskalerar - GP
+- Långa köer i soluppgången inför Kirks minnesstund - Omni
+- Misstänkt våldtäkt i Gävle - Expressen
 - Misstänkt granat hittad i Norrköping - DN
 - Termosbomb hittad vid Hells Angels klubblokal - GP
-- Nyköpingsman död i klämolycka i Norge - SN, Södermanlands Nyheter
-- Nio kandidater som sticker ut i kyrkovalet 2025 - Expressen
+- Trump lovar att försvara Baltikum mot kränkningar - Expressen
+- S kräver klimatministerns avgång efter missade mål - Omni
+- Larm om misstänkt farligt föremål i Västerås – bombskyddet på plats - SVT Nyheter
 - Fem döda efter Israelisk attack i Libanon - Västerbottens-Kuriren
-- Över 40 dödade i Gaza – Israel utökar offensiv - Hufvudstadsbladet
-- Iran avbryter samarbete efter FN-omröstning - Västerbottens-Kuriren
+- Blodbadet i Gaza fortsätter – minst 87 dödade - UNT
 - Större attacker mot Ukraina – räcker luftvärnet? - GP
 - Techjättar kan snuvas på finansiell data i EU - Omni
 - Nära 1 200 i Nynäshamn drabbade av stor dataläcka - Nynäshamns Posten
-- DEBATT: En budget som ger framtidstro - Dagens industri
-- Sverige satsar över 7 miljarder euro på militärt stöd till Ukraina - osthammarsnyheter.se
+- LEDARE: Kortsiktigheten är budgetens problem - Dagens industri
+- Hushållens räkning kan bli dyrare trots sänkt elskatt - Omni
 - Kritiskt datum för många – då slutar Bank-id fungera på vissa mobiler - Börskollen
-- Svenskutvecklade ”Jump Space” har hoppat ut på marknaden - Aftonbladet
+- Säljes: Cannondale SuperSix EVO 3 58:a med extra allt! - Happyride
 
 ## World News
 
@@ -34,6 +34,7 @@ _Updated: 2025-09-21 19:37_
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
+- Källor: EQT inleder försäljning av Global Connect - EFN
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Techarenan News goes English (Partly at least) - Techarenan.news
@@ -44,7 +45,6 @@ _Updated: 2025-09-21 19:37_
 - Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - World Athletics introduces gene test for female category - BBC
-- S&P Global bekräftar Irlands AA/A-1+ kreditbetyg med positiva utsikter - Investing.com Sverige
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 
@@ -55,21 +55,21 @@ _Updated: 2025-09-21 19:37_
 - Lansering av Au Lac Artificial Intelligence Alliance för att utveckla strategisk teknologi - Vietnam.vn
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
+- FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
 - AI-revolutionen släpps lös: Genombrott, storföretagens satsningar & etiska stormar (slutet av juli 2025) - ts2.tech
+- Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
-- 290 million for digitalisation of Swedish industry - Vinnova
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
+- Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
-- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
-- Digital Realty Launches Innovation Lab to Accelerate AI and Hybrid Cloud Implementation - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 
 ## Business
 
@@ -87,9 +87,9 @@ _Updated: 2025-09-21 19:37_
 - Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Bitcoin Cash (BCH), Unus Sed Leo (LEO), OKB (OKB), Polygon (POL), Algorand (ALGO), Filecoin (FIL), Arbitrum (ARB), and Stacks (STX) - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - BURKE & HERBERT FINANCIAL SERVICES CORP. ENHANCES COMMERCIAL BANKING AND DEPOSIT GROWTH TEAMS - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
@@ -120,21 +120,25 @@ _Updated: 2025-09-21 19:37_
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Citizen science: Inspiring examples of societal engagement for Horizon Europe - CORDIS
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Olika slutsatser från samma data - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
 
@@ -145,14 +149,14 @@ _Updated: 2025-09-21 19:37_
 - 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Ho Chi Minh Citys lantbrukarförening skickar lantbrukare till Japan för att lära sig högteknologiskt jordbruk - Vietnam.vn
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Här är världens största jordbruk - ATL
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
