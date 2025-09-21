@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-21 17:37_
+_Updated: 2025-09-21 18:41_
 
 ## Top Stories
 
-- Ståhl försvarade VM-guldet i regnet – ”Mållös” - Svensk Friidrott
-- Mannen försökte slå ambulanspersonal med basebollträ – dagarna innan dådet - SVT Nyheter
-- Trump lovar försvara Polen om Ryssland eskalerar - GP
+- VM-guld till Ståhl – hyllade Mats Sundin - Aftonbladet
+- Attackerade ambulanspersonal bara dagar tidigare - SvD
 - Flera länder erkänner Palestina - DN
-- Bil voltade utanför Älvdalen – tre till sjukhus - SVT Nyheter
-- Avspärrningar i centrala Norrköping efter misstänkt farligt föremål - Norrköpings kommun
+- Trumps ord efter ryska kränkningen i Estland - SVT Nyheter
+- Bra fart i domkyrkan på valdagen: ”Viktigt att man använder sin röst” - NWT
+- Tonåringar från Lund ska bygga robotar i Sydkorea - Sydsvenskan
+- Misstänkt granat hittad i Norrköping - DN
 - Termosbomb hittad vid Hells Angels klubblokal - GP
-- Nu öppnar vallokalerna i kyrkovalet - SVT Nyheter
 - Nyköpingsman död i klämolycka i Norge - SN, Södermanlands Nyheter
-- Man död efter larm om skottlossning i Norrköping - DN
-- Beväpnad man gripen vid minnesstund för Charlie Kirk - GP
-- Fem döda efter Israelisk attack i Libanon - GP
+- Trump lovar att försvara Baltikum mot kränkningar - Expressen
+- Kraftig villabrand i Trollhättan - Expressen
+- Fem döda efter Israelisk attack i Libanon - Västerbottens-Kuriren
+- Två hot oroar inför Kirks begravning - DN
 - Blodbadet i Gaza fortsätter – minst 87 dödade - UNT
-- Iran avbryter IAEA-samarbete efter FN-omröstning - SVT Nyheter
 - Techjättar kan snuvas på finansiell data i EU - Omni
-- Kronan upp 18 procent mot dollarn - Aftonbladet
 - Nytt räntebesked i veckan – tusenlappar på spel - Tidningen Näringslivet
 - Nära 1 200 i Nynäshamn drabbade av stor dataläcka - Nynäshamns Posten
+- DEBATT: En budget som ger framtidstro - Dagens industri
 - Kritiskt datum för många – då slutar Bank-id fungera på vissa mobiler - Börskollen
-- Microsoft bekräftar att Windows 11-uppdatering kan hindra dig från att kolla på film på datorn - PC för Alla
+- Svenskutvecklade ”Jump Space” har hoppat ut på marknaden - Aftonbladet
 
 ## World News
 
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Trumps beställning: Visa att global uppvärmning är bra - Omni
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
-- Medlemmar i GSF:s styrgrupp i möte med Hamas - Omni
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Techarenan News goes English (Partly at least) - Techarenan.news
-- New Secretary General appointed - Olof Palme International Center
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- World Athletics introduces gene test for female category - BBC
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Chinese Manufacturers Are Peeling Off the Veneer of Western Luxury - Morocco World News
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- Adyen, Partner of LVMH, Redefines Payments in the Global Luxury Sector - Placera.se
+- Diebold Nixdorf Receives Credit Rating Upgrade from S&P Global Ratings - Placera.se
+- “UNO Wonder” Hits App Store & Google Play Worldwide - Placera.se
+- S&P Global Declares Fourth Quarter Dividend - Placera.se
 
 ## Technology
 
@@ -62,37 +62,32 @@ _Updated: 2025-09-21 17:37_
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Digital Realty Launches Innovation Lab to Accelerate AI and Hybrid Cloud Implementation - Placera.se
 
 ## Business
 
-- PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
-- BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Martin-Löf to quit company boards - Sveriges Radio
+- BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
+- PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
+- Swindled millions found 15 years later - Sveriges Radio
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Tribe Property Technologies Appoints Scott Ullrich as New Chief Financial Officer - Placera.se
-- Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
-- Realty Income to Present at Bank of America's 2025 Global Real Estate Conference - Placera.se
-- Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
-- Golub Capital BDC, Inc. Prices Public Offering of $250 Million 7.050% Notes Due 2028 - Placera.se
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
+- UK Financial Services Compensation Scheme förklarar 30 företag i standard mellan november och januari - FinanceFeeds
 
 ## Health
 
@@ -103,19 +98,19 @@ _Updated: 2025-09-21 17:37_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
