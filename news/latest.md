@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-21 15:48_
+_Updated: 2025-09-21 16:48_
 
-- Live Updates: Trump Expected to Attend Charlie Kirk Memorial Service in Arizona - The New York Times
-- New H-1B visa fee will not apply to existing holders, official says - Axios
-- Trump nominates White House aide to be top US prosecutor for office probing Letitia James - NPR
-- ‘Not enough in itself’: wary welcome in West Bank over recognition of Palestine - The Guardian
-- Taliban reject Trump’s bid to reclaim Bagram Air Base in Afghanistan - Politico
-- 1 dead, 2 wounded in shooting at New Hampshire country club; suspect arrested - CBS News
+- Thousands gather at Charlie Kirk memorial in Arizona where Trump to pay tribute to slain organizer - The Guardian
+- H-1B: Man spent $8,000 on flights to get back to the US after visa fears - BBC
+- UK recognises Palestinian statehood 108 years after Balfour Declaration - Al Jazeera
+- Trump urges US Justice Department to charge prominent Democratic enemies - France 24
 - California bans masks on ICE officers as Newsom strikes back at Trump on deportations - San Francisco Chronicle
-- Oklahoma Republicans propose all state colleges must have Charlie Kirk statue - The Guardian
-- China's ByteDance will get 1 of 7 board seats for TikTok's US operations, official says - Reuters
-- Suspect in ABC10 building shooting arrested by FBI after being released from jail | UPDATE - ABC10
+- 1 dead, 2 wounded in shooting at New Hampshire country club; suspect arrested - CBS News
+- Trump nominates White House aide to be top US prosecutor for office probing Letitia James - NPR
+- Trump has left US embassies largely leaderless and often fearful - Politico
+- Man Charged After Drive-by Shooting at Local ABC Station in Sacramento - The New York Times
+- The Taliban reject Trump’s bid to retake Bagram Air Base in Afghanistan - AP News
 - Netherlands: Violence erupts at anti-immigration protest - DW
 - A Polish Soldier, an Unusual Radar Dot and Then NATO Jets - The New York Times
-- What we know about the cyberattack that hit major European airports - CNBC
-- Gaza hospital director receives bodies of brother and other relatives while on duty - CNN
+- Typhoon Ragasa: Observatory warns of flooding, 220 km/h winds and sea levels similar to Hato and Mangkhut - Hong Kong Free Press HKFP
+- Iran halts IAEA cooperation after Europe triggers UN sanctions snapback - The Times of Israel
+- What jobs will AI replace, and which are safe? - USA Today
+- The Fed doesn't have a 'dual' mandate—Jerome Powell and Stephen Miran are talking about the third - Fortune
+- Dublin Airport disruption continues following cyber-attack - BBC
 - Real estate stocks decline despite interest rate cut (XLRE:NYSEARCA) - Seeking Alpha
-- Whither US interest rates now that Fed is cutting again? - Asia Times
-- Stay Ahead Of The Trend With These 3 Dividend Stocks – Before They Soar - Barchart.com
-- Supreme Court Doesn’t Immediately Act on Trump Bid to Fire Cook - Bloomberg.com
+- Apple's new AirPods Pro 3 are already on sale - Engadget
 - Verizon is giving away the iPhone 17 Pro for free with this generous trade-in offer - Mashable
-- Meta's Disastrous Smart Glasses Demo Even Worse Than We Thought - Futurism
