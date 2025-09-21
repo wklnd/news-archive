@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-21 21:38_
+_Updated: 2025-09-21 22:39_
 
 ## Top Stories
 
 - Attackerade ambulanspersonal bara dagar tidigare - SvD
-- Minnesstund för Charlie Kirk – SVT liverapporterar - SVT Nyheter
 - ”Viktigt för demokratin att rösta i kyrkovalet” - GP
-- Nathan Shachar: Erkännandet gör varken till eller från i palestiniers vardag - DN
+- Minnesstund för Charlie Kirk – SVT liverapporterar - SVT Nyheter
+- Bättre tillsammans: Världens ledare möts i FN:s 80:e generalförsamling - Unric
+- Misstänkt farligt föremål vid kyrkogård i Ljungby - Omni
 - Över 40 dödade i Gaza – Israel utökar offensiv - Hufvudstadsbladet
-- Trumps ord efter ryska kränkningen i Estland - SVT Nyheter
 - Termosbomb hittad vid Hells Angels klubblokal - GP
-- Misstänkt granat hittad i Norrköping - DN
 - S kräver Pourmokhtaris avgång: ”Är hennes löfte” - HD
 - Polisinsats vid kyrka – ung man gripen - Expressen
+- Här är föremålet Youtubegänget drog upp: "Ringde polisen" - NT
+- Flera länder erkänner Palestina – bemöts av israelisk vrede - Hufvudstadsbladet
 - Syrien håller parlamentsval i oktober - DN
-- Fem döda efter Israelisk attack i Libanon - Västerbottens-Kuriren
+- Fem döda efter Israelisk attack i Libanon - GP
 - Saudiarabien varnar Israel efter utspel om annektering av Västbanken - DN
-- Större attacker mot Ukraina – räcker luftvärnet? - Västerbottens-Kuriren
+- Räntebeskedet från Riksbanken blir en nagelbitare - DN
 - Techjättar kan snuvas på finansiell data i EU - Omni
+- Kronan upp 18 procent mot dollarn - Aftonbladet
 - Skattesänkningar dominerar höstbudgeten – fem huvudpunkter att ha koll på - DN
-- Nära 1 200 i Nynäshamn drabbade av stor dataläcka - Nynäshamns Posten
-- Hushållens räkning kan bli dyrare trots sänkt elskatt - Omni
 - Kritiskt datum för många – då slutar Bank-id fungera på vissa mobiler - Börskollen
 - Chrome första Google-appen med Liquid Glass - mobil.se
 
@@ -30,23 +30,23 @@ _Updated: 2025-09-21 21:38_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Trumps beställning: Visa att global uppvärmning är bra - Omni
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Källor: EQT inleder försäljning av Global Connect - EFN
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- Finserve Global Security Fund blir Europas första försvarsfond klassificerad som artikel 8 - beQuoted
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
-- Techarenan News goes English (Partly at least) - Techarenan.news
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - New Secretary General appointed - Olof Palme International Center
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
-- World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- World Athletics introduces gene test for female category - BBC
 
 ## Technology
 
@@ -103,19 +103,19 @@ _Updated: 2025-09-21 21:38_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -151,7 +151,6 @@ _Updated: 2025-09-21 21:38_
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
@@ -159,6 +158,7 @@ _Updated: 2025-09-21 21:38_
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- USA tvingar ut EU på banan - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
