@@ -1,22 +1,22 @@
 # Top News Headlines
 
-_Updated: 2025-09-21 12:48_
+_Updated: 2025-09-21 13:48_
 
+- Trump and MAGA movement will honor Charlie Kirk at Arizona memorial - AP News
 - Tech Companies Warn H-1B Visa Holders to Avoid Foreign Travel - Bloomberg.com
-- Grief, recrimination and a watershed moment for the conservative movement Charlie Kirk founded - CNN
 - Trump demands Bondi prosecute political foes in Truth Social posts - The Washington Post
 - 'We're not North Korea.' Newsom signs bills to limit immigration raids at schools and unmask federal agents - Los Angeles Times
-- Man Charged After Drive-by Shooting at Local ABC Station in Sacramento - The New York Times
+- Pentagon places further restrictions on journalist access - NBC News
 - Tropical Storm Gabrielle expected to become 2nd Atlantic hurricane of the season - NPR
-- Trump nominates replacement for acting U.S. attorney in office probing Letitia James - CBS News
+- Trump nominates White House aide to be top US prosecutor for office probing Letitia James - NPR
+- Trump says 'bad things' will happen if Afghanistan does not return Bagram air base - Reuters
+- Man Charged After Drive-by Shooting at Local ABC Station in Sacramento - The New York Times
 - Oklahoma Republicans propose all state colleges must have Charlie Kirk statue - The Guardian
-- China's ByteDance will get 1 of 7 board seats for TikTok's US operations, official says - Reuters
-- Suspect in custody after New Hampshire country club shooting leaves 1 dead and several wounded - NPR
-- What will recognizing Palestine as a state actually achieve? - DW
+- UK set to recognise Palestinian state, Lammy says aim is to help two-state solution - Reuters
 - A Polish Soldier, an Unusual Radar Dot and Then NATO Jets - The New York Times
-- Anti-immigration demonstration in The Hague turns violent, weeks before general election - Euronews.com
-- Typhoon Ragasa: Observatory warns of flooding, 220 km/h winds and sea levels similar to Hato and Mangkhut - Hong Kong Free Press HKFP
-- Cyberattack sparks chaos at several European airports, with delays and cancellations - The Times of Israel
+- Netherlands: Violence erupts at anti-immigration protest - DW
+- Iran halts IAEA cooperation after Europe triggers UN sanctions snapback - The Times of Israel
+- What we know about the cyberattack that hit major European airports - CNBC
 - Whither US interest rates now that Fed is cutting again? - Asia Times
 - FAA says ‘multiple failures’ in technology caused DFW, Love Field equipment outage - Dallas News
 - Supreme Court Doesn’t Immediately Act on Trump Bid to Fire Cook - Bloomberg.com
