@@ -1,20 +1,20 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-21 05:26_
+_Updated: 2025-09-21 05:50_
 
 ## Top Stories
 
 - Man skjuten till döds i Hagsätra - SvD
+- Ryska kränkningar ger information – och sprider rädsla - DN
 - Ambulanspersonal död efter knivattack i Hälsningland - GP
 - Pentagons nya pressregler oroar journalister - DN
 - Blodbadet i Gaza fortsätter – minst 87 dödade - GP
-- Ryska kränkningar ger information – och sprider rädsla - DN
-- Många gripna efter upplopp i Haag - DN
+- Väljarna: Detta är Trump sämst på - Expressen
 - Därför ska du rösta i kyrkovalet: "En plikt" - UNT
 - Man död efter larm om skottlossning i Norrköping - DN
 - S kräver Pourmokhtaris avgång: ”Är hennes löfte" - DN
 - Avsätt utrikesminister Maria Malmer Stenergard – försvarar folkmord, attackerar demokratin - MittSkifte
-- Storbritannien väntas erkänna palestinsk stat - Västerbottens-Kuriren
+- Storbritannien väntas erkänna palestinsk stat - GP
 - Trump hotar Venezuela: ”Ofattbara konsekvenser” - GP
 - Här är kartan som avslöjar krigets rörelser – Ukraina pressas vid fronten - DN
 - Viktigast i veckan: Nytt sanktionspaket mot Ryssland – EU ökar pressen på Israel - Europaportalen
@@ -103,19 +103,19 @@ _Updated: 2025-09-21 05:26_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
