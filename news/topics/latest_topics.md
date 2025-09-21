@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-21 14:58_
+_Updated: 2025-09-21 15:38_
 
 ## Top Stories
 
-- Sport: Blåvittsupportrar bojkottar match på Gamla Ullevi – nekades ta in flagga - SVT Nyheter
-- Efter mordet: ambulanspersonal vill säga upp sig - DN
-- Storbrand i Hells Angels klubblokal i Gunnilse - GP
+- ”Flaggning” ses över efter ambulanspersonal dödats - GP
+- Flera länder erkänner Palestina - DN
 - Omvänd brain drain bakom polsk succé - SvD
-- Bil voltade utanför Älvdalen - SVT Nyheter
-- Stor polisinsats i naturreservat utanför Nyköping - HD
-- Nu öppnar vallokalerna i kyrkovalet - SVT Nyheter
+- Bil voltade utanför Älvdalen – tre till sjukhus - SVT Nyheter
+- Fransk sjuka kan dra EU med sig fallet - SvD
+- Tonåringar från Lund ska bygga robotar i Sydkorea - Sydsvenskan
+- Därför ska du rösta i kyrkovalet: "En plikt" - UNT
 - 21 september 12.22, Trafikkontroll, Västernorrlands län - polisen.se
+- Nyköpingsman död i klämolycka i Norge - SN, Södermanlands Nyheter
 - Man död efter larm om skottlossning i Norrköping - DN
-- Uppgifter: Gängman dödad med flera skott - Expressen
+- Blodbadet i Gaza fortsätter – minst 87 dödade - UNT
 - ”Trumpismens Jackie Kennedy” tar över efter mördade maken Charlie Kirk - DN
 - Iran avbryter samarbete efter FN-omröstning - Västerbottens-Kuriren
-- Estland: Säkerhetsrådet ska mötas om kränkning - UNT
-- Blodbadet i Gaza fortsätter – minst 87 dödade - GP
+- Erkänner Palestina – terrormisstänkt lämnas ut - DN
 - Kronan upp 18 procent mot dollarn - Aftonbladet
 - Techjättar kan snuvas på finansiell data i EU - Omni
-- Nytt räntebesked i veckan – tusenlappar på spel - SvD
-- Barnfamiljer vinnare i regeringens budget - DN
+- Hit går miljarderna i Svantessons rekordbudget - Tidningen Näringslivet
+- Motala kommun ökar säkerheten efter omfattande cyberattack - Corren
 - Astronomer: Vi kommer att med 90 procents säkerhet se en mycket våldsam händelse i rymden inom tio år - Illustrerad Vetenskap
 - Svenskutvecklade ”Jump Space” har hoppat ut på marknaden - Aftonbladet
 
@@ -30,23 +30,23 @@ _Updated: 2025-09-21 14:58_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Techarenan News goes English (Partly at least) - Techarenan.news
+- New Secretary General appointed - Olof Palme International Center
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - World Athletics introduces gene test for female category - BBC
-- Adyen, Partner of LVMH, Redefines Payments in the Global Luxury Sector - Placera.se
-- 🌏 Global ojämlikhet minskar faktiskt - Warp News
-- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
-- Diebold Nixdorf Receives Credit Rating Upgrade from S&P Global Ratings - Placera.se
-- S&P Global Declares Fourth Quarter Dividend - Placera.se
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Chinese Manufacturers Are Peeling Off the Veneer of Western Luxury - Morocco World News
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 
 ## Technology
 
@@ -73,26 +73,21 @@ _Updated: 2025-09-21 14:58_
 
 ## Business
 
-- Golub Capital BDC, Inc. Prices Public Offering of $250 Million 7.050% Notes Due 2028 - Placera.se
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
-- BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Gold Surges Past $3,650 on Fed Cuts and Central Bank Demand - Placera.se
+- SEB Investment Management lanserar blockkedje-fond - SEB Group
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
+- BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
+- Martin-Löf to quit company boards - Sveriges Radio
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Bitcoin Cash (BCH), Unus Sed Leo (LEO), OKB (OKB), Polygon (POL), Algorand (ALGO), Filecoin (FIL), Arbitrum (ARB), and Stacks (STX) - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- BURKE & HERBERT FINANCIAL SERVICES CORP. ENHANCES COMMERCIAL BANKING AND DEPOSIT GROWTH TEAMS - Placera.se
-- Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
-- Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
+- UK Financial Services Compensation Scheme förklarar 30 företag i standard mellan november och januari - FinanceFeeds
+- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
 ## Health
 
@@ -109,11 +104,11 @@ _Updated: 2025-09-21 14:58_
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
@@ -122,23 +117,23 @@ _Updated: 2025-09-21 14:58_
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Olika slutsatser från samma data - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
