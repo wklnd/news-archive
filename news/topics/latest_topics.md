@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-21 04:18_
+_Updated: 2025-09-21 05:26_
 
 ## Top Stories
 
 - Man skjuten till döds i Hagsätra - SvD
 - Ambulanspersonal död efter knivattack i Hälsningland - GP
-- Ryska kränkningar ger information – och sprider rädsla - DN
 - Pentagons nya pressregler oroar journalister - DN
 - Blodbadet i Gaza fortsätter – minst 87 dödade - GP
-- USA har attackerat ytterligare en ”knarkbåt” - Västerbottens-Kuriren
+- Ryska kränkningar ger information – och sprider rädsla - DN
+- Många gripna efter upplopp i Haag - DN
+- Därför ska du rösta i kyrkovalet: "En plikt" - UNT
 - Man död efter larm om skottlossning i Norrköping - DN
-- Så röstar Uppsalaungdomarna i kyrkovalet - UNT
 - S kräver Pourmokhtaris avgång: ”Är hennes löfte" - DN
-- Svensk byggnadsarbetare död i Norge - Byggnadsarbetaren
+- Avsätt utrikesminister Maria Malmer Stenergard – försvarar folkmord, attackerar demokratin - MittSkifte
 - Storbritannien väntas erkänna palestinsk stat - Västerbottens-Kuriren
+- Trump hotar Venezuela: ”Ofattbara konsekvenser” - GP
 - Här är kartan som avslöjar krigets rörelser – Ukraina pressas vid fronten - DN
 - Viktigast i veckan: Nytt sanktionspaket mot Ryssland – EU ökar pressen på Israel - Europaportalen
-- Cyberattack riktad mot flera europeiska flygplatser - Hufvudstadsbladet
-- Tiktok-effekten: Priset på trenddrycken rusar - Dagens industri
 - Motala kommun ökar säkerheten efter omfattande cyberattack - Corren
-- Här är badhuset alla Kirunabor väntar på: "Bara vi blir färdiga" - NSD
 - 220 miljarder i lån till kärnkraft - SVT Nyheter
+- Här är badhuset alla Kirunabor väntar på: "Bara vi blir färdiga" - NSD
+- Noll promilles intresse för gårdsförsäljning av alkohol - Enköpingsposten
 - Tusentals blir utan Bank-id nästa år – har för gamla telefoner - NyTeknik
 - Recension: “Borderlands 4” – en explosiv fest fylld med fart och freaks - MovieZine
 
@@ -31,22 +31,22 @@ _Updated: 2025-09-21 04:18_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- Techarenan News goes English (Partly at least) - Techarenan.news
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - World Athletics introduces gene test for female category - BBC
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - Adyen, Partner of LVMH, Redefines Payments in the Global Luxury Sector - Placera.se
 - 🌏 Global ojämlikhet minskar faktiskt - Warp News
 - DXC Launches Global AI Center of Competence to Accelerate Enterprise AI Adoption - Placera.se
 - S&P Global Declares Fourth Quarter Dividend - Placera.se
-- Chinese Manufacturers Are Peeling Off the Veneer of Western Luxury - Morocco World News
 
 ## Technology
 
@@ -69,30 +69,30 @@ _Updated: 2025-09-21 04:18_
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
-- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 
 ## Business
 
-- Golub Capital BDC, Inc. Prices Public Offering of $250 Million 7.050% Notes Due 2028 - Placera.se
 - PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
 - BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Tribe Property Technologies Appoints Scott Ullrich as New Chief Financial Officer - Placera.se
 - Realty Income to Present at Bank of America's 2025 Global Real Estate Conference - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Golub Capital BDC, Inc. Prices Public Offering of $250 Million 7.050% Notes Due 2028 - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
 - Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 
 ## Health
 
@@ -130,13 +130,13 @@ _Updated: 2025-09-21 04:18_
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
