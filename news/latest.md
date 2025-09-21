@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-21 16:48_
+_Updated: 2025-09-21 17:48_
 
 - Thousands gather at Charlie Kirk memorial in Arizona where Trump to pay tribute to slain organizer - The Guardian
 - H-1B: Man spent $8,000 on flights to get back to the US after visa fears - BBC
-- UK recognises Palestinian statehood 108 years after Balfour Declaration - Al Jazeera
+- Britain, Australia and Canada Recognize a Palestinian State - The New York Times
 - Trump urges US Justice Department to charge prominent Democratic enemies - France 24
-- California bans masks on ICE officers as Newsom strikes back at Trump on deportations - San Francisco Chronicle
+- California bans most law enforcement officers from wearing masks during operations - CNN
 - 1 dead, 2 wounded in shooting at New Hampshire country club; suspect arrested - CBS News
-- Trump nominates White House aide to be top US prosecutor for office probing Letitia James - NPR
-- Trump has left US embassies largely leaderless and often fearful - Politico
-- Man Charged After Drive-by Shooting at Local ABC Station in Sacramento - The New York Times
+- Trump is breaking US diplomacy, State Department staffers say - Politico
+- Man arrested after drive-by shooting at ABC TV station in Sacramento - NPR
 - The Taliban reject Trump’s bid to retake Bagram Air Base in Afghanistan - AP News
+- China's ByteDance will get 1 of 7 board seats for TikTok's US operations, official says - Reuters
+- Protesters in Manila Accuse Government of Misusing Environmental Funds - The New York Times
+- Israel kills 34 people in Gaza, say health officials, ahead of UN meeting - AP News
+- Cyberattack sparks chaos at several European airports, with delays and cancellations - The Times of Israel
 - Netherlands: Violence erupts at anti-immigration protest - DW
-- A Polish Soldier, an Unusual Radar Dot and Then NATO Jets - The New York Times
-- Typhoon Ragasa: Observatory warns of flooding, 220 km/h winds and sea levels similar to Hato and Mangkhut - Hong Kong Free Press HKFP
-- Iran halts IAEA cooperation after Europe triggers UN sanctions snapback - The Times of Israel
-- What jobs will AI replace, and which are safe? - USA Today
 - The Fed doesn't have a 'dual' mandate—Jerome Powell and Stephen Miran are talking about the third - Fortune
-- Dublin Airport disruption continues following cyber-attack - BBC
 - Real estate stocks decline despite interest rate cut (XLRE:NYSEARCA) - Seeking Alpha
+- Goodwill is preparing for an influx of jobless Gen Zers because of AI, its CEO Steve Preston warns - Fortune
+- High Hopes: Top U.S. Cannabis Stocks - Seeking Alpha
 - Apple's new AirPods Pro 3 are already on sale - Engadget
-- Verizon is giving away the iPhone 17 Pro for free with this generous trade-in offer - Mashable
+- Should you upgrade to iPhone 17? Here’s who should buy (and skip) from the iPhone 13 and up - Tom's Guide
