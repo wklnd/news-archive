@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-21 05:50_
+_Updated: 2025-09-21 06:42_
 
 ## Top Stories
 
-- Man skjuten till döds i Hagsätra - SvD
+- Ambulanspersonal i Nordanstig dödad – man gick till attack - SVT Nyheter
 - Ryska kränkningar ger information – och sprider rädsla - DN
-- Ambulanspersonal död efter knivattack i Hälsningland - GP
-- Pentagons nya pressregler oroar journalister - DN
+- Man skjuten till döds i Hagsätra - SvD
+- Familjens sorg – Carl, 16, dog i dödsolyckan i Borlänge - Aftonbladet
 - Blodbadet i Gaza fortsätter – minst 87 dödade - GP
-- Väljarna: Detta är Trump sämst på - Expressen
-- Därför ska du rösta i kyrkovalet: "En plikt" - UNT
+- Venezuela vädjar till FN efter USA:s angrepp - Västerbottens-Kuriren
 - Man död efter larm om skottlossning i Norrköping - DN
-- S kräver Pourmokhtaris avgång: ”Är hennes löfte" - DN
-- Avsätt utrikesminister Maria Malmer Stenergard – försvarar folkmord, attackerar demokratin - MittSkifte
+- Därför ska du rösta i kyrkovalet: "En plikt" - UNT
+- Köttallergi vanligare – allt fler får diagnosen i Sverige - DN
+- Internt fokus under beredskapsveckan - Alekuriren
 - Storbritannien väntas erkänna palestinsk stat - GP
-- Trump hotar Venezuela: ”Ofattbara konsekvenser” - GP
-- Här är kartan som avslöjar krigets rörelser – Ukraina pressas vid fronten - DN
-- Viktigast i veckan: Nytt sanktionspaket mot Ryssland – EU ökar pressen på Israel - Europaportalen
+- Venezuelas presidents Youtubekonto borta - DN
+- Större attacker mot Ukraina – räcker luftvärnet? - Västerbottens-Kuriren
+- Finland om hotet från Putin: Redo för militär insats - Aftonbladet
 - Motala kommun ökar säkerheten efter omfattande cyberattack - Corren
+- Viktigast i veckan: Nytt sanktionspaket mot Ryssland – EU ökar pressen på Israel - Europaportalen
 - 220 miljarder i lån till kärnkraft - SVT Nyheter
 - Här är badhuset alla Kirunabor väntar på: "Bara vi blir färdiga" - NSD
-- Noll promilles intresse för gårdsförsäljning av alkohol - Enköpingsposten
 - Tusentals blir utan Bank-id nästa år – har för gamla telefoner - NyTeknik
-- Recension: “Borderlands 4” – en explosiv fest fylld med fart och freaks - MovieZine
+- Apples lansering av iPhone 17 skickar denna indiska aktie till en 16-årig högsta veckovinst - Invezz
 
 ## World News
 
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- Techarenan News goes English (Partly at least) - Techarenan.news
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- New Secretary General appointed - Olof Palme International Center
 - Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - World Athletics introduces gene test for female category - BBC
-- Adyen, Partner of LVMH, Redefines Payments in the Global Luxury Sector - Placera.se
-- 🌏 Global ojämlikhet minskar faktiskt - Warp News
-- DXC Launches Global AI Center of Competence to Accelerate Enterprise AI Adoption - Placera.se
-- S&P Global Declares Fourth Quarter Dividend - Placera.se
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Chinese Manufacturers Are Peeling Off the Veneer of Western Luxury - Morocco World News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Garmin celebrates global innovators and collaborations at 2025 Garmin Health Summit - Placera.se
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 
 ## Technology
 
@@ -57,7 +57,6 @@ _Updated: 2025-09-21 05:50_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
 - AI-revolutionen släpps lös: Genombrott, storföretagens satsningar & etiska stormar (slutet av juli 2025) - ts2.tech
-- FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
@@ -70,29 +69,30 @@ _Updated: 2025-09-21 05:50_
 - ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- 290 million for digitalisation of Swedish industry - Vinnova
 
 ## Business
 
-- PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
+- Golub Capital BDC, Inc. Prices Public Offering of $250 Million 7.050% Notes Due 2028 - Placera.se
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
+- Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- WBCSD: Över hälften redovisar dubbel väsentlighetsanalys - Miljö & Utveckling
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Tribe Property Technologies Appoints Scott Ullrich as New Chief Financial Officer - Placera.se
-- Realty Income to Present at Bank of America's 2025 Global Real Estate Conference - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Golub Capital BDC, Inc. Prices Public Offering of $250 Million 7.050% Notes Due 2028 - Placera.se
+- BURKE & HERBERT FINANCIAL SERVICES CORP. ENHANCES COMMERCIAL BANKING AND DEPOSIT GROWTH TEAMS - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
-- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
+- Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -103,13 +103,13 @@ _Updated: 2025-09-21 05:50_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
@@ -143,22 +143,22 @@ _Updated: 2025-09-21 05:50_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- USA tvingar ut EU på banan - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
-- Odlingsförutsättningar i Östafrikanska jordar kartläggs med satellit - Mynewsdesk
