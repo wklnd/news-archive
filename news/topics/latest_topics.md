@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-21 13:38_
+_Updated: 2025-09-21 14:58_
 
 ## Top Stories
 
+- Sport: Blåvittsupportrar bojkottar match på Gamla Ullevi – nekades ta in flagga - SVT Nyheter
 - Efter mordet: ambulanspersonal vill säga upp sig - DN
-- Polisen spärrade av naturreservat efter larm - Omni
-- Skarpladdad bomb hittad vid Hells Angels-gård i Gunnilse efter brand - SVT Nyheter
+- Storbrand i Hells Angels klubblokal i Gunnilse - GP
+- Omvänd brain drain bakom polsk succé - SvD
+- Bil voltade utanför Älvdalen - SVT Nyheter
+- Stor polisinsats i naturreservat utanför Nyköping - HD
+- Nu öppnar vallokalerna i kyrkovalet - SVT Nyheter
+- 21 september 12.22, Trafikkontroll, Västernorrlands län - polisen.se
+- Man död efter larm om skottlossning i Norrköping - DN
+- Uppgifter: Gängman dödad med flera skott - Expressen
 - ”Trumpismens Jackie Kennedy” tar över efter mördade maken Charlie Kirk - DN
-- Ingen trodde på idén – idag hyllas hotellet världen över - GP
-- Vecka 38 i bilder – se världen genom DN-fotografernas ögon - DN
-- S-kritik mot budget: Lite godis till många - GP
-- Därför ska du rösta i kyrkovalet: "En plikt" - UNT
-- Ordet är fritt: Du är en del av Sveriges totalförsvar - Hallands Nyheter
-- Man död – misstänkt skottlossning i Norrköping - Västerbottens-Kuriren
-- Blodbadet i Gaza fortsätter – minst 87 dödade - UNT
-- Iran avbryter IAEA-samarbete efter FN-omröstning - SVT Nyheter
-- Estland: Säkerhetsrådet ska mötas om kränkning - Västerbottens-Kuriren
-- Många gripna efter upplopp i Haag - GP
+- Iran avbryter samarbete efter FN-omröstning - Västerbottens-Kuriren
+- Estland: Säkerhetsrådet ska mötas om kränkning - UNT
+- Blodbadet i Gaza fortsätter – minst 87 dödade - GP
 - Kronan upp 18 procent mot dollarn - Aftonbladet
+- Techjättar kan snuvas på finansiell data i EU - Omni
 - Nytt räntebesked i veckan – tusenlappar på spel - SvD
-- Nu avslöjas Europas dolda arbetslöshet – Sverige i topp - Dagens PS
-- Tiktok-effekten: Priset på trenddrycken rusar - Dagens industri
+- Barnfamiljer vinnare i regeringens budget - DN
 - Astronomer: Vi kommer att med 90 procents säkerhet se en mycket våldsam händelse i rymden inom tio år - Illustrerad Vetenskap
 - Svenskutvecklade ”Jump Space” har hoppat ut på marknaden - Aftonbladet
 
@@ -31,22 +31,22 @@ _Updated: 2025-09-21 13:38_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Armand Duplantis soars to third world title and 14th world record - BBC
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- World Athletics introduces gene test for female category - BBC
 - Adyen, Partner of LVMH, Redefines Payments in the Global Luxury Sector - Placera.se
 - 🌏 Global ojämlikhet minskar faktiskt - Warp News
-- World Athletics introduces gene test for female category - BBC
 - Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
 - Diebold Nixdorf Receives Credit Rating Upgrade from S&P Global Ratings - Placera.se
 - S&P Global Declares Fourth Quarter Dividend - Placera.se
-- Chinese Manufacturers Are Peeling Off the Veneer of Western Luxury - Morocco World News
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 
 ## Technology
 
@@ -57,26 +57,26 @@ _Updated: 2025-09-21 13:38_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - AI-revolutionen släpps lös: Genombrott, storföretagens satsningar & etiska stormar (slutet av juli 2025) - ts2.tech
-- FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
+- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
-- Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
-- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
-- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - InvestHK and London ETO strengthen HKSAR-UK innovation ties at London Tech Week 2025 - Placera.se
+- Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 
 ## Business
 
 - Golub Capital BDC, Inc. Prices Public Offering of $250 Million 7.050% Notes Due 2028 - Placera.se
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
 - Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
+- BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
@@ -103,42 +103,42 @@ _Updated: 2025-09-21 13:38_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Fakulteten för hälsa och samhälle - Malmö universitet
-- Osher centrum för integrativ hälsa - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Olika slutsatser från samma data - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
