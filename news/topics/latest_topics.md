@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-22 20:47_
+_Updated: 2025-09-22 21:38_
 
 ## Top Stories
 
 - Svenskt Näringsliv och LO: Därför löser inte budgeten jobbkrisen - Arbetet
+- Brittiska ministern: Nato redo för väpnad konfrontation - GP
+- Gröna vindar i kyrkovalet – så gick det i Linköpings stift - Corren
+- 26-åring begärd häktad för mord på ambulanssjukvårdare - DN
 - 22 september 09.19, Farligt föremål, misstänkt, Malmö - polisen.se
-- Så röstade Uppsala i kyrkovalet - UNT
-- Sorg och frustration efter mordet – ambulanspersonal i tyst minut: ”Det som hänt är fruktansvärt” - sla.se
-- Polen: Vi kommer inte tveka att skjuta ner föremål - Omni
-- ”Nato redo att militärt försvara luftrummet” - Västerbottens-Kuriren
+- Drönare över Köpenhamns flygplats - Aftonbladet
 - Missade klimatmål och fler laddstolpar – klimatnyheterna i regeringens budget - DN
 - De är vinnarna i årets kyrkoval – och de tappar mest - NWT
 - Här simulerar polisen en skolattack på gymnasium - DN
-- Åtalad för mord på 63-årig kvinna – ”Han är förtvivlad över vad han har gjort” - DN
-- Israeler svarar på att flera länder erkänner Palestina – Senaste nytt om kriget i Gaza - SVT Nyheter
+- ”Hur rädda ska vi vara?” - Nerikes Allehanda
 - Danmark redo att erkänna Palestina – om villkor uppfylls - Hufvudstadsbladet
 - Putin: Förlänger begränsande kärnvapenavtal - Västerbottens-Kuriren
 - Sanna Torén Björling: Ukrainarna har bilden klar för sig – lita inte på Putin, ens vid vapenvila - DN
-- Nätapoteken får nya regler: "Inte därför vi sålt" - Affärsvärlden
-- Investerar 100 miljarder dollar i Chat GPT-företaget - Sydsvenskan
-- Warren Buffett har sålt allt i elbilstillverkaren - Dagens industri
+- Frankrike erkänner Palestina som självständig stat – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Nvidia ska investera uppemot 100 miljarder dollar i Open AI - Dagens industri
 - Krogar krymper portioner - fetmamedicin en orsak - DN
+- BERKSHIRE HAR SÅLT HELA INNEHAVET, AKTIEN -3,5% - Placera.se
+- Nätapoteken får nya regler: "Inte därför vi sålt" - Affärsvärlden
 - Hundratal köade för hudvård: "Jag är fast i träsket" - UNT
-- iPhone 17 Pro Max vs iPhone 16 Pro Max: Apple har en ny toppmodell - TechRadar
+- TEST: Iphone Air mot Iphone 17 Pro max i duell - Aftonbladet
 
 ## World News
 
@@ -143,21 +143,21 @@ _Updated: 2025-09-22 20:47_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
 - Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Här är världens största jordbruk - ATL
-- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
