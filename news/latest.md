@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-22 18:50_
+_Updated: 2025-09-22 19:48_
 
-- Charlie Kirk’s Politically Charged Memorial - The New York Times
+- Kirk memorial's religious and political mix hints at future of MAGA movement - BBC
 - Trump’s $100,000 H-1B visa fee could hurt US growth, economists warn - The Guardian
-- The drug Trump plans to promote for autism shows real (and fragile) hope - The Washington Post
+- The Trump administration is expected to link autism to Tylenol use during pregnancy : Shots - Health News - NPR
 - Trump’s new demands on Justice Department raise alarm among prosecutors - The Washington Post
+- TikTok deal won't include 'golden share' or equity for U.S., Trump administration says - CNBC
 - Magnitude 4.3 earthquake wakes San Francisco Bay Area; centered in Berkeley - Los Angeles Times
-- How Israel could retaliate against the growing push for recognition of a Palestinian state - AP News
-- TikTok algorithm to be ‘retrained’ by Oracle in Trump deal - Financial Times
 - Tiger kills animal handler at wildlife preserve in Oklahoma - CBS News
-- Charlie Kirk desperately wanted Elon Musk and Donald Trump back together. He succeeded - CNN
-- USASOC Identifies Soldiers Who Perished in Aviation Mishap - army.mil
+- The Firing of Educators Over Kirk Comments Follows a Familiar Playbook - The New York Times
+- Why Democrats can’t match Trump’s gerrymander push - Politico
+- US targets wife of Brazilian Supreme Court justice with sanctions - Reuters
 - Trump heads to UN General Assembly as future of Palestinian state and Gaza likely to dominate - ABC News - Breaking News, Latest News and Videos
+- Netanyahu vows retaliation ahead of more Palestine recognitions at U.N. - The Washington Post
 - Alaa Abdel Fattah: Egypt's president pardons prominent activist - BBC
 - Fourteen killed in Ecuador's Machala prison as rival gangs clash - BBC
-- Russia's "brazen" NATO airspace violations head to UN Security Council - Axios
+- OpenAI and NVIDIA announce strategic partnership to deploy 10 gigawatts of NVIDIA systems - OpenAI
 - Trial to decide whether Amazon tricked customers into signing up for Prime starts today - CNN
-- FDA issues another recall of shrimp sold in 31 states over fears they are radioactive - Daily Mail
-- Pfizer boosts obesity drug prospects with $7.3 billion deal to buy Metsera - CNBC
-- Stock Market Today: Dow, S&P 500, Nasdaq Turn Higher; Nvidia, Tesla, Intel, More Movers; Bitcoin Dives - Barron's
-- Breaking: Galaxy S24 series is now getting the stable One UI 8 update - Android Authority
+- Oracle is replacing CEO Safra Catz with two co-CEOs - The Verge
+- Speech by Governor Miran on nonmonetary forces and appropriate monetary policy - Federal Reserve Board (.gov)
+- One UI 8 update is now live for the Galaxy S24, Z Flip 6, and Z Fold 6 - Android Central
 - Apple’s new AirPods Pro 3 get their first discount - Engadget
