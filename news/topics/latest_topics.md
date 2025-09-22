@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-22 17:41_
+_Updated: 2025-09-22 18:47_
 
 ## Top Stories
 
 - Höstbudgeten debatteras i riksdagen - DN
-- 26-åring begärd häktad för mord på ambulanssjukvårdare - DN
-- TV: Skarp granat hittades i damm i Vintrie – sprängdes på plats - Sydsvenskan
+- Fackets ilska efter ambulans­mordet i Hälsingland - Arbetaren
+- 22 september 09.19, Farligt föremål, misstänkt, Malmö - polisen.se
+- ”Nato redo att militärt försvara luftrummet” - GP
 - Så röstade Uppsala i kyrkovalet - UNT
-- Putin: Förlänger begränsande kärnvapenavtal - GP
-- Brittiska ministern: Nato redo för väpnad konfrontation - GP
-- Så röstar norrbottningarna i kyrkovalet - SVT Nyheter
-- Ministern avvisar snusförbud för lärare - GP
+- Tiotusentals i propalestinska protester i Italien - SvD
+- De är vinnarna i årets kyrkoval – och de tappar mest - NWT
+- Ministern avvisar förslag på snusförbud för lärare - SVT Nyheter
 - Statsvetaren: Känslan viktigare än budgeten - GP
-- Alex Schulman: Vi misslyckas med klimatmålen – men Romina Pourmokhtari tycks obekymrad - DN
-- Sanna Torén Björling: Ukrainarna har bilden klar för sig – lita inte på Putin, ens vid vapenvila - DN
+- Åtalad för mord på 63-årig kvinna – ”Han är förtvivlad över vad han har gjort” - DN
 - Tiotusentals i propalestinska protester i Italien – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Uppgifter: 23 döda i flyganfall i Pakistan - GP
-- Trumps ord efter ryska kränkningen i Estland - SVT Nyheter
+- Sanna Torén Björling: Ukrainarna har bilden klar för sig – lita inte på Putin, ens vid vapenvila - DN
+- Putin: Förlänger begränsande kärnvapenavtal - GP
+- Tyfon över Filippinerna – tusentals evakueras - Västerbottens-Kuriren
+- Nätapoteken får nya regler: "Inte därför vi sålt" - Affärsvärlden
+- Guld på ny rekordnivå – strateg spår ytterligare lyft - Dagens industri
 - Krogar krymper portioner - fetmamedicin en orsak - DN
 - Nya siffror: Hushållen lättar på plånboken - Dagens PS
-- Storaffären inom telekom kan granskas – ”osäkerheten har ökat” - Börskollen
-- Saab nära miljardorder – Tyskland ska uppdatera Eurofighter-flotta - Ny Teknik
+- TEST: Iphone Air mot Iphone 17 Pro max i duell - Aftonbladet
 - iPhone 17 Pro Max vs iPhone 16 Pro Max: Apple har en ny toppmodell - TechRadar
-- Final Cut Pro uppdateras med stöd för Iphone 17 Pro och Ipad OS 26 - Macworld.se
 
 ## World News
 
+- Port Performance Varies Across the Globe Amid Continuing Shocks - Placera.se
 - Global uppvärmning hotar livsviktig havsorganism - Aftonbladet
 - Allison Worldwide Names Industry Veteran Hank Kosinski as Chief Creative Officer and Chief Marketing Officer - Placera.se
 - Drönfotbolls-VM 2025: 265 lag tävlar i Sydkorea på global tekniklekplats - Vietnam.vn
-- Eye Level Math Olympiad 2025 Opens Registration for Students Worldwide - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- Eye Level Math Olympiad 2025 Opens Registration for Students Worldwide - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Livsviktig havsorganism hotad av global uppvärmning - SVT Nyheter
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Livsviktig havsorganism hotad av global uppvärmning - SVT Nyheter
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Techarenan News goes English (Partly at least) - Techarenan News
+- New Secretary General appointed - Olof Palme International Center
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Port Performance Varies Across the Globe Amid Continuing Shocks - Placera.se
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - AB InBev and Netflix Announce Global Brand Partnership - Placera.se
-- Diebold Nixdorf Receives Credit Rating Upgrade from S&P Global Ratings - Placera.se
 
 ## Technology
 
@@ -59,17 +59,17 @@ _Updated: 2025-09-22 17:41_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
+- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
-- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 
 ## Business
 
@@ -103,8 +103,6 @@ _Updated: 2025-09-22 17:41_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Osher centrum för integrativ hälsa - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
@@ -115,30 +113,32 @@ _Updated: 2025-09-22 17:41_
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
@@ -151,14 +151,14 @@ _Updated: 2025-09-22 17:41_
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
+- Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
