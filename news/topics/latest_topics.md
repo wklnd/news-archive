@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-22 16:44_
+_Updated: 2025-09-22 17:41_
 
 ## Top Stories
 
-- Svantesson: Sänkt skatt ska få fart på Sverige - GP
+- Höstbudgeten debatteras i riksdagen - DN
 - 26-åring begärd häktad för mord på ambulanssjukvårdare - DN
-- Misstänkt föremål i Malmö var granat - Aftonbladet
-- Ambulansföraren Maria blev jagad av en man med glasflaska - Aftonbladet
-- Israeler svarar på att flera länder erkänner Palestina – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Hundratals ton vete läckte ut i hamnen - Västerbottens-Kuriren
+- TV: Skarp granat hittades i damm i Vintrie – sprängdes på plats - Sydsvenskan
+- Så röstade Uppsala i kyrkovalet - UNT
+- Putin: Förlänger begränsande kärnvapenavtal - GP
+- Brittiska ministern: Nato redo för väpnad konfrontation - GP
 - Så röstar norrbottningarna i kyrkovalet - SVT Nyheter
 - Ministern avvisar snusförbud för lärare - GP
 - Statsvetaren: Känslan viktigare än budgeten - GP
-- Sköt mot poliser – åtalas för mord och mordförsök - DN
+- Alex Schulman: Vi misslyckas med klimatmålen – men Romina Pourmokhtari tycks obekymrad - DN
 - Sanna Torén Björling: Ukrainarna har bilden klar för sig – lita inte på Putin, ens vid vapenvila - DN
-- Putin: Förlänger begränsande kärnvapenavtal - Västerbottens-Kuriren
-- Tyfon över Filippinerna – tusentals evakueras - Västerbottens-Kuriren
+- Tiotusentals i propalestinska protester i Italien – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Uppgifter: 23 döda i flyganfall i Pakistan - GP
-- Krogar krymper portioner - fetmamedicin en orsak - Tidningen Näringslivet
+- Trumps ord efter ryska kränkningen i Estland - SVT Nyheter
+- Krogar krymper portioner - fetmamedicin en orsak - DN
 - Nya siffror: Hushållen lättar på plånboken - Dagens PS
-- Addlife: Vill addera mer förvärv - Affärsvärlden
-- Taket för bostadsbidrag höjs för första gången på 29 år - Fastighetstidningen
-- Detaljen avslöjar: Så kunde Apple göra Iphone Air rekordtunn - Nyteknik
+- Storaffären inom telekom kan granskas – ”osäkerheten har ökat” - Börskollen
+- Saab nära miljardorder – Tyskland ska uppdatera Eurofighter-flotta - Ny Teknik
 - iPhone 17 Pro Max vs iPhone 16 Pro Max: Apple har en ny toppmodell - TechRadar
+- Final Cut Pro uppdateras med stöd för Iphone 17 Pro och Ipad OS 26 - Macworld.se
 
 ## World News
 
@@ -44,9 +44,9 @@ _Updated: 2025-09-22 16:44_
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- Port Performance Varies Across the Globe Amid Continuing Shocks - Placera.se
 - AB InBev and Netflix Announce Global Brand Partnership - Placera.se
+- Diebold Nixdorf Receives Credit Rating Upgrade from S&P Global Ratings - Placera.se
 
 ## Technology
 
@@ -59,17 +59,17 @@ _Updated: 2025-09-22 16:44_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
-- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
-- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 
 ## Business
 
@@ -105,9 +105,9 @@ _Updated: 2025-09-22 16:44_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Osher centrum för integrativ hälsa - Karolinska Institutet
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - SIHI Sweden Konferens 2024 - Uppsala universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
@@ -120,25 +120,25 @@ _Updated: 2025-09-22 16:44_
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Olika slutsatser från samma data - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
@@ -149,16 +149,16 @@ _Updated: 2025-09-22 16:44_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
+- Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- Här är världens största jordbruk - ATL
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
