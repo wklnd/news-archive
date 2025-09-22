@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-22 06:42_
+_Updated: 2025-09-22 07:41_
 
 ## Top Stories
 
-- Skattesänkningar dominerar höstbudgeten – fem huvudpunkter att ha koll på - DN
-- Minnesstund för Charlie Kirk – SVT liverapporterar - SVT Nyheter
-- ”Viktigt för demokratin att rösta i kyrkovalet” - GP
-- Trump lovar försvara Polen om Ryssland eskalerar - Västerbottens-Kuriren
-- Allvarliga brott mot barn utreds inte i tid - DN
+- Kyrkoval i Växjö stift – så röstade församlingarna - SVT Nyheter
+- Donald Trump: Charlie Kirk är en martyr nu - DN
+- Nya budgeten: 50 miljarder ska få fart på hushållens konsumtion - Arbetet
+- Trump lovar försvara Polen om Ryssland eskalerar - GP
+- Allvarliga brott mot barn utreds inte i tid - GP
 - Här är de farligaste cykelvägarna i Göteborg - GP
-- Klyftan till klimatmålen växer – här är länderna som producerar mest fossila bränslen - DN
-- Mannen försökte slå ambulanspersonal med basebollträ – dagarna innan dådet - SVT Nyheter
+- Världens oljeproduktion på tvärs mot klimatmål - Västerbottens-Kuriren
+- Attackerade ambulanspersonal bara dagar tidigare - UNT
 - Man ihjälskjuten i Norrköping – polisens vädjan - Expressen
 - Stor polisinsats i Järfälla – har hittat handgranater - Expressen
-- 34-åriga Aline: Kongressen består av kriminella - Omni
+- Över 40 dödade i Gaza – Israel utökar offensiv - Hufvudstadsbladet
+- Kraftigt regnoväder i Spanien – en död - GP
 - Trump hotar Venezuela: ”Ofattbara konsekvenser” - UNT
-- IDF: Endast sjukhus skyddas under invasionen – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Kraftigt regnoväder i Spanien – en död - Västerbottens-Kuriren
+- Barn döda i israelisk attack i Libanon – fördöms - Västerbottens-Kuriren
+- Rekordsiffra för e-handeln i augusti - Dagens industri
 - Trump pekar ut familjen Murdoch i Tiktok-affär - EFN
-- Nära 1 200 i Nynäshamn drabbade av stor dataläcka - Nynäshamns Posten
-- Starkaste augustisiffran någonsin i e-handeln - Svensk Handel
-- Sex ekonomer varnar: Misstagen som kan göra Sveriges kris rekordlång – ”Där vill vi inte hamna” - Tidningen Näringslivet
+- Nytt räntebesked i veckan – tusenlappar på spel - Tidningen Näringslivet
+- Arbetslösa får inte ta del av skattesänkning: ”Taskigt” - Omni
 - Fastnar du i doomprompting? Ett oändligt trixande med AI:ns svar - Computer Sweden
-- Designbågar för din stil – kom till Glasögoninstitutet - Corren
+- Apple uppges uppmana leverantörer att öka produktionen av Iphone 17 - The Information - Börsvärlden
 
 ## World News
 
@@ -36,16 +36,16 @@ _Updated: 2025-09-22 06:42_
 - KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
 - Källor: EQT inleder försäljning av Global Connect - EFN
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Techarenan News goes English (Partly at least) - Techarenan.news
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - New Secretary General appointed - Olof Palme International Center
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - H World Takes JI Hotel Brand to Malaysia and Cambodia, Strengthening Southeast Asia Presence - Placera.se
 
 ## Technology
@@ -75,22 +75,22 @@ _Updated: 2025-09-22 06:42_
 
 - Golub Capital BDC, Inc. Prices Public Offering of $250 Million 7.050% Notes Due 2028 - Placera.se
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
+- Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
+- Gold Surges Past $3,650 on Fed Cuts and Central Bank Demand - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Bitcoin Cash (BCH), Unus Sed Leo (LEO), OKB (OKB), Polygon (POL), Algorand (ALGO), Filecoin (FIL), Arbitrum (ARB), and Stacks (STX) - Placera.se
 - BURKE & HERBERT FINANCIAL SERVICES CORP. ENHANCES COMMERCIAL BANKING AND DEPOSIT GROWTH TEAMS - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
 - Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
-- Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
 
@@ -104,41 +104,41 @@ _Updated: 2025-09-22 06:42_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Osher centrum för integrativ hälsa - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Mer än 100 forskare deltar i den tredje internationella konferensen om nano-life science - Vietnam.vn
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
-- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
