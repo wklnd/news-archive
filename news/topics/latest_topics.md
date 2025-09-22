@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-22 11:43_
+_Updated: 2025-09-22 12:44_
 
 ## Top Stories
 
 - Skattesänkningar i fokus när regeringen lägger fram budgeten - DN
-- Valresultatet i kyrkovalet 2025 – Socialdemokraterna blir störst - SVT Nyheter
-- Misstänkt farligt föremål i damm i Malmö - Aftonbladet
+- Misstänkt farligt föremål i damm utanför Malmö - SVT Nyheter
+- 26-åring begärd häktad för mord på ambulanssjukvårdare - DN
 - Alex Schulman: Vi misslyckas med klimatmålen – men Romina Pourmokhtari tycks obekymrad - DN
-- 9,6 miljarder till kulturen – lägsta sedan 2000 - GP
-- Donald Trump: Charlie Kirk är en martyr nu - DN
-- Vill se snusförbud i skolan – även för lärare - DN
-- ”Flaggning” ses över efter ambulanspersonal dödats - Hufvudstadsbladet
-- Världens oljeproduktion på tvärs mot klimatmål - GP
-- Hummer förbryllar – försvunnen från Sverige - GP
-- Tyfon över Filippinerna – tusentals evakueras - Västerbottens-Kuriren
+- JUST NU: De är vinnarna i årets kyrkoval – och de tappar mest - NWT
+- Så når den italienska maffian till Sverige - GP
+- Vill se snusförbud i skolan – även för lärare - Västerbottens-Kuriren
+- Man åtalas för mord på Rawa Majids släkting - Omni
+- Regeringen satsar mer på tänderna - Expressen
+- Bahnhof måste lämna ut uppgifter till polisen - Aftonbladet
+- Tyfon över Filippinerna – tusentals evakueras - GP
 - Sandra Stiskalo: Erkännandet verkar viktigare för Starmer än för palestinierna - DN
-- Trumps ord efter ryska kränkningen i Estland - SVT Nyheter
-- Över 40 dödade i Gaza – Israel utökar offensiv - Hufvudstadsbladet
+- Barn döda i israelisk attack i Libanon – fördöms – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Större attacker mot Ukraina – räcker luftvärnet? - Västerbottens-Kuriren
+- Krogar krymper portioner - fetmamedicin en orsak - DN
 - Guld på ny rekordnivå – analytiker: Kan fortsätta stiga - EFN
-- Krogar krymper portioner - fetmamedicin en orsak - Aftonbladet
-- E-handelns omsättning ökade till rekordnivåer i augusti - Svensk Handel - Börsvärlden
 - Trump pekar ut investerartrio i Tiktok-affär - Dagens industri
+- Taket för bostadsbidrag höjs för första gången på 29 år - Fastighetstidningen
+- Microsoft fyller Teams med AI-agenter - Computer Sweden
 - Fastnar du i doomprompting? Ett oändligt trixande med AI:ns svar - Computer Sweden
-- Apple uppges uppmana leverantörer att öka produktionen av Iphone 17 - The Information - Börsvärlden
 
 ## World News
 
@@ -35,18 +35,18 @@ _Updated: 2025-09-22 11:43_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Livsviktig havsorganism hotad av global uppvärmning - SVT Nyheter
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Källor: EQT inleder försäljning av Global Connect - EFN
-- Techarenan News goes English (Partly at least) - Techarenan.news
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- New Secretary General appointed - Olof Palme International Center
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- H World Takes JI Hotel Brand to Malaysia and Cambodia, Strengthening Southeast Asia Presence - Placera.se
 
 ## Technology
 
@@ -59,10 +59,10 @@ _Updated: 2025-09-22 11:43_
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
@@ -73,25 +73,25 @@ _Updated: 2025-09-22 11:43_
 
 ## Business
 
-- Golub Capital BDC, Inc. Prices Public Offering of $250 Million 7.050% Notes Due 2028 - Placera.se
-- PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
+- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Gold Surges Past $3,650 on Fed Cuts and Central Bank Demand - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Bakkt Announces Pricing of $75 Million Public Offering - Placera.se
+- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Bitcoin Cash (BCH), Unus Sed Leo (LEO), OKB (OKB), Polygon (POL), Algorand (ALGO), Filecoin (FIL), Arbitrum (ARB), and Stacks (STX) - Placera.se
 - BURKE & HERBERT FINANCIAL SERVICES CORP. ENHANCES COMMERCIAL BANKING AND DEPOSIT GROWTH TEAMS - Placera.se
-- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
-- Realty Income to Present at Bank of America's 2025 Global Real Estate Conference - Placera.se
 - Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
-- Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
 - Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
 
 ## Health
@@ -104,9 +104,9 @@ _Updated: 2025-09-22 11:43_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
@@ -120,25 +120,25 @@ _Updated: 2025-09-22 11:43_
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
@@ -146,19 +146,19 @@ _Updated: 2025-09-22 11:43_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
-- Jordbruk och landsbygdsutveckling - European Commission
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- Ho Chi Minh Citys lantbrukarförening skickar lantbrukare till Japan för att lära sig högteknologiskt jordbruk - Vietnam.vn
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Här är världens största jordbruk - ATL
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- USA tvingar ut EU på banan - Land Lantbruk
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
