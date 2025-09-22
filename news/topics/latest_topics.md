@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-22 22:40_
+_Updated: 2025-09-22 23:37_
 
 ## Top Stories
 
-- Jimmy Kimmel live återvänder till Disney - SVT Nyheter
-- Drönare stoppar flygtrafik - Västerbottens-Kuriren
-- Brittiska ministern: Nato redo för väpnad konfrontation - GP
-- Frankrike erkänner palestinsk stat - SVT Nyheter
+- Drönare över Köpenhamns flygplats Kastrup – polisinsats på plats - SVT Nyheter
 - Svenskt Näringsliv och LO: Därför löser inte budgeten jobbkrisen - Arbetet
-- 26-åring begärd häktad för mord på ambulanssjukvårdare - DN
+- Brittiska ministern: Nato redo för väpnad konfrontation - GP
+- Erik de la Reguera: Vad gör Macron när Netanyahu struntar i honom? - DN
+- Svensk forskning: Ingen koppling mellan paracetamol och autism - DN
+- SOS Alarm utreder larmet efter ambulansmordet: ”Otroligt bedrövade” - Aftonbladet
 - Missade klimatmål och fler laddstolpar – klimatnyheterna i regeringens budget - DN
 - ”Hur rädda ska vi vara?” - Nerikes Allehanda
-- De är vinnarna i årets kyrkoval – och de tappar mest - NWT
-- Statsvetaren: Känslan viktigare än budgeten - GP
-- Frankrike erkänner Palestina som självständig stat – Senaste nytt om kriget i Gaza - SVT Nyheter
+- ”Viktigt för demokratin att rösta i kyrkovalet” - GP
+- Kraftig bomb hittades i damm i Vintrie – sprängdes på plats - Sydsvenskan
+- Evakueringsorder för ett sjukhus i Gaza stad - Västerbottens-Kuriren
 - Sanna Torén Björling: Ukrainarna har bilden klar för sig – lita inte på Putin, ens vid vapenvila - DN
-- Putin: Förlänger begränsande kärnvapenavtal - Västerbottens-Kuriren
-- Hundratusentals evakueras inför supertyfon - Västerbottens-Kuriren
-- Krogar krymper portioner - fetmamedicin en orsak - DN
+- Äldre kvinna utsatt för AI-bedrägeriförsök - Expressen
+- Tiotusentals i propalestinska protester i Italien - GP
 - Investerar 100 miljarder dollar i Chat GPT-företaget - Sydsvenskan
-- Warren Buffett har sålt allt i elbilstillverkaren - Dagens industri
-- Välkommet med stärkt bostadsbidrag och pengar till skyddsrum – men långsiktighet saknas - Via TT
+- Krogar krymper portioner - fetmamedicin en orsak - DN
+- Guld på ny rekordnivå – strateg spår ytterligare lyft - Dagens industri
+- BERKSHIRE HAR SÅLT HELA INNEHAVET, AKTIEN -3,5% - Placera.se
 - TEST: Iphone Air mot Iphone 17 Pro max i duell - Aftonbladet
 - Hundratal köade för hudvård: "Jag är fast i träsket" - UNT
 
@@ -120,25 +120,25 @@ _Updated: 2025-09-22 22:40_
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
