@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-22 05:51_
+_Updated: 2025-09-22 06:42_
 
 ## Top Stories
 
-- Donald Trump: Charlie Kirk är en martyr nu - DN
-- Valresultatet i kyrkovalet 2025 – Socialdemokraterna blir störst - SVT Nyheter
-- Budget 2026: 50 miljarder ska få fart på hushållens konsumtion - Arbetet
-- Trump lovar försvara Polen om Ryssland eskalerar - GP
-- Ingen brist på kriser att lösa – men på pengar - SvD
-- Allvarliga brott mot barn utreds inte i tid - Aftonbladet
-- Efter mordet: ambulanspersonal vill säga upp sig - DN
+- Skattesänkningar dominerar höstbudgeten – fem huvudpunkter att ha koll på - DN
+- Minnesstund för Charlie Kirk – SVT liverapporterar - SVT Nyheter
+- ”Viktigt för demokratin att rösta i kyrkovalet” - GP
+- Trump lovar försvara Polen om Ryssland eskalerar - Västerbottens-Kuriren
+- Allvarliga brott mot barn utreds inte i tid - DN
+- Här är de farligaste cykelvägarna i Göteborg - GP
+- Klyftan till klimatmålen växer – här är länderna som producerar mest fossila bränslen - DN
+- Mannen försökte slå ambulanspersonal med basebollträ – dagarna innan dådet - SVT Nyheter
 - Man ihjälskjuten i Norrköping – polisens vädjan - Expressen
 - Stor polisinsats i Järfälla – har hittat handgranater - Expressen
-- Här är föremålet Youtubegänget drog upp: "Ringde polisen" - NT
 - 34-åriga Aline: Kongressen består av kriminella - Omni
-- Över 40 dödade i Gaza – Israel utökar offensiv - Hufvudstadsbladet
-- Barn döda i israelisk attack i Libanon – fördöms - Västerbottens-Kuriren
-- Större attacker mot Ukraina – räcker luftvärnet? - GP
+- Trump hotar Venezuela: ”Ofattbara konsekvenser” - UNT
+- IDF: Endast sjukhus skyddas under invasionen – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Kraftigt regnoväder i Spanien – en död - Västerbottens-Kuriren
+- Trump pekar ut familjen Murdoch i Tiktok-affär - EFN
 - Nära 1 200 i Nynäshamn drabbade av stor dataläcka - Nynäshamns Posten
-- Försökte stjäla 40 paket kaffe på Ica – tumult uppstod - Sydsvenskan
-- Reseavdraget dras ned – så mycket dyrare blir det att pendla - UNT
-- Skuggdirektionen: Passa på – nu går sänkningståget - Dagens industri
+- Starkaste augustisiffran någonsin i e-handeln - Svensk Handel
+- Sex ekonomer varnar: Misstagen som kan göra Sveriges kris rekordlång – ”Där vill vi inte hamna” - Tidningen Näringslivet
+- Fastnar du i doomprompting? Ett oändligt trixande med AI:ns svar - Computer Sweden
 - Designbågar för din stil – kom till Glasögoninstitutet - Corren
-- Kritiskt datum för många – då slutar Bank-id fungera på vissa mobiler - Börskollen
 
 ## World News
 
@@ -33,20 +33,20 @@ _Updated: 2025-09-22 05:51_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
 - Källor: EQT inleder försäljning av Global Connect - EFN
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Techarenan News goes English (Partly at least) - Techarenan.news
+- New Secretary General appointed - Olof Palme International Center
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
-- World Athletics introduces gene test for female category - BBC
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- 1 426 potential victims identified in global operation against human trafficking - Europol
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
-- Here’s what happened in 2022 in 10 striking pictures - The World Economic Forum
-- What lies beneath: Germany’s hidden organized corruption threat - Global Initiative against Transnational Organized Crime (GI-TOC)
-- Flest coronasäkra stränder i Portugal och ny global säkerhetsmärkning - travelnews.se
-- We Are One: How the world's film festivals came together - BBC
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- H World Takes JI Hotel Brand to Malaysia and Cambodia, Strengthening Southeast Asia Presence - Placera.se
 
 ## Technology
 
@@ -73,26 +73,26 @@ _Updated: 2025-09-22 05:51_
 
 ## Business
 
+- Golub Capital BDC, Inc. Prices Public Offering of $250 Million 7.050% Notes Due 2028 - Placera.se
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
 - BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Realty Income to Present at Bank of America's 2025 Global Real Estate Conference - Placera.se
+- BURKE & HERBERT FINANCIAL SERVICES CORP. ENHANCES COMMERCIAL BANKING AND DEPOSIT GROWTH TEAMS - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
 - Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
 - Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
-- Golub Capital BDC, Inc. Prices Public Offering of $250 Million 7.050% Notes Due 2028 - Placera.se
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
 
 ## Health
 
@@ -120,45 +120,45 @@ _Updated: 2025-09-22 05:51_
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Mer än 100 forskare deltar i den tredje internationella konferensen om nano-life science - Vietnam.vn
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
+- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Här är världens största jordbruk - ATL
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
