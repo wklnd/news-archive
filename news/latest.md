@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-22 16:50_
+_Updated: 2025-09-22 17:48_
 
 - Charlie Kirk’s Politically Charged Memorial - The New York Times
-- H-1B: What Trump’s $100,000 visa means for India and US industries - BBC
+- Trump’s $100,000 H-1B visa fee could hurt US growth, economists warn - The Guardian
 - The drug Trump plans to promote for autism shows real (and fragile) hope - The Washington Post
 - Trump’s new demands on Justice Department raise alarm among prosecutors - The Washington Post
-- How Israel could retaliate against the growing push for recognition of a Palestinian state - AP News
-- TikTok algorithm to be ‘retrained’ by Oracle in Trump deal - Financial Times
-- Tables turn for Democrats as they use shutdown for leverage - Politico
+- How Israel could retaliate to the growing push for recognition of a Palestinian state - AP News
+- What to know as U.N. General Assembly opens, marking 80 years, tackling deep crises - NPR
 - Tiger kills animal handler at wildlife preserve in Oklahoma - CBS News
+- Tables turn for Democrats as they use shutdown for leverage - Politico
+- Republican Redistricting Is Sowing Chaos in Houston - The New York Times
 - Mother of man shot dead at a country club says he 'took a bullet for his family' - NBC News
-- Trump heads to UN General Assembly as future of Palestinian state and Gaza likely to dominate - ABC News - Breaking News, Latest News and Videos
 - Philippines: Thousands evacuate as Super Typhoon Ragasa hits - BBC
+- Ukrainian drones reportedly strike resort in Russian-occupied Crimea - Euronews.com
 - Man charged with murder in killing of teen TikTok star in Pakistan - CBS News
-- Dominican Republic recovers 1,000 kilograms of cocaine from speedboat destroyed by US Navy - France 24
-- Oracle Stock Rises After Naming Co-CEOs to Replace Safra Catz - Barron's
-- Pfizer to Acquire Metsera and its Next-Generation Obesity Portfolio - Business Wire
-- Stock Market Today: Dow Opens Lower; Gold Prices Hit Record — Live Updates - The Wall Street Journal
-- Build-A-Bear Workshop is a bright spot in retail even with tariffs, dwindling mall traffic - CNBC
+- Dominican Republic Says It Recovered Cocaine From Boat Struck by U.S. - The New York Times
+- Trial to decide whether Amazon tricked customers into signing up for Prime starts today - CNN
+- Google faces antitrust déjà vu as US seeks to break up its digital advertising business - Yahoo Finance
+- Oracle Names Co-CEOs to Replace Safra Catz. The Stock Rises. - Barron's
+- Pfizer makes a $4.9 billion bet on obesity drugs with Metsera buyout deal - MarketWatch
 - Apple’s new AirPods Pro 3 get their first discount - Engadget
-- One UI 8.5 is getting ready to borrow a fan-favorite Pixel feature (APK teardown) - Android Authority
-- Chrome for Android can now read webpages like a podcast - Android Authority
+- Breaking: Galaxy S24 series is now getting the stable One UI 8 update - Android Authority
