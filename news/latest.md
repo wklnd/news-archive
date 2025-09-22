@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-22 20:51_
+_Updated: 2025-09-22 21:48_
 
 - The Trump administration is expected to link autism to Tylenol use during pregnancy : Shots - Health News - NPR
 - President Trump Joins Nation in Celebrating Charlie Kirk’s Enduring Legacy - The White House (.gov)
-- Trump’s $100,000 H-1B visa fee could hurt US growth, economists warn - The Guardian
 - Trump’s new demands on Justice Department raise alarm among prosecutors - The Washington Post
-- TikTok deal won't include 'golden share' or equity for U.S., Trump administration says - CNBC
+- Trump’s $100,000 H-1B visa fee could hurt US growth, economists warn - The Guardian
+- White House defends border czar in wake of closed DOJ probe: Homan did ‘nothing wrong’ - Politico
 - 4.3 magnitude earthquake jolts the San Francisco Bay Area and people report feeling a sharp shake - AP News
-- Tiger kills animal handler at wildlife preserve in Oklahoma - CBS News
-- Army releases names of JBLM soldiers killed in Thurston County helicopter crash - Tacoma News Tribune
-- The Firing of Educators Over Kirk Comments Follows a Familiar Playbook - The New York Times
 - Why Democrats can’t match Trump’s gerrymander push - Politico
+- The Firing of Educators Over Kirk Comments Follows a Familiar Playbook - The New York Times
+- New Jersey governor candidates grapple over whether it's a bellwether - ABC News - Breaking News, Latest News and Videos
 - Netanyahu vows retaliation ahead of more Palestine recognitions at U.N. - The Washington Post
 - Duchess of York Sarah Ferguson removed from four charities over Epstein email - BBC
+- Russia's "brazen" NATO airspace violations head to UN Security Council - Axios
 - Trump heads to UN General Assembly as future of Palestinian state and Gaza likely to dominate - ABC News - Breaking News, Latest News and Videos
-- North Korean leader recalls ‘good personal memories’ of Trump, urges U.S. to drop denuclearization demands - PBS
-- Nvidia to invest $100 billion in OpenAI as AI datacenter competition intensifies - Reuters
+- Chipmaker Nvidia to invest up to $100 billion in OpenAI - NBC News
 - Trial to decide whether Amazon tricked customers into signing up for Prime starts today - CNN
-- Pfizer buys monthly GLP-1RA developer Metsera for $4.9bn - Yahoo Finance
 - Michelob Ultra overtakes Modelo Especial as best-selling beer in the U.S. - CNBC
-- TCL’s Google TVs with an mmWave presence sensor are out now - The Verge
+- Spirit Airlines preparing to furlough 1,800 flight attendants - Yahoo Finance
 - One UI 8 update is now live for the Galaxy S24, Z Flip 6, and Z Fold 6 - Android Central
+- Apple releases first iOS 26.1 developer beta for iPhone - 9to5Mac
+- Apple Watch Series 11 vs. Samsung Galaxy Watch 8: The Top Highlights of Each Smartwatch - CNET
