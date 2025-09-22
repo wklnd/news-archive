@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-22 01:48_
+_Updated: 2025-09-22 04:20_
 
-- Charlie Kirk Funeral Live Updates: Trump to Speak at Memorial in Arizona - The New York Times
+- Key takeaways from Charlie Kirk's memorial service - ABC News - Breaking News, Latest News and Videos
 - White House clarifies $100K H-1B visa fee won’t apply to existing holders as Trump stirs anxiety - PBS
 - Trump officials shut down bribery probe of border czar Tom Homan - The Washington Post
-- UK, Canada and Australia announce formal recognition of Palestine, with wave of Israel’s allies to follow - The Guardian
-- "Path to a dictatorship": Democrats flame Trump's public pressure on Bondi - Axios
-- Hundreds plunge in Chicago River for first official swim in nearly 100 years - The Guardian
-- 'We're not North Korea.' Newsom signs bills to limit immigration raids at schools and unmask federal agents - Los Angeles Times
-- Man charged with murder in connection with shooting at Sky Meadow Country Club in Nashua - WMUR
+- Britain, Australia, Canada and Portugal Recognize a Palestinian State - The New York Times
+- Trump on Pentagon restrictions for the press: 'Nothing stops reporters' - Politico
+- Chicagoans Avoided Their ‘Filthy’ River for Years. On Sunday, They Swam in It. - The New York Times
 - Tiger handler fatally mauled at Oklahoma preserve - NBC News
-- Here’s what happens when big-time lobbyists become big-name Trump officials - Politico
-- Dozens arrested and hurt in clashes with police near Philippine presidential palace - Politico
-- Brazilians protest in their thousands against granting Bolsonaro amnesty - The Guardian
-- Israel kills 34 people in Gaza, say health officials, ahead of UN meeting - Politico
-- Transcript: French President Emmanuel Macron on "Face the Nation with Margaret Brennan," Sept. 21, 2025 - CBS News
+- Man charged with murder in connection with shooting at Sky Meadow Country Club in Nashua - WMUR
+- Taliban rejects Trump's bid to take over Afghan air base that U.S. controlled for almost 20 years - CBS News
+- Chris Christie: Trump ‘wants to be prosecutor in every district where he has an enemy’ - The Hill
+- German and Swedish jets intercept Russian military plane over Baltic Sea - NPR
+- Brazilians protest against a bill that could lead to a pardon for Bolsonaro and allies - AP News
+- Four US citizens killed, including three children, in Israeli strike on Lebanon, says Lebanese government - CNN
+- Full transcript of "Face the Nation with Margaret Brennan," Sept. 21, 2025 - CBS News
+- China leaves benchmark lending rates unchanged as expected, despite Fed rate cut - CNBC
 - Trump says Rupert and Lachlan Murdoch likely part of US TikTok deal | Donald Trump - The Guardian
+- Behind Grok's 'sexy' settings, workers review explicit and disturbing content - Business Insider
 - Dublin Airport disruption continues following cyber-attack - BBC
-- Former Trump economic official Gary Cohn says "we've seen the job market degrade," though it may be "temporary" - CBS News
-- Goodwill is preparing for an influx of jobless Gen Zers because of AI, its CEO Steve Preston warns - Fortune
 - Apple’s iPhone 17 Shows Device’s Staying Power — At Least for Now - Bloomberg.com
-- iPhone Air teardown reveals that Apple’s thinnest iPhone is still very repairable - 9to5Mac
+- The foldable iPhone might look like two iPhone Airs stuck together - The Verge
