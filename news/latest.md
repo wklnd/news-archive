@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-22 13:48_
+_Updated: 2025-09-22 15:16_
 
-- Trump news at a glance: president calls Charlie Kirk a ‘martyr’ at memorial - The Guardian
+- Trump hails Charlie Kirk as ‘a martyr for America’s freedom’ at memorial – US politics live - The Guardian
 - India feels the sting as Trump slaps $100,000 fee on H-1B visas - CNBC
-- Israel unites against hollow recognition of Palestine, but PM could go too far - The Times of Israel
-- Trump and Musk Are Seen Together at Kirk Memorial, Months After Falling-Out - The New York Times
-- Patrons at New Hampshire shooting prevented worse tragedy with selfless acts, AG says - NPR
+- Trump heads to UN General Assembly as future of Palestinian state and Gaza likely to dominate - ABC News - Breaking News, Latest News and Videos
+- Trump will reportedly link autism to Tylenol - but many experts are sceptical - BBC
+- Trump pushes Bondi to pursue cases against his foes as he ramps up retribution campaign - PBS
+- Map: 4.3-Magnitude Earthquake Strikes the San Francisco Bay Area - The New York Times
 - Tables turn for Democrats as they use shutdown for leverage - Politico
-- Behind Charlie Kirk’s Spiritual Journey That Fused Christianity and Politics - The New York Times
-- Tiger handler fatally mauled at Oklahoma preserve - NBC News
-- Trump’s new demands on Justice Department raise alarm among prosecutors - The Washington Post
-- Trump to link autism to Tylenol use during pregnancy - Axios
-- UN Security Council to hold emergency meeting on Russian jet incursions over Estonia - CNN
-- As the world convulses in war and contentiousness, its leaders convene at the UN to figure it out - AP News
-- Philippines: Thousands evacuate as Super Typhoon Ragasa hits - BBC
-- Speedboat destroyed by U.S. Navy held 1,000 kilos of cocaine, Dominican Republic says - CBS News
-- Passengers face more disruption after cyberattack hits European airports - CNN
-- Can Google Avoid a Breakup Twice? - The New York Times
-- Gold scales fresh record high as markets brace for further rate cuts - Reuters
-- Wall Street got the rate cut it wanted. Can the optimism last? - CNN
-- Breaking: Stable One UI 8 update rolls out for Galaxy Z Flip 6 and Z Fold 6 - SamMobile
-- I tried the Meta Ray-Ban Display glasses, and they got me excited for the post-smartphone era - ZDNET
+- Tiger kills Oklahoma trainer linked to ‘Tiger King’ Joe Exotic - CNN
+- US Student Visa Arrivals Fall to Four-Year Low, Led by Asia Drop - Bloomberg.com
+- Mother of man shot dead at a country club says he 'took a bullet for his family' - NBC News
+- World summit to meet on two-state solution as support grows for Palestinian state - Reuters
+- Man charged with murder in killing of teen TikTok star in Pakistan - CBS News
+- German and Swedish jets intercept Russian military plane over Baltic Sea - NPR
+- Tourist mistaken for wanted fugitive spends nearly a month in Italian prison: "The nightmare is over" - CBS News
+- Google faces antitrust déjà vu as US seeks to break up its digital advertising business - AP News
+- Pfizer to Buy Weight-Loss Drug Developer Metsera for Up to $7.3 Billion - The Wall Street Journal
+- Build-A-Bear Workshop is a bright spot in retail even with tariffs, dwindling mall traffic - CNBC
+- BYD’s Stock Falls After Report Buffett Sold His Entire Stake - Bloomberg.com
+- One UI 8.5 is getting ready to borrow a fan-favorite Pixel feature (APK teardown) - Android Authority
+- Chrome for Android can now read webpages like a podcast - Android Authority
