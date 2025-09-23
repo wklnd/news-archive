@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-23 04:10_
+_Updated: 2025-09-23 05:20_
 
 - Jimmy Kimmel’s Show to Return to ABC on Tuesday Night - The New York Times
 - Trump blames Tylenol for autism. Science doesn't back him up : Shots - Health News - NPR
 - DESIGNATING ANTIFA AS A DOMESTIC TERRORIST ORGANIZATION - The White House (.gov)
-- Here's what immigration attorneys say about Trump's $100,000 H-1B fee - CBS News
+- White House Floats Doctor Exemptions for $100,000 Visa Fee - Bloomberg.com
 - Supreme Court allows Trump firing of FTC commissioner, accepts case for December argument - ABC News - Breaking News, Latest News and Videos
 - Gabrielle is now a Category 4 hurricane. Forecasters advise Azores to take notice - PBS
+- Widow of man killed in Nashua country club shooting shares memories as suspect appears in court remotely - The Boston Globe
 - Eat salmon, win prizes: Fat Bear Week begins in Alaska’s Katmai national park - The Guardian
-- Homan has Trump's full support, White House says, after bribery allegations - Reuters
-- Man charged with attempted assassination of Trump rests own case - NPR
-- Trump to meet with Democratic leaders Thursday with shutdown looming - Politico
-- France defies Trump, recognizing Palestinian statehood after attempts to quash effort - The Washington Post
+- Suspect accused of shooting at Sacramento ABC affiliate's station had note with Patel, Bondi's names in car: Complaint - ABC News - Breaking News, Latest News and Videos
+- White House Denies Homan Took Bag of Cash in F.B.I. Inquiry - The New York Times
+- France recognises state of Palestine, Macron tells UN; Abbas says Hamas to ‘surrender their weapons’ – Middle East crisis live - The Guardian
 - Charities cut ties with Sarah Ferguson after reported email describing Jeffrey Epstein as ‘friend’ - PBS
+- Trump to present Arab leaders with U.S. principles for ending Gaza war - Axios
 - Egyptian-British activist Alaa Abd el-Fattah released after Sisi pardon - Reuters
-- What to know as U.N. General Assembly opens, marking 80 years, tackling deep crises - NPR
-- S&P 500 Gain & Losses Today: Oracle, Nvidia Shares Advance; Kenvue Stock Slips - Investopedia
-- Too tricky to cancel: Amazon faces US trial over alleged Prime subscription deceptions - The Guardian
-- FDA to approve drug to treat autism symptoms - Politico
+- Stock Market News, Sept. 22, 2025: Nasdaq Rises to Record After Nvidia, OpenAI Link Up - The Wall Street Journal
+- A jury will look at whether Amazon tricked customers into joining Prime -- and made it hard to leave - AP News
+- FDA approves drug that Trump due to suggest as autism treatment - Reuters
 - SMART-TD and Union Pacific Announce Landmark Agreement Securing Jobs and the Future of Railroading - SMART Union
-- Apple releases macOS Tahoe 26.1 developer beta 1 - 9to5Mac
 - iFixit tears down the iPhone Air, finds that it’s mostly battery - Ars Technica
+- One UI 8 update is now live for the Galaxy S24, Z Flip 6, and Z Fold 6 - Android Central
