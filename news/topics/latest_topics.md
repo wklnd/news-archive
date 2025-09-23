@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-23 15:04_
+_Updated: 2025-09-23 15:45_
 
 ## Top Stories
 
 - Michael Winiarski: Efter Rysslands gränskränkningar: Ska vi dö för Tallinn? - DN
 - Maha dog under operation – läkare döms till två års fängelse - DN
-- Person påkörd av spårvagn – allvarligt skadad - Omni
-- Sverige till Iran: Släpp Djalali omedelbart - GP
 - Stubb sätter Finland vid vuxenbordet - SvD
+- ”En politisk seger” – experter om att fler länder erkänna Palestina - tidningensyre.se
 - ”En budget med ett budskap ‒ snälla, konsumera nu” - Västerbottens-Kuriren
+- Efter dödliga attacken – ordnar tyst minut vid Skellefteå sjukhus - norran.se
 - USA:s regering kopplar användande av paracetamol till autism - SVT Nyheter
-- Efter ambulansdådet i Gävleborg: Tyst minut i Blekinge - SVT Nyheter
-- Storbrand rasar på skrot – VMA utfärdat - GP
-- Mycket av valrörelsen gick åt till ickefrågor - Kyrkans Tidning
+- Insändare. Fyra teser att spika upp efter kyrkovalet - DN
+- Sjukvårdsminister Elisabet Lann till Sahlgrenska under Beredskapsveckan - Regeringen.se
+- Sverige vädjar till EU: Sänk klimatkraven på oss - Aftonbladet
 - Drönare stoppade flyg vid Kastrup - SVT Nyheter
+- Norge: Tre ryska kränkningar av luftrummet i år - Västerbottens-Kuriren
+- Filip och Fredrik på Sverigeturné - DN
 - Kina hoppas tälja guld i ”silverekonomin” – förskolor blir äldreboenden - DN
-- Moldavien: Misstänkt plan på ryskstött valkaos - Västerbottens-Kuriren
-- Supertyfon drar in över Hongkong – skolor stänger - GP
 - Penningpolitiskt beslut: Styrräntan sänks till 1,75 procent - Sveriges Riksbank
 - ICA Gruppen genomför organisationsförändringar - ICA Gruppen
-- Efter tullarna – Volvo öppnar fler USA-dörrar - Västerbottens-Kuriren
-- OECD lyfter prognos för världsekonomin - Sydsvenskan
+- Han sågar Klarnas värdering: "Får inte slarva bort lönsamheten" - Affärsvärlden
+- Nvidias kreativa påhitt osar dotcom - SvD
 - Trendbrott i ny rapport: Barns skärmtid minskar - Omni
-- Fysiska spel ligger i dödens väntrum - FZ.se
+- Sågade Apple Intelligence släpps på svenska – i betaversion - Ny Teknik
 
 ## World News
 
@@ -33,19 +33,19 @@ _Updated: 2025-09-23 15:04_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Lufthansa And Munich Airport Take Oktoberfest To New Heights, Offering International Travelers An Immersive, High-Impact Experience Filled With Bavarian Magic, Live Entertainment, And Unforgettable Surprises - Travel And Tour World
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Livsviktig havsorganism hotad av global uppvärmning - SVT Nyheter
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Lidl lanserar global kampanj - Dagligvarunytt
-- Allergan Aesthetics Announces Expansion of SKINVIVE by JUVÉDERM® into 35 New Markets, Reinforcing its Commitment to Advancing Global Skin Quality - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
 - World Athletics introduces gene test for female category - BBC
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
+- Allergan Aesthetics Announces Expansion of SKINVIVE by JUVÉDERM® into 35 New Markets, Reinforcing its Commitment to Advancing Global Skin Quality - Placera.se
 - 🌏 Global ojämlikhet minskar faktiskt - Warp News
 
 ## Technology
@@ -55,12 +55,11 @@ _Updated: 2025-09-23 15:04_
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Lansering av Au Lac Artificial Intelligence Alliance för att utveckla strategisk teknologi - Vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- AI i juli 2025: Superintelligens, talangkrig och samhällsförändringar / Uppdaterad: 2025, 3 juli, 00:01 CET - ts2.tech
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
-- 290 million for digitalisation of Swedish industry - Vinnova
+- Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
@@ -70,6 +69,7 @@ _Updated: 2025-09-23 15:04_
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- 290 million for digitalisation of Swedish industry - Vinnova
 
 ## Business
 
@@ -143,22 +143,22 @@ _Updated: 2025-09-23 15:04_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
+- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Här är världens största jordbruk - ATL
-- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
