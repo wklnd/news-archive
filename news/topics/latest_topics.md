@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-23 22:40_
+_Updated: 2025-09-23 23:37_
 
 ## Top Stories
 
-- Regeringsfrågan stötesten i statsministerduell - GP
-- Man fälls för mordförsök mot Trump på golfbana - SVT Nyheter
 - Trump efter möte med Zelenskyj: ”Ukraina kan vinna” - DN
+- Regeringsfrågan stötesten i statsministerduell - GP
+- En gripen efter explosion i centrala Oslo - SVT Nyheter
 - Michael Winiarski: Efter Rysslands gränskränkningar: Ska vi dö för Tallinn? - DN
-- ”Ryssland vill testa reaktionsförmågan” - SvD
+- Storbrand rasar på skrot i Göteborg - GP
+- Här kan ambulanspersonal varnas – ”fråga om patientsäkerhet” - Dagens Medicin
+- ”En budget med ett budskap ‒ snälla, konsumera nu” - Västerbottens-Kuriren
+- Malmer upprepade krav på att frige Djalali - DN
+- ”Hur rädda ska vi vara?” - Nerikes Allehanda
+- LEDARE: Kyrkovalet: Mellanskåne förnekar sig inte - Skånska Dagbladet
+- ”Kapabel aktör” bakom drönarna över Kastrup - GP
 - Trump i FN: Avslutat krig – fick ingen hjälp av FN - Hufvudstadsbladet
-- Flaggning av farliga personer avfärdas: ”Inte träffsäkert” - DN
-- Skjutning mot musikjättens kontor i Stockholm - Västerbottens-Kuriren
-- Hårda orden mot regeringen: ”Svindlar” – Höstbudgeten 2025 - SVT Nyheter
-- Sverige till Iran: Släpp Djalali omedelbart - GP
-- Kristersson om drönarna: Kan inte utesluta Ryssland - GP
+- Man fälls för mordförsök mot Trump på golfbana - SVT Nyheter
 - Guldgruva har kollapsat – 25 arbetare fast - Västerbottens-Kuriren
-- FN-utredare: Israel strävar efter permanent kontroll över Gaza – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Pensionären Jens tjänade 2,6 miljoner – på 24 timmar - Expressen
 - Riksbanken sänker räntan - 8 Sidor
 - ECB-topp: Digital euro kan bli verklighet om fyra år - Dagens industri
 - Dispyten mellan USA och Kina kring sällsynta jordartsmetaller fortfarande olöst - Börsvärlden
-- Hyresgästföreningen: En bostadsmarknad som cementerar ojämlikhet - Aftonbladet
+- Saknar du kvitton? Du kan ändå få avdrag på reavinstskatten - Expressen
 - Trendbrott: Yngre barn använder digitala medier mindre - Voister
 - iPhone 17 Pro Max vs iPhone 16 Pro Max: Apple har en ny toppmodell - TechRadar
 
@@ -76,32 +76,32 @@ _Updated: 2025-09-23 22:40_
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - AgriFORCE Growing Systems (AGRI) to Launch as First Publicly-Traded Avalanche-Focused Company on NASDAQ with a $550 Million Capital Raise Strategy - Placera.se
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- JPMorgan Chase affärsmodell - Business Model Analyst
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
+- BURKE & HERBERT FINANCIAL SERVICES CORP. ENHANCES COMMERCIAL BANKING AND DEPOSIT GROWTH TEAMS - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
+- Equitable Holdings, Inc. Announces Full Redemption of Its Series B Depositary Shares - Placera.se
 - Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- TK Elevator and Alat successfully close strategic partnership investment and €160 million Joint Venture - Placera.se
 
 ## Health
 
 - »Allmän återhållsamhet« räcker inte - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
@@ -121,31 +121,30 @@ _Updated: 2025-09-23 22:40_
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Studie om mikroplast fälld för fusk - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
 - Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -155,10 +154,11 @@ _Updated: 2025-09-23 22:40_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
