@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-24 00:48_
+_Updated: 2025-09-24 01:48_
 
-- 7 key moments from Trump’s U.N. speech - PBS
-- Ryan Routh convicted of 2024 Trump assassination attempt, attempts to stab himself with pen after verdict - CBS News
+- Trump criticizes European allies in U.N. speech: "Your countries are going to hell" - CBS News
 - In extraordinary shift, Trump says Ukraine can win war with Russia - Axios
-- Trump's new visa fees spur offshoring talks, hiring turmoil - Reuters
+- Ryan Routh, would-be Trump assassin, tries to stab himself after being found guilty on all counts - ABC News - Breaking News, Latest News and Videos
 - 3 thoughts from an autism researcher on Trump's acetaminophen and vaccine claims - NPR
-- The Secret Service has dismantled a telecom threat near the UN. It could have disabled cell service in NYC - PBS
+- Trump Says NATO Should Down Russian Aircraft in Breaches - Bloomberg
+- Trump cancels meeting with Schumer and Jeffries - Politico
+- Trump administration proposes overhauling H-1B visa process for higher-paid workers - NBC News
+- How a SIM farm like the one found near the UN threatens telecom networks - AP News
 - Tom Tiffany to run for governor of Wisconsin - Politico
-- Trump cancels White House meeting with Schumer and Jeffries despite risk of a government shutdown - AP News
 - Harris admits she was 'reckless' in not challenging Biden's decision to run for reelection - ABC News - Breaking News, Latest News and Videos
-- Despite Trump’s Pressure on Justice Dept., Certain Safeguards Are Beyond His Reach - The New York Times
+- Southern China closes schools and cancels flights as Super Typhoon Ragasa nears - AP News
+- Trump at UN: Recognizing Palestine encourages conflict, accedes to Hamas ‘ransom demands’ - The Times of Israel
 - U.S. designates Barrio 18 as foreign terrorist organization - CBS News
 - Marine Biologists Just Filmed a Shark Threesome, and It’s a Win for Science - Gizmodo
-- 'We need solutions': Palestinians in West Bank fear recognition is not enough - BBC
-- A drone flyover above Copenhagen Airport prompts concerns that Russia was behind it - AP News
 - OpenAI, Oracle, and SoftBank expand Stargate with five new AI data center sites - OpenAI
 - Stock market today: Dow, S&P 500, Nasdaq slide after Powell flags Fed's challenge, 'highly valued' stocks - Yahoo Finance
-- Jury to look at whether Amazon tricked customers into joining Prime - KOMO
-- US Treasury's support for Argentina gives peso, Milei friendly leg-up, for now - Reuters
-- Two expected iPhone Air ‘weaknesses’ now look surprisingly great - 9to5Mac
-- Samsung’s next big Android update keeps leaking with more AI and Liquid Glass vibes - 9to5Google
+- Amazon trial begins on FTC claims it duped Prime subscribers - Reuters
+- Eli Lilly announces plans for $6.5B manufacturing plant in Houston - KHOU
+- iPhone Air and iPhone 17 Pro Top Last Year’s Phones in Bend and Drop Tests - MacRumors
+- DJI Osmo Nano Released – Modular 52g / 0.1lb Camera with 4K120 and 10-Bit D-Log M - CineD
