@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-23 10:53_
+_Updated: 2025-09-23 11:48_
 
-- Experts alarmed as Trump pushes unproven link between Tylenol and autism - The Guardian
+- Trump Issues Warning Based on Unproven Link Between Tylenol and Autism - The New York Times
 - Jensen Huang and Sam Altman React to New H-1B $100K Fee - Business Insider
-- Biden response to Gaza was "inadequate," Harris says in new book - Axios
+- Trump to present Arab leaders with U.S. principles for ending Gaza war - Axios
+- 3 key moments that defined Kamala Harris' '107 Days' - ABC News - Breaking News, Latest News and Videos
 - France formally recognises Palestinian state - BBC
-- WATCH: Trump ‘authentically himself’ for saying he hates opponents at Kirk funeral, White House says - PBS
-- Retired Lobbyist in Federal Custody in ABC Affiliate Shooting in Sacramento, California - The New York Times
-- Takeaways from Kamala Harris’ first interview about her new book, ‘107 Days’ - CNN
-- Man charged with shining laser pointer at Marine One with Trump aboard - CBS News
+- President Trump Joins Nation in Celebrating Charlie Kirk’s Enduring Legacy - The White House (.gov)
+- Man suspected of shooting at ABC affiliate had note to ‘do the next scary thing,’ prosecutors say - The Hill
+- Man charged with aiming laser pointer at Trump's helicopter - NBC News
+- LIVE RESULTS: Arizona 7th Congressional District Special Election - PBS
 - New Hampshire Shooting Suspect Is Arraigned on Murder Charge - The New York Times
-- Federal judge orders Trump to restore $500 million in frozen UCLA medical research grants - Los Angeles Times
-- Drone sightings disrupt flights at Copenhagen, Oslo airports - Al Jazeera
-- Trump to address UN as he distances US from global cooperation - Reuters
-- China cancels schools and flights as it braces for Ragasa, one of the strongest typhoons in years - AP News
-- Rodrigo Duterte, former Philippines president, charged with crimes against humanity at ICC - The Guardian
-- Porsche shares plunge after announcing EV rollout delay - BBC
-- China Floods the World With Cheap Exports After Trump’s Tariffs - Bloomberg
+- What you will and won’t see at this year’s UN General Assembly - AP News
+- Drone Sightings Force Copenhagen and Oslo Airports to Close Temporarily - The New York Times
+- ICC charges ex-Philippine President Duterte with crimes against humanity - Al Jazeera
+- Arab Spring activist Alaa Abdel Fattah released after pardon from Egypt’s Sisi - The Washington Post
+- Too tricky to cancel: Amazon faces US trial over alleged Prime subscription deceptions - The Guardian
 - S&P 500 Gain & Losses Today: Oracle, Nvidia Shares Advance; Kenvue Stock Slips - Investopedia
-- Judge says construction of large offshore wind farm near Rhode Island can resume - WBUR
+- Exclusive: China ask brokers to pause real-world asset business in Hong Kong, sources say - Reuters
+- China Floods the World With Cheap Exports After Trump’s Tariffs - Bloomberg
 - iPhone Fold is coming: Five new features for next year’s launch - 9to5Mac
-- MediaTek Launches Improved AI Processor to Compete With Qualcomm - Bloomberg
+- iFixit tears down the iPhone Air, finds that it’s mostly battery - Ars Technica
