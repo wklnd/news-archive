@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-23 12:43_
+_Updated: 2025-09-23 13:38_
 
 ## Top Stories
 
+- Michael Winiarski: Efter Rysslands gränskränkningar: Ska vi dö för Tallinn? - DN
+- Drönare över Köpenhamns flygplats – polisinsats på plats - SVT Nyheter
 - Maha dog efter plastikoperation – läkare döms till fängelse - DN
-- Drönare över Köpenhamns flygplats Kastrup – stor polisinsats - SVT Nyheter
-- Carl Bildt: FN i kris – skyller på USA - Expressen
 - Person påkörd av spårvagn vid Masthuggstorget - GP
-- Viktigt meddelande till allmänheten i Göteborg tätort i Göteborgs kommun, Västra Götalands län - Krisinformation.se
-- Nato: Ryssland måste sluta - Västerbottens-Kuriren
+- ”En budget med ett budskap ‒ snälla, konsumera nu” - Västerbottens-Kuriren
+- Mycket av valrörelsen gick åt till ickefrågor - Kyrkans Tidning
 - USA:s regering kopplar användande av paracetamol till autism - SVT Nyheter
 - Efter ambulansdådet i Gävleborg: Tyst minut i Blekinge - SVT Nyheter
-- Mycket av valrörelsen gick åt till ickefrågor - Kyrkans Tidning
+- Storbrand rasar på skrot – VMA utfärdat - GP
 - Avslöjande om kyrkopolitiker – succéval för S - DN
-- Saudiarabiens stormufti är död - GP
-- Tunga G7-länder erkänner Palestina: ”Tsunami” - Hufvudstadsbladet
-- Kina hoppas tälja guld i ”silverekonomin” – förskolor blir äldreboenden - DN
 - Moldavien: Misstänkt plan på ryskstött valkaos - Västerbottens-Kuriren
+- Hongkong hukar under supertyfon – skolor stänger - GP
+- Kina hoppas tälja guld i ”silverekonomin” – förskolor blir äldreboenden - DN
+- 640 000 palestinier beräknas ha evakuerat – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Penningpolitiskt beslut: Styrräntan sänks till 1,75 procent - Sveriges Riksbank
 - ICA Gruppen genomför organisationsförändringar - ICA Gruppen
+- Svår bostadsmarknad för unga: ”Blivit ett oönskat preventivmedel” - DN
 - Nya priskurvan på el – billigare på dagen än på natten - DN
-- EU och Indonesien ingår handelsavtal – tullar avskaffas - Dagens industri
-- Barn lägger mindre tid på digitala medier - Aftonbladet
+- Trendbrott i ny rapport: Barns skärmtid minskar - Omni
 - Sågade Apple Intelligence släpps på svenska – i betaversion - Ny Teknik
 
 ## World News
@@ -60,8 +60,8 @@ _Updated: 2025-09-23 12:43_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
-- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
@@ -86,13 +86,13 @@ _Updated: 2025-09-23 12:43_
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Realty Income to Present at Bank of America's 2025 Global Real Estate Conference - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -103,6 +103,7 @@ _Updated: 2025-09-23 12:43_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
@@ -114,51 +115,50 @@ _Updated: 2025-09-23 12:43_
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
+- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Här är världens största jordbruk - ATL
-- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
