@@ -1,41 +1,40 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-23 10:46_
+_Updated: 2025-09-23 11:40_
 
 ## Top Stories
 
 - Penningpolitiskt beslut: Styrräntan sänks till 1,75 procent - Sveriges Riksbank
-- Drönare över Köpenhamns flygplats Kastrup – stor polisinsats - SVT Nyheter
-- Viktigt meddelande till allmänheten i Göteborg tätort i Göteborgs kommun, Västra Götalands län - Krisinformation.se
-- Så mycket kostade årets första humrar - Västerbottens-Kuriren
-- Skottlossning mot port i centrala Stockholm - Aftonbladet
-- Europa stärker gränsen mot öst: ”Drönarvall” - SvD
-- Efter ambulansdådet i Gävleborg: Tyst minut i Blekinge - SVT Nyheter
-- Trump hävdar koppling mellan paracetamol och autism - DN
-- Sverige vädjar till EU: Sänk klimatkraven på oss - Aftonbladet
+- Drönare över Köpenhamns flygplats – polisinsats på plats - SVT Nyheter
+- Läkare döms efter patients död - Västerbottens-Kuriren
+- Person påkörd av spårvagn vid Masthuggstorget - GP
+- Hon köpte årets första hummer – det blev priset - SVT Nyheter
+- LEDARE: Det blåser en rödgrön vind genom kyrkan i Dalarna - Dala-Demokraten
+- USA:s regering kopplar användande av paracetamol till autism - SVT Nyheter
+- Ambulanspersonal mördades på jobbet – oro och frustration i Värmland: ”Visar riskerna” - VF
+- Brand på skrot i Göteborg – VMA dras tillbaka - DN
 - Sjukvårdsminister Elisabet Lann till Sahlgrenska under Beredskapsveckan - Regeringen.se
 - Varningen från Nato: ”Redo konfrontera ryska plan” - DN
+- Supertyfon drar in över Hongkong – skolor stänger - Västerbottens-Kuriren
 - Tunga G7-länder erkänner Palestina: ”Tsunami” - Hufvudstadsbladet
 - Kina hoppas tälja guld i ”silverekonomin” – förskolor blir äldreboenden - DN
-- Sa till person som kissade vid tunnelbanan – misshandlades - DN
 - Svår bostadsmarknad för unga: ”Blivit ett oönskat preventivmedel” - DN
+- Morgonkoll: Jakartabörsen på rekordnivå efter frihandelsavtal med EU - Dagens industri
 - Unik lista: 9 börsbolag som riskkapitalisterna älskar - Dagens industri
 - Byggnads stämmer litauiskt bolag på över 100 miljoner kronor - Byggnads
-- Nvidia ska investera upp emot 100 miljarder dollar i OpenAI - Börsvärlden
+- Sågade Apple Intelligence släpps på svenska – i betaversion - NyTeknik
 - Daniel Miråå är ny distriktschef på Lambertsson El - Cision News
-- Serien Ditte i ny färg – från 90-talets tacofat till modern klassiker - Mynewsdesk
 
 ## World News
 
-- Port Performance Varies Across the Globe Amid Continuing Shocks - Placera.se
 - Global uppvärmning hotar livsviktig havsorganism - Aftonbladet
 - Drönfotbolls-VM 2025: 265 lag tävlar i Sydkorea på global tekniklekplats - Vietnam.vn
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Livsviktig havsorganism hotad av global uppvärmning - SVT Nyheter
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
@@ -46,6 +45,7 @@ _Updated: 2025-09-23 10:46_
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - World Athletics introduces gene test for female category - BBC
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Allergan Aesthetics Announces Expansion of SKINVIVE by JUVÉDERM® into 35 New Markets, Reinforcing its Commitment to Advancing Global Skin Quality - Placera.se
 - 🌏 Global ojämlikhet minskar faktiskt - Warp News
 
 ## Technology
@@ -61,15 +61,15 @@ _Updated: 2025-09-23 10:46_
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
+- Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
-- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 
 ## Business
 
@@ -120,25 +120,25 @@ _Updated: 2025-09-23 10:46_
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -151,14 +151,14 @@ _Updated: 2025-09-23 10:46_
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
