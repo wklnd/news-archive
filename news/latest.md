@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-23 20:52_
+_Updated: 2025-09-23 21:48_
 
-- Nexstar-owned ABC affiliates won't show Kimmel's return Tuesday, joining Sinclair in preempting program - CNBC
-- 'Your countries are going to hell': Trump bashes United Nations, world leaders in speech - ABC News - Breaking News, Latest News and Videos
+- Would-be Trump assassin tries to stab himself after guilty verdict - CNN
+- Trump criticises countries' migration and climate policies in UN speech - BBC
+- Trump administration proposes new H-1B visa process favoring higher-skilled, better-paid workers - Reuters
 - The Secret Service has dismantled a telecom threat near the UN. It could have disabled cell service in NYC - PBS
-- Suspect Ryan Routh awaits verdict in Trump golf course assassination attempt trial after self-representing - NBC News
-- Trump cancels meeting with top Democrats as federal shutdown looms - The Guardian
 - Trump, Tylenol and Autism - The New York Times
-- Trump's new visa fees spur offshoring talks, hiring turmoil - Reuters
-- Trump says Nato countries should shoot down Russian aircraft entering their airspace – US politics live - The Guardian
-- Kamala Harris tries to unburn the bridges - Politico
-- Trump settles on downtown Miami for his presidential library - NBC News
-- Drone Sightings Force Copenhagen and Oslo Airports to Close Temporarily - The New York Times
-- Crimes against humanity charges against former Philippine President Duterte detailed by court - AP News
-- Sarah Ferguson Is Plotting Her ‘Royal Exit Strategy,’ Says Source - Yahoo
-- Southern China cancels schools and flights as Super Typhoon Ragasa approaches - ABC News - Breaking News, Latest News and Videos
+- Harris admits she was 'reckless' in not challenging Biden's decision to run for reelection - ABC News - Breaking News, Latest News and Videos
+- Trump says NATO countries should shoot down Russian aircraft that violate their airspace - CNN
+- Missouri woman is sentenced in brazen and blundering attempt to steal Graceland - NBC News
+- Trump cancels meeting with top Democrats as federal shutdown looms - The Guardian
+- Democrats Open Inquiries Into Handling of Homan Investigation - The New York Times
+- Denmark PM: Drone incident at Copenhagen Airport an 'attack' - DW
+- Duterte, former Philippines president, charged with murder at ICC - The Washington Post
+- Marine Biologists Just Filmed a Shark Threesome, and It’s a Win for Science - Gizmodo
+- Americans are crazy for shrimp. Much of it came from India — until now - NPR
 - Powell says slowing labor market prompted rate cut, sees 'challenging situation' ahead - CNBC
 - Amazon trial begins on FTC claims it duped Prime subscribers - Reuters
-- Morgan Stanley close to offering crypto trading through E-Trade, calls it ‘tip of the iceberg’ - CNBC
-- Eli Lilly to build $6.5 billion Texas manufacturing facility for obesity pill, other drugs - CNBC
-- You Probably Should Just Buy the iPhone 17 - WIRED
-- Google Photos expands conversational editing to more Android phones - The Verge
+- Argentina’s Javier Milei to meet Donald Trump for talks on US financial lifeline - Financial Times
+- Stock Market Today: S&P 500, Nasdaq Edge Lower; Fed Chair Powell Speaks — Live Updates - The Wall Street Journal
+- DJI’s smallest action camera will start recording when you nod - The Verge
+- 8 new features coming to your Samsung Galaxy phones with One UI 8.5 - Android Authority
