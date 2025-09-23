@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-23 04:07_
+_Updated: 2025-09-23 05:10_
 
 ## Top Stories
 
 - Drönare över Köpenhamns flygplats – polisinsats på plats - SVT Nyheter
 - Svensk forskning: Ingen koppling mellan paracetamol och autism - DN
-- USA terrorklassar Antifa - SvD
-- Svenskt Näringsliv och LO: Därför löser inte budgeten jobbkrisen - Arbetet
+- Larmet: Putin bunkrar – för krig mot Nato - Expressen
+- Budgetpropositionen för 2026 - Regeringen.se
+- Kvinna kastade kniv på sitt ex – tio års fängelse - SvD
 - "Chockad och bestört" - Folkbladet
-- Kvinna kastade kniv på sitt ex – tio års fängelse - GP
 - ”Hur rädda ska vi vara?” - Nerikes Allehanda
-- Missade klimatmål och fler laddstolpar – klimatnyheterna i regeringens budget - DN
 - S återigen störst i kyrkovalet - DN
 - Kraftig bomb hittades i damm i Vintrie – sprängdes på plats - Sydsvenskan
+- Hummer förbryllar – försvunnen från Sverige - GP
 - Erik de la Reguera: Vad gör Macron när Netanyahu struntar i honom? - DN
 - Evakueringsorder för ett sjukhus i Gaza stad - Västerbottens-Kuriren
 - Sanna Torén Björling: Ukrainarna har bilden klar för sig – lita inte på Putin, ens vid vapenvila - DN
 - Hundratusentals evakueras inför supertyfon - Aftonbladet
 - Nvidia ska investera uppemot 100 miljarder dollar i Open AI - Dagens industri
-- BERKSHIRE HAR SÅLT HELA INNEHAVET, AKTIEN -3,5% - Placera.se
-- Krogar krymper portioner - fetmamedicin en orsak - DN
 - Nära 1 200 i Nynäshamn drabbade av stor dataläcka - Nynäshamns Posten
-- Hundratal köade för hudvård: "Jag är fast i träsket" - UNT
+- Guldaktier stiger när ädelmetallen når rekordnivå efter Fed-räntesänkning av Investing.com - Investing.com Sverige
+- Taket för bostadsbidrag höjs för första gången på 29 år - Fastighetstidningen
 - Apple Intelligence har dykt upp på svenska - mobil.se
+- Hundratal köade för hudvård: "Jag är fast i träsket" - UNT
 
 ## World News
 
@@ -36,16 +36,16 @@ _Updated: 2025-09-23 04:07_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Livsviktig havsorganism hotad av global uppvärmning - SVT Nyheter
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - Techarenan News goes English (Partly at least) - Techarenan News
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - New Secretary General appointed - Olof Palme International Center
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - AB InBev and Netflix Announce Global Brand Partnership - Placera.se
 
 ## Technology
@@ -56,11 +56,11 @@ _Updated: 2025-09-23 04:07_
 - Lansering av Au Lac Artificial Intelligence Alliance för att utveckla strategisk teknologi - Vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI i juli 2025: Superintelligens, talangkrig och samhällsförändringar / Uppdaterad: 2025, 3 juli, 00:01 CET - ts2.tech
-- The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
-- AI-revolutionen släpps lös: Genombrott, storföretagens satsningar & etiska stormar (slutet av juli 2025) - ts2.tech
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
+- Ny europeisk AI-modell ska ge bättre väderprognoser - Computer Sweden
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Health In Tech Strengthens Leadership Team to Accelerate AI Innovation and Drive Enterprise Revenue Growth - Placera.se
@@ -105,11 +105,11 @@ _Updated: 2025-09-23 04:07_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Ho Chi Minh City University of Medicine and Pharmacy Hospital och Red Communications lanserar en banbrytande Vodcast-serie om hälsa och livsstil - Vietnam.vn
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
@@ -121,44 +121,44 @@ _Updated: 2025-09-23 04:07_
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
