@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-23 13:38_
+_Updated: 2025-09-23 15:04_
 
 ## Top Stories
 
 - Michael Winiarski: Efter Rysslands gränskränkningar: Ska vi dö för Tallinn? - DN
-- Drönare över Köpenhamns flygplats – polisinsats på plats - SVT Nyheter
-- Maha dog efter plastikoperation – läkare döms till fängelse - DN
-- Person påkörd av spårvagn vid Masthuggstorget - GP
+- Maha dog under operation – läkare döms till två års fängelse - DN
+- Person påkörd av spårvagn – allvarligt skadad - Omni
+- Sverige till Iran: Släpp Djalali omedelbart - GP
+- Stubb sätter Finland vid vuxenbordet - SvD
 - ”En budget med ett budskap ‒ snälla, konsumera nu” - Västerbottens-Kuriren
-- Mycket av valrörelsen gick åt till ickefrågor - Kyrkans Tidning
 - USA:s regering kopplar användande av paracetamol till autism - SVT Nyheter
 - Efter ambulansdådet i Gävleborg: Tyst minut i Blekinge - SVT Nyheter
 - Storbrand rasar på skrot – VMA utfärdat - GP
-- Avslöjande om kyrkopolitiker – succéval för S - DN
-- Moldavien: Misstänkt plan på ryskstött valkaos - Västerbottens-Kuriren
-- Hongkong hukar under supertyfon – skolor stänger - GP
+- Mycket av valrörelsen gick åt till ickefrågor - Kyrkans Tidning
+- Drönare stoppade flyg vid Kastrup - SVT Nyheter
 - Kina hoppas tälja guld i ”silverekonomin” – förskolor blir äldreboenden - DN
-- 640 000 palestinier beräknas ha evakuerat – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Moldavien: Misstänkt plan på ryskstött valkaos - Västerbottens-Kuriren
+- Supertyfon drar in över Hongkong – skolor stänger - GP
 - Penningpolitiskt beslut: Styrräntan sänks till 1,75 procent - Sveriges Riksbank
 - ICA Gruppen genomför organisationsförändringar - ICA Gruppen
-- Svår bostadsmarknad för unga: ”Blivit ett oönskat preventivmedel” - DN
-- Nya priskurvan på el – billigare på dagen än på natten - DN
+- Efter tullarna – Volvo öppnar fler USA-dörrar - Västerbottens-Kuriren
+- OECD lyfter prognos för världsekonomin - Sydsvenskan
 - Trendbrott i ny rapport: Barns skärmtid minskar - Omni
-- Sågade Apple Intelligence släpps på svenska – i betaversion - Ny Teknik
+- Fysiska spel ligger i dödens väntrum - FZ.se
 
 ## World News
 
@@ -33,19 +33,19 @@ _Updated: 2025-09-23 13:38_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Lufthansa And Munich Airport Take Oktoberfest To New Heights, Offering International Travelers An Immersive, High-Impact Experience Filled With Bavarian Magic, Live Entertainment, And Unforgettable Surprises - Travel And Tour World
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Livsviktig havsorganism hotad av global uppvärmning - SVT Nyheter
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Lidl lanserar global kampanj - Dagligvarunytt
+- Allergan Aesthetics Announces Expansion of SKINVIVE by JUVÉDERM® into 35 New Markets, Reinforcing its Commitment to Advancing Global Skin Quality - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Trump ally Charlie Kirk shot dead in Utah - Poddtoppen
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - World Athletics introduces gene test for female category - BBC
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
-- Allergan Aesthetics Announces Expansion of SKINVIVE by JUVÉDERM® into 35 New Markets, Reinforcing its Commitment to Advancing Global Skin Quality - Placera.se
 - 🌏 Global ojämlikhet minskar faktiskt - Warp News
 
 ## Technology
@@ -55,17 +55,17 @@ _Updated: 2025-09-23 13:38_
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Lansering av Au Lac Artificial Intelligence Alliance för att utveckla strategisk teknologi - Vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- AI i juli 2025: Superintelligens, talangkrig och samhällsförändringar / Uppdaterad: 2025, 3 juli, 00:01 CET - ts2.tech
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
+- 290 million for digitalisation of Swedish industry - Vinnova
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Safe Pro Signs MOUs with Drone Industry Leaders Ondas Holdings and Unusual Machines to Collaborate on AI-Powered Computer Vision Technologies - Placera.se
-- ZenaTech to Highlight Progress on Drone as a Service and US Defense Business at Multiple Upcoming Investor Conferences - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
@@ -96,6 +96,7 @@ _Updated: 2025-09-23 13:38_
 
 ## Health
 
+- »Allmän återhållsamhet« räcker inte - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
@@ -104,61 +105,60 @@ _Updated: 2025-09-23 13:38_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ho Chi Minh City University of Medicine and Pharmacy Hospital och Red Communications lanserar en banbrytande Vodcast-serie om hälsa och livsstil - Vietnam.vn
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
+- Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Här är världens största jordbruk - ATL
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
