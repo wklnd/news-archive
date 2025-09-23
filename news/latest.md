@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-23 09:48_
+_Updated: 2025-09-23 10:53_
 
-- As Trump ties Tylenol to autism, doctors raise alarms - The Washington Post
+- Experts alarmed as Trump pushes unproven link between Tylenol and autism - The Guardian
 - Jensen Huang and Sam Altman React to New H-1B $100K Fee - Business Insider
 - Biden response to Gaza was "inadequate," Harris says in new book - Axios
 - France formally recognises Palestinian state - BBC
-- Supreme Court takes up dispute over Trump's authority to fire FTC member - NBC News
-- Federal judge orders 500 health science grants at UCLA restored, rebuffing Trump’s suspensions - LAist
-- Bay Area Earthquake Was Near Fault That’s Overdue for Intense Quake - KQED
-- Man suspected of shooting at ABC affiliate had note to ‘do the next scary thing,’ prosecutors say - The Hill
+- WATCH: Trump ‘authentically himself’ for saying he hates opponents at Kirk funeral, White House says - PBS
+- Retired Lobbyist in Federal Custody in ABC Affiliate Shooting in Sacramento, California - The New York Times
 - Takeaways from Kamala Harris’ first interview about her new book, ‘107 Days’ - CNN
-- Trump Signs Order Targeting Antifa Movement - The New York Times
+- Man charged with shining laser pointer at Marine One with Trump aboard - CBS News
+- New Hampshire Shooting Suspect Is Arraigned on Murder Charge - The New York Times
+- Federal judge orders Trump to restore $500 million in frozen UCLA medical research grants - Los Angeles Times
 - Drone sightings disrupt flights at Copenhagen, Oslo airports - Al Jazeera
-- Rodrigo Duterte, former Philippines president, charged with crimes against humanity at ICC - The Guardian
 - Trump to address UN as he distances US from global cooperation - Reuters
-- Arab Spring activist Alaa Abdel Fattah released after pardon from Egypt’s Sisi - The Washington Post
-- S&P 500 Gain & Losses Today: Oracle, Nvidia Shares Advance; Kenvue Stock Slips - Investopedia
+- China cancels schools and flights as it braces for Ragasa, one of the strongest typhoons in years - AP News
+- Rodrigo Duterte, former Philippines president, charged with crimes against humanity at ICC - The Guardian
+- Porsche shares plunge after announcing EV rollout delay - BBC
 - China Floods the World With Cheap Exports After Trump’s Tariffs - Bloomberg
-- Oracle is replacing CEO Safra Catz with two co-CEOs - The Verge
-- Exclusive: China ask brokers to pause real-world asset business in Hong Kong, sources say - Reuters
+- S&P 500 Gain & Losses Today: Oracle, Nvidia Shares Advance; Kenvue Stock Slips - Investopedia
+- Judge says construction of large offshore wind farm near Rhode Island can resume - WBUR
 - iPhone Fold is coming: Five new features for next year’s launch - 9to5Mac
-- Kojima and Xbox team up to show off a new OD teaser, "or maybe a signal", running on Unreal Engine 5 - Eurogamer
+- MediaTek Launches Improved AI Processor to Compete With Qualcomm - Bloomberg
