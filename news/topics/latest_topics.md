@@ -1,33 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-24 06:43_
+_Updated: 2025-09-24 07:40_
 
 ## Top Stories
 
-- Michael Winiarski: Har Trump tröttnat på att bli förnedrad av Putin? - DN
-- Explosion vid flerfamiljshus i Rosengård - SVT Nyheter
-- Ledare: Låt ambulansen varna för farliga personer - NWT
-- En gripen efter explosion i Oslo - Västerbottens-Kuriren
-- Andrej är sista utvägen för utpressningsoffer - SvD
-- Här har eleverna haft sovmorgon i ett år - GP
-- Ledare: Duellen i SVT var ovärdig – valåret får inte sluta så här - DN
-- Finsk expert på hybridhot prisar danskt klarspråk - Hufvudstadsbladet
-- Terrorrättegång inleds: ”Märkliga anklagelser” - Omni
+- Brand i flerfamiljshus i Borlänge - SVT Nyheter
+- Analys: SD större än hela regeringen – valet kan komma att handla om SD och S - GP
+- Kimmel: Inte meningen att bagatellisera mordet - SvD
+- Trump tvärvänder om Ryssland – säger att Ukraina kan vinna kriget - Hufvudstadsbladet
+- Räddningstjänsten: Brandlarmet på Kungsholmen avhjälpt - DN
+- Expert: Fler ryska provokationer att vänta i Sveriges närområde - DN
+- Flaggning av farliga personer avfärdas: ”Inte träffsäkert” - DN
 - ”En budget med ett budskap ‒ snälla, konsumera nu” - Västerbottens-Kuriren
-- Flera döda i supertyfon – drar in över Kina - SVT Nyheter
-- Sofia Mirjamsdotter: Gå från ord till handling för att stoppa Israels krigsbrott - Västerbottens-Kuriren
-- Man döms för mordförsök på Trump på golfbana - GP
-- Analys: Viktigast att inte svara som Putin väntar sig - Omni
-- Riksbanken sänker styrräntan - sbab.se
+- Finsk expert på hybridhot prisar danskt klarspråk - Hufvudstadsbladet
+- Regeringsfrågan stötesten i statsministerduell - GP
+- En gripen efter explosion i centrala Oslo - DN
+- Hongkong hukar under supertyfon – skolor stänger - Västerbottens-Kuriren
+- Thunbergs konvoj uppges beskjuten igen – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Pekade ut Adam som farlig för andra barn – med falska meriter - SVT Nyheter
+- Riksbanken sänker räntan - 8 Sidor
+- Ekonomin svalnar i norr – men här tar det fart - SvD
+- Anna Breman lämnar Riksbanken - Dagens industri
 - Dispyten mellan USA och Kina kring sällsynta jordartsmetaller fortfarande olöst - Börsvärlden
-- Trumps tullar tvingar Volvo Cars att utöka USA-produktion - NyTeknik
-- Debatt: Unga i Västra Götaland: Tusentals kronor att tjäna med bättre koll på tjänstepensionen - sla.se
-- Ny dinosaurie hittad – med krokodilben i munnen - GP
+- Ny dinosaurie hittad – med krokodilben i munnen - Aftonbladet
 - Trendbrott: Yngre barn använder digitala medier mindre - Voister
 
 ## World News
 
 - Global uppvärmning hotar livsviktig havsorganism - Aftonbladet
+- UBS sänker global prognos för GLP-1 marknaden 2030 - BN - Börsvärlden
 - Lidl lanserar global kampanj - Dagligvarunytt
 - Drönfotbolls-VM 2025: 265 lag tävlar i Sydkorea på global tekniklekplats - Vietnam.vn
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
@@ -39,7 +40,6 @@ _Updated: 2025-09-24 06:43_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Livsviktig havsorganism hotad av global uppvärmning - SVT Nyheter
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Techarenan News goes English (Partly at least) - Techarenan News
 - Tesla Diner gehen global: Charge-and-Dine künftig weltweit - Shop4Tesla
 - Global Copper Demand Projected to Outpace Supply by Over 500,000 Tonnes In 2025, Driving Upward Price Pressure - Placera.se
@@ -76,23 +76,23 @@ _Updated: 2025-09-24 06:43_
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - AgriFORCE Growing Systems (AGRI) to Launch as First Publicly-Traded Avalanche-Focused Company on NASDAQ with a $550 Million Capital Raise Strategy - Placera.se
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Equitable Holdings, Inc. Announces Full Redemption of Its Series B Depositary Shares - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 
 ## Health
 
@@ -105,14 +105,14 @@ _Updated: 2025-09-24 06:43_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Ho Chi Minh City University of Medicine and Pharmacy Hospital och Red Communications lanserar en banbrytande Vodcast-serie om hälsa och livsstil - Vietnam.vn
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
@@ -122,23 +122,23 @@ _Updated: 2025-09-24 06:43_
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 
 ## Jordbruk
 
