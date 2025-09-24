@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-24 15:04_
+_Updated: 2025-09-24 15:45_
 
 ## Top Stories
 
-- DN Direkt - Tyst minut för knivdödad ambulanssjukvårdare - DN
-- Trump tvärvänder om Ryssland – säger att Ukraina kan vinna kriget - Hufvudstadsbladet
-- Dom i mål om medhjälp till försök till mord på Kungsmässan - Sveriges Domstolar
+- DN Direkt - Flera ska ha skjutits vid migrationskontor i Dallas - DN
+- Trump talar för en ukrainsk seger – ”Ryssland en papperstiger" - Europaportalen
+- S ska presentera ”större förändring” i partiet - Omni
 - Bokmässan polisanmäls efter programpunkter om Gaza - SVT Nyheter
 - Livstid för mord på 15-åring står fast - Aftonbladet
 - Jättebygget avbryts – GU:s prestigeprojekt skrotas - GP
+- Tyst minut för knivdödad ambulanssjukvårdare - DN
+- 600 fångar skickas till Estland – därför kan det bli en mardröm för kriminalvården - Arbetet
 - Hussein hemma efter Jägersro-olyckan – ”Det måste finnas en säkerhet” - DN
 - Vaggeryd har bäst företagsklimat i Jönköpings län - SVT Nyheter
-- Lär känna dina grannar och var en del av Sveriges totalförsvar - Länsstyrelsen
-- Hundratals larm om natthemtjänsten – vårdtagare täckta av intorkad avföring - DN
 - Minst 20 döda i israelisk attack mot hus i Gaza stad – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Många döda när tyfonen Ragasa drar fram - Västerbottens-Kuriren
+- Kina bävar när ”Kungen av stormar” närmar sig - DN
 - 15 döda i drönarattack mot marknad i Sudan - Västerbottens-Kuriren
 - Ukrainsk attack mot ryskt raffinaderi – storbrand - GP
 - Riksbanken sänker räntan - 8 Sidor
-- Konjunkturinstitutet spår fortsatt återhämtning i svensk ekonomi - Börsvärlden
+- Storbank sänker rörliga boräntan - Dagens industri
+- Konjunkturinstitutet: Fortsatt återhämtning i svensk ekonomi - Affärsvärlden
 - Lytens Northvolt-köp får tummen upp av ISP - Omni
-- Krisen är över – billigare choklad i sikte - Sydsvenskan
 - Att skrolla i ung ålder kan påverka din koncentrationsförmåga – livet ut - DN
 - Skärmrekommendationer minskar barns tid vid dator och mobil - Folkhälsomyndigheten
 
@@ -40,12 +40,12 @@ _Updated: 2025-09-24 15:04_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Livsviktig havsorganism hotad av global uppvärmning - SVT Nyheter
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- Lidl lanserar global kampanj - Dagligvarunytt
 - Techarenan News goes English (Partly at least) - Techarenan News
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - World Athletics introduces gene test for female category - bbc.com
+- Vinnare & Förlorare - Saab stiger på tyskt intresse för Global Eye - Börskollen
 - Animerad japansk pirat har blivit global protestsymbol - Omni
 
 ## Technology
@@ -120,25 +120,25 @@ _Updated: 2025-09-24 15:04_
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
+- 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
 
