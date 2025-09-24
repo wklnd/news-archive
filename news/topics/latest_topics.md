@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-24 17:41_
+_Updated: 2025-09-24 18:47_
 
 ## Top Stories
 
-- S möblerar om i toppen inför valet - SVT Nyheter
-- DN Direkt - Tyst minut för knivdödad ambulanssjukvårdare - DN
-- Trump tvärvänder om Ryssland – säger att Ukraina kan vinna kriget - Hufvudstadsbladet
-- Skott vid migrationskontor i Texas – minst en död - Västerbottens-Kuriren
-- Livstid för mord på 15-åring står fast - Aftonbladet
-- Kristersson om drönarincidenterna: ”Är på tårna” - GP
-- Polisinsats mot bärföretag – tre anhållna för människohandel - DN
+- S möblerar om i toppskiktet – Ygeman petas - Västerbottens-Kuriren
+- Var det von der Leyen som fick Trump att tvärvända? - DN
+- Kollegor hedrade avliden ambulans­sjukvårdare med tyst minut - Läkartidningen
+- Håkan Boström: Ambitionen i Tidö 2.0 är det inget fel på - GP
+- Jättebygget avbryts – GU:s prestigeprojekt skrotas - GP
+- Olof K svårt sjuk i fängelset: ”Nära döden” - Aftonbladet
+- 61 flygningar störda av drönarna - SVT Nyheter
+- M går till val på sänkt inkomstskatt - Västerbottens-Kuriren
+- Par åtalas för svindlarresa runt Sverige - DN
 - Uppgifter: Flera dåd riktade mot ostföretag - Aftonbladet
-- Hundratals larm om natthemtjänsten – vårdtagare täckta av intorkad avföring - DN
-- Så har preppern Robert, 38, löst viktigaste detaljen - LT
-- Aktivister i Thunbergs konvoj: Tre båtar skadade - UNT
-- Kina bävar när ”Kungen av stormar” närmar sig - DN
+- Uppgifter: Trump lovar att inte låta Israel annektera Västbanken – Senaste nytt om kriget i Gaza - SVT Nyheter
+- DN Direkt - Mette Frederiksen ber om ursäkt vid grönländsk ceremoni - DN
+- Ännu en planetär gräns överskriden – ”globala bolag kan göra stor skillnad” - Aktuell Hållbarhet
 - Ukrainsk attack mot ryskt raffinaderi – storbrand - Västerbottens-Kuriren
-- Lavrov i New York – Kreml lovar fortsatt krig - GP
-- Riksbanken sänker räntan - 8 Sidor
 - Storbanker sänker sina rörliga boräntor - Dagens industri
+- Riksbanken sänker räntan - 8 Sidor
 - Våning såld på Söder – för 54 miljoner - SvD
 - Hammarö klättrar i näringslivsranking - Hammarö kommun
-- Att skrolla i ung ålder kan påverka din koncentrationsförmåga – livet ut - DN
+- Ny dinosaurie hittad – med krokodilben i munnen - Aftonbladet
 - Skärmrekommendationer minskar barns tid vid dator och mobil - Folkhälsomyndigheten
 
 ## World News
 
 - Global Movement to Gaza bekräftar attack mot Gretas fartyg - Aftonbladet
-- Tyskland öppnar för Saab-affär: ”Ligger i ’pole position’” - Dagens industri
-- Global uppvärmning hotar livsviktig havsorganism - Aftonbladet
+- Revolut Unveils Global HQ, Setting out Global Vision and Ambitious Timeline for 100 Million Customers - Revolut
+- Eye Level Math Olympiad 2025 Opens Registration for Students Worldwide - Placera.se
+- Drönfotbolls-VM 2025: 265 lag tävlar i Sydkorea på global tekniklekplats - Vietnam.vn
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Armand Duplantis soars to third world title and 14th world record - BBC
 - Livsviktig havsorganism hotad av global uppvärmning - SVT Nyheter
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- Lidl lanserar global kampanj - Dagligvarunytt
+- Tyskland öppnar för Saab-affär: ”Ligger i ’pole position’” - Dagens industri
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Tesla Diner gehen global: Charge-and-Dine künftig weltweit - Shop4Tesla
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Ex-nyhetsankare på BBC hade barnpornografi - Omni
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- World Athletics introduces gene test for female category - BBC
-- Vinnare & Förlorare - Saab stiger på tyskt intresse för Global Eye - Börskollen
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Chinese Manufacturers Are Peeling Off the Veneer of Western Luxury - Morocco World News
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 
 ## Technology
 
@@ -75,70 +75,70 @@ _Updated: 2025-09-24 17:41_
 
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - AgriFORCE Growing Systems (AGRI) to Launch as First Publicly-Traded Avalanche-Focused Company on NASDAQ with a $550 Million Capital Raise Strategy - Placera.se
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Equitable Holdings, Inc. Announces Full Redemption of Its Series B Depositary Shares - Placera.se
-- Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 
 ## Health
 
 - »Allmän återhållsamhet« räcker inte - Läkartidningen
-- Yen Lac District Medical Center: Proaktivt skydd av människors hälsa under den varma säsongen - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
+- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
+- Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Cambio-chefen: »Millennium i VGR var en väckarklocka« - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
 
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -151,14 +151,14 @@ _Updated: 2025-09-24 17:41_
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
