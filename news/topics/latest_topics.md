@@ -1,33 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-24 13:38_
+_Updated: 2025-09-24 15:04_
 
 ## Top Stories
 
-- Trump tvärvänder om Ryssland – säger att Ukraina kan vinna kriget - Hufvudstadsbladet
 - DN Direkt - Tyst minut för knivdödad ambulanssjukvårdare - DN
-- Efter flykten – David Berntsen Lundin får skärpt straff - GP
+- Trump tvärvänder om Ryssland – säger att Ukraina kan vinna kriget - Hufvudstadsbladet
+- Dom i mål om medhjälp till försök till mord på Kungsmässan - Sveriges Domstolar
+- Bokmässan polisanmäls efter programpunkter om Gaza - SVT Nyheter
 - Livstid för mord på 15-åring står fast - Aftonbladet
-- Tidö 2.0 är inte och kommer aldrig vara ett frihetsprojekt - UNT
-- Drönarincidenter ökar vid norska flygplatser - GP
+- Jättebygget avbryts – GU:s prestigeprojekt skrotas - GP
 - Hussein hemma efter Jägersro-olyckan – ”Det måste finnas en säkerhet” - DN
-- Fiasko för SVT Skåne: ”Fan!” - Expressen
 - Vaggeryd har bäst företagsklimat i Jönköpings län - SVT Nyheter
+- Lär känna dina grannar och var en del av Sveriges totalförsvar - Länsstyrelsen
 - Hundratals larm om natthemtjänsten – vårdtagare täckta av intorkad avföring - DN
-- Aktivister i Thunbergs konvoj: Tre båtar skadade - Västerbottens-Kuriren
-- Svår tyfon i Taiwan och Kina - SVT Nyheter
-- Dansk ursäkt för spiraltvång på Grönland i dag - ETC.se
-- 15 döda i drönarattack mot marknad i Sudan - GP
+- Minst 20 döda i israelisk attack mot hus i Gaza stad – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Många döda när tyfonen Ragasa drar fram - Västerbottens-Kuriren
+- 15 döda i drönarattack mot marknad i Sudan - Västerbottens-Kuriren
+- Ukrainsk attack mot ryskt raffinaderi – storbrand - GP
 - Riksbanken sänker räntan - 8 Sidor
 - Konjunkturinstitutet spår fortsatt återhämtning i svensk ekonomi - Börsvärlden
-- Lytens köp av Northvolt är godkänt - SVT Nyheter
+- Lytens Northvolt-köp får tummen upp av ISP - Omni
 - Krisen är över – billigare choklad i sikte - Sydsvenskan
-- Mjölkbaserad molekyl stärker tarmhälsan även vid ohälsosam kost - Umeå universitet
-- Trendbrott: Barn och ungas skärmtid minskar - SVT Nyheter
+- Att skrolla i ung ålder kan påverka din koncentrationsförmåga – livet ut - DN
+- Skärmrekommendationer minskar barns tid vid dator och mobil - Folkhälsomyndigheten
 
 ## World News
 
 - Global Movement to Gaza bekräftar attack mot Gretas fartyg - Aftonbladet
+- Tyskland öppnar för Saab-affär: ”Ligger i ’pole position’” - Dagens industri
+- Global uppvärmning hotar livsviktig havsorganism - Aftonbladet
+- Drönfotbolls-VM 2025: 265 lag tävlar i Sydkorea på global tekniklekplats - Vietnam.vn
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -35,18 +38,15 @@ _Updated: 2025-09-24 13:38_
 - KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Armand Duplantis soars to third world title and 14th world record - BBC
 - Livsviktig havsorganism hotad av global uppvärmning - SVT Nyheter
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Lidl lanserar global kampanj - Dagligvarunytt
+- Techarenan News goes English (Partly at least) - Techarenan News
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Tyskland öppnar för Saab-affär: ”Ligger i ’pole position’” - Dagens industri
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Vinnare & Förlorare - Saab stiger på tyskt intresse för Global Eye - Börskollen
-- Ex-nyhetsankare på BBC hade barnpornografi - Omni
-- World Athletics introduces gene test for female category - BBC
+- World Athletics introduces gene test for female category - bbc.com
+- Animerad japansk pirat har blivit global protestsymbol - Omni
 
 ## Technology
 
@@ -102,8 +102,8 @@ _Updated: 2025-09-24 13:38_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
