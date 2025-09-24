@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-24 17:48_
+_Updated: 2025-09-24 18:53_
 
 - 3 detainees shot, some fatally, at Dallas ICE facility: Sources - ABC News - Breaking News, Latest News and Videos
-- This industry will be hardest hit by Trump’s new $100K visa fee. They’re anxious. - Politico
-- Donald Trump Threatens to Sue ‘ABC Fake News’ Over Jimmy Kimmel’s Return - Rolling Stone
-- ‘Your countries are going to hell’: Trump’s UN speech explained by an expert - The Conversation
-- North Texas parents respond to FDA warning on Tylenol and autism - CBS News
+- ‘What just happened?’: Big Tech rocked by $100K visa fee - Politico
 - Russia brushes off Trump's claim of 'paper tiger' fighting aimless war - BBC
+- Trump’s Tylenol announcement incurs furious backlash: ‘This is yet more utter rubbish’ - The Guardian
+- Donald Trump Threatens to Sue ‘ABC Fake News’ Over Jimmy Kimmel’s Return - Rolling Stone
+- Scott Bessent says US in talks with Argentina over $20bn swap line - Financial Times
 - Ryan Routh found guilty of attempting to assassinate Trump in Florida - Al Jazeera
-- 5 things to know for Sept. 24: Jimmy Kimmel, Trump’s UN speech, Climate change, Typhoon Ragasa, Epstein files - CNN
-- Oregon police recover partial remains of dismembered woman in 80-year-old cold case - ABC News - Breaking News, Latest News and Videos
+- "Iryna's Law" passes in North Carolina after refugee's killing, a bill that could restart executions in state - CBS News
+- ‘It's embarrassing’: Democrats seethe at Harris’ campaign book - Politico
 - Camp Mystic plans to reopen in Texas next summer, a year after floods killed 27 - NPR
 - Typhoon Ragasa Slams Into China After Deaths in Taiwan and the Philippines - The New York Times
-- Hamas reports dozens killed by Israeli fire in Gaza; IDF soldier seriously hurt - The Times of Israel
-- Man arrested in connection with cyber-attack on airports - BBC
-- Greetings from Guatemala, where one person's trash becomes another's colorful art - NPR
-- Lithium Americas soars nearly 80% as Trump administration seeks equity stake in Canadian miner - CNBC
+- Trump's UN speech no laughing matter as body language shows - DW
+- Hamas reportedly preparing for street-to-street fighting as Israeli forces near Gaza City centre - BBC
+- UK police arrest man over hack that affected European airports - Reuters
+- OpenAI, SoftBank, Oracle Power Up Stargate Network with 5 New AI Data Centers - TipRanks
 - Fed’s Powell Warns Stocks Are ‘Highly Valued.’ He Said Something Even More Worrying. - Barron's
-- OpenAI, Oracle, SoftBank plan five new AI data centers for $500 billion Stargate project - Reuters
 - US New-Home Sales Unexpectedly Jump Over 20% in Broad Advance - Bloomberg.com
+- Stock Market Today: Losses Mount For Indexes; Miner Rockets On Trump News (Live Coverage) - Investor's Business Daily
 - Google’s Android for PC: ‘I’ve seen it, it is incredible’ - The Verge
-- Apple iPhone 17 Pro Max has a hidden upgrade that most people seem to have missed - Notebookcheck
+- Google’s cheaper AI Plus plan is now available in over 40 countries - TechCrunch
