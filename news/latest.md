@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-24 10:53_
+_Updated: 2025-09-24 11:48_
 
-- 'Highly concerning': Major medical groups react to Trump's claim that Tylenol is linked to autism - ABC News - Breaking News, Latest News and Videos
-- Trump now says Ukraine can win back all territory lost to Russia - Reuters
 - At U.N., Trump Says Green Energy Is a Scam and Attacks Climate Science - The New York Times
+- Trump now says Ukraine can win back all territory lost to Russia - Reuters
 - Nearly two million evacuated as deadly Typhoon Ragasa slams into southern China, after killing at least 15 in Taiwan - CNN
 - Trump slams Kimmel's return: "We're going to test ABC out on this" - Axios
-- Immigration agent who shot man in Chicago-area traffic stop says injuries were 'nothing major' - AP News
+- H-1B visa changes may give Canada an opportunity. Will it seize it? - BBC
+- Arizona special House election could be a tipping point on releasing the Epstein files - ABC News - Breaking News, Latest News and Videos
 - Would-be Trump assassin tries to stab himself in neck after guilty verdict - CNN
-- Trump’s H-1B visa caper will backfire - Financial Times
+- Trump, Tylenol and Autism - The New York Times
+- Trump scraps meeting with Democrats, raising government shutdown risk - Reuters
 - Trump settles on downtown Miami for his presidential library - NBC News
-- Democrats further narrow GOP’s House majority with Arizona special election win - The Washington Post
-- NATO warns Russia over airspace violations - DW
+- One Piece's Jolly Roger Flag Spreads to Protests in Nepal, Philippines, France - Anime News Network
 - Which are the 150+ countries that have recognised Palestine as of 2025? - Al Jazeera
-- A drone flyover above Copenhagen Airport prompts concerns that Russia was behind it - AP News
-- Israel destroys evacuated health center in Gaza City, medics say - AP News
-- Asia Poised for Muted Start as Powell Holds Back: Markets Wrap - Bloomberg.com
+- Drone Sightings Force Copenhagen and Oslo Airports to Close Temporarily - The New York Times
+- NATO warns Russia over airspace violations - DW
+- OpenAI, Oracle, SoftBank plan five new AI data centers for $500 billion Stargate project - Reuters
+- Stock Futures Rise as Alibaba Boosts AI Sentiment: Markets Wrap - Bloomberg.com
+- European stocks set to lose ground after Fed's Powell says equities are 'highly valued' - CNBC
 - Nvidia’s $100bn bet on ‘gigantic AI factories’ to power ChatGPT - Financial Times
-- Asia markets track Wall Street declines after U.S. Fed chair suggests stocks are overvalued - CNBC
-- Futures: Micron Beats Views After Stocks Fall On Powell - Investor's Business Daily
-- iPhone 17 Pro, iPhone Air excel in bend tests, still fragile for drop tests - AppleInsider
 - iPhones May Soon Work Better With Third-Party Smartwatches - MacRumors
+- iPhone 17 Pro Max’s Aluminum Build Holds Up Well To Drops Against Galaxy S25 Ultra’s Titanium Alloy, But Is Susceptible To Corner Impacts - Wccftech
