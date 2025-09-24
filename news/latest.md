@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-24 18:53_
+_Updated: 2025-09-24 19:48_
 
-- 3 detainees shot, some fatally, at Dallas ICE facility: Sources - ABC News - Breaking News, Latest News and Videos
-- ‘What just happened?’: Big Tech rocked by $100K visa fee - Politico
-- Russia brushes off Trump's claim of 'paper tiger' fighting aimless war - BBC
-- Trump’s Tylenol announcement incurs furious backlash: ‘This is yet more utter rubbish’ - The Guardian
+- Gunman kills one, wounds several detainees at Dallas ICE facility, officials say - Politico
 - Donald Trump Threatens to Sue ‘ABC Fake News’ Over Jimmy Kimmel’s Return - Rolling Stone
-- Scott Bessent says US in talks with Argentina over $20bn swap line - Financial Times
+- Trump’s Tylenol announcement incurs furious backlash: ‘This is yet more utter rubbish’ - The Guardian
+- This industry will be hardest hit by Trump’s new $100K visa fee. They’re anxious. - Politico
+- Russia brushes off Trump's claim of 'paper tiger' fighting aimless war - BBC
+- Twenty injured in Yemen drone attack on Israel, rescuers and military say - BBC
 - Ryan Routh found guilty of attempting to assassinate Trump in Florida - Al Jazeera
-- "Iryna's Law" passes in North Carolina after refugee's killing, a bill that could restart executions in state - CBS News
 - ‘It's embarrassing’: Democrats seethe at Harris’ campaign book - Politico
+- Trump’s UN Escalator Mishap Prompts Secret Service Investigation - Bloomberg.com
 - Camp Mystic plans to reopen in Texas next summer, a year after floods killed 27 - NPR
 - Typhoon Ragasa Slams Into China After Deaths in Taiwan and the Philippines - The New York Times
 - Trump's UN speech no laughing matter as body language shows - DW
 - Hamas reportedly preparing for street-to-street fighting as Israeli forces near Gaza City centre - BBC
-- UK police arrest man over hack that affected European airports - Reuters
-- OpenAI, SoftBank, Oracle Power Up Stargate Network with 5 New AI Data Centers - TipRanks
+- Man arrested in connection with cyberattack that disrupted European airports - CNN
 - Fed’s Powell Warns Stocks Are ‘Highly Valued.’ He Said Something Even More Worrying. - Barron's
 - US New-Home Sales Unexpectedly Jump Over 20% in Broad Advance - Bloomberg.com
-- Stock Market Today: Losses Mount For Indexes; Miner Rockets On Trump News (Live Coverage) - Investor's Business Daily
+- Stock Market Today: Dow, Nasdaq Slip; Alibaba, Lithium Americas in Focus — Live Updates - The Wall Street Journal
+- Trump's touting of an unproven autism drug surprised many, including the doctor who proposed it - AP News
 - Google’s Android for PC: ‘I’ve seen it, it is incredible’ - The Verge
 - Google’s cheaper AI Plus plan is now available in over 40 countries - TechCrunch
