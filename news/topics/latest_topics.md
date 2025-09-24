@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-24 18:47_
+_Updated: 2025-09-24 19:41_
 
 ## Top Stories
 
-- S möblerar om i toppskiktet – Ygeman petas - Västerbottens-Kuriren
+- Socialdemokraterna växlar upp med ny laguppställning inför 2026 - Socialdemokraterna
 - Var det von der Leyen som fick Trump att tvärvända? - DN
 - Kollegor hedrade avliden ambulans­sjukvårdare med tyst minut - Läkartidningen
-- Håkan Boström: Ambitionen i Tidö 2.0 är det inget fel på - GP
-- Jättebygget avbryts – GU:s prestigeprojekt skrotas - GP
-- Olof K svårt sjuk i fängelset: ”Nära döden” - Aftonbladet
-- 61 flygningar störda av drönarna - SVT Nyheter
-- M går till val på sänkt inkomstskatt - Västerbottens-Kuriren
+- Finland: EU och Nato kan falla samman - SvD
+- Över 100 anmälningar om drönare till dansk polis - Västerbottens-Kuriren
+- Livstid för mord på 15-åring står fast - Aftonbladet
+- Polisinsats mot bärföretag – tre anhållna för människohandel - DN
 - Par åtalas för svindlarresa runt Sverige - DN
-- Uppgifter: Flera dåd riktade mot ostföretag - Aftonbladet
+- Hela listan – här är kommunerna med bäst företagsklimat i landet - Svenskt Näringsliv
+- M går till val på sänkt inkomstskatt - GP
 - Uppgifter: Trump lovar att inte låta Israel annektera Västbanken – Senaste nytt om kriget i Gaza - SVT Nyheter
-- DN Direkt - Mette Frederiksen ber om ursäkt vid grönländsk ceremoni - DN
-- Ännu en planetär gräns överskriden – ”globala bolag kan göra stor skillnad” - Aktuell Hållbarhet
 - Ukrainsk attack mot ryskt raffinaderi – storbrand - Västerbottens-Kuriren
-- Storbanker sänker sina rörliga boräntor - Dagens industri
+- Peter Alestig: Här är lögnerna i Trumps tal om ”klimatbluffen” - DN
+- Uttalande från Utrikesdepartementet med anledning av Global Sumud Flotilla - Regeringen.se
+- Konjunkturinstitutet spår fortsatt återhämtning i svensk ekonomi - Börsvärlden
 - Riksbanken sänker räntan - 8 Sidor
+- Storbanker sänker sina rörliga boräntor - Dagens industri
 - Våning såld på Söder – för 54 miljoner - SvD
-- Hammarö klättrar i näringslivsranking - Hammarö kommun
+- Ännu en planetär gräns överskriden – ”globala bolag kan göra stor skillnad” - Aktuell Hållbarhet
 - Ny dinosaurie hittad – med krokodilben i munnen - Aftonbladet
-- Skärmrekommendationer minskar barns tid vid dator och mobil - Folkhälsomyndigheten
 
 ## World News
 
 - Global Movement to Gaza bekräftar attack mot Gretas fartyg - Aftonbladet
-- Revolut Unveils Global HQ, Setting out Global Vision and Ambitious Timeline for 100 Million Customers - Revolut
-- Eye Level Math Olympiad 2025 Opens Registration for Students Worldwide - Placera.se
+- Tyskland öppnar för Saab-affär: ”Ligger i ’pole position’” - Dagens industri
 - Drönfotbolls-VM 2025: 265 lag tävlar i Sydkorea på global tekniklekplats - Vietnam.vn
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- Armand Duplantis soars to third world title and 14th world record - BBC
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Livsviktig havsorganism hotad av global uppvärmning - SVT Nyheter
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- Tyskland öppnar för Saab-affär: ”Ligger i ’pole position’” - Dagens industri
+- Techarenan News goes English (Partly at least) - Techarenan News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Tesla Diner gehen global: Charge-and-Dine künftig weltweit - Shop4Tesla
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Ex-nyhetsankare på BBC hade barnpornografi - Omni
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- 🌏 Global ojämlikhet minskar faktiskt - Warp News
 
 ## Technology
 
@@ -75,24 +75,24 @@ _Updated: 2025-09-24 18:47_
 
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - AgriFORCE Growing Systems (AGRI) to Launch as First Publicly-Traded Avalanche-Focused Company on NASDAQ with a $550 Million Capital Raise Strategy - Placera.se
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Equitable Holdings, Inc. Announces Full Redemption of Its Series B Depositary Shares - Placera.se
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
+- Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Equitable Holdings, Inc. Announces Full Redemption of Its Series B Depositary Shares - Placera.se
+- Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 
 ## Health
 
@@ -101,21 +101,21 @@ _Updated: 2025-09-24 18:47_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
+- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
-- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Cambio-chefen: »Millennium i VGR var en väckarklocka« - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
 ## Science
 
@@ -151,14 +151,14 @@ _Updated: 2025-09-24 18:47_
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
