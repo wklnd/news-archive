@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-24 23:37_
+_Updated: 2025-09-25 00:37_
 
 ## Top Stories
 
-- DN Direkt - Man gripen för mord i Kumla - DN
 - Kristersson varnar Ryssland: ”Utsätter sig för extremt stora faror” - DN
-- Ambulanssjukvårdare hedrad med tyst minut i Kristianstad - Kristianstadsbladet
 - S möblerar om i toppskiktet – Ygeman får ny roll - UNT
+- Ambulanssjukvårdare hedrad med tyst minut i Kristianstad - Kristianstadsbladet
+- Uttalande från Utrikesdepartementet med anledning av Global Sumud Flotilla - Regeringen.se
+- USA: Genombrott om Gaza närmaste dagarna - SvD
 - Föreningen för kortväxtas ilska efter statsministers uttalande om Ryssland - Aftonbladet
-- Experten: Kan bli fler ryska drönare över Europa - GP
+- Ledare: Uselt företagsklimat kräver konkreta reformer - NT
 - Mer pengar till hushållen i regeringens höstbudget - Cision News
-- Stockholm tappar i företagsranking – men en kommun trotsar trenden - SVT Nyheter
-- Magdalena Andersson öppnar för Jimmie Åkesson i SVT och TV4 - Expressen
-- Expert: Svenska anti-drönarsystem kan inte skjuta ner drönare - Omni
-- USA:s sändebud: Genombrott om Gaza nära - Västerbottens-Kuriren
+- Polisinsats mot bärföretag – tre anhållna för människohandel - DN
+- Så har preppern Robert, 38, löst viktigaste detaljen - LT
 - Dog på semestern – kom hem utan hjärta - Aftonbladet
 - Polischefen blev visselblåsare – ministern tvingades avgå - DN
 - Stubb gav en känga åt regeringen i sitt tal i FN - Hufvudstadsbladet
-- Storbank sänker rörliga boräntan - Dagens industri
-- Matbutik anklagad för risplagiat – förbjuds sälja - Expressen
+- Efter Trump-besöket på FN – tur att Melania är i toppform - GP
+- Storbanker sänker sina rörliga boräntor - Dagens industri
 - Grönt ljus för Lytens köp av Northvolt - Evertiq
-- Rött på Wall Street – Tesla mot strömmen - Dagens industri
+- Matbutik anklagad för risplagiat – förbjuds sälja - Expressen
+- Sensationen: Skjuter ner drönare för en krona - Dagens PS
 - Ännu en planetär gräns överskriden – ”globala bolag kan göra stor skillnad” - Aktuell Hållbarhet
 - Att skrolla i ung ålder kan påverka din koncentrationsförmåga – livet ut - DN
 
@@ -43,9 +43,9 @@ _Updated: 2025-09-24 23:37_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Techarenan News goes English (Partly at least) - Techarenan News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- New Secretary General appointed - Olof Palme International Center
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - Animerad japansk pirat har blivit global protestsymbol - Omni
 
 ## Technology
@@ -56,18 +56,18 @@ _Updated: 2025-09-24 23:37_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
+- ZenaTech Announces the Acquisition of Lescure Engineers Inc. Expanding Drone as a Service (DaaS) to California’s Precision Agriculture and Viticulture Markets - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
+- ZenaTech to Highlight Progress on Drone as a Service and US Defense Business at Multiple Upcoming Investor Conferences - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
-- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 
@@ -150,15 +150,15 @@ _Updated: 2025-09-24 23:37_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
