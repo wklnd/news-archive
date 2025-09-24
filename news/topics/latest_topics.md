@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-24 01:38_
+_Updated: 2025-09-24 04:09_
 
 ## Top Stories
 
 - Trump efter möte med Zelenskyj: ”Ukraina kan vinna” - DN
 - Explosion vid flerfamiljshus i Rosengård - SVT Nyheter
-- ”Ryssland vill testa reaktionsförmågan” - SvD
-- Andersson: Kristersson hade fått sparken som vd - GP
+- Regeringsfrågan stötesten i statsministerduell - GP
 - En gripen efter explosion i Oslo - Västerbottens-Kuriren
-- Flaggning av farliga personer avfärdas: ”Inte träffsäkert” - DN
-- Världens farligaste svamp växer i Finland - Yle
+- Flera döda i supertyfon – drar in över Kina - SVT Nyheter
+- Tvättstugebråk – då hittade polisen över 100 kilo knark - GP
+- Efter ambulansdådet i Gävleborg: Tyst minut i Blekinge - SVT Nyheter
+- Ung man drunknade på jobbet – nu inleds rättegången - DN
 - Maha dog under operation – läkare döms till två års fängelse - DN
-- Hårda orden mot regeringen: ”Svindlar” – Höstbudgeten 2025 - SVT Nyheter
-- Kompisgänget fick upp 42 gäddor på sex timmar: ”Helt sjukt” - DN
+- Stöd till drabbade och anhöriga vid en händelse utomlands - MSB – Myndigheten för samhällsskydd och beredskap
 - Man döms för mordförsök på Trump på golfbana - GP
-- Nato: Ryssland måste sluta - Hufvudstadsbladet
-- Källor: Israelisk militär har omringat Gaza stad - Västerbottens-Kuriren
-- Drönare i Danmark och Norge – det här vet vi - SVT Nyheter
-- Riksbanken sänker räntan - 8 Sidor
-- ECB-topp: Digital euro kan bli verklighet om fyra år - Dagens industri
+- Polisen kontrollerar föremål i hus i norra Stockholm - DN
+- Thunbergs konvoj: Hör explosioner – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Försvarsministern: Redo att försvara våra allierade - Corren
+- Riksbanken sänker styrräntan - sbab.se
 - Trumps tullar tvingar Volvo Cars att utöka USA-produktion - NyTeknik
-- Dispyten mellan USA och Kina kring sällsynta jordartsmetaller fortfarande olöst - Börsvärlden
+- ECB-topp: Digital euro kan bli verklighet om fyra år - Dagens industri
+- Hyresgästföreningen: En bostadsmarknad som cementerar ojämlikhet - Aftonbladet
 - Trendbrott: Yngre barn använder digitala medier mindre - Voister
-- iPhone 17 Pro Max vs iPhone 16 Pro Max: Apple har en ny toppmodell - TechRadar
+- Sågade Apple Intelligence släpps på svenska – i betaversion - NyTeknik
 
 ## World News
 
@@ -36,15 +36,15 @@ _Updated: 2025-09-24 01:38_
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Livsviktig havsorganism hotad av global uppvärmning - SVT Nyheter
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Tesla Diner gehen global: Charge-and-Dine künftig weltweit - Shop4Tesla
+- Techarenan News goes English (Partly at least) - Techarenan News
+- New Secretary General appointed - Olof Palme International Center
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- World Athletics introduces gene test for female category - BBC
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
-- Chinese Manufacturers Are Peeling Off the Veneer of Western Luxury - Morocco World News
 - Global Copper Demand Projected to Outpace Supply by Over 500,000 Tonnes In 2025, Driving Upward Price Pressure - Placera.se
 - Zoomlion Extends "Love Changes Destiny" Program into 23rd Year, Driving Global Community Development - Placera.se
 
@@ -66,10 +66,10 @@ _Updated: 2025-09-24 01:38_
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
-- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Digital Realty Launches Innovation Lab to Accelerate AI and Hybrid Cloud Implementation - Placera.se
+- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 
 ## Business
 
@@ -85,9 +85,9 @@ _Updated: 2025-09-24 01:38_
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Realty Income to Present at Bank of America's 2025 Global Real Estate Conference - Placera.se
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Equitable Holdings, Inc. Announces Full Redemption of Its Series B Depositary Shares - Placera.se
@@ -145,11 +145,11 @@ _Updated: 2025-09-24 01:38_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
 - Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
@@ -158,7 +158,7 @@ _Updated: 2025-09-24 01:38_
 - OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
 - Att minska beroendet av insatsvaror i lantbruket - Länsstyrelsen
 - Här är världens största jordbruk - ATL
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
