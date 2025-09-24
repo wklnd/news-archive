@@ -1,57 +1,57 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-24 16:41_
+_Updated: 2025-09-24 17:41_
 
 ## Top Stories
 
-- S möblerar om i toppen – Ygeman petas som talesperson - SVT Nyheter
-- Kollegor hedrade avliden ambulans­sjukvårdare med tyst minut - Läkartidningen
-- Trump talar för en ukrainsk seger – ”Ryssland en papperstiger" - Europaportalen
-- DN Direkt - Spanskt militärplan drabbat av GPS-störning vid Kaliningrad - DN
+- S möblerar om i toppen inför valet - SVT Nyheter
+- DN Direkt - Tyst minut för knivdödad ambulanssjukvårdare - DN
+- Trump tvärvänder om Ryssland – säger att Ukraina kan vinna kriget - Hufvudstadsbladet
+- Skott vid migrationskontor i Texas – minst en död - Västerbottens-Kuriren
 - Livstid för mord på 15-åring står fast - Aftonbladet
-- Jättebygget avbryts – GU:s prestigeprojekt skrotas - GP
-- M går till val på sänkt inkomstskatt - Västerbottens-Kuriren
-- Hussein hemma efter Jägersro-olyckan – ”Det måste finnas en säkerhet” - DN
-- Vaggeryd har bäst företagsklimat i Jönköpings län - SVT Nyheter
-- En budget som gynnar ICA-handlarna och slår mot fattiga barnfamiljer - Örebronyheter
+- Kristersson om drönarincidenterna: ”Är på tårna” - GP
+- Polisinsats mot bärföretag – tre anhållna för människohandel - DN
+- Uppgifter: Flera dåd riktade mot ostföretag - Aftonbladet
+- Hundratals larm om natthemtjänsten – vårdtagare täckta av intorkad avföring - DN
+- Så har preppern Robert, 38, löst viktigaste detaljen - LT
 - Aktivister i Thunbergs konvoj: Tre båtar skadade - UNT
-- Svår tyfon i Taiwan och Kina - SVT Nyheter
-- Sofia Mirjamsdotter: Gå från ord till handling för att stoppa Israels krigsbrott - Västerbottens-Kuriren
-- Ukrainsk attack mot ryskt raffinaderi – storbrand - GP
+- Kina bävar när ”Kungen av stormar” närmar sig - DN
+- Ukrainsk attack mot ryskt raffinaderi – storbrand - Västerbottens-Kuriren
+- Lavrov i New York – Kreml lovar fortsatt krig - GP
 - Riksbanken sänker räntan - 8 Sidor
-- Storbank sänker rörliga boräntan - Dagens industri
-- Lytens köp av Northvolt är godkänt - SVT Nyheter
-- Konjunkturinstitutet: Fortsatt återhämtning i svensk ekonomi - Affärsvärlden
+- Storbanker sänker sina rörliga boräntor - Dagens industri
+- Våning såld på Söder – för 54 miljoner - SvD
+- Hammarö klättrar i näringslivsranking - Hammarö kommun
 - Att skrolla i ung ålder kan påverka din koncentrationsförmåga – livet ut - DN
 - Skärmrekommendationer minskar barns tid vid dator och mobil - Folkhälsomyndigheten
 
 ## World News
 
 - Global Movement to Gaza bekräftar attack mot Gretas fartyg - Aftonbladet
+- Tyskland öppnar för Saab-affär: ”Ligger i ’pole position’” - Dagens industri
 - Global uppvärmning hotar livsviktig havsorganism - Aftonbladet
-- Drönfotbolls-VM 2025: 265 lag tävlar i Sydkorea på global tekniklekplats - Vietnam.vn
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Livsviktig havsorganism hotad av global uppvärmning - SVT Nyheter
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- Tyskland öppnar för Saab-affär: ”Ligger i ’pole position’” - Dagens industri
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Lidl lanserar global kampanj - Dagligvarunytt
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- World Athletics introduces gene test for female category - bbc.com
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- World Athletics introduces gene test for female category - BBC
 - Vinnare & Förlorare - Saab stiger på tyskt intresse för Global Eye - Börskollen
-- 🌏 Global ojämlikhet minskar faktiskt - Warp News
-- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Chinese Manufacturers Are Peeling Off the Veneer of Western Luxury - Morocco World News
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 
 ## Technology
 
-- FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
+- FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
 - Lansering av Au Lac Artificial Intelligence Alliance för att utveckla strategisk teknologi - Vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
@@ -59,40 +59,40 @@ _Updated: 2025-09-24 16:41_
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
-- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
-- Digital Realty Launches Innovation Lab to Accelerate AI and Hybrid Cloud Implementation - Placera.se
-- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 
 ## Business
 
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - AgriFORCE Growing Systems (AGRI) to Launch as First Publicly-Traded Avalanche-Focused Company on NASDAQ with a $550 Million Capital Raise Strategy - Placera.se
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Equitable Holdings, Inc. Announces Full Redemption of Its Series B Depositary Shares - Placera.se
+- BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Equitable Holdings, Inc. Announces Full Redemption of Its Series B Depositary Shares - Placera.se
+- Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
+- Ulrike Guigui Named Wells Fargo Head of Payments Strategy - Placera.se
 
 ## Health
 
@@ -143,22 +143,22 @@ _Updated: 2025-09-24 16:41_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
+- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
-- Här är världens största jordbruk - ATL
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
