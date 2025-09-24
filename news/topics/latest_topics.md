@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-24 10:47_
+_Updated: 2025-09-24 11:41_
 
 ## Top Stories
 
+- Brand i flerfamiljshus i Borlänge – VMA utfärdat - Västerbottens-Kuriren
+- Hovrätten fastställer: Livstid för Foxtrot-topp för mordet i Skogås - SVT Nyheter
 - Det är faktiskt ditt fel, Romina - Dagens Arena
-- Brand i lägenhetshus i Borlänge – VMA utfärdat - SVT Nyheter
-- Christer Dahlgren och Lennart Håkansson dog i flygkraschen - Expressen
-- Trump tvärvänder om Ryssland – säger att Ukraina kan vinna kriget - Hufvudstadsbladet
-- Explosion i Malmö – ”Hört stor smäll” - Aftonbladet
-- Brand på förskola i Umeå – stort pådrag - Norran
+- Efter flykten – David Berntsen Lundin får skärpt straff - GP
+- Tidö 2.0 är inte och kommer aldrig vara ett frihetsprojekt - UNT
+- Trump talar för ukrainsk seger – ”Ryssland en papperstiger" - Europaportalen
 - Ledare: Låt ambulansen varna för farliga personer - NWT
 - Fiasko för SVT Skåne: ”Fan!” - Expressen
+- Hussein hemma efter Jägersro-olyckan – ”Det måste finnas en säkerhet” - DN
 - Hundratals larm om natthemtjänsten – vårdtagare täckta av intorkad avföring - DN
-- Svenske journalisten riskerar terrordom i Turkiet - Västerbottens-Kuriren
-- Svår tyfon i Taiwan och Kina - SVT Nyheter
 - Dansk ursäkt för spiraltvång på Grönland i dag - ETC.se
-- Talibanerna har stängt internet: ”Varje dag blir svårare och svårare” - DN
-- SD rekordökar i opinionen – Novus: ”Charlie Kirk-effekt” - GP
+- Sofia Mirjamsdotter: Gå från ord till handling för att stoppa Israels krigsbrott - Västerbottens-Kuriren
+- Nordiskt uttalande om Rysslands senaste kränkning av Estlands luftrum - Regeringen.se
+- Påven: Att erkänna Palestina hjälper, men dialogen är bruten - Vatican News
 - Allt fler sänker räntan efter Riksbankens besked – här är den fortsatt hög - Aftonbladet
-- Vice riksbankschefen lämnar för Nya Zeeland - DN
-- Krisen är över – billigare choklad i sikte - Sydsvenskan
-- Hoppfulla utsikter i regionerna - Nordea
+- DN Direkt - Vice riksbankschefen lämnar för Nya Zeeland - DN
+- Konjunkturinstitutet spår fortsatt återhämtning i svensk ekonomi - Börsvärlden
+- Krisen är över – billigare choklad i sikte - Västerbottens-Kuriren
 - Mjölkbaserad molekyl stärker tarmhälsan även vid ohälsosam kost - Umeå universitet
-- Ny dinosaurie hittad – med krokodilben i munnen - Aftonbladet
+- Trendbrott: Yngre barn använder digitala medier mindre - Voister
 
 ## World News
 
@@ -36,15 +36,15 @@ _Updated: 2025-09-24 10:47_
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Livsviktig havsorganism hotad av global uppvärmning - SVT Nyheter
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Lidl lanserar global kampanj - Dagligvarunytt
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- UBS sänker global prognos för GLP-1 marknaden 2030 - BN - Börsvärlden
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- World Athletics introduces gene test for female category - BBC
 - 🌏 Global ojämlikhet minskar faktiskt - Warp News
 - Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
 
@@ -63,13 +63,13 @@ _Updated: 2025-09-24 10:47_
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
+- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- Digital Realty Launches Innovation Lab to Accelerate AI and Hybrid Cloud Implementation - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 
 ## Business
 
@@ -104,8 +104,8 @@ _Updated: 2025-09-24 10:47_
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
@@ -120,25 +120,25 @@ _Updated: 2025-09-24 10:47_
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
