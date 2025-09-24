@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-25 00:37_
+_Updated: 2025-09-25 01:37_
 
 ## Top Stories
 
-- Kristersson varnar Ryssland: ”Utsätter sig för extremt stora faror” - DN
-- S möblerar om i toppskiktet – Ygeman får ny roll - UNT
-- Ambulanssjukvårdare hedrad med tyst minut i Kristianstad - Kristianstadsbladet
-- Uttalande från Utrikesdepartementet med anledning av Global Sumud Flotilla - Regeringen.se
-- USA: Genombrott om Gaza närmaste dagarna - SvD
+- Dansk polis: Flera drönare kvar i dansk luftrum - DN
+- Socialdemokraterna växlar upp med ny laguppställning inför 2026 - Socialdemokraterna
+- Experten: Kan bli fler ryska drönare över Europa - GP
+- En död i skjutning vid migrationsbyggnad i Texas - GP
 - Föreningen för kortväxtas ilska efter statsministers uttalande om Ryssland - Aftonbladet
+- Uttalande från Utrikesdepartementet med anledning av Global Sumud Flotilla - Regeringen.se
+- DN Direkt - Luftrum stängt över Ålborg på grund av drönare - DN
 - Ledare: Uselt företagsklimat kräver konkreta reformer - NT
 - Mer pengar till hushållen i regeringens höstbudget - Cision News
 - Polisinsats mot bärföretag – tre anhållna för människohandel - DN
-- Så har preppern Robert, 38, löst viktigaste detaljen - LT
 - Dog på semestern – kom hem utan hjärta - Aftonbladet
-- Polischefen blev visselblåsare – ministern tvingades avgå - DN
+- USA:s sändebud: Genombrott om Gaza nära - Västerbottens-Kuriren
 - Stubb gav en känga åt regeringen i sitt tal i FN - Hufvudstadsbladet
-- Efter Trump-besöket på FN – tur att Melania är i toppform - GP
-- Storbanker sänker sina rörliga boräntor - Dagens industri
-- Grönt ljus för Lytens köp av Northvolt - Evertiq
+- Peter Alestig: Här är lögnerna i Trumps tal om ”klimatbluffen” - DN
+- Storbank sänker rörliga boräntan - Dagens industri
 - Matbutik anklagad för risplagiat – förbjuds sälja - Expressen
-- Sensationen: Skjuter ner drönare för en krona - Dagens PS
+- Grönt ljus för Lytens köp av Northvolt - Evertiq
+- Rött på Wall Street – Tesla mot strömmen - Dagens industri
 - Ännu en planetär gräns överskriden – ”globala bolag kan göra stor skillnad” - Aktuell Hållbarhet
 - Att skrolla i ung ålder kan påverka din koncentrationsförmåga – livet ut - DN
 
@@ -43,9 +43,9 @@ _Updated: 2025-09-25 00:37_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Techarenan News goes English (Partly at least) - Techarenan News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- New Secretary General appointed - Olof Palme International Center
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - Animerad japansk pirat har blivit global protestsymbol - Omni
 
 ## Technology
@@ -73,26 +73,26 @@ _Updated: 2025-09-25 00:37_
 
 ## Business
 
+- Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - AgriFORCE Growing Systems (AGRI) to Launch as First Publicly-Traded Avalanche-Focused Company on NASDAQ with a $550 Million Capital Raise Strategy - Placera.se
-- BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Equitable Holdings, Inc. Announces Full Redemption of Its Series B Depositary Shares - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
+- Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
+- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
+- Equitable Holdings, Inc. Announces Full Redemption of Its Series B Depositary Shares - Placera.se
 
 ## Health
 
@@ -120,25 +120,25 @@ _Updated: 2025-09-25 00:37_
 ## Science
 
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
