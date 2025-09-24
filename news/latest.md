@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-24 13:48_
+_Updated: 2025-09-24 15:15_
 
+- Multiple people shot at Dallas ICE field office: Source - ABC News - Breaking News, Latest News and Videos
+- Russia hits back at Trump after his abrupt swing toward Ukraine - The Washington Post
+- Typhoon Ragasa Slams Into China After Deaths in Taiwan and the Philippines - The New York Times
+- Trump’s Tylenol announcement incurs furious backlash: ‘This is yet more utter rubbish’ - The Guardian
 - Fact check: Trump litters UN speech with false claims about climate, inflation, immigration and world peace - CNN
-- European defense stocks rally after Trump comments on Ukraine; Saab adds 5% - CNBC
-- North Texas parents respond to FDA warning on Tylenol and autism - CBS News
 - Trump slams Kimmel's return: "We're going to test ABC out on this" - Axios
-- Trump says NATO countries should shoot down Russian aircraft that violate their airspace - ABC News - Breaking News, Latest News and Videos
-- Democrats further narrow GOP’s House majority with Arizona special election win - The Washington Post
-- Jury convicts Ryan Routh of trying to assassinate Trump at his Florida golf course - PBS
+- Camp Mystic plans to reopen in Texas next summer, a year after floods killed 27 - NPR
+- 'It's embarrassing': Democrats seethe at Harris' campaign book - Politico
 - After mechanical challenges, UN says Trump's team to blame for nonworking escalator and teleprompter - ABC News - Breaking News, Latest News and Videos
-- Trump’s H-1B visa caper will backfire - Financial Times
-- Inside the Schumer-Thune shutdown cold war - Politico
-- Typhoon Ragasa Kills 15 in Taiwan as Hong Kong Faces Strong Winds - The New York Times
-- A drone flyover above Copenhagen Airport prompts concerns that Russia was behind it - AP News
-- One Piece's Jolly Roger Flag Spreads to Protests in Nepal, Philippines, France - Anime News Network
-- Authenticated videos show huge fire at Russian oil refinery - bbc.com
-- Dow Jones Futures Rise, Micron Earnings Strong After Stocks Fall On Powell - Investor's Business Daily
+- The 20 financial firms that could be hardest hit from Trump's new H-1B fee — from Goldman Sachs to Citi - Business Insider
+- Man arrested in connection with cyber-attack on airports - bbc.com
+- First ever recording of leopard sharks mating in the wild reveals ‘threesome’ - CNN
+- Gen Z’s New Symbol of Resistance: A Cartoon Jolly Roger - The Wall Street Journal
+- September 23, 2025 - Letters from an American | Heather Cox Richardson
+- Markets are selling off after Powell said six words investors don’t want to hear: ‘Equity prices are fairly highly valued’ - Fortune
 - OpenAI, Oracle, SoftBank plan five new AI data centers for $500 billion Stargate project - Reuters
-- Alibaba Shares Surge as It Boosts AI Bet, Rolls Out New Model - The Wall Street Journal
-- Nvidia’s Massive OpenAI Deal Fuels ‘Circular’ Financing Concerns - Bloomberg.com
+- Alibaba Integrates Nvidia Robotics Software in Its AI Platform - Bloomberg.com
+- Sure, there’s a risk of a bubble in AI stocks, so invest in them, says Wells Fargo strategist - MarketWatch
 - Google’s Android for PC: ‘I’ve seen it, it is incredible’ - The Verge
-- iPhones May Soon Work Better With Third-Party Smartwatches - MacRumors
+- Apple’s iPhone 17 Line Wins By Returning the Focus to Hardware - Bloomberg.com
