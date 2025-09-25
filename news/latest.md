@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-25 17:49_
+_Updated: 2025-09-25 18:53_
 
-- White House directs mass firings if there is a government shutdown - The Washington Post
-- What we know about Dallas ICE sniper suspect Joshua Jahn - ABC News - Breaking News, Latest News and Videos
-- Federal prosecutors near decision on whether to charge James Comey, sources say - CBS News
-- Nicolas Sarkozy sentenced to five years in Libya campaign financing case - BBC
-- Trump's worker visa changes prompt legal review by California's top attorney - Politico
-- Commentary: Escalator and teleprompter humiliate Trump, so Fox News' Jesse Watters suggests 'blowing up' the U.N. - Los Angeles Times
+- What we know about the Dallas ICE facility shooting and suspect - The Washington Post
+- White House tells agencies to prepare for firings if government shuts down - The Guardian
+- Attorney General Bondi and prosecutors have reservations over charging James Comey, sources say - CNN
 - Hegseth orders rare, urgent meeting of numerous generals, admirals - CBS News
-- Son of Mother Killed by Geoffrey West Urges Alabama to Halt Execution - The New York Times
-- Jimmy Kimmel Responds to Trump’s Threats: ‘an Old-Fashioned ‘80s Movie-Style Bully’ - Rolling Stone
-- European officials fear Trump is preparing to blame them for Ukraine failure - Financial Times
+- "Russia is a real bear": Kremlin responds to Trump's Ukraine comments - Axios
+- Trump's worker visa changes prompt legal review by California's top attorney - Politico
+- Oklahoma state superintendent who ordered schools to teach the Bible resigns to lead anti-teachers union group - NBC News
+- Commentary: Escalator and teleprompter humiliate Trump, so Fox News' Jesse Watters suggests 'blowing up' the U.N. - Los Angeles Times
+- Potential tropical threats to Florida, U.S. East Coast grow as two storms inch closer - Sun Sentinel
+- Jimmy Kimmel Responds to Trump’s Threats: ‘An Old-Fashioned Eighties Movie-Style Bully’ - Rolling Stone
 - Mystery drones over Denmark are 'hybrid attack,' defense minister says - ABC News - Breaking News, Latest News and Videos
-- 'Hamas Will Have No Role to Play': PA Ready to Take Control of Gaza, Abbas Tells UN - Haaretz
-- Liudmila Zavada: Woman in 20-year old cold case identified as Russian citizen - CNN
-- Fact check: Trump repeats false claims at speech before UN - DW
-- Starbucks to close hundreds of stores, lay off 900 workers as part of turnaround plan - AP News
+- Nicolas Sarkozy sentenced to five years in Libya campaign financing case - BBC
+- Live Updates: Mahmoud Abbas speaks at UNGA - The Jerusalem Post
+- Trump says he was ‘still friends’ with Erdoğan while in US ‘exile’ and demands Turkey stop buying Russian oil – US politics live - The Guardian
+- Amazon to pay $2.5 billion to settle FTC allegations it duped customers into enrolling in Prime - AP News
+- Starbucks to close some US and UK stores - BBC
 - Gross Domestic Product, 2nd Quarter 2025 (Third Estimate), GDP by Industry, Corporate Profits (Revised), and Annual Update - Bureau of Economic Analysis (BEA) (.gov)
-- Amazon to Pay $2.5 Billion in Prime Membership Settlement - The New York Times
-- Existing home sales stall in August amid higher mortgage rates - CNBC
-- I tested the iPhone 17 Pro Max, and here's one big reason for a year-over-year upgrade - ZDNET
+- Stock Market Today: Dow, Nasdaq Fall; GDP Revised Higher; Tech Stocks Lead Losses — Live Updates - The Wall Street Journal
+- Apple often says ‘best iPhone lineup ever,’ but this year it’s so true - 9to5Mac
 - Qualcomm says its new Snapdragon chips are 'the fastest and most efficient' for Windows PCs - Engadget
