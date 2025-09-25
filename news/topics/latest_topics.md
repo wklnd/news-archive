@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-25 13:38_
+_Updated: 2025-09-25 15:05_
 
 ## Top Stories
 
 - DN Direkt - S säger ja – majoritet för fångar till Estland - DN
-- Sarkozy döms – tog emot pengar från Kadaffi - SVT Nyheter
-- Danmark går upp i höjd beredskap efter drönarna - Hufvudstadsbladet
-- Permanent uppehållstillstånd kan bli tillfälligt - SvD
-- Ministern vill stoppa engelska skolor – ”krävs lagändring” - DN
-- Två till sjukhus efter kraftig brand på seniorboende: ”Fullt utvecklad vindsbrand” - NWT
+- Sarkozy döms till fem års fängelse - SVT Nyheter
+- Buss 16 läggs ner – här är nya busslinjerna som ersätter - GP
+- Kvinna hittad svårt skadad i Kista - Aftonbladet
+- Nytorgsmannen vanvårdade ankor – får djurförbud - Aftonbladet
+- Uttalande från Utrikesdepartementet med anledning av Global Sumud Flotilla - Regeringen.se
 - Hjärtsjuka barn felaktigt friskförklarade av Jönköpingsläkare - SVT Nyheter
-- Rättegång mot Joakim Medin skjuts upp till nästa år - SVT Nyheter
-- 25 september 12.13, Trafikkontroll, Västernorrlands län - polisen.se
-- LEDARE: Vatten, vägar och vardag – därför måste vi tänka nytt om krisberedskap - Tidningen Ångermanland
-- Zelenskyj: Redo att avgå efter kriget - GP
+- Permanent uppehållstillstånd kan bli tillfälligt - Västerbottens-Kuriren
+- Ministern vill stoppa engelska skolor – ”krävs lagändring” - DN
+- INSÄNDARE: Moderaterna står på hårt arbetande skåningars sida - Norra Skåne
 - Vita huset: Planera för nya massuppsägningar - Västerbottens-Kuriren
-- Explosion vid kärnkraftverk – bombplan nedskjutet - Corren
-- Larmet: Nordkorea kan ha två ton höganrikat uran - Västerbottens-Kuriren
+- Nathan Shachar: Trumps Gazaplaner går stick i stäv med Netanyahus - DN
+- Dansk polis: Drönare vid flera flygplatser under natten - SVT Nyheter
+- Insändare. Så kan FN räddas från kollaps - DN
 - Stockholmsbörsen backar – H&M rapportrusar - Dagens industri
+- Starbucks stänger och säger upp - Aftonbladet
+- Rekordhög skuld för ny fransk regeringschef - Tidningen Näringslivet
 - Kritik mot bankernas boräntor: Sticker i ögonen - SvD
-- Rekordhög skuld för ny fransk regeringschef - Sydsvenskan
-- Här lyfter det igen – och här har det rasat mest - SvD
-- Varningen: Sju av nio av planetens gränser har överskridits - tidningensyre.se
+- Miljöforskare varnar: Sju av planetens nio kritiska gränser har passerats - DN
 - 5 frågor till Tobias Alfvén - Läkartidningen
 
 ## World News
@@ -36,21 +36,22 @@ _Updated: 2025-09-25 13:38_
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
-- Livsviktig havsorganism hotad av global uppvärmning - SVT Nyheter
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Techarenan News goes English (Partly at least) - Techarenan News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- New Secretary General appointed - Olof Palme International Center
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- Vinnare & Förlorare - Saab stiger på tyskt intresse för Global Eye - Börskollen
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Chinese Manufacturers Are Peeling Off the Veneer of Western Luxury - Morocco World News
 - Animerad japansk pirat har blivit global protestsymbol - Omni
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 
 ## Technology
 
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Lansering av Au Lac Artificial Intelligence Alliance för att utveckla strategisk teknologi - Vietnam.vn
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -63,13 +64,12 @@ _Updated: 2025-09-25 13:38_
 - Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 
 ## Business
 
@@ -100,21 +100,21 @@ _Updated: 2025-09-25 13:38_
 - Yen Lac District Medical Center: Proaktivt skydd av människors hälsa under den varma säsongen - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
+- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - Engineering Health 2024 - Chalmers
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Tummen ner för omtalat ALS-läkemedel - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
 ## Science
