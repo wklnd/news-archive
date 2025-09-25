@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-25 10:47_
+_Updated: 2025-09-25 11:41_
 
 ## Top Stories
 
-- Svantesson om boräntorna: Sticker i ögonen - SvD
-- Dansk polis: Drönare vid flera flygplatser under natten - SVT Nyheter
+- S säger ja – majoritet för fångar till Estland - GP
+- Drönare över flera danska flygplatser – luftrum stängdes över Ålborg - SVT Nyheter
 - Brakförlust för Tidöpartierna om det vore val i dag - DN
-- S säger ja – majoritet för fångar till Estland - Västerbottens-Kuriren
-- Biljakt på E6 – två gripna - GP
-- LIVE: Storbrand på seniorboende – NWT rapporterar live - NWT
+- Ministern vill stoppa engelska skolor – ”krävs lagändring” - DN
+- LIVE: Polispatruller från hela Värmland jobbade vid storbranden: ”Bryta upp dörrar” - NWT
+- Trump talar för en ukrainsk seger – ”Ryssland en papperstiger" - Europaportalen
 - Hjärtsjuka barn felaktigt friskförklarade av Jönköpingsläkare - SVT Nyheter
-- Turkiska rättegången mot Joakim Medin skjuts upp - GP
-- Gul varning från SMHI – här blir det mycket hårda vindar - NSD
-- Ledare: Uselt företagsklimat kräver konkreta reformer - NT
-- Larmet: Nordkorea kan ha två ton höganrikat uran - Västerbottens-Kuriren
+- Rättegång mot Joakim Medin skjuts upp till nästa år - SVT Nyheter
+- LEDARE: Vatten, vägar och vardag – därför måste vi tänka nytt om krisberedskap - Tidningen Ångermanland
+- INSÄNDARE: Moderaterna står på hårt arbetande skåningars sida - Norra Skåne
+- Explosion vid kärnkraftverk – bombplan nedskjutet - Västerbottens-Kuriren
 - Peter Alestig: Här är lögnerna i Trumps tal om ”klimatbluffen” - DN
-- Nathan Shachar: Trumps Gazaplaner går stick i stäv med Netanyahus - DN
 - Aktivister i Thunbergs konvoj: Tre båtar skadade - UNT
+- Många dödade i israelisk attack - GP
+- Svantesson om boräntorna: Sticker i ögonen - SvD
 - Stockholmsbörsen backar – H&M rapportrusar - Dagens industri
 - Rekordhög skuld för ny fransk regeringschef - Sydsvenskan
-- Grossisten får rätt om ris-kopiering – matbutik döms betala över en kvartsmiljon - food-supply.se
-- DN Direkt - Tesla försäljning i Europa fortsätter backa - DN
-- Sju av vår planets gränser har passerats - Stockholms universitet
+- Tesla försäljning i Europa fortsätter backa – BYD ökar - Ny Teknik
+- Ny kritisk gräns för planeten passerad - SvD
 - Skilsmässan mellan Microsoft och Open AI närmar sig. Vem går vinnande ur separationen? - Computer Sweden
 
 ## World News
@@ -143,22 +143,22 @@ _Updated: 2025-09-25 10:47_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
+- Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Arbetande förman | Jobb | ATL - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
-- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Ho Chi Minh Citys lantbrukarförening skickar lantbrukare till Japan för att lära sig högteknologiskt jordbruk - Vietnam.vn
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
