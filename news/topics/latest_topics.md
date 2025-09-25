@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-25 15:05_
+_Updated: 2025-09-25 15:45_
 
 ## Top Stories
 
-- DN Direkt - S säger ja – majoritet för fångar till Estland - DN
+- Majoritet i riksdagen för att hyra fängelse i Estland - DN
+- Zelenskyj: Redo att avgå efter kriget - Hufvudstadsbladet
 - Sarkozy döms till fem års fängelse - SVT Nyheter
-- Buss 16 läggs ner – här är nya busslinjerna som ersätter - GP
-- Kvinna hittad svårt skadad i Kista - Aftonbladet
-- Nytorgsmannen vanvårdade ankor – får djurförbud - Aftonbladet
-- Uttalande från Utrikesdepartementet med anledning av Global Sumud Flotilla - Regeringen.se
+- Permanent uppehållstillstånd kan bli tillfälligt - SvD
+- Hot och våld – vardag för ambulanspersonalen i Gävle - Gefle Dagblad
+- Klart: Helikopterbasen i Umeå blir kvar - Västerbottens-Kuriren
 - Hjärtsjuka barn felaktigt friskförklarade av Jönköpingsläkare - SVT Nyheter
-- Permanent uppehållstillstånd kan bli tillfälligt - Västerbottens-Kuriren
 - Ministern vill stoppa engelska skolor – ”krävs lagändring” - DN
-- INSÄNDARE: Moderaterna står på hårt arbetande skåningars sida - Norra Skåne
-- Vita huset: Planera för nya massuppsägningar - Västerbottens-Kuriren
+- Kvinna hittad svårt skadad i Kista - SVT Nyheter
+- Sakine Madon: Vad fick Turkiet i utbyte för att släppa Joakim Medin? - DN
+- Ålandspolisen vill ha rapporter om suspekta drönare - Hufvudstadsbladet
+- Erik de la Reguera: Därför skickar Italien och Spanien krigsfartyg till aktivistflottan - DN
+- Vita huset: Planera för nya massuppsägningar - GP
 - Nathan Shachar: Trumps Gazaplaner går stick i stäv med Netanyahus - DN
-- Dansk polis: Drönare vid flera flygplatser under natten - SVT Nyheter
-- Insändare. Så kan FN räddas från kollaps - DN
-- Stockholmsbörsen backar – H&M rapportrusar - Dagens industri
-- Starbucks stänger och säger upp - Aftonbladet
-- Rekordhög skuld för ny fransk regeringschef - Tidningen Näringslivet
 - Kritik mot bankernas boräntor: Sticker i ögonen - SvD
-- Miljöforskare varnar: Sju av planetens nio kritiska gränser har passerats - DN
+- H&M vinnare på sjunkande Stockholmsbörs - Placera.se
+- Starbucks stänger och säger upp - GP
+- Rekordhög skuld för ny fransk regeringschef - Tidningen Näringslivet
+- Ny kritisk gräns för planeten passerad - NWT
 - 5 frågor till Tobias Alfvén - Läkartidningen
 
 ## World News
@@ -39,6 +39,7 @@ _Updated: 2025-09-25 15:05_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Techarenan News goes English (Partly at least) - Techarenan News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- New Secretary General appointed - Olof Palme International Center
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
@@ -46,12 +47,10 @@ _Updated: 2025-09-25 15:05_
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Chinese Manufacturers Are Peeling Off the Veneer of Western Luxury - Morocco World News
 - Animerad japansk pirat har blivit global protestsymbol - Omni
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 
 ## Technology
 
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Lansering av Au Lac Artificial Intelligence Alliance för att utveckla strategisk teknologi - Vietnam.vn
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -60,16 +59,17 @@ _Updated: 2025-09-25 15:05_
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
 - 290 million for digitalisation of Swedish industry - Vinnova
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 
 ## Business
 
