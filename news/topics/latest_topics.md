@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-26 00:39_
+_Updated: 2025-09-26 01:37_
 
 ## Top Stories
 
 - Ekstra Bladet: Ryskt örlogsfartyg utanför Danmark - GP
 - En person död efter allvarlig olycka på Markstridsskolan utanför Motala - SVT Nyheter
-- ”Alla” toppmilitärer till mystiska mötet - Expressen
-- DN Direkt - Tågstopp på Öresundsbron efter olycka - DN
-- Svenskt flygvapen redo med vingtipp och varningsskott - RiktpunKt.nu
-- S röstar ja till att tillfälligt hyra fängelse i Estland – kräver snabb utbyggnad i Sverige - Socialdemokraterna
+- DN Direkt - Hegseth kallar toppmilitärer till möte – syftet oklart - DN
+- Tidigare FBI-chef anklagas för brott - GP
+- DN Direkt - Kritiserade polischefen Per Engström slutar - DN
+- Flykten från Moldavien – Anatolij blev ensam kvar i byn - DN
 - DN Direkt - Livstecken från Djalali – efter tre månader - DN
 - KRITIKEN: Vissa barnfamiljer gynnas – andra drabbas: ”Skillnad” - NWT
 - Insändare: Beröm för arbetet med företagsklimatet - Arvika Nyheter
 - DN Direkt - Luftrum stängt över Aalborg på grund av drönare - DN
-- DN Direkt - Tortyrmord på kvinnor direktsändes på Instagram - DN
-- Flykten från Moldavien – Anatolij blev ensam kvar i byn - DN
-- Sarkozy döms till fem års fängelse i Libyenfall - Hufvudstadsbladet
+- Sarkozy döms till fem års fängelse i Libyenfall - GP
+- Tortyrmord på kvinnor direktsändes på Instagram - Västerbottens-Kuriren
 - Sjöstedts krav: Skydda svenskarna på Medelhavet - GP
+- LINDA JERNECK: Fem saker att ha koll på i drönarkriget - Expressen
 - Trump godkänner uppgörelse om Tiktok i USA - Dagens industri
-- DN Direkt - Bosch skär ned – 13 000 jobb ska bort - DN
-- H&M vinnare på sjunkande Stockholmsbörs, OMXS30-index tappade 0,8 procent - Placera.se
+- Fabriksstopp hos Volkswagen – efterfrågan lägre än väntat - Dagens industri
 - Storbanker sänker bolåneräntan - Aftonbladet
-- Sju kritiska klimatgränser har passerats - Stockholms universitet
+- DN Direkt - Bosch skär ned – 13 000 jobb ska bort - DN
+- Xiaomi presenterar modellerna 17 Pro och 17 Pro Max - mobil.se
 - Recension: "Ghost of Yotei" är det bästa Playstation-spelet på länge - MovieZine
 
 ## World News
@@ -82,8 +82,8 @@ _Updated: 2025-09-26 00:39_
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
-- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -91,18 +91,18 @@ _Updated: 2025-09-26 00:39_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Fortune Minerals Announces David Massola Has Rejoined the Company as Vice President Business Development - Placera.se
 - City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
-- Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
+- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 
 ## Health
 
-- »Allmän återhållsamhet« räcker inte - Läkartidningen
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Yen Lac District Medical Center: Proaktivt skydd av människors hälsa under den varma säsongen - Vietnam.vn
-- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
+- »Allmän återhållsamhet« räcker inte - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
+- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers
@@ -110,10 +110,10 @@ _Updated: 2025-09-26 00:39_
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 
@@ -155,10 +155,10 @@ _Updated: 2025-09-26 00:39_
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
-- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
 - Här är världens största jordbruk - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
-- USA tvingar ut EU på banan - Land Lantbruk
+- Ho Chi Minh Citys lantbrukarförening skickar lantbrukare till Japan för att lära sig högteknologiskt jordbruk - Vietnam.vn
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
