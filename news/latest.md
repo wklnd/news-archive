@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-25 21:48_
+_Updated: 2025-09-25 22:48_
 
-- What we know about the Dallas ICE facility shooting - NPR
 - White House begins plan for mass firings if there’s a government shutdown - The Washington Post
 - Attorney General Bondi and prosecutors have reservations over charging James Comey, sources say - CNN
-- Hegseth summons generals and admirals for rare meeting in Virginia - CBS News
-- Commentary: Escalator and teleprompter humiliate Trump, so Fox News' Jesse Watters suggests 'blowing up' the U.N. - Los Angeles Times
-- Justice Dept. Official Pushes Prosecutors to Investigate George Soros’s Foundation - The New York Times
-- Ryan Walters, Oklahoma Education Chief Who Promoted Bibles in Schools, to Resign - The New York Times
+- Hegseth calls rare meeting of large number of generals and admirals - ABC News - Breaking News, Latest News and Videos
+- Deadly Ice shooting comes as violence spikes amid Trump immigration crackdown - The Guardian
+- Trump is accusing the U.N. of 'sabotage.' The U.N. says Trump's team is to blame - NPR
+- 'Palestinians will not leave,' their president tells world leaders at UN in defiant, virtual speech - AP News
 - Fujiwhara effect explained: Here’s what can happen when two hurricanes get too close together - CNN
-- NYC staffer violated 'sanctuary' laws by sharing migrant info with feds: report - Politico
-- Sherrill, Ciattarelli tied in new Emerson poll - New Jersey Globe
-- Nicolas Sarkozy sentenced to five years in Libya campaign financing case - BBC
-- Mystery drones over Denmark are 'hybrid attack,' defense minister says - ABC News - Breaking News, Latest News and Videos
-- Trump Assures Arab Leaders He Won’t Allow Israel to Annex West Bank, Officials Say - The New York Times
-- Massive sinkhole swallows part of a Bangkok road, forcing evacuations in Thailand's capital - CBS News
+- Oklahoma state superintendent who ordered schools to teach the Bible resigns to lead anti-teachers union group - NBC News
+- Justice Department sues 6 states for failing to turn over voter registration rolls - CBS News
+- N.Y.C. Jail Official Broke Sanctuary Laws by Helping D.H.S., Report Says - The New York Times
+- Danish officials believe drone flyovers at 4 airports are meant to sow fear and division - AP News
+- Nicolas Sarkozy sentenced to jail for campaign finance scandal - MSNBC News
+- A Bangkok road collapse creates a sinkhole disrupting traffic and prompting evacuations - ABC News - Breaking News, Latest News and Videos
+- Bragging rights meet battlefield reality as Trump’s peacemaker pitch falls flat at UN - Politico
 - Amazon will refund $1.5 billion to Prime subscribers in $2.5 billion FTC settlement - The Washington Post
 - Starbucks is closing more stores and laying off 900 workers - NPR
-- Former Fed, Treasury chiefs urge Supreme Court to block Trump firing Lisa Cook - CNBC
-- Stock Market Today: Dow, Nasdaq Fall; GDP Revised Higher; Tech Stocks Lead Losses — Live Updates - The Wall Street Journal
-- OpenAI really, really wants you to start your day with ChatGPT Pulse - The Verge
+- Trump would eviscerate Fed independence with Lisa Cook firing, her lawyers tell Supreme Court - CNBC
+- ‘The frustration is overwhelming’: Soybean farmers feel betrayed as Argentina blows a hole in rural America’s $47 billion soybean bonanza - Fortune
+- OpenAI launches ChatGPT Pulse to proactively write you morning briefs - TechCrunch
 - I tested the iPhone 17 Pro Max, and here's one big reason for a year-over-year upgrade - ZDNET
