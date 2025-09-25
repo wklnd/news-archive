@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-25 11:41_
+_Updated: 2025-09-25 12:43_
 
 ## Top Stories
 
-- S säger ja – majoritet för fångar till Estland - GP
-- Drönare över flera danska flygplatser – luftrum stängdes över Ålborg - SVT Nyheter
-- Brakförlust för Tidöpartierna om det vore val i dag - DN
+- S röstar ja till att tillfälligt hyra fängelse i Estland – kräver snabb utbyggnad i Sverige - Socialdemokraterna
+- Sarkozy döms – tog emot pengar från Kadaffi - SVT Nyheter
+- Dansk polis: Drönare vid flera flygplatser under natten - SVT Nyheter
 - Ministern vill stoppa engelska skolor – ”krävs lagändring” - DN
-- LIVE: Polispatruller från hela Värmland jobbade vid storbranden: ”Bryta upp dörrar” - NWT
-- Trump talar för en ukrainsk seger – ”Ryssland en papperstiger" - Europaportalen
+- Brakförlust för Tidöpartierna om det vore val i dag - DN
+- Uttalande från Utrikesdepartementet med anledning av Global Sumud Flotilla - Regeringen.se
 - Hjärtsjuka barn felaktigt friskförklarade av Jönköpingsläkare - SVT Nyheter
-- Rättegång mot Joakim Medin skjuts upp till nästa år - SVT Nyheter
-- LEDARE: Vatten, vägar och vardag – därför måste vi tänka nytt om krisberedskap - Tidningen Ångermanland
-- INSÄNDARE: Moderaterna står på hårt arbetande skåningars sida - Norra Skåne
+- Turkiska rättegången mot Joakim Medin skjuts upp - GP
+- Hyllar kommunen: ”Ett praktexempel” - Nya Ludvika Tidning
+- LIVE: Polispatruller från hela Värmland jobbade vid storbranden: ”Bryta upp dörrar” - NWT
+- Zelenskyj redo att avgå efter kriget – vill inte fortsätta - Omni
+- Larmet: Nordkorea kan ha två ton höganrikat uran - Västerbottens-Kuriren
 - Explosion vid kärnkraftverk – bombplan nedskjutet - Västerbottens-Kuriren
 - Peter Alestig: Här är lögnerna i Trumps tal om ”klimatbluffen” - DN
-- Aktivister i Thunbergs konvoj: Tre båtar skadade - UNT
-- Många dödade i israelisk attack - GP
-- Svantesson om boräntorna: Sticker i ögonen - SvD
+- Kritik mot bankernas boräntor: Sticker i ögonen - SvD
 - Stockholmsbörsen backar – H&M rapportrusar - Dagens industri
 - Rekordhög skuld för ny fransk regeringschef - Sydsvenskan
-- Tesla försäljning i Europa fortsätter backa – BYD ökar - Ny Teknik
+- Här lyfter det igen – och här har det rasat mest - SvD
 - Ny kritisk gräns för planeten passerad - SvD
 - Skilsmässan mellan Microsoft och Open AI närmar sig. Vem går vinnande ur separationen? - Computer Sweden
 
@@ -31,7 +31,7 @@ _Updated: 2025-09-25 11:41_
 - Tyskland öppnar för Saab-affär: ”Ligger i ’pole position’” - Dagens industri
 - Drönfotbolls-VM 2025: 265 lag tävlar i Sydkorea på global tekniklekplats - Vietnam.vn
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
@@ -42,11 +42,11 @@ _Updated: 2025-09-25 11:41_
 - Techarenan News goes English (Partly at least) - Techarenan News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - New Secretary General appointed - Olof Palme International Center
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - SuperX Announces Establishment of U.S. Subsidiary to Accelerate Global AI Strategy and Deepen Silicon Valley Collaboration - Placera.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- Animerad japansk pirat har blivit global protestsymbol - Omni
 
 ## Technology
 
@@ -54,22 +54,22 @@ _Updated: 2025-09-25 11:41_
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Lansering av Au Lac Artificial Intelligence Alliance för att utveckla strategisk teknologi - Vietnam.vn
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
-- Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
-- 290 million for digitalisation of Swedish industry - Vinnova
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
+- 290 million for digitalisation of Swedish industry - Vinnova
+- Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
-- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
+- Digital Realty Launches Innovation Lab to Accelerate AI and Hybrid Cloud Implementation - Placera.se
 
 ## Business
 
@@ -100,19 +100,19 @@ _Updated: 2025-09-25 11:41_
 - Yen Lac District Medical Center: Proaktivt skydd av människors hälsa under den varma säsongen - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
+- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Engineering Health 2024 - Chalmers
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
@@ -127,18 +127,18 @@ _Updated: 2025-09-25 11:41_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
 
@@ -154,6 +154,7 @@ _Updated: 2025-09-25 11:41_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
@@ -161,4 +162,3 @@ _Updated: 2025-09-25 11:41_
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
