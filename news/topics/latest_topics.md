@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-25 19:39_
+_Updated: 2025-09-25 20:49_
 
 ## Top Stories
 
-- Ilska på S:t Göran – massuppsägningar på Iva - Aftonbladet
-- Danmarks försvarsminister om drönarna: ”En professionell aktör” - DN
-- Ryska stridsflyg vid Alaska - Expressen
-- DN Direkt - 80-tal hjärtsjuka barn friskförklarades - DN
-- En av de dömda i C.Gambino-målet släpps från häktet - SVT Nyheter
-- Allvarlig olycka under övning – en allvarligt skadad - Omni
-- S röstar ja till att tillfälligt hyra fängelse i Estland – kräver snabb utbyggnad i Sverige - Socialdemokraterna
+- Danska myndigheter håller pressträff om drönarlarmen - SVT Nyheter
+- DN Direkt - Man död efter olycka under polisövning - DN
+- Ewa Stenberg: Drönare är ett billigt sätt att nöta på Ukrainas vänner - DN
+- Dömd i C.Gambino-fallet släppt på fri fot - GP
+- USA dödskallemärker svensk plan: ”skadlig” - SvD
 - Läkaren tvingas lämna Sverige: ”Ett misstag förstörde allt” - DN
-- Försvunne svensken tillbaka i Irans skräckfängelse - GP
+- Försvunne svensken tillbaka i Irans skräckfängelse - Västerbottens-Kuriren
 - En av fem oroliga att deras barn ska dras in i gängkriminalitet - Sveriges Radio
-- Sarkozy döms till fem års fängelse i Libyenfall - Hufvudstadsbladet
-- Erik de la Reguera: Därför skickar Italien och Spanien krigsfartyg till aktivistflottan - DN
-- Abbas: Palestinierna kommer inte överge sitt land - Västerbottens-Kuriren
-- Ryska plan flög över tysk båt: ”Oförskämda” - Expressen
+- S röstar ja till att tillfälligt hyra fängelse i Estland – kräver snabb utbyggnad i Sverige - Socialdemokraterna
+- Nytorgsmannen vanvårdade ankor – får djurförbud - Västerbottens-Kuriren
+- Erik de la Reguera: Domen mot Sarkozy kan göra det svårare för Le Pen att spela offer - DN
+- Israeliska luftangrepp mot Jemen - Corren
+- Abbas: Det palestinska folket tar avstånd från attacken den 7 oktober - Omni
+- Åldring räddad från översvämning – efter tre dagar - GP
 - Ny nedgång på Stockholmsbörsen – H&M rusade på rapport - Dagens industri
 - Storbanker sänker bolåneräntan - Aftonbladet
 - Tranås behåller topplacering i ranking av det lokala företagsklimatet - Mynewsdesk
-- Bekräftat: Bosch drar ned med ytterligare 13 000 jobb - Ny Teknik
-- Google släpper Android för pc under 2026 - Computer Sweden
+- Bosch uppges planera nya stora nedskärningar - Handelsblatt - Placera.se
+- Ny kritisk gräns för planeten passerad - Skånska Dagbladet
 - Qualcomms nya Intel-dräpare - Ljud & Bild
 
 ## World News
@@ -51,7 +51,6 @@ _Updated: 2025-09-25 19:39_
 ## Technology
 
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Lansering av Au Lac Artificial Intelligence Alliance för att utveckla strategisk teknologi - Vietnam.vn
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -60,16 +59,17 @@ _Updated: 2025-09-25 19:39_
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
 - 290 million for digitalisation of Swedish industry - Vinnova
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
-- Deepseek är det nya Linux - Computer Sweden
+- Xiao-I Corporation Renews Strategic Partnership with Leading Global Bank to Elevate Digital Banking Experience - Placera.se
 
 ## Business
 
@@ -110,11 +110,11 @@ _Updated: 2025-09-25 19:39_
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Johan von Schreeb - Karolinska Institutet
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Tummen ner för omtalat ALS-läkemedel - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Vårdcentral i Göteborg fick 600 000 kronor för mycket för outbildad tolk - Läkartidningen
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 
 ## Science
@@ -125,10 +125,10 @@ _Updated: 2025-09-25 19:39_
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
@@ -138,7 +138,7 @@ _Updated: 2025-09-25 19:39_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers
 
 ## Jordbruk
 
@@ -157,8 +157,8 @@ _Updated: 2025-09-25 19:39_
 - Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
 - OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
 - Här är världens största jordbruk - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Nyheter - LRF - Lantbrukarnas Riksförbund
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
