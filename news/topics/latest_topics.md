@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-25 06:43_
+_Updated: 2025-09-25 07:41_
 
 ## Top Stories
 
 - Drönare över nya danska flygplatser – luftrum stängdes över Ålborg - SVT Nyheter
-- Explosion vid port i Malmö - SvD
-- Gapet minskar – lägsta siffran på 1,5 år - Aftonbladet
+- DN Direkt - Explosion vid port i Malmö - DN
+- Anderssons orossiffror: ”Långt ifrån avgjort” - SvD
+- JUST NU: Kraftig brand på serviceboende – ”100 meter tak brinner” - NWT
 - Brakförlust för Tidöpartierna om det vore val i dag - DN
-- Två till sjukhus efter brand i boende - Västerbottens-Kuriren
-- Skott vid migrationskontor i Texas – minst en död - UNT
-- S möblerar om i toppskiktet – Ygeman får ny roll - UNT
+- Experten: Kan bli fler ryska drönare över Europa - GP
+- Ygeman petas – Umeåbo kommer in - Västerbottens-Kuriren
 - Ledare: Uselt företagsklimat kräver konkreta reformer - NT
 - INSÄNDARE: Moderaterna står på hårt arbetande skåningars sida - Norra Skåne
 - Tyst minut för knivdödad ambulanssjukvårdare - DN
 - Kina sätter mål för minskningar av utsläpp för första gången - SVT Nyheter
-- Sofia Mirjamsdotter: Gå från ord till handling för att stoppa Israels krigsbrott - Västerbottens-Kuriren
-- Aktivister i Thunbergs konvoj: Tre båtar skadade - UNT
+- Nathan Shachar: Trumps Gazaplaner går stick i stäv med Netanyahus - DN
 - Nordiskt anförande om Rysslands senaste kränkning av Estlands luftrum - Regeringen.se
-- Storbank sänker rörliga boräntan - Dagens industri
+- Aktivister i Thunbergs konvoj: Tre båtar skadade - UNT
+- SEB och Swedbank sänker rörliga räntan 20 punkter - Omni
+- Våning såld på Söder – för 54 miljoner - SvD
 - Nya siffror: Företag satsar på hållbarhet – trots global osäkerhet - Tidningen Näringslivet
 - Konjunkturinstitutet om räntor & ekonomi i september 2025 - Ekonomifokus.se
-- Efter kritiken – förändringar på Folkhälsomyndigheten - HD
 - Ännu en planetär gräns överskriden – ”globala bolag kan göra stor skillnad” - Aktuell Hållbarhet
-- LEDARE: Hurra – barns skärmtid minskar! - Borås Tidning
+- Ta en första titt på imponerande sci-fi-äventyret ”Saros” – släpps i mars - MovieZine
 
 ## World News
 
@@ -45,7 +45,7 @@ _Updated: 2025-09-25 06:43_
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Animerad japansk pirat har blivit global protestsymbol - Omni
+- 🌏 Global ojämlikhet minskar faktiskt - Warp News
 - Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
 
 ## Technology
@@ -66,8 +66,8 @@ _Updated: 2025-09-25 06:43_
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 
@@ -75,24 +75,24 @@ _Updated: 2025-09-25 06:43_
 
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
-- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
 - AgriFORCE Growing Systems (AGRI) to Launch as First Publicly-Traded Avalanche-Focused Company on NASDAQ with a $550 Million Capital Raise Strategy - Placera.se
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
+- BofA Ranked No. 1 Small Business Lender for 17th Consecutive Quarter - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
+- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
 - Equitable Holdings, Inc. Announces Full Redemption of Its Series B Depositary Shares - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 
 ## Health
 
@@ -100,15 +100,15 @@ _Updated: 2025-09-25 06:43_
 - Yen Lac District Medical Center: Proaktivt skydd av människors hälsa under den varma säsongen - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
+- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Johan von Schreeb - Karolinska Institutet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Cambio-chefen: »Millennium i VGR var en väckarklocka« - Läkartidningen
@@ -143,22 +143,22 @@ _Updated: 2025-09-25 06:43_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
+- Här är världens största jordbruk - ATL
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
