@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-25 15:45_
+_Updated: 2025-09-25 16:44_
 
 ## Top Stories
 
-- Majoritet i riksdagen för att hyra fängelse i Estland - DN
-- Zelenskyj: Redo att avgå efter kriget - Hufvudstadsbladet
-- Sarkozy döms till fem års fängelse - SVT Nyheter
-- Permanent uppehållstillstånd kan bli tillfälligt - SvD
-- Hot och våld – vardag för ambulanspersonalen i Gävle - Gefle Dagblad
-- Klart: Helikopterbasen i Umeå blir kvar - Västerbottens-Kuriren
-- Hjärtsjuka barn felaktigt friskförklarade av Jönköpingsläkare - SVT Nyheter
+- S röstar ja till att tillfälligt hyra fängelse i Estland – kräver snabb utbyggnad i Sverige - Socialdemokraterna
+- Ryska stridsflyg nära Alaska – nionde gången i år - Omni
+- Sarkozy döms till fem års fängelse i Libyenfall - Hufvudstadsbladet
+- Stubb om Trump: ”Mycket engagerad” - Expressen
+- Läkaren tvingas lämna Sverige: ”Ett misstag förstörde allt” - DN
+- Kvinna allvarligt skadad av vasst föremål - Aftonbladet
 - Ministern vill stoppa engelska skolor – ”krävs lagändring” - DN
-- Kvinna hittad svårt skadad i Kista - SVT Nyheter
-- Sakine Madon: Vad fick Turkiet i utbyte för att släppa Joakim Medin? - DN
+- En av de dömda i C.Gambino-målet släpps från häktet - SVT Nyheter
+- En av fem oroliga att deras barn ska dras in i gängkriminalitet - Sveriges Radio
+- Rättegång mot Joakim Medin skjuts upp till nästa år - SVT Nyheter
 - Ålandspolisen vill ha rapporter om suspekta drönare - Hufvudstadsbladet
+- Zelenskyj: Redo att avgå efter kriget - GP
 - Erik de la Reguera: Därför skickar Italien och Spanien krigsfartyg till aktivistflottan - DN
-- Vita huset: Planera för nya massuppsägningar - GP
-- Nathan Shachar: Trumps Gazaplaner går stick i stäv med Netanyahus - DN
+- Analytiker: Risken ökar för en amerikansk nedstängning - Dagens industri
 - Kritik mot bankernas boräntor: Sticker i ögonen - SvD
 - H&M vinnare på sjunkande Stockholmsbörs - Placera.se
-- Starbucks stänger och säger upp - GP
 - Rekordhög skuld för ny fransk regeringschef - Tidningen Näringslivet
-- Ny kritisk gräns för planeten passerad - NWT
-- 5 frågor till Tobias Alfvén - Läkartidningen
+- Starbucks stänger och säger upp - Aftonbladet
+- Google släpper Android för pc under 2026 - Computer Sweden
+- Varningen: Sju av nio av planetens gränser har överskridits - tidningensyre.se
 
 ## World News
 
@@ -37,9 +37,9 @@ _Updated: 2025-09-25 15:45_
 - KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- HSBC Appoints Victor Matarranz as Head of International Wealth and Premier Banking for Americas and Europe - Placera.se
 - Techarenan News goes English (Partly at least) - Techarenan News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- New Secretary General appointed - Olof Palme International Center
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
@@ -51,25 +51,25 @@ _Updated: 2025-09-25 15:45_
 ## Technology
 
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Lansering av Au Lac Artificial Intelligence Alliance för att utveckla strategisk teknologi - Vietnam.vn
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
-- FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
-- 290 million for digitalisation of Swedish industry - Vinnova
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
+- Billion Dollar Autonomous Technology Sector Poised for Significant Revenue and Growth Opportunities - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
-- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
+- 290 million for digitalisation of Swedish industry - Vinnova
 
 ## Business
 
@@ -120,45 +120,45 @@ _Updated: 2025-09-25 15:45_
 ## Science
 
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
 - Här är världens största jordbruk - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- USA tvingar ut EU på banan - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
