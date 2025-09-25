@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-25 12:49_
+_Updated: 2025-09-25 13:48_
 
-- 1 detainee killed, 2 injured in shooting at Dallas ICE facility - Axios
-- White House tells agencies to prepare for mass layoffs ahead of a potential government shutdown next week - CBS News
-- With His Pivot on Ukraine, Trump May Be Washing His Hands of the War - The New York Times
+- What we know about the suspect in the ICE facility shooting in Dallas - BBC
+- White House budget office threatens mass firings if government shuts down - CNN
 - Va. federal prosecutors preparing to seek Comey indictment, people familiar with matter say - The Washington Post
-- Kimmel nods to big ratings, heckles Trump as an ‘80s-movie-style bully’ in second post-suspension show - CNN
-- Trump claims ‘sabotage’ at U.N. from escalator, teleprompter and mic - CNBC
-- H-1B visa: US tech sector scrambles in the face of $100,000 fees - BBC
+- European officials fear Trump is preparing to blame them for Ukraine failure - Financial Times
+- Trump's worker visa changes prompt legal review by California's top attorney - Politico
+- Trump admin 'seems to care very little about autistic people,' says advocate - NPR
+- Jimmy Kimmel Predicts Trump Will “Try To Sue” ABC After Rant About Talk Show Return: “He Does Know Bad Ratings” - Deadline
+- Trump demands investigation into alleged ‘triple sabotage’ at the United Nations - CNN
 - U.S. fighter jets scrambled to intercept Russian warplanes near Alaska - CBS News
-- Victim's widow files the first lawsuit after January's D.C.-area midair crash - NPR
-- China, world’s largest carbon polluting nation, announces new climate goal to cut emissions - AP News
-- Denmark alerts NATO after coordinated drone attacks at its airports - Euronews.com
-- Sarkozy Guilty of Conspiracy to Use Libyan Money for 2007 Campaign - The New York Times
+- China doubles down on climate, wind and solar pledges — a day after Trump called them a 'scam' - Politico
+- Drone flyovers at 4 airports meant to sow fear, Danish officials say - NBC News
+- Nicolas Sarkozy found guilty of criminal conspiracy - BBC
 - A weakened storm Ragasa pushes across China’s south coast after flooding - AP News
-- China's Xi urges efforts to maintain social stability in Xinjiang - Reuters
-- Asia stocks subdued tracking Wall St losses; BOJ meeting minutes in focus - Investing.com
-- Exclusive | Senators Want Answers From Big Tech on H-1B Workers, Layoffs - The Wall Street Journal
-- Intel seeks investment from Apple, Bloomberg News reports - Reuters
-- Jaguar Land Rover to bear full cost of cyber attack due to lack of insurance cover - Financial Times
+- Israeli Strike Kills Gazans Sheltering in Warehouse, Local Reports Say - The New York Times
+- Starbucks to Close Stores, Cut Jobs in $1 Billion Restructuring - Bloomberg.com
+- Intel and Apple hold investment talks, no deal in sight - 9to5Mac
+- US stocks slip again as Wall Street’s rally loses steam - AP News
+- The three-headed problem throwing the Trump economy into chaos - Business Insider
 - Qualcomm's new flagship mobile platform is the Snapdragon 8 Elite Gen 5 - Engadget
 - I tested the iPhone 17 Pro Max, and here's one big reason for a year-over-year upgrade - ZDNET
