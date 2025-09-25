@@ -1,56 +1,57 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-25 20:49_
+_Updated: 2025-09-25 21:38_
 
 ## Top Stories
 
-- Danska myndigheter håller pressträff om drönarlarmen - SVT Nyheter
-- DN Direkt - Man död efter olycka under polisövning - DN
+- En person död efter allvarlig olycka på Markstridsskolan utanför Motala - SVT Nyheter
+- Drönare beslagtagen nära Oslos flygplats - Västerbottens-Kuriren
 - Ewa Stenberg: Drönare är ett billigt sätt att nöta på Ukrainas vänner - DN
-- Dömd i C.Gambino-fallet släppt på fri fot - GP
 - USA dödskallemärker svensk plan: ”skadlig” - SvD
+- Dömd i C.Gambino-fallet släppt på fri fot - GP
 - Läkaren tvingas lämna Sverige: ”Ett misstag förstörde allt” - DN
 - Försvunne svensken tillbaka i Irans skräckfängelse - Västerbottens-Kuriren
 - En av fem oroliga att deras barn ska dras in i gängkriminalitet - Sveriges Radio
-- S röstar ja till att tillfälligt hyra fängelse i Estland – kräver snabb utbyggnad i Sverige - Socialdemokraterna
 - Nytorgsmannen vanvårdade ankor – får djurförbud - Västerbottens-Kuriren
+- KRITIKEN: Vissa barnfamiljer gynnas – andra drabbas: ”Skillnad” - NWT
 - Erik de la Reguera: Domen mot Sarkozy kan göra det svårare för Le Pen att spela offer - DN
 - Israeliska luftangrepp mot Jemen - Corren
-- Abbas: Det palestinska folket tar avstånd från attacken den 7 oktober - Omni
-- Åldring räddad från översvämning – efter tre dagar - GP
+- Erik de la Reguera: Därför skickar Italien och Spanien krigsfartyg till aktivistflottan - DN
+- Abbas: Palestinierna kommer inte överge sitt land - Västerbottens-Kuriren
 - Ny nedgång på Stockholmsbörsen – H&M rusade på rapport - Dagens industri
+- Bosch uppges planera nya stora nedskärningar - Handelsblatt - Placera.se
 - Storbanker sänker bolåneräntan - Aftonbladet
 - Tranås behåller topplacering i ranking av det lokala företagsklimatet - Mynewsdesk
-- Bosch uppges planera nya stora nedskärningar - Handelsblatt - Placera.se
-- Ny kritisk gräns för planeten passerad - Skånska Dagbladet
-- Qualcomms nya Intel-dräpare - Ljud & Bild
+- Ännu en planetär gräns överskriden – ”globala bolag kan göra stor skillnad” - Aktuell Hållbarhet
+- Recension: "Ghost of Yotei" är det bästa Playstation-spelet på länge - MovieZine
 
 ## World News
 
 - Global Movement to Gaza bekräftar attack mot Gretas fartyg - Aftonbladet
+- Revolut Unveils Global HQ, Setting out Global Vision and Ambitious Timeline for 100 Million Customers - Revolut
 - Tyskland öppnar för Saab-affär: ”Ligger i ’pole position’” - Dagens industri
+- Drönfotbolls-VM 2025: 265 lag tävlar i Sydkorea på global tekniklekplats - Vietnam.vn
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
-- HSBC Appoints Victor Matarranz as Head of International Wealth and Premier Banking for Americas and Europe - Placera.se
 - Techarenan News goes English (Partly at least) - Techarenan News
-- New Secretary General appointed - Olof Palme International Center
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Turkiska mobilitetsappen Marti går med i S&P Global BMI av Investing.com - Investing.com Sverige
+- HSBC Appoints Victor Matarranz as Head of International Wealth and Premier Banking for Americas and Europe - Placera.se
 - Animerad japansk pirat har blivit global protestsymbol - Omni
 
 ## Technology
 
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Lansering av Au Lac Artificial Intelligence Alliance för att utveckla strategisk teknologi - Vietnam.vn
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -59,40 +60,39 @@ _Updated: 2025-09-25 20:49_
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
+- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
-- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
-- Xiao-I Corporation Renews Strategic Partnership with Leading Global Bank to Elevate Digital Banking Experience - Placera.se
+- Artificiell intelligens - Computer Sweden
+- Deepseek är det nya Linux - Computer Sweden
 
 ## Business
 
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- DeFi Technologies and SovFi Unveil Full-Stack Sovereign Finance Framework to Modernize the $100T+ Sovereign Debt Market - Placera.se
-- Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
-- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Fortune Minerals Announces David Massola Has Rejoined the Company as Vice President Business Development - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
+- Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Equitable Holdings, Inc. Announces Full Redemption of Its Series B Depositary Shares - Placera.se
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
+- Mässan Ekonomi & Företag skapar hållbar co-working med ny Partner Rekomo - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
+- Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
+- Equitable Holdings, Inc. Announces Full Redemption of Its Series B Depositary Shares - Placera.se
 
 ## Health
 
@@ -110,55 +110,55 @@ _Updated: 2025-09-25 20:49_
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Tummen ner för omtalat ALS-läkemedel - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Vårdcentral i Göteborg fick 600 000 kronor för mycket för outbildad tolk - Läkartidningen
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 
 ## Science
 
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
+- Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
 - OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
 - Här är världens största jordbruk - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
