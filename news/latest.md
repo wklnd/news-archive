@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-25 11:47_
+_Updated: 2025-09-25 12:49_
 
-- Trump, Vance fault Democrats after shooting at Dallas ICE facility - The Washington Post
+- 1 detainee killed, 2 injured in shooting at Dallas ICE facility - Axios
+- White House tells agencies to prepare for mass layoffs ahead of a potential government shutdown next week - CBS News
 - With His Pivot on Ukraine, Trump May Be Washing His Hands of the War - The New York Times
-- White House threatens mass firings if government shuts down - Axios
-- Justice Department to try to charge ex-FBI Director James Comey, AP sources say - AP News
-- Jimmy Kimmel Predicts Trump Will “Try To Sue” ABC After Rant About Talk Show Return: “He Does Know Bad Ratings” - Deadline
-- Trump demands investigation into alleged ‘triple sabotage’ at the United Nations - CNN
+- Va. federal prosecutors preparing to seek Comey indictment, people familiar with matter say - The Washington Post
+- Kimmel nods to big ratings, heckles Trump as an ‘80s-movie-style bully’ in second post-suspension show - CNN
+- Trump claims ‘sabotage’ at U.N. from escalator, teleprompter and mic - CNBC
 - H-1B visa: US tech sector scrambles in the face of $100,000 fees - BBC
+- U.S. fighter jets scrambled to intercept Russian warplanes near Alaska - CBS News
 - Victim's widow files the first lawsuit after January's D.C.-area midair crash - NPR
-- China doubles down on climate, wind and solar pledges — a day after Trump called them a 'scam' - Politico
-- Days away from a government shutdown, agencies’ contingency plans still unclear - Federal News Network
-- Typhoon Ragasa batters Hong Kong and south China after killing dozens in Taiwan and the Philippines - AP News
-- Drones disrupt flights at second Danish airport in a week - Reuters
-- Thai authorities rush to battle Bangkok sinkhole - DW
-- Italy and Spain deploy ships to help Gaza aid flotilla targeted in drone attack - CNN
-- Asian stock rally pauses for breath, yen struggles against crosses - Reuters
-- Intel Stock Jumps on Report It Is Seeking an Investment From Apple - Barron's
-- Asian Stocks Set to Fall as Global Rally Stalls: Markets Wrap - Bloomberg.com
-- Xcel settles Marshall Fire lawsuit just before trial begins in Boulder - Colorado Public Radio
-- Qualcomm announces the Snapdragon 8 Elite Gen 5 - The Verge
+- China, world’s largest carbon polluting nation, announces new climate goal to cut emissions - AP News
+- Denmark alerts NATO after coordinated drone attacks at its airports - Euronews.com
+- Sarkozy Guilty of Conspiracy to Use Libyan Money for 2007 Campaign - The New York Times
+- A weakened storm Ragasa pushes across China’s south coast after flooding - AP News
+- China's Xi urges efforts to maintain social stability in Xinjiang - Reuters
+- Asia stocks subdued tracking Wall St losses; BOJ meeting minutes in focus - Investing.com
+- Exclusive | Senators Want Answers From Big Tech on H-1B Workers, Layoffs - The Wall Street Journal
+- Intel seeks investment from Apple, Bloomberg News reports - Reuters
+- Jaguar Land Rover to bear full cost of cyber attack due to lack of insurance cover - Financial Times
+- Qualcomm's new flagship mobile platform is the Snapdragon 8 Elite Gen 5 - Engadget
 - I tested the iPhone 17 Pro Max, and here's one big reason for a year-over-year upgrade - ZDNET
