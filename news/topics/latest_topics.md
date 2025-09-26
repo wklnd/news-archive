@@ -1,34 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-26 04:10_
+_Updated: 2025-09-26 05:12_
 
 ## Top Stories
 
-- DN Direkt - Fynd på fiskebåt: Tio ton kokain - DN
+- Uppgifter: Ryska kränkningar ett svar på Natos stöd till Ukraina - GP
 - En person död efter allvarlig olycka på Markstridsskolan utanför Motala - SVT Nyheter
+- Luftrum stängdes efter nya drönarlarm - Västerbottens-Kuriren
 - DN Direkt - Hegseth kallar toppmilitärer till möte – syftet oklart - DN
-- DN Direkt - Tidigare FBI-chef anklagas för brott - DN
-- Coola krigare under nytt kallt krig - NT
 - KRITIKEN: Vissa barnfamiljer gynnas – andra drabbas: ”Skillnad” - NWT
 - Klarar du sju dagar vid en kris? - NT
 - Insändare: Beröm för arbetet med företagsklimatet - Arvika Nyheter
 - DN Direkt - Luftrum stängt över Aalborg på grund av drönare - DN
 - Så övade förskolebarnen på kris - Mjölby kommun
+- S röstar ja till att tillfälligt hyra fängelse i Estland – kräver snabb utbyggnad i Sverige - Socialdemokraterna
+- Tidigare FBI-chefen Comey anklagas för brott - SVT Nyheter
 - DN Direkt - Tortyrmord på kvinnor direktsändes på Instagram - DN
-- Sarkozy döms till fem års fängelse i Libyenfall - GP
 - Sjöstedts krav: Skydda svenskarna på Medelhavet - GP
-- Flykten från Moldavien – Anatolij blev ensam kvar i byn - DN
+- Sarkozy döms till fem års fängelse i Libyenfall - Hufvudstadsbladet
 - Trump godkänner uppgörelse om Tiktok i USA - Dagens industri
-- Storbanker sänker bolåneräntan - Aftonbladet
+- TILLFÄLLIGA FABRIKSSTOPP PGA SVAG ELBILSFÖRSÄLJNING - BN - Placera.se
 - Bekräftat: Bosch drar ned med ytterligare 13 000 jobb - NyTeknik
 - Region Skåne på rätt väg – nationellt trendbrott inom hyrbemanning - NewsMachine AB
 - Sju kritiska klimatgränser har passerats - Stockholms universitet
-- Xiaomi presenterar modellerna 17 Pro och 17 Pro Max - mobil.se
+- Nya Iphone kritiseras – repas efter bara några timmar - Expressen
 
 ## World News
 
 - Global Movement to Gaza bekräftar attack mot Gretas fartyg - Aftonbladet
 - Tyskland öppnar för Saab-affär: ”Ligger i ’pole position’” - Dagens industri
+- Israels ambassad i Sverige: ”Hamasledd flotta” - Aftonbladet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -36,17 +37,16 @@ _Updated: 2025-09-26 04:10_
 - KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
-- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Macy’s, Inc. to Participate in 2025 Global Consumer & Retail Conference - Placera.se
 - Techarenan News goes English (Partly at least) - Techarenan News
 - New Secretary General appointed - Olof Palme International Center
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Israels ambassad i Sverige: ”Hamasledd flotta” - Aftonbladet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- UBS sänker global prognos för GLP-1 marknaden 2030 - BN - Börsvärlden
 - HSBC Appoints Victor Matarranz as Head of International Wealth and Premier Banking for Americas and Europe - Placera.se
+- Animerad japansk pirat har blivit global protestsymbol - Omni
 
 ## Technology
 
@@ -76,33 +76,33 @@ _Updated: 2025-09-26 04:10_
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - DeFi Technologies and SovFi Unveil Full-Stack Sovereign Finance Framework to Modernize the $100T+ Sovereign Debt Market - Placera.se
 - Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Fortune Minerals Announces David Massola Has Rejoined the Company as Vice President Business Development - Placera.se
 - City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
 - Flushing Bank Hosts Ribbon Cutting Ceremony at New Location in Jackson Heights, Queens. - Placera.se
-- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Yen Lac District Medical Center: Proaktivt skydd av människors hälsa under den varma säsongen - Vietnam.vn
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - »Allmän återhållsamhet« räcker inte - Läkartidningen
-- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -111,11 +111,11 @@ _Updated: 2025-09-26 04:10_
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
 ## Science
 
@@ -123,11 +123,12 @@ _Updated: 2025-09-26 04:10_
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
@@ -135,30 +136,29 @@ _Updated: 2025-09-26 04:10_
 - Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
 - Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
+- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
+- Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
