@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-26 13:37_
+_Updated: 2025-09-26 15:04_
 
 ## Top Stories
 
-- Fotboll: Henrik Rydström får sparken av Malmö FF - SVT Nyheter
-- DN Direkt - Olyckan under polisövning utreds som vållande till annans död - DN
-- Dom i mål om mord och mordförsök i Växjö - Sveriges Domstolar
-- Abdul, 73, dödades på Kungsholmen - Aftonbladet
-- Malmö fast med massor av Nutella: ”Moment 22” - Omni
-- Mångmiljonkonflikt i Dubai tros ligga bakom upprepade mordbränder på Käringön - GP
+- Chatt: Vad undrar du om säkerhetsläget? - SVT Nyheter
+- Frivillig statist dog under polisövning: ”Oerhört jobbigt” - Arbetet
+- DN Direkt - Sänkta straff för mord i Växjö - DN
+- Abdul, 73, dog i trafikolycka på Kungsholmen - Aftonbladet
+- Fängelse för terrorfinansiering - Säkerhetspolisen
+- Netanyahu håller tal om Gaza på FN:s toppmöte - GP
 - Försvunnen turist hittad i Ulricehamn - GP
+- SD-topp gav kommundirektör miljonfallskärm – utan att informera kollegorna - DN
 - Ny på jobbet – Jojje kastades in i dödsdramat - Nerikes Allehanda
-- Drönare flög nära marinbas i Karlskrona - Västerbottens-Kuriren
-- Sverige ger ytterligare 420 miljoner kronor i humanitärt stöd till Gaza - Regeringen.se
-- Storbritannien satsar på digitala leg - Västerbottens-Kuriren
+- Misstänkt drönare har flugit över Karlskrona skärgård - SVT Nyheter
 - Sandra Stiskalo: Jag tvingades spela teater för att få jobba i Storbritannien - DN
-- Tyresöbo döms till fängelse för terrorfinansering - Mitt i
+- Storbritannien satsar på digitala leg - GP
 - Tony Blair vill leda regering i Gaza efter kriget - DN
-- Donald Trumps nya tullar ger nytt bränsle till handelskriget - DN
+- Ny storm i Filippinerna: Hundratusentals evakuerade - Västerbottens-Kuriren
 - Brf drabbad av läckande plaströr – anklagar Riksbyggen - DN
-- Höjd åldersgräns ändrar normen – fler väntar med pensionen - Cision News
-- Noba Bank klättrar 27 procent i premiärhandeln på Nasdaq Stockholm - Placera.se
-- Nu kan Chat GPT leverera morgonnyheter - Dagens industri
+- Framgångsrik notering för Nordic Capital-backade NOBA på Nasdaq Stockholm - Cision News
+- Trumps hot i natt: 100-procentiga tullar på läkemedel - Svensk Farmaci
+- Danske Bank sänker bolåneränta – kapar inte lika mycket som Riksbanken - Dagens industri
 - Xiaomi 17 Pro Max har landat med två skärmar och ett enormt batteri - TechRadar
+- DOPEST Testar: Ghost of Yotei - en värdig uppföljare till Tsushima - dopest.se
 
 ## World News
 
-- Bitcoin kan snart få en stor global köpare – som hittills undvikit krypto - Börskollen
 - Global Movement to Gaza bekräftar attack mot Gretas fartyg - Aftonbladet
 - Revolut Unveils Global HQ, Setting out Global Vision and Ambitious Timeline for 100 Million Customers - Revolut
 - Israels ambassad i Sverige: ”Hamasledd flotta” - Aftonbladet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- Macy’s, Inc. to Participate in 2025 Global Consumer & Retail Conference - Placera.se
+- Techarenan News goes English (Partly at least) - Techarenan News
 - Tyskland öppnar för Saab-affär: ”Ligger i ’pole position’” - Dagens industri
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- Macy’s, Inc. to Participate in 2025 Global Consumer & Retail Conference - Placera.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - HSBC Appoints Victor Matarranz as Head of International Wealth and Premier Banking for Americas and Europe - Placera.se
+- Söderfjell räknar med global läkemedelspress - Dagens industri
 - Animerad japansk pirat har blivit global protestsymbol - Omni
 
 ## Technology
@@ -82,17 +82,17 @@ _Updated: 2025-09-26 13:37_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
+- PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
 - Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
 - Equitable Holdings, Inc. Announces Full Redemption of Its Series B Depositary Shares - Placera.se
-- Datavault AI Secures $150 Million Strategic Investment from Scilex Holding Company to Build Supercomputer and Launch Independent Data Exchanges in the US - Placera.se
-- Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
+- Quhuo Limited Reports Unaudited Financial Results for the Six Months Ended June 30, 2025 - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -104,18 +104,18 @@ _Updated: 2025-09-26 13:37_
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Vårdcentral i Göteborg fick 600 000 kronor för mycket för outbildad tolk - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 
 ## Science
 
