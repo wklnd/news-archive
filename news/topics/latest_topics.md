@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-26 15:43_
+_Updated: 2025-09-26 16:42_
 
 ## Top Stories
 
-- Netanyahu håller tal om Gaza på FN:s toppmöte - GP
-- Kvinna sköts ihjäl i sin lägenhet i Växjö – hovrätten sänker straff - SVT Nyheter
+- FN-ledamöter lämnade salen i protest under Netanyahus tal - DN
+- Man i 55-årsåldern avled under stor polisövning i Kvarn - SVT Nyheter
+- Dom i mål om mord och mordförsök i Växjö - Sveriges Domstolar
+- Försvarsmakten kan fortfarande inte klä sina soldater - DN
 - Abdul, 73, dog i trafikolycka på Kungsholmen - Aftonbladet
-- Pokémon tar avstånd från ICE - GP
-- Chatt: Vad undrar du om säkerhetsläget? - SVT Nyheter
-- Utredare: Uppehållstillstånd kan rivas upp - SvD
-- SD-topp gav kommundirektör miljonfallskärm – utan att informera kollegorna - DN
-- Ny på jobbet – Jojje kastades in i dödsdramat - Nerikes Allehanda
-- Man dog under stor polisövning i Kvarn – utreds som vållande till annans död - SVT Nyheter
+- Fängelse för terrorfinansiering - Säkerhetspolisen
 - Försvunnen turist hittad i Ulricehamn - GP
-- Storbritannien satsar på digitala leg - Västerbottens-Kuriren
+- Ny på jobbet – Jojje kastades in i dödsdramat - Nerikes Allehanda
+- SD-topp gav kommundirektör miljonfallskärm – utan att informera kollegorna - DN
+- Sverige ger ytterligare 420 miljoner kronor i humanitärt stöd till Gaza - Regeringen.se
+- Nytt larm om drönare i Danmark – stänger luftrum - Västerbottens-Kuriren
 - Sandra Stiskalo: Jag tvingades spela teater för att få jobba i Storbritannien - DN
+- Storbritannien satsar på digitala leg - GP
 - Tony Blair vill leda regering i Gaza efter kriget - DN
-- Ny storm i Filippinerna: Hundratusentals evakuerade - Västerbottens-Kuriren
+- Aino Bunge blir förste vice riksbankschef - Dagens industri
 - Framgångsrik notering för Nordic Capital-backade NOBA på Nasdaq Stockholm - Cision News
-- Brf drabbad av läckande plaströr – anklagar Riksbyggen - DN
-- Trumps hot i natt: 100-procentiga tullar på läkemedel - Svensk Farmaci
-- Bäst företagsklimat: ”Varje kugge är viktig” - Skillingaryd
+- Jättesatsning på solkraft lägger ner: "Föråldrad teknologi" - Dagens PS
+- Donald Trumps nya tullar ger nytt bränsle till handelskriget - DN
 - Xiaomi 17 Pro Max har landat med två skärmar och ett enormt batteri - TechRadar
 - DOPEST Testar: Ghost of Yotei - en värdig uppföljare till Tsushima - dopest.se
 
@@ -33,25 +33,24 @@ _Updated: 2025-09-26 15:43_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- Macy’s, Inc. to Participate in 2025 Global Consumer & Retail Conference - Placera.se
 - Tyskland öppnar för Saab-affär: ”Ligger i ’pole position’” - Dagens industri
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Macy’s, Inc. to Participate in 2025 Global Consumer & Retail Conference - Placera.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- 🌏 Global ojämlikhet minskar faktiskt - Warp News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - HSBC Appoints Victor Matarranz as Head of International Wealth and Premier Banking for Americas and Europe - Placera.se
-- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- Söderfjell räknar med global läkemedelspress - Dagens industri
+- Animerad japansk pirat har blivit global protestsymbol - Omni
+- Cloudflare Partners with Giga to Accelerate School Connectivity Worldwide - Placera.se
 
 ## Technology
 
 - Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Lansering av Au Lac Artificial Intelligence Alliance för att utveckla strategisk teknologi - Vietnam.vn
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -60,16 +59,17 @@ _Updated: 2025-09-26 15:43_
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
 - 290 million for digitalisation of Swedish industry - Vinnova
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Deepseek är det nya Linux - Computer Sweden
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
-- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
 - Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
-- Deepseek är det nya Linux - Computer Sweden
 
 ## Business
 
@@ -90,9 +90,9 @@ _Updated: 2025-09-26 15:43_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- Quhuo Limited Reports Unaudited Financial Results for the Six Months Ended June 30, 2025 - Placera.se
 - Datavault AI Secures $150 Million Strategic Investment from Scilex Holding Company to Build Supercomputer and Launch Independent Data Exchanges in the US - Placera.se
 - DeFi Technologies Announces the Pricing of an Oversubscribed US$100 Million Registered Direct Offering - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
@@ -123,11 +123,12 @@ _Updated: 2025-09-26 15:43_
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
@@ -136,29 +137,28 @@ _Updated: 2025-09-26 15:43_
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
 - Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
-- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
-- Här är världens största jordbruk - ATL
+- Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Nyheter - LRF - Lantbrukarnas Riksförbund
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
