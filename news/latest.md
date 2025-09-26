@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-26 20:51_
+_Updated: 2025-09-26 21:47_
 
-- Gunman Who Attacked Midtown Office Building Had C.T.E. - The New York Times
-- ‘Dangerous abuse of power’: lawmakers sound alarm over Comey indictment - The Guardian
-- At U.N., amid jeers and cheers, Netanyahu says Israel 'must finish the job' in Gaza - NPR
+- 'Constitutional crisis': Democrats hit Trump administration, DOJ over James Comey indictment - ABC News - Breaking News, Latest News and Videos
 - ByteDance in line for 50% of profits from $14bn TikTok US spin-off - Financial Times
-- Hegseth calls rare meeting of large number of generals and admirals - ABC News - Breaking News, Latest News and Videos
-- ‘They will pay a huge price for this’: Shutdown-ready Trump expects Democrats to blink - Politico
-- Assata Shakur, a fugitive Black militant sought by the US since 1979, dies in Cuba - AP News
+- Live updates: Delegates walk out on Netanyahu speech at UN General Assembly - CNN
+- Trump bills Hegseth’s unusual meeting with generals as a friendly meet-up - Politico
+- Assata Shakur, wanted Black Liberation Army member, dies at 78 in Cuba - ABC News - Breaking News, Latest News and Videos
+- Hurricane Humberto could mingle with another developing storm in what's called the Fujiwhara effect - CBS News
+- Shane Tamura, gunman in shooting at NFL headquarters, had CTE: Medical examiner - ABC News - Breaking News, Latest News and Videos
+- California braces for a health insurance meltdown - Politico
+- This shutdown could permanently reshape the federal workforce — here's how - Axios
 - "Unacceptable": ICE officer relieved of duties after videos show him shoving woman to the ground - CBS News
-- Chicago approves $90M payout over disgraced ex-sergeant who framed hundreds for drug crimes - ABC News - Breaking News, Latest News and Videos
-- A tropical storm or hurricane could lash the Southeast early next week - The Washington Post
+- Defiant Netanyahu Denounces Palestine Recognition, to a Mostly Empty U.N. Hall - The New York Times
 - At least 19 people die after drinking tainted liquor in Russia, officials say - CBS News
-- World Leaders of a Worried Center-Left Gather to Discuss Ways to Fight Back - The New York Times
-- Holy war: How Russia recruited Orthodox priests to sway Moldova's voters - Reuters
 - Europe is at hybrid war, Danish prime minister announces - politico.eu
-- What Trump’s new tariffs mean for pharmaceuticals and ‘patented’ drugs - The Washington Post
+- World first: Andrzej Bargiel just skied down Everest without bottled oxygen - Red Bull
+- Stocks Climb After Trump Unveils New Tariffs - The Wall Street Journal
 - Dow rises 300 points after in-line PCE inflation report: Live updates - CNBC
-- Starbucks mass closures include several in San Francisco, East Bay - San Francisco Chronicle
-- Microsoft cuts services to Israel Defense Ministry over Gaza surveillance fears - politico.eu
-- Microsoft agrees to 11th hour Win 10 end of life concessions - theregister.com
+- Here’s how to get a refund from the historic Amazon Prime settlement - CNN
+- Starbucks Closing Some Chicago Locations This Weekend Under Nationwide Restructuring - Block Club Chicago
+- ROG Xbox Ally Pre-Orders: Live Stock Updates And Latest News - empireonline.com
 - OpenAI unveils ChatGPT ‘Pulse’ — Could it help you trade crypto? - Cointelegraph
