@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-26 20:46_
+_Updated: 2025-09-26 21:38_
 
 ## Top Stories
 
-- Svenska turister i båtolycka i Norge – en saknas - SVT Nyheter
-- FN-ledamöter lämnade salen i protest under Netanyahus tal - DN
+- Svenskar i svår båtolycka i Norge – en minderårig person saknas - DN
+- Danmark tackar ja till svensk drönarhjälp - SVT Nyheter
 - Nunchaya Larsson utvisad – trots massiva stödet - GP
-- Frivillig statist dog under polisövning: ”Oerhört jobbigt” - Arbetet
+- Netanyahu i FN: Har satt högtalare runt Gaza - Västerbottens-Kuriren
+- Ingmar Nevéus: Hämndlystnad är Trumps främsta drivkraft - DN
 - SD-topp vill utreda Soros – kritiseras för antisemitism - DN
-- Pojke försvunnen i Uppsala - UNT
-- Läkare stoppas – felbedömde 80-tal hjärtsjuka barn - GP
 - Terroråtal mot Kneecap-medlem ogiltigt – kom en dag för sent - Sveriges Radio
 - DN Direkt - Misstänkt föremål i Kristianstad var inte farligt - DN
-- Ras för Skellefteå kommun i ranking – sämst på ”osund konkurrens” - Norran
+- Läkare stoppas – felbedömde 80-tal hjärtsjuka barn - GP
+- Frivillig statist dog under polisövning: ”Oerhört jobbigt” - Arbetet
 - Läkare utan gränser lämnar Gaza stad: Inget val - DN
-- FN: över 150 bolag med band till bosättningar - GP
-- Nytt larm om drönare i Danmark – stänger luftrum - Västerbottens-Kuriren
-- Trump om Gaza: Tror vi har en deal - Hufvudstadsbladet
+- FN: över 150 bolag med band till bosättningar - Västerbottens-Kuriren
+- Trumps kritik mot Putin: ”dödar utan anledning” - DN
+- 29-åringen har 45 syskon – berättar om ovanliga familjen - Expressen
+- Uppfyller du kraven för att bli Riksbankschef? - SvD
 - DN Direkt - BMW återkallar över 300 000 bilar – brandrisk - DN
-- Aino Bunge blir förste vice riksbankschef - Dagens industri
-- Noba Bank klättrar 27 procent i premiärhandeln på Nasdaq Stockholm - Placera.se
-- Qt Group: Fallen finsk tillväxtstjärna - Affärsvärlden
-- Nya ROG Xbox Ally och Ally X går att förhandsboka – släpps i oktober - Horisont magasin
-- DOPEST Testar: Ghost of Yotei - en värdig uppföljare till Tsushima - dopest.se
+- Danske Bank sänker bolåneränta – kapar inte lika mycket som Riksbanken - Dagens industri
+- Trumps hot i natt: 100-procentiga tullar på läkemedel - Svensk Farmaci
+- Tidigare Fröken Snusk återvänder till Mello - Omni
+- Slutet på en era – Bowser lämnar Nintendo efter 12 år - MovieZine
 
 ## World News
 
@@ -77,29 +77,29 @@ _Updated: 2025-09-26 20:46_
 - DeFi Technologies and SovFi Unveil Full-Stack Sovereign Finance Framework to Modernize the $100T+ Sovereign Debt Market - Placera.se
 - Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
 - Fortune Minerals Announces David Massola Has Rejoined the Company as Vice President Business Development - Placera.se
 - City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
-- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
-- Equitable Holdings, Inc. Announces Full Redemption of Its Series B Depositary Shares - Placera.se
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Yen Lac District Medical Center: Proaktivt skydd av människors hälsa under den varma säsongen - Vietnam.vn
-- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - »Allmän återhållsamhet« räcker inte - Läkartidningen
+- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
@@ -108,13 +108,13 @@ _Updated: 2025-09-26 20:46_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
 ## Science
@@ -127,18 +127,18 @@ _Updated: 2025-09-26 20:46_
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Vetenskapens egen kontroll av forskningens etiska standard är otillräcklig - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Olika slutsatser från samma data - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
@@ -148,17 +148,17 @@ _Updated: 2025-09-26 20:46_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
