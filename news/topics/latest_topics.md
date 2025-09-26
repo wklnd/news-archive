@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-26 21:38_
+_Updated: 2025-09-26 22:39_
 
 ## Top Stories
 
 - Svenskar i svår båtolycka i Norge – en minderårig person saknas - DN
-- Danmark tackar ja till svensk drönarhjälp - SVT Nyheter
+- Explosion i Malmö – polisen misstänker handgranat - SVT Nyheter
 - Nunchaya Larsson utvisad – trots massiva stödet - GP
-- Netanyahu i FN: Har satt högtalare runt Gaza - Västerbottens-Kuriren
+- Läkare utan gränser lämnar Gaza stad: Inget val - Västerbottens-Kuriren
 - Ingmar Nevéus: Hämndlystnad är Trumps främsta drivkraft - DN
-- SD-topp vill utreda Soros – kritiseras för antisemitism - DN
+- Nathan Shachar: Inte ett ord om vapenvila från Netanyahu - DN
 - Terroråtal mot Kneecap-medlem ogiltigt – kom en dag för sent - Sveriges Radio
 - DN Direkt - Misstänkt föremål i Kristianstad var inte farligt - DN
 - Läkare stoppas – felbedömde 80-tal hjärtsjuka barn - GP
-- Frivillig statist dog under polisövning: ”Oerhört jobbigt” - Arbetet
-- Läkare utan gränser lämnar Gaza stad: Inget val - DN
-- FN: över 150 bolag med band till bosättningar - Västerbottens-Kuriren
-- Trumps kritik mot Putin: ”dödar utan anledning” - DN
-- 29-åringen har 45 syskon – berättar om ovanliga familjen - Expressen
+- Remiss av slutbetänkandet Ändring av permanent uppehållstillstånd för vissa utlänningar (SOU 2025:99) - Regeringen.se
+- Uppgifter: Ryska kränkningar ett svar på Natos stöd till Ukraina - GP
+- FN: Över 150 bolag med band till bosättningar - DN
+- Trump om Gaza: Tror vi har en deal - Corren
+- Nytt larm om drönare i Danmark – stänger luftrum - Västerbottens-Kuriren
 - Uppfyller du kraven för att bli Riksbankschef? - SvD
 - DN Direkt - BMW återkallar över 300 000 bilar – brandrisk - DN
+- Electronic Arts rusar – uppgifter om jätteaffär - Västerbottens-Kuriren
 - Danske Bank sänker bolåneränta – kapar inte lika mycket som Riksbanken - Dagens industri
-- Trumps hot i natt: 100-procentiga tullar på läkemedel - Svensk Farmaci
 - Tidigare Fröken Snusk återvänder till Mello - Omni
-- Slutet på en era – Bowser lämnar Nintendo efter 12 år - MovieZine
+- Xiaomi 17 Pro Max har landat med två skärmar och ett enormt batteri - TechRadar
 
 ## World News
 
 - Global Movement to Gaza bekräftar attack mot Gretas fartyg - Aftonbladet
+- Global Threat Surge Leads to $2.7T Defense Spending Boom and Institutional Rush - Placera.se
 - Revolut Unveils Global HQ, Setting out Global Vision and Ambitious Timeline for 100 Million Customers - Revolut
 - Israels ambassad i Sverige: ”Hamasledd flotta” - Aftonbladet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Tyskland öppnar för Saab-affär: ”Ligger i ’pole position’” - Dagens industri
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Söderfjell räknar med global läkemedelspress - Dagens industri
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Nikon patenterar hybridsensor med både global & rullande slutare - Kamera & Bild
+- Tyskland öppnar för Saab-affär: ”Ligger i ’pole position’” - Dagens industri
 - Macy’s, Inc. to Participate in 2025 Global Consumer & Retail Conference - Placera.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
-- 🌏 Global ojämlikhet minskar faktiskt - Warp News
 - Cloudflare Partners with Giga to Accelerate School Connectivity Worldwide - Placera.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 
 ## Technology
 
@@ -97,25 +97,25 @@ _Updated: 2025-09-26 21:38_
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Yen Lac District Medical Center: Proaktivt skydd av människors hälsa under den varma säsongen - Vietnam.vn
-- »Allmän återhållsamhet« räcker inte - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- »Allmän återhållsamhet« räcker inte - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
-- Johan von Schreeb - Karolinska Institutet
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Vitalis – nordiskt toppmöte om hälsodatadelning och framtidens vårdsystem - it-halsa.se
 
 ## Science
 
@@ -127,18 +127,18 @@ _Updated: 2025-09-26 21:38_
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Vetenskapens egen kontroll av forskningens etiska standard är otillräcklig - Läkartidningen
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
