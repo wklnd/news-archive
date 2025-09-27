@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-27 15:38_
+_Updated: 2025-09-27 16:38_
 
 ## Top Stories
 
 - Svenska turister i båtolycka i Lofoten i Norge – barn saknas - SVT Nyheter
+- DN Direkt - Brand i Malmö – kraftig rökutveckling - DN
 - Uppgifter: Hamas går med på Trumps fredsplan - DN
-- Livet efter lågorna i LA: ”Jag orkar inte börja om från början” - GP
-- Ida, 37, har ALS: ”Saknar att äta min mans mat” - Aftonbladet
-- Israeliska bosättare omringar palestinska byn al-Mughayir – ”vi lever som i ett fängelse” - SvD
-- Putins hjälp till Kina – styrkan vid en invasion - Expressen
+- Bosättare omringar byn – ”som ett fängelse” - SvD
+- Ukraina: Kärnkraftverket i Zaporizjzja utan el - GP
+- Man till sjukhus efter fall från klippa - GP
 - Fyra kvinnor gripna för grov misshandel vid Hötorget - SVT Nyheter
 - Engelska skolan slår tillbaka: ”Svenskan inte hotad” - DN
 - Edward och Elisabeth (M) – "Vi är på din sida" - Norran
 - Förslaget: En "robot" ska ge bättre service till Norrköpingsborna - NT
-- Vapenvilan mellan Thailand och Kambodja bruten - SVT Nyheter
 - Hamasförhandlare: Ångrar inte 7:e oktober-attacken - Hufvudstadsbladet
-- Arresteringsorder mot expresident al-Assad - Västerbottens-Kuriren
+- Arresteringsorder mot expresident al-Assad - SVT Nyheter
+- Vapenvilan mellan Thailand och Kambodja bruten - Västerbottens-Kuriren
 - Läkare utan gränser lämnar Gaza stad: ”Oerhört sorgligt” - DN
-- Kapplöpning: ”Kina vill inte ha västs problem” - SvD
-- Donald Trumps nya tullar ger nytt bränsle till handelskriget - DN
 - Danske Bank sänker sina bolåneräntor (2025-09-26) - Ekonomifokus.se
-- Dok: Hedersmordet på Shahida - Aftonbladet
-- Nya ROG Xbox Ally och Ally X går att förhandsboka – släpps i oktober - Horisont magasin
+- Donald Trumps nya tullar ger nytt bränsle till handelskriget - DN
+- AMF: Tjänstepensionen uppskattas mest bland olika löneförmåner - Sak & Liv
+- Kapplöpning: ”Kina vill inte ha västs problem” - SvD
+- 80-talshus i Tärnaby har fått ny ägare - Västerbottens-Kuriren
 - Lovisa har fotograferat sedan barnsben: ”Går inte alltid som man tänkt sig” - Fryksdalsbygden
 
 ## World News
@@ -38,10 +38,10 @@ _Updated: 2025-09-27 15:38_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
-- Techarenan News goes English (Partly at least) - Techarenan News
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Söderfjell räknar med global läkemedelspress - Dagens industri
+- Techarenan News goes English (Partly at least) - Techarenan News
 - New Secretary General appointed - Olof Palme International Center
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
@@ -69,7 +69,7 @@ _Updated: 2025-09-27 15:38_
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 
 ## Business
 
@@ -124,21 +124,21 @@ _Updated: 2025-09-27 15:38_
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Vetenskapens egen kontroll av forskningens etiska standard är otillräcklig - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
@@ -155,10 +155,10 @@ _Updated: 2025-09-27 15:38_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
