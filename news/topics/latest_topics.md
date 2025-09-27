@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-27 14:57_
+_Updated: 2025-09-27 15:38_
 
 ## Top Stories
 
-- Båtolyckan i Lofoten: sökandet efter svensk flicka fortsätter - DN
+- Svenska turister i båtolycka i Lofoten i Norge – barn saknas - SVT Nyheter
 - Uppgifter: Hamas går med på Trumps fredsplan - DN
 - Livet efter lågorna i LA: ”Jag orkar inte börja om från början” - GP
-- Omringas av bosättare – ”brutaliteten har ökat” - SvD
-- Teodor vill bli polis – men har fastnat i diagnosfällan - GP
+- Ida, 37, har ALS: ”Saknar att äta min mans mat” - Aftonbladet
+- Israeliska bosättare omringar palestinska byn al-Mughayir – ”vi lever som i ett fängelse” - SvD
 - Putins hjälp till Kina – styrkan vid en invasion - Expressen
 - Fyra kvinnor gripna för grov misshandel vid Hötorget - SVT Nyheter
 - Engelska skolan slår tillbaka: ”Svenskan inte hotad” - DN
-- Tusentals barns personuppgifter läckt på darknet - Västerbottens-Kuriren
 - Edward och Elisabeth (M) – "Vi är på din sida" - Norran
-- Arresteringsorder mot expresident al-Assad - SVT Nyheter
-- Vapenvilan mellan Thailand och Kambodja bruten - Västerbottens-Kuriren
+- Förslaget: En "robot" ska ge bättre service till Norrköpingsborna - NT
+- Vapenvilan mellan Thailand och Kambodja bruten - SVT Nyheter
+- Hamasförhandlare: Ångrar inte 7:e oktober-attacken - Hufvudstadsbladet
+- Arresteringsorder mot expresident al-Assad - Västerbottens-Kuriren
 - Läkare utan gränser lämnar Gaza stad: ”Oerhört sorgligt” - DN
-- Vad gör vi om drönare flyger över Uppsala C eller Ärna? - UNT
 - Kapplöpning: ”Kina vill inte ha västs problem” - SvD
 - Donald Trumps nya tullar ger nytt bränsle till handelskriget - DN
-- Danske Bank sänker bolåneränta – kapar inte lika mycket som Riksbanken - Dagens industri
+- Danske Bank sänker sina bolåneräntor (2025-09-26) - Ekonomifokus.se
 - Dok: Hedersmordet på Shahida - Aftonbladet
-- 80-talshus i Tärnaby har fått ny ägare - Västerbottens-Kuriren
+- Nya ROG Xbox Ally och Ally X går att förhandsboka – släpps i oktober - Horisont magasin
 - Lovisa har fotograferat sedan barnsben: ”Går inte alltid som man tänkt sig” - Fryksdalsbygden
 
 ## World News
@@ -39,14 +39,14 @@ _Updated: 2025-09-27 14:57_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - Techarenan News goes English (Partly at least) - Techarenan News
 - Söderfjell räknar med global läkemedelspress - Dagens industri
 - New Secretary General appointed - Olof Palme International Center
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Cloudflare Partners with Giga to Accelerate School Connectivity Worldwide - Placera.se
-- Nikon patenterar hybridsensor med både global & rullande slutare - Kamera & Bild
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 
 ## Technology
 
@@ -120,25 +120,25 @@ _Updated: 2025-09-27 14:57_
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Vetenskapens egen kontroll av forskningens etiska standard är otillräcklig - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
@@ -150,15 +150,15 @@ _Updated: 2025-09-27 14:57_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
+- Så ska det australiensiska jordbruket bli hållbart - ATL
