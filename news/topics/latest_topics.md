@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-27 20:43_
+_Updated: 2025-09-27 21:37_
 
 ## Top Stories
 
-- Räddningsinsats i Norge avslutas – försvunnen flicka förmodas vara död - DN
-- DN Direkt - Storkriket i Skåne in på Unescolista - DN
+- Nya drönare har observerats över militär flygbas i Danmark - SVT Nyheter
+- DN Direkt - Nato: Stärker beredskapen i Östersjön - DN
+- Sökinsats avslutad i Norge – försvunnen flicka antas död - Hufvudstadsbladet
 - ”Ny flank – kan anfalla Ukraina från väst” - SvD
-- Många gruvarbetare saknas efter olycka i Nigeria - Västerbottens-Kuriren
-- Brand i Oljehamnen – röken syntes över hela stan - Skånska Dagbladet
-- Dadgostar om styre med S: ”Tror inte på röda linjer” - Omni
+- Maria, 117, åt yoghurt tre gånger om dagen - SvD
+- Ukraina: Kärnkraftverket i Zaporizjzja utan el - GP
 - Beredskapsveckan avslutades med ärtsoppa och ostmacka - Arvika Nyheter
 - En kvinna har dött efter storbranden på äldreboendet i Sunne - SVT Nyheter
 - Vill se snusförbud i skolan – även för lärare - Västerbottens-Kuriren
-- Storkriket i Skåne in på Unescolista - GP
-- Arresteringsorder mot expresident al-Assad - SVT Nyheter
+- DN Direkt - Man till sjukhus efter fall från klippa - DN
 - Donald Trump: Ska skicka soldater till Portland - DN
+- Arresteringsorder mot expresident al-Assad - SVT Nyheter
 - Polisens uppmaning till pappan: Döda dina flickor - GP
-- Hamasförhandlare: Ångrar inte 7:e oktober-attacken - Hufvudstadsbladet
+- Över 30 omkom vid politiskt möte i Indien - Västerbottens-Kuriren
 - Ikea pressas av Trumps nya besked om tullar på möbler - Expressen
-- Rustning rena guldet för blågula försvarsföretag - SvD
 - LEDARE: Företagen allt mer missnöjda med Sundsvall - Sundsvalls Tidning
+- Rustning rena guldet för blågula försvarsföretag - SvD
 - Dok: Hedersmordet på Shahida - Aftonbladet
 - Säljes: Genesis Flatbar 2025 Pendlar edition - Happyride
-- Foton i Windows 11 kommer snart sortera dina bilder med hjälp av AI - PC för Alla
+- Xiaomi 17 Pro Max har landat med två skärmar och ett enormt batteri - TechRadar
 
 ## World News
 
@@ -74,25 +74,25 @@ _Updated: 2025-09-27 20:43_
 ## Business
 
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- Fortune Minerals Announces David Massola Has Rejoined the Company as Vice President Business Development - Placera.se
+- DeFi Technologies and SovFi Unveil Full-Stack Sovereign Finance Framework to Modernize the $100T+ Sovereign Debt Market - Placera.se
 - Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Fortune Minerals Announces David Massola Has Rejoined the Company as Vice President Business Development - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
+- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - DeFi Technologies Announces Closing of US$100 Million Registered Direct Offering - Placera.se
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 
 ## Health
 
@@ -101,6 +101,7 @@ _Updated: 2025-09-27 20:43_
 - »Allmän återhållsamhet« räcker inte - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
+- Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
@@ -111,34 +112,33 @@ _Updated: 2025-09-27 20:43_
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Vitalis – nordiskt toppmöte om hälsodatadelning och framtidens vårdsystem - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
-- Klimatförändring och hälsa – samlingssida! - Läkartidningen
 
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Vetenskapens egen kontroll av forskningens etiska standard är otillräcklig - Läkartidningen
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
@@ -160,5 +160,5 @@ _Updated: 2025-09-27 20:43_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- USA tvingar ut EU på banan - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
