@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-27 09:47_
+_Updated: 2025-09-27 10:48_
 
-- Judge who reviewed James Comey's indictment was confused by prosecutor's handling of case, transcript shows - CBS News
-- Des Moines Schools Superintendent Ian Roberts Detained by ICE, Officials Say - The New York Times
-- Detainees shot in deadly attack on Ice facility in Dallas identified – reports - The Guardian
+- Trump Overcame Internal Dissent to Get His Case Against Comey - The Wall Street Journal
+- ICE arrests top educator at Iowa's largest school district - BBC
 - Scoop: Some of Congress' trips are being canceled ahead of a potential shutdown - Axios
-- Humberto becomes a hurricane in the Atlantic as Gabrielle moves away from the Azores - PBS
-- Defense Secretary Pete Hegseth to tell hundreds of generals about the 'warrior ethos' in rare gathering: Sources - ABC News - Breaking News, Latest News and Videos
-- Shane Tamura, gunman in shooting at NFL headquarters, had CTE: Medical examiner - ABC News - Breaking News, Latest News and Videos
+- Dallas ICE Shooting Victim, a Detainee, Is Now Fighting for His Life - The New York Times
+- Will Hurricane Humberto impact South Florida? See its projected path. - CBS News
+- Supreme Court allows Trump officials to freeze billions in foreign aid - The Washington Post
+- Bondi vows to send Justice Department agents to guard ICE facilities - CBS News
 - Veteran U.S. attorney in California insisted Border Patrol follow a court order. Then she was fired - Los Angeles Times
-- DOJ agents will be deployed to ICE facilities to protect federal agents, Bondi says - CNN
-- LA car wash owner sues for $50m after being slammed and detained in Ice raid - The Guardian
+- 79-year-old US citizen claims ICE agents body-slammed him at his business, seeks $50M - ABC News - Breaking News, Latest News and Videos
+- I Filmed the ICE Officer Who Shoved a Woman to the Floor Inside a New York Courthouse - ProPublica
 - UK urged to act on colonial-era case after recognising Palestinian state - BBC
-- UN Security Council rejects Russia and China’s resolution to delay sanctions on Iran - PBS
 - Live updates: Delegates walk out on Netanyahu speech at UN General Assembly - CNN
-- At least 19 people die after drinking tainted liquor in Russia, officials say - CBS News
+- UN Security Council rejects Russia and China’s resolution to delay sanctions on Iran - PBS
+- Nasrallah’s son says Hezbollah leader spent final days enraged by Israeli pager strike - The Times of Israel
 - Amazon Prime settlement: How to claim up to $51, who qualifies, and when refunds arrive - Fortune
-- Trump’s trade battle with China puts US soybean farmers in peril - AP News
 - S&P 500 Gains and Losses Today: Electronic Arts Stock Pops on Buyout Talks; Costco Slips - Investopedia
 - Several Starbucks locations in San Diego County to close permanently. Here's the list: - cbs8.com
+- Trump Is Annihilating America’s Soybean Farmers and Betraying Them for Argentina - splinter.com
 - Apple Builds a ChatGPT-Like App to Help Test the Revamped Siri - Bloomberg.com
-- Microsoft announces ROG Xbox Ally and Xbox Ally X prices and opens pre-orders for gaming handhelds - Notebookcheck
+- How to pre-order the ROG Xbox Ally and Ally X ahead of October 16 - Engadget
