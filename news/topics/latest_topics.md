@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-27 01:37_
+_Updated: 2025-09-27 04:05_
 
 ## Top Stories
 
 - Barn saknas efter båtolycka i Norge - GP
-- Osprängd handgranat hittad efter kvällens sprängning – ska detoneras - SVT Nyheter
-- DN Direkt - Polisinsats i Norrköping – man förd till sjukhus - DN
+- 26 september 20.00, Explosion, Malmö - polisen.se
+- Man förd till sjukhus efter grovt våldsbrott i Norrköping - SVT Nyheter
 - Skadade 21 barn – avslöjades av dolda filmbevis - Aftonbladet
-- Ingmar Nevéus: Hämndlystnad är Trumps främsta drivkraft - DN
-- Läkare utan gränser lämnar Gaza stad: Inget val - GP
+- Minst 50 dödade i israeliska attacker mot Gaza - Västerbottens-Kuriren
+- Förare död efter krock med stenmur vid väg 305 - SVT Nyheter
 - Danmark tackar ja till svensk drönarhjälp inför EU-toppmöte - SVT Nyheter
-- Terroråtal mot Kneecap-medlem ogiltigt – kom en dag för sent - Sveriges Radio
-- Remiss av slutbetänkandet Ändring av permanent uppehållstillstånd för vissa utlänningar (SOU 2025:99) - Regeringen.se
-- ”Man rör sig samtidigt som man har roligt” - Smålänningen
+- Assistent somnade – åtalas efter dödsfall - GP
+- Femteklassaren Klara: ”Roligt att göra något annat än att scrolla på mobilen” - nkp.se
+- Kamerabevakning med drönare i Umeå - polisen.se
+- Polen bannlyser moldavisk politiker – anklagas för att hjälpa Ryssland - Omni
 - Uppgifter: Ryska kränkningar ett svar på Natos stöd till Ukraina - GP
-- Netanyahu i FN: Har satt högtalare runt Gaza - Västerbottens-Kuriren
 - Trump om Gaza: Tror vi har en deal - GP
-- Trumps kritik mot Putin: ”dödar utan anledning” - DN
+- EU-länder i möte om ny drönarmur – Sverige är inte med - DN
 - Trumps hot i natt: 100-procentiga tullar på läkemedel - Svensk Farmaci
-- Aino Bunge blir förste vice riksbankschef - Dagens industri
-- DN Direkt - BMW återkallar över 300 000 bilar – brandrisk - DN
+- Uppåt på Wall Street – Electronic Art rusade på buduppgifter - Dagens industri
 - Rasar mot bantade stödet: ”Direkt fientligt” - SvD
+- DN Direkt - BMW återkallar över 300 000 bilar – brandrisk - DN
 - Tidigare Fröken Snusk återvänder till Mello - Omni
 - Xiaomi 17 Pro Max har landat med två skärmar och ett enormt batteri - TechRadar
 
@@ -44,32 +44,32 @@ _Updated: 2025-09-27 01:37_
 - Nikon patenterar hybridsensor med både global & rullande slutare - Kamera & Bild
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - Cloudflare Partners with Giga to Accelerate School Connectivity Worldwide - Placera.se
-- Tyskland öppnar för Saab-affär: ”Ligger i ’pole position’” - Dagens industri
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- 🌏 Global ojämlikhet minskar faktiskt - Warp News
+- Tyskland öppnar för Saab-affär: ”Ligger i ’pole position’” - Dagens industri
+- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
 
 ## Technology
 
-- Bank Director's 2025 Technology Survey: Banks Grapple With Data, AI Maturity - Placera.se
+- The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Lansering av Au Lac Artificial Intelligence Alliance för att utveckla strategisk teknologi - Vietnam.vn
-- The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
+- Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
-- Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
-- 290 million for digitalisation of Swedish industry - Vinnova
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
+- 290 million for digitalisation of Swedish industry - Vinnova
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 
 ## Business
 
@@ -92,7 +92,7 @@ _Updated: 2025-09-27 01:37_
 - Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
-- Quhuo Limited Reports Unaudited Financial Results for the Six Months Ended June 30, 2025 - Placera.se
+- DeFi Technologies Announces Closing of US$100 Million Registered Direct Offering - Placera.se
 
 ## Health
 
@@ -111,10 +111,10 @@ _Updated: 2025-09-27 01:37_
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 
 ## Science
@@ -146,19 +146,19 @@ _Updated: 2025-09-27 01:37_
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
-- Jordbruk och landsbygdsutveckling - European Commission
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
 - OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
 - Här är världens största jordbruk - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
