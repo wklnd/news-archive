@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-27 17:37_
+_Updated: 2025-09-27 18:42_
 
 ## Top Stories
 
-- DN Direkt - Kvinna hittad död i Helsingborg – man gripen - DN
-- Svenska turister i båtolycka i Lofoten i Norge – barn saknas - SVT Nyheter
-- Nathan Shachar: USA vill mota in Netanyahu i ett hörn - DN
-- 27 september 15.56, Olaga hot, Borås - polisen.se
-- Bosättare omringar byn – ”som ett fängelse” - SvD
+- Räddningsinsats i Norge avslutas – försvunnen flicka förmodas vara död - DN
+- Moa, 22, blev dumpad – mitt i graviditeten - Aftonbladet
+- Brand i Oljehamnen – röken syntes över hela stan - Skånska Dagbladet
 - ”Textilkaoset visar att varningarna var berättigade” - Västerbottens-Kuriren
+- Bosättare omringar byn – ”som ett fängelse” - SvD
+- Ukraina: Kärnkraftverket i Zaporizjzja utan el - GP
 - JUST NU: Kvinna avliden efter branden på seniorboendet - NWT
 - Man till sjukhus efter fall från klippa i Tyresö - SVT Nyheter
-- Engelska skolan slår tillbaka: ”Svenskan inte hotad” - DN
+- Klarar du sju dagar vid en kris? - NT
 - Edward och Elisabeth (M) – "Vi är på din sida" - Norran
 - Arresteringsorder mot expresident al-Assad - SVT Nyheter
+- Donald Trump: Ska skicka soldater till Portland - DN
 - Hamasförhandlare: Ångrar inte 7:e oktober-attacken - Hufvudstadsbladet
-- Vapenvilan mellan Thailand och Kambodja bruten - Västerbottens-Kuriren
-- Ukraina: Kärnkraftverket i Zaporizjzja utan el - GP
+- Uppgifter: Hamas går med på Trumps fredsplan - DN
+- Rustning rena guldet för blågula försvarsföretag - SvD
+- Donald Trumps nya tullar ger nytt bränsle till handelskriget - DN
+- DEBATT: Unga i Dalarna: Tusentals kronor att tjäna med bättre koll på tjänstepensionen - Dala-Demokraten
 - Danske Bank sänker sina bolåneräntor (2025-09-26) - Ekonomifokus.se
-- AMF: Tjänstepensionen uppskattas mest bland olika löneförmåner - Sak & Liv
-- LEDARE: Företagen allt mer missnöjda med Sundsvall - Sundsvalls Tidning
-- Dok: Hedersmordet på Shahida - Aftonbladet
-- 80-talshus i Tärnaby har fått ny ägare - Västerbottens-Kuriren
+- Säljes: Genesis Flatbar 2025 Pendlar edition - Happyride
 - Foton i Windows 11 kommer snart sortera dina bilder med hjälp av AI - PC för Alla
 
 ## World News
@@ -33,20 +33,20 @@ _Updated: 2025-09-27 17:37_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Revolut Unveils Global HQ, Setting out Global Vision and Ambitious Timeline for 100 Million Customers - Revolut
 - Techarenan News goes English (Partly at least) - Techarenan News
-- Söderfjell räknar med global läkemedelspress - Dagens industri
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - New Secretary General appointed - Olof Palme International Center
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Söderfjell räknar med global läkemedelspress - Dagens industri
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Cloudflare Partners with Giga to Accelerate School Connectivity Worldwide - Placera.se
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 
 ## Technology
 
@@ -98,24 +98,24 @@ _Updated: 2025-09-27 17:37_
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Yen Lac District Medical Center: Proaktivt skydd av människors hälsa under den varma säsongen - Vietnam.vn
 - »Allmän återhållsamhet« räcker inte - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
+- Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Vitalis – nordiskt toppmöte om hälsodatadelning och framtidens vårdsystem - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 
 ## Science
 
@@ -126,10 +126,10 @@ _Updated: 2025-09-27 17:37_
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
@@ -138,7 +138,7 @@ _Updated: 2025-09-27 17:37_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
