@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-27 18:42_
+_Updated: 2025-09-27 19:36_
 
 ## Top Stories
 
 - Räddningsinsats i Norge avslutas – försvunnen flicka förmodas vara död - DN
-- Moa, 22, blev dumpad – mitt i graviditeten - Aftonbladet
+- ”Handlar om Ukrainas säkerhet – och Sveriges” - SvD
+- Nathan Shachar: USA vill mota in Netanyahu i ett hörn - DN
 - Brand i Oljehamnen – röken syntes över hela stan - Skånska Dagbladet
 - ”Textilkaoset visar att varningarna var berättigade” - Västerbottens-Kuriren
-- Bosättare omringar byn – ”som ett fängelse” - SvD
-- Ukraina: Kärnkraftverket i Zaporizjzja utan el - GP
-- JUST NU: Kvinna avliden efter branden på seniorboendet - NWT
-- Man till sjukhus efter fall från klippa i Tyresö - SVT Nyheter
+- Över 30 omkom vid politiskt möte i Indien - Västerbottens-Kuriren
+- En kvinna har dött efter storbranden på äldreboendet i Sunne - SVT Nyheter
+- DN Direkt - Man till sjukhus efter fall från klippa - DN
 - Klarar du sju dagar vid en kris? - NT
 - Edward och Elisabeth (M) – "Vi är på din sida" - Norran
-- Arresteringsorder mot expresident al-Assad - SVT Nyheter
-- Donald Trump: Ska skicka soldater till Portland - DN
+- Trump beordrar försvarsdepartementet att skicka militär till Portland - SVT Nyheter
+- Arresteringsorder mot expresident al-Assad - Västerbottens-Kuriren
 - Hamasförhandlare: Ångrar inte 7:e oktober-attacken - Hufvudstadsbladet
-- Uppgifter: Hamas går med på Trumps fredsplan - DN
+- Vapenvilan mellan Thailand och Kambodja bruten - GP
+- Ikea pressas av Trumps nya besked om tullar på möbler - Expressen
 - Rustning rena guldet för blågula försvarsföretag - SvD
-- Donald Trumps nya tullar ger nytt bränsle till handelskriget - DN
-- DEBATT: Unga i Dalarna: Tusentals kronor att tjäna med bättre koll på tjänstepensionen - Dala-Demokraten
+- LEDARE: Företagen allt mer missnöjda med Sundsvall - Sundsvalls Tidning
 - Danske Bank sänker sina bolåneräntor (2025-09-26) - Ekonomifokus.se
 - Säljes: Genesis Flatbar 2025 Pendlar edition - Happyride
 - Foton i Windows 11 kommer snart sortera dina bilder med hjälp av AI - PC för Alla
@@ -34,19 +34,19 @@ _Updated: 2025-09-27 18:42_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Revolut Unveils Global HQ, Setting out Global Vision and Ambitious Timeline for 100 Million Customers - Revolut
 - Techarenan News goes English (Partly at least) - Techarenan News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- New Secretary General appointed - Olof Palme International Center
 - Söderfjell räknar med global läkemedelspress - Dagens industri
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- Cloudflare Partners with Giga to Accelerate School Connectivity Worldwide - Placera.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Cloudflare Partners with Giga to Accelerate School Connectivity Worldwide - Placera.se
+- Nikon patenterar hybridsensor med både global & rullande slutare - Kamera & Bild
 
 ## Technology
 
@@ -85,14 +85,14 @@ _Updated: 2025-09-27 18:42_
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
 - City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
-- DeFi Technologies Announces Closing of US$100 Million Registered Direct Offering - Placera.se
+- Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
