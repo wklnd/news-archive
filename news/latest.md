@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-27 22:48_
+_Updated: 2025-09-27 23:48_
 
-- Trump directs defense secretary to deploy troops to Portland - NBC News
-- "The first domino": Comey indictment sets MAGA retribution in motion - Axios
+- Trump orders deployment of troops to Portland, ICE facilities - Reuters
+- Trump’s Repeated Attacks May Undercut Case Against Comey - The New York Times
 - FBI fires agents pictured kneeling at George Floyd protest, US media reports - BBC
 - Future Tropical Storm Imelda closing in on the Southeast could unleash dangerous flood threat early next week - CNN
-- US revokes visa for Colombia’s president after he urges American soldiers to disobey Trump - AP News
-- Southeast U.S. braces for heavy rains from a potential tropical storm - NPR
+- Colombian president accuses Trump of violating UN principles after visa revoked - Axios
+- Des Moines schools superintendent, a former Olympian, arrested by ICE - The Washington Post
 - US military brass brace for firings as Pentagon chief orders top-level meeting - The Guardian
-- Trump asks Supreme Court to uphold restrictions he wants to impose on birthright citizenship - AP News
+- Dominion, Rudy Giuliani reach 'confidential settlement' in $1.3B defamation case - ABC News - Breaking News, Latest News and Videos
+- Trump asks Supreme Court to uphold birthright citizenship restrictions he wants to impose - PBS
 - Kilmar Abrego Garcia transferred to Pennsylvania detention center - NBC News
-- Scoop: Some of Congress' trips are being canceled ahead of a potential shutdown - Axios
-- UN sanctions set to be reimposed on Iran on Saturday - Reuters
 - Khamenei mocks Netanyahu UN walkout: ‘Most despised regime in the world’ - The Times of Israel
-- Hamas says it has not received Trump plan as Israel expands Gaza City assault - Reuters
+- UN sanctions set to be reimposed on Iran on Saturday - Reuters
 - Canada 13-33 England: Red Roses win Women's Rugby World Cup - BBC
-- No one can seem to kill America’s economy, despite everyone’s best efforts - CNN
-- S&P 500 Gains and Losses Today: Electronic Arts Stock Pops on Buyout Talks; Costco Slips - Investopedia
-- Starbucks closing hundreds of stores including Glencoe, several others in the Chicago area. “It’s just sad.” - Chicago Tribune
+- Airstrikes and gunfire kill at least 59 people in Gaza as pressure grows for ceasefire, hostage deal - AP News
 - Trump tariffs: Who stands to lose from new US pharma duties? - DW
+- No one can seem to kill America’s economy, despite everyone’s best efforts - CNN
+- Starbucks closing hundreds of stores including Glencoe, several others in the Chicago area. “It’s just sad.” - Chicago Tribune
+- S&P 500 Gains and Losses Today: Electronic Arts Stock Pops on Buyout Talks; Costco Slips - Investopedia
 - Hades 2, slot machine horror and other new indie games worth checking out - Engadget
-- Android's answer to Apple's Handoff is coming, and here's how it’ll work - Android Authority
+- Here's the latest progress on how Google Messages @mentions are going to work - Android Authority
