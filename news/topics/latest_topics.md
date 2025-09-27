@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-27 22:38_
+_Updated: 2025-09-27 23:37_
 
 ## Top Stories
 
-- Nya drönare har observerats över militär flygbas i Danmark - SVT Nyheter
-- Sökinsats avslutad i Norge – försvunnen flicka antas död - Hufvudstadsbladet
-- ”Ny flank – kan anfalla Ukraina från väst” - SvD
-- Nooshi Dadgostar (V): ”Jag tror inte på röda linjer” 27 september 2025 - Ekots lördagsintervju - Sveriges Radio
-- Stort blåljuspådrag efter olycka på E10/E45 - NSD
-- Över 30 omkom vid politiskt möte i Indien - Västerbottens-Kuriren
-- Beredskapsveckan avslutades med ärtsoppa och ostmacka - Arvika Nyheter
+- DN Direkt - Nato stärker beredskapen i Östersjön - DN
+- Historiskt impopulär – ska vända parti i kris - SvD
+- Allvarlig trafikolycka i Bollnäs – flera bilar inblandade - SVT Nyheter
+- Moldaviska diasporan måltavla för ryska kampanjer - Omni
+- DN Direkt - Säkerhetstjänst: Del av drönare hittad i Estland - DN
+- Dykaren Adrian, 36, dog när han försökte rädda liv - GP
 - En kvinna har dött efter storbranden på äldreboendet i Sunne - SVT Nyheter
-- Vill se snusförbud i skolan – även för lärare - Västerbottens-Kuriren
-- Efterlängtat besked: Storkriket blir Sveriges åttonde biosfärområde - Ystads Allehanda
-- Hizbollahs ledare: Kommer inte låta oss avväpnas - GP
-- Polisens uppmaning till pappan: Döda dina flickor - GP
+- Beredskapsveckan avslutades med ärtsoppa och ostmacka - Arvika Nyheter
+- DN Direkt - Man till sjukhus efter fall från klippa - DN
+- Värmländska kommunen som har sämst företagsklimat – igen: ”Tar tid att ändra attityder” - VF
+- Hizbollahs ledare: Kommer inte låta oss avväpnas - Västerbottens-Kuriren
 - Donald Trump: Ska skicka soldater till Portland - DN
-- Över 60 dödsoffer i israeliska angrepp mot Gaza - Västerbottens-Kuriren
+- Polisens uppmaning till pappan: Döda dina flickor - GP
+- DN Direkt - Över 30 omkom vid politiskt möte i Indien - DN
 - Höjda kreditbetyg för Spanien - Dagens industri
-- Ikea pressas av Trumps nya besked om tullar på möbler - Expressen
 - Danske Bank sänker sina bolåneräntor (2025-09-26) - Ekonomifokus.se
-- LEDARE: Företagen allt mer missnöjda med Sundsvall - Sundsvalls Tidning
+- Ikea pressas av Trumps nya besked om tullar på möbler - Expressen
+- Ny SCB-statistik: Försäljningen av emv ökat 11,6 procent - food-supply.se
 - Exakt så här inleds en spelrevolution - SvD
 - Säljes: Genesis Flatbar 2025 Pendlar edition - Happyride
 
@@ -64,9 +64,9 @@ _Updated: 2025-09-27 22:38_
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- ZenaTech to Highlight Progress on Drone as a Service and US Defense Business at Multiple Upcoming Investor Conferences - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
@@ -77,22 +77,22 @@ _Updated: 2025-09-27 22:38_
 - DeFi Technologies and SovFi Unveil Full-Stack Sovereign Finance Framework to Modernize the $100T+ Sovereign Debt Market - Placera.se
 - Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Fortune Minerals Announces David Massola Has Rejoined the Company as Vice President Business Development - Placera.se
+- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Fortune Minerals Announces David Massola Has Rejoined the Company as Vice President Business Development - Placera.se
 - City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
-- Bragg Gaming Group Secures New Debt Facilities and Provides Update on Cyber Breach - Placera.se
 - DeFi Technologies Announces Closing of US$100 Million Registered Direct Offering - Placera.se
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 
 ## Health
 
@@ -106,39 +106,39 @@ _Updated: 2025-09-27 22:38_
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
-- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Vetenskapens egen kontroll av forskningens etiska standard är otillräcklig - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
