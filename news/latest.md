@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-27 18:48_
+_Updated: 2025-09-27 19:48_
 
-- Trump says he'll send troops to Portland, Ore., to handle 'domestic terrorists' - NPR
 - "The first domino": Comey indictment sets MAGA retribution in motion - Axios
-- State Department revokes visa for Colombian President Gustavo Petro - The Washington Post
-- How a government shutdown could give Trump more power - PBS
-- Trump's H1-B changes raise concerns about US tech economy's future, ability to recruit specialty talent - ABC News - Breaking News, Latest News and Videos
-- Future Tropical Storm Imelda closing in on the Southeast could unleash dangerous flood threat early next week - CNN
-- US military brass brace for firings as Pentagon chief orders top-level meeting - The Guardian
-- FBI fires agents photographed kneeling during 2020 racial justice protest, AP sources say - AP News
+- Trump orders deployment of troops to Portland and authorises 'full force' - BBC
+- U.S. revokes visa for president of Colombia after he urges American soldiers to disobey Trump - CBS News
+- Generals and admirals scrambling to make plans to attend Hegseth's unusual meeting - NBC News
+- ‘I’m absolutely terrified’: Federal workers brace for potential government shutdown, mass layoffs - CNN
+- F.B.I. Fires More Agents, Including Those Who Knelt During Racial Justice Protests - The New York Times
 - Trump asks Supreme Court to let him end birthright citizenship - Politico
 - Des Moines schools superintendent, a former Olympian, arrested by ICE - The Washington Post
-- UN sanctions against Iran to resume over banned nuclear activity - BBC
-- Sources: Hamas agrees to Trump-backed Gaza deal, including releasing all Israeli hostages - Haaretz
+- Future Tropical Storm Imelda closing in on the Southeast could unleash dangerous flood threat early next week - CNN
+- Detainees shot in attack on Dallas ICE facility identified, source says. Here’s what we know about the victims - CNN
+- Iran faces reimposition of sanctions over its nuclear programme - Financial Times
+- Airstrikes and shooting kill at least 44 people in Gaza as Israel ignores demands for a ceasefire - AP News
+- Canada 13-33 England: Red Roses win Women's Rugby World Cup - BBC
 - Denmark says new drone sightings overnight at military installations - Reuters
-- Russia Steps Up Provocations in Europe, Alarming Leaders There - The New York Times
 - S&P 500 Gains and Losses Today: Electronic Arts Stock Pops on Buyout Talks; Costco Slips - Investopedia
-- 5 questions experts have about Trump's pharma tariffs - NBC News
+- Trump tariffs: Who stands to lose from new US pharma duties? - dw.com
 - Harrods says customers' data stolen in IT breach - BBC
-- Starbucks is closing over 100 North American stores — here are the locations we know so far - Business Insider
-- Why Meta’s latest smart glasses could shift the AR Market dynamics forever - Android Central
-- iPhone 17 Pro cameras reviewed by Halide creator Lux - 9to5Mac
+- Listeria found in Walmart, Trader Joe’s meals may be linked to deadly outbreak - AP News
+- Meta's Bosworth Hints That Neural Band Could Eventually Evolve Into a Watch - CNET
+- iPhone 17 Pro Max review: redefining 'Pro' with a new coat of paint - AppleInsider
