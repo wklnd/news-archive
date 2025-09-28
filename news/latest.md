@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-28 21:48_
+_Updated: 2025-09-28 22:48_
 
-- Multiple people injured in shooting at Mormon church in Michigan: Police - Al Jazeera
-- Eric Adams Abandons Re-election Bid for Mayor of New York City - The New York Times
+- 10 people shot, one fatally, at Mormon church in Grand Blanc Township; suspect dead - The Detroit News
+- Eric Adams drops out of New York City mayor's race, ending his bid for reelection - CBS News
 - Trump plans to attend gathering of senior military officials in Virginia this week - CNN
-- Trump to Host Last-Ditch Talks to Avoid Government Shutdown - The Wall Street Journal
-- Florida braces for impacts of Tropical Depression, expected to become Tropical Storm Imelda - WFTV
-- Russia pounds Kyiv, other regions in mass drone and missile attack - Reuters
-- Russell M. Nelson, oldest-ever president of The Church of Jesus Christ of Latter-day Saints, dies - AP News
-- Des Moines school superintendent placed on leave after ICE detention - CBS News
-- Trump seems to cool on Portland military plan after local leaders push back - KGW
+- Tropical Storm Imelda Forms, Joining Hurricane Humberto in the Atlantic: Latest Updates - The New York Times
+- Trump to meet lawmakers as US government heads to a shutdown - Financial Times
 - Arrest made after boater opens fire on North Carolina waterfront bar killing 3, injuring 5: Official - ABC News - Breaking News, Latest News and Videos
-- Live: Moldova counts vote in crunch election marred by Russian meddling claims - France 24
-- Iran sanctions reimposed 10 years after landmark nuclear deal - BBC
-- Death toll climbs to 40 after stampede at political rally for popular actor Vijay in southern India - AP News
-- Israeli airstrikes kill at least 44 in Gaza amid calls for ceasefire - Euronews.com
-- How much of the AI boom is underpinned by Nvidia's own balance sheet? Investors increasingly are asking. - Fortune
-- Unexpected Critics of Trump’s Attacks on Wind Energy: Oil Executives - The New York Times
-- L.A. buyers scramble to snap up EVs as tax breaks end - Los Angeles Times
-- Magnificent 7 Is Passe. This Group of AI Stocks Can Replace It - Bloomberg.com
-- Xiaomi 17 Ultra tipped to depart from Xiaomi 17 Pro Max in key areas with global satellite connectivity support mooted - Notebookcheck
+- Officials place Des Moines schools leader on leave after his arrest by immigration agents - AP News
+- Body found in landing gear of American Airlines plane in Charlotte - WRAL.com
+- Trump’s Plan to Send Troops to Portland, Oregon, Prompts Frustration - The New York Times
+- Kyiv Comes Under Another Massive Drone and Missile Attack - Bloomberg.com
+- Moldova votes in election critical for continued EU membership bid - Financial Times
+- Palestinian death toll tops 66,000 as Netanyahu prepares to meet Trump - NPR
+- Denmark bans civil drones after more sightings - DW
+- 58M pounds of corn dogs and sausage-on-a-stick products recalled because wood pieces may be inside - AP News
+- U.S. government shutdown a modest drag but fresh blow to credibility: BofA - Investing.com
+- ‘A real tragedy’: Trump’s policies create sea of uncertainty for New Bedford’s offshore wind ambitions - The Boston Globe
+- The best October Prime Day deals you can get right now: Early sales on tech from Apple, Amazon, Samsung, Anker and more - Engadget
+- Xiaomi 17: First Qualcomm Snapdragon 8 Elite Gen 5 flagships break sales records after triple-threat launch - Notebookcheck
+- Here’s how Apple Stores are combating iPhone 17 scratches - 9to5Mac
 - Android's answer to Apple's Handoff is coming, and here's how it’ll work - Android Authority
