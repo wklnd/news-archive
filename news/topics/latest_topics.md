@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-28 13:38_
+_Updated: 2025-09-28 14:58_
 
 ## Top Stories
 
-- Brand i industribyggnad i Trollhättan – VMA utfärdat - SVT Nyheter
-- DN Direkt - Två anhållna efter dödsolyckan i Bollnäs - DN
-- Flera dödade i Kiev i massivt ryskt anfall i natt - DN
+- Brand i Trollhättan – VMA utfärdat - Aftonbladet
 - Ryssland försökte köpa hans röst för 1 000 kronor - DN
-- 27 september 23.45, Rån väpnat, Tierp - polisen.se
-- Oron för sexhandel i Natos spår avfärdas av ministern - GP
-- KRÖNIKA: Vad ni konspiratoriker inte vet: bästa storyn vinner - Sydsvenskan
+- Flera dödade i Kiev i massivt ryskt anfall i natt - DN
+- Två unga kvinnor döda i krock – bil fattade eld - Skånska Dagbladet
+- Nya drönare vid försvarsanläggningar i Danmark - SVT Nyheter
+- Mördade tre unga tjejer – sände tortyren live - SvD
+- Akuten i Kalix stängd efter stor vattenläcka – höjer beredskapsläget - SVT Nyheter
+- Göteborg vill anställa förebyggande socionomer i förskolorna - DN
 - Hushållen tror inte på mer pengar i plånboken - GP
-- Värmländska kommunen som har sämst företagsklimat – igen: ”Tar tid att ändra attityder” - VF
-- Verifieringshjälpen granskar ”bildbeviset” från Ölandsbron - SVT Nyheter
-- Forskare varnar för drönarsvärmar – får effekter på flera plan - Voister
-- Oron för drönare ökar i Värmland – polisen manar till lugn: ”Ha lite is i magen” - NWT
-- Över 60 dödsoffer i israeliska angrepp mot Gaza - GP
+- 27 september 23.45, Rån väpnat, Tierp - polisen.se
+- Läkare utan gränser lämnar Gaza stad: ”Oerhört sorgligt” - DN
 - Zelenskyj: Putin vill attackera nytt land - Corren
+- Nathan Shachar: USA vill mota in Netanyahu i ett hörn - DN
+- Oregons guvernör: Behövs inte militär - Västerbottens-Kuriren
 - Nu släpps nya elpriset – kan sänka kostnaden - SvD
 - Ikea: Svårare att hålla ned priser efter Trumps nya tullar - Dagens industri
+- Tesla Model Y säljer snabbast på andrahandsmarknaden - DN
 - Elbilsjätten BYD till Warren Buffett: Tack och hej - Dagens PS
-- DEBATT: De läckta personuppgifterna skadar invånarnas tillit till samhället - GP
 - Resident Evil 9-regissören kan tänka sig att göra en remake på Resident Evil 7 - FZ.se
 - VIPER-rovern kommer till månen - Ljud & Bild
 
@@ -32,11 +32,11 @@ _Updated: 2025-09-28 13:38_
 - Israels ambassad i Sverige: ”Hamasledd flotta” - Aftonbladet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Techarenan News goes English (Partly at least) - Techarenan News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -107,15 +107,15 @@ _Updated: 2025-09-28 13:38_
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
+- Johan von Schreeb - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
-- Klimatförändring och hälsa – samlingssida! - Läkartidningen
 
 ## Science
 
