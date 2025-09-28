@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-28 14:58_
+_Updated: 2025-09-28 15:38_
 
 ## Top Stories
 
-- Brand i Trollhättan – VMA utfärdat - Aftonbladet
-- Ryssland försökte köpa hans röst för 1 000 kronor - DN
-- Flera dödade i Kiev i massivt ryskt anfall i natt - DN
-- Två unga kvinnor döda i krock – bil fattade eld - Skånska Dagbladet
-- Nya drönare vid försvarsanläggningar i Danmark - SVT Nyheter
-- Mördade tre unga tjejer – sände tortyren live - SvD
-- Akuten i Kalix stängd efter stor vattenläcka – höjer beredskapsläget - SVT Nyheter
-- Göteborg vill anställa förebyggande socionomer i förskolorna - DN
-- Hushållen tror inte på mer pengar i plånboken - GP
+- Krisen allt djupare för Rosengård – på kvalplats - Västerbottens-Kuriren
+- Två anhållna efter dödsolyckan i Bollnäs - DN
+- Rysk valpåverkan: ”Presidenten säljer barn” - GP
+- DN Direkt - Byggnad rasar vid kraftig brand i Trollhättan – boende uppmanas gå in - DN
+- Svenska barnmorskor rasar mot Trump-uttalande - GP
 - 27 september 23.45, Rån väpnat, Tierp - polisen.se
-- Läkare utan gränser lämnar Gaza stad: ”Oerhört sorgligt” - DN
+- Akuten i Kalix stängd efter stor vattenläcka – höjer beredskapsläget - SVT Nyheter
+- Hushållen tror inte på mer pengar i plånboken - GP
+- Verifieringshjälpen granskar ”bildbeviset” från Ölandsbron - SVT Nyheter
+- Värmländska kommunen som har sämst företagsklimat – igen: ”Tar tid att ändra attityder” - VF
+- Minst fyra döda i ryska attacker mot Ukraina - SVT Nyheter
+- Danmark stoppar flygning med civila drönare - Hufvudstadsbladet
 - Zelenskyj: Putin vill attackera nytt land - Corren
-- Nathan Shachar: USA vill mota in Netanyahu i ett hörn - DN
-- Oregons guvernör: Behövs inte militär - Västerbottens-Kuriren
+- Över 60 dödsoffer i israeliska angrepp mot Gaza - Västerbottens-Kuriren
 - Nu släpps nya elpriset – kan sänka kostnaden - SvD
-- Ikea: Svårare att hålla ned priser efter Trumps nya tullar - Dagens industri
 - Tesla Model Y säljer snabbast på andrahandsmarknaden - DN
-- Elbilsjätten BYD till Warren Buffett: Tack och hej - Dagens PS
+- Ikea: Svårare att hålla ned priser efter Trumps nya tullar - Dagens industri
+- DEBATT: De läckta personuppgifterna skadar invånarnas tillit till samhället - GP
 - Resident Evil 9-regissören kan tänka sig att göra en remake på Resident Evil 7 - FZ.se
-- VIPER-rovern kommer till månen - Ljud & Bild
+- Samsung Galaxy Z Fold 7 mot Honor Magic V3: Vilken utnyttjar den stora skärmen bäst? - mobil.se
 
 ## World News
 
@@ -120,8 +120,8 @@ _Updated: 2025-09-28 14:58_
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Studie om mikroplast fälld för fusk - Stockholms universitet
