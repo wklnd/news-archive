@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-28 06:41_
+_Updated: 2025-09-28 07:39_
 
 ## Top Stories
 
+- Stor polisinsats i Tierp - flera till sjukhus - SvD
 - Två döda i frontalkrock i Bollnäs - Aftonbladet
-- DN Direkt - Flera till sjukhus i Uppland – grovt brott utreds - DN
-- Luftrum över Polen stängt – militär aktivitet - Omni
+- ”Jag har tänkt mycket på vilka barn han har valt ut till uppdragen” - Aftonbladet
+- Gisslén köptes ut av FHM – får dubbel lön till mars - Omni
+- Trumps falska ord om attacken: ”274 FBI-agenter” - Expressen
 - Oron för drönare ökar i Värmland – polisen manar till lugn: ”Ha lite is i magen” - NWT
-- FN återinför sanktioner mot Iran - SVT Nyheter
-- Värmländska kommunen som har sämst företagsklimat – igen: ”Tar tid att ändra attityder” - VF
 - Nya lagen – könsord mot polis döms olika - Västerbottens-Kuriren
 - Efter Nutella-razzian – kommunen fast med 2 260 burkar - GP
+- Värmländska kommunen som har sämst företagsklimat – igen: ”Tar tid att ändra attityder” - VF
 - Edward och Elisabeth (M) – "Vi är på din sida" - Norran
-- Beredskapsveckan avslutades med ärtsoppa och ostmacka - Arvika Nyheter
-- Valet i Moldavien kan påverka hela Europa - Yle
-- Över 60 dödsoffer i israeliska angrepp mot Gaza - Västerbottens-Kuriren
-- Ukraina: Kärnkraftverket i Zaporizjzja utan el - GP
-- Trumps falska ord om attacken: ”274 FBI-agenter” - Expressen
-- Ikea pressas av Trumps nya besked om tullar på möbler - Expressen
+- Rysk valpåverkan: ”Presidenten säljer barn” - Västerbottens-Kuriren
+- FN återinför sanktioner mot Iran - SVT Nyheter
+- Lavrov: Alla har rätt att skjuta ned en drönare över sitt territorium - Yle
+- Flera skadade i ”massiva” ryska attacker - GP
+- Vändningen för svensken – i bråket med miljardären - Expressen
+- Nu släpps nya elpriset – kan sänka kostnaden - SvD
+- Trump förbered ny tullsmocka 2026 - EFN
 - Ny SCB-statistik: Försäljningen av emv ökat 11,6 procent - food-supply.se
-- Miljonstöd till kommuner dröjer - 7an
-- Inget budgetunderskott i sikte i Frankrike - EFN
 - Striden om AI-talangerna – 24-åringen nobbade 125 miljoner från Zuckerberg - NyTeknik
 - Exakt så här inleds en spelrevolution - SvD
 
@@ -34,39 +34,39 @@ _Updated: 2025-09-28 06:41_
 - Global Threat Surge Leads to $2.7T Defense Spending Boom and Institutional Rush - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
-- Revolut Unveils Global HQ, Setting out Global Vision and Ambitious Timeline for 100 Million Customers - Revolut
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Techarenan News goes English (Partly at least) - Techarenan News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- New Secretary General appointed - Olof Palme International Center
 - Söderfjell räknar med global läkemedelspress - Dagens industri
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- Cloudflare Partners with Giga to Accelerate School Connectivity Worldwide - Placera.se
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Cloudflare Partners with Giga to Accelerate School Connectivity Worldwide - Placera.se
+- Nikon patenterar hybridsensor med både global & rullande slutare - Kamera & Bild
 
 ## Technology
 
-- The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
+- Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Lansering av Au Lac Artificial Intelligence Alliance för att utveckla strategisk teknologi - Vietnam.vn
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Deepseek är det nya Linux - Computer Sweden
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Artificiell intelligens i satellit- och rymdsystem - ts2.tech
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Trane Technologies Ignites a New Era for Smart Buildings with Game-Changing AI Controls and AI Agent - Placera.se
@@ -120,25 +120,25 @@ _Updated: 2025-09-28 06:41_
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
@@ -158,7 +158,7 @@ _Updated: 2025-09-28 06:41_
 - Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
 - Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Maskinförare | Jobb | ATL - Land Lantbruk
