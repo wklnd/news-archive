@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-28 01:38_
+_Updated: 2025-09-28 04:19_
 
 ## Top Stories
 
 - Allvarlig trafikolycka i Bollnäs – flera bilar inblandade - SVT Nyheter
-- DN Direkt - Nato stärker beredskapen i Östersjön - DN
-- DN Direkt - Allvarlig trafikolycka i Bollnäs – flera skadade - DN
-- Här öppnas Västlänkenstationen för göteborgarna - GP
-- Källa: Putin vill lamslå Europas regeringar - Dagens PS
-- Trump: Ska skicka militär till Portland - Hufvudstadsbladet
-- Kvinna avliden efter branden på seniorboendet - NWT
+- Oron för drönare ökar i Värmland – polisen manar till lugn: ”Ha lite is i magen” - NWT
+- Zelenskyj: Putin planerar attack mot europeiskt land - Expressen
+- FN-sanktioner mot Iran återinförs - Västerbottens-Kuriren
 - Värmländska kommunen som har sämst företagsklimat – igen: ”Tar tid att ändra attityder” - VF
-- Vill se snusförbud i skolan – även för lärare - Västerbottens-Kuriren
+- Man gripen misstänkt för branden i Oljehamnen - Skånska Dagbladet
+- Kvinna avliden efter branden på seniorboendet - NWT
 - Edward och Elisabeth (M) – "Vi är på din sida" - Norran
-- Hizbollahs ledare: Kommer inte låta oss avväpnas - Västerbottens-Kuriren
-- Över 60 dödsoffer i israeliska angrepp mot Gaza - GP
-- Rysk varning för ”kraftfullt svar” vid angrepp - Corren
-- ”Ny flank – kan anfalla Ukraina från väst” - SvD
+- Beredskapsveckan avslutades med ärtsoppa och ostmacka - Arvika Nyheter
+- Ambulanssjuksköterskan Alexandra: "Vi är helt oskyddade" - Corren
+- Valet i Moldavien kan påverka hela Europa - Yle
+- Donald Trump: Ska skicka soldater till Portland - DN
+- Över 60 dödsoffer i israeliska angrepp mot Gaza - Västerbottens-Kuriren
+- Ukraina: Kärnkraftverket i Zaporizjzja utan el - GP
 - Bankerna slår dövörat till – gör miljardklipp på boräntan - Dagens PS
 - Ikea pressas av Trumps nya besked om tullar på möbler - Expressen
-- Spanien går mot strömmen – och lyckas - Dagens Arena
-- Ny SCB-statistik: Försäljningen av emv ökat 11,6 procent - food-supply.se
+- Miljonstöd till kommuner dröjer - 7an
+- Resultatet av krisdraget: Sparat 105 (!) miljoner – på två år - Katrineholms-Kuriren
 - Exakt så här inleds en spelrevolution - SvD
 - Xiaomi 17 Pro Max har landat med två skärmar och ett enormt batteri - TechRadar
 
 ## World News
 
+- MetLife and Global Citizen Announce Major Partnership to Drive Economic Change and Foster Resilient Communities - Placera.se
 - Israels ambassad i Sverige: ”Hamasledd flotta” - Aftonbladet
-- Global Threat Surge Leads to $2.7T Defense Spending Boom and Institutional Rush - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- Global Threat Surge Leads to $2.7T Defense Spending Boom and Institutional Rush - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Techarenan News goes English (Partly at least) - Techarenan News
-- Söderfjell räknar med global läkemedelspress - Dagens industri
-- New Secretary General appointed - Olof Palme International Center
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- Cloudflare Partners with Giga to Accelerate School Connectivity Worldwide - Placera.se
+- Söderfjell räknar med global läkemedelspress - Dagens industri
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Techarenan News goes English (Partly at least) - Techarenan News
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Nikon patenterar hybridsensor med både global & rullande slutare - Kamera & Bild
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Ex-nyhetsankare på BBC hade barnpornografi - Omni
+- Cloudflare Partners with Giga to Accelerate School Connectivity Worldwide - Placera.se
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 
 ## Technology
 
@@ -90,55 +90,55 @@ _Updated: 2025-09-28 01:38_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- DeFi Technologies Announces Closing of US$100 Million Registered Direct Offering - Placera.se
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- DeFi Technologies Announces Closing of US$100 Million Registered Direct Offering - Placera.se
 - Quhuo Limited Reports Unaudited Financial Results for the Six Months Ended June 30, 2025 - Placera.se
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Yen Lac District Medical Center: Proaktivt skydd av människors hälsa under den varma säsongen - Vietnam.vn
 - »Allmän återhållsamhet« räcker inte - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Vitalis – nordiskt toppmöte om hälsodatadelning och framtidens vårdsystem - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- Klimatförändring och hälsa – samlingssida! - Läkartidningen
 
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- ”Research on bison completely wrong” - Forskning & Framsteg
 
 ## Jordbruk
 
@@ -152,10 +152,10 @@ _Updated: 2025-09-28 01:38_
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
-- OECD-FAO Agricultural Outlook 2024-2033 - LRF - Lantbrukarnas Riksförbund
 - Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
