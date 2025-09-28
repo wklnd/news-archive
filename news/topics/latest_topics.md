@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-28 12:39_
+_Updated: 2025-09-28 13:38_
 
 ## Top Stories
 
+- Brand i industribyggnad i Trollhättan – VMA utfärdat - SVT Nyheter
+- DN Direkt - Två anhållna efter dödsolyckan i Bollnäs - DN
 - Flera dödade i Kiev i massivt ryskt anfall i natt - DN
 - Ryssland försökte köpa hans röst för 1 000 kronor - DN
-- Två döda i frontalkrock i Bollnäs - Aftonbladet
-- Brand i industribyggnad i Trollhättan - SVT Nyheter
-- Stor polisinsats i Tierp - flera till sjukhus - SvD
+- 27 september 23.45, Rån väpnat, Tierp - polisen.se
 - Oron för sexhandel i Natos spår avfärdas av ministern - GP
-- Akuten i Kalix stängd efter stor vattenläcka – höjer beredskapsläget - SVT Nyheter
 - KRÖNIKA: Vad ni konspiratoriker inte vet: bästa storyn vinner - Sydsvenskan
-- Hushållen tror inte på mer pengar i plånboken - Västerbottens-Kuriren
-- Nya lagen – könsord mot polis döms olika - GP
+- Hushållen tror inte på mer pengar i plånboken - GP
+- Värmländska kommunen som har sämst företagsklimat – igen: ”Tar tid att ändra attityder” - VF
+- Verifieringshjälpen granskar ”bildbeviset” från Ölandsbron - SVT Nyheter
 - Forskare varnar för drönarsvärmar – får effekter på flera plan - Voister
 - Oron för drönare ökar i Värmland – polisen manar till lugn: ”Ha lite is i magen” - NWT
-- Zelenskyj: Putin vill attackera nytt land - GP
-- Läkare utan gränser lämnar Gaza stad: ”Oerhört sorgligt” - DN
+- Över 60 dödsoffer i israeliska angrepp mot Gaza - GP
+- Zelenskyj: Putin vill attackera nytt land - Corren
 - Nu släpps nya elpriset – kan sänka kostnaden - SvD
 - Ikea: Svårare att hålla ned priser efter Trumps nya tullar - Dagens industri
 - Elbilsjätten BYD till Warren Buffett: Tack och hej - Dagens PS
-- Vändningen för Erik Torstensson – i bråket med Natalie Massenet - Expressen
+- DEBATT: De läckta personuppgifterna skadar invånarnas tillit till samhället - GP
 - Resident Evil 9-regissören kan tänka sig att göra en remake på Resident Evil 7 - FZ.se
 - VIPER-rovern kommer till månen - Ljud & Bild
 
@@ -40,13 +40,13 @@ _Updated: 2025-09-28 12:39_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Techarenan News goes English (Partly at least) - Techarenan News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Söderfjell räknar med global läkemedelspress - Dagens industri
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Nikon patenterar hybridsensor med både global & rullande slutare - Kamera & Bild
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - 🌏 Global ojämlikhet minskar faktiskt - Warp News
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
 ## Technology
 
@@ -75,24 +75,24 @@ _Updated: 2025-09-28 12:39_
 
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - DeFi Technologies and SovFi Unveil Full-Stack Sovereign Finance Framework to Modernize the $100T+ Sovereign Debt Market - Placera.se
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
+- Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
+- PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Fortune Minerals Announces David Massola Has Rejoined the Company as Vice President Business Development - Placera.se
 - City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - DeFi Technologies Announces Closing of US$100 Million Registered Direct Offering - Placera.se
-- Quhuo Limited Reports Unaudited Financial Results for the Six Months Ended June 30, 2025 - Placera.se
-- Datavault AI Secures $150 Million Strategic Investment from Scilex Holding Company to Build Supercomputer and Launch Independent Data Exchanges in the US - Placera.se
 
 ## Health
 
