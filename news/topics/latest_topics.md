@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-28 21:37_
+_Updated: 2025-09-28 22:38_
 
 ## Top Stories
 
-- En död efter skjutning vid mormonkyrka i USA - GP
+- Man körde in i kyrka och sköt – minst en död - Hufvudstadsbladet
 - Svenska flickan hittad död efter båtolyckan i Lofoten - DN
-- Nya drönare vid försvarsanläggningar i Danmark - SVT Nyheter
+- Tomma ledningar efter rysk ockupation: ”Folk kommer döda för vatten” - Aftonbladet
 - Toppmilitärer kallas till hemlighetsfullt möte i USA - DN
-- Hela kvarteret ödelagt efter ryska attacken: ”Vi är alla i chock” - DN
 - Fysioterapeuternas avdelning på Sahlgrenska akutstängde efter risk för ras - GP
+- Nya drönare vid försvarsanläggningar i Danmark - SVT Nyheter
 - Två anhållna efter dödsolyckan i Bollnäs - SVT Nyheter
 - VMA i Trollhättan – kraftig brand i industrilokal - GP
 - DN Direkt - Stor vattenläcka - sjukhuset i Kalix i stabsläge - DN
 - Bluffsamtal med särskild detalj ökar – lägg på direkt - Marcus Oscarsson
-- DN Direkt - Svenska flickan hittad död efter båtolycka i Lofoten - DN
+- Schimpanser får i sig ”två drinkar” om dagen - Sydsvenskan
 - Israeliska attacker mot Libanon - Västerbottens-Kuriren
+- DN Direkt - Svenska flickan hittad död efter båtolycka i Lofoten - DN
 - Vallokaler stängda i Moldaviens ödesval - GP
-- Hamas: Tappat kontakt med två ur gisslan - SVT Nyheter
-- Göteborg-Borås blir en av Europas dyraste järnvägar - DN
-- Oron: Självkörande Teslor stannar inte för tåg - Sydsvenskan
+- DN Direkt - Oron: Självkörande Teslor stannar inte för tåg - DN
+- Felicias chock: Fick inte returnera kläder från Booztlet - Expressen
 - Ikeas svar efter Trumps möbeltullar: ”Svårare” - Tidningen Näringslivet
 - Elbilsjätten BYD till Warren Buffett: Tack och hej - Dagens PS
-- Säljes: Allebike Arrow M 2025 Ultegra Di2 - Happyride
 - Säljes: Canyon Exceed CF6 2022 - Happyride
+- Säljes: Allebike Arrow M 2025 Ultegra Di2 - Happyride
 
 ## World News
 
@@ -46,53 +46,53 @@ _Updated: 2025-09-28 21:37_
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - Israels ambassad i Sverige: ”Hamasledd flotta” - Aftonbladet
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- 🌏 Global ojämlikhet minskar faktiskt - Warp News
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas | Mediemyndigheten - Via TT
 
 ## Technology
 
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
+- FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - 290 million for digitalisation of Swedish industry - Vinnova
-- FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
-- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
+- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 
 ## Business
 
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Fortune Minerals Announces David Massola Has Rejoined the Company as Vice President Business Development - Placera.se
 - Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
+- PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
-- DeFi Technologies Announces the Pricing of an Oversubscribed US$100 Million Registered Direct Offering - Placera.se
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- DeFi Technologies Announces Closing of US$100 Million Registered Direct Offering - Placera.se
 
 ## Health
 
@@ -106,10 +106,10 @@ _Updated: 2025-09-28 21:37_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
@@ -121,23 +121,23 @@ _Updated: 2025-09-28 21:37_
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
