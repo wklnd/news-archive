@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-28 19:37_
+_Updated: 2025-09-28 20:43_
 
 ## Top Stories
 
-- Flera skjutna vid mormonkyrka i USA – byggnaden brinner - DN
-- Minnesstund i Bollnäs kyrka efter dödsolyckan - GP
+- Mormonkyrka i brand efter skottlossning – en död - Västerbottens-Kuriren
 - Svensk flicka som försvann i båtolycka i Norge har hittats död - SVT Nyheter
-- Hela kvarteret ödelagt efter ryska attacken: ”Vi är alla i chock” - DN
-- Moldavien går till val – EU-frågan splittrar landet - SVT Nyheter
+- Fysioterapeuternas avdelning på Sahlgrenska akutstängde efter risk för ras - GP
 - Kvinnor i gängen pressas med sex – skjuter och spränger utan att synas - GP
+- Fem kvinnor vill göra det lagligt att namnge förövare i sociala medier - Sydsvenskan
+- Hela kvarteret ödelagt efter ryska attacken: ”Vi är alla i chock” - DN
+- Två anhållna efter dödsolyckan i Bollnäs - SVT Nyheter
 - VMA i Trollhättan – kraftig brand i industrilokal - Västerbottens-Kuriren
 - DN Direkt - Stor vattenläcka - sjukhuset i Kalix i stabsläge - DN
-- Hushållen tror inte på mer pengar i plånboken - GP
-- Värmländska kommunen som har sämst företagsklimat – igen: ”Tar tid att ändra attityder” - VF
-- Nya drönare vid försvarsanläggningar i Danmark - SVT Nyheter
-- Hamas: Har tappat kontakten med två gisslan - GP
-- Dödssiffran stiger efter trängselolycka i Indien - Västerbottens-Kuriren
+- Bluffsamtal med särskild detalj ökar – lägg på direkt - Marcus Oscarsson
 - Israeliska attacker mot Libanon - Västerbottens-Kuriren
+- DN Direkt - Fängslad amerikan släppt av talibanerna - DN
+- Hamas: Tappat kontakt med två ur gisslan - SVT Nyheter
+- Observatör: Lugn valdag i spänt Moldavien - GP
 - Tesla Model Y säljer snabbast på andrahandsmarknaden - DN
 - Nu släpps nya elpriset – kan sänka kostnaden - SvD
-- Volvo Cars vd om USA-flytten: Dämpar tullsmällen - Dagens PS
 - DEBATT: De läckta personuppgifterna skadar invånarnas tillit till samhället - GP
-- Nyheter i Apple Music med iOS 26 - popmuzik.se
-- Samsung Galaxy Z Fold 7 mot Honor Magic V3: Vilken utnyttjar den stora skärmen bäst? - mobil.se
+- Höjda kreditbetyg för Spanien - Tidningen Näringslivet
+- Säljes: Allebike Arrow M 2025 Ultegra Di2 - Happyride
+- Säljes: Canyon Exceed CF6 2022 - Happyride
 
 ## World News
 
 - Global Movement to Gaza bekräftar attack mot Gretas fartyg - Aftonbladet
 - MetLife and Global Citizen Announce Major Partnership to Drive Economic Change and Foster Resilient Communities - Placera.se
-- Israels ambassad i Sverige: ”Hamasledd flotta” - Aftonbladet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- Techarenan News goes English (Partly at least) - Techarenan News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Nikon patenterar hybridsensor med både global & rullande slutare - Kamera & Bild
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Israels ambassad i Sverige: ”Hamasledd flotta” - Aftonbladet
+- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
 - 🌏 Global ojämlikhet minskar faktiskt - Warp News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
@@ -59,17 +59,17 @@ _Updated: 2025-09-28 19:37_
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - 290 million for digitalisation of Swedish industry - Vinnova
 - FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
+- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
-- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 
 ## Business
 
@@ -106,39 +106,39 @@ _Updated: 2025-09-28 19:37_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
+- Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Klimatförändring och hälsa – samlingssida! - Läkartidningen
 
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
 
