@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-28 18:40_
+_Updated: 2025-09-28 19:37_
 
 ## Top Stories
 
-- Hammarby chockat av Halmstad – Mjällby rycker - DN
-- Svensk 11-årig flicka hittad död i Lofoten - GP
-- Två anhållna efter dödsolycka i Bollnäs - SvD
+- Flera skjutna vid mormonkyrka i USA – byggnaden brinner - DN
+- Minnesstund i Bollnäs kyrka efter dödsolyckan - GP
+- Svensk flicka som försvann i båtolycka i Norge har hittats död - SVT Nyheter
 - Hela kvarteret ödelagt efter ryska attacken: ”Vi är alla i chock” - DN
+- Moldavien går till val – EU-frågan splittrar landet - SVT Nyheter
 - Kvinnor i gängen pressas med sex – skjuter och spränger utan att synas - GP
-- Fem kvinnor vill göra det lagligt att namnge förövare i sociala medier - Sydsvenskan
 - VMA i Trollhättan – kraftig brand i industrilokal - Västerbottens-Kuriren
 - DN Direkt - Stor vattenläcka - sjukhuset i Kalix i stabsläge - DN
 - Hushållen tror inte på mer pengar i plånboken - GP
 - Värmländska kommunen som har sämst företagsklimat – igen: ”Tar tid att ändra attityder” - VF
-- Observatör: Lugn valdag i spänt Moldavien - DN
 - Nya drönare vid försvarsanläggningar i Danmark - SVT Nyheter
-- Hamas: Har tappat kontakten med två gisslan - Västerbottens-Kuriren
-- Anklagades för skräckvälde på hovet – nu abdikerar storhertigen - Aftonbladet
+- Hamas: Har tappat kontakten med två gisslan - GP
+- Dödssiffran stiger efter trängselolycka i Indien - Västerbottens-Kuriren
+- Israeliska attacker mot Libanon - Västerbottens-Kuriren
 - Tesla Model Y säljer snabbast på andrahandsmarknaden - DN
-- Ikea: Svårare att hålla ned priser efter Trumps nya tullar - Dagens industri
 - Nu släpps nya elpriset – kan sänka kostnaden - SvD
 - Volvo Cars vd om USA-flytten: Dämpar tullsmällen - Dagens PS
+- DEBATT: De läckta personuppgifterna skadar invånarnas tillit till samhället - GP
 - Nyheter i Apple Music med iOS 26 - popmuzik.se
 - Samsung Galaxy Z Fold 7 mot Honor Magic V3: Vilken utnyttjar den stora skärmen bäst? - mobil.se
 
@@ -106,59 +106,59 @@ _Updated: 2025-09-28 18:40_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
-- Johan von Schreeb - Karolinska Institutet
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Klimatförändring och hälsa – samlingssida! - Läkartidningen
 
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
+- Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
+- Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
 - Här är världens största jordbruk - ATL
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
-- Ho Chi Minh Citys lantbrukarförening skickar lantbrukare till Japan för att lära sig högteknologiskt jordbruk - Vietnam.vn
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- USA tvingar ut EU på banan - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
