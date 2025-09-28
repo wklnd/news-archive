@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-28 05:50_
+_Updated: 2025-09-28 06:41_
 
 ## Top Stories
 
 - Två döda i frontalkrock i Bollnäs - Aftonbladet
-- Oron för drönare ökar i Värmland – polisen manar till lugn: ”Ha lite is i magen” - NWT
+- DN Direkt - Flera till sjukhus i Uppland – grovt brott utreds - DN
 - Luftrum över Polen stängt – militär aktivitet - Omni
-- Schimpanser får i sig ”två drinkar” om dagen - SvD
+- Oron för drönare ökar i Värmland – polisen manar till lugn: ”Ha lite is i magen” - NWT
+- FN återinför sanktioner mot Iran - SVT Nyheter
 - Värmländska kommunen som har sämst företagsklimat – igen: ”Tar tid att ändra attityder” - VF
-- Kraftig rök över Malmö - Expressen
+- Nya lagen – könsord mot polis döms olika - Västerbottens-Kuriren
 - Efter Nutella-razzian – kommunen fast med 2 260 burkar - GP
 - Edward och Elisabeth (M) – "Vi är på din sida" - Norran
 - Beredskapsveckan avslutades med ärtsoppa och ostmacka - Arvika Nyheter
-- Ambulanssjuksköterskan Alexandra: "Vi är helt oskyddade" - Corren
 - Valet i Moldavien kan påverka hela Europa - Yle
-- FN återinför sanktioner mot Iran - SVT Nyheter
-- Läkare utan gränser lämnar Gaza stad: ”Oerhört sorgligt” - DN
-- Ukraina: Kärnkraftverket i Zaporizjzja utan el - Västerbottens-Kuriren
+- Över 60 dödsoffer i israeliska angrepp mot Gaza - Västerbottens-Kuriren
+- Ukraina: Kärnkraftverket i Zaporizjzja utan el - GP
+- Trumps falska ord om attacken: ”274 FBI-agenter” - Expressen
 - Ikea pressas av Trumps nya besked om tullar på möbler - Expressen
 - Ny SCB-statistik: Försäljningen av emv ökat 11,6 procent - food-supply.se
 - Miljonstöd till kommuner dröjer - 7an
 - Inget budgetunderskott i sikte i Frankrike - EFN
+- Striden om AI-talangerna – 24-åringen nobbade 125 miljoner från Zuckerberg - NyTeknik
 - Exakt så här inleds en spelrevolution - SvD
-- Xiaomi 17 Pro Max har landat med två skärmar och ett enormt batteri - TechRadar
 
 ## World News
 
@@ -34,39 +34,39 @@ _Updated: 2025-09-28 05:50_
 - Global Threat Surge Leads to $2.7T Defense Spending Boom and Institutional Rush - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- News of the Worlds reportrar kan få nya jobb - Journalisten
+- KuCoin samarbetar med golfikonen Adam Scott som global varumärkesambassadör - Bitcoin.com News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
+- Revolut Unveils Global HQ, Setting out Global Vision and Ambitious Timeline for 100 Million Customers - Revolut
+- Techarenan News goes English (Partly at least) - Techarenan News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- New Secretary General appointed - Olof Palme International Center
+- Söderfjell räknar med global läkemedelspress - Dagens industri
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Nikon patenterar hybridsensor med både global & rullande slutare - Kamera & Bild
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Cloudflare Partners with Giga to Accelerate School Connectivity Worldwide - Placera.se
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 
 ## Technology
 
-- Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
+- The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
 - Lansering av Au Lac Artificial Intelligence Alliance för att utveckla strategisk teknologi - Vietnam.vn
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
-- Artificiell intelligens i satellit- och rymdsystem - ts2.tech
-- Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Deepseek är det nya Linux - Computer Sweden
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Trane Technologies Ignites a New Era for Smart Buildings with Game-Changing AI Controls and AI Agent - Placera.se
@@ -74,25 +74,25 @@ _Updated: 2025-09-28 05:50_
 ## Business
 
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- Fortune Minerals Announces David Massola Has Rejoined the Company as Vice President Business Development - Placera.se
+- DeFi Technologies and SovFi Unveil Full-Stack Sovereign Finance Framework to Modernize the $100T+ Sovereign Debt Market - Placera.se
 - Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
-- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - First Horizon Announces Sophia Kearney-Lederman Receives NEXT Award by American Banker - Placera.se
-- Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Fortune Minerals Announces David Massola Has Rejoined the Company as Vice President Business Development - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
+- DeFi Technologies Announces Closing of US$100 Million Registered Direct Offering - Placera.se
+- Quhuo Limited Reports Unaudited Financial Results for the Six Months Ended June 30, 2025 - Placera.se
 
 ## Health
 
@@ -120,25 +120,25 @@ _Updated: 2025-09-28 05:50_
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
