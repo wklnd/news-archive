@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-29 17:40_
+_Updated: 2025-09-29 18:40_
 
 ## Top Stories
 
-- Svenska Ebba Torstensson, 11, dog i olyckan i Lofoten - GP
-- Influencern Pontus Rasmusson åtalas för grovt bokföringsbrott – misstänks ha dolt miljonbelopp - SVT Nyheter
 - Kristersson: Kränkningarna kunde lika gärna skett i Sverige - DN
+- Lina, 24, dog i bilolyckan utanför Bollnäs: ” Var full av liv” - Aftonbladet
 - Därför går det inte stoppa drönarna – måste först bevisa att de finns - Omni
-- Inga konserter på Tallriken nästa sommar – Dream Park läggs ner - Sydsvenskan
-- Åtal: Flickor sexuellt utnyttjade via Snapchat - SVT Nyheter
-- Misstänkt mord i Bengtsfors – två anhållna - Aftonbladet
-- S lovar att kapa vårdköer i Stockolm - DN
+- Barn under tio år hittad död i Håbo - SVT Nyheter
+- Trots stenhård övervakning – protesterna i Kina ökar - DN
+- Influencern Pontus Rasmusson åtalas för grovt bokföringsbrott – misstänks ha dolt miljonbelopp - SVT Nyheter
+- Misstänkt mord i Bengtsfors – två anhållna - GP
+- Två döda i bostad i Värmdö – polisen utreder mord - Omni
+- C vill satsa miljard för att få bort obehöriga lärare - DN
 - Regioner går samman om hårdast utsatta järnvägen inför mångmiljardbeslutet - DN
-- Poliser får fängelse för grovt narkotikabrott - DN
 - Pressad Netanyahu på besök: Har Trump en plan? - DN
 - Putin förlorade valet i Moldavien – nu är det upp till bevis för EU - Altinget.se
-- DN Direkt - Trump hotar med höga tullar för utländsk film - DN
-- V-kvinnan slutar – bråkade med Alice Teodorescu - Expressen
+- Fler kallas till värnplikt av Putin - Västerbottens-Kuriren
+- Sverige skickar poliser till Köpenhamn - GP
 - Klart: Electronic Arts köps upp för 210 dollar per aktie - Dagens industri
-- SKF:s kullager säljs till Ryssland: ”måste vakna” - SvD
-- Alecta: "Verisure behöver hålla ordning på frågan" - EFN
-- ”Svenskarna och internet 2025”: Svårnavigerade e-tjänster, AI som informationskälla och bluffannonser som sällan anmäls - Aktuell Säkerhet
+- Verisure-aktien ska handlas i euro: ”Anmärkningsvärt” - EFN
+- Moody’s och Fitch höjer Spaniens kreditbetyg - Börsvärlden
+- Kritiken mot bankerna ökar: ”För jävligt” - SvD
 - Från gosedjur till dockor – så tog leksakerna över modevärlden - GP
 - Rykte: RTX 50 Super kan dröja till våren 2026 - SweClockers
 
@@ -33,18 +33,18 @@ _Updated: 2025-09-29 17:40_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- News of the Worlds reportrar kan få nya jobb - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Svenska bolagen kan slå till: ”Vore nästan tjänstefel” - EFN
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
 - Techarenan News goes English (Partly at least) - Techarenan News
+- New Secretary General appointed - Olof Palme International Center
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Nikon patenterar hybridsensor med både global & rullande slutare - Kamera & Bild
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- We are exhibiting at Aidex 2024, the Global Humanitarian Aid Event - Mynewsdesk
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - 🌏 Global ojämlikhet minskar faktiskt - Warp News
 - Liberty Global Using Vecima Automation Solutions to Drive Network Simplification and Efficiency - Placera.se
 
@@ -108,14 +108,14 @@ _Updated: 2025-09-29 17:40_
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
 - »Medicinsk barnmisshandel« saknar vetenskaplig grund - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Vårdmottagning förbjuds att göra reklam för cannabis på Tiktok - Läkartidningen
+- Nobelpriset tilldelas forskare bakom upptäckt av mikroRNA - Läkartidningen
 - Fysisk aktivitet lika bra som KBT eller läkemedel vid depression - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-09-29 17:40_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- De gick från reko till eko - ST-tidningen
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Lediga jobb - ATL
+- 2021-04-20 Webbinarium: Social hållbarhet - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
-- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
