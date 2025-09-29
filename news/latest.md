@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-29 09:48_
+_Updated: 2025-09-29 10:54_
 
 - Gunman in Michigan LDS church shooting was a veteran of the Iraq War - ABC News - Breaking News, Latest News and Videos
 - Ex-Trump lawyer says president using Comey indictment to conceal being ‘criminal’ - The Guardian
-- Moldova's pro-EU ruling party wins majority in pivotal vote - Reuters
-- Trump confident ahead of Monday showdown, says Democrats' position makes shutdown likely: "I just don't know how we're going to solve this issue" - CBS News
-- Trump says he "would think" the DOJ is investigating ex-FBI chief Wray - Axios
-- Trump promises ‘something special’ on Gaza as Israeli officials say Netanyahu has reservations on ceasefire plan - CNN
+- Republicans urge Democrats to agree to short-term bill to keep US government open - Reuters
+- Exclusive: Trump says Gaza peace deal in "final stages" - Axios
+- Trump Raises Possibility of Inquiry Into Wray, Another Former F.B.I. Director - The New York Times
 - Hundreds protest at ICE building after Trump’s announcement of troop deployment to Portland - Oregon Public Broadcasting - OPB
+- Tropical Storm Imelda tracker: Map and projected storm path - The Washington Post
 - Missouri governor signs Trump-backed plan aimed at helping Republicans win another US House seat - AP News
 - Suspect held after allegedly firing from boat into waterfront bar in North Carolina - NPR
-- Tropical Storm Imelda Forms, Joining Hurricane Humberto in the Atlantic: Latest Updates - The New York Times
+- Exclusive: Zohran Mamdani Reacts to Eric Adams Dropping Out of NYC Mayoral Race - Democracy Now!
+- Pro-Europeans Set to Win Pivotal Election in Moldova Despite Russian Meddling - The New York Times
 - Denmark, rattled by mysterious UAV sightings, bans drone flights ahead of European Union summit - CNN
-- Russian drone and missile attack on Kyiv kills 4 and wounds at least 10, as other regions hit too - AP News
-- Two dead and 17 missing as Typhoon Bualoi hits Vietnam - Reuters
-- Death toll climbs to 40 after stampede at political rally for actor Vijay in southern India - AP News
+- Russian missiles and drones pound Ukraine in ‘savage’ 12-hour attack - Financial Times
+- Eight dead and 17 missing as Typhoon Bualoi hits Vietnam - Reuters
+- Filtered out: NYC Starbucks locations to shutter amid coffee giant’s ongoing nation-wide closures, hundreds of layoffs - amNewYork
 - Oil Drops as OPEC+ Seen Increasing Output Again: Markets Wrap - Bloomberg.com
-- Albertsons recalls several deli items due to potential listeria contamination - KOB.com
-- 58M pounds of corn dogs and sausage-on-a-stick products recalled because wood pieces may be inside - ABC News - Breaking News, Latest News and Videos
-- TikTok is just another tool in Larry Ellison’s quest to run the world. - The Verge
-- Here’s how Apple Stores are combating iPhone 17 scratches - 9to5Mac
-- AI groups bet on world models in race for ‘superintelligence’ - Financial Times
+- Shares rise in Asia; dollar dips as US government faces closure - Reuters
+- Albertsons recalls several deli items due to potential listeria contamination - AP News
+- Apple's iPhone 17 will forever change how we take selfies - including on Android phones - ZDNET
+- AMD’s Newest Patent Brings a Gigantic Boost to Memory Performance By a Multi-Chip DRAM Approach; Immensely Benefitting APUs As Well - Wccftech
