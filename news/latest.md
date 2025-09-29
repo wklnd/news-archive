@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-29 23:48_
+_Updated: 2025-09-30 00:48_
 
-- Netanyahu endorses Trump plan to end Gaza war - Axios
-- Mormon church shooting suspect had Trump sign outside home, records show - The Guardian
 - Government shutdown live updates as leaders make little progress at White House meeting - CBS News
+- Mormon church shooting suspect had Trump sign outside home, records show - The Guardian
+- Watch Live: Trump and Netanyahu Hold News Conference on Gaza Plan - The New York Times
+- YouTube to pay $24.5 million to settle Trump lawsuit - CNN
 - Tropical Storm Imelda: Tracking the storm's path near the Southeast coast - ABC News - Breaking News, Latest News and Videos
-- Portland councilor, Army veteran, calls on service members to reject Portland military deployment - Oregon Public Broadcasting - OPB
-- Scoop: Schumer floats shutdown fix - Axios
-- After Adams exit, Mamdani looks to solidify lead in NYC as Trump meddles - The Washington Post
-- White House shutdown summit fails to produce a deal - Politico
+- Feds march into downtown Chicago; top border agent says people are arrested based on ‘how they look’ - WBEZ Chicago
+- N.Y.C. Mayoral Candidates Move to Capitalize on Adams’s Departure - The New York Times
 - 'Yogurt Shop Murders' suspect was possible serial killer now linked to cases across country, police say - NBC News
-- Man charged with killing 3 at waterfront North Carolina bar is decorated Marine veteran and Purple Heart recipient - CBS News
+- Marine awarded Purple Heart charged in deadly North Carolina waterfront bar shooting - ABC News - Breaking News, Latest News and Videos
+- How the potential government shutdown would impact travel - ABC News - Breaking News, Latest News and Videos
 - Moldova’s pro-EU party wins clear parliamentary majority, defeating pro-Russian groups - AP News
-- Flight Grounded After ‘Bird Strike’ During Takeoff - The Daily Beast
+- ChatGPT Rolls Out Major Changes After Teen’s Suicide - The Daily Beast
 - Afghanistan hit by internet blackout as Taliban cuts fibre optic cables - BBC
-- Vijay: The Indian superstar at the centre of crush deaths row - BBC
-- Charlie Javice sentenced to 7 years in prison for $175M fraud - ABC News - Breaking News, Latest News and Videos
-- Labor Dept. won't release Friday's key jobs report, other data if government shuts down - CNBC
-- Auto Supplier First Brands Files for Bankruptcy Amid Accounting Questions - The Wall Street Journal
+- North Korea, China's foreign ministers meet in Beijing - Reuters
 - JPMorgan’s $20 Billion EA Check Marks Win Over Private Credit - Bloomberg.com
+- Charlie Javice sentenced to 7 years in prison for JPMorgan Chase fraud - Business Insider
+- Stock Market Today: Nasdaq Closes Higher; Dollar Falls as Possible Government Shutdown Looms — Live Updates - The Wall Street Journal
+- Welcome to the First Brands debt jungle - Financial Times
 - 5 under-the-radar games to check out in Steam's big autumn sale - Polygon
 - I Benchmarked Qualcomm’s New Snapdragon X2 Elite Extreme. Here’s What I Learned - WIRED
