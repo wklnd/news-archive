@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-29 05:50_
+_Updated: 2025-09-29 06:44_
 
 ## Top Stories
 
 - EU-vänliga partiet leder i Moldaviens parlamentsval - SVT Nyheter
 - Flera döda och skadade efter skjutning vid mormonkyrka i USA - GP
 - Explosion i centrala Enköping – grovt brott utreds - UNT
-- Trump: Kan ske något ”fantastiskt” i Mellanöstern - DN
-- Yoghurtmorden olöst i 34 år – nu börjar det klarna - Aftonbladet
-- Budgetkris hotar i USA: ”Enorm frustration” - SvD
+- ”Volvos försäljning skamlig och ovärdig” - DN
+- Var akut brist på lokförare – nu riskerar många arbetslöshet - Arbetet
+- Trumps tidigare advokat: Han vill skriva om historien - Omni
+- Två anhållna efter dödsolyckan i Bollnäs - SVT Nyheter
 - 28 september 21.28, Skottlossning, Västerås - polisen.se
 - Hushållen tror inte på mer pengar i plånboken - Västerbottens-Kuriren
-- Två anhållna efter dödsolyckan i Bollnäs - SVT Nyheter
-- DN Direkt - Stor vattenläcka - sjukhuset i Kalix i stabsläge - DN
-- Toppmilitärer kallas till hemlighetsfullt möte i USA - DN
-- Fängslad amerikan släppt av talibanerna - Västerbottens-Kuriren
-- Över 66 000 dödade i Gaza - GP
-- Danmark stoppar flygning med civila drönare - Hufvudstadsbladet
-- DN Direkt - Oron: Självkörande Teslor stannar inte för tåg - DN
+- Värmländska kommunen som har sämst företagsklimat – igen: ”Tar tid att ändra attityder” - VF
+- Över 66 000 dödade i Gaza - Västerbottens-Kuriren
+- Danmark stoppar flygning med civila drönare - GP
+- Zelenskyj: Putin vill attackera nytt land - Corren
+- Trump: Kan ske något ”fantastiskt” i Mellanöstern - Hufvudstadsbladet
+- ”Nya Rockefeller” tar kontroll över Tiktok - SvD
+- Elbilsjätten BYD till Warren Buffett: Tack och hej - Dagens PS
+- Almegas tjänsteindikator för tredje kvartalet 2025 - Almega
 - Nu släpps nya elpriset – kan sänka kostnaden - Tidningen Näringslivet
-- Ikeas svar efter Trumps möbeltullar: ”Svårare” - Hufvudstadsbladet
-- Unga smala kvinnor syns mest i reklamen - Västerbottens-Kuriren
 - Här är frågan som avslöjar Googles bygglovsprocess - Avesta Tidning
-- Säljes: Canyon Exceed CF6 2022 - Happyride
+- Iphone 2027 kan bli den mest splittrade serien hittills - Macworld.se
 
 ## World News
 
-- Global Movement to Gaza bekräftar attack mot Gretas fartyg - Aftonbladet
 - MetLife and Global Citizen Announce Major Partnership to Drive Economic Change and Foster Resilient Communities - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- News of the Worlds reportrar kan få nya jobb - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- Techarenan News goes English (Partly at least) - Techarenan News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
+- Israels ambassad i Sverige: ”Hamasledd flotta” - Aftonbladet
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Techarenan News goes English (Partly at least) - Techarenan News
+- New Secretary General appointed - Olof Palme International Center
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Nikon patenterar hybridsensor med både global & rullande slutare - Kamera & Bild
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- Israels ambassad i Sverige: ”Hamasledd flotta” - Aftonbladet
-- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- 🌏 Global ojämlikhet minskar faktiskt - Warp News
 
 ## Technology
 
@@ -57,8 +57,8 @@ _Updated: 2025-09-29 05:50_
 - Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
-- FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
@@ -66,10 +66,10 @@ _Updated: 2025-09-29 05:50_
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
 
 ## Business
 
@@ -78,21 +78,21 @@ _Updated: 2025-09-29 05:50_
 - Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
-- DeFi Technologies Announces Closing of US$100 Million Registered Direct Offering - Placera.se
+- Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
 
 ## Health
 
@@ -101,13 +101,13 @@ _Updated: 2025-09-29 05:50_
 - »Allmän återhållsamhet« räcker inte - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Yen Lac District Medical Center: Proaktivt skydd av människors hälsa under den varma säsongen - Vietnam.vn
-- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
@@ -145,11 +145,11 @@ _Updated: 2025-09-29 05:50_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
