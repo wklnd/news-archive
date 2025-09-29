@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-29 19:38_
+_Updated: 2025-09-29 20:48_
 
 ## Top Stories
 
+- Trumps 21 punkter för fred i Gaza – inför mötet med Netanyahu - GP
 - Lina, 24, dog i bilolyckan utanför Bollnäs: ” Var full av liv” - Aftonbladet
-- Svenska Ebba Torstensson, 11, dog i olyckan i Lofoten - GP
 - Polisen varnar: Telefonbedragare härjar i Norrbotten - SVT Nyheter
 - Körde in i demonstrationståg – rättegång med över 80 målsäganden - DN
 - Stort slagsmål utanför restaurang vid Backaplan - GP
-- ”Blixtinköpet” av drönarskydd har dröjt – i månader - Aftonbladet
-- Efter drönarlarmen – Ulf Kristersson pekar ut Ryssland - SVT Nyheter
-- Influencern Pontus Rasmusson åtalas för grovt bokföringsbrott – misstänks ha dolt miljonbelopp - SVT Nyheter
-- Två döda i bostad i Värmdö – polisen utreder mord - Omni
-- Misstänkt mord i Bengtsfors – två anhållna - GP
-- Putin förlorade valet i Moldavien – nu är det upp till bevis för EU - Altinget.se
-- Pressad Netanyahu inför möte: Har Trump en plan? - Hufvudstadsbladet
 - Trots stenhård övervakning – protesterna i Kina ökar - DN
+- Misstänkt mord i Bengtsfors – två anhållna - GP
+- Utreder mord på Värmdö - Aftonbladet
+- Regioner går samman om hårdast utsatta järnvägen inför mångmiljardbeslutet - DN
+- C vill satsa miljard för att få bort obehöriga lärare - DN
+- Putin förlorade valet i Moldavien – nu är det upp till bevis för EU - Altinget.se
 - Fler kallas till värnplikt av Putin - Västerbottens-Kuriren
-- Klart: Electronic Arts köps upp för 210 dollar per aktie - Dagens industri
-- Verisure-aktien ska handlas i euro: ”Anmärkningsvärt” - EFN
-- Moody’s och Fitch höjer Spaniens kreditbetyg - Börsvärlden
+- Polisen i Rio erbjuds skottpengar för att döda gängkriminella - DN
+- Barn under tio år hittad död i Håbo - SVT Nyheter
+- USA öppnar på det gröna – Electronic Arts rusar - EFN
+- Många rådgivare i Verisures notering: ”Säger något om intresset” - Dagens industri
 - Kritiken mot bankerna ökar: ”För jävligt” - SvD
-- Från gosedjur till dockor – så tog leksakerna över modevärlden - GP
+- Moody’s och Fitch höjer Spaniens kreditbetyg - Börsvärlden
 - Rykte: RTX 50 Super kan dröja till våren 2026 - SweClockers
+- Världens största gröna kraftverk: Dessa fem tungviktare visar vägen för ren energi - Illustrerad Vetenskap
 
 ## World News
 
@@ -37,13 +37,13 @@ _Updated: 2025-09-29 19:38_
 - Patrick Ekwall aktuell med tredje deckaren – en global jakt på liv och död - NewsMachine AB
 - Svenska bolagen kan slå till: ”Vore nästan tjänstefel” - EFN
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Techarenan News goes English (Partly at least) - Techarenan News
 - New Secretary General appointed - Olof Palme International Center
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- We are exhibiting at Aidex 2024, the Global Humanitarian Aid Event - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Liberty Global Using Vecima Automation Solutions to Drive Network Simplification and Efficiency - Placera.se
 - 🌏 Global ojämlikhet minskar faktiskt - Warp News
@@ -51,48 +51,48 @@ _Updated: 2025-09-29 19:38_
 ## Technology
 
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
-- 290 million for digitalisation of Swedish industry - Vinnova
+- DEBATT: ”Trumps politik kan vara bättre för Kina än för USA när det gäller AI.” - Sydsvenskan
 - FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 
 ## Business
 
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Fortune Minerals Announces David Massola Has Rejoined the Company as Vice President Business Development - Placera.se
 - Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
-- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
+- Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
 
 ## Health
 
@@ -119,46 +119,46 @@ _Updated: 2025-09-29 19:38_
 
 ## Science
 
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
 - Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
