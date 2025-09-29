@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-29 13:48_
+_Updated: 2025-09-29 15:17_
 
 - Investigators probe for motive in Michigan LDS church shooting, fire - ABC News - Breaking News, Latest News and Videos
-- Republicans urge Democrats to agree to short-term bill to keep US government open - Reuters
-- Moldova’s Pivotal Election Expected to End in Victory for Pro-Europeans - The New York Times
-- Ex-Trump lawyer says president using Comey indictment to conceal being ‘criminal’ - The Guardian
-- Trump plans to squeeze Netanyahu to sign Gaza peace deal, aides say - Axios
+- Which Federal Benefits and Services Continue During a Government Shutdown? - The New York Times
+- Netanyahu inches toward Gaza deal under pressure from Trump - Axios
 - Hundreds protest at ICE building after Trump’s announcement of troop deployment to Portland - Oregon Public Broadcasting - OPB
-- Tropical Storm Imelda tracker: Map and projected storm path - The Washington Post
+- Sen. Amy Klobuchar calls it "appalling" that Trump accused FBI of putting agents in crowd on Jan. 6 - CBS News
+- Imelda and Humberto deliver double threat — dangerous surf and flooding for US, back-to-back hurricanes for Bermuda - CNN
+- Confessions, DNA and his grandfather’s rifle: This is the evidence so far against the Charlie Kirk shooting suspect - CNN
 - American Fish Company closes indefinitely following mass shooting - WECT
-- Exclusive: Zohran Mamdani Reacts to Eric Adams Dropping Out of NYC Mayoral Race - Democracy Now!
+- ‘I’m From Here!’: U.S. Citizens Are Ending Up in Trump’s Dragnet - The New York Times
 - ‘Cruel joke’: How Indian H-1B dreams are crash-landing after Trump fee hike - Al Jazeera
-- Denmark, rattled by mysterious UAV sightings, bans drone flights ahead of European Union summit - CNN
-- Iran weighs how to respond to reimposed UN sanctions over nuclear program - Politico
-- Missing From a U.N. Meeting on Helping Refugees? The Refugees. - The New York Times
-- Democracy activist Nathan Law denied entry to Singapore - Financial Times
-- European stocks open higher; Lufthansa plans to cut 4,000 jobs - CNBC
+- Moldova’s pro-EU party wins clear parliamentary majority, defeating pro-Russian groups - AP News
+- Namibia fires: Army sent into Etosha National Park - BBC
+- Hong Kong activist Nathan Law says he was denied entry to Singapore - Al Jazeera
+- Musk's X 'deeply concerned' by Indian court order over content takedown, plans appeal - Reuters
+- 'Battlefield' maker Electronic Arts to go private in record $55 billion leveraged buyout - Reuters
 - This is the severance package Starbucks offered to laid-off staff at the stores it's closing - Business Insider
-- Electric Vehicles Face a ‘Pretty Dreadful Year’ in the U.S. - The New York Times
-- Stock Market Today: Dow Futures Rise; Dollar Falls as Lawmakers Race to Avoid Shutdown — Live Updates - The Wall Street Journal
-- Apple is reportedly nearing production for its M5 MacBooks - Engadget
+- Stock Futures Rise but Dollar Falls as Lawmakers Race to Avoid Shutdown - The Wall Street Journal
+- What's the 'natural demand' for EVs in the U.S.? We're about to find out - CNBC
 - OnePlus 15 design reveal may have just spilled its launch date - Android Authority
+- ZR1, GTD, and America’s new Nürburgring war - Ars Technica
