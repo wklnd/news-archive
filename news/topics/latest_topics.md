@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-29 11:43_
+_Updated: 2025-09-29 12:44_
 
 ## Top Stories
 
-- Putin förlorade valet i Moldavien – nu är det upp till bevis för EU - Altinget.se
+- Efter drönarlarmen – Ulf Kristersson pekar ut Ryssland - SVT Nyheter
 - Larm om misstänkt farligt föremål – boende utryms - Aftonbladet
-- Kristersson om drönarna: Allt talar för Ryssland - Västerbottens-Kuriren
+- Putin förlorade valet i Moldavien – nu är det upp till bevis för EU - Altinget.se
+- Förundersökning efter traktorolycka läggs ner - Västerbottens-Kuriren
+- SKF:s klassiska fabriksområde görs om – kan bli 900 lägenheter - GP
 - Trump: Kan ske något ”fantastiskt” i Mellanöstern - DN
-- Dramatiskt bättre ekonomi för svenskarna - UNT
-- Läkarna vittnar: Barn skjuts i huvudet - GP
 - Poliser får fängelse för grovt narkotikabrott - DN
 - Akutmottagningen i Kalix tillfälligt flyttad - Västerbottens-Kuriren
-- Sverige ger en miljard till Ukraina - Folkbladet
+- Regeringen presenterar nytt civilt stödpaket till Ukraina - Regeringen.se
 - 29 september 08.00, Sammanfattning natt, Östergötlands län - polisen.se
-- Cirkustragedi i Tyskland – akrobat föll mot döden - GP
-- Gammal orkan når Spanien – högsta varningsnivån - Västerbottens-Kuriren
-- Flera skjutna i mormonkyrka i Michigan, USA – byggnaden brinner - SVT Nyheter
+- Pressad Netanyahu på besök: Har Trump en plan? - Västerbottens-Kuriren
+- ”Extrem risk” för regn i Spanien – varning utfärdad - GP
 - Sandra Stiskalo: Är London en skithåla med sharialagar? - DN
+- Flera skjutna i mormonkyrka i Michigan, USA – byggnaden nedbrunnen - SVT Nyheter
 - 4.000 tjänster ska bort på Lufthansa till 2030 - Dagens industri
-- Fondhandel i september: Mot USA – bort från Europa och småbolag - Cision News
-- Nytt försäljningsrekord för second hand – omsatte 1,9 miljarder kronor - Svensk Handel
-- Prislappen på Verisure 150 miljarder - Aftonbladet
+- Stor leverantör till Arbetsförmedlingen utreds för avtalsfusk - DN
+- Försäljningsrekord för second hand – e-handeln drivande - Dagens Handel
+- Danske Bank: Rekordnivåer på USA-börserna utgör ingen säljsignal - Börsvärlden
 - Vilken svensk tech-vd är jobbigast? - SvD
-- Swedbank satsar på ungt entreprenörskap – delar ut 10 000 kronor till ridklubb i Jönköpings län - Mynewsdesk
+- "Battlefield" gör narr av "Call of Duty" med hjälp av Zac Efron - MovieZine
 
 ## World News
 
@@ -36,7 +36,6 @@ _Updated: 2025-09-29 11:43_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
 - Techarenan News goes English (Partly at least) - Techarenan News
 - New Secretary General appointed - Olof Palme International Center
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
@@ -44,6 +43,7 @@ _Updated: 2025-09-29 11:43_
 - Nikon patenterar hybridsensor med både global & rullande slutare - Kamera & Bild
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Påven: En ny global utbildning för hopp i vår tid - Vatican News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 - 🌏 Global ojämlikhet minskar faktiskt - Warp News
@@ -57,19 +57,19 @@ _Updated: 2025-09-29 11:43_
 - Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
-- DEBATT: ”Trumps politik kan vara bättre för Kina än för USA när det gäller AI.” - Sydsvenskan
-- FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - 290 million for digitalisation of Swedish industry - Vinnova
+- FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
-- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
 
 ## Business
 
@@ -79,20 +79,20 @@ _Updated: 2025-09-29 11:43_
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
-- Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- DeFi Technologies Announces Closing of US$100 Million Registered Direct Offering - Placera.se
 
 ## Health
 
@@ -100,6 +100,7 @@ _Updated: 2025-09-29 11:43_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - »Allmän återhållsamhet« räcker inte - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Yen Lac District Medical Center: Proaktivt skydd av människors hälsa under den varma säsongen - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -110,10 +111,9 @@ _Updated: 2025-09-29 11:43_
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Klimatförändring och hälsa – samlingssida! - Läkartidningen
 
@@ -121,44 +121,44 @@ _Updated: 2025-09-29 11:43_
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- De gick från reko till eko - ST-tidningen
-- Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Lediga jobb - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Här är världens största jordbruk - ATL
+- Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- USA tvingar ut EU på banan - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
