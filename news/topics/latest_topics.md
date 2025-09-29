@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-29 06:44_
+_Updated: 2025-09-29 07:41_
 
 ## Top Stories
 
 - EU-vänliga partiet leder i Moldaviens parlamentsval - SVT Nyheter
 - Flera döda och skadade efter skjutning vid mormonkyrka i USA - GP
-- Explosion i centrala Enköping – grovt brott utreds - UNT
 - ”Volvos försäljning skamlig och ovärdig” - DN
+- Läkarna vittnar: Barn skjuts i huvudet - GP
 - Var akut brist på lokförare – nu riskerar många arbetslöshet - Arbetet
 - Trumps tidigare advokat: Han vill skriva om historien - Omni
-- Två anhållna efter dödsolyckan i Bollnäs - SVT Nyheter
+- Dramatiskt bättre ekonomi för svenskarna - UNT
 - 28 september 21.28, Skottlossning, Västerås - polisen.se
-- Hushållen tror inte på mer pengar i plånboken - Västerbottens-Kuriren
-- Värmländska kommunen som har sämst företagsklimat – igen: ”Tar tid att ändra attityder” - VF
-- Över 66 000 dödade i Gaza - Västerbottens-Kuriren
-- Danmark stoppar flygning med civila drönare - GP
-- Zelenskyj: Putin vill attackera nytt land - Corren
-- Trump: Kan ske något ”fantastiskt” i Mellanöstern - Hufvudstadsbladet
-- ”Nya Rockefeller” tar kontroll över Tiktok - SvD
-- Elbilsjätten BYD till Warren Buffett: Tack och hej - Dagens PS
-- Almegas tjänsteindikator för tredje kvartalet 2025 - Almega
+- 29 september 07.14, Sammanfattning natt, Västernorrlands län - polisen.se
+- Man i Kalix misstänks för brott mot knivlagen - Kuriren
+- Gammal orkan når Spanien – högsta varningsnivån - Västerbottens-Kuriren
+- Toppmilitärer kallas till hemlighetsfullt möte i USA - DN
+- Sandra Stiskalo: Är London en skithåla med sharialagar? - DN
+- Trump: Kan ske något ”fantastiskt” i Mellanöstern - GP
+- Fondhandel i september: Mot USA – bort från Europa och småbolag - Cision News
+- Nytt försäljningsrekord för second hand – omsatte 1,9 miljarder kronor - Svensk Handel
 - Nu släpps nya elpriset – kan sänka kostnaden - Tidningen Näringslivet
+- Siffror visar: Svenska produkter i ryska krigsindustrin – för hundratals miljoner - Aftonbladet
 - Här är frågan som avslöjar Googles bygglovsprocess - Avesta Tidning
 - Iphone 2027 kan bli den mest splittrade serien hittills - Macworld.se
 
@@ -66,10 +66,10 @@ _Updated: 2025-09-29 06:44_
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
-- New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
 
 ## Business
 
@@ -124,32 +124,32 @@ _Updated: 2025-09-29 06:44_
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 2021-11-17 Webbinarium: Morgondagens odlingssystem – lägesrapport från det praktiska lantbruket - Mynewsdesk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
