@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-29 18:40_
+_Updated: 2025-09-29 19:38_
 
 ## Top Stories
 
-- Kristersson: Kränkningarna kunde lika gärna skett i Sverige - DN
 - Lina, 24, dog i bilolyckan utanför Bollnäs: ” Var full av liv” - Aftonbladet
-- Därför går det inte stoppa drönarna – måste först bevisa att de finns - Omni
-- Barn under tio år hittad död i Håbo - SVT Nyheter
-- Trots stenhård övervakning – protesterna i Kina ökar - DN
+- Svenska Ebba Torstensson, 11, dog i olyckan i Lofoten - GP
+- Polisen varnar: Telefonbedragare härjar i Norrbotten - SVT Nyheter
+- Körde in i demonstrationståg – rättegång med över 80 målsäganden - DN
+- Stort slagsmål utanför restaurang vid Backaplan - GP
+- ”Blixtinköpet” av drönarskydd har dröjt – i månader - Aftonbladet
+- Efter drönarlarmen – Ulf Kristersson pekar ut Ryssland - SVT Nyheter
 - Influencern Pontus Rasmusson åtalas för grovt bokföringsbrott – misstänks ha dolt miljonbelopp - SVT Nyheter
-- Misstänkt mord i Bengtsfors – två anhållna - GP
 - Två döda i bostad i Värmdö – polisen utreder mord - Omni
-- C vill satsa miljard för att få bort obehöriga lärare - DN
-- Regioner går samman om hårdast utsatta järnvägen inför mångmiljardbeslutet - DN
-- Pressad Netanyahu på besök: Har Trump en plan? - DN
+- Misstänkt mord i Bengtsfors – två anhållna - GP
 - Putin förlorade valet i Moldavien – nu är det upp till bevis för EU - Altinget.se
+- Pressad Netanyahu inför möte: Har Trump en plan? - Hufvudstadsbladet
+- Trots stenhård övervakning – protesterna i Kina ökar - DN
 - Fler kallas till värnplikt av Putin - Västerbottens-Kuriren
-- Sverige skickar poliser till Köpenhamn - GP
 - Klart: Electronic Arts köps upp för 210 dollar per aktie - Dagens industri
 - Verisure-aktien ska handlas i euro: ”Anmärkningsvärt” - EFN
 - Moody’s och Fitch höjer Spaniens kreditbetyg - Börsvärlden
@@ -29,24 +29,24 @@ _Updated: 2025-09-29 18:40_
 
 - DAR GLOBAL PLANS TO LAUNCH TRUMP PLAZA JEDDAH IN SECOND COLLABORATION WITH THE TRUMP ORGANIZATION, FOLLOWING THE SUCCESS OF TRUMP TOWER JEDDAH - Placera.se
 - ”Risk att de spanska krigsfartygen ingriper” - SvD
-- MetLife and Global Citizen Announce Major Partnership to Drive Economic Change and Foster Resilient Communities - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Patrick Ekwall aktuell med tredje deckaren – en global jakt på liv och död - NewsMachine AB
 - Svenska bolagen kan slå till: ”Vore nästan tjänstefel” - EFN
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Techarenan News goes English (Partly at least) - Techarenan News
 - New Secretary General appointed - Olof Palme International Center
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- We are exhibiting at Aidex 2024, the Global Humanitarian Aid Event - Mynewsdesk
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- 🌏 Global ojämlikhet minskar faktiskt - Warp News
 - Liberty Global Using Vecima Automation Solutions to Drive Network Simplification and Efficiency - Placera.se
+- 🌏 Global ojämlikhet minskar faktiskt - Warp News
 
 ## Technology
 
@@ -81,18 +81,18 @@ _Updated: 2025-09-29 18:40_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -143,22 +143,22 @@ _Updated: 2025-09-29 18:40_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Lediga jobb - ATL
-- 2021-04-20 Webbinarium: Social hållbarhet - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
