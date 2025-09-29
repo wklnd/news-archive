@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-29 08:55_
+_Updated: 2025-09-29 09:48_
 
 - Gunman in Michigan LDS church shooting was a veteran of the Iraq War - ABC News - Breaking News, Latest News and Videos
 - Ex-Trump lawyer says president using Comey indictment to conceal being ‘criminal’ - The Guardian
-- Gaza discord has Netanyahu scrambling ahead of DC meet, but Trump offers him way out - The Times of Israel
+- Moldova's pro-EU ruling party wins majority in pivotal vote - Reuters
 - Trump confident ahead of Monday showdown, says Democrats' position makes shutdown likely: "I just don't know how we're going to solve this issue" - CBS News
-- Oregon sues Trump administration over order to deploy troops in Portland - The Washington Post
-- Stowaway Found Dead in Wheel Well of American Airlines Jet, Police Say - The New York Times
-- Missouri Governor Signs Congressional Map Redrawn to Boost Republicans - The New York Times
-- American Fish Company closes indefinitely following mass shooting - WECT
-- Florida braces for impacts of Tropical Depression, expected to become Tropical Storm Imelda - WFTV
-- Exclusive: Zohran Mamdani Reacts to Eric Adams Dropping Out of NYC Mayoral Race - Democracy Now!
-- Moldova's pro-EU party takes clear lead in parliamentary election - Euronews.com
+- Trump says he "would think" the DOJ is investigating ex-FBI chief Wray - Axios
+- Trump promises ‘something special’ on Gaza as Israeli officials say Netanyahu has reservations on ceasefire plan - CNN
+- Hundreds protest at ICE building after Trump’s announcement of troop deployment to Portland - Oregon Public Broadcasting - OPB
+- Missouri governor signs Trump-backed plan aimed at helping Republicans win another US House seat - AP News
+- Suspect held after allegedly firing from boat into waterfront bar in North Carolina - NPR
+- Tropical Storm Imelda Forms, Joining Hurricane Humberto in the Atlantic: Latest Updates - The New York Times
 - Denmark, rattled by mysterious UAV sightings, bans drone flights ahead of European Union summit - CNN
 - Russian drone and missile attack on Kyiv kills 4 and wounds at least 10, as other regions hit too - AP News
-- Newspaper headlines: PM says Reform plan 'racist' and Labour eyes 'good citizen test' - BBC
+- Two dead and 17 missing as Typhoon Bualoi hits Vietnam - Reuters
+- Death toll climbs to 40 after stampede at political rally for actor Vijay in southern India - AP News
 - Oil Drops as OPEC+ Seen Increasing Output Again: Markets Wrap - Bloomberg.com
 - Albertsons recalls several deli items due to potential listeria contamination - KOB.com
-- Citi’s Wall Street Rebound Turns Raghavan Into CEO Contender - Bloomberg.com
 - 58M pounds of corn dogs and sausage-on-a-stick products recalled because wood pieces may be inside - ABC News - Breaking News, Latest News and Videos
+- TikTok is just another tool in Larry Ellison’s quest to run the world. - The Verge
 - Here’s how Apple Stores are combating iPhone 17 scratches - 9to5Mac
-- Game 162 Preview: End of 2025 regular season schedule - Bless You Boys
+- AI groups bet on world models in race for ‘superintelligence’ - Financial Times
