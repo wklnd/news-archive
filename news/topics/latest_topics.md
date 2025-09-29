@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-29 15:06_
+_Updated: 2025-09-29 15:46_
 
 ## Top Stories
 
-- Influencern Pontus Rasmusson åtalas för grovt bokföringsbrott – misstänks ha gömt över två miljoner - SVT Nyheter
+- Influencern Pontus Rasmusson åtalas för grovt bokföringsbrott – misstänks ha dolt miljonbelopp - SVT Nyheter
 - Kristersson om drönarna: Allt talar för Ryssland - Västerbottens-Kuriren
+- Svenska Ebba Torstensson, 11, dog i olyckan i Lofoten - GP
 - Åtal: Flickor sexuellt utnyttjade via Snapchat - SVT Nyheter
+- Sverige skickar poliser till EU-toppmötet i Köpenhamn - polisen.se
 - SKF:s klassiska fabriksområde görs om – kan bli 900 lägenheter - GP
-- Ålsmuggling för miljarder – 26 gripna - Sydsvenskan
-- Teknikhaveri på P4 Väst – tyst i sändning - GP
 - Regioner går samman om hårdast utsatta järnvägen inför mångmiljardbeslutet - DN
-- Misstänkt farligt föremål: ”Bedöms som skarpt” - GP
-- Poliser döms till fängelse för narkotikabrott - Expressen
 - Poliser får fängelse för grovt narkotikabrott - Västerbottens-Kuriren
-- Ingmar Nevéus: Putin accepterar inte att hans sida förlorade i Moldavien - DN
-- Pressad Netanyahu på besök: Har Trump en plan? - Västerbottens-Kuriren
-- Cirkusartisten Marina Barceló, 27, död i trapetsolycka i Tyskland - Expressen
-- ”Extrem risk” för regn i Spanien – varning utfärdad - GP
+- Teknikstrul i radio för P4 Väst - Expressen
+- 28 september 21.28, Skottlossning, Västerås - polisen.se
+- Pressad Netanyahu på besök: Har Trump en plan? - DN
+- Putin förlorade valet i Moldavien – nu är det upp till bevis för EU - Altinget.se
+- Akrobat föll mot döden – mitt under cirkusshow - GP
+- Gammal orkan når Spanien – högsta varningsnivån - Corren
 - Klart: Electronic Arts köps upp för 210 dollar per aktie - Dagens industri
+- Verisure-aktien ska handlas i euro: ”Anmärkningsvärt” - EFN
 - Flygbolag lägger ner – bingo för konkurrenten - Sydsvenskan
 - Stor leverantör till Arbetsförmedlingen utreds för avtalsfusk - DN
-- Kritiken mot bankerna ökar: ”För jävligt” - SvD
 - Perplexity släpper api för AI-sök - Computer Sweden
 - Från gosedjur till dockor – så tog leksakerna över modevärlden - GP
 
@@ -40,8 +40,8 @@ _Updated: 2025-09-29 15:06_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Techarenan News goes English (Partly at least) - Techarenan News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - Påven: En ny global utbildning för hopp i vår tid - Vatican News
@@ -81,18 +81,18 @@ _Updated: 2025-09-29 15:06_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
-- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
+- Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
 
 ## Health
 
@@ -143,22 +143,22 @@ _Updated: 2025-09-29 15:06_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Vill utveckla jordbruksturism måste göra grönt jordbruk - Vietnam.vn
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Här är världens största jordbruk - ATL
 - Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
+- Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- USA tvingar ut EU på banan - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Maskinförare | Jobb | ATL - Land Lantbruk
