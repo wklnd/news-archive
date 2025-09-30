@@ -1,64 +1,63 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-30 10:49_
+_Updated: 2025-09-30 11:42_
 
 ## Top Stories
 
-- Trafikverkets nya plan: Järnvägen reparerad färdigt om 25 år - DN
-- Här får de thailändska bärplockarna äntligen vila - DN
+- Imam tipsade om att slå fruar – får sluta - GP
+- Trafikverket har redovisat sitt förslag till nationell plan för transportinfrastrukturen - Regeringen.se
+- Experten: Det talar för att Hamas säger ja till Trumps fredsplan - DN
+- DN Direkt - Västlänken förlänger trängselskatten med sju år - DN
 - S vill miljardsatsa på jobb till unga - GP
-- Netanyahu: Stannar i Gaza – ingen palestinsk stat - Västerbottens-Kuriren
-- Oron inifrån: Då kan Göteborgs hamn tvingas stänga - GP
-- Kristersson: Kunde lika gärna ha hänt här - UNT
+- Handlingskraft eller ett fortsatt förfall – ni väljer - Världsnaturfonden WWF
+- Lättare för personer med adhd att få körkort - GP
+- Här får de thailändska bärplockarna äntligen vila - DN
 - 30 september 07.47, Sammanfattning natt, Östergötlands län - Polisen.se
-- Barn under tio år hittad död i Håbo - SVT Nyheter
-- Skott mot bostad – minderårig omhändertagen - Västerbottens-Kuriren
-- Debatt: Obegripligt visionslös reformbudget - NWT
+- DN Direkt - Yrkar på elva års fängelse för Diddy - DN
+- EU:s klimattjänst Copernicus: Trippel attack mot haven - SVT Nyheter
 - Karl Dalén: Trump verkar gå ”all in” för Nobels fredspris - DN
-- DN Direkt - Två äldre hittade döda på Värmdö - DN
+- 100 skadade i skolkollaps – många fast i rasmassor - GP
 - Putin förlorade valet i Moldavien – nu är det upp till bevis för EU - Altinget.se
-- Ryskt fartyg fast utanför Sverige - Expressen
 - Flygbolag i konkurs – slår mot Ving och Apollo - Aftonbladet
-- Vance: Demokraterna gör att nedstängning väntar - SvD
 - SBAB: Avgiftshöjningar i bostadsrättsföreningar - Fastighetstidningen
 - Nu möts finansmannen Lage Jonason och Mangold i rätten - Affärsvärlden
+- Uppgifter: Svenska kullager hittade i ryska drönare - Omni
 - Logitech MX Master 4 är här – första musen med haptisk feedback - Teknikveckan
 - Välj stil, funktion och hållbarhet på samma gång – Huawei Watch GT 6-serien lyfter din look i alla situationer - TechRadar
 
 ## World News
 
-- DAR GLOBAL PLANS TO LAUNCH TRUMP PLAZA JEDDAH IN SECOND COLLABORATION WITH THE TRUMP ORGANIZATION, FOLLOWING THE SUCCESS OF TRUMP TOWER JEDDAH - Placera.se
 - ”Risk att de spanska krigsfartygen ingriper” - SvD
+- DAR GLOBAL PLANS TO LAUNCH TRUMP PLAZA JEDDAH IN SECOND COLLABORATION WITH THE TRUMP ORGANIZATION, FOLLOWING THE SUCCESS OF TRUMP TOWER JEDDAH - Placera.se
 - USA: Nya F-47 nationens sista hopp mot global dominans - Realtid
+- MetLife and Global Citizen Announce Major Partnership to Drive Economic Change and Foster Resilient Communities - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Patrick Ekwall aktuell med tredje deckaren – en global jakt på liv och död - NewsMachine AB
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Techarenan News goes English (Partly at least) - Techarenan News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- New Secretary General appointed - Olof Palme International Center
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Liberty Global Using Vecima Automation Solutions to Drive Network Simplification and Efficiency - Placera.se
 
 ## Technology
 
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- 290 million for digitalisation of Swedish industry - Vinnova
 - FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
@@ -70,29 +69,30 @@ _Updated: 2025-09-30 10:49_
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 
 ## Business
 
+- Fortune Minerals Announces David Massola Has Rejoined the Company as Vice President Business Development - Placera.se
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Skellefteå looks beyond Northvolt: 'We are more than one company' - Sveriges Radio
-- Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
+- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Fortune Minerals Announces David Massola Has Rejoined the Company as Vice President Business Development - Placera.se
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- DeFi Technologies Announces Closing of US$100 Million Registered Direct Offering - Placera.se
-- Datavault AI Secures $150 Million Strategic Investment from Scilex Holding Company to Build Supercomputer and Launch Independent Data Exchanges in the US - Placera.se
+- Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
+- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
 
 ## Health
 
@@ -119,26 +119,26 @@ _Updated: 2025-09-30 10:49_
 
 ## Science
 
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
