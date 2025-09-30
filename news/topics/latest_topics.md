@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-30 05:11_
+_Updated: 2025-09-30 05:47_
 
 ## Top Stories
 
 - Israel har godkänt Trumps fredsplan för Gaza – här är alla punkter - SVT Nyheter
+- 65 elever fast när skola rasade samman i Indonesien - Omni
 - Partille kommun sätter press på regeringen om Västra stambanan - Partille Tidning
 - Putins ord till Trump avslöjade - Expressen
-- Ledare: Klimatmålen skadar oss hur vi än gör - Kuriren
-- DN Direkt - Imam predikade om hur män ska slå sina fruar - DN
-- Danska soldater blixtinkallas efter drönare - GP
+- Polisen kritiseras efter hemlig avlyssning - GP
+- Orbán: Ukraina inget suveränt land - Aftonbladet
 - Misstänkt mord i Bengtsfors – två anhållna - GP
+- Norden har ett ansvar att ställa om till en cirkulär ekonomi - Altinget.se
 - Boliden brann och Northvolt föll – men vi står utan plan B - Norran
-- Så minskas matsvinnet i hemmet och i skolköken - Region Gotland
-- Regeringen presenterar nytt civilt stödpaket till Ukraina - Regeringen.se
+- Kristersson om drönarna: Allt talar för Ryssland - Västerbottens-Kuriren
 - Putin förlorade valet i Moldavien – nu är det upp till bevis för EU - Altinget.se
 - Trumps bakslag: ”Har aldrig sett nåt liknande” - Expressen
 - Svarar nu på frågan: Mördade du Maddie? - Expressen
-- Hela kvarteret ödelagt efter ryska attacken: ”Vi är alla i chock” - DN
+- Rysk ubåt riskerar explodera i Atlanten - Expressen
 - Flygbolag i konkurs – samtliga flyg ställs in - SvD
 - Nedstängning rycker närmare i USA efter samtal med Trump: ”Inte ett jota” - Omni
-- Klart: Electronic Arts köps upp för 210 dollar per aktie - Dagens industri
 - Steinbeck: Sverige säljer ut elen och naturen - Jamtlands Tidning
+- Klart: Electronic Arts köps upp för 210 dollar per aktie - Dagens industri
 - Steven Spielberg tröstade Quentin Tarantino efter 2007 års bioflopp - MovieZine
-- Shovel Knight: King of Cards - FZ.se
+- Zac Efron sprängs i bitar i nya trailern för "Battlefield 6" - MovieZine
 
 ## World News
 
 - DAR GLOBAL PLANS TO LAUNCH TRUMP PLAZA JEDDAH IN SECOND COLLABORATION WITH THE TRUMP ORGANIZATION, FOLLOWING THE SUCCESS OF TRUMP TOWER JEDDAH - Placera.se
 - ”Risk att de spanska krigsfartygen ingriper” - SvD
 - USA: Nya F-47 nationens sista hopp mot global dominans - Realtid
-- MetLife and Global Citizen Announce Major Partnership to Drive Economic Change and Foster Resilient Communities - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Patrick Ekwall aktuell med tredje deckaren – en global jakt på liv och död - NewsMachine AB
-- Svenska bolagen kan slå till: ”Vore nästan tjänstefel” - EFN
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Techarenan News goes English (Partly at least) - Techarenan News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Liberty Global Using Vecima Automation Solutions to Drive Network Simplification and Efficiency - Placera.se
+- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
 
 ## Technology
 
@@ -76,23 +76,23 @@ _Updated: 2025-09-30 05:11_
 - Fortune Minerals Announces David Massola Has Rejoined the Company as Vice President Business Development - Placera.se
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
-- Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
+- DeFi Technologies Announces Closing of US$100 Million Registered Direct Offering - Placera.se
 
 ## Health
 
@@ -108,57 +108,57 @@ _Updated: 2025-09-30 05:11_
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - »Medicinsk barnmisshandel« saknar vetenskaplig grund - Läkartidningen
-- Dags att utjämna ojämlik hälsa - Läkartidningen
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nobelpriset tilldelas forskare bakom upptäckt av mikroRNA - Läkartidningen
 - Tummen ner för omtalat ALS-läkemedel - Läkartidningen
+- Tre faktorer för en god psykisk hälsa - Läkartidningen
+- Vårdmottagning förbjuds att göra reklam för cannabis på Tiktok - Läkartidningen
+- Sepsislarm, ställa rätt diagnos och följa upp centralt i vårdförlopp - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Fysisk aktivitet lika bra som KBT eller läkemedel vid depression - Läkartidningen
 
 ## Science
 
-- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- De gick från reko till eko - ST-tidningen
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
-- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 2021-04-20 Webbinarium: Social hållbarhet - Mynewsdesk
