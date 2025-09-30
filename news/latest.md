@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-30 21:48_
+_Updated: 2025-09-30 22:48_
 
-- Trump defends troops in US cities after Hegseth decries military DEI efforts - The Guardian
+- No more ‘woke’ in the US military: key takeaways from Pete Hegseth’s speech - The Guardian
 - Trump warns Democrats of 'irreversible' actions in government shutdown - Reuters
 - Trump announces ‘TrumpRx’ site for discounted drugs and deal with Pfizer to lower prices - CNN
-- Trump peace plan 'ignores interests of Palestinian people', Hamas official tells BBC - BBC
-- Michigan church shooting investigation: FBI searching for motive after Thomas Jacob Sanford's attack - Fox News
-- At least one killed after strong 6.9 magnitude earthquake strikes central Philippines - CNN
-- Federal judge criticizes Trump over free speech in ruling for student protesters - NBC News
-- President Trump Deploys Federal Resources to Crush Violent Radical Left Terrorism in Portland - The White House (.gov)
-- A Mexican man is the second victim to die after shooting at Dallas ICE facility - AP News
+- Qatar, Egypt and Turkey urge Hamas to accept Trump's Gaza peace plan - Axios
+- Judge finds Trump administration unconstitutionally targeted pro-Palestinian students in searing rebuke - CBS News
+- HUD website blames looming shutdown on ‘Radical Left’ - Federal News Network
+- Michigan shooting victims: Navy veteran, beloved grandfather among those killed - ABC News - Breaking News, Latest News and Videos
+- Trump says ‘it’s anarchy’ in Portland. Here’s why locals say that’s far from reality - CNN
 - Florida officially hands over land for Trump library - Politico
-- Taliban internet shutdown paralyzes Afghanistan - The Washington Post
-- Starmer Describes ‘Fight for the Soul’ of U.K. as Populist Right Rises - The New York Times
+- 2nd detainee dies after Dallas ICE facility shooting - NBC News
 - South Africa's ambassador to France, found dead in Paris, left suicide note - Reuters
 - Nearing Gaza, ‘peace’ flotilla rocks Italy, throwing government into political storm - The Times of Israel
-- The EV tax credit is dead — here’s what happens next - The Verge
-- S&P 500 rises to close out winning month, shakes off government shutdown concerns: Live updates - CNBC
-- Spotify Announces Leadership Evolution: Daniel Ek to Become Executive Chairman, Alex Norström and Gustav Söderström to Become Co-CEOs in January 2026 - Spotify
+- Taliban internet shutdown paralyzes Afghanistan - The Washington Post
+- Strong earthquake in central Philippines damages building and sends people out of their homes - AP News
 - Frank founder Charlie Javice sentenced for JPMorgan fraud - BBC
+- Dow closes at record high, S&P 500 logs winning month, as investors shake off government shutdown concerns - CNBC
+- Spotify's Daniel Ek announces that he'll step aside as CEO - NPR
+- Pasta meals from Trader Joe's and Walmart may be linked to a deadly listeria outbreak - NPR
 - Amazon unveils the next generation of AI-powered Echo devices, purpose-built for Alexa+ - about Amazon
-- Microsoft’s Windows 11 2025 update is available now - The Verge
+- Amazon debuts its latest Fire TVs, including a new Omni QLED model - The Verge
