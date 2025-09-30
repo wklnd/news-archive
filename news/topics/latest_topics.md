@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-30 12:43_
+_Updated: 2025-09-30 13:38_
 
 ## Top Stories
 
-- Trafikverket har redovisat sitt förslag till nationell plan för transportinfrastrukturen - Regeringen.se
-- Experten: Det talar för att Hamas säger ja till Trumps fredsplan - DN
+- Trafikverkets nya plan: Järnvägen reparerad färdigt om 25 år - DN
+- USA:s fredsplan om Gaza får brett stöd från Europa och arabvärlden - SVT Nyheter
 - Tittande på ip-tv kan straffas med böter - SVT Nyheter
-- Predikade om hur män ska slå sina fruar – får sluta - SVT Nyheter
+- Kvinnojourerna: Samhället brister kring personer med skyddad identitet - SVT Nyheter
 - Trafikverket kan höja avgiften för trängselskatten - GP
-- V-ledaren ökar trycket på Andersson – kräver ministerposter - Dagens industri
-- Lättare för personer med adhd att få körkort - GP
-- Här får de thailändska bärplockarna äntligen vila - DN
-- Kris för Östersjöfisken – inte ens totalstopp räcker - Omni
-- Sverige stödjer Danmark med antidrönarförmåga - Försvarsmakten
 - Orbán: ”Ukraina är inte ett suveränt land” - DN
+- Lättare för personer med adhd att få körkort - GP
+- Imam i Skåne predikade om hur män ska slå sina fruar - SVT Nyheter
+- V vill ha klart besked från Hatt - Aftonbladet
+- Kris för Östersjöfisken – inte ens totalstopp räcker - Omni
+- USA och Iran ingår avtal – iranier skickas hem - Västerbottens-Kuriren
 - EU:s klimattjänst Copernicus: Trippel attack mot haven - SVT Nyheter
 - Karl Dalén: Trump verkar gå ”all in” för Nobels fredspris - DN
-- Hamidi-Nia: Osannolikt att Hamas accepterar – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Flygbolag i konkurs – slår mot Ving och Apollo - Aftonbladet
+- Putin förlorade valet i Moldavien – nu är det upp till bevis för EU - Altinget.se
+- Tusentals kunder till Ving och Apollo påverkas av Braathens konkurs - DN
 - Novo Nordisk ger anställda ultimatum – lägre lön eller sluta - Sydsvenskan
-- Nu möts finansmannen Lage Jonason och Mangold i rätten - Affärsvärlden
-- Uppgifter: Svenska kullager hittade i ryska drönare - Omni
-- Logitech MX Master 4 är här – första musen med haptisk feedback - Teknikveckan
+- Sveriges bostadsrättsföreningar pressas av högre räntor och ökade kostnader – Märks i avgifterna - svenskbyggtidning -
+- Facket röstat för strejk på Lufthansa - Dagens industri
+- Opera släpper Neon – webbläsare med fokus på AI - Computer Sweden
 - Välj stil, funktion och hållbarhet på samma gång – Huawei Watch GT 6-serien lyfter din look i alla situationer - TechRadar
 
 ## World News
@@ -40,13 +40,13 @@ _Updated: 2025-09-30 12:43_
 - Patrick Ekwall aktuell med tredje deckaren – en global jakt på liv och död - NewsMachine AB
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Techarenan News goes English (Partly at least) - Techarenan News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
-- Liberty Global Using Vecima Automation Solutions to Drive Network Simplification and Efficiency - Placera.se
+- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
 
 ## Technology
 
@@ -65,18 +65,17 @@ _Updated: 2025-09-30 12:43_
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
 
 ## Business
 
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
@@ -88,8 +87,9 @@ _Updated: 2025-09-30 12:43_
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Fortune Minerals Announces David Massola Has Rejoined the Company as Vice President Business Development - Placera.se
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - DeFi Technologies Announces Closing of US$100 Million Registered Direct Offering - Placera.se
 - Datavault AI Secures $150 Million Strategic Investment from Scilex Holding Company to Build Supercomputer and Launch Independent Data Exchanges in the US - Placera.se
@@ -101,21 +101,21 @@ _Updated: 2025-09-30 12:43_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Giftinformationscentralen varnar för skador efter e-cigaretter - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Giftinformationscentralen varnar för skador efter e-cigaretter - Läkartidningen
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - »Medicinsk barnmisshandel« saknar vetenskaplig grund - Läkartidningen
-- Dags att utjämna ojämlik hälsa - Läkartidningen
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nobelpriset tilldelas forskare bakom upptäckt av mikroRNA - Läkartidningen
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Tre faktorer för en god psykisk hälsa - Läkartidningen
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Misoprostol off label avgörande för kvinnors hälsa - Läkartidningen
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-09-30 12:43_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Här är världens största jordbruk - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Här är världens största jordbruk - ATL
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
-- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 2021-04-20 Webbinarium: Social hållbarhet - Mynewsdesk
