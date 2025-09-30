@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-30 17:40_
+_Updated: 2025-09-30 18:46_
 
 ## Top Stories
 
-- Stor besvikelse efter Trafikverkets besked: ”Ses inte längre som lönsamma” - NWT
-- Experten: Det talar för att Hamas säger ja till Trumps fredsplan - dn.se
-- Sverige vill sälja Jas Gripen till Ukraina – efter kriget - dn.se
-- Dansk hovrätt fastställde första dom mot svensk ”barnsoldat” - dn.se
-- Förlängd trängselskatt kan betala Västlänken - Aftonbladet
-- Predikade om hur män ska slå sina fruar – får sluta - SVT Nyheter
-- Här ska Sveriges farligaste kvinnor låsas in - Sydsvenskan
-- S vill miljardsatsa på jobb till unga - Aftonbladet
+- M-politiker om strukna järnvägen: ”Jag är besviken och rent ut sagt förbannad” - DN
+- En person död efter frontalkrock på E45 - SVT Nyheter
+- Qatar: Möte med Hamas om Trumps fredsplan - Västerbottens-Kuriren
+- USA skickar antidrönarutrustning till Danmark - GP
+- Hon seglar till Gaza: ”Vi gör det stater är skyldiga att göra” - ETC.se
+- JUST NU: Lavrov fullständigt rasande – efter ryska nederlaget - Marcus Oscarsson
+- Här ska Sveriges farligaste kvinnor låsas in - Aftonbladet
 - Sakine Madon: Så farligt är det inte att kolla på porr - Fokus - Sveriges nyhetsmagasin
-- JUST NU: Frontalkrock mellan lastbil och personbil – en person förd till sjukhus med ambulanshelikopter - provinstidningen.se
-- Korruptionsutpekad sydafrikansk ambassadör hittad död i Paris - dn.se
-- Orbán: ”Ukraina är inte ett suveränt land” - dn.se
+- S vill satsa 2,5 miljarder på jobb för unga - Expressen
+- Vill stoppa slarvet efter läckan: ”Ett historiskt stort angrepp” - DN
+- DN Direkt - Hegseth och Trump håller blixtinkallat militärmöte - DN
+- Sydafrikas ambassadör i Frankrike hittad död - GP
 - USA och Iran ingår avtal – iranier skickas hem - Västerbottens-Kuriren
 - Måns, 30, tog medicin mot håravfall – tappade sexlusten - Expressen
-- Gabriel Zetterström: Stod personen Daniel Ek i vägen för Spotifys världsherravälde? - dn.se
+- Gabriel Zetterström: Stod personen Daniel Ek i vägen för Spotifys världsherravälde? - DN
 - Braathens konkurs påverkar charterresor från Norrköping och Visby - SVT Nyheter
-- Granskning: Kullager från SKF hittade i ryska attackdrönare - Nyteknik
-- Børsen: Novo Nordisk erbjuder degradering som alternativ till uppsägning - Placera.se
+- Skräparbete tar över – dödar fokus på jobbet - SvD
+- Europabörserna stängde upp • Lufthansa föll efter ja till strejk - Dagens industri
 - Logitech MX Master 4 är här – första musen med haptisk feedback - Teknikveckan
-- Välj stil, funktion och hållbarhet på samma gång – Huawei Watch GT 6-serien lyfter din look i alla situationer - TechRadar
+- Så blåser bedragarna dig online – med enkla tangentkombinationen - TV4 Nyheterna
 
 ## World News
 
@@ -33,43 +33,43 @@ _Updated: 2025-09-30 17:40_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Patrick Ekwall aktuell med tredje deckaren – en global jakt på liv och död - NewsMachine AB
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Techarenan News goes English (Partly at least) - Techarenan News
+- New Secretary General appointed - Olof Palme International Center
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
-- 🌏 Global ojämlikhet minskar faktiskt - Warp News
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Liberty Global Using Vecima Automation Solutions to Drive Network Simplification and Efficiency - Placera.se
+- 🌏 Global ojämlikhet minskar faktiskt - Warp News
 
 ## Technology
 
-- The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
+- Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
-- Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
+- Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
+- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- 290 million for digitalisation of Swedish industry - Vinnova
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
+- 290 million for digitalisation of Swedish industry - Vinnova
+- Deepseek är det nya Linux - Computer Sweden
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
 
 ## Business
 
@@ -121,24 +121,24 @@ _Updated: 2025-09-30 17:40_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
 
 ## Jordbruk
 
@@ -150,7 +150,6 @@ _Updated: 2025-09-30 17:40_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
@@ -159,6 +158,7 @@ _Updated: 2025-09-30 17:40_
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Lediga jobb - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - 2021-04-20 Webbinarium: Social hållbarhet - Mynewsdesk
