@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-30 11:42_
+_Updated: 2025-09-30 12:43_
 
 ## Top Stories
 
-- Imam tipsade om att slå fruar – får sluta - GP
 - Trafikverket har redovisat sitt förslag till nationell plan för transportinfrastrukturen - Regeringen.se
 - Experten: Det talar för att Hamas säger ja till Trumps fredsplan - DN
-- DN Direkt - Västlänken förlänger trängselskatten med sju år - DN
-- S vill miljardsatsa på jobb till unga - GP
-- Handlingskraft eller ett fortsatt förfall – ni väljer - Världsnaturfonden WWF
+- Tittande på ip-tv kan straffas med böter - SVT Nyheter
+- Predikade om hur män ska slå sina fruar – får sluta - SVT Nyheter
+- Trafikverket kan höja avgiften för trängselskatten - GP
+- V-ledaren ökar trycket på Andersson – kräver ministerposter - Dagens industri
 - Lättare för personer med adhd att få körkort - GP
 - Här får de thailändska bärplockarna äntligen vila - DN
-- 30 september 07.47, Sammanfattning natt, Östergötlands län - Polisen.se
-- DN Direkt - Yrkar på elva års fängelse för Diddy - DN
+- Kris för Östersjöfisken – inte ens totalstopp räcker - Omni
+- Sverige stödjer Danmark med antidrönarförmåga - Försvarsmakten
+- Orbán: ”Ukraina är inte ett suveränt land” - DN
 - EU:s klimattjänst Copernicus: Trippel attack mot haven - SVT Nyheter
 - Karl Dalén: Trump verkar gå ”all in” för Nobels fredspris - DN
-- 100 skadade i skolkollaps – många fast i rasmassor - GP
-- Putin förlorade valet i Moldavien – nu är det upp till bevis för EU - Altinget.se
+- Hamidi-Nia: Osannolikt att Hamas accepterar – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Flygbolag i konkurs – slår mot Ving och Apollo - Aftonbladet
-- SBAB: Avgiftshöjningar i bostadsrättsföreningar - Fastighetstidningen
+- Novo Nordisk ger anställda ultimatum – lägre lön eller sluta - Sydsvenskan
 - Nu möts finansmannen Lage Jonason och Mangold i rätten - Affärsvärlden
 - Uppgifter: Svenska kullager hittade i ryska drönare - Omni
 - Logitech MX Master 4 är här – första musen med haptisk feedback - Teknikveckan
@@ -35,8 +35,8 @@ _Updated: 2025-09-30 11:42_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- News of the Worlds reportrar kan få nya jobb - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Patrick Ekwall aktuell med tredje deckaren – en global jakt på liv och död - NewsMachine AB
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
@@ -73,26 +73,26 @@ _Updated: 2025-09-30 11:42_
 
 ## Business
 
-- Fortune Minerals Announces David Massola Has Rejoined the Company as Vice President Business Development - Placera.se
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
+- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Skellefteå looks beyond Northvolt: 'We are more than one company' - Sveriges Radio
 - Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Fortune Minerals Announces David Massola Has Rejoined the Company as Vice President Business Development - Placera.se
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- DeFi Technologies Announces Closing of US$100 Million Registered Direct Offering - Placera.se
+- Datavault AI Secures $150 Million Strategic Investment from Scilex Holding Company to Build Supercomputer and Launch Independent Data Exchanges in the US - Placera.se
 
 ## Health
 
@@ -101,44 +101,44 @@ _Updated: 2025-09-30 11:42_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Giftinformationscentralen varnar för skador efter e-cigaretter - Läkartidningen
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - »Medicinsk barnmisshandel« saknar vetenskaplig grund - Läkartidningen
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Dags att utjämna ojämlik hälsa - Läkartidningen
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Nobelpriset tilldelas forskare bakom upptäckt av mikroRNA - Läkartidningen
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Tre faktorer för en god psykisk hälsa - Läkartidningen
-- Misoprostol off label avgörande för kvinnors hälsa - Läkartidningen
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
 ## Science
 
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
+- Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
