@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-30 18:46_
+_Updated: 2025-09-30 19:40_
 
 ## Top Stories
 
-- M-politiker om strukna järnvägen: ”Jag är besviken och rent ut sagt förbannad” - DN
+- DN Direkt - Trump på blixtinkallat militärmöte: Vi är under invasion inifrån - DN
+- Stor besvikelse efter Trafikverkets besked: ”Ses inte längre som lönsamma” - NWT
 - En person död efter frontalkrock på E45 - SVT Nyheter
-- Qatar: Möte med Hamas om Trumps fredsplan - Västerbottens-Kuriren
+- USA:s fredsplan om Gaza får brett stöd från Europa och arabvärlden - SVT Nyheter
 - USA skickar antidrönarutrustning till Danmark - GP
-- Hon seglar till Gaza: ”Vi gör det stater är skyldiga att göra” - ETC.se
-- JUST NU: Lavrov fullständigt rasande – efter ryska nederlaget - Marcus Oscarsson
+- SD kräver slöjförbud för EU-anställda - Aftonbladet
+- Lättare för personer med adhd att få körkort - Aftonbladet
+- ”Hemmabyggda” Loke nya svenska vapnet mot drönare - DN
 - Här ska Sveriges farligaste kvinnor låsas in - Aftonbladet
 - Sakine Madon: Så farligt är det inte att kolla på porr - Fokus - Sveriges nyhetsmagasin
-- S vill satsa 2,5 miljarder på jobb för unga - Expressen
-- Vill stoppa slarvet efter läckan: ”Ett historiskt stort angrepp” - DN
-- DN Direkt - Hegseth och Trump håller blixtinkallat militärmöte - DN
 - Sydafrikas ambassadör i Frankrike hittad död - GP
-- USA och Iran ingår avtal – iranier skickas hem - Västerbottens-Kuriren
 - Måns, 30, tog medicin mot håravfall – tappade sexlusten - Expressen
+- Insamlingsmiljoner går till reklam - SVT Nyheter
+- 96 km stort hål hotar EU:s ”drönarmur” - Expressen
 - Gabriel Zetterström: Stod personen Daniel Ek i vägen för Spotifys världsherravälde? - DN
 - Braathens konkurs påverkar charterresor från Norrköping och Visby - SVT Nyheter
 - Skräparbete tar över – dödar fokus på jobbet - SvD
@@ -39,8 +39,8 @@ _Updated: 2025-09-30 18:46_
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Techarenan News goes English (Partly at least) - Techarenan News
-- New Secretary General appointed - Olof Palme International Center
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- New Secretary General appointed - Olof Palme International Center
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
@@ -106,39 +106,39 @@ _Updated: 2025-09-30 18:46_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Giftinformationscentralen varnar för skador efter e-cigaretter - Läkartidningen
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - »Medicinsk barnmisshandel« saknar vetenskaplig grund - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Nobelpriset tilldelas forskare bakom upptäckt av mikroRNA - Läkartidningen
-- Misoprostol off label avgörande för kvinnors hälsa - Läkartidningen
 
 ## Science
 
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
+- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
-- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
