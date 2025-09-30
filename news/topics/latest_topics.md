@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-30 04:07_
+_Updated: 2025-09-30 05:11_
 
 ## Top Stories
 
 - Israel har godkänt Trumps fredsplan för Gaza – här är alla punkter - SVT Nyheter
+- Partille kommun sätter press på regeringen om Västra stambanan - Partille Tidning
 - Putins ord till Trump avslöjade - Expressen
 - Ledare: Klimatmålen skadar oss hur vi än gör - Kuriren
-- Partille kommun sätter press på regeringen om Västra stambanan - Partille Tidning
 - DN Direkt - Imam predikade om hur män ska slå sina fruar - DN
-- Ryska soldater skjuter sig – vill slippa kriga - SvD
+- Danska soldater blixtinkallas efter drönare - GP
 - Misstänkt mord i Bengtsfors – två anhållna - GP
-- Svenska soldater ska hjälpa Danmark stoppa drönare - Västerbottens-Kuriren
 - Boliden brann och Northvolt föll – men vi står utan plan B - Norran
 - Så minskas matsvinnet i hemmet och i skolköken - Region Gotland
+- Regeringen presenterar nytt civilt stödpaket till Ukraina - Regeringen.se
 - Putin förlorade valet i Moldavien – nu är det upp till bevis för EU - Altinget.se
+- Trumps bakslag: ”Har aldrig sett nåt liknande” - Expressen
 - Svarar nu på frågan: Mördade du Maddie? - Expressen
 - Hela kvarteret ödelagt efter ryska attacken: ”Vi är alla i chock” - DN
-- V-kvinnan som bråkade med Teodorescu slutar - Expressen
-- Braathens Airbus-verksamhet i konkurs - SVT Nyheter
-- Jaguar Land Rover återupptar en del av produktionen inom de närmaste dagarna - Placera.se
-- Klart: Electronic Arts köps upp för 210 dollar per aktie - Dagens industri
+- Flygbolag i konkurs – samtliga flyg ställs in - SvD
 - Nedstängning rycker närmare i USA efter samtal med Trump: ”Inte ett jota” - Omni
+- Klart: Electronic Arts köps upp för 210 dollar per aktie - Dagens industri
+- Steinbeck: Sverige säljer ut elen och naturen - Jamtlands Tidning
+- Steven Spielberg tröstade Quentin Tarantino efter 2007 års bioflopp - MovieZine
 - Shovel Knight: King of Cards - FZ.se
-- Zac Efron sprängs i bitar i nya trailern för "Battlefield 6" - MovieZine
 
 ## World News
 
@@ -41,58 +41,58 @@ _Updated: 2025-09-30 04:07_
 - Svenska bolagen kan slå till: ”Vore nästan tjänstefel” - EFN
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Techarenan News goes English (Partly at least) - Techarenan News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Liberty Global Using Vecima Automation Solutions to Drive Network Simplification and Efficiency - Placera.se
 
 ## Technology
 
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - 290 million for digitalisation of Swedish industry - Vinnova
 - FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
+- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
-- New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
 
 ## Business
 
 - Fortune Minerals Announces David Massola Has Rejoined the Company as Vice President Business Development - Placera.se
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
-- DeFi Technologies Announces Closing of US$100 Million Registered Direct Offering - Placera.se
+- Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
+- Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
 
 ## Health
 
@@ -129,36 +129,36 @@ _Updated: 2025-09-30 04:07_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Tidningen Jordbruk och miljö och Tyska lantbruksförbundet undertecknade ett samförståndsavtal om samarbete. - Vietnam.vn
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- De gick från reko till eko - ST-tidningen
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- 2021-04-20 Webbinarium: Social hållbarhet - Mynewsdesk
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
