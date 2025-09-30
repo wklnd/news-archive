@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-30 07:41_
+_Updated: 2025-09-30 08:50_
 
 ## Top Stories
 
-- Flygbolag i konkurs – alla flighter ställs in - EFN
-- Israel har godkänt Trumps fredsplan för Gaza – här är alla punkter - SVT Nyheter
-- Ledare: Våra klimatmål gör oss automatiskt till förlorare - NT
+- 29 september 21.50, Mord/dråp, försök, Huddinge - polisen.se
+- Danska soldater blixtinkallas efter drönare - GP
 - Här får de thailändska bärplockarna äntligen vila - DN
-- Oron inifrån: Då kan Göteborgs hamn tvingas stänga - GP
-- Kristersson: Kunde lika gärna ha hänt här - UNT
-- Så vill Trafikverket spendera rekordsumman - GP
-- Teknikstrul i radio för P4 Väst - Expressen
-- Debatt: Obegripligt visionslös reformbudget - NWT
-- Boliden brann och Northvolt föll – men vi står utan plan B - Norran
-- DN Direkt - Två äldre hittade döda på Värmdö - DN
+- Trump och Netanyahu: Överens om fredsplan - UNT
+- Trots sanktioner: SKF-produkter i rysk krigsindustri - Metal Supply
+- Tusen miljarder till infrastruktur – så ska de fördelas - SVT Nyheter
+- Barn under tio år hittad död i Håbo - SVT Nyheter
+- 30 september 07.47, Sammanfattning natt, Östergötlands län - polisen.se
+- Nästan 8 av 10 socialchefer: Svårt att ge stöd enligt lagen - Fackförbundet Vision
+- Norden har ett ansvar att ställa om till en cirkulär ekonomi - Altinget.se
+- Karl Dalén: Trump verkar gå ”all in” för Nobels fredspris - DN
+- DN Direkt - Youtube ska betala 24,5 miljoner dollar i förlikning till Trump - DN
 - Putin förlorade valet i Moldavien – nu är det upp till bevis för EU - Altinget.se
-- Putins ord till Trump avslöjade - Expressen
 - Orbán: Ukraina inget suveränt land - Aftonbladet
+- Flygbolag i konkurs – samtliga flyg ställs in - Dagens industri
+- Vance: Demokraterna gör att nedstängning väntar - SvD
+- Skandia sänker rörlig bolåneränta - GP
 - Kraftiga avgiftshöjningar i bostadsrättsföreningar mellan 2022 och 2024 - Via TT
-- Rapport: Så mycket skulle hyrorna i Stockholm höjas med marknadshyra - DN
-- Klart: Electronic Arts köps upp för 210 dollar per aktie - Dagens industri
-- SKF:s kullager säljs till Ryssland: ”måste vakna” - SvD
 - LG C5 vs LG B5 – här är den prisvärda LG OLED-TV:n du bör köpa - TechRadar
 - Steven Spielberg tröstade Quentin Tarantino efter 2007 års bioflopp - MovieZine
 
@@ -35,15 +35,15 @@ _Updated: 2025-09-30 07:41_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Patrick Ekwall aktuell med tredje deckaren – en global jakt på liv och död - NewsMachine AB
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Techarenan News goes English (Partly at least) - Techarenan News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - New Secretary General appointed - Olof Palme International Center
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Liberty Global Using Vecima Automation Solutions to Drive Network Simplification and Efficiency - Placera.se
@@ -51,6 +51,7 @@ _Updated: 2025-09-30 07:41_
 ## Technology
 
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
@@ -69,7 +70,6 @@ _Updated: 2025-09-30 07:41_
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
-- New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
 
 ## Business
 
@@ -108,13 +108,13 @@ _Updated: 2025-09-30 07:41_
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - »Medicinsk barnmisshandel« saknar vetenskaplig grund - Läkartidningen
-- Transplantation av livmoder – en ny fertilitetsbehandling - Läkartidningen
-- Dags att utjämna ojämlik hälsa - Läkartidningen
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nobelpriset tilldelas forskare bakom upptäckt av mikroRNA - Läkartidningen
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- Tummen ner för omtalat ALS-läkemedel - Läkartidningen
+- Tre faktorer för en god psykisk hälsa - Läkartidningen
+- Vårdmottagning förbjuds att göra reklam för cannabis på Tiktok - Läkartidningen
+- Sepsislarm, ställa rätt diagnos och följa upp centralt i vårdförlopp - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
 ## Science
@@ -122,23 +122,23 @@ _Updated: 2025-09-30 07:41_
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Studie om mikroplast fälld för fusk - Stockholms universitet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
