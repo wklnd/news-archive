@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-01 00:48_
+_Updated: 2025-10-01 01:48_
 
-- Trump and Hegseth's plan for a MAGA military reset, told in 11 quotes - Axios
-- Trump warns Democrats of 'irreversible' actions in government shutdown - Reuters
+- Government Shutdown 2025: What you need to know about air travel, social security, and more - NBC News
+- 5 Takeaways From Trump’s Address to Generals and Admirals - The New York Times
 - Trump announces ‘TrumpRx’ site for discounted drugs and deal with Pfizer to lower prices - CNN
-- Trump previews $500 million deal with Harvard on trade schools - CNN
-- Trump administration illegally targeted pro-Palestinian protesters, judge rules - The Washington Post
-- Trump peace plan 'ignores interests of Palestinian people', Hamas official tells BBC - BBC
+- Trump says $500m deal reached with Harvard to settle dispute - The Guardian
+- Deadly 6.9 magnitude earthquake strikes central Philippines - CNN
+- Government shutdown live updates as Senate set to vote on funding bills before deadline - CBS News
+- Federal judge criticizes Trump over free speech in ruling for student protesters - NBC News
 - Family, friends of Grand Blanc church attack victims launch online fundraisers - The Detroit News
-- Congressional leaders continue blame game as clock ticks toward shutdown - ABC News - Breaking News, Latest News and Videos
-- The Obamacare subsidy fight is already splitting congressional Republicans - Politico
-- Louisiana governor asks for national guard deployment to New Orleans - The Guardian
+- Second victim in Dallas ICE shooting dies from injuries, LULAC says - CBS News
+- ‘Do. Not. Blink.’ Conservatives dig in for a fight as Trump broaches Obamacare talks - Politico
+- Qatar, Egypt and Turkey urge Hamas to accept Trump's Gaza peace plan - Axios
 - Taliban internet shutdown paralyzes Afghanistan - The Washington Post
 - South Africa's ambassador to France, found dead in Paris, left suicide note - Reuters
 - Nearing Gaza, ‘peace’ flotilla rocks Italy, throwing government into political storm - The Times of Israel
-- Trump trusts Blair, others don't - could he govern Gaza? - BBC
 - Frank founder Charlie Javice sentenced for JPMorgan fraud - BBC
-- Nike’s Trajectory Improves on Better-Than-Expected Sales Growth - Bloomberg.com
-- Stock Market Today: Dow Little Changed as Shutdown Deadline Nears — Live Updates - The Wall Street Journal
+- Stock futures are lower as government shutdown looms: Live updates - CNBC
+- Nike’s Trajectory Improves on Better-Than-Expected Sales - Bloomberg.com
 - Spotify's Daniel Ek announces that he'll step aside as CEO - NPR
-- Amazon unveils the next generation of AI-powered Echo devices, purpose-built for Alexa+ - about Amazon
-- Microsoft's Windows 11 2025 update starts rolling out today (but don't expect anything new) - Engadget
+- Amazon unveils new Echo devices, powered by its AI, Alexa+ - TechCrunch
+- Meta Ray-Ban Display Is Now On Sale, But Only In Select US Stores - UploadVR
