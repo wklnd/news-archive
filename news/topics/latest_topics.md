@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-09-30 16:42_
+_Updated: 2025-09-30 17:40_
 
 ## Top Stories
 
-- M-politiker om strukna järnvägen: ”Jag är besviken och rent ut sagt förbannad” - DN
-- USA:s fredsplan om Gaza får brett stöd från Europa och arabvärlden - SVT Nyheter
-- Sverige vill sälja Jas Gripen till Ukraina – efter kriget - DN
-- Nytt lagförslag: 700 000 svenskar kan få böter - Västerbottens-Kuriren
+- Stor besvikelse efter Trafikverkets besked: ”Ses inte längre som lönsamma” - NWT
+- Experten: Det talar för att Hamas säger ja till Trumps fredsplan - dn.se
+- Sverige vill sälja Jas Gripen till Ukraina – efter kriget - dn.se
+- Dansk hovrätt fastställde första dom mot svensk ”barnsoldat” - dn.se
 - Förlängd trängselskatt kan betala Västlänken - Aftonbladet
-- Orbán: ”Ukraina är inte ett suveränt land” - DN
-- Här ska Sveriges farligaste kvinnor låsas in - Aftonbladet
-- Vill stoppa slarvet efter läckan: ”Ett historiskt stort angrepp” - DN
+- Predikade om hur män ska slå sina fruar – får sluta - SVT Nyheter
+- Här ska Sveriges farligaste kvinnor låsas in - Sydsvenskan
 - S vill miljardsatsa på jobb till unga - Aftonbladet
 - Sakine Madon: Så farligt är det inte att kolla på porr - Fokus - Sveriges nyhetsmagasin
-- Korruptionsutpekad sydafrikansk ambassadör hittad död i Paris - DN
-- USA och Iran ingår avtal – iranier skickas hem - GP
-- EU:s klimattjänst Copernicus: Trippel attack mot haven - SVT Nyheter
-- Nu har EU momentum i Svartahavsregionen - SvD
-- Daniel Ek slutar som Spotify-vd - Dagens industri
+- JUST NU: Frontalkrock mellan lastbil och personbil – en person förd till sjukhus med ambulanshelikopter - provinstidningen.se
+- Korruptionsutpekad sydafrikansk ambassadör hittad död i Paris - dn.se
+- Orbán: ”Ukraina är inte ett suveränt land” - dn.se
+- USA och Iran ingår avtal – iranier skickas hem - Västerbottens-Kuriren
+- Måns, 30, tog medicin mot håravfall – tappade sexlusten - Expressen
+- Gabriel Zetterström: Stod personen Daniel Ek i vägen för Spotifys världsherravälde? - dn.se
 - Braathens konkurs påverkar charterresor från Norrköping och Visby - SVT Nyheter
 - Granskning: Kullager från SKF hittade i ryska attackdrönare - Nyteknik
 - Børsen: Novo Nordisk erbjuder degradering som alternativ till uppsägning - Placera.se
-- Opera släpper Neon – webbläsare med fokus på AI - Computer Sweden
 - Logitech MX Master 4 är här – första musen med haptisk feedback - Teknikveckan
+- Välj stil, funktion och hållbarhet på samma gång – Huawei Watch GT 6-serien lyfter din look i alla situationer - TechRadar
 
 ## World News
 
@@ -35,6 +35,7 @@ _Updated: 2025-09-30 16:42_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Patrick Ekwall aktuell med tredje deckaren – en global jakt på liv och död - NewsMachine AB
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
@@ -45,7 +46,6 @@ _Updated: 2025-09-30 16:42_
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - 🌏 Global ojämlikhet minskar faktiskt - Warp News
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Liberty Global Using Vecima Automation Solutions to Drive Network Simplification and Efficiency - Placera.se
 
 ## Technology
@@ -76,21 +76,21 @@ _Updated: 2025-09-30 16:42_
 - Better.com’s AI-Driven HELOC Underwriting Makes Approval with “Bank Statements Only” Possible for 36.2M Self-Employed or Small Business Owner Americans - Placera.se
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Fortune Minerals Announces David Massola Has Rejoined the Company as Vice President Business Development - Placera.se
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
@@ -109,36 +109,36 @@ _Updated: 2025-09-30 16:42_
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - »Medicinsk barnmisshandel« saknar vetenskaplig grund - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nobelpriset tilldelas forskare bakom upptäckt av mikroRNA - Läkartidningen
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
-- Tre faktorer för en god psykisk hälsa - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Nobelpriset tilldelas forskare bakom upptäckt av mikroRNA - Läkartidningen
+- Misoprostol off label avgörande för kvinnors hälsa - Läkartidningen
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
-- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
