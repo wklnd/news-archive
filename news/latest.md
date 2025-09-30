@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-09-30 12:49_
+_Updated: 2025-09-30 13:48_
 
 - What Trump told POLITICO about the impending government shutdown - Politico
-- What to know about the Gaza peace plan agreed to by Trump and Netanyahu - AP News
-- Military leaders voice concern over Hegseth’s new Pentagon strategy - The Washington Post
+- Hamas leaning toward accepting Trump's Gaza ceasefire plan quickly, source tells CBS News - CBS News
+- Hundreds of Top Military Officers Gather for Meeting With Trump and Hegseth - The New York Times
 - Michigan LDS chapel mass shooting: What we know about the victims - ABC News - Breaking News, Latest News and Videos
-- Firing allowed, training is not: Trump administration shares shutdown plans - Reuters
-- U.S. Deports Planeload of Iranians After Deal With Tehran, Officials Say - The New York Times
-- Iowa Superintendent Arrested by ICE Loses State License and Is Placed on Unpaid Leave - The New York Times
 - Tropical Storm Imelda: Tracking the storm's path near the Southeast coast - ABC News - Breaking News, Latest News and Videos
-- Read: Judge pauses Trump administration's VOA cuts in scathing order - Axios
 - At least 166 Oregon National Guard members have volunteered for Trump deployment - Oregon Public Broadcasting - OPB
+- Des Moines revokes education license of school superintendent arrested by Ice - The Guardian
+- Read: Judge pauses Trump administration's VOA cuts in scathing order - Axios
+- YouTube to pay $24.5 million to settle Trump account suspension suit - Reuters
+- Illinois governor says troops could be deployed to Chicago as immigration agents patrol downtown - AP News
+- School collapse in Indonesia leaves three dead, 38 missing - Al Jazeera
 - Argentina arrests 7th suspect over livestreamed femicide - DW
-- Mexican marine biologist seriously injured in shark attack off Costa Rica - CBS News
-- Iran Update, September 29, 2025 - Institute for the Study of War
-- Internet blackout hits Afghanistan as Taliban enforce morality crackdown - Politico
+- Peace Broker, Arms Supplier: China’s Dual Roles in a Deadly Conflict - The New York Times
+- Afghan women lose their 'last hope' as Taliban shuts down internet - BBC
 - Stock futures fall as U.S. government shutdown looms, but Wall Street heads for monthly gains: Live updates - CNBC
 - Charlie Javice sentenced to seven years in prison for fraudulent sale of her startup to JPMorgan - CNN
 - Trump sets 10% tariff on lumber imports, 25% on cabinets and furniture - Reuters
-- Starbucks closes at least 11 locations along Colorado’s Front Range - The Denver Post
-- Opera launches its AI browser, but you’ll have to pay to try it - The Verge
-- WhatsApp for iOS gets Live Photos support - 9to5Mac
+- Exclusive: Ford, GM launch programs to extend use of $7,500 EV lease credit - Reuters
+- OnePlus 15 teaser details tough ceramic coating that laughs at iPhone 17’s ‘scratchgate’ - 9to5Google
+- Amazon’s Echo Pop and Dot speakers are the cheapest they’ve been in months - The Verge
