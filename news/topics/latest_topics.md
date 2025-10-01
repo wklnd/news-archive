@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-01 16:44_
+_Updated: 2025-10-01 17:40_
 
 ## Top Stories
 
-- 20-tal personer vårdas för listeria – lyxkrog på Östermalm stänger - SVT Nyheter
-- Dousa kallas till utskott efter uppgifter om hemlig uppgörelse med Somalia: ”Ett haveri” - DN
-- Kristersson: Skyddar inte mot alla ryska drönare - GP
-- Region Skåne säger upp avtal med Avarn - GP
-- Landet som till och med flyktingar vill lämna - SvD
-- Martin Hansson: Världens mäktigaste befäl torterades med ett riktigt dåligt motivationstal - ETC.se
-- Linus Larsson: En försiktig dom räddar Flashbacks grundare - DN
+- 20-tal vårdas på sjukhus efter lyxmiddag – Stockholmskrog håller stängt - DN
+- Greta Thunberg: Regeringen får inte svika sitt ansvar mot oss - GP
+- Kristersson: ”Kommer inte tveka att skjuta ner drönare” - DN
+- Därför betalar Benjamin Dousa 100 miljoner till somalisk Hamaskramare - Arbetet
+- Humberto blir Amy och kommer till Sverige - Aftonbladet
+- 25-årig man allvarligt skadad efter villabrand i Nikkala - SVT Nyheter
+- Låg IQ kan ge ökad risk för alkoholberoende - DN
+- Region Skåne säger upp avtal med Avarn - Västerbottens-Kuriren
 - Ny vägbro i Knivsta – ska göra tågtrafiken snabbare - UNT
 - Nu kan trasiga strumpor slängas i soporna - GP
-- Kommission: Sänk inkomstskatten – främja AI - Aftonbladet
-- Kristersson om Thunbergs konvoj: Åk hem - Västerbottens-Kuriren
-- Röda Korset lämnar Gaza stad – personal evakueras - GP
-- Trump: Hamas har tre eller fyra dagar - Hufvudstadsbladet
+- Röda Korset lämnar Gaza stad – personal evakueras - Västerbottens-Kuriren
 - Påven: Vara för dödsstraff är inte ”pro-life” - GP
+- Skuggfartyg kopplas till drönare över Danmark - DN
+- Statsministern till Köpenhamn för internationellt toppmöte och informellt möte i Europeiska rådet - Regeringen.se
+- Svagt nedåt i New York – Nike klättrar efter rapport - Dagens industri
 - Spotify: VD-byte ändrar inte vår prognos - Morningstar Canada
-- EU planerar höja ståltullar – SSAB lyfter på börsen - Dagens industri
-- DN Direkt - Stort släpp av julens tågbiljetter - DN
-- Ikea köper fastighet för 2 miljarder för nytt varuhus i New York - Dagens Handel
-- Snapchat börjar ta betalt för lagrade bilder - Omni
+- EU varslar om ståltullar - Aftonbladet
+- Biljettsläpp: Nu kan du boka julens tågresor - Västerbottens-Kuriren
+- Snapchat tar betalt för sparade bilder - GP
 - Gemini for Home ett nytt smart hem - Ljud & Bild
 
 ## World News
 
 - Cryoport Systems Expands Global Footprint with New Global Supply Chain Center in Paris, France - Placera.se
 - ”Risk att de spanska krigsfartygen ingriper” - SvD
+- Patrick Ekwall aktuell med tredje deckaren – en global jakt på liv och död - NewsMachine AB
+- Farliga sista biten – för Thunbergs konvoj - Expressen
 - Israels ambassadör till Gretabåten: Håll er borta - Aftonbladet
 - Global Payments Completes Divestiture of Payroll Business - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - YY Group Partners with Obita to Strengthen Global Ecosystem with Stablecoin Payment Infrastructure - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Patrick Ekwall aktuell med tredje deckaren – en global jakt på liv och död - NewsMachine AB
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Techarenan News goes English (Partly at least) - Techarenan News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- New Secretary General appointed - Olof Palme International Center
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - NETMARBLE'S ULTIMATE DARK FANTASY MMORPG RAVEN2 SET FOR GLOBAL LAUNCH ON OCTOBER 22 - Placera.se
 
 ## Technology
@@ -53,46 +53,46 @@ _Updated: 2025-10-01 16:44_
 - TriNet Announces Two Appointments to its Board of Directors - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - The store strikes back as a connected, AI-powered space--Bain & Company and VusionGroup - Placera.se
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
-- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- Conduent Integrates AI Technologies to Modernize Government Payments, Combat Fraud and Improve Customer Experiences for Beneficiaries - Placera.se
+- DEBATT: ”Trumps politik kan vara bättre för Kina än för USA när det gäller AI.” - Sydsvenskan
 
 ## Business
 
 - Bakkt Completes the Sale of Loyalty Business, Accelerating Transformation into a Pure-Play Digital Asset Infrastructure Platform - Placera.se
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- Fortune Minerals Announces David Massola Has Rejoined the Company as Vice President Business Development - Placera.se
 - PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
+- Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Community Financial System, Inc. Appoints John A. Vaccaro as New Independent Director - Placera.se
 - Better.com’s AI-Driven HELOC Underwriting Makes Approval with “Bank Statements Only” Possible for 36.2M Self-Employed or Small Business Owner Americans - Placera.se
 - Metropolitan Bank Holding Corp. Names Anthony J. Fabiano Chairman of the Board of Directors - Placera.se
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-01 16:44_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Nyheter - LRF - Lantbrukarnas Riksförbund
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Maskinförare | Jobb | ATL - Land Lantbruk
