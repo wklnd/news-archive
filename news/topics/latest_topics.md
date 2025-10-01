@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-01 19:40_
+_Updated: 2025-10-01 20:48_
 
 ## Top Stories
 
-- 20-tal vårdas på sjukhus efter lyxmiddag – Stockholmskrog håller stängt - DN
-- Kristersson: Skyddar inte mot alla ryska drönare - Västerbottens-Kuriren
-- Kristersson om Thunbergs konvoj: Åk hem - Västerbottens-Kuriren
-- Man död efter olycka i Kvarntorp – bil och lastbil frontalkrockade - SVT Nyheter
-- Ny plan för framtidens infrastruktur - SvD
-- Skuggfartyg kopplas till drönare över Danmark - Hufvudstadsbladet
+- Schimpansforskaren Jane Goodall är död - SVT Nyheter
+- Thunbergs konvoj närmar sig Gaza: ”Högriskzon” - DN
+- Listeriakaos på Motalasonens restaurang – 20 vårdas på sjukhus - Corren
+- Fransk militär har bordat misstänkt ryskt fartyg - GP
+- Kristersson: Drönarhotet inget nytt för Sverige - Aftonbladet
+- Stor polisinsats i Majorna i Göteborg – larm om skadad person - SVT Nyheter
 - Stormen Amy drar in över Värmland – regn och rusk att vänta: ”Besvärligt” - NWT
-- Riksdagsledmöter applåderade grundlagsbeslut - GP
 - Låg IQ kan ge ökad risk för alkoholberoende - DN
-- DN Direkt - Granskning: Varannan pitbullägare dömd för brott - DN
-- Stort EU-möte i Köpenhamn – oro för ryskt hybridkrig - SVT Nyheter
-- Hamas-män gripna i Berlin – ska ha planerat dåd - GP
+- Tunnelbanan firade 75 år: ”Det här är alla stockholmares transportmedel” - DN
+- Riksdagsledmöter applåderade grundlagsbeslut - GP
+- Källa: Hamas vill göra ändringar i Trumps plan - Västerbottens-Kuriren
+- Hamas-män gripna i Berlin – ska ha planerat dåd - Corren
+- Röda Korset lämnar Gaza stad – personal evakueras - Västerbottens-Kuriren
 - Stoltenberg om drönarna: Akut behov av att göra mer - DN
-- Påven: Vara för dödsstraff är inte ”pro-life” - Västerbottens-Kuriren
 - Japanska börsen pressas – helgstängt i Kina - Dagens industri
+- Kinneviks anställda kör flest bilar – Volvo favoriten - Affärsvärlden
 - Spotify: VD-byte ändrar inte vår prognos - Morningstar Canada
 - EU varslar om ståltullar - Tidningen Näringslivet
-- Affärsvärlden landar i neutralt råd för Hemnet - Börsvärlden
 - Snapchat tar betalt för sparade bilder - GP
 - Xbox Game Pass chockhöjer priset med 50 procent - MovieZine
 
@@ -30,8 +30,8 @@ _Updated: 2025-10-01 19:40_
 - Cryoport Systems Expands Global Footprint with New Global Supply Chain Center in Paris, France - Placera.se
 - ”Risk att de spanska krigsfartygen ingriper” - SvD
 - Patrick Ekwall aktuell med tredje deckaren – en global jakt på liv och död - NewsMachine AB
-- Farliga sista biten – för Thunbergs konvoj - Expressen
 - Israels ambassadör till Gretabåten: Håll er borta - Aftonbladet
+- Farliga sista biten – för Thunbergs konvoj - Expressen
 - Global Payments Completes Divestiture of Payroll Business - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
@@ -44,32 +44,32 @@ _Updated: 2025-10-01 19:40_
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Techarenan News goes English (Partly at least) - Techarenan News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - NETMARBLE'S ULTIMATE DARK FANTASY MMORPG RAVEN2 SET FOR GLOBAL LAUNCH ON OCTOBER 22 - Placera.se
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
 - TriNet Announces Two Appointments to its Board of Directors - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- DEBATT: ”Trumps politik kan vara bättre för Kina än för USA när det gäller AI.” - Sydsvenskan
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- Conduent Integrates AI Technologies to Modernize Government Payments, Combat Fraud and Improve Customer Experiences for Beneficiaries - Placera.se
+- DEBATT: ”Trumps politik kan vara bättre för Kina än för USA när det gäller AI.” - Sydsvenskan
 
 ## Business
 
@@ -119,21 +119,21 @@ _Updated: 2025-10-01 19:40_
 
 ## Science
 
-- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
@@ -146,19 +146,19 @@ _Updated: 2025-10-01 19:40_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Här är världens största jordbruk - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Maskinförare | Jobb | ATL - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
