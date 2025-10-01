@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-01 07:40_
+_Updated: 2025-10-01 08:49_
 
 ## Top Stories
 
-- DN Direkt - Hegseth och Trump håller blixtinkallat militärmöte - DN
-- Därför vill alla bo i lummiga stadsdelen i Göteborg: "Centralt och grönt". - GP
-- Lyxkrogen stänger efter listeriautbrott – tre sepsisfall - Aftonbladet
+- Nikkei backar i väntan på nedstängning i USA - Aftonbladet
+- DN Direkt - Håkan Mild slutar som klubbdirektör för IFK Göteborg - DN
+- Morgonens nyheter i Stockholm - Mitt i
 - Sverige i hemlig överenskommelse med Somalia - Ekot - Sveriges Radio
 - Ledare: Liberalerna har ett Jönsson-problem - NWT
-- Fem punkter: Så kan EU ge ryska pengar till Ukraina - GP
+- Urfolksjurist och klimataktivist prisas med Right Livelihood 2025 - SVT Nyheter
 - Trafikverket satsar på Helsingborg – men dubbelspår mellan Maria och Helsingborg C skjuts upp - SVT Nyheter
+- Stor andel kamphundägare har dömts för brott - Omni
 - Analys efter Risbergska: Fler bör lämna in vapen - DN
-- Personer som tvingats lämna Ukraina får rätt till studiestöd - Regeringen.se
 - S vill satsa 2,5 miljarder på jobb för unga - Expressen
-- Snabbare EU-upprustning ska möta ryskt hot - Västerbottens-Kuriren
-- Dödstalet stiger efter skalv i Filippinerna - GP
+- Brand i bostadshus låg bakom larmet om explosioner i München - NT
 - Palestinsk ledare: Israel hittar hela tiden ursäkter - Bohusläningen
-- Anna-Lena Laurén: Din fiende vet om du bär på en mycket liten käpp - DN
-- Karl Dalén: Ett högt spel för att sätta press på Trump - DN
+- Statsministern till Köpenhamn för internationellt toppmöte och informellt möte i Europeiska rådet - Regeringen.se
+- Miljardären Soros måltavla för Trumps attacker - DN
+- Höstsmällen – dubbelt så dyr el - SvD
 - Spotify-upptäckarna: Hatten av för Daniel Ek - Dagens industri
-- Norgepris populärt – kan slå mot svenska elpriser - SvD
-- SkiStar AB Bokslutskommuniké september 2024-augusti 2025 (GlobeNewswire) - Aktiellt
+- Skistar höjer utdelningen - Aftonbladet
+- Uppgifter: Svenska AI-bolaget värderas till 16 miljarder i ny runda - Dagens industri
 - Teleskopen jagar svar – vad är det för mystiskt rymdobjekt? - NyTeknik
 - Dålig sömn kan påskynda hjärnans åldrande - Karolinska Institutet
 
@@ -40,13 +40,13 @@ _Updated: 2025-10-01 07:40_
 - Patrick Ekwall aktuell med tredje deckaren – en global jakt på liv och död - NewsMachine AB
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
 - Techarenan News goes English (Partly at least) - Techarenan News
 - New Secretary General appointed - Olof Palme International Center
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- Global Atomic Announces Closing of C$24.8 Million Private Placement - Placera.se
 
 ## Technology
 
@@ -59,17 +59,17 @@ _Updated: 2025-10-01 07:40_
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
-- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Conduent Integrates AI Technologies to Modernize Government Payments, Combat Fraud and Improve Customer Experiences for Beneficiaries - Placera.se
-- New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 
 ## Business
 
@@ -119,46 +119,46 @@ _Updated: 2025-10-01 07:40_
 
 ## Science
 
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Sherry Nakhaeizadeh - Uppsala universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
 - Här är världens största jordbruk - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Maskinförare | Jobb | ATL - Land Lantbruk
