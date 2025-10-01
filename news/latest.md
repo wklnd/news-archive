@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-02 00:48_
+_Updated: 2025-10-02 01:48_
 
-- Government shutdown live updates as White House moves to cut billions in funding - CBS News
+- Congressional Democrats embrace government shutdown, a risky move - The Washington Post
 - 'An extraordinary legacy': Tributes after chimpanzee expert Jane Goodall dies age 91 - BBC
+- Supreme Court will hear arguments over firing of Fed’s Lisa Cook — but allows her to stay on the job for now - Politico
+- Trump administration cancels nearly $8 billion in climate funding to blue states: Vought - CNBC
 - Veterans react to Hegseth’s ‘insulting’ address to generals and admirals - The Guardian
-- Activists say Israel's navy has begun intercepting a Gaza-bound aid flotilla - NPR
-- Supreme Court lets Lisa Cook remain as a Federal Reserve governor for now - AP News
-- Trump to withhold billions of dollars from Gateway tunnel and Second Ave. subway projects - Politico
-- Sen. Dick Durbin says he's 'overwhelmed' after Pope Leo defended him from abortion-related criticism - NBC News
+- Pope intervenes in US abortion debate by raising what it really means to be pro-life - ABC News - Breaking News, Latest News and Videos
 - Bermuda braces for Hurricane Imelda after a glancing blow from more distant Humberto - CBS News
-- Part of a high-rise apartment building in New York City collapses, no injuries reported - ABC News - Breaking News, Latest News and Videos
+- Partial Collapse at Bronx NYCHA Building Marks Start of Heat Season - THE CITY - NYC News
 - Health care is key for Democrats in shutdown fight. Here’s what to know. - The Washington Post
-- After Israeli strike, Trump declares US commitment to defend Qatar if it’s attacked again - The Times of Israel
-- Germany news: Oktoberfest reopens after Munich bomb scare - dw.com
-- Europe’s Emerging Plan: Give Ukraine $200 Billion in Russian Money - The Wall Street Journal
-- Macron doesn’t love the EU’s drone wall idea - politico.eu
+- Iowa district hired superintendent despite false Morgan State doctorate claim on his resume - AP News
+- Israeli naval ships intercept Gaza-bound flotilla - BBC
+- Offshore earthquake kills at least 69 in Philippines, officials say - ABC News - Breaking News, Latest News and Videos
+- Morocco arrests hundreds of protesters as rallies turn violent - Al Jazeera
+- French military board tanker that is suspected of ties to Russian oil trade, media reports say - Reuters
 - Stock Market Today: Dow, S&P 500 Little Changed as Government Shutdown Begins — Live Updates - The Wall Street Journal
 - Utah-based leasing giant challenges First Brands rescue loan - Financial Times
 - Elon Musk Just Became The First Person Ever Worth $500 Billion - Forbes
-- Gold rallies to record high on US government shutdown and Fed rate cut bets - Reuters
-- Microsoft hikes price of Xbox Game Pass by 50% "to offer more flexibility, choice, and value to all players" - GamesIndustry.biz
-- Echo, Kindle, Ring, and More: All the New Products Amazon Announced at Its Fall Hardware Event - PCMag
+- Trump’s solution for high drug prices is a discount portal called TrumpRx - The Verge
+- Amazon announces smarter Echo Show as we await HomePod Touch/HomePad - 9to5Mac
+- Infographic details 15 years of Samsung camera innovations: from the original Galaxy S to today - GSMArena.com news - GSMArena.com
