@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-01 22:48_
+_Updated: 2025-10-01 23:48_
 
 - Vote to end government shutdown fails in Senate as Democrats hold firm on health care demands - Federal News Network
-- Jane Goodall, chimpanzee expert and animal rights campaigner, dies age 91 - follow live - BBC
-- SCOTUS allows Lisa Cook to stay on Fed board into 2026, accepts case for January argument - ABC News - Breaking News, Latest News and Videos
-- Veterans react to Hegseth’s ‘insulting’ address to generals and admirals - The Guardian
+- Jane Goodall Dead: Eminent Chimpanzee Expert Was 91 - The New York Times
 - Trump to withhold billions of dollars from Gateway tunnel and Second Ave. subway projects - Politico
+- Veterans react to Hegseth’s ‘insulting’ address to generals and admirals - The Guardian
+- White House pushes back on Pope Leo’s statement that immigrants are subject to 'inhuman treatment' in the U.S. - Politico
+- Highly sensitive Pete Hegseth leak explodes inside Pentagon as he launches dystopian lie detector tests - Daily Mail
+- Bermuda braces for Hurricane Imelda after a glancing blow from more distant Humberto - CBS News
+- Partial Collapse at Bronx NYCHA Building Marks Start of Heat Season - THE CITY - NYC News
+- Government shutdown begins: What healthcare leaders should know - Becker's Hospital Review
 - Hakeem Jeffries called Trump’s deepfake post ‘racist.’ JD Vance said it was ‘funny.’ - Politico
-- Hurricane Imelda tracker: See the projected path as storm forecast to bring 'hurricane-force' winds, waves to Bermuda - Yahoo
-- 20-Story Public Housing Building in the Bronx Partly Collapses - The New York Times
-- Health care is key for Democrats in shutdown fight. Here’s what to know. - The Washington Post
-- Israeli naval forces board pro-Palestinian flotilla 75 miles from Gaza - The Guardian
+- Activists say Israel's navy has begun intercepting a Gaza-bound aid flotilla - NPR
 - In the Philippines, Search Teams Look for Survivors of Deadly Earthquake - The New York Times
-- Germany news: Oktoberfest reopens after Munich bomb scare - dw.com
-- EU leaders consider using seized Russian assets to fund a loan to Ukraine - AP News
-- Stock Market Today: Dow, S&P 500 Little Changed as Government Shutdown Begins — Live Updates - The Wall Street Journal
-- With Friday's jobs report in question, ADP shows private payrolls fell by 32,000 in September - CBS News
-- Automakers Extend $7,500 EV Discount After Federal Subsidy Expires - Bloomberg.com
+- Germany news: Oktoberfest reopens after Munich bomb scare - DW
+- Europe’s Emerging Plan: Give Ukraine $200 Billion in Russian Money - The Wall Street Journal
+- S&P 500 closes above 6,700 for first time as traders bet on short-lived shutdown - CNBC
 - Utah-based leasing giant challenges First Brands rescue loan - Financial Times
+- Automakers Extend $7,500 EV Discount After Federal Subsidy Expires - Bloomberg.com
+- Elon Musk Just Became The First Person Ever Worth $500 Billion - Forbes
 - Gemini Arrives in Google Home With New Nest Cameras and a Smart Speaker - WIRED
-- Game Pass Price Hike Announced, Will Cost $30/Month For Ultimate - GameSpot
-- Amazon event 2025 updates: Reactions to Echo Dot, Kindle Scribe Colorsoft, Fire TV, more - ZDNET
+- Microsoft hikes price of Xbox Game Pass by 50% "to offer more flexibility, choice, and value to all players" - GamesIndustry.biz
