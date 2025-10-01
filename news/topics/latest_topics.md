@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-01 09:40_
+_Updated: 2025-10-01 10:47_
 
 ## Top Stories
 
-- Höstsmällen – dubbelt så dyr el - Dagens industri
-- Håkan Mild lämnar IFK Göteborg - SvD
-- Lyxkrogen stänger efter listeriautbrott – tre sepsisfall - Aftonbladet
-- Sverige i hemlig överenskommelse med Somalia - Ekot - Sveriges Radio
-- Ledare: Liberalerna har ett Jönsson-problem - NWT
+- Tre gäster sjuka i sepsis – lyxkrog på Östermalm stänger - SVT Nyheter
+- Explosioner i München – Oktoberfest håller stängt - GP
+- Krismöte på ambassaden – Dousa (M) kallas till utskottet - SVT Nyheter
+- Kungen stoppad av dimma – inget Natobesök - Dagens industri
 - Därför vill alla bo i lummiga stadsdelen i Göteborg: "Centralt och grönt". - GP
-- Trafikverket satsar på Helsingborg – men dubbelspår mellan Maria och Helsingborg C skjuts upp - SVT Nyheter
-- Granskning: Varannan pitbullägare dömd för brott - GP
-- Personer som tvingats lämna Ukraina får rätt till studiestöd - Cision News
-- Analys efter Risbergska: Fler bör lämna in vapen - DN
-- Thunbergs konvoj närmar sig Gaza – "högriskzon" - Västerbottens-Kuriren
-- Explosioner i München – stor insats - GP
-- Palestinsk ledare: Israel hittar hela tiden ursäkter - Bohusläningen
+- Ledare: Liberalerna har ett Jönsson-problem - NWT
+- Ny vägbro i Knivsta – ska göra tågtrafiken snabbare - UNT
+- Granskning: Varannan pitbullägare dömd för brott - Västerbottens-Kuriren
+- Lisebergs sommar: Fler gäster – och fler som slängdes ut - DN
+- Brister i anmälningsplikt: Olämpliga kan ha vapen - GP
+- Thunbergs konvoj närmar sig Gaza – "högriskzon" - GP
 - Statsministern till Köpenhamn för internationellt toppmöte och informellt möte i Europeiska rådet - Regeringen.se
-- Morgonkoll: Splittrat i Asien – USA-stängning tynger banker - Dagens industri
-- SkiStar AB Bokslutskommuniké september 2024-augusti 2025 (GlobeNewswire) - Aktiellt
+- De får alternativa Nobelpriset 2025 - DN
+- Anna-Lena Laurén: Din fiende vet om du bär på en mycket liten käpp - DN
+- Japanska börsen pressas – helgstängt i Kina - Dagens industri
 - Uppgifter: Svenska AI-bolaget värderas till 16 miljarder i ny runda - Dagens industri
-- Norgepris populärt – kan slå mot svenska elpriser - SvD
-- Teleskopen jagar svar – vad är det för mystiskt objekt som far genom vårt solsystem? - NyTeknik
+- Höstsmällen – dubbelt så dyr el - SvD
+- Hon grundlurade 300 banktoppar – dårar, säger domaren - Dagens PS
 - Dålig sömn kan påskynda hjärnans åldrande - Karolinska Institutet
+- Snart kan ditt val av webbläsare respekteras även i Startmenyn - PC för Alla
 
 ## World News
 
@@ -39,14 +39,14 @@ _Updated: 2025-10-01 09:40_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
 - Techarenan News goes English (Partly at least) - Techarenan News
 - New Secretary General appointed - Olof Palme International Center
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
-- Hamilton Lane Launches Global Venture Capital and Growth Evergreen Fund, Adding to its $13B+ AUM1 Evergreen Platform - Placera.se
+- NETMARBLE'S ULTIMATE DARK FANTASY MMORPG RAVEN2 SET FOR GLOBAL LAUNCH ON OCTOBER 22 - Placera.se
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 
 ## Technology
 
@@ -82,8 +82,8 @@ _Updated: 2025-10-01 09:40_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
@@ -100,22 +100,22 @@ _Updated: 2025-10-01 09:40_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - »Medicinsk barnmisshandel« saknar vetenskaplig grund - Läkartidningen
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- Nobelpriset tilldelas forskare bakom upptäckt av mikroRNA - Läkartidningen
-- Anestesi – hörnsten i global hälsa - Läkartidningen
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Science
 
@@ -147,18 +147,18 @@ _Updated: 2025-10-01 09:40_
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Ordförande för Vietnams lantbrukarfack - minister för jordbruk och landsbygdsutveckling lyssnar på bönder talar - Vietnam.vn
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- USA tvingar ut EU på banan - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Maskinförare | Jobb | ATL - Land Lantbruk
