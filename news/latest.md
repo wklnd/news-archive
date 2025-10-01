@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-01 17:48_
+_Updated: 2025-10-01 18:52_
 
-- Supreme Court allows the Fed's Lisa Cook to stay in office for now as Trump pushes to fire her - NBC News
-- Government shutdown begins as lawmakers fail to reach deal to extend funding - CBS News
+- Government shutdown blame begins as Senate tries to reverse course - Federal News Network
+- Supreme Court lets Fed Governor Lisa Cook keep job pending oral argument in January - CNBC
 - Veterans react to Hegseth’s ‘insulting’ address to generals and admirals - The Guardian
-- 20-Story Public Housing Building in the Bronx Partly Collapses - The New York Times
+- 1 thing Republicans and Democrats can agree not to shut down: National parks - Politico
+- Senate again fails to pass bills aimed at funding government as blame game continues - ABC News - Breaking News, Latest News and Videos
 - Scoop: How an Israeli attack inadvertently launched Trump's Gaza peace plan - Axios
-- Trump administration uses taxpayer dollars to blame Democrats for government shutdown - NPR
+- 20-Story Public Housing Building in the Bronx Partly Collapses - The New York Times
+- White House freezes $18 billion in New York City infrastructure funding - NBC News
 - Trump Claims White House Is Nearing a Deal With Harvard - The Harvard Crimson
-- Where things stand with Trump’s National Guard deployments - NPR
-- Trump administration freezes $18 billion in New York City infrastructure projects, Vought says - CNBC
-- Pfizer's drug pricing deal with Trump ratchets up pressure on other pharma companies - Axios
+- Madison Cawthorn launches comeback bid — in Florida - Politico
 - Powerful earthquake in central Philippines kills at least 69 - The Washington Post
-- Munich Oktoberfest to re-open after fatal house fire and bomb threat - BBC
-- Trump gives Qatar unprecedented security guarantee after Israeli attack - Axios
-- Internet access returns to Afghanistan after Taliban blackout - BBC
-- EVs, big SUVs drive Ford Q3 U.S. sales up 8.2% - CNBC
-- Walmart plans to remove artificial colors and other food additives from store brands by 2027 - AP News
-- Peloton Slides After Hiking Prices in Sweeping Product Revamp - Bloomberg.com
-- US government takes 5% stakes in Lithium Americas and joint venture with GM - Reuters
+- Indonesian rescue workers 'racing against time' in search for dozens in rubble of collapsed school - AP News
+- Afghans rejoice as internet returns after Taliban blackout - BBC
+- Bomb Threat Delays Oktoberfest in Munich - The New York Times
+- With Friday's jobs report in question, ADP shows private payrolls fell by 32,000 in September - CBS News
+- U.S. to Take Equity Stake in Lithium Americas and Its Nevada Mining Project - The Wall Street Journal
+- Peloton revamps equipment, launches commercial unit and raises prices ahead of holidays - CNBC
+- Pharma Tariffs Land; Why Drug Stocks Are Celebrating - Investor's Business Daily
 - Gemini Arrives in Google Home With New Nest Cameras and a Smart Speaker - WIRED
 - Amazon event 2025 updates: Reactions to Echo Dot, Kindle Scribe Colorsoft, Fire TV, more - ZDNET
