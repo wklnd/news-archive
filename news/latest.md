@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-01 23:48_
+_Updated: 2025-10-02 00:48_
 
-- Vote to end government shutdown fails in Senate as Democrats hold firm on health care demands - Federal News Network
-- Jane Goodall Dead: Eminent Chimpanzee Expert Was 91 - The New York Times
-- Trump to withhold billions of dollars from Gateway tunnel and Second Ave. subway projects - Politico
+- Government shutdown live updates as White House moves to cut billions in funding - CBS News
+- 'An extraordinary legacy': Tributes after chimpanzee expert Jane Goodall dies age 91 - BBC
 - Veterans react to Hegseth’s ‘insulting’ address to generals and admirals - The Guardian
-- White House pushes back on Pope Leo’s statement that immigrants are subject to 'inhuman treatment' in the U.S. - Politico
-- Highly sensitive Pete Hegseth leak explodes inside Pentagon as he launches dystopian lie detector tests - Daily Mail
-- Bermuda braces for Hurricane Imelda after a glancing blow from more distant Humberto - CBS News
-- Partial Collapse at Bronx NYCHA Building Marks Start of Heat Season - THE CITY - NYC News
-- Government shutdown begins: What healthcare leaders should know - Becker's Hospital Review
-- Hakeem Jeffries called Trump’s deepfake post ‘racist.’ JD Vance said it was ‘funny.’ - Politico
 - Activists say Israel's navy has begun intercepting a Gaza-bound aid flotilla - NPR
-- In the Philippines, Search Teams Look for Survivors of Deadly Earthquake - The New York Times
-- Germany news: Oktoberfest reopens after Munich bomb scare - DW
+- Supreme Court lets Lisa Cook remain as a Federal Reserve governor for now - AP News
+- Trump to withhold billions of dollars from Gateway tunnel and Second Ave. subway projects - Politico
+- Sen. Dick Durbin says he's 'overwhelmed' after Pope Leo defended him from abortion-related criticism - NBC News
+- Bermuda braces for Hurricane Imelda after a glancing blow from more distant Humberto - CBS News
+- Part of a high-rise apartment building in New York City collapses, no injuries reported - ABC News - Breaking News, Latest News and Videos
+- Health care is key for Democrats in shutdown fight. Here’s what to know. - The Washington Post
+- After Israeli strike, Trump declares US commitment to defend Qatar if it’s attacked again - The Times of Israel
+- Germany news: Oktoberfest reopens after Munich bomb scare - dw.com
 - Europe’s Emerging Plan: Give Ukraine $200 Billion in Russian Money - The Wall Street Journal
-- S&P 500 closes above 6,700 for first time as traders bet on short-lived shutdown - CNBC
+- Macron doesn’t love the EU’s drone wall idea - politico.eu
+- Stock Market Today: Dow, S&P 500 Little Changed as Government Shutdown Begins — Live Updates - The Wall Street Journal
 - Utah-based leasing giant challenges First Brands rescue loan - Financial Times
-- Automakers Extend $7,500 EV Discount After Federal Subsidy Expires - Bloomberg.com
 - Elon Musk Just Became The First Person Ever Worth $500 Billion - Forbes
-- Gemini Arrives in Google Home With New Nest Cameras and a Smart Speaker - WIRED
+- Gold rallies to record high on US government shutdown and Fed rate cut bets - Reuters
 - Microsoft hikes price of Xbox Game Pass by 50% "to offer more flexibility, choice, and value to all players" - GamesIndustry.biz
+- Echo, Kindle, Ring, and More: All the New Products Amazon Announced at Its Fall Hardware Event - PCMag
