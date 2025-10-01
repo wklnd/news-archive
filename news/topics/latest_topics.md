@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-01 10:47_
+_Updated: 2025-10-01 11:41_
 
 ## Top Stories
 
-- Tre gäster sjuka i sepsis – lyxkrog på Östermalm stänger - SVT Nyheter
-- Explosioner i München – Oktoberfest håller stängt - GP
-- Krismöte på ambassaden – Dousa (M) kallas till utskottet - SVT Nyheter
-- Kungen stoppad av dimma – inget Natobesök - Dagens industri
-- Därför vill alla bo i lummiga stadsdelen i Göteborg: "Centralt och grönt". - GP
-- Ledare: Liberalerna har ett Jönsson-problem - NWT
 - Ny vägbro i Knivsta – ska göra tågtrafiken snabbare - UNT
-- Granskning: Varannan pitbullägare dömd för brott - Västerbottens-Kuriren
+- Tre gäster sjuka i sepsis – lyxkrog på Östermalm stänger - SVT Nyheter
+- Dousa kallas till utskott efter uppgifter om hemlig uppgörelse med Somalia: ”Ett haveri” - DN
+- Explosioner i München – bombhot mot Oktoberfest - Västerbottens-Kuriren
+- VÄNDNINGEN: Nu kan du slänga strumpan i soporna igen - Corren
+- SD-politiker polisanmäld efter händelse på förskola - GP
+- DN Direkt - Granskning: Varannan pitbullägare dömd för brott - DN
 - Lisebergs sommar: Fler gäster – och fler som slängdes ut - DN
 - Brister i anmälningsplikt: Olämpliga kan ha vapen - GP
+- Tusentals kan ha köpt olaglig medicin på nätet - Aftonbladet
+- Stort EU-möte i Köpenhamn – men huvudpersonerna saknas - SVT Nyheter
 - Thunbergs konvoj närmar sig Gaza – "högriskzon" - GP
-- Statsministern till Köpenhamn för internationellt toppmöte och informellt möte i Europeiska rådet - Regeringen.se
-- De får alternativa Nobelpriset 2025 - DN
-- Anna-Lena Laurén: Din fiende vet om du bär på en mycket liten käpp - DN
-- Japanska börsen pressas – helgstängt i Kina - Dagens industri
+- Här är vinnarna av 2025 års Right Livelihood-pris - Dagens Arena
+- Över 90 fast under kollapsad skola i Indonesien - GP
+- Elöverskott dygnet runt – men elpriserna högre än förra året - Nyteknik
+- Spotify-upptäckarna: Hatten av för Daniel Ek - Dagens industri
+- DN Direkt - Håkan Mild slutar som klubbdirektör för IFK Göteborg - DN
 - Uppgifter: Svenska AI-bolaget värderas till 16 miljarder i ny runda - Dagens industri
-- Höstsmällen – dubbelt så dyr el - SvD
-- Hon grundlurade 300 banktoppar – dårar, säger domaren - Dagens PS
 - Dålig sömn kan påskynda hjärnans åldrande - Karolinska Institutet
-- Snart kan ditt val av webbläsare respekteras även i Startmenyn - PC för Alla
+- Amazon satsar på smartare Alexa och ny design - Omni
 
 ## World News
 
@@ -35,18 +35,18 @@ _Updated: 2025-10-01 10:47_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Techarenan News goes English (Partly at least) - Techarenan News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - New Secretary General appointed - Olof Palme International Center
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - NETMARBLE'S ULTIMATE DARK FANTASY MMORPG RAVEN2 SET FOR GLOBAL LAUNCH ON OCTOBER 22 - Placera.se
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -59,17 +59,17 @@ _Updated: 2025-10-01 10:47_
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - FNB Adds AI and Data Science Directors to Strategy Leadership Team - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
-- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - Conduent Integrates AI Technologies to Modernize Government Payments, Combat Fraud and Improve Customer Experiences for Beneficiaries - Placera.se
-- New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
 
 ## Business
 
@@ -119,26 +119,26 @@ _Updated: 2025-10-01 10:47_
 
 ## Science
 
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Forskningsfusk, felsteg eller något mittemellan? - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 
 ## Jordbruk
 
@@ -153,12 +153,12 @@ _Updated: 2025-10-01 10:47_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - USA tvingar ut EU på banan - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Maskinförare | Jobb | ATL - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
