@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-01 13:48_
+_Updated: 2025-10-01 15:17_
 
-- How Trump is protecting his priorities from a government shutdown - Politico
+- Government shutdown begins as lawmakers fail to reach deal to extend funding - CBS News
 - Veterans react to Hegseth’s ‘insulting’ address to generals and admirals - The Guardian
-- Mark Cuban gives Trump's proposed direct-to-consumer prescription drugs website a 'B' - Business Insider
-- Trump pulls nomination of E.J. Antoni to lead Bureau of Labor Statistics, AP source says - AP News
-- At least 69 people killed in a powerful earthquake that hit the Philippines - ABC News - Breaking News, Latest News and Videos
-- Michigan church shooting survivor says she looked gunman who killed her father in the eyes: "I forgave him right there" - CBS News
+- Pfizer's deal ratchets up pressure on other drug companies - Axios
+- White House withdraws controversial pick to lead Bureau of Labor Statistics - The Washington Post
+- Democrats take the fight to Trump on government shutdown - Axios
+- Trump peace plan 'ignores interests of Palestinian people', Hamas official tells BBC - BBC
 - Trump Claims White House Is Nearing a Deal With Harvard - The Harvard Crimson
-- Government website blames shutdown on "radical left." Ethics group calls it a "blatant violation." - CBS News
-- Second detainee dies after shooting at Dallas ICE facility - NPR
-- Judge Disqualifies Nevada’s Acting U.S. Attorney From Handling Cases - The New York Times
-- Qatar, Egypt and Turkey said to urge Hamas to accept Trump’s Gaza ceasefire proposal - The Times of Israel
-- Oktoberfest to remain shut on Wednesday after explosion in Munich - Reuters
-- Frantic rush to reach scores of students missing for days after boarding school collapse in Indonesia - CNN
-- Internet Blackout in Afghanistan Enters 3rd Day - The New York Times
-- Peloton revamps equipment, launches commercial unit and raises prices ahead of holidays - CNBC
-- Nike’s Sales Show Improvement; Tariffs Expected to Cost $1.5 Billion - The New York Times
-- Exclusive: Austria's Raiffeisen fails in new effort to sell stake in Russia, sources say - Reuters
-- Prime Big Deal Days 2025: Everything We Know About Amazon's October Sale - IGN
+- Where things stand with Trump’s National Guard deployments - NPR
+- Federal agencies blame Democrats for looming shutdown in apparent Hatch Act violation - The Guardian
+- Brown bear heavyweight Chunk wins Fat Bear Week despite injury - BBC
+- Oktoberfest closed in Munich after fatal fire and bomb threat - BBC
+- EU leaders to discuss 'drone wall' in Denmark, days after airspace violations - Reuters
+- Indonesian rescue workers 'racing against time' in search for dozens in rubble of collapsed school - AP News
+- Powerful earthquake in central Philippines kills at least 69 - The Washington Post
+- ADP National Employment Report: Private Sector Employment Shed 32,000 Jobs in September; Annual Pay was Up 4.5% - PR Newswire
+- General Motors And Ford Found A Way To Keep The EV Lease Credit Alive - InsideEVs
+- Peloton ushers in a new era with revamped hardware and AI - The Verge
+- China's ride-hailing companies try to quell the smell in cars where some drivers sleep - NPR
 - Amazon event 2025 live: Reactions to Echo Dot, Kindle Scribe Colorsoft, Fire TV, more - ZDNET
-- Leaked Galaxy S26 Ultra renders show off Samsung’s massive new camera bump - 9to5Google
+- Are AI glasses the next smartphone race between the US and China? - Nikkei Asia
