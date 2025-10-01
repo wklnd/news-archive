@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-01 01:48_
+_Updated: 2025-10-01 04:23_
 
-- Government Shutdown 2025: What you need to know about air travel, social security, and more - NBC News
-- 5 Takeaways From Trump’s Address to Generals and Admirals - The New York Times
+- Here are some effects of a government shutdown if Congress, Trump don’t reach a deal - AP News
+- Trump, Hegseth rally troops at rare meeting, rail against "woke" standards - CBS News
+- Donald Trump pulls ally EJ Antoni’s nomination to lead statistics agency - Financial Times
 - Trump announces ‘TrumpRx’ site for discounted drugs and deal with Pfizer to lower prices - CNN
-- Trump says $500m deal reached with Harvard to settle dispute - The Guardian
-- Deadly 6.9 magnitude earthquake strikes central Philippines - CNN
-- Government shutdown live updates as Senate set to vote on funding bills before deadline - CBS News
-- Federal judge criticizes Trump over free speech in ruling for student protesters - NBC News
-- Family, friends of Grand Blanc church attack victims launch online fundraisers - The Detroit News
-- Second victim in Dallas ICE shooting dies from injuries, LULAC says - CBS News
-- ‘Do. Not. Blink.’ Conservatives dig in for a fight as Trump broaches Obamacare talks - Politico
+- Trump Says a Deal With Harvard Is Close - The New York Times
 - Qatar, Egypt and Turkey urge Hamas to accept Trump's Gaza peace plan - Axios
+- Family, friends of Grand Blanc church attack victims launch online fundraisers - The Detroit News
+- 2nd detainee dies after Dallas ICE facility shooting - NBC News
+- Republicans decry White House moves to defund oversight activities - Politico
+- Trump administration illegally targeted pro-Palestinian protesters, judge rules - The Washington Post
 - Taliban internet shutdown paralyzes Afghanistan - The Washington Post
-- South Africa's ambassador to France, found dead in Paris, left suicide note - Reuters
-- Nearing Gaza, ‘peace’ flotilla rocks Italy, throwing government into political storm - The Times of Israel
+- Earthquake in Philippines Kills at Least 20, Officials Say - The New York Times
+- Nathi Mthethwa: South Africa's top diplomat in France found dead near Paris hotel - BBC
+- Gaza flotilla rebuffs calls to stop, as Israel readies for complex interception - The Times of Israel
 - Frank founder Charlie Javice sentenced for JPMorgan fraud - BBC
-- Stock futures are lower as government shutdown looms: Live updates - CNBC
-- Nike’s Trajectory Improves on Better-Than-Expected Sales - Bloomberg.com
+- US Futures Slip as Washington Approaches Shutdown: Markets Wrap - Bloomberg.com
+- Nike shares jump on strong earnings, signs its turnaround is racing ahead under CEO Hill - CNBC
 - Spotify's Daniel Ek announces that he'll step aside as CEO - NPR
 - Amazon unveils new Echo devices, powered by its AI, Alexa+ - TechCrunch
-- Meta Ray-Ban Display Is Now On Sale, But Only In Select US Stores - UploadVR
+- Microsoft's Windows 11 2025 update starts rolling out today (but don't expect anything new) - Engadget
