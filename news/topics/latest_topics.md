@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-02 05:09_
+_Updated: 2025-10-02 05:45_
 
 ## Top Stories
 
-- Greta Thunberg frihetsberövad – förs till Israel - GP
-- Palestinas Sverigeambassadör: Västbanken borde ingå i fredsplan - Dagens Arena
+- Thunberg på stoppat Gazafartyg – förs till Israel - DN
 - Man i 60-årsåldern död efter bråk vid skola i Malmö - SVT Nyheter
 - Man död efter attack i Majorna - GP
-- Skarpa föremål hittade i Malmö - Västerbottens-Kuriren
-- Nytt Natoland kan byta sida – om han vinner - Aftonbladet
+- Palestinas Sverigeambassadör: Västbanken borde ingå i fredsplan - Dagens Arena
+- Flera skarpa föremål hittade i bilar i Malmö - Omni
+- ”Ukraina vår säkerhetsgaranti för fred” - Västerbottens-Kuriren
 - 20-tal på sjukhus efter lyxmiddag på Östermalm - GP
 - Ny vägbro i Knivsta – ska göra tågtrafiken snabbare - UNT
 - I dag: Nya lagen träder i kraft - Västerbottens-Kuriren
-- Kommission: Sänk inkomstskatten – främja AI - Aftonbladet
-- Stort EU-möte i Köpenhamn – oro för ryskt hybridkrig - SVT Nyheter
-- Schimpansexperten Jane Goodall död - DN
+- Produktivitetskommissionen överlämnar sitt slutbetänkande - Regeringen.se
 - Israeliska diplomater utvisas från Colombia - Västerbottens-Kuriren
 - Röda Korset lämnar Gaza stad – personal evakueras - GP
+- Nytt Natoland kan byta sida – om han vinner - Aftonbladet
+- Explosioner i München – stor insats - HD
 - Ordkrig efter amerikanska nedstängningen - SvD
 - Kronprinsessan beskyddare av Rosa Bandet - Kungahuset
-- Privata sysselsättningen minskade i USA - Dagens industri
 - Flera vinster för Vårdförbundet i statens nya kollektivavtal - Vårdförbundet
-- Miljontals datorer riskerar bli en säkerhetsfara - Aftonbladet
+- Konkurrensverket föreslår åtgärder mot oseriösa låga anbud - Tidningen PROFFS
+- Datorer riskerar bli en säkerhetsfara - SvD
 - Xbox Game Pass chockhöjer priset med 50 procent - MovieZine
 
 ## World News
@@ -37,39 +37,39 @@ _Updated: 2025-10-02 05:09_
 - Cryoport Systems Expands Global Footprint with New Global Supply Chain Center in Paris, France - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Global Payments Completes Divestiture of Payroll Business - Placera.se
-- Patrick Ekwall aktuell med tredje deckaren – en global jakt på liv och död - NewsMachine AB
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Global Payments Completes Divestiture of Payroll Business - Placera.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- New Secretary General appointed - Olof Palme International Center
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Techarenan News goes English (Partly at least) - Techarenan News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - NETMARBLE'S ULTIMATE DARK FANTASY MMORPG RAVEN2 SET FOR GLOBAL LAUNCH ON OCTOBER 22 - Placera.se
 
 ## Technology
 
 - TriNet Announces Two Appointments to its Board of Directors - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- DEBATT: ”Trumps politik kan vara bättre för Kina än för USA när det gäller AI.” - Sydsvenskan
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - Conduent Integrates AI Technologies to Modernize Government Payments, Combat Fraud and Improve Customer Experiences for Beneficiaries - Placera.se
-- New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
 
 ## Business
 
@@ -82,10 +82,10 @@ _Updated: 2025-10-02 05:09_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
+- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Better.com’s AI-Driven HELOC Underwriting Makes Approval with “Bank Statements Only” Possible for 36.2M Self-Employed or Small Business Owner Americans - Placera.se
@@ -103,19 +103,19 @@ _Updated: 2025-10-02 05:09_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- ”Är Sverige redo för delning av hälsodata?” - Dagens Medicin
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Klimatförändring och hälsa – samlingssida! - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Nytt svenskt system för återupplivning minskade intubering hos prematura barn - Läkartidningen
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
