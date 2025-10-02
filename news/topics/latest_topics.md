@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-02 21:37_
+_Updated: 2025-10-02 22:40_
 
 ## Top Stories
 
 - Stor sökinsats: Norska soldater försvunna efter övning - SVT Nyheter
-- DN Direkt - Stora börslyft Volvo Cars och Atlas Copco - DN
-- Håkan Boström: Rätt göra upp med Somalia – utvisning måste betyda utvisning - GP
-- Svenska militärer hjälper USA i hemlig insats i Somalia - Omni
-- 73 döda i Gaza bara i går - ETC.se
-- Fler har sökt vård efter lyxmiddag med listeria - Sydsvenskan
+- Efter Somalia – Syrien kan bli nästa land när regeringen styr om biståndet - DN
+- Krögarparet matförgiftade på Stockholmskrog - SVT Nyheter
+- Många döda i fortsatta israeliska attacker i Gaza - SvD
+- Man död efter olycka – fick träd över sig - SVT Nyheter
+- Han var spion i EU – hon mullvad på flygplatsen - SvD
+- DN Direkt - Demonstranter blockerade ingång till UD - DN
 - S vill satsa på pensionärer och en starkare äldreomsorg - Socialdemokraterna
 - Besked: Märsta station kan renoveras – för miljardbelopp - Mitt i
-- Eskilstuna kommun överklagar dispens för användning av metylenklorid - Eskilstuna kommun
-- 02 oktober 20.41, Trafikkontroll, Jämtlands län - polisen.se
+- Textillagen ändras: Dessa kläder får du slänga hemma - SVT Nyheter
 - DN Direkt - Trump och Jas på agendan när Kristersson mötte Zelenskyj - DN
 - Länder framför protest mot Israel efter gripna aktivister - Hufvudstadsbladet
-- Polisen: Attacken i Manchester ett terrordåd - GP
+- Tre döda i Manchester – polis bekräftar terrordåd - GP
 - EU drar upp nya försvarslinjer mot Ryssland – men beslut dröjer - Europaportalen
 - Ryanairs vd: 100 000 resenärer riskerar inställda flyg vid fransk flygledarstrejk - Sky - Placera.se
-- Försäljning av Swecon sänker Lantmännens omsättning - ATL
 - Analytiker: Slag mot Ericsson en storm i ett vattenglas - EFN
 - Om kriget kommer – nu för företag - Tidningen Näringslivet
+- Försäljning av Swecon sänker Lantmännens omsättning - ATL
 - Nu går Windows 10 ur tiden – dags att installera Windows 11 - Yle
 - Enorm prishöjning för speltjänsten Xbox Game Pass är nu här - m3.se
 
@@ -32,21 +32,21 @@ _Updated: 2025-10-02 21:37_
 - Fartyg från Gazakonvojen har blivit bordade - Aftonbladet
 - World Gym Corporation Advances Global Growth with Mexico MFA and Australia Expansion - Placera.se
 - Israels ambassadör till Gretabåten: Håll er borta - Aftonbladet
-- Medtecs Showcases Global Capabilities at MEDICA and A+A in Germany - Advancing Global Partnerships through Competitive Pricing, Assured Quality, and Reliable Delivery - Placera.se
+- Protests erupt in Latin America over Israeli interception of Gaza aid flotilla - Anadolu Ajansı
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - travronden.se
+- Medtecs Showcases Global Capabilities at MEDICA and A+A in Germany - Advancing Global Partnerships through Competitive Pricing, Assured Quality, and Reliable Delivery - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - EVEREADY® ANNOUNCES HARRY KANE AS GLOBAL BRAND AMBASSADOR - Placera.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Patrick Ekwall aktuell med tredje deckaren – en global jakt på liv och död - NewsMachine AB
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
 - Cryoport Systems Expands Global Footprint with New Global Supply Chain Center in Paris, France - Placera.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Global Payments Completes Divestiture of Payroll Business - Placera.se
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- YY Group Partners with Obita to Strengthen Global Ecosystem with Stablecoin Payment Infrastructure - Placera.se
+- Choice Hotels International Accelerates International Growth with Addition of 50 New Quality Suites Hotels in France - Placera.se
 - S&P Global Announces Updates to the Executive Leadership Team - Placera.se
-- NETMARBLE'S ULTIMATE DARK FANTASY MMORPG RAVEN2 SET FOR GLOBAL LAUNCH ON OCTOBER 22 - Placera.se
 
 ## Technology
 
@@ -58,7 +58,7 @@ _Updated: 2025-10-02 21:37_
 - Kandidatprogram i filosofi och artificiell intelligens - Umeå universitet
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
+- Here are the Swedish AI companies everyone is talking about - DI
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
@@ -76,22 +76,22 @@ _Updated: 2025-10-02 21:37_
 - Bakkt Completes the Sale of Loyalty Business, Accelerating Transformation into a Pure-Play Digital Asset Infrastructure Platform - Placera.se
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
-- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
+- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Investcorp Credit Management BDC, Inc. Schedules Earnings Release for Second Quarter and Fiscal Period Ended December 31, 2024 - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Better.com’s AI-Driven HELOC Underwriting Makes Approval with “Bank Statements Only” Possible for 36.2M Self-Employed or Small Business Owner Americans - Placera.se
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
+- Better.com’s AI-Driven HELOC Underwriting Makes Approval with “Bank Statements Only” Possible for 36.2M Self-Employed or Small Business Owner Americans - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
+- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 
 ## Health
@@ -99,21 +99,21 @@ _Updated: 2025-10-02 21:37_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Svensk barnhälsa mår bra - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Klimatförändring och hälsa – samlingssida! - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
