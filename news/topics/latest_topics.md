@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-02 10:45_
+_Updated: 2025-10-02 11:39_
 
 ## Top Stories
 
-- Man död i Malmö - 8 Sidor
-- Gazakonvojen bordad – Greta Thunberg förd till Israel - SVT Nyheter
-- Fler har sökt vård efter lyxmiddag med listeria - GP
-- Man i Göteborg död efter stickskador – en gripen - Omni
+- Man i 60-årsåldern död efter bråk vid skola i Malmö - SVT Nyheter
+- JUST NU: SMHI varnar för kraftiga vindar – upp till 25 sekundmeter - NWT
+- Tio fall av misstänkt listeria i Uppsala - UNT
+- 80-åring död i singelolycka i Boxholm - Omni
 - Belgien redo att stöda EU-planerna för Rysslands frysta tillgångar – om villkor uppfylls - Yle
-- Larmet: Bup kan inte hantera adhd-vården - SvD
-- I dag: Nya lagen träder i kraft - Västerbottens-Kuriren
-- Kärnkraftsägare ska få ersättning vid nedläggning - SVT Nyheter
-- Ledare: Lyssna på utredaren och sänk inkomstskatten - Tidningen Näringslivet
+- Gazakonvojen bordad – Greta Thunberg förd till Israel - SVT Nyheter
+- Sonen gömde granater – 70-årig kvinna vräks - Västerbottens-Kuriren
+- Stort beslag av handgranater i Malmö - GP
 - Mammans sista kontakt innan mordet – påminde om matlådan - UNT
+- Kärnkraftsägare ska få ersättning vid nedläggning - SVT Nyheter
 - Hynek Pallas: Nu står banditerna i den tjeckiska farstun - GP
 - Kristersson: Bred samling för Ukraina - Västerbottens-Kuriren
-- Journalistens pappa kidnappades för att pressa henne tillbaka - DN
+- Journalistens pappa kidnappades för att pressa henne tillbaka - dn.se
 - ”Blair? Fan heller!” - Hufvudstadsbladet
 - Elon Musk historisk: Förmögenhet passerar 500 miljarder dollar - Dagens industri
+- Uppgång i flera storbolag – nedåt för Afry efter intern varning - Dagens industri
+- Vindkraftsjurist varnar för svenskt regelverk: ”Miljarder förloras i onödan” - Affärsvärlden
 - Därför noterar börserna nya rekord trots nedstängningen - nextconomy.se
-- Bostadspriserna steg med 0,3 procent i september - SBAB Booli Housing Price Index - Börsvärlden
-- Spotify: VD-byte ändrar inte vår prognos - Morningstar Canada
 - Sämre sömn får hjärnan att åldras - SvD
 - Viktiga att ändra datorn - 8 Sidor
 
@@ -31,21 +31,21 @@ _Updated: 2025-10-02 10:45_
 - Global Sumud Flotilla: Fartyg blir bordade – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Fartyg från Gazakonvojen har blivit bordade - Aftonbladet
 - ”Risk att de spanska krigsfartygen ingriper” - SvD
-- EVEREADY® ANNOUNCES HARRY KANE AS GLOBAL BRAND AMBASSADOR - Placera.se
+- Medtecs Showcases Global Capabilities at MEDICA and A+A in Germany - Advancing Global Partnerships through Competitive Pricing, Assured Quality, and Reliable Delivery - Placera.se
 - Israels ambassadör till Gretabåten: Håll er borta - Aftonbladet
+- EVEREADY® ANNOUNCES HARRY KANE AS GLOBAL BRAND AMBASSADOR - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Cryoport Systems Expands Global Footprint with New Global Supply Chain Center in Paris, France - Placera.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Global Payments Completes Divestiture of Payroll Business - Placera.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Patrick Ekwall aktuell med tredje deckaren – en global jakt på liv och död - NewsMachine AB
+- Global Payments Completes Divestiture of Payroll Business - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Techarenan News goes English (Partly at least) - Techarenan News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- YY Group Partners with Obita to Strengthen Global Ecosystem with Stablecoin Payment Infrastructure - Placera.se
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - NETMARBLE'S ULTIMATE DARK FANTASY MMORPG RAVEN2 SET FOR GLOBAL LAUNCH ON OCTOBER 22 - Placera.se
 
 ## Technology
@@ -57,17 +57,17 @@ _Updated: 2025-10-02 10:45_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- DEBATT: ”Trumps politik kan vara bättre för Kina än för USA när det gäller AI.” - Sydsvenskan
-- Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- Infosys Extends Strategic Collaboration with Sunrise to Accelerate IT Transformation and Power AI Future - Placera.se
 - Conduent Integrates AI Technologies to Modernize Government Payments, Combat Fraud and Improve Customer Experiences for Beneficiaries - Placera.se
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 
@@ -97,48 +97,48 @@ _Updated: 2025-10-02 10:45_
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Yen Lac District Medical Center: Proaktivt skydd av människors hälsa under den varma säsongen - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Svensk barnhälsa mår bra - Läkartidningen
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Klimatförändring och hälsa – samlingssida! - Läkartidningen
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
 
