@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-02 05:45_
+_Updated: 2025-10-02 06:41_
 
 ## Top Stories
 
 - Thunberg på stoppat Gazafartyg – förs till Israel - DN
-- Man i 60-årsåldern död efter bråk vid skola i Malmö - SVT Nyheter
-- Man död efter attack i Majorna - GP
+- Man död efter misshandel vid Stenkulaskolan – polisen utreder mord - Skånska Dagbladet
 - Palestinas Sverigeambassadör: Västbanken borde ingå i fredsplan - Dagens Arena
-- Flera skarpa föremål hittade i bilar i Malmö - Omni
-- ”Ukraina vår säkerhetsgaranti för fred” - Västerbottens-Kuriren
+- Skarpa föremål hittade i Malmö - Aftonbladet
+- Därför betalar Benjamin Dousa 100 miljoner till somalisk Hamaskramare - Arbetet
+- Man död efter attack i Majorna - GP
 - 20-tal på sjukhus efter lyxmiddag på Östermalm - GP
+- DEBATT: Psykologisk behandling uteblir för tusentals patienter men regionerna struntar i det - GP
+- Stormen Amy drar in över Värmland – regn och rusk att vänta: ”Besvärligt” - NWT
 - Ny vägbro i Knivsta – ska göra tågtrafiken snabbare - UNT
-- I dag: Nya lagen träder i kraft - Västerbottens-Kuriren
-- Produktivitetskommissionen överlämnar sitt slutbetänkande - Regeringen.se
-- Israeliska diplomater utvisas från Colombia - Västerbottens-Kuriren
-- Röda Korset lämnar Gaza stad – personal evakueras - GP
-- Nytt Natoland kan byta sida – om han vinner - Aftonbladet
-- Explosioner i München – stor insats - HD
-- Ordkrig efter amerikanska nedstängningen - SvD
+- Stoltenberg: Sverige lämnades inte i kylan - Västerbottens-Kuriren
+- Schimpansexperten Jane Goodall död - DN
+- Stort EU-möte i Köpenhamn – oro för ryskt hybridkrig - SVT Nyheter
+- Israeliska diplomater utvisas från Colombia - GP
+- USA-nedstängning riskerar påverka flygtrafik - Aftonbladet
 - Kronprinsessan beskyddare av Rosa Bandet - Kungahuset
-- Flera vinster för Vårdförbundet i statens nya kollektivavtal - Vårdförbundet
+- Läkarna fick sin drömchef – nu kan fler lockas till bolaget - Gefle Dagblad
 - Konkurrensverket föreslår åtgärder mot oseriösa låga anbud - Tidningen PROFFS
-- Datorer riskerar bli en säkerhetsfara - SvD
-- Xbox Game Pass chockhöjer priset med 50 procent - MovieZine
+- Sämre sömn får hjärnan att åldras - SvD
+- Miljontals datorer riskerar bli en säkerhetsfara - Aftonbladet
 
 ## World News
 
@@ -39,37 +39,37 @@ _Updated: 2025-10-02 05:45_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Global Payments Completes Divestiture of Payroll Business - Placera.se
+- Patrick Ekwall aktuell med tredje deckaren – en global jakt på liv och död - NewsMachine AB
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- New Secretary General appointed - Olof Palme International Center
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- YY Group Partners with Obita to Strengthen Global Ecosystem with Stablecoin Payment Infrastructure - Placera.se
+- Techarenan News goes English (Partly at least) - Techarenan News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - NETMARBLE'S ULTIMATE DARK FANTASY MMORPG RAVEN2 SET FOR GLOBAL LAUNCH ON OCTOBER 22 - Placera.se
 
 ## Technology
 
 - TriNet Announces Two Appointments to its Board of Directors - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- DEBATT: ”Trumps politik kan vara bättre för Kina än för USA när det gäller AI.” - Sydsvenskan
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Conduent Integrates AI Technologies to Modernize Government Payments, Combat Fraud and Improve Customer Experiences for Beneficiaries - Placera.se
+- New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
 
 ## Business
 
@@ -87,12 +87,12 @@ _Updated: 2025-10-02 05:45_
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Better.com’s AI-Driven HELOC Underwriting Makes Approval with “Bank Statements Only” Possible for 36.2M Self-Employed or Small Business Owner Americans - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Metropolitan Bank Holding Corp. Names Anthony J. Fabiano Chairman of the Board of Directors - Placera.se
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 
 ## Health
 
@@ -103,10 +103,10 @@ _Updated: 2025-10-02 05:45_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
@@ -114,8 +114,8 @@ _Updated: 2025-10-02 05:45_
 - Klimatförändring och hälsa – samlingssida! - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Nytt svenskt system för återupplivning minskade intubering hos prematura barn - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-02 05:45_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
