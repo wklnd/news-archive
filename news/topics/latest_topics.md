@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-02 11:39_
+_Updated: 2025-10-02 12:41_
 
 ## Top Stories
 
+- DN Direkt - Flera knivskadade vid synagoga i Manchester - dn.se
 - Man i 60-årsåldern död efter bråk vid skola i Malmö - SVT Nyheter
-- JUST NU: SMHI varnar för kraftiga vindar – upp till 25 sekundmeter - NWT
-- Tio fall av misstänkt listeria i Uppsala - UNT
-- 80-åring död i singelolycka i Boxholm - Omni
-- Belgien redo att stöda EU-planerna för Rysslands frysta tillgångar – om villkor uppfylls - Yle
 - Gazakonvojen bordad – Greta Thunberg förd till Israel - SVT Nyheter
-- Sonen gömde granater – 70-årig kvinna vräks - Västerbottens-Kuriren
-- Stort beslag av handgranater i Malmö - GP
+- Rekordstort beslag av handgranater i Malmö - polisen.se
+- Fler har sökt vård efter lyxmiddag med listeria - GP
+- 80-åring död i singelolycka i Boxholm - Omni
+- Därför är Sverige inte längre världsbäst i att leva - dn.se
 - Mammans sista kontakt innan mordet – påminde om matlådan - UNT
-- Kärnkraftsägare ska få ersättning vid nedläggning - SVT Nyheter
-- Hynek Pallas: Nu står banditerna i den tjeckiska farstun - GP
-- Kristersson: Bred samling för Ukraina - Västerbottens-Kuriren
+- Ledare: Lyssna på utredaren och sänk inkomstskatten - Tidningen Näringslivet
+- Ledare: Det bidde knappt en tummetott till Värmland i en infrastrukturplan värd 1,2 biljoner - VF
 - Journalistens pappa kidnappades för att pressa henne tillbaka - dn.se
-- ”Blair? Fan heller!” - Hufvudstadsbladet
-- Elon Musk historisk: Förmögenhet passerar 500 miljarder dollar - Dagens industri
+- Kristersson ser framsteg för Ukraina på toppmöte - GP
+- Omstridd Blair kan få huvudroll i Gaza - Västerbottens-Kuriren
+- Hynek Pallas: Nu står banditerna i den tjeckiska farstun - GP
 - Uppgång i flera storbolag – nedåt för Afry efter intern varning - Dagens industri
+- Analytiker: Slag mot Ericsson en storm i ett vattenglas - EFN
 - Vindkraftsjurist varnar för svenskt regelverk: ”Miljarder förloras i onödan” - Affärsvärlden
-- Därför noterar börserna nya rekord trots nedstängningen - nextconomy.se
+- Elon Musk blev första halvbiljonären – Tesla och Space X lyfte förmögenheten - NyTeknik
 - Sämre sömn får hjärnan att åldras - SvD
-- Viktiga att ändra datorn - 8 Sidor
+- Viktigt att ändra datorn - 8 Sidor
 
 ## World News
 
 - World Gym Corporation Advances Global Growth with Mexico MFA and Australia Expansion - Placera.se
 - Global Sumud Flotilla: Fartyg blir bordade – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Fartyg från Gazakonvojen har blivit bordade - Aftonbladet
-- ”Risk att de spanska krigsfartygen ingriper” - SvD
 - Medtecs Showcases Global Capabilities at MEDICA and A+A in Germany - Advancing Global Partnerships through Competitive Pricing, Assured Quality, and Reliable Delivery - Placera.se
+- Protests erupt in Latin America over Israeli interception of Gaza aid flotilla - Anadolu Ajansı
 - Israels ambassadör till Gretabåten: Håll er borta - Aftonbladet
-- EVEREADY® ANNOUNCES HARRY KANE AS GLOBAL BRAND AMBASSADOR - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- EVEREADY® ANNOUNCES HARRY KANE AS GLOBAL BRAND AMBASSADOR - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Cryoport Systems Expands Global Footprint with New Global Supply Chain Center in Paris, France - Placera.se
-- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Patrick Ekwall aktuell med tredje deckaren – en global jakt på liv och död - NewsMachine AB
+- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
 - Global Payments Completes Divestiture of Payroll Business - Placera.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- YY Group Partners with Obita to Strengthen Global Ecosystem with Stablecoin Payment Infrastructure - Placera.se
 - NETMARBLE'S ULTIMATE DARK FANTASY MMORPG RAVEN2 SET FOR GLOBAL LAUNCH ON OCTOBER 22 - Placera.se
 
 ## Technology
 
-- Robo.ai Invests in DePIN Project Arkreen, Exploring Web3 Technology and Machine Economy Integration - Placera.se
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
-- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Keysight to Demonstrate New Solutions that Support AI Infrastructure and Optical Innovations at ECOC 2025 - Placera.se
-- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Infosys Extends Strategic Collaboration with Sunrise to Accelerate IT Transformation and Power AI Future - Placera.se
 - Conduent Integrates AI Technologies to Modernize Government Payments, Combat Fraud and Improve Customer Experiences for Beneficiaries - Placera.se
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
 
 ## Business
 
@@ -119,26 +119,26 @@ _Updated: 2025-10-02 11:39_
 
 ## Science
 
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Irene Jensen - Karolinska Institutet
 
 ## Jordbruk
 
@@ -149,7 +149,6 @@ _Updated: 2025-10-02 11:39_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 2025-08-27 Seminarium: Smittskyddet som gemensam uppgift – One Health i praktiken - Mynewsdesk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -157,6 +156,7 @@ _Updated: 2025-10-02 11:39_
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
