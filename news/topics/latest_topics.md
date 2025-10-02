@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-02 08:47_
+_Updated: 2025-10-02 09:37_
 
 ## Top Stories
 
-- Man i 60-årsåldern död efter bråk vid skola i Malmö - SVT Nyheter
-- Thunberg på stoppat Gazafartyg – förs till Israel - DN
+- Gazakonvojen bordad – Greta Thunberg förd till Israel - SVT Nyheter
+- Man på hundpromenad i bråk – avled av skadorna - Aftonbladet
 - Man död efter attack i Majorna – en gripen - GP
+- Källor: USA ger Ukraina mer spioninformation - SvD
+- Larmet: Bup kan inte hantera adhd-vården - SvD
 - Israels ambassadör om läkarnas vittnesmål: ”Falska” - Omni
-- Därför betalar Benjamin Dousa 100 miljoner till somalisk Hamaskramare - Arbetet
-- De bad om bättre arbetsvillkor – fick sparken från Humanas klädsortering - HD
 - 20-tal på sjukhus efter lyxmiddag på Östermalm - GP
 - DEBATT: Psykologisk behandling uteblir för tusentals patienter men regionerna struntar i det - GP
-- Varför mördades den 52-åriga niobarnspappan – historien om en felskjutning - DN
-- 02 oktober 07.37, Sammanfattning natt, Östergötlands län - polisen.se
-- Stoltenberg: Sverige lämnades inte i kylan - Hallands Nyheter
+- Textillagen ändras: Dessa kläder får du slänga hemma - SVT Nyheter
+- Mammans sista kontakt innan mordet – påminde om matlådan - UNT
+- Nytt Natoland på väg att byta sida – nu till helgen - Marcus Oscarsson
 - Orpo: Dags för resten av Europa att visa solidaritet - Hufvudstadsbladet
-- Rekordlångt elavbrott vid kärnkraftverket i Zaporizjzja - DN
-- Röda Korset lämnar Gaza stad – personal evakueras - Västerbottens-Kuriren
+- Stoltenberg: Sverige lämnades inte i kylan - Skånska Dagbladet
+- Tjernobyl förlorade strömmen - Västerbottens-Kuriren
 - Elon Musk historisk: Förmögenhet passerar 500 miljarder dollar - Dagens industri
-- OpenAI rundar av rekordaffär i talangjakten - Dagens PS
+- OpenAI uppges vara värt 500 miljarder dollar efter anställdas aktieförsäljningar - BN - Börsvärlden
 - USA-nedstängning riskerar påverka flygtrafik - Tidningen Näringslivet
-- Spotify: VD-byte ändrar inte vår prognos - Morningstar Canada
+- Bostadspriser stiger – mer än normalt - DN
 - Sämre sömn får hjärnan att åldras - Aftonbladet
 - Inga uppdateringar – miljontals datorer riskerar bli en säkerhetsfara - Sydsvenskan
 
@@ -39,13 +39,13 @@ _Updated: 2025-10-02 08:47_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Global Payments Completes Divestiture of Payroll Business - Placera.se
+- Patrick Ekwall aktuell med tredje deckaren – en global jakt på liv och död - NewsMachine AB
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Techarenan News goes English (Partly at least) - Techarenan News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - YY Group Partners with Obita to Strengthen Global Ecosystem with Stablecoin Payment Infrastructure - Placera.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - NETMARBLE'S ULTIMATE DARK FANTASY MMORPG RAVEN2 SET FOR GLOBAL LAUNCH ON OCTOBER 22 - Placera.se
 
 ## Technology
@@ -75,24 +75,24 @@ _Updated: 2025-10-02 08:47_
 
 - Bakkt Completes the Sale of Loyalty Business, Accelerating Transformation into a Pure-Play Digital Asset Infrastructure Platform - Placera.se
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
+- PennyMac Mortgage Investment Trust Declares Third Quarter 2025 Dividend for Its Common Shares - Placera.se
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
+- Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Skellefteå looks beyond Northvolt: 'We are more than one company' - Sveriges Radio
+- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Valour Tether Gold (XAUt) SEK ETP – ISIN: CH1108679981 - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 
 ## Health
 
@@ -121,24 +121,24 @@ _Updated: 2025-10-02 08:47_
 
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
