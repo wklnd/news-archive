@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-02 22:40_
+_Updated: 2025-10-02 23:37_
 
 ## Top Stories
 
 - Stor sökinsats: Norska soldater försvunna efter övning - SVT Nyheter
+- Experten om listeriautbrottet på Coco & Carmen: Aldrig sett något liknande utbrott - GP
+- Fick träd över sig – allvarligt skadad - Västerbottens-Kuriren
+- Våldsam polisinsats mot Palestinaprotest vid UD – flera gripna - ETC.se
 - Efter Somalia – Syrien kan bli nästa land när regeringen styr om biståndet - DN
-- Krögarparet matförgiftade på Stockholmskrog - SVT Nyheter
-- Många döda i fortsatta israeliska attacker i Gaza - SvD
-- Man död efter olycka – fick träd över sig - SVT Nyheter
-- Han var spion i EU – hon mullvad på flygplatsen - SvD
-- DN Direkt - Demonstranter blockerade ingång till UD - DN
-- S vill satsa på pensionärer och en starkare äldreomsorg - Socialdemokraterna
+- Europas ledare: Vi befinner oss i krig - Hufvudstadsbladet
 - Besked: Märsta station kan renoveras – för miljardbelopp - Mitt i
+- S vill satsa på pensionärer och en starkare äldreomsorg - Socialdemokraterna
 - Textillagen ändras: Dessa kläder får du slänga hemma - SVT Nyheter
-- DN Direkt - Trump och Jas på agendan när Kristersson mötte Zelenskyj - DN
+- Finansministern: Inte aktuellt att skrota rot - Omni
+- Unga i uppror i Marocko – två skjutna till döds - DN
+- Zelenskyj: Ingen kan hindra vår väg in i EU - Västerbottens-Kuriren
 - Länder framför protest mot Israel efter gripna aktivister - Hufvudstadsbladet
 - Tre döda i Manchester – polis bekräftar terrordåd - GP
-- EU drar upp nya försvarslinjer mot Ryssland – men beslut dröjer - Europaportalen
 - Ryanairs vd: 100 000 resenärer riskerar inställda flyg vid fransk flygledarstrejk - Sky - Placera.se
-- Analytiker: Slag mot Ericsson en storm i ett vattenglas - EFN
 - Om kriget kommer – nu för företag - Tidningen Näringslivet
-- Försäljning av Swecon sänker Lantmännens omsättning - ATL
+- Analytiker: Slag mot Ericsson en storm i ett vattenglas - EFN
+- Då slutar lönen vara hemlig – svenskarna redo - Dagens PS
 - Nu går Windows 10 ur tiden – dags att installera Windows 11 - Yle
 - Enorm prishöjning för speltjänsten Xbox Game Pass är nu här - m3.se
 
@@ -33,7 +33,7 @@ _Updated: 2025-10-02 22:40_
 - World Gym Corporation Advances Global Growth with Mexico MFA and Australia Expansion - Placera.se
 - Israels ambassadör till Gretabåten: Håll er borta - Aftonbladet
 - Protests erupt in Latin America over Israeli interception of Gaza aid flotilla - Anadolu Ajansı
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - travronden.se
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Medtecs Showcases Global Capabilities at MEDICA and A+A in Germany - Advancing Global Partnerships through Competitive Pricing, Assured Quality, and Reliable Delivery - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
