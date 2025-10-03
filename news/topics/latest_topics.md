@@ -1,46 +1,46 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-03 05:08_
+_Updated: 2025-10-03 05:45_
 
 ## Top Stories
 
-- DN Direkt - Man död i villabrand - DN
+- Man död i villabrand i Jönköping - GP
 - Putin: Ryssland kommer aldrig att visa svaghet - GP
 - 15-tal personer vårdas för listeria – lyxkrog på Östermalm stänger - SVT Nyheter
-- Fortsatt sökande efter norska soldaterna - Hufvudstadsbladet
-- 200 demonstranter gripna i Haag - SvD
+- DN Direkt - 200 demonstranter gripna i Haag - DN
+- Rapport: Mer grönt och mindre kött räddar planeten - Västerbottens-Kuriren
 - Tre döda i Manchester – polis bekräftar terrordåd - GP
-- DN Direkt - Demonstranter blockerade ingång till UD - DN
+- Stor Gaza-demonstration vid UD – blockerade ingång - SVT Nyheter
 - 02 oktober 21.28, Trafikkontroll, Västerbottens län - polisen.se
-- 02 oktober 20.41, Trafikkontroll, Jämtlands län - polisen.se
-- Eskilstuna överklagar dispens för farlig kemikalie - Västerbottens-Kuriren
-- Belgien kräver garantier från EU-länder för att använda frysta ryska miljarder - Europaportalen
-- Konvojen: Även Belgien framför protest mot Israel - Västerbottens-Kuriren
-- Europas ledare: Vi befinner oss i krig - Hufvudstadsbladet
-- Källor: USA fördjupar samarbetet med Ukraina - Omni
-- RYANAIR RASAR: 100 000 passagerare stoppas - Marcus Oscarsson
+- DN Direkt - Eskilstuna överklagar dispens för farlig kemikalie - DN
+- Föreläsning: Känner du igen ett digitalt bedrägeri? (Visby) - Region Gotland
+- DN Direkt - Trump och Jas på agendan när Kristersson mötte Zelenskyj - DN
+- Konvojen: Även Belgien framför protest mot Israel - GP
+- Många döda i fortsatta israeliska attacker i Gaza - Corren
+- EU drar upp nya försvarslinjer mot Ryssland – men beslut dröjer - Europaportalen
 - Då slutar lönen vara hemlig – svenskarna redo - Dagens PS
 - Nya krav på vinterdäck för tunga fordon - Regeringen.se
 - Kristofer Tonström och Polarn O. Pyret bland vinnarna på handelns stora gala - Dagens Handel
+- Arbetstiden stötesten i förhandlingarna - Publikt
+- Världens starkaste kvantdator har nyligen blivit 6 100 gånger starkare – och det kan förändra din vardag dramatiskt - Illustrerad Vetenskap
 - Nu går Windows 10 ur tiden – dags att installera Windows 11 - Yle
-- Enorm prishöjning för speltjänsten Xbox Game Pass är nu här - m3.se
 
 ## World News
 
 - Carrier Rebrands Global Command Centers to Advance Customer Outcomes - Placera.se
 - Global Sumud Flotilla: Fartyg blir bordade – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Fartyg från Gazakonvojen har blivit bordade - Aftonbladet
-- Medtecs Showcases Global Capabilities at MEDICA and A+A in Germany - Advancing Global Partnerships through Competitive Pricing, Assured Quality, and Reliable Delivery - Placera.se
+- World Gym Corporation Advances Global Growth with Mexico MFA and Australia Expansion - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Protests erupt in Latin America over Israeli interception of Gaza aid flotilla - Anadolu Ajansı
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
-- World Gym Corporation Advances Global Growth with Mexico MFA and Australia Expansion - Placera.se
+- Medtecs Showcases Global Capabilities at MEDICA and A+A in Germany - Advancing Global Partnerships through Competitive Pricing, Assured Quality, and Reliable Delivery - Placera.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Cryoport Systems Expands Global Footprint with New Global Supply Chain Center in Paris, France - Placera.se
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Patrick Ekwall aktuell med tredje deckaren – en global jakt på liv och död - NewsMachine AB
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Global Payments Completes Divestiture of Payroll Business - Placera.se
 - Israels ambassadör till Gretabåten: Håll er borta - Aftonbladet
@@ -77,28 +77,28 @@ _Updated: 2025-10-03 05:08_
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Investcorp Credit Management BDC, Inc. Schedules Earnings Release for Second Quarter and Fiscal Period Ended December 31, 2024 - Placera.se
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Investcorp Credit Management BDC, Inc. Schedules Earnings Release for Second Quarter and Fiscal Period Ended December 31, 2024 - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Better.com’s AI-Driven HELOC Underwriting Makes Approval with “Bank Statements Only” Possible for 36.2M Self-Employed or Small Business Owner Americans - Placera.se
+- Valour Tether Gold (XAUt) SEK ETP – ISIN: CH1108679981 - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Better.com’s AI-Driven HELOC Underwriting Makes Approval with “Bank Statements Only” Possible for 36.2M Self-Employed or Small Business Owner Americans - Placera.se
+- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
+- Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Yen Lac District Medical Center: Proaktivt skydd av människors hälsa under den varma säsongen - Vietnam.vn
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
@@ -107,38 +107,38 @@ _Updated: 2025-10-03 05:08_
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Svensk barnhälsa mår bra - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Vitalis – nordiskt toppmöte om hälsodatadelning och framtidens vårdsystem - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
