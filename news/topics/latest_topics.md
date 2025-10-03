@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-03 12:41_
+_Updated: 2025-10-03 13:37_
 
 ## Top Stories
 
-- Stormen Amy på väg – SMHI utökar varningar - SvD
-- Sista båten i Gazakonvojen bordad av Israel - Västerbottens-Kuriren
+- Gul vädervarning när stormen Amy drar in över Bohuslän - Lysekilsposten
+- Kristersson: Har begärt konsulärt tillträde - GP
+- Hamas begär betänketid efter Israels inspel - SvD
 - Rapport: Mer grönt och mindre kött räddar planeten - DN
+- Manchester: Ett offer kan ha skjutits av polis - SVT Nyheter
 - Ukrainas frontsoldater kan bli förlorare i Tjeckiens val - DN
-- DN Direkt - Venezuela: Amerikanska stridsflyg nära kusten - DN
-- Efter Trumps tal till militären – ”kan inte lita på USA” - Aftonbladet
 - Göteborgare matförgiftade på lyxkrogen i Stockholm - GP
-- DN Direkt - MP: Höj skatten på bensin och diesel - DN
-- S: Höj barnbidraget och slopa karensdagen - Västerbottens-Kuriren
-- SMÅLAND: Man död i brand – polisen misstänker mord - Dagens Vimmerby
-- DN Direkt - Anglikanska kyrkan får kvinnlig ledare - DN
-- Ingen dom efter kabelbrottet i Östersjön – finsk domstol saknar befogenhet - SVT Nyheter
-- Danska F-35 i beredskap på flygbas - Västerbottens-Kuriren
+- MP:s skuggbudget: Ta från bilmännen och ge till barnfamiljerna på landet - ETC.se
 - DN Direkt - Danska försvaret: Väntar oss fler hot - DN
-- Anställda på Clas Ohlson hotas med uppsägning – om de inte accepterar sänkt lön - Arbetet
+- S: Höj barnbidraget och slopa karensdagen - Västerbottens-Kuriren
+- Anglikanska kyrkan får kvinnlig ledare - Västerbottens-Kuriren
+- Ingen dom mot de åtalade för kabelsabotaget i Östersjön - SVT Nyheter
+- Danska F-35 i beredskap på flygbas - GP
+- Danmark: Ryssland för hybridkrig mot oss - SVT Nyheter
 - FI varnar för bedragare – 40 nya namn på varningslistan - Finansinspektionen
-- Bopriser ned på många orter – här sjunker de mest - SvD
+- Anställda på Clas Ohlson hotas med uppsägning – om de inte accepterar sänkt lön - Arbetet
 - Börsen öppnar upp – Volvo stiger efter USA-statistik - Dagens industri
+- Så mycket har bostadsrättspriserna ökat på fem år - Fastighetstidningen
 - Världens starkaste kvantdator har nyligen blivit 6 100 gånger starkare – och det kan förändra din vardag dramatiskt - Illustrerad Vetenskap
-- Nu går Windows 10 ur tiden – dags att installera Windows 11 - Yle
+- Xbox Game Pass får en uppdatering - här är allt du behöver veta - dopest.se
 
 ## World News
 
@@ -36,15 +36,15 @@ _Updated: 2025-10-03 12:41_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Medtecs Showcases Global Capabilities at MEDICA and A+A in Germany - Advancing Global Partnerships through Competitive Pricing, Assured Quality, and Reliable Delivery - Placera.se
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Cryoport Systems Expands Global Footprint with New Global Supply Chain Center in Paris, France - Placera.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Patrick Ekwall aktuell med tredje deckaren – en global jakt på liv och död - NewsMachine AB
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Israels ambassadör till Gretabåten: Håll er borta - Aftonbladet
-- DAR GLOBAL PLANS TO LAUNCH TRUMP PLAZA JEDDAH IN SECOND COLLABORATION WITH THE TRUMP ORGANIZATION, FOLLOWING THE SUCCESS OF TRUMP TOWER JEDDAH - Placera.se
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Choice Hotels International Accelerates International Growth with Addition of 50 New Quality Suites Hotels in France - Placera.se
 - S&P Global Announces Updates to the Executive Leadership Team - Placera.se
 
@@ -55,12 +55,13 @@ _Updated: 2025-10-03 12:41_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
@@ -69,7 +70,6 @@ _Updated: 2025-10-03 12:41_
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 - Infosys Extends Strategic Collaboration with Sunrise to Accelerate IT Transformation and Power AI Future - Placera.se
-- Conduent Integrates AI Technologies to Modernize Government Payments, Combat Fraud and Improve Customer Experiences for Beneficiaries - Placera.se
 
 ## Business
 
@@ -80,6 +80,7 @@ _Updated: 2025-10-03 12:41_
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
@@ -90,15 +91,14 @@ _Updated: 2025-10-03 12:41_
 - Better.com’s AI-Driven HELOC Underwriting Makes Approval with “Bank Statements Only” Possible for 36.2M Self-Employed or Small Business Owner Americans - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -120,25 +120,25 @@ _Updated: 2025-10-03 12:41_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
