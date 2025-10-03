@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-03 11:39_
+_Updated: 2025-10-03 12:41_
 
 ## Top Stories
 
+- Stormen Amy på väg – SMHI utökar varningar - SvD
+- Sista båten i Gazakonvojen bordad av Israel - Västerbottens-Kuriren
 - Rapport: Mer grönt och mindre kött räddar planeten - DN
-- Gul vädervarning när stormen Amy drar in över Bohuslän - Lysekilsposten
+- Ukrainas frontsoldater kan bli förlorare i Tjeckiens val - DN
 - DN Direkt - Venezuela: Amerikanska stridsflyg nära kusten - DN
-- Lång väg till akutvård efter misslyckad abort: ”Dödsångest” - DN
 - Efter Trumps tal till militären – ”kan inte lita på USA” - Aftonbladet
-- Här grips misstänkte mördaren i Majorna - GP
 - Göteborgare matförgiftade på lyxkrogen i Stockholm - GP
-- DN Direkt - S: Höj barnbidraget och slopa karensdagen - DN
 - DN Direkt - MP: Höj skatten på bensin och diesel - DN
-- Man död i villabrand i Jönköping - Västerbottens-Kuriren
-- Danmark: Ryssland för hybridkrig mot oss - SVT Nyheter
-- Danska F-35 i beredskap på flygbas - Västerbottens-Kuriren
+- S: Höj barnbidraget och slopa karensdagen - Västerbottens-Kuriren
+- SMÅLAND: Man död i brand – polisen misstänker mord - Dagens Vimmerby
+- DN Direkt - Anglikanska kyrkan får kvinnlig ledare - DN
 - Ingen dom efter kabelbrottet i Östersjön – finsk domstol saknar befogenhet - SVT Nyheter
-- Över 50 döda när tyfon drog över Vietnam - GP
-- FI varnar för bedragare – 40 nya namn på varningslistan - Finansinspektionen
-- Lista: Så har bostads­rätts­priserna utvecklats i din kommun - Aftonbladet
-- Börsen öppnar upp – Volvo stiger efter USA-statistik - Dagens industri
+- Danska F-35 i beredskap på flygbas - Västerbottens-Kuriren
+- DN Direkt - Danska försvaret: Väntar oss fler hot - DN
 - Anställda på Clas Ohlson hotas med uppsägning – om de inte accepterar sänkt lön - Arbetet
+- FI varnar för bedragare – 40 nya namn på varningslistan - Finansinspektionen
+- Bopriser ned på många orter – här sjunker de mest - SvD
+- Börsen öppnar upp – Volvo stiger efter USA-statistik - Dagens industri
 - Världens starkaste kvantdator har nyligen blivit 6 100 gånger starkare – och det kan förändra din vardag dramatiskt - Illustrerad Vetenskap
 - Nu går Windows 10 ur tiden – dags att installera Windows 11 - Yle
 
@@ -55,8 +55,8 @@ _Updated: 2025-10-03 11:39_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
-- Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
@@ -75,24 +75,24 @@ _Updated: 2025-10-03 11:39_
 
 - Bakkt Completes the Sale of Loyalty Business, Accelerating Transformation into a Pure-Play Digital Asset Infrastructure Platform - Placera.se
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- Better.com’s AI-Driven HELOC Underwriting Makes Approval with “Bank Statements Only” Possible for 36.2M Self-Employed or Small Business Owner Americans - Placera.se
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
+- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- DeFi Technologies Announces the Pricing of an Oversubscribed US$100 Million Registered Direct Offering - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Investcorp Credit Management BDC, Inc. Schedules Earnings Release for Second Quarter and Fiscal Period Ended December 31, 2024 - Placera.se
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Better.com’s AI-Driven HELOC Underwriting Makes Approval with “Bank Statements Only” Possible for 36.2M Self-Employed or Small Business Owner Americans - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
-- Attachments Valuno Group AB (Publ) signs Letter of Intent for joint venture with D2I and Citigiro - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 
 ## Health
 
@@ -104,9 +104,9 @@ _Updated: 2025-10-03 11:39_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Mabel AI won the HealthTech Award 2023 - NewsMachine AB
-- Nasim Bergman Farrokhnia lämnar Mindler för Microsoft - Dagens Medicin
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
@@ -120,45 +120,45 @@ _Updated: 2025-10-03 11:39_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
