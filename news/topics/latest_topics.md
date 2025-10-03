@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-03 22:39_
+_Updated: 2025-10-03 23:37_
 
 ## Top Stories
 
-- Stormen Amy på väg – SMHI utökar varningar - SVT Nyheter
-- Hamas: Redo att släppa samtliga gisslan - DN
-- 03 oktober 17.54, Skottlossning, Linköping - polisen.se
-- Sida om uppgörelsen med Somalia: Vi har följt regeringens styrning - DN
-- Tonårspojke svårt skadad – misstänkt mordförsök - Aftonbladet
-- Advokaten om Greta Thunberg: ”Behandlas inte bra” - GP
-- Sydkoreas president ber om ursäkt för adoptioner till Sverige - DN
-- Rapport: Mer grönt och mindre kött räddar planeten - GP
-- 19-åriga Elsas födelsedagspresent blev en listeriamardröm - GP
-- Eskilstuna överklagar dispens för farlig kemikalie - Aktuell Hållbarhet
+- Trump: Sista chans för Hamas – deadline på söndag - Hufvudstadsbladet
 - Amy kan bli värsta ovädret i Norge på 25 år - DN
+- Sida om uppgörelsen med Somalia: Vi har följt regeringens styrning - DN
+- Uppgift: Svensk gängkopplad man ihjälskjuten i Marbella - Omni
+- Pojke skadad efter bråk vid skola – misstänkt mordförsök - Aftonbladet
+- Korruptionsanklagad högerpopulist på väg att vinna tjeckiskt val - Europaportalen
+- Skottlossning i Linköping – en till sjukhus - SVT Nyheter
+- Ber om ursäkt för adoptioner: ”Sorg” - Västerbottens-Kuriren
+- Rapport: Mer grönt och mindre kött räddar planeten - DN
+- S: Höj barnbidraget och slopa karensavdraget - Socialdemokraterna
 - Två miljoner på Italiens gator till stöd för Global Sumud Flotilla - Proletären
 - Massiv rysk attack mot Ukrainas gasanläggningar - Västerbottens-Kuriren
-- Man körde i fel körriktning – misstänkts för rattfylleri - Expressen
-- Nellys vd tog strid mot Shein i rätten: ”Besviken och lite arg” - DN
+- Fartyg i konvoj nu i Gazas vatten - GP
+- Forskare skeptiska till drönarmur - SVT Nyheter
+- Kritiken: Trump vill införa socialism igen - SvD
+- Shein har gjort intrång i Nellys upphovsrätt, enligt Patent- och marknadsdomstolen (uppdatering) - Placera.se
+- Signalerna som avgör – då rör sig proffset mot utgången - EFN
 - Klart med nytt avtal för Saco-S medlemmar - Universitetsläraren
-- EU-toppen kräver att Tesla ska teckna kollektivavtal - Arbetet
-- FI varnar för bedragare – 40 nya namn på varningslistan - Finansinspektionen
 - Uppdrag till Folkhälsomyndigheten att undersöka hur vuxnas digitala vanor påverkar barns hälsa - Regeringen.se
 - Viktigt att ändra datorn - 8 Sidor
 
@@ -35,18 +35,18 @@ _Updated: 2025-10-03 22:39_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - New Secretary General appointed - Olof Palme International Center
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Israels ambassadör till Gretabåten: Håll er borta - Aftonbladet
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Choice Hotels International Accelerates International Growth with Addition of 50 New Quality Suites Hotels in France - Placera.se
 - S&P Global Announces Updates to the Executive Leadership Team - Placera.se
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -54,22 +54,22 @@ _Updated: 2025-10-03 22:39_
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
-- Infosys Extends Strategic Collaboration with Sunrise to Accelerate IT Transformation and Power AI Future - Placera.se
-- Conduent Integrates AI Technologies to Modernize Government Payments, Combat Fraud and Improve Customer Experiences for Beneficiaries - Placera.se
 
 ## Business
 
@@ -80,7 +80,6 @@ _Updated: 2025-10-03 22:39_
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
@@ -90,9 +89,10 @@ _Updated: 2025-10-03 22:39_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Investcorp Credit Management BDC, Inc. Schedules Earnings Release for Second Quarter and Fiscal Period Ended December 31, 2024 - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
-- Attachments Valuno Group AB (Publ) signs Letter of Intent for joint venture with D2I and Citigiro - Placera.se
+- Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
 
 ## Health
 
