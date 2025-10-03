@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-03 06:41_
+_Updated: 2025-10-03 07:40_
 
 ## Top Stories
 
-- Man död i villabrand i Jönköping - SVT Nyheter
+- Man död i brand i Jönköping – polisen misstänker mord - Omni
 - Fem soldater försvunna i Norge efter militärövning - GP
 - Rapport: Mer grönt och mindre kött räddar planeten - Västerbottens-Kuriren
-- DN Direkt - Flera knivskadade vid synagoga i Manchester - DN
+- DN Direkt - 200 demonstranter gripna i Haag - DN
+- Flera döda och skadade efter våldsdåd vid synagoga i Manchester - SVT Nyheter
 - Lång väg till akutvård efter misslyckad abort: ”Dödsångest” - DN
-- ÖB tar inte fred i Sverige för givet: ”Är osäker” - SvD
 - 15-tal personer vårdas för listeria – lyxkrog på Östermalm stänger - SVT Nyheter
-- Kollektivavtal tecknat efter Northvolt-köp - GP
-- Stor Gaza-demonstration vid UD – blockerade ingång - SVT Nyheter
-- 02 oktober 21.28, Trafikkontroll, Västerbottens län - polisen.se
-- Orbán-vän kan ta över i Tjeckien - Västerbottens-Kuriren
+- Ledare: Miljardnota för släpande infrastruktur - NWT
+- DN Direkt - Demonstranter blockerade ingång till UD - DN
+- 02 oktober 21.28, Trafikkontroll, Västerbottens län - Polisen.se
 - Unga i uppror i Marocko – två skjutna till döds - DN
+- Orbán-vän kan ta över i Tjeckien - Västerbottens-Kuriren
 - Länder framför protest mot Israel efter gripna aktivister - Hufvudstadsbladet
-- Belgien kräver garantier från EU-länder för att använda frysta ryska miljarder - Europaportalen
+- Många döda i fortsatta israeliska attacker i Gaza - Corren
+- Bopriser ned på många orter – här sjunker de mest - SvD
+- Lättnad efter rejält lyft för svenskt nyföretagande - Dagens PS
+- Flygstrejk kan få Ryanair att ställa in 600 avgångar - Expressen
 - Då slutar lönen vara hemlig – svenskarna redo - Dagens PS
-- Nya krav på vinterdäck för tunga fordon - Regeringen.se
-- Kristofer Tonström och Polarn O. Pyret bland vinnarna på handelns stora gala - Dagens Handel
-- De flesta företag anmäler inte brott - Tidningen Näringslivet
 - Världens starkaste kvantdator har nyligen blivit 6 100 gånger starkare – och det kan förändra din vardag dramatiskt - Illustrerad Vetenskap
 - Nu går Windows 10 ur tiden – dags att installera Windows 11 - Yle
 
@@ -31,19 +31,19 @@ _Updated: 2025-10-03 06:41_
 - Global Sumud Flotilla: Fartyg blir bordade – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Fartyg från Gazakonvojen har blivit bordade - Aftonbladet
 - World Gym Corporation Advances Global Growth with Mexico MFA and Australia Expansion - Placera.se
-- Israels ambassadör till Gretabåten: Håll er borta - Aftonbladet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Protests erupt in Latin America over Israeli interception of Gaza aid flotilla - Anadolu Ajansı
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Medtecs Showcases Global Capabilities at MEDICA and A+A in Germany - Advancing Global Partnerships through Competitive Pricing, Assured Quality, and Reliable Delivery - Placera.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Cryoport Systems Expands Global Footprint with New Global Supply Chain Center in Paris, France - Placera.se
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Patrick Ekwall aktuell med tredje deckaren – en global jakt på liv och död - NewsMachine AB
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Global Payments Completes Divestiture of Payroll Business - Placera.se
+- Israels ambassadör till Gretabåten: Håll er borta - Aftonbladet
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Choice Hotels International Accelerates International Growth with Addition of 50 New Quality Suites Hotels in France - Placera.se
 - S&P Global Announces Updates to the Executive Leadership Team - Placera.se
 - NETMARBLE'S ULTIMATE DARK FANTASY MMORPG RAVEN2 SET FOR GLOBAL LAUNCH ON OCTOBER 22 - Placera.se
@@ -56,20 +56,20 @@ _Updated: 2025-10-03 06:41_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
-- Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
-- Infosys Extends Strategic Collaboration with Sunrise to Accelerate IT Transformation and Power AI Future - Placera.se
 - Conduent Integrates AI Technologies to Modernize Government Payments, Combat Fraud and Improve Customer Experiences for Beneficiaries - Placera.se
+- New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
 
 ## Business
 
@@ -120,25 +120,25 @@ _Updated: 2025-10-03 06:41_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
