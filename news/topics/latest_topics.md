@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-03 23:37_
+_Updated: 2025-10-04 00:38_
 
 ## Top Stories
 
 - Trump: Sista chans för Hamas – deadline på söndag - Hufvudstadsbladet
-- Amy kan bli värsta ovädret i Norge på 25 år - DN
+- DN Direkt - Stormen pressar elpriset till noll - DN
 - Sida om uppgörelsen med Somalia: Vi har följt regeringens styrning - DN
-- Uppgift: Svensk gängkopplad man ihjälskjuten i Marbella - Omni
-- Pojke skadad efter bråk vid skola – misstänkt mordförsök - Aftonbladet
-- Korruptionsanklagad högerpopulist på väg att vinna tjeckiskt val - Europaportalen
+- Advokaten om Greta Thunberg: ”Behandlas inte bra” - GP
+- Tonårspojke svårt skadad – misstänkt mordförsök - Västerbottens-Kuriren
+- Uppgifter: Svensk med gängkoppling ihjälskjuten - Sydsvenskan
 - Skottlossning i Linköping – en till sjukhus - SVT Nyheter
-- Ber om ursäkt för adoptioner: ”Sorg” - Västerbottens-Kuriren
+- Sydkoreas president ber om ursäkt för adoptioner till Sverige - DN
 - Rapport: Mer grönt och mindre kött räddar planeten - DN
-- S: Höj barnbidraget och slopa karensavdraget - Socialdemokraterna
-- Två miljoner på Italiens gator till stöd för Global Sumud Flotilla - Proletären
-- Massiv rysk attack mot Ukrainas gasanläggningar - Västerbottens-Kuriren
+- Göteborgare matförgiftade på lyxkrogen i Stockholm - GP
 - Fartyg i konvoj nu i Gazas vatten - GP
+- DN Direkt - UD avråder från resor till Madagaskar - DN
 - Forskare skeptiska till drönarmur - SVT Nyheter
+- Två miljoner på Italiens gator till stöd för Global Sumud Flotilla - Proletären
+- Tvisten klar: Nelly vinner mot Shein men tvingas betala rättegångskostnader - habit.se
 - Kritiken: Trump vill införa socialism igen - SvD
-- Shein har gjort intrång i Nellys upphovsrätt, enligt Patent- och marknadsdomstolen (uppdatering) - Placera.se
 - Signalerna som avgör – då rör sig proffset mot utgången - EFN
 - Klart med nytt avtal för Saco-S medlemmar - Universitetsläraren
 - Uppdrag till Folkhälsomyndigheten att undersöka hur vuxnas digitala vanor påverkar barns hälsa - Regeringen.se
@@ -30,16 +30,15 @@ _Updated: 2025-10-03 23:37_
 - UNI Post & Logistics World Conference väljer ny ledning och stakar ut en djärv väg - UNI Global Union
 - Global Sumud Flotilla: Fartyg blir bordade – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Fartyg från Gazakonvojen har blivit bordade - Aftonbladet
-- Medtecs Showcases Global Capabilities at MEDICA and A+A in Germany - Advancing Global Partnerships through Competitive Pricing, Assured Quality, and Reliable Delivery - Placera.se
 - Carrier Rebrands Global Command Centers to Advance Customer Outcomes - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - New Secretary General appointed - Olof Palme International Center
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
@@ -47,14 +46,15 @@ _Updated: 2025-10-03 23:37_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Choice Hotels International Accelerates International Growth with Addition of 50 New Quality Suites Hotels in France - Placera.se
 - S&P Global Announces Updates to the Executive Leadership Team - Placera.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
@@ -80,6 +80,7 @@ _Updated: 2025-10-03 23:37_
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
@@ -89,10 +90,9 @@ _Updated: 2025-10-03 23:37_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Investcorp Credit Management BDC, Inc. Schedules Earnings Release for Second Quarter and Fiscal Period Ended December 31, 2024 - Placera.se
 - Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
-- Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 
 ## Health
 
@@ -121,44 +121,44 @@ _Updated: 2025-10-03 23:37_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- An Giang Farmers' Association hjälper kooperativ att odla högkvalitativt ris med god inkomst - Vietnam.vn
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- De gick från reko till eko - ST-tidningen
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Tio jordbruksaktier för depån - Placera.se
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Lediga jobb - ATL
+- 2021-04-20 Webbinarium: Social hållbarhet - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
-- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
