@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-03 13:48_
+_Updated: 2025-10-03 15:05_
 
-- Trump eyes cuts to 'Democrat Agencies' in government shutdown - Reuters
-- Manchester synagogue attack: What we know about the victims and attacker - Al Jazeera
-- Massive fire erupts at Chevron refinery in El Segundo, sending plumes across South Bay - Los Angeles Times
+- As shutdown ripples through Georgia, voters consider who to blame - NPR
+- Firefighters battle large blaze at Chevron refinery in Southern California - ABC News - Breaking News, Latest News and Videos
+- Police Accidentally Shot and Killed a Victim During Manchester Terrorist Attack - The New York Times
 - Last boat in Gaza humanitarian flotilla intercepted by Israel - Al Jazeera
 - U.S. in ‘armed conflict’ with drug cartels, Trump tells Congress - The Washington Post
-- Newsom threatens state funding for California universities that agree to Trump demands - San Francisco Chronicle
+- 'Hatred and racism cannot tear us apart,' first woman Archbishop of Canterbury Sarah Mullally says - BBC
+- Newsom Says California Will Cut Funds For ‘Sell-Out Universities’ Complying With Trump Education Crackdown - Forbes
+- Trump and Government Shutdown Live Updates: Senate to Return For Votes as Deadlock Reaches 3rd Day - The New York Times
 - FDA approves another generic abortion pill, prompting outrage from conservatives - NPR
-- Trump administration cuts nearly $8B in clean energy projects in states that backed Harris - AP News
-- Former Des Moines superintendent who was detained by ICE federally charged - ABC News - Breaking News, Latest News and Videos
-- Donations pour in for family of gunman in Michigan church attack - BBC
-- Flights Are Briefly Halted at Munich Airport After Drone Sightings - The New York Times
-- Trump will determine how long to give Hamas to accept Gaza plan, White House says - Reuters
-- 'What's stopping us?' — Putin threatens to attack Ukraine's nuclear power plants - The Kyiv Independent
-- India and China to resume direct flights after five-year freeze - Reuters
-- Stock Market Today: Tesla Drops Despite Record Deliveries and Subsidy-Driven Demand - Nasdaq
-- Asian Stocks Set to Fall in Break with Wall Street: Markets Wrap - Bloomberg.com
+- Utah man has raised over $330K for family of the Grand Blanc Twp. suspect - The Detroit News
+- Germany: Drone sightings disrupt Munich airport - DW
+- Luxembourg’s Grand Duke abdicates in favour of son - Financial Times
+- Afghanistan: A two-day internet blackout shows even the Taliban can’t turn back time - CNN
+- Hamas Still Considering Trump Gaza Plan but Rejects ‘Take It or Leave It’ Deal - The New York Times
+- AI bubble is 17 times the size of that of the dot-com frenzy, analyst argues - MarketWatch
+- Tesla posts record deliveries, concerns mount over EV demand post-tax credits - Reuters
 - BlackRock Nears $40 Billion Data Center Deal in Bet on AI - Bloomberg.com
 - 'Pokémon Don't Sue Me': Sora 2 App Opens Floodgates to AI Videos of Pikachu, Mario and More - IGN
-- Samsung's One UI 8.5 update keeps leaking, adding '3D' icons and more Liquid Glass vibes [Gallery] - 9to5Google
-- Perplexity’s Comet AI browser now free; Max users get new ‘background assistant’ - TechCrunch
+- Microsoft says its "trying to reinforce" Xbox Game Pass price increases "by adding more value" - GamesIndustry.biz
+- It looks like Windows 11 is about to get a new dedicated OneDrive app — here's your first look - Windows Central
