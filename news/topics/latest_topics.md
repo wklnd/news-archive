@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-03 04:07_
+_Updated: 2025-10-03 05:08_
 
 ## Top Stories
 
-- Fortsatt sökande efter norska soldaterna - Hufvudstadsbladet
-- Man död i villabrand i Jönköping - SVT Nyheter
-- Tre restauranggäster från Uppsala län inlagda - UNT
+- DN Direkt - Man död i villabrand - DN
 - Putin: Ryssland kommer aldrig att visa svaghet - GP
-- DN Direkt - Flera knivskadade vid synagoga i Manchester - DN
-- Flygplats stängd efter drönarlarm - Aftonbladet
+- 15-tal personer vårdas för listeria – lyxkrog på Östermalm stänger - SVT Nyheter
+- Fortsatt sökande efter norska soldaterna - Hufvudstadsbladet
+- 200 demonstranter gripna i Haag - SvD
+- Tre döda i Manchester – polis bekräftar terrordåd - GP
 - DN Direkt - Demonstranter blockerade ingång till UD - DN
-- Eskilstuna överklagar dispens för farlig kemikalie - Västerbottens-Kuriren
-- 02 oktober 20.41, Trafikkontroll, Jämtlands län - polisen.se
 - 02 oktober 21.28, Trafikkontroll, Västerbottens län - polisen.se
+- 02 oktober 20.41, Trafikkontroll, Jämtlands län - polisen.se
+- Eskilstuna överklagar dispens för farlig kemikalie - Västerbottens-Kuriren
+- Belgien kräver garantier från EU-länder för att använda frysta ryska miljarder - Europaportalen
 - Konvojen: Även Belgien framför protest mot Israel - Västerbottens-Kuriren
-- EU drar upp nya försvarslinjer mot Ryssland – men beslut dröjer - Europaportalen
-- Många döda i fortsatta israeliska attacker i Gaza - SvD
-- DN Direkt - Trump och Jas på agendan när Kristersson mötte Zelenskyj - DN
-- Ryanairs vd: 100 000 resenärer riskerar inställda flyg vid fransk flygledarstrejk - Sky - Placera.se
-- Bakslag för Trump: Cook får sitta kvar i väntan på förhör - Omni
+- Europas ledare: Vi befinner oss i krig - Hufvudstadsbladet
+- Källor: USA fördjupar samarbetet med Ukraina - Omni
+- RYANAIR RASAR: 100 000 passagerare stoppas - Marcus Oscarsson
 - Då slutar lönen vara hemlig – svenskarna redo - Dagens PS
 - Nya krav på vinterdäck för tunga fordon - Regeringen.se
+- Kristofer Tonström och Polarn O. Pyret bland vinnarna på handelns stora gala - Dagens Handel
 - Nu går Windows 10 ur tiden – dags att installera Windows 11 - Yle
 - Enorm prishöjning för speltjänsten Xbox Game Pass är nu här - m3.se
 
@@ -32,16 +32,16 @@ _Updated: 2025-10-03 04:07_
 - Fartyg från Gazakonvojen har blivit bordade - Aftonbladet
 - Medtecs Showcases Global Capabilities at MEDICA and A+A in Germany - Advancing Global Partnerships through Competitive Pricing, Assured Quality, and Reliable Delivery - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Protests erupt in Latin America over Israeli interception of Gaza aid flotilla - Anadolu Ajansı
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - World Gym Corporation Advances Global Growth with Mexico MFA and Australia Expansion - Placera.se
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Cryoport Systems Expands Global Footprint with New Global Supply Chain Center in Paris, France - Placera.se
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Patrick Ekwall aktuell med tredje deckaren – en global jakt på liv och död - NewsMachine AB
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Payments Completes Divestiture of Payroll Business - Placera.se
 - Israels ambassadör till Gretabåten: Håll er borta - Aftonbladet
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
@@ -50,26 +50,26 @@ _Updated: 2025-10-03 04:07_
 
 ## Technology
 
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Use of Drones for Land Surveying and Mapping Reaching New Levels Becoming a Billion Dollar Opportunity - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- Kandidatprogram i filosofi och artificiell intelligens - Umeå universitet
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
+- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
+- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Bästa AI-aktierna att köpa nu - Morningstar Canada
-- 290 million for digitalisation of Swedish industry - Vinnova
-- Artificiell intelligens: Möjligheter och risker - European Parliament
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- In English - About Gothenburgs Digital twin - Göteborgs Stad
-- An Afternoon With HubAI: ‘It’s the coolest of all algorithms’ - Lundagård
-- Unilabs signs an agreement with AI provider Mindpeak, further bolstering its breast cancer offering - Mynewsdesk
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
-- Vr-teknik från MIT kan låta fabriksarbetare jobba hemifrån - Ny Teknik
-- Defense Tech Grows as AI Security Threats Push $28B Investment Wave - Placera.se
-- Sam Altman: The extraordinary firing of an AI superstar - BBC
-- Artificial intelligence will not turn into a Frankenstein's monster | Alan Winfield - The Guardian
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
+- Conduent Integrates AI Technologies to Modernize Government Payments, Combat Fraud and Improve Customer Experiences for Beneficiaries - Placera.se
+- New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
 
 ## Business
 
@@ -121,24 +121,24 @@ _Updated: 2025-10-03 04:07_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
