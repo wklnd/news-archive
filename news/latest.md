@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-03 21:48_
+_Updated: 2025-10-03 22:48_
 
-- Trump Live Updates: Plans to End Government Shutdown Fail in Senate for 4th Time - The New York Times
-- Hegseth says U.S. strike on alleged drug boat off Venezuela kills 4 "narco-terrorists" - CBS News
-- Trump gives Hamas a 'last chance' deadline to agree to a peace plan with Israel - NPR
-- One victim in Yom Kippur synagogue attack in England was shot dead by police - The Washington Post
-- LIVE UPDATES: Chevron refinery fire contained in El Segundo; investigation underway into cause - ABC7 Los Angeles
-- ‘There is nothing to negotiate’: Johnson, Thune double down against Democratic shutdown demands - Politico
+- Senate fails again to advance funding bill, shutdown likely to extend into next week - ABC News - Breaking News, Latest News and Videos
+- Hamas agrees to some of Trump's plan but seeks negotiations - Reuters
+- Premier League: Man United & Man City to pay tribute to synagogue attack victims - BBC
+- LIVE UPDATES: Chevron refinery fire in El Segundo extinguished; investigation underway into cause - ABC7 Los Angeles
 - Newsom threatens state funding for California universities that agree to Trump demands - San Francisco Chronicle
-- Vought Suspends $2 Billion for Chicago Trains in Shutdown Gambit - Bloomberg.com
+- U.S. Military Attacked Boat Off Venezuela, Killing Four Men, Hegseth Says - The New York Times
 - Des Moines school district says it will pursue legal action against consulting firm after superintendent detained by ICE - ABC News - Breaking News, Latest News and Videos
-- Conservative influencer Nick Sortor released after arrest in fight outside Portland ICE building, police say - CNN
+- Fired federal prosecutor tapes a note about duty to the door on his way out - CNN
+- Pro-Trump influencer rages at police after arrest: ‘You made a big freaking mistake’ - NJ.com
+- FBI cuts ties with Southern Poverty Law Center after MAGA push - Politico
 - First woman is named archbishop of Canterbury, leader of Church of England - The Washington Post
 - Last boat in Gaza humanitarian flotilla intercepted by Israel - Al Jazeera
 - King Charles reign sees second abdication - Geo.tv
 - Russian drone attack kills 13,000 pigs in Ukraine, officials say - CBS News
 - The shutdown meant no jobs report. Here's what it would have said about the economy - CNBC
-- Tesla Is Sued by Families Who Say Faulty Doors Led to Two Deaths - The New York Times
-- Cracker Barrel dumps the design firm behind its disastrous logo change - CNN
-- OpenAI’s Sora soars to No. 1 on Apple’s US App Store - TechCrunch
+- Tesla Cybertruck’s faulty door handles caused woman’s death, lawsuit alleges - The Verge
+- Exclusive: Trump considering significant tariff relief for US vehicle production, senator says - Reuters
+- Jeep, Dodge, Chrysler vehicles will still qualify for the $7,500 EV credit past the deadline - Electrek
 - Apple iPhone 17 Pro review: Come for the camera, stay for the battery - Ars Technica
 - Here's What Makes Apple's New 40-Watt Power Adapter Unique - CNET
