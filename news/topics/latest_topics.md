@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-03 15:01_
+_Updated: 2025-10-03 15:42_
 
 ## Top Stories
 
 - DN Direkt - Orange stormvarning på Skagerrak - DN
-- Rapport: Mer grönt och mindre kött räddar planeten - Västerbottens-Kuriren
 - Ukrainas frontsoldater kan bli förlorare i Tjeckiens val - DN
-- Hjärtläkare fick jobba vidare – trots flera larm - SvD
-- Par drev dopningsfabrik – döms till fängelse - Aftonbladet
+- Rapport: Mer grönt och mindre kött räddar planeten - Västerbottens-Kuriren
+- Här smittas 19-åriga Elsa från Uppsala på lyxkrogen - UNT
+- Man anhållen för skott i Växjö - SVT Nyheter
+- ”Vi tar det på stort allvar” - Jönköpings-Posten
+- DN Direkt - MP: Höj skatten på bensin och diesel - DN
+- S: Höj barnbidraget och slopa karensdagen - Sydsvenskan
+- Därför betalar Benjamin Dousa 100 miljoner till somalisk Hamaskramare - Arbetet
+- Det här är alldeles åt skogen - SvD
 - Massiv rysk attack mot Ukrainas gasanläggningar - Västerbottens-Kuriren
-- Göteborgare matförgiftade på lyxkrogen i Stockholm - GP
-- S vill höja barnbidraget och slopa karensdagen - Omni
-- Miljöpartiet vill ge en miljard mer till kulturen - DN
-- Man död i villabrand i Jönköping - Aftonbladet
 - Anglikanska kyrkan får kvinnlig ledare - GP
-- Flera döda och skadade efter våldsdåd vid synagoga i Manchester - SVT Nyheter
-- Danska stridsplan i beredskap på flygbas - Expressen
-- Luxemburg får ny monark - Aftonbladet
-- Anställda på Clas Ohlson hotas med uppsägning – om de inte accepterar sänkt lön - Arbetet
+- Två döda i attack vid synagoga i Manchester - Corren
+- Forskare skeptiska till drönarmur - SVT Nyheter
 - Nellys vd tog strid mot Shein i rätten: ”Besviken och lite arg” - DN
+- Anställda på Clas Ohlson hotas med uppsägning – om de inte accepterar sänkt lön - Arbetet
 - FI varnar för bedragare – 40 nya namn på varningslistan - Finansinspektionen
 - Så mycket har bostadsrättspriserna ökat på fem år - Fastighetstidningen
 - Vuxnas skärmtid ska utredas - SVT Nyheter
@@ -35,14 +35,14 @@ _Updated: 2025-10-03 15:01_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Medtecs Showcases Global Capabilities at MEDICA and A+A in Germany - Advancing Global Partnerships through Competitive Pricing, Assured Quality, and Reliable Delivery - Placera.se
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
 - New Secretary General appointed - Olof Palme International Center
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Israels ambassadör till Gretabåten: Håll er borta - Aftonbladet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Choice Hotels International Accelerates International Growth with Addition of 50 New Quality Suites Hotels in France - Placera.se
@@ -75,21 +75,21 @@ _Updated: 2025-10-03 15:01_
 
 - Bakkt Completes the Sale of Loyalty Business, Accelerating Transformation into a Pure-Play Digital Asset Infrastructure Platform - Placera.se
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
+- Better.com’s AI-Driven HELOC Underwriting Makes Approval with “Bank Statements Only” Possible for 36.2M Self-Employed or Small Business Owner Americans - Placera.se
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
+- Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Investcorp Credit Management BDC, Inc. Schedules Earnings Release for Second Quarter and Fiscal Period Ended December 31, 2024 - Placera.se
+- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Better.com’s AI-Driven HELOC Underwriting Makes Approval with “Bank Statements Only” Possible for 36.2M Self-Employed or Small Business Owner Americans - Placera.se
+- Investcorp Credit Management BDC, Inc. Schedules Earnings Release for Second Quarter and Fiscal Period Ended December 31, 2024 - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
 - Attachments Valuno Group AB (Publ) signs Letter of Intent for joint venture with D2I and Citigiro - Placera.se
@@ -97,24 +97,24 @@ _Updated: 2025-10-03 15:01_
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Yen Lac District Medical Center: Proaktivt skydd av människors hälsa under den varma säsongen - Vietnam.vn
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers
 - Fakulteten för hälsa och samhälle - Malmö universitet
+- Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Vitalis – nordiskt toppmöte om hälsodatadelning och framtidens vårdsystem - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
@@ -123,22 +123,22 @@ _Updated: 2025-10-03 15:01_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
