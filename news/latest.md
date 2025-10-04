@@ -1,17 +1,17 @@
 # Top News Headlines
 
-_Updated: 2025-10-04 05:48_
+_Updated: 2025-10-04 06:48_
 
-- Hamas accepts Trump’s plan to end the war in Gaza, but with conditions - The Washington Post
-- Firefighters battle large blaze at Chevron refinery in Southern California - ABC News - Breaking News, Latest News and Videos
-- Treasury Department considers minting a $1 Trump coin - Politico
-- Shutdown standoff not about whether Democrats or GOP 'win or lose,' says Sen. Warnock - NPR
+- Trump tells Israel to stop bombing Gaza, saying Hamas is ready for peace - Reuters
+- Chevron refinery fire in El Segundo extinguished; investigation underway into cause - ABC7 Los Angeles
+- Treasury Plans to Mint $1 Commemorative Trump Coin - The New York Times
+- US Military Strikes Another Suspected Drug Boat, Killing Four - Bloomberg.com
+- Trump Hit With First Lawsuit to Halt $100,000 H-1B Entry Fee (2) - Bloomberg Law News
 - Karoline Leavitt says White House must cut spending due to shutdown - NPR
-- House GOP cancels more votes in escalation of shutdown strategy - Axios
+- Federal judge weighs starkly different views of Portland protests in hearing on National Guard - Oregon Public Broadcasting - OPB
+- Hegseth fires top Navy official - Politico
 - Trump undoes $187 million cut to NY security funds after GOP outcry - Axios
-- Justice Kavanaugh’s Would-Be Assassin Sentenced to 8 Years in Prison - The New York Times
-- Newsom threatens state funding for California universities that agree to Trump demands - San Francisco Chronicle
-- Trump called for troops in Portland. Here’s why Oregon’s governor was ready - OregonLive.com
+- Supreme Court will let Trump end protected status for Venezuelans for now - The Washington Post
 - Denmark prepares for a Russian 'hybrid war' after repeated drone spottings - NPR
 - Netanyahu ordered drone attacks on Gaza-bound humanitarian aid boats off Tunisia, sources say - CBS News
 - UK synagogue attacker was under investigation for rape; his dad praised Hamas for Oct. 7 - The Times of Israel
@@ -19,6 +19,6 @@ _Updated: 2025-10-04 05:48_
 - Shutdown has already delayed the jobs report. More critical reports could be held up - NPR
 - Tesla hit with second lawsuit over deadly California Cybertruck crash - The Guardian
 - Exclusive: Trump considering significant tariff relief for US vehicle production, senator says - Reuters
-- MN PUC greenlights BlackRock takeover—Minnesotans lose - Private Equity Stakeholder Project PESP
+- OpenAI’s Sora soars to No. 1 on Apple’s US App Store - TechCrunch
+- Microsoft is about to launch free Xbox Cloud Gaming with ads - The Verge
 - The Apple Watch Ultra 3 you deserve exists: Apple just didn’t build it - PhoneArena
-- Google reportedly testing MediaTek modem for Tensor G6 and Pixel 11 - 9to5Google
