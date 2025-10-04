@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-04 18:41_
+_Updated: 2025-10-04 19:37_
 
 ## Top Stories
 
 - Då kommer stormen Amy till västkusten - GP
-- Sex personer skadade i skottlossning i centrala Gävle – 13-åring misstänkt - SVT Nyheter
-- Netanyahu säger sig vilja samarbeta ”fullt ut” med Trump - DN
 - Kvinna rånades och våldtogs av falsk agent - SvD
-- Lundauppfinning stoppar knark och kemiska vapen - Sydsvenskan
-- Man misstänks för mord – kvinna död - GP
+- Barnen betalar för att se bomberna i Gaza - Aftonbladet
+- Sex personer skadade i skottlossning i centrala Gävle – 13-åring misstänkt - SVT Nyheter
+- Babis parti störst i Tjeckien – ytterhögerkoalition trolig - Hufvudstadsbladet
+- Netanyahu säger sig vilja samarbeta ”fullt ut” med Trump - DN
 - Advokaten om Greta Thunberg: ”Behandlas inte bra” - GP
-- DN Direkt - Tillståndet inte livshotande för skjuten i Linköping - DN
+- Två män till sjukhus efter grov misshandel i Helsingborg - Expressen
 - LEDARE: Inlandsbanan behandlas som en nödlösning - Östersunds-Posten
-- Så ska du äta för att skona jorden - Aftonbladet
+- Frågor och svar om Chicken nuggets-mannen - Aftonbladet
 - Kamp mot klockan – bomber förgiftar Östersjön - SvD
-- Dubbelattack mot tågstation i Ukraina: ”Terror” - Hufvudstadsbladet
-- Babis parti störst i Tjeckien – förhandling väntar - GP
-- Drönarattack mot stort ryskt oljeraffinaderi - Västerbottens-Kuriren
+- Dubbelattack mot tågstation i Ukraina: ”Terror” - GP
+- Zelenskyj: Attack mot tågstation – många skadade - Västerbottens-Kuriren
+- Just nu: Träd över vägen påverkar trafiken på E4 - SN, Södermanlands Nyheter
 - Carl Johan von Seth: Allt är perfekt och inget kan gå fel i USA:s ekonomi - DN
-- Jättens elbil tar över klassiskt namn: ”Bara början” - DN
 - Tänk på det här när du ska sälja ditt guld - SvD
+- Jättens elbil tar över klassiskt namn: ”Bara början” - DN
 - Fler husägare tar ansvar för att skydda sina hus - Örebronyheter
 - Regeringen: Utred vuxnas skärmtid - Aftonbladet
-- Eva 81 år tränar tre gånger i veckan - Västerbottens-Kuriren
+- Monstruös iPhone-modd med kylning slår Apples egen lösning - Teknikveckan
 
 ## World News
 
@@ -35,18 +35,18 @@ _Updated: 2025-10-04 18:41_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- NETMARBLE'S ULTIMATE DARK FANTASY MMORPG RAVEN2 SET FOR GLOBAL LAUNCH ON OCTOBER 22 - Placera.se
 - New Secretary General appointed - Olof Palme International Center
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 
 ## Technology
 
@@ -57,9 +57,10 @@ _Updated: 2025-10-04 18:41_
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- ZenaTech Closes Tenth Acquisition of A&J Land Surveyor Inc., Expanding Drone as a Service (DaaS) to Florida’s Aviation, Utility, and Infrastructure Markets - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- ZenaTech Closes Tenth Acquisition of A&J Land Surveyor Inc., Expanding Drone as a Service (DaaS) to Florida’s Aviation, Utility, and Infrastructure Markets - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
@@ -69,7 +70,6 @@ _Updated: 2025-10-04 18:41_
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
-- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 
 ## Business
 
@@ -91,8 +91,8 @@ _Updated: 2025-10-04 18:41_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - BTQ Technologies Announces QSSN Deployment with Finger Inc. Group, alongside PQC Banking Services PoC - Placera.se
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 
 ## Health
 
