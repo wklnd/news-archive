@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-04 20:44_
+_Updated: 2025-10-04 21:37_
 
 ## Top Stories
 
 - Då kommer stormen Amy till västkusten - GP
+- Nathan Shachar: Den första strimman av hopp om ett slut på kriget - DN
 - 13-åring misstänks för skjutningen i Gävle – det här vet vi just nu 4 oktober 2025 - P3 Krim - Sveriges Radio
-- Kvinna rånades och våldtogs av falsk agent - SvD
-- Lundauppfinning stoppar knark och kemiska vapen - Sydsvenskan
-- Uppgifter: Thunberg klagar om uttorkning och löss - DN
-- Kvinna hittades död i bostad i Växjö – man anhållen för mord - TV4 Nyheterna
+- Gisslansamtal inleds i Egypten - Hufvudstadsbladet
+- Netanyahu: Hoppas få hem gisslan inom några dagar - TV4 Nyheterna
+- Israel: Ytterligare 137 aktivister deporterade - Västerbottens-Kuriren
 - Tenje håller fast vid siffrorna om försörjningsstödet: ”I underkant” - ETC.se
 - LEDARE: Inlandsbanan behandlas som en nödlösning - Östersunds-Posten
+- Två män till sjukhus efter grov misshandel i Helsingborg - Expressen
 - QUIZ: Vad heter kanelbulle på danska? - Skånska Dagbladet
-- BILDERNA: Misstänkta skotthål innanför avspärrningen - Corren
-- Emma Bouvin: Hoppet om varaktig fred störs av en rejäl smäll från Gaza - DN
 - Greensburg byggdes upp för att klara en ny tornado - DN
+- 3 000-årig gravkammare öppnas för allmänheten - GP
 - Babis parti störst i Tjeckien – ytterhögerkoalition trolig - Hufvudstadsbladet
-- Israels kommunistiska parti och fronten Hadash kräver ett omedelbart slut på folkmordkriget mot det palestinska folket - RiktpunKt.nu
+- Dubbelattack mot tågstation i Ukraina: ”Terror” - Hufvudstadsbladet
 - Carl Johan von Seth: Allt är perfekt och inget kan gå fel i USA:s ekonomi - DN
 - Tänk på det här när du ska sälja ditt guld - SvD
 - Fler husägare tar ansvar för att skydda sina hus - Örebronyheter
@@ -50,26 +50,26 @@ _Updated: 2025-10-04 20:44_
 
 ## Technology
 
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Kandidatprogram i filosofi och artificiell intelligens - Umeå universitet
-- Congratulations Thomas Schön – nominated for prestigious AI award - Uppsala universitet
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
-- EY.ai | EY - Sverige - EY
-- Bästa AI-aktierna att köpa nu - Morningstar Canada
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- 290 million for digitalisation of Swedish industry - Vinnova
-- Listening to Artificial Creativity: How AI is Shaping the Creative Process - Jönköping University
-- Teknikjättarna vann: Nya AI-lagen slopar avgörande säkerhetskrav - Realtid
-- Artificiell intelligens: Möjligheter och risker - European Parliament
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Johan Lundin - Karolinska Institutet
-- Software Stock: Fortinet Inc. (FTNT): This Growth Stock Is Worth to buy - Markets.com
-- AI-revolutionen släpps lös: Genombrott, storföretagens satsningar & etiska stormar (slutet av juli 2025) - ts2.tech
-- Human Centered Machine Intelligence | Institutionen för tillämpad informationsteknologi - Göteborgs universitet
-- 4 ETF:er som satsar på AI - Morningstar Canada
-- AI for Science - Kungl. Vetenskapsakademien
+- Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- ZenaTech Closes Tenth Acquisition of A&J Land Surveyor Inc., Expanding Drone as a Service (DaaS) to Florida’s Aviation, Utility, and Infrastructure Markets - Placera.se
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
+- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
+- Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
+- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
+- Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 
 ## Business
 
@@ -77,28 +77,28 @@ _Updated: 2025-10-04 20:44_
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - BTQ Technologies Announces QSSN Deployment with Finger Inc. Group, alongside PQC Banking Services PoC - Placera.se
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
+- Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Lumen Highlights AI-Era Transformation and Path to Growth at Analyst Forum - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
 - Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
@@ -123,41 +123,41 @@ _Updated: 2025-10-04 20:44_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Enheten för logopedi - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Maskinförare | Jobb | ATL - Land Lantbruk
