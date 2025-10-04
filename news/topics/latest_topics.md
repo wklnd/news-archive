@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-04 03:57_
+_Updated: 2025-10-04 05:05_
 
 ## Top Stories
 
-- Hamas svar på Trumps fredsplan: Släpper alla gisslan - SVT Nyheter
+- Hamas svar på Trumps fredsplan: Släpper gisslan - SVT Nyheter
 - Höjd beredskap – inför stormen Amy - GP
-- Explosion vid port i Västerås - Aftonbladet
-- Stor polisinsats i Gävle – flera till sjukhus - Västerbottens-Kuriren
-- Källor: Netanyahu godkände attack mot Gazakonvoj - GP
-- Sida om uppgörelsen med Somalia: Vi har följt regeringens styrning - DN
+- Skottlossning i Gävle – flera till sjukhus - Aftonbladet
+- Explosion vid port i Västerås - Västerbottens-Kuriren
+- Två år efter öppningen i Vislanda – veterinären behöver större lokal - Smålandsposten
+- Källor: Netanyahu godkände drönare - Västerbottens-Kuriren
 - Uppgifter: Svensk man skjuten till döds i Marbella - SVT Nyheter
 - 03 oktober 17.54, Skottlossning, Linköping - polisen.se
-- Rapport: Mer grönt och mindre kött räddar planeten - GP
+- Rapport: Mer grönt och mindre kött räddar planeten - DN
 - Ledare: Miljardnota för släpande infrastruktur - NWT
 - Konvojen: Spanien kallar upp Israels toppdiplomat - GP
 - DN Direkt - UD avråder från resor till Madagaskar - DN
 - Europas ledare: Vi befinner oss i krig - Hufvudstadsbladet
-- USA: Ny attack mot knarksmugglarbåt - Aftonbladet
+- EU-veckan: Rundabordssamtal, stresstest och förhandlingar som kört fast - Aktuell Hållbarhet
 - EU-toppen kräver att Tesla ska teckna kollektivavtal - Arbetet
 - Klart med nytt avtal för Saco-S medlemmar - Universitetsläraren
 - Ny statistik från SCB visar på kraftiga hyreshöjningar - Dagens Arena
 - Beredd – hisshus och robusta samhällen i klimatförändringarnas tid - Notified
-- Uppdrag till Folkhälsomyndigheten att undersöka hur vuxnas digitala vanor påverkar barns hälsa - Regeringen.se
-- Viktigt att ändra datorn - 8 Sidor
+- Vuxnas skärmtid ska utredas: ”Kan leda till mer utåtagerande barn” - NWT
+- Heroes of Might and Magic: Olden Era - FZ.se
 
 ## World News
 
@@ -34,17 +34,17 @@ _Updated: 2025-10-04 03:57_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
-- New Secretary General appointed - Olof Palme International Center
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Israels ambassadör till Gretabåten: Håll er borta - Aftonbladet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Choice Hotels International Accelerates International Growth with Addition of 50 New Quality Suites Hotels in France - Placera.se
 - S&P Global Announces Updates to the Executive Leadership Team - Placera.se
 
@@ -63,13 +63,13 @@ _Updated: 2025-10-04 03:57_
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 
 ## Business
 
@@ -107,58 +107,58 @@ _Updated: 2025-10-04 03:57_
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Patienter kan bidra till säkrare vård - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Här är världens största jordbruk - ATL
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
