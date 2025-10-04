@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-04 16:37_
+_Updated: 2025-10-04 17:37_
 
 ## Top Stories
 
 - Då kommer stormen Amy till västkusten - GP
 - Skottlossning i centrala Gävle – sex personer till sjukhus - SVT Nyheter
-- Korruptionsanklagad högerpopulist på väg att vinna tjeckiskt val - Europaportalen
-- DN Direkt - Stor polisinsats i Växjö - DN
-- Trump kräver ”omedelbart” stopp på Israels bomber - GP
-- Massiv demonstration mot Gazakriget i Barcelona - Aftonbladet
+- Berusad man misstänks för våldsamt motstånd i Lycksele - Expressen
+- Kvinna rånades och våldtogs av falsk agent - SvD
+- Lundauppfinning stoppar knark och kemiska vapen - Sydsvenskan
+- Insändare. Noterat av DN:s läsare den 3 oktober - DN
 - Man misstänks för mord – kvinna död - GP
 - DN Direkt - Tillståndet inte livshotande för skjuten i Linköping - DN
+- Två män till sjukhus efter grov misshandel i Helsingborg - Expressen
 - Så ska du äta för att skona jorden - Aftonbladet
-- LEDARE: Inlandsbanan behandlas som en nödlösning - Östersunds-Posten
 - Emma Bouvin: Hoppet om varaktig fred störs av en rejäl smäll från Gaza - DN
-- Bomber förgiftar Östersjön – kamp mot klockan - Sydsvenskan
 - Dubbelattack mot tågstation i Ukraina: ”Terror” - Hufvudstadsbladet
-- Drönarattack mot stort ryskt oljeraffinaderi - Västerbottens-Kuriren
+- Kamp mot klockan – bomber förgiftar Östersjön - Aftonbladet
+- Babis leder i Tjeckien – en tredjedel räknat - GP
 - Jättens elbil tar över klassiskt namn: ”Bara början” - DN
-- Bor på två kvadratmeter – betalar 7 000 kronor - SvD
-- Coupén som visar Mercedes framtid - DN
-- ”Två av tre svenskar stödjer Tesla-strejken” - Arbetet
-- Vuxnas skärmtid ska utredas: ”Kan leda till mer utåtagerande barn” - NWT
-- Säljes: Specialized S-works Venge 2021 - Happyride
+- Bitcoin rusar mot rekordnivå – "Uptober" levererar - Dagens PS
+- Flaggstång på stadshuset på väg att ge vika - VLT
+- Fler husägare tar ansvar för att skydda sina hus - Örebronyheter
+- Regeringen ska utreda vuxnas skärmtid - Aftonbladet
+- Eva 81 år tränar tre gånger i veckan - Västerbottens-Kuriren
 
 ## World News
 
@@ -34,30 +34,30 @@ _Updated: 2025-10-04 16:37_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 - New Secretary General appointed - Olof Palme International Center
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
 
 ## Technology
 
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- ZenaTech Closes Tenth Acquisition of A&J Land Surveyor Inc., Expanding Drone as a Service (DaaS) to Florida’s Aviation, Utility, and Infrastructure Markets - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
@@ -69,27 +69,27 @@ _Updated: 2025-10-04 16:37_
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
-- Infosys Extends Strategic Collaboration with Sunrise to Accelerate IT Transformation and Power AI Future - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 
 ## Business
 
 - Bakkt Completes the Sale of Loyalty Business, Accelerating Transformation into a Pure-Play Digital Asset Infrastructure Platform - Placera.se
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - BTQ Technologies Announces QSSN Deployment with Finger Inc. Group, alongside PQC Banking Services PoC - Placera.se
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
+- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
 - Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
@@ -122,7 +122,6 @@ _Updated: 2025-10-04 16:37_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
-- Olika slutsatser från samma data - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
@@ -133,12 +132,13 @@ _Updated: 2025-10-04 16:37_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
 - Irene Jensen - Karolinska Institutet
+- Simple math behind major bison blunder - Forskning & Framsteg
+- 606 forskare: Regeringen stoppar nödvändig forskning - Aftonbladet
+- Li Felländer-Tsai - Karolinska Institutet
 
 ## Jordbruk
 
