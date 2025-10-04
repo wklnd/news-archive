@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-04 22:48_
+_Updated: 2025-10-04 23:48_
 
-- Exclusive — Trump on Gaza deal push: "I said, 'Bibi, this is your chance for victory'" - Axios
-- Trump to federalize Illinois National Guard, Pritzker says - Politico
-- Federal agents shoot woman they say 'boxed in' authorities in Brighton Park - WBEZ Chicago
-- Time is short for an ACA premium fix in the shutdown fight, says GOP insurance leader - NPR
+- Trump urges Hamas to 'move quickly' on Gaza peace plan - NPR
+- Homeland Security requests National Guard to be sent to Chicago despite protests from local leaders - ABC News - Breaking News, Latest News and Videos
+- Federal agents shoot woman in Broadview after allegedly being rammed, boxed in by cars, DHS says - CBS News
 - Mike Johnson cancels more House votes in escalation of shutdown strategy - Axios
-- US Border Patrol raid sweeps in citizens, families as Chicago crackdown intensifies - Reuters
-- Who Still Has Temporary Protected Status Under Trump? - The New York Times
 - Democrats’ defiance on shutdown shows a new, tougher approach to Trump - The Washington Post
-- How California struck a landmark law to rein in rogue AI - Politico
-- Mormon church leaders encourage forgiveness after Michigan attack - AP News
+- Inspired by Thatcher, Japan's PM-in-waiting Takaichi smashes glass ceiling - Reuters
+- More than 300,000 Venezuelans at risk of deportation under new Supreme Court ruling - Axios
+- Body slamming, teargas and pepper balls: viral videos show Ice using extreme force in Chicago - The Guardian
+- Abrego Garcia wins request for hearing on whether smuggling charges are illegally 'vindictive' - AP News
+- The White House says California uses a 'loophole' to give undocumented immigrants Medicaid. Experts disagree - Los Angeles Times
 - Israel accused of detaining Greta Thunberg in infested cell and making her hold flags - The Guardian
 - Populist Babis cruises to Czech election win, will seek support from fringe parties - Reuters
-- Japan’s ruling party elects Sanae Takaichi as new leader, likely to become first female PM - Politico
+- Israel Eases Gaza Strikes as Trump Hails Hamas Hostage Offer - Bloomberg.com
 - Iran executes 6 death-row inmates it alleges carried out attacks on behalf of Israel - AP News
-- The best Amazon Prime Day deals: Get up to 57 percent off gear from Apple, Shark, Anker, Dyson, Samsung and others - Engadget
+- Why Fears of a Trillion-Dollar AI Bubble Are Growing - Bloomberg.com
+- These are the 55 best early October Prime Day deals in Canada — save up to 88% ahead of Prime Big Deal Days - Yahoo Lifestyle Canada
 - This Billionaire Built A $50 Million Golf Course So His Wife Had A Place To ‘Swing Like An Idiot’ - Forbes
-- Harrods sets aside more than £60m for Mohamed Al Fayed abuse victims - BBC
-- Ars Live: Is the AI bubble about to pop? A live chat with Ed Zitron. - Ars Technica
-- Microsoft Set To Announce 'Free' Xbox Cloud Gaming Tier With Ads - Pure Xbox
+- Rite Aid closing all locations after decades in business - CBS News
+- Exclusive: Event startup Partiful wasn't stripping GPS locations from user-uploaded photos - TechCrunch
 - I just switched from iPhone 16 Pro Max to iPhone Air — what I like and what I don't - Tom's Guide
