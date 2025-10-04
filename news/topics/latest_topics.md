@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-04 05:05_
+_Updated: 2025-10-04 05:42_
 
 ## Top Stories
 
 - Hamas svar på Trumps fredsplan: Släpper gisslan - SVT Nyheter
 - Höjd beredskap – inför stormen Amy - GP
 - Skottlossning i Gävle – flera till sjukhus - Aftonbladet
-- Explosion vid port i Västerås - Västerbottens-Kuriren
-- Två år efter öppningen i Vislanda – veterinären behöver större lokal - Smålandsposten
+- DN Direkt - Uppgifter: Svensk gängman ihjälskjuten i Marbella - DN
 - Källor: Netanyahu godkände drönare - Västerbottens-Kuriren
+- Investeringsstöd för ökad konkurrenskraft – minskad ammoniakavgång - Länsstyrelsen
 - Uppgifter: Svensk man skjuten till döds i Marbella - SVT Nyheter
 - 03 oktober 17.54, Skottlossning, Linköping - polisen.se
-- Rapport: Mer grönt och mindre kött räddar planeten - DN
+- Rapport: Mer grönt och mindre kött räddar planeten - GP
 - Ledare: Miljardnota för släpande infrastruktur - NWT
 - Konvojen: Spanien kallar upp Israels toppdiplomat - GP
 - DN Direkt - UD avråder från resor till Madagaskar - DN
 - Europas ledare: Vi befinner oss i krig - Hufvudstadsbladet
-- EU-veckan: Rundabordssamtal, stresstest och förhandlingar som kört fast - Aktuell Hållbarhet
+- Teknisk storstädning ska minska EU:s ekonomiska byråkrati - Europaportalen
 - EU-toppen kräver att Tesla ska teckna kollektivavtal - Arbetet
 - Klart med nytt avtal för Saco-S medlemmar - Universitetsläraren
 - Ny statistik från SCB visar på kraftiga hyreshöjningar - Dagens Arena
-- Beredd – hisshus och robusta samhällen i klimatförändringarnas tid - Notified
+- Inga nya vinterdäckskrav för personbilar – ändringarna gäller endast tunga fordon - Hällekiskuriren
 - Vuxnas skärmtid ska utredas: ”Kan leda till mer utåtagerande barn” - NWT
 - Heroes of Might and Magic: Olden Era - FZ.se
 
@@ -30,21 +30,21 @@ _Updated: 2025-10-04 05:05_
 - UNI Post & Logistics World Conference väljer ny ledning och stakar ut en djärv väg - UNI Global Union
 - Global Sumud Flotilla: Fartyg blir bordade – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Fartyg från Gazakonvojen har blivit bordade - Aftonbladet
+- EVEREADY® ANNOUNCES HARRY KANE AS GLOBAL BRAND AMBASSADOR - Placera.se
 - Carrier Rebrands Global Command Centers to Advance Customer Outcomes - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Israels ambassadör till Gretabåten: Håll er borta - Aftonbladet
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Choice Hotels International Accelerates International Growth with Addition of 50 New Quality Suites Hotels in France - Placera.se
 - S&P Global Announces Updates to the Executive Leadership Team - Placera.se
 
@@ -53,23 +53,23 @@ _Updated: 2025-10-04 05:05_
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
+- Conduent Integrates AI Technologies to Modernize Government Payments, Combat Fraud and Improve Customer Experiences for Beneficiaries - Placera.se
+- New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
 
 ## Business
 
@@ -81,18 +81,18 @@ _Updated: 2025-10-04 05:05_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Investcorp Credit Management BDC, Inc. Schedules Earnings Release for Second Quarter and Fiscal Period Ended December 31, 2024 - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
 - Better.com’s AI-Driven HELOC Underwriting Makes Approval with “Bank Statements Only” Possible for 36.2M Self-Employed or Small Business Owner Americans - Placera.se
 - City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
-- Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -121,24 +121,24 @@ _Updated: 2025-10-04 05:05_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Studie om mikroplast fälld för fusk - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
@@ -149,7 +149,7 @@ _Updated: 2025-10-04 05:05_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
@@ -157,7 +157,7 @@ _Updated: 2025-10-04 05:05_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
