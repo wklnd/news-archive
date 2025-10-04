@@ -1,34 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-04 08:45_
+_Updated: 2025-10-04 09:37_
 
 ## Top Stories
 
-- Då kommer stormen Amy till Västkusten, Sverige - GP
-- Hamas svar på Trumps fredsplan: Släpper gisslan - SVT Nyheter
+- Stormen Amy drar in över Sverige – orange varning utfärdad - SVT Nyheter
 - Skottlossning i centrala Gävle – sex skadade - SvD
-- Explosion vid port i Västerås – två misstänkta - Aftonbladet
-- Psykiatrin skulle förändras – nu backar politikerna - GP
-- Svantesson (M): Är ni i S ett arbetarparti? Då är det upp till bevis... - Aftonbladet
+- Hamas: Redo släppa gisslan – men vill förhandla - Hufvudstadsbladet
+- Man anhållen – misstänks för mordförsök i Växjö - Omni
+- Explosion i Västerås - SVT Nyheter
+- Sida om uppgörelsen med Somalia: Vi har följt regeringens styrning - DN
 - Uppgifter: Svensk man skjuten till döds i Marbella - SVT Nyheter
-- Tenje håller fast vid siffrorna om försörjningsstödet: ”I underkant” - ETC.se
 - Deras kollega var pedofil: ”Kommer aldrig över skulden” - DN
-- Advokaten om Greta Thunberg: ”Behandlas inte bra” - GP
+- DEBATT: Ett bidragstak löser inte de grundläggande problemen - Borås Tidning
+- LEDARE: Inlandsbanan behandlas som en nödlösning - Östersunds-Posten
 - "Evigt krig" – han är Netanyahus nya säkerhetstopp - Västerbottens-Kuriren
-- Attackerna skapar totalstopp utanför Moskva - Expressen
-- Flyg skjuts upp efter drönarlarm i München - Hufvudstadsbladet
-- Svenska militärer hjälper USA i hemlig insats i Somalia - Omni
+- Drönarattack mot stort ryskt oljeraffinaderi - GP
+- Greta Thunbergs advokat: Hon blir inte bra behandlad - Omni
+- Israel: Gazakonvojen har stoppats - GP
 - Guldpriset rusar – och privatpersoner rasar - EFN
+- Därför ska du äga Bitcoin i oktober – kan ta över stafettpinnen från guldet - Börskollen
 - EU-toppen kräver att Tesla ska teckna kollektivavtal - Arbetet
 - Volvo under 150 000 kr – här är de bästa köpen - Aftonbladet
-- Klart med nytt avtal för Saco-S medlemmar - Universitetsläraren
+- Stor upptäckt i vårt eget solsystem: Främmande objekt som väger över 33 miljarder ton väcker frågor i forskarkretsar - Illustrerad Vetenskap
 - Vuxnas skärmtid ska utredas: ”Kan leda till mer utåtagerande barn” - NWT
-- DJI Neo 2 är en av tre spännande DJI-produkter som ryktas lanseras i november – här är vad läckorna avslöjar - TechRadar
 
 ## World News
 
-- UNI Post & Logistics World Conference väljer ny ledning och stakar ut en djärv väg - UNI Global Union
 - Global Sumud Flotilla: Fartyg blir bordade – Senaste nytt om kriget i Gaza - SVT Nyheter
+- UNI Post & Logistics World Conference väljer ny ledning och stakar ut en djärv väg - UNI Global Union
 - Fartyg från Gazakonvojen har blivit bordade - Aftonbladet
 - Carrier Rebrands Global Command Centers to Advance Customer Outcomes - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
@@ -58,8 +58,8 @@ _Updated: 2025-10-04 08:45_
 - Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Kandidatprogram i filosofi och artificiell intelligens - Umeå universitet
-- Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
@@ -75,24 +75,24 @@ _Updated: 2025-10-04 08:45_
 
 - Bakkt Completes the Sale of Loyalty Business, Accelerating Transformation into a Pure-Play Digital Asset Infrastructure Platform - Placera.se
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - City Holding Company Increases Quarterly Dividend On Common Shares - Placera.se
 - Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Investcorp Credit Management BDC, Inc. Schedules Earnings Release for Second Quarter and Fiscal Period Ended December 31, 2024 - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Tipalti Secures $200 Million in Growth Financing to Drive Next Wave of AI Innovation in Finance - Placera.se
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 
 ## Health
 
@@ -108,6 +108,7 @@ _Updated: 2025-10-04 08:45_
 - Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 - Uppsala universitet
+- Mabel AI won the HealthTech Award 2023 - NewsMachine AB
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
@@ -115,7 +116,6 @@ _Updated: 2025-10-04 08:45_
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
@@ -155,10 +155,10 @@ _Updated: 2025-10-04 08:45_
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - De gick från reko till eko - ST-tidningen
+- Så gick första året för Pellbrants - Västerbottens Mellanbygd
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- 2021-04-20 Webbinarium: Social hållbarhet - Mynewsdesk
