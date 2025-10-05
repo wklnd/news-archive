@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-05 15:38_
+_Updated: 2025-10-05 16:38_
 
 ## Top Stories
 
-- Uppgifter: Greta Thunberg tvingades kyssa israelisk flagga - GP
-- Nu kommer mer regn – SMHI varnar för översvämningar: ”Upp mot 30 millimeter” - NWT
+- Uppgifter: Greta Thunberg tvingades kyssa israelisk flagga - gp.se
+- 15 000 strömavbrott – de drabbades värst av stormen: ”Ganska många incidenter” - NWT
 - Netanyahu: Hoppas få hem gisslan inom några dagar - Hufvudstadsbladet
-- Många poliser på plats efter masskjutningen i Gävle - DN
-- Ny gänglag ger förortsbor sina centrum tillbaka - Aftonbladet
-- Avspärrat område i Sätra– misstänkt föremål hittat - SVT Nyheter
+- Över 1 000 fast i snöstorm på Mount Everest - Västerbottens-Kuriren
+- DN Direkt - Man hittad död i Sjöbo – två gripna - DN
+- Uppgifter: Kriminellt nätverk misstänks hota ostföretag - Aftonbladet
 - Gps-störningar mot ambulanser – Ryssland misstänks - SVT Nyheter
 - Sex ”digitala polisstationer” öppnas i sociala medier - DN
 - Bilist fick böta 2 000 kronor för sin framfart på E4 - Norran
 - 05 oktober 08.08, Sammanfattning natt, Västernorrlands län - polisen.se
 - Polen mobiliserar stridsflyg efter rysk attack - Hufvudstadsbladet
 - Jasmine och Peter har god chans att leva länge - Hufvudstadsbladet
-- Efter jätteprotester: Georgisk opposition förbjuds - SVT Nyheter
-- Babis parti störst i Tjeckien – förhandling väntar - DN
-- Kinesiska biltillverkaren till Europa: ”Bli mer lokala” - DN
+- Oppositionen förbjuds efter massiva protester i Georgien - DN
+- Ingmar Nevéus: Babis är populist, men ingen vän till Putin - DN
 - Carl Johan von Seth: Allt är perfekt och inget kan gå fel i USA:s ekonomi - DN
 - Färre säten i ekonomi – nu satsar flygbolagen på lyx - Dagens PS
-- AI-kompetensbrist oroar: ”Kan bli största flaskhalsen för Sverige” - Ny Teknik
+- Mäklarna: Ovanligt trögt på bostadsmarknaden - DI
+- Svensk vann 85 miljoner på lotto - Aftonbladet
 - Test: Iphone Air - ”Ett stycke tunn skärm som det också ryms en smartphone i” - Ny Teknik
 - Intel- och AMD-processorer sårbara för ny fysisk attack - SweClockers
 
@@ -33,6 +33,8 @@ _Updated: 2025-10-05 15:38_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
@@ -41,35 +43,33 @@ _Updated: 2025-10-05 15:38_
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - Elevating Vietnamese Coconut Value on the Global Stage - Anuga 2025 - Placera.se
-- OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- New Secretary General appointed - Olof Palme International Center
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- 🌏 Global ojämlikhet minskar faktiskt - Warp News
+- S&P Global Announces Updates to the Executive Leadership Team - Placera.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 
 ## Technology
 
+- Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- DEBATT: ”Trumps politik kan vara bättre för Kina än för USA när det gäller AI.” - Sydsvenskan
+- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Kandidatprogram i filosofi och artificiell intelligens - Umeå universitet
-- Congratulations Thomas Schön – nominated for prestigious AI award - Uppsala universitet
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
-- EY.ai | EY - Sverige - EY
-- AI ska hjälpa unga som far illa i gamingvärlden - Rädda Barnen
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Bästa AI-aktierna att köpa nu - Morningstar Canada
-- 290 million for digitalisation of Swedish industry - Vinnova
-- EU och USA skriver under juridiskt bindande AI-avtal - Computer Sweden
-- Listening to Artificial Creativity: How AI is Shaping the Creative Process - Jönköping University
-- Artificiell intelligens: Möjligheter och risker - European Parliament
-- The applications of AI in life science - Biostock
-- Johan Lundin - Karolinska Institutet
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
-- In English - About Gothenburgs Digital twin - Göteborgs Stad
-- LTH student wins Microsoft tech award - Lundagård
-- Sam Altman: The extraordinary firing of an AI superstar - BBC
+- Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
+- ZenaTech Closes Tenth Acquisition of A&J Land Surveyor Inc., Expanding Drone as a Service (DaaS) to Florida’s Aviation, Utility, and Infrastructure Markets - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
+- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
+- Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
+- Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
+- New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
+- Use of Drones for Land Surveying and Mapping Reaching New Levels Becoming a Billion Dollar Opportunity - Placera.se
 
 ## Business
 
@@ -105,9 +105,9 @@ _Updated: 2025-10-05 15:38_
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- Nasim Bergman Farrokhnia lämnar Mindler för Microsoft - Dagens Medicin
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
@@ -115,50 +115,50 @@ _Updated: 2025-10-05 15:38_
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Patienter kan bidra till säkrare vård - Läkartidningen
 
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
+- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Många lantbruk vill producera egen el - Tidningen Extrakt
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- USA tvingar ut EU på banan - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Maskinförare | Jobb | ATL - Land Lantbruk
 - Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
