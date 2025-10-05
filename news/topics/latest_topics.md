@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-05 14:58_
+_Updated: 2025-10-05 15:38_
 
 ## Top Stories
 
-- Översvämning i Fiskhamnen efter stormen Amy – så blir vädret i veckan - GP
 - Uppgifter: Greta Thunberg tvingades kyssa israelisk flagga - GP
+- Nu kommer mer regn – SMHI varnar för översvämningar: ”Upp mot 30 millimeter” - NWT
+- Netanyahu: Hoppas få hem gisslan inom några dagar - Hufvudstadsbladet
 - Många poliser på plats efter masskjutningen i Gävle - DN
-- Uppgifter: Kriminellt nätverk misstänks hota ostföretag - Aftonbladet
-- Oppositionen förbjuds efter massiva protester i Georgien - DN
-- Över 1 000 fast i snöstorm på Mount Everest - SVT Nyheter
+- Ny gänglag ger förortsbor sina centrum tillbaka - Aftonbladet
+- Avspärrat område i Sätra– misstänkt föremål hittat - SVT Nyheter
 - Gps-störningar mot ambulanser – Ryssland misstänks - SVT Nyheter
 - Sex ”digitala polisstationer” öppnas i sociala medier - DN
 - Bilist fick böta 2 000 kronor för sin framfart på E4 - Norran
-- Rikspolischefen: 10 000 fler poliser behövs - Västerbottens-Kuriren
+- 05 oktober 08.08, Sammanfattning natt, Västernorrlands län - polisen.se
 - Polen mobiliserar stridsflyg efter rysk attack - Hufvudstadsbladet
-- Gazabo: Bara Trump kan tvinga Israel till fred - Västerbottens-Kuriren
 - Jasmine och Peter har god chans att leva länge - Hufvudstadsbladet
-- Äldre man bestulen i Visby efter att ha släppt in okända - Horisont magasin
+- Efter jätteprotester: Georgisk opposition förbjuds - SVT Nyheter
+- Babis parti störst i Tjeckien – förhandling väntar - DN
 - Kinesiska biltillverkaren till Europa: ”Bli mer lokala” - DN
 - Carl Johan von Seth: Allt är perfekt och inget kan gå fel i USA:s ekonomi - DN
 - Färre säten i ekonomi – nu satsar flygbolagen på lyx - Dagens PS
 - AI-kompetensbrist oroar: ”Kan bli största flaskhalsen för Sverige” - Ny Teknik
+- Test: Iphone Air - ”Ett stycke tunn skärm som det också ryms en smartphone i” - Ny Teknik
 - Intel- och AMD-processorer sårbara för ny fysisk attack - SweClockers
-- Här är Vilhelminas nystartade företag - Folkbladet
 
 ## World News
 
@@ -37,8 +37,8 @@ _Updated: 2025-10-05 14:58_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Fartyg från Gazakonvojen har blivit bordade - Aftonbladet
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Global Sumud Flotilla: En båt fortfarande på väg – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - Elevating Vietnamese Coconut Value on the Global Stage - Anuga 2025 - Placera.se
 - OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
@@ -50,26 +50,26 @@ _Updated: 2025-10-05 14:58_
 
 ## Technology
 
-- Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
-- 290 million for digitalisation of Swedish industry - Vinnova
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Spår superintelligens om tio år – vill leda racet - Omni
-- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
-- Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
-- Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
-- Infosys Extends Strategic Collaboration with Sunrise to Accelerate IT Transformation and Power AI Future - Placera.se
-- New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
+- Kandidatprogram i filosofi och artificiell intelligens - Umeå universitet
+- Congratulations Thomas Schön – nominated for prestigious AI award - Uppsala universitet
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- EY.ai | EY - Sverige - EY
+- AI ska hjälpa unga som far illa i gamingvärlden - Rädda Barnen
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Bästa AI-aktierna att köpa nu - Morningstar Canada
+- 290 million for digitalisation of Swedish industry - Vinnova
+- EU och USA skriver under juridiskt bindande AI-avtal - Computer Sweden
+- Listening to Artificial Creativity: How AI is Shaping the Creative Process - Jönköping University
+- Artificiell intelligens: Möjligheter och risker - European Parliament
+- The applications of AI in life science - Biostock
+- Johan Lundin - Karolinska Institutet
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
+- In English - About Gothenburgs Digital twin - Göteborgs Stad
+- LTH student wins Microsoft tech award - Lundagård
+- Sam Altman: The extraordinary firing of an AI superstar - BBC
 
 ## Business
 
@@ -124,21 +124,21 @@ _Updated: 2025-10-05 14:58_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
 
 ## Jordbruk
 
