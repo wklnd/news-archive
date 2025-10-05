@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-05 11:48_
+_Updated: 2025-10-05 12:48_
 
-- Judge temporarily blocks Trump from deploying troops in Portland - The Washington Post
+- Trump authorizes 300 National Guard members to Illinois to assist with deportations over JB Pritzker’s objections - Chicago Tribune
 - How a Missile Strike Unlocked a Deal for Peace in Gaza - The Wall Street Journal
-- Border Patrol shoots woman on Southwest Side; agents, protesters battle for hours - Chicago Sun-Times
-- Five killed in Russian overnight air attack on Ukraine - Reuters
+- US judge blocks Trump's deployment of Oregon National Guard to Portland for now - Reuters
+- Hope and fear for hostage families after Hamas response to Gaza peace plan - BBC
+- Five killed, energy infrastructure damaged in Russian air attack on Ukraine - Reuters
 - Israel halts strikes in Gaza after Trump's call to stop the fighting - Axios
-- Czech Republic: Billionaire populist Andrej Babis' party wins parliamentary election - BBC
 - Security video helps lead Oregon detectives to a masked killer who tried to hide the crime - CBS News
-- Federal agents knock down elderly couple during Portland protest - OregonLive.com
-- Virginia AG Candidate Faces Backlash Over Texts Musing About Shooting Political Opponent - Forbes
+- Federal agents use tear gas, make arrests as Portland ICE protest swells into the hundreds - OregonLive.com
 - Democrats’ defiance on shutdown shows a new, tougher approach to Trump - The Washington Post
+- Democrat in Virginia attorney general race apologizes for 2022 texts depicting political violence - AP News
 - S.F. man who captained a Gaza aid vessel is now being held in an Israeli prison - San Francisco Chronicle
 - Iran executes 6 death-row inmates it alleges carried out attacks on behalf of Israel - CBS News
-- Japan’s ruling party elects Sanae Takaichi as new leader, likely to become first female PM - Politico
-- Netanyahu Says Israel and Hamas Are on the Brink of a Hostage Deal - The New York Times
+- A Pacific Gateway Shows the Kremlin’s Grip on Russia’s Vast Expanse - The New York Times
+- Czech Republic: Billionaire populist Andrej Babis' party wins parliamentary election - BBC
 - Bitcoin Rises to a Record as ‘Debasement’ Trade Spurs Risk Rally - Bloomberg.com
-- The best Amazon Prime Day deals under $50: Early sales on tech from Apple, Anker, Ring, JBL, Roku and others - Engadget
 - US ‘flying blind’ at critical moment for economy, experts warn, with no jobs data amid shutdown - The Guardian
 - Here's how the fashion industry is using AI to predict the next big trend - NPR
+- Here’s why you should seriously think about taking Social Security at 62 — even if the ‘basic’ math says something else - moneywise.com
 - Windows 11’s annual ’25H2′ update arrives, and it’s a weird one - pcworld.com
-- A biological 0-day? Threat-screening tools may miss AI-designed proteins. - Ars Technica
+- The best early October Prime Day deals on Apple devices: Save on AirTags, iPads, Apple Watches and more - Engadget
