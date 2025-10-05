@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-05 05:48_
+_Updated: 2025-10-05 06:40_
 
 ## Top Stories
 
-- Adam Cwejman: Trumps fredsplan är Gazas bästa hopp - GP
+- Netanyahu: Hoppas få hem gisslan inom några dagar - Hufvudstadsbladet
 - 13-åring misstänks för skjutningen i Gävle – det här vet vi just nu 4 oktober 2025 - P3 Krim - Sveriges Radio
-- Israel FN-anmäls för hur svenska aktivisterna behandlats: ”Definitivt illa” - Omni
 - Amerikansk domstol pausar militär till Portland - GP
-- Donald Trump skickar nationalgardet till Chicago - SVT Nyheter
+- Guvernör: Nationalgardet sätts in i Illinois - DN
 - Babis parti störst i Tjeckien – förhandling väntar - DN
 - Strömlöst och träd över vägar när Amy drog in över Värmland - NWT
 - LEDARE: Inlandsbanan behandlas som en nödlösning - Östersunds-Posten
 - Tenje håller fast vid siffrorna om försörjningsstödet: ”I underkant” - ETC.se
+- 13 svenskar frihetsberövade och förda till ökenfängelse i Israel - Expressen
 - 500 år gammal ek föll över familjehus - Expressen
-- Taxichaufför misshandlad av kund i Ystad - Expressen
+- Svenska ombudet: Kommer anmäla Israel - Folkbladet
+- Så har Israels relation till Europa förändrats efter 7 oktober - DN
+- Protester mot Gazakriget i Europa - Västerbottens-Kuriren
 - Trumps svärson till Egypten för gisslansamtal - Västerbottens-Kuriren
-- Protester mot Gazakriget i Europa - Folkbladet
-- Attack mot oljeraffinaderi utanför Sankt Petersburg – ett av landets största - Omni
-- Här är det dyrast och billigast att gå till tandläkaren - Expressen
-- Svensk vann 85 miljoner på lotto - Aftonbladet
-- Programplan för sjukhusvårdens förändringar godkänd - Region Västernorrland
+- DN Direkt - Stal 53 bankdatorer – sålde dem på Tradera - DN
 - Klart med nytt avtal för Saco-S medlemmar - Universitetsläraren
-- TV: Levererar rekordstor mobil anläggning för fjärrvärme - Ljusdals-Posten
-- Monsterkylare snabbar upp Iphone 17 Pro Max - SweClockers
+- Programplan för sjukhusvårdens förändringar godkänd - Region Västernorrland
+- Här är det dyrast och billigast att gå till tandläkaren - Expressen
+- Insändare: Dålig behandling av personal i hemtjänsten - NWT
+- iPhone 17e kanske inte är värd att vänta på – här är varför - TechRadar
 
 ## World News
 
@@ -35,18 +35,18 @@ _Updated: 2025-10-05 05:48_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 - New Secretary General appointed - Olof Palme International Center
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Påven: En ny global utbildning för hopp i vår tid - Vatican News
 
 ## Technology
 
@@ -105,9 +105,9 @@ _Updated: 2025-10-05 05:48_
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
@@ -115,30 +115,30 @@ _Updated: 2025-10-05 05:48_
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Patienter kan bidra till säkrare vård - Läkartidningen
 
 ## Science
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
+- Olika slutsatser från samma data - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Irene Jensen - Karolinska Institutet
+- Simple math behind major bison blunder - Forskning & Framsteg
+- 606 forskare: Regeringen stoppar nödvändig forskning - Aftonbladet
 
 ## Jordbruk
 
