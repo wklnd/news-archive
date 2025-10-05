@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-05 10:48_
+_Updated: 2025-10-05 11:48_
 
-- Trump authorizes 300 National Guard members to Illinois to assist with deportations over JB Pritzker’s objections - Chicago Tribune
-- Exclusive — Trump on Gaza deal push: "I said, 'Bibi, this is your chance for victory'" - Axios
-- Who is Japan's 'Iron Lady' Sanae Takaichi? - BBC
-- Judge temporarily blocks Trump administration from deploying troops in Portland, Oregon - AP News
-- Israel Eases Gaza Strikes as Trump Hails Hamas Hostage Offer - Bloomberg.com
+- Judge temporarily blocks Trump from deploying troops in Portland - The Washington Post
+- How a Missile Strike Unlocked a Deal for Peace in Gaza - The Wall Street Journal
+- Border Patrol shoots woman on Southwest Side; agents, protesters battle for hours - Chicago Sun-Times
+- Five killed in Russian overnight air attack on Ukraine - Reuters
+- Israel halts strikes in Gaza after Trump's call to stop the fighting - Axios
 - Czech Republic: Billionaire populist Andrej Babis' party wins parliamentary election - BBC
 - Security video helps lead Oregon detectives to a masked killer who tried to hide the crime - CBS News
 - Federal agents knock down elderly couple during Portland protest - OregonLive.com
 - Virginia AG Candidate Faces Backlash Over Texts Musing About Shooting Political Opponent - Forbes
 - Democrats’ defiance on shutdown shows a new, tougher approach to Trump - The Washington Post
 - S.F. man who captained a Gaza aid vessel is now being held in an Israeli prison - San Francisco Chronicle
-- Netanyahu says he hopes to announce hostage release in the 'coming days' - BBC
 - Iran executes 6 death-row inmates it alleges carried out attacks on behalf of Israel - CBS News
-- The Women Who Helped Defeat ISIS Are Fighting for Their Place in the New Syria - The Wall Street Journal
+- Japan’s ruling party elects Sanae Takaichi as new leader, likely to become first female PM - Politico
+- Netanyahu Says Israel and Hamas Are on the Brink of a Hostage Deal - The New York Times
 - Bitcoin Rises to a Record as ‘Debasement’ Trade Spurs Risk Rally - Bloomberg.com
 - The best Amazon Prime Day deals under $50: Early sales on tech from Apple, Anker, Ring, JBL, Roku and others - Engadget
 - US ‘flying blind’ at critical moment for economy, experts warn, with no jobs data amid shutdown - The Guardian
 - Here's how the fashion industry is using AI to predict the next big trend - NPR
 - Windows 11’s annual ’25H2′ update arrives, and it’s a weird one - pcworld.com
-- Woot's Apple Watch Band Sale Has Solo/Braided Loops at Massive Discounts - MacRumors
+- A biological 0-day? Threat-screening tools may miss AI-designed proteins. - Ars Technica
