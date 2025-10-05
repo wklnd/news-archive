@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-05 06:48_
+_Updated: 2025-10-05 07:48_
 
 - Trump to federalize Illinois National Guard, Pritzker says - Politico
-- Netanyahu says he hopes to announce hostage release in the 'coming days' - BBC
-- The GOP says it’s winning the shutdown. Some fear Trump’s cuts may change that - AP News
-- Japan's ruling party has elected Sanae Takaichi as new leader, and she's likely to become country's first female prime minister - CBS News
-- Federal judge temporarily blocks Trump's attempt to deploy Oregon National Guard to Portland - ABC News - Breaking News, Latest News and Videos
-- The U.S. may mint a coin with Trump's face despite a law he signed that prohibits collectibles with similar likenesses - Fortune
+- Who is Japan's 'Iron Lady' Sanae Takaichi? - BBC
+- Trump to Send Witkoff, Kushner to Middle East to Seal Hostage Release Deal - The Wall Street Journal
+- Judge temporarily blocks Trump administration from deploying troops in Portland, Oregon - AP News
+- Israel halts strikes in Gaza after Trump's call to stop the fighting - Axios
+- Trump, Project 2025 and ‘Culture Wars’ - FactCheck.org
+- Security video helps lead Oregon detectives to a masked killer who tried to hide the crime - CBS News
 - Democrat in Virginia attorney general race apologizes for 2022 texts depicting political violence - AP News
 - Federal officers fire tear gas, make multiple arrests during protest outside Portland ICE facility - Oregon Public Broadcasting - OPB
-- Democrats’ defiance on shutdown shows a new, tougher approach to Trump - The Washington Post
-- Judge blocks Trump policy to detain migrant children turning 18 in adult facilities - AP News
-- How a Missile Strike Unlocked a Deal for Peace in Gaza - The Wall Street Journal
-- Populist Babis cruises to Czech election win, will seek support from fringe parties - Reuters
-- Israel accused of detaining Greta Thunberg in infested cell and making her hold flags - The Guardian
+- Simi Valley resident gets over 8 years in prison for attempt to kill Justice Kavanaugh - Los Angeles Times
+- For Netanyahu, Trump’s Nod to Peace Puts Him in a Tough Spot - The New York Times
+- S.F. man who captained a Gaza aid vessel is now being held in an Israeli prison - San Francisco Chronicle
+- Czech Republic: Billionaire populist Andrej Babis' party wins parliamentary election - BBC
 - Iran executes 6 death-row inmates it alleges carried out attacks on behalf of Israel - CBS News
 - The best Amazon Prime Day deals: Get up to 57 percent off gear from Apple, Shark, Anker, Dyson, Samsung and others - Engadget
-- If you’re not an AI startup, good luck raising money from VCs - TechCrunch
+- Starbucks shutters five locations in Snohomish County - Everett Herald
 - Rite Aid closing all locations after decades in business - CBS News
 - DC’s shutdown hasn’t stopped the stock market. Here’s what may - AP News
-- Microsoft's adding an ad-supported tier for Xbox Cloud Gaming - Mashable
-- Windows 11’s Notification Center opens on secondary display, gets a clock and more - Windows Latest
+- Windows 11’s annual ’25H2′ update arrives, and it’s a weird one - pcworld.com
+- Woot's Apple Watch Band Sale Has Solo/Braided Loops at Massive Discounts - MacRumors
