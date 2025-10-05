@@ -1,16 +1,16 @@
 # Top News Headlines
 
-_Updated: 2025-10-05 05:26_
+_Updated: 2025-10-05 05:51_
 
 - Trump to federalize Illinois National Guard, Pritzker says - Politico
 - Netanyahu says he hopes to announce hostage release in the 'coming days' - BBC
 - Johnson rallies House GOP after he calls off votes amid shutdown fight - Politico
-- Trump urges Hamas to 'move quickly' on Gaza peace plan - NPR
 - Japan's ruling party has elected Sanae Takaichi as new leader, and she's likely to become country's first female prime minister - CBS News
+- Trump urges Hamas to 'move quickly' on Gaza peace plan - NPR
 - Federal judge temporarily blocks Trump's attempt to deploy Oregon National Guard to Portland - ABC News - Breaking News, Latest News and Videos
+- Federal officers fire tear gas, make multiple arrests during protest outside Portland ICE facility - Oregon Public Broadcasting - OPB
 - Democrat in Virginia attorney general race apologizes for 2022 texts depicting political violence - AP News
 - Democrats’ defiance on shutdown shows a new, tougher approach to Trump - The Washington Post
-- Federal officers fire tear gas, make multiple arrests during protest outside Portland ICE facility - Oregon Public Broadcasting - OPB
 - Judge blocks Trump policy to detain migrant children turning 18 in adult facilities - AP News
 - Czech Republic: Billionaire populist Andrej Babis' party wins parliamentary election - BBC
 - Israel accused of detaining Greta Thunberg in infested cell and making her hold flags - The Guardian
