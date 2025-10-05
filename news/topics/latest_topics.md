@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-05 10:41_
+_Updated: 2025-10-05 11:37_
 
 ## Top Stories
 
-- Polen mobiliserar stridsflyg efter rysk attack - Västerbottens-Kuriren
-- Polen mobiliserar efter rysk attack mot Ukraina - GP
-- Peter Beinart: Efter 7 oktober är stämningen mellan judar hatisk - DN
+- Här är krigsfartygen som kan få Sverige att skippa Saab - DN
+- 17-årig flicka sköts i båda benen: ”Jag fattade inte” - Omni
+- Polen mobiliserar stridsflyg efter rysk attack - Hufvudstadsbladet
+- VICTOR MALM: Det är rubbat att spåra sin partner på mobilen - Expressen
 - Han ler: ”De säger jag är farligast i Stockholm” - SvD
-- Uppgifter: Greta Thunberg tvingades kyssa israelisk flagga - GP
-- ”Spårning i mobilen är ett hemskt ingrepp i själen” - Omni
-- 05 oktober 08.08, Sammanfattning natt, Västernorrlands län - polisen.se
+- Peter Beinart: Efter 7 oktober är stämningen mellan judar hatisk - DN
 - Rikspolischefen: 10 000 fler poliser behövs - Västerbottens-Kuriren
-- 17-åriga Elsa skadades i skjutningen – träffades i båda benen - DN
-- Då kommer stormen Amy till västkusten - GP
+- Stort strömavbrott i Värmland – träd föll på elledning - NWT
+- Äldre man bestulen på plånbok i sitt hem på Gotland - Expressen
+- Frågor och svar om Chicken nuggets-mannen - Aftonbladet
 - Netanyahu: Hoppas få hem gisslan inom några dagar - Hufvudstadsbladet
-- Zelenskyj vädjar om hjälp mot ny rysk ”luftterror” - Sydsvenskan
+- Zelenskyj vädjar om hjälp mot ny rysk ”luftterror” - Västerbottens-Kuriren
 - Här lever man längre – gemenskap en nyckel - Sydsvenskan
-- Babis firar segern i Tjeckien: ”Historiskt” - Västerbottens-Kuriren
+- Babis parti störst i Tjeckien - Hufvudstadsbladet
 - Kinesiska biltillverkaren till Europa: ”Bli mer lokala” - DN
 - Carl Johan von Seth: Allt är perfekt och inget kan gå fel i USA:s ekonomi - DN
 - Starta eget? Nu är 70 det nya 30 - Dagens PS
-- Bitcoin stiger till nytt rekord – nära 126 000 dollar - Omni
+- Irans ekonomiska plan: Kapa fyra nollor - Västerbottens-Kuriren
 - Forskare har skapat något kraftfullt, som kan simulera miljön på havets botten - Illustrerad Vetenskap
 - Intel- och AMD-processorer sårbara för ny fysisk attack - SweClockers
 
@@ -29,45 +29,45 @@ _Updated: 2025-10-05 10:41_
 
 - UNI Post & Logistics World Conference väljer ny ledning och stakar ut en djärv väg - UNI Global Union
 - Fartyg från Gazakonvojen har blivit bordade - Aftonbladet
+- Samsung och OpenAI i strategiskt partnerskap för stärkt global AI-infrastruktur - Mynewsdesk
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Finserve Global Security Fund blir Europas första försvarsfond klassificerad som artikel 8 - beQuoted
 - Global Sumud Flotilla: En båt fortfarande på väg – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - New Secretary General appointed - Olof Palme International Center
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 
 ## Technology
 
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
-- 290 million for digitalisation of Swedish industry - Vinnova
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- DEBATT: ”Trumps politik kan vara bättre för Kina än för USA när det gäller AI.” - Sydsvenskan
+- ZenaTech Closes Tenth Acquisition of A&J Land Surveyor Inc., Expanding Drone as a Service (DaaS) to Florida’s Aviation, Utility, and Infrastructure Markets - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- D-Wave Introduces New Developer Tools to Advance Quantum AI Exploration and Innovation - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 - Infosys Extends Strategic Collaboration with Sunrise to Accelerate IT Transformation and Power AI Future - Placera.se
 - New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
 
@@ -100,21 +100,21 @@ _Updated: 2025-10-05 10:41_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
+- Engineering Health 2024 - Chalmers
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Johan von Schreeb - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- Nasim Bergman Farrokhnia lämnar Mindler för Microsoft - Dagens Medicin
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Patienter kan bidra till säkrare vård - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
