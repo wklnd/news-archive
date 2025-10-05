@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-05 17:37_
+_Updated: 2025-10-05 18:41_
 
 ## Top Stories
 
-- UD om svenska aktivisterna i Israel: Agerat med kraft - DN
-- Översvämning i Fiskhamnen efter stormen Amy – så blir vädret i veckan - GP
-- Michael Winiarski: Gaza blev slutpunkten för folkrätten - DN
-- 350 arbetsplatser satte motion på schemat: ”Kan göra jättestor skillnad” - DN
+- Kristina Lindquist: Kändisskapet är Greta Thunbergs främsta politiska vapen - DN
+- Adam Cwejman: Trumps fredsplan är Gazas bästa hopp - GP
 - Misstänkt farligt föremål hittat - Aftonbladet
-- Trump: Israel har gått med på inledande tillbakadragande – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Michael Winiarski: Gaza blev slutpunkten för folkrätten - DN
+- DN Direkt - Kraftig ökning – fler åtalas för mordplaner - DN
+- Över 1 000 fast i snöstorm på Mount Everest - SVT Nyheter
 - Gps-störningar mot ambulanser – Ryssland misstänks - SVT Nyheter
-- Sex ”digitala polisstationer” öppnas i sociala medier - DN
 - Bilist fick böta 2 000 kronor för sin framfart på E4 - Norran
 - 05 oktober 08.08, Sammanfattning natt, Västernorrlands län - polisen.se
-- Zelenskyj vädjar om hjälp mot ny rysk ”luftterror” - DN
+- 15 000 strömavbrott – de drabbades värst av stormen: ”Ganska många incidenter” - NWT
 - Jasmine och Peter har god chans att leva länge - Hufvudstadsbladet
-- Våldsamma protester efter lokalval i Georgien - Västerbottens-Kuriren
+- Oppositionen förbjuds efter massiva protester i Georgien - DN
 - Ingmar Nevéus: Babis är populist, men ingen vän till Putin - DN
+- Zelenskyj vädjar om hjälp mot ny rysk ”luftterror” - Västerbottens-Kuriren
+- Därför vill Saudiarabien köpa speljätten EA - SvD
 - Kinesiska biltillverkaren till Europa: ”Bli mer lokala” - DN
+- ”Guldpriset är ett tecken på att något är knas” - SvD
 - Carl Johan von Seth: Allt är perfekt och inget kan gå fel i USA:s ekonomi - DN
-- Rekordutbud på bostadsmarknaden - EFN
-- Fyra ringar i fronten är inte värda merkostnaden - Aftonbladet
 - Test: Iphone Air - ”Ett stycke tunn skärm som det också ryms en smartphone i” - Ny Teknik
-- Intel- och AMD-processorer sårbara för ny fysisk attack - SweClockers
+- Här är Vilhelminas nystartade företag - Folkbladet
 
 ## World News
 
@@ -40,13 +40,13 @@ _Updated: 2025-10-05 17:37_
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Global Sumud Flotilla: En båt fortfarande på väg – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
+- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
 - Elevating Vietnamese Coconut Value on the Global Stage - Anuga 2025 - Placera.se
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- New Secretary General appointed - Olof Palme International Center
 - OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- 🌏 Global ojämlikhet minskar faktiskt - Warp News
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 
 ## Technology
 
@@ -58,7 +58,7 @@ _Updated: 2025-10-05 17:37_
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - DEBATT: ”Trumps politik kan vara bättre för Kina än för USA när det gäller AI.” - Sydsvenskan
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- 290 million for digitalisation of Swedish industry - Vinnova
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
@@ -115,7 +115,7 @@ _Updated: 2025-10-05 17:37_
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Patienter kan bidra till säkrare vård - Läkartidningen
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
