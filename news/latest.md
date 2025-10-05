@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-05 17:48_
+_Updated: 2025-10-05 18:48_
 
 - Scoop — Trump to Netanyahu on Gaza talks: "You're always so f***ing negative" - Axios
-- Trump authorizes National Guard in Chicago as judge temporarily blocks his plan to deploy federal troops in Portland - CNN
+- US judge blocks Trump's deployment of Oregon National Guard to Portland for now - Reuters
 - Gazans long for end to war, Rubio says not yet - Reuters
-- Hope and fear for hostage families after Hamas response to Gaza peace plan - BBC
+- Hamas delegation heads to Egypt for hostage deal talks - The Jerusalem Post
+- Trump plan would limit disability benefits for older Americans - The Washington Post
 - Five killed, energy infrastructure damaged in Russian air attack on Ukraine - Reuters
-- 14 shot, 2 killed in downtown mass shooting - WSFA
-- Judge temporarily blocks Trump administration from deploying troops in Portland, Oregon - AP News
+- Shooting in Montgomery, Alabama, leaves 14 injured, 2 dead, police say - USA Today
 - Not All National Parks Remain Open in the Shutdown. Here’s What to Know. - The New York Times
 - Hegseth fires Navy chief of staff - Military Times
-- As justices confront harassment, death threats and an assassination attempt, Barrett declares "I'm not afraid" - CBS News
-- Japan’s ruling party elects Sanae Takaichi as new leader, likely to become first female PM - Politico
+- Democrats’ defiance on shutdown shows a new, tougher approach to Trump - The Washington Post
+- Japan gears up for ‘Takaichi trade’ as first female leader prepares for power - Financial Times
 - S.F. man who captained a Gaza aid vessel is now being held in an Israeli prison - San Francisco Chronicle
-- In Gaza Talks, Hamas Will Be Led by a Man Israel Just Tried To Kill - The Wall Street Journal
 - Czech Republic: Billionaire populist Andrej Babis' party wins parliamentary election - BBC
+- Syria holds first elections since Assad, but not in all provinces - BBC
 - OPEC+ opts for modest oil output hike as glut fears mount - Reuters
+- The shutdown meant no jobs report. Here's what it would have said about the economy - CNBC
 - How hedge funds performed in September - Reuters
-- Here's how the fashion industry is using AI to predict the next big trend - npr.org
-- I talked myself into an Amex Platinum card — but the annual fee increase is making me second-guess it - Business Insider
+- Here’s why you should seriously think about taking Social Security at 62 — even if the ‘basic’ math says something else - moneywise.com
 - Snapchat is going to charge for storage — here’s how to save your Memories for free - TechCrunch
 - Engadget review recap: Ray-Ban Meta, GoPro Max 2 and more - Engadget
