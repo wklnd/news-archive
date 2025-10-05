@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-05 19:37_
+_Updated: 2025-10-05 20:44_
 
 ## Top Stories
 
 - Utrikesministern om uppgifterna från israeliska fängelset: ”Mycket allvarligt” - DN
-- Polen mobiliserar efter rysk attack mot Ukraina - GP
 - Misstänkt farligt föremål hittat - Aftonbladet
 - Hon fick listeriasepsis på lyxkrogen: ”Vad var det som hände?” - Aftonbladet
 - Lana, 9, hade änglavakt – våldsvågen trappas upp - SvD
-- Michael Winiarski: Gaza blev slutpunkten för folkrätten - DN
+- Nära 1 000 fast på Mount Everest. - Expressen
+- DN Direkt - Kraftig ökning – fler åtalas för mordplaner - DN
 - Rosförsäljare i polisregion Nord - polisen.se
-- Skolchefernas larm om krisen – barnfamiljer flyttar - DN
-- Gps-störningar mot ambulanser – Ryssland misstänks - SVT Nyheter
 - Dryga böter för många - Västerbottens-Kuriren
-- Trump: Israel har stoppat bombningarna - GP
-- Jasmine och Peter har god chans att leva länge - Hufvudstadsbladet
+- Skolchefernas larm om krisen – barnfamiljer flyttar - DN
+- 05 oktober 08.08, Sammanfattning natt, Västernorrlands län - polisen.se
+- Netanyahu: Hoppas få hem gisslan inom några dagar - Hufvudstadsbladet
 - Påven: Världen förändras om vi förändras - Vatican News
+- Påven uppmanar världsledare att stödja fredsavtal för Gaza - Vatican News
 - DN Direkt - Man död hittad död i Sjöbo – två gripna - DN
+- Sänkt matmoms kan ge permanent hål i statskassan - Tidningen Näringslivet
 - Därför vill Saudiarabien köpa speljätten EA - SvD
 - Kinesiska biltillverkaren till Europa: ”Bli mer lokala” - DN
 - ”Guldpriset är ett tecken på att något är knas” - SvD
-- Carl Johan von Seth: Allt är perfekt och inget kan gå fel i USA:s ekonomi - DN
-- Test: Iphone Air - ”Ett stycke tunn skärm som det också ryms en smartphone i” - Ny Teknik
 - Här är Vilhelminas nystartade företag - Folkbladet
+- Intel- och AMD-processorer sårbara för ny fysisk attack - SweClockers
 
 ## World News
 
@@ -50,26 +50,26 @@ _Updated: 2025-10-05 19:37_
 
 ## Technology
 
-- Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
-- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- DEBATT: ”Trumps politik kan vara bättre för Kina än för USA när det gäller AI.” - Sydsvenskan
-- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
-- Global Production Quickly Ramping Up for Drone Industry Specific to Defense and Military Operations - Placera.se
-- ZenaTech Closes Tenth Acquisition of A&J Land Surveyor Inc., Expanding Drone as a Service (DaaS) to Florida’s Aviation, Utility, and Infrastructure Markets - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
-- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
-- Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
-- New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
-- Use of Drones for Land Surveying and Mapping Reaching New Levels Becoming a Billion Dollar Opportunity - Placera.se
+- Kandidatprogram i filosofi och artificiell intelligens - Umeå universitet
+- Congratulations Thomas Schön – nominated for prestigious AI award - Uppsala universitet
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- EY.ai | EY - Sverige - EY
+- Bästa AI-aktierna att köpa nu - Morningstar Canada
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- 290 million for digitalisation of Swedish industry - Vinnova
+- Listening to Artificial Creativity: How AI is Shaping the Creative Process - Jönköping University
+- AI-marknaden går som en raket – väntas växa med 40 procent om året till 2028 - Computer Sweden
+- The applications of AI in life science - Biostock
+- Tillståndet för artificiell intelligens 2025: Genombrott, utmaningar och vägen framåt / Uppdaterad: 1 juli 2025, 12:02 CET - ts2.tech
+- Artificiell intelligens: Möjligheter och risker - European Parliament
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
+- In English - About Gothenburgs Digital twin - Göteborgs Stad
+- AI in manufacturing - Sandvik smart copilot innovation - Sandvik Group
+- Shadow AI: Companies struggle to control unsanctioned use of new tools - SiliconANGLE
+- Finansiering från den europeiska försvarsfonden för en ny generation programvaruradio som kombinerar AI-baserad datatransmission och elektronisk krigföring - Logistiikkalaitos
+- Sam Altman: The extraordinary firing of an AI superstar - BBC
 
 ## Business
 
@@ -132,33 +132,33 @@ _Updated: 2025-10-05 19:37_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- USA tvingar ut EU på banan - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Maskinförare | Jobb | ATL - Land Lantbruk
 - Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
