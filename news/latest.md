@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-05 15:48_
+_Updated: 2025-10-05 16:48_
 
-- Federal judge halts Trump administration’s call-up of National Guard in Portland - Politico
+- Trump authorizes National Guard in Chicago as judge temporarily blocks his plan to deploy federal troops in Portland - CNN
 - Scoop — Trump to Netanyahu on Gaza talks: "You're always so f***ing negative" - Axios
-- Federal agents shoot Chicago woman they accuse of ‘boxing in’ vehicle in Brighton Park - Chicago Tribune
+- Gazans long for end to war, Rubio says not yet - Reuters
 - Five killed, energy infrastructure damaged in Russian air attack on Ukraine - Reuters
-- Hope and fear for hostage families after Hamas response to Gaza peace plan - BBC
+- Trump plan would limit disability benefits for older Americans - The Washington Post
+- Fragile N.C. Residents Lose Medicaid Support for Food and Housing - The New York Times
+- Federal judge halts Trump administration’s call-up of National Guard in Portland - Politico
 - Not All National Parks Remain Open in the Shutdown. Here’s What to Know. - The New York Times
-- 14 injured, at least two dead in downtown Montgomery shooting - Montgomery Advertiser
-- Hegseth fires Navy chief of staff - Military Times
 - As justices confront harassment, death threats and an assassination attempt, Barrett declares "I'm not afraid" - CBS News
-- Federal agents use tear gas, make arrests as Portland ICE protest swells into the hundreds - OregonLive.com
-- S.F. man who captained a Gaza aid vessel is now being held in an Israeli prison - San Francisco Chronicle
+- Hegseth fires Navy chief of staff - Military Times
 - Japan’s ruling party elects Sanae Takaichi as new leader, likely to become first female PM - Politico
+- IDF strikes in Gaza City ‘significantly subside,’ but dozens said killed in past day - The Times of Israel
+- S.F. man who captained a Gaza aid vessel is now being held in an Israeli prison - San Francisco Chronicle
 - Billionaire populist Andrej Babis' party wins Czech parliamentary election - BBC
-- Iran executes 6 death-row inmates it alleges carried out attacks on behalf of Israel - CBS News
+- OPEC+ further raises oil production with modest hike from November - Reuters
+- I talked myself into an Amex Platinum card — but the annual fee increase is making me second-guess it - Business Insider
 - Sharpie Found a Way to Make Pens More Cheaply—By Manufacturing Them in the U.S. - The Wall Street Journal
-- OPEC+: Reuters Leaks on Oil Plans Again - Crude Oil Prices Today | OilPrice.com
-- US ‘flying blind’ at critical moment for economy, experts warn, with no jobs data amid shutdown - The Guardian
-- Here's how the fashion industry is using AI to predict the next big trend - NPR
-- Windows 11’s annual ’25H2′ update arrives, and it’s a weird one - pcworld.com
-- The best early October Prime Day deals on Apple devices: Save on AirTags, iPads, Apple Watches and more - Engadget
+- The shutdown meant no jobs report. Here's what it would have said about the economy - CNBC
+- Snapchat is going to charge for storage — here’s how to save your Memories for free - TechCrunch
+- Windows tweaking app Wintoys gets Windows 11 25H2 support and many new features - Neowin
