@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-05 23:48_
+_Updated: 2025-10-06 00:48_
 
-- Newsom says he'll sue to keep Trump from sending California National Guard to Portland - ABC News - Breaking News, Latest News and Videos
-- Trump says he thinks Gaza hostages will be freed 'very soon' - BBC
-- Pritzker Says Federal Agents Are Trying to Make Chicago a ‘War Zone’ - The New York Times
+- Trump Sends California National Guard Troops to Portland, Ore. - The New York Times
+- Kristi Noem calls Chicago a ‘war zone’ after federal agents shoot woman - The Guardian
+- Feds charge woman shot by Border Patrol on Southwest Side - Chicago Sun-Times
 - What to watch as a never-ending Supreme Court term begins again - CNN
 - White House: Mass layoffs will start if shutdown talks 'going nowhere' - Reuters
-- 2 killed, 12 injured, as gunfire erupts on the streets of Alabama's state capital - ABC News - Breaking News, Latest News and Videos
+- Trump says he thinks Gaza hostages will be freed 'very soon' - BBC
+- Montgomery mass shooting kills teen and woman; 12 others injured: ‘This is not who we are’ - AL.com
 - Man arrested and charged with possessing explosives ahead of church service marking start of Supreme Court term - CNN
-- National parks caught in the crosshairs of government shutdown - NPR
-- Using helicopters and chemical agents, immigration agents become increasingly aggressive in Chicago - AP News
-- Russian air attack across Ukraine damages energy networks, kills five - The Washington Post
+- Jeffries accuses GOP of going 'radio silent' while Johnson says Democrats are 'not serious' - Politico
+- Animal welfare is now part of RFK Jr.’s MAHA agenda - Politico
 - Besieged Gazans find chink of hope in Trump peace plan - Financial Times
-- IDF strikes in Gaza City ‘significantly subside,’ but dozens said killed in past day - The Times of Israel
-- Takaichi win as Japan leader may delay, not derail, BOJ rate hikes - Reuters
+- Russian air attack across Ukraine damages energy networks, kills five - The Washington Post
+- Japan's Nikkei seen hitting new highs as yen, bonds sputter on Takaichi victory - Reuters
+- Israel halts strikes in Gaza after Trump's call to stop the fighting - Axios
 - OPEC+ opts for modest oil output hike as glut fears mount - Reuters
-- Bitcoin Rises to a Record as ‘Debasement’ Trade Spurs Risk Rally - Bloomberg.com
-- If you’re not an AI startup, good luck raising money from VCs - TechCrunch
+- Bitcoin Touches Record Price Above $125,000 - Investopedia
 - Costco to Sell Popular Weight-Loss Drugs Ozempic and Wegovy - The New York Times
+- Why Delaying Your Social Security Benefits May Not Make Sense - The Wall Street Journal
 - Engadget review recap: Ray-Ban Meta, GoPro Max 2 and more - Engadget
 - If you can get past the terrible logo, Audacity 4 looks pretty great - The Verge
-- Windows 11’s annual ’25H2′ update arrives, and it’s a weird one - pcworld.com
