@@ -1,63 +1,62 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-05 06:40_
+_Updated: 2025-10-05 07:38_
 
 ## Top Stories
 
-- Netanyahu: Hoppas få hem gisslan inom några dagar - Hufvudstadsbladet
 - 13-åring misstänks för skjutningen i Gävle – det här vet vi just nu 4 oktober 2025 - P3 Krim - Sveriges Radio
-- Amerikansk domstol pausar militär till Portland - GP
+- Polen mobiliserar stridsflyg efter rysk attack - Västerbottens-Kuriren
+- Trump stoppas: Ingen koppling till verkligheten - Expressen
 - Guvernör: Nationalgardet sätts in i Illinois - DN
-- Babis parti störst i Tjeckien – förhandling väntar - DN
+- Trump: Israel har gått med på inledande tillbakadragande – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Peter Beinart: Efter 7 oktober är stämningen mellan judar hatisk - DN
+- Rikspolischefen: 10 000 fler poliser behövs - Västerbottens-Kuriren
 - Strömlöst och träd över vägar när Amy drog in över Värmland - NWT
-- LEDARE: Inlandsbanan behandlas som en nödlösning - Östersunds-Posten
 - Tenje håller fast vid siffrorna om försörjningsstödet: ”I underkant” - ETC.se
 - 13 svenskar frihetsberövade och förda till ökenfängelse i Israel - Expressen
-- 500 år gammal ek föll över familjehus - Expressen
-- Svenska ombudet: Kommer anmäla Israel - Folkbladet
+- Babis parti störst i Tjeckien – förhandling väntar - DN
+- Svenska ombudet: Kommer anmäla Israel - GP
 - Så har Israels relation till Europa förändrats efter 7 oktober - DN
-- Protester mot Gazakriget i Europa - Västerbottens-Kuriren
-- Trumps svärson till Egypten för gisslansamtal - Västerbottens-Kuriren
-- DN Direkt - Stal 53 bankdatorer – sålde dem på Tradera - DN
-- Klart med nytt avtal för Saco-S medlemmar - Universitetsläraren
-- Programplan för sjukhusvårdens förändringar godkänd - Region Västernorrland
+- Hundratusentals i protester i Europas storstäder - Västerbottens-Kuriren
+- Carl Johan von Seth: Allt är perfekt och inget kan gå fel i USA:s ekonomi - DN
 - Här är det dyrast och billigast att gå till tandläkaren - Expressen
+- Fyra ringar i fronten är inte värda merkostnaden - Aftonbladet
+- Klart med nytt avtal för Saco-S medlemmar - Universitetsläraren
 - Insändare: Dålig behandling av personal i hemtjänsten - NWT
-- iPhone 17e kanske inte är värd att vänta på – här är varför - TechRadar
+- DJI Mini 5 Pro vs DJI Mini 4K – 5 anledningar att lägga extra pengar på Pro-modellen - TechRadar
 
 ## World News
 
-- Global Sumud Flotilla: Fartyg blir bordade – Senaste nytt om kriget i Gaza - SVT Nyheter
-- UNI Post & Logistics World Conference väljer ny ledning och stakar ut en djärv väg - UNI Global Union
 - Fartyg från Gazakonvojen har blivit bordade - Aftonbladet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Trumps beställning: Visa att global uppvärmning är bra - Omni
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Global Sumud Flotilla: En båt fortfarande på väg – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
-- New Secretary General appointed - Olof Palme International Center
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- New Secretary General appointed - Olof Palme International Center
+- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Att kartlägga en global ekonomi som grips av inflation, tullar och en nedstängning - Invezz
+- Lissabon stärker sin position som global innovationshub - The Portugal News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Påven: En ny global utbildning för hopp i vår tid - Vatican News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Here’s what happened in 2022 in 10 striking pictures - The World Economic Forum
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
 
 ## Technology
 
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- TriNet Announces Two Appointments to its Board of Directors - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- DEBATT: ”Trumps politik kan vara bättre för Kina än för USA när det gäller AI.” - Sydsvenskan
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
@@ -67,6 +66,7 @@ _Updated: 2025-10-05 06:40_
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Intellistake Technologies Corp. Added to 'CSE 25' Index as One of the 25 Largest Companies on the CSE - Placera.se
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 - Infosys Extends Strategic Collaboration with Sunrise to Accelerate IT Transformation and Power AI Future - Placera.se
@@ -121,24 +121,24 @@ _Updated: 2025-10-05 06:40_
 
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
-- Olika slutsatser från samma data - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Irene Jensen - Karolinska Institutet
-- Simple math behind major bison blunder - Forskning & Framsteg
-- 606 forskare: Regeringen stoppar nödvändig forskning - Aftonbladet
+- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers
 
 ## Jordbruk
 
