@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-06 01:37_
+_Updated: 2025-10-06 04:11_
 
 ## Top Stories
 
-- Kristina Lindquist: Kändisskapet är Greta Thunbergs främsta politiska vapen - DN
-- Svenska aktivister kan flygas hem i morgon – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Ministern: Då kan svenskarna släppas - Expressen
-- Sonen tog livet av sig – nu inleds rättegången mot Stockholms stad - DN
-- Zelenskyj: ”Noll verklig reaktion från omvärlden” - Hufvudstadsbladet
+- UD till anhöriga: Svenskar kan flygas ut ur Israel på måndagen - DN
+- Ministern om Thunberg: ”Mycket allvarligt” – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Person på boende avled av kycklingtortilla - Västerbottens-Kuriren
+- Trump: Positiva samtal med Hamas - SvD
 - Översvämning i Fiskhamnen efter stormen Amy – så blir vädret i veckan - GP
-- Rosförsäljare i polisregion Nord - polisen.se
+- Minst 20 skadade i Sydney-skjutning - Aftonbladet
 - Dryga böter för många - Västerbottens-Kuriren
+- Polisen varnar för rosförsäljare – kan vara på väg mot norr - Norran
 - DN Direkt - S: Regeringens exempel – ett typfall som inte finns - DN
-- Sex personer skadade i skottlossning i centrala Gävle – 13-åring misstänkt - SVT Nyheter
-- DN Direkt - Newsom hotar Trump med rättsliga åtgärder - DN
+- Sonen tog livet av sig – nu inleds rättegången mot Stockholms stad - DN
+- Trump skickar soldater från Kalifornien till Portland - SVT Nyheter
 - Netanyahu: Hoppas få hem gisslan inom några dagar - Hufvudstadsbladet
 - Påven: Världen förändras om vi förändras - Vatican News
-- DN Direkt - Masskjutning i nöjesdistrikt i Alabama – två döda - DN
-- Sänkt matmoms kan ge permanent hål i statskassan - Tidningen Näringslivet
+- Zelenskyj:”Noll verklig reaktion från omvärlden” - GP
 - ”Guldpriset är ett tecken på att något är knas” - SvD
-- Analytiker spår tuffare period för Tesla framåt - EFN
 - Jokervinst på 10 miljoner kronor – vinnare från Stockholms län: ”Det känns overkligt” - Svenska Spel
-- Test: Iphone Air - ”Ett stycke tunn skärm som det också ryms en smartphone i” - Ny Teknik
+- KVÄLLENS NYHETER: Bitcoin når rekordnivå • Martin bygger en egen Jeep • Karlstad fotbolls storseger - NWT
+- Assistansutredningen är igång: Allt detta står på spel - Hejaolika.se
 - Över 200 djur hittade i ”skräckhus” – bilderna från platsen - Expressen
+- Sonic Racing: Crossworlds - racing i flera dimensioner - FZ.se
 
 ## World News
 
-- Elevating Vietnamese Coconut Value on the Global Stage - Anuga 2025 - Placera.se
 - UNI Post & Logistics World Conference väljer ny ledning och stakar ut en djärv väg - UNI Global Union
-- Samsung och OpenAI i strategiskt partnerskap för stärkt global AI-infrastruktur - Mynewsdesk
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Fartyg från Gazakonvojen har blivit bordade - Aftonbladet
-- Global Sumud Flotilla: En båt fortfarande på väg – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
-- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
-- New Secretary General appointed - Olof Palme International Center
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Choice Hotels International Accelerates International Growth with Addition of 50 New Quality Suites Hotels in France - Placera.se
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Samsung och OpenAI i strategiskt partnerskap för stärkt global AI-infrastruktur - Mynewsdesk
+- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
+- Techarenan News goes English (Partly at least) - Techarenan News
+- Elevating Vietnamese Coconut Value on the Global Stage - Anuga 2025 - Placera.se
+- New Secretary General appointed - Olof Palme International Center
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- DEBATT: ”Trumps politik kan vara bättre för Kina än för USA när det gäller AI.” - Sydsvenskan
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - 290 million for digitalisation of Swedish industry - Vinnova
+- Spår superintelligens om tio år – vill leda racet - Omni
+- Deepseek är det nya Linux - Computer Sweden
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
-- ZenaTech Closes Tenth Acquisition of A&J Land Surveyor Inc., Expanding Drone as a Service (DaaS) to Florida’s Aviation, Utility, and Infrastructure Markets - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
-- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
-- Use of Drones for Land Surveying and Mapping Reaching New Levels Becoming a Billion Dollar Opportunity - Placera.se
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 
 ## Business
 
@@ -79,20 +79,20 @@ _Updated: 2025-10-06 01:37_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - AgriFORCE Growing Systems (AGRI) to Launch as First Publicly-Traded Avalanche-Focused Company on NASDAQ with a $550 Million Capital Raise Strategy - Placera.se
-- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
+- Lumen Highlights AI-Era Transformation and Path to Growth at Analyst Forum - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- A Norwegian add on for Standout portfolio company Exsitec - Mynewsdesk
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
+- MTL Cannabis Corp. Announces Closing of $2 Million Brokered LIFE Offering Led by Centurion One Capital - Placera.se
 
 ## Health
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-06 01:37_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - European Commission
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- An Giang Agricultural Extension 30 år av att stödja jordbrukare - Vietnam.vn
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
 - Här är världens största jordbruk - ATL
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- De gick från reko till eko - ST-tidningen
+- Så gick första året för Pellbrants - Västerbottens Mellanbygd
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
-- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
