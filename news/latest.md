@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-06 23:48_
+_Updated: 2025-10-07 00:48_
 
-- Illinois sues Trump over National Guard deployment to Chicago - Axios
 - Who is Bari Weiss? CBS News' new editor-in-chief is a vocal critic of legacy media - NPR
-- A Major New Constitutional Clash Erupts In Oregon - Talking Points Memo
-- US Supreme Court rejects Ghislaine Maxwell appeal - BBC
+- MAGA calls for Trump to overrule judges on National Guard deployments - Axios
+- Illinois and Chicago sue to block Trump deployment of National Guard, but troops already on the way - CBS News
 - White House: Trump is not talking to Democrats - Politico
-- Fears of Economic Turmoil Deepen in France as Another Prime Minister Quits - The New York Times
-- Wesley Hunt Enters Texas G.O.P. Senate Race, Complicating Path for Cornyn - The New York Times
-- Trump says US, Brazil will ‘do very well together’ following call with Lula - Politico
-- Mike Johnson rejects Hakeem Jeffries' demand to debate shutdown in prime time - Axios
-- New Supreme Court term will reshape Trump's powers - BBC
-- Gaza ceasefire talks to begin in Egypt, as Israel strikes enclave - The Washington Post
-- Blizzard on Mt. Everest traps hundreds of hikers: We show where. - USA Today
+- More trouble for Emmanuel Macron as another French PM resigns - BBC
+- Supreme Court rejects appeal from Epstein accomplice Ghislaine Maxwell - CNN
+- Fire engulfs home of South Carolina judge who had received death threats - The Guardian
+- Fact Sheet: President Donald J. Trump Approves Ambler Road Project to Unlock Alaska’s Mineral Potential - The White House (.gov)
+- First EF5 tornado to strike the US in over a decade just confirmed by experts - CNN
+- Judge deals Trump new setback in plans to deploy troops to Portland - The Washington Post
+- Snowstorm traps hundreds on Mount Everest - The Washington Post
 - Man convicted in Gisèle Pelicot case says he ‘never intended’ to rape her - The Guardian
-- ICC makes the first conviction over past atrocities in Sudan’s Darfur - AP News
-- OpenAI, AMD Announce Massive Computing Deal, Marking New Phase of AI Boom - The Wall Street Journal
-- S&P 500, Nasdaq close at fresh records to start week, helped by AMD gains - CNBC
-- Constellation Brands reiterates lower full-year guidance - CNBC
+- ICC finds former Sudan militia leader guilty of war crimes in Darfur - NPR
+- Israel and Hamas begin indirect talks in Egypt on Trump's Gaza peace plan - BBC
+- Brad Gerstner on OpenAI's dealmaking with AMD, Nvidia: 'The best chips will win' - CNBC
+- Fifth Third to buy Comerica in $10.9 billion deal to create ninth-largest US bank - Reuters
+- Telecom Stock Slide After Verizon Unexpectedly Names New CEO - Investor's Business Daily
 - US government pours cold water on Critical Metals deal - Mining.com
-- Don’t buy an Echo Show (you can have mine) - Engadget
+- Google Wallet adds support for 10th state ID on Android - 9to5Google
 - One UI 8 stock visuals are stunning wallpapers [Download] - Sammy Fans
