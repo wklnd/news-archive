@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-06 13:48_
+_Updated: 2025-10-06 15:16_
 
 - Judge blocks Trump from sending National Guard from California to Portland - BBC
-- French Prime Minister Resigns in Surprise Move - The New York Times
-- How Trump cornered Netanyahu into signing up for peace - Financial Times
-- White House: Mass layoffs will start if shutdown talks 'going nowhere' - Reuters
 - Supreme Court term will tackle executive power, executive power and executive power - NPR
-- Ex-special counsel John Durham undercut case against James Comey in interview with prosecutors: Sources - ABC News - Breaking News, Latest News and Videos
+- French Prime Minister Sébastien Lecornu Resigns - The New York Times
+- Trump pushing Israel and Hamas for Gaza deal within days - Axios
+- White House: Mass layoffs will start if shutdown talks 'going nowhere' - Reuters
+- CBS' next top editor to be Bari Weiss of The Free Press - NPR
+- Nobel Prize for immune system stops destructive rampage - BBC
 - Instructor dies in Nashville skydiving incident; 2nd skydiver rescued from tree - NBC News
-- Photos: Trump marks Navy's 250th anniversary during government shutdown - Axios
-- Gov. JB Pritzker says Texas National Guard expected to join troops from Illinois as deportations escalate - Chicago Tribune
-- No new temples announced during October General Conference - KSL TV 5
-- Mount Everest: More than 200 hikers still stranded after blizzard hits Mount Everest - follow live - BBC
-- Japanese yen tumbles on likely new leader, euro slides after French PM steps down - Reuters
-- Erin Patterson: Australian prosecutors appeal mushroom murderer's 'inadequate' sentence - BBC
-- Appeal Trial Opens in Gisèle Pelicot Rape Case - The New York Times
+- Trump appears to reveal another strike on alleged cartel drug boat - ABC News - Breaking News, Latest News and Videos
+- Federal tactics on Portland protesters escalate, hours after judge rules against Trump - Oregon Public Broadcasting - OPB
+- Greta Thunberg set to be deported from Israel Monday on flight to Athens - The Times of Israel
+- Trying to Survive Gaza’s War-Torn Present, and Hoping for a Future - The New York Times
+- Mount Everest: Hundreds still stranded as rescuers battle heavy snow after blizzard - follow live - BBC
+- Japan’s Nikkei stock index jumps nearly 5% after its ruling party picked Takaichi to lead - AP News
 - Stock futures rise to kick off new week after big bank deal, AMD OpenAI partnership: Live updates - CNBC
-- Gold Tops $3,900 on U.S. Rate-Cut Bets, Government Shutdown Uncertainty - The Wall Street Journal
 - Oil rises after OPEC+ hikes output less than expected - Reuters
-- From Jaguars to Grocery Shelves: Cyberattacks Disrupt British Daily Life - The New York Times
+- ‘Gold-plated Fomo’ powers bullion’s record-breaking rally - Financial Times
+- Costco is now selling discounted weight-loss drugs Ozempic and Wegovy - The Washington Post
 - OpenAI's first device with Jony Ive could be delayed due to 'technical issues' - Engadget
-- Windows 11 Explorer pop-ups, file transfer’s upcoming dark mode looks even better now - Windows Latest
+- Thinking About Buying A Roku Streaming Stick? Here's 9 Things You Need To Know First - bgr.com
