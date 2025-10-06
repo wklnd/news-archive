@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-06 16:50_
+_Updated: 2025-10-06 17:48_
 
-- Supreme Court Rejects Appeal From Ghislaine Maxwell - The New York Times
-- Judge blocks Trump from deploying California National Guard — or any Guard troops — in Oregon - Los Angeles Times
-- Supreme Court term will tackle executive power, executive power and executive power - NPR
-- Bari Weiss named editor-in-chief of CBS News under Free Press-Paramount deal - Reuters
-- Gaza peace talks: The key sticking points - BBC
-- France's prime minister resigns, again, sparking call from far-right for new national elections - CBS News
+- Illinois sues the Trump administration over National Guard deployment to Chicago - NBC News
+- US Supreme Court rejects Ghislaine Maxwell appeal - BBC
+- Paramount Skydance acquires The Free Press for $150M - Axios
+- Prime minister of France resigns hours after naming new government - The Washington Post
+- Israel-Hamas negotiations spurred by Trump ceasefire plan to start, fueling cautious hope for end to Gaza war - CBS News
+- President Trump and the Supreme Court - The New York Times
 - White House: Mass layoffs will start if shutdown talks 'going nowhere' - Reuters
 - Nobel Prize for medicine awarded to immune system researchers - Al Jazeera
-- Gov. JB Pritzker says Texas National Guard expected to join troops from Illinois as deportations escalate - Chicago Tribune
-- McGrath announces second bid for McConnell’s Senate seat - Politico
+- Judge Blocks Trump From Deploying Any National Guard Under His Command to Oregon - The Wall Street Journal
+- Mike Johnson rebuffs Hakeem Jeffries’ request for a live shutdown debate - Politico
+- Snowstorm traps hundreds on Mount Everest - The Washington Post
+- Israel deports Greta Thunberg and 170 other Gaza flotilla activists - BBC
 - Japan’s bond vigilantes brace for looser fiscal stance after Sanae Takaichi wins party vote - CNBC
-- What has Israel achieved in 2 years of war in Gaza? - DW
-- Mount Everest: Hundreds still stranded as rescuers battle heavy snow after blizzard - follow live - BBC
-- Gisèle Pelicot returns to court to face one of men convicted of raping her - The Guardian
+- Trying to Survive Gaza’s War-Torn Present, and Hoping for a Future - The New York Times
 - AMD Stock: Why Shares Are Soaring on the OpenAI News Today - Barron's
 - Fifth Third, Comerica enter $10.9 billion deal to create ninth-largest US bank - Reuters
-- S&P 500 ticks higher to start week, AMD lifts the Nasdaq: Live updates - CNBC
-- Verizon Names Lead Director Daniel Schulman as Chief Executive - The Wall Street Journal
+- Online holiday spending growth set to slow to 5.3% as shoppers seek discounts - CNBC
+- Verizon Names Dan Schulman CEO Replacing Hans Vestberg (VZ) - Bloomberg.com
 - OpenAI, Jony Ive struggle with technical details on secretive new AI gadget - Ars Technica
-- Your Galaxy S22’s next chapter begins tomorrow - Sammy Fans
+- Dbrand lets Android users drink the Cosmic Orange juice, too - The Verge
