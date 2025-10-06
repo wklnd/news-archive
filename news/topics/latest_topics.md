@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-07 00:39_
+_Updated: 2025-10-07 01:37_
 
 ## Top Stories
 
-- Bjöd på sprit och gruppvåldtog 15-årig flicka – straffen sänks - GP
+- Mystisk brand – efter beslut om Trump: ”Hotar” - Aftonbladet
 - Vad hände de 15 sista minuterna innan huset bombades? - DN
-- Polisens nya varning för påstridiga rosförsäljare - Expressen
-- Tomahawk tillgång för Ukraina: ”Mer effektivt” - SvD
+- Fem punkter: Nu börjar förhandlingarna om Trumps fredsplan för Gaza - GP
 - Preliminära provsvar visar listeria på Coco & Carmen - SVT Nyheter
 - Försonings­budskap i sargat Syrien - ETC.se
+- Bjöd på sprit och gruppvåldtog 15-årig flicka – straffen sänks - GP
 - Socialdemokraternas förslag till budget för 2026 – Ny riktning för Sverige - Socialdemokraterna
 - DN Direkt - Nobelpriset i medicin för upptäckter kring immunsystemet - DN
-- Thunberg och svenskarna har landat i Aten - Västerbottens-Kuriren
+- Israel bekräftar: Thunberg och svenskar utvisas - Västerbottens-Kuriren
 - Nya uppgifter om skjutningen i Gävle: Flera aktörer larmades samma dag - SVT Nyheter
-- Tre knäckfrågor i Donald Trumps fredsplan för Gaza - SVT Nyheter
 - Räddningsinsatsen vid Mount Everest fortsätter: ”Hade tur som kom undan” - DN
-- UNHCR: En fjärdedel av våra anställda uppsagda - Västerbottens-Kuriren
-- Misstänkt spionfartyg har lagt till i en hamn nära Olkiluoto - Yle
-- Silverpriset nära rekordnivå: ”Har lite att ta ifatt” - Dagens industri
-- Nya rekord för Bitcoin – därför fortsätter krypto-hajpen - DN
-- Experten: ”Klarna gör klokt i att berätta mer” - SvD
+- Nya bakslag i Trumps försök att skicka soldater - Västerbottens-Kuriren
+- Militäruppgifter: Ukraina har träffat rysk ammunitionsfabrik 40 mil öster om Moskva - Ukrainskaja Pravda - Börsvärlden
+- DN Direkt - Regeringsuppdrag om vapen och sprängämnen presenteras - DN
 - Trots mildare lönekrav för arbetskraftsinvandrare – näringslivet missnöjda - Arbetet
-- HBO Max höjer priset – igen - Expressen
+- Wallenbergbolaget rasar efter brittisk vinstvarning - Dagens industri
+- Experten: ”Klarna gör klokt i att berätta mer” - SvD
+- Silverpriset nära rekordnivå: ”Har lite att ta ifatt” - Dagens industri
 - Rekommendationer om skärmtid för barn skickas hem till hushåll - Regeringen.se
+- Streamingtjänsten höjer priserna - Privata Affärer
 
 ## World News
 
@@ -38,15 +38,15 @@ _Updated: 2025-10-07 00:39_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - Samsung och OpenAI i strategiskt partnerskap för stärkt global AI-infrastruktur - Mynewsdesk
-- New Secretary General appointed - Olof Palme International Center
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- New Secretary General appointed - Olof Palme International Center
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - Elevating Vietnamese Coconut Value on the Global Stage - Anuga 2025 - Placera.se
 - Global Payments Launches Genius™ Solution for Higher Education Institutions - Placera.se
 - TAYLOR SWIFT | THE OFFICIAL RELEASE PARTY OF A SHOWGIRL Is an Unprecedented, Record-Setting, Worldwide Success With More Than $50 Million Global Box Office - Placera.se
 - BlackLine® Receives SAP® Global Finance and Spend Management Partner Excellence Award 2025 for Partner Solution Success - Placera.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -54,14 +54,14 @@ _Updated: 2025-10-07 00:39_
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- TriNet Announces Two Appointments to its Board of Directors - Placera.se
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
-- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- ZenaTech Closes Tenth Acquisition of A&J Land Surveyor Inc., Expanding Drone as a Service (DaaS) to Florida’s Aviation, Utility, and Infrastructure Markets - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
@@ -76,23 +76,23 @@ _Updated: 2025-10-07 00:39_
 - Bakkt Completes the Sale of Loyalty Business, Accelerating Transformation into a Pure-Play Digital Asset Infrastructure Platform - Placera.se
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - AgriFORCE Growing Systems (AGRI) to Launch as First Publicly-Traded Avalanche-Focused Company on NASDAQ with a $550 Million Capital Raise Strategy - Placera.se
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
-- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- Bakkt Eliminates All Remaining Long-term Debt - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - BTQ Technologies Announces QSSN Deployment with Finger Inc. Group, alongside PQC Banking Services PoC - Placera.se
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
