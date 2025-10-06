@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-06 15:50_
+_Updated: 2025-10-06 16:50_
 
-- Judge blocks Trump from sending National Guard from California to Portland - BBC
-- Gaza Peace Talks Are Set to Take Place in Egypt - The New York Times
-- Bari Weiss joins CBS with a mandate for 'balanced and fact-based' news - NPR
-- White House: Mass layoffs will start if shutdown talks 'going nowhere' - Reuters
+- Supreme Court Rejects Appeal From Ghislaine Maxwell - The New York Times
+- Judge blocks Trump from deploying California National Guard — or any Guard troops — in Oregon - Los Angeles Times
 - Supreme Court term will tackle executive power, executive power and executive power - NPR
-- French Prime Minister Sébastien Lecornu Resigns - The New York Times
-- Nobel Prize for immune system stops destructive rampage - BBC
-- Instructor dies in Nashville skydiving incident; 2nd skydiver rescued from tree - NBC News
-- Mother charged after two children killed, two others wounded in shooting, Brazoria County sheriff says - KHOU
-- Christian therapist seeks right to counsel gay teens to change feelings - The Washington Post
-- Greta Thunberg to be deported from Israel Monday on flight to Athens - The Times of Israel
-- Japan’s Nikkei stock index jumps nearly 5% after its ruling party picked Takaichi to lead - AP News
-- A limestone pharaonic painting vanishes from the famed Saqqara necropolis in Egypt - AP News
+- Bari Weiss named editor-in-chief of CBS News under Free Press-Paramount deal - Reuters
+- Gaza peace talks: The key sticking points - BBC
+- France's prime minister resigns, again, sparking call from far-right for new national elections - CBS News
+- White House: Mass layoffs will start if shutdown talks 'going nowhere' - Reuters
+- Nobel Prize for medicine awarded to immune system researchers - Al Jazeera
+- Gov. JB Pritzker says Texas National Guard expected to join troops from Illinois as deportations escalate - Chicago Tribune
+- McGrath announces second bid for McConnell’s Senate seat - Politico
+- Japan’s bond vigilantes brace for looser fiscal stance after Sanae Takaichi wins party vote - CNBC
+- What has Israel achieved in 2 years of war in Gaza? - DW
 - Mount Everest: Hundreds still stranded as rescuers battle heavy snow after blizzard - follow live - BBC
-- AMD and OpenAI Announce Strategic Partnership to Deploy 6 Gigawatts of AMD GPUs - AMD
-- S&P 500 rises to kick off new week after big bank deal, AMD-OpenAI partnership: Live updates - CNBC
-- Oil rises after OPEC+ hikes output less than expected - Reuters
-- ‘Gold-plated Fomo’ powers bullion’s record-breaking rally - Financial Times
-- OpenAI's first device with Jony Ive could be delayed due to 'technical issues' - Engadget
-- Thinking About Buying A Roku Streaming Stick? Here's 9 Things You Need To Know First - bgr.com
+- Gisèle Pelicot returns to court to face one of men convicted of raping her - The Guardian
+- AMD Stock: Why Shares Are Soaring on the OpenAI News Today - Barron's
+- Fifth Third, Comerica enter $10.9 billion deal to create ninth-largest US bank - Reuters
+- S&P 500 ticks higher to start week, AMD lifts the Nasdaq: Live updates - CNBC
+- Verizon Names Lead Director Daniel Schulman as Chief Executive - The Wall Street Journal
+- OpenAI, Jony Ive struggle with technical details on secretive new AI gadget - Ars Technica
+- Your Galaxy S22’s next chapter begins tomorrow - Sammy Fans
