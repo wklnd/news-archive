@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-06 15:05_
+_Updated: 2025-10-06 15:45_
 
 ## Top Stories
 
-- DN Direkt - Nobelpriset i medicin för upptäckter kring immunsystemet - DN
-- Kristersson till Gävle efter skjutningen - SVT Nyheter
-- Försoningsbudskap i sargat Syrien - ETC.se
-- Vårdpersonal får rabatt på SL-kort: ”Ger smulor” - SvD
+- Israel: Greta Thunberg har deporterats - DN
+- Tre delar Nobelpriset i medicin – "ring mig" - GP
 - Preliminära provsvar visar listeria på Coco & Carmen - SVT Nyheter
-- Inhumana fängelseförhållanden för gripna aktivister i Israel - Hufvudstadsbladet
+- Vårdpersonal får rabatt på SL-kort: ”Ger smulor” - SvD
+- Åklagaren: Dödsorsaken är fortfarande okänd - SVT Nyheter
+- Försoningsbudskap i sargat Syrien - ETC.se
 - Nytt lönekrav för arbetskraftsinvandring: 90 procent av medianlönen - SVT Nyheter
-- Socialdemokraternas förslag till budget för 2026 – Ny riktning för Sverige - Socialdemokraterna
+- DN Direkt - Offren för skottlossningen i Gävle inte måltavlorna - DN
 - Stärk småföretagen för en hållbar framtid - Tillväxtverket
 - Bidragstaket sågas – gäller främst 12 familjer i Göteborg - GP
-- Mamman dödades i Gaza – nu drömmer Lana om att kunna gå - Hallands Nyheter
 - Tre knäckfrågor i Donald Trumps fredsplan för Gaza - SVT Nyheter
+- Mamman dödades i Gaza – nu drömmer Lana om att kunna gå - Hallands Nyheter
 - Hundratals hjälpta – många kvar på Mount Everest - Västerbottens-Kuriren
-- Franska regeringen faller efter bara några timmar - Hufvudstadsbladet
+- Påven Leo XIV uppmanar till mer solidaritet med migranter - Signum – Katolsk orientering om kyrka, kultur och samhälle
 - Köttet får matpriserna att stiga - Dagens industri
 - Jean Eric Salata nominerad att efterträda grundaren Conni Jonsson som EQT:s styrelseordförande under 2026 - Cision News
+- Mondi rasar efter vinstvarning - drar ned svenska Billerud och Stora Enso - Börsvärlden
 - ”Järnkvinnan” får Tokyo att rusa: ”Hon har varit tydlig” - EFN
-- Open AI uppges dras med teknikstrul – deras AI-pryl planeras till 2026 - Ny Teknik
+- Altmans hemliga AI-pryl ska utmana telefonen - SvD
 - Gapwaves teknologi rullar nu på vägarna i Sverige - Evertiq
-- Discord har råkat ut för dataintrång - m3.se
 
 ## World News
 
+- Domino’s® Expands Global DoorDash Partnership: Delivering Canadian Favourites from Coast to Coast - Placera.se
 - UNI Post & Logistics World Conference väljer ny ledning och stakar ut en djärv väg - UNI Global Union
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Faroe Islands: 100 % Renewable Goal With Global Relevance - Forbes
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - Samsung och OpenAI i strategiskt partnerskap för stärkt global AI-infrastruktur - Mynewsdesk
-- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
-- Elevating Vietnamese Coconut Value on the Global Stage - Anuga 2025 - Placera.se
 - New Secretary General appointed - Olof Palme International Center
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Elevating Vietnamese Coconut Value on the Global Stage - Anuga 2025 - Placera.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global Payments Launches Genius™ Solution for Higher Education Institutions - Placera.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -75,30 +75,30 @@ _Updated: 2025-10-06 15:05_
 
 - Bakkt Completes the Sale of Loyalty Business, Accelerating Transformation into a Pure-Play Digital Asset Infrastructure Platform - Placera.se
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- AgriFORCE Growing Systems (AGRI) to Launch as First Publicly-Traded Avalanche-Focused Company on NASDAQ with a $550 Million Capital Raise Strategy - Placera.se
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- BTQ Technologies Announces QSSN Deployment with Finger Inc. Group, alongside PQC Banking Services PoC - Placera.se
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- AgriFORCE Growing Systems (AGRI) to Launch as First Publicly-Traded Avalanche-Focused Company on NASDAQ with a $550 Million Capital Raise Strategy - Placera.se
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
+- Lumen Highlights AI-Era Transformation and Path to Growth at Analyst Forum - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- BTQ Technologies Announces QSSN Deployment with Finger Inc. Group, alongside PQC Banking Services PoC - Placera.se
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
+- MTL Cannabis Corp. Announces Closing of $2 Million Brokered LIFE Offering Led by Centurion One Capital - Placera.se
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
@@ -106,16 +106,16 @@ _Updated: 2025-10-06 15:05_
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers
 - Fakulteten för hälsa och samhälle - Malmö universitet
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Patienter kan bidra till säkrare vård - Läkartidningen
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -153,6 +153,7 @@ _Updated: 2025-10-06 15:05_
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
@@ -161,4 +162,3 @@ _Updated: 2025-10-06 15:05_
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
