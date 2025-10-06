@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-06 07:40_
+_Updated: 2025-10-06 08:50_
 
 ## Top Stories
 
-- DN Direkt - Rundar domstol – skickar militär från Kalifornien - DN
-- Allt sämre stämning mellan Trump och Netanyahu bakom kulisserna - DN
+- DN Direkt - S: Regeringens exempel – ett typfall som inte finns - DN
+- Israel och Hamas inleder förhandlingar i Egypten - DN
 - Kristersson i möte med techmiljardären - SvD
 - ”Välkommen till Palestinas svar på Tjernobyl” - DN
-- Man i 80-årsåldern död efter trafikolycka i Växjö - SVT Nyheter
 - Minst 20 skadade i Sydney-skjutning - GP
+- Man i 80-årsåldern död efter trafikolycka i Växjö - SVT Nyheter
+- Tunga åklagare rasar mot lagförslaget: ”Stötande” - Västerbottens-Kuriren
 - Maria Gunther: De kan få årets Nobelpris - DN
-- Inhumana fängelseförhållanden för gripna aktivister i Israel - Hufvudstadsbladet
-- Statsministern och justitieministern besöker Gävle - Regeringen.se
-- Dryga böter för många - Västerbottens-Kuriren
+- Stor sökinsats i Rotebro – äldre kvinna borta i två dygn - SVT Nyheter
+- Rosförsäljare i polisregion Nord - polisen.se
+- Zelenskyj vädjar om hjälp mot ny rysk ”luftterror” - DN
+- Trump trotsar domarens beslut - GP
 - Nathan Shachar: Israel ett helt annat land efter två års krig - DN
-- Höjdare till Kairo – svåra fredssamtal väntar - Västerbottens-Kuriren
-- Man knivskuren – misstänkt mordförsök i Norrtälje - Expressen
-- Zelenskyj: ”Noll verklig reaktion från omvärlden” - Hufvudstadsbladet
-- Köttfärs gör matkassen dyrare - SvD
-- Saabs förslag: Vapensystem på abonnemang - DI
+- Stora strömavbrott i Ryssland efter ukrainska attacker - Expressen
+- Köttet får matpriserna att stiga - DI
+- Skyhöga priser på guld – här kan du ta upp jakten: ”Vid våra gamla gruvverk” - Filipstads Tidning
+- Saab föreslår vapensystem på abonnemang – samarbetar med FMV - Ny Teknik
 - Sänkt matmoms kan ge permanent hål i statskassan - Tidningen Näringslivet
-- ”Guldpriset är ett tecken på att något är knas” - SvD
 - Altmans hemliga AI-pryl ska utmana telefonen - SvD
-- Sonic Racing: Crossworlds - racing i flera dimensioner - FZ.se
+- Hela listan: Så många miljoner kostade dyraste villan i Karlskoga kommun senaste månaden - NWT
 
 ## World News
 
 - UNI Post & Logistics World Conference väljer ny ledning och stakar ut en djärv väg - UNI Global Union
+- Lissabon stärker sin position som global innovationshub - The Portugal News
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Samsung och OpenAI i strategiskt partnerskap för stärkt global AI-infrastruktur - Mynewsdesk
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
-- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
+- Samsung och OpenAI i strategiskt partnerskap för stärkt global AI-infrastruktur - Mynewsdesk
+- Techarenan News goes English (Partly at least) - Techarenan News
 - Elevating Vietnamese Coconut Value on the Global Stage - Anuga 2025 - Placera.se
 - New Secretary General appointed - Olof Palme International Center
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
-- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Spår superintelligens om tio år – vill leda racet - Omni
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- Infosys Extends Strategic Collaboration with Sunrise to Accelerate IT Transformation and Power AI Future - Placera.se
+- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
-- Conduent Integrates AI Technologies to Modernize Government Payments, Combat Fraud and Improve Customer Experiences for Beneficiaries - Placera.se
+- Spår superintelligens om tio år – vill leda racet - Omni
 
 ## Business
 
@@ -81,64 +81,64 @@ _Updated: 2025-10-06 07:40_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - BTQ Technologies Announces QSSN Deployment with Finger Inc. Group, alongside PQC Banking Services PoC - Placera.se
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers
 - Fakulteten för hälsa och samhälle - Malmö universitet
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
-- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Patienter kan bidra till säkrare vård - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Patienter kan bidra till säkrare vård - Läkartidningen
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning om forskningskommunikation i Sverige - Jönköping University
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
-- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
-- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
@@ -156,9 +156,9 @@ _Updated: 2025-10-06 07:40_
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - De gick från reko till eko - ST-tidningen
-- Så gick första året för Pellbrants - Västerbottens Mellanbygd
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
