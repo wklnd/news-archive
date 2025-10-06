@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-06 04:13_
+_Updated: 2025-10-06 05:24_
 
 - Trump Sends California National Guard Troops to Portland, Ore. - The New York Times
-- Feds charge woman shot by Border Patrol on Southwest Side - Chicago Sun-Times
 - Trump pushing Israel and Hamas for Gaza deal within days - Axios
-- What to watch as a never-ending Supreme Court term begins again - CNN
+- Woman shot by Border Patrol charged, neighbors describe chaos, fear - Chicago Sun-Times
 - Hamas delegation heads to Egypt for hostage deal talks - The Jerusalem Post
+- What to watch as a never-ending Supreme Court term begins again - CNN
 - Federal workers sue Education Department over partisan shutdown emails - NPR
-- Montgomery mass shooting kills teen and woman; 12 others injured: ‘This is not who we are’ - AL.com
+- Montgomery mayor fires back at attorney general after mass shooting: ‘I don’t need anybody lecturing me about - AL.com
 - Using helicopters and chemical agents, immigration agents become increasingly aggressive in Chicago - AP News
+- Gov. JB Pritzker says Texas National Guard expected to join troops from Illinois as deportations escalate - Chicago Tribune
 - White House: Mass layoffs will start if shutdown talks 'going nowhere' - Reuters
-- No new temples announced during October General Conference - KSL TV 5
 - Russian air attack across Ukraine damages energy networks, kills five - The Washington Post
-- Japan's Nikkei seen hitting new highs as yen, bonds sputter on Takaichi victory - Reuters
-- IDF strikes in Gaza City ‘significantly subside,’ but dozens said killed in past day - The Times of Israel
+- Takaichi win as Japan leader may delay, not derail, BOJ rate hikes - Reuters
 - Manchester synagogue attack victim Melvin Cravitz's funeral held - BBC
+- Mass protests from Amsterdam to Istanbul denounce Israel’s Gaza genocide - Al Jazeera
 - OPEC+ opts for modest oil output hike as glut fears mount - Reuters
-- Foster Poultry Farms recalls nearly 4 million pounds of chicken corn dogs due to wood in batter - AP News
 - How this popular trade is boosting gold and bitcoin as hedges to a weaker dollar - MarketWatch
-- Japanese Stocks to Gain on Takaichi Win, Yen Drops: Markets Wrap - Bloomberg.com
-- Engadget review recap: Ray-Ban Meta, GoPro Max 2 and more - Engadget
-- Best Amazon Prime Day laptop deals: Early sales on machines from Apple, Dell, Lenovo, HP and more - Engadget
+- Foster Poultry Farms recalls nearly 4 million pounds of chicken corn dogs due to wood in batter - AP News
+- Stock futures are little changed after a record-setting week as government shutdown continues: Live updates - CNBC
+- OpenAI and Jony Ive may be struggling to figure out their AI device - TechCrunch
+- The Reinforcement Gap — or why some AI skills improve faster than others - TechCrunch
