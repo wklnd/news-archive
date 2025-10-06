@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-06 16:43_
+_Updated: 2025-10-06 17:41_
 
 ## Top Stories
 
 - Israel: Greta Thunberg har deporterats - DN
-- Fann immunförsvarets ordningsvakter – får Nobelpris - GP
 - Socialdemokraternas förslag till budget för 2026 – Ny riktning för Sverige - Socialdemokraterna
+- Fann immunförsvarets ordningsvakter – får Nobelpris - GP
 - Preliminära provsvar visar listeria på Coco & Carmen - SVT Nyheter
-- Ny lönenivå för arbetskraftsinvandring och skärpta krav för anhöriginvandring - Regeringen.se
+- Två anhållna efter misstänkta fynd i Sätra - Västerbottens-Kuriren
 - Försonings­budskap i sargat Syrien - ETC.se
-- DN Direkt - Offren för skottlossningen i Gävle inte måltavlorna - DN
+- Ny lönenivå för arbetskraftsinvandring och skärpta krav för anhöriginvandring - Regeringen.se
+- Kristersson till Gävle efter skjutningen - SVT Nyheter
 - Vårdpersonal får rabatt på SL-kort: ”Ger smulor” - SvD
 - Bidragstaket sågas – gäller främst 12 familjer i Göteborg - GP
 - Tre knäckfrågor i Donald Trumps fredsplan för Gaza - SVT Nyheter
 - Hundratals hjälpta – många kvar på Mount Everest - Västerbottens-Kuriren
-- Trumps order att skicka militär till Portland stoppad i natt - DN
-- JUST NU: Greta Thunberg landar - Expressen
-- Wallenbergbolaget rasar efter brittisk vinstvarning - Dagens industri
+- Påven Leo XIV uppmanar till mer solidaritet med migranter - Signum – Katolsk orientering om kyrka, kultur och samhälle
+- DN Direkt - Just nu: Pressträff om vapen och sprängmedel - DN
+- Svenska skogsbolag faller efter Mondis vinstvarning - EFN
+- Köttet får matpriserna att stiga - Dagens industri
 - Jean Eric Salata nominerad att efterträda grundaren Conni Jonsson som EQT:s styrelseordförande under 2026 - Cision News
-- Köttfärs gör matkassen dyrare - SvD
 - Trump siktar in sig på svensk jätte: "Ett hot" - EFN
-- Open AI uppges dras med teknikstrul – deras AI-pryl planeras till 2026 - Ny Teknik
 - Rekommendationer om skärmtid för barn skickas hem till hushåll - Regeringen.se
-- Nu får Samsung Galaxy S22 och S23 One UI 8 med samtalsinspelning - mobil.se
+- Windows 11:s Meddelandecenter börjar dyka upp på sekundära skärmar - PC för Alla
 
 ## World News
 
 - Domino’s® Expands Global DoorDash Partnership: Delivering Canadian Favourites from Coast to Coast - Placera.se
 - UNI Post & Logistics World Conference väljer ny ledning och stakar ut en djärv väg - UNI Global Union
-- Lissabon stärker sin position som global innovationshub - The Portugal News
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- World Gym Corporation Advances Global Growth with Mexico MFA and Australia Expansion - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Faroe Islands: 100 % Renewable Goal With Global Relevance - Forbes
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - Samsung och OpenAI i strategiskt partnerskap för stärkt global AI-infrastruktur - Mynewsdesk
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- New Secretary General appointed - Olof Palme International Center
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
-- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Elevating Vietnamese Coconut Value on the Global Stage - Anuga 2025 - Placera.se
 - Global Payments Launches Genius™ Solution for Higher Education Institutions - Placera.se
 
@@ -76,23 +76,23 @@ _Updated: 2025-10-06 16:43_
 - Bakkt Completes the Sale of Loyalty Business, Accelerating Transformation into a Pure-Play Digital Asset Infrastructure Platform - Placera.se
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - BTQ Technologies Announces QSSN Deployment with Finger Inc. Group, alongside PQC Banking Services PoC - Placera.se
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - AgriFORCE Growing Systems (AGRI) to Launch as First Publicly-Traded Avalanche-Focused Company on NASDAQ with a $550 Million Capital Raise Strategy - Placera.se
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Lumen Highlights AI-Era Transformation and Path to Growth at Analyst Forum - Placera.se
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
+- MTL Cannabis Corp. Announces Closing of $2 Million Brokered LIFE Offering Led by Centurion One Capital - Placera.se
 
 ## Health
 
@@ -108,37 +108,37 @@ _Updated: 2025-10-06 16:43_
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Patienter kan bidra till säkrare vård - Läkartidningen
 
 ## Science
 
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
