@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-07 12:49_
+_Updated: 2025-10-07 13:48_
 
-- Hamas celebrates two years since October 7, calls terror attack a ‘glorious day’ - The Jerusalem Post
-- Illinois sues Trump over National Guard deployment to Chicago - Axios
+- How two years of war in Gaza have changed the Middle East forever - Axios
 - Government shutdown hits air travel, closing a control tower and causing delays across the country - CNN
+- We Tried to Reach Gazans We Interviewed Over Two Years of War. Here’s What Happened to Them. - The New York Times
+- Courts confront militarized cities as Trump tests the waters with National Guard deployments - Politico
 - French farce: Macron accepts PM’s resignation, then tasks him with emergency talks - politico.eu
-- Schumer denies bipartisan health care talks after Trump’s Oval Office claim - Politico
-- Donald Trump threatens to invoke 200-year-old Insurrection Act to deploy troops - Financial Times
+- Why some federal workers aren't scared by the threat of shutdown layoffs - NPR
+- Supreme Court Hears Free Speech Challenge to Ban on Conversion Therapy - The New York Times
+- Trump floats Insurrection Act use amid National Guard standoff with states - Axios
 - South Carolina’s top law official says no arson evidence so far in fire that destroyed judge’s home - Politico
 - Cities nationwide back Oregon in National Guard deployment dispute with Trump - OregonLive.com
-- Nobel committee unable to reach prize winner who is ‘living his best life’ hiking off grid - The Guardian
-- Medical helicopter crashes on California freeway, crew taken to area hospitals, company says - ABC News - Breaking News, Latest News and Videos
-- EU states edge towards deal to curb Russian diplomat movements - Reuters
+- Trekker uses cooking pots to dig her way out of freak blizzard on Everest - CNN
+- What to Know as Gisèle Pelicot Returns to Court for Man’s Appeal - The New York Times
 - Trump congratulates woman set to be first female prime minister of Japan - Reuters
-- Man convicted in Gisèle Pelicot case says he ‘never intended’ to rape her - The Guardian
 - Gaza peace talks: The key sticking points - BBC
-- S&P 500 Gains and Losses Today: AMD Stock Pops on OpenAI Deal; AppLovin Plunges - Investopedia
-- Deloitte goes all in on AI — despite having to issue a hefty refund for use of AI - TechCrunch
+- Deloitte to partially refund Australian government for report with apparent AI-generated errors - ABC News - Breaking News, Latest News and Videos
+- US and China provoke sharp fall in global outlook for renewable power - Al Jazeera
 - Asia stocks buoyed by tech gains, Japan at record high as rate hike bets unwind - Investing.com
-- Private credit cash pivots from 'risky' West to emerging markets - Reuters
-- Prime Day Apple deals include the AirPods 4 for only $90 - Engadget
-- Apple releases macOS Tahoe 26.1 developer beta 2 - 9to5Mac
+- S&P 500 Gains and Losses Today: AMD Stock Pops on OpenAI Deal; AppLovin Plunges - Investopedia
+- Microsoft is plugging more holes that let you use Windows 11 without an online account - The Verge
+- Apple Seeds Second Betas of iOS 26.1, iPadOS 26.1, macOS Tahoe 26.1 and More - MacRumors
