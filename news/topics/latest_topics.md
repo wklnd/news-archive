@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-07 18:46_
+_Updated: 2025-10-07 19:40_
 
 ## Top Stories
 
-- Greta Thunberg har landat på Arlanda - SVT Nyheter
-- DN Direkt - LVU-beslut fattades för misstänkt pojke fyra timmar före dådet i Gävle - DN
-- C-miljarder till sänkt arbetsgivaravgift - Västerbottens-Kuriren
-- Körförbudet nattetid fortsätter på Bergsgatan och Stora Nygatan - Malmö stad
-- Dödshot mot M-toppen Axel Josefson – på kansliet i Göteborg - GP
+- Greta Thunberg: Blev precis släppt från ett tortyrfängelse - SVT Nyheter
 - Emma Bouvin: Rädsla på ena sidan – ockupation och förtryck på den andra - DN
-- Utrikesministern kritisk: 70 000 mejl till UD - GP
+- C-miljarder till sänkt arbetsgivaravgift - Västerbottens-Kuriren
+- Lastbilssläp med timmer har vält – långa köer utanför Falun - SVT Nyheter
+- Körförbudet nattetid fortsätter på Bergsgatan och Stora Nygatan - Malmö stad
+- Kritik efter kampanj mot UD – har fått över 70 000 mejl - Sydsvenskan
+- ”Diktaturfasoner” – hård kritik mot Svenska kennelklubben - DN
 - Flipps mamma tar strid för sin döde son i rätten: ”Måste ske en förändring” - DN
-- "Ausländer raus" sjöngs på Muf-fest i Göteborg - GP
-- Internationell vecka uppmärksammar förbjuden litteratur – hålls i Malmö - Sveriges Radio
+- Landshövding Carina Ståhl Herrstedt om skjutningarna i Gävle - Länsstyrelsen
+- Administration och stök skapar stress hos lärare, visar internationell undersökning - Regeringen.se
+- Köttkrav grillas i burgarbråk - Sydsvenskan
 - DN Direkt - Borgmästare i Tyskland livshotande skadad i knivattack - DN
 - Danmark ska förbjuda sociala medier för barn - Västerbottens-Kuriren
-- Erik Esbjörnsson: Det tog 20 år att skipa rättvisa – nytt hopp för Darfurs offer - DN
 - På söndagskvällen regnade missiler ner över staden jag befann mig i - Altinget.se
-- Sverige står utan effektreserv i vinter – Karlshamnsverket fick nobben - Ny Teknik
+- Ingen strategisk reserv för effektbrist i vinter - Företagarna
 - Svenska bostadsmarknaden i brytpunkt och september visar ett trendskifte - Svensk Fastighetsförmedling - Aktiellt
+- Leverantörer till Arbetsförmedlingen underpresterade – har ändå tjänat miljoner - DN
 - Ingen perfekt lösning men den mest framtidsinriktade - Dagens industri
-- Jaguar Land Rover återupptar produktionen efter cyberattacken - Computer Sweden
 - Få halva priset på robotdammsugaren Eufy X10 Pro Omni under Prime Deal Days - TechRadar
 - Gissa Little Nightmares 3-betyget i dag (och BF6 senast onsdag) - FZ.se
 
@@ -29,24 +29,24 @@ _Updated: 2025-10-07 18:46_
 
 - Lund University invests 85 million in international hiring drive - Lundagård
 - PRIVACY ALERT: Brightstar Global Solutions Corporation Under Investigation for Data Breach of 103,789 Records - Placera.se
-- Lissabon stärker sin position som global innovationshub - The Portugal News
 - Domino’s® Expands Global DoorDash Partnership: Delivering Canadian Favourites from Coast to Coast - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- UNI Post & Logistics World Conference väljer ny ledning och stakar ut en djärv väg - UNI Global Union
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - World Travel, Inc. Expands Strategic Partnership with Sabre to Drive Innovation and Enhance Global Travel Programs - Placera.se
 - Global Payments Launches Genius™ Solution for Higher Education Institutions - Placera.se
 - Mattel Creations and The Museum of Modern Art Announce Multi-Year Global Partnership - Placera.se
 - TAYLOR SWIFT | THE OFFICIAL RELEASE PARTY OF A SHOWGIRL Is an Unprecedented, Record-Setting, Worldwide Success With More Than $50 Million Global Box Office - Placera.se
 - BlackLine® Receives SAP® Global Finance and Spend Management Partner Excellence Award 2025 for Partner Solution Success - Placera.se
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- Elevating Vietnamese Coconut Value on the Global Stage - Anuga 2025 - Placera.se
 
 ## Technology
 
@@ -62,7 +62,6 @@ _Updated: 2025-10-07 18:46_
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- ZenaTech Closes Tenth Acquisition of A&J Land Surveyor Inc., Expanding Drone as a Service (DaaS) to Florida’s Aviation, Utility, and Infrastructure Markets - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
@@ -70,6 +69,7 @@ _Updated: 2025-10-07 18:46_
 - Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
 
 ## Business
 
@@ -100,22 +100,22 @@ _Updated: 2025-10-07 18:46_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers
 - Fakulteten för hälsa och samhälle - Malmö universitet
-- Johan von Schreeb - Karolinska Institutet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - SIHI Sweden Konferens 2024 - Uppsala universitet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-07 18:46_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Här är världens största jordbruk - ATL
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
