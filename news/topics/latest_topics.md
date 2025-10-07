@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-07 05:47_
+_Updated: 2025-10-07 06:42_
 
 ## Top Stories
 
+- Nathan Shachar: Israel ett helt annat land efter två års krig - DN
+- Trump: ”Hamas har gått med på viktiga saker” – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Kenneth, 62 år, har överlevt 23 hjärtstopp - DN
+- Våldtog 15-åring – hovrätten sänker straff - GP
+- (+) Bildextra: Stor manifestation mot brytning i alunskiffer - Jamtlands Tidning
 - Mystisk brand – efter beslut om Trump: ”Hotar” - Aftonbladet
-- Preliminära provsvar visar listeria på Coco & Carmen - SVT Nyheter
-- FN: Redo med nödhjälp till Gaza - GP
-- Thunberg och svenskarna har landat i Aten - Västerbottens-Kuriren
-- Gripande av FN-anställda fördöms - GP
-- Kristersson om åklagarkritiken: ”Livet är fullt av svåra avvägningar” - DN
-- DN Direkt - Nobelpriset i medicin för upptäckter kring immunsystemet - DN
+- De är största parti på sociala medier – igen - Västerbottens-Kuriren
+- Dadgostars känga: Regeringen svamlar om Gaza - GP
 - Internationell vecka uppmärksammar förbjuden litteratur – hålls i Malmö - Sveriges Radio
-- Karin Johansson: Låt företagen själva bestämma sitt kompetensbehov - Svenskt Näringsliv
-- Socialdemokraternas förslag till budget för 2026 – Ny riktning för Sverige - Socialdemokraterna
-- Tre knäckfrågor i Donald Trumps fredsplan för Gaza - SVT Nyheter
+- Nya uppgifter om skjutningen i Gävle: Flera aktörer larmades samma dag - SVT Nyheter
 - Räddningsinsatsen vid Mount Everest fortsätter: ”Hade tur som kom undan” - DN
-- Våldtog 15-åring – hovrätten sänker straff - Västerbottens-Kuriren
 - Militäruppgifter: Ukraina har träffat rysk ammunitionsfabrik 40 mil öster om Moskva - Ukrainskaja Pravda - Börsvärlden
-- Nya rekord för Bitcoin – därför fortsätter krypto-hajpen - DN
-- Merzs krisdrag: Vill skrota EU-förbud mot bensinbilar - Dagens industri
-- Experten: ”Klarna gör klokt i att berätta mer” - SvD
-- Trots stress och stök – lärarna nöjda med jobbet - Aftonbladet
+- Trump: Kan åberopa upprorslag - GP
+- Ovanligt ljusfenomen över Bjärehalvön - Expressen
+- Trots mildare lönekrav för arbetskraftsinvandrare – näringslivet missnöjda - Arbetet
+- ”Trendbrott” – här ökar bostadspriserna igen - SvD
+- Merz: Skrota EU-förbud mot bensinbilar - Aftonbladet
+- Trots stress och stök – lärarna nöjda med jobbet - GP
 - Rekommendationer om skärmtid för barn skickas hem till hushåll - Regeringen.se
-- HBO Max höjer priset – igen - Omni
+- Lisa Su sa en gång till Jim Cramer att “du har helt fel om AMD-aktier” – hon hade rätt - Invezz
 
 ## World News
 
@@ -38,13 +38,13 @@ _Updated: 2025-10-07 05:47_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNI Post & Logistics World Conference väljer ny ledning och stakar ut en djärv väg - UNI Global Union
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Elon for president? Father Errol Musk says son ‘not cut out for politics’…yet - Al Arabiya English
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
-- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
 - Global Payments Launches Genius™ Solution for Higher Education Institutions - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - BlackLine® Receives SAP® Global Finance and Spend Management Partner Excellence Award 2025 for Partner Solution Success - Placera.se
 - Ex-nyhetsankare på BBC hade barnpornografi - Omni
 
@@ -108,11 +108,11 @@ _Updated: 2025-10-07 05:47_
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- Mabel AI won the HealthTech Award 2023 - NewsMachine AB
-- Patienter kan bidra till säkrare vård - Läkartidningen
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
@@ -120,25 +120,25 @@ _Updated: 2025-10-07 05:47_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
+- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 
 ## Jordbruk
 
