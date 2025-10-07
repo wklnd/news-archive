@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-07 23:48_
+_Updated: 2025-10-08 00:48_
 
-- Bondi testifies before Senate panel at first hearing since Comey indictment - NPR
+- Democrats press Bondi over concerns DOJ is being weaponized to target Trump’s foes - NPR
 - Government shutdown live updates as dispute emerges over back pay for furloughed workers - CBS News
-- Supreme Court skeptical of state bans on conversion therapy aimed at LGBTQ kids - NBC News
-- Texas National Guard arrives in Illinois, as Gov. Pritzker calls for end of Trump administration's 'authoritarian march' - ABC News - Breaking News, Latest News and Videos
-- The ruin of Gaza: how Israel’s two-year assault has devastated the territory - The Guardian
-- How Trump could use the Insurrection Act to send troops to American cities - Axios
-- Federal agents taunted Chicago woman to ‘do something’ before shooting her, attorney claims - The Guardian
-- At the center of shutdown fight, health care is one of the most intractable issues in Congress - AP News
-- Carney gets praise from Trump despite continued tariff stalemate - Politico
-- Tropical Storm Jerry has formed and should strengthen into the Atlantic’s next hurricane. Here’s where it’s headed - CNN
-- U.S. envoy Steve Witkoff, Jared Kushner heading to Egypt as Gaza ceasefire talks continue - CBS News
+- Air traffic controllers working without pay begin to call out sick, leading to flight cancellations and delays nationwide - ABC News - Breaking News, Latest News and Videos
+- Supreme Court Hearing on Colorado's Conversion Therapy Ban: Live Updates - The New York Times
+- Texas national guard troops arrive in Chicago amid Trump’s crackdown - The Guardian
+- These numbers show how 2 years of war have devastated Palestinian lives in Gaza - NPR
+- ICE agent's plea for help ignored by Chicago police, sparking outrage - KPIC
+- Scoop: White House says it has funding to save food aid program - Axios
+- Mike Johnson brushes off Marjorie Taylor Greene’s health care attack - Politico
+- Trump Predicts That ‘Canada Will Love Us Again’ in Meeting with Carney - The New York Times
+- Witkoff and Kushner Set to Join Gaza Talks Soon, Official Says - The New York Times
 - Time may be running out for Master of clocks Macron: What next for France? - BBC
+- Greta Thunberg alleges torture in Israeli detention after Gaza flotilla arrest - Reuters
 - Two arrested over nursery cyber-attack - BBC
-- Canada's Marineland theme park says it will have to euthanize 30 beluga whales without emergency funding - CBS News
-- Tesla Unveils New $39,990 Version of the Model Y - Bloomberg.com
-- Stock Market Today: Dow, Nasdaq Drop; Gold Hits $4,000; Trump-Carney Meeting in Focus — Live Updates - The Wall Street Journal
-- Nvidia, IBD Stock Of The Day, Seen Unscathed By OpenAI's AMD Deal - Investor's Business Daily
-- Best October Prime Day 2025 deals on Amazon Canada: Shop Apple, Ninja, Yeti, Lego and more on sale during Prime Big Deal Days | LIVE UPDATES - Yahoo Lifestyle Canada
-- Google is ‘committed to earning back your trust’ with Nest, Home, and Gemini - 9to5Google
-- Jony Ive's secretive AI hardware reportedly hit three problems - 9to5Mac
+- Tesla launches cheaper Model Y following end of US EV subsidies - Financial Times
+- Stock Market Today: Dow, Nasdaq Drop; Gold Hits $4,000 — Live Updates - The Wall Street Journal
+- We handpicked 30 October Prime Day deals you can get for under $25 - The Verge
+- Wall Street analysts explain how AMD’s own stock will pay for OpenAI’s billions in chip purchases - TechCrunch
+- ‘Gemini 2.5 Computer Use’ model enters preview with strong web, Android performance - 9to5Google
+- Google begins inviting users to try Gemini for Home - Android Police
