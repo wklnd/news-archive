@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-07 04:08_
+_Updated: 2025-10-07 05:10_
 
 ## Top Stories
 
 - Mystisk brand – efter beslut om Trump: ”Hotar” - Aftonbladet
 - Preliminära provsvar visar listeria på Coco & Carmen - SVT Nyheter
-- Thunberg och svenskarna har landat i Aten - Västerbottens-Kuriren
-- FN: Redo med nödhjälp till Gaza - GP
+- Gripande av FN-anställda fördöms - GP
+- FN: Redo med nödhjälp till Gaza - Västerbottens-Kuriren
+- Svenska aktivisterna har landat i Aten - DN
 - Varnar för “galen älg”: "Tidsfråga innan någon skadas" - Jakt & Jägare
-- Kristersson om åklagarkritiken: ”Livet är fullt av svåra avvägningar” - DN
 - DN Direkt - Nobelpriset i medicin för upptäckter kring immunsystemet - DN
 - Karin Johansson: Låt företagen själva bestämma sitt kompetensbehov - Svenskt Näringsliv
+- Nya uppgifter om skjutningen i Gävle: Flera aktörer larmades samma dag - SVT Nyheter
 - Socialdemokraternas förslag till budget för 2026 – Ny riktning för Sverige - Socialdemokraterna
-- Trafikljusen ställs om – alltid grönt för bussar - DN
 - Tre knäckfrågor i Donald Trumps fredsplan för Gaza - SVT Nyheter
 - Räddningsinsatsen vid Mount Everest fortsätter: ”Hade tur som kom undan” - DN
 - Militäruppgifter: Ukraina har träffat rysk ammunitionsfabrik 40 mil öster om Moskva - Ukrainskaja Pravda - Börsvärlden
-- Tvåstatslösning är det enda rimliga - Dagens Arena
+- Våldtog 15-åring – hovrätten sänker straff - Västerbottens-Kuriren
 - Experten: ”Klarna gör klokt i att berätta mer” - SvD
-- Nya rekord för Bitcoin – därför fortsätter krypto-hajpen - DN
 - Merz: Skrota EU-förbud mot bensinbilar - Aftonbladet
-- Så kan risken för bränder i elcyklar minska - Tidningen Extrakt
+- KVÄLLENS NYHETER: Bitcoin når rekordnivå • Martin bygger en egen Jeep • Karlstad fotbolls storseger - NWT
+- DN Direkt - Trump: 25-procentiga tullar på tunga lastbilar - DN
 - Rekommendationer om skärmtid för barn skickas hem till hushåll - Regeringen.se
 - Lisa Su sa en gång till Jim Cramer att “du har helt fel om AMD-aktier” – hon hade rätt - Invezz
 
 ## World News
 
 - Domino’s® Expands Global DoorDash Partnership: Delivering Canadian Favourites from Coast to Coast - Placera.se
+- Lissabon stärker sin position som global innovationshub - The Portugal News
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNI Post & Logistics World Conference väljer ny ledning och stakar ut en djärv väg - UNI Global Union
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- New Secretary General appointed - Olof Palme International Center
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
+- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
 - Elevating Vietnamese Coconut Value on the Global Stage - Anuga 2025 - Placera.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Payments Launches Genius™ Solution for Higher Education Institutions - Placera.se
-- TAYLOR SWIFT | THE OFFICIAL RELEASE PARTY OF A SHOWGIRL Is an Unprecedented, Record-Setting, Worldwide Success With More Than $50 Million Global Box Office - Placera.se
 - BlackLine® Receives SAP® Global Finance and Spend Management Partner Excellence Award 2025 for Partner Solution Success - Placera.se
 
 ## Technology
@@ -57,7 +57,6 @@ _Updated: 2025-10-07 04:08_
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
-- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
@@ -70,6 +69,7 @@ _Updated: 2025-10-07 04:08_
 - Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
 
 ## Business
 
@@ -99,7 +99,6 @@ _Updated: 2025-10-07 04:08_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
@@ -107,38 +106,39 @@ _Updated: 2025-10-07 04:08_
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers
 - Fakulteten för hälsa och samhälle - Malmö universitet
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
