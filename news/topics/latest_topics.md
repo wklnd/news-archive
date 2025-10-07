@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-07 15:05_
+_Updated: 2025-10-07 15:45_
 
 ## Top Stories
 
-- LVU-beslut för misstänkt pojke fyra timmar före dådet i Gävle - DN
-- Knivmordet i Kramfors: Livstids fängelse för huvudmannen - SVT Nyheter
-- C-miljarder på slopade arbetsgivaravgifter - GP
+- DN Direkt - LVU-beslut fattades för misstänkt pojke fyra timmar före dådet i Gävle - DN
+- Uttalande med anledning av Global Sumud Flottilla - Regeringen.se
 - Chatta med SVT:s Mellanösternkommentator Samir Abu Eid - SVT Nyheter
-- Huliganerna slutar att slåss för Putin - Expressen
-- Granatliknande föremål hittat på Värmdö - SVT Nyheter
-- "Ausländer raus" sjöngs på Muf-fest i Göteborg - GP
+- 43-åring får livstid för knivmord i Kramfors - Omni
+- Larm om granat på Värmdö - Mitt i
+- Göteborgare häktad efter gängmord i Marbella - GP
+- Flipps mamma tar strid för sin döde son i rätten: ”Måste ske en förändring” - DN
 - Greta Thunberg på väg hem till Sverige - DN
-- De är mäktigast i sociala medier 2025 - GP
-- 07 oktober 07.00, Sammanfattning natt, Västerbottens län - Polisen.se
+- 07 oktober 07.00, Sammanfattning natt, Västerbottens län - polisen.se
+- Administration och stök skapar stress hos lärare, visar internationell undersökning - Regeringen.se
 - DN Direkt - Borgmästare i Tyskland livshotande skadad i knivattack - DN
 - Starmer: ”Obrittiskt” att protestera på årsdagen - Omni
 - Danmark ska förbjuda sociala medier för barn - Folkbladet
-- Fast på Kastrup med tre kvarts miljon i bagaget - Västerbottens-Kuriren
+- Evakueringen på Mount Everest går mot sitt slut - Västerbottens-Kuriren
 - Ingen strategisk reserv för effektbrist i vinter - Företagarna
-- Svenska bostadsmarknaden i brytpunkt och september visar ett trendskifte - Svensk Fastighetsförmedling - Aktiellt
 - Jaguar Land Rover återupptar tillverkning efter cyberattack - Ny Teknik
+- Ingen perfekt lösning men den mest framtidsinriktade - DI
 - Demontera skickar gamla svenska fönster skickas till Ukraina - DN
 - Få halva priset på robotdammsugaren Eufy X10 Pro Omni under Prime Deal Days - TechRadar
 - Streamingjättarna höjer priset – så dyrt blir det - GP
@@ -37,16 +37,16 @@ _Updated: 2025-10-07 15:05_
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - UNI Post & Logistics World Conference väljer ny ledning och stakar ut en djärv väg - UNI Global Union
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- New Secretary General appointed - Olof Palme International Center
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
-- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Global Payments Launches Genius™ Solution for Higher Education Institutions - Placera.se
-- Ex-nyhetsankare på BBC hade barnpornografi - Omni
+- TAYLOR SWIFT | THE OFFICIAL RELEASE PARTY OF A SHOWGIRL Is an Unprecedented, Record-Setting, Worldwide Success With More Than $50 Million Global Box Office - Placera.se
 - BlackLine® Receives SAP® Global Finance and Spend Management Partner Excellence Award 2025 for Partner Solution Success - Placera.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -120,25 +120,25 @@ _Updated: 2025-10-07 15:05_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
