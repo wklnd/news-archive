@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-07 16:44_
+_Updated: 2025-10-07 17:42_
 
 ## Top Stories
 
-- LVU-beslut för misstänkt pojke fyra timmar före dådet i Gävle - DN
-- De tilldelas Nobelpriset i fysik 2025 för upptäckter inom kvantmekanik - GP
-- Chatta med SVT:s Mellanösternkommentator Samir Abu Eid - SVT Nyheter
-- Uttalande med anledning av Global Sumud Flottilla - Regeringen.se
+- Greta Thunberg har anlänt till Arlanda - DN
+- Skulle omhänderta pojke – fyra timmar innan dådet - Aftonbladet
+- C-miljarder till klimat och landsbygd - Västerbottens-Kuriren
+- Körförbudet nattetid fortsätter på Bergsgatan och Stora Nygatan - Malmö stad
+- Timmerbil har vält på E16 - Falu-Kuriren
 - Göteborgare häktad efter gängmord i Marbella - GP
-- Granatliknande föremål hittat på Värmdö - SVT Nyheter
-- Finansministern: Oppositionen inte regeringsduglig - Västerbottens-Kuriren
-- "Ausländer raus" sjöngs på Muf-fest i Göteborg - GP
+- Utrikesministern kritisk: 70 000 mejl till UD - GP
 - Flipps mamma tar strid för sin döde son i rätten: ”Måste ske en förändring” - DN
-- Greta Thunberg på väg hem till Sverige - DN
+- Internationell vecka uppmärksammar förbjuden litteratur – hålls i Malmö - Sveriges Radio
+- Regeringen öppnar för kärnkraft längs hela kusten - Omni
+- Chatta med SVT:s Mellanösternkommentator Samir Abu Eid - SVT Nyheter
 - DN Direkt - Borgmästare i Tyskland livshotande skadad i knivattack - DN
+- Korn: 7 oktober två år senare - Bulletin
 - Danmark ska förbjuda sociala medier för barn - Västerbottens-Kuriren
-- Starmer: ”Obrittiskt” att protestera på årsdagen - Omni
-- Evakueringen på Mount Everest går mot sitt slut - GP
 - Ingen strategisk reserv för effektbrist i vinter - Företagarna
-- Svenska bostadsmarknaden i brytpunkt och september visar ett trendskifte - Svensk Fastighetsförmedling - Aktiellt
-- Jaguar Land Rover återupptar tillverkning efter cyberattack - Ny Teknik
+- DN Direkt - EU föreslår dubbelt så höga ståltullar - DN
 - Ingen perfekt lösning men den mest framtidsinriktade - Dagens industri
+- Beslut om kärnkraftsbyggare dröjer - SvD
 - Få halva priset på robotdammsugaren Eufy X10 Pro Omni under Prime Deal Days - TechRadar
 - Gissa Little Nightmares 3-betyget i dag (och BF6 senast onsdag) - FZ.se
 
 ## World News
 
+- Lund University invests 85 million in international hiring drive - Lundagård
 - PRIVACY ALERT: Brightstar Global Solutions Corporation Under Investigation for Data Breach of 103,789 Records - Placera.se
 - Domino’s® Expands Global DoorDash Partnership: Delivering Canadian Favourites from Coast to Coast - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
@@ -40,7 +41,6 @@ _Updated: 2025-10-07 16:44_
 - UNI Post & Logistics World Conference väljer ny ledning och stakar ut en djärv väg - UNI Global Union
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - World Travel, Inc. Expands Strategic Partnership with Sabre to Drive Innovation and Enhance Global Travel Programs - Placera.se
 - Ex-nyhetsankare på BBC hade barnpornografi - Omni
@@ -92,7 +92,7 @@ _Updated: 2025-10-07 16:44_
 - Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - MTL Cannabis Corp. Announces Closing of $2 Million Brokered LIFE Offering Led by Centurion One Capital - Placera.se
-- Student and entry-level programs - EY
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 
 ## Health
 
@@ -100,22 +100,22 @@ _Updated: 2025-10-07 16:44_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-07 16:44_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Intensivt jordbruk hotar biologisk mångfald - Sveriges Natur
-- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De gick från reko till eko - ST-tidningen
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- USA tvingar ut EU på banan - Land Lantbruk
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
-- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
