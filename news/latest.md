@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-07 17:49_
+_Updated: 2025-10-07 18:52_
 
-- Bondi faces grilling from Senate Democrats on DOJ 'weaponization,' Epstein files - ABC News - Breaking News, Latest News and Videos
-- Supreme Court Hears Free Speech Challenge to Ban on Conversion Therapy - The New York Times
-- How two years of war in Gaza have changed the Middle East forever - Axios
-- NPR obtains memo about deploying Illinois Guard in Chicago - NPR
+- Watch: Bondi testifies before Senate panel at first hearing since Comey indictment - NPR
+- Supreme Court’s conservative majority prepared to rule against conversion therapy ban - CNN
+- The ruin of Gaza: how Israel’s two-year assault has devastated the territory - The Guardian
+- Scoop: White House memo says furloughed federal workers aren't entitled to back pay - Axios
+- Texas National Guard headed to Illinois, as Gov. Pritzker calls for end of Trump administration's 'authoritarian march' - ABC News - Breaking News, Latest News and Videos
 - Trump demands Dems 'open our government' as shutdown enters seventh day and more top headlines - Fox News
-- Donald Trump threatens to invoke 200-year-old Insurrection Act to deploy troops - Financial Times
-- Burbank airport air traffic control tower unmanned, flights canceled amid government shutdown - Los Angeles Times
+- Burbank Airport resumes flights after hours with no air traffic controllers amid government shutdown - Los Angeles Times
 - Tropical Storm Jerry has formed and should strengthen into the Atlantic’s next hurricane. Here’s where it’s headed - CNN
-- Marjorie Taylor Greene open to healthcare deal with Democrats amid shutdown - The Guardian
 - USC faculty members denounce Trump compact that would shift university to the right - Los Angeles Times
+- Sen. Josh Hawley falsely says FBI ‘tapped’ senators’ phones during Jack Smith probe - Politico
 - France's Macron pressed to end political 'mess' - Reuters
-- Trekker uses cooking pots to dig her way out of freak blizzard on Everest - CNN
+- Rescuers race to evacuate stranded Everest hikers by Tuesday, source says - KSL.com
 - Witkoff and Kushner Set to Join Gaza Talks Soon, Official Says - The New York Times
-- Madagascar Gen Z protests: President Andry Rajoelina appoints army general as PM - BBC
-- Gold prices scale record highs as investors seek safe haven - The Guardian
-- AMD stock rating split: Quant still sees Buy, but SA analysts are on Hold (AMD:NASDAQ) - Seeking Alpha
+- Canadian amusement park threatens to euthanise 30 beluga whales - BBC
+- Stock Market Today: Dow, Nasdaq Drop; Gold Hits $4,000; Trump-Carney Meeting in Focus — Live Updates - The Wall Street Journal
+- Watch These AMD Price Levels as Stock Continues Surging on OpenAI Deal - Investopedia
 - Global Trade Growth to Slow Sharply Next Year, W.T.O. Says - The New York Times
-- NYSE Owner to Invest Up to $2 Billion in Polymarket - The Wall Street Journal
+- Carlyle Unveils Proprietary Data Showing Weak US Employment - Bloomberg.com
 - Prime Day Apple deals include the AirPods 4 for only $90 - Engadget
 - Jony Ive's secretive AI hardware reportedly hit three problems - 9to5Mac
