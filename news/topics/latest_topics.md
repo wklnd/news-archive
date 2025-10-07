@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-07 09:38_
+_Updated: 2025-10-07 10:46_
 
 ## Top Stories
 
 - Israeliske Or om kriget: Finns inga oskyldiga i Gaza - Västerbottens-Kuriren
-- Misstänkta rosbedragare anhållna efter rundresa i Arjeplog - SVT Nyheter
+- Misstänkta rosbedragare gripna i Arjeplog - Aftonbladet
+- Thunberg till Trump: Du verkar ha samma problem - GP
 - Nu ska stormningen utredas igen: ”Lögner” - SvD
-- DN Direkt - Greta Thunbergs svar till Trump - DN
 - Ambulanshelikopter störtade på motorväg - GP
 - Putins krigsänkor tröstas i AI- filmer på sin makar som dött i Ukraina - Expressen
 - De är största parti på sociala medier – igen - GP
 - Socialdemokraternas förslag till budget för 2026 – Ny riktning för Sverige - Socialdemokraterna
-- Thunberg har deporterats till Grekland - SVT Nyheter
-- Internationell vecka uppmärksammar förbjuden litteratur – hålls i Malmö - Sveriges Radio
-- Räddningsinsatsen vid Mount Everest fortsätter: ”Hade tur som kom undan” - DN
-- Uppgifter: Samtal med Hamas i ”positiv anda” - SVT Nyheter
+- Brand i livsmedelsbutik i Örebro - SVT Nyheter
+- Israel bekräftar: Thunberg och svenskar utvisade - Västerbottens-Kuriren
+- Tidslinje: Detta har hänt sedan terrordådet 7 oktober - GP
 - Huliganerna slutar att slåss för Putin - Expressen
-- DN Direkt - Trump: Ska prata med justitiedepartementet om Ghislaine Maxwell - DN
+- Trump: Kan åberopa upprorslag - SvD
+- Militäruppgifter: Ukraina har träffat rysk ammunitionsfabrik 40 mil öster om Moskva - Ukrainskaja Pravda - Börsvärlden
 - ”Trendbrott” – här ökar bostadspriserna igen - SvD
-- Uppgifter: I dag lanserar Musk en ny Tesla - Aftonbladet
-- Ingen elreserv i vinter – strömavbrott hotar - Skånska Dagbladet
+- Ingen elreserv i vinter – strömavbrott hotar - SVT Nyheter
 - Guldrushen fortsätter – snart uppe på 4 000 dollar - Omni
+- Glittrig ägarlista i PE-bolagens lånepartner Ture Invest - Affärsvärlden
 - Apple granskas för inspelningar som gjorts med Siri - Computer Sweden
-- Elbåtsmotorer, billig vätgas och minskat matsvinn – här är årets bästa innovationer - www.ellevio.se
+- Streamingjättarna höjer priset – så dyrt blir det - GP
 
 ## World News
 
 - PRIVACY ALERT: Brightstar Global Solutions Corporation Under Investigation for Data Breach of 103,789 Records - Placera.se
-- Domino’s® Expands Global DoorDash Partnership: Delivering Canadian Favourites from Coast to Coast - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- UNI Post & Logistics World Conference väljer ny ledning och stakar ut en djärv väg - UNI Global Union
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
-- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Domino’s® Expands Global DoorDash Partnership: Delivering Canadian Favourites from Coast to Coast - Placera.se
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- DO Black - the world’s first credit card with a carbon limit - mastercard.com
+- Here’s what happened in 2022 in 10 striking pictures - The World Economic Forum
+- What lies beneath: Germany’s hidden organized corruption threat - Global Initiative against Transnational Organized Crime (GI-TOC)
 - Global Payments Launches Genius™ Solution for Higher Education Institutions - Placera.se
-- Ex-nyhetsankare på BBC hade barnpornografi - Omni
+- We Are One: How the world's film festivals came together - BBC
 - BlackLine® Receives SAP® Global Finance and Spend Management Partner Excellence Award 2025 for Partner Solution Success - Placera.se
+- Sudan court sentences three men to hand amputation for stealing - The Guardian
+- Geetanjali Shree is first Indian winner of International Booker Prize - BBC
+- Coronavirus: BBC poll suggests stark divide between rich and poor countries - BBC
 
 ## Technology
 
@@ -63,13 +63,13 @@ _Updated: 2025-10-07 09:38_
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - ZenaTech Closes Tenth Acquisition of A&J Land Surveyor Inc., Expanding Drone as a Service (DaaS) to Florida’s Aviation, Utility, and Infrastructure Markets - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
+- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
-- New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
 
 ## Business
 
@@ -100,22 +100,22 @@ _Updated: 2025-10-07 09:38_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Patienter kan bidra till säkrare vård - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-07 09:38_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Intensivt jordbruk hotar biologisk mångfald - Sveriges Natur
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- De gick från reko till eko - ST-tidningen
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Tio jordbruksaktier för depån - Placera.se
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Lediga jobb - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- USA tvingar ut EU på banan - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
-- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
+- 2021-04-20 Webbinarium: Social hållbarhet - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
