@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-07 21:38_
+_Updated: 2025-10-07 22:40_
 
 ## Top Stories
 
-- Greta Thunberg: Utsattes för övergrepp och tortyr i israeliskt fängelse - SVT Nyheter
-- DN Direkt - Biograf drabbad av vägglöss – stänger i en vecka - DN
+- Greta Thunberg: Vi utsattes för tortyr i israeliskt fängelse - SVT Nyheter
+- Manifestation i Stockholm för att minnas gisslan - DN
+- C-miljarder på slopade arbetsgivaravgifter - Västerbottens-Kuriren
 - Lastbilssläp med timmer har vält – långa köer utanför Falun - SVT Nyheter
-- Radikala bosättare vill in i Gaza – har slagit läger vid gränsen - DN
-- Sågs som svenskhot – strider nu i Ukraina - SvD
-- EU-parlamentet röstar om vegetarisk korv får kallas ”korv” - GP
-- Flyttar skolmiljoner – för att stoppa friskolornas vinster - DN
-- "Ausländer raus" sjöngs på Muf-fest i Göteborg - GP
-- ”Diktaturfasoner” – hård kritik mot Svenska kennelklubben - DN
-- Pojken i Gävle skulle omhändertas före skotten - Västerbottens-Kuriren
+- Trump hotar Demokraterna med en 200 år gammal undantagslag - DN
+- Flera skadade i tumult i Mönsterås - SVT Nyheter
+- DN Direkt - Svensk död efter rån i Spanien - DN
+- Lurade äldre – låtsades kontrollera dricksvatten - Västerbottens-Kuriren
+- Ny studie: Dödsfall i extremvärme går att förutspå - Folkbladet
+- Jordbruk och "vegoburgare" diskuterades i EU-parlamentet - tidningensyre.se
 - Trump: Ska göra allt för att vapenvila ska hålla - Västerbottens-Kuriren
-- Borgmästare knivhuggen i Tyskland - GP
-- Danmark vill förbjuda sociala medier för under 15-åringar - Yle
-- Chatta med SVT:s Mellanösternkommentator Samir Abu Eid - SVT Nyheter
+- Radikala bosättare vill in i Gaza – har slagit läger vid gränsen - DN
+- Danmark ska förbjuda sociala medier för barn - Ny Teknik
+- Det här behöver du veta om Trumps fredsplan - Dagens Arena
 - Ingen strategisk reserv för effektbrist i vinter - Företagarna
 - Leverantörer till Arbetsförmedlingen underpresterade – har ändå tjänat miljoner - DN
-- Stora rörelser ger god möjlighet att investera - EFN
-- JLR tappar volym efter cyberattack - Placera.se
+- Guldpriset passerar magisk gräns – nu varnar experten - EFN
+- Svenska bostadsmarknaden i brytpunkt och september visar ett trendskifte - Svensk Fastighetsförmedling - Aktiellt
 - Gissa Little Nightmares 3-betyget i dag (och BF6 senast onsdag) - FZ.se
-- Test: Apple Iphone 17 Pro – Den du ska uppgradera till - mobil.se
+- Silent Hill 2-remaken till PS Plus inom kort, påstås det - FZ.se
 
 ## World News
 
@@ -34,36 +34,36 @@ _Updated: 2025-10-07 21:38_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- New Secretary General appointed - Olof Palme International Center
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - World Travel, Inc. Expands Strategic Partnership with Sabre to Drive Innovation and Enhance Global Travel Programs - Placera.se
-- Ex-nyhetsankare på BBC hade barnpornografi - Omni
 - Global Payments Launches Genius™ Solution for Higher Education Institutions - Placera.se
 - Mattel Creations and The Museum of Modern Art Announce Multi-Year Global Partnership - Placera.se
+- TAYLOR SWIFT | THE OFFICIAL RELEASE PARTY OF A SHOWGIRL Is an Unprecedented, Record-Setting, Worldwide Success With More Than $50 Million Global Box Office - Placera.se
 - BlackLine® Receives SAP® Global Finance and Spend Management Partner Excellence Award 2025 for Partner Solution Success - Placera.se
 
 ## Technology
 
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
-- 290 million for digitalisation of Swedish industry - Vinnova
-- Spår superintelligens om tio år – vill leda racet - Omni
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
@@ -100,45 +100,45 @@ _Updated: 2025-10-07 21:38_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Engineering Health 2024 - Chalmers
-- Fakulteten för hälsa och samhälle - Malmö universitet
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- SIHI Sweden Konferens 2024 - Uppsala universitet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Patienter kan bidra till säkrare vård - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
 
 ## Jordbruk
 
