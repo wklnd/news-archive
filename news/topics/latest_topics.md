@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-07 17:42_
+_Updated: 2025-10-07 18:46_
 
 ## Top Stories
 
-- Greta Thunberg har anlänt till Arlanda - DN
-- Skulle omhänderta pojke – fyra timmar innan dådet - Aftonbladet
-- C-miljarder till klimat och landsbygd - Västerbottens-Kuriren
+- Greta Thunberg har landat på Arlanda - SVT Nyheter
+- DN Direkt - LVU-beslut fattades för misstänkt pojke fyra timmar före dådet i Gävle - DN
+- C-miljarder till sänkt arbetsgivaravgift - Västerbottens-Kuriren
 - Körförbudet nattetid fortsätter på Bergsgatan och Stora Nygatan - Malmö stad
-- Timmerbil har vält på E16 - Falu-Kuriren
-- Göteborgare häktad efter gängmord i Marbella - GP
+- Dödshot mot M-toppen Axel Josefson – på kansliet i Göteborg - GP
+- Emma Bouvin: Rädsla på ena sidan – ockupation och förtryck på den andra - DN
 - Utrikesministern kritisk: 70 000 mejl till UD - GP
 - Flipps mamma tar strid för sin döde son i rätten: ”Måste ske en förändring” - DN
+- "Ausländer raus" sjöngs på Muf-fest i Göteborg - GP
 - Internationell vecka uppmärksammar förbjuden litteratur – hålls i Malmö - Sveriges Radio
-- Regeringen öppnar för kärnkraft längs hela kusten - Omni
-- Chatta med SVT:s Mellanösternkommentator Samir Abu Eid - SVT Nyheter
 - DN Direkt - Borgmästare i Tyskland livshotande skadad i knivattack - DN
-- Korn: 7 oktober två år senare - Bulletin
 - Danmark ska förbjuda sociala medier för barn - Västerbottens-Kuriren
-- Ingen strategisk reserv för effektbrist i vinter - Företagarna
-- DN Direkt - EU föreslår dubbelt så höga ståltullar - DN
+- Erik Esbjörnsson: Det tog 20 år att skipa rättvisa – nytt hopp för Darfurs offer - DN
+- På söndagskvällen regnade missiler ner över staden jag befann mig i - Altinget.se
+- Sverige står utan effektreserv i vinter – Karlshamnsverket fick nobben - Ny Teknik
+- Svenska bostadsmarknaden i brytpunkt och september visar ett trendskifte - Svensk Fastighetsförmedling - Aktiellt
 - Ingen perfekt lösning men den mest framtidsinriktade - Dagens industri
-- Beslut om kärnkraftsbyggare dröjer - SvD
+- Jaguar Land Rover återupptar produktionen efter cyberattacken - Computer Sweden
 - Få halva priset på robotdammsugaren Eufy X10 Pro Omni under Prime Deal Days - TechRadar
 - Gissa Little Nightmares 3-betyget i dag (och BF6 senast onsdag) - FZ.se
 
@@ -29,6 +29,7 @@ _Updated: 2025-10-07 17:42_
 
 - Lund University invests 85 million in international hiring drive - Lundagård
 - PRIVACY ALERT: Brightstar Global Solutions Corporation Under Investigation for Data Breach of 103,789 Records - Placera.se
+- Lissabon stärker sin position som global innovationshub - The Portugal News
 - Domino’s® Expands Global DoorDash Partnership: Delivering Canadian Favourites from Coast to Coast - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
@@ -38,15 +39,14 @@ _Updated: 2025-10-07 17:42_
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - UNI Post & Logistics World Conference väljer ny ledning och stakar ut en djärv väg - UNI Global Union
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - World Travel, Inc. Expands Strategic Partnership with Sabre to Drive Innovation and Enhance Global Travel Programs - Placera.se
-- Ex-nyhetsankare på BBC hade barnpornografi - Omni
 - Global Payments Launches Genius™ Solution for Higher Education Institutions - Placera.se
 - Mattel Creations and The Museum of Modern Art Announce Multi-Year Global Partnership - Placera.se
+- TAYLOR SWIFT | THE OFFICIAL RELEASE PARTY OF A SHOWGIRL Is an Unprecedented, Record-Setting, Worldwide Success With More Than $50 Million Global Box Office - Placera.se
 - BlackLine® Receives SAP® Global Finance and Spend Management Partner Excellence Award 2025 for Partner Solution Success - Placera.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -87,9 +87,9 @@ _Updated: 2025-10-07 17:42_
 - Bakkt Eliminates All Remaining Long-term Debt - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
+- Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - MTL Cannabis Corp. Announces Closing of $2 Million Brokered LIFE Offering Led by Centurion One Capital - Placera.se
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
@@ -100,21 +100,21 @@ _Updated: 2025-10-07 17:42_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Johan von Schreeb - Karolinska Institutet
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
