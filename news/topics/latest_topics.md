@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-07 10:46_
+_Updated: 2025-10-07 11:41_
 
 ## Top Stories
 
 - Israeliske Or om kriget: Finns inga oskyldiga i Gaza - Västerbottens-Kuriren
-- Misstänkta rosbedragare gripna i Arjeplog - Aftonbladet
-- Thunberg till Trump: Du verkar ha samma problem - GP
-- Nu ska stormningen utredas igen: ”Lögner” - SvD
-- Ambulanshelikopter störtade på motorväg - GP
-- Putins krigsänkor tröstas i AI- filmer på sin makar som dött i Ukraina - Expressen
-- De är största parti på sociala medier – igen - GP
-- Socialdemokraternas förslag till budget för 2026 – Ny riktning för Sverige - Socialdemokraterna
-- Brand i livsmedelsbutik i Örebro - SVT Nyheter
-- Israel bekräftar: Thunberg och svenskar utvisade - Västerbottens-Kuriren
-- Tidslinje: Detta har hänt sedan terrordådet 7 oktober - GP
 - Huliganerna slutar att slåss för Putin - Expressen
-- Trump: Kan åberopa upprorslag - SvD
-- Militäruppgifter: Ukraina har träffat rysk ammunitionsfabrik 40 mil öster om Moskva - Ukrainskaja Pravda - Börsvärlden
+- Misstänkta rosbedragare gripna i Arjeplog - Aftonbladet
+- 18-åring döms för medhjälp till mord på 45-årig man i Bredäng - SVT Nyheter
+- Tomas Ramberg: Gaza är vår tids Vietnam - DN
+- Nu ska stormningen utredas igen: ”Lögner” - SvD
+- De är största parti på sociala medier – igen - GP
+- DN Direkt - Nobelpriset i medicin för upptäckter kring immunsystemet - DN
+- Greta Thunberg på väg hem till Sverige - DN
+- 07 oktober 07.00, Sammanfattning natt, Västerbottens län - Polisen.se
+- Fast på Kastrup med tre kvarts miljon i bagaget - Sydsvenskan
+- Evakueringen på Mount Everest går mot sitt slut - Västerbottens-Kuriren
+- Greta Thunbergs svar till USA:s president Donald Trump - GP
+- Rån i Göteborg – omringades av sex personer - Expressen
 - ”Trendbrott” – här ökar bostadspriserna igen - SvD
-- Ingen elreserv i vinter – strömavbrott hotar - SVT Nyheter
+- Sverige står utan effektreserv i vinter – Karlshamnsverket fick nobben - Ny Teknik
+- Petter Stordalen i rätten – bestrider mångmiljonkrav - Di
 - Guldrushen fortsätter – snart uppe på 4 000 dollar - Omni
-- Glittrig ägarlista i PE-bolagens lånepartner Ture Invest - Affärsvärlden
 - Apple granskas för inspelningar som gjorts med Siri - Computer Sweden
 - Streamingjättarna höjer priset – så dyrt blir det - GP
 
 ## World News
 
 - PRIVACY ALERT: Brightstar Global Solutions Corporation Under Investigation for Data Breach of 103,789 Records - Placera.se
+- Domino’s® Expands Global DoorDash Partnership: Delivering Canadian Favourites from Coast to Coast - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- UNI Post & Logistics World Conference väljer ny ledning och stakar ut en djärv väg - UNI Global Union
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Domino’s® Expands Global DoorDash Partnership: Delivering Canadian Favourites from Coast to Coast - Placera.se
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- 1 426 potential victims identified in global operation against human trafficking - Europol
-- DO Black - the world’s first credit card with a carbon limit - mastercard.com
-- Here’s what happened in 2022 in 10 striking pictures - The World Economic Forum
-- What lies beneath: Germany’s hidden organized corruption threat - Global Initiative against Transnational Organized Crime (GI-TOC)
+- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Payments Launches Genius™ Solution for Higher Education Institutions - Placera.se
-- We Are One: How the world's film festivals came together - BBC
+- Ex-nyhetsankare på BBC hade barnpornografi - Omni
 - BlackLine® Receives SAP® Global Finance and Spend Management Partner Excellence Award 2025 for Partner Solution Success - Placera.se
-- Sudan court sentences three men to hand amputation for stealing - The Guardian
-- Geetanjali Shree is first Indian winner of International Booker Prize - BBC
-- Coronavirus: BBC poll suggests stark divide between rich and poor countries - BBC
 
 ## Technology
 
@@ -112,53 +112,53 @@ _Updated: 2025-10-07 10:46_
 - Johan von Schreeb - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Patienter kan bidra till säkrare vård - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- De gick från reko till eko - ST-tidningen
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Intensivt jordbruk hotar biologisk mångfald - Sveriges Natur
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Tio jordbruksaktier för depån - Placera.se
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Lediga jobb - ATL
+- Här är världens största jordbruk - ATL
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-04-20 Webbinarium: Social hållbarhet - Mynewsdesk
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- USA tvingar ut EU på banan - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
