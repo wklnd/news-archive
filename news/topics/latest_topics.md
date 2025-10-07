@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-07 07:40_
+_Updated: 2025-10-07 08:49_
 
 ## Top Stories
 
-- Jönköpingsbo bland de mäktigaste på Tiktok - Jönköpings-Posten
-- Misstänkta bedragare med rosor gripna i Arjeplog – är nu anhållna - SVT Nyheter
-- Nathan Shachar: Israel ett helt annat land efter två års krig - DN
+- Israeliske Or om kriget: Finns inga oskyldiga i Gaza - Västerbottens-Kuriren
+- Misstänkta rosbedragare gripna i Arjeplog - Aftonbladet
 - Putins krigsänkor tröstas i AI- filmer på sin makar som dött i Ukraina - Expressen
-- Detta har hänt i kriget mellan Israel och Hamas sedan terrordådet 7 oktober - GP
-- (+) Bildextra: Stor manifestation mot brytning i alunskiffer - Jamtlands Tidning
-- Thunberg har deporterats till Grekland - SVT Nyheter
-- 07 oktober 07.11, Sammanfattning natt, Västernorrlands län - polisen.se
-- 07 oktober 07.00, Sammanfattning natt, Västerbottens län - polisen.se
-- DN Direkt - Offren för skottlossningen i Gävle inte måltavlorna - DN
+- Trump: ”Hamas har gått med på viktiga saker” – Senaste nytt om kriget i Gaza - SVT Nyheter
+- DN Direkt - Ambulanshelikopter störtade på motorväg i USA - DN
+- DEBATT: KD: Tack för att du besökte vår region, Ebba Busch! - Östersunds-Posten
+- De är största parti på sociala medier – igen - Västerbottens-Kuriren
+- Socialdemokraternas förslag till budget för 2026 – Ny riktning för Sverige - Socialdemokraterna
+- Brand i livsmedelsbutik i Örebro - SVT Nyheter
+- Dadgostars känga: Regeringen svamlar om Gaza - GP
 - Räddningsinsatsen vid Mount Everest fortsätter: ”Hade tur som kom undan” - DN
+- Bilbrand i Malmö – misstänkt skadegörelse - Expressen
 - Våldtog 15-åring – hovrätten sänker straff - GP
 - Trump: Kan åberopa upprorslag - Corren
-- Militäruppgifter: Ukraina har träffat rysk ammunitionsfabrik 40 mil öster om Moskva - Ukrainskaja Pravda - Börsvärlden
 - ”Trendbrott” – här ökar bostadspriserna igen - SvD
-- Merz: Skrota EU-förbud mot bensinbilar - Aftonbladet
-- Morgonkoll: Fortsatt upp på Tokyobörsen - Dagens industri
+- Uppgifter: I dag lanserar Musk en ny Tesla - Aftonbladet
+- Guldrushen fortsätter – snart uppe på 4 000 dollar - Omni
 - Trots mildare lönekrav för arbetskraftsinvandrare – näringslivet missnöjda - Arbetet
-- Rekommendationer om skärmtid för barn skickas hem till hushåll - Regeringen.se
-- HBO Max höjer priset – igen - Omni
+- Forskare: Nobelpris till AI är ”nästan säkert” - Omni
+- Test: Franska AI-utmanaren är förvånansvärt kompetent - PC för Alla
 
 ## World News
 
@@ -63,13 +63,13 @@ _Updated: 2025-10-07 07:40_
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - ZenaTech Closes Tenth Acquisition of A&J Land Surveyor Inc., Expanding Drone as a Service (DaaS) to Florida’s Aviation, Utility, and Infrastructure Markets - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
+- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
-- New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
 
 ## Business
 
@@ -120,25 +120,25 @@ _Updated: 2025-10-07 07:40_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -155,10 +155,10 @@ _Updated: 2025-10-07 07:40_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - De gick från reko till eko - ST-tidningen
+- Så gick första året för Pellbrants - Västerbottens Mellanbygd
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
