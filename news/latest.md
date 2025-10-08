@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-08 22:48_
+_Updated: 2025-10-08 23:48_
 
-- Live Updates: James Comey, Longtime Trump Target, Pleads Not Guilty in Arraignment - The New York Times
-- Florida man accused of intentionally starting fire that destroyed Pacific Palisades - Los Angeles Times
-- Speaker clashes with Dem senators over Epstein files amid shutdown - Politico
+- Shutdown tensions cause clashes to erupt on Capitol Hill: "You're an embarrassment" - Axios
+- Comey pleads not guilty as lawyers signal intent to argue Trump foe's case is politically motivated - AP News
+- Florida man charged with intentionally setting Pacific Palisades fire in LA - CNBC
+- Trump says Illinois’ Pritzker and Johnson ‘should be in jail’ - Politico
 - Trump administration officials seriously discussing invoking Insurrection Act, sources say - NBC News
-- Last of 10 New Orleans escapees captured after nearly 5 months following standoff with Atlanta police - CNN
-- IRS furloughs nearly half of its workforce due to government shutdown - CNBC
-- How flights are impacted by the government shutdown. And, James Comey's arraignment - NPR
+- HHS hits back at former surgeons general who wrote op-ed saying RFK Jr. is endangering nation's health - ABC News - Breaking News, Latest News and Videos
+- How air traffic controllers could help end the shutdown - Axios
 - Democrats largely stand behind Jay Jones after violent texts - The Washington Post
-- ‘The church cannot remain silent,’ Pope Leo XIV tells El Pasoans in Vatican meeting on mass deportation fears - El Paso Matters
-- France's Macron will appoint new prime minister in next 48 hours - Reuters
-- Hamas is demanding the release of a prominent Palestinian prisoner. This could be a red line for Israel - CNN
-- Greetings from the Mediterranean, where dolphins swim alongside a migrant rescue ship - NPR
+- Pope Leo will ‘stand with’ Catholic leaders in protecting immigrants’ rights, advocates say - Politico
+- Most Americans don't want troops deployed without an external threat, Reuters/Ipsos poll finds - Reuters
 - Trump expects Gaza deal soon and may travel to Egypt for signing - Axios
-- S&P 500, Nasdaq close at record highs as Wall Street looks past U.S. government shutdown - CNBC
+- Emmanuel Macron could name a new French PM in next 48 hours, says outgoing premier - Financial Times
+- Exclusive: Hamas demands release of high-profile militants in 'red line' for Israel - Euronews.com
+- Putin is in Tajikistan for meetings with leaders of ex-Soviet leaders - AP News
 - Fed officials were cautious about inflation as they agreed rate cuts - Financial Times
-- GM scraps $7,500 EV tax credit program, but it has a new way to keep prices down - Electrek
-- Gold's rally signals investors' eroding trust in the U.S. - Axios
+- Tesla's cheaper Model Y faces crowded field in Europe - Reuters
+- S&P 500, Nasdaq close at record highs as Wall Street looks past U.S. government shutdown - CNBC
+- Musk’s X settles lawsuit with ex-Twitter executives over $128m in unpaid severance - The Guardian
 - Google Pixel 10 Pro Fold review: The ultimate Google phone - Ars Technica
 - Our favorite batteries and chargers are on sale for October Prime Day - The Verge
-- Prime Day Apple deals include the AirPods 4 for only $90 - Engadget
