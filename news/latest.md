@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-08 20:53_
+_Updated: 2025-10-08 21:48_
 
-- Comey pleads not guilty, will look to dismiss case for vindictive prosecution - ABC News - Breaking News, Latest News and Videos
-- Uber driver accused of intentionally starting fire that destroyed Pacific Palisades - Los Angeles Times
-- Trump calls for jailing Democratic leaders as troops prepare for Chicago deployment - Reuters
-- Government shutdown live updates as Senate votes fail for 6th time - CBS News
-- 500 National Guard troops arrive in Chicago area amid resistance from Illinois Gov. Pritzker - NBC News
-- Trump’s H-1B Visa Fee Could Strain Universities and Schools - The New York Times
+- Ex-FBI director James Comey pleads not guilty to federal charges - BBC
+- Florida man accused of intentionally starting fire that destroyed Pacific Palisades - Los Angeles Times
+- Trump calls for jailing Illinois governor and Chicago mayor - PBS
+- Trump administration officials seriously discussing invoking Insurrection Act, sources say - NBC News
+- IRS shutters ‘most operations,’ furloughs employees as shutdown continues - Federal News Network
+- Arrests Made During Protest Activity in South Waterfront - City of Portland, Oregon (.gov)
 - How flights are impacted by the government shutdown. And, James Comey's arraignment - NPR
+- 500 National Guard troops arrive in Chicago area amid resistance from Illinois Gov. Pritzker - NBC News
 - Democrats largely stand behind Jay Jones after violent texts - The Washington Post
-- "Tennessee Three" member Justin Pearson runs to oust Rep. Steve Cohen - Axios
-- Jack Ciattarelli, Mikie Sherrill to face off in final N.J. governor debate tonight. Here's what to watch for. - CBS News
-- Hamas is demanding the release of a prominent Palestinian prisoner. This could be a red line for Israel - CNN
-- Senior U.S. negotiators join Gaza ceasefire talks as momentum builds - The Washington Post
-- ‘We will rise’: Grief, defiance and hope as 30,000 gather in Tel Aviv two years after Oct. 7 - The Times of Israel
-- Time may be running out for master of clocks Macron: What next for France? - BBC
-- Tesla's cheaper Model Y faces crowded field in Europe - Reuters
-- Minutes of the Federal Open Market Committee, September 16–17, 2025 - Federal Reserve Board (.gov)
+- Federal government shutdown grinds into a second week, but quiet talks emerging - AP News
+- After Sébastien Lecornu's fall, all eyes on Macron's next move with France in political turmoil - NBC News
+- Gaza war has killed an estimated 20,000 kids. CBS News meets many more orphaned, and "always scared." - CBS News
+- Putin is in Tajikistan for meetings with leaders of ex-Soviet leaders - AP News
+- Greetings from the Mediterranean, where dolphins swim alongside a migrant rescue ship - NPR
+- Fed minutes: Most officials supported further rate cuts as worries about jobs rose - AP News
 - Gold's rally signals investors' eroding trust in the U.S. - Axios
-- We found the 117 best Prime Day-level sales during Amazon’s Prime Big Deal Days - CNN
-- The AirPods 4 are just $89, matching their best price to date during October Prime Day - The Verge
+- Tesla's Cheaper Models Have Arrived And The World Says 'Meh' - InsideEVs
+- Organic frozen spinach distributed nationwide recalled due to potential listeria contamination - CBS News
 - Google Pixel 10 Pro Fold review: The ultimate Google phone - Ars Technica
+- Our favorite batteries and chargers are on sale for October Prime Day - The Verge
