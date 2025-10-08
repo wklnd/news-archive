@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-08 07:48_
+_Updated: 2025-10-08 08:53_
 
-- National Guard members from Texas are in Illinois in Trump's latest move to send troops to cities - AP News
+- Bondi tells Schiff he should ‘apologize’ for impeaching Trump - Politico
 - US airports continue to see delays as shutdown hits air travel - BBC
+- Texas national guard troops arrive in Chicago amid Trump’s crackdown - The Guardian
 - Government shutdown impasse continues as dispute emerges over back pay for furloughed workers - CBS News
-- Takeaways from Attorney General Pam Bondi’s contentious Senate hearing - CNN
 - The costs of Israel’s longest war, for Israelis - NPR
-- 'Total disaster': Some furloughed workers plan to hold garage sales, dip into savings to weather government shutdown - ABC News - Breaking News, Latest News and Videos
+- Israeli military intercepts Gaza Freedom Flotilla vessels - Al Jazeera
 - Trump-endorsed Matt Van Epps wins GOP primary for vacant House seat in Tennessee - NBC News
-- Federal government shutdown grinds into a second week, but quiet talks emerging - AP News
+- Government shutdown drags on as health care compromise remains elusive - AP News
 - Portland leaders seek dialogue, while Kristi Noem slams local electeds as ‘pansies’ - OregonLive.com
-- What’s Really Behind the Government Shutdown? - The Free Press
-- U.S. envoy Steve Witkoff, Jared Kushner heading to Egypt as Gaza ceasefire talks continue - CBS News
-- Rescuers race to evacuate stranded Everest hikers by Tuesday, source says - KSL.com
-- France's Macron pressed to end political 'mess' - Reuters
+- Supreme Court appears skeptical of Colorado 'conversion therapy' ban - ABC News - Breaking News, Latest News and Videos
+- Nearly 900 people rescued from Mount Everest - The Seattle Times
+- Gaza peace talks appear to gain momentum on the war’s anniversary - AP News
 - Russian forces seized nearly 5,000 square km of Ukrainian land in 2025, says Putin - France 24
-- Tesla offers cheaper versions of 2 electric vehicles in bid to win back market share in tough year - AP News
+- France's Macron pressed to end political 'mess' - Reuters
 - Gold surges past record $4,000 an ounce as uncertainty fuels rally - BBC
+- Dumb Tesla news: "affordable" new Model Y costs $2,000 more than before - Electrek
 - We dug through thousands of Prime Day deals to find 60 standouts for $50 or less - The Verge
-- Top analyst on concerns about Nvidia fueling an AI bubble: 'We've seen this movie before. It was called Enron, Tyco' - Fortune
-- This Prime Day iPad deal brings the iPad A16 down to a record low for Amazon's October sale - Engadget
+- OpenAI, Nvidia Fuel $1 Trillion AI Market With Web of Circular Deals - Bloomberg.com
 - Google’s latest AI model uses a web browser like you do - The Verge
+- UFS 5.0 storage promises to be twice as fast for AI’s sake, hopefully enticing Google Pixel - 9to5Google
