@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-08 23:37_
+_Updated: 2025-10-09 00:40_
 
 ## Top Stories
 
 - ”Förolämpning att ge Trump fredspriset” - DN
-- Uddevalla: Kvinna allvarligt skadad i flerbilskrock på E6 - GP
-- Trump: Redo att resa till Mellanöstern i slutet av veckan - DN
-- Erik de la Reguera: Krisen börjar komma nära Macron - DN
-- Christian, 30, död efter rån i Spanien • Mamman: ”Ett stort hjärta” - Expressen
+- Donald Trump: Jag kanske åker till Mellanöstern - GP
+- Kristersson om tortyruppgifter: Tar det på allvar - GP
+- Trump: Borgmästare borde fängslas - Hufvudstadsbladet
 - Linus Larsson: Därför har chat control blivit en sådan stridsfråga - DN
-- Greta Thunberg: Har släppts från ett tortyrfängelse - DN
-- Finansministern: Oppositionen inte regeringsduglig - Västerbottens-Kuriren
-- Ytterligare en misstänkt efter skjutning i Gävle - SVT Nyheter
-- Älgjakten inleds på lördag - Borgåbladet
+- Kvinna allvarligt skadad i krock – E6 avstängd - Västerbottens-Kuriren
+- 165 000 kommunanställdas uppgifter röjdes – ”Cyberkriminella ligger alltid steget före” - Altinget.se
+- Masskjutningen kan kopplas till Uppsala – uppger källor - UNT
+- Nu börjar älgjakten – så många får skjutas i vårt område - Corren
+- Majoritetens förslag till budget 2026 - Stockholms stad
 - Putin vill koppla grepp om forna Sovjetländer - Västerbottens-Kuriren
-- Iran släpper spionmisstänkt ung fransman - Västerbottens-Kuriren
-- Man gripen för dödlig brand i Los Angeles - Folkbladet
-- Flera döda i attacker mot Ukraina och Ryssland - GP
+- Trump fick lapp från Rubio: ”Väldigt nära deal” - Corren
+- Flera döda i attacker mot Ukraina och Ryssland - Västerbottens-Kuriren
+- DN Direkt - Macron utser en ny premiärminister inom 48 timmar - DN
 - Gardell om ABB:s robotar: ”Hade hellre sett en notering” - Di
 - Verisure rusade vid premiären på munter Stockholmsbörs - EFN
 - Tesla: Aktien backar när företaget börjar ta order för billigare modell Y och modell 3-fordon - Morningstar Canada
 - Kraftigt ökade VA-kostnader gör IMD Vatten till en av de mest lönsamma investeringarna för brf:er - svenskbyggtidning -
-- Ny upptäckt – bakteriella ”bubblor” surfar till cellens yta - Umeå universitet
 - Konstgjorda trädhål – ny bostad för urbana skalbaggar - Forskning.se
+- Ny upptäckt – bakteriella ”bubblor” surfar till cellens yta - Umeå universitet
 
 ## World News
 
@@ -52,24 +52,24 @@ _Updated: 2025-10-08 23:37_
 
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
-- Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- TriNet Announces Two Appointments to its Board of Directors - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
+- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 
 ## Business
 
@@ -106,11 +106,11 @@ _Updated: 2025-10-08 23:37_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
@@ -160,4 +160,4 @@ _Updated: 2025-10-08 23:37_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
