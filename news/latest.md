@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-08 18:52_
+_Updated: 2025-10-08 19:48_
 
-- Man arrested, faces federal charge in connection with Palisades Fire: DOJ - ABC News - Breaking News, Latest News and Videos
-- Former FBI director Comey pleads not guilty to federal charges of lying to Congress - NPR
-- Trump calls for jailing Democratic leaders as troops prepare for Chicago deployment - Reuters
-- On Tuesday, the Trump admin said furloughed feds were not guaranteed back pay. On Wednesday, it sent notices saying they were - Government Executive
+- Uber driver accused of intentionally starting fire that destroyed Pacific Palisades - Los Angeles Times
+- James Comey pleads not guilty to criminal charges following Trump pressure to prosecute - Politico
+- President Trump posts on Truth Social that Chicago Mayor Johnson, Gov. Pritzker "should be in jail" - CBS News
+- Katie Porter threatens to walk out of TV interview - Politico
 - Trump’s H-1B Visa Fee Could Strain Universities and Schools - The New York Times
 - With the Texas National Guard now in Illinois, here’s what you need to know about the unit - The Texas Tribune
-- More FAA staffing shortages as government shutdown enters 8th day - CNN
+- US airport staffing shortages expected to cause more delays amid shutdown - The Guardian
 - Democrats largely stand behind Jay Jones after violent texts - The Washington Post
+- Speaker clashes with Dem senators over Epstein files amid shutdown - Politico
 - Why Trump hasn’t invoked the Insurrection Act yet - Politico
-- Government shutdown live updates as Senate holds another round of votes - CBS News
-- Exclusive: Hamas demands release of high-profile militants in 'red line' for Israel - Euronews.com
+- Senior U.S. negotiators join Gaza ceasefire talks as momentum builds - The Washington Post
+- Gaza war has killed an estimated 20,000 kids. CBS News meets many more orphaned, and "always scared." - CBS News
 - Time may be running out for master of clocks Macron: What next for France? - BBC
 - ‘We will rise’: Grief, defiance and hope as 30,000 gather in Tel Aviv two years after Oct. 7 - The Times of Israel
-- Hundreds of hikers rescued from Mount Everest after severe snowstorm - NPR
+- Tesla's cheaper Model Y faces crowded field in Europe - Reuters
+- Amazon October Prime Day 2025: The top 200+ deals to shop now - Mashable
 - Gold's rally signals investors' eroding trust in the U.S. - Axios
-- We found the 117 best Prime Day-level sales during Amazon’s Prime Big Deal Days - CNN
-- IMF chief warns of economic uncertainty and offers this advice: ‘Buckle up’ - AP News
-- U.S. Stock Futures Trend Higher on Wednesday After a Lackluster Trading Session - TipRanks
+- Stock Market Today: Nasdaq, S&P 500 Rise; Gold Rally Continues — Live Updates - The Wall Street Journal
+- Google Pixel 10 Pro Fold review: finally, a more durable foldable - The Verge
 - ‘Gemini 2.5 Computer Use’ model enters preview with strong web, Android performance - 9to5Google
-- Google begins inviting users to try Gemini for Home - Android Police
