@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-08 05:10_
+_Updated: 2025-10-08 05:46_
 
 ## Top Stories
 
 - Fredliga demonstrationer i Göteborg under 7 oktober - GP
-- Greta Thunberg: Vi utsattes för tortyr i israeliskt fängelse - SVT Nyheter
-- Landets första forskarskola för poliser startas - GP
 - Samtliga personer räddade från Mount Everest efter att ha suttit fast i snöstorm - Yle
+- Greta Thunberg: Vi utsattes för tortyr i israeliskt fängelse - SVT Nyheter
 - Extremväder slår mot indiska teproducenter - Västerbottens-Kuriren
-- Brand i lägenhet i flerfamiljshus – två personer avförda - Folkbladet
-- Ungdomar i anpassad gymnasieskola mer utsatta för våldtäkt än andra grupper - NewsMachine AB
+- Misstänkt skottlossning mot Ecuadors president - Västerbottens-Kuriren
 - Masskjutningen kan kopplas till Uppsala – uppger källor - UNT
-- Administration och stök skapar stress hos lärare, visar internationell undersökning - Regeringen.se
+- Ungdomar i anpassad gymnasieskola mer utsatta för våldtäkt än andra grupper - NewsMachine AB
+- Dags för årets älgjakt – det här gäller i Västra Götaland - sla.se
 - SD-ledaren öppnar för att hänga ut sexualbrottslingar - Omni
+- Administration och stök skapar stress hos lärare, visar internationell undersökning - Regeringen.se
 - Trump: Ska göra allt för att vapenvila ska hålla - Hufvudstadsbladet
 - Trump hotar Demokraterna med en 200 år gammal undantagslag - DN
 - Uppgifter: Attack mot stor oljeterminal på Krim - Hufvudstadsbladet
-- Analys: Ryssland i ”fas 0” för krig mot Nato - Aftonbladet
+- DN Direkt - Pressträff om vapen och sprängmedel - DN
 - Sverige står utan effektreserv i vinter – Karlshamnsverket fick nobben - Ny Teknik
 - Kollektivavtalens lönenivåer ska gälla även för arbetskraftsinvandrare - Svenskt Näringsliv
-- Så ska Norden utmana supermakterna om kärnkraft: ”Då kan vi absolut stå emot” - EFN
 - Regeringen vill tillåta kärnkraft på Gotland - Horisont magasin
+- Så ska Norden utmana supermakterna om kärnkraft: ”Då kan vi absolut stå emot” - EFN
 - Nya ägare till radhus i Skellefteå - Västerbottens-Kuriren
 - Test: Apple Iphone 17 Pro – Den du ska uppgradera till - mobil.se
 
@@ -40,12 +40,12 @@ _Updated: 2025-10-08 05:10_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
+- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - World Travel, Inc. Expands Strategic Partnership with Sabre to Drive Innovation and Enhance Global Travel Programs - Placera.se
 - Global Payments Launches Genius™ Solution for Higher Education Institutions - Placera.se
 - Carrier Third Quarter 2025 Earnings Advisory - Placera.se
 - Mattel Creations and The Museum of Modern Art Announce Multi-Year Global Partnership - Placera.se
-- TAYLOR SWIFT | THE OFFICIAL RELEASE PARTY OF A SHOWGIRL Is an Unprecedented, Record-Setting, Worldwide Success With More Than $50 Million Global Box Office - Placera.se
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
@@ -74,48 +74,48 @@ _Updated: 2025-10-08 05:10_
 ## Business
 
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- BTQ Technologies Announces QSSN Deployment with Finger Inc. Group, alongside PQC Banking Services PoC - Placera.se
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Valour Launches Thirteen New ETPs on Spotlight Stock Market, Reaches 99 Listed ETPs and Further Bolsters the Largest Digital Asset ETP Selection Globally - Placera.se
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Charles River Laboratories Announces Chief Financial Officer Transition - Placera.se
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Student and entry-level programs - EY
-- JPMorgan Chase affärsmodell - Business Model Analyst
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- UPDATE -- Valour Launches Eight New ETPs on Spotlight Stock Market, Including Shiba Inu (SHIB), Pi (PI), Ondo (ONDO), Cronos (CRO), Mantle (MNT), VeChain (VET), Ethena (ENA), and Celestia (TIA) - Placera.se
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Hilbert Group Acquires 100% of Fast-Growing Crypto Banking Platform Nordark - Placera.se
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- MTL Cannabis Corp. Announces Closing of $2 Million Brokered LIFE Offering Led by Centurion One Capital - Placera.se
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
-- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
+- PALISADES GOLDCORP & RADIO FUELS ANNOUNCE CLOSING OF PREVIOUSLY ANNOUNCED ARRANGEMENT - Placera.se
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
