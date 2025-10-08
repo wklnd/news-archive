@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-08 21:48_
+_Updated: 2025-10-08 22:48_
 
-- Ex-FBI director James Comey pleads not guilty to federal charges - BBC
+- Live Updates: James Comey, Longtime Trump Target, Pleads Not Guilty in Arraignment - The New York Times
 - Florida man accused of intentionally starting fire that destroyed Pacific Palisades - Los Angeles Times
-- Trump calls for jailing Illinois governor and Chicago mayor - PBS
+- Speaker clashes with Dem senators over Epstein files amid shutdown - Politico
 - Trump administration officials seriously discussing invoking Insurrection Act, sources say - NBC News
-- IRS shutters ‘most operations,’ furloughs employees as shutdown continues - Federal News Network
-- Arrests Made During Protest Activity in South Waterfront - City of Portland, Oregon (.gov)
+- Last of 10 New Orleans escapees captured after nearly 5 months following standoff with Atlanta police - CNN
+- IRS furloughs nearly half of its workforce due to government shutdown - CNBC
 - How flights are impacted by the government shutdown. And, James Comey's arraignment - NPR
-- 500 National Guard troops arrive in Chicago area amid resistance from Illinois Gov. Pritzker - NBC News
 - Democrats largely stand behind Jay Jones after violent texts - The Washington Post
-- Federal government shutdown grinds into a second week, but quiet talks emerging - AP News
-- After Sébastien Lecornu's fall, all eyes on Macron's next move with France in political turmoil - NBC News
-- Gaza war has killed an estimated 20,000 kids. CBS News meets many more orphaned, and "always scared." - CBS News
-- Putin is in Tajikistan for meetings with leaders of ex-Soviet leaders - AP News
+- ‘The church cannot remain silent,’ Pope Leo XIV tells El Pasoans in Vatican meeting on mass deportation fears - El Paso Matters
+- France's Macron will appoint new prime minister in next 48 hours - Reuters
+- Hamas is demanding the release of a prominent Palestinian prisoner. This could be a red line for Israel - CNN
 - Greetings from the Mediterranean, where dolphins swim alongside a migrant rescue ship - NPR
-- Fed minutes: Most officials supported further rate cuts as worries about jobs rose - AP News
+- Trump expects Gaza deal soon and may travel to Egypt for signing - Axios
+- S&P 500, Nasdaq close at record highs as Wall Street looks past U.S. government shutdown - CNBC
+- Fed officials were cautious about inflation as they agreed rate cuts - Financial Times
+- GM scraps $7,500 EV tax credit program, but it has a new way to keep prices down - Electrek
 - Gold's rally signals investors' eroding trust in the U.S. - Axios
-- Tesla's Cheaper Models Have Arrived And The World Says 'Meh' - InsideEVs
-- Organic frozen spinach distributed nationwide recalled due to potential listeria contamination - CBS News
 - Google Pixel 10 Pro Fold review: The ultimate Google phone - Ars Technica
 - Our favorite batteries and chargers are on sale for October Prime Day - The Verge
+- Prime Day Apple deals include the AirPods 4 for only $90 - Engadget
