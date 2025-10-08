@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-08 04:08_
+_Updated: 2025-10-08 05:10_
 
 ## Top Stories
 
-- Manifestation i Stockholm för att minnas gisslan - DN
-- Trump hotar Demokraterna med en 200 år gammal undantagslag - DN
+- Fredliga demonstrationer i Göteborg under 7 oktober - GP
 - Greta Thunberg: Vi utsattes för tortyr i israeliskt fängelse - SVT Nyheter
 - Landets första forskarskola för poliser startas - GP
-- Brand i lägenhet i flerfamiljshus – två personer avförda - Västerbottens-Kuriren
-- Misstänkt skottlossning mot Ecuadors president - Västerbottens-Kuriren
-- DN Direkt - Svensk död efter rån i Spanien - DN
-- Pojken i Gävle skulle omhändertas före skotten - Västerbottens-Kuriren
+- Samtliga personer räddade från Mount Everest efter att ha suttit fast i snöstorm - Yle
+- Extremväder slår mot indiska teproducenter - Västerbottens-Kuriren
+- Brand i lägenhet i flerfamiljshus – två personer avförda - Folkbladet
+- Ungdomar i anpassad gymnasieskola mer utsatta för våldtäkt än andra grupper - NewsMachine AB
+- Masskjutningen kan kopplas till Uppsala – uppger källor - UNT
 - Administration och stök skapar stress hos lärare, visar internationell undersökning - Regeringen.se
-- 07 oktober 13.00, Trafikkontroll, Västernorrlands län - Polisen.se
+- SD-ledaren öppnar för att hänga ut sexualbrottslingar - Omni
 - Trump: Ska göra allt för att vapenvila ska hålla - Hufvudstadsbladet
+- Trump hotar Demokraterna med en 200 år gammal undantagslag - DN
 - Uppgifter: Attack mot stor oljeterminal på Krim - Hufvudstadsbladet
 - Analys: Ryssland i ”fas 0” för krig mot Nato - Aftonbladet
-- Huliganerna slutar att slåss för Putin - Expressen
 - Sverige står utan effektreserv i vinter – Karlshamnsverket fick nobben - Ny Teknik
 - Kollektivavtalens lönenivåer ska gälla även för arbetskraftsinvandrare - Svenskt Näringsliv
-- Regeringen vill tillåta kärnkraft på Gotland - Horisont magasin
 - Så ska Norden utmana supermakterna om kärnkraft: ”Då kan vi absolut stå emot” - EFN
+- Regeringen vill tillåta kärnkraft på Gotland - Horisont magasin
+- Nya ägare till radhus i Skellefteå - Västerbottens-Kuriren
 - Test: Apple Iphone 17 Pro – Den du ska uppgradera till - mobil.se
-- Säljes: Thule VeloCompact 3 Bike med adapter för en 4:e cykel - Happyride
 
 ## World News
 
@@ -40,18 +40,19 @@ _Updated: 2025-10-08 04:08_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
-- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - World Travel, Inc. Expands Strategic Partnership with Sabre to Drive Innovation and Enhance Global Travel Programs - Placera.se
 - Global Payments Launches Genius™ Solution for Higher Education Institutions - Placera.se
 - Carrier Third Quarter 2025 Earnings Advisory - Placera.se
 - Mattel Creations and The Museum of Modern Art Announce Multi-Year Global Partnership - Placera.se
+- TAYLOR SWIFT | THE OFFICIAL RELEASE PARTY OF A SHOWGIRL Is an Unprecedented, Record-Setting, Worldwide Success With More Than $50 Million Global Box Office - Placera.se
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
@@ -69,7 +70,6 @@ _Updated: 2025-10-08 04:08_
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 
 ## Business
 
@@ -97,48 +97,48 @@ _Updated: 2025-10-08 04:08_
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers
 - Fakulteten för hälsa och samhälle - Malmö universitet
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
