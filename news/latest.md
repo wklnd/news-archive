@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-08 15:50_
+_Updated: 2025-10-08 16:51_
 
 - Central witness undermines case against James Comey, prosecutors concluded: Sources - ABC News - Breaking News, Latest News and Videos
-- Hundreds of US National Guard troops arrive in Chicago - BBC
-- Staffing woes see flight delays spread to more U.S. airports amid shutdown - Axios
-- Government shutdown impasse continues as dispute emerges over back pay for furloughed workers - CBS News
-- Trump says Gov. JB Pritzker and Chicago Mayor Brandon Johnson 'should be in jail' - NBC News
-- Pamela Bondi stonewalls Democrats at DOJ oversight hearing - Roll Call
+- President Trump posts on Truth Social that Mayor Johnson, Gov. Pritzker "should be in jail" - CBS News
+- Federal workers erupt over latest White House threat to withhold their pay - Axios
+- Major US airports experience delays as government shutdown hits air travel - BBC
+- With the Texas National Guard now in Illinois, here’s what you need to know about the unit - The Texas Tribune
+- Katie Porter threatens to walk out of TV interview - Politico
 - Trump-backed Matt Van Epps wins GOP primary in Tennessee House race - CBS News
 - Why Trump hasn’t invoked the Insurrection Act yet - Politico
-- Robert Roberson remains hopeful as he faces another execution date in shaken baby syndrome case - AP News
-- Federal government shutdown grinds into a second week, but quiet talks emerging - AP News
-- Steve Witkoff and Jared Kushner set to join Israel-Hamas talks in Egypt - Financial Times
+- Government Shutdown Live Updates: Senate Set to Vote Again on Advancing Dueling Bills a Week Into Standoff - The New York Times
+- Supreme Court appears skeptical of Colorado 'conversion therapy' ban - ABC News - Breaking News, Latest News and Videos
+- Gaza ceasefire talks resume in Egypt as Israel intercepts another aid flotilla - live updates - CNN
+- Hundreds of hikers rescued from Mount Everest after severe snowstorm - NPR
 - Time may be running out for master of clocks Macron: What next for France? - BBC
-- Hundreds of Mount Everest hikers rescued from snowstorm, 10 remain - The Washington Post
-- ‘We will rise’: Grief, defiance and hope as 30,000 gather in Tel Aviv two years after Oct. 7 - The Times of Israel
+- Famed polar exploration ship Endurance not as strong as legend held, researcher says - NPR
 - Gold's rally signals investors' eroding trust in the U.S. - Axios
-- Amazon October Prime Day 2025: The top 175+ deals to shop now - Mashable
+- We found the 117 best Prime Day-level sales during Amazon’s Prime Big Deal Days - CNN
 - Dumb Tesla news: "affordable" new Model Y costs $2,000 more than before - Electrek
-- Jefferies Has $161 Million at Risk in First Brands Collapse - Bloomberg.com
+- Stock Market Today: Dow, S&P 500, Nasdaq Open Up; Tesla, Oracle, Nvidia, Intel; Fed Minutes; Gold Price Record - Barron's
+- Prime Day Apple deals include the AirPods 4 for only $90 - Engadget
 - Google’s latest AI model uses a web browser like you do - The Verge
-- Apple Modifies In-Store MagSafe Stands to Prevent iPhone 17 Marks - MacRumors
