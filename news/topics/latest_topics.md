@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-08 06:43_
+_Updated: 2025-10-08 07:40_
 
 ## Top Stories
 
-- Manifestation i Stockholm för att minnas gisslan - DN
-- Samtliga personer räddade från Mount Everest efter att ha suttit fast i snöstorm - Yle
+- Fredliga demonstrationer i Göteborg under 7 oktober - GP
 - Ryska hotet mot Trump – i mötet med talibanerna - Aftonbladet
-- Extremväder slår mot indiska teproducenter - Västerbottens-Kuriren
-- Larm om hög smäll i Malmö - SVT Nyheter
-- Greta Thunberg har landat i Sverige - GP
+- Samtliga personer räddade från Mount Everest efter att ha suttit fast i snöstorm - Yle
+- Snabbkoll – detta hände i natt - Sydsvenskan
+- Greta Thunberg: Vi utsattes för tortyr i israeliskt fängelse - SVT Nyheter
+- Extremväder slår mot indiska teproducenter - GP
 - Falska kontrollanter lurade äldre på smycken och pengar – nu väcks åtal - SVT Nyheter
+- 08 oktober 07.08, Sammanfattning natt, Västerbottens län - Polisen.se
 - Ungdomar i anpassad gymnasieskola mer utsatta för våldtäkt än andra grupper - NewsMachine AB
 - Masskjutningen kan kopplas till Uppsala – uppger källor - UNT
-- Nio av tio lärare nöjda med sitt jobb - SVT Nyheter
-- Trump: Ska göra allt för att vapenvila ska hålla - Hufvudstadsbladet
-- SD-ledaren öppnar för att hänga ut sexualbrottslingar - Omni
+- Det här behöver du veta om Trumps fredsplan - Dagens Arena
+- Jens Stoltenberg om Ukraina: ”Jag är säker på att jag kunde ha gjort mer” - DN
 - Trump hotar Demokraterna med en 200 år gammal undantagslag - DN
-- Uppgifter: Attack mot stor oljeterminal på Krim - Hufvudstadsbladet
+- Svensk avled efter brutal misshandel i Torrevieja – nu ber flickvännen om hjälp - Svenska Magasinet
+- Guldpriset passerar magisk gräns – nu varnar experten - EFN
 - Sverige står utan effektreserv i vinter – Karlshamnsverket fick nobben - Ny Teknik
 - Då skenar kostnaderna – ”inte den bild man får” - SvD
 - Kollektivavtalens lönenivåer ska gälla även för arbetskraftsinvandrare - Svenskt Näringsliv
-- Regeringen vill tillåta kärnkraft på Gotland - Horisont magasin
+- Google Deepmind visar AI-agent som själv kan åtgärda sårbarheter i mjukvara - Computer Sweden
 - Nya ägare till radhus i Skellefteå - Västerbottens-Kuriren
-- Macbook Pro M5 kan lanseras redan i oktober - Macworld.se
 
 ## World News
 
@@ -37,15 +37,15 @@ _Updated: 2025-10-08 06:43_
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
-- New Secretary General appointed - Olof Palme International Center
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - World Travel, Inc. Expands Strategic Partnership with Sabre to Drive Innovation and Enhance Global Travel Programs - Placera.se
 - Carrier Third Quarter 2025 Earnings Advisory - Placera.se
 - Mattel Creations and The Museum of Modern Art Announce Multi-Year Global Partnership - Placera.se
-- TAYLOR SWIFT | THE OFFICIAL RELEASE PARTY OF A SHOWGIRL Is an Unprecedented, Record-Setting, Worldwide Success With More Than $50 Million Global Box Office - Placera.se
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
@@ -143,22 +143,22 @@ _Updated: 2025-10-08 06:43_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
-- Här är världens största jordbruk - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Arbetande förman | Jobb | ATL - Land Lantbruk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Intensivt jordbruk hotar biologisk mångfald - Sveriges Natur
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Här är världens största jordbruk - ATL
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Maskinförare | Jobb | ATL - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Unga lantbrukare får ingen chans - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
