@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-09 00:40_
+_Updated: 2025-10-09 01:38_
 
 ## Top Stories
 
 - ”Förolämpning att ge Trump fredspriset” - DN
+- Ministerns lapp till Trump: ”Du måste godkänna Truth-inlägg om avtal” - Omni
 - Donald Trump: Jag kanske åker till Mellanöstern - GP
+- Dödläge om omstridd övervakningslag i EU – beslut skjuts upp igen - DN
 - Kristersson om tortyruppgifter: Tar det på allvar - GP
-- Trump: Borgmästare borde fängslas - Hufvudstadsbladet
-- Linus Larsson: Därför har chat control blivit en sådan stridsfråga - DN
-- Kvinna allvarligt skadad i krock – E6 avstängd - Västerbottens-Kuriren
+- Trump: Kan åka till Mellanöstern i veckan - Västerbottens-Kuriren
 - 165 000 kommunanställdas uppgifter röjdes – ”Cyberkriminella ligger alltid steget före” - Altinget.se
-- Masskjutningen kan kopplas till Uppsala – uppger källor - UNT
 - Nu börjar älgjakten – så många får skjutas i vårt område - Corren
-- Majoritetens förslag till budget 2026 - Stockholms stad
-- Putin vill koppla grepp om forna Sovjetländer - Västerbottens-Kuriren
-- Trump fick lapp från Rubio: ”Väldigt nära deal” - Corren
-- Flera döda i attacker mot Ukraina och Ryssland - Västerbottens-Kuriren
-- DN Direkt - Macron utser en ny premiärminister inom 48 timmar - DN
+- Masskjutningen kan kopplas till Uppsala – uppger källor - UNT
+- DN Direkt - Oförändrad kommunalskatt i Stockholm - DN
+- DN Direkt - Macron kommer utse en ny premiärminister inom 48 timmar - DN
+- Putin vill koppla grepp om forna Sovjetländer - Corren
+- Trump: Borgmästare borde fängslas - Hufvudstadsbladet
+- Då blir attackerna på von der Leyen farliga - Di
 - Gardell om ABB:s robotar: ”Hade hellre sett en notering” - Di
-- Verisure rusade vid premiären på munter Stockholmsbörs - EFN
 - Tesla: Aktien backar när företaget börjar ta order för billigare modell Y och modell 3-fordon - Morningstar Canada
+- Verisure rusade vid premiären på munter Stockholmsbörs - EFN
 - Kraftigt ökade VA-kostnader gör IMD Vatten till en av de mest lönsamma investeringarna för brf:er - svenskbyggtidning -
 - Konstgjorda trädhål – ny bostad för urbana skalbaggar - Forskning.se
 - Ny upptäckt – bakteriella ”bubblor” surfar till cellens yta - Umeå universitet
@@ -55,8 +55,8 @@ _Updated: 2025-10-09 00:40_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
@@ -160,4 +160,4 @@ _Updated: 2025-10-09 00:40_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
