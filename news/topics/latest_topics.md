@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-08 15:46_
+_Updated: 2025-10-08 16:44_
 
 ## Top Stories
 
-- DN Direkt - De vinner Nobelpriset i kemi - DN
 - Masskjutningen kan kopplas till Uppsala – uppger källor - UNT
-- Mamma och barn kidnappades och låstes in i stuga i Kungälv – tre åtalas - GP
-- UPPGIFTER: Ukrainas nya vapen – "en gamechanger" - Marcus Oscarsson
+- Tre unga män åtalas efter kidnappningen i Strängnäs - Omni
+- Putins mardröm: Så långt når Tomahawk - SvD
 - Barnmorskan stoppas av Ivo – tänker fortsätta förlösa hemma - DN
-- DN Direkt - Oförändrad kommunalskatt i Stockholm - DN
-- Olyckor i Södra länken och på Essingeleden leder till köer - SVT Nyheter
+- Islamist övervakades av Säpo – strider nu i Ukraina: ”Pressades” - SVT Nyheter
+- Listeriadrabbad krog skjuter upp öppning – igen - GP
+- Pappers ordförande: ”Vi är inte varandras motståndare ” - Dagens Arbete
 - Älgjakten har skjutits i gång – här är reglerna att hålla koll på - NLT
-- Thunberg om tiden i fängelse: Utsattes för tortyr - Hufvudstadsbladet
-- Lugn natt i Norrbotten – viltolyckor och fortkörningar - NSD
+- Olyckor i Södra länken och på Essingeleden leder till köer - SVT Nyheter
+- 200 miljoner läggs på att korta arbetstiderna i äldreomsorgen - DN
 - Nathan Shachar: Vem ser till att kriget faktiskt tar slut? - DN
-- Uppgifter: Åtta döda i attack mot BB i Sudan - Västerbottens-Kuriren
-- Flera döda i attacker mot Ukraina och Ryssland - GP
-- Etiopien: Eritrea förbereder sig för krig - Hufvudstadsbladet
-- Svensk inflation bromsar in i september - Morningstar Canada
+- Vittnen: Tiotals dödade i attack med skärmflyg - DN
+- Trump: Borgmästare borde fängslas - Hufvudstadsbladet
+- Flera döda i attacker mot Ukraina och Ryssland - Västerbottens-Kuriren
 - Gardell om ABB:s robotar: ”Hade hellre sett en notering” - DI
+- Svensk inflation bromsar in i september - Morningstar Canada
 - Verisure offentliggör erbjudandepriset i börsintroduktionen, vilket har fastställts till 13,25 euro per aktie – handel på Nasdaq Stockholm inleds idag - Cision News
-- Googles AI-läge lanseras i Sverige: ”Dagen D är här” - Market.se
+- Cint: Billigast på börsen? - Affärsvärlden
 - Ny upptäckt – bakteriella ”bubblor” surfar in till cellens yta - Umeå universitet
 - Sjökrigföring till Battlefield 6? "Önskemål har inte gått obemärkta förbi" - FZ.se
 
@@ -29,46 +29,46 @@ _Updated: 2025-10-08 15:46_
 
 - Inflationen faller i september: "Positivt för bostadsmarknaden" - Placera.se
 - Lund University invests 85 million in international hiring drive - Lundagard.se
-- EUMETSAT Awards Spire Global €3 Million Contract Renewal for Satellite Weather Data - Placera.se
 - S&P Global and IBM Deploy Agentic AI to Improve Enterprise Operations - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - PRIVACY ALERT: Brightstar Global Solutions Corporation Under Investigation for Data Breach of 103,789 Records - Placera.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- GE Vernova och Samsung C&T i global SMR-satsning – Sverige prioriteras - ENERGInyheter.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - World Travel, Inc. Expands Strategic Partnership with Sabre to Drive Innovation and Enhance Global Travel Programs - Placera.se
+- EUMETSAT Awards Spire Global €3 Million Contract Renewal for Satellite Weather Data - Placera.se
 - Carrier Third Quarter 2025 Earnings Advisory - Placera.se
 - Mattel Creations and The Museum of Modern Art Announce Multi-Year Global Partnership - Placera.se
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
+- Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
 
 ## Business
@@ -77,22 +77,22 @@ _Updated: 2025-10-08 15:46_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Student and entry-level programs - EY
 - JPMorgan Chase affärsmodell - Business Model Analyst
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
-- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
@@ -100,22 +100,22 @@ _Updated: 2025-10-08 15:46_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Klargörande av fallet med personer som rapporterar att de blivit "förmedlade" för att få sin hälsa undersökt inför Hai Chau Regional Medical Center - Vietnam.vn
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Mabel AI won the HealthTech Award 2023 - NewsMachine AB
+- Fakulteten för hälsa och samhälle - Malmö universitet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
 
 ## Science
 
