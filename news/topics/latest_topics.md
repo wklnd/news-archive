@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-08 08:49_
+_Updated: 2025-10-08 09:39_
 
 ## Top Stories
 
-- DN Direkt - Inflationen 0,9 procent i september - DN
-- Fredliga demonstrationer i Göteborg under 7 oktober - GP
 - Samtliga personer räddade från Mount Everest efter att ha suttit fast i snöstorm - Yle
-- Ryska hotet mot Trump – i mötet med talibanerna - Aftonbladet
 - Snabbkoll – detta hände i natt - Sydsvenskan
-- Greta Thunberg: Vi utsattes för tortyr i israeliskt fängelse - SVT Nyheter
+- Ryska hotet mot Trump – i mötet med talibanerna - Aftonbladet
+- Fredliga demonstrationer i Göteborg under 7 oktober - GP
+- 08 oktober 07.08, Sammanfattning natt, Västerbottens län - Polisen.se
+- Två till sjukhus efter lägenhetsbrand - Västerbottens-Kuriren
 - Stänger tillfälligt – vägglöss hittade - UNT
 - Ny forskning: Ungdomar med intellektuell funktionsnedsättning berättar om våldsutsatthet - NewsMachine AB
-- 08 oktober 07.08, Sammanfattning natt, Västerbottens län - Polisen.se
-- DN Direkt - Lurade äldre – låtsades kontrollera dricksvatten - DN
+- Greta Thunberg: Vi utsattes för tortyr i israeliskt fängelse - SVT Nyheter
+- LVU-beslut för misstänkt pojke fyra timmar före dådet i Gävle - DN
+- Fågelinfluensa i Danmark – 150 000 höns avlivas - SVT Nyheter
 - Det här behöver du veta om Trumps fredsplan - Dagens Arena
 - Jens Stoltenberg om Ukraina: ”Jag är säker på att jag kunde ha gjort mer” - DN
-- Texas nationalgarde på plats utanför Chicago - Västerbottens-Kuriren
-- Dragen avslöjar Rysslands plan: ”Går in i fas noll” - Expressen
-- Nytt rekordpris på guld – igen - GP
+- Etiopien: Eritrea förbereder sig för krig - Hufvudstadsbladet
+- Inflationen sjönk i september: ”Glädjande” - DN
+- Guldpriset passerar magisk gräns – nu varnar experten - EFN
 - Lägre vinst för Ica-gruppen - DI
-- Sverige står utan effektreserv i vinter – Karlshamnsverket fick nobben - Ny Teknik
-- Då skenar kostnaderna – ”inte den bild man får” - SvD
+- ABB säljer divisionen Robotics till SoftBank Group - Cision News
 - Google Deepmind visar AI-agent som själv kan åtgärda sårbarheter i mjukvara - Computer Sweden
 - Superdeal på Apples senaste MacBook Air – Prime Deal Days hos Amazon ger dig det lägsta priset just nu - TechRadar
 
@@ -37,37 +37,37 @@ _Updated: 2025-10-08 08:49_
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- OPEC: Ingen peak oil före 2050 – global efterfrågan fortsätter stiga - ENERGInyheter.se
 - International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - World Travel, Inc. Expands Strategic Partnership with Sabre to Drive Innovation and Enhance Global Travel Programs - Placera.se
-- Ex-nyhetsankare på BBC hade barnpornografi - Omni
 - Carrier Third Quarter 2025 Earnings Advisory - Placera.se
 - Mattel Creations and The Museum of Modern Art Announce Multi-Year Global Partnership - Placera.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
+- Investera i AI-aktier – Bästa bolagen & tipsen 2025 - Börskollen
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
-- Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 
@@ -77,20 +77,15 @@ _Updated: 2025-10-08 08:49_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Student and entry-level programs - EY
 - JPMorgan Chase affärsmodell - Business Model Analyst
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Student and entry-level programs - EY
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
 
@@ -125,37 +120,37 @@ _Updated: 2025-10-08 08:49_
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Intensivt jordbruk hotar biologisk mångfald - Sveriges Natur
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Maskinförare | Jobb | ATL - Land Lantbruk
