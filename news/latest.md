@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-08 10:53_
+_Updated: 2025-10-08 11:48_
 
-- Staffing woes see flight delays spread to more U.S. airports amid shutdown - Axios
-- National Guard members from Texas are in Illinois in Trump's latest move to send troops to cities - AP News
-- Government shutdown impasse continues as dispute emerges over back pay for furloughed workers - CBS News
+- Major US airports experience delays as government shutdown hits air travel - BBC
+- Federal workers erupt over latest White House threat to withhold their pay - Axios
 - Bondi tells Schiff he should ‘apologize’ for impeaching Trump - Politico
-- The costs of Israel’s longest war, for Israelis - NPR
+- Trump says ‘real chance’ to end Gaza war, Hamas seeks US guarantees - South China Morning Post
+- National Guard members from Texas are in Illinois in Trump's latest move to send troops to cities - AP News
 - Nvidia to continue sponsoring H-1B visas, Business Insider reports - Reuters
 - Trump-endorsed Matt Van Epps wins GOP primary for vacant House seat in Tennessee - NBC News
-- Portland leaders seek dialogue, while Kristi Noem slams local electeds as ‘pansies’ - OregonLive.com
-- Federal government shutdown grinds into a second week, but quiet talks emerging - AP News
+- Ex-FBI director James Comey to appear in court on lying to Congress charge - The Guardian
 - Supreme Court appears skeptical of Colorado 'conversion therapy' ban - ABC News - Breaking News, Latest News and Videos
+- Portland leaders seek dialogue, while Kristi Noem slams local electeds as ‘pansies’ - OregonLive.com
 - Hundreds of hikers rescued from Mount Everest after severe snowstorm - AP News
-- ‘You cannot be what you cannot see’: Japan hails first female leader as turning point for society - Financial Times
-- Kushner and Trump envoy arrive in Egypt for crucial negotiations on Gaza deal - Axios
-- Californian detained on Gaza-bound flotilla deported to Jordan from Israel prison - Los Angeles Times
+- The ruin of Gaza: how Israel’s two-year assault has devastated the territory - The Guardian
+- Madagascar Gen Z protests: President Andry Rajoelina appoints army general as PM - BBC
+- Israeli military intercepts Gaza Freedom Flotilla vessels - Al Jazeera
+- Dumb Tesla news: "affordable" new Model Y costs $2,000 more than before - Electrek
+- 209+ best Prime Day deals we’re tracking for October 2025, updated on Day 2 - New York Post
 - Gold surges past record $4,000 an ounce as uncertainty fuels rally - BBC
-- Tesla offers cheaper versions of 2 electric vehicles in bid to win back market share in tough year - AP News
-- Stocks drop, gold cracks $4,000 on political anxiety - Reuters
-- We dug through thousands of Prime Day deals to find 60 standouts for $50 or less - The Verge
+- SoftBank to buy ABB robotics unit for $5.4 billion as it boosts its AI play - CNBC
 - Google’s latest AI model uses a web browser like you do - The Verge
-- UFS 5.0 storage promises to be twice as fast for AI’s sake, hopefully enticing Google Pixel - 9to5Google
+- The next Apple Watch activity challenge is all about looking inward - 9to5Mac
