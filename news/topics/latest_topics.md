@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-09 22:41_
+_Updated: 2025-10-09 23:38_
 
 ## Top Stories
 
 - Vapenvilan i Gaza: “Stora risker om USA:s intresse svalnar” - Dagens Arena
 - Michael Winiarski: Trump kan få fredspriset – men hinner han det i år? - DN
-- Dags att dumpa alla menlösa liberaler, Magdalena Andersson - Arbetet
 - 09 oktober 19.30, Misshandel, grov, Falköping - polisen.se
 - Tidigare SVT-profil misstänks för grova våldtäkter - Omni
-- Golfbana avspärrad – misstänkt farliga föremål - Folkbladet
-- 77-åring påstod sig ha fått hjärtinfarkt – tafsade på kvinna - DN
+- László Krasznahorkai är årets Nobelpristagare i litteratur: ”Väldigt glad” - Kulturnytt - Sveriges Radio
+- Coco & Carmens nedstängning en finansiell mardröm – ”går inte att hämta hem” - SvD
+- Polisbil i krock i Luleå – en person till sjukhus - SVT Nyheter
+- Dags att dumpa alla menlösa liberaler, Magdalena Andersson - Arbetet
 - Våldsutövare - Socialstyrelsen
-- Falska larm om våld på Risbergska i Örebro - SVT Nyheter
-- Snusdosan kan bli tjugo kronor dyrare - GP
+- 77-åring påstod sig ha fått hjärtinfarkt – tafsade på kvinna - DN
+- Hamas chefsförhandlare: Kriget är över - Expressen
 - Ukrainare beordras lämna ryskbombade orter - GP
-- Putin: Ryskt luftvärn bakom flygkrasch i Kazakstan - DN
-- Flera fordon i olycka – väg avstängd - Expressen
-- Oväder i Spanien – turister varnas för ovädret Alice - Expressen
+- Varnar turisterna i svenskparadiset - Expressen
+- Så blir drönarmuren i Natos ”gapande hål” - Expressen
+- Guldpriset når nya rekordnivåer – analytiker varnar för spekulationsdriven uppgång - Börskollen
 - Novo Nordisk förvärvar Akera Therapeutics för 4,7 miljarder dollar - Placera.se
 - Vidöppet IPO-fönster på Stockholmsbörsen - carnegie.se
-- Julius Bär höjer prognosen för guldpriset till 4 500 dollar - Börsvärlden
-- Astra Zeneca ökar Virginia-investering med 4,7 miljarder - Di
+- Astra Zeneca ökar Virginia-investering med 4,7 miljarder - DI
 - Kaotiskt och beroendeframkallande – så bra är nya Battlefield 6 - Expressen
 - Ska staten eller kommunerna ansvara för arbetsmarknadspolitiken? - Svenskt Näringsliv
 
 ## World News
 
+- Norden vill samla bred global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
 - Kimberly-Clark Launches Enhanced Global Partnerships to Advance Essential Care for 24 Million Women and Girls - Placera.se
-- UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
 - Lund University invests 85 million in international hiring drive - Lundagard.se
 - Nearly Two-Thirds of Global Retailers Say Payment Method Flexibility Drives Revenue Growth, ACI Worldwide Survey Finds - Placera.se
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Investor och Gardell oense om ABB:s storaffär - Placera.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Placera.se
 - ZTE accelerates global expansion by strategically focusing on gaming smartphones for youth markets - Placera.se
 - Greater Than Announces that Partner FIA has Launched the New Driver Safety Index, Establishing a Global Benchmark for Driver Risk - Placera.se
-- Omdia: Global PC market grew 7% in Q3 2025 as Windows 10 end-of-service deadline nears - Placera.se
-- Oracle Named a Leader in IDC MarketScape for Worldwide Corporate Loan Lifecycle Management - Placera.se
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 
 ## Technology
 
@@ -67,9 +67,9 @@ _Updated: 2025-10-09 22:41_
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 - Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 
 ## Business
 
@@ -90,9 +90,9 @@ _Updated: 2025-10-09 22:41_
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
+- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-09 22:41_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Lediga jobb - ATL
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
