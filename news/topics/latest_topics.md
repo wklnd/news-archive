@@ -1,49 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-09 01:38_
+_Updated: 2025-10-09 04:10_
 
 ## Top Stories
 
-- ”Förolämpning att ge Trump fredspriset” - DN
+- Trump: Israel och Hamas överens om avtal - GP
+- “Oerhört osannolikt att Trump får Nobels fredspris” - Dagens Arena
 - Ministerns lapp till Trump: ”Du måste godkänna Truth-inlägg om avtal” - Omni
+- 09 oktober 02.41, Vållande till kroppsskada, Boden - polisen.se
 - Donald Trump: Jag kanske åker till Mellanöstern - GP
-- Dödläge om omstridd övervakningslag i EU – beslut skjuts upp igen - DN
-- Kristersson om tortyruppgifter: Tar det på allvar - GP
-- Trump: Kan åka till Mellanöstern i veckan - Västerbottens-Kuriren
+- Greta Thunberg: Har släppts från ett tortyrfängelse - DN
+- Falska larm om våld på Risbergska i Örebro: ”Tar det här på största allvar” - NWT
 - 165 000 kommunanställdas uppgifter röjdes – ”Cyberkriminella ligger alltid steget före” - Altinget.se
+- Ytterligare en misstänkt efter skjutning i Gävle - SVT Nyheter
 - Nu börjar älgjakten – så många får skjutas i vårt område - Corren
-- Masskjutningen kan kopplas till Uppsala – uppger källor - UNT
-- DN Direkt - Oförändrad kommunalskatt i Stockholm - DN
+- Putin vill koppla grepp om forna Sovjetländer - GP
+- DN Direkt - Köer i morgontrafiken – flera bilar har krockat på Essingeleden - DN
 - DN Direkt - Macron kommer utse en ny premiärminister inom 48 timmar - DN
-- Putin vill koppla grepp om forna Sovjetländer - Corren
-- Trump: Borgmästare borde fängslas - Hufvudstadsbladet
-- Då blir attackerna på von der Leyen farliga - Di
-- Gardell om ABB:s robotar: ”Hade hellre sett en notering” - Di
-- Tesla: Aktien backar när företaget börjar ta order för billigare modell Y och modell 3-fordon - Morningstar Canada
-- Verisure rusade vid premiären på munter Stockholmsbörs - EFN
+- Marcus Lindqvist Trump har ändrat sig om Ukraina - Hufvudstadsbladet
+- Gardell om ABB:s robotar: ”Hade hellre sett en notering” - Dagens industri
 - Kraftigt ökade VA-kostnader gör IMD Vatten till en av de mest lönsamma investeringarna för brf:er - svenskbyggtidning -
+- Finland och Sverige samstämmiga: Ny kärnkraft behövs - Hufvudstadsbladet
+- Svensk fusion kan bli nyckel till ren energi - DN
 - Konstgjorda trädhål – ny bostad för urbana skalbaggar - Forskning.se
 - Ny upptäckt – bakteriella ”bubblor” surfar till cellens yta - Umeå universitet
 
 ## World News
 
-- Inflationen faller i september: "Positivt för bostadsmarknaden" - Placera.se
-- Lund University invests 85 million in international hiring drive - Lundagard.se
 - EUMETSAT Awards Spire Global €3 Million Contract Renewal for Satellite Weather Data - Placera.se
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Lund University invests 85 million in international hiring drive - Lundagard.se
 - S&P Global and IBM Deploy Agentic AI to Improve Enterprise Operations - Placera.se
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Investor och Gardell oense om ABB:s storaffär - Placera.se
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Finserve Global Security Fund blir Europas första försvarsfond klassificerad som artikel 8 - beQuoted
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - GE Vernova och Samsung C&T i global SMR-satsning – Sverige prioriteras - ENERGInyheter.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- World Travel, Inc. Expands Strategic Partnership with Sabre to Drive Innovation and Enhance Global Travel Programs - Placera.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Carrier Third Quarter 2025 Earnings Advisory - Placera.se
 - Mattel Creations and The Museum of Modern Art Announce Multi-Year Global Partnership - Placera.se
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
@@ -56,20 +56,20 @@ _Updated: 2025-10-09 01:38_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 
 ## Business
 
@@ -96,25 +96,25 @@ _Updated: 2025-10-09 01:38_
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Tema: AI inom medicin och hälsa - Karolinska Institutet
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
 
 ## Science
 
@@ -142,22 +142,22 @@ _Updated: 2025-10-09 01:38_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Unga lantbrukare får ingen chans - Land Lantbruk
