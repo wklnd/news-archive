@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-09 10:47_
+_Updated: 2025-10-09 11:41_
 
 ## Top Stories
 
-- ”President Trump, tack så mycket” - DN
-- Polis i Boden knivskuren av minderårig – vårdas på sjukhus - SVT Nyheter
+- Emma Bouvin: Djävulen sitter som bekant ofta i detaljerna - DN
 - De misshandlar påstådda pedofiler – medlem misstänks själv ha smygfilmat flickor - DN
-- Greta Thunberg gjorde det Sverige inte vågade - Dagens Arena
-- Unga väljer personlig trygghet framför idealism - Västerbottens-Kuriren
-- Trump fick lapp från Rubio: ”Väldigt nära deal” - VLT
-- Efter proteststormen – planer på att dumpa muddermassor stoppas - DN
+- Polis i Boden knivskuren av minderårig – vårdas på sjukhus - SVT Nyheter
+- Fågelinfluensa hos vild fågel i Malmö - Omni
+- Sparspsykolog: Många hamstrar pengar i onödan - Omni
+- Stockholm först ut med förbud mot fossilreklam - GP
+- Skulle dumpa giftiga massor i skärgården – planerna stoppas - SVT Nyheter
 - 09 oktober 07.55, Sammanfattning natt, Östergötlands län - polisen.se
 - Miljardklyftan som splittrar oppositionen - DN
-- Livet på paus medan Uppsalas unga står i oändliga bostadsköer - UNT
-- Maysaa i Gaza: Så glad – men var ska vi bo? - Västerbottens-Kuriren
-- Fågelinfluensa hos vild fågel i Malmö - GP
-- DN Direkt - Köer i morgontrafiken – flera bilar har krockat på Essingeleden - DN
-- “Oerhört osannolikt att Trump får Nobels fredspris” - Dagens Arena
+- Greta Thunberg gjorde det Sverige inte vågade - Dagens Arena
+- Maysaa i Gaza: Så glad – men var ska vi bo? - Folkbladet
+- ”Förolämpning att ge Trump fredspriset” - DN
+- Trump fick lapp från Rubio: ”Väldigt nära deal” - Aftonbladet
+- Larmar om Trump: ”Auktoritär regim” - Expressen
 - Asienbörserna stiger – Softbank rusar efter ABB-affären - Di
-- Thailand väntas slutföra handelsavtal med USA och EU före årsskiftet - Placera.se
 - TSMC ökade intäkterna med 31,4 procent i september - Börsvärlden
 - Blågul noteringsyra – börsen ”hetast i Europa” - SvD
-- Redaktionens fynd: Superdeal på 65-tums qled-tv från Samsung - m3.se
-- NIZE kombinerar maskinkraft med intelligent programvara - Sign&Print
+- Banker på rekordnivå kräver stordåd - Di
+- Lyngdorf ser fram emot sitt 20-årsjubileum - Ljud & Bild
+- Fem grejer du behöver veta om Googles nya Pixel 10 Pro Fold - Cafe.se
 
 ## World News
 
 - Nearly Two-Thirds of Global Retailers Say Payment Method Flexibility Drives Revenue Growth, ACI Worldwide Survey Finds - Placera.se
 - Lund University invests 85 million in international hiring drive - Lundagard.se
-- EUMETSAT Awards Spire Global €3 Million Contract Renewal for Satellite Weather Data - Placera.se
+- ZTE accelerates global expansion by strategically focusing on gaming smartphones for youth markets - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Investor och Gardell oense om ABB:s storaffär - Placera.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- S&P Global and IBM Deploy Agentic AI to Improve Enterprise Operations - Placera.se
+- Investor och Gardell oense om ABB:s storaffär - Placera.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- S&P Global and IBM Deploy Agentic AI to Improve Enterprise Operations - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- EUMETSAT Awards Spire Global €3 Million Contract Renewal for Satellite Weather Data - Placera.se
 - Greater Than Announces that Partner FIA has Launched the New Driver Safety Index, Establishing a Global Benchmark for Driver Risk - Placera.se
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 
 ## Technology
 
@@ -74,9 +74,9 @@ _Updated: 2025-10-09 10:47_
 ## Business
 
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Student and entry-level programs - EY
@@ -85,8 +85,8 @@ _Updated: 2025-10-09 10:47_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
@@ -105,17 +105,17 @@ _Updated: 2025-10-09 10:47_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-09 10:47_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
