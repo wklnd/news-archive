@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-09 05:12_
+_Updated: 2025-10-09 05:48_
 
 ## Top Stories
 
-- Israel och Hamas är överens om fredsavtal i Gaza - GP
+- Trump: Israel och Hamas har godkänt första fasen av fredsplanen - DN
 - 09 oktober 02.41, Vållande till kroppsskada, Boden - polisen.se
-- Donald Trump: Jag kanske åker till Mellanöstern - GP
-- ”Förolämpning att ge Trump fredspriset” - DN
 - Kristersson om tortyruppgifter: Tar det på allvar - GP
+- Världens 50 bästa universitet – Sverige åker ut - SvD
 - Masskjutningen kan kopplas till Uppsala – uppger källor - UNT
-- Falska larm om våld på Risbergska i Örebro: ”Tar det här på största allvar” - NWT
-- 165 000 kommunanställdas uppgifter röjdes – ”Cyberkriminella ligger alltid steget före” - Altinget.se
 - Nu börjar älgjakten – så många får skjutas i vårt område - Corren
+- 165 000 kommunanställdas uppgifter röjdes – ”Cyberkriminella ligger alltid steget före” - Altinget.se
+- Falska larm om våld på Risbergska i Örebro - Västerbottens-Kuriren
 - Strul i tågtrafiken – orsak är polisinsats - Norra Halland
-- Putin vill koppla grepp om forna Sovjetländer - Corren
+- 200 miljoner läggs på att korta arbetstiderna i äldreomsorgen - DN
+- Trump fick lapp från Rubio: ”Väldigt nära deal” - Västerbottens-Kuriren
+- ”Förolämpning att ge Trump fredspriset” - DN
 - DN Direkt - Köer i morgontrafiken – flera bilar har krockat på Essingeleden - DN
-- DN Direkt - Macron kommer utse en ny premiärminister inom 48 timmar - DN
-- Marcus Lindqvist Trump har ändrat sig om Ukraina - Hufvudstadsbladet
-- Gardell om ABB:s robotar: ”Hade hellre sett en notering” - Di
+- Putin vill koppla grepp om forna Sovjetländer - Corren
+- Börserna uppåt i Japan efter ABB-affären - Di
+- EU drar Sverige till domstol – för långsamt med förnybart - Aktuell Hållbarhet
 - Kraftigt ökade VA-kostnader gör IMD Vatten till en av de mest lönsamma investeringarna för brf:er - svenskbyggtidning -
-- Finland och Sverige samstämmiga: Ny kärnkraft behövs - Hufvudstadsbladet
-- Slutreplik: Digitala vårdlösningar ska möta verkliga behov - Altinget.se
+- Svensk fusion kan bli nyckel till ren energi - DN
 - Konstgjorda trädhål – ny bostad för urbana skalbaggar - Forskning.se
 - Ny upptäckt – bakteriella ”bubblor” surfar till cellens yta - Umeå universitet
 
@@ -77,18 +77,22 @@ _Updated: 2025-10-09 05:12_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Student and entry-level programs - EY
 - JPMorgan Chase affärsmodell - Business Model Analyst
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
