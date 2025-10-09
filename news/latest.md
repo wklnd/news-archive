@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-09 22:48_
+_Updated: 2025-10-09 23:48_
 
-- Israeli cabinet to discuss Gaza plan that would bring ceasefire and hostage release - BBC
 - Letitia James, the New York attorney general who defeated Trump in court, indicted by Justice Department - CNN
-- What to know about the Nobel Peace Prize - NPR
-- Trump's use of the National Guard faces critical legal tests - ABC News - Breaking News, Latest News and Videos
-- Texas High Court Halts Execution in Shaken Baby Case - The New York Times
-- GOP Oklahoma governor criticizes Texas National Guard deployment to Illinois - Politico
+- Live updates: Israel and Hamas sign first phase of Gaza ceasefire deal that would release hostages - The Washington Post
+- What to know about Trump’s National Guard deployments in Chicago and Portland - PBS
+- Schumer Taunts Americans as Democrat Shutdown Crushes Them - The White House (.gov)
+- Robert Roberson: Texas court blocks execution of death row inmate in shaken baby case - BBC
+- KFF Tracking Poll on Health Information and Trust: Tylenol-Autism Link and Vaccine Policies - KFF
 - US could fire air traffic controllers who fail to work during shutdown, transportation secretary says - Reuters
 - Democrats give Trump credit for Gaza deal but stop short of backing GOP calls to award him Nobel Peace Prize - CNN
-- US buys Argentine pesos, agrees to $20 billion swap line, Bessent says - CNBC
-- Trump to visit Walter Reed for "routine yearly checkup" 6 months after annual physical exam - CBS News
+- Scoop: Dominion Voting sold to company run by ex-GOP election official - Axios
+- Pressuring Democrats, Johnson rules out standalone troop pay bill - Politico
+- Norway braces for Trump’s reaction if he does not win Nobel peace prize - The Guardian
+- Trump’s trade war has India hugging Britain close - politico.eu
 - Man who appealed Pelicot rape conviction handed longer jail term - BBC
-- Putin admits Russian air defences were to blame for Azerbaijani jet crash - The Guardian
-- As Pope Leo riles conservatives, some say ‘just focus on the church’ - The Washington Post
-- Delta Predicts Premium Seat Sales to Overtake Economy as Soon as 2026 - The Wall Street Journal
+- Pope Leo invokes criticism of Trump's policies in first major document - Reuters
+- Tesla hit with probe after crashes involving a self-driving feature that Musk has boasted about - AP News
+- Airlines Fly On Delta Results Despite Airport Delays During Shutdown - Investor's Business Daily
 - US justice department launches inquiry into First Brands - Financial Times
 - Stocks close lower as S&P 500, Nasdaq retreat from record highs - CNBC
-- China Moves to Limit Rare Earth Exports. These Mining Stocks Are Gaining. - Barron's
-- Here is Panther Lake, Intel’s 2026 laptop chip with next-gen graphics - The Verge
-- Google Pixel Tablet might be the best tablet to buy right now, thanks to record-low discount - ZDNET
-- AI Browser Dia Launches Publicly on Mac - MacRumors
+- Intel unveils new processor powered by its 18A semiconductor tech - TechCrunch
+- Motorola’s ultra-thin answer to Apple and Samsung doesn’t skip a beat on battery [Gallery] - 9to5Google
