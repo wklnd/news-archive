@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-10 00:39_
+_Updated: 2025-10-10 01:38_
 
 ## Top Stories
 
 - Vapenvilan i Gaza: “Stora risker om USA:s intresse svalnar” - Dagens Arena
 - Michael Winiarski: Trump kan få fredspriset – men hinner han det i år? - DN
-- 09 oktober 19.30, Misshandel, grov, Falköping - polisen.se
+- Skottlossning på Stureplan – en skadad - SVT Nyheter
 - László Krasznahorkai är årets Nobelpristagare i litteratur: ”Väldigt glad” - Kulturnytt - Sveriges Radio
-- Tidigare SVT-profil misstänks för grova våldtäkter - Omni
-- Polisbil i krock i Luleå – en person till sjukhus - SVT Nyheter
+- 09 oktober 19.30, Misshandel, grov, Falköping - polisen.se
+- Polis till sjukhus – olycka i ökänd Luleåkorsning - Kuriren
 - Dags att dumpa alla menlösa liberaler, Magdalena Andersson - Arbetet
 - Våldsutövare - Socialstyrelsen
-- Krockade med bil: Cyklist fördes till sjukhus med ambulans - Oskarshamns-Nytt
-- Snusdosan kan bli tjugo kronor dyrare - GP
-- Ukrainare beordras lämna ryskbombade orter - GP
+- Körde 74 kilometer i timmen på 40-sträcka – fastnade i kontroll - Norran
+- Misstänkt farligt föremål i Borås - Expressen
+- Ukrainare beordras lämna ryskbombade orter - Aftonbladet
 - Varnar turisterna i svenskparadiset - Expressen
 - Stubb bryter isen med Trump - Aftonbladet
-- Så blir drönarmuren i Natos ”gapande hål” - Expressen
+- Putin: Ryskt luftvärn bakom flygkrasch i Kazakstan - DN
 - Guldpriset når nya rekordnivåer – analytiker varnar för spekulationsdriven uppgång - Börskollen
-- Vidöppet IPO-fönster på Stockholmsbörsen - carnegie.se
-- Novo Nordisk förvärvar Akera Therapeutics för 4,7 miljarder dollar - Placera.se
 - Gap i rapportering om klimat bland svenska börsbolag - EY
+- Kraftigt ökade VA-kostnader gör IMD Vatten till en av de mest lönsamma investeringarna för brf:er - svenskbyggtidning -
+- Tesla: Aktien backar när företaget börjar ta order för billigare modell Y och modell 3-fordon - Morningstar Canada
 - Kaotiskt och beroendeframkallande – så bra är nya Battlefield 6 - Expressen
 - Stuga intill å mest klickad – se hela listan - Östersunds-Posten
 
@@ -31,6 +31,7 @@ _Updated: 2025-10-10 00:39_
 - Kimberly-Clark Launches Enhanced Global Partnerships to Advance Essential Care for 24 Million Women and Girls - Placera.se
 - Lund University invests 85 million in international hiring drive - Lundagard.se
 - Nearly Two-Thirds of Global Retailers Say Payment Method Flexibility Drives Revenue Growth, ACI Worldwide Survey Finds - Placera.se
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -39,7 +40,6 @@ _Updated: 2025-10-10 00:39_
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
@@ -62,14 +62,14 @@ _Updated: 2025-10-10 00:39_
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 
 ## Business
 
@@ -79,8 +79,8 @@ _Updated: 2025-10-10 00:39_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Student and entry-level programs - EY
 - JPMorgan Chase affärsmodell - Business Model Analyst
+- Student and entry-level programs - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -90,9 +90,9 @@ _Updated: 2025-10-10 00:39_
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
@@ -124,27 +124,27 @@ _Updated: 2025-10-10 00:39_
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
