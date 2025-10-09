@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-09 15:51_
+_Updated: 2025-10-09 17:22_
 
-- Trump Says Israel and Hamas Reach Hostage Deal: Live Updates - The New York Times
-- How Chicago became ground zero for Trump's military crackdown - Axios
+- Live Updates: Israel and Hamas Reach Deal on Hostage and Prisoner Exchange - The New York Times
+- Texas court blocks execution of death row inmate Robert Roberson - The Texas Tribune
+- Democratic attorneys general race to counter Trump's latest escalation on troop deployments - Politico
 - Nobel Peace Prize 2025: What are Trump’s credentials, and can he win? - Al Jazeera
-- ‘Shame on you!’ ‘Shame on you, sir!’ N.J. gov debate turns ugly over opioids. - NJ.com
+- What’s Really Going On in Portland, According to Police Reports - The Wall Street Journal
 - Comey’s challenge of Lindsey Halligan is the latest bid to derail Trump’s top prosecutors - CNN
-- Anxiety grows in Portland, Oregon, amid Trump's effort to send in National Guard - CBS News
 - Former Democratic Rep. Katie Porter nearly exits tense interview in her run for California governor - ABC News - Breaking News, Latest News and Videos
-- How air traffic controllers could help end the shutdown - Axios
-- Republican defense cardinal throws weight behind bill to pay troops during shutdown - Politico
+- What to do if your flight is delayed or canceled during the US government shutdown - AP News
 - Oregon National Guard troops can remain under Trump’s control but cannot deploy to Portland: appeals court - OregonLive.com
-- Hungarian 'Master of the apocalypse' Krasznahorkai wins 2025 Nobel Prize in Literature - Reuters
-- 'Don't allow abuse of ...': PM Modi flags Khalistan threat in UK; tells Kier Starmer to act - Times of India
+- Wyoming library director fired amid book dispute wins $700,000 settlement - ABC News - Breaking News, Latest News and Videos
+- László Krasznahorkai wins the Nobel prize in literature 2025 - The Guardian
+- UK signs $468 mln deal to supply India with missiles - Reuters
 - As Pope Leo riles conservatives, some say ‘just focus on the church’ - The Washington Post
-- Rubio passes Trump urgent note on Middle East peace deal during antifa roundtable - PBS
+- Marco Rubio Caught Telling Donald Trump, 79, What to Post on Truth Social - The Daily Beast
 - AI has carried the stock market. Concerns are mounting about a bubble - CNN
 - China expands rare earth restrictions, targets defence, semiconductor users - Reuters
-- Delta CEO says government shutdown hasn't impacted airline's operation - CNBC
-- Head of largest US bank warns of risk of American stock market crash - The Guardian
-- Intel outlines details of first PC chip made on its new manufacturing tech - Yahoo Finance
-- Google’s New Foldable, Smartwatch Emphasize AI Rather Than Hardware Changes - Bloomberg.com
+- US opens Tesla probe after more crashes involving its so-called full self-driving technology - AP News
+- S&P 500, Nasdaq retreat from record highs: Live updates - CNBC
+- Here is Panther Lake, Intel’s 2026 laptop chip with next-gen graphics - The Verge
+- AI Browser Dia Launches Publicly on Mac - MacRumors
