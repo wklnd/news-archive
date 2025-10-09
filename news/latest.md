@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-09 01:48_
+_Updated: 2025-10-09 04:12_
 
-- Trump says Israel and Hamas 'both sign off' on first phase of Gaza peace plan - BBC
-- Comey pleads not guilty as lawyers signal intent to argue Trump foe's case is politically motivated - AP News
-- Florida man accused of intentionally starting fire that destroyed Pacific Palisades - Los Angeles Times
-- President Trump posts on Truth Social that Chicago Mayor Johnson, Gov. Pritzker "should be in jail" - CBS News
-- HHS hits back at former surgeons general who wrote op-ed saying RFK Jr. is endangering nation's health - ABC News - Breaking News, Latest News and Videos
-- Last of 10 New Orleans escapees captured after nearly 5 months following standoff with Atlanta police - CNN
-- 'I don't want to keep doing this': Katie Porter almost walks out of interview - SFGATE
-- 2025 Key Races: Jones Texts Rock Virginia and Checking in on California and Pennsylvania - Center For Politics
+- Trump says first phase of Gaza peace deal agreed, paving way for hostage and prisoner releases - BBC
+- Son of missionaries accused of setting destructive Palisades fire - Los Angeles Times
+- Comey’s Two Legal Challenges to His Indictment, Explained - The New York Times
+- Trump Administration Live Updates: Strikes on Purported Drug Boats Are Said to Have Also Killed Colombians - The New York Times
+- IRS tells employees furlough backpay guaranteed, while WH counters in memo - Axios
+- What is antifa, the ‘terrorist’ group targeted by Donald Trump? - Financial Times
+- Katie Porter’s viral videos plunge campaign into ‘disaster’ - Politico
+- National Guard poised to enter Chicago as Trump calls for jailing Democratic leaders - Reuters
 - Pope Leo urges U.S. bishops to speak about Trump's immigration crackdown after being shown migrants' letters - CBS News
 - Shutdown tensions cause clashes to erupt on Capitol Hill: "You're an embarrassment" - Axios
-- Macron will nominate new French prime minister in 48 hours - BBC
+- Macron to name new PM in next 48 hours - politico.eu
 - Ecuador’s president unharmed after protesters attack his motorcade - The Guardian
-- Exclusive: Hamas demands release of high-profile militants in 'red line' for Israel - Euronews.com
-- Turkey advises Hamas on Palestinian state under Donald Trump plan - The Jerusalem Post
-- Fed officials were cautious about inflation as they agreed rate cuts - Financial Times
-- Stock Market News Today: Nasdaq, S&P 500 Rise; Gold's Record-Breaking Rally in Focus— Live Updates - The Wall Street Journal
-- Elon Settles! Musk Makes Deal To End $128M Severance Pay Suit From Ex-Twitter CEO, Others - Deadline
-- Bank of England warns AI stock bubble rivals 2000 dotcom peak - Ars Technica
+- Zelenskiy says Ukraine inflicts frontline losses on Russian troops in Donetsk region - Yahoo
+- Trump receives urgent note from Rubio on Mideast peace deal during antifa roundtable - AP News
+- Fed Officials Discussed Risk of Housing Market Collapse at Recent Meeting to Cut Interest Rates - Realtor.com
+- Musk's X settles ex-Twitter executives' $128 million severance pay lawsuit - Reuters
+- Futures Rise After AI-Led Rally Hits Highs; Tesla's New Buy Point - Investor's Business Daily
+- The 10 Prime Day tech deals you should shop before Day 2 ends - Engadget
 - Google Pixel 10 Pro Fold review: The ultimate Google phone - Ars Technica
-- Our favorite batteries and chargers are on sale for October Prime Day - The Verge
+- You can still save up to 70 percent on headphones from Bose and Sony today - The Verge
