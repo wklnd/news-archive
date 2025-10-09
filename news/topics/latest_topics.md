@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-09 17:51_
+_Updated: 2025-10-09 18:48_
 
 ## Top Stories
 
-- Olika bud om eldupphör i Gaza - Västerbottens-Kuriren
-- Misstänkt farliga föremål hittade på Kävlinge Golfklubb - SVT Nyheter
+- DN Direkt - Skarpa termosbomber hittade vid golfbana i Skåde - DN
+- Israel: Vapenvila inom ett dygn efter kabinettsmöte - GP
 - Dags att dumpa alla menlösa liberaler, Magdalena Andersson - Arbetet
-- Överklagade Pelicotdom – får skärpt straff - SVT Nyheter
 - Gisslén om FHM-åtgärder: ”Kvitto på att jag hade rätt” - GP
-- ”Husdoktorn” duckar fängelse – efterlyst - GP
+- Nya snushotet: Dosan kan bli över tjugo kronor dyrare - Aftonbladet
+- László Krasznahorkai är årets Nobelpristagare i litteratur: ”Väldigt glad” - Kulturnytt - Sveriges Radio
 - Tredje person misstänkt för inblandning i skjutningen i Gävle - SVT Nyheter
-- Död person i vattnet i Göteborg – misstänkt mord - Västerbottens-Kuriren
-- Skogkär: Ingen synar Thunberg - Bulletin
-- Rättegången mot pedofiljägarna i Örnsköldsvik inledd – bakom stängda dörrar - SVT Nyheter
+- Pausar övningar efter falsklarm på Risbergska - Västerbottens-Kuriren
+- Region Stockholms besked: Priset på SL-kortet höjs inte - DN
+- Person hittad avliden i Säveån – polis utreder mord - GP
+- ”Förolämpning att ge Trump fredspriset” - DN
 - Putin: Ryskt luftvärn bakom flygkrasch i Kazakstan - DN
-- Fredsforskare om Trump: Verkar inte i Nobels anda - GP
 - Så blir drönarmuren i Natos ”gapande hål” - Expressen
-- Ryskt gasverk i brand efter drönaranfall - Aftonbladet
+- Flera fordon i olycka – väg avstängd - Expressen
 - Novo Nordisk förvärvar Akera Therapeutics för 4,7 miljarder dollar - Placera.se
+- Lager 157 drar in miljarder –men hållbarhetsfrågor kvarstår: ”Vi bidrar till den sociala hållbarheten” - Aktuell Hållbarhet
 - Vidöppet IPO-fönster på Stockholmsbörsen - carnegie.se
-- Affärsvärlden lämnar ett neutralt råd för Gig Software - Placera.se
-- Julius Bär höjer prognosen för guldpriset till 4 500 dollar - Börsvärlden
-- Ozempic-bråket i SVT – Julia Franzén: ”Är emot det” - Expressen
+- Dalio ser guld som säkrare än dollarn - Börsvärlden
+- Kaotiskt och beroendeframkallande – så bra är nya Battlefield 6 - Expressen
 - Ska staten eller kommunerna ansvara för arbetsmarknadspolitiken? - Svenskt Näringsliv
 
 ## World News
@@ -39,14 +39,14 @@ _Updated: 2025-10-09 17:51_
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - ZTE accelerates global expansion by strategically focusing on gaming smartphones for youth markets - Placera.se
-- EUMETSAT Awards Spire Global €3 Million Contract Renewal for Satellite Weather Data - Placera.se
-- S&P Global and IBM Deploy Agentic AI to Improve Enterprise Operations - Placera.se
 - Greater Than Announces that Partner FIA has Launched the New Driver Safety Index, Establishing a Global Benchmark for Driver Risk - Placera.se
 - Omdia: Global PC market grew 7% in Q3 2025 as Windows 10 end-of-service deadline nears - Placera.se
 - Oracle Named a Leader in IDC MarketScape for Worldwide Corporate Loan Lifecycle Management - Placera.se
+- GE Vernova och Samsung C&T i global SMR-satsning – Sverige prioriteras - ENERGInyheter.se
 
 ## Technology
 
