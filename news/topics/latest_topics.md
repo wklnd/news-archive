@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-09 09:39_
+_Updated: 2025-10-09 10:47_
 
 ## Top Stories
 
-- Trump: Israel och Hamas har godkänt första fasen av fredsplanen - DN
-- 09 oktober 02.41, Vållande till kroppsskada, Boden - polisen.se
-- Trump fick lapp från Rubio: ”Väldigt nära deal” - GP
-- Unga väljer personlig trygghet framför idealism - Västerbottens-Kuriren
-- Sparspsykolog: Många hamstrar pengar i onödan - Omni
-- Hon vinner Ruter Dam 2025 – går mot strömmen som kvinnlig vd - DN
+- ”President Trump, tack så mycket” - DN
+- Polis i Boden knivskuren av minderårig – vårdas på sjukhus - SVT Nyheter
 - De misshandlar påstådda pedofiler – medlem misstänks själv ha smygfilmat flickor - DN
-- Efter proteststormen – planer på att dumpa muddermassor stoppas - DN
 - Greta Thunberg gjorde det Sverige inte vågade - Dagens Arena
+- Unga väljer personlig trygghet framför idealism - Västerbottens-Kuriren
+- Trump fick lapp från Rubio: ”Väldigt nära deal” - VLT
+- Efter proteststormen – planer på att dumpa muddermassor stoppas - DN
 - 09 oktober 07.55, Sammanfattning natt, Östergötlands län - polisen.se
-- Fågelinfluensa hos vild fågel i Malmö - Västerbottens-Kuriren
+- Miljardklyftan som splittrar oppositionen - DN
+- Livet på paus medan Uppsalas unga står i oändliga bostadsköer - UNT
+- Maysaa i Gaza: Så glad – men var ska vi bo? - Västerbottens-Kuriren
+- Fågelinfluensa hos vild fågel i Malmö - GP
 - DN Direkt - Köer i morgontrafiken – flera bilar har krockat på Essingeleden - DN
-- Världens 50 bästa universitet – Sverige åker ut - Västerbottens-Kuriren
 - “Oerhört osannolikt att Trump får Nobels fredspris” - Dagens Arena
 - Asienbörserna stiger – Softbank rusar efter ABB-affären - Di
-- Halvledarjätten ökar försäljningen - Di
+- Thailand väntas slutföra handelsavtal med USA och EU före årsskiftet - Placera.se
+- TSMC ökade intäkterna med 31,4 procent i september - Börsvärlden
 - Blågul noteringsyra – börsen ”hetast i Europa” - SvD
-- Banker på rekordnivå kräver stordåd - Di
-- Mikael Wiehes musik på Barres vis - Alekuriren
-- Dagens Dubbel tips 9/10 Gävle - Travcash
+- Redaktionens fynd: Superdeal på 65-tums qled-tv från Samsung - m3.se
+- NIZE kombinerar maskinkraft med intelligent programvara - Sign&Print
 
 ## World News
 
@@ -34,19 +34,19 @@ _Updated: 2025-10-09 09:39_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- S&P Global and IBM Deploy Agentic AI to Improve Enterprise Operations - Placera.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Investor och Gardell oense om ABB:s storaffär - Placera.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- S&P Global and IBM Deploy Agentic AI to Improve Enterprise Operations - Placera.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- GE Vernova och Samsung C&T i global SMR-satsning – Sverige prioriteras - ENERGInyheter.se
-- New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Greater Than Announces that Partner FIA has Launched the New Driver Safety Index, Establishing a Global Benchmark for Driver Risk - Placera.se
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
-- Sun Life Global Investments and PICTON Investments Collaborate to Elevate Segregated Fund Options for Canadians - Placera.se
 
 ## Technology
 
@@ -124,14 +124,14 @@ _Updated: 2025-10-09 09:39_
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
@@ -143,22 +143,22 @@ _Updated: 2025-10-09 09:39_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- An Giang Agricultural Extension 30 år av att stödja jordbrukare - Vietnam.vn
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
-- Unga lantbrukare får ingen chans - Land Lantbruk
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
