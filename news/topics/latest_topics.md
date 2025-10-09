@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-09 08:50_
+_Updated: 2025-10-09 09:39_
 
 ## Top Stories
 
-- Trump: Israel och Hamas överens om avtal - GP
-- Polis i Boden knivskuren av minderårig – vårdas på sjukhus - SVT Nyheter
-- Trump fick lapp från Rubio: ”Väldigt nära deal” - Västerbottens-Kuriren
+- Trump: Israel och Hamas har godkänt första fasen av fredsplanen - DN
+- 09 oktober 02.41, Vållande till kroppsskada, Boden - polisen.se
+- Trump fick lapp från Rubio: ”Väldigt nära deal” - GP
 - Unga väljer personlig trygghet framför idealism - Västerbottens-Kuriren
-- Uppsala universitet brädade av konkurrenten - UNT
+- Sparspsykolog: Många hamstrar pengar i onödan - Omni
+- Hon vinner Ruter Dam 2025 – går mot strömmen som kvinnlig vd - DN
 - De misshandlar påstådda pedofiler – medlem misstänks själv ha smygfilmat flickor - DN
-- 165 000 kommunanställdas uppgifter röjdes – ”Cyberkriminella ligger alltid steget före” - Altinget.se
+- Efter proteststormen – planer på att dumpa muddermassor stoppas - DN
 - Greta Thunberg gjorde det Sverige inte vågade - Dagens Arena
 - 09 oktober 07.55, Sammanfattning natt, Östergötlands län - polisen.se
-- DEBATT: Livet på paus medan Uppsalas unga står i oändliga bostadsköer - UNT
 - Fågelinfluensa hos vild fågel i Malmö - Västerbottens-Kuriren
 - DN Direkt - Köer i morgontrafiken – flera bilar har krockat på Essingeleden - DN
+- Världens 50 bästa universitet – Sverige åker ut - Västerbottens-Kuriren
 - “Oerhört osannolikt att Trump får Nobels fredspris” - Dagens Arena
-- Rysslands energiförluster talar till Ukrainas fördel - Omni
 - Asienbörserna stiger – Softbank rusar efter ABB-affären - Di
+- Halvledarjätten ökar försäljningen - Di
 - Blågul noteringsyra – börsen ”hetast i Europa” - SvD
-- Stigande oro på Wall Street för AI-bubbla - Börskollen
-- Sverige riskerar böter för bristande satsning på grön energi - Natursidan
+- Banker på rekordnivå kräver stordåd - Di
 - Mikael Wiehes musik på Barres vis - Alekuriren
-- Så enkelt fixar du strul med externa enheter i Windows - PC för Alla
+- Dagens Dubbel tips 9/10 Gävle - Travcash
 
 ## World News
 
@@ -42,8 +42,8 @@ _Updated: 2025-10-09 08:50_
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - GE Vernova och Samsung C&T i global SMR-satsning – Sverige prioriteras - ENERGInyheter.se
+- New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Fal.Con Europe 2025 Sells Out, Demonstrating Global Demand as CrowdStrike Leads Cybersecurity in the AI Era - Placera.se
 - Greater Than Announces that Partner FIA has Launched the New Driver Safety Index, Establishing a Global Benchmark for Driver Risk - Placera.se
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 - Sun Life Global Investments and PICTON Investments Collaborate to Elevate Segregated Fund Options for Canadians - Placera.se
@@ -74,9 +74,9 @@ _Updated: 2025-10-09 08:50_
 ## Business
 
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Student and entry-level programs - EY
@@ -121,24 +121,24 @@ _Updated: 2025-10-09 08:50_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
@@ -147,13 +147,13 @@ _Updated: 2025-10-09 08:50_
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- An Giang Agricultural Extension 30 år av att stödja jordbrukare - Vietnam.vn
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Intensivt jordbruk hotar biologisk mångfald - Sveriges Natur
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
 - Här är världens största jordbruk - ATL
 - LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
