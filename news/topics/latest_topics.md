@@ -1,6 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-09 20:48_
+_Updated: 2025-10-09 21:38_
 
 ## Top Stories
 
@@ -10,16 +10,16 @@ _Updated: 2025-10-09 20:48_
 - László Krasznahorkai är årets Nobelpristagare i litteratur: ”Väldigt glad” - Kulturnytt - Sveriges Radio
 - DN Direkt - Bekräftade provsvar: Låga halter av listeria på fyra ställen - DN
 - Putin: Ryskt luftvärn bakom flygkrasch i Kazakstan - DN
-- Tredje person misstänkt för inblandning i skjutningen i Gävle - SVT Nyheter
+- Polisbil i krock i Luleå – en person till sjukhus - SVT Nyheter
+- DN Direkt - Pausar övningar efter falsklarm på Risbergska - DN
+- 77-åring påstod sig ha fått hjärtinfarkt – tafsade på kvinna - DN
 - Våldsutövare - Socialstyrelsen
-- Facktoppens krav på regeringens skolreform: ”Avgörande" - ETC.se
-- Snusdosan kan bli tjugo kronor dyrare - GP
+- Fredsforskare om Trump: Verkar inte i Nobels anda - GP
 - Ukrainare beordras lämna ryskbombade orter - GP
-- “Oerhört osannolikt att Trump får Nobels fredspris” - Dagens Arena
 - Oväder i Spanien – turister varnas för ovädret Alice - Expressen
 - Så blir drönarmuren i Natos ”gapande hål” - Expressen
-- Novo Nordisk förvärvar Akera Therapeutics för 4,7 miljarder dollar - Placera.se
 - Vidöppet IPO-fönster på Stockholmsbörsen - carnegie.se
+- Novo Nordisk förvärvar Akera Therapeutics för 4,7 miljarder dollar - Placera.se
 - Lager 157 drar in miljarder –men hållbarhetsfrågor kvarstår: ”Vi bidrar till den sociala hållbarheten” - Aktuell Hållbarhet
 - Julius Bär höjer prognosen för guldpriset till 4 500 dollar - Börsvärlden
 - Kaotiskt och beroendeframkallande – så bra är nya Battlefield 6 - Expressen
@@ -56,8 +56,8 @@ _Updated: 2025-10-09 20:48_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
+- Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
@@ -121,24 +121,24 @@ _Updated: 2025-10-09 20:48_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
