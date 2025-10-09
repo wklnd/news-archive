@@ -1,49 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-09 17:01_
+_Updated: 2025-10-09 17:51_
 
 ## Top Stories
 
-- Firande trots olika bud om eldupphör i Gaza - Västerbottens-Kuriren
+- Olika bud om eldupphör i Gaza - Västerbottens-Kuriren
 - Misstänkt farliga föremål hittade på Kävlinge Golfklubb - SVT Nyheter
-- Lina Kalmteg om Nobelpristagaren i litteratur 2025: ”Väntat” - Sveriges Radio
+- Dags att dumpa alla menlösa liberaler, Magdalena Andersson - Arbetet
+- Överklagade Pelicotdom – får skärpt straff - SVT Nyheter
+- Gisslén om FHM-åtgärder: ”Kvitto på att jag hade rätt” - GP
 - ”Husdoktorn” duckar fängelse – efterlyst - GP
-- Kristersson om överenskommelsen: ”Ett första steg” - GP
-- ”Förolämpning att ge Trump fredspriset” - DN
-- DN Direkt - Avliden person i Säveån – misstänkt mord - DN
 - Tredje person misstänkt för inblandning i skjutningen i Gävle - SVT Nyheter
-- Pausar övningar efter falsklarm på Risbergska - Västerbottens-Kuriren
-- De misshandlar påstådda pedofiler – medlem misstänks själv ha smygfilmat flickor - DN
-- Putin: Ryskt luftvärn bakom flygkrasch i Kazakstan - GP
+- Död person i vattnet i Göteborg – misstänkt mord - Västerbottens-Kuriren
+- Skogkär: Ingen synar Thunberg - Bulletin
+- Rättegången mot pedofiljägarna i Örnsköldsvik inledd – bakom stängda dörrar - SVT Nyheter
+- Putin: Ryskt luftvärn bakom flygkrasch i Kazakstan - DN
+- Fredsforskare om Trump: Verkar inte i Nobels anda - GP
 - Så blir drönarmuren i Natos ”gapande hål” - Expressen
-- Stubb bryter isen med Trump - Aftonbladet
-- DEBATT: Dystopiskt att vi som samlats för att sörja ska behöva utstå hatrop och vandalisering - GP
+- Ryskt gasverk i brand efter drönaranfall - Aftonbladet
 - Novo Nordisk förvärvar Akera Therapeutics för 4,7 miljarder dollar - Placera.se
 - Vidöppet IPO-fönster på Stockholmsbörsen - carnegie.se
-- MilDef vinner 52 MSEK kontrakt med L3Harris för leverans av IT-system i pansarfordon till NATO-land - Cision News
-- Handelsbanken höjer riktkursen för Danske Bank till 310 danska kronor (294), upprepar köp - BN - Placera.se
+- Affärsvärlden lämnar ett neutralt råd för Gig Software - Placera.se
+- Julius Bär höjer prognosen för guldpriset till 4 500 dollar - Börsvärlden
 - Ozempic-bråket i SVT – Julia Franzén: ”Är emot det” - Expressen
-- Forskare dök ner i dolt hav på Saturnusmåne och gjorde en upptäckt som kan få stor betydelse för sökandet efter liv - Illustrerad Vetenskap
+- Ska staten eller kommunerna ansvara för arbetsmarknadspolitiken? - Svenskt Näringsliv
 
 ## World News
 
 - Kimberly-Clark Launches Enhanced Global Partnerships to Advance Essential Care for 24 Million Women and Girls - Placera.se
 - Lund University invests 85 million in international hiring drive - Lundagard.se
-- ZTE accelerates global expansion by strategically focusing on gaming smartphones for youth markets - Placera.se
+- Nearly Two-Thirds of Global Retailers Say Payment Method Flexibility Drives Revenue Growth, ACI Worldwide Survey Finds - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Nearly Two-Thirds of Global Retailers Say Payment Method Flexibility Drives Revenue Growth, ACI Worldwide Survey Finds - Placera.se
+- Investor och Gardell oense om ABB:s storaffär - Placera.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Investor och Gardell oense om ABB:s storaffär - Placera.se
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- S&P Global and IBM Deploy Agentic AI to Improve Enterprise Operations - Placera.se
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- ZTE accelerates global expansion by strategically focusing on gaming smartphones for youth markets - Placera.se
 - EUMETSAT Awards Spire Global €3 Million Contract Renewal for Satellite Weather Data - Placera.se
+- S&P Global and IBM Deploy Agentic AI to Improve Enterprise Operations - Placera.se
 - Greater Than Announces that Partner FIA has Launched the New Driver Safety Index, Establishing a Global Benchmark for Driver Risk - Placera.se
 - Omdia: Global PC market grew 7% in Q3 2025 as Windows 10 end-of-service deadline nears - Placera.se
 - Oracle Named a Leader in IDC MarketScape for Worldwide Corporate Loan Lifecycle Management - Placera.se
@@ -103,9 +103,11 @@ _Updated: 2025-10-09 17:01_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Fakulteten för hälsa och samhälle - Malmö universitet
+- Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Nyteknik
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
@@ -113,9 +115,7 @@ _Updated: 2025-10-09 17:01_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
