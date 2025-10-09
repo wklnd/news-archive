@@ -1,68 +1,68 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-09 21:38_
+_Updated: 2025-10-09 22:41_
 
 ## Top Stories
 
-- Hamas: Kriget med Israel är över - GP
-- 09 oktober 13.42, Farligt föremål, misstänkt, Kävlinge - polisen.se
+- Vapenvilan i Gaza: “Stora risker om USA:s intresse svalnar” - Dagens Arena
+- Michael Winiarski: Trump kan få fredspriset – men hinner han det i år? - DN
 - Dags att dumpa alla menlösa liberaler, Magdalena Andersson - Arbetet
-- László Krasznahorkai är årets Nobelpristagare i litteratur: ”Väldigt glad” - Kulturnytt - Sveriges Radio
-- DN Direkt - Bekräftade provsvar: Låga halter av listeria på fyra ställen - DN
-- Putin: Ryskt luftvärn bakom flygkrasch i Kazakstan - DN
-- Polisbil i krock i Luleå – en person till sjukhus - SVT Nyheter
-- DN Direkt - Pausar övningar efter falsklarm på Risbergska - DN
+- 09 oktober 19.30, Misshandel, grov, Falköping - polisen.se
+- Tidigare SVT-profil misstänks för grova våldtäkter - Omni
+- Golfbana avspärrad – misstänkt farliga föremål - Folkbladet
 - 77-åring påstod sig ha fått hjärtinfarkt – tafsade på kvinna - DN
 - Våldsutövare - Socialstyrelsen
-- Fredsforskare om Trump: Verkar inte i Nobels anda - GP
+- Falska larm om våld på Risbergska i Örebro - SVT Nyheter
+- Snusdosan kan bli tjugo kronor dyrare - GP
 - Ukrainare beordras lämna ryskbombade orter - GP
+- Putin: Ryskt luftvärn bakom flygkrasch i Kazakstan - DN
+- Flera fordon i olycka – väg avstängd - Expressen
 - Oväder i Spanien – turister varnas för ovädret Alice - Expressen
-- Så blir drönarmuren i Natos ”gapande hål” - Expressen
-- Vidöppet IPO-fönster på Stockholmsbörsen - carnegie.se
 - Novo Nordisk förvärvar Akera Therapeutics för 4,7 miljarder dollar - Placera.se
-- Lager 157 drar in miljarder –men hållbarhetsfrågor kvarstår: ”Vi bidrar till den sociala hållbarheten” - Aktuell Hållbarhet
+- Vidöppet IPO-fönster på Stockholmsbörsen - carnegie.se
 - Julius Bär höjer prognosen för guldpriset till 4 500 dollar - Börsvärlden
+- Astra Zeneca ökar Virginia-investering med 4,7 miljarder - Di
 - Kaotiskt och beroendeframkallande – så bra är nya Battlefield 6 - Expressen
 - Ska staten eller kommunerna ansvara för arbetsmarknadspolitiken? - Svenskt Näringsliv
 
 ## World News
 
 - Kimberly-Clark Launches Enhanced Global Partnerships to Advance Essential Care for 24 Million Women and Girls - Placera.se
+- UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
 - Lund University invests 85 million in international hiring drive - Lundagard.se
 - Nearly Two-Thirds of Global Retailers Say Payment Method Flexibility Drives Revenue Growth, ACI Worldwide Survey Finds - Placera.se
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Investor och Gardell oense om ABB:s storaffär - Placera.se
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - ZTE accelerates global expansion by strategically focusing on gaming smartphones for youth markets - Placera.se
 - Greater Than Announces that Partner FIA has Launched the New Driver Safety Index, Establishing a Global Benchmark for Driver Risk - Placera.se
 - Omdia: Global PC market grew 7% in Q3 2025 as Windows 10 end-of-service deadline nears - Placera.se
 - Oracle Named a Leader in IDC MarketScape for Worldwide Corporate Loan Lifecycle Management - Placera.se
-- GE Vernova och Samsung C&T i global SMR-satsning – Sverige prioriteras - ENERGInyheter.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 
 ## Technology
 
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
@@ -90,9 +90,9 @@ _Updated: 2025-10-09 21:38_
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
@@ -121,24 +121,24 @@ _Updated: 2025-10-09 21:38_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
