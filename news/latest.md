@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-09 12:50_
+_Updated: 2025-10-09 13:48_
 
 - Israel and Hamas agree to first phase of Gaza peace deal, Trump says - live updates - BBC
 - How Chicago became ground zero for Trump's military crackdown - Axios
 - Son of missionaries accused of setting destructive Palisades fire - Los Angeles Times
-- Court gives Trump control over Oregon National Guard, though deployment still on hold - The Hill
-- New Jersey Gov race gets personal at final debate: ‘First of all, shame on you’ - New York Post
-- Rubio passes Trump urgent note on Middle East peace deal during antifa roundtable - PBS
+- Nobel Peace Prize 2025: What are Trump’s credentials, and can he win? - Al Jazeera
+- Oregon National Guard troops can remain under Trump’s control but cannot deploy to Portland: appeals court - OregonLive.com
+- AP photos show Rubio’s urgent note to Trump before announcement of Mideast peace deal - AP News
+- Katie Porter Goes Viral for ‘Unhappy’ TV Interview in California Governor’s Race - The New York Times
 - Trump has had his sights on Portland, Oregon, for years. This is how we got here - CNN
-- Texts from Jay Jones, Democratic Attorney General Candidate, Roil Virginia Governor’s Race - The New York Times
-- Pope Leo urges U.S. bishops to speak about Trump's immigration crackdown after being shown migrants' letters - CBS News
+- Wyoming library director fired amid book dispute wins $700,000 settlement - ABC News - Breaking News, Latest News and Videos
 - Hegseth’s firing of Navy official compounds ‘culture of fear’ inside Pentagon - Politico
-- Einav Zangauker to Arutz Sheva: Tears of joy haven't stopped flowing - Israel National News
-- ‘Hope for a great light’: Israeli stars moved to tears as Trump announces hostage deal - Ynetnews
-- Donald Trump looms large over Nobel Peace Prize - Financial Times
-- Did Israeli authorities mistreat Greta Thunberg after flotilla arrest? Here's what we know - Snopes.com
-- Fed minutes: Most officials supported further rate cuts as worries about jobs rose - AP News
+- Latest Gaza flotilla intercepted by Navy, 150 activists set to be deported - The Times of Israel
+- Gisèle Pelicot Returns to Court to Confront Assailant in Rape Case - The New York Times
 - China tightens rare earth export controls, targets defence, semiconductor users - Reuters
 - AI has carried the stock market. Concerns are mounting about a bubble - CNN
-- Everything we know about Ferrari’s first electric vehicle - Ars Technica
-- Get the AirPods 4 for $89, iPad for $279, and More Before Prime Day Ends Today - MacRumors
-- Major Pixel Watch update breathes new life into older models - Android Police
+- Delta's profit forecast tops estimates, buoyed by higher fares and resilient luxury demand - CNBC
+- PepsiCo earnings top estimates as international markets fuel sales growth - CNBC
+- The AirPods 4 are just $89, matching their best price to date during October Prime Day - The Verge
+- iPhone 18 Fold rumored to use combination of aluminum and titanium - 9to5Mac
+- Google’s New Foldable, Smartwatch Emphasize AI Rather Than Hardware Changes - Bloomberg.com
+- Intel Stock (NASDAQ:INTC) Slips as Panther Lake Details Set to Emerge - TipRanks
