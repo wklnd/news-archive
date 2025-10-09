@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-09 11:41_
+_Updated: 2025-10-09 12:44_
 
 ## Top Stories
 
-- Emma Bouvin: Djävulen sitter som bekant ofta i detaljerna - DN
+- Klart: Avtalet mellan Israel och Hamas har trätt i kraft - DN
+- Tredje person anhållen misstänkt för inblandning i skjutningen i Gävle - SVT Nyheter
+- Polis knivskuren i samband med ingripande - Omni
+- Död person i vattnet i Göteborg – misstänkt mord - Västerbottens-Kuriren
+- Misstänkte dubbelmördaren i Lunden utlämnad till Sverige - GP
+- Tysk ekonomi i motvind – massuppsägningar på anrika företag - DN
 - De misshandlar påstådda pedofiler – medlem misstänks själv ha smygfilmat flickor - DN
-- Polis i Boden knivskuren av minderårig – vårdas på sjukhus - SVT Nyheter
-- Fågelinfluensa hos vild fågel i Malmö - Omni
-- Sparspsykolog: Många hamstrar pengar i onödan - Omni
-- Stockholm först ut med förbud mot fossilreklam - GP
+- Alexander Ernstberger frias för lyxgåvan till hustrun - Expressen
 - Skulle dumpa giftiga massor i skärgården – planerna stoppas - SVT Nyheter
 - 09 oktober 07.55, Sammanfattning natt, Östergötlands län - polisen.se
-- Miljardklyftan som splittrar oppositionen - DN
-- Greta Thunberg gjorde det Sverige inte vågade - Dagens Arena
-- Maysaa i Gaza: Så glad – men var ska vi bo? - Folkbladet
 - ”Förolämpning att ge Trump fredspriset” - DN
+- Maysaa i Gaza: Så glad – men var ska vi bo? - Aftonbladet
 - Trump fick lapp från Rubio: ”Väldigt nära deal” - Aftonbladet
 - Larmar om Trump: ”Auktoritär regim” - Expressen
 - Asienbörserna stiger – Softbank rusar efter ABB-affären - Di
-- TSMC ökade intäkterna med 31,4 procent i september - Börsvärlden
-- Blågul noteringsyra – börsen ”hetast i Europa” - SvD
 - Banker på rekordnivå kräver stordåd - Di
+- Hon vinner Ruter Dam 2025 – går mot strömmen som kvinnlig vd - DN
+- Handelsbanken höjer riktkursen för DNB till 252 norska kronor (245), upprepar sälj - BN - Placera.se
+- Tidernas 100 bästa spel – rösta fram kandidaterna till finalen! - FZ.se
 - Lyngdorf ser fram emot sitt 20-årsjubileum - Ljud & Bild
-- Fem grejer du behöver veta om Googles nya Pixel 10 Pro Fold - Cafe.se
 
 ## World News
 
 - Nearly Two-Thirds of Global Retailers Say Payment Method Flexibility Drives Revenue Growth, ACI Worldwide Survey Finds - Placera.se
 - Lund University invests 85 million in international hiring drive - Lundagard.se
-- ZTE accelerates global expansion by strategically focusing on gaming smartphones for youth markets - Placera.se
+- Investor och Gardell oense om ABB:s storaffär - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Investor och Gardell oense om ABB:s storaffär - Placera.se
-- News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - S&P Global and IBM Deploy Agentic AI to Improve Enterprise Operations - Placera.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- GE Vernova och Samsung C&T i global SMR-satsning – Sverige prioriteras - ENERGInyheter.se
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- ZTE accelerates global expansion by strategically focusing on gaming smartphones for youth markets - Placera.se
 - EUMETSAT Awards Spire Global €3 Million Contract Renewal for Satellite Weather Data - Placera.se
 - Greater Than Announces that Partner FIA has Launched the New Driver Safety Index, Establishing a Global Benchmark for Driver Risk - Placera.se
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- New Secretary General appointed - Olof Palme International Center
 
 ## Technology
 
@@ -74,9 +74,9 @@ _Updated: 2025-10-09 11:41_
 ## Business
 
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Student and entry-level programs - EY
@@ -85,8 +85,8 @@ _Updated: 2025-10-09 11:41_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
@@ -108,13 +108,13 @@ _Updated: 2025-10-09 11:41_
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
 
 ## Science
