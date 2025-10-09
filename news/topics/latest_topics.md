@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-09 23:38_
+_Updated: 2025-10-10 00:39_
 
 ## Top Stories
 
 - Vapenvilan i Gaza: “Stora risker om USA:s intresse svalnar” - Dagens Arena
 - Michael Winiarski: Trump kan få fredspriset – men hinner han det i år? - DN
 - 09 oktober 19.30, Misshandel, grov, Falköping - polisen.se
-- Tidigare SVT-profil misstänks för grova våldtäkter - Omni
 - László Krasznahorkai är årets Nobelpristagare i litteratur: ”Väldigt glad” - Kulturnytt - Sveriges Radio
-- Coco & Carmens nedstängning en finansiell mardröm – ”går inte att hämta hem” - SvD
+- Tidigare SVT-profil misstänks för grova våldtäkter - Omni
 - Polisbil i krock i Luleå – en person till sjukhus - SVT Nyheter
 - Dags att dumpa alla menlösa liberaler, Magdalena Andersson - Arbetet
 - Våldsutövare - Socialstyrelsen
-- 77-åring påstod sig ha fått hjärtinfarkt – tafsade på kvinna - DN
-- Hamas chefsförhandlare: Kriget är över - Expressen
+- Krockade med bil: Cyklist fördes till sjukhus med ambulans - Oskarshamns-Nytt
+- Snusdosan kan bli tjugo kronor dyrare - GP
 - Ukrainare beordras lämna ryskbombade orter - GP
 - Varnar turisterna i svenskparadiset - Expressen
+- Stubb bryter isen med Trump - Aftonbladet
 - Så blir drönarmuren i Natos ”gapande hål” - Expressen
 - Guldpriset når nya rekordnivåer – analytiker varnar för spekulationsdriven uppgång - Börskollen
-- Novo Nordisk förvärvar Akera Therapeutics för 4,7 miljarder dollar - Placera.se
 - Vidöppet IPO-fönster på Stockholmsbörsen - carnegie.se
-- Astra Zeneca ökar Virginia-investering med 4,7 miljarder - DI
+- Novo Nordisk förvärvar Akera Therapeutics för 4,7 miljarder dollar - Placera.se
+- Gap i rapportering om klimat bland svenska börsbolag - EY
 - Kaotiskt och beroendeframkallande – så bra är nya Battlefield 6 - Expressen
-- Ska staten eller kommunerna ansvara för arbetsmarknadspolitiken? - Svenskt Näringsliv
+- Stuga intill å mest klickad – se hela listan - Östersunds-Posten
 
 ## World News
 
@@ -62,13 +62,13 @@ _Updated: 2025-10-09 23:38_
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
-- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 
 ## Business
@@ -103,19 +103,19 @@ _Updated: 2025-10-09 23:38_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
