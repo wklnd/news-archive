@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-09 05:48_
+_Updated: 2025-10-09 06:43_
 
 ## Top Stories
 
-- Trump: Israel och Hamas har godkänt första fasen av fredsplanen - DN
-- 09 oktober 02.41, Vållande till kroppsskada, Boden - polisen.se
-- Kristersson om tortyruppgifter: Tar det på allvar - GP
-- Världens 50 bästa universitet – Sverige åker ut - SvD
+- Israel och Hamas är överens om fredsplanens början - Hufvudstadsbladet
+- Polis i Boden knivskuren av minderårig - SVT Nyheter
+- Tredje varmaste september som uppmätts - Västerbottens-Kuriren
+- Greta Thunberg gjorde det Sverige inte vågade - Dagens Arena
+- Ledare: Dousa gör rätt när bistånd kommer med krav - NWT
+- ”Avfärda inte drabbade som om de vore galna” - SvD
+- Efter it-läckan – då har du rätt att få ersättning - Aftonbladet
 - Masskjutningen kan kopplas till Uppsala – uppger källor - UNT
 - Nu börjar älgjakten – så många får skjutas i vårt område - Corren
-- 165 000 kommunanställdas uppgifter röjdes – ”Cyberkriminella ligger alltid steget före” - Altinget.se
-- Falska larm om våld på Risbergska i Örebro - Västerbottens-Kuriren
 - Strul i tågtrafiken – orsak är polisinsats - Norra Halland
-- 200 miljoner läggs på att korta arbetstiderna i äldreomsorgen - DN
 - Trump fick lapp från Rubio: ”Väldigt nära deal” - Västerbottens-Kuriren
 - ”Förolämpning att ge Trump fredspriset” - DN
 - DN Direkt - Köer i morgontrafiken – flera bilar har krockat på Essingeleden - DN
-- Putin vill koppla grepp om forna Sovjetländer - Corren
-- Börserna uppåt i Japan efter ABB-affären - Di
-- EU drar Sverige till domstol – för långsamt med förnybart - Aktuell Hållbarhet
+- Macron: Ny premiärminister utses inom två dygn - GP
+- Blågul noteringsyra – börsen ”hetast i Europa” - SvD
+- Sverige riskerar böter för bristande satsning på grön energi - Natursidan
 - Kraftigt ökade VA-kostnader gör IMD Vatten till en av de mest lönsamma investeringarna för brf:er - svenskbyggtidning -
-- Svensk fusion kan bli nyckel till ren energi - DN
-- Konstgjorda trädhål – ny bostad för urbana skalbaggar - Forskning.se
+- Superintelligens behöver kropp – har techjätten hittat den i Västerås? - Ny Teknik
 - Ny upptäckt – bakteriella ”bubblor” surfar till cellens yta - Umeå universitet
+- Konstgjorda trädhål – ny bostad för urbana skalbaggar - Forskning.se
 
 ## World News
 
@@ -34,18 +34,18 @@ _Updated: 2025-10-09 05:48_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Placera.se
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - GE Vernova och Samsung C&T i global SMR-satsning – Sverige prioriteras - ENERGInyheter.se
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- World Travel, Inc. Expands Strategic Partnership with Sabre to Drive Innovation and Enhance Global Travel Programs - Placera.se
 - EUMETSAT Awards Spire Global €3 Million Contract Renewal for Satellite Weather Data - Placera.se
 - Carrier Third Quarter 2025 Earnings Advisory - Placera.se
-- Mattel Creations and The Museum of Modern Art Announce Multi-Year Global Partnership - Placera.se
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
@@ -85,8 +85,8 @@ _Updated: 2025-10-09 05:48_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
