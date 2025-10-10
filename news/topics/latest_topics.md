@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-10 23:37_
+_Updated: 2025-10-11 00:39_
 
 ## Top Stories
 
-- Tung svensk förlust i VM-kvalet – efter missat öppet mål - DN
-- En allvarligt skadad i trippelolycka på E22 - SVT Nyheter
+- Fotboll: Sverige föll mot Schweiz i VM-kvalet efter omdiskuterad straff - SVT Nyheter
 - 2 000 mål i Ryssland inom räckhåll med Trumps robot - DN
-- Tvååriga Hoor från Gaza har aldrig träffat sina föräldrar - DN
-- FN-källa: Mer nödhjälp in i Gaza på söndag - GP
-- Stora störningar i Ukraina efter rysk attack - GP
+- En allvarligt skadad i trippelolycka på E22 - SVT Nyheter
+- Vapenvila i Gaza – gisslan släpps inom tre dygn - Västerbottens-Kuriren
+- Sann antikommunist värdig vinnare av Nobels fredspris - NT
+- Lecornu blir fransk premiärminister – igen - GP
 - DN Direkt - Mohamsson om SD-regering: Kommer inte ändra oss - DN
-- Maria Corina Machado tilldelas Nobels fredspris 2025 - SVT Nyheter
-- Nya uppgifter om listeriautbrottet på Coco & Carmen: Tre prover sticker ut - SVT Nyheter
+- Listeria hittat i 13 livsmedel på lyxkrogen - Västerbottens-Kuriren
 - Lina Kalmteg om Nobelpristagaren i litteratur 2025: ”Väntat” - Sveriges Radio
-- Gazabor vänder hemåt: ”Fyllda av sorg” - Folkbladet
-- Nedstängning i USA: Massavskedanden har börjat - Västerbottens-Kuriren
-- Explosion i vapenfabrik – flera döda - GP
-- Nya slaget mot svenska gängen - Expressen
-- Trump hotar Kina med högre tullar – börsen faller - DI
-- Skogens skräp på väg att bli guld - DN
-- Mest sålda flyget i historien - Dagens PS
+- Svenskt bidrag till Natos avskräckning och försvar under 2026 - Regeringen.se
+- Gazabor vänder hemåt: ”Fyllda av sorg” - Västerbottens-Kuriren
+- Nedstängning i USA: Massavskedanden har börjat - GP
+- Tvååriga Hoor från Gaza har aldrig träffat sina föräldrar - DN
+- DN Direkt - Explosion på amerikansk vapenfabrik - DN
+- Trumps nya tullhot mot Kina: 100 procent till - DN
+- Siemiatkowskis varning om AI: ”Inte på rätt spår” - EFN
 - Bitcoin slår nya rekord: ”Dollarn urholkas” - SvD
+- Mest sålda flyget i historien - Dagens PS
 - ”Spelen uppvisar en romantiserad bild av krig” - DN
 - Interstellära besökaren en ”uråldrig tidskapsel” - Aftonbladet
 
@@ -43,10 +43,10 @@ _Updated: 2025-10-10 23:37_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
-- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Påven: En ny global utbildning för hopp i vår tid - Vatican News
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 
 ## Technology
 
@@ -61,15 +61,15 @@ _Updated: 2025-10-10 23:37_
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
-- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 
 ## Business
 
@@ -104,41 +104,41 @@ _Updated: 2025-10-10 23:37_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
+- Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Medtech Matchday visar potentialen med svensk medicinteknik - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 
 ## Jordbruk
 
