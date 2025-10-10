@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-10 20:47_
+_Updated: 2025-10-10 21:37_
 
 ## Top Stories
 
-- DN Direkt - Danmark satsar miljarder på att försvara Grönland - DN
-- Netanyahu: ”Gisslan återförs inom de kommande dagarna” – Senaste nytt om kriget i Gaza - SVT Nyheter
-- DN Debatt. ”Vi vill ha en regering – utan Sverigedemokraterna” - DN
+- DN Direkt - Mohamsson om SD-regering: Kommer inte ändra oss - DN
+- FN-källa: Mer nödhjälp in i Gaza på söndag - GP
+- Explosion i vapenfabrik – flera döda - Västerbottens-Kuriren
 - Nya uppgifter om listeriautbrottet på Coco & Carmen: Tre prover sticker ut - SVT Nyheter
-- Norska Nobelkommittén granskar misstänkt läcka - GP
-- Flera döda i explosion på vapenfabrik i USA - DN
-- Ökar bidraget till Nato: "Behövs på många platser” - GP
-- Alice Teodorescu Måwe kandiderar till riksdagen - DN
+- Tvååriga Hoor från Gaza har aldrig träffat sina föräldrar - DN
+- Ytterhögerledare avbryter kampanjande efter hot - SVT Nyheter
+- Hon får Nobels fredspris - Hufvudstadsbladet
+- Ökar bidraget till Nato: "Behövs på många platser” - Aftonbladet
 - Tomas Ramberg: Bortom valet hotar ett svart hål - DN
-- Lina Kalmteg om Nobelpristagaren i litteratur 2025: ”Väntat” - Sveriges Radio
-- Tusentals fördrivna palestinier återvänder till Gaza stad - DN
-- Nedstängning i USA: Massavskedanden har börjat - Västerbottens-Kuriren
+- Hovrätten friar man från inblandning i mordet på C.Gambino - SVT Nyheter
+- Israelisk militär: Vapenvila i Gaza – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Nedstängning i USA: Massavskedanden har börjat - Folkbladet
+- Stora störningar i Ukraina efter rysk attack - Västerbottens-Kuriren
 - Nya slaget mot svenska gängen - Expressen
-- Zelenskyjs larm: ”Skapar kaos” - Expressen
 - Experterna: Så påverkas ditt elpris i vinter - DN
-- Klarnas vd varnar för AI-chock - Di
-- ING spår ett guldpris på i snitt 4 150 dollar nästa år - Börsvärlden
-- Medvind för vinddrivna skepp - DN
+- Skogens skräp på väg att bli guld - DN
+- Trump hotar Kina med högre tullar – börserna faller - Di
+- Klarnas vd varnar för AI-chock - Aftonbladet
 - ”Spelen uppvisar en romantiserad bild av krig” - DN
-- Interstellära besökaren en ”uråldrig tidskapsel” - Aftonbladet
+- Kevin Costner ignorerade Steven Spielbergs råd – ledde till ett av filmhistoriens största fiaskon - MovieZine
 
 ## World News
 
-- S&P Global and CME Group Complete Sale of OSTTRA to KKR - Placera.se
 - Norden vill samla stark global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
+- S&P Global and CME Group Complete Sale of OSTTRA to KKR - Placera.se
 - UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
 - Lund University invests 85 million in international hiring drive - Lundagard.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Nearly Two-Thirds of Global Retailers Say Payment Method Flexibility Drives Revenue Growth, ACI Worldwide Survey Finds - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- New Secretary General appointed - Olof Palme International Center
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- ZTE accelerates global expansion by strategically focusing on gaming smartphones for youth markets - Placera.se
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Pi Network: Från en global sensation till en spökkedja för krypto - Invezz
+- Polymarket’s utveckling: Från DeFi-startup till ICE-stödd global plattform - Bitcoin.com News
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 
 ## Technology
 
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 
 ## Business
 
@@ -77,20 +77,17 @@ _Updated: 2025-10-10 20:47_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Student and entry-level programs - EY
 - JPMorgan Chase affärsmodell - Business Model Analyst
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Student and entry-level programs - EY
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Rapper Jay-Z to snap up Swedish music-streaming company - Sveriges Radio
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
 
@@ -121,24 +118,24 @@ _Updated: 2025-10-10 20:47_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
+- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 
 ## Jordbruk
 
