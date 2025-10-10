@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-11 00:39_
+_Updated: 2025-10-11 01:37_
 
 ## Top Stories
 
-- Fotboll: Sverige föll mot Schweiz i VM-kvalet efter omdiskuterad straff - SVT Nyheter
+- Uppgifter: Trump vill ha toppmöte i Egypten - GP
+- Gazabon Ali: Tack Trump – Senaste nytt om kriget i Gaza - SVT Nyheter
 - 2 000 mål i Ryssland inom räckhåll med Trumps robot - DN
-- En allvarligt skadad i trippelolycka på E22 - SVT Nyheter
-- Vapenvila i Gaza – gisslan släpps inom tre dygn - Västerbottens-Kuriren
 - Sann antikommunist värdig vinnare av Nobels fredspris - NT
-- Lecornu blir fransk premiärminister – igen - GP
+- En allvarligt skadad i trippelolycka på E22 - SVT Nyheter
+- DN Direkt - Lecornu blir Frankrikes premiärminister på nytt - DN
 - DN Direkt - Mohamsson om SD-regering: Kommer inte ändra oss - DN
 - Listeria hittat i 13 livsmedel på lyxkrogen - Västerbottens-Kuriren
 - Lina Kalmteg om Nobelpristagaren i litteratur 2025: ”Väntat” - Sveriges Radio
 - Svenskt bidrag till Natos avskräckning och försvar under 2026 - Regeringen.se
-- Gazabor vänder hemåt: ”Fyllda av sorg” - Västerbottens-Kuriren
-- Nedstängning i USA: Massavskedanden har börjat - GP
-- Tvååriga Hoor från Gaza har aldrig träffat sina föräldrar - DN
-- DN Direkt - Explosion på amerikansk vapenfabrik - DN
-- Trumps nya tullhot mot Kina: 100 procent till - DN
-- Siemiatkowskis varning om AI: ”Inte på rätt spår” - EFN
+- DN Direkt - Efter nedstängningen – personal sparkas i USA - DN
+- Gazabor vänder hemåt: ”Fyllda av sorg” - Folkbladet
+- Explosion i vapenfabrik – flera döda - GP
+- Barnmorska gav abortpiller till gravid som ville ha barn - Expressen
+- Trump hotar Kina med nya strafftullar på 100 procent - SVT Nyheter
 - Bitcoin slår nya rekord: ”Dollarn urholkas” - SvD
-- Mest sålda flyget i historien - Dagens PS
+- Stig Engström är Årets Företagare i Sverige 2025 - Företagarna
+- Siemiatkowskis varning om AI: ”Inte på rätt spår” - EFN
 - ”Spelen uppvisar en romantiserad bild av krig” - DN
 - Interstellära besökaren en ”uråldrig tidskapsel” - Aftonbladet
 
@@ -43,10 +43,10 @@ _Updated: 2025-10-11 00:39_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- Påven: En ny global utbildning för hopp i vår tid - Vatican News
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
 
 ## Technology
 
@@ -62,11 +62,11 @@ _Updated: 2025-10-11 00:39_
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- TriNet Announces Two Appointments to its Board of Directors - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
@@ -121,24 +121,24 @@ _Updated: 2025-10-11 00:39_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
-- Forskarskola: Relevancing Mathematics and Science Education - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
 
 ## Jordbruk
 
