@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-10 09:47_
+_Updated: 2025-10-10 10:53_
 
-- Israeli ministers approve Gaza ceasefire, but tougher talks loom - The Washington Post
-- Kamala Harris slams indictment of Letitia James during book tour event in DC - CNN
-- Who are the five Nobel Peace Prize judges deciding whether Trump gets it? - Al Jazeera
-- Courts split on National Guard: Blocked in Illinois, likely permitted in Oregon - Politico
+- Israeli Cabinet approves agreement to stop the war in Gaza - Axios
+- Justice Department indicts N.Y. attorney general - The Washington Post
+- Ten contenders for the Nobel Peace Prize who are not Donald Trump - France 24
+- Federal judge hits Trump administration credibility in siding with city and state against National Guard deployment - Chicago Sun-Times
+- Powerful 7.4-magnitude earthquake strikes off coast of Philippines, prompts tsunami warning - CBS News
 - How Trump secured a Gaza breakthrough which eluded Biden - BBC
-- Powerful 7.4 magnitude earthquake strikes off southern Philippines, tsunami warnings issued - Reuters
 - What to know about Texas court's decision to pause Roberson's execution in shaken baby case - AP News
-- Abigail Spanberger and Winsome Earle-Sears clash over Jay Jones' violent texts in lone Virginia governor's debate - NBC News
-- Senate still deadlocked over shutdown as Trump reiterates threat to Democrats - The Guardian
-- Katie Porter camp rallies allies to her defense - Politico
-- Peru's president removed by Congress, legislature chief sworn in - Reuters
+- Takeaways from the only debate in the Virginia governor’s race - CNN
+- Trump Is Using the Shutdown to Supercharge His War on Equity - Rolling Stone
+- US could fire air traffic controllers who fail to work as delays continue - Reuters
+- Peru Congress ousts president, successor vows 'war on crime' - Reuters
 - Team of 200 American troops to ‘oversee’ Israel-Hamas ceasefire — US officials - The Times of Israel
-- Ukraine says ‘massive’ Russian attack underway targeting energy infrastructure - CNN
-- Trump’s trade war has India hugging Britain close - politico.eu
-- Asian stocks choppy as commodities catch breath after rally, yen in focus - Reuters
+- Ukraine says ‘massive’ Russian attack targets energy infrastructure - CNN
+- IDF carries out airstrike in Gaza City as cabinet meets to approve ceasefire deal - The Times of Israel
+- Japan, China markets dent Asia as economic, political uncertainty drag - Reuters
 - Here’s what the OpenAI-AMD deal says about Nvidia - MarketWatch
 - Trump tariffs: Swiss companies target alternative export markets - BBC
-- Day 3 of Amazon October Prime Day is ending soon — 50 best last-minute deals up to 69% off: Save on iPads, headphones and more - Yahoo Lifestyle Canada
+- A.I. Slop Is Here - The New York Times
 - Intel unveils new processor powered by its 18A semiconductor tech - TechCrunch
-- Get the AirPods 4 for $89, iPad for $279, and More Before Prime Day Ends Today - MacRumors
+- This $89 Apple AirPods 4 deal is still live after Prime Day - Engadget
