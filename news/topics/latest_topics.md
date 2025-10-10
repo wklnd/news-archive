@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-10 17:39_
+_Updated: 2025-10-10 18:45_
 
 ## Top Stories
 
-- DN Direkt - Två rätter innehöll 30 gånger så mycket listeria som är tillåtet - DN
-- Beskedet: L kommer inte släppa fram en regering med SD-ministrar - SVT Nyheter
+- Trump hotar Kina med högre tullar – börserna faller - Di
 - Vapenvila i Gaza – gisslan släpps inom tre dygn - GP
-- Fredspristagaren: Vi räknar med Trump - GP
-- Lägesrapport i ärende om skjutning i Gävle - Åklagarmyndigheten
+- Beskedet: L kommer inte släppa fram en regering med SD-ministrar - SVT Nyheter
+- DN Direkt - Inga nya bekräftade fall av listeria i Stockholm - DN
+- Nya slaget mot svenska gängen - Expressen
 - Polisstudent misstänkt för över 50 våldtäkter - Västerbottens-Kuriren
-- Svensk gripen i Nederländerna - polisen.se
+- Hon får Nobels fredspris - Hufvudstadsbladet
+- Ökar bidraget till Nato: "Behövs på många platser” - GP
 - Alice Teodorescu Måwe kandiderar till riksdagen - DN
-- Svenskt bidrag till Natos avskräckning och försvar under 2026 - Regeringen.se
-- Tomas Ramberg: Bortom valet hotar ett svart hål - DN
+- Svensk gripen i Nederländerna - polisen.se
 - Tusentals fördrivna palestinier återvänder till Gaza stad - DN
 - Nato kan ta till vapen mot Ryssland - Dagens PS
-- Trump favorit i vadslagningen om fredspris - DN
-- Nya slaget mot svenska gängen - Expressen
+- Zelenskyjs larm: ”Skapar kaos” - Expressen
+- “Oerhört osannolikt att Trump får Nobels fredspris” - Dagens Arena
 - Klarnas vd varnar för AI-chock - Di
-- FASTIGHETSAKTIER UPP ÖVER HELA LINJEN, OMXS30 +0,3% - Placera.se
+- Bank och fastigheter draglok – Mycronic rasar - Di
 - Cheffelo publicerar trading update för Q3 2025 (MFN) - Aktiellt
-- Ätbart skydd på gurkan kan ersätta plasten - DN
-- Battlefield hyllas: ”Kan inte förneka hur roligt det är” - Omni
-- Ale Disc Golf Center lyser upp hösten med unik glowbana - Alekuriren
+- Medvind för vinddrivna skepp - DN
+- ”Spelen uppvisar en romantiserad bild av krig” - DN
+- Interstellära besökaren en ”uråldrig tidskapsel” - Aftonbladet
 
 ## World News
 
 - S&P Global and CME Group Complete Sale of OSTTRA to KKR - Placera.se
-- Norden vill samla bred global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
+- Norden vill samla stark global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
+- UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
 - Lund University invests 85 million in international hiring drive - Lundagard.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Kimberly-Clark Launches Enhanced Global Partnerships to Advance Essential Care for 24 Million Women and Girls - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- 🌏 Global ojämlikhet minskar faktiskt - Warp News
-- Oracle Named a Leader in IDC MarketScape for Worldwide Corporate Loan Lifecycle Management - Placera.se
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Pi Network: Från en global sensation till en spökkedja för krypto - Invezz
+- Polymarket’s utveckling: Från DeFi-startup till ICE-stödd global plattform - Bitcoin.com News
+- Omdia: Global PC market grew 7% in Q3 2025 as Windows 10 end-of-service deadline nears - Placera.se
 
 ## Technology
 
@@ -103,7 +103,6 @@ _Updated: 2025-10-10 17:39_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
@@ -116,6 +115,7 @@ _Updated: 2025-10-10 17:39_
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Medtech Matchday visar potentialen med svensk medicinteknik - it-halsa.se
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-10 17:39_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
