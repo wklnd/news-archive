@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-10 19:39_
+_Updated: 2025-10-10 20:47_
 
 ## Top Stories
 
-- Flera döda i explosion på vapenfabrik i USA - DN
-- Netanyahu: ”Gisslan återförs inom de kommande dagarna” – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Beskedet: L kommer inte släppa fram en regering med SD-ministrar - SVT Nyheter
-- Nya uppgifter om listeriautbrottet på Coco & Carmen: Tre prover sticker ut - SVT Nyheter
-- Utredningen efter skotten i Gävle växer – man häktas - Aftonbladet
-- C.Gambino mördades – då firade gänget Södra Biskop - GP
-- Maria Corina Machado tilldelas Nobels fredspris 2025 - SVT Nyheter
-- Ökar bidraget till Nato: "Behövs på många platser” - GP
-- Lina Kalmteg om Nobelpristagaren i litteratur 2025: ”Väntat” - Sveriges Radio
-- Tomas Ramberg: Bortom valet hotar ett svart hål - DN
-- Tusentals fördrivna palestinier återvänder till Gaza stad - DN
 - DN Direkt - Danmark satsar miljarder på att försvara Grönland - DN
-- Källor: Samtal om militärt svar på ryska kränkningar - Omni
+- Netanyahu: ”Gisslan återförs inom de kommande dagarna” – Senaste nytt om kriget i Gaza - SVT Nyheter
+- DN Debatt. ”Vi vill ha en regering – utan Sverigedemokraterna” - DN
+- Nya uppgifter om listeriautbrottet på Coco & Carmen: Tre prover sticker ut - SVT Nyheter
+- Norska Nobelkommittén granskar misstänkt läcka - GP
+- Flera döda i explosion på vapenfabrik i USA - DN
+- Ökar bidraget till Nato: "Behövs på många platser” - GP
+- Alice Teodorescu Måwe kandiderar till riksdagen - DN
+- Tomas Ramberg: Bortom valet hotar ett svart hål - DN
+- Lina Kalmteg om Nobelpristagaren i litteratur 2025: ”Väntat” - Sveriges Radio
+- Tusentals fördrivna palestinier återvänder till Gaza stad - DN
+- Nedstängning i USA: Massavskedanden har börjat - Västerbottens-Kuriren
 - Nya slaget mot svenska gängen - Expressen
+- Zelenskyjs larm: ”Skapar kaos” - Expressen
+- Experterna: Så påverkas ditt elpris i vinter - DN
 - Klarnas vd varnar för AI-chock - Di
+- ING spår ett guldpris på i snitt 4 150 dollar nästa år - Börsvärlden
 - Medvind för vinddrivna skepp - DN
-- Munter fredagshandel – gödselbolag rasar - Omni
-- Trump hotar Kina med nya ”massiva” tullar - SvD
 - ”Spelen uppvisar en romantiserad bild av krig” - DN
 - Interstellära besökaren en ”uråldrig tidskapsel” - Aftonbladet
 
@@ -31,45 +31,45 @@ _Updated: 2025-10-10 19:39_
 - Norden vill samla stark global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
 - UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
 - Lund University invests 85 million in international hiring drive - Lundagard.se
-- Volkswagen Group increases global deliveries to 6.6 million vehicles by the end of September - Volkswagen Group
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Kimberly-Clark Launches Enhanced Global Partnerships to Advance Essential Care for 24 Million Women and Girls - Placera.se
+- Nearly Two-Thirds of Global Retailers Say Payment Method Flexibility Drives Revenue Growth, ACI Worldwide Survey Finds - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- New Secretary General appointed - Olof Palme International Center
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Omdia: Global PC market grew 7% in Q3 2025 as Windows 10 end-of-service deadline nears - Placera.se
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- ZTE accelerates global expansion by strategically focusing on gaming smartphones for youth markets - Placera.se
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 
 ## Business
 
@@ -107,6 +107,7 @@ _Updated: 2025-10-10 19:39_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
@@ -115,7 +116,6 @@ _Updated: 2025-10-10 19:39_
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Medtech Matchday visar potentialen med svensk medicinteknik - it-halsa.se
 
 ## Science
 
@@ -124,21 +124,21 @@ _Updated: 2025-10-10 19:39_
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
