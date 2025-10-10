@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-10 09:39_
+_Updated: 2025-10-10 10:47_
 
 ## Top Stories
 
-- Liberalerna splittrade om SD – nu tas beslut - Västerbottens-Kuriren
+- Israel har godkänt planen för vapenvila i Gaza - Hufvudstadsbladet
 - Trump favorit i vadslagningen om fredspris - DN
-- Israel har godkänt första fasen – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Man skjuten vid nattklubb på Stureplan - Aftonbladet
-- SJ slutar köra nattåg till Berlin - GP
-- Skola i Eringsboda håller stängt – tak har rasat in - SVT Nyheter
-- Så kan unga bli förlorare med nya a-kassan: ”Olyckligt” - Arbetet
-- Beroende ökar risken för suicidförsök – Zarah Nilzon berättar om vägen tillbaka - DN
+- Inför ödesbeslutet: Uppsalas Liberaler har bestämt sig - UNT
+- Grov misshandel i Norrköping – kvinna allvarligt skadad - SVT Nyheter
+- Man skjuten vid klubb på Stureplan - SvD
+- Regeringen satsar över fem miljarder på antidrönarförmåga och Gripen - Evertiq
+- Skoltak rasade in – se kaoset i klassrummet - SVT Nyheter
 - Efter avtalet: Hopp om minskat judehat i Sverige - Västerbottens-Kuriren
-- 10 oktober 07.00, Sammanfattning kväll och natt, Hallands län - polisen.se
-- JUST NU: Massiv attack: ”Kaos” - Expressen
+- Uppdrag till Trafikverket att utreda det statliga åtagandet för trafik med nattåg - Regeringen.se
+- Så kan unga bli förlorare med nya a-kassan: ”Olyckligt” - Arbetet
+- Zelenskyjs larm: ”Skapar kaos” - Expressen
+- Kraftig jordbävning i Filippinerna – två döda - Aftonbladet
 - Stubb bryter isen med Trump - Aftonbladet
 - Uppgifter: Ryanair-plan var ”sex minuter från katastrof” - Expressen
-- Terrorligans mål: Döda politiker i drönarattacker - Aftonbladet
-- Ray Dalio: USA på väg mot ”något slags” inbördeskrig - Omni
-- Köpenhamns invånare ska panta pappersmuggar - Aftonbladet
+- Investerare: USA på väg mot ”något slags” inbördeskrig - Omni
+- Köpenhamns invånare ska panta pappersmuggar - Hufvudstadsbladet
+- Svensk ekonomi hämtar sig "snabbare än förväntat” - SvD
 - Ekonom: Nu lyfter konsumtionen – om inte Putin ställer till jävelskap - Placera.se
-- Redarmagnaten har köpt in sig i nynoterade nischbanken - Di
 - Kaotiskt och beroendeframkallande – så bra är nya Battlefield 6 - Expressen
-- Experten: Så blir du starkare – i fem enkla steg - Cafe.se
+- Microsoft lägger till nygammal textredigerare i Windows 11 - PC för Alla
 
 ## World News
 
 - Norden vill samla bred global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
 - Kimberly-Clark Launches Enhanced Global Partnerships to Advance Essential Care for 24 Million Women and Girls - Placera.se
-- UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
 - Lund University invests 85 million in international hiring drive - Lundagard.se
+- UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
 - Nearly Two-Thirds of Global Retailers Say Payment Method Flexibility Drives Revenue Growth, ACI Worldwide Survey Finds - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Ex-nyhetsankare på BBC hade barnpornografi - Omni
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - ZTE accelerates global expansion by strategically focusing on gaming smartphones for youth markets - Placera.se
 - Greater Than Announces that Partner FIA has Launched the New Driver Safety Index, Establishing a Global Benchmark for Driver Risk - Placera.se
-- CHiQ Strengthens Global Sports Engagement with FIS Ski Jumping World Cup Partnership - Placera.se
+- Oracle Named a Leader in IDC MarketScape for Worldwide Corporate Loan Lifecycle Management - Placera.se
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 
 ## Technology
 
@@ -63,13 +63,13 @@ _Updated: 2025-10-10 09:39_
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - TriNet Announces Two Appointments to its Board of Directors - Placera.se
-- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 
 ## Business
 
@@ -83,6 +83,7 @@ _Updated: 2025-10-10 09:39_
 - Student and entry-level programs - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Rapper Jay-Z to snap up Swedish music-streaming company - Sveriges Radio
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
@@ -90,7 +91,6 @@ _Updated: 2025-10-10 09:39_
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
 
@@ -121,24 +121,24 @@ _Updated: 2025-10-10 09:39_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
