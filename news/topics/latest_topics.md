@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-10 21:37_
+_Updated: 2025-10-10 22:40_
 
 ## Top Stories
 
-- DN Direkt - Mohamsson om SD-regering: Kommer inte ändra oss - DN
-- FN-källa: Mer nödhjälp in i Gaza på söndag - GP
-- Explosion i vapenfabrik – flera döda - Västerbottens-Kuriren
-- Nya uppgifter om listeriautbrottet på Coco & Carmen: Tre prover sticker ut - SVT Nyheter
+- Följ Sveriges VM-kval mot Schweiz här – så går det - GP
+- Vapenvila i Gaza – gisslan släpps inom tre dygn - Västerbottens-Kuriren
+- En allvarligt skadad i trippelolycka på E22 - SVT Nyheter
+- Sanna Torén Björling: Putin måste trappa upp kriget innan pengarna tar slut - DN
+- 2 000 mål i Ryssland inom räckhåll med Trumps robot - DN
 - Tvååriga Hoor från Gaza har aldrig träffat sina föräldrar - DN
-- Ytterhögerledare avbryter kampanjande efter hot - SVT Nyheter
-- Hon får Nobels fredspris - Hufvudstadsbladet
-- Ökar bidraget till Nato: "Behövs på många platser” - Aftonbladet
-- Tomas Ramberg: Bortom valet hotar ett svart hål - DN
-- Hovrätten friar man från inblandning i mordet på C.Gambino - SVT Nyheter
+- Beskedet: L kommer inte släppa fram en regering med SD-ministrar - SVT Nyheter
+- Michael Winiarski: En örfil mot den ratade Trump - DN
+- Nya uppgifter om listeriautbrottet på Coco & Carmen: Tre prover sticker ut - SVT Nyheter
+- Ökar bidraget till Nato: "Behövs på många platser” - GP
+- 19 saknas efter explosion på vapenfabrik i USA - DN
 - Israelisk militär: Vapenvila i Gaza – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Nedstängning i USA: Massavskedanden har börjat - Folkbladet
-- Stora störningar i Ukraina efter rysk attack - Västerbottens-Kuriren
 - Nya slaget mot svenska gängen - Expressen
+- Inget mått i världen kan ge Trump Nobels fredspris - Arbetet
 - Experterna: Så påverkas ditt elpris i vinter - DN
 - Skogens skräp på väg att bli guld - DN
 - Trump hotar Kina med högre tullar – börserna faller - Di
-- Klarnas vd varnar för AI-chock - Aftonbladet
+- Mest sålda flyget i historien - Dagens PS
 - ”Spelen uppvisar en romantiserad bild av krig” - DN
-- Kevin Costner ignorerade Steven Spielbergs råd – ledde till ett av filmhistoriens största fiaskon - MovieZine
+- Interstellära besökaren en ”uråldrig tidskapsel” - Aftonbladet
 
 ## World News
 
@@ -31,45 +31,45 @@ _Updated: 2025-10-10 21:37_
 - S&P Global and CME Group Complete Sale of OSTTRA to KKR - Placera.se
 - UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
 - Lund University invests 85 million in international hiring drive - Lundagard.se
+- Volkswagen Group increases global deliveries to 6.6 million vehicles by the end of September - Volkswagen Group
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Kimberly-Clark Launches Enhanced Global Partnerships to Advance Essential Care for 24 Million Women and Girls - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- New Secretary General appointed - Olof Palme International Center
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Pi Network: Från en global sensation till en spökkedja för krypto - Invezz
-- Polymarket’s utveckling: Från DeFi-startup till ICE-stödd global plattform - Bitcoin.com News
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- Oracle Named a Leader in IDC MarketScape for Worldwide Corporate Loan Lifecycle Management - Placera.se
 
 ## Technology
 
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
-- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
 
 ## Business
 
@@ -80,11 +80,13 @@ _Updated: 2025-10-10 21:37_
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - JPMorgan Chase affärsmodell - Business Model Analyst
 - Student and entry-level programs - EY
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rapper Jay-Z to snap up Swedish music-streaming company - Sveriges Radio
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
@@ -142,7 +144,6 @@ _Updated: 2025-10-10 21:37_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
@@ -150,12 +151,13 @@ _Updated: 2025-10-10 21:37_
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Maskinförare | Jobb | ATL - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
+- Unga lantbrukare får ingen chans - Land Lantbruk
 - Macron miljardsatsar på franskt jordbruk - Land Lantbruk
