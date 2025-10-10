@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-10 10:53_
+_Updated: 2025-10-10 11:48_
 
 - Israeli Cabinet approves agreement to stop the war in Gaza - Axios
-- Justice Department indicts N.Y. attorney general - The Washington Post
-- Ten contenders for the Nobel Peace Prize who are not Donald Trump - France 24
-- Federal judge hits Trump administration credibility in siding with city and state against National Guard deployment - Chicago Sun-Times
-- Powerful 7.4-magnitude earthquake strikes off coast of Philippines, prompts tsunami warning - CBS News
+- Letitia James pursued Trump. Then she was indicted. - Politico
+- Complete list of Nobel Peace Prize winners (1901–2024) - Al Jazeera
+- Trump Has His Eyes on a Nobel Peace Prize. Will He Get It? - The New York Times
+- Judge blocks Trump from deploying troops in Illinois for now - The Washington Post
 - How Trump secured a Gaza breakthrough which eluded Biden - BBC
-- What to know about Texas court's decision to pause Roberson's execution in shaken baby case - AP News
-- Takeaways from the only debate in the Virginia governor’s race - CNN
-- Trump Is Using the Shutdown to Supercharge His War on Equity - Rolling Stone
+- Senate still deadlocked over shutdown as Trump reiterates threat to Democrats - The Guardian
+- Spanberger and Earle-Sears tussle over violent political rhetoric in only debate - Politico
 - US could fire air traffic controllers who fail to work as delays continue - Reuters
-- Peru Congress ousts president, successor vows 'war on crime' - Reuters
+- US buys Argentine pesos, finalizes $20 billion currency swap - AP News
+- Powerful earthquake off southern Philippines kills 2 people, causes damages and tsunami evacuations - AP News
+- Peru's Congress removes President Boluarte as a crime wave grips the country - NPR
 - Team of 200 American troops to ‘oversee’ Israel-Hamas ceasefire — US officials - The Times of Israel
 - Ukraine says ‘massive’ Russian attack targets energy infrastructure - CNN
-- IDF carries out airstrike in Gaza City as cabinet meets to approve ceasefire deal - The Times of Israel
 - Japan, China markets dent Asia as economic, political uncertainty drag - Reuters
 - Here’s what the OpenAI-AMD deal says about Nvidia - MarketWatch
+- 22 State Economies Are In or Near Recession, Alarming Report Finds - Realtor.com
 - Trump tariffs: Swiss companies target alternative export markets - BBC
-- A.I. Slop Is Here - The New York Times
-- Intel unveils new processor powered by its 18A semiconductor tech - TechCrunch
-- This $89 Apple AirPods 4 deal is still live after Prime Day - Engadget
+- The final details of Samsung's Android XR headset have been all but confirmed - Engadget
+- The Vision Pro is getting its first live ‘immersive’ sports - The Verge
