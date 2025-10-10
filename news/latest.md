@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-10 15:49_
+_Updated: 2025-10-10 16:49_
 
-- Live updates: Gaza ceasefire in effect, Israel says, as hostage release countdown begins - CBS News
+- Live updates: Israel says ceasefire in effect as troops withdraw from parts of Gaza - CNN
 - Venezuela’s opposition leader María Corina Machado wins 2025 Nobel Peace Prize - NPR
 - Letitia James pursued Trump. Then she was indicted. - Politico
-- Trump boosts Argentina's Milei with $20 billion lifeline as US buys pesos - Reuters
-- US to send 200 troops to Israel to monitor Gaza ceasefire - BBC
-- Judge blocks Trump from deploying troops in Illinois for now - The Washington Post
-- Capitol agenda: No deal as the shutdown marches toward Week Three - Politico
-- FACT FOCUS: Trump paints a grim portrait of Portland. The story on the ground is much less extreme - AP News
-- Attorneys for Kilmar Abrego Garcia return to court as his deportation saga continues - ABC News - Breaking News, Latest News and Videos
-- Spanberger, Earle-Sears clash over violence, abortion, and taxes in lone Va. governor’s debate - Virginia Mercury
+- Federal Judge Temporarily Blocks Trump’s National Guard Deployment in Chicago Area - The New York Times
+- Timely troop pay is now in Trump’s hands - Politico
 - 7.4-magnitude earthquake strikes offshore from southern Philippines and may cause tsunami - ABC News - Breaking News, Latest News and Videos
-- Here are the "8 wars" Trump says he deserves a Nobel Prize for ending - Axios
-- Peru’s Congress removes President Boluarte as a crime wave grips the country - AP News
-- Keir Starmer praises Donald Trump over role in Gaza ceasefire deal - BBC
+- FACT FOCUS: Trump paints a grim portrait of Portland. The story on the ground is much less extreme - AP News
+- Indiana executes killer, rapist of 15-year-old girl, its third execution since resuming them last year - CBS News
+- Fact-checking New Jersey’s second gubernatorial debate - New Jersey Globe
+- China hits back at US ships with additional port fees - Reuters
+- Peru's Congress removes President Boluarte as a crime wave grips the country - NPR
+- Pope Leo invokes criticism of Trump's policies in first major document - Reuters
+- Tribunal hearings for Gaza flotilla activists begin - The Jerusalem Post
+- Man who appealed Pelicot rape conviction handed longer jail term - BBC
+- China launches customs crackdown on Nvidia AI chips - Financial Times
 - Google may be forced to make changes to search engine in UK - BBC
 - Ray Dalio says the U.S. is headed for civil war, with either side exerting ‘tests of power’ on their rivals - Fortune
-- 1 Unstoppable Semiconductor Stock to Buy Instead of AMD - The Motley Fool
-- Stocks tick higher, S&P 500 and Nasdaq head for weekly gains: Live updates - CNBC
-- Google thinks the Pixel 10 Pro Fold is a big leap thanks to gearless hinge - 9to5Google
-- Selling $50 Million Penthouses With a Little Help From AI - The Wall Street Journal
+- Stock Market Today: Dow Edges Higher; Consumer-Sentiment Steady; Gold Prices Rise — Live Updates - The Wall Street Journal
+- This $89 Apple AirPods 4 deal is still live after Prime Day - Engadget
+- Google Explains Gearless Hinge System on Pixel 10 Pro Fold - Droid Life
