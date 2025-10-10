@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-10 23:48_
+_Updated: 2025-10-11 00:48_
 
-- White House Signals Federal Layoffs Have Begun During Government Shutdown - The New York Times
-- 19 people dead or missing after massive blast at Tennessee military explosive plant, officials say - CNN
-- Thousands of Palestinians return to what’s left of their homes as Gaza ceasefire takes effect - AP News
+- Trump administration begins laying off federal workers amid shutdown - The Washington Post
+- 19 Missing in Deadly Blast at Tennessee Explosives Plant - The Wall Street Journal
+- Gaza ceasefire live updates: Israeli hostage release countdown begins as Palestinians return to Gaza's north - CBS News
+- Letitia James’ indictment puts Andrew Cuomo in a bind - Politico
 - White House blasts Nobel Committee for not awarding Peace Prize to Trump - BBC
-- Pam Bondi, DOJ officials caught off guard by Tish James indictment: Sources - ABC News - Breaking News, Latest News and Videos
-- Macron reappoints Lecornu as French PM after days of turmoil - BBC
-- Reporting in 'war-torn' Chicago, Gov. Pritzker mocks Trump's 'hellhole' narrative on Jimmy Kimmel - Chicago Sun-Times
-- MIT president says she 'cannot support' proposal to adopt Trump priorities for funding benefits - AP News
-- Governor Newsom builds on this year’s historic housing reforms, signs legislation to accelerate housing and affordability - CA.gov
-- Flight delays persist at major U.S. airports as government shutdown continues - CBS News
-- Melania Trump reveals she's worked with Putin for months to reunite Ukrainian children with families - CBS News
-- Kyiv Plunged Into Darkness, Child Killed as Russia’s Missiles Pound Ukraine’s Energy Grid - Kyiv Post
+- Melania Trump says she and Putin communicating about children affected by war - ABC News - Breaking News, Latest News and Videos
+- Airlines tell passengers to prepare for delays as government shutdown continues - CNBC
+- MIT rejects Trump administration deal for priority federal funding - The Washington Post
+- What Courts Have Said in Challenges to Trump’s National Guard Deployments - The New York Times
+- The Official Website of Governor Phil Murphy - NJ.gov
+- Macron Reappoints Sébastien Lecornu as France’s Prime Minister - The New York Times
 - Powerful 7.4-magnitude earthquake rocks southern Philippines - The Washington Post
-- Denmark to Spend $8.5 Billion on Weapons in Message to Trump - The Wall Street Journal
-- Trump hits China with retaliatory tariffs in trade war escalation - Reuters
-- Trump reaches deal with AstraZeneca to lower U.S. drug prices, MSNBC reports - CNBC
+- Live updates: Israel says ceasefire in effect as troops withdraw from parts of Gaza - CNN
+- Hillary Clinton and Condoleezza Rice commend Trump on Israel-Hamas peace deal, discuss path forward - CBS News
+- Trump announces new 100 percent tariffs on China, may cancel Xi meeting - The Washington Post
+- Trump to announce US drug pricing deal at White House, MSNBC says it is with AstraZeneca - Reuters
 - Billions of Dollars ‘Vanished’: Low-Profile Bankruptcy Rings Alarms on Wall Street - The New York Times
-- Nvidia Has A Problem In China. Meet The Chipmakers Vying To Replace The AI Titan In A Key Market. - Investor's Business Daily
-- Spyware maker NSO Group confirms acquisition by US investors - TechCrunch
+- How OpenAI put itself at the centre of a $1tn network of deals - Financial Times
+- Copilot on Windows can now create Office documents and connect to Gmail - The Verge
 - Here's our first look at the upcoming Galaxy Buds 4 and its new design - Android Authority
