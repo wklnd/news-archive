@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-10 13:37_
+_Updated: 2025-10-10 15:03_
 
 ## Top Stories
 
-- Israelisk militär: Vapenvila i Gaza – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Åkesson: Måste ändra sig – annars väntar nyval - SVT Nyheter
-- Nobelpris till venezuelansk kamp för demokrati - DN
-- Vakt skjuten vid krog - 8 Sidor
-- C.Gambino mördades – då firade gänget Södra Biskop - GP
-- Lägesrapport i ärende om skjutning i Gävle - Åklagarmyndigheten
-- Svenskt bidrag till Natos avskräckning och försvar under 2026 - Regeringen.se
+- Polisstudent misstänkt för över 50 våldtäkter - Aftonbladet
+- Beskedet: L kommer inte släppa fram en regering med SD-ministrar - SVT Nyheter
+- Forskarna: ”Trumps avtal är inget fredsavtal” - DN
+- Utrikesministern om pristagaren: Modig kvinna - Västerbottens-Kuriren
+- Tomas Ramberg: Bortom valet hotar ett svart hål - DN
+- Inget mått i världen kan ge Trump Nobels fredspris - Arbetet
+- Dömd för inblandning i mord på C Gambino frias - DN
+- Svensk gripen i Nederländerna - polisen.se
 - Skoltak rasade in – se kaoset i klassrummet - SVT Nyheter
-- SJ slutar köra nattåg till Berlin - SVT Nyheter
-- Pedofiljägare smygfilmade nakna barn - ETC.se
-- Zelenskyjs larm: ”Skapar kaos” - Expressen
-- “Oerhört osannolikt att Trump får Nobels fredspris” - Dagens Arena
-- Ny gränskontroll – ansiktsfoto och fingeravtryck - Expressen
+- Svenskt bidrag till Natos avskräckning och försvar under 2026 - Regeringen.se
+- Lastbil brinner – E4 stängd norr om Stockholm - Expressen
+- Ukrainare beordras lämna ryskbombade orter - Aftonbladet
+- Stubb bryter isen med Trump - Aftonbladet
 - Kraftig jordbävning i Filippinerna – flera döda - Aftonbladet
 - Klarnas vd varnar för AI-chock - Di
 - Svagt uppåt på Stockholmsbörsen - Aftonbladet
 - Ätbart skydd på gurkan kan ersätta plasten - DN
-- Frankrike lanserar croissant-doftande frimärken - HD
+- Second hand boomar – triggar mer konsumtion - SvD
 - Kaotiskt och beroendeframkallande – så bra är nya Battlefield 6 - Expressen
-- Inget snack – Bromley 750 är årets coolaste högtalare!s - m3.se
+- Google Översätt-appen kommer snart göra översättningarna mer tydliga - m3.se
 
 ## World News
 
+- S&P Global and CME Group Complete Sale of OSTTRA to KKR - Placera.se
 - Norden vill samla bred global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
-- Kimberly-Clark Launches Enhanced Global Partnerships to Advance Essential Care for 24 Million Women and Girls - Placera.se
-- UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
 - Lund University invests 85 million in international hiring drive - Lundagard.se
+- UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Kimberly-Clark Launches Enhanced Global Partnerships to Advance Essential Care for 24 Million Women and Girls - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- 🌏 Global ojämlikhet minskar faktiskt - Warp News
 - ZTE accelerates global expansion by strategically focusing on gaming smartphones for youth markets - Placera.se
-- Omdia: Global PC market grew 7% in Q3 2025 as Windows 10 end-of-service deadline nears - Placera.se
 - Oracle Named a Leader in IDC MarketScape for Worldwide Corporate Loan Lifecycle Management - Placera.se
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 
@@ -63,13 +63,13 @@ _Updated: 2025-10-10 13:37_
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
-- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 
 ## Business
 
@@ -105,15 +105,15 @@ _Updated: 2025-10-10 13:37_
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Johan von Schreeb - Karolinska Institutet
+- Tema: AI inom medicin och hälsa - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Medtech Matchday visar potentialen med svensk medicinteknik - it-halsa.se
 
 ## Science
