@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-10 10:47_
+_Updated: 2025-10-10 11:40_
 
 ## Top Stories
 
-- Israel har godkänt planen för vapenvila i Gaza - Hufvudstadsbladet
-- Trump favorit i vadslagningen om fredspris - DN
-- Inför ödesbeslutet: Uppsalas Liberaler har bestämt sig - UNT
-- Grov misshandel i Norrköping – kvinna allvarligt skadad - SVT Nyheter
+- Nobelpris till venezuelansk kamp för demokrati - DN
+- Uppgifter: L kommer inte släppa fram en regering med SD-ministrar - SVT Nyheter
+- Ny dom för mordet på artisten C. Gambino - Aftonbladet
+- Gisslan ska släppas: ”Inga detaljer om hur” – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Inget mått i världen kan ge Trump Nobels fredspris - Arbetet
 - Man skjuten vid klubb på Stureplan - SvD
-- Regeringen satsar över fem miljarder på antidrönarförmåga och Gripen - Evertiq
 - Skoltak rasade in – se kaoset i klassrummet - SVT Nyheter
-- Efter avtalet: Hopp om minskat judehat i Sverige - Västerbottens-Kuriren
-- Uppdrag till Trafikverket att utreda det statliga åtagandet för trafik med nattåg - Regeringen.se
-- Så kan unga bli förlorare med nya a-kassan: ”Olyckligt” - Arbetet
-- Zelenskyjs larm: ”Skapar kaos” - Expressen
+- HD prövar inte dom mot Nytorgsmannen - Aftonbladet
+- Landsbygdsminister Peter Kullgren och minister för civilt försvar Carl-Oskar Bohlin deltar vid pressträff om beredskapslager - Regeringen.se
+- Efter avtalet: Hopp om minskat judehat i Sverige - GP
+- Omfattande rysk attack mot Kiev - DN
 - Kraftig jordbävning i Filippinerna – två döda - Aftonbladet
-- Stubb bryter isen med Trump - Aftonbladet
+- Trumps löfte till Finland: ”Kraftfullt” försvar vid rysk attack - Expressen
 - Uppgifter: Ryanair-plan var ”sex minuter från katastrof” - Expressen
+- FASTIGHETSAKTIER UPP ÖVER HELA LINJEN, OMXS30 +0,3% - Placera.se
 - Investerare: USA på väg mot ”något slags” inbördeskrig - Omni
 - Köpenhamns invånare ska panta pappersmuggar - Hufvudstadsbladet
-- Svensk ekonomi hämtar sig "snabbare än förväntat” - SvD
-- Ekonom: Nu lyfter konsumtionen – om inte Putin ställer till jävelskap - Placera.se
+- Mangolds resultat för det tredje kvartalet förväntas överstiga 20 mkr efter skatt - Cision News
 - Kaotiskt och beroendeframkallande – så bra är nya Battlefield 6 - Expressen
 - Microsoft lägger till nygammal textredigerare i Windows 11 - PC för Alla
 
@@ -42,11 +42,11 @@ _Updated: 2025-10-10 10:47_
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - ZTE accelerates global expansion by strategically focusing on gaming smartphones for youth markets - Placera.se
 - Greater Than Announces that Partner FIA has Launched the New Driver Safety Index, Establishing a Global Benchmark for Driver Risk - Placera.se
+- Omdia: Global PC market grew 7% in Q3 2025 as Windows 10 end-of-service deadline nears - Placera.se
 - Oracle Named a Leader in IDC MarketScape for Worldwide Corporate Loan Lifecycle Management - Placera.se
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 
 ## Technology
 
@@ -63,13 +63,13 @@ _Updated: 2025-10-10 10:47_
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - TriNet Announces Two Appointments to its Board of Directors - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 
 ## Business
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-10 10:47_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
