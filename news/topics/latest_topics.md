@@ -1,34 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-10 01:38_
+_Updated: 2025-10-10 04:10_
 
 ## Top Stories
 
-- Vapenvilan i Gaza: “Stora risker om USA:s intresse svalnar” - Dagens Arena
-- Michael Winiarski: Trump kan få fredspriset – men hinner han det i år? - DN
+- Israel har godkänt första fasen – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Skottlossning på Stureplan – en skadad - SVT Nyheter
+- Michael Winiarski: Trump kan få fredspriset – men hinner han det i år? - DN
+- Terrorligans mål: Döda politiker i drönarattacker - Aftonbladet
+- Åklagare som angrep Trump anklagas för brott - Västerbottens-Kuriren
 - László Krasznahorkai är årets Nobelpristagare i litteratur: ”Väldigt glad” - Kulturnytt - Sveriges Radio
-- 09 oktober 19.30, Misshandel, grov, Falköping - polisen.se
-- Polis till sjukhus – olycka i ökänd Luleåkorsning - Kuriren
-- Dags att dumpa alla menlösa liberaler, Magdalena Andersson - Arbetet
 - Våldsutövare - Socialstyrelsen
 - Körde 74 kilometer i timmen på 40-sträcka – fastnade i kontroll - Norran
-- Misstänkt farligt föremål i Borås - Expressen
-- Ukrainare beordras lämna ryskbombade orter - Aftonbladet
+- Krockade med bil: Cyklist fördes till sjukhus med ambulans - Oskarshamns-Nytt
+- Tredje person misstänkt för inblandning i skjutningen i Gävle - SVT Nyheter
 - Varnar turisterna i svenskparadiset - Expressen
 - Stubb bryter isen med Trump - Aftonbladet
+- Ukrainare beordras lämna ryskbombade orter - Aftonbladet
 - Putin: Ryskt luftvärn bakom flygkrasch i Kazakstan - DN
-- Guldpriset når nya rekordnivåer – analytiker varnar för spekulationsdriven uppgång - Börskollen
-- Gap i rapportering om klimat bland svenska börsbolag - EY
-- Kraftigt ökade VA-kostnader gör IMD Vatten till en av de mest lönsamma investeringarna för brf:er - svenskbyggtidning -
-- Tesla: Aktien backar när företaget börjar ta order för billigare modell Y och modell 3-fordon - Morningstar Canada
+- Därför är vattnet så dyrt i Vallentuna - vallentunanya.se
+- Finland och Sverige samstämmiga: Ny kärnkraft behövs - Hufvudstadsbladet
+- Folkhälsomyndigheten varnar för falska mejl – nätfiske - Lysekilsposten
+- Regeringen utökar satsningen på cancerområdet - Regeringen.se
 - Kaotiskt och beroendeframkallande – så bra är nya Battlefield 6 - Expressen
-- Stuga intill å mest klickad – se hela listan - Östersunds-Posten
+- Stuga intill å mest klickad – se hela listan - op.se
 
 ## World News
 
 - Norden vill samla bred global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
 - Kimberly-Clark Launches Enhanced Global Partnerships to Advance Essential Care for 24 Million Women and Girls - Placera.se
+- UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
 - Lund University invests 85 million in international hiring drive - Lundagard.se
 - Nearly Two-Thirds of Global Retailers Say Payment Method Flexibility Drives Revenue Growth, ACI Worldwide Survey Finds - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
@@ -41,12 +42,11 @@ _Updated: 2025-10-10 01:38_
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Placera.se
 - ZTE accelerates global expansion by strategically focusing on gaming smartphones for youth markets - Placera.se
 - Greater Than Announces that Partner FIA has Launched the New Driver Safety Index, Establishing a Global Benchmark for Driver Risk - Placera.se
+- Domino’s® Expands Global DoorDash Partnership: Delivering Canadian Favourites from Coast to Coast - Placera.se
+- Omdia: Global PC market grew 7% in Q3 2025 as Windows 10 end-of-service deadline nears - Placera.se
 
 ## Technology
 
@@ -57,9 +57,9 @@ _Updated: 2025-10-10 01:38_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
-- Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
@@ -103,19 +103,19 @@ _Updated: 2025-10-10 01:38_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-10 01:38_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- De gick från reko till eko - ST-tidningen
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Lediga jobb - ATL
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
