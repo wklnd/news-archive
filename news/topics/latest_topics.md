@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-10 15:03_
+_Updated: 2025-10-10 15:44_
 
 ## Top Stories
 
-- Polisstudent misstänkt för över 50 våldtäkter - Aftonbladet
 - Beskedet: L kommer inte släppa fram en regering med SD-ministrar - SVT Nyheter
 - Forskarna: ”Trumps avtal är inget fredsavtal” - DN
-- Utrikesministern om pristagaren: Modig kvinna - Västerbottens-Kuriren
+- Polisstudent misstänkt för över 50 våldtäkter - Aftonbladet
+- C.Gambino mördades – då firade gänget Södra Biskop - GP
+- Maria Corina Machado tilldelas Nobels fredspris 2025 - SVT Nyheter
+- Förstärkt samarbete mot gränsöverskridande organiserad brottslighet – samförståndsavtal med Irak har undertecknats - Regeringen.se
 - Tomas Ramberg: Bortom valet hotar ett svart hål - DN
-- Inget mått i världen kan ge Trump Nobels fredspris - Arbetet
-- Dömd för inblandning i mord på C Gambino frias - DN
 - Svensk gripen i Nederländerna - polisen.se
 - Skoltak rasade in – se kaoset i klassrummet - SVT Nyheter
-- Svenskt bidrag till Natos avskräckning och försvar under 2026 - Regeringen.se
-- Lastbil brinner – E4 stängd norr om Stockholm - Expressen
-- Ukrainare beordras lämna ryskbombade orter - Aftonbladet
-- Stubb bryter isen med Trump - Aftonbladet
+- Förbättrade förutsättningar för operativt militärt samarbete - Regeringen.se
+- Zelenskyjs larm: ”Skapar kaos” - Expressen
+- “Oerhört osannolikt att Trump får Nobels fredspris” - Dagens Arena
 - Kraftig jordbävning i Filippinerna – flera döda - Aftonbladet
+- Stubb bryter isen med Trump - Aftonbladet
 - Klarnas vd varnar för AI-chock - Di
 - Svagt uppåt på Stockholmsbörsen - Aftonbladet
-- Ätbart skydd på gurkan kan ersätta plasten - DN
-- Second hand boomar – triggar mer konsumtion - SvD
-- Kaotiskt och beroendeframkallande – så bra är nya Battlefield 6 - Expressen
+- FASTIGHETSAKTIER UPP PÅ GRÖN BÖRS, OMXS30 +0,3% - Placera.se
+- Cheffelo publicerar trading update för Q3 2025 (MFN) - Aktiellt
+- Battlefield hyllas: ”Kan inte förneka hur roligt det är” - Omni
 - Google Översätt-appen kommer snart göra översättningarna mer tydliga - m3.se
 
 ## World News
@@ -43,10 +43,10 @@ _Updated: 2025-10-10 15:03_
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - 🌏 Global ojämlikhet minskar faktiskt - Warp News
 - ZTE accelerates global expansion by strategically focusing on gaming smartphones for youth markets - Placera.se
 - Oracle Named a Leader in IDC MarketScape for Worldwide Corporate Loan Lifecycle Management - Placera.se
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 
 ## Technology
 
@@ -74,14 +74,15 @@ _Updated: 2025-10-10 15:03_
 ## Business
 
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - JPMorgan Chase affärsmodell - Business Model Analyst
 - Student and entry-level programs - EY
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Rapper Jay-Z to snap up Swedish music-streaming company - Sveriges Radio
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
@@ -105,59 +106,59 @@ _Updated: 2025-10-10 15:03_
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Medtech Matchday visar potentialen med svensk medicinteknik - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
