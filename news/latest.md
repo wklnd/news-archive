@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-10 16:49_
+_Updated: 2025-10-10 17:48_
 
 - Live updates: Israel says ceasefire in effect as troops withdraw from parts of Gaza - CNN
-- Venezuela’s opposition leader María Corina Machado wins 2025 Nobel Peace Prize - NPR
-- Letitia James pursued Trump. Then she was indicted. - Politico
-- Federal Judge Temporarily Blocks Trump’s National Guard Deployment in Chicago Area - The New York Times
+- White House says Nobel Committee puts 'politics over peace' - Reuters
+- Where has Trump suggested sending troops? In cities run by Democratic mayors - NPR
+- Capitol agenda: No deal as the shutdown marches toward Week Three - Politico
+- Dow drops 500 points as sell-off intensifies after Trump's critical comments about China - CNBC
+- Pam Bondi, DOJ officials caught off guard by Tish James indictment: Sources - ABC News - Breaking News, Latest News and Videos
+- How Trump’s message to ‘Pam’ got exactly the results he wanted - Politico
+- MIT Rejects Trump’s Sweeping ‘Compact’ Offering Colleges Funding Advantages - The Wall Street Journal
 - Timely troop pay is now in Trump’s hands - Politico
-- 7.4-magnitude earthquake strikes offshore from southern Philippines and may cause tsunami - ABC News - Breaking News, Latest News and Videos
 - FACT FOCUS: Trump paints a grim portrait of Portland. The story on the ground is much less extreme - AP News
-- Indiana executes killer, rapist of 15-year-old girl, its third execution since resuming them last year - CBS News
-- Fact-checking New Jersey’s second gubernatorial debate - New Jersey Globe
-- China hits back at US ships with additional port fees - Reuters
-- Peru's Congress removes President Boluarte as a crime wave grips the country - NPR
-- Pope Leo invokes criticism of Trump's policies in first major document - Reuters
-- Tribunal hearings for Gaza flotilla activists begin - The Jerusalem Post
-- Man who appealed Pelicot rape conviction handed longer jail term - BBC
-- China launches customs crackdown on Nvidia AI chips - Financial Times
+- Two powerful quakes strike off southern Philippines, killing at least 7 people - AP News
+- Russian attacks plunge Ukrainian cities into cold and darkness - The Washington Post
+- Peru’s Congress removes President Boluarte as a crime wave grips the country - AP News
+- Iran Lures Transgender Foreigners for Surgery but Forces Operations on Locals - The New York Times
+- Nvidia Has A Problem In China. Meet The Chipmakers Vying To Replace The AI Titan In A Key Market. - Investor's Business Daily
 - Google may be forced to make changes to search engine in UK - BBC
+- JP Morgan staff told they must share biometric data to access headquarters - The Guardian
 - Ray Dalio says the U.S. is headed for civil war, with either side exerting ‘tests of power’ on their rivals - Fortune
-- Stock Market Today: Dow Edges Higher; Consumer-Sentiment Steady; Gold Prices Rise — Live Updates - The Wall Street Journal
 - This $89 Apple AirPods 4 deal is still live after Prime Day - Engadget
 - Google Explains Gearless Hinge System on Pixel 10 Pro Fold - Droid Life
