@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-10 05:20_
+_Updated: 2025-10-10 05:47_
 
 ## Top Stories
 
 - Israel har godkänt första fasen – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Man skjuten vid nattklubb på Stureplan - SvD
+- Man skjuten vid klubb på Stureplan - SvD
 - Michael Winiarski: Trump kan få fredspriset – men hinner han det i år? - DN
+- Kraftigt jordskalv i Filippinerna – tsunamivarning - Omni
 - Terrorligans mål: Döda politiker i drönarattacker - Aftonbladet
 - Åklagare som angrep Trump anklagas för brott - Västerbottens-Kuriren
-- Ukrainare beordras lämna ryskbombade orter - GP
 - Facktoppens krav på regeringens skolreform: ”Avgörande” - ETC.se
-- Våldsutövare - Socialstyrelsen
 - Körde 74 kilometer i timmen på 40-sträcka – fastnade i kontroll - Norran
+- Våldsutövare - Socialstyrelsen
 - Replik: Ingen jämställdhet utan ett starkt försvar - Altinget.se
 - Varnar turisterna i svenskparadiset - Expressen
+- Ukrainare beordras lämna ryskbombade orter - Aftonbladet
 - Stubb bryter isen med Trump - Aftonbladet
 - Rycker in – för att lösa Putins kris - Expressen
-- Putin: Ryskt luftvärn bakom flygkrasch i Kazakstan - DN
 - VA-taxan fortsätter uppåt: ”Återkommande höjningar framför oss” - Helagotland
 - Finland och Sverige samstämmiga: Ny kärnkraft behövs - Hufvudstadsbladet
 - Folkhälsomyndigheten varnar för falska mejl – nätfiske - Lysekilsposten
@@ -27,26 +27,26 @@ _Updated: 2025-10-10 05:20_
 
 ## World News
 
-- Norden vill samla bred global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
 - Kimberly-Clark Launches Enhanced Global Partnerships to Advance Essential Care for 24 Million Women and Girls - Placera.se
 - UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
 - Lund University invests 85 million in international hiring drive - Lundagard.se
-- Nearly Two-Thirds of Global Retailers Say Payment Method Flexibility Drives Revenue Growth, ACI Worldwide Survey Finds - Placera.se
+- ZTE accelerates global expansion by strategically focusing on gaming smartphones for youth markets - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Investor och Gardell oense om ABB:s storaffär - Placera.se
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Nearly Two-Thirds of Global Retailers Say Payment Method Flexibility Drives Revenue Growth, ACI Worldwide Survey Finds - Placera.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Investor och Gardell oense om ABB:s storaffär - Placera.se
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- ZTE accelerates global expansion by strategically focusing on gaming smartphones for youth markets - Placera.se
 - Greater Than Announces that Partner FIA has Launched the New Driver Safety Index, Establishing a Global Benchmark for Driver Risk - Placera.se
-- Domino’s® Expands Global DoorDash Partnership: Delivering Canadian Favourites from Coast to Coast - Placera.se
 - Omdia: Global PC market grew 7% in Q3 2025 as Windows 10 end-of-service deadline nears - Placera.se
+- Oracle Named a Leader in IDC MarketScape for Worldwide Corporate Loan Lifecycle Management - Placera.se
 
 ## Technology
 
@@ -77,20 +77,16 @@ _Updated: 2025-10-10 05:20_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - JPMorgan Chase affärsmodell - Business Model Analyst
 - Student and entry-level programs - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Rapper Jay-Z to snap up Swedish music-streaming company - Sveriges Radio
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
 
@@ -161,4 +157,4 @@ _Updated: 2025-10-10 05:20_
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
