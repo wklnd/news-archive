@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-10 15:14_
+_Updated: 2025-10-10 15:49_
 
 - Live updates: Gaza ceasefire in effect, Israel says, as hostage release countdown begins - CBS News
 - Venezuela’s opposition leader María Corina Machado wins 2025 Nobel Peace Prize - NPR
 - Letitia James pursued Trump. Then she was indicted. - Politico
 - Trump boosts Argentina's Milei with $20 billion lifeline as US buys pesos - Reuters
-- RFK Jr cites TiktTok as he rants to Trump about unproven Tylenol-autism link again - The Independent
-- Weiss makes first major CBS moves - https-//www.semafor.com
+- US to send 200 troops to Israel to monitor Gaza ceasefire - BBC
 - Judge blocks Trump from deploying troops in Illinois for now - The Washington Post
 - Capitol agenda: No deal as the shutdown marches toward Week Three - Politico
 - FACT FOCUS: Trump paints a grim portrait of Portland. The story on the ground is much less extreme - AP News
-- Indiana executes killer, rapist of 15-year-old girl, its third execution since resuming them last year - CBS News
-- Powerful 7.4-magnitude earthquake rocks southern Philippines - The Washington Post
+- Attorneys for Kilmar Abrego Garcia return to court as his deportation saga continues - ABC News - Breaking News, Latest News and Videos
+- Spanberger, Earle-Sears clash over violence, abortion, and taxes in lone Va. governor’s debate - Virginia Mercury
+- 7.4-magnitude earthquake strikes offshore from southern Philippines and may cause tsunami - ABC News - Breaking News, Latest News and Videos
+- Here are the "8 wars" Trump says he deserves a Nobel Prize for ending - Axios
 - Peru’s Congress removes President Boluarte as a crime wave grips the country - AP News
-- The 11th-Hour Campaign to Land Trump a Nobel Peace Prize - The Wall Street Journal
-- Tsunami threat passes for Philippines, Indonesia after 7.4 quake hits Davao - Al Jazeera
-- Ray Dalio warns of debt surge, brewing ‘civil war’ in U.S. - Seeking Alpha
-- Intel Bets Recovery on Panther Lake AI Chip as Foundry Bleeds Billions - Decrypt
-- Stock futures are little changed after S&P 500, Nasdaq pullback from record highs: Live updates - CNBC
-- Here’s what the OpenAI-AMD deal says about Nvidia - MarketWatch
+- Keir Starmer praises Donald Trump over role in Gaza ceasefire deal - BBC
+- Google may be forced to make changes to search engine in UK - BBC
+- Ray Dalio says the U.S. is headed for civil war, with either side exerting ‘tests of power’ on their rivals - Fortune
+- 1 Unstoppable Semiconductor Stock to Buy Instead of AMD - The Motley Fool
+- Stocks tick higher, S&P 500 and Nasdaq head for weekly gains: Live updates - CNBC
 - Google thinks the Pixel 10 Pro Fold is a big leap thanks to gearless hinge - 9to5Google
-- The final details of Samsung's Android XR headset have been all but confirmed - Engadget
+- Selling $50 Million Penthouses With a Little Help From AI - The Wall Street Journal
