@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-10 18:51_
+_Updated: 2025-10-10 19:48_
 
 - Multiple people dead in 'devastating blast' at explosives manufacturer in Tennessee: Sheriff - ABC News - Breaking News, Latest News and Videos
-- Trump threatens ‘massive’ China tariffs as Beijing restricts rare-earth exports - The Guardian
+- Nobel Peace Prize Live Updates: Venezuelan Pro-Democracy Politician María Corina Machado Wins - The New York Times
+- Trump threatens to cancel meeting with Xi - BBC
 - Live updates: Israel says ceasefire in effect as troops withdraw from parts of Gaza - CNN
-- Video shows moment Nobel Peace Prize recipient Maria Corina Machado learns about honor: "I am just one person" - CBS News
-- Where has Trump suggested sending troops? In cities run by Democratic mayors - NPR
-- Letitia James Is Among Prominent Black Women Targeted by Trump - The New York Times
-- How Trump’s message to ‘Pam’ got exactly the results he wanted - Politico
+- Trump official says federal layoffs 'have begun' amid government shutdown - CNBC
+- Capitol agenda: No deal as the shutdown marches toward Week Three - Politico
 - M.I.T. Rejects a White House Offer for Special Funding Treatment - The New York Times
+- How Trump’s message to ‘Pam’ got exactly the results he wanted - Politico
 - What Courts Have Said in Challenges to Trump’s National Guard Deployments - The New York Times
-- FACT FOCUS: Trump paints a grim portrait of Portland. The story on the ground is much less extreme - AP News
-- Two powerful quakes strike off southern Philippines, killing at least 7 people - AP News
+- Israeli Cabinet approves agreement to stop the war in Gaza - Axios
+- Strong 7.4 magnitude earthquake hits southern Philippines - BBC
+- Melania Trump says she and Putin communicating about children affected by war - ABC News - Breaking News, Latest News and Videos
+- Burkina Faso refuses to take deportees as US stops issuing visas - BBC
 - "Woman with the German keys" identified by Interpol 21 years after her body was found in Dutch nature reserve - CBS News
-- Iran Lures Transgender Foreigners for Surgery but Forces Operations on Locals - The New York Times
-- Ukraine says ‘massive’ Russian attack targeted energy infrastructure - CNN
 - Nvidia Has A Problem In China. Meet The Chipmakers Vying To Replace The AI Titan In A Key Market. - Investor's Business Daily
 - So much for Ford and GM’s scheme to extend the EV tax credit - The Verge
-- JP Morgan staff told they must share biometric data to access headquarters - The Guardian
-- Ray Dalio says the U.S. is headed for civil war, with either side exerting ‘tests of power’ on their rivals - Fortune
+- Google may be forced to make changes to search engine in UK - BBC
+- Dow down around 500 points midday as U.S. stocks head for weekly loss - MarketWatch
+- The Morning After: Our verdict on the Pixel 10 Pro Fold - Engadget
 - This $89 Apple AirPods 4 deal is still live after Prime Day - Engadget
-- Google Explains Gearless Hinge System on Pixel 10 Pro Fold - Droid Life
