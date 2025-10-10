@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-10 18:45_
+_Updated: 2025-10-10 19:39_
 
 ## Top Stories
 
-- Trump hotar Kina med högre tullar – börserna faller - Di
-- Vapenvila i Gaza – gisslan släpps inom tre dygn - GP
+- Flera döda i explosion på vapenfabrik i USA - DN
+- Netanyahu: ”Gisslan återförs inom de kommande dagarna” – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Beskedet: L kommer inte släppa fram en regering med SD-ministrar - SVT Nyheter
-- DN Direkt - Inga nya bekräftade fall av listeria i Stockholm - DN
-- Nya slaget mot svenska gängen - Expressen
-- Polisstudent misstänkt för över 50 våldtäkter - Västerbottens-Kuriren
-- Hon får Nobels fredspris - Hufvudstadsbladet
+- Nya uppgifter om listeriautbrottet på Coco & Carmen: Tre prover sticker ut - SVT Nyheter
+- Utredningen efter skotten i Gävle växer – man häktas - Aftonbladet
+- C.Gambino mördades – då firade gänget Södra Biskop - GP
+- Maria Corina Machado tilldelas Nobels fredspris 2025 - SVT Nyheter
 - Ökar bidraget till Nato: "Behövs på många platser” - GP
-- Alice Teodorescu Måwe kandiderar till riksdagen - DN
-- Svensk gripen i Nederländerna - polisen.se
+- Lina Kalmteg om Nobelpristagaren i litteratur 2025: ”Väntat” - Sveriges Radio
+- Tomas Ramberg: Bortom valet hotar ett svart hål - DN
 - Tusentals fördrivna palestinier återvänder till Gaza stad - DN
-- Nato kan ta till vapen mot Ryssland - Dagens PS
-- Zelenskyjs larm: ”Skapar kaos” - Expressen
-- “Oerhört osannolikt att Trump får Nobels fredspris” - Dagens Arena
+- DN Direkt - Danmark satsar miljarder på att försvara Grönland - DN
+- Källor: Samtal om militärt svar på ryska kränkningar - Omni
+- Nya slaget mot svenska gängen - Expressen
 - Klarnas vd varnar för AI-chock - Di
-- Bank och fastigheter draglok – Mycronic rasar - Di
-- Cheffelo publicerar trading update för Q3 2025 (MFN) - Aktiellt
 - Medvind för vinddrivna skepp - DN
+- Munter fredagshandel – gödselbolag rasar - Omni
+- Trump hotar Kina med nya ”massiva” tullar - SvD
 - ”Spelen uppvisar en romantiserad bild av krig” - DN
 - Interstellära besökaren en ”uråldrig tidskapsel” - Aftonbladet
 
@@ -31,22 +31,22 @@ _Updated: 2025-10-10 18:45_
 - Norden vill samla stark global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
 - UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
 - Lund University invests 85 million in international hiring drive - Lundagard.se
+- Volkswagen Group increases global deliveries to 6.6 million vehicles by the end of September - Volkswagen Group
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Kimberly-Clark Launches Enhanced Global Partnerships to Advance Essential Care for 24 Million Women and Girls - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- New Secretary General appointed - Olof Palme International Center
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Pi Network: Från en global sensation till en spökkedja för krypto - Invezz
-- Polymarket’s utveckling: Från DeFi-startup till ICE-stödd global plattform - Bitcoin.com News
 - Omdia: Global PC market grew 7% in Q3 2025 as Windows 10 end-of-service deadline nears - Placera.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -153,12 +153,12 @@ _Updated: 2025-10-10 18:45_
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Macron miljardsatsar på franskt jordbruk - Land Lantbruk
