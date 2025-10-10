@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-10 11:40_
+_Updated: 2025-10-10 12:42_
 
 ## Top Stories
 
-- Nobelpris till venezuelansk kamp för demokrati - DN
-- Uppgifter: L kommer inte släppa fram en regering med SD-ministrar - SVT Nyheter
-- Ny dom för mordet på artisten C. Gambino - Aftonbladet
-- Gisslan ska släppas: ”Inga detaljer om hur” – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Inget mått i världen kan ge Trump Nobels fredspris - Arbetet
+- DN Debatt. ”Vi vill ha en regering – utan Sverigedemokraterna” - DN
+- Israel har godkänt planen för vapenvila i Gaza - GP
+- Maria Corina Machado tilldelas Nobels fredspris 2025 - SVT Nyheter
 - Man skjuten vid klubb på Stureplan - SvD
+- Ny dom för mordet på artisten C. Gambino - Aftonbladet
+- 10 oktober 07.32, Misshandel, grov, Norrköping - polisen.se
 - Skoltak rasade in – se kaoset i klassrummet - SVT Nyheter
-- HD prövar inte dom mot Nytorgsmannen - Aftonbladet
 - Landsbygdsminister Peter Kullgren och minister för civilt försvar Carl-Oskar Bohlin deltar vid pressträff om beredskapslager - Regeringen.se
-- Efter avtalet: Hopp om minskat judehat i Sverige - GP
-- Omfattande rysk attack mot Kiev - DN
+- Efter avtalet: Hopp om minskat judehat i Sverige - Västerbottens-Kuriren
+- 10 oktober 07.00, Sammanfattning kväll och natt, Hallands län - polisen.se
+- Trump favorit i vadslagningen om fredspris - DN
+- Zelenskyj: 450 ryska drönare i nattens anfall - Västerbottens-Kuriren
 - Kraftig jordbävning i Filippinerna – två döda - Aftonbladet
 - Trumps löfte till Finland: ”Kraftfullt” försvar vid rysk attack - Expressen
-- Uppgifter: Ryanair-plan var ”sex minuter från katastrof” - Expressen
+- SJ slutar köra nattåg till Berlin - SVT Nyheter
+- Klarnas vd varnar för AI-chock - DI
 - FASTIGHETSAKTIER UPP ÖVER HELA LINJEN, OMXS30 +0,3% - Placera.se
-- Investerare: USA på väg mot ”något slags” inbördeskrig - Omni
-- Köpenhamns invånare ska panta pappersmuggar - Hufvudstadsbladet
 - Mangolds resultat för det tredje kvartalet förväntas överstiga 20 mkr efter skatt - Cision News
 - Kaotiskt och beroendeframkallande – så bra är nya Battlefield 6 - Expressen
 - Microsoft lägger till nygammal textredigerare i Windows 11 - PC för Alla
 
 ## World News
 
-- Norden vill samla bred global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
+- Norden vill samla stark global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
 - Kimberly-Clark Launches Enhanced Global Partnerships to Advance Essential Care for 24 Million Women and Girls - Placera.se
-- Lund University invests 85 million in international hiring drive - Lundagard.se
 - UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
+- Lund University invests 85 million in international hiring drive - Lundagard.se
 - Nearly Two-Thirds of Global Retailers Say Payment Method Flexibility Drives Revenue Growth, ACI Worldwide Survey Finds - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Ex-nyhetsankare på BBC hade barnpornografi - Omni
 - ZTE accelerates global expansion by strategically focusing on gaming smartphones for youth markets - Placera.se
 - Greater Than Announces that Partner FIA has Launched the New Driver Safety Index, Establishing a Global Benchmark for Driver Risk - Placera.se
-- Omdia: Global PC market grew 7% in Q3 2025 as Windows 10 end-of-service deadline nears - Placera.se
 - Oracle Named a Leader in IDC MarketScape for Worldwide Corporate Loan Lifecycle Management - Placera.se
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 
 ## Technology
 
@@ -59,17 +59,17 @@ _Updated: 2025-10-10 11:40_
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
+- Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- TriNet Announces Two Appointments to its Board of Directors - Placera.se
-- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- New Data on Hologic’s AI-Powered Mammography Technology to Be Presented at EUSOBI - Placera.se
 
 ## Business
 
@@ -103,19 +103,19 @@ _Updated: 2025-10-10 11:40_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Vi presenterar HealthBench - OpenAI
+- Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Medtech Matchday visar potentialen med svensk medicinteknik - it-halsa.se
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-10 11:40_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
