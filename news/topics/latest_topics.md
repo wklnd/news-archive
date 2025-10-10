@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-10 08:50_
+_Updated: 2025-10-10 09:39_
 
 ## Top Stories
 
+- Liberalerna splittrade om SD – nu tas beslut - Västerbottens-Kuriren
+- Trump favorit i vadslagningen om fredspris - DN
 - Israel har godkänt första fasen – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Inget mått i världen kan ge Trump Nobels fredspris - Arbetet
-- Man skjuten vid klubb på Stureplan - SvD
-- Flera explosioner i Kiev: ”En efter en" - Västerbottens-Kuriren
-- LIVE: Fullt utvecklad brand i tennishall – följ läget här - NWT
-- Beroende ökar risken för suicidförsök – Zarah Nilzon berättar om vägen tillbaka - DN
-- Inför ödesbeslutet: Uppsalas Liberaler har bestämt sig - UNT
+- Man skjuten vid nattklubb på Stureplan - Aftonbladet
+- SJ slutar köra nattåg till Berlin - GP
+- Skola i Eringsboda håller stängt – tak har rasat in - SVT Nyheter
 - Så kan unga bli förlorare med nya a-kassan: ”Olyckligt” - Arbetet
-- Efter avtalet: Hopp om minskat judehat i Sverige - GP
-- Pausar övningar efter falsklarm på Risbergska - Västerbottens-Kuriren
+- Beroende ökar risken för suicidförsök – Zarah Nilzon berättar om vägen tillbaka - DN
+- Efter avtalet: Hopp om minskat judehat i Sverige - Västerbottens-Kuriren
+- 10 oktober 07.00, Sammanfattning kväll och natt, Hallands län - polisen.se
+- JUST NU: Massiv attack: ”Kaos” - Expressen
 - Stubb bryter isen med Trump - Aftonbladet
 - Uppgifter: Ryanair-plan var ”sex minuter från katastrof” - Expressen
 - Terrorligans mål: Döda politiker i drönarattacker - Aftonbladet
-- Unrwas känga till Benjamin Dousa (M): Han lyssnade på Israel – och gjorde vad de sa - SVT Nyheter
-- Så mycket kostar Teslas nya budgetbil i Sverige - Di
-- ”Norske” redarkungen har gått in i Noba - Finanswatch.se
+- Ray Dalio: USA på väg mot ”något slags” inbördeskrig - Omni
+- Köpenhamns invånare ska panta pappersmuggar - Aftonbladet
 - Ekonom: Nu lyfter konsumtionen – om inte Putin ställer till jävelskap - Placera.se
-- VA-taxan fortsätter uppåt: ”Återkommande höjningar framför oss” - Helagotland
+- Redarmagnaten har köpt in sig i nynoterade nischbanken - Di
 - Kaotiskt och beroendeframkallande – så bra är nya Battlefield 6 - Expressen
 - Experten: Så blir du starkare – i fem enkla steg - Cafe.se
 
 ## World News
 
+- Norden vill samla bred global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
 - Kimberly-Clark Launches Enhanced Global Partnerships to Advance Essential Care for 24 Million Women and Girls - Placera.se
 - UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
 - Lund University invests 85 million in international hiring drive - Lundagard.se
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Nearly Two-Thirds of Global Retailers Say Payment Method Flexibility Drives Revenue Growth, ACI Worldwide Survey Finds - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Investor och Gardell oense om ABB:s storaffär - Placera.se
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Ex-nyhetsankare på BBC hade barnpornografi - Omni
 - ZTE accelerates global expansion by strategically focusing on gaming smartphones for youth markets - Placera.se
 - Greater Than Announces that Partner FIA has Launched the New Driver Safety Index, Establishing a Global Benchmark for Driver Risk - Placera.se
-- Omdia: Global PC market grew 7% in Q3 2025 as Windows 10 end-of-service deadline nears - Placera.se
-- Oracle Named a Leader in IDC MarketScape for Worldwide Corporate Loan Lifecycle Management - Placera.se
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- CHiQ Strengthens Global Sports Engagement with FIS Ski Jumping World Cup Partnership - Placera.se
 
 ## Technology
 
@@ -121,10 +121,9 @@ _Updated: 2025-10-10 08:50_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
@@ -133,12 +132,13 @@ _Updated: 2025-10-10 08:50_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
@@ -153,7 +153,7 @@ _Updated: 2025-10-10 08:50_
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
