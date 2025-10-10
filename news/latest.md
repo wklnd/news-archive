@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-10 05:52_
+_Updated: 2025-10-10 06:49_
 
 - Attorney General Letitia James Indicted on Fraud Charge After Trump's Pressure Campaign: Live Updates - The New York Times
-- Israeli Cabinet approves agreement to stop the war in Gaza - Axios
+- Live updates: Israel approves Trump’s plan for Gaza ceasefire and hostage release - BBC
+- Who are the five Nobel Peace Prize judges deciding whether Trump gets it? - Al Jazeera
 - Judge blocks Trump from deploying troops in Illinois for now - The Washington Post
-- Trump plans trip to Middle East to sign Israel-Hamas ceasefire deal - The Washington Post
-- Philippines and Indonesia issue tsunami warnings after 7.4 magnitude earthquake - BBC
-- The 11th-Hour Campaign to Land Trump a Nobel Peace Prize - The Wall Street Journal
+- US is sending about 200 troops to Israel to help support and monitor the Gaza ceasefire deal - AP News
+- 7.4-magnitude earthquake strikes offshore from southern Philippines and may cause tsunami - ABC News - Breaking News, Latest News and Videos
 - Texas High Court Halts Execution of Robert Roberson in Shaken Baby Case - The New York Times
-- Spanberger and Earle-Sears tussle over violent political rhetoric in only debate - Politico
-- Katie Porter’s bid for governor is getting noticed – but not how she wants - The Washington Post
-- Mike Johnson sticks to no-show shutdown strategy as resistance mounts - Politico
+- Abigail Spanberger and Winsome Earle-Sears clash over Jay Jones' violent texts in lone Virginia governor's debate - NBC News
+- Katie Porter camp rallies allies to her defense - Politico
+- Senate passes $914B defense policy bill after resolving gridlock on amendments - Breaking Defense
 - Trump’s trade war has India hugging Britain close - politico.eu
-- Man who appealed Pelicot rape conviction handed longer jail term - BBC
-- Pope Leo invokes criticism of Trump's policies in first major document - Reuters
-- Bankrupt Auto Supplier First Brands Faces Criminal Investigation - The Wall Street Journal
-- Delta’s bet on wealthy Americans driving the economy is working: Premium seats are set to overtake main cabin for the first time in history - Fortune
+- Ukraine says ‘massive’ Russian attack underway targeting energy infrastructure - CNN
+- Durham resident detained by Israeli forces while attempting to bring aid into Gaza - WRAL.com
+- Trump: ‘We ended Gaza war,’ the hostages are coming home. ‘After that, we’ll see’ - The Times of Israel
+- US Justice Department opens inquiry into First Brands collapse, source says - Reuters
 - Here’s what the OpenAI-AMD deal says about Nvidia - MarketWatch
-- Day 3 of Amazon October Prime Day is ending soon — 50 best last-minute deals up to 69% off: Save on iPads, headphones and more - Yahoo Lifestyle Canada
+- Column | I tracked Amazon’s Prime Day prices. We’ve been played. - The Washington Post
+- Levi Strauss raises prices, helping to boost profit and outlook - CNBC
 - Motorola’s ultra-thin answer to Apple and Samsung doesn’t skip a beat on battery [Gallery] - 9to5Google
-- This $89 Apple AirPods 4 deal is still live after Prime Day - Engadget
-- Google Pixel Tablet might be the best tablet to buy right now, thanks to record-low discount - ZDNET
+- Here is Panther Lake, Intel’s 2026 laptop chip with next-gen graphics - The Verge
