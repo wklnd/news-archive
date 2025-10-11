@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-11 01:48_
+_Updated: 2025-10-11 04:08_
 
-- Trump administration begins laying off federal workers amid shutdown - The Washington Post
-- Multiple people dead, 19 unaccounted for in 'devastating blast' at explosives manufacturer in Tennessee: Sheriff - ABC News - Breaking News, Latest News and Videos
-- Thousands of Palestinians return to what’s left of their homes as Gaza ceasefire takes effect - AP News
-- White House has, for now, ruled out legislative fix for military pay - Politico
-- White House blasts Nobel Committee for not awarding Peace Prize to Trump - BBC
-- Macron puts Lecornu back as France's prime minister just days after he quit - NPR
-- Trump hits China with retaliatory tariffs in trade war escalation - Reuters
+- White House Signals Federal Layoffs Have Begun Amid Government Shutdown - The New York Times
+- 19 Missing in Deadly Blast at Tennessee Explosives Plant - The Wall Street Journal
+- October 10, 2025 - Israel-Hamas war - CNN
 - Letitia James’ indictment puts Andrew Cuomo in a bind - Politico
+- Governor Newsom builds on this year’s historic housing reforms, signs legislation to accelerate housing and affordability - CA.gov
+- Federal employees brace for first partial paychecks as shutdown continues - Federal News Network
+- AstraZeneca makes deal with White House to lower drug prices - NPR
 - MIT president says she 'cannot support' proposal to adopt Trump priorities for funding benefits - AP News
-- Airlines tell passengers to prepare for delays as government shutdown continues - CNBC
+- Trump announces new 100% tariff on Chinese imports, after stock market sell-off - ABC News - Breaking News, Latest News and Videos
+- Superintendent, Devon Horton, Accused of Stealing Thousands From Illinois School District - The New York Times
+- María Corina Machado Wins Nobel Peace Prize Despite Trump’s Campaign - The New York Times
+- Macron reappoints Lecornu as French PM after days of turmoil - BBC
+- Jake Sullivan tried to get a Gaza peace deal. Here's what he thinks of Trump's - NPR
 - Melania Trump reveals she's worked with Putin for months to reunite Ukrainian children with families - CBS News
-- Two powerful quakes strike off southern Philippines, killing at least 7 people - AP News
-- Tony Blair met Jeffrey Epstein while prime minister - BBC
-- Hillary Clinton and Condoleezza Rice commend Trump on Israel-Hamas peace deal, discuss path forward - CBS News
-- Trump reaches deal with AstraZeneca to lower U.S. drug prices - CNBC
 - Morgan Stanley Asks to Pull Cash From Jefferies’ Point Bonita - Bloomberg.com
+- A tangled web of deals stokes AI bubble fears in Silicon Valley - BBC
 - How OpenAI put itself at the centre of a $1tn network of deals - Financial Times
-- Polymarket Token Is Coming, But Likely Not This Year: Sources - Decrypt
-- Snapdragon 8 Elite Gen 5 Price Per Unit Estimate Will Definitely Make You Question Your Upcoming Android Flagship Purchase - Wccftech
-- Copilot on Windows can now create Office documents and connect to Gmail - The Verge
+- Donald Trump Is Now One Of The World's Biggest Bitcoin Investors - Forbes
+- Vivo Blatantly Copies iOS 26’s Liquid Glass Redesign, Bringing Apple’s Controversial Aesthetic Straight to OriginOS 6 - Wccftech
+- Bose SoundTouch home theater systems regress into dumb speakers Feb. 18 - Ars Technica
