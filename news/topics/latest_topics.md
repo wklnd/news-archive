@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-11 15:38_
+_Updated: 2025-10-11 16:37_
 
 ## Top Stories
 
-- Uppgifter: SvFF i kontakt med ersättare till JDT - Aftonbladet
-- Gängman gripen i Österrike – misstänks för 13 år gammalt mord - SVT Nyheter
-- Kristersson om Liberalernas besked om SD - SVT Nyheter
-- Resenär misshandlade busschaufför blodig - Corren
-- DN Direkt - Blodig man hittad med allvarliga skador - DN
-- Röda korset: Stort antal team redo för Gaza - DN
-- DN Direkt - Två män anhållna efter explosion i Vännäs - DN
+- Gängtopp gripen i Österrike – misstänks för 13 år gammalt mord - SVT Nyheter
+- Ulf Kristersson: ”Alla partier har sin särart” - GP
 - Eskilstunabor i uppror mot ”giftfabriken” - DN
-- Ledare: Falsk anmälan skadar alla - NWT
+- Fyra döda i skjutning i Mississippi - SVT Nyheter
+- 11 oktober 08.58, Mord/dråp, försök, Norrköping - polisen.se
+- Röda korset: Stort antal team redo för Gaza - DN
+- Just nu: Två anhållna efter explosion i Vännäs - Västerbottens-Kuriren
 - 11 oktober 14.00, Trafikkontroll, Norrbottens län - polisen.se
+- Ledare: Falsk anmälan skadar alla - NWT
+- Stig Engström är årets företagare i Sverige - SVT Nyheter
+- Joe Biden strålbehandlas för cancer - Västerbottens-Kuriren
 - Fyndet i trädgården – gravsten från romarriket - GP
 - HS: Pensionär använde lottovinst för kontraspionage åt Skyddspolisen - Hufvudstadsbladet
-- Strömmen åter i Kiev efter ryska attacker - GP
-- 75 000 laxar rymde från laxodling - tidningensyre.se
-- Prisrusch i skogen: Åtta svampar för 53.000 kronor - DI
+- 75 lax laxar på rymmen - Expressen
+- Uppgifter: Astra Zeneca i avtal med Trump - Di
+- ”Världens dyraste svamp” såld för 53 000 kronor - DN
 - Hans Isoz om Intellego: "Jag är inte arg – bara lite förbannad ibland" - Affärsvärlden
-- DN Direkt - Trump: Astra Zeneca sänker priser i USA - DN
 - Förklaringen: Därför blev det fritt fall vid börsstängning - EFN
 - ”Spelen uppvisar en romantiserad bild av krig” - DN
 - Kanto Audio lanserar sin första skivspelare: Möt Obi3 - Ljud & Bild
@@ -28,8 +28,8 @@ _Updated: 2025-10-11 15:38_
 ## World News
 
 - Norden vill samla stark global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
-- S&P Global and CME Group Complete Sale of OSTTRA to KKR - Placera.se
 - UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
+- S&P Global and CME Group Complete Sale of OSTTRA to KKR - Placera.se
 - Lund University invests 85 million in international hiring drive - Lundagard.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Volkswagen Group increases global deliveries to 6.6 million vehicles by the end of September - Volkswagen Group
@@ -37,36 +37,36 @@ _Updated: 2025-10-11 15:38_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
@@ -77,14 +77,17 @@ _Updated: 2025-10-11 15:38_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - JPMorgan Chase affärsmodell - Business Model Analyst
 - Student and entry-level programs - EY
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rapper Jay-Z to snap up Swedish music-streaming company - Sveriges Radio
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
@@ -150,12 +153,12 @@ _Updated: 2025-10-11 15:38_
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Nya ledamöter i KSLA:s Allmänna avdelning - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
