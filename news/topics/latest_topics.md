@@ -1,35 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-11 13:38_
+_Updated: 2025-10-11 14:58_
 
 ## Top Stories
 
+- Guide: Så kan Sverige till fotbolls-VM trots förlusterna - DN
+- Gängman gripen i Österrike – misstänks för 13 år gammalt mord - SVT Nyheter
 - Kristersson om Liberalernas besked om SD - SVT Nyheter
 - Man till sjukhus efter mordförsök - TV4 Nyheterna
-- 75 000 laxar rymde från laxodling - tidningensyre.se
-- Nordkorea visar upp nytt jättevapen - GP
+- Vapenvila i Gaza – gisslan släpps inom tre dygn - Västerbottens-Kuriren
 - Resenär misshandlade busschaufför blodig - Corren
-- Spelet om trängselskatten – här är hemliga förslaget som ratades - GP
+- Två anhållna efter explosion i Vännäs - SVT Nyheter
+- Kvinna åtalas för att ha ljugit om sjukhusvåldtäkt - DN
+- 11 oktober 14.00, Trafikkontroll, Norrbottens län - polisen.se
 - Stig Engström är årets företagare i Sverige - SVT Nyheter
-- 11 oktober 08.37, Sammanfattning natt, Jämtlands län - polisen.se
-- 11 oktober 07.00, Sammanfattning natt, Norrbottens län - polisen.se
-- Ung man gripen – misstänkt för flera sexuella ofredanden - Helagotland
-- Så ser Hamas framtid ut om fredsplanen håller - Hufvudstadsbladet
+- DN Direkt - Fyndet i trädgården – gravsten från romarriket - DN
 - Sökandet efter den döda gisslan blir en utmaning - DN
+- Pensionär finansierade kontraspionage med lottovinst - DN
 - Strömmen åter i Kiev efter ryska attacker - GP
-- Explosion i sprängämnesfabrik – flera döda - GP
 - Prisrusch i skogen: Åtta svampar för 53.000 kronor - Di
-- Förklaringen: Därför blev det fritt fall vid stängning - EFN
 - Hans Isoz om Intellego: "Jag är inte arg – bara lite förbannad ibland" - Affärsvärlden
-- Trump: Astra Zeneca sänker priser i USA - SVT Nyheter
+- DN Direkt - Trump: Astra Zeneca sänker priser i USA - DN
+- Tullkriget tillbaka – Trump chockhöjer tullarna mot Kina - EFN
 - ”Spelen uppvisar en romantiserad bild av krig” - DN
 - Kanto Audio lanserar sin första skivspelare: Möt Obi3 - Ljud & Bild
 
 ## World News
 
 - Norden vill samla stark global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
-- S&P Global and CME Group Complete Sale of OSTTRA to KKR - Placera.se
 - UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
+- S&P Global and CME Group Complete Sale of OSTTRA to KKR - Placera.se
 - Lund University invests 85 million in international hiring drive - Lundagard.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Volkswagen Group increases global deliveries to 6.6 million vehicles by the end of September - Volkswagen Group
@@ -37,39 +37,39 @@ _Updated: 2025-10-11 13:38_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- New Secretary General appointed - Olof Palme International Center
+- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
-- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
+- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 
 ## Business
 
@@ -103,19 +103,19 @@ _Updated: 2025-10-11 13:38_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Vi presenterar HealthBench - OpenAI
-- Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Nyteknik
 - Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Medtech Matchday visar potentialen med svensk medicinteknik - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
