@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-11 07:39_
+_Updated: 2025-10-11 08:45_
 
 ## Top Stories
 
-- Gazabon Ali: Tack Trump – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Johan Esk: Utbuad Tomasson kan snart vara ”dead man walking” - DN
 - DN Direkt - Efter nedstängningen – personal sparkas i USA - DN
+- Läkare: Trumps hälsa är utmärkt - GP
+- Gazabon Ali: Tack Trump – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Sann antikommunist värdig vinnare av Nobels fredspris - NT
 - DN Direkt - Mohamsson om SD-regering: Kommer inte ändra oss - DN
-- Erik de la Reguera: Det är som att den franska republiken drabbats av ett systemfel - DN
-- Donald Trump har utmärkt hälsa enligt läkarundersökning - Yle
-- Ingen smarttelefon för barn under elva - Hufvudstadsbladet
-- Man anhållen efter detonation vid bostadshus i Oxie - SVT Nyheter
-- Innovativt familjeföretag från Nyland vinner pris på Årets Företagare - NewsMachine AB
-- Michael Winiarski: En örfil mot den ratade Trump - DN
-- Listeria hittat i 13 livsmedel på lyxkrogen - Västerbottens-Kuriren
-- Mexiko: Minst 23 döda efter skyfall - Västerbottens-Kuriren
+- 11 oktober 07.00, Sammanfattning natt, Norrbottens län - polisen.se
+- Polisstudent häktas för över 50 våldtäkter - Expressen
+- De råvarorna pekas ut i listeriautbrottet - Västerbottens-Kuriren
+- Flera bilar i olycka på E22 – en allvarligt skadad - Expressen
+- DN Direkt - Trump: Astra Zeneca sänker priser i USA - DN
 - Gravid ville ha barn – fick abortpiller - Expressen
 - Inget mått i världen kan ge Trump Nobels fredspris - Arbetet
-- Nya slaget mot svenska gängen - Expressen
-- Prisrusch i skogen: Åtta svampar för 53.000 kronor - Di
-- Bitcoin slår nya rekord: ”Dollarn urholkas” - SvD
-- Trumps nya tullhot mot Kina: 100 procent till - DN
-- Debatt: VA-systemet har blivit en tickande räkning – inte en hållbar investering - sla.se
+- Stubb bryter isen med Trump - Aftonbladet
+- Prisrusch i skogen: Åtta svampar för 53.000 kronor - DI
+- JUST NU: Tullkriget tillbaka – Trump chockhöjer mot Kina - EFN
+- Svensk Handel varnar: "Organiserad brottslighet har nästlat sig in" - Ehandel.se
+- VA-taxan fortsätter uppåt: ”Återkommande höjningar framför oss” - Helagotland
 - ”Spelen uppvisar en romantiserad bild av krig” - DN
 - Sylvia har sett 13 norrsken på Lidingö – bara i år - Mitt i
 
@@ -38,15 +38,15 @@ _Updated: 2025-10-11 07:39_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Blaize to Showcase Edge AI Innovation at GITEX GLOBAL 2025 in Dubai - Placera.se
-- Ex-nyhetsankare på BBC hade barnpornografi - Omni
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -61,15 +61,15 @@ _Updated: 2025-10-11 07:39_
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 
 ## Business
 
@@ -77,18 +77,20 @@ _Updated: 2025-10-11 07:39_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - JPMorgan Chase affärsmodell - Business Model Analyst
 - Student and entry-level programs - EY
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rapper Jay-Z to snap up Swedish music-streaming company - Sveriges Radio
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
 
@@ -103,16 +105,16 @@ _Updated: 2025-10-11 07:39_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Nyteknik
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
@@ -143,20 +145,20 @@ _Updated: 2025-10-11 07:39_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- An Giang Agricultural Extension 30 år av att stödja jordbrukare - Vietnam.vn
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- Intensivt jordbruk hotar biologisk mångfald - Sveriges Natur
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Maskinförare | Jobb | ATL - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
