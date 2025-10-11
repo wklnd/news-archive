@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-11 09:37_
+_Updated: 2025-10-11 10:42_
 
 ## Top Stories
 
-- Nordkorea visar upp nytt jättevapen - DI
-- DN Direkt - Mohamsson om SD-regering: Kommer inte ändra oss - DN
-- Läkare: Trumps hälsa är utmärkt - GP
-- DN Direkt - Efter nedstängningen – personal sparkas i USA - DN
-- Damberg (S) emot ett rödgrönt valmanifest - Aftonbladet
-- Gazabon Ali: Tack Trump – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Kristersson om Liberalernas besked om SD - SVT Nyheter
+- DN Direkt - Blodig man hittad med allvarliga skador - DN
+- Nordkorea visar upp nytt jättevapen - Di
+- 841 ryssar massutvisas från Lettland - Expressen
+- Läkare: Trumps hälsa är utmärkt - Västerbottens-Kuriren
+- Sann antikommunist värdig vinnare av Nobels fredspris - NT
 - 11 oktober 07.00, Sammanfattning natt, Norrbottens län - polisen.se
 - 11 oktober 08.37, Sammanfattning natt, Jämtlands län - polisen.se
-- Utrikesministern: En modig kvinna – Maria Corina Machado tilldelas Nobels fredspris 2025 - SVT Nyheter
-- Regeringen satsar långsiktigt på psykisk hälsa och suicidprevention - Regeringen.se
-- Explosion i sprängämnesfabrik – flera döda - GP
-- Inget mått i världen kan ge Trump Nobels fredspris - Arbetet
-- Stubb bryter isen med Trump - Aftonbladet
-- Gravid ville ha barn – fick abortpiller - Expressen
-- Prisrusch i skogen: Åtta svampar för 53.000 kronor - DI
-- Förklaringen: Därför blev det fritt fall vid stängning - EFN
-- Stig Engström är Årets Företagare i Sverige 2025 - Företagarna
-- Debatt: VA-systemet har blivit en tickande räkning – inte en hållbar investering - sla.se
+- Damberg (S) emot ett rödgrönt valmanifest - Aftonbladet
+- Polisstudent häktas för över 50 våldtäkter - Expressen
+- Så ser Hamas framtid ut om fredsplanen håller - Hufvudstadsbladet
+- Tusentals får sparken i USA-nedstängning - Västerbottens-Kuriren
+- Polisman häktad för 22 barnsexbrott - Aftonbladet
+- Unga sköt laser mot bussar och polisbil - Expressen
+- Prisrusch i skogen: Åtta svampar för 53.000 kronor - Di
+- Tullkriget tillbaka – Trump chockhöjer tullarna mot Kina - EFN
+- Stig Engström är årets företagare i Sverige - SVT Nyheter
+- Efter rekordet – Saab spår fortsatt tillväxt - SvD
 - ”Spelen uppvisar en romantiserad bild av krig” - DN
-- Sylvia har sett 13 norrsken på Lidingö – bara i år - Mitt i
+- PODD: Peter matchade på Tinder – blev överfallen på Kärleksstigen - Norrtelje Tidning
 
 ## World News
 
@@ -36,17 +36,17 @@ _Updated: 2025-10-11 09:37_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Ex-nyhetsankare på BBC hade barnpornografi - Omni
-- CHiQ Strengthens Global Sports Engagement with FIS Ski Jumping World Cup Partnership - Placera.se
+- New Secretary General appointed - Olof Palme International Center
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 
 ## Technology
 
@@ -77,17 +77,14 @@ _Updated: 2025-10-11 09:37_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - JPMorgan Chase affärsmodell - Business Model Analyst
 - Student and entry-level programs - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rapper Jay-Z to snap up Swedish music-streaming company - Sveriges Radio
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
@@ -108,13 +105,13 @@ _Updated: 2025-10-11 09:37_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
 
 ## Science
