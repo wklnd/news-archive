@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-11 08:50_
+_Updated: 2025-10-11 09:47_
 
-- Government shutdown will stretch into another week as thousands of federal workers face layoffs - CBS News
-- Newspaper headlines: 'Hope in Gaza' and 'Live forever in our hearts, Ricky' - BBC
+- Trump administration begins laying off federal workers amid shutdown - The Washington Post
+- Gaza ceasefire in effect, Israel says, as hostage release countdown begins - CBS News
 - Multiple people dead, 18 unaccounted for in 'devastating blast' at explosives manufacturer in Tennessee: Sheriff - ABC News - Breaking News, Latest News and Videos
-- Letitia James’ indictment puts Andrew Cuomo in a bind - Politico
+- Trump Cuts a Deal With AstraZeneca to Lower Drug Prices - The New York Times
 - Trump administration has failed to deport Kilmar Abrego Garcia to Africa - Politico
-- Trump speaks with Nobel Peace Prize winner Machado after his administration denounced the decision to award it to her - CNN
+- New York Democrats rally behind Letitia James day after indictment for mortgage fraud - The Guardian
 - Newsom signs historic housing bill to bring density to transit hubs - Los Angeles Times
-- Trump’s Threat on Higher China Tariffs Wipes Out Stocks’ Weekly Gains - The Wall Street Journal
-- Trump gets Covid vaccine and flu shot during second check-up of the year - NBC News
-- What to know about Idaho's Mountain Home base, home to Qatar's new air force station - Axios
+- US will impose additional 100% tariff on Chinese imports from November, Trump says - Reuters
+- Trump speaks with Nobel Peace Prize winner Machado after his administration denounced the decision to award it to her - CNN
+- Qatar Facility at U.S. Air Force Base in Idaho Sparks Controversy - The Wall Street Journal
 - Mexico floods kill at least 23 people as storms head north - The Guardian
-- As its ruling party turns 80, an emboldened Kim Jong Un shows off North Korea’s new hypersonic weapon, ICBM - CNN
+- Macron puts Lecornu back as France's prime minister just days after he quit - NPR
+- North Korea holds military parade, shows off new intercontinental missile - Reuters
 - How Trump’s envoys got Gaza deal over the finish line - Politico
-- Jake Sullivan tried to get a Gaza peace deal. Here's what he thinks of Trump's - NPR
 - A tangled web of deals stokes AI bubble fears in Silicon Valley - BBC
 - First Brands boss weighs resigning under pressure from lenders - Financial Times
-- Trump Cuts a Deal With AstraZeneca to Lower Drug Prices - The New York Times
+- Donald Trump Is Now One Of The World's Biggest Bitcoin Investors - Forbes
 - Morgan Stanley Asks to Pull Cash From Jefferies’ Point Bonita - Bloomberg.com
 - Samsung’s Rumored Ray-Ban Smart Glasses Killer May Arrive Sooner Than You Think - Gizmodo
 - watchOS 26 brings two powerful Health features for Apple Watch - 9to5Mac
