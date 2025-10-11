@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-11 15:48_
+_Updated: 2025-10-11 16:47_
 
-- Trump officials say "substantial" federal worker layoffs have begun - Axios
+- White House Signals Federal Layoffs Have Begun Amid Government Shutdown - The New York Times
 - MIT’s resistance gives boost to academics' efforts to defy Trump - Politico
-- Multiple people dead, 18 unaccounted for in 'devastating blast' at explosives manufacturer in Tennessee: Sheriff - ABC News - Breaking News, Latest News and Videos
+- How Affordable Care Act subsidies became a sticking point in the government shutdown - ABC News - Breaking News, Latest News and Videos
+- 19 missing after blast rocked Tennessee military explosives plant - The Washington Post
+- Israel awaits the release of hostages, as Palestinians return to the ruins of their homes - CBS News
 - Trump speaks with Nobel Peace Prize winner Machado after his administration denounced the decision to award it to her - CNN
-- At the Center of Letitia James’s Indictment, a House in Norfolk, Virginia - The New York Times
-- Trump announces drug-price deal with AstraZeneca - The Washington Post
+- 4 dead, 12 injured in Mississippi shooting, officials say - CBS News
+- New York Democrats rally behind Letitia James day after indictment for mortgage fraud - The Guardian
 - Newsom signs historic housing bill to bring density to transit hubs - Los Angeles Times
-- Trump gets Covid vaccine and flu shot during second check-up of the year - NBC News
-- Pentagon will build a training facility for Qatari pilots in Idaho - AP News
-- Opening of new Uvalde school marks ‘bittersweet day’ for families and town - Texas Public Radio | TPR
+- Boston Prosecutors Invoke Law Used Against Anarchists to Charge Protesters - The New York Times
 - North Korea Flaunts New Missiles ​in Parade With Chinese and Russian Officials - The New York Times
-- Hamas Re-Emerges in Gaza as Palestinians Return to Their Homes - The Wall Street Journal
-- Mexico floods kill at least 23 people as storms head north - The Guardian
-- France's Macron reappoints Prime Minister Sébastien Lecornu days after he quit - CBS News
-- 'China Isn't Afraid': Beijingers Shrug Off Trump Tariff Threat - Barron's
+- France’s re-appointed prime minister Lecornu calls for calm amid political chaos - AP News
+- Israel strikes south Lebanon, killing 1 and wounding 7 - NPR
+- India is forcibly deporting Muslims, including its own citizens, after Kashmir violence - NPR
+- Market sell-off: Trump post lops off $2 trillion from stocks in a single day - CNBC
 - A tangled web of deals stokes AI bubble fears in Silicon Valley - BBC
+- If New York or California enter a recession, the entire U.S. economy would be next. So how are they doing? - MarketWatch
 - Morgan Stanley Asks to Pull Cash From Jefferies’ Point Bonita - Bloomberg.com
-- China’s rare earth gambit reveals the next phase of its economic warfare - Politico
+- Microsoft’s Free Windows Offer—You Have 72 Hours To Act - Forbes
 - Vision Pro Future Uncertain as All Headset Development Is Seemingly Paused - MacRumors
-- Copilot on Windows can now create Office documents and connect to Gmail - The Verge
