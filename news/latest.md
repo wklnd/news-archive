@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-11 07:48_
+_Updated: 2025-10-11 08:50_
 
-- These are the agencies Trump is purging during the shutdown - Axios
-- Gaza ceasefire in effect, Israel says, as hostage release countdown begins - CBS News
+- Government shutdown will stretch into another week as thousands of federal workers face layoffs - CBS News
+- Newspaper headlines: 'Hope in Gaza' and 'Live forever in our hearts, Ricky' - BBC
 - Multiple people dead, 18 unaccounted for in 'devastating blast' at explosives manufacturer in Tennessee: Sheriff - ABC News - Breaking News, Latest News and Videos
-- Trump Cuts a Deal With AstraZeneca to Lower Drug Prices - The New York Times
 - Letitia James’ indictment puts Andrew Cuomo in a bind - Politico
-- DOJ asserts presidential privilege over details about how Uganda was selected in Abrego Garcia deportation case - WUSA9
-- Bitcoin extends decline to $104,782 as Trump escalates US-China trade war - Reuters
-- Newsom signs historic housing bill to bring density to transit hubs - Los Angeles Times
+- Trump administration has failed to deport Kilmar Abrego Garcia to Africa - Politico
 - Trump speaks with Nobel Peace Prize winner Machado after his administration denounced the decision to award it to her - CNN
-- Trump visits Walter Reed medical center for ‘semiannual physical’ - PBS
-- Macron puts Lecornu back as France's prime minister just days after he quit - NPR
-- Jared Kushner returns to forefront of Trump’s Middle East diplomacy with Gaza ceasefire deal - CNN
+- Newsom signs historic housing bill to bring density to transit hubs - Los Angeles Times
+- Trump’s Threat on Higher China Tariffs Wipes Out Stocks’ Weekly Gains - The Wall Street Journal
+- Trump gets Covid vaccine and flu shot during second check-up of the year - NBC News
+- What to know about Idaho's Mountain Home base, home to Qatar's new air force station - Axios
+- Mexico floods kill at least 23 people as storms head north - The Guardian
+- As its ruling party turns 80, an emboldened Kim Jong Un shows off North Korea’s new hypersonic weapon, ICBM - CNN
+- How Trump’s envoys got Gaza deal over the finish line - Politico
 - Jake Sullivan tried to get a Gaza peace deal. Here's what he thinks of Trump's - NPR
-- Tony Blair met Jeffrey Epstein while prime minister - BBC
-- Morgan Stanley Asks to Pull Cash From Jefferies’ Point Bonita - Bloomberg.com
 - A tangled web of deals stokes AI bubble fears in Silicon Valley - BBC
-- How hackers forced brewing giant Asahi back to pen and paper - BBC
-- Donald Trump Is Now One Of The World's Biggest Bitcoin Investors - Forbes
+- First Brands boss weighs resigning under pressure from lenders - Financial Times
+- Trump Cuts a Deal With AstraZeneca to Lower Drug Prices - The New York Times
+- Morgan Stanley Asks to Pull Cash From Jefferies’ Point Bonita - Bloomberg.com
 - Samsung’s Rumored Ray-Ban Smart Glasses Killer May Arrive Sooner Than You Think - Gizmodo
-- Vivo Blatantly Copies iOS 26’s Liquid Glass Redesign, Bringing Apple’s Controversial Aesthetic Straight to OriginOS 6 - Wccftech
+- watchOS 26 brings two powerful Health features for Apple Watch - 9to5Mac
