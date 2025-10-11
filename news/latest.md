@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-11 23:47_
+_Updated: 2025-10-12 00:48_
 
-- Diane Keaton, Oscar-winning star of Annie Hall and The Godfather, dies aged 79 - The Guardian
 - Trump directs Pentagon to use 'available funds' to pay military during shutdown - NPR
-- No survivors from blast at Tennessee explosives factory, sheriff says - PBS
-- These are the agencies Trump is purging during the shutdown - Axios
-- Mass firings hit CDC - Politico
-- National Guard troops in Illinois can remain federalized but can’t be deployed, appeals court rules - CNN
-- Agencies prepare to bring aid to starving people in Gaza as ceasefire appears to hold - The Guardian
+- Trump officials say "substantial" federal worker layoffs have begun - Axios
+- No survivors in Tennessee explosives factory blast, officials say - The Guardian
+- C.D.C. Layoffs Included 2 Top Measles Experts Amid Rising Cases - The New York Times
+- Hospital prepares to receive freed Israeli hostages: 'We are inventing captivity medicine' - BBC
+- Biden is receiving radiation and hormone therapy to treat his prostate cancer - AP News
+- Circuit Court walks back judge’s block on Trump’s National Guard call-up in Chicago - Politico
 - Four killed in mass shooting after Mississippi football game - BBC
-- 7 times politicians imploded in TV interviews - Politico
-- Nor’Easter Forecast: A Strong Storm Threatens the East Coast With Flooding - The New York Times
-- Israel awaits the release of hostages, as Palestinians return to the ruins of their homes - CBS News
+- At the Center of Letitia James’s Indictment, a House in Norfolk, Virginia - The New York Times
+- Nor’easter to deliver flooding, power outages in Mass. this weekend. How to prepare - MassLive
 - French PM Lecornu, Macron's 'soldier monk', steels himself for budget battle - Reuters
-- Africa's oldest leader isn't ready to retire — and he's not the only one defying age - NPR
+- British army horse who ran through the streets of London gets well-deserved retirement - CBS News
 - Madagascar soldiers join protestors, refuse orders to shoot demonstrators - France 24
-- New China tariffs announced during government shutdown and AI valuation debate are a ‘perfect storm coming together,’ top economist says - Fortune
-- Behind the Collapse of an Auto-Parts Giant: $2 Billion Hole and Mysterious CEO - The Wall Street Journal
+- Burn towns, slaughter, broadcast: 2022 Sinwar memo said to detail Hamas plan for Oct. 7 - The Times of Israel
+- Trump talks tough with China but holds out hope of truce in trade war - Financial Times
+- Stock Bubble Dread Grips Central Bankers in Washington - Bloomberg.com
 - The Gold Rush in Manhattan’s Diamond District - The Wall Street Journal
-- A tangled web of deals stokes AI bubble fears in Silicon Valley - BBC
-- Apple's Clips App Discontinued - MacRumors
+- Billions of Dollars ‘Vanished’: Low-Profile Bankruptcy Rings Alarms on Wall Street - The New York Times
+- Apple ends support for Clips video-editing app - The Verge
 - Windows 10 support ends October 14, but here's how to get an extra year for free - Engadget
