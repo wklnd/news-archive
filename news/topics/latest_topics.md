@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-11 22:37_
+_Updated: 2025-10-11 23:37_
 
 ## Top Stories
 
-- Skådespelaren Diane Keaton är död - SvD
 - Nathan Shachar: Avväpning av Hamas kan endast ske med civilt styre - DN
-- Uppgift: Svensk gängledare gripen i Mexiko - Västerbottens-Kuriren
-- Man död efter bråk i lägenhet i Malmö - Omni
-- Nobelkommittén misstänker spionage - GP
+- Misstänkt farliga föremål i Finja – polisen utreder försök till mord - SVT Nyheter
+- Man död efter lägenhetsbråk i Malmö – fyra gripna - GP
+- Nobelkommittén misstänker spionage - Västerbottens-Kuriren
+- JUST NU: Estland stänger gränsen till Ryssland - Marcus Oscarsson
 - Kristersson om Liberalernas besked om SD - SVT Nyheter
+- Uppgifter: Gängtoppen ”Greken” gripen i Mexiko - DN
 - Uppgifter till GP: Eddie Jobe gripen i Wien - GP
 - Två anhållna efter explosion i Vännäs - SVT Nyheter
-- Eskilstunabor i uppror mot ”giftfabriken” - DN
 - 11 oktober 14.00, Trafikkontroll, Norrbottens län - polisen.se
-- Fyra döda i skjutning i Mississippi - SVT Nyheter
-- Mystiska vapenmän – vid Estlands gräns mot Ryssland - Expressen
-- Karl Dalén: Vad är det som händer i USA? - DN
-- Inga överlevare efter explosion i vapenfabrik - Västerbottens-Kuriren
+- Macron ansluter till Trumps Egyptenmöte - GP
+- Dömde Lostprophets-sångaren död i knivattack - GP
+- Israel släpper 200 livstidsdömda palestinier i utbyte mot gisslan enligt Gaza-avtalet - Expressen
+- Explosion i vapenfabrik – flera döda - Västerbottens-Kuriren
 - Småsparare satsar på guld – ny rekordnivå - SvD
+- ”Världens dyraste svamp” såld för 53 000 kronor - DN
 - Krypto rasar – tre månaders uppgång utraderad - Hufvudstadsbladet
-- Fynd i amerikansk trädgård – gravsten från romarriket - DN
-- Debatt: VA-systemet har blivit en tickande räkning – inte en hållbar investering - sla.se
+- Fyndet i trädgården – gravsten från romarriket - Aftonbladet
 - ”Spelen uppvisar en romantiserad bild av krig” - DN
 - Microsoft uppdaterar Onedrive-appen med AI-agent för foton - PC för Alla
 
@@ -40,11 +40,11 @@ _Updated: 2025-10-11 22:37_
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - Lund University invests 85 million in international hiring drive - Lundagard.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - 🌏 Global ojämlikhet minskar faktiskt - Warp News
 
@@ -103,7 +103,6 @@ _Updated: 2025-10-11 22:37_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
@@ -111,54 +110,55 @@ _Updated: 2025-10-11 22:37_
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- De gick från reko till eko - ST-tidningen
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- Lediga jobb - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
-- Stor nyhet för matglada katter - Mynewsdesk
-- 7 av 10 svenskar firar hundens födelsedag - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
