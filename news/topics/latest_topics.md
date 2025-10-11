@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-11 05:06_
+_Updated: 2025-10-11 05:43_
 
 ## Top Stories
 
-- Förslaget: Ingen smarttelefon till barn under elva - DN
-- Vapenvila i Gaza – gisslan släpps inom tre dygn - Västerbottens-Kuriren
+- DN Direkt - Mohamsson om SD-regering: Kommer inte ändra oss - DN
+- Gazabon Ali: Tack Trump – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Ingen smarttelefon för barn under elva - Hufvudstadsbladet
 - Lecornu blir fransk premiärminister – igen - GP
-- Ryska påhoppet – finske ledaren kallas ”kannibal” - Expressen
-- Fotboll: Sverige föll mot Schweiz i VM-kvalet efter omdiskuterad straff - SVT Nyheter
-- Stig Engström är Årets Företagare i Sverige 2025 - Företagarna
-- Maria Corina Machado tilldelas Nobels fredspris 2025 - SVT Nyheter
+- Mexiko: Minst 23 döda efter skyfall - Västerbottens-Kuriren
+- Trumps ord om hälsan: ”I utmärkt form” - Expressen
+- Innovativt familjeföretag från Nyland vinner pris på Årets Företagare - NewsMachine AB
+- Michael Winiarski: En örfil mot den ratade Trump - DN
 - Listeria hittat i 13 livsmedel på lyxkrogen - Västerbottens-Kuriren
-- Håkan Boström: Liberalerna leker herrskap och tjänstefolk - GP
 - 10 oktober 17.54, Trafikkontroll, Norrbottens län - polisen.se
-- Mexiko: Minst 23 döda efter skyfall - Folkbladet
-- DN Direkt - Efter nedstängningen – personal sparkas i USA - DN
-- Barnmorska gav abortpiller till gravid som ville ha barn - Expressen
+- Gravid ville ha barn – fick abortpiller - Expressen
 - Zelenskyjs larm: ”Skapar kaos” - Expressen
-- Trumps nya tullhot mot Kina: 100 procent till - DN
+- Inget mått i världen kan ge Trump Nobels fredspris - Arbetet
+- Nya slaget mot svenska gängen - Expressen
+- Trump hotar Kina med nya strafftullar på 100 procent - SVT Nyheter
 - Bitcoin slår nya rekord: ”Dollarn urholkas” - SvD
 - Butiksstölder fortsätter öka: ”Tas inte på allvar” - Omni
-- Svensk kärnkraft mål för ryska attacker - magasinetparagraf.se
+- Svensk industri kliver in i ny kärnkraftssatsning - DagensNaringsliv.se
 - ”Spelen uppvisar en romantiserad bild av krig” - DN
 - Ny ägare till hus i Bygdeå - Västerbottens-Kuriren
 
@@ -38,15 +38,15 @@ _Updated: 2025-10-11 05:06_
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- New Secretary General appointed - Olof Palme International Center
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -121,24 +121,24 @@ _Updated: 2025-10-11 05:06_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
@@ -153,7 +153,7 @@ _Updated: 2025-10-11 05:06_
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
@@ -161,4 +161,4 @@ _Updated: 2025-10-11 05:06_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Unga lantbrukare får ingen chans - Land Lantbruk
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
