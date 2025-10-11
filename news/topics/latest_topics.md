@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-11 21:37_
+_Updated: 2025-10-11 22:37_
 
 ## Top Stories
 
-- Skådespelaren Diane Keaton är död - SVT Nyheter
+- Skådespelaren Diane Keaton är död - SvD
 - Nathan Shachar: Avväpning av Hamas kan endast ske med civilt styre - DN
 - Uppgift: Svensk gängledare gripen i Mexiko - Västerbottens-Kuriren
-- Ulf Kristersson: ”Alla partier har sin särart” - GP
-- Glaciär svalde hel alpby: Vill hitta gravarna - SvD
-- 11 oktober 08.58, Mord/dråp, försök, Norrköping - polisen.se
+- Man död efter bråk i lägenhet i Malmö - Omni
+- Nobelkommittén misstänker spionage - GP
+- Kristersson om Liberalernas besked om SD - SVT Nyheter
 - Uppgifter till GP: Eddie Jobe gripen i Wien - GP
 - Två anhållna efter explosion i Vännäs - SVT Nyheter
 - Eskilstunabor i uppror mot ”giftfabriken” - DN
 - 11 oktober 14.00, Trafikkontroll, Norrbottens län - polisen.se
 - Fyra döda i skjutning i Mississippi - SVT Nyheter
-- Joe Biden strålbehandlas för cancer - Västerbottens-Kuriren
-- Hamas-företrädare: Kommer inte lämna över vapen - GP
+- Mystiska vapenmän – vid Estlands gräns mot Ryssland - Expressen
 - Karl Dalén: Vad är det som händer i USA? - DN
+- Inga överlevare efter explosion i vapenfabrik - Västerbottens-Kuriren
 - Småsparare satsar på guld – ny rekordnivå - SvD
 - Krypto rasar – tre månaders uppgång utraderad - Hufvudstadsbladet
-- Förklaringen: Därför blev det fritt fall vid börsstängning - EFN
+- Fynd i amerikansk trädgård – gravsten från romarriket - DN
 - Debatt: VA-systemet har blivit en tickande räkning – inte en hållbar investering - sla.se
 - ”Spelen uppvisar en romantiserad bild av krig” - DN
 - Microsoft uppdaterar Onedrive-appen med AI-agent för foton - PC för Alla
 
 ## World News
 
-- Norden vill samla stark global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
 - UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
-- Nearly Two-Thirds of Global Retailers Say Payment Method Flexibility Drives Revenue Growth, ACI Worldwide Survey Finds - Placera.se
-- Lund University invests 85 million in international hiring drive - Lundagard.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Volkswagen Group increases global deliveries to 6.6 million vehicles by the end of September - Volkswagen Group
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Norden vill samla stark global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
+- Lund University invests 85 million in international hiring drive - Lundagard.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- New Secretary General appointed - Olof Palme International Center
 - VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
-- ZTE accelerates global expansion by strategically focusing on gaming smartphones for youth markets - Placera.se
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- 🌏 Global ojämlikhet minskar faktiskt - Warp News
 
 ## Technology
 
@@ -103,6 +103,7 @@ _Updated: 2025-10-11 21:37_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
@@ -110,12 +111,11 @@ _Updated: 2025-10-11 21:37_
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-11 21:37_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- An Giang Agricultural Extension 30 år av att stödja jordbrukare - Vietnam.vn
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- De gick från reko till eko - ST-tidningen
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Lediga jobb - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
-- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
-- Unga lantbrukare får ingen chans - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Stor nyhet för matglada katter - Mynewsdesk
+- 7 av 10 svenskar firar hundens födelsedag - Mynewsdesk
