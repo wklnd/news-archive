@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-11 17:37_
+_Updated: 2025-10-11 18:40_
 
 ## Top Stories
 
-- DN Direkt - Uppgifter: Gängledare gripen i Mexiko - DN
+- DN Direkt - Uppgifter: Gängtoppen gripen i Mexiko - DN
 - Röda korset: Stort antal team redo för Gaza - DN
+- Mordförsök i Malmö – polis har spärrat av område vid sjukhus - Aftonbladet
 - Gängtopp gripen i Österrike – misstänks för 13 år gammalt mord - SVT Nyheter
 - Ulf Kristersson: ”Alla partier har sin särart” - GP
-- Mordförsök i Malmö – polis har spärrat av område vid sjukhus - Aftonbladet
-- Eskilstunabor i uppror mot ”giftfabriken” - DN
+- 11 oktober 08.58, Mord/dråp, försök, Norrköping - polisen.se
 - Två anhållna efter explosion i Vännäs - SVT Nyheter
-- Ledare: Falsk anmälan skadar alla - NWT
+- Eskilstunabor i uppror mot ”giftfabriken” - DN
 - 11 oktober 14.00, Trafikkontroll, Norrbottens län - polisen.se
-- Stig Engström är årets företagare i Sverige - SVT Nyheter
+- Ledare: Falsk anmälan skadar alla - NWT
 - Hamas-företrädare: Kommer inte lämna över vapen - Västerbottens-Kuriren
 - Joe Biden strålbehandlas för cancer - GP
 - DN Direkt - Fyndet i trädgården – gravsten från romarriket - DN
-- HS: Pensionär använde lottovinst för kontraspionage åt Skyddspolisen - Hufvudstadsbladet
+- Sökandet efter den döda gisslan blir en utmaning - DN
 - Förklaringen: Därför blev det fritt fall vid börsstängning - EFN
 - Krypto rasar – tre månaders uppgång utraderad - Hufvudstadsbladet
 - Debatt: VA-systemet har blivit en tickande räkning – inte en hållbar investering - sla.se
@@ -32,20 +32,20 @@ _Updated: 2025-10-11 17:37_
 - S&P Global and CME Group Complete Sale of OSTTRA to KKR - Placera.se
 - Lund University invests 85 million in international hiring drive - Lundagard.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Nearly Two-Thirds of Global Retailers Say Payment Method Flexibility Drives Revenue Growth, ACI Worldwide Survey Finds - Placera.se
 - Volkswagen Group increases global deliveries to 6.6 million vehicles by the end of September - Volkswagen Group
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- New Secretary General appointed - Olof Palme International Center
+- ZTE accelerates global expansion by strategically focusing on gaming smartphones for youth markets - Placera.se
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
