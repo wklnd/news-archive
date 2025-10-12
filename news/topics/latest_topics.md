@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-12 13:38_
+_Updated: 2025-10-12 14:58_
 
 ## Top Stories
 
-- DN Direkt - Ebba Busch: Förbjud burka och niqab - DN
-- Uppgifter: Hamas mobiliserar i Gaza - GP
+- Källa: Hamas lämnar kontroll över Gaza - DN
+- Busch: Förbjud burka och niqab på allmän plats - SVT Nyheter
 - Fyra anhållna efter knivmordet i Malmö - Omni
-- Regeringsfrågan i fokus inför kvällens partiledardebatt – så oenig är oppositionen. - GP
-- Över 20 länder till Trumps Egyptenmöte - Hufvudstadsbladet
-- Misstänkt våldtäkt i centrala Örebro – delar av Oskarsparken avspärrad - SVT Nyheter
+- Svenska klimatmopederna knyts till ryss-kopplat bolag - Aftonbladet
+- Franska Gil: ”Folk har fått avsmak för politikerna” - GP
+- Skilj dig i London – tjäna miljarder - SvD
+- Gasutsläpp i västra Stockholm – explosionsrisk - Aftonbladet
+- Uppgift: Svensk gängledare gripen i Mexiko - Västerbottens-Kuriren
 - 12 oktober 08.27, Sammanfattning natt, Jämtlands län - polisen.se
 - I NATT: Flera fall av misshandel – våldsamt i Värmland: ”Fruktansvärt rörigt” - NWT
-- Försvunnen svampplockare funnen välbehållen i Dals-Ed - GP
-- Kokningsrekommendation för Frösön och Brittsbo hävd - SVT Nyheter
-- Man gripen misstänkt för våldtäkt i park - Expressen
-- Polisen söker vittnen – kvinna överfallen i Kiruna - NSD
-- Utländsk journalist inifrån Gaza: ”Mänskligheten har utplånats” - GP
 - Buss fast efter olycka – fasad kan rasa - Västerbottens-Kuriren
+- Israels oro: Hamas hinner inte hitta döda gisslan - Kvartal
+- Över 20 länder till Trumps Egyptenmöte - Hufvudstadsbladet
+- Flera regioner hårt drabbade av senaste ovädret - Sydkusten
 - Oro växer för AI-bubbla – ”kan vända tvärt” - SvD
 - Varningen till Trump: USA kan få brist på mat - Dagens PS
-- Klarnas vd: AI-chock på arbetsmarknaden på väg - SvD
+- Småsparare satsar på guld – ny rekordnivå - NWT
 - Sverige missar WHO:s vaccinmål: ”Vill ligga högre” - Aftonbladet
 - Tjäna 48 miljoner kronor – hitta buggen - Realtid
 - En demo på Heroes of Might and Magic: Olden Era har släppts - FZ.se
@@ -28,23 +28,23 @@ _Updated: 2025-10-12 13:38_
 ## World News
 
 - UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
-- S&P Global and CME Group Complete Sale of OSTTRA to KKR - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Volkswagen Group increases global deliveries to 6.6 million vehicles by the end of September - Volkswagen Group
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Finserve Global Security Fund blir Europas första försvarsfond klassificerad som artikel 8 - beQuoted
+- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - New Secretary General appointed - Olof Palme International Center
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - CGTN：How China is empowering women and advancing 'her power' - Placera.se
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
@@ -62,7 +62,6 @@ _Updated: 2025-10-12 13:38_
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
@@ -70,6 +69,7 @@ _Updated: 2025-10-12 13:38_
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 
 ## Business
 
