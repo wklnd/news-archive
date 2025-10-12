@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-12 14:58_
+_Updated: 2025-10-12 15:38_
 
 ## Top Stories
 
 - Källa: Hamas lämnar kontroll över Gaza - DN
+- Forskare: Svensk satsning på elmopeder är pinsam - Omni
 - Busch: Förbjud burka och niqab på allmän plats - SVT Nyheter
-- Fyra anhållna efter knivmordet i Malmö - Omni
-- Svenska klimatmopederna knyts till ryss-kopplat bolag - Aftonbladet
+- Misstänkt mord i Malmö - Västerbottens-Kuriren
 - Franska Gil: ”Folk har fått avsmak för politikerna” - GP
 - Skilj dig i London – tjäna miljarder - SvD
-- Gasutsläpp i västra Stockholm – explosionsrisk - Aftonbladet
+- Buss har kört in i byggnad - Expressen
 - Uppgift: Svensk gängledare gripen i Mexiko - Västerbottens-Kuriren
 - 12 oktober 08.27, Sammanfattning natt, Jämtlands län - polisen.se
 - I NATT: Flera fall av misshandel – våldsamt i Värmland: ”Fruktansvärt rörigt” - NWT
 - Buss fast efter olycka – fasad kan rasa - Västerbottens-Kuriren
-- Israels oro: Hamas hinner inte hitta döda gisslan - Kvartal
 - Över 20 länder till Trumps Egyptenmöte - Hufvudstadsbladet
+- Dödsskjutningar i Gaza när Hamas gör upp räkningen med upproriska klaner - DN
 - Flera regioner hårt drabbade av senaste ovädret - Sydkusten
 - Oro växer för AI-bubbla – ”kan vända tvärt” - SvD
 - Varningen till Trump: USA kan få brist på mat - Dagens PS
 - Småsparare satsar på guld – ny rekordnivå - NWT
-- Sverige missar WHO:s vaccinmål: ”Vill ligga högre” - Aftonbladet
-- Tjäna 48 miljoner kronor – hitta buggen - Realtid
+- Sverige missar WHO:s vaccinmål: ”Vill ligga högre” - SvD
 - En demo på Heroes of Might and Magic: Olden Era har släppts - FZ.se
+- Tjäna 48 miljoner kronor – hitta buggen - Realtid
 
 ## World News
 
@@ -40,12 +40,12 @@ _Updated: 2025-10-12 14:58_
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - New Secretary General appointed - Olof Palme International Center
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - CGTN：How China is empowering women and advancing 'her power' - Placera.se
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
@@ -143,22 +143,22 @@ _Updated: 2025-10-12 14:58_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Här är världens största jordbruk - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
