@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-12 04:13_
+_Updated: 2025-10-12 05:22_
 
 ## Top Stories
 
 - 11 oktober 19.14, Farligt föremål, misstänkt, Hässleholm - polisen.se
-- Hamas: Gisslan släpps på måndag - Västerbottens-Kuriren
-- DN Direkt - Uppgifter: Gängtoppen ”Greken” gripen i Mexiko - DN
-- Man död efter bråk i lägenhet i Malmö - Omni
-- Kristersson om Liberalernas besked om SD - SVT Nyheter
+- Nathan Shachar: Avväpning av Hamas kan endast ske med civilt styre - DN
+- Svensk gängledare gripen i Mexiko - Västerbottens-Kuriren
+- 250 döda djur i spanskt ”skräckhus” - GP
 - Uppgift: Tre diplomater från Qatar döda i bilolycka - Omni
+- Man död efter lägenhetsbråk i Malmö - HD
 - 11 oktober 14.00, Trafikkontroll, Norrbottens län - polisen.se
 - 11 oktober 08.37, Sammanfattning natt, Jämtlands län - polisen.se
 - Nobelkommittén misstänker spionage - Västerbottens-Kuriren
 - Plötsligt hot mot Sverige – från Kreml - Aftonbladet
-- Över 20 länder till Trumps Egyptenmöte - GP
+- Ledare från 20 länder till Trumps Gazamöte - DN
+- ”Ta ställning för de fattiga” manar påven Leos nya dokument - Signum – Katolsk orientering om kyrka, kultur och samhälle
 - Dömde Lostprophets-sångaren död i knivattack - GP
-- Nedstängning i USA: Massavskedanden har börjat - Aftonbladet
 - Israel vill inte släppa "palestiniernas Mandela" - UNT
 - Klarnas vd: AI-chock på arbetsmarknaden på väg - SvD
-- Guldregn över norrländska producenter när SM i mathantverk avgjordes i Skellefteå - LRF - Lantbrukarnas Riksförbund
+- Medaljregn över Rådmansö bageributik - Norrtelje Tidning
 - Debatt: VA-systemet har blivit en tickande räkning – inte en hållbar investering - sla.se
-- Vad gör jag när mina kollegor missköter sig? - Dagens Arbete
+- LEDARE: Ta bort lönegolvet för arbetskraftsinvandring - Blekinge Läns Tidning
 - ”Spelen uppvisar en romantiserad bild av krig” - DN
 - Microsoft visar upp nya Onedrive för Windows - SweClockers
 
@@ -39,14 +39,14 @@ _Updated: 2025-10-12 04:13_
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Norden vill samla stark global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - Lund University invests 85 million in international hiring drive - Lundagard.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- 🌏 Global ojämlikhet minskar faktiskt - Warp News
+- New Secretary General appointed - Olof Palme International Center
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -61,15 +61,15 @@ _Updated: 2025-10-12 04:13_
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 
 ## Business
 
@@ -99,46 +99,46 @@ _Updated: 2025-10-12 04:13_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Nyteknik
-- Mabel AI won the HealthTech Award 2023 - NewsMachine AB
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
+- Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 
 ## Jordbruk
 
