@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-12 11:37_
+_Updated: 2025-10-12 12:39_
 
 ## Top Stories
 
-- Hamas: Gisslan släpps på måndag - Hufvudstadsbladet
+- Hamas: Gisslan släpps på måndag - SVT Nyheter
+- DN Direkt - Ebba Busch: Förbjud burka och niqab - DN
+- Fyra anhållna efter knivmordet i Malmö - Omni
+- Palestine Cola en global succé – men nästan inga pengar har nått Gaza - Sydsvenskan
 - Ulf Kristersson: ”Alla partier har sin särart” - GP
-- Misstänkt våldtäkt i centrala Örebro – delar av Oskarsparken avspärrad - SVT Nyheter
 - Regeringsfrågan i fokus inför kvällens partiledardebatt – så oenig är oppositionen. - GP
-- DN Direkt - Man död efter lägenhetsbråk i Malmö – fyra gripna - DN
-- Pojkar säger sig ha blivit barnsoldater åt gängen: ”Jag manipulerades in” - Omni
 - Riktade sitt gevär från fönster – greps - SVT Nyheter
 - 12 oktober 08.27, Sammanfattning natt, Jämtlands län - polisen.se
 - I NATT: Flera fall av misshandel – våldsamt i Värmland: ”Fruktansvärt rörigt” - NWT
-- Misstänkt föremål sprängdes i Hässleholm - Västerbottens-Kuriren
-- Ledare från 20 länder till Trumps Gazamöte - DN
+- Försvunnen svampplockare funnen välbehållen i Dals-Ed - GP
+- Över 20 länder till Trumps Egyptenmöte - Hufvudstadsbladet
 - Giftig hostmedicin skördar liv – 20 barn döda - SvD
-- Frontalkrock sent på kvällen – fem döda i Norge - Västerbottens-Kuriren
-- Man gripen misstänkt för våldtäkt i park - Expressen
+- Inkräktare i Nyköping – boende flydde via balkong - Expressen
+- Utländsk journalist inifrån Gaza: ”Mänskligheten har utplånats” - GP
+- Oro växer för AI-bubbla – ”kan vända tvärt” - SvD
+- Varningen till Trump: USA kan få brist på mat - Dagens PS
 - Klarnas vd: AI-chock på arbetsmarknaden på väg - SvD
-- Småsparare satsar på guld – ny rekordnivå - NWT
 - Oljepriset rasar efter två tunga besked som skakar marknaden - Dagens PS
-- Sverige missar WHO:s vaccinmål: ”Vill ligga högre” - Aftonbladet
 - Tjäna 48 miljoner kronor – hitta buggen - Realtid
 - En demo på Heroes of Might and Magic: Olden Era har släppts - FZ.se
 
@@ -39,12 +39,12 @@ _Updated: 2025-10-12 11:37_
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Finserve Global Security Fund blir Europas första försvarsfond klassificerad som artikel 8 - beQuoted
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - New Secretary General appointed - Olof Palme International Center
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - CGTN：How China is empowering women and advancing 'her power' - Placera.se
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
@@ -66,10 +66,10 @@ _Updated: 2025-10-12 11:37_
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 
 ## Business
 
@@ -99,23 +99,23 @@ _Updated: 2025-10-12 11:37_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Mabel AI won the HealthTech Award 2023 - NewsMachine AB
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
 
 ## Science
 
@@ -123,20 +123,20 @@ _Updated: 2025-10-12 11:37_
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
@@ -150,15 +150,15 @@ _Updated: 2025-10-12 11:37_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Macron miljardsatsar på franskt jordbruk - Land Lantbruk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
