@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-12 22:39_
+_Updated: 2025-10-12 23:37_
 
 ## Top Stories
 
-- Statsvetare: Här är hetaste frågorna i kvällens partiledardebatt i SVT - DN
+- Här gör Ebba Busch en imitation av Nooshi Dadgostar - SVT Nyheter
 - Israel: 20 ur gisslan släpps på måndagsmorgonen - Hufvudstadsbladet
-- Andersson om burkaförbud: Beredd att diskutera - SVT Nyheter
-- Kraftig brand på återvinningsföretag i Åstorp - SVT Nyheter
+- DN Direkt - Ebba Busch: Förbjud burka och niqab - DN
 - Krock på väg 56 – fem personer till sjukhus - UNT
-- 10 000 kroppar kan finnas under rasmassorna i Gaza - Expressen
-- Misstänkt farligt föremål i Bromsten – stora avspärrningar - Expressen
+- Partiledare anklagade varandra för att ljuga - VLT
+- DN Direkt - Erik de la Reguera: Regeringen riskerar falla före nästa veckas slut - DN
 - 12 oktober 08.27, Sammanfattning natt, Jämtlands län - polisen.se
-- Gasutsläpp i västra Stockholm – explosionsrisk - Aftonbladet
 - I NATT: Flera fall av misshandel – våldsamt i Värmland: ”Fruktansvärt rörigt” - NWT
+- Morgan Karlsson är utsedd till Årets Folkets Hus och Park-profil 2025 - Via TT
+- Ryska soldater rörde sig på estnisk väg – stängdes - Hufvudstadsbladet
 - Världens äldste president vill bli kvar till 99 - Västerbottens-Kuriren
-- DN Direkt - Fyra döda och 20 skadade i skjutning i USA - DN
 - Hamasledarens order inför 7 oktober: Attackera kibbutzer - DN
-- Strömmen åter i Kiev efter ryska attacker - GP
-- JD Vance till Kina: Trump har fler kort på handen - Di
-- Koenigsegg sparkar chef – svarar med miljonstämning - Di
+- Masskjutning på bar i USA – fyra döda - GP
+- Dödsskjutningar i Gaza när Hamas gör upp räkningen med upproriska klaner - DN
+- JD Vance till Kina: Trump har fler kort på handen - DI
+- Koenigsegg sparkar chef – svarar med miljonstämning - DI
 - Oskäliga skillnader i VA-taxor – Karlskoga har höjt med 29 procent - KT-Kuriren
 - Ledare: Regeringen borde skrota lönegolvet - Tidningen Näringslivet
 - Tavern Keeper går ut i early access efter 11 år i utveckling - FZ.se
@@ -144,20 +144,20 @@ _Updated: 2025-10-12 22:39_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- An Giang Agricultural Extension 30 år av att stödja jordbrukare - Vietnam.vn
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Intensivt jordbruk hotar biologisk mångfald - Sveriges Natur
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Unga lantbrukare får ingen chans - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
