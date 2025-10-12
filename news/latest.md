@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-12 18:48_
+_Updated: 2025-10-12 19:48_
 
-- Israel and Gaza prepare for release of hostages and prisoners - The Guardian
-- Investigators tread carefully at charred Tennessee explosives plant as families of 16 blast victims learn of their loss - CNN
+- Exclusive | Hamas Says It’s Ready to Hand Over 20 Living Israeli Hostages - The Wall Street Journal
+- Donald Trump scrambles to seal the deal in Gaza - The Economist
+- Afghanistan and Pakistan claim to kill dozens of soldiers in border clash - The Washington Post
 - 5 things to know about the health care fight behind the shutdown - NPR
-- N.J. power outages: Thousands in dark as nor’easter hits state with high winds, rain - NJ.com
-- Beijing blames US for raising trade tensions, defends rare earth curbs - Reuters
-- Pakistani, Afghan forces exchange deadly border fire: What’s next? - Al Jazeera
-- S.C. bar shooting: 4 dead, 20 injured, sheriff says - AL.com
+- N.J. weather: Nor’easter begins lashing state with fierce winds, rain. Major Jersey Shore flooding likely. - NJ.com
+- China defiant in first official response to Trump: 'We do not want a tariff war but we are not afraid of one' - Fortune
+- At least 4 killed, 20 hurt in bar shooting in St. Helena Island, South Carolina: Sheriff - ABC News - Breaking News, Latest News and Videos
+- 16 people died in a blast at a Tennessee explosives factory early Friday, sheriff says - NPR
+- Johnson says he had 'thoughtful' conversation with MTG about bucking Republicans on healthcare - Politico
 - Appeals Court Allows Federalized National Guard, but Retains Block on Chicago Deployment - The New York Times
-- Sen. Mark Kelly says vote on healthcare subsidies alone won't end shutdown - Politico
-- Justice Anthony Kennedy on the Supreme Court today: "A little bit too personal and confrontational" - CBS News
 - Ceasefire holds in Gaza ahead of hostage release and Trump's visit to Israel - Reuters
+- Trump, Sissi to chair Gaza summit in Egypt; Israel not invited; Hamas, PA not attending - The Times of Israel
 - Madagascar's president says a coup is underway after soldiers joined anti-government demonstrations - AP News
 - UK tells universities to crack down on antisemitism after Manchester terror attack - The Times of Israel
-- World’s oldest president could extend his rule as Cameroon votes in an election - AP News
 - Taiwan sees no significant impact on chip sector from China rare earths curbs - Reuters
 - California oil workers face an uncertain future in the state's energy transition - ABC News - Breaking News, Latest News and Videos
-- Trump’s tariff revenue checks could create a ‘weird feedback loop’ that encourages more price hikes, analyst says - Fortune
-- AMD Stock Gets a Price Target Boost from Top TD Cowen Analyst. Here’s Why - TipRanks
+- Behind the Collapse of an Auto-Parts Giant: $2 Billion Hole and Mysterious CEO - The Wall Street Journal
+- AMD Amps Up Chip War - The Wall Street Journal
 - Gurman: Three new Apple products likely launching ‘this week’ - 9to5Mac
-- Tekken 8 DLC character Miary Zo launches December 1 for Season 2 Character Pass owners, December 4 for all - Gematsu
+- Target And Walmart Are Pulling Their Xbox Stock, According To Alleged Staff - TheGamer
