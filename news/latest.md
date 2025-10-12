@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-12 12:48_
+_Updated: 2025-10-12 13:48_
 
+- Israelis and Palestinians Await Hostage-Prisoner Swap With Relief and Elation - The New York Times
 - Trump orders Defense Dept. to issue military paychecks during shutdown - The Washington Post
-- Afghanistan says it has killed 58 Pakistani soldiers in overnight border operations - AP News
-- 16 people died in a blast at a Tennessee explosives factory early Friday, sheriff says - NPR
+- Afghanistan claims 58 Pakistani soldiers killed in clashes; border closed - Reuters
+- China accuses US of 'double standards' over tariff threat - BBC
 - N.J. weather: Nasty nor’easter on track to slam state with high winds, coastal flooding. Latest forecast. - NJ.com
-- Hospital prepares to receive freed Israeli hostages: 'We are inventing captivity medicine' - BBC
-- At Least 3 Are Injured on the Ground After Helicopter Crashes in California - The New York Times
+- Five hospitalized after helicopter crashes next to Huntington Beach hotel - Los Angeles Times
+- Investigators tread carefully at charred Tennessee explosives plant as families of 16 blast victims learn of their loss - CNN
 - Appeals court bars Trump from deploying National Guard in Illinois - The Washington Post
-- Xi’s Red Line on Trump’s Export Curbs Threatens to Upend Truce - Bloomberg.com
+- Outbursts by Katie Porter threaten gubernatorial ambitions - Los Angeles Times
 - Trump's indictment of New York attorney general Letitia James stirs concerns for Black women leaders - AP News
-- Among Portland Protests, It’s Frogs and Sharks and Bears, Oh My! - The New York Times
-- Reappointed French PM says new cabinet must not give in to politics - Euronews.com
-- Ceasefire implementation plan: 4,200 aid trucks weekly, immediate Gaza reconstruction - Ynetnews
-- British army horse who ran through the streets of London gets well-deserved retirement - CBS News
-- Fears of a Coup Rise in Madagascar as Army Unit Joins Protesters - The New York Times
+- Palestinians return to ruins and the U.S. expects hostages freed on Monday as Gaza ceasefire holds - CNBC
+- UK tells universities to crack down on antisemitism after Manchester terror attack - The Times of Israel
+- Criticism Greets Macron’s Repeat Pick of Lecornu for Prime Minister: ‘Bad Joke’ - The New York Times
+- Cameroon heads to the polls as the world’s oldest president bids to extend his rule - AP News
+- ‘Worst Liquidation Event in Crypto History’: Jonathan Man on What Happened and How - CoinDesk
 - At this rate, the price of gold could soar to $10,000 per ounce in just three years - Fortune
+- Stock Bubble Dread Grips Central Bankers in Washington - Yahoo Finance
 - Behind the Collapse of an Auto-Parts Giant: $2 Billion Hole and Mysterious CEO - The Wall Street Journal
-- Sam's Club Sunday hours get big boost. Here's what is changing. - Axios
-- China blames Trump and US for escalating trade war - Financial Times
 - Vision Pro Future Uncertain as All Headset Development Is Seemingly Paused - MacRumors
-- Apple ends support for Clips video-editing app - The Verge
+- Battlefield 6 has only been out a day and it's already one of Steam's biggest games ever - Eurogamer
