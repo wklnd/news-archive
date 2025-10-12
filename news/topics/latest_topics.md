@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-13 00:39_
+_Updated: 2025-10-13 01:38_
 
 ## Top Stories
 
-- Här gör Ebba Busch en imitation av Nooshi Dadgostar - SVT Nyheter
-- Israel: De 20 i gisslan släpps måndag morgon - DN
-- Partiledare anklagade varandra för att ljuga - VLT
-- Svensk gängledare gripen i Mexiko - Västerbottens-Kuriren
+- Hettade till mellan Busch och Dadgostar – Partiledardebatt i Agenda - SVT Nyheter
+- Israel: 20 ur gisslan släpps på måndagsmorgonen - Hufvudstadsbladet
+- DN Direkt - Ingen svensk bekräftelse på gripandet av ”Greken” - DN
 - Busch öppnar för S-förslag – Kristersson: Orättvist - GP
-- Krock på väg 56 – fem personer till sjukhus - UNT
 - Andersson om burkaförbud: Beredd att diskutera - SVT Nyheter
+- Flera barn döda i båtolycka i Ghana - Västerbottens-Kuriren
+- Partiledare anklagade varandra för att ljuga - Västerbottens-Kuriren
+- Nobelpristagaren spelas på Dramaten: ”Folkligt och upphöjt” - Sveriges Radio
+- 12 oktober 18.29, Mord/dråp, försök, Skellefteå - polisen.se
 - 12 oktober 08.27, Sammanfattning natt, Jämtlands län - polisen.se
-- I NATT: Flera fall av misshandel – våldsamt i Värmland: ”Fruktansvärt rörigt” - NWT
-- Morgan Karlsson är utsedd till Årets Folkets Hus och Park-profil 2025 - Via TT
+- Dödsskjutningar i Gaza när Hamas gör upp räkningen med upproriska klaner - DN
 - Världens äldste president vill bli kvar till 99 - Västerbottens-Kuriren
-- DN Direkt - Fyra döda och 20 skadade i skjutning i USA - DN
-- Hamasledarens order inför 7 oktober: Attackera kibbutzer - DN
-- Strömmen åter i Kiev efter ryska attacker - GP
-- JD Vance till Kina: Trump har fler kort på handen - DI
+- Masskjutning på bar i USA – fyra döda - GP
+- Strömmen åter i Kiev efter ryska attacker - Västerbottens-Kuriren
+- JD Vance till Kina: Trump har fler kort på handen - Dagens industri
 - Kryptoras efter Trumps tullutspel – Bitcoin tappar över 10 procent - Finanstid
-- Koenigsegg sparkar chef – svarar med miljonstämning - DI
+- Koenigsegg sparkar chef – svarar med miljonstämning - Dagens industri
 - Oskäliga skillnader i VA-taxor – Karlskoga har höjt med 29 procent - KT-Kuriren
 - Tavern Keeper går ut i early access efter 11 år i utveckling - FZ.se
-- Experten: Det är skillnaden mellan satsumas, clementin och mandarin - TV4 Nyheterna
+- Battlefield 6 - Kriget pågår för fullt men köerna är långa - FZ.se
 
 ## World News
 
-- S&P Global and CME Group Complete Sale of OSTTRA to KKR - Placera.se
 - UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Volkswagen Group increases global deliveries to 6.6 million vehicles by the end of September - Volkswagen Group
@@ -47,6 +46,7 @@ _Updated: 2025-10-13 00:39_
 - Ex-nyhetsankare på BBC hade barnpornografi - Omni
 - CGTN：How China is empowering women and advancing 'her power' - Placera.se
 - CHiQ Strengthens Global Sports Engagement with FIS Ski Jumping World Cup Partnership - Placera.se
+- 🌏 Global ojämlikhet minskar faktiskt - Warp News
 
 ## Technology
 
@@ -61,31 +61,31 @@ _Updated: 2025-10-13 00:39_
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
+- Expert.ai and Springer Nature Partner to Transform Clinical Trials with AI-Driven Intelligence and Deep Domain Expertise - Placera.se
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Global Drone Mapping Market is a Rapidly Expanding Sector Expected to Reach $6.7 Billion By 2035 - Placera.se
 
 ## Business
 
 - Braskem S.A. Investigated for Securities Fraud Violations - Contact the DJS Law Group to Discuss Your Rights – BAK - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - BAK Investors Have Opportunity to Join Braskem S.A. Fraud Investigation with the Schall Law Firm - Placera.se
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- INTERNATIONAL BATTERY METALS LTD. ANNOUNCES SENIOR MANAGEMENT CHANGE - Placera.se
 - Student and entry-level programs - EY
 - JPMorgan Chase affärsmodell - Business Model Analyst
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- INTERNATIONAL BATTERY METALS LTD. ANNOUNCES SENIOR MANAGEMENT CHANGE - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
@@ -110,9 +110,9 @@ _Updated: 2025-10-13 00:39_
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
@@ -130,8 +130,8 @@ _Updated: 2025-10-13 00:39_
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
@@ -143,22 +143,22 @@ _Updated: 2025-10-13 00:39_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mjau lanserar Partypuffar med smak av kattmynta – krispiga snacks för lek och belöning - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Maskinförare | Jobb | ATL - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
-- Unga lantbrukare får ingen chans - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
