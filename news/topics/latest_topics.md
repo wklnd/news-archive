@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-12 15:38_
+_Updated: 2025-10-12 16:38_
 
 ## Top Stories
 
-- Källa: Hamas lämnar kontroll över Gaza - DN
+- På plats: Hamas redo släppa gisslan idag – Senaste nytt om kriget i Gaza - SVT Nyheter
+- DN Direkt - Ebba Busch: Förbjud burka och niqab - DN
 - Forskare: Svensk satsning på elmopeder är pinsam - Omni
-- Busch: Förbjud burka och niqab på allmän plats - SVT Nyheter
 - Misstänkt mord i Malmö - Västerbottens-Kuriren
-- Franska Gil: ”Folk har fått avsmak för politikerna” - GP
+- Barn släppte ner stenar på bilar – på motorväg - Expressen
 - Skilj dig i London – tjäna miljarder - SvD
-- Buss har kört in i byggnad - Expressen
+- DN Direkt - Explosionsrisk efter gasutsläpp i västra Stockholm - DN
 - Uppgift: Svensk gängledare gripen i Mexiko - Västerbottens-Kuriren
 - 12 oktober 08.27, Sammanfattning natt, Jämtlands län - polisen.se
 - I NATT: Flera fall av misshandel – våldsamt i Värmland: ”Fruktansvärt rörigt” - NWT
-- Buss fast efter olycka – fasad kan rasa - Västerbottens-Kuriren
-- Över 20 länder till Trumps Egyptenmöte - Hufvudstadsbladet
+- Masskjutning på bar i USA – fyra döda - Västerbottens-Kuriren
+- DN Direkt - Buss körde in i byggnad i Köpenhamn – tre till sjukhus - DN
 - Dödsskjutningar i Gaza när Hamas gör upp räkningen med upproriska klaner - DN
-- Flera regioner hårt drabbade av senaste ovädret - Sydkusten
+- Över 20 länder till Trumps Egyptenmöte - Hufvudstadsbladet
+- Biljätten Porsche i gungning – ett land orsakar jättefallet - Dagens PS
 - Oro växer för AI-bubbla – ”kan vända tvärt” - SvD
-- Varningen till Trump: USA kan få brist på mat - Dagens PS
+- Klarnas vd varnar för AI-chock - Tidningen Näringslivet
 - Småsparare satsar på guld – ny rekordnivå - NWT
-- Sverige missar WHO:s vaccinmål: ”Vill ligga högre” - SvD
-- En demo på Heroes of Might and Magic: Olden Era har släppts - FZ.se
-- Tjäna 48 miljoner kronor – hitta buggen - Realtid
+- Experten: Det är skillnaden mellan satsumas, clementin och mandarin - TV4 Nyheterna
+- Skarpa versionen av LineageOS 23 lanserad - mobil.se
 
 ## World News
 
@@ -65,11 +65,11 @@ _Updated: 2025-10-12 15:38_
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
-- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
-- Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 
 ## Business
 
