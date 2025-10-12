@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-12 21:48_
+_Updated: 2025-10-12 22:47_
 
 - Vance confirms to ABC that Hamas has 20 living hostages, expected release in next 24 hours - ABC News - Breaking News, Latest News and Videos
-- Gaza City clashes between Hamas and clan members leave 27 dead - BBC
-- Vance says administration will keep fighting to send National Guard to Chicago - NPR
-- 5 things to know about the health care fight behind the shutdown - NPR
-- Serious flooding is underway from a strong nor’easter unleashing damaging winds as it moves up the East Coast - CNN
 - Trump’s 100% tariff threat sparks defiance from Beijing - Politico
-- At least 4 killed, 20 hurt in bar shooting in St. Helena Island, South Carolina: Sheriff - ABC News - Breaking News, Latest News and Videos
+- Vance says administration will keep fighting to send National Guard to Chicago - NPR
+- Nor'easter hits Connecticut with heavy rain and winds that may reach 50 mph - CT Insider
+- Madagascar presidency says attempt to seize power under way - BBC
+- Overnight Violence Between Afghanistan and Pakistan Threatens a Wider Conflict - The New York Times
+- South Carolina bar shooting leaves four people dead and 20 injured, officials say - The Guardian
 - Death toll from Tennessee munitions blast lowered to 16, sheriff says - Reuters
-- Trump ‘looking at all options’ amid threats to invoke Insurrection Act, Vance says - The Guardian
-- Democratic lawmaker decries strikes on Venezuelan boats as 'illegal killings' - Politico
-- Ceasefire holds in Gaza ahead of hostage release and Trump's visit to Israel - Reuters
-- Afghanistan and Pakistan claim to kill dozens of soldiers in border clash - The Washington Post
-- Trump, Sissi to chair Gaza summit in Egypt; Israel not invited; Hamas, PA not attending - The Times of Israel
-- Madagascar's president says a coup is underway after soldiers joined anti-government demonstrations - AP News
+- Vance warns ‘deeper’ cuts ahead for federal workers as shutdown enters 12th day - AP News
+- Trump Is Blowing Up Boats Off Venezuela. Could Mexico’s Cartels Be Next? - The New York Times
+- Israel lays out plans for hostage release and prisoner swap expected on Monday - CNBC
+- French PM Lecornu meets with Macron as budget deadline looms - Reuters
+- Trump, Sissi to chair Gaza summit in Egypt; Abbas to attend; Israel, Hamas not invited - The Times of Israel
+- World’s oldest president could extend his rule as Cameroon votes in an election - AP News
 - Cars to Fighter Jets: China’s New Export Curbs May Level a Heavy Blow Worldwide - The New York Times
-- California oil workers face an uncertain future in the state's energy transition - ABC News - Breaking News, Latest News and Videos
 - Behind the Collapse of an Auto-Parts Giant: $2 Billion Hole and Mysterious CEO - The Wall Street Journal
+- California oil workers face an uncertain future in the state's energy transition - ABC News - Breaking News, Latest News and Videos
 - AMD Amps Up Chip War - The Wall Street Journal
 - Apple has already begun work on an H3 chip and next-generation AirPods: report - 9to5Mac
-- AT&T Website References Next-Generation iPad Pro With M5 Chip - MacRumors
+- The first products with Apple's M5 chip could make their debut this week - Engadget
