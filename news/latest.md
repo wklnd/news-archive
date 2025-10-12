@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-12 15:02_
+_Updated: 2025-10-12 15:48_
 
 - Israel and Gaza prepare for release of hostages and prisoners - The Guardian
+- Dozens killed in Pakistan-Afghanistan clashes, border closed - Reuters
 - Trump orders Defense Dept. to issue military paychecks during shutdown - The Washington Post
-- Afghanistan claims 58 Pakistani soldiers killed in clashes; border closed - Reuters
 - Nor’Easter Forecast: A Strong Storm Threatens the East Coast With Flooding - The New York Times
 - China accuses US of 'double standards' over tariff threat - BBC
+- Helicopter spins out of control into palm trees at popular California beach - The Guardian
 - 16 people died in a blast at a Tennessee explosives factory early Friday, sheriff says - NPR
-- National Guard deployment still blocked in Illinois after federal appeals court steps in Saturday - Chicago Sun-Times
+- Appeals Court Allows Federalized National Guard, but Retains Block on Chicago Deployment - The New York Times
 - Inside Uthmeier’s path to a critical Trump endorsement in Florida - Politico
 - Former schools chief Austin Beutner plans to challenge Bass, blasting her over Palisades fire - Los Angeles Times
-- Katie Porter Videos Give California Rivals a New Opening - The New York Times
-- Universities must act on antisemitic abuse, Bridget Phillipson says - BBC
-- Ceasefire implementation plan: 4,200 aid trucks weekly, immediate Gaza reconstruction - Ynetnews
+- UK tells universities to crack down on antisemitism after Manchester terror attack - The Times of Israel
 - Madagascar presidency says attempt to seize power under way - BBC
-- Cameroon heads to the polls as the world’s oldest president bids to extend his rule - AP News
-- ‘Worst Liquidation Event in Crypto History’: Jonathan Man on What Happened and How - CoinDesk
-- Stock Bubble Dread Grips Central Bankers in Washington - Bloomberg.com
+- World’s oldest president could extend his rule as Cameroon votes in an election - AP News
+- Trump and el-Sisi to chair peace summit Monday to end war in Gaza - politico.eu
 - Trump says inflation is 'defeated' and the Fed has cut rates, yet prices remain too high for many - AP News
-- At this rate, the price of gold could soar to $10,000 per ounce in just three years - Fortune
-- Vision Pro Future Uncertain as All Headset Development Is Seemingly Paused - MacRumors
+- Stock Bubble Dread Grips Central Bankers in Washington - Bloomberg.com
+- China blames Trump and US for escalating trade war - Financial Times
+- ‘Worst Liquidation Event in Crypto History’: Jonathan Man on What Happened and How - CoinDesk
 - Battlefield 6 has only been out a day and it's already one of Steam's biggest games ever - Eurogamer
+- Vision Pro Future Uncertain as All Headset Development Is Seemingly Paused - MacRumors
