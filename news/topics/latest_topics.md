@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-12 05:22_
+_Updated: 2025-10-12 05:47_
 
 ## Top Stories
 
 - 11 oktober 19.14, Farligt föremål, misstänkt, Hässleholm - polisen.se
-- Nathan Shachar: Avväpning av Hamas kan endast ske med civilt styre - DN
+- Ledare från 20 länder till Trumps Gazamöte - DN
 - Svensk gängledare gripen i Mexiko - Västerbottens-Kuriren
 - 250 döda djur i spanskt ”skräckhus” - GP
 - Uppgift: Tre diplomater från Qatar döda i bilolycka - Omni
 - Man död efter lägenhetsbråk i Malmö - HD
 - 11 oktober 14.00, Trafikkontroll, Norrbottens län - polisen.se
+- Beväpnad man gripen på Södermalm - Expressen
 - 11 oktober 08.37, Sammanfattning natt, Jämtlands län - polisen.se
 - Nobelkommittén misstänker spionage - Västerbottens-Kuriren
-- Plötsligt hot mot Sverige – från Kreml - Aftonbladet
-- Ledare från 20 länder till Trumps Gazamöte - DN
+- ”Gisslan kan släppas redan imorgon ” – Senaste nytt om kriget i Gaza - SVT Nyheter
 - ”Ta ställning för de fattiga” manar påven Leos nya dokument - Signum – Katolsk orientering om kyrka, kultur och samhälle
-- Dömde Lostprophets-sångaren död i knivattack - GP
 - Israel vill inte släppa "palestiniernas Mandela" - UNT
+- Nedstängning i USA: Massavskedanden har börjat - Aftonbladet
 - Klarnas vd: AI-chock på arbetsmarknaden på väg - SvD
 - Medaljregn över Rådmansö bageributik - Norrtelje Tidning
-- Debatt: VA-systemet har blivit en tickande räkning – inte en hållbar investering - sla.se
 - LEDARE: Ta bort lönegolvet för arbetskraftsinvandring - Blekinge Läns Tidning
+- Debatt: VA-systemet har blivit en tickande räkning – inte en hållbar investering - sla.se
 - ”Spelen uppvisar en romantiserad bild av krig” - DN
 - Microsoft visar upp nya Onedrive för Windows - SweClockers
 
@@ -39,14 +39,14 @@ _Updated: 2025-10-12 05:22_
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Norden vill samla stark global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - Lund University invests 85 million in international hiring drive - Lundagard.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- New Secretary General appointed - Olof Palme International Center
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- 🌏 Global ojämlikhet minskar faktiskt - Warp News
 
 ## Technology
 
@@ -74,8 +74,8 @@ _Updated: 2025-10-12 05:22_
 ## Business
 
 - Braskem S.A. Investigated for Securities Fraud Violations - Contact the DJS Law Group to Discuss Your Rights – BAK - Placera.se
-- BAK Investors Have Opportunity to Join Braskem S.A. Fraud Investigation with the Schall Law Firm - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- BAK Investors Have Opportunity to Join Braskem S.A. Fraud Investigation with the Schall Law Firm - Placera.se
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
@@ -92,7 +92,7 @@ _Updated: 2025-10-12 05:22_
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 
 ## Health
 
@@ -120,25 +120,25 @@ _Updated: 2025-10-12 05:22_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
@@ -151,14 +151,14 @@ _Updated: 2025-10-12 05:22_
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
+- Unga lantbrukare får ingen chans - Land Lantbruk
