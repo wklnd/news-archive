@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-12 21:38_
+_Updated: 2025-10-12 22:39_
 
 ## Top Stories
 
 - Statsvetare: Här är hetaste frågorna i kvällens partiledardebatt i SVT - DN
-- Två personbilar i kollision utanför Heby – fem till sjukhus - SVT Nyheter
-- Dadgostar: ”Har inte träffat en socialsekreterare som gillar dig, Ulf” - Omni
-- På plats: 600 lastbilar med nödhjälp varje dag – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Busch: Förbjud burka och niqab på allmän plats - GP
-- Expertens teori om beväpnade ryska männen vid Estlands gräns - Expressen
-- DN Direkt - Explosionsrisk efter gasutsläpp i västra Stockholm - DN
+- Israel: 20 ur gisslan släpps på måndagsmorgonen - Hufvudstadsbladet
+- Andersson om burkaförbud: Beredd att diskutera - SVT Nyheter
+- Kraftig brand på återvinningsföretag i Åstorp - SVT Nyheter
+- Krock på väg 56 – fem personer till sjukhus - UNT
+- 10 000 kroppar kan finnas under rasmassorna i Gaza - Expressen
+- Misstänkt farligt föremål i Bromsten – stora avspärrningar - Expressen
 - 12 oktober 08.27, Sammanfattning natt, Jämtlands län - polisen.se
+- Gasutsläpp i västra Stockholm – explosionsrisk - Aftonbladet
 - I NATT: Flera fall av misshandel – våldsamt i Värmland: ”Fruktansvärt rörigt” - NWT
-- Forskare: Svensk satsning på elmopeder är pinsam - Omni
+- Världens äldste president vill bli kvar till 99 - Västerbottens-Kuriren
 - DN Direkt - Fyra döda och 20 skadade i skjutning i USA - DN
 - Hamasledarens order inför 7 oktober: Attackera kibbutzer - DN
-- Buss fast efter olycka – fasad kan rasa - Västerbottens-Kuriren
-- Magnetfiskare fiskade upp misstänkt föremål - Aftonbladet
-- JD Vance till Kina: Trump har fler kort på handen - DI
-- Koenigsegg sparkar chef – svarar med miljonstämning - DI
+- Strömmen åter i Kiev efter ryska attacker - GP
+- JD Vance till Kina: Trump har fler kort på handen - Di
+- Koenigsegg sparkar chef – svarar med miljonstämning - Di
 - Oskäliga skillnader i VA-taxor – Karlskoga har höjt med 29 procent - KT-Kuriren
-- Kryptoras efter Trumps tullutspel – Bitcoin tappar över 10 procent - Finanstid
+- Ledare: Regeringen borde skrota lönegolvet - Tidningen Näringslivet
 - Tavern Keeper går ut i early access efter 11 år i utveckling - FZ.se
 - Experten: Det är skillnaden mellan satsumas, clementin och mandarin - TV4 Nyheterna
 
 ## World News
 
-- S&P Global and CME Group Complete Sale of OSTTRA to KKR - Placera.se
 - UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Volkswagen Group increases global deliveries to 6.6 million vehicles by the end of September - Volkswagen Group
@@ -35,18 +34,19 @@ _Updated: 2025-10-12 21:38_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Finserve Global Security Fund blir Europas första försvarsfond klassificerad som artikel 8 - beQuoted
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- New Secretary General appointed - Olof Palme International Center
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Somaliland: Election in a "non-existing" country - Global Bar Magazine
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
 - CGTN：How China is empowering women and advancing 'her power' - Placera.se
+- New Secretary General appointed - Olof Palme International Center
+- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 
 ## Technology
 
@@ -142,22 +142,22 @@ _Updated: 2025-10-12 21:38_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- An Giang Agricultural Extension 30 år av att stödja jordbrukare - Vietnam.vn
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Intensivt jordbruk hotar biologisk mångfald - Sveriges Natur
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Här är världens största jordbruk - ATL
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Maskinförare | Jobb | ATL - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
+- Unga lantbrukare får ingen chans - Land Lantbruk
