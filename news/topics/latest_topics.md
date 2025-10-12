@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-12 12:39_
+_Updated: 2025-10-12 13:38_
 
 ## Top Stories
 
-- Hamas: Gisslan släpps på måndag - SVT Nyheter
 - DN Direkt - Ebba Busch: Förbjud burka och niqab - DN
+- Uppgifter: Hamas mobiliserar i Gaza - GP
 - Fyra anhållna efter knivmordet i Malmö - Omni
-- Palestine Cola en global succé – men nästan inga pengar har nått Gaza - Sydsvenskan
-- Ulf Kristersson: ”Alla partier har sin särart” - GP
 - Regeringsfrågan i fokus inför kvällens partiledardebatt – så oenig är oppositionen. - GP
-- Riktade sitt gevär från fönster – greps - SVT Nyheter
+- Över 20 länder till Trumps Egyptenmöte - Hufvudstadsbladet
+- Misstänkt våldtäkt i centrala Örebro – delar av Oskarsparken avspärrad - SVT Nyheter
 - 12 oktober 08.27, Sammanfattning natt, Jämtlands län - polisen.se
 - I NATT: Flera fall av misshandel – våldsamt i Värmland: ”Fruktansvärt rörigt” - NWT
 - Försvunnen svampplockare funnen välbehållen i Dals-Ed - GP
-- Över 20 länder till Trumps Egyptenmöte - Hufvudstadsbladet
-- Giftig hostmedicin skördar liv – 20 barn döda - SvD
-- Inkräktare i Nyköping – boende flydde via balkong - Expressen
+- Kokningsrekommendation för Frösön och Brittsbo hävd - SVT Nyheter
+- Man gripen misstänkt för våldtäkt i park - Expressen
+- Polisen söker vittnen – kvinna överfallen i Kiruna - NSD
 - Utländsk journalist inifrån Gaza: ”Mänskligheten har utplånats” - GP
+- Buss fast efter olycka – fasad kan rasa - Västerbottens-Kuriren
 - Oro växer för AI-bubbla – ”kan vända tvärt” - SvD
 - Varningen till Trump: USA kan få brist på mat - Dagens PS
 - Klarnas vd: AI-chock på arbetsmarknaden på väg - SvD
-- Oljepriset rasar efter två tunga besked som skakar marknaden - Dagens PS
+- Sverige missar WHO:s vaccinmål: ”Vill ligga högre” - Aftonbladet
 - Tjäna 48 miljoner kronor – hitta buggen - Realtid
 - En demo på Heroes of Might and Magic: Olden Era har släppts - FZ.se
 
@@ -76,19 +76,19 @@ _Updated: 2025-10-12 12:39_
 - Braskem S.A. Investigated for Securities Fraud Violations - Contact the DJS Law Group to Discuss Your Rights – BAK - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - BAK Investors Have Opportunity to Join Braskem S.A. Fraud Investigation with the Schall Law Firm - Placera.se
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Student and entry-level programs - EY
 - JPMorgan Chase affärsmodell - Business Model Analyst
+- Student and entry-level programs - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
@@ -120,25 +120,25 @@ _Updated: 2025-10-12 12:39_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
