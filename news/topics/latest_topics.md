@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-12 16:38_
+_Updated: 2025-10-12 17:37_
 
 ## Top Stories
 
-- På plats: Hamas redo släppa gisslan idag – Senaste nytt om kriget i Gaza - SVT Nyheter
-- DN Direkt - Ebba Busch: Förbjud burka och niqab - DN
+- Källa: Hamas lämnar kontroll över Gaza - DN
+- Expertens teori om beväpnade ryska männen vid Estlands gräns - Expressen
 - Forskare: Svensk satsning på elmopeder är pinsam - Omni
+- Busch: Förbjud burka och niqab på allmän plats - SVT Nyheter
 - Misstänkt mord i Malmö - Västerbottens-Kuriren
-- Barn släppte ner stenar på bilar – på motorväg - Expressen
-- Skilj dig i London – tjäna miljarder - SvD
+- Masskjutning på bar i USA – fyra döda - GP
+- Skyddsväst i ambulanser sågas: ”Falsk trygghet” - Västerbottens-Kuriren
 - DN Direkt - Explosionsrisk efter gasutsläpp i västra Stockholm - DN
-- Uppgift: Svensk gängledare gripen i Mexiko - Västerbottens-Kuriren
+- Uppgift: Svensk gängledare gripen i Mexiko - GP
 - 12 oktober 08.27, Sammanfattning natt, Jämtlands län - polisen.se
-- I NATT: Flera fall av misshandel – våldsamt i Värmland: ”Fruktansvärt rörigt” - NWT
-- Masskjutning på bar i USA – fyra döda - Västerbottens-Kuriren
-- DN Direkt - Buss körde in i byggnad i Köpenhamn – tre till sjukhus - DN
+- Buss fast efter olycka – fasad kan rasa - GP
 - Dödsskjutningar i Gaza när Hamas gör upp räkningen med upproriska klaner - DN
-- Över 20 länder till Trumps Egyptenmöte - Hufvudstadsbladet
-- Biljätten Porsche i gungning – ett land orsakar jättefallet - Dagens PS
+- Världens äldste president vill bli kvar till 99 - Aftonbladet
+- Flera regioner hårt drabbade av senaste ovädret - Sydkusten
 - Oro växer för AI-bubbla – ”kan vända tvärt” - SvD
+- Biljätten Porsche i gungning – ett land orsakar jättefallet - Dagens PS
 - Klarnas vd varnar för AI-chock - Tidningen Näringslivet
-- Småsparare satsar på guld – ny rekordnivå - NWT
+- Oskäliga skillnader i VA-taxor – Karlskoga har höjt med 29 procent - KT-Kuriren
 - Experten: Det är skillnaden mellan satsumas, clementin och mandarin - TV4 Nyheterna
 - Skarpa versionen av LineageOS 23 lanserad - mobil.se
 
@@ -62,13 +62,13 @@ _Updated: 2025-10-12 16:38_
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 
 ## Business
@@ -76,23 +76,23 @@ _Updated: 2025-10-12 16:38_
 - Braskem S.A. Investigated for Securities Fraud Violations - Contact the DJS Law Group to Discuss Your Rights – BAK - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - BAK Investors Have Opportunity to Join Braskem S.A. Fraud Investigation with the Schall Law Firm - Placera.se
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Beginning in Q3 2025, Bakkt will be reporting the Loyalty business as discontinued operations. - Placera.se
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- JPMorgan Chase affärsmodell - Business Model Analyst
 - Student and entry-level programs - EY
+- JPMorgan Chase affärsmodell - Business Model Analyst
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 
 ## Health
 
@@ -122,43 +122,43 @@ _Updated: 2025-10-12 16:38_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
+- Maskinförare | Jobb | ATL - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Unga lantbrukare får ingen chans - Land Lantbruk
