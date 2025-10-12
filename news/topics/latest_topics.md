@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-12 18:42_
+_Updated: 2025-10-12 19:37_
 
 ## Top Stories
 
-- Källa: Hamas lämnar kontroll över Gaza – Senaste nytt om kriget i Gaza - SVT Nyheter
+- På plats: 600 lastbilar med nödhjälp varje dag – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Statsvetare: Här är hetaste frågorna i kvällens partiledardebatt i SVT - DN
 - Expertens teori om beväpnade ryska männen vid Estlands gräns - Expressen
-- DN Direkt - Fyra anhållna efter mord i Malmö – misstänks för grov utpressning - DN
 - Krock på väg 56 – fem personer till sjukhus - UNT
-- Busch: Förbjud burka och niqab på allmän plats - Västerbottens-Kuriren
+- Fyra anhållna efter knivmordet i Malmö - Omni
 - Hundratals demonstrerade för Palestina i Göteborg - GP
-- Skyddsväst i ambulanser sågas: ”Falsk trygghet” - Västerbottens-Kuriren
+- Busch: Förbjud burka och niqab på allmän plats - SVT Nyheter
 - DN Direkt - Explosionsrisk efter gasutsläpp i västra Stockholm - DN
+- Skyddsväst i ambulanser sågas: ”Falsk trygghet” - Västerbottens-Kuriren
 - 12 oktober 08.27, Sammanfattning natt, Jämtlands län - polisen.se
-- I NATT: Flera fall av misshandel – våldsamt i Värmland: ”Fruktansvärt rörigt” - NWT
 - Masskjutning på bar i USA – fyra döda - Västerbottens-Kuriren
-- DN Direkt - Fyra döda och 20 skadade i skjutning i USA - DN
+- 10 000 kroppar kan finnas under rasmassorna i Gaza - Expressen
 - DN Direkt - Uppfiskat föremål i Lund var ofarligt - DN
-- Världens äldste president vill bli kvar till 99 - Aftonbladet
+- Världens äldste president vill bli kvar till 99 - Västerbottens-Kuriren
 - Oro växer för AI-bubbla – ”kan vända tvärt” - SvD
 - Biljätten Porsche i gungning – ett land orsakar jättefallet - Dagens PS
 - Klarnas vd varnar för AI-chock - Tidningen Näringslivet
-- Oskäliga skillnader i VA-taxor – Karlskoga har höjt med 29 procent - KT-Kuriren
+- Koenigsegg sparkar chef – svarar med miljonstämning - Di
 - Experten: Det är skillnaden mellan satsumas, clementin och mandarin - TV4 Nyheterna
 - Skarpa versionen av LineageOS 23 lanserad - mobil.se
 
 ## World News
 
-- S&P Global and CME Group Complete Sale of OSTTRA to KKR - Placera.se
 - UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Volkswagen Group increases global deliveries to 6.6 million vehicles by the end of September - Volkswagen Group
@@ -35,13 +34,14 @@ _Updated: 2025-10-12 18:42_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Finserve Global Security Fund blir Europas första försvarsfond klassificerad som artikel 8 - beQuoted
+- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - New Secretary General appointed - Olof Palme International Center
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -61,15 +61,15 @@ _Updated: 2025-10-12 18:42_
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 
 ## Business
 
@@ -78,7 +78,7 @@ _Updated: 2025-10-12 18:42_
 - BAK Investors Have Opportunity to Join Braskem S.A. Fraud Investigation with the Schall Law Firm - Placera.se
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Bakkt Completes the Sale of Loyalty Business, Accelerating Transformation into a Pure-Play Digital Asset Infrastructure Platform - Placera.se
+- Beginning in Q3 2025, Bakkt will be reporting the Loyalty business as discontinued operations. - Placera.se
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
@@ -100,20 +100,20 @@ _Updated: 2025-10-12 18:42_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
 - Fakulteten för hälsa och samhälle - Malmö universitet
+- Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- ADDI Medical har med CompuGroup Medical, InterSystems och Scandinavian CRO blivit utvalda som en av leverantörerna i det europeiska H2020 PCP-projektet ”CAREMATRIX” med lösningen HOPE-CMX - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-12 18:42_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Unga lantbrukare får ingen chans - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2021-04-20 Webbinarium: Social hållbarhet - Mynewsdesk
