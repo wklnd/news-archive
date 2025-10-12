@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-12 01:38_
+_Updated: 2025-10-12 04:13_
 
 ## Top Stories
 
-- Misstänkt farliga föremål i Finja – polisen utreder försök till mord - SVT Nyheter
-- Nathan Shachar: Avväpning av Hamas kan endast ske med civilt styre - DN
+- 11 oktober 19.14, Farligt föremål, misstänkt, Hässleholm - polisen.se
+- Hamas: Gisslan släpps på måndag - Västerbottens-Kuriren
+- DN Direkt - Uppgifter: Gängtoppen ”Greken” gripen i Mexiko - DN
 - Man död efter bråk i lägenhet i Malmö - Omni
-- Ulf Kristersson: ”Alla partier har sin särart” - GP
-- Analys: Därför har Stockholm blivit slagträ i rikspolitiken - SVT Nyheter
-- Ledare från 20 länder till Trumps Gazamöte - DN
-- Gängtoppen Eddie Jobe gripen i Wien för 13 år gammalt mord - DN
-- Uppgift: Svensk gängledare gripen i Mexiko - Västerbottens-Kuriren
+- Kristersson om Liberalernas besked om SD - SVT Nyheter
+- Uppgift: Tre diplomater från Qatar döda i bilolycka - Omni
 - 11 oktober 14.00, Trafikkontroll, Norrbottens län - polisen.se
 - 11 oktober 08.37, Sammanfattning natt, Jämtlands län - polisen.se
-- Fyra döda i skjutning i Mississippi - SVT Nyheter
-- JUST NU: Estland stänger gränsen till Ryssland - Marcus Oscarsson
+- Nobelkommittén misstänker spionage - Västerbottens-Kuriren
+- Plötsligt hot mot Sverige – från Kreml - Aftonbladet
+- Över 20 länder till Trumps Egyptenmöte - GP
 - Dömde Lostprophets-sångaren död i knivattack - GP
-- Israel släpper 200 livstidsdömda palestinier i utbyte mot gisslan enligt Gaza-avtalet - Expressen
+- Nedstängning i USA: Massavskedanden har börjat - Aftonbladet
+- Israel vill inte släppa "palestiniernas Mandela" - UNT
 - Klarnas vd: AI-chock på arbetsmarknaden på väg - SvD
-- ”Världens dyraste svamp” såld för 53 000 kronor - DN
-- Krypto rasar – tre månaders uppgång utraderad - Hufvudstadsbladet
+- Guldregn över norrländska producenter när SM i mathantverk avgjordes i Skellefteå - LRF - Lantbrukarnas Riksförbund
 - Debatt: VA-systemet har blivit en tickande räkning – inte en hållbar investering - sla.se
+- Vad gör jag när mina kollegor missköter sig? - Dagens Arbete
 - ”Spelen uppvisar en romantiserad bild av krig” - DN
-- Microsoft uppdaterar Onedrive-appen med AI-agent för foton - PC för Alla
+- Microsoft visar upp nya Onedrive för Windows - SweClockers
 
 ## World News
 
@@ -35,44 +35,46 @@ _Updated: 2025-10-12 01:38_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Norden vill samla stark global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - Lund University invests 85 million in international hiring drive - Lundagard.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - 🌏 Global ojämlikhet minskar faktiskt - Warp News
 
 ## Technology
 
-- CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 
 ## Business
 
+- Braskem S.A. Investigated for Securities Fraud Violations - Contact the DJS Law Group to Discuss Your Rights – BAK - Placera.se
+- BAK Investors Have Opportunity to Join Braskem S.A. Fraud Investigation with the Schall Law Firm - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
@@ -83,7 +85,6 @@ _Updated: 2025-10-12 01:38_
 - Student and entry-level programs - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Rapper Jay-Z to snap up Swedish music-streaming company - Sveriges Radio
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
@@ -91,8 +92,7 @@ _Updated: 2025-10-12 01:38_
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
+- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
 
 ## Health
 
@@ -115,7 +115,7 @@ _Updated: 2025-10-12 01:38_
 - Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
 
 ## Science
 
@@ -151,11 +151,11 @@ _Updated: 2025-10-12 01:38_
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lansering av det nationella presspriset för jordbruk, lantbrukare och landsbygdsområden 2024 - Vietnam.vn
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
