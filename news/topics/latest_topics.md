@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-12 05:47_
+_Updated: 2025-10-12 06:41_
 
 ## Top Stories
 
-- 11 oktober 19.14, Farligt föremål, misstänkt, Hässleholm - polisen.se
-- Ledare från 20 länder till Trumps Gazamöte - DN
-- Svensk gängledare gripen i Mexiko - Västerbottens-Kuriren
-- 250 döda djur i spanskt ”skräckhus” - GP
-- Uppgift: Tre diplomater från Qatar döda i bilolycka - Omni
-- Man död efter lägenhetsbråk i Malmö - HD
+- Stor polisinsats i Stockholm – gevärsman gripen - Aftonbladet
+- DN Direkt - Nytt misstänkt farligt föremål hittat i Finja - DN
+- Hamas: Gisslan släpps på måndag - Västerbottens-Kuriren
+- Allt fler barn under tio år misstänks för våldsbrott - Världen idag
+- Fem döda i trafikolycka i Norge - SVT Nyheter
+- Svensk gängledare gripen i Mexiko - GP
 - 11 oktober 14.00, Trafikkontroll, Norrbottens län - polisen.se
-- Beväpnad man gripen på Södermalm - Expressen
 - 11 oktober 08.37, Sammanfattning natt, Jämtlands län - polisen.se
-- Nobelkommittén misstänker spionage - Västerbottens-Kuriren
-- ”Gisslan kan släppas redan imorgon ” – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Nobelkommittén misstänker spionage - GP
+- Ryska hotet mot Sverige: ”Ingen tvekan om det” - Expressen
+- Över 20 länder till Trumps Egyptenmöte - Hufvudstadsbladet
+- Mystiska ryska soldater – vid Natos gräns - Expressen
 - ”Ta ställning för de fattiga” manar påven Leos nya dokument - Signum – Katolsk orientering om kyrka, kultur och samhälle
-- Israel vill inte släppa "palestiniernas Mandela" - UNT
-- Nedstängning i USA: Massavskedanden har börjat - Aftonbladet
-- Klarnas vd: AI-chock på arbetsmarknaden på väg - SvD
-- Medaljregn över Rådmansö bageributik - Norrtelje Tidning
+- Strömmen åter i Kiev efter ryska attacker - Västerbottens-Kuriren
+- Krypto rasar – tre månaders uppgång utraderad - Hufvudstadsbladet
 - LEDARE: Ta bort lönegolvet för arbetskraftsinvandring - Blekinge Läns Tidning
 - Debatt: VA-systemet har blivit en tickande räkning – inte en hållbar investering - sla.se
+- Vad gör jag när mina kollegor missköter sig? - Dagens Arbete
+- Rykte: Apple kan lansera nya produkter varje vecka – utan event - Macworld.se
 - ”Spelen uppvisar en romantiserad bild av krig” - DN
-- Microsoft visar upp nya Onedrive för Windows - SweClockers
 
 ## World News
 
@@ -39,37 +39,37 @@ _Updated: 2025-10-12 05:47_
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Norden vill samla stark global koalition för jämställdhet och lika rättigheter - The Nordic Co-operation
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
-- Lund University invests 85 million in international hiring drive - Lundagard.se
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
+- New Secretary General appointed - Olof Palme International Center
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- 🌏 Global ojämlikhet minskar faktiskt - Warp News
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 
 ## Technology
 
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
-- Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 
 ## Business
 
@@ -120,25 +120,25 @@ _Updated: 2025-10-12 05:47_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 
 ## Jordbruk
 
