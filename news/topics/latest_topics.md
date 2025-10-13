@@ -1,6 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-13 05:30_
+_Updated: 2025-10-13 05:54_
 
 ## Top Stories
 
@@ -9,24 +9,25 @@ _Updated: 2025-10-13 05:30_
 - 12 oktober 18.29, Mord/dråp, försök, Skellefteå - polisen.se
 - Anhörig till gisslan: ”Så glad – men också nervös” – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Flera barn döda i båtolycka i Ghana - Västerbottens-Kuriren
-- DN Direkt - Brand i tiovåningshus i Landskrona - DN
-- Andersson om burkaförbud: Beredd att diskutera - SVT Nyheter
+- Uppgift: Frustrerad Trump stödjer energiattackerna – ger Ukraina underrättelser - Omni
+- Brand i tiovåningshus i Landskrona - GP
 - Morgan Karlsson är utsedd till Årets Folkets Hus och Park-profil 2025 - Via TT
-- Åkesson: L kommer behöva ändra sig - GP
-- I NATT: Flera fall av misshandel – våldsamt i Värmland: ”Fruktansvärt rörigt” - NWT
+- Andersson om burkaförbud: Beredd att diskutera - SVT Nyheter
+- Åkesson: L kommer behöva ändra sig - Västerbottens-Kuriren
 - Världens äldste president vill bli kvar till 99 - Västerbottens-Kuriren
-- Masskjutning på bar i USA – fyra döda - GP
-- DN Direkt - Flera döda i dubbla skjutningar i USA - DN
+- DN Direkt - Fyra döda och 20 skadade i skjutning i USA - DN
+- Frontalkrock i Göteborg - Expressen
 - 15 döda när Pakistan och Afghanistan trappar upp - Västerbottens-Kuriren
-- JD Vance till Kina: Trump har fler kort på handen - Di
+- Oroligt på Asienbörserna efter Trumps tullutspel - Di
 - Storägarens kritik efter kursdubblingen: ”Genant” - EFN
-- Kryptoras efter Trumps tullutspel – Bitcoin tappar över 10 procent - Finanstid
+- Crypto crash wrap: Bitcoin, Ethereum leder blodbad på 560 miljarder dollar på marknaden efter tullnyheter - Invezz
 - Koenigsegg sparkar chef – svarar med miljonstämning - Di
 - Tavern Keeper går ut i early access efter 11 år i utveckling - FZ.se
 - Battlefield 6 - Kriget pågår för fullt men köerna är långa - FZ.se
 
 ## World News
 
+- S&P Global and CME Group Complete Sale of OSTTRA to KKR - Placera.se
 - UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Volkswagen Group increases global deliveries to 6.6 million vehicles by the end of September - Volkswagen Group
@@ -34,19 +35,18 @@ _Updated: 2025-10-13 05:30_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Somaliland: Election in a "non-existing" country - Global Bar Magazine
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
-- CGTN：How China is empowering women and advancing 'her power' - Placera.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - New Secretary General appointed - Olof Palme International Center
-- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- CGTN：How China is empowering women and advancing 'her power' - Placera.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -76,16 +76,16 @@ _Updated: 2025-10-13 05:30_
 - Braskem S.A. Investigated for Securities Fraud Violations - Contact the DJS Law Group to Discuss Your Rights – BAK - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - BAK Investors Have Opportunity to Join Braskem S.A. Fraud Investigation with the Schall Law Firm - Placera.se
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- INTERNATIONAL BATTERY METALS LTD. ANNOUNCES SENIOR MANAGEMENT CHANGE - Placera.se
 - Student and entry-level programs - EY
 - JPMorgan Chase affärsmodell - Business Model Analyst
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- INTERNATIONAL BATTERY METALS LTD. ANNOUNCES SENIOR MANAGEMENT CHANGE - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
@@ -103,13 +103,13 @@ _Updated: 2025-10-13 05:30_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Mabel AI won the HealthTech Award 2023 - NewsMachine AB
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
@@ -120,25 +120,25 @@ _Updated: 2025-10-13 05:30_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
