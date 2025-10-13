@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-13 12:44_
+_Updated: 2025-10-13 13:38_
 
 ## Top Stories
 
-- DN Direkt - Nu presenteras årets mottagare av Ekonomipriset - DN
-- Samtliga ur gisslan släppta – jubel i Israel - Västerbottens-Kuriren
+- Sju ur gisslan nu i Israel – Senaste nytt om kriget i Gaza - SVT Nyheter
+- ”Vår Hampus blev levande begravd” – nu kommer domen efter att 23-åringen körde genom isen - Arbetet
 - Tingsrätten dömer 22-årig man till livstids fängelse för mord - Sveriges Domstolar
-- Hampus, 23, dog i arbetsplatsolycka i Solberg – företagare döms - SVT Nyheter
-- Tomas Ramberg: En partiledardebatt i Tidöpartiernas smak - DN
+- Ekonomipriset för forskning om kreativ förstörelse - DN
 - I två år trodde Amira att hennes man var död - DN
-- DN Direkt - Ung man döms till livstid för beställningsmord i Malmö - DN
+- Trump har landat i Israel - Västerbottens-Kuriren
+- Förundersökning om grovt sabotage nedlagd - Säkerhetspolisen
+- Tomas Ramberg: En partiledardebatt i Tidöpartiernas smak - DN
+- Andersson om burkaförbud: Beredd att diskutera - SVT Nyheter
 - JUST NU: Kvinnan efterlystes av Missing people – nu har hon hittats misstänkt mördad - NWT
-- Efter Buschs utspel – bara MP-ledaren säger nej till burkaförbud - GP
-- 12 oktober 18.29, Mord/dråp, försök, Skellefteå - polisen.se
 - Över 40 skadade i storbrand i Berlin - SVT Nyheter
-- Toppmötet slutpunkt för Trumps ärevarv i Mellanöstern - DN
 - Världen har passerat den första tippningspunkten - DN
+- Långa köer vid Olskroken i Göteborg - Expressen
 - Trump: Då skickar jag superroboten - Expressen
 - Oroligt på Asienbörserna efter Trumps tullutspel - Aftonbladet
-- Kinnevik utesluter inte nya pengar till Stegra - Di
+- Kinnevik: Då går vi in med kapital i Stegra - EFN
 - Ökad försäljning för modehandeln i september - Stilindex - Börsvärlden
 - Ny rapport: modejättarna manipulerar kunder - Sveriges Natur
 - Vi lever längre – men ohälsa bland unga ökar - SvD
-- Nu ska du få färre notiser i webbläsaren Chrome - PC för Alla
+- Nu ska du få färre onödiga notiser i Chrome - Computer Sweden
 
 ## World News
 
@@ -43,8 +43,8 @@ _Updated: 2025-10-13 12:44_
 - UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
 - Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- CGTN：How China is empowering women and advancing 'her power' - Placera.se
 - CHiQ Strengthens Global Sports Engagement with FIS Ski Jumping World Cup Partnership - Placera.se
 - Dahua Technology Earns Silver Medal from EcoVadis for Sustainability Performance - Placera.se
 
@@ -59,26 +59,27 @@ _Updated: 2025-10-13 12:44_
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
-- MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
+- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 
 ## Business
 
+- Braskem S.A. Investigated for Securities Fraud Violations - Contact the DJS Law Group to Discuss Your Rights – BAK - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Beginning in Q3 2025, Bakkt will be reporting the Loyalty business as discontinued operations. - Placera.se
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- BAK Investors Have Opportunity to Join Braskem S.A. Fraud Investigation with the Schall Law Firm - Placera.se
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- INTERNATIONAL BATTERY METALS LTD. ANNOUNCES SENIOR MANAGEMENT CHANGE - Placera.se
+- Beginning in Q3 2025, Bakkt will be reporting the Loyalty business as discontinued operations. - Placera.se
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Student and entry-level programs - EY
@@ -86,13 +87,12 @@ _Updated: 2025-10-13 12:44_
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- INTERNATIONAL BATTERY METALS LTD. ANNOUNCES SENIOR MANAGEMENT CHANGE - Placera.se
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
 
 ## Health
 
@@ -103,19 +103,19 @@ _Updated: 2025-10-13 12:44_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
-- En allt starkare alternativ röst om global hälsa - Läkartidningen
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Nyteknik
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Mabel AI won the HealthTech Award 2023 - NewsMachine AB
 
 ## Science
 
@@ -123,22 +123,22 @@ _Updated: 2025-10-13 12:44_
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
