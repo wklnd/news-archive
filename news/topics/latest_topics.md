@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-13 06:43_
+_Updated: 2025-10-13 07:42_
 
 ## Top Stories
 
-- Hettade till mellan Busch och Dadgostar – Partiledardebatt i Agenda - SVT Nyheter
-- Kraftig brand i höghus: ”Personer kvar” - Aftonbladet
-- Trump: Kan ge Ukraina Tomahawk-robotar - GP
+- Hamas har släppt lista med 20 namn – Senaste nytt om kriget i Gaza - SVT Nyheter
+- DN Direkt - Brand i tiovåningshus i Landskrona - DN
+- Tomas Ramberg: En partiledardebatt i Tidöpartiernas smak - DN
 - 12 oktober 18.29, Mord/dråp, försök, Skellefteå - polisen.se
 - L borde ha bättre saker för sig än att dra röda linjer - Kuriren
 - Flera barn döda i båtolycka i Ghana - Västerbottens-Kuriren
-- Kristersson utesluter inte burkaförbud - Västerbottens-Kuriren
+- 13 oktober 07.00, Sammanfattning kväll och natt, Västra Götalands län - polisen.se
+- Kom och prata med oss om villkoren för att driva och utveckla företag på Gotland - Region Gotland
+- Andersson om burkaförbud: Beredd att diskutera - SVT Nyheter
 - Morgan Karlsson är utsedd till Årets Folkets Hus och Park-profil 2025 - Via TT
-- Ditt batteri kan bli en dödsfälla: ”Ta inte med dem in i ditt hem” - Falu-Kuriren
-- I NATT: Flera fall av misshandel – våldsamt i Värmland: ”Fruktansvärt rörigt” - NWT
-- Hamas har släppt lista med 20 namn – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Världen har passerat den första tippningspunkten - DN
+- En död efter brand i tiovåningshus i Landskrona - Expressen
+- Trump: Kan ge Ukraina Tomahawk-robotar - Västerbottens-Kuriren
 - Rättsstaten, gränsöverskridande organiserad brottslighet och migration i fokus under RIF-möte i Luxemburg - Regeringen.se
-- Dödsskjutningar i Gaza när Hamas gör upp räkningen med upproriska klaner - DN
-- Oljepriset rasar efter två tunga besked som skakar marknaden - Dagens PS
+- Uppsving för svensk klädhandel i september - Di
 - Oroligt på Asienbörserna efter Trumps tullutspel - Aftonbladet
-- Storägarens kritik efter kursdubblingen: ”Genant” - EFN
-- Modehandeln ökade i september – ”tydlig plånbokseffekt” - Svensk Handel
-- Vi lever längre – men ohälsa bland unga ökar - SvD
+- Oljepriset rasar efter två tunga besked som skakar marknaden - Dagens PS
+- Utrikesministern och infrastruktur- och bostadsministern besöker Sydkorea - Regeringen.se
+- Vi lever längre – men ohälsa bland unga ökar - Aftonbladet
 - Om din Mac blivit varm och långsam på sistone – här är förklaringen - Macworld.se
 
 ## World News
 
+- S&P Global and CME Group Complete Sale of OSTTRA to KKR - Placera.se
 - UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Volkswagen Group increases global deliveries to 6.6 million vehicles by the end of September - Volkswagen Group
@@ -34,19 +35,18 @@ _Updated: 2025-10-13 06:43_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Somaliland: Election in a "non-existing" country - Global Bar Magazine
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
-- CGTN：How China is empowering women and advancing 'her power' - Placera.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - New Secretary General appointed - Olof Palme International Center
-- Plankton reveal how global warming is affecting the Arctic ecosystem - Polarforskningssekretariatet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- CGTN：How China is empowering women and advancing 'her power' - Placera.se
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 
 ## Technology
 
@@ -61,15 +61,15 @@ _Updated: 2025-10-13 06:43_
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- 290 million for digitalisation of Swedish industry - Vinnova
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 
 ## Business
 
@@ -79,20 +79,20 @@ _Updated: 2025-10-13 06:43_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Beginning in Q3 2025, Bakkt will be reporting the Loyalty business as discontinued operations. - Placera.se
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- INTERNATIONAL BATTERY METALS LTD. ANNOUNCES SENIOR MANAGEMENT CHANGE - Placera.se
 - Student and entry-level programs - EY
 - JPMorgan Chase affärsmodell - Business Model Analyst
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Rapper Jay-Z to snap up Swedish music-streaming company - Sveriges Radio
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- INTERNATIONAL BATTERY METALS LTD. ANNOUNCES SENIOR MANAGEMENT CHANGE - Placera.se
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
-- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
 ## Health
 
@@ -100,16 +100,16 @@ _Updated: 2025-10-13 06:43_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- En allt starkare alternativ röst om global hälsa - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
@@ -153,12 +153,12 @@ _Updated: 2025-10-13 06:43_
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Maskinförare | Jobb | ATL - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
 - Unga lantbrukare får ingen chans - Land Lantbruk
