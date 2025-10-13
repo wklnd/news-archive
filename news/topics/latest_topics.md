@@ -1,34 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-13 13:38_
+_Updated: 2025-10-13 15:06_
 
 ## Top Stories
 
-- Sju ur gisslan nu i Israel – Senaste nytt om kriget i Gaza - SVT Nyheter
-- ”Vår Hampus blev levande begravd” – nu kommer domen efter att 23-åringen körde genom isen - Arbetet
-- Tingsrätten dömer 22-årig man till livstids fängelse för mord - Sveriges Domstolar
-- Ekonomipriset för forskning om kreativ förstörelse - DN
-- I två år trodde Amira att hennes man var död - DN
-- Trump har landat i Israel - Västerbottens-Kuriren
-- Förundersökning om grovt sabotage nedlagd - Säkerhetspolisen
 - Tomas Ramberg: En partiledardebatt i Tidöpartiernas smak - DN
-- Andersson om burkaförbud: Beredd att diskutera - SVT Nyheter
+- Fredsavtal för Gaza undertecknas – men EU står vid sidlinjen - Europaportalen
+- Hampus, 23, dog i arbetsplatsolycka i Solberg – företagare döms - SVT Nyheter
+- ”Kreativ förstörelse” ger ekonomipris: ”Mållös” - Västerbottens-Kuriren
+- Blir det några nya pengarna till Gavi? - Global Bar Magazine
+- Tingsrätten dömer 22-årig man till livstids fängelse för mord - Sveriges Domstolar
+- Förundersökning om grovt sabotage nedlagd - Säkerhetspolisen
+- Efter Buschs utspel – bara MP-ledaren säger nej till burkaförbud - GP
 - JUST NU: Kvinnan efterlystes av Missing people – nu har hon hittats misstänkt mördad - NWT
+- 13 oktober 07.56, Sammanfattning natt, Östergötlands län - polisen.se
 - Över 40 skadade i storbrand i Berlin - SVT Nyheter
 - Världen har passerat den första tippningspunkten - DN
-- Långa köer vid Olskroken i Göteborg - Expressen
 - Trump: Då skickar jag superroboten - Expressen
-- Oroligt på Asienbörserna efter Trumps tullutspel - Aftonbladet
-- Kinnevik: Då går vi in med kapital i Stegra - EFN
+- Påven i chock – efter draget vid hans altare - Expressen
+- Harald Mix duckar fråga om krismöte i Stegra - Di
 - Ökad försäljning för modehandeln i september - Stilindex - Börsvärlden
-- Ny rapport: modejättarna manipulerar kunder - Sveriges Natur
-- Vi lever längre – men ohälsa bland unga ökar - SvD
+- Nederländska regeringen tar kontroll över Nexperia - Evertiq
+- NCC: Byggjätten i behov av bättre rörelsevinster - Affärsvärlden
+- Vi lever längre – men ohälsa bland unga ökar - Tidningen Näringslivet
 - Nu ska du få färre onödiga notiser i Chrome - Computer Sweden
 
 ## World News
 
 - Lövsta Future Challenge International Dressage Tour startar upp säsong 4 under World Cup Herning - Mynewsdesk
-- S&P Global and CME Group Complete Sale of OSTTRA to KKR - Placera.se
+- Fosun International's S&P Global CSA Score Rises to 72, Retains Industry Lead - Placera.se
+- Lövsta Future Challenge International Dressage Tour kicks off season 4 at World Cup Herning - Mynewsdesk
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Polymarket’s utveckling: Från DeFi-startup till ICE-stödd global plattform - Bitcoin.com News
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
@@ -41,11 +42,10 @@ _Updated: 2025-10-13 13:38_
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
-- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- CHiQ Strengthens Global Sports Engagement with FIS Ski Jumping World Cup Partnership - Placera.se
+- S&P Global and CME Group Complete Sale of OSTTRA to KKR - Placera.se
+- CGTN：How China is empowering women and advancing 'her power' - Placera.se
 - Dahua Technology Earns Silver Medal from EcoVadis for Sustainability Performance - Placera.se
 
 ## Technology
@@ -59,40 +59,40 @@ _Updated: 2025-10-13 13:38_
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
+- MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
-- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 
 ## Business
 
 - Braskem S.A. Investigated for Securities Fraud Violations - Contact the DJS Law Group to Discuss Your Rights – BAK - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- BAK Investors Have Opportunity to Join Braskem S.A. Fraud Investigation with the Schall Law Firm - Placera.se
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Beginning in Q3 2025, Bakkt will be reporting the Loyalty business as discontinued operations. - Placera.se
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Beginning in Q3 2025, Bakkt will be reporting the Loyalty business as discontinued operations. - Placera.se
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Student and entry-level programs - EY
 - JPMorgan Chase affärsmodell - Business Model Analyst
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - INTERNATIONAL BATTERY METALS LTD. ANNOUNCES SENIOR MANAGEMENT CHANGE - Placera.se
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 
 ## Health
 
@@ -135,8 +135,8 @@ _Updated: 2025-10-13 13:38_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 
@@ -153,12 +153,12 @@ _Updated: 2025-10-13 13:38_
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Unga lantbrukare får ingen chans - Land Lantbruk
