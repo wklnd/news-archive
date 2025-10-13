@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-14 00:39_
+_Updated: 2025-10-14 01:38_
 
 ## Top Stories
 
-- Dunderfiasko i Göteborg: ”Katastrof” - Aftonbladet
-- Fullt utvecklad brand i lantbruksbyggnad - SN, Södermanlands Nyheter
 - M-anställda sjöng ”hatar Andersson” under kampanjmöte - DN
-- ”Partiledardebatten var en tågkrasch” - Västerbottens-Kuriren
-- Hamas gisslan släppt – tusentals palestinier fria - GP
+- Samtliga ur gisslan släppta – jubel i Israel - Västerbottens-Kuriren
+- Dadgostar avbröt mest i debatten: ”Vet nog vad hon gör” - DN
 - Trump: Fredsplanens andra fas är inledd - Hufvudstadsbladet
+- Resultatet för kyrkovalet klart – fler röstade - Aftonbladet
+- Fotboll: Ny avgångsbanderoll mot förbundskapten Jon Dahl Tomasson - SVT Nyheter
 - Förare fick böter på E12 - Västerbottens-Kuriren
 - 13 oktober 21.02, Trafikkontroll, Västernorrlands län - polisen.se
-- Resultatet för kyrkovalet klart – fler röstade - GP
 - Valturné gjorde snabbt stopp i Geneta - LT
+- Förslag: renodla polisverksamheten - Blåljus.nu
 - Zelenskyj till Vita huset på fredag - Västerbottens-Kuriren
-- Hundratals Gazabor kvar i israeliska fängelser - GP
+- Hundratals Gazabor kvar i israeliska fängelser - Västerbottens-Kuriren
 - Ryska svaret på Trumps vapenhot: "Kan sluta illa" - Expressen
 - Madagaskar: Presidenten evakueras – efter Gen Z-uppror - Aftonbladet
 - Silverpriset på rekordnivå – högsta sedan 1980 - Aftonbladet
-- Jonas Fröberg: Volvo vinnare när Polestar skär ned i Göteborg - DN
 - FMV tecknar uppdaterat kontrakt för ubåt typ A26 - FMV
+- Jonas Fröberg: Volvo vinnare när Polestar skär ned i Göteborg - DN
 - Klingspor: “Jag är orolig för Kinneviks investering i Stegra” - Affärsvärlden
 - Nu ska du få färre onödiga notiser i Chrome - Computer Sweden
-- Pixel Watch 4 hyllas för sin reparationsvänlighet av iFixit - m3.se
+- Analys: Rätt av Apple att satsa på smarta glasögon - Omni
 
 ## World News
 
@@ -62,14 +62,14 @@ _Updated: 2025-10-14 00:39_
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- 290 million for digitalisation of Swedish industry - Vinnova
 
 ## Business
 
@@ -124,21 +124,21 @@ _Updated: 2025-10-14 00:39_
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
