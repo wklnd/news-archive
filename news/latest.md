@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-13 12:50_
+_Updated: 2025-10-13 13:48_
 
 - Live updates: All living hostages freed from Gaza as Trump to address Israeli parliament - CNN
 - Amid shutdown, Trump administration guts department overseeing special education - NPR
-- Gov. JB Pritzker points to Trump inconsistencies in deployment of National Guard to Chicago - Chicago Tribune
 - Trump may speak with Putin about sending Tomahawks to Ukraine in effort to end war - Politico
-- Dow futures jump 400 points after Trump says China situation ‘will all be fine’: Live updates - CNBC
-- Gaza City clashes between Hamas and clan members leave 27 dead - BBC
+- US Futures Jump as Traders Gauge China Trade Spat: Markets Wrap - Bloomberg.com
+- Gov. JB Pritzker points to Trump inconsistencies in deployment of National Guard to Chicago - Chicago Tribune
+- Nor’easter Brings Heavy Rain and Flooding as It Moves Up East Coast - The New York Times
 - Alaska hit by severe flooding that carries away homes - CBS News
+- Democrat Helena Moreno wins New Orleans’ mayoral race - CNN
 - Mass shooting at South Carolina bar leaves 4 people dead, more than 20 injured - PBS
-- Helena Moreno Is Elected Mayor of New Orleans - The New York Times
-- A factory that makes munitions for the military exploded, killing 16 people and leaving no survivors - Fortune
-- Three Share Nobel in Economics for Work on How Technology Drives Growth - The New York Times
-- World leaders throw their weight behind the Gaza ceasefire deal - AP News
+- A Tennessee Sheriff Becomes the Face of Grief After Plant Explosion - The New York Times
+- Trio win 2025 Nobel economics prize for work on innovation and 'creative destruction' - Reuters
+- What Travelers Need to Know for the EU’s New Biometric Border Checks - The New York Times
+- Two men in court accused of murdering Ian Watkins in Wakefield Prison - BBC
 - Lecornu names new French government after reappointment - politico.eu
-- Badenoch demands PM address 'unanswered' China spy case questions - BBC
 - JPMorgan Chase says it will invest $10 billion into industries critical for national security - CNBC
-- China’s Wingtech Dives 10% After Dutch Take Control of Chip Unit - Bloomberg.com
-- GM’s Rare-Earth Gamble Pays Off as China Tightens Magnet Exports - The Wall Street Journal
-- Is the Stock Market Open Today? Here Are the Trading Hours for Columbus Day. - Barron's
+- Chinese Exports Surge, Giving Xi Stronger Hand in Trade Fight - Bloomberg.com
+- Wall Street investment banking revenues poised to top $9bn - Financial Times
+- In "exceptional" move, Dutch govt takes control of Chinese-owned chipmaker Nexperia - Reuters
+- Time is running out for millions of Windows 10 users, but here's the 1 trick for a free one-year extension - Tom's Guide
 - Gurman: Three new Apple products likely launching ‘this week’ - 9to5Mac
-- Samsung just released an even better foldable than the Galaxy Z Fold 7 - Android Authority
