@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-13 20:48_
+_Updated: 2025-10-13 21:38_
 
 ## Top Stories
 
+- Kap Verde är klart för sitt första fotboll-VM - Omni
 - ”Partiledardebatten var en tågkrasch” - Västerbottens-Kuriren
-- Hamas gisslan släppt – tusentals palestinier fria - GP
+- Alex Schulman: Har vi varit utsatta för ett danskt sabotage? - DN
 - M-anställda sjöng ”hatar Andersson” under kampanjmöte - DN
 - ”Vår Hampus blev levande begravd” – nu kommer domen efter att 23-åringen körde genom isen - Arbetet
-- Man dog efter att ha blivit fastklämd under traktor utanför Dorotea - SVT Nyheter
-- Venezuela stänger sin ambassad i Oslo - SVT Nyheter
+- Zelenskyj och Trump ska diskutera supervapen i Vita huset - TV4 Nyheterna
 - DN Direkt - Resultatet för kyrkovalet klart – fler röstade - DN
-- Utredning om kabelbrott nedlagt: ”Hårt väder” - UNT
+- Förare fick böter på E12 - Västerbottens-Kuriren
+- 13 oktober 21.02, Trafikkontroll, Västernorrlands län - polisen.se
 - 13 oktober 07.56, Sammanfattning natt, Östergötlands län - polisen.se
-- Nytt nationellt råd om AI:s påverkan på arbetsmarknaden - dagensinfrastruktur -
-- Toppmötet slutpunkt för Trumps ärevarv i Mellanöstern - DN
-- Hundratals Gazabor kvar i israeliska fängelser - GP
+- Hamas gisslan släppt – och palestinier friges - Hufvudstadsbladet
+- Trumps fredsplan räddar EU från splittring – slipper bråka om sanktioner - DN
+- Hundratals Gazabor kvar i israeliska fängelser - Västerbottens-Kuriren
 - RECENSION: Vill du veta vad som händer om Ryssland vinner kriget i Ukraina? Då ska du läsa den här boken - Sydsvenskan
-- Madagaskars president uppges ha lämnat landet - Aftonbladet
 - FMV tecknar uppdaterat kontrakt för ubåt typ A26 - FMV
 - Jonas Fröberg: Volvo vinnare när Polestar skär ned i Göteborg - DN
 - Trumps besked fick USA-börserna på fall – hotar Kina med tullar på 100% - Placera.se
@@ -83,8 +83,8 @@ _Updated: 2025-10-13 20:48_
 - Student and entry-level programs - EY
 - JPMorgan Chase affärsmodell - Business Model Analyst
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- INTERNATIONAL BATTERY METALS LTD. ANNOUNCES SENIOR MANAGEMENT CHANGE - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Rapper Jay-Z to snap up Swedish music-streaming company - Sveriges Radio
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
@@ -121,44 +121,44 @@ _Updated: 2025-10-13 20:48_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mjau lanserar Partypuffar med smak av kattmynta – krispiga snacks för lek och belöning - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Arbetande förman | Jobb | ATL - Land Lantbruk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Maskinförare | Jobb | ATL - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
