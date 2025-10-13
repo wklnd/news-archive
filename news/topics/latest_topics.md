@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-13 16:43_
+_Updated: 2025-10-13 17:40_
 
 ## Top Stories
 
-- Polestar varslar 100 personer i Göteborg - Aftonbladet
-- Hamas gisslan släppt – och palestinier friges - Hufvudstadsbladet
-- M vill att SVT stänger av Dadgostars mick i debatterna - DN
-- Trump har landat i Israel - Västerbottens-Kuriren
-- Hampus, 23, dog i arbetsplatsolycka i Solberg – företagare döms - SVT Nyheter
-- DN Direkt - Nu presenteras årets mottagare av Ekonomipriset - DN
-- Åtal om kabelbrott mellan Sverige och Lettland nedlagt - SVT Nyheter
-- Kyrkovalet är färdigräknat i Skara stift - Västgöta-Bladet
+- Fredsavtal för Gaza undertecknas – men EU står vid sidlinjen - Europaportalen
+- Tomas Ramberg: En partiledardebatt i Tidöpartiernas smak - DN
+- Hampus dog på jobbet – företagare döms - Dagens Arbete
+- 13 oktober 13.07, Mord/dråp, försök, Östersund - polisen.se
+- Ministern duckar frågor om Ghana-mopederna: ”Apart” - Aftonbladet
+- Man dog efter att ha blivit fastklämd under traktor utanför Dorotea - SVT Nyheter
+- DN Direkt - Resultatet för kyrkovalet klart – fler röstade - DN
+- Förundersökning om grovt sabotage nedlagd - Säkerhetspolisen
 - 13 oktober 07.56, Sammanfattning natt, Östergötlands län - polisen.se
-- Kvinnan efterlystes av Missing people – nu har hon hittats misstänkt mördad - NWT
-- Över 40 skadade i storbrand i Berlin - SVT Nyheter
+- Nytt nationellt råd om AI:s påverkan på arbetsmarknaden - dagensinfrastruktur -
+- Rasar mot att Hamas inte lämnar över fler kroppar: ”Allvarligt avtalsbrott” - Omni
+- Madagaskar: Presidenten evakueras – efter Gen Z-uppror - Aftonbladet
 - Långa köer vid Olskroken i Göteborg - Expressen
-- Madagaskars president: Kuppförsök pågår - Aftonbladet
-- Påven i chock – efter draget vid hans altare - Expressen
+- Korallreven dödsdömda: ”Är svårast att rädda” - Aftonbladet
 - Harald Mix duckar fråga om krismöte i Stegra - Di
 - Nederländska regeringen tar kontroll över Nexperia - Evertiq
+- Klingspor: “Jag är orolig för Kinneviks investering i Stegra” - Affärsvärlden
 - NCC: Byggjätten i behov av bättre rörelsevinster - Affärsvärlden
-- Man stal bildelar på jobbet för 12 miljoner och sålde på ebay - Dagens PS
-- Vi lever längre – men ohälsa bland unga ökar - Tidningen Näringslivet
-- Bose lägger ner stödet för centrala funktioner i sina Soundtouch-högtalare - m3.se
+- Nu ska du få färre onödiga notiser i Chrome - Computer Sweden
+- Oppos nya flaggskepp får ett kamerakit från Hasselblad - m3.se
 
 ## World News
 
+- H.B. Fuller Introduces Fuller Impact to Strengthen Community Partnerships Worldwide - Placera.se
 - Lövsta Future Challenge International Dressage Tour startar upp säsong 4 under World Cup Herning - Mynewsdesk
 - Visionary Holdings (Nasdaq: GV) Secures Global License for Breakthrough Stem Cell Technology Aimed at Diabetes Remission and Potential Complete Cure in a USD 150 Billion Global Market - Placera.se
 - Lövsta Future Challenge International Dressage Tour kicks off season 4 at World Cup Herning - Mynewsdesk
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Polymarket’s utveckling: Från DeFi-startup till ICE-stödd global plattform - Bitcoin.com News
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Fosun International's S&P Global CSA Score Rises to 72, Retains Industry Lead - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- S&P Global and CME Group Complete Sale of OSTTRA to KKR - Placera.se
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Påven: En ny global utbildning för hopp i vår tid - Vatican News
 - Patrick Kalotis Joins Ingredion as EVP Global Texture & Healthful Solutions - Placera.se
-- CGTN：How China is empowering women and advancing 'her power' - Placera.se
+- Dahua Technology Earns Silver Medal from EcoVadis for Sustainability Performance - Placera.se
 
 ## Technology
 
@@ -75,15 +75,15 @@ _Updated: 2025-10-13 16:43_
 
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Beginning in Q3 2025, Bakkt will be reporting the Loyalty business as discontinued operations. - Placera.se
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- INTERNATIONAL BATTERY METALS LTD. ANNOUNCES SENIOR MANAGEMENT CHANGE - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Student and entry-level programs - EY
 - JPMorgan Chase affärsmodell - Business Model Analyst
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- INTERNATIONAL BATTERY METALS LTD. ANNOUNCES SENIOR MANAGEMENT CHANGE - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -104,40 +104,40 @@ _Updated: 2025-10-13 16:43_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Nyteknik
+- En allt starkare alternativ röst om global hälsa - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
@@ -152,13 +152,13 @@ _Updated: 2025-10-13 16:43_
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
+- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
