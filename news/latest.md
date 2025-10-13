@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-13 13:48_
+_Updated: 2025-10-13 15:18_
 
-- Live updates: All living hostages freed from Gaza as Trump to address Israeli parliament - CNN
+- All 20 surviving hostages freed by Hamas under Gaza peace deal - Axios
 - Amid shutdown, Trump administration guts department overseeing special education - NPR
-- Trump may speak with Putin about sending Tomahawks to Ukraine in effort to end war - Politico
-- US Futures Jump as Traders Gauge China Trade Spat: Markets Wrap - Bloomberg.com
-- Gov. JB Pritzker points to Trump inconsistencies in deployment of National Guard to Chicago - Chicago Tribune
+- Trump Addresses Knesset, Israeli Hostages Freed in Historic Gaza Peace Deal: Watch Live - Newsweek
 - Nor’easter Brings Heavy Rain and Flooding as It Moves Up East Coast - The New York Times
-- Alaska hit by severe flooding that carries away homes - CBS News
+- Active Illinois National Guard members share views on recent troop activations in Chicago area - Chicago Sun-Times
+- Dow futures jump 400 points after Trump says China situation ‘will all be fine’: Live updates - CNBC
+- Dozens Rescued in Remote Alaskan Villages in Storm That Swept Away Homes - The New York Times
 - Democrat Helena Moreno wins New Orleans’ mayoral race - CNN
+- The US and China are about to launch the next front in their trade war - Politico
 - Mass shooting at South Carolina bar leaves 4 people dead, more than 20 injured - PBS
-- A Tennessee Sheriff Becomes the Face of Grief After Plant Explosion - The New York Times
-- Trio win 2025 Nobel economics prize for work on innovation and 'creative destruction' - Reuters
+- Trio win Nobel economics prize for work on innovation, growth and 'creative destruction' - Reuters
 - What Travelers Need to Know for the EU’s New Biometric Border Checks - The New York Times
-- Two men in court accused of murdering Ian Watkins in Wakefield Prison - BBC
 - Lecornu names new French government after reappointment - politico.eu
-- JPMorgan Chase says it will invest $10 billion into industries critical for national security - CNBC
-- Chinese Exports Surge, Giving Xi Stronger Hand in Trade Fight - Bloomberg.com
+- Badenoch demands PM address 'unanswered' China spy case questions - BBC
+- JPMorgan to invest up to $10 billion in US companies critical to national security - Reuters
+- Trump bet China would face 'tremendous difficulties' without U.S. consumers—Beijing just focused on the rest of the world instead - Fortune
 - Wall Street investment banking revenues poised to top $9bn - Financial Times
-- In "exceptional" move, Dutch govt takes control of Chinese-owned chipmaker Nexperia - Reuters
-- Time is running out for millions of Windows 10 users, but here's the 1 trick for a free one-year extension - Tom's Guide
+- Nexperia: Dutch government takes control of China-owned chip firm - BBC
+- Urgent warning to millions of Microsoft customers as support for Windows 10 ends TOMORROW - leaving users without any help if something goes wrong - Daily Mail
 - Gurman: Three new Apple products likely launching ‘this week’ - 9to5Mac
