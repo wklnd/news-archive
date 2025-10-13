@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-13 17:40_
+_Updated: 2025-10-13 18:46_
 
 ## Top Stories
 
-- Fredsavtal för Gaza undertecknas – men EU står vid sidlinjen - Europaportalen
-- Tomas Ramberg: En partiledardebatt i Tidöpartiernas smak - DN
+- Kristersson om frigivna gisslan: ”En bra grund för att lösa andra problem” - DN
 - Hampus dog på jobbet – företagare döms - Dagens Arbete
 - 13 oktober 13.07, Mord/dråp, försök, Östersund - polisen.se
 - Ministern duckar frågor om Ghana-mopederna: ”Apart” - Aftonbladet
 - Man dog efter att ha blivit fastklämd under traktor utanför Dorotea - SVT Nyheter
-- DN Direkt - Resultatet för kyrkovalet klart – fler röstade - DN
-- Förundersökning om grovt sabotage nedlagd - Säkerhetspolisen
+- DN Direkt - M vill att SVT stänger av Dadgostars mick i debatterna - DN
+- Resultatet för kyrkovalet klart – fler röstade - Västerbottens-Kuriren
+- Åtal om kabelbrott mellan Sverige och Lettland nedlagt - SVT Nyheter
 - 13 oktober 07.56, Sammanfattning natt, Östergötlands län - polisen.se
 - Nytt nationellt råd om AI:s påverkan på arbetsmarknaden - dagensinfrastruktur -
+- RECENSION: Vill du veta vad som händer om Ryssland vinner kriget i Ukraina? Då ska du läsa den här boken - Sydsvenskan
+- Hundratals Gazabor kvar i israeliska fängelser - Västerbottens-Kuriren
 - Rasar mot att Hamas inte lämnar över fler kroppar: ”Allvarligt avtalsbrott” - Omni
 - Madagaskar: Presidenten evakueras – efter Gen Z-uppror - Aftonbladet
-- Långa köer vid Olskroken i Göteborg - Expressen
-- Korallreven dödsdömda: ”Är svårast att rädda” - Aftonbladet
-- Harald Mix duckar fråga om krismöte i Stegra - Di
+- Från världens hörn till Norrbotten: Stegra rekryterar globalt och lokalt för grönt stål - Metal Supply
+- Jonas Fröberg: Volvo vinnare när Polestar skär ned i Göteborg - DN
 - Nederländska regeringen tar kontroll över Nexperia - Evertiq
 - Klingspor: “Jag är orolig för Kinneviks investering i Stegra” - Affärsvärlden
-- NCC: Byggjätten i behov av bättre rörelsevinster - Affärsvärlden
 - Nu ska du få färre onödiga notiser i Chrome - Computer Sweden
 - Oppos nya flaggskepp får ett kamerakit från Hasselblad - m3.se
 
@@ -32,21 +32,21 @@ _Updated: 2025-10-13 17:40_
 - Visionary Holdings (Nasdaq: GV) Secures Global License for Breakthrough Stem Cell Technology Aimed at Diabetes Remission and Potential Complete Cure in a USD 150 Billion Global Market - Placera.se
 - Lövsta Future Challenge International Dressage Tour kicks off season 4 at World Cup Herning - Mynewsdesk
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Polymarket’s utveckling: Från DeFi-startup till ICE-stödd global plattform - Bitcoin.com News
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNI Global uppmanar BNP Paribas att klippa banden med ockuperade palestinska territorier - UNI Global Union
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Påven: En ny global utbildning för hopp i vår tid - Vatican News
+- 🌏 Global ojämlikhet minskar faktiskt - Warp News
 - Patrick Kalotis Joins Ingredion as EVP Global Texture & Healthful Solutions - Placera.se
-- Dahua Technology Earns Silver Medal from EcoVadis for Sustainability Performance - Placera.se
+- S&P Global and CME Group Complete Sale of OSTTRA to KKR - Placera.se
 
 ## Technology
 
@@ -63,18 +63,18 @@ _Updated: 2025-10-13 17:40_
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Digital Realty and DXC Team to Accelerate Adoption of Enterprise AI Globally - Placera.se
 
 ## Business
 
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Beginning in Q3 2025, Bakkt will be reporting the Loyalty business as discontinued operations. - Placera.se
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
@@ -104,7 +104,6 @@ _Updated: 2025-10-13 17:40_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
@@ -116,6 +115,7 @@ _Updated: 2025-10-13 17:40_
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
