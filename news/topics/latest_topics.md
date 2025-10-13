@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-13 23:36_
+_Updated: 2025-10-14 00:39_
 
 ## Top Stories
 
-- Spelarbetyg: Flera svenskar får underkänt - Aftonbladet
-- Samtliga ur gisslan släppta – jubel i Israel - Västerbottens-Kuriren
-- Dadgostar avbröt mest i debatten: ”Vet nog vad hon gör” - DN
+- Dunderfiasko i Göteborg: ”Katastrof” - Aftonbladet
+- Fullt utvecklad brand i lantbruksbyggnad - SN, Södermanlands Nyheter
 - M-anställda sjöng ”hatar Andersson” under kampanjmöte - DN
+- ”Partiledardebatten var en tågkrasch” - Västerbottens-Kuriren
+- Hamas gisslan släppt – tusentals palestinier fria - GP
 - Trump: Fredsplanens andra fas är inledd - Hufvudstadsbladet
-- DN Direkt - Resultatet för kyrkovalet klart – fler röstade - DN
 - Förare fick böter på E12 - Västerbottens-Kuriren
 - 13 oktober 21.02, Trafikkontroll, Västernorrlands län - polisen.se
+- Resultatet för kyrkovalet klart – fler röstade - GP
 - Valturné gjorde snabbt stopp i Geneta - LT
-- Nytt nationellt råd om AI:s påverkan på arbetsmarknaden - dagensinfrastruktur -
 - Zelenskyj till Vita huset på fredag - Västerbottens-Kuriren
 - Hundratals Gazabor kvar i israeliska fängelser - GP
-- Madagaskars president försvunnen – har lämnat landet - Expressen
-- Venezuela har stängt sin ambassad i Oslo - Aftonbladet
+- Ryska svaret på Trumps vapenhot: "Kan sluta illa" - Expressen
+- Madagaskar: Presidenten evakueras – efter Gen Z-uppror - Aftonbladet
 - Silverpriset på rekordnivå – högsta sedan 1980 - Aftonbladet
 - Jonas Fröberg: Volvo vinnare när Polestar skär ned i Göteborg - DN
+- FMV tecknar uppdaterat kontrakt för ubåt typ A26 - FMV
 - Klingspor: “Jag är orolig för Kinneviks investering i Stegra” - Affärsvärlden
-- Trumps besked fick USA-börserna på fall – hotar Kina med tullar på 100% - Placera.se
 - Nu ska du få färre onödiga notiser i Chrome - Computer Sweden
 - Pixel Watch 4 hyllas för sin reparationsvänlighet av iFixit - m3.se
 
 ## World News
 
-- H.B. Fuller Introduces Fuller Impact to Strengthen Community Partnerships Worldwide - Placera.se
 - Lövsta Future Challenge International Dressage Tour startar upp säsong 4 under World Cup Herning - Mynewsdesk
+- H.B. Fuller Introduces Fuller Impact to Strengthen Community Partnerships Worldwide - Placera.se
 - Worldwide rise in antibiotic resistance affects Sweden too - Sveriges Radio
 - Visionary Holdings (Nasdaq: GV) Secures Global License for Breakthrough Stem Cell Technology Aimed at Diabetes Remission and Potential Complete Cure in a USD 150 Billion Global Market - Placera.se
 - Lövsta Future Challenge International Dressage Tour kicks off season 4 at World Cup Herning - Mynewsdesk
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Polymarket’s utveckling: Från DeFi-startup till ICE-stödd global plattform - Bitcoin.com News
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - International Paper Declares Quarterly Dividend - Placera.se
 - AlTi Global, Inc. to Announce Third Quarter 2025 Financial Results - Placera.se
 - Patrick Kalotis Joins Ingredion as EVP Global Texture & Healthful Solutions - Placera.se
-- S&P Global and CME Group Complete Sale of OSTTRA to KKR - Placera.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- Dahua Technology Earns Silver Medal from EcoVadis for Sustainability Performance - Placera.se
 
 ## Technology
 
@@ -62,14 +62,14 @@ _Updated: 2025-10-13 23:36_
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- 290 million for digitalisation of Swedish industry - Vinnova
 
 ## Business
 
@@ -103,19 +103,19 @@ _Updated: 2025-10-13 23:36_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- En allt starkare alternativ röst om global hälsa - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Sedana Medical slutför patientrekrytering till kliniska studien INSPiRE-ICU 1 i USA - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
