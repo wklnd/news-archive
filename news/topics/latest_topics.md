@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-13 18:46_
+_Updated: 2025-10-13 19:39_
 
 ## Top Stories
 
-- Kristersson om frigivna gisslan: ”En bra grund för att lösa andra problem” - DN
-- Hampus dog på jobbet – företagare döms - Dagens Arbete
-- 13 oktober 13.07, Mord/dråp, försök, Östersund - polisen.se
+- Samtliga ur gisslan släppta – jubel i Israel - Västerbottens-Kuriren
+- Hampus drunknade på jobbet – entreprenör döms - DN
 - Ministern duckar frågor om Ghana-mopederna: ”Apart” - Aftonbladet
+- Efter priset – Venezuela stänger ambassad i Oslo - Omni
 - Man dog efter att ha blivit fastklämd under traktor utanför Dorotea - SVT Nyheter
-- DN Direkt - M vill att SVT stänger av Dadgostars mick i debatterna - DN
+- 13 oktober 13.07, Mord/dråp, försök, Östersund - polisen.se
+- M vill att SVT stänger av Dadgostars mick i debatterna - DN
 - Resultatet för kyrkovalet klart – fler röstade - Västerbottens-Kuriren
-- Åtal om kabelbrott mellan Sverige och Lettland nedlagt - SVT Nyheter
+- Förundersökning om grovt sabotage nedlagd - Säkerhetspolisen
 - 13 oktober 07.56, Sammanfattning natt, Östergötlands län - polisen.se
-- Nytt nationellt råd om AI:s påverkan på arbetsmarknaden - dagensinfrastruktur -
+- Toppmötet slutpunkt för Trumps ärevarv i Mellanöstern - DN
 - RECENSION: Vill du veta vad som händer om Ryssland vinner kriget i Ukraina? Då ska du läsa den här boken - Sydsvenskan
-- Hundratals Gazabor kvar i israeliska fängelser - Västerbottens-Kuriren
-- Rasar mot att Hamas inte lämnar över fler kroppar: ”Allvarligt avtalsbrott” - Omni
-- Madagaskar: Presidenten evakueras – efter Gen Z-uppror - Aftonbladet
-- Från världens hörn till Norrbotten: Stegra rekryterar globalt och lokalt för grönt stål - Metal Supply
+- Den populära Marwan Barghouti är fången som Israel inte vill släppa - Yle
+- Sjöng hatsång om Andersson - Expressen
+- FMV tecknar uppdaterat kontrakt för ubåt typ A26 - FMV
+- Harald Mix duckar fråga om krismöte i Stegra - Di
 - Jonas Fröberg: Volvo vinnare när Polestar skär ned i Göteborg - DN
 - Nederländska regeringen tar kontroll över Nexperia - Evertiq
-- Klingspor: “Jag är orolig för Kinneviks investering i Stegra” - Affärsvärlden
 - Nu ska du få färre onödiga notiser i Chrome - Computer Sweden
-- Oppos nya flaggskepp får ett kamerakit från Hasselblad - m3.se
+- Pixel Watch 4 hyllas för sin reparationsvänlighet av iFixit - m3.se
 
 ## World News
 
@@ -75,15 +75,15 @@ _Updated: 2025-10-13 18:46_
 
 - Beginning in Q3 2025, Bakkt will be reporting the Loyalty business as discontinued operations. - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- INTERNATIONAL BATTERY METALS LTD. ANNOUNCES SENIOR MANAGEMENT CHANGE - Placera.se
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Student and entry-level programs - EY
 - JPMorgan Chase affärsmodell - Business Model Analyst
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- INTERNATIONAL BATTERY METALS LTD. ANNOUNCES SENIOR MANAGEMENT CHANGE - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -121,44 +121,44 @@ _Updated: 2025-10-13 18:46_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Macron miljardsatsar på franskt jordbruk - Land Lantbruk
-- Louise Helmer blir ny vd för VikingGenetics - Mynewsdesk
