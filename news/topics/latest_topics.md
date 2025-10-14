@@ -1,35 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-14 04:10_
+_Updated: 2025-10-14 05:22_
 
 ## Top Stories
 
-- Vita huset publicerar fredsavtalet – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Dadgostar avbröt mest i debatten: ”Vet nog vad hon gör” - DN
-- Trump: Fredsplanens andra fas är inledd - Hufvudstadsbladet
+- ”Började med de lättare frågorna – sköt de svårare på framtiden” – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Björn af Kleen: Fredsavtalet en triumf för tre amerikanska fastighetsmagnater - DN
 - Resultatet för kyrkovalet klart – fler röstade - Aftonbladet
-- Blir det några nya pengarna till Gavi? - Global Bar Magazine
 - Krönikor: Dahl Tomasson måste få sparken – nu - Omni
+- VM-fiaskot fortsätter för Sverige - GP
+- Dadgostar avbröt mest i debatten: ”Vet nog vad hon gör” - DN
 - Förare fick böter på E12 - Västerbottens-Kuriren
 - 13 oktober 21.02, Trafikkontroll, Västernorrlands län - polisen.se
 - Valturné gjorde snabbt stopp i Geneta - LT
 - Hundratals protesterade mot Clas Ohlson – ”Vi ger oss inte” - Arbetet
 - Zelenskyj till Vita huset på fredag - Västerbottens-Kuriren
-- Hundratals Gazabor kvar i israeliska fängelser - GP
-- Långa köer vid Olskroken i Göteborg - Expressen
+- Hundratals Gazabor kvar i israeliska fängelser - Västerbottens-Kuriren
 - Ryska svaret på Trumps vapenhot: "Kan sluta illa" - Expressen
-- Nobelprisad ekonom slår fast: ”Vi är i en AI-hajp” - Dagens industri
-- FMV tecknar uppdaterat kontrakt för ubåt typ A26 - FMV
+- Madagaskar: Presidenten evakueras – efter Gen Z-uppror - Aftonbladet
+- Silverpriset på rekordnivå – högsta sedan 1980 - Sydsvenskan
 - Thailändska skogsarbetare betalar ockerhyror – 63 000 i månaden - Dagens Arbete
+- Nobelprisad ekonom slår fast: ”Vi är i en AI-hajp” - Dagens industri
 - Solenergin rusar globalt – men takten räcker inte för klimatet - Ny Teknik
+- Nu ska du få färre onödiga notiser i Chrome - Computer Sweden
 - Analys: Rätt av Apple att satsa på smarta glasögon - Omni
-- Samsung öppnar för gemensamma Thread‑nätverk - mobil.se
 
 ## World News
 
 - H.B. Fuller Introduces Fuller Impact to Strengthen Community Partnerships Worldwide - Placera.se
-- Lövsta Future Challenge International Dressage Tour startar upp säsong 4 under World Cup Herning - Mynewsdesk
 - Worldwide rise in antibiotic resistance affects Sweden too - Sveriges Radio
+- Lövsta Future Challenge International Dressage Tour startar upp säsong 4 under World Cup Herning - Mynewsdesk
 - Visionary Holdings (Nasdaq: GV) Secures Global License for Breakthrough Stem Cell Technology Aimed at Diabetes Remission and Potential Complete Cure in a USD 150 Billion Global Market - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Lövsta Future Challenge International Dressage Tour kicks off season 4 at World Cup Herning - Mynewsdesk
@@ -50,6 +50,7 @@ _Updated: 2025-10-14 04:10_
 
 ## Technology
 
+- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
@@ -62,11 +63,10 @@ _Updated: 2025-10-14 04:10_
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
@@ -78,13 +78,12 @@ _Updated: 2025-10-14 04:10_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Student and entry-level programs - EY
 - JPMorgan Chase affärsmodell - Business Model Analyst
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- OneConnect Provides Update on Status Under Holding Foreign Companies Accountable Act - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Rapper Jay-Z to snap up Swedish music-streaming company - Sveriges Radio
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2025-10-14 04:10_
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
+- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
 ## Health
 
@@ -110,8 +110,8 @@ _Updated: 2025-10-14 04:10_
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - En allt starkare alternativ röst om global hälsa - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
@@ -121,24 +121,24 @@ _Updated: 2025-10-14 04:10_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
