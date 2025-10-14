@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-14 15:07_
+_Updated: 2025-10-14 15:47_
 
 ## Top Stories
 
-- Israels militär har öppnat eld i Gaza – Senaste nytt om kriget i Gaza - SVT Nyheter
-- SD vill ha folkomröstning om grundlagen - Dagens Nyheter
-- Inget tjänstefel när polis sköt enbent kvinna - Omni
-- Person föll från fartyg – bedöms ha omkommit - GP
-- Fler förskoletimmar för barn i Göteborg - Västerbottens-Kuriren
+- Hamas: Skjutningar brott mot vapenvilan – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Polis sköt kvinna med yxa – frias - Aftonbladet
+- Person har fallit från fartyg - Arbetet
+- Kulturdebatt: Har Ebba Busch gått och blivit religiös? - GP
 - FN och Röda Korset: Öppna alla gränser till Gaza - GP
-- De första beredskapslagren för spannmål etableras i norra Sverige - Regeringen.se
-- Allt fler barn under 15 ställs inför rätta - NWT
+- Parlamentet upplöst i Madagaskar - GP
 - Kritisk riksrevision: Sverige måste effektivisera jordbrukets klimatarbete - Europaportalen
-- Barn hämtades på skola efter misstänkt hot - SVT Nyheter
-- Madagaskars president uppges ha lämnat landet - Dagens Nyheter
-- Indonesiens presidents hemliga ord till Donald Trump - Expressen
+- Tvångsutvisningar stoppas – oro i Somalia efter mediegranskning - Dagens Nyheter
+- Spannmålslager på gång i norra Sverige: ”Ska kunna sätta mat på bordet” - SVT Nyheter
+- Espresso House tvångsstängdes – lokalen var full av bajs - Aftonbladet
 - Putins dilemma: Lockar ”extremt” gamla soldater med fred - Expressen
-- Stopp på Tvärbanan i Stockholm - Expressen
-- Elpriset skenar – närmare sex kronor i kväll - SVT Nyheter
+- Hundratals Gazabor kvar i israeliska fängelser - GP
+- Björn af Kleen: Fredsavtalet en triumf för tre amerikanska fastighetsmagnater - Dagens Nyheter
+- Indonesiens presidents hemliga ord till Donald Trump - Expressen
+- Elpriset skenar – närmare sex kronor i kväll - Dagens Nyheter
 - Fortsatt småsurt på Stockholmsbörsen – historiskt rally i Ericsson - Dagens industri
 - Bunge: Penningpolitiken måste vara framåtblickande - Sveriges Riksbank
-- Stor flygstrejk i Bryssel – inställda avgångar - Sydsvenskan
+- Bitcoin vänder ner efter svängig handel - Dagens industri
+- Så kan du fortsätta använda Windows 10 – i ett år till - Ny Teknik
 - Playstation 6 sägs lanseras under 2027 - Nordichardware
-- Årets ponnygaloppläger i bilder - Svensk Galopp
 
 ## World News
 
+- Marriott Vacations Worldwide Corporation Announces Third Quarter Earnings Release and Conference Call - Placera.se
 - Worldwide rise in antibiotic resistance affects Sweden too - Sveriges Radio
 - Lövsta Future Challenge International Dressage Tour startar upp säsong 4 under World Cup Herning - Mynewsdesk
-- H.B. Fuller Introduces Fuller Impact to Strengthen Community Partnerships Worldwide - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Visionary Holdings (Nasdaq: GV) Secures Global License for Breakthrough Stem Cell Technology Aimed at Diabetes Remission and Potential Complete Cure in a USD 150 Billion Global Market - Placera.se
-- Polymarket’s utveckling: Från DeFi-startup till ICE-stödd global plattform - Bitcoin.com News
+- H.B. Fuller Introduces Fuller Impact to Strengthen Community Partnerships Worldwide - Placera.se
 - Lövsta Future Challenge International Dressage Tour kicks off season 4 at World Cup Herning - Mynewsdesk
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Visionary Holdings (Nasdaq: GV) Secures Global License for Breakthrough Stem Cell Technology Aimed at Diabetes Remission and Potential Complete Cure in a USD 150 Billion Global Market - Placera.se
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Philip Morris International to Host Webcast of 2025 Third-Quarter and First Nine-Months Results - Placera.se
 - International Paper Declares Quarterly Dividend - Placera.se
 - AlTi Global, Inc. to Announce Third Quarter 2025 Financial Results - Placera.se
 - Patrick Kalotis Joins Ingredion as EVP Global Texture & Healthful Solutions - Placera.se
 - A Bold Addition to The Estée Lauder Companies’ Innovation Network - Placera.se
-- Dahua Technology Earns Silver Medal from EcoVadis for Sustainability Performance - Placera.se
 
 ## Technology
 
@@ -54,16 +54,16 @@ _Updated: 2025-10-14 15:07_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- ZenaTech Announces the Acquisition of Tucson-based Putt Land Surveying Inc., and Acceleration of Drone as a Service (DaaS) Growth in the Phoenix Area and Across Arizona - Placera.se
+- Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
+- Oron: Då tar datan på internet slut - SvD
+- Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
@@ -138,27 +138,27 @@ _Updated: 2025-10-14 15:07_
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Macron miljardsatsar på franskt jordbruk - Land Lantbruk
