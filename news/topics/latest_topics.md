@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-14 01:38_
+_Updated: 2025-10-14 04:10_
 
 ## Top Stories
 
-- M-anställda sjöng ”hatar Andersson” under kampanjmöte - DN
-- Samtliga ur gisslan släppta – jubel i Israel - Västerbottens-Kuriren
+- Vita huset publicerar fredsavtalet – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Dadgostar avbröt mest i debatten: ”Vet nog vad hon gör” - DN
 - Trump: Fredsplanens andra fas är inledd - Hufvudstadsbladet
 - Resultatet för kyrkovalet klart – fler röstade - Aftonbladet
-- Fotboll: Ny avgångsbanderoll mot förbundskapten Jon Dahl Tomasson - SVT Nyheter
+- Blir det några nya pengarna till Gavi? - Global Bar Magazine
+- Krönikor: Dahl Tomasson måste få sparken – nu - Omni
 - Förare fick böter på E12 - Västerbottens-Kuriren
 - 13 oktober 21.02, Trafikkontroll, Västernorrlands län - polisen.se
 - Valturné gjorde snabbt stopp i Geneta - LT
-- Förslag: renodla polisverksamheten - Blåljus.nu
+- Hundratals protesterade mot Clas Ohlson – ”Vi ger oss inte” - Arbetet
 - Zelenskyj till Vita huset på fredag - Västerbottens-Kuriren
-- Hundratals Gazabor kvar i israeliska fängelser - Västerbottens-Kuriren
+- Hundratals Gazabor kvar i israeliska fängelser - GP
+- Långa köer vid Olskroken i Göteborg - Expressen
 - Ryska svaret på Trumps vapenhot: "Kan sluta illa" - Expressen
-- Madagaskar: Presidenten evakueras – efter Gen Z-uppror - Aftonbladet
-- Silverpriset på rekordnivå – högsta sedan 1980 - Aftonbladet
+- Nobelprisad ekonom slår fast: ”Vi är i en AI-hajp” - Dagens industri
 - FMV tecknar uppdaterat kontrakt för ubåt typ A26 - FMV
-- Jonas Fröberg: Volvo vinnare när Polestar skär ned i Göteborg - DN
-- Klingspor: “Jag är orolig för Kinneviks investering i Stegra” - Affärsvärlden
-- Nu ska du få färre onödiga notiser i Chrome - Computer Sweden
+- Thailändska skogsarbetare betalar ockerhyror – 63 000 i månaden - Dagens Arbete
+- Solenergin rusar globalt – men takten räcker inte för klimatet - Ny Teknik
 - Analys: Rätt av Apple att satsa på smarta glasögon - Omni
+- Samsung öppnar för gemensamma Thread‑nätverk - mobil.se
 
 ## World News
 
-- Lövsta Future Challenge International Dressage Tour startar upp säsong 4 under World Cup Herning - Mynewsdesk
 - H.B. Fuller Introduces Fuller Impact to Strengthen Community Partnerships Worldwide - Placera.se
+- Lövsta Future Challenge International Dressage Tour startar upp säsong 4 under World Cup Herning - Mynewsdesk
 - Worldwide rise in antibiotic resistance affects Sweden too - Sveriges Radio
 - Visionary Holdings (Nasdaq: GV) Secures Global License for Breakthrough Stem Cell Technology Aimed at Diabetes Remission and Potential Complete Cure in a USD 150 Billion Global Market - Placera.se
-- Lövsta Future Challenge International Dressage Tour kicks off season 4 at World Cup Herning - Mynewsdesk
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Lövsta Future Challenge International Dressage Tour kicks off season 4 at World Cup Herning - Mynewsdesk
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - International Paper Declares Quarterly Dividend - Placera.se
 - AlTi Global, Inc. to Announce Third Quarter 2025 Financial Results - Placera.se
 - Patrick Kalotis Joins Ingredion as EVP Global Texture & Healthful Solutions - Placera.se
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
-- Dahua Technology Earns Silver Medal from EcoVadis for Sustainability Performance - Placera.se
+- S&P Global and CME Group Complete Sale of OSTTRA to KKR - Placera.se
 
 ## Technology
 
@@ -58,13 +58,13 @@ _Updated: 2025-10-14 01:38_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Oron: Då tar datan på internet slut - SvD
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
@@ -75,16 +75,16 @@ _Updated: 2025-10-14 01:38_
 
 - Beginning in Q3 2025, Bakkt will be reporting the Loyalty business as discontinued operations. - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Student and entry-level programs - EY
 - JPMorgan Chase affärsmodell - Business Model Analyst
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- OneConnect Provides Update on Status Under Holding Foreign Companies Accountable Act - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Rapper Jay-Z to snap up Swedish music-streaming company - Sveriges Radio
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
@@ -104,18 +104,18 @@ _Updated: 2025-10-14 01:38_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - En allt starkare alternativ röst om global hälsa - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -145,7 +145,6 @@ _Updated: 2025-10-14 01:38_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
@@ -153,12 +152,13 @@ _Updated: 2025-10-14 01:38_
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Maskinförare | Jobb | ATL - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
 - Unga lantbrukare får ingen chans - Land Lantbruk
