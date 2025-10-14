@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-14 10:46_
+_Updated: 2025-10-14 11:42_
 
 ## Top Stories
 
-- De står bakom Greta Thunberg – hyllar terrorgrupper - Expressen
-- Zelenskyj till Vita huset – ska prata kryssningsrobotar - DN
-- Somalia förnekar hemlig uppgörelse med Sverige - Global Bar Magazine
-- Brand i lägenhet – 25 evakuerades - Västerbottens-Kuriren
-- Svensk polis ”involverad” i gripandet av Tenezos - Omni
+- SD vill se folkomröstning om grundlagsändringar - SVT Nyheter
+- Maktstrid i Gaza – 30-tal dödade i helgen - Västerbottens-Kuriren
 - Ledare: Ingen vann partiledardebatten - NWT
-- Person har fallit från fartyg utanför Skelleftehamn - SVT Nyheter
+- Radioaktivitet hittad vid kryddnejlikeodling - Västerbottens-Kuriren
+- Somalia förnekar hemlig uppgörelse med Sverige - Global Bar Magazine
+- Biden berömmer Trump: ”Tacksam” - Hufvudstadsbladet
+- Besättningsman har fallit från fartyg utanför Skelleftehamn - SVT Nyheter
+- Brand i lägenhet – 25 evakuerades - Västerbottens-Kuriren
 - Allt fler barn under 15 ställs inför rätta - UNT
 - Espresso House tvångsstängdes – lokalen var full av bajs - Aftonbladet
-- Rapport: Omställningen av jordbruket går långsamt - Omni
-- Maktstrid i Gaza – 30-tal dödade i helgen - Västerbottens-Kuriren
-- Biden berömmer Trump: ”Tacksam” - Hufvudstadsbladet
+- Israel: Sex skjutna i Gaza – trots vapenvilan - Aftonbladet
+- Fängslade Fatah-profilen Barghouti både populär och fruktad - DN
+- Unga män tänkte slåss med pinnar - Expressen
 - Stopp på Tvärbanan i Stockholm - Expressen
-- Kreml hotar Trump – med massiv eskalering - Marcus Oscarsson
+- Ericsson rusar – flaggar för höjd utdelning - SvD
 - Silverpriset på rekordnivå – högsta sedan 1980 - Sydsvenskan
 - Färre nya ansökningar om a-kassa - Tidningen Näringslivet
-- Varnar för nya regler: Bostadspriser kan stiga - SvD
-- Swedish Match lägger ned snusproduktionen på Gotland – 60 tjänster berörs - food-supply.se
+- Ett klokt beslut – men kärnfrågan kvarstår - EFN
 - Årets ponnygaloppläger i bilder - Svensk Galopp
 - Rekordfilmen från 2025 kommer nu till streaming – en av årets största filmer - Filmtopp
 
@@ -32,20 +32,20 @@ _Updated: 2025-10-14 10:46_
 - Lövsta Future Challenge International Dressage Tour startar upp säsong 4 under World Cup Herning - Mynewsdesk
 - Visionary Holdings (Nasdaq: GV) Secures Global License for Breakthrough Stem Cell Technology Aimed at Diabetes Remission and Potential Complete Cure in a USD 150 Billion Global Market - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Polymarket’s utveckling: Från DeFi-startup till ICE-stödd global plattform - Bitcoin.com News
 - Lövsta Future Challenge International Dressage Tour kicks off season 4 at World Cup Herning - Mynewsdesk
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Patrick Kalotis Joins Ingredion as EVP Global Texture & Healthful Solutions - Placera.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - International Paper Declares Quarterly Dividend - Placera.se
 - AlTi Global, Inc. to Announce Third Quarter 2025 Financial Results - Placera.se
+- Patrick Kalotis Joins Ingredion as EVP Global Texture & Healthful Solutions - Placera.se
 - A Bold Addition to The Estée Lauder Companies’ Innovation Network - Placera.se
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 - Dahua Technology Earns Silver Medal from EcoVadis for Sustainability Performance - Placera.se
 
 ## Technology
@@ -104,8 +104,8 @@ _Updated: 2025-10-14 10:46_
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Nyteknik
 - En allt starkare alternativ röst om global hälsa - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
@@ -115,44 +115,44 @@ _Updated: 2025-10-14 10:46_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
