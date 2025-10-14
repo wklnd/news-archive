@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-14 23:37_
+_Updated: 2025-10-15 00:40_
 
 ## Top Stories
 
-- IDF: Kroppar från fyra döda gisslan överlämnade – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Pourmokhtari kräver svar om Ghanamopederna - Omni
-- DN Direkt - Charlie Kirk tilldelas USA:s högsta utmärkelse - Dagens Nyheter
-- Ministern kan se över lag för skyddade boenden - Västerbottens-Kuriren
+- Israel kan sätta in åtgärder om döda gisslan inte återlämnas – Senaste nytt om kriget i Gaza - SVT Nyheter
 - USA attackerade fartyg utanför Venezuela – påstås ha smugglat knark - SVT Nyheter
+- Ministern kan se över lag för skyddade boenden - Västerbottens-Kuriren
 - Nyheter från dagen: 14 oktober - SVT Nyheter
+- Pourmokhtari kräver svar om Ghanamopederna - Omni
+- Psykologen: ”Kommer behöva lära om hjärnan” - SvD
 - Person hittad död i Nässjö – två personer anhållna - SVT Nyheter
-- Somalia förnekar hemlig uppgörelse med Sverige - Global Bar Magazine
 - SD vill ha folkomröstning om grundlagen - Dagens Nyheter
-- Fler och våldsammare – kvinnofängelse byggs ut - Västerbottens-Kuriren
+- Man död efter olycka i cykelpark - Västerbottens-Kuriren
+- Somalia förnekar hemlig uppgörelse med Sverige - Global Bar Magazine
 - DN Direkt - Syriens ledare till Moskva – uppges jaga Assad - Dagens Nyheter
 - Spioneridomarna ökar på ryskockuperad mark - Dagens Nyheter
-- Hustrun: Min make var utan mat i många månader - Dagens Nyheter
 - Putins dilemma: Lockar ”extremt” gamla soldater med fred - Expressen
-- Fortsatta protester mot Clas Ohlsons slopade bonussystem - Market.se
+- Skräcken: Par kokades levande i för varmt badkar på motell - Expressen
 - Carl Johan von Seth: Trodde du att Trumps handelskrig var över? Knappast - Dagens Nyheter
-- Trump: Kapar stöd om vännen förlorar valet - Dagens industri
 - Instagram begränsar tillgången för unga - Aftonbladet
+- Trump: Kapar stöd om vännen förlorar valet - Dagens industri
+- Bitcoin vänder ner efter svängig handel - Dagens industri
 - Samtliga GPU-tillverkare har fortsatt stöd för Windows 10 - Nordichardware
 - Rapporter: Både PS6 och nästa Xbox släpps 2027 – tar olika vägar - FZ.se
 
@@ -40,13 +40,13 @@ _Updated: 2025-10-14 23:37_
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Philip Morris International to Host Webcast of 2025 Third-Quarter and First Nine-Months Results - Placera.se
 - International Paper Declares Quarterly Dividend - Placera.se
 - AlTi Global, Inc. to Announce Third Quarter 2025 Financial Results - Placera.se
 - A Bold Addition to The Estée Lauder Companies’ Innovation Network - Placera.se
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -104,9 +104,7 @@ _Updated: 2025-10-14 23:37_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - En allt starkare alternativ röst om global hälsa - Läkartidningen
@@ -116,29 +114,31 @@ _Updated: 2025-10-14 23:37_
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
