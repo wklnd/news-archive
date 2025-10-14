@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-14 08:53_
+_Updated: 2025-10-14 09:48_
 
-- Fact check: Disinformation surges amid Gaza ceasefire - dw.com
-- Trump plan to invite Netanyahu to Gaza summit aborted after Erdoğan warning - The Guardian
+- Trump eyes transformational Mideast peace as Israel, Arabs stay miles apart - The Washington Post
 - US, China to roll out tit-for-tat port fees, threatening more turmoil at sea - Reuters
-- Majority of special education staff in US education department laid off – report - The Guardian
-- Some airports are refusing to play a Homeland Security video blaming Dems for the shutdown. Here’s what SLC decided. - The Salt Lake Tribune
+- Illinois lawmakers look at limiting federal immigration agents as Broadview shrinks designated protest area - Chicago Tribune
 - Hundreds of CDC layoffs reversed, but biodefense preparedness staff hit - The Washington Post
-- A powerful storm will continue to hit the East Coast through Tuesday - The Washington Post
-- North Carolina GOP announce plans to vote on new House map amid nationwide redistricting battle - Politico
+- Photos: Powerful storm pummels U.S. East Coast - Axios
+- Majority of special education staff in US education department laid off – report - The Guardian
+- North Carolina Republicans heed Trump’s call to redraw congressional map - The Washington Post
 - 4 arrests made in connection with Mississippi mass shooting that left 6 dead, FBI says - CBS News
-- Latest Updates: Portlanders rally for, against ICE after ‘Emergency Naked Bike Ride’ - KPTV
+- US news outlets refuse to sign new Pentagon rules to report only official information - The Guardian
+- Cyclists in the buff and in costume mix with wet weather at Portland ICE protest: Get caught up - OregonLive.com
 - Madagascar's president flees country in fear for his life after military rebellion - NPR
-- Death toll from torrential rains in Mexico rises to 64 as search expands - AP News
-- A Guide to Trump’s Twenty-Point Gaza Peace Deal - Council on Foreign Relations
+- Dozens Are Dead and Dozens More Missing as Catastrophic Rains Devastate Mexico - The New York Times
+- With hostages freed, Netanyahu bids for political redemption - Financial Times
 - Nobel economics prize goes to 3 researchers for explaining innovation-driven economic growth - NBC News
 - China says it didn’t reignite trade tensions with the US, Trump did - CNN
-- Jamie Dimon wants to hire bankers in hot sectors for the firm's new $1.5 trillion bet on America: 'Just give us a call' - Business Insider
-- LendingTree CEO Doug Lebda dies in ATV accident, company confirms - USA Today
+- China targets five U.S. subsidiaries of South Korea's Hanwha Ocean, sending shares down 8% - CNBC
+- JPMorgan to invest up to $10 billion in US national security as part of $1.5 trillion pledge - Reuters
 - Ford Cuts Production of Five Trucks, SUVs After Fire at Aluminum Supplier - The Wall Street Journal
 - Leaker Confirms 10 Apple Products Launching In The Coming Months - bgr.com
-- Hackers can steal 2FA codes and private messages from Android phones - Ars Technica
+- Some Google Pixel 10 owners report crashing app issue, temporary fix available - 9to5Google
