@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-14 07:40_
+_Updated: 2025-10-14 08:49_
 
 ## Top Stories
 
-- Vita huset publicerar fredsavtalet – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Dadgostar avbröt mest i debatten: ”Vet nog vad hon gör” - DN
-- Socialstyrelsen vill att fler kvinnor får hormoner - DN
+- Ericsson minskar omsättning men ökar rörelseresultat (uppdatering) - Placera.se
+- Palestinska fångar anländer till Gaza – Senaste nytt om kriget i Gaza - SVT Nyheter
+- ”Partiledardebatten var en tågkrasch” - Västerbottens-Kuriren
+- Brand i lägenhet – 25 evakuerades - Västerbottens-Kuriren
+- Socialstyrelsen: Mer kunskap krävs om klimakteriet - Västerbottens-Kuriren
+- Biden berömmer Trump: ”Tacksam” - Hufvudstadsbladet
 - Somalia förnekar hemlig uppgörelse med Sverige - Global Bar Magazine
-- Trumps triumf – grep tag om ögonblicket - GP
-- Maktstrid i Gaza – 30-tal dödade i helgen - GP
-- Brand i Mariastaden – en till sjukhus och 25 utrymda - SVT Nyheter
 - 14 oktober 07.00, Sammanfattning natt, Västra Götalands län - polisen.se
 - Förare fick böter på E12 - Västerbottens-Kuriren
-- Naturvårdsverket har satt felöversättningar i system - Altinget.se
-- Zelenskyj till Vita huset på fredag - Västerbottens-Kuriren
+- I NATT: Blödande kvinna hittad i Oxelösund - SN, Södermanlands Nyheter
 - Minst 19 dödade i massaker - Folkbladet
 - Ryska svaret på Trumps vapenhot: "Kan sluta illa" - Expressen
 - Madagaskar: Presidenten evakueras – efter Gen Z-uppror - Aftonbladet
-- Kraftigt vinstlyft för Ericsson – flaggar för höjd utdelning - Sydsvenskan
-- Färre nya ansökningar om a-kassa - Västerbottens-Kuriren
-- FMV tecknar uppdaterat kontrakt för ubåt typ A26 - FMV
+- Alla levande gisslan fria – bara fyra kroppar släpps - Omni
+- Färre nya ansökningar om a-kassa - Dagens industri
 - Snusfabrik på Gotland läggs ned - SVT Nyheter
+- Silverpriset på rekordnivå – högsta sedan 1980 - Sydsvenskan
+- Jonas Fröberg: Volvo vinnare när Polestar skär ned i Göteborg - DN
 - Är det dags för företagen att byta till Arm-baserade pc? - Computer Sweden
-- Nu ska du få färre notiser i webbläsaren Chrome - PC för Alla
+- Umeå får nytt företag i byggbranschen - Folkbladet
 
 ## World News
 
@@ -62,14 +62,14 @@ _Updated: 2025-10-14 07:40_
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 
 ## Business
 
@@ -104,7 +104,6 @@ _Updated: 2025-10-14 07:40_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
@@ -116,6 +115,7 @@ _Updated: 2025-10-14 07:40_
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-14 07:40_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Mjau lanserar Partypuffar med smak av kattmynta – krispiga snacks för lek och belöning - Mynewsdesk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- An Giang Agricultural Extension 30 år av att stödja jordbrukare - Vietnam.vn
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Intensivt jordbruk hotar biologisk mångfald - Sveriges Natur
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Maskinförare | Jobb | ATL - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
 - Unga lantbrukare får ingen chans - Land Lantbruk
