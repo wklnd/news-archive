@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-14 05:48_
+_Updated: 2025-10-14 06:43_
 
 ## Top Stories
 
 - Vita huset publicerar fredsavtalet – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Hundratals protesterade mot Clas Ohlson – ”Vi ger oss inte” - Arbetet
-- Björn af Kleen: Fredsavtalet en triumf för tre amerikanska fastighetsmagnater - DN
-- Dadgostar avbröt mest i debatten: ”Vet nog vad hon gör” - DN
+- ”Partiledardebatten var en tågkrasch” - Västerbottens-Kuriren
+- Zelenskyj till Vita huset – ska prata kryssningsrobotar - DN
+- Strömmer: Samla kraft mot kriminella utanför EU - Västerbottens-Kuriren
+- Trumps triumf – grep tag om ögonblicket - GP
 - Spelarbetyg: Flera svenskar får underkänt - Aftonbladet
-- Kim Källström om Jon Dahl Tomasson: ”Fullt förtroende” - SvenskaFans.com
 - Förare fick böter på E12 - Västerbottens-Kuriren
 - DN Direkt - Resultatet för kyrkovalet klart – fler röstade - DN
-- 13 oktober 21.02, Trafikkontroll, Västernorrlands län - polisen.se
 - Trött på störiga kollegor? – Ny guide ska rädda arbetsklimatet - SVT Nyheter
-- Zelenskyj till Vita huset på fredag - Västerbottens-Kuriren
+- 13 oktober 21.02, Trafikkontroll, Västernorrlands län - polisen.se
+- DN Direkt - 14 döda i attacker i Ecuador - DN
 - Hundratals Gazabor kvar i israeliska fängelser - GP
+- Strul för Telia - Expressen
 - Ryska svaret på Trumps vapenhot: "Kan sluta illa" - Expressen
-- Madagaskar: Presidenten evakueras – efter Gen Z-uppror - Aftonbladet
+- Snusfabrik på Gotland läggs ned - SVT Nyheter
 - FMV tecknar uppdaterat kontrakt för ubåt typ A26 - FMV
-- Silverpriset på rekordnivå – högsta sedan 1980 - Sydsvenskan
-- Thailändska skogsarbetare betalar ockerhyror – 63 000 i månaden - Dagens Arbete
-- Analyser: En AI-bubbla kan leda till en finanskris - Omni
-- Nu ska du få färre onödiga notiser i Chrome - Computer Sweden
-- Apple TV+ minus plus = streamingtjänsten byter namn till Apple TV - MovieZine
+- Silverpriset på rekordnivå – högsta sedan 1980 - Aftonbladet
+- Från världens hörn till Norrbotten: Stegra rekryterar globalt och lokalt för grönt stål - Metal Supply
+- Är det dags för företagen att byta till Arm-baserade pc? - Computer Sweden
+- Nu ska du få färre notiser i webbläsaren Chrome - PC för Alla
 
 ## World News
 
@@ -33,20 +33,20 @@ _Updated: 2025-10-14 05:48_
 - Visionary Holdings (Nasdaq: GV) Secures Global License for Breakthrough Stem Cell Technology Aimed at Diabetes Remission and Potential Complete Cure in a USD 150 Billion Global Market - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Lövsta Future Challenge International Dressage Tour kicks off season 4 at World Cup Herning - Mynewsdesk
-- Polymarket’s utveckling: Från DeFi-startup till ICE-stödd global plattform - Bitcoin.com News
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- Trumps beställning: Visa att global uppvärmning är bra - Omni
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - International Paper Declares Quarterly Dividend - Placera.se
 - AlTi Global, Inc. to Announce Third Quarter 2025 Financial Results - Placera.se
 - Patrick Kalotis Joins Ingredion as EVP Global Texture & Healthful Solutions - Placera.se
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- Dahua Technology Earns Silver Medal from EcoVadis for Sustainability Performance - Placera.se
 
 ## Technology
 
@@ -55,12 +55,12 @@ _Updated: 2025-10-14 05:48_
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
+- Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Oron: Då tar datan på internet slut - SvD
-- Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
+- Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
