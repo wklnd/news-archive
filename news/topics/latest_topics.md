@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-14 21:38_
+_Updated: 2025-10-14 22:41_
 
 ## Top Stories
 
-- Israel kan sätta in åtgärder om döda gisslan inte återlämnas – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Person hittad död i Nässjö – polisen misstänker brott - SVT Nyheter
 - Pourmokhtari kräver svar om Ghanamopederna - Omni
-- 300 000 svenskar i läcka - Expressen
-- Gripne gängledaren misstänks för 27 olika brott - Aftonbladet
-- USA:s förbryllande knarkkrig - Utrikespolitiska institutet
-- Polis sköt kvinna med yxa – frias - Västerbottens-Kuriren
+- FN och Röda Korset: Öppna alla gränser till Gaza - Västerbottens-Kuriren
+- ”Hamas vet att de är passé i nuvarande form” - SvD
+- Ministern kan se över lag för skyddade boenden - GP
+- Nyheter från dagen: 14 oktober - SVT Nyheter
 - Här tas första spadtaget till Nordens största kvinnofängelse - Dagens Nyheter
-- SD vill ha folkomröstning om grundlagsändring - UNT
 - Somalia förnekar hemlig uppgörelse med Sverige - Global Bar Magazine
-- Norra Sverige först ut när Jordbruksverket upphandlar beredskapslager för spannmål - Länsstyrelsen
-- DN Direkt - Polen förnedrade Sverige – som blev nollat igen - Dagens Nyheter
-- Palestiniernas glädje över att återförenas med sina familjer - GP
-- Frankrikes premiärminister pausar pensionsreform - Västerbottens-Kuriren
-- Erik Esbjörnsson: Isoleringen ökar för önationen Madagaskar efter militärkuppen - Dagens Nyheter
+- SD vill ha folkomröstning om grundlagsändring - UNT
+- 14 oktober 19.52, Trafikkontroll, Norrbottens län - polisen.se
+- Syriens ledare till Moskva – uppges jaga Assad - GP
+- Fängslade Fatah-profilen Barghouti både populär och fruktad - Dagens Nyheter
+- Hustrun: Min make var utan mat i många månader - Dagens Nyheter
+- Spioneridomarna ökar på ryskockuperad mark - Dagens Nyheter
 - Fortsatta protester mot Clas Ohlsons slopade bonussystem - Market.se
-- I KVÄLL: Elpriset skenar till närmare sex kronor i Värmland – då är elen dyrast - NWT
+- Elpriset skenar till närmare sex kronor i Värmland – då är elen dyrast - NWT
 - Instagram begränsar tillgången för unga - Aftonbladet
-- Ericsson lyfte Stockholmsbörsen – bästa dagen sedan Stenbecks bortgång - Dagens industri
-- Rapporter: Både PS6 och nästa Xbox släpps 2027 – tar olika vägar - FZ.se
+- Chefsekonom: USA går stadigt mot konkurs - Dagens PS
 - Samtliga GPU-tillverkare har fortsatt stöd för Windows 10 - Nordichardware
+- Rapporter: Både PS6 och nästa Xbox släpps 2027 – tar olika vägar - FZ.se
 
 ## World News
 
@@ -35,17 +35,17 @@ _Updated: 2025-10-14 21:38_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- H.B. Fuller Introduces Fuller Impact to Strengthen Community Partnerships Worldwide - Placera.se
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- Visionary Holdings (Nasdaq: GV) Secures Global License for Breakthrough Stem Cell Technology Aimed at Diabetes Remission and Potential Complete Cure in a USD 150 Billion Global Market - Placera.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
 - Philip Morris International to Host Webcast of 2025 Third-Quarter and First Nine-Months Results - Placera.se
 - International Paper Declares Quarterly Dividend - Placera.se
 - AlTi Global, Inc. to Announce Third Quarter 2025 Financial Results - Placera.se
-- Patrick Kalotis Joins Ingredion as EVP Global Texture & Healthful Solutions - Placera.se
 - A Bold Addition to The Estée Lauder Companies’ Innovation Network - Placera.se
 
 ## Technology
@@ -103,19 +103,19 @@ _Updated: 2025-10-14 21:38_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Mabel AI won the HealthTech Award 2023 - NewsMachine AB
+- En allt starkare alternativ röst om global hälsa - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -144,7 +144,6 @@ _Updated: 2025-10-14 21:38_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -152,13 +151,14 @@ _Updated: 2025-10-14 21:38_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Maskinförare | Jobb | ATL - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
+- Unga lantbrukare får ingen chans - Land Lantbruk
