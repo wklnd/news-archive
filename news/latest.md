@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-14 18:52_
+_Updated: 2025-10-14 19:48_
 
-- Fact-checking Donald Trump’s speech in Israeli parliament - Al Jazeera
-- Questions remain about deceased Israeli hostages in Gaza - NPR
+- R&B singer D’Angelo dead at 51 - BBC
+- A Gaza ceasefire largely holds after Israel and Hamas swap detainees and hostages - NPR
 - Supreme Court turns away Alex Jones' attempt to block $1.5B defamation judgment - NBC News
+- Supreme Court once again eyes overturning key part of Voting Rights Act - The Washington Post
 - Atmospheric river storm slams into Southern California amid evacuation and flood warnings - Los Angeles Times
-- Government shutdown live updates as Senate plans 8th vote to reopen government - CBS News
-- Gaza Truce Brings Relief, But Arab States Fear What Comes Next - Bloomberg.com
-- Woman found dead, dozens rescued and over 1,000 displaced after storm devastates Western Alaska - Anchorage Daily News
+- Gov. Janet Mills of Maine to Run for Senate, Aiming at Senator Susan Collins - The New York Times
+- One dead and two missing after typhoon remnants lash western Alaska - The Guardian
 - Pennsylvania man pleads guilty in arson attack at governor’s mansion while Shapiro’s family slept - AP News
-- House speaker defends administration’s move to keep military paid during government shutdown – US politics live - The Guardian
-- Maine Gov. Janet Mills enters crowded Democratic race to unseat Susan Collins - NPR
-- Elite Madagascar military unit says it has seized power from President Andry Rajoelina - BBC
-- French PM to freeze retirement reform in bid to save government - politico.eu
-- Indonesia finds radiation at clove farm in probe sparked by Cesium-137-tainted shrimp and spices in U.S. - CBS News
-- 3 Italian carabinieri killed in apparently deliberate farmhouse explosion - AP News
-- Jamie Dimon says auto company bankruptcies reveal 'early signs' of excess in corporate lending - CNBC
+- News outlets including The New York Times and Newsmax say they won't sign Pentagon rules document - PBS
+- No fly zone: Airports ground Kristi Noem's government shutdown video - Axios
+- Madagascar army colonel says military has taken charge of nation - Reuters
+- House explosion in Italy kills 3 police officers near Verona trying to serve eviction notice - CBS News
+- What issues are still to be resolved in the Gaza ceasefire deal? - The Guardian
+- The controversy over the collapsed China spy case explained - BBC
 - Big Banks Credit ‘Resilient’ Economy for Profit Growth - The New York Times
-- IMF lifts growth outlook on more benign tariffs as revived US-China trade war looms - Reuters
-- GM to Take $1.6 Billion Charge on Electric Vehicle Pullback - Bloomberg.com
+- Jay Powell signals support for more rate cuts as US job market cools - Financial Times
+- China Puts Export Controls on Nexperia After Dutch Takeover - Bloomberg.com
+- J&J to spin off orthopedics business, sees 2026 sales growth of over 5% - Reuters
 - Windows 10 support ends today, but here's how to get an extra year for free - Engadget
 - NVIDIA DGX Spark Arrives for World’s AI Developers - NVIDIA Newsroom
