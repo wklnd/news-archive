@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-14 15:47_
+_Updated: 2025-10-14 16:45_
 
 ## Top Stories
 
-- Hamas: Skjutningar brott mot vapenvilan – Senaste nytt om kriget i Gaza - SVT Nyheter
+- 14 oktober 13.26, Arbetsplatsolycka, Skellefteå - polisen.se
 - Polis sköt kvinna med yxa – frias - Aftonbladet
-- Person har fallit från fartyg - Arbetet
-- Kulturdebatt: Har Ebba Busch gått och blivit religiös? - GP
-- FN och Röda Korset: Öppna alla gränser till Gaza - GP
-- Parlamentet upplöst i Madagaskar - GP
+- SD vill ha folkomröstning om grundlagsändring - UNT
+- Rödgröna budgeten i Göteborg: 30 timmar förskola för föräldraledigas barn - SVT Nyheter
+- Hamas: Skjutningar brott mot vapenvilan – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Militär: Har tagit makten i Madagaskar - Dagens Nyheter
 - Kritisk riksrevision: Sverige måste effektivisera jordbrukets klimatarbete - Europaportalen
 - Tvångsutvisningar stoppas – oro i Somalia efter mediegranskning - Dagens Nyheter
-- Spannmålslager på gång i norra Sverige: ”Ska kunna sätta mat på bordet” - SVT Nyheter
-- Espresso House tvångsstängdes – lokalen var full av bajs - Aftonbladet
+- Norra Sverige först ut när Jordbruksverket upphandlar beredskapslager för spannmål - Länsstyrelsen
+- Större andel röstade – så slutade kyrkovalet i Varabygdens församling - NLT
 - Putins dilemma: Lockar ”extremt” gamla soldater med fred - Expressen
-- Hundratals Gazabor kvar i israeliska fängelser - GP
+- Israel: Sex skjutna i Gaza – trots vapenvilan - Skånska Dagbladet
+- Ukraina: Ryska glidbomber mot Charkiv - Aftonbladet
 - Björn af Kleen: Fredsavtalet en triumf för tre amerikanska fastighetsmagnater - Dagens Nyheter
-- Indonesiens presidents hemliga ord till Donald Trump - Expressen
-- Elpriset skenar – närmare sex kronor i kväll - Dagens Nyheter
+- I KVÄLL: Elpriset skenar till närmare sex kronor i Värmland – då är elen dyrast - NWT
 - Fortsatt småsurt på Stockholmsbörsen – historiskt rally i Ericsson - Dagens industri
-- Bunge: Penningpolitiken måste vara framåtblickande - Sveriges Riksbank
 - Bitcoin vänder ner efter svängig handel - Dagens industri
-- Så kan du fortsätta använda Windows 10 – i ett år till - Ny Teknik
-- Playstation 6 sägs lanseras under 2027 - Nordichardware
+- Färre nya ansökningar om a-kassa - Tidningen Näringslivet
+- Rapporter: Både PS6 och nästa Xbox släpps 2027 – tar olika vägar - FZ.se
+- Nvidia lanserar ”världens minsta AI-superdator” - Omni
 
 ## World News
 
@@ -58,18 +58,18 @@ _Updated: 2025-10-14 15:47_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Oron: Då tar datan på internet slut - SvD
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 
 ## Business
 
@@ -104,18 +104,18 @@ _Updated: 2025-10-14 15:47_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - En allt starkare alternativ röst om global hälsa - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-14 15:47_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Macron miljardsatsar på franskt jordbruk - Land Lantbruk
