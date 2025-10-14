@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-14 13:48_
+_Updated: 2025-10-14 15:18_
 
-- Trump plan to invite Netanyahu to Gaza summit aborted after Erdoğan warning - The Guardian
-- US, China roll out tit-for-tat port fees, threatening more turmoil at sea - Reuters
-- Trump draws praise from more than just MAGA as Israeli hostages return home - Politico
-- Video shows execution in Gaza City as armed groups vie for control - BBC
+- What issues are still to be resolved in the Gaza ceasefire deal? - The Guardian
+- U.S. Starts Charging Chinese Ships to Dock at Its Ports - The New York Times
+- Opinion: Why I'm handing in my Pentagon press pass - NPR
+- At Sharm summit, Trump and world leaders sign up for peace in Gaza, with Netanyahu absent - The Times of Israel
+- What to know about the 20 living hostages released by Hamas - Axios
 - In reading, the nation's students are still stuck in a pandemic slump - NPR
-- Israel says it opens fire on suspects in Gaza, local authorities report six killed - Reuters
-- Woman found dead, dozens rescued and over 1,000 displaced after storm devastates Western Alaska - Anchorage Daily News
-- Gov. Janet Mills of Maine to Run for Senate, Aiming at Senator Susan Collins - The New York Times
-- Leaf-peeping season hampered by drought: Fall foliage dropping sooner, showing less color - NBC News
-- 4 arrests made in connection with Mississippi mass shooting that left 6 dead, FBI says - CBS News
-- Trump declares end of Israel-Hamas war, but experts see the hard work as just beginning - ABC News - Breaking News, Latest News and Videos
-- Madagascar’s president dissolves National Assembly, flees amid violent unrest - The Washington Post
-- Cameroon opposition candidate Tchiroma claims victory in presidential poll, urges Biya to concede - Reuters
+- 1 dead, 2 missing after severe Alaska flooding Coast Guard official says left "absolute devastation" - CBS News
+- Capitol agenda: The Senate stalls, ACA buzz builds - Politico
+- 4 People Arrested in Deadly Mississippi Shooting - The New York Times
+- Chuck Schumer gets his preferred candidate, Janet Mills, in crowded Maine Senate race - Politico
+- Israel reportedly gives Hamas Tuesday deadline for progress on return of hostage bodies - The Guardian
 - Death toll from torrential rains in Mexico rises to 64 as search expands - NPR
-- JPMorgan Chase is set to report third-quarter earnings – here’s what the Street expects - CNBC
-- Slowing Electric Vehicle Sales Will Cost G.M. $1.6 Billion - The New York Times
+- NATO chief Mark Rutte mocks Russia over 'limping' submarine in English Channel - Euronews.com
+- Andry Rajoelina: Madagascar president hiding in 'safe place' as he warns of coup attempt - BBC
+- GM to take $1.6 billion charge related to EV pullback - CNBC
 - Google to spend $15 billion on AI data centre in biggest India investment - Reuters
-- Stock Market Today: Dow Futures Fall After U.S.-China Tensions Resurge — Live Updates - The Wall Street Journal
-- NotebookLM Video Overviews add Nano Banana visual styles, Brief or Explainer formats - 9to5Google
-- Apple TV+ Rebrands to Apple TV, Ditching the Plus Sign for ‘Vibrant New Identity’ - Variety
+- Instagram Will Limit Content for Teenagers Based on PG-13 Ratings - The New York Times
+- JPMorganChase lifts 2025 NII, expense guidance; Q3 earnings beat on strong activity (JPM:NYSE) - Seeking Alpha
+- Google’s Photoshop-killer AI model is coming to search, Photos, and NotebookLM - Ars Technica
+- End of an Era: Windows 10 Officially Reaches End of Life - TechPowerUp
