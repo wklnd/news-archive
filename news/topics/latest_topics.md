@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-14 11:42_
+_Updated: 2025-10-14 12:44_
 
 ## Top Stories
 
-- SD vill se folkomröstning om grundlagsändringar - SVT Nyheter
-- Maktstrid i Gaza – 30-tal dödade i helgen - Västerbottens-Kuriren
+- Maktstrid rasar i Gaza - SVT Nyheter
+- SD vill ha folkomröstning om grundlagen - Dagens Nyheter
 - Ledare: Ingen vann partiledardebatten - NWT
-- Radioaktivitet hittad vid kryddnejlikeodling - Västerbottens-Kuriren
-- Somalia förnekar hemlig uppgörelse med Sverige - Global Bar Magazine
-- Biden berömmer Trump: ”Tacksam” - Hufvudstadsbladet
-- Besättningsman har fallit från fartyg utanför Skelleftehamn - SVT Nyheter
-- Brand i lägenhet – 25 evakuerades - Västerbottens-Kuriren
-- Allt fler barn under 15 ställs inför rätta - UNT
+- Israel: Sex skjutna i Gaza – trots vapenvilan - Västerbottens-Kuriren
+- De står bakom Greta Thunberg – hyllar terrorgrupper - Expressen
+- Ishockey: Rikard Grönborg klar för Tre Kronor - SVT Nyheter
+- Just nu: Man har fallit överbord – stort pådrag - Västerbottens-Kuriren
+- Allt fler barn ställs inför rätta - SVT Nyheter
+- Kritisk riksrevision: Sverige måste effektivisera jordbrukets klimatarbete - Europaportalen
 - Espresso House tvångsstängdes – lokalen var full av bajs - Aftonbladet
-- Israel: Sex skjutna i Gaza – trots vapenvilan - Aftonbladet
-- Fängslade Fatah-profilen Barghouti både populär och fruktad - DN
-- Unga män tänkte slåss med pinnar - Expressen
+- Björn af Kleen: Fredsavtalet en triumf för tre amerikanska fastighetsmagnater - Dagens Nyheter
+- Fängslade Fatah-profilen Barghouti både populär och fruktad - Dagens Nyheter
 - Stopp på Tvärbanan i Stockholm - Expressen
+- Unga män tänkte slåss med pinnar - Expressen
 - Ericsson rusar – flaggar för höjd utdelning - SvD
-- Silverpriset på rekordnivå – högsta sedan 1980 - Sydsvenskan
-- Färre nya ansökningar om a-kassa - Tidningen Näringslivet
+- Elpriset skenar – närmare sex kronor i kväll - Dagens industri
+- Stor flygstrejk i Bryssel – inställda avgångar - Sydsvenskan
 - Ett klokt beslut – men kärnfrågan kvarstår - EFN
-- Årets ponnygaloppläger i bilder - Svensk Galopp
 - Rekordfilmen från 2025 kommer nu till streaming – en av årets största filmer - Filmtopp
+- Årets ponnygaloppläger i bilder - Svensk Galopp
 
 ## World News
 
@@ -32,7 +32,6 @@ _Updated: 2025-10-14 11:42_
 - Lövsta Future Challenge International Dressage Tour startar upp säsong 4 under World Cup Herning - Mynewsdesk
 - Visionary Holdings (Nasdaq: GV) Secures Global License for Breakthrough Stem Cell Technology Aimed at Diabetes Remission and Potential Complete Cure in a USD 150 Billion Global Market - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Polymarket’s utveckling: Från DeFi-startup till ICE-stödd global plattform - Bitcoin.com News
 - Lövsta Future Challenge International Dressage Tour kicks off season 4 at World Cup Herning - Mynewsdesk
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
@@ -42,6 +41,7 @@ _Updated: 2025-10-14 11:42_
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - International Paper Declares Quarterly Dividend - Placera.se
 - AlTi Global, Inc. to Announce Third Quarter 2025 Financial Results - Placera.se
 - Patrick Kalotis Joins Ingredion as EVP Global Texture & Healthful Solutions - Placera.se
@@ -98,6 +98,7 @@ _Updated: 2025-10-14 11:42_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
@@ -109,30 +110,29 @@ _Updated: 2025-10-14 11:42_
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -148,11 +148,11 @@ _Updated: 2025-10-14 11:42_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Kor som väger sig själva och självstädande ladugårdsgolv – två av flera smarta lösningar på Smart Farming-seminariet - Cision News
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
