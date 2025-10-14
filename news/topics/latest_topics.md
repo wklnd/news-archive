@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-14 16:45_
+_Updated: 2025-10-14 17:40_
 
 ## Top Stories
 
+- Jon Dahl Tomasson får sparken från fotbollslandslaget - Dagens Nyheter
+- Hamas: Skjutningar brott mot vapenvilan – Senaste nytt om kriget i Gaza - SVT Nyheter
 - 14 oktober 13.26, Arbetsplatsolycka, Skellefteå - polisen.se
 - Polis sköt kvinna med yxa – frias - Aftonbladet
-- SD vill ha folkomröstning om grundlagsändring - UNT
-- Rödgröna budgeten i Göteborg: 30 timmar förskola för föräldraledigas barn - SVT Nyheter
-- Hamas: Skjutningar brott mot vapenvilan – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Militär: Har tagit makten i Madagaskar - Dagens Nyheter
-- Kritisk riksrevision: Sverige måste effektivisera jordbrukets klimatarbete - Europaportalen
 - Tvångsutvisningar stoppas – oro i Somalia efter mediegranskning - Dagens Nyheter
+- Rödgröna budgeten i Göteborg: 30 timmar förskola för föräldraledigas barn - SVT Nyheter
+- SD vill ha folkomröstning om grundlagen - Dagens Nyheter
+- Kritisk riksrevision: Sverige måste effektivisera jordbrukets klimatarbete - Europaportalen
 - Norra Sverige först ut när Jordbruksverket upphandlar beredskapslager för spannmål - Länsstyrelsen
 - Större andel röstade – så slutade kyrkovalet i Varabygdens församling - NLT
+- Militär: Har tagit makten i Madagaskar - Dagens Nyheter
+- Biden berömmer Trump: ”Tacksam” - Hufvudstadsbladet
 - Putins dilemma: Lockar ”extremt” gamla soldater med fred - Expressen
-- Israel: Sex skjutna i Gaza – trots vapenvilan - Skånska Dagbladet
-- Ukraina: Ryska glidbomber mot Charkiv - Aftonbladet
-- Björn af Kleen: Fredsavtalet en triumf för tre amerikanska fastighetsmagnater - Dagens Nyheter
+- Indonesiens presidents hemliga ord till Donald Trump - Expressen
 - I KVÄLL: Elpriset skenar till närmare sex kronor i Värmland – då är elen dyrast - NWT
-- Fortsatt småsurt på Stockholmsbörsen – historiskt rally i Ericsson - Dagens industri
+- Affärsvärlden ger ett neutralt råd för Ericsson som rusar på delårsrapport - Placera.se
 - Bitcoin vänder ner efter svängig handel - Dagens industri
-- Färre nya ansökningar om a-kassa - Tidningen Näringslivet
+- Instagram begränsar tillgången för unga - Aftonbladet
+- Samtliga GPU-tillverkare har fortsatt stöd för Windows 10 - Nordichardware
 - Rapporter: Både PS6 och nästa Xbox släpps 2027 – tar olika vägar - FZ.se
-- Nvidia lanserar ”världens minsta AI-superdator” - Omni
 
 ## World News
 
-- Marriott Vacations Worldwide Corporation Announces Third Quarter Earnings Release and Conference Call - Placera.se
+- Northern Trust Appointed as Global Custodian by International Finance Facility for Education (IFFEd) - Placera.se
 - Worldwide rise in antibiotic resistance affects Sweden too - Sveriges Radio
 - Lövsta Future Challenge International Dressage Tour startar upp säsong 4 under World Cup Herning - Mynewsdesk
+- Marriott Vacations Worldwide Corporation Announces Third Quarter Earnings Release and Conference Call - Placera.se
+- Gaza peace 'is no small challenge', UK PM says, as Palestinians fear ceasefire may not hold - BBC
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- H.B. Fuller Introduces Fuller Impact to Strengthen Community Partnerships Worldwide - Placera.se
 - Lövsta Future Challenge International Dressage Tour kicks off season 4 at World Cup Herning - Mynewsdesk
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Visionary Holdings (Nasdaq: GV) Secures Global License for Breakthrough Stem Cell Technology Aimed at Diabetes Remission and Potential Complete Cure in a USD 150 Billion Global Market - Placera.se
+- H.B. Fuller Introduces Fuller Impact to Strengthen Community Partnerships Worldwide - Placera.se
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- Visionary Holdings (Nasdaq: GV) Secures Global License for Breakthrough Stem Cell Technology Aimed at Diabetes Remission and Potential Complete Cure in a USD 150 Billion Global Market - Placera.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Philip Morris International to Host Webcast of 2025 Third-Quarter and First Nine-Months Results - Placera.se
 - International Paper Declares Quarterly Dividend - Placera.se
 - AlTi Global, Inc. to Announce Third Quarter 2025 Financial Results - Placera.se
-- Patrick Kalotis Joins Ingredion as EVP Global Texture & Healthful Solutions - Placera.se
-- A Bold Addition to The Estée Lauder Companies’ Innovation Network - Placera.se
 
 ## Technology
 
@@ -73,20 +73,20 @@ _Updated: 2025-10-14 16:45_
 
 ## Business
 
-- Beginning in Q3 2025, Bakkt will be reporting the Loyalty business as discontinued operations. - Placera.se
+- BlackRock TCP Capital Corp. to Report Third Quarter Ended September 30, 2025 Financial Results on November 6, 2025 - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- ALT5 Sigma and World Liberty Financial to Present at A.G.P.’s Digital Assets & Technology Showcase - Placera.se
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- INTERNATIONAL BATTERY METALS LTD. ANNOUNCES SENIOR MANAGEMENT CHANGE - Placera.se
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Beginning in Q3 2025, Bakkt will be reporting the Loyalty business as discontinued operations. - Placera.se
+- Faciliteten för återhämtning och resiliens - commission.europa.eu
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Student and entry-level programs - EY
 - JPMorgan Chase affärsmodell - Business Model Analyst
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- INTERNATIONAL BATTERY METALS LTD. ANNOUNCES SENIOR MANAGEMENT CHANGE - Placera.se
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
@@ -106,59 +106,59 @@ _Updated: 2025-10-14 16:45_
 - Vi presenterar HealthBench - OpenAI
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - SIHI Sweden Konferens 2024 - Uppsala universitet
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - En allt starkare alternativ röst om global hälsa - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Macron miljardsatsar på franskt jordbruk - Land Lantbruk
