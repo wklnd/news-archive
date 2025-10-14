@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-14 22:41_
+_Updated: 2025-10-14 23:37_
 
 ## Top Stories
 
-- Person hittad död i Nässjö – polisen misstänker brott - SVT Nyheter
+- IDF: Kroppar från fyra döda gisslan överlämnade – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Pourmokhtari kräver svar om Ghanamopederna - Omni
-- FN och Röda Korset: Öppna alla gränser till Gaza - Västerbottens-Kuriren
-- ”Hamas vet att de är passé i nuvarande form” - SvD
-- Ministern kan se över lag för skyddade boenden - GP
+- DN Direkt - Charlie Kirk tilldelas USA:s högsta utmärkelse - Dagens Nyheter
+- Ministern kan se över lag för skyddade boenden - Västerbottens-Kuriren
+- USA attackerade fartyg utanför Venezuela – påstås ha smugglat knark - SVT Nyheter
 - Nyheter från dagen: 14 oktober - SVT Nyheter
-- Här tas första spadtaget till Nordens största kvinnofängelse - Dagens Nyheter
+- Person hittad död i Nässjö – två personer anhållna - SVT Nyheter
 - Somalia förnekar hemlig uppgörelse med Sverige - Global Bar Magazine
-- SD vill ha folkomröstning om grundlagsändring - UNT
-- 14 oktober 19.52, Trafikkontroll, Norrbottens län - polisen.se
-- Syriens ledare till Moskva – uppges jaga Assad - GP
-- Fängslade Fatah-profilen Barghouti både populär och fruktad - Dagens Nyheter
-- Hustrun: Min make var utan mat i många månader - Dagens Nyheter
+- SD vill ha folkomröstning om grundlagen - Dagens Nyheter
+- Fler och våldsammare – kvinnofängelse byggs ut - Västerbottens-Kuriren
+- DN Direkt - Syriens ledare till Moskva – uppges jaga Assad - Dagens Nyheter
 - Spioneridomarna ökar på ryskockuperad mark - Dagens Nyheter
+- Hustrun: Min make var utan mat i många månader - Dagens Nyheter
+- Putins dilemma: Lockar ”extremt” gamla soldater med fred - Expressen
 - Fortsatta protester mot Clas Ohlsons slopade bonussystem - Market.se
-- Elpriset skenar till närmare sex kronor i Värmland – då är elen dyrast - NWT
+- Carl Johan von Seth: Trodde du att Trumps handelskrig var över? Knappast - Dagens Nyheter
+- Trump: Kapar stöd om vännen förlorar valet - Dagens industri
 - Instagram begränsar tillgången för unga - Aftonbladet
-- Chefsekonom: USA går stadigt mot konkurs - Dagens PS
 - Samtliga GPU-tillverkare har fortsatt stöd för Windows 10 - Nordichardware
 - Rapporter: Både PS6 och nästa Xbox släpps 2027 – tar olika vägar - FZ.se
 
@@ -40,13 +40,13 @@ _Updated: 2025-10-14 22:41_
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
 - Philip Morris International to Host Webcast of 2025 Third-Quarter and First Nine-Months Results - Placera.se
 - International Paper Declares Quarterly Dividend - Placera.se
 - AlTi Global, Inc. to Announce Third Quarter 2025 Financial Results - Placera.se
 - A Bold Addition to The Estée Lauder Companies’ Innovation Network - Placera.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
