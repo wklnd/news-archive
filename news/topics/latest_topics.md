@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-14 06:43_
+_Updated: 2025-10-14 07:40_
 
 ## Top Stories
 
 - Vita huset publicerar fredsavtalet – Senaste nytt om kriget i Gaza - SVT Nyheter
-- ”Partiledardebatten var en tågkrasch” - Västerbottens-Kuriren
-- Zelenskyj till Vita huset – ska prata kryssningsrobotar - DN
-- Strömmer: Samla kraft mot kriminella utanför EU - Västerbottens-Kuriren
+- Dadgostar avbröt mest i debatten: ”Vet nog vad hon gör” - DN
+- Socialstyrelsen vill att fler kvinnor får hormoner - DN
+- Somalia förnekar hemlig uppgörelse med Sverige - Global Bar Magazine
 - Trumps triumf – grep tag om ögonblicket - GP
-- Spelarbetyg: Flera svenskar får underkänt - Aftonbladet
+- Maktstrid i Gaza – 30-tal dödade i helgen - GP
+- Brand i Mariastaden – en till sjukhus och 25 utrymda - SVT Nyheter
+- 14 oktober 07.00, Sammanfattning natt, Västra Götalands län - polisen.se
 - Förare fick böter på E12 - Västerbottens-Kuriren
-- DN Direkt - Resultatet för kyrkovalet klart – fler röstade - DN
-- Trött på störiga kollegor? – Ny guide ska rädda arbetsklimatet - SVT Nyheter
-- 13 oktober 21.02, Trafikkontroll, Västernorrlands län - polisen.se
-- DN Direkt - 14 döda i attacker i Ecuador - DN
-- Hundratals Gazabor kvar i israeliska fängelser - GP
-- Strul för Telia - Expressen
+- Naturvårdsverket har satt felöversättningar i system - Altinget.se
+- Zelenskyj till Vita huset på fredag - Västerbottens-Kuriren
+- Minst 19 dödade i massaker - Folkbladet
 - Ryska svaret på Trumps vapenhot: "Kan sluta illa" - Expressen
-- Snusfabrik på Gotland läggs ned - SVT Nyheter
+- Madagaskar: Presidenten evakueras – efter Gen Z-uppror - Aftonbladet
+- Kraftigt vinstlyft för Ericsson – flaggar för höjd utdelning - Sydsvenskan
+- Färre nya ansökningar om a-kassa - Västerbottens-Kuriren
 - FMV tecknar uppdaterat kontrakt för ubåt typ A26 - FMV
-- Silverpriset på rekordnivå – högsta sedan 1980 - Aftonbladet
-- Från världens hörn till Norrbotten: Stegra rekryterar globalt och lokalt för grönt stål - Metal Supply
+- Snusfabrik på Gotland läggs ned - SVT Nyheter
 - Är det dags för företagen att byta till Arm-baserade pc? - Computer Sweden
 - Nu ska du få färre notiser i webbläsaren Chrome - PC för Alla
 
@@ -39,18 +39,17 @@ _Updated: 2025-10-14 06:43_
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - International Paper Declares Quarterly Dividend - Placera.se
 - AlTi Global, Inc. to Announce Third Quarter 2025 Financial Results - Placera.se
 - Patrick Kalotis Joins Ingredion as EVP Global Texture & Healthful Solutions - Placera.se
+- A Bold Addition to The Estée Lauder Companies’ Innovation Network - Placera.se
 - Dahua Technology Earns Silver Medal from EcoVadis for Sustainability Performance - Placera.se
 
 ## Technology
 
-- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
@@ -70,6 +69,7 @@ _Updated: 2025-10-14 06:43_
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 
 ## Business
 
@@ -144,21 +144,21 @@ _Updated: 2025-10-14 06:43_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- An Giang Agricultural Extension 30 år av att stödja jordbrukare - Vietnam.vn
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Intensivt jordbruk hotar biologisk mångfald - Sveriges Natur
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Maskinförare | Jobb | ATL - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
 - Unga lantbrukare får ingen chans - Land Lantbruk
