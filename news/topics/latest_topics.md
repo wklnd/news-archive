@@ -1,37 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-14 13:38_
+_Updated: 2025-10-14 15:07_
 
 ## Top Stories
 
-- Maktstrid rasar i Gaza - SVT Nyheter
-- Ledare: Ingen vann partiledardebatten - NWT
-- Barn i Göteborg ska få vara längre på förskolan - GP
-- Uppgifter: Kräver återlämning av döda gisslan i dag – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Natochefens gliring om ryska ubåten: ”Haltade” - SvD
-- Rapport: Regeringen saknar plan för jordbrukets klimatomställning - tidningensyre.se
-- SD vill ha folkomröstning om grundlagsändring - Västerbottens-Kuriren
-- Person har fallit från fartyg utanför Skelleftehamn - SVT Nyheter
-- Allt fler barn under 15 ställs inför rätta - UNT
-- Första spannmålslagren på gång i norr - GP
-- Fängslade Fatah-profilen Barghouti både populär och fruktad - Dagens Nyheter
-- Trump i knesset: Netanyahu använde vapnen väl - GP
-- Biden berömmer Trump: ”Tacksam” - GP
+- Israels militär har öppnat eld i Gaza – Senaste nytt om kriget i Gaza - SVT Nyheter
+- SD vill ha folkomröstning om grundlagen - Dagens Nyheter
+- Inget tjänstefel när polis sköt enbent kvinna - Omni
+- Person föll från fartyg – bedöms ha omkommit - GP
+- Fler förskoletimmar för barn i Göteborg - Västerbottens-Kuriren
+- FN och Röda Korset: Öppna alla gränser till Gaza - GP
+- De första beredskapslagren för spannmål etableras i norra Sverige - Regeringen.se
+- Allt fler barn under 15 ställs inför rätta - NWT
+- Kritisk riksrevision: Sverige måste effektivisera jordbrukets klimatarbete - Europaportalen
+- Barn hämtades på skola efter misstänkt hot - SVT Nyheter
+- Madagaskars president uppges ha lämnat landet - Dagens Nyheter
+- Indonesiens presidents hemliga ord till Donald Trump - Expressen
+- Putins dilemma: Lockar ”extremt” gamla soldater med fred - Expressen
 - Stopp på Tvärbanan i Stockholm - Expressen
-- Elpriset rusar – högsta noteringen i år - Dagens industri
-- Placeras analyschef: Mer kaxigt om Ericsson återköper aktier - Placera.se
-- Färre nya ansökningar om a-kassa - Tidningen Näringslivet
+- Elpriset skenar – närmare sex kronor i kväll - SVT Nyheter
+- Fortsatt småsurt på Stockholmsbörsen – historiskt rally i Ericsson - Dagens industri
+- Bunge: Penningpolitiken måste vara framåtblickande - Sveriges Riksbank
 - Stor flygstrejk i Bryssel – inställda avgångar - Sydsvenskan
-- Ymer Alternative Credit Fund III AB - Offentliggör navkurser för 30-sep-2025 - Cision News
+- Playstation 6 sägs lanseras under 2027 - Nordichardware
 - Årets ponnygaloppläger i bilder - Svensk Galopp
 
 ## World News
 
 - Worldwide rise in antibiotic resistance affects Sweden too - Sveriges Radio
-- H.B. Fuller Introduces Fuller Impact to Strengthen Community Partnerships Worldwide - Placera.se
 - Lövsta Future Challenge International Dressage Tour startar upp säsong 4 under World Cup Herning - Mynewsdesk
-- Visionary Holdings (Nasdaq: GV) Secures Global License for Breakthrough Stem Cell Technology Aimed at Diabetes Remission and Potential Complete Cure in a USD 150 Billion Global Market - Placera.se
+- H.B. Fuller Introduces Fuller Impact to Strengthen Community Partnerships Worldwide - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Visionary Holdings (Nasdaq: GV) Secures Global License for Breakthrough Stem Cell Technology Aimed at Diabetes Remission and Potential Complete Cure in a USD 150 Billion Global Market - Placera.se
 - Polymarket’s utveckling: Från DeFi-startup till ICE-stödd global plattform - Bitcoin.com News
 - Lövsta Future Challenge International Dressage Tour kicks off season 4 at World Cup Herning - Mynewsdesk
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
@@ -50,8 +50,8 @@ _Updated: 2025-10-14 13:38_
 
 ## Technology
 
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - ZenaTech Announces the Acquisition of Tucson-based Putt Land Surveying Inc., and Acceleration of Drone as a Service (DaaS) Growth in the Phoenix Area and Across Arizona - Placera.se
@@ -104,15 +104,15 @@ _Updated: 2025-10-14 13:38_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - En allt starkare alternativ röst om global hälsa - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
@@ -122,22 +122,22 @@ _Updated: 2025-10-14 13:38_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
