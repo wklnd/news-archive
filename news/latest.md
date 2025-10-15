@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-15 20:53_
+_Updated: 2025-10-15 21:48_
 
+- Judge blocks Trump from firing federal workers during government shutdown for now - CNBC
 - Supreme Court leans toward further weakening landmark Voting Rights Act - NBC News
-- What to know about the Trump administration's $20B bailout for Argentina - ABC News - Breaking News, Latest News and Videos
-- Hamas still hasn't returned these hostages' bodies from Gaza - Axios
-- Trump admin federal job cuts likely to be 'north of 10,000,' Vought says - CNBC
-- Trump Renews Threat to Cut ‘Democrat Programs’ as Government Shutdown Enters Third Week - The New York Times
-- Major airports refuse to play Kristi Noem's video blaming Democrats for the shutdown - NBC News
+- Government shutdown live updates as Senate vote on GOP bill fails for 9th time - CBS News
+- Bessent says US considers doubling aid to Argentina by tapping outside funding - Politico
+- ‘This is so vile’: Young Republicans face backlash after racist chats leaked - The Guardian
+- Trump demands Hamas disarm, as group moves against 'collaborators' in Gaza - BBC
 - ICE Is Cracking Down on Chicago. Some Chicagoans Are Fighting Back. - The New York Times
+- U.S. charges Cambodian tycoon in massive alleged cryptocurrency scam - NPR
 - More than 1,500 people displaced after typhoon remnants devastate Alaskan villages - The Guardian
-- Young GOP chat roils New York, Washington, beyond - Politico
-- Seth Moulton to seek Massachusetts Senate seat held by Ed Markey in generational fight - Politico
-- Pakistan, Afghanistan agree to temporary, 48-hour ceasefire, Islamabad says - Reuters
-- U.S. warns tourists to ‘reconsider travel’ to this popular island vacation spot - NJ.com
+- ‘I’ll Have Eric Call’: Trump Sets Up Son’s Meeting With Indonesian President - The Wall Street Journal
+- Hamas returns bodies of hostages Tamir Nimrodi, Uriel Baruch, Eitan Levy; 4th body a Palestinian - The Times of Israel
 - With Truce in Place, Hamas Pursues Bloody Crackdown on Rivals in Gaza - The New York Times
-- US falls out of world’s 10 most powerful passports list for first time in 20 years - The Guardian
+- Hegseth tells NATO Ukraine 'firepower' is coming amid Tomahawk missiles speculation - NBC News
+- Pakistan, Afghanistan agree to temporary, 48-hour ceasefire, Islamabad says - Reuters
 - US warns world will ‘decouple’ from China if it imposes new export controls - Financial Times
-- Powell says exactly what Wall Street wants to hear as Trump provokes soybean battle with China - Fortune
-- Morgan Stanley posts massive third-quarter earnings beat - CNBC
-- Stock Market Today: Dow Slips; Bank Earnings in Focus — Live Updates - The Wall Street Journal
+- Morgan Stanley Reports Third Quarter 2025 - Morgan Stanley
+- Stock Market Today: Dow Gives Up Gains; Trade War Turns To Soybean Oil (Live Coverage) - Investor's Business Daily
+- Strong U.S. Economy Powers Bank of America Profit Higher - The Wall Street Journal
 - Apple's first M5 laptop is the 14-inch MacBook Pro - Engadget
-- ROG Xbox Ally X: The Ars Technica review - Ars Technica
+- Welcome to Your New ROG Xbox Ally: Essential Tips for Getting Started - Xbox Wire
