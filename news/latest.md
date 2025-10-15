@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-15 23:48_
+_Updated: 2025-10-16 00:48_
 
-- Judge blocks Trump from firing federal workers during government shutdown for now - CNBC
-- Supreme Court leans toward further weakening landmark Voting Rights Act - NBC News
-- Bessent says US considers doubling aid to Argentina by tapping outside funding - Politico
-- Trump says Israeli forces could resume fighting in Gaza if Hamas won’t uphold ceasefire deal | CNN Politics - CNN
+- Court blocks Trump administration’s latest mass layoffs for federal employees - Federal News Network
+- Live updates: Hamas says it has handed over all hostage bodies it can access - CNN
+- US is working on doubling aid to Argentina to $40 billion by tapping private funding sources - AP News
+- Supreme Court seems open to limiting key section of Voting Rights Act - The Washington Post
 - ‘This is so vile’: Young Republicans face backlash after racist chats leaked - The Guardian
-- US Defence Secretary Pete Hegseth's plane 'safe' after unscheduled UK landing - BBC
-- Capitol Police called to investigate swastika in GOP congressional office - Politico
 - Trump Administration Authorizes Covert C.I.A. Action in Venezuela - The New York Times
+- US Capitol police investigating flag with swastika in Republican representative’s office – report - The Guardian
+- Brown University Rejects White House Deal for Special Treatment - The New York Times
+- Videos could tank Katie Porter’s bid to become California’s next governor - CalMatters
 - Hegseth’s legal fixer at the center of Pentagon’s new media restrictions - The Washington Post
-- Kristi Noem’s shutdown airport video may violate Hatch Act, Sen. Cantwell warns - CNBC
 - African Union suspends Madagascar as military leader set to be sworn in as president - The Guardian
-- Pakistan, Afghanistan agree to temporary, 48-hour ceasefire, Islamabad says - Reuters
-- Raila Odinga: The man who shaped Kenyan politics - BBC
-- US falls out of world’s 10 most powerful passports list for first time in 20 years - The Guardian
-- US warns world will ‘decouple’ from China if it imposes new export controls - Financial Times
-- Canadian jobs ‘sacrificed on Trump’s altar’ as Stellantis announces US investment - The Guardian
+- Did Trump make the Gaza ceasefire happen? - vox.com
+- With Truce in Place, Hamas Pursues Bloody Crackdown on Rivals in Gaza - The New York Times
+- EU to unveil drone defense plan to counter Russian threat - DW
+- Bank of America and BNY sued over financial ties to Jeffrey Epstein - Financial Times
 - United Airlines' summer earnings and profit outlook top estimates, but revenue falls short - CNBC
-- Stock Market Today: Dow Dips After Exhausting Day; Advanced Micro Surges (Live Coverage) - Investor's Business Daily
-- Apple upgrades iPad Pro, MacBook Pro, and Vision Pro with new M5 chip - TechCrunch
+- Bessent Sees ‘Fulsome’ Global Response to China on Rare Earths - Bloomberg.com
+- Canadian jobs ‘sacrificed on Trump’s altar’ as Stellantis announces US investment - The Guardian
+- Apple Launches iPad Pro, Vision Pro and MacBook Pro With M5 Chip - Bloomberg.com
 - ROG Xbox Ally X: The Ars Technica review - Ars Technica
