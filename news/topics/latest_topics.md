@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-15 11:42_
+_Updated: 2025-10-15 12:45_
 
 ## Top Stories
 
-- Anna-Karin Hatt har fått nog – och Sverige får skämmas - Arbetet
-- Försvarsmakten följer rysk ubåt i Östersjön: ”Rutinverksamhet” - SVT Nyheter
+- Anna-Karin Hatts (C) avgår – partiledare reagerar: ”Mörk dag” - SVT Nyheter
 - Thunberg om tiden i Israel: Blev sparkad och kallad hora - GP
-- Just nu: Skoltaxi i krock vid Kronoparken - Västerbottens-Kuriren
 - Hjälp börjar nå fram till folket i Gaza - Hufvudstadsbladet
-- Erik Esbjörnsson: Ett liv som oppositionspolitiker gjorde Raila Odinga till en fadersfigur för Kenya - Dagens Nyheter
+- Försvarsmakten följer rysk ubåt i Östersjön: ”Rutinverksamhet” - SVT Nyheter
+- Besättningsman som föll överbord utanför Skelleftehamn har hittats avliden - SVT Nyheter
+- Just nu: Skoltaxi i krock vid Kronoparken - Västerbottens-Kuriren
 - Lärare köps ut efter övergrepp – jobbar vidare - Västerbottens-Kuriren
 - Stärk innovationskapacitet för en hållbar industriell utveckling i Västsverige - Tillväxtverket
 - Somalia förnekar hemlig uppgörelse med Sverige - Global Bar Magazine
 - 15 oktober 07.15, Sammanfattning natt, Västernorrlands län - polisen.se
 - Trump: Putin har förlorat 1,5 miljoner man - Hufvudstadsbladet
+- Erik Esbjörnsson: Ett liv som oppositionspolitiker gjorde Raila Odinga till en fadersfigur för Kenya - Dagens Nyheter
 - Hamas: Har avrättat kollaboratörer i Gaza - Västerbottens-Kuriren
-- Minst 20 döda i bussbrand i Indien - Expressen
-- Hegseth skickar hem soldater efter bilden - Expressen
+- Hustrun: Min make var utan mat i många månader - Dagens Nyheter
 - LISTA: Så många är arbetslösa i din kommun – här är ökningen 50 procent - NWT
-- SCB: Matpriserna sjönk för andra månaden i rad - SVT Nyheter
 - Altman: Öppnar för erotik på Chat GPT - Hufvudstadsbladet
 - Wallenbergs besked: Går in med mer pengar i Stegra - EFN
+- Rapportrally i LVMH lyfter lyxsektorn - DI
 - Det är över! Nu har supporten för Windows 10 upphört - Computer Sweden
 - Svenska storspelet slår rekordet direkt - Expressen
 
@@ -37,25 +37,25 @@ _Updated: 2025-10-15 11:42_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Armand Duplantis soars to third world title and 14th world record - BBC
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Duplantis breaks world record, Marschall wins world championship bronze - Australian Broadcasting Corporation
-- Giulia Gaudenzi: ”Key lessons from global health research” - Life Science Sweden
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - Philip Morris International to Host Webcast of 2025 Third-Quarter and First Nine-Months Results - Placera.se
+- Patrick Kalotis Joins Ingredion as EVP Global Texture & Healthful Solutions - Placera.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Oron: Då tar datan på internet slut - SvD
@@ -81,18 +81,18 @@ _Updated: 2025-10-15 11:42_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - ALT5 Sigma and World Liberty Financial to Present at A.G.P.’s Digital Assets & Technology Showcase - Placera.se
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Student and entry-level programs - EY
-- JPMorgan Chase affärsmodell - Business Model Analyst
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Rapper Jay-Z to snap up Swedish music-streaming company - Sveriges Radio
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- OneConnect Provides Update on Status Under Holding Foreign Companies Accountable Act - Placera.se
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
 
 ## Health
 
@@ -104,17 +104,17 @@ _Updated: 2025-10-15 11:42_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
+- Fakulteten för hälsa och samhälle - Malmö universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - En allt starkare alternativ röst om global hälsa - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
 ## Science
@@ -143,22 +143,22 @@ _Updated: 2025-10-15 11:42_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
-- Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- An Giang Agricultural Extension 30 år av att stödja jordbrukare - Vietnam.vn
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Intensivt jordbruk hotar biologisk mångfald - Sveriges Natur
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Här är världens största jordbruk - ATL
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
+- Unga lantbrukare får ingen chans - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Macron miljardsatsar på franskt jordbruk - Land Lantbruk
