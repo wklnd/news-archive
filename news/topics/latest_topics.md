@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-15 10:49_
+_Updated: 2025-10-15 11:42_
 
 ## Top Stories
 
+- Anna-Karin Hatt har fått nog – och Sverige får skämmas - Arbetet
 - Försvarsmakten följer rysk ubåt i Östersjön: ”Rutinverksamhet” - SVT Nyheter
 - Thunberg om tiden i Israel: Blev sparkad och kallad hora - GP
-- ”De sparkade på mig varje gång flaggan nuddade mitt ansikte” - Aftonbladet
-- Göteborg vädjade om ekonomiskt stöd – men har miljarder i överskott - Dagens Nyheter
-- Trafikolycka på E16 utanför Falun – stopp i ena körfältet - SVT Nyheter
+- Just nu: Skoltaxi i krock vid Kronoparken - Västerbottens-Kuriren
 - Hjälp börjar nå fram till folket i Gaza - Hufvudstadsbladet
-- C-ledaren Anna-Karin Hatt avgår efter hat och hot - Dagens Nyheter
+- Erik Esbjörnsson: Ett liv som oppositionspolitiker gjorde Raila Odinga till en fadersfigur för Kenya - Dagens Nyheter
 - Lärare köps ut efter övergrepp – jobbar vidare - Västerbottens-Kuriren
+- Stärk innovationskapacitet för en hållbar industriell utveckling i Västsverige - Tillväxtverket
 - Somalia förnekar hemlig uppgörelse med Sverige - Global Bar Magazine
 - 15 oktober 07.15, Sammanfattning natt, Västernorrlands län - polisen.se
 - Trump: Putin har förlorat 1,5 miljoner man - Hufvudstadsbladet
-- Minst 20 döda i bussbrand i Indien - SVT Nyheter
-- Hamas: Har avrättat kollaboratörer i Gaza - Dagens Nyheter
-- Mark Rutte hånade ”haltande” rysk ubåt - Dagens Nyheter
+- Hamas: Har avrättat kollaboratörer i Gaza - Västerbottens-Kuriren
+- Minst 20 döda i bussbrand i Indien - Expressen
+- Hegseth skickar hem soldater efter bilden - Expressen
 - LISTA: Så många är arbetslösa i din kommun – här är ökningen 50 procent - NWT
 - SCB: Matpriserna sjönk för andra månaden i rad - SVT Nyheter
-- Chocksiffran: Kan försätta USA i svår kris - SvD
-- Öppnar för erotik på Chat GPT - Aftonbladet
+- Altman: Öppnar för erotik på Chat GPT - Hufvudstadsbladet
+- Wallenbergs besked: Går in med mer pengar i Stegra - EFN
 - Det är över! Nu har supporten för Windows 10 upphört - Computer Sweden
 - Svenska storspelet slår rekordet direkt - Expressen
 
@@ -37,16 +37,16 @@ _Updated: 2025-10-15 10:49_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- Armand Duplantis soars to third world title and 14th world record - BBC
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Duplantis breaks world record, Marschall wins world championship bronze - Australian Broadcasting Corporation
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Giulia Gaudenzi: ”Key lessons from global health research” - Life Science Sweden
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - Philip Morris International to Host Webcast of 2025 Third-Quarter and First Nine-Months Results - Placera.se
-- Patrick Kalotis Joins Ingredion as EVP Global Texture & Healthful Solutions - Placera.se
 
 ## Technology
 
@@ -75,24 +75,24 @@ _Updated: 2025-10-15 10:49_
 
 - BlackRock TCP Capital Corp. to Report Third Quarter Ended September 30, 2025 Financial Results on November 6, 2025 - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Beginning in Q3 2025, Bakkt will be reporting the Loyalty business as discontinued operations. - Placera.se
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - ALT5 Sigma and World Liberty Financial to Present at A.G.P.’s Digital Assets & Technology Showcase - Placera.se
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Student and entry-level programs - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- JPMorgan Chase affärsmodell - Business Model Analyst
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Rapper Jay-Z to snap up Swedish music-streaming company - Sveriges Radio
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- OneConnect Provides Update on Status Under Holding Foreign Companies Accountable Act - Placera.se
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
+- Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
 
 ## Health
 
@@ -104,7 +104,7 @@ _Updated: 2025-10-15 10:49_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - En allt starkare alternativ röst om global hälsa - Läkartidningen
@@ -121,24 +121,24 @@ _Updated: 2025-10-15 10:49_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
@@ -156,9 +156,9 @@ _Updated: 2025-10-15 10:49_
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Macron miljardsatsar på franskt jordbruk - Land Lantbruk
