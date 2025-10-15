@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-15 17:40_
+_Updated: 2025-10-15 18:45_
 
 ## Top Stories
 
 - Jakten på ny partiledare har redan startat i C • Här är de hetaste namnen. - GP
-- Stor insats i Lindesberg – skolor inrymdes - Aftonbladet
 - Försvarsmakten följer rysk ubåt i Östersjön: ”Rutinverksamhet” - SVT Nyheter
-- USA till Hamas: Sluta skjut ”oskyldiga civila” - Västerbottens-Kuriren
-- Två allvarligt skadade efter krock med skoltaxi i Umeå - Omni
+- Gaza ska avväpnas – men Hamas får rusta upp - Västerbottens-Kuriren
+- Stor insats i Lindesberg – skolor inrymdes - Aftonbladet
+- Kritiserad Tiktokare anställdes på Malmöskola: ”Jag förstår att föräldrar blir oroliga” - Dagens Nyheter
 - Pekades ut som rysk agent – fallet prövas igen - SvD
 - Just nu: Mannen som föll överbord hittad död - Västerbottens-Kuriren
-- Gratis förskola i Tranemo - 8 Sidor
-- DN Direkt - KD: Misstankarna mot Teodorescu Måwe avfärdade - Dagens Nyheter
-- Greta Thunberg: Blev sparkad och kallad hora - Aftonbladet
-- Därför rustar Hamas upp – med Trumps medgivande - GP
+- Paulina Sokolow: Israel tar ut sitt fiasko på Greta Thunberg - Dagens Nyheter
+- Uppmaningen: Sluta ge jordbrukare rabatt på diesel - SVT Nyheter
+- Dags för vaccinationer mot influensa och covid-19 - Folkhälsomyndigheten
 - Hegseth lovar fred genom styrka i Ukraina - Västerbottens-Kuriren
-- Trump: Putin har förlorat 1,5 miljoner man - Hufvudstadsbladet
-- Parlamentet upplöst i Madagaskar - GP
-- Sacos valberedning vill se Sofia Rydgren Stale på ordförande­post­en - Läkartidningen
-- Expertens varning: ”Många tror de ska dö i samma ålder som sina föräldrar” - Dagens Nyheter
+- Ukraina: Strömavbrott efter ryska attacker - Corren
+- USA till Hamas: Sluta skjut ”oskyldiga civila” - Västerbottens-Kuriren
+- Visum dras in efter Kirk-kommentar - SVT Nyheter
 - Munkhammar: Matolja ny ingrediens i handelskriget - Di
-- Chocksiffran: Kan försätta USA i svår kris - SvD
+- Läkare föreslås bli ny Saco-bas - Västerbottens-Kuriren
+- Expertens varning: ”Många tror de ska dö i samma ålder som sina föräldrar” - Dagens Nyheter
+- Afv frågar sig om det är dags att klyva Latour - Placera.se
+- Smartphonemarknaden växer – drivs av uppgraderingar och AI - Computer Sweden
 - ”Våga trotsa Microsoft – så kan du undvika att kasta din dator” - Aktuell Hållbarhet
-- Apple har precis teasat en ny MacBook Pro – och den kan bjuda på mer än bara ett M5-chip - TechRadar
 
 ## World News
 
@@ -36,36 +36,36 @@ _Updated: 2025-10-15 17:40_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Armand Duplantis soars to third world title and 14th world record - BBC
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - S&P Global förvärvar With Intelligence (Finwire News) - Aktiellt
+- Sverige klättrar kraftigt i global gruvranking – nu topp sex i världen - INDUSTRInyheter.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Giulia Gaudenzi: ”Key lessons from global health research” - Life Science Sweden
-- Duplantis breaks world record, Marschall wins world championship bronze - Australian Broadcasting Corporation
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Somaliland: Election in a "non-existing" country - Global Bar Magazine
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
+- New Secretary General appointed - Olof Palme International Center
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- Ny global industriell hubb i Kina milstolpe för Scania - Cision News
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 
 ## Technology
 
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
-- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
+- Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Oron: Då tar datan på internet slut - SvD
-- Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
-- Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
+- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
