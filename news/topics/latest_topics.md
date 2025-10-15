@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-15 06:43_
+_Updated: 2025-10-15 07:41_
 
 ## Top Stories
 
-- Uppgifter: Fyra kroppar släpps på onsdag – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Trump: Hamas måste avväpna sig – annars gör vi det – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Regeringen tyst om grova brotten mot svenskarna – experter: ”Häpnadsväckande” - Aftonbladet
+- Person har fallit från fartyg - Arbetet
 - Ministern kan se över lag för skyddade boenden - Västerbottens-Kuriren
-- Mark Rutte hånade ”haltande” rysk ubåt - Dagens Nyheter
-- Visum dras tillbaka efter Kirk-kommentarer - GP
-- Hustrun: Min make var utan mat i många månader - Dagens Nyheter
+- Nya piken efter S-bråket i SVT: ”Hon är livrädd” - Expressen
+- Marcus Lindqvist Thunberg blev ett verktyg för informationskrig - Hufvudstadsbladet
 - Här betalar kriminella för att gömma droger och vapen - Dagens Nyheter
-- Person hittad död i Nässjö – två personer anhållna - SVT Nyheter
 - Få koll: Här är de nya – och kommande – lagarna med fokus på utvisning och återvandring - Sydsvenskan
-- SD vill ha folkomröstning om grundlagsändring - Västerbottens-Kuriren
+- Person hittad död i Nässjö – två personer anhållna - SVT Nyheter
+- Fler och våldsammare – kvinnofängelse byggs ut - Västerbottens-Kuriren
 - Minst 20 döda i bussbrand i Indien - SVT Nyheter
+- Natochefens gliring om ryska ubåten: ”Haltade” - SvD
 - DN Direkt - Syriens ledare till Moskva – uppges jaga Assad - Dagens Nyheter
 - Skräcken: Par kokades levande i för varmt badkar på motell - Expressen
-- Trump stött av bilden på Times förstasida: ”Vad håller de på med?” - Aftonbladet
 - Arbetslösheten fortsätter ned – ljusning för unga - SvD
+- Stellantis genomför rekordstor satsning om 13 miljarder dollar i USA - Börsvärlden
+- Wallenberg satsar pengar i Stegras nyemission - DI
 - ”Jag har unnat mig ett rikt liv – hur ska jag nu kunna börja spara?” - Dagens Nyheter
-- Biljätten satsar 124 miljarder på produktion i USA - DI
-- Wallenbergs besked: Går in med mer pengar i Stegra - EFN
-- Trodde det var ett misstag: Mystisk signal från jordens inre färdades drygt 9 000 kilometer - Illustrerad Vetenskap
-- Ny Pro Display XDR med inbyggd kamera antyds i Mac OS 26.1-beta - Macworld.se
+- Motorola lanserar supertunna mobilen X70 Air - m3.se
+- Jätten slår till – byter ut sökrutan till ai - Dagens PS
 
 ## World News
 
@@ -35,27 +35,27 @@ _Updated: 2025-10-15 06:43_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- Armand Duplantis soars to third world title and 14th world record - BBC
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Armand Duplantis soars to third world title and 14th world record - BBC
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- New Secretary General appointed - Olof Palme International Center
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Philip Morris International to Host Webcast of 2025 Third-Quarter and First Nine-Months Results - Placera.se
 - A Bold Addition to The Estée Lauder Companies’ Innovation Network - Placera.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Oron: Då tar datan på internet slut - SvD
@@ -77,22 +77,21 @@ _Updated: 2025-10-15 06:43_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Beginning in Q3 2025, Bakkt will be reporting the Loyalty business as discontinued operations. - Placera.se
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - ALT5 Sigma and World Liberty Financial to Present at A.G.P.’s Digital Assets & Technology Showcase - Placera.se
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Student and entry-level programs - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- JPMorgan Chase affärsmodell - Business Model Analyst
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Rapper Jay-Z to snap up Swedish music-streaming company - Sveriges Radio
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- OneConnect Provides Update on Status Under Holding Foreign Companies Accountable Act - Placera.se
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
+- Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
+- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
 ## Health
 
@@ -144,7 +143,6 @@ _Updated: 2025-10-15 06:43_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -152,13 +150,14 @@ _Updated: 2025-10-15 06:43_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Unga lantbrukare får ingen chans - Land Lantbruk
 - Macron miljardsatsar på franskt jordbruk - Land Lantbruk
