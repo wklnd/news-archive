@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-15 13:38_
+_Updated: 2025-10-15 15:07_
 
 ## Top Stories
 
 - Anna-Karin Hatt i tårar när hon informerade partiet - Dagens Nyheter
-- Just nu: Mannen som föll överbord hittad död - Västerbottens-Kuriren
-- Skoltaxi i olycka i Umeå – allvarligt skadade - SVT Nyheter
-- Ordet är fritt: Jobbigt att stå i kö till Lassabackarondellen - Hallands Nyheter
-- Små skillnader efter omval till Sametinget - Aftonbladet
-- Hjälp börjar nå fram till folket i Gaza - Hufvudstadsbladet
-- Stärk innovationskapacitet för en hållbar industriell utveckling i Västsverige - Tillväxtverket
-- Somalia förnekar hemlig uppgörelse med Sverige - Global Bar Magazine
-- Tystnadskulturen – en del av systemfelet - SVT Nyheter
-- De första beredskapslagren för spannmål etableras i norra Sverige - Regeringen.se
+- Larm från skolor i Lindesberg - Aftonbladet
+- Besättningsman som föll överbord utanför Skelleftehamn har hittats avliden - SVT Nyheter
+- Just nu: Skoltaxi i krock vid Kronoparken - Västerbottens-Kuriren
+- Man mordmisstänkt – tros ha dödat utpressare i Malmö - Omni
+- Ebba Buschs burkaförbud finns redan i Europa | Teresa Küchler - SvD
+- Gustaf Skarsgård i Niemis morddrama: ”Mycket adrenalin under inspelningen” - Sveriges Radio
+- Sågas på nytt: Rött kött pekas ut som boven - SvD
+- Dags för vaccin – då ska du ta sprutan - Aftonbladet
+- Fyra fritogs från Migrationsverkets förvar - Aftonbladet
+- IDF: Kroppar identifierade – en tillhör inte gisslan – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Trump: Putin har förlorat 1,5 miljoner man - Hufvudstadsbladet
-- Erik Esbjörnsson: Ett liv som oppositionspolitiker gjorde Raila Odinga till en fadersfigur för Kenya - Dagens Nyheter
-- Hamas: Har avrättat kollaboratörer i Gaza - Västerbottens-Kuriren
+- Jonson i Nato om Ukraina: Fler måste göra mer - Västerbottens-Kuriren
 - Hustrun: Min make var utan mat i många månader - Dagens Nyheter
 - Sacos valberedning vill se Sofia Rydgren Stale som ordförande - Läkartidningen
 - LISTA: Så många är arbetslösa i din kommun – här är ökningen 50 procent - NWT
-- Storägare i Flat: Röstar ja till apportemissionen - DI
-- Därför ska du inte glädjas allt för mycket åt rusningen - EFN
+- Munkhammar: Matolja ny ingrediens i handelskriget - Di
+- Sebastian Siemiatkowski presenterar förbättrat förslag inför den extra bolagsstämman 17 oktober 2025: tilldelas 16 procent färre aktier för Double Sunday AB (MFN) - Aktiellt
 - ”Våga trotsa Microsoft – så kan du undvika att kasta din dator” - Aktuell Hållbarhet
 - Svenska storspelet slår rekordet direkt - Expressen
 
 ## World News
 
-- Worldwide rise in antibiotic resistance affects Sweden too - Sveriges Radio
+- Northern Trust Appointed as Global Custodian by International Finance Facility for Education (IFFEd) - Placera.se
 - Lövsta Future Challenge International Dressage Tour startar upp säsong 4 under World Cup Herning - Mynewsdesk
-- Marriott Vacations Worldwide Corporation Announces Third Quarter Earnings Release and Conference Call - Placera.se
+- Worldwide rise in antibiotic resistance affects Sweden too - Sveriges Radio
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Marriott Vacations Worldwide Corporation Announces Third Quarter Earnings Release and Conference Call - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- Armand Duplantis soars to third world title and 14th world record - BBC
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- S&P Global förvärvar With Intelligence (Finwire News) - Aktiellt
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- New Secretary General appointed - Olof Palme International Center
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Giulia Gaudenzi: ”Key lessons from global health research” - Life Science Sweden
+- Duplantis breaks world record, Marschall wins world championship bronze - Australian Broadcasting Corporation
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
 - Philip Morris International to Host Webcast of 2025 Third-Quarter and First Nine-Months Results - Placera.se
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
