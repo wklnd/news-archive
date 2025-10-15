@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-15 08:49_
+_Updated: 2025-10-15 09:40_
 
 ## Top Stories
 
+- Försvarsmakten följer rysk ubåt i Östersjön: ”Rutinverksamhet” - SVT Nyheter
+- DEBATT: Fler timmar i en undermålig förskola är allt annat än en gåva till era barn - GP
 - Hjälp börjar nå fram till folket i Gaza - Hufvudstadsbladet
-- Thunberg: Jag blev sparkad och kallad hora - GP
-- Göteborg vädjade om ekonomiskt stöd – men har miljarder i överskott - Dagens Nyheter
 - Regeringen tyst om grova brotten mot svenskarna – experter: ”Häpnadsväckande” - Aftonbladet
-- Trafikolycka på E16 utanför Falun – begränsad framkomlighet - SVT Nyheter
-- Person har fallit från fartyg - Arbetet
-- Här betalar kriminella för att gömma droger och vapen - Dagens Nyheter
-- Få koll: Här är de nya – och kommande – lagarna med fokus på utvisning och återvandring - Sydsvenskan
-- Person hittad död i Nässjö – två personer anhållna - SVT Nyheter
+- Marcus Lindqvist Thunberg blev ett verktyg för informationskrig - Hufvudstadsbladet
 - Stärk innovationskapacitet för en hållbar industriell utveckling i Västsverige - Tillväxtverket
-- Snabbkoll – detta hände i natt - Sydsvenskan
-- Hamas: Har avrättat kollaboratörer i Gaza - Dagens Nyheter
+- Få koll: Här är de nya – och kommande – lagarna med fokus på utvisning och återvandring - Sydsvenskan
+- Här betalar kriminella för att gömma droger och vapen - Dagens Nyheter
+- Somalia förnekar hemlig uppgörelse med Sverige - Global Bar Magazine
+- 15 oktober 07.15, Sammanfattning natt, Västernorrlands län - polisen.se
+- Trump: Putin har förlorat 1,5 miljoner man - Hufvudstadsbladet
+- Minst 20 döda i bussbrand i Indien - SVT Nyheter
 - Mark Rutte hånade ”haltande” rysk ubåt - Dagens Nyheter
-- Trump stött av bilden på Times förstasida: ”Vad håller de på med?” - Aftonbladet
-- Arbetslösheten fortsätter ned – ljusning för unga - SVT Nyheter
-- DN Direkt - Här betalar kriminella för att gömma droger och vapen - Dagens Nyheter
-- Trots pangprognosen – USA har stora problem - SvD
-- Stellantis investerar 124 miljarder i USA – ska ge 5 000 nya jobb - Nyteknik
-- Motorola lanserar supertunna mobilen X70 Air - m3.se
-- Test: Sony Bravia 3 – enklaste Sony tv:n kommer till korta - m3.se
+- Hamas: Har avrättat kollaboratörer i Gaza - Västerbottens-Kuriren
+- SCB: Matpriserna sjönk för andra månaden i rad - SVT Nyheter
+- Arbetslösheten fortsätter ned – ljusning för unga - Tidningen Näringslivet
+- Chocksiffran: Kan försätta USA i svår kris - SvD
+- Öppnar för erotik på Chat GPT - Aftonbladet
+- Det är över! Nu har supporten för Windows 10 upphört - Computer Sweden
+- Moderna Avlopp lanserar "Avloppsguiden" – en smart digital vägledning till rätt avloppslösning - Mynewsdesk
 
 ## World News
 
@@ -39,7 +39,7 @@ _Updated: 2025-10-15 08:49_
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Global drogsajt stängd – svenskar gripna - Drugnews
@@ -84,7 +84,6 @@ _Updated: 2025-10-15 08:49_
 - Student and entry-level programs - EY
 - JPMorgan Chase affärsmodell - Business Model Analyst
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Rapper Jay-Z to snap up Swedish music-streaming company - Sveriges Radio
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
@@ -122,22 +121,22 @@ _Updated: 2025-10-15 08:49_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
