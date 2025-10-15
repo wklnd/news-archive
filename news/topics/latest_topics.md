@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-15 09:40_
+_Updated: 2025-10-15 10:49_
 
 ## Top Stories
 
 - Försvarsmakten följer rysk ubåt i Östersjön: ”Rutinverksamhet” - SVT Nyheter
-- DEBATT: Fler timmar i en undermålig förskola är allt annat än en gåva till era barn - GP
+- Thunberg om tiden i Israel: Blev sparkad och kallad hora - GP
+- ”De sparkade på mig varje gång flaggan nuddade mitt ansikte” - Aftonbladet
+- Göteborg vädjade om ekonomiskt stöd – men har miljarder i överskott - Dagens Nyheter
+- Trafikolycka på E16 utanför Falun – stopp i ena körfältet - SVT Nyheter
 - Hjälp börjar nå fram till folket i Gaza - Hufvudstadsbladet
-- Regeringen tyst om grova brotten mot svenskarna – experter: ”Häpnadsväckande” - Aftonbladet
-- Marcus Lindqvist Thunberg blev ett verktyg för informationskrig - Hufvudstadsbladet
-- Stärk innovationskapacitet för en hållbar industriell utveckling i Västsverige - Tillväxtverket
-- Få koll: Här är de nya – och kommande – lagarna med fokus på utvisning och återvandring - Sydsvenskan
-- Här betalar kriminella för att gömma droger och vapen - Dagens Nyheter
+- C-ledaren Anna-Karin Hatt avgår efter hat och hot - Dagens Nyheter
+- Lärare köps ut efter övergrepp – jobbar vidare - Västerbottens-Kuriren
 - Somalia förnekar hemlig uppgörelse med Sverige - Global Bar Magazine
 - 15 oktober 07.15, Sammanfattning natt, Västernorrlands län - polisen.se
 - Trump: Putin har förlorat 1,5 miljoner man - Hufvudstadsbladet
 - Minst 20 döda i bussbrand i Indien - SVT Nyheter
+- Hamas: Har avrättat kollaboratörer i Gaza - Dagens Nyheter
 - Mark Rutte hånade ”haltande” rysk ubåt - Dagens Nyheter
-- Hamas: Har avrättat kollaboratörer i Gaza - Västerbottens-Kuriren
+- LISTA: Så många är arbetslösa i din kommun – här är ökningen 50 procent - NWT
 - SCB: Matpriserna sjönk för andra månaden i rad - SVT Nyheter
-- Arbetslösheten fortsätter ned – ljusning för unga - Tidningen Näringslivet
 - Chocksiffran: Kan försätta USA i svår kris - SvD
 - Öppnar för erotik på Chat GPT - Aftonbladet
 - Det är över! Nu har supporten för Windows 10 upphört - Computer Sweden
-- Moderna Avlopp lanserar "Avloppsguiden" – en smart digital vägledning till rätt avloppslösning - Mynewsdesk
+- Svenska storspelet slår rekordet direkt - Expressen
 
 ## World News
 
@@ -38,32 +38,32 @@ _Updated: 2025-10-15 09:40_
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
+- WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Duplantis breaks world record, Marschall wins world championship bronze - Australian Broadcasting Corporation
 - Global drogsajt stängd – svenskar gripna - Drugnews
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - Philip Morris International to Host Webcast of 2025 Third-Quarter and First Nine-Months Results - Placera.se
-- A Bold Addition to The Estée Lauder Companies’ Innovation Network - Placera.se
+- Patrick Kalotis Joins Ingredion as EVP Global Texture & Healthful Solutions - Placera.se
 
 ## Technology
 
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
-- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
-- NVIDIA's SWOT Analysis: NVDA Stock Positioned for Growth Amid AI Boom - Markets.com
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Oron: Då tar datan på internet slut - SvD
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
@@ -75,22 +75,24 @@ _Updated: 2025-10-15 09:40_
 
 - BlackRock TCP Capital Corp. to Report Third Quarter Ended September 30, 2025 Financial Results on November 6, 2025 - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- ALT5 Sigma and World Liberty Financial to Present at A.G.P.’s Digital Assets & Technology Showcase - Placera.se
+- Beginning in Q3 2025, Bakkt will be reporting the Loyalty business as discontinued operations. - Placera.se
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- ALT5 Sigma and World Liberty Financial to Present at A.G.P.’s Digital Assets & Technology Showcase - Placera.se
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Student and entry-level programs - EY
-- JPMorgan Chase affärsmodell - Business Model Analyst
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- OneConnect Provides Update on Status Under Holding Foreign Companies Accountable Act - Placera.se
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
-- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
 ## Health
 
@@ -124,6 +126,7 @@ _Updated: 2025-10-15 09:40_
 - 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
@@ -136,27 +139,26 @@ _Updated: 2025-10-15 09:40_
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Unga lantbrukare får ingen chans - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
