@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-15 15:48_
+_Updated: 2025-10-15 16:45_
 
 ## Top Stories
 
-- Anna-Karin Hatt i tårar när hon informerade partiet - Dagens Nyheter
-- Skolor inrymda: ”Ingen ska vara skadad” - Nerikes Allehanda
+- Jakten på ny partiledare har redan startat i C • Här är de hetaste namnen. - GP
+- DN Direkt - Två skolor i Lindesberg inrymda efter larm - Dagens Nyheter
 - Besättningsman som föll överbord utanför Skelleftehamn har hittats avliden - SVT Nyheter
 - Just nu: Skoltaxi i krock vid Kronoparken - Västerbottens-Kuriren
-- Thunberg om tiden i Israel: Blev sparkad och kallad hora - GP
-- Ebba Buschs burkaförbud finns redan i Europa | Teresa Küchler - SvD
-- Gustaf Skarsgård i Niemis morddrama: ”Mycket adrenalin under inspelningen” - Sveriges Radio
+- Paulina Sokolow: Israel tar ut sitt fiasko på Greta Thunberg - Dagens Nyheter
+- Källor: Hamas ska överlämna fler kroppar - Corren
 - Uppmaningen: Sluta ge jordbrukare rabatt på diesel - SVT Nyheter
-- Dags för vaccin – då ska du ta sprutan - Aftonbladet
-- Fyra fritogs från Migrationsverkets förvar - Aftonbladet
-- IDF: Kroppar identifierade – en tillhör inte gisslan – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Dags för vaccinationer mot influensa och covid-19 - Folkhälsomyndigheten
+- V: Nu är det dags att skrota LOV på vårdcentralerna - Aftonbladet
+- Trafikverket räknade fel i tio år – järnväg gynnades - Omni
+- Hegseth lovar fred genom styrka i Ukraina - Västerbottens-Kuriren
+- Parlamentet upplöst i Madagaskar - GP
+- Slagfältet står still – då ändrar Ryssland och Ukraina fokus - Dagens Nyheter
 - Trump: Putin har förlorat 1,5 miljoner man - Hufvudstadsbladet
-- DN Direkt - Misstänkt mordbrand i Stockholm - Dagens Nyheter
-- Visum dras tillbaka efter Kirk-kommentarer - Västerbottens-Kuriren
 - Sacos valberedning vill se Sofia Rydgren Stale som ordförande - Läkartidningen
-- Munkhammar: Matolja ny ingrediens i handelskriget - DI
-- LISTA: Så många är arbetslösa i din kommun – här är ökningen 50 procent - NWT
-- LVMH:s modesektor visar försiktig vändning - habit.se
+- Expertens varning: ”Många tror de ska dö i samma ålder som sina föräldrar” - Dagens Nyheter
+- Chocksiffran: Kan försätta USA i svår kris - SvD
+- Munkhammar: Matolja ny ingrediens i handelskriget - Di
 - ”Våga trotsa Microsoft – så kan du undvika att kasta din dator” - Aktuell Hållbarhet
-- Svenska storspelet slår rekordet direkt - Expressen
+- Recension: ”Battlefield 6” återvänder till sina rötter i ett explosivt flerspelarläge - MovieZine
 
 ## World News
 
-- Worldwide rise in antibiotic resistance affects Sweden too - Sveriges Radio
+- Northern Trust Appointed as Global Custodian by International Finance Facility for Education (IFFEd) - Placera.se
 - Lövsta Future Challenge International Dressage Tour startar upp säsong 4 under World Cup Herning - Mynewsdesk
-- Marriott Vacations Worldwide Corporation Announces Third Quarter Earnings Release and Conference Call - Placera.se
+- Worldwide rise in antibiotic resistance affects Sweden too - Sveriges Radio
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Marriott Vacations Worldwide Corporation Announces Third Quarter Earnings Release and Conference Call - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- Armand Duplantis soars to third world title and 14th world record - BBC
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - S&P Global förvärvar With Intelligence (Finwire News) - Aktiellt
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- New Secretary General appointed - Olof Palme International Center
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Duplantis breaks world record, Marschall wins world championship bronze - Australian Broadcasting Corporation
+- Giulia Gaudenzi: ”Key lessons from global health research” - Life Science Sweden
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
 - Philip Morris International to Host Webcast of 2025 Third-Quarter and First Nine-Months Results - Placera.se
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -54,18 +54,18 @@ _Updated: 2025-10-15 15:48_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Protolabs Appoints Marc Kermisch as New Chief Technology and AI Officer - Placera.se
+- Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
+- NVIDIA's SWOT Analysis: NVDA Stock Positioned for Growth Amid AI Boom - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Oron: Då tar datan på internet slut - SvD
-- Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
-- Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
+- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
@@ -75,11 +75,11 @@ _Updated: 2025-10-15 15:48_
 
 - BlackRock TCP Capital Corp. to Report Third Quarter Ended September 30, 2025 Financial Results on November 6, 2025 - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Beginning in Q3 2025, Bakkt will be reporting the Loyalty business as discontinued operations. - Placera.se
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - ALT5 Sigma and World Liberty Financial to Present at A.G.P.’s Digital Assets & Technology Showcase - Placera.se
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
@@ -107,12 +107,12 @@ _Updated: 2025-10-15 15:48_
 - Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Nyteknik
 - En allt starkare alternativ röst om global hälsa - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
+- »Allmän återhållsamhet« räcker inte - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
@@ -161,4 +161,4 @@ _Updated: 2025-10-15 15:48_
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
