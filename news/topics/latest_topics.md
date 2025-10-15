@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-15 05:50_
+_Updated: 2025-10-15 06:43_
 
 ## Top Stories
 
 - Uppgifter: Fyra kroppar släpps på onsdag – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Minst 20 döda i bussbrand i Indien - SVT Nyheter
-- Här betalar kriminella för att gömma droger och vapen - Dagens Nyheter
-- Visum dras tillbaka efter Kirk-kommentarer - GP
-- Trump stött av bilden på Times förstasida: ”Vad håller de på med?” - Aftonbladet
+- Regeringen tyst om grova brotten mot svenskarna – experter: ”Häpnadsväckande” - Aftonbladet
+- Ministern kan se över lag för skyddade boenden - Västerbottens-Kuriren
 - Mark Rutte hånade ”haltande” rysk ubåt - Dagens Nyheter
+- Visum dras tillbaka efter Kirk-kommentarer - GP
+- Hustrun: Min make var utan mat i många månader - Dagens Nyheter
+- Här betalar kriminella för att gömma droger och vapen - Dagens Nyheter
 - Person hittad död i Nässjö – två personer anhållna - SVT Nyheter
-- SD vill ha folkomröstning om grundlagsändring - UNT
-- Norra Sverige först ut när Jordbruksverket upphandlar beredskapslager för spannmål - Länsstyrelsen
-- Större andel röstade – så slutade kyrkovalet i Varabygdens församling - NLT
+- Få koll: Här är de nya – och kommande – lagarna med fokus på utvisning och återvandring - Sydsvenskan
+- SD vill ha folkomröstning om grundlagsändring - Västerbottens-Kuriren
+- Minst 20 döda i bussbrand i Indien - SVT Nyheter
 - DN Direkt - Syriens ledare till Moskva – uppges jaga Assad - Dagens Nyheter
 - Skräcken: Par kokades levande i för varmt badkar på motell - Expressen
-- Hamas: Har avrättat kollaboratörer i Gaza - Dagens Nyheter
-- Slagfältet står still – då ändrar Ryssland och Ukraina fokus - Dagens Nyheter
-- Wallenbergs besked: Går in med mer pengar i Stegra - EFN
+- Trump stött av bilden på Times förstasida: ”Vad håller de på med?” - Aftonbladet
+- Arbetslösheten fortsätter ned – ljusning för unga - SvD
 - ”Jag har unnat mig ett rikt liv – hur ska jag nu kunna börja spara?” - Dagens Nyheter
-- Biljätte investerar miljarder i USA - Expressen
-- Trump: Kapar stöd om vännen förlorar valet - Dagens industri
+- Biljätten satsar 124 miljarder på produktion i USA - DI
+- Wallenbergs besked: Går in med mer pengar i Stegra - EFN
 - Trodde det var ett misstag: Mystisk signal från jordens inre färdades drygt 9 000 kilometer - Illustrerad Vetenskap
-- Rapporter: Både PS6 och nästa Xbox släpps 2027 – tar olika vägar - FZ.se
+- Ny Pro Display XDR med inbyggd kamera antyds i Mac OS 26.1-beta - Macworld.se
 
 ## World News
 
@@ -35,18 +35,18 @@ _Updated: 2025-10-15 05:50_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- New Secretary General appointed - Olof Palme International Center
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Global drogsajt stängd – svenskar gripna - Drugnews
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - Philip Morris International to Host Webcast of 2025 Third-Quarter and First Nine-Months Results - Placera.se
 - A Bold Addition to The Estée Lauder Companies’ Innovation Network - Placera.se
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -81,18 +81,18 @@ _Updated: 2025-10-15 05:50_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - ALT5 Sigma and World Liberty Financial to Present at A.G.P.’s Digital Assets & Technology Showcase - Placera.se
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Student and entry-level programs - EY
-- JPMorgan Chase affärsmodell - Business Model Analyst
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- OneConnect Provides Update on Status Under Holding Foreign Companies Accountable Act - Placera.se
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 
 ## Health
 
@@ -104,17 +104,17 @@ _Updated: 2025-10-15 05:50_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - En allt starkare alternativ röst om global hälsa - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 
 ## Science
@@ -123,42 +123,42 @@ _Updated: 2025-10-15 05:50_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
