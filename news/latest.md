@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-15 15:51_
+_Updated: 2025-10-15 16:52_
 
 - A Supreme Court ruling on voting rights could boost Republicans' redistricting efforts - NPR
 - Israeli military says one of the bodies handed over by Hamas is not that of a hostage - AP News
-- Major media outlets, including Hegseth’s former employer Fox News, decline to sign new Pentagon reporting rules - Politico
-- Trump targets China cooking oil trade - but sales were already tanking - Reuters
-- Seth Moulton to seek Massachusetts Senate seat held by Ed Markey in generational fight - Politico
 - ICE Is Cracking Down on Chicago. Some Chicagoans Are Fighting Back. - The New York Times
-- Man pleads guilty to arson attack on Josh Shapiro's home - Axios
-- U.S. Says It Revoked Visas of Some People Who Criticized Charlie Kirk - The New York Times
-- Trump demands Hamas disarm, as group moves against 'collaborators' in Gaza - BBC
+- Seth Moulton to seek Massachusetts Senate seat held by Ed Markey in generational fight - Politico
+- Fox News declines to sign Pentagon's new press policy - Axios
+- NATIONAL DAY OF REMEMBRANCE FOR CHARLIE KIRK - The White House (.gov)
 - Trump ‘optimistic’ he can bring Russia and Ukraine to peace after Middle East hostage exchange - Politico
-- U.S. warns tourists to ‘reconsider travel’ to this popular island vacation spot - NJ.com
+- ‘His calling is not by chance’ — Scholars, members respond to Dallin Oaks as new LDS leader and new First Presidency - The Salt Lake Tribune
+- Man pleads guilty to arson attack on Josh Shapiro's home - Axios
+- ‘I’ll Have Eric Call’: Trump Sets Up Son’s Meeting With Indonesian President - The Wall Street Journal
 - Raila Odinga, Former Kenyan Prime Minister and Champion of Democracy, Dies at 80 - The New York Times
-- Afghanistan and Pakistan exchanged their deadliest fire in years. Here’s what we know - Yahoo News Singapore
-- Syria's Sharaa to meet Russia's Putin on Wednesday, Syrian state news agency reports - Reuters
-- Fed's Powell addresses economy pulled between risks to growth, jobs and prices - Reuters
-- ‘Expensive, but not nutty.’ Howard Marks on U.S. stocks and the one thing investors should be doing right now. - MarketWatch
+- Israel and Hamas Start Next Phase of Talks on Trump Plan - The Wall Street Journal
+- Putin Welcomes Syria’s New President in Moscow, While Still Harboring al-Assad - The New York Times
+- 2 hikers hospitalized after encountering grizzly bear with 2 cubs on trail - ABC News - Breaking News, Latest News and Videos
+- Powell says exactly what Wall Street wants to hear as Trump provokes soybean battle with China - Fortune
 - Morgan Stanley posts massive third-quarter earnings beat - CNBC
-- From Lipstick To Payrolls: Investors Turn To Strange Signals As Government Data Stalls During Shutdown - Forbes
-- Apple unleashes M5, the next big leap in AI performance for Apple silicon - Apple
-- Two New Windows Zero-Days Exploited in the Wild — One Affects Every Version Ever Shipped - The Hacker News
+- Stock Market Today: Dow Opens 250 Points Higher; Morgan Stanley, Bank of America Earnings Land — Live Updates - The Wall Street Journal
+- BlackRock, Nvidia-backed group strikes $40 billion AI data center deal - Reuters
+- Apple unveils new 14‑inch MacBook Pro powered by the M5 chip, delivering the next big leap in AI for the Mac - Apple
+- Asus ROG Xbox Ally X Review - IGN
