@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-16 01:48_
+_Updated: 2025-10-16 04:14_
 
+- Trump Administration Authorizes Covert C.I.A. Action in Venezuela - The New York Times
+- Supreme Court seems open to limiting key section of Voting Rights Act - The Washington Post
+- Hamas returns two more bodies but says it cannot retrieve remaining dead hostages - BBC
+- Democratic senators want investigation into Noem's TSA video that blamed Democrats for the shutdown - ABC News - Breaking News, Latest News and Videos
 - Court blocks Trump administration’s latest mass layoffs for federal employees - Federal News Network
-- Trump confirms that he authorized covert CIA operations in Venezuela - The Guardian
-- Supreme Court signals willingness to pare back Voting Rights Act - Axios
-- Live updates: Hamas says it has handed over all hostage bodies it can access - CNN
-- US is working on doubling aid to Argentina to $40 billion by tapping private funding sources - AP News
-- Gavin Newsom calls for congressional investigation into GOP chat messages - Politico
-- Republican congressman calls flag with swastika displayed in his office 'vile' and says it's under investigation - NBC News
-- Seth Moulton to seek Massachusetts Senate seat held by Ed Markey in generational fight - Politico
-- Trump vows federal 'surge' in more American cities to combat crime - ABC News - Breaking News, Latest News and Videos
-- Videos could tank Katie Porter’s bid to become California’s next governor - CalMatters
-- Pressure mounts on NATO allies to go all-in on Trump arms scheme for Ukraine - politico.eu
-- Trump: India will stop buying Russian oil - Politico
-- 2 hikers hospitalized after encountering grizzly bear with 2 cubs on trail - ABC News - Breaking News, Latest News and Videos
-- US falls out of world’s 10 most powerful passports list for first time in 20 years - The Guardian
-- Trump Declares US-China Trade War, Bessent Floats Long Truce - Bloomberg.com
-- Mark Cuban slams OpenAI's erotica plan: "This is going to backfire" - Axios
-- Stock Market Today: Nasdaq, S&P 500 Edge Higher; Gold Hits Another High — Live Updates - The Wall Street Journal
-- Bank of America and BNY sued over financial ties to Jeffrey Epstein - Financial Times
+- JD Vance dismisses bipartisan outrage over racist and offensive Young Republican group chat - PBS
+- Brown University Rejects White House Deal for Special Treatment - The New York Times
+- Democrats float a new shutdown demand: Reversing Trump's mass firings - Politico
+- A discarded straw leads to murder charges in 1984 killing of New York teen - AP News
+- Charles Crawford: Mississippi executes a man convicted of raping and killing a college student - CNN
+- After Israeli Withdrawal, Hamas Launches Violent Crackdown on Rivals in Gaza - The Wall Street Journal
+- Did Trump make the Gaza ceasefire happen? - vox.com
+- Hegseth Warns U.S. Will Impose ‘Costs’ on Russia if Peace Efforts Falter - The New York Times
+- Government publishes key witness statements in collapsed China spy case - BBC
+- Ontario premier criticizes Trump after Stellantis says it will move production from Canada to the US - AP News
+- Mark Cuban warns that OpenAI’s new plan to allow adults-only erotica in ChatGPT could ‘backfire. Hard’ - Fortune
+- Trump to expand government stake in strategic sectors to combat China - The Washington Post
+- Stock Market News, Oct. 15, 2025: S&P 500 Finishes Higher After Strong Bank Earnings - The Wall Street Journal
 - Apple Launches iPad Pro, Vision Pro and MacBook Pro With M5 Chip - Bloomberg.com
 - Sarah Bond Shows Off Where Microsoft Is 'Prototyping For The Next Generation Of Xbox' - Pure Xbox
