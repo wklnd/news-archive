@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-17 00:39_
+_Updated: 2025-10-17 01:38_
 
 ## Top Stories
 
-- Uppgifter: Ace Frehley vårdas i respirator - SVT Nyheter
-- DN Direkt - Annie Lööf om Hatt: ”Vet hur det känns” - Dagens Nyheter
+- DN Direkt - Emma Wiesner vill inte ta över som C-ledare - Dagens Nyheter
+- Vita huset: Trump ska möta Putin - SVT Nyheter
 - Trumps nya fokus: Fred mellan Ryssland och Ukraina - GP
-- Trump: Möter Putin i Budapest för Ukrainasamtal - Västerbottens-Kuriren
+- Kvinna död i kollision mellan bil och tåg i Varbergs kommun - HD
 - TV4-profil åtalas för sexköp - UNT
-- Direkt Kriget i Ukraina - Ukrainska styrkor: Slår tillbaka anfall vid Dobropillia - Dagens Nyheter
-- Dadgostar svarar på kritiken efter debatten - GP
-- Kritik mot friskolans middag hos statsministern: ”Sjukt och gränslöst” - Dagens Nyheter
-- Kvinna död i kollision mellan bil och tåg - Västerbottens-Kuriren
-- Gratis mat på torget i Kumla - Nerikes Allehanda
 - Fredsplan äventyras av att döda ur gisslan är kvar i Gaza - Dagens Nyheter
+- Dadgostar svarar på kritiken efter debatten - GP
+- Högtidlig minnesstund för 7 oktober – uppskattade tal av Alice Teodorescu Måwe m.fl. - Med Israel för fred
+- Kritik mot friskolans middag hos statsministern: ”Sjukt och gränslöst” - Dagens Nyheter
+- Gratis mat på torget i Kumla - Nerikes Allehanda
 - WHO: Infektionssjukdomar sprids i Gaza - GP
-- Donald Trumps tidigare säkerhetsrådgivare åtalas - Dagens Nyheter
 - Trump hotar med att ”döda” Hamas - Västerbottens-Kuriren
+- Donald Trumps tidigare säkerhetsrådgivare åtalas - Dagens Nyheter
+- Kvinna i Stockholm gripen för misshandel av barn - Expressen
 - Sverige förlorar mot Singapore – i pensioner - Realtid
 - ”Mer omfattande lättnader av amorteringskrav ger 2 000 fler bostäder” - Byggföretagen
-- Experten varnar: ”Du kan inte dö med noll” - Dagens PS
 - Regeringen föreslår sänkt skatt på arbetsinkomster, pension och sjuk- och aktivitetsersättning - Regeringen.se
+- Möbelhandeln växer i takt med bostadsmarknaden - Svensk Handel
+- "Battlefield 6" slår miljonrekord - Aftonbladet
 - Oväntad upptäckt på Saturnus måne utmanar synen på kemin innan livets uppkomst - Chalmers tekniska högskola
-- Microsoft: ”Copilot lika revolutionerande som mus och tangentbord” - Nordichardware
 
 ## World News
 
@@ -77,68 +77,68 @@ _Updated: 2025-10-17 00:39_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Beginning in Q3 2025, Bakkt will be reporting the Loyalty business as discontinued operations. - Placera.se
 - ALT5 Sigma and World Liberty Financial to Present at A.G.P.’s Digital Assets & Technology Showcase - Placera.se
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Student and entry-level programs - EY
-- JPMorgan Chase affärsmodell - Business Model Analyst
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
-- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
-- SIHI Sweden Konferens 2024 - Uppsala universitet
-- E-hälsa inom EU - Läkartidningen
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- »Allmän återhållsamhet« räcker inte - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
