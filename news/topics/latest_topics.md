@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-16 04:12_
+_Updated: 2025-10-16 05:25_
 
 ## Top Stories
 
+- IAEA: Zaporizjzja ska snart repareras - GP
 - Paulina Sokolow: Israel tar ut sitt fiasko på Greta Thunberg - Dagens Nyheter
 - Källa: Trump ”optimistisk” kring fred i Ukraina inför mötet med Zelenskyj - Omni
 - Donald Trump ger grönt ljus för CIA-operationer inne i Venezuela - SVT Nyheter
-- IAEA: Zaporizjzja ska snart repareras - GP
-- Hamas om gisslan: Har lämnat över alla vi kan - Västerbottens-Kuriren
-- DN Direkt - Skola i Lindesberg inryms efter larm - Dagens Nyheter
-- En död efter misstänkt mordbrand i Stockholm - Aftonbladet
+- Därför rustar Hamas upp – med Trumps medgivande - GP
+- Törnstrand: Anna-Karin Hatts avgång är en varningsklocka - Västerbottens-Kuriren
 - Jämtland får beredskapslager för spannmål - Östersunds-Posten
 - Uppmaningen: Sluta ge jordbrukare rabatt på diesel - SVT Nyheter
-- Person död i Norrköping – polisen utreder mord - Expressen
-- Pete Hegseths plan tvingades nödlanda - Aftonbladet
-- Ukraina: Strömavbrott efter ryska attacker - Västerbottens-Kuriren
+- Dags för vaccinationer mot influensa och covid-19 - Folkhälsomyndigheten
+- Här tas första spadtaget till Nordens största kvinnofängelse - Dagens Nyheter
+- Goda nyheter! Ukraina vinner drönarkriget mot Ryssland - Aftonbladet
+- USA:s försvarsministers plan tvingades nödlanda - HD
 - Fler lovar mer för Ukraina - Dagens Nyheter
-- Parlamentet upplöst i Madagaskar - GP
+- Ukraina: Strömavbrott efter ryska attacker - Västerbottens-Kuriren
+- ABG Sundal Collier ökar omsättning och vinst - Placera.se
 - Moms på p-platser: Fastighetsägarna uppmanar till rättslig prövning - Fastighetstidningen
-- Carl Johan von Seth: Trodde du att Trumps handelskrig var över? Knappast - Dagens Nyheter
 - Elektrikerna polisanmäler norska strejkbrytare – jobbar för Tesla: ”Riktigt rövigt” - Arbetet
-- Matpriserna sjönk i september - Tidningen Näringslivet
+- Energirenovering olönsam i nästan hela landet – enligt ny rapport - Sveriges Allmännytta
 - ”Våga trotsa Microsoft – så kan du undvika att kasta din dator” - Aktuell Hållbarhet
 - Apple M5 och nya Macbook Pro officiellt lanserade - Nordichardware
 
@@ -99,23 +99,23 @@ _Updated: 2025-10-16 04:12_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
-- Engineering Health 2024 - Chalmers tekniska högskola
-- SIHI Sweden Konferens 2024 - Uppsala universitet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Mabel AI won the HealthTech Award 2023 - NewsMachine AB
 - »Allmän återhållsamhet« räcker inte - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -123,22 +123,22 @@ _Updated: 2025-10-16 04:12_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
