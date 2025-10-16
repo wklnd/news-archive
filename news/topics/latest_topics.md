@@ -1,33 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-16 15:07_
+_Updated: 2025-10-16 15:48_
 
 ## Top Stories
 
-- Håkan Boström: Det nya är inte konfliktnivån utan medielandskapet - GP
+- Hon kan bli Centerns nya ledare - Västerbottens-Kuriren
 - Fredsplan äventyras av att döda ur gisslan är kvar i Gaza - Dagens Nyheter
 - TV4-profil åtalas för sexköp - SVT Nyheter
-- EU ska förberedas för krig mot Ryssland - GP
-- Slagsmål i Liljeholmen – en pojke till sjukhus - Mitt i
+- Personbil påkörd av lastbil i Varbergs kommun - SVT Nyheter
 - Terrormisstänkt kräver forskaren Hübinette på pengar - Dagens Nyheter
+- JUST NU: Polisen: Misstanken om mord på Gubbholmen har försvagats - NWT
 - 24-åring begärd häktad för mordet på Salwan Momika - Dagens Nyheter
 - Norskt fartyg fast under Svinesundsbron - GP
 - Allt fler nekas försörjningsstöd – Tobias blev av med bostaden - Dagens Arena
-- Johan Ingerö Alias: Mediernas Greta-bevakning får underkänt - GP
-- Trump: Spanien ”bör straffas” för låga försvarsutgifter - DI
-- Församling i Stockholm utreds för mutbrott - Västerbottens-Kuriren
+- Brottsutredning har inletts mot St Johannes församling - Aftonbladet
+- Norsk ambassadvakt dömd för spioneri - GP
 - Ryska bomber mot gasanläggningar hotar värmen i vinter i Ukraina - Dagens Nyheter
-- Nytt bluff-SMS cirkulerar – ser ut som att det kommer från Swish • Så ska du agera - Expressen
+- "BÖR STRAFFAS" FÖR LÅGA FÖRSVARSUTGIFTER – TRUMP - Placera.se
+- Trafikolycka i Varberg – ambulanshelikopter på väg - Expressen
 - Investor ökar substansvärdet – nu över 1000 miljarder - Placera.se
-- Läget på bostadsmarknaden har förändrats: Oron minskar och lägenhetspriserna stiger - svenskbyggtidning -
+- Integrum beslutar om företrädesemission av aktier av serie B om cirka 42,6 MSEK villkorat av godkännande från extra bolagsstämma samt tidigarelagd Q2-rapport - Cision News
 - Fed-toppen Miran: Dödläget mellan Kina och USA risk för ekonomiska utsikterna - Börsvärlden
-- ABG: Kinneviks rapport en positiv överraskning - DI
+- Arvid Nordquist återkallar fler bröd - Aftonbladet
 - Apples nya M5-chipp är byggt för AI - Computer Sweden
-- ”Våga trotsa Microsoft – så kan du undvika att kasta din dator” - Aktuell Hållbarhet
+- Miljardsuccé på bara några dagar: Svenska spelundret tillbaka - Dagens PS
 
 ## World News
 
 - Är en global etik en utopi? - Dagens Arena
+- Northern Trust Appointed as Global Custodian by International Finance Facility for Education (IFFEd) - Placera.se
 - Worldwide rise in antibiotic resistance affects Sweden too - Sveriges Radio
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
@@ -35,36 +36,35 @@ _Updated: 2025-10-16 15:07_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- GAC Accelerates Global Expansion at 2025 International Partner Conference (PR Newswire) - Aktiellt
-- Sverige klättrar kraftigt i global gruvranking – nu topp sex i världen - INDUSTRInyheter.se
 - Vantage tar hem tre utmärkelser vid Global Forex Awards - Retail 2025 - PR Newswire
+- Sverige klättrar kraftigt i global gruvranking – nu topp sex i världen - INDUSTRInyheter.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Påven: En ny global utbildning för hopp i vår tid - Vatican News
+- Giulia Gaudenzi: ”Key lessons from global health research” - Life Science Sweden
 - Ny global industriell hubb i Kina milstolpe för Scania - Cision News
-- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 
 ## Technology
 
+- ZenaTech's ZenaDrone Subsidiary to Conduct Meetings with Members of Congress Highlighting its Drone Innovation Followed by Showcasing Drone Solutions at the AUVSI Defense Forum - Placera.se
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Oron: Då tar datan på internet slut - SvD
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
+- Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
 - Bästa AI-aktierna att köpa nu - Morningstar Canada
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
@@ -73,46 +73,49 @@ _Updated: 2025-10-16 15:07_
 
 ## Business
 
-- BlackRock TCP Capital Corp. to Report Third Quarter Ended September 30, 2025 Financial Results on November 6, 2025 - Placera.se
+- Beginning in Q3 2025, Bakkt will be reporting the Loyalty business as discontinued operations. - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - ALT5 Sigma and World Liberty Financial to Present at A.G.P.’s Digital Assets & Technology Showcase - Placera.se
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Student and entry-level programs - EY
 - JPMorgan Chase affärsmodell - Business Model Analyst
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- BlackRock TCP Capital Corp. to Report Third Quarter Ended September 30, 2025 Financial Results on November 6, 2025 - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Vi presenterar HealthBench - OpenAI
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- E-hälsa inom EU - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- »Allmän återhållsamhet« räcker inte - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
+- »Allmän återhållsamhet« räcker inte - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Mabel AI won the HealthTech Award 2023 - NewsMachine AB
+- Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
