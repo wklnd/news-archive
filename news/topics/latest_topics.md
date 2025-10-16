@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-16 21:38_
+_Updated: 2025-10-16 22:41_
 
 ## Top Stories
 
-- Trump: Möter Putin i Budapest för Ukrainasamtal - Västerbottens-Kuriren
 - DN Direkt - Annie Lööf om Hatt: ”Vet hur det känns” - Dagens Nyheter
+- Trump: Möter Putin i Budapest för Ukrainasamtal - GP
+- TV4-profil åtalas för sexköp - SVT Nyheter
+- Kvinna död i kollision mellan bil och tåg i Varbergs kommun - HD
 - Svaret efter splittringen till höger: ”Otroligt lugn” - SvD
 - Fortfarande sommar i Stockholm – men nu kommer minusgraderna - Aftonbladet
-- SD-toppen: Vi var för hårda mot Annie Lööf - SVT Nyheter
-- Kvinna död – tåg krockade med bil utanför Varberg - GP
 - Unik studie: PFAS påverkar barns hjärnor - GP
 - Listeria i alla tryffelprover på Coco & Carmen - SVT Nyheter
-- Kritik mot friskolans middag hos statsministern: ”Sjukt och gränslöst” - Dagens Nyheter
-- Efter arbetsplatsolycka – man i Umeå vårdas för livshotande skador - SVT Nyheter
-- WHO: Infektionssjukdomar sprids i Gaza - Västerbottens-Kuriren
-- Trump hotar med att ”döda” Hamas - GP
+- M dementerar: Mikrofonkravet finns kvar - GP
+- Trafikverket kan underskatta risken för extremt skyfall - Dagens Nyheter
+- WHO: Infektionssjukdomar sprids i Gaza - Corren
+- Trump hotar med att ”döda” Hamas - Västerbottens-Kuriren
 - Trumps CIA-besked kan innebära hemliga operationer i Venezuela - Dagens Nyheter
 - Unicef i Gaza: ”Annan sorts rädsla nu" - UNT
-- Sverige förlorar mot Singapore – i pensioner - Realtid
 - Detta är obegripligt – styrelsen måste agera - EFN
-- Fed-toppen Miran: Dödläget mellan Kina och USA risk för ekonomiska utsikterna - Placera.se
-- Fastighetsägare och brf kritiska till moms på p-plats - Fastighetstidningen
+- Fed-toppen Miran: Dödläget mellan Kina och USA risk för ekonomiska utsikterna - Börsvärlden
+- Sverige förlorar mot Singapore – i pensioner - Realtid
+- Experten varnar: ”Du kan inte dö med noll” - Dagens PS
 - Apples nya M5-chipp är byggt för AI - Computer Sweden
 - "Battlefield 6" slår miljonrekord - Aftonbladet
 
@@ -29,22 +29,22 @@ _Updated: 2025-10-16 21:38_
 
 - Är en global etik en utopi? - Dagens Arena
 - Sverige klättrar på global pensionsrankning - Finanswatch.se
+- Northern Trust Appointed as Global Custodian by International Finance Facility for Education (IFFEd) - Placera.se
 - Vantage tar hem tre utmärkelser vid Global Forex Awards - Retail 2025 - PR Newswire
-- Worldwide rise in antibiotic resistance affects Sweden too - Sveriges Radio
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- PepsiCo Launches Inaugural Global Farmer Awards, Honoring the Backbone of its Agricultural Supply Chain - Placera.se
 - Sverige klättrar kraftigt i global gruvranking – nu topp sex i världen - INDUSTRInyheter.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- New Secretary General appointed - Olof Palme International Center
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Ny global industriell hubb i Kina milstolpe för Scania - Cision News
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
@@ -104,18 +104,18 @@ _Updated: 2025-10-16 21:38_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- E-hälsa inom EU - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Nyteknik
 
 ## Science
 
@@ -161,4 +161,4 @@ _Updated: 2025-10-16 21:38_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
+- Unga lantbrukare får ingen chans - Land Lantbruk
