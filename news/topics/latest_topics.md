@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-16 22:41_
+_Updated: 2025-10-16 23:38_
 
 ## Top Stories
 
 - DN Direkt - Annie Lööf om Hatt: ”Vet hur det känns” - Dagens Nyheter
-- Trump: Möter Putin i Budapest för Ukrainasamtal - GP
+- Trump: Möter Putin i Budapest för Ukrainasamtal - Västerbottens-Kuriren
+- Direkt Kriget i Ukraina - Ukrainska styrkor: Slår tillbaka anfall vid Dobropillia - Dagens Nyheter
 - TV4-profil åtalas för sexköp - SVT Nyheter
 - Kvinna död i kollision mellan bil och tåg i Varbergs kommun - HD
-- Svaret efter splittringen till höger: ”Otroligt lugn” - SvD
-- Fortfarande sommar i Stockholm – men nu kommer minusgraderna - Aftonbladet
-- Unik studie: PFAS påverkar barns hjärnor - GP
-- Listeria i alla tryffelprover på Coco & Carmen - SVT Nyheter
-- M dementerar: Mikrofonkravet finns kvar - GP
-- Trafikverket kan underskatta risken för extremt skyfall - Dagens Nyheter
-- WHO: Infektionssjukdomar sprids i Gaza - Corren
-- Trump hotar med att ”döda” Hamas - Västerbottens-Kuriren
+- Trumps nya fokus: Fred mellan Ryssland och Ukraina - GP
+- Dadgostar svarar på kritiken efter debatten - GP
+- Ny studie: PFAS påverkar barns hjärnor - Västerbottens-Kuriren
+- C-källor: Har enats om regeringsfrågan – väntar med besked - Aftonbladet
+- Gratis mat på torget i Kumla - Nerikes Allehanda
+- Fredsplan äventyras av att döda ur gisslan är kvar i Gaza - Dagens Nyheter
+- WHO: Infektionssjukdomar sprids i Gaza - Västerbottens-Kuriren
+- Trump hotar med att ”döda” Hamas - GP
 - Trumps CIA-besked kan innebära hemliga operationer i Venezuela - Dagens Nyheter
-- Unicef i Gaza: ”Annan sorts rädsla nu" - UNT
 - Detta är obegripligt – styrelsen måste agera - EFN
-- Fed-toppen Miran: Dödläget mellan Kina och USA risk för ekonomiska utsikterna - Börsvärlden
 - Sverige förlorar mot Singapore – i pensioner - Realtid
-- Experten varnar: ”Du kan inte dö med noll” - Dagens PS
+- Fed-toppen Miran: Dödläget mellan Kina och USA risk för ekonomiska utsikterna - Placera.se
+- Fastighetsägare och brf kritiska till moms på p-plats - Fastighetstidningen
 - Apples nya M5-chipp är byggt för AI - Computer Sweden
-- "Battlefield 6" slår miljonrekord - Aftonbladet
+- DN Direkt - Uppgifter: SvFF i förhandling med Potter - Dagens Nyheter
 
 ## World News
 
@@ -35,18 +35,18 @@ _Updated: 2025-10-16 22:41_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Sverige klättrar kraftigt i global gruvranking – nu topp sex i världen - INDUSTRInyheter.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Ny global industriell hubb i Kina milstolpe för Scania - Cision News
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-16 22:41_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De gick från reko till eko - ST-tidningen
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Kor som väger sig själva och självstädande ladugårdsgolv – två av flera smarta lösningar på Smart Farming-seminariet - Cision News
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Unga lantbrukare får ingen chans - Land Lantbruk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
