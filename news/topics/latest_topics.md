@@ -1,33 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-16 09:39_
+_Updated: 2025-10-16 10:49_
 
 ## Top Stories
 
-- Lokala politiker överväger att sluta – på grund av hatet - GP
+- Vem ska orka bära partiledarhatten i C? - Norran
+- 24-åring begärd häktad för mordet på Salwan Momika - Dagens Nyheter
+- TV4-profil åtalas för sexköp - Expressen
 - Unicef i Gaza: ”Annan sorts rädsla nu" - GP
-- En begärd häktad för mordet på Salwan Momika - Nerikes Allehanda
+- Ann-Mari gjorde abort vid 37: ”Glad att kunna välja” - GP
 - Maduro fördömer "statskupp orkestrerad av CIA" - Västerbottens-Kuriren
-- 16 oktober 07.00, Sammanfattning natt, Hallands län - polisen.se
-- Är vi redo för det ryska propagandakriget? - SvD
 - Satsning mot prostitution på nätet - SVT Nyheter
 - Paulina Sokolow: Israel tar ut sitt fiasko på Greta Thunberg - Dagens Nyheter
-- Uppmaningen: Sluta ge jordbrukare rabatt på diesel - SVT Nyheter
-- Här tas första spadtaget till Nordens största kvinnofängelse - Dagens Nyheter
-- Försvarsministern: Ukraina förbereder sig för en ”mycket tuff, mycket svår vinter” - Yle
-- Källa: Trump ”optimistisk” kring fred i Ukraina inför mötet med Zelenskyj - Omni
-- Pete Hegseths plan tvingades nödlanda - Aftonbladet
-- Trump: Putin har förlorat 1,5 miljoner man - Hufvudstadsbladet
-- Nestlé skakar i grunden – kapar 16 000 tjänster - food-supply.se
+- ”Inget som tyder på något brott” - Nerikes Allehanda
+- Sågas på nytt: Rött kött pekas ut som boven - SvD
+- DN Direkt - Färdigspelat för Borg – utslagen i Nordic Open - Dagens Nyheter
+- Ukraina: Strömavbrott efter ryska attacker - Västerbottens-Kuriren
+- USA till Hamas: Sluta skjut ”oskyldiga civila” - Västerbottens-Kuriren
+- USA:s Natoambassadör: ”Stort vapenbesked” till Ukraina väntar - Dagens industri
 - Investor slår börsen - spränger drömgräns - EFN
+- Erotik i Chat GPT väcker ilska – men Open AI slår ifrån sig - Expressen
 - Guldpriset rusar – vem betalar priset? - Global Bar Magazine
 - Fed-toppen Miran: Dödläget mellan Kina och USA risk för ekonomiska utsikterna - Börsvärlden
-- Apple M5 och nya Macbook Pro officiellt lanserade - Nordichardware
+- ”Våga trotsa Microsoft – så kan du undvika att kasta din dator” - Aktuell Hållbarhet
 - Oväntad upptäckt på Saturnus måne utmanar synen på kemin innan livets uppkomst - Cision News
 
 ## World News
 
 - Är en global etik en utopi? - Dagens Arena
+- Northern Trust Appointed as Global Custodian by International Finance Facility for Education (IFFEd) - Placera.se
 - Lövsta Future Challenge International Dressage Tour startar upp säsong 4 under World Cup Herning - Mynewsdesk
 - Worldwide rise in antibiotic resistance affects Sweden too - Sveriges Radio
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
@@ -38,20 +39,18 @@ _Updated: 2025-10-16 09:39_
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- GAC Accelerates Global Expansion at 2025 International Partner Conference (PR Newswire) - Aktiellt
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Sverige klättrar kraftigt i global gruvranking – nu topp sex i världen - INDUSTRInyheter.se
 - Vantage tar hem tre utmärkelser vid Global Forex Awards - Retail 2025 - PR Newswire
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- New Secretary General appointed - Olof Palme International Center
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Patrick Kalotis Joins Ingredion as EVP Global Texture & Healthful Solutions - Placera.se
 - Ny global industriell hubb i Kina milstolpe för Scania - Cision News
 
 ## Technology
 
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
-- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -61,6 +60,7 @@ _Updated: 2025-10-16 09:39_
 - Oron: Då tar datan på internet slut - SvD
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
@@ -75,15 +75,15 @@ _Updated: 2025-10-16 09:39_
 
 - BlackRock TCP Capital Corp. to Report Third Quarter Ended September 30, 2025 Financial Results on November 6, 2025 - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Beginning in Q3 2025, Bakkt will be reporting the Loyalty business as discontinued operations. - Placera.se
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - ALT5 Sigma and World Liberty Financial to Present at A.G.P.’s Digital Assets & Technology Showcase - Placera.se
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Student and entry-level programs - EY
+- JPMorgan Chase affärsmodell - Business Model Analyst
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -91,8 +91,8 @@ _Updated: 2025-10-16 09:39_
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
 
@@ -121,24 +121,24 @@ _Updated: 2025-10-16 09:39_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Forskning vid institutionen för klinisk vetenskap, intervention och teknik (CLINTEC) - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
