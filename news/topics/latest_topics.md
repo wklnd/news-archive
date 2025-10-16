@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-16 06:43_
+_Updated: 2025-10-16 07:41_
 
 ## Top Stories
 
-- Törnstrand: Anna-Karin Hatts avgång är en varningsklocka - Västerbottens-Kuriren
 - Därför rustar Hamas upp – med Trumps medgivande - GP
-- Donald Trump ger grönt ljus för CIA-operationer inne i Venezuela - SVT Nyheter
-- Lastfartyg på grund nära Svinesundsbron - SVT Nyheter
+- DN Direkt - Fartyg på grund under Svinesundsbron - Dagens Nyheter
 - Tio år efter flyktingkrisen – Stockholms modulhus blev dyra boenden för nyanlända - Dagens Nyheter
-- Källa: Trump ”optimistisk” kring fred i Ukraina inför mötet med Zelenskyj - Omni
+- Törnstrand: Anna-Karin Hatts avgång är en varningsklocka - Västerbottens-Kuriren
+- Skoltaxi i olycka i Umeå – allvarligt skadade - SVT Nyheter
+- Ny studie: PFAS påverkar barns hjärnor - Västerbottens-Kuriren
 - Jämtland får beredskapslager för spannmål - Östersunds-Posten
 - Paulina Sokolow: Israel tar ut sitt fiasko på Greta Thunberg - Dagens Nyheter
 - Uppmaningen: Sluta ge jordbrukare rabatt på diesel - SVT Nyheter
-- Dags för vaccinationer mot influensa och covid-19 - Folkhälsomyndigheten
+- ”Vi har inte en klar bild än” - Nerikes Allehanda
+- Donald Trump ger grönt ljus för CIA-operationer inne i Venezuela - SVT Nyheter
 - Goda nyheter! Ukraina vinner drönarkriget mot Ryssland - Aftonbladet
 - USA:s försvarsministers plan tvingades nödlanda - HD
-- Hegseth lovar fred genom styrka i Ukraina - GP
-- Ukraina: Strömavbrott efter ryska attacker - Corren
+- Ukraina: Strömavbrott efter ryska attacker - GP
+- Bättre vinst än väntat från Nordea - SvD
 - KINAS EXPORTKONTROLLER KAN ELDA PÅ INFLATION - MÜLLER - Placera.se
 - Finanstoppen: Farligt beroende av amerikanska aktier - Dagens PS
-- Högre vinst för ABG Sundal Collier - Dagens industri
-- Bostadsägare kan andas ut: ”ett trendbrott” - SvD
+- Endast 18 procent oroas av prisfall på egna boendet - Omni
+- Oväntad upptäckt på Saturnus måne utmanar synen på kemin innan livets uppkomst - Cision News
 - Apple M5 och nya Macbook Pro officiellt lanserade - Nordichardware
-- Assassin's Creed-chefen lämnar i samband med ny Tencent-studio - FZ.se
 
 ## World News
 
+- Är en global etik en utopi? - Dagens Arena
 - Northern Trust Appointed as Global Custodian by International Finance Facility for Education (IFFEd) - Placera.se
 - Lövsta Future Challenge International Dressage Tour startar upp säsong 4 under World Cup Herning - Mynewsdesk
 - Worldwide rise in antibiotic resistance affects Sweden too - Sveriges Radio
@@ -34,11 +35,9 @@ _Updated: 2025-10-16 06:43_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Är en global etik en utopi? - Dagens Arena
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Vantage tar hem tre utmärkelser vid Global Forex Awards - Retail 2025 - PR Newswire
@@ -46,6 +45,7 @@ _Updated: 2025-10-16 06:43_
 - Sverige klättrar kraftigt i global gruvranking – nu topp sex i världen - INDUSTRInyheter.se
 - Giulia Gaudenzi: ”Key lessons from global health research” - Life Science Sweden
 - Ny global industriell hubb i Kina milstolpe för Scania - Cision News
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 
 ## Technology
@@ -60,12 +60,12 @@ _Updated: 2025-10-16 06:43_
 - Oron: Då tar datan på internet slut - SvD
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- 290 million for digitalisation of Swedish industry - Vinnova
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- Gesture-Control Wearables Redefine Human-Technology Interaction - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
@@ -101,6 +101,7 @@ _Updated: 2025-10-16 06:43_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Mabel AI won the HealthTech Award 2023 - NewsMachine AB
 - »Allmän återhållsamhet« räcker inte - Läkartidningen
@@ -114,7 +115,6 @@ _Updated: 2025-10-16 06:43_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -142,22 +142,22 @@ _Updated: 2025-10-16 06:43_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
