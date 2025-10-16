@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-16 10:49_
+_Updated: 2025-10-16 11:42_
 
 ## Top Stories
 
-- Vem ska orka bära partiledarhatten i C? - Norran
-- 24-åring begärd häktad för mordet på Salwan Momika - Dagens Nyheter
-- TV4-profil åtalas för sexköp - Expressen
 - Unicef i Gaza: ”Annan sorts rädsla nu" - GP
-- Ann-Mari gjorde abort vid 37: ”Glad att kunna välja” - GP
-- Maduro fördömer "statskupp orkestrerad av CIA" - Västerbottens-Kuriren
+- DN Direkt - Emma Wiesner vill inte ta över som C-ledare - Dagens Nyheter
+- TV4-profil åtalas för sexköp - SVT Nyheter
+- 24-åring misstänkt för mordet på Momika - SvD
+- Terrormisstänkt kräver forskaren Hübinette på pengar - Dagens Nyheter
+- Förändringen i nästa val: Digitalt röstkort - Västerbottens-Kuriren
 - Satsning mot prostitution på nätet - SVT Nyheter
-- Paulina Sokolow: Israel tar ut sitt fiasko på Greta Thunberg - Dagens Nyheter
-- ”Inget som tyder på något brott” - Nerikes Allehanda
-- Sågas på nytt: Rött kött pekas ut som boven - SvD
-- DN Direkt - Färdigspelat för Borg – utslagen i Nordic Open - Dagens Nyheter
+- Johan Ingerö Alias: Mediernas Greta-bevakning får underkänt - GP
+- Efter dödsolyckan på bron: Skydd sätts upp - Aftonbladet
+- Maduro fördömer ”statskupp” av CIA - SVT Nyheter
 - Ukraina: Strömavbrott efter ryska attacker - Västerbottens-Kuriren
-- USA till Hamas: Sluta skjut ”oskyldiga civila” - Västerbottens-Kuriren
-- USA:s Natoambassadör: ”Stort vapenbesked” till Ukraina väntar - Dagens industri
-- Investor slår börsen - spränger drömgräns - EFN
+- Norskt fartyg fast under Svinesundsbron - GP
+- FN:s flyktinghjälp i finansieringskris - Sverige för UNHCR
 - Erotik i Chat GPT väcker ilska – men Open AI slår ifrån sig - Expressen
+- Investor slår börsen - spränger drömgräns - EFN
 - Guldpriset rusar – vem betalar priset? - Global Bar Magazine
 - Fed-toppen Miran: Dödläget mellan Kina och USA risk för ekonomiska utsikterna - Börsvärlden
 - ”Våga trotsa Microsoft – så kan du undvika att kasta din dator” - Aktuell Hållbarhet
-- Oväntad upptäckt på Saturnus måne utmanar synen på kemin innan livets uppkomst - Cision News
+- Nya M5 Macbook Pro säljs utan laddare i EU och Storbritannien - Macworld.se
+- Miljardsuccé på bara några dagar: Svenska spelundret tillbaka - Dagens PS
 
 ## World News
 
@@ -37,20 +37,21 @@ _Updated: 2025-10-16 10:49_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Sverige klättrar kraftigt i global gruvranking – nu topp sex i världen - INDUSTRInyheter.se
 - Vantage tar hem tre utmärkelser vid Global Forex Awards - Retail 2025 - PR Newswire
+- Sverige klättrar kraftigt i global gruvranking – nu topp sex i världen - INDUSTRInyheter.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Patrick Kalotis Joins Ingredion as EVP Global Texture & Healthful Solutions - Placera.se
 - Ny global industriell hubb i Kina milstolpe för Scania - Cision News
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 
 ## Technology
 
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
+- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -60,16 +61,15 @@ _Updated: 2025-10-16 10:49_
 - Oron: Då tar datan på internet slut - SvD
 - Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
-- MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 
 ## Business
 
@@ -143,10 +143,12 @@ _Updated: 2025-10-16 10:49_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- An Giang Agricultural Extension 30 år av att stödja jordbrukare - Vietnam.vn
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
@@ -154,11 +156,9 @@ _Updated: 2025-10-16 10:49_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
-- Unga lantbrukare får ingen chans - Land Lantbruk
-- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
