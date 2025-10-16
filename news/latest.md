@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-16 15:19_
+_Updated: 2025-10-16 15:52_
 
+- US-China rare Earth minerals fight explained - ABC News - Breaking News, Latest News and Videos
 - US plays down claims Hamas is violating ceasefire deal over hostage remains - BBC
-- White House Rages at CNN Town Hall in Live-Posting Spree - The Daily Beast
-- China’s Rare Earth Restrictions Aim to Beat U.S. at Its Own Game - The New York Times
 - Trump says he has authorized covert CIA action in Venezuela - The Washington Post
 - JD Vance brushes off racist texts by adults in Republican group chat as ‘what kids do’ - The Guardian
-- Trump’s troop pay move is a ‘temporary fix,’ Johnson says - Politico
+- Trump Signs Memo Expanding His Authority to Spend Federal Money - The New York Times
+- The unanswered questions after release of China spy evidence - BBC
 - Judge orders Trump administration to pause shutdown layoffs - BBC
-- Supreme Court signals willingness to pare back Voting Rights Act - Axios
-- Capitol agenda: GOP dares Dems to buck bipartisan spending bill - Politico
-- What we know about a White House offer to universities for expanded access to funding in exchange for demands - CNN
-- Stocks and euro tick higher as France undergoes confidence votes - Reuters
-- Oil Rises as Trump Says India Will Stop Buying Russian Supply - Bloomberg.com
-- Video shows Hamas fighters executing Palestinians accused of collaborating with Israel - CBS News
-- Doctors Without Borders permanently closes its emergency center in Haiti’s capital - AP News
+- The US supreme court appears ready to nullify the Voting Rights Act | Moira Donegan - The Guardian
+- Live updates: Senate Democrats are ready to reject government funding bill again over health care - AP News
+- Why Trump Is Eying Cooking Oil as Leverage in US-China Trade War - Bloomberg.com
+- French PM survives no-confidence votes after making pension concession - Reuters
+- India casts doubt as Trump says Modi pledged to stop buying Russian oil - The Washington Post
+- Man dubbed "White Tiger" charged with murder over U.S. teen's livestreamed suicide - CBS News
+- Israel’s bright, exuberant, imperfect day, two years after its worst - The Times of Israel
 - Health insurance premiums are going up next year — unless you work at these companies - NPR
 - Canada threatens Stellantis with legal action over moving production to US - Al Jazeera
-- Nestlé to Slash 16,000 Jobs in Cost-Cutting Push - The New York Times
-- Few heirs keep their parents' wealth advisors — most wealthy benefactors don't mind - CNBC
+- Nestlé Plan to Slash 16,000 Jobs Sparks Share Jump - The Wall Street Journal
+- OpenAI’s Plans to Roll Out AI ‘Erotica’ for ChatGPT Slammed by Anti-Porn Group; CEO Sam Altman Says ‘We Are Not the Elected Moral Police of the World’ - Variety
 - Windows 11 Insiders get 12 new features in October—here’s what’s changing - Windows Central
-- Galaxy S25 Edge flops so hard, Samsung pulls the plug on the lineup - Android Police
+- Apple Launches iPad Pro, Vision Pro and MacBook Pro With M5 Chip - Bloomberg.com
