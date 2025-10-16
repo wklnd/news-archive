@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-16 18:47_
+_Updated: 2025-10-16 19:40_
 
 ## Top Stories
 
 - DN Direkt - Emma Wiesner vill inte ta över som C-ledare - Dagens Nyheter
-- Unicef i Gaza: ”Annan sorts rädsla nu" - Västerbottens-Kuriren
-- TV4-profil åtalas för sexköp - SVT Nyheter
-- Trump i samtal med Putin före Zelenskyjmöte - GP
+- Hamas tänker återlämna alla kroppar – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Direkt Kriget i Ukraina - Vita huset efter samtalet med Putin – kan mötas igen - Dagens Nyheter
+- TV4-profil åtalad för sexköp - UNT
 - Bil i kollision med tåg – en till sjukhus - Aftonbladet
-- SD-toppen: Vi var för hårda mot Annie Lööf - SVT Nyheter
-- DN Direkt - Provsvar pekar ut tryffeln som misstänkt orsak till listeriautbrottet - Dagens Nyheter
-- Avslöjar: Friskola arrangerar evenemang – i statsministerns hem - Dagens Nyheter
+- Så tar en muslim och socialist över New York - SvD
+- Listeria i alla tryffelprover på Coco & Carmen - SVT Nyheter
+- Kritik mot friskolans middag hos statsministern: ”Sjukt och gränslöst” - Dagens Nyheter
 - Efter arbetsplatsolycka – man i Umeå vårdas för livshotande skador - SVT Nyheter
-- Norskt fartyg fast under Svinesundsbron - GP
-- Norsk ambassadvakt dömd för spioneri - GP
+- Allt fler nekas försörjningsstöd – Tobias blev av med bostaden - Dagens Arena
 - Brottsutredning har inletts mot St Johannes församling - Aftonbladet
-- Trafikolycka i Varberg – ambulanshelikopter på väg - Expressen
-- Swish varnar användare: Se upp för det här meddelandet - Marcus Oscarsson
-- Integrum beslutar om företrädesemission av aktier av serie B om cirka 42,6 MSEK villkorat av godkännande från extra bolagsstämma samt tidigarelagd Q2-rapport - Cision News
+- Ryska bomber mot gasanläggningar hotar värmen i vinter i Ukraina - Dagens Nyheter
+- Nytt bluff-SMS cirkulerar – ser ut som att det kommer från Swish • Så ska du agera - Expressen
+- Gaza. Parolin om avtalet: Vi måste tro på viljan att ta steg framåt - Vatican News
 - Sverige förlorar mot Singapore – i pensioner - Realtid
-- Drömgräns nådd – nu går Investor en kamp mot klockan - Dagens industri
-- Affärsvärlden lockas inte tillräckligt av Kinnevik för att motivera ett köpråd - Börsvärlden
+- Integrum beslutar om företrädesemission av aktier av serie B om cirka 42,6 MSEK villkorat av godkännande från extra bolagsstämma samt tidigarelagd Q2-rapport - Cision News
+- Fed-toppen Miran: Dödläget mellan Kina och USA risk för ekonomiska utsikterna - Placera.se
+- Varnar för AI-krasch: ”Galna värderingar” - Omni
 - DN Direkt - Man svårt skadad i arbetsplatsolycka - Dagens Nyheter
-- Apples nya M5-chipp är byggt för AI - Computer Sweden
+- Oväntad upptäckt på Saturnus måne utmanar synen på kemin innan livets uppkomst - Chalmers tekniska högskola
 
 ## World News
 
@@ -37,16 +37,16 @@ _Updated: 2025-10-16 18:47_
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Vantage tar hem tre utmärkelser vid Global Forex Awards - Retail 2025 - PR Newswire
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- PepsiCo Launches Inaugural Global Farmer Awards, Honoring the Backbone of its Agricultural Supply Chain - Placera.se
 - Sverige klättrar kraftigt i global gruvranking – nu topp sex i världen - INDUSTRInyheter.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - New Secretary General appointed - Olof Palme International Center
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
 - Ny global industriell hubb i Kina milstolpe för Scania - Cision News
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -59,10 +59,10 @@ _Updated: 2025-10-16 18:47_
 - Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Oron: Då tar datan på internet slut - SvD
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
@@ -77,22 +77,20 @@ _Updated: 2025-10-16 18:47_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Beginning in Q3 2025, Bakkt will be reporting the Loyalty business as discontinued operations. - Placera.se
 - ALT5 Sigma and World Liberty Financial to Present at A.G.P.’s Digital Assets & Technology Showcase - Placera.se
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Student and entry-level programs - EY
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- JPMorgan Chase affärsmodell - Business Model Analyst
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
+- Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
+- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
 ## Health
 
@@ -104,18 +102,18 @@ _Updated: 2025-10-16 18:47_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
+- Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- »Allmän återhållsamhet« räcker inte - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 
 ## Science
 
@@ -144,6 +142,7 @@ _Updated: 2025-10-16 18:47_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -159,6 +158,5 @@ _Updated: 2025-10-16 18:47_
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Unga lantbrukare får ingen chans - Land Lantbruk
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
