@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-16 15:48_
+_Updated: 2025-10-16 16:45_
 
 ## Top Stories
 
-- Hon kan bli Centerns nya ledare - Västerbottens-Kuriren
-- Fredsplan äventyras av att döda ur gisslan är kvar i Gaza - Dagens Nyheter
+- DN Direkt - Annie Lööf om Hatt: ”Vet hur det känns” - Dagens Nyheter
 - TV4-profil åtalas för sexköp - SVT Nyheter
+- Unicef i Gaza: ”Annan sorts rädsla nu" - Västerbottens-Kuriren
+- EU ska förberedas för krig mot Ryssland - GP
 - Personbil påkörd av lastbil i Varbergs kommun - SVT Nyheter
-- Terrormisstänkt kräver forskaren Hübinette på pengar - Dagens Nyheter
-- JUST NU: Polisen: Misstanken om mord på Gubbholmen har försvagats - NWT
+- Bil i kollision med tåg – en till sjukhus - Aftonbladet
+- Listeria i alla tryffelprover på Coco & Carmen - SVT Nyheter
 - 24-åring begärd häktad för mordet på Salwan Momika - Dagens Nyheter
+- Terrormisstänkt kräver forskaren Hübinette på pengar - Dagens Nyheter
 - Norskt fartyg fast under Svinesundsbron - GP
-- Allt fler nekas försörjningsstöd – Tobias blev av med bostaden - Dagens Arena
-- Brottsutredning har inletts mot St Johannes församling - Aftonbladet
 - Norsk ambassadvakt dömd för spioneri - GP
+- Församling i Stockholm utreds för mutbrott - Västerbottens-Kuriren
 - Ryska bomber mot gasanläggningar hotar värmen i vinter i Ukraina - Dagens Nyheter
-- "BÖR STRAFFAS" FÖR LÅGA FÖRSVARSUTGIFTER – TRUMP - Placera.se
-- Trafikolycka i Varberg – ambulanshelikopter på väg - Expressen
+- Nytt bluff-SMS cirkulerar – ser ut som att det kommer från Swish • Så ska du agera - Expressen
 - Investor ökar substansvärdet – nu över 1000 miljarder - Placera.se
 - Integrum beslutar om företrädesemission av aktier av serie B om cirka 42,6 MSEK villkorat av godkännande från extra bolagsstämma samt tidigarelagd Q2-rapport - Cision News
+- Varnar för AI-krasch: ”Galna värderingar” - Omni
 - Fed-toppen Miran: Dödläget mellan Kina och USA risk för ekonomiska utsikterna - Börsvärlden
-- Arvid Nordquist återkallar fler bröd - Aftonbladet
 - Apples nya M5-chipp är byggt för AI - Computer Sweden
-- Miljardsuccé på bara några dagar: Svenska spelundret tillbaka - Dagens PS
+- Oväntad upptäckt på Saturnus måne utmanar synen på kemin innan livets uppkomst - Chalmers tekniska högskola
 
 ## World News
 
@@ -39,14 +39,14 @@ _Updated: 2025-10-16 15:48_
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Vantage tar hem tre utmärkelser vid Global Forex Awards - Retail 2025 - PR Newswire
 - Sverige klättrar kraftigt i global gruvranking – nu topp sex i världen - INDUSTRInyheter.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Giulia Gaudenzi: ”Key lessons from global health research” - Life Science Sweden
+- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
 - Ny global industriell hubb i Kina milstolpe för Scania - Cision News
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 
 ## Technology
 
@@ -56,14 +56,14 @@ _Updated: 2025-10-16 15:48_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Quantum AI: What it is and why it matters - SAS: Data and AI Solutions
 - Oron: Då tar datan på internet slut - SvD
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
-- Bästa AI-aktierna att köpa nu - Morningstar Canada
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
@@ -104,18 +104,18 @@ _Updated: 2025-10-16 15:48_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
+- Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- E-hälsa inom EU - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Johan von Schreeb - Karolinska Institutet
 - »Allmän återhållsamhet« räcker inte - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-16 15:48_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mjau lanserar Partypuffar med smak av kattmynta – krispiga snacks för lek och belöning - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Maskinförare | Jobb | ATL - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Gör om och gör rätt för framtidens lantbruk - Land Lantbruk
+- Unga lantbrukare får ingen chans - Land Lantbruk
