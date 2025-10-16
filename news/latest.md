@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-17 00:48_
+_Updated: 2025-10-17 01:48_
 
-- Ex-national security adviser John Bolton indicted in classified documents case - NPR
-- Trump Administration Live Updates: President Plans Meeting With Putin to Discuss an End to War on Ukraine - The New York Times
+- Ace Frehley, founding guitarist for KISS, dead at 74 - ABC News - Breaking News, Latest News and Videos
+- John Bolton is indicted for allegedly keeping and sharing classified information - Politico
+- Trump says he will meet Putin again after 'great progress' during call - BBC
+- Cuomo Looks for a Debate Night Spark in Hopes of Catching Mamdani - The New York Times
+- In Pictures: Remembering Susan Stamberg, one of NPR's Founding Mothers - NPR
 - US admiral to retire amid military strikes in Caribbean and tensions with Venezuela - The Guardian
-- NPR 'founding mother' Susan Stamberg has died - NPR
-- 4 universities decline White House offer for expanded access to federal funding in exchange for demands. Here’s what we know - CNN
-- Trump announces plan to expand IVF services - Axios
+- Exclusive | Chamber of Commerce Sues Over Trump’s New $100,000 H-1B Visa Fee - The Wall Street Journal
+- After Racist Texts, New York G.O.P. Is Set to Disband Young Republicans - The New York Times
 - Ron Conway skewers Marc Benioff in board resignation after 25 years: 'I now barely recognize the person I have so long admired' - Fortune
-- U.S. Chamber of Commerce sues Trump administration over $100,000 H-1B visa fee - CNBC
-- Harvard endowment swells to nearly $57 billion, donations reach a record - Reuters
-- Judge wants immigration agents in Chicago area to wear body cameras after clashes with public - AP News
+- Indiana University fires adviser for student newspaper amid censorship dispute - NBC News
 - Maccabi Tel Aviv fans not allowed to attend Aston Villa game in Europa League - The New York Times
-- EU Commission presents defense plan to protect ‘every’ centimeter of Europe - politico.eu
-- Hamas Says It Can’t Find Dead Hostages as Israel Pushes Back - Bloomberg.com
+- EU proposes 'flagship' defence projects to counter drones, protect eastern border - Reuters
 - French PM Lecornu survives confidence votes but breathing space will not last long - BBC
+- Hamas Says It Can’t Find Dead Hostages as Israel Pushes Back - Bloomberg.com
+- Stock Market Today: Dow, Nasdaq Edge Higher; TSMC, Salesforce in Focus — Live Updates - The Wall Street Journal
 - After Stellantis dumps Canada for $13 billion move to U.S., Ontario premier urges fight back against 'real piece of work' Trump - Fortune
-- Oracle’s stock rises as Wall Street’s AI profitability concerns are put to rest - MarketWatch
-- Stock Market Today: Dow, S&P 500, Nasdaq Fall; TSMC, Nvidia, AMD, Tesla, More Movers; Trump, China Trade Fears - Barron's
-- United Airlines CEO warns an extended shutdown will hurt bookings - CNBC
+- Oracle Rallies After Saying AI Cloud Gross Margin Can Be 35% - Bloomberg.com
+- US Nears Tariff Relief for Auto Industry After Lobbying Push - Bloomberg.com
 - Microsoft’s vision for AI PCs looks a lot like another crack at Cortana - Ars Technica
 - M5 MacBook Pro vs M4 MacBook Pro: What’s actually changed? - 9to5Mac
