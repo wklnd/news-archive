@@ -1,19 +1,19 @@
 # Top News Headlines
 
-_Updated: 2025-10-16 08:53_
+_Updated: 2025-10-16 09:48_
 
 - Trump confirms he's authorized CIA operations in Venezuela, looking into land strikes - ABC News - Breaking News, Latest News and Videos
-- Trump Administration Live Updates: Judge Temporarily Blocks Layoffs During Federal Shutdown - The New York Times
+- Judge orders Trump administration to pause shutdown layoffs - The Washington Post
 - JD Vance brushes off racist texts by adults in Republican group chat as ‘what kids do’ - The Guardian
-- Supreme Court seems open to limiting key section of Voting Rights Act - The Washington Post
-- Trump hosts glitzy dinner for wealthy donors to new White House ballroom - AP News
+- Kristi Noem’s shutdown airport video may violate Hatch Act, Sen. Cantwell warns - CNBC
 - Man accused of maliciously igniting Palisades fire faces new charges, up to 45 years in prison - Los Angeles Times
-- Alaska airlifting hundreds from storm-devastated coastal villages - CNN
+- SCOTUS may erode a key Voting Rights Act tenet. What to know about the law - Axios
+- Hundreds airlifted from storm-battered Western Alaska villages in historic mass evacuation - Anchorage Daily News
 - Brown University rejects Trump administration’s compact - The Hill
-- Democrats float a new shutdown demand: Reversing Trump's mass firings - Politico
 - CDC scientist let go during shutdown says "it's truly like an episode of 'Squid Games'" - CBS News
+- A discarded straw leads to murder charges in 1984 killing of New York teen - AP News
 - Video shows Hamas fighters executing Palestinians accused of collaborating with Israel - CBS News
-- Government publishes key witness statements in collapsed China spy case - BBC
+- UK PM Starmer publishes key witness statements in China spy case - Reuters
 - Doctors Without Borders permanently closes its emergency center in Haiti’s capital - AP News
 - Did Trump make the Gaza ceasefire happen? - vox.com
 - OpenAI’s Plans to Roll Out AI ‘Erotica’ for ChatGPT Slammed by Anti-Porn Group; CEO Sam Altman Says ‘We Are Not the Elected Moral Police of the World’ - Variety
