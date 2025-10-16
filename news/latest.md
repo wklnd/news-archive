@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-16 10:55_
+_Updated: 2025-10-16 11:49_
 
-- Trump says he has authorized covert CIA action in Venezuela - The Washington Post
-- Judge blocks Trump admin from laying off federal workers during government shutdown - Politico
-- Supreme Court signals willingness to pare back Voting Rights Act - Axios
-- Exclusive | Trump Hosts Corporate Ballroom Donors at Glitzy White House Dinner - The Wall Street Journal
+- Trump confirms he's authorized CIA operations in Venezuela, looking into land strikes - ABC News - Breaking News, Latest News and Videos
 - JD Vance brushes off racist texts by adults in Republican group chat as ‘what kids do’ - The Guardian
-- Duffy pulls $40M from California over English-only trucker rule - The Hill
-- Hundreds airlifted from storm-battered Western Alaska villages in historic mass evacuation - Anchorage Daily News
-- CDC scientist let go during shutdown says "it's truly like an episode of 'Squid Games'" - CBS News
-- Bessent says bailout for Argentina will double to boost U.S. influence in region - The Washington Post
-- The federal government is still shut down. Here's what that means across the country - NPR
-- Video shows Hamas fighters executing Palestinians accused of collaborating with Israel - CBS News
-- Israel allows aid into Gaza after more hostages return - DW
-- Doctors Without Borders permanently closes its emergency center in Haiti’s capital - AP News
+- Supreme Court signals willingness to pare back Voting Rights Act - Axios
+- Judge orders Trump administration to pause shutdown layoffs - The Washington Post
 - US plays down claims Hamas is violating ceasefire deal over hostage remains - BBC
+- Man accused of maliciously igniting Palisades fire faces new charges, up to 45 years in prison - Los Angeles Times
+- 2 universities decline White House offer for expanded access to federal funding in exchange for demands. Here’s what we know - CNN
+- Hundreds airlifted from storm-battered Western Alaska villages in historic mass evacuation - Anchorage Daily News
+- Senate Democrats, holding out for health care, ready to reject government funding bill for 10th time - AP News
+- CDC scientist let go during shutdown says "it's truly like an episode of 'Squid Games'" - CBS News
+- Video shows Hamas fighters executing Palestinians accused of collaborating with Israel - CBS News
+- Government publishes key witness statements in collapsed China spy case - BBC
+- Doctors Without Borders permanently closes its emergency center in Haiti’s capital - AP News
+- Coalition talks could bring Takaichi closer to being PM - The Japan Times
 - OpenAI’s Plans to Roll Out AI ‘Erotica’ for ChatGPT Slammed by Anti-Porn Group; CEO Sam Altman Says ‘We Are Not the Elected Moral Police of the World’ - Variety
-- Bank of America and BNY sued over financial ties to Jeffrey Epstein - Financial Times
-- TSMC expects AI megatrend to strengthen, as profit blows past forecasts - Reuters
-- Nestle gains 6% after consumer goods giant announces plans to slash 16,000 jobs - CNBC
+- Asia stocks extend gains on Fed cut hopes; Australia hits record on weak jobs data - Investing.com
+- AI Economics Are Brutal. Demand Is the Variable to Watch. - The Wall Street Journal
+- Trump tariffs: India's exports to US plunge as 50% tariffs weigh - BBC
 - Apple Launches iPad Pro, Vision Pro and MacBook Pro With M5 Chip - Bloomberg.com
-- OnePlus 15 lands first phone display with native 165 Hz refresh rate at 1.5K resolution - Notebookcheck
+- Spotify spotted working on a 'SongDNA' feature that showcases the people behind your favorite music - TechCrunch
