@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-17 01:38_
+_Updated: 2025-10-17 04:11_
 
 ## Top Stories
 
-- DN Direkt - Emma Wiesner vill inte ta över som C-ledare - Dagens Nyheter
-- Vita huset: Trump ska möta Putin - SVT Nyheter
+- Insändare. Noterat av DN:s läsare den 16 oktober - Dagens Nyheter
+- Trump: Möter Putin i Budapest för Ukrainasamtal - GP
+- Hamas upprepar: Vill överlämna alla gisslan – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Trumps nya fokus: Fred mellan Ryssland och Ukraina - GP
-- Kvinna död i kollision mellan bil och tåg i Varbergs kommun - HD
-- TV4-profil åtalas för sexköp - UNT
-- Fredsplan äventyras av att döda ur gisslan är kvar i Gaza - Dagens Nyheter
-- Dadgostar svarar på kritiken efter debatten - GP
+- DN Direkt - Uppgifter: Justitiedepartementet i USA kommer begära att John Bolton åtalas - Dagens Nyheter
+- USA har sänkt ännu en båt utanför Venezuela – sjätte attacken - SVT Nyheter
 - Högtidlig minnesstund för 7 oktober – uppskattade tal av Alice Teodorescu Måwe m.fl. - Med Israel för fred
-- Kritik mot friskolans middag hos statsministern: ”Sjukt och gränslöst” - Dagens Nyheter
+- Kvinna död i kollision mellan bil och tåg - GP
+- Dadgostar svarar på kritiken efter debatten - GP
 - Gratis mat på torget i Kumla - Nerikes Allehanda
-- WHO: Infektionssjukdomar sprids i Gaza - GP
-- Trump hotar med att ”döda” Hamas - Västerbottens-Kuriren
-- Donald Trumps tidigare säkerhetsrådgivare åtalas - Dagens Nyheter
+- Stor polisinsats i Bagarmossen i södra Stockholm - SVT Nyheter
 - Kvinna i Stockholm gripen för misshandel av barn - Expressen
+- Misstänkt mordförsök i Olofström – en man till sjukhus - SVT Nyheter
+- Brottsutredning har inletts mot St Johannes församling - Aftonbladet
 - Sverige förlorar mot Singapore – i pensioner - Realtid
-- ”Mer omfattande lättnader av amorteringskrav ger 2 000 fler bostäder” - Byggföretagen
 - Regeringen föreslår sänkt skatt på arbetsinkomster, pension och sjuk- och aktivitetsersättning - Regeringen.se
-- Möbelhandeln växer i takt med bostadsmarknaden - Svensk Handel
+- ”Mer omfattande lättnader av amorteringskrav ger 2 000 fler bostäder” - Byggföretagen
+- Nordiska börserna stängde på plus – Nordea rapportlyfte - Dagens industri
+- Apples nya M5-chipp är byggt för AI - Computer Sweden
 - "Battlefield 6" slår miljonrekord - Aftonbladet
-- Oväntad upptäckt på Saturnus måne utmanar synen på kemin innan livets uppkomst - Chalmers tekniska högskola
 
 ## World News
 
 - Är en global etik en utopi? - Dagens Arena
 - Sverige klättrar på global pensionsrankning - Finanswatch.se
-- Northern Trust Appointed as Global Custodian by International Finance Facility for Education (IFFEd) - Placera.se
 - Vantage tar hem tre utmärkelser vid Global Forex Awards - Retail 2025 - PR Newswire
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- Sverige klättrar kraftigt i global gruvranking – nu topp sex i världen - INDUSTRInyheter.se
-- Ny global industriell hubb i Kina milstolpe för Scania - Cision News
 - PepsiCo Launches Inaugural Global Farmer Awards, Honoring the Backbone of its Agricultural Supply Chain - Placera.se
+- Sverige klättrar kraftigt i global gruvranking – nu topp sex i världen - INDUSTRInyheter.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- Ny global industriell hubb i Kina milstolpe för Scania - Cision News
+- Global Atomic Announces Upsize of Bought Deal Public Offering to Gross Proceeds of C$35 Million - Placera.se
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
@@ -77,7 +77,7 @@ _Updated: 2025-10-17 01:38_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Beginning in Q3 2025, Bakkt will be reporting the Loyalty business as discontinued operations. - Placera.se
+- Bakkt Completes the Sale of Loyalty Business, Accelerating Transformation into a Pure-Play Digital Asset Infrastructure Platform - Placera.se
 - ALT5 Sigma and World Liberty Financial to Present at A.G.P.’s Digital Assets & Technology Showcase - Placera.se
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
@@ -99,23 +99,23 @@ _Updated: 2025-10-17 01:38_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Vi presenterar HealthBench - OpenAI
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- E-hälsa inom EU - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- »Allmän återhållsamhet« räcker inte - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-17 01:38_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mjau lanserar Partypuffar med smak av kattmynta – krispiga snacks för lek och belöning - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
+- Unga lantbrukare får ingen chans - Land Lantbruk
