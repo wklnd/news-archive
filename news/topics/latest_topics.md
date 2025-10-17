@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-17 22:40_
+_Updated: 2025-10-17 23:37_
 
 ## Top Stories
 
-- Inga löften om Tomahawks till Zelenskyj i Vita Huset - Dagens Nyheter
-- När hatet tystar politiken står demokratin på spel - Altinget.se
-- Insändare: KD-ledaren vill lägga pengar på klädpoliser - VF
+- Direkt Kriget i Ukraina - Zelenskyj möter Trump i Vita huset - Dagens Nyheter
+- Daniel Bäckström stänger inte dörren till att bli C-ledare - SVT Nyheter
 - Två tonåringar medvetslösa till sjukhus efter fest - SVT Nyheter
-- Polisinsats i Sandviken – utreder grovt brott - GP
+- Så försvarar TV4 den misstänkte sexköps­reporten: ”Det var som trollfabrikerna” - ETC.se
+- Polisen: Har Mexiko att tacka för gripandet - GP
 - Adam Cwejman: Judiskt tema räckte för att stoppa filmfestival i Malmö - GP
 - Pourmokhtari gravid – missar FN:s klimattoppmöte - SVT Nyheter
 - Miljonvärderad Picassotavla försvunnen – var på väg till utställning - Sveriges Radio
 - Dags för högskoleprov – lågt snitt i Bollnäs och Edsbyn - Ljusnan
 - DN Direkt - Alice Teodorescu på väg in i KD-toppen - Dagens Nyheter
-- Politico: Trumps fredsplan splittrar EU om sanktioner mot Israel – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Förhandlingar om klimatavtal har kollapsat - Dagens Nyheter
+- Trumps CIA-besked kan innebära hemliga operationer i Venezuela - Dagens Nyheter
+- Israel ska fysiskt markera den ”gula linjen” – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Förhandlingar om klimatavtal har kollapsat - Västerbottens-Kuriren
 - Vapenvila slut – ”nya attacker mot Afghanistan” - GP
-- Många skadade under kaosartad begravning i Kenya - UNT
-- Verisure utsatt för hackerattack – aktien dyker - EFN
 - Volvo bland förlorarna på fredagens Stockholmsbörs, OMXS30-index sjönk 1,5 procent (Finwire News) - Aktiellt
+- Verisure utsatt för hackerattack – aktien dyker - EFN
 - Buffetts sista satsning: Hus, öl och energi - Dagens PS
 - Lyckades låna miljarder av Wall Street – skandalen växer - Realtid
 - Oväntad kemi på Saturnus kyliga måne Titan - Forskning.se
@@ -30,23 +30,23 @@ _Updated: 2025-10-17 22:40_
 - Schemat för Global Series-helgen i Sverige - NHL.com
 - Är en global etik en utopi? - Dagens Arena
 - Här är programmet för NHL Global Series 2025 i Stockholm - hockeysverige.se
-- Northern Trust Appointed as Global Custodian by International Finance Facility for Education (IFFEd) - Placera.se
 - Vantage tar hem tre utmärkelser vid Global Forex Awards - Retail 2025 - PR Newswire
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- UNDP lanserar läromedel om global utveckling - UNDP
+- Techarenan News goes English (Partly at least) - Techarenan News
+- Sverige klättrar kraftigt i global gruvranking – nu topp sex i världen - INDUSTRInyheter.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Nytt masterprogram i AI, robotik och global hälsa - Örebronyheter
+- Ny global industriell hubb i Kina milstolpe för Scania - Cision News
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 
 ## Technology
 
@@ -77,14 +77,15 @@ _Updated: 2025-10-17 22:40_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- CARIBBEAN UTILITIES COMPANY, LTD. CELEBRATES 35TH ANNIVERSARY LISTING ON TORONTO STOCK EXCHANGE - Placera.se
+- Bakkt Completes the Sale of Loyalty Business, Accelerating Transformation into a Pure-Play Digital Asset Infrastructure Platform - Placera.se
+- ALT5 Sigma and World Liberty Financial to Present at A.G.P.’s Digital Assets & Technology Showcase - Placera.se
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - JPMorgan Chase affärsmodell - Business Model Analyst
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- CARIBBEAN UTILITIES COMPANY, LTD. CELEBRATES 35TH ANNIVERSARY LISTING ON TORONTO STOCK EXCHANGE - Placera.se
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2025-10-17 22:40_
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
 
@@ -104,9 +104,9 @@ _Updated: 2025-10-17 22:40_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Johan von Schreeb - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
@@ -131,34 +131,34 @@ _Updated: 2025-10-17 22:40_
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Jordbruket har en nyckelroll för att rädda klimatet - landlantbruk.se
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
-- Arbetande förman | Jobb | ATL - landlantbruk.se
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Här är världens största jordbruk - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - landlantbruk.se
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - landlantbruk.se
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Här är tio megagårdar att drömma om - landlantbruk.se
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Unga lantbrukare får ingen chans - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
