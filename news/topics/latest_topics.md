@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-17 10:47_
+_Updated: 2025-10-17 11:41_
 
 ## Top Stories
 
-- Kristersson om gängtoppen: ”Nu har vi honom” - GP
-- 24-åring häktad för mordet på Momika - SvD
-- Influencer i Linköping åtalas – misstänks för flera grova ekobrott - SVT Nyheter
-- Misstänkt mordförsök i Växjö – en anhållen - Aftonbladet
-- Kulturdebatt. Sverige och EU måste agera för att Gui Minhai ska bli fri - Dagens Nyheter
+- Klimatministern gravid – missar toppmöte - ETC.se
+- ”Från yachtfester i Cancun till svenskt häkte” - SVT Nyheter
+- En person häktad i sin utevaro misstänkt för mord i Södertälje - polisen.se
 - Kvinna i 60-årsåldern allvarligt skadad efter brand - SVT Nyheter
-- Jale Poljarevius – polischefen som försöker sluta vara snut - Dagens Nyheter
-- Man livshotande skadad – klämdes på asfaltsverk i Umeå - Arbetet
-- Hörselskadorna ökar i Sverige - Aftonbladet
+- Linköpingsinfluencern åtalas för flera grova ekobrott - Corren
+- För första gången deltar Sverige i en kärnvapenövning - Dagens Nyheter
+- Manifestation för Gui Minhai – tio år i fångenskap - SVT Nyheter
+- Sandra ströps av sin dejt – ”strypsex är en lek med döden” - Dagens Nyheter
 - Hat, hot och självcensur - expo.se
+- Man livshotande skadad – klämdes på asfaltsverk i Umeå - Arbetet
 - Trump tvekar att ge Ukraina Tomahawks efter samtal med Putin - Dagens Nyheter
-- Donald Trumps tidigare säkerhetsrådgivare åtalas - Västerbottens-Kuriren
-- Klimatministern gravid – missar toppmöte - Aftonbladet
-- Hamas upprepar: Vill överlämna alla kroppar – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Volvos vd ser ingen snar vändning på pressade marknaden - DI
-- Nytt rekord igen för guld i skvatt galna rallyt - Dagens PS
+- Trumps tidigare säkerhetsrådgivare John Bolton åtalas - SVT Nyheter
+- Hamas: Ämnar överlämna alla gisslan - Västerbottens-Kuriren
+- DN Direkt - Polisen om insatsen i Bagarmossen: Förberedelse till grovt brott - Dagens Nyheter
+- Brant fall på börsen – Volvo och EQT rasar - DI
+- Siemiatkowski grillades – men ägarna gav tummen upp - DI
 - Noteringsaktuella Mendole: 'Vi hjälper entreprenörer att bygga sina bolag större och starkare' - vd - Placera.se
 - Ny bankoro skakar världens börser - SvD
 - Oväntad upptäckt på Saturnus måne utmanar synen på kemin innan livets uppkomst - Chalmers tekniska högskola
@@ -28,23 +28,23 @@ _Updated: 2025-10-17 10:47_
 ## World News
 
 - Är en global etik en utopi? - Dagens Arena
-- Sverige klättrar på global pensionsrankning - Finanswatch.se
 - Northern Trust Appointed as Global Custodian by International Finance Facility for Education (IFFEd) - Placera.se
+- Sverige klättrar på global pensionsrankning - Finanswatch.se
 - Vantage tar hem tre utmärkelser vid Global Forex Awards - Retail 2025 - PR Newswire
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Ny global industriell hubb i Kina milstolpe för Scania - Cision News
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - CHiQ Strengthens Global Sports Engagement with FIS Ski Jumping World Cup Partnership - Placera.se
 
@@ -104,18 +104,18 @@ _Updated: 2025-10-17 10:47_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - SIHI Sweden Konferens 2024 - Uppsala universitet
+- E-hälsa inom EU - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -159,6 +159,6 @@ _Updated: 2025-10-17 10:47_
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Unga lantbrukare får ingen chans - Land Lantbruk
 - Maskinförare | Jobb | ATL - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Unga lantbrukare får ingen chans - Land Lantbruk
