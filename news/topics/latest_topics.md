@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-17 07:40_
+_Updated: 2025-10-17 08:48_
 
 ## Top Stories
 
-- Gängtoppen ”Greken” har landat i Sverige – greps i Mexiko - Omni
-- USA har sänkt ännu en båt utanför Venezuela – sjätte attacken - SVT Nyheter
-- Ministern om Minhai: Hinder i relationen med Kina - GP
+- ”Från yachtfester i Cancun till svenskt häkte” - SVT Nyheter
+- Utrikesminister Maria Malmer Stenergard besökte Kina - Regeringen.se
+- Misstänkt mordförsök i Växjö – en anhållen - Aftonbladet
 - Så ska Moderaterna vinna tillbaka integrationsfrågan: Turné hos invandrade entreprenörer - GP
-- En död och många skadade i stora protester i Peru - Omni
-- Misstänkt mordförsök i Växjö – allvarligt skadad - Aftonbladet
-- Hat, hot och självcensur - expo.se
-- Förrådsinbrott på Norr - Ekuriren
+- Ann-Sofies Johan drog sitt sista andetag på deras årsdag - GP
+- Man misshandlade och jagade kvinna - Hem - Värnamo
+- Jale Poljarevius – polischefen som försöker sluta vara snut - Dagens Nyheter
 - 17 oktober 07.27, Sammanfattning natt, Västernorrlands län - polisen.se
-- Hörselskadorna ökar i Sverige - UNT
-- Tomahawk ökar pressen på Putin – så långt når de - Västerbottens-Kuriren
-- Donald Trumps tidigare säkerhetsrådgivare åtalas - GP
-- Vita huset: Trump ska möta Putin - SVT Nyheter
+- Hat, hot och självcensur - expo.se
+- Efter arbetsplatsolycka – man i Umeå vårdas för livshotande skador - SVT Nyheter
+- Trump tvekar att ge Ukraina Tomahawks efter samtal med Putin - Dagens Nyheter
 - Hamas upprepar: Vill överlämna alla kroppar – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Trumps CIA-besked kan innebära hemliga operationer i Venezuela - Dagens Nyheter
+- Donald Trumps tidigare säkerhetsrådgivare åtalas - Västerbottens-Kuriren
 - Volvokoncernen visar stabil lönsamhet trots svagare marknad i Amerika - Entreprenad
-- Teknikjätten visar upp mobilen som har ögon i nacken - Dagens PS
-- Sverige förlorar mot Singapore – i pensioner - Realtid
-- Merz vill ha gemensam europeisk börs - Aftonbladet
+- Klarna rasade inför Flats extrastämma - DI
+- Nytt rekord igen för guld i skvatt galna rallyt - Dagens PS
+- Honor visar upp mobil med utfällbar robotkamera - m3.se
 - Apples nya M5-chipp är byggt för AI - Computer Sweden
 - Oväntad upptäckt på Saturnus måne utmanar synen på kemin innan livets uppkomst - Chalmers tekniska högskola
 
@@ -36,13 +36,13 @@ _Updated: 2025-10-17 07:40_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- Somaliland: Election in a "non-existing" country - Global Bar Magazine
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
-- Armand Duplantis soars to third world title and 14th world record - BBC
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Armand Duplantis soars to third world title and 14th world record - BBC
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - PepsiCo Launches Inaugural Global Farmer Awards, Honoring the Backbone of its Agricultural Supply Chain - Placera.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Ny global industriell hubb i Kina milstolpe för Scania - Cision News
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
@@ -51,25 +51,25 @@ _Updated: 2025-10-17 07:40_
 ## Technology
 
 - ZenaTech's ZenaDrone Subsidiary to Conduct Meetings with Members of Congress Highlighting its Drone Innovation Followed by Showcasing Drone Solutions at the AUVSI Defense Forum - Placera.se
+- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Oron: Då tar datan på internet slut - SvD
-- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
-- Bästa AI-aktierna att köpa nu - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
+- MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
-- Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
 
@@ -99,23 +99,23 @@ _Updated: 2025-10-17 07:40_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
