@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-17 08:52_
+_Updated: 2025-10-17 09:48_
 
 - John Bolton Indicted Over Handling of Classified Information - The New York Times
-- Mamdani debates Cuomo in NYC mayoral race - BBC
-- Survivors reported after latest US attack on alleged drug boat in Caribbean - The Guardian
+- Mamdani, Cuomo and Sliwa spar in New York mayoral debate - The Guardian
+- Venezuelan fishermen in fear after US strikes on boats in the Caribbean - BBC
 - Zelensky hopes for Trump decision on Tomahawks tomorrow, his top aide tells Axios - Axios
 - USC rejects Trump education compact aimed at shifting the university to the right - Los Angeles Times
 - ‘No Kings’ Protest Organizers Aren’t Afraid of Trump’s Court Jesters - Rolling Stone
-- Anchorage prepares for up to 2,000 evacuees from Western Alaska - Alaska Public Media
-- Maine Senate candidate promoted violent political action in since-deleted online posts - Politico
-- Zohran Mamdani Explains His Rise - The New York Times
-- US Senate vote to end government shutdown fails for 10th time - The Guardian
-- India already cutting Russian oil imports by 50% after US talks, White House official says - Reuters
-- Maccabi Tel Aviv fans not allowed to attend Aston Villa game in Europa League - The New York Times
-- Russian barrage causes blackouts in Ukraine as Zelenskyy seeks Trump’s help - AP News
+- Anchorage preparing to house more than 1,000 Western Alaska storm evacuees across 4 shelters - Anchorage Daily News
+- Virginia attorney general debate centers on Jay Jones' violent texts - NBC News
+- US Senate hopeful Graham Platner explains old comments on Reddit - newscentermaine.com
+- New York’s Richest Ask ‘How Dare He?’ as Mamdani Closes In on City Hall - The Wall Street Journal
+- US says India halves Russian oil imports, sources say no cuts seen - Reuters
+- Israel, UK leaders slam decision to bar Maccabi Tel Aviv fans from Aston Villa match - The Times of Israel
+- Israel, Hamas trade blame over truce violations amid delay in return of dead hostages - Reuters
 - Army colonel plans to lead Madagascar after coup ousts civilian president - Reuters
 - Stock futures are slightly lower after regional bank worries fuel market sell-off: Live updates - CNBC
 - China has found Trump's pain point - rare earths - BBC
 - Automaker group warns Nexperia chip supply issue could quickly disrupt US production - Reuters
-- Mortgage Rates Quickly Approaching Long-Term Lows - Mortgage News Daily
+- US Nears Tariff Relief for Auto Industry After Lobbying Push - Bloomberg.com
 - AI-powered features begin creeping deeper into the bedrock of Windows 11 - Ars Technica
-- Inside the web infrastructure revolt over Google’s AI Overviews - Ars Technica
+- Pinterest adds controls to let you limit the amount of ‘AI slop’ in your feed - TechCrunch
