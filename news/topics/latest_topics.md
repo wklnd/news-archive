@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-17 20:46_
+_Updated: 2025-10-17 21:38_
 
 ## Top Stories
 
+- Direkt Kriget i Ukraina - Zelenskyj: Putin är inte redo för fred - Dagens Nyheter
 - Polisen: Har Mexiko att tacka för gripandet - GP
-- Michael Winiarski: Trump möter Zelenskyj, men det som gäller är ”Putin först” - Dagens Nyheter
 - När hatet tystar politiken står demokratin på spel - Altinget.se
-- Språkrören sitter tryggt – MP-kongressen valde om Helldén och Lind - Altinget.se
+- Stor polisinsats i Sandviken – misstänkt grovt brott - SVT Nyheter
+- Flera flickor till sjukhus – drack langad sprit - Omni
 - Adam Cwejman: Judiskt tema räckte för att stoppa filmfestival i Malmö - GP
-- Kollegorna sörjer Jacob Ericksson: ”Han har funnits där jämt” - Aftonbladet
 - DN Direkt - Alice Teodorescu på väg in i KD-toppen - Dagens Nyheter
-- Cancelkulturen har aldrig varit tråkigare än i ”After the Hunt” - Sveriges Radio
-- Hot mot politiker vanligare från högerextrema grupper - Dagens Nyheter
+- Miljonvärderad Picassotavla försvunnen – var på väg till utställning - Sveriges Radio
 - Dags för högskoleprov – lågt snitt i Bollnäs och Edsbyn - Ljusnan
-- Förhandlingar om klimatavtal har kollapsat - Dagens Nyheter
-- Vapenvila slut – ”nya attacker mot Afghanistan” - GP
+- Hot mot politiker vanligare från högerextrema grupper - Dagens Nyheter
+- Politico: Trumps fredsplan splittrar EU om sanktioner mot Israel – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Förhandlingar om klimatavtal har kollapsat - GP
 - Många skadade under kaosartad begravning i Kenya - UNT
-- Israel ska fysiskt markera den ”gula linjen” – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Verisure utsatt för hackerattack – aktien faller - DI
+- Vapenvila slut – ”nya attacker mot Afghanistan” - GP
+- Verisure utsatt för hackerattack – aktien dyker - EFN
 - Volvo bland förlorarna på fredagens Stockholmsbörs, OMXS30-index sjönk 1,5 procent (Finwire News) - Aktiellt
+- Fortsatt slakt – bitcoin nere på en miljon kronor - DI
 - Hopp om fred pressar priset på olja - Dagens PS
-- Pricerunner stämmer Google på 77 miljarder - SvD
 - Oväntad kemi på Saturnus kyliga måne Titan - Forskning.se
 - Studentutlysning – Cirkustomten re:imagined - Sveriges Arkitekter
 
@@ -36,17 +36,17 @@ _Updated: 2025-10-17 20:46_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Sverige klättrar kraftigt i global gruvranking – nu topp sex i världen - INDUSTRInyheter.se
 - Ny global industriell hubb i Kina milstolpe för Scania - Cision News
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 
 ## Technology
 
@@ -77,20 +77,22 @@ _Updated: 2025-10-17 20:46_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Beginning in Q3 2025, Bakkt will be reporting the Loyalty business as discontinued operations. - Placera.se
 - ALT5 Sigma and World Liberty Financial to Present at A.G.P.’s Digital Assets & Technology Showcase - Placera.se
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
-- CARIBBEAN UTILITIES COMPANY, LTD. CELEBRATES 35TH ANNIVERSARY LISTING ON TORONTO STOCK EXCHANGE - Placera.se
+- Faciliteten för återhämtning och resiliens - commission.europa.eu
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - JPMorgan Chase affärsmodell - Business Model Analyst
-- Student and entry-level programs - EY
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- CARIBBEAN UTILITIES COMPANY, LTD. CELEBRATES 35TH ANNIVERSARY LISTING ON TORONTO STOCK EXCHANGE - Placera.se
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -103,13 +105,13 @@ _Updated: 2025-10-17 20:46_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
-- E-hälsa inom EU - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Johan von Schreeb - Karolinska Institutet
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
@@ -119,24 +121,24 @@ _Updated: 2025-10-17 20:46_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
