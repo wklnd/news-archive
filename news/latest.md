@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-17 13:48_
+_Updated: 2025-10-17 15:15_
 
-- Venezuelan fishermen in fear after US strikes on boats in the Caribbean - BBC
+- John Bolton at court to surrender to authorities after being indicted – US politics live - The Guardian
 - 'No Kings' organizers project a massive turnout for this weekend's protests - NPR
-- Read the full indictment of John Bolton, ex-Trump national security adviser turned critic - PBS
 - Zelensky to make case for missiles at White House, after Trump and Putin agree meeting - BBC
-- Trump says he and Putin will meet in Budapest to discuss end to Russia-Ukraine war - CBS News
-- Five takeaways from the New York City mayoral debate - Politico
+- A war on drugs or a war on terror? Trump’s military pressure on Venezuela blurs the lines - AP News
+- Sparks fly at first NYC mayoral debate with Trump weighing heavily in the air - CBS News
+- Senators will force a vote to prevent war on Venezuela without approval from Congress - NPR
+- San Francisco Democrats turn on Benioff after Trump troop threat - Politico
 - Anchorage preparing to house more than 1,000 Western Alaska storm evacuees across 4 shelters - Anchorage Daily News
-- Virginia attorney general debate centers on Jay Jones' violent texts - NBC News
+- Overdose in America: analysis reveals deaths rising in some regions even as US sees national decline - The Guardian
 - New York’s Richest Ask ‘How Dare He?’ as Mamdani Closes In on City Hall - The Wall Street Journal
-- USC rejects Trump proposal for funding in exchange for policy changes - LAist
-- UK govt to meet over Maccabi fan ban at Villa Park - ESPN
-- Tomiichi Murayama, Japanese Leader Who Gave War Apology, Dies at 101 - The New York Times
+- UK authorities seek to reverse decision to ban Maccabi Tel Aviv fans from Villa game - CNN
+- An army colonel who led a lightning-fast coup takes over as Madagascar’s president - AP News
+- Xi Removes China’s No. 2 General in Escalating Purge of Military Leadership - The Wall Street Journal
 - Israel’s last living hostages describe trauma of Hamas captivity - The Washington Post
-- Japan's fractured politics could ensnarl Takaichi's economic plans - Reuters
-- Global bank stocks slide as US credit risks spark reality check - Reuters
+- Dow futures rebound from steep overnight losses, turn higher as traders shake off bank credit concerns: Live updates - CNBC
 - China has found Trump's pain point - rare earths - BBC
-- Yes, there is credit market apprehension right now. But here’s why stocks will still rally into year-end, says this bull. - MarketWatch
-- Carmakers Push to Secure Chips as China Trade Spat Escalates - Bloomberg.com
+- SNAPSHOT S&P 500 futures pare declines after Trump's comments on China - Reuters
+- Meta previews new parental controls for its AI experiences - TechCrunch
 - AI-powered features begin creeping deeper into the bedrock of Windows 11 - Ars Technica
-- M5 MacBook Air Coming Spring 2026 With M5 Mac Studio and Mac Mini in Development - MacRumors
+- MacBook Pro rumor points to OLED, touchscreen upgrades next year - The Verge
