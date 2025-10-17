@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-17 05:48_
+_Updated: 2025-10-17 06:43_
 
 ## Top Stories
 
-- Insändare. Noterat av DN:s läsare den 16 oktober - Dagens Nyheter
-- USA har sänkt ännu en båt utanför Venezuela – sjätte attacken - SVT Nyheter
-- Hamas: Ämnar återlämna alla gisslan - Västerbottens-Kuriren
-- Trumps nya fokus: Fred mellan Ryssland och Ukraina - GP
-- DN Direkt - Uppgifter: Justitiedepartementet i USA kommer begära att John Bolton åtalas - Dagens Nyheter
-- Här får föräldrarna gymma och handla när barnen är på förskolan - GP
-- Vi möter människor med lön som ändå behöver vår hjälp - UNT
+- Så ska Moderaterna vinna tillbaka integrationsfrågan: Turné hos invandrade entreprenörer - GP
+- Fånge i tio år: Nya krav på Gui Minhais frigivning - SvD
+- Domare skjuten i Ecuador - GP
+- Trump till Hamas: Sluta – eller dö – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Direkt Kriget i Ukraina - Vita huset: Trump talar med Putin före Zelenskyjmöte - Dagens Nyheter
+- Insändare: Boende i Värmland: "Tekniska verken – sluta förstöra våra skogar" - Corren
+- Hat, hot och självcensur - expo.se
+- Allt fler nekas försörjningsstöd – Tobias blev av med bostaden - Dagens Arena
 - Gratis mat på torget i Kumla - Nerikes Allehanda
-- DN Direkt - Provsvar pekar ut tryffeln som misstänkt orsak till listeriautbrottet - Dagens Nyheter
 - Bil och tåg i kollision – en person till sjukhus - Expressen
-- Trump väntas träffa Putin i Budapest - Hufvudstadsbladet
+- Tomahawk ökar pressen på Putin – så långt når de - GP
+- Trumps CIA-besked kan innebära hemliga operationer i Venezuela - Dagens Nyheter
+- Donald Trumps tidigare säkerhetsrådgivare åtalas - Dagens Nyheter
 - Misstänkt mordförsök i Olofström – en man till sjukhus - SVT Nyheter
-- Gitarristen Ace Frehley är död - Expressen
-- Brottsutredning har inletts mot St Johannes församling - Aftonbladet
 - Sverige förlorar mot Singapore – i pensioner - Realtid
 - Merz vill ha gemensam europeisk börs - Aftonbladet
 - Regeringen föreslår sänkt skatt på arbetsinkomster, pension och sjuk- och aktivitetsersättning - Regeringen.se
-- ”Mer omfattande lättnader av amorteringskrav ger 2 000 fler bostäder” - Byggföretagen
+- SEB: CFO Survey: Avvaktande med viss optimism i sikte (Cision) - Aktiellt
 - Apples nya M5-chipp är byggt för AI - Computer Sweden
 - "Battlefield 6" slår miljonrekord - Aftonbladet
 
@@ -29,24 +29,24 @@ _Updated: 2025-10-17 05:48_
 
 - Är en global etik en utopi? - Dagens Arena
 - Sverige klättrar på global pensionsrankning - Finanswatch.se
-- Northern Trust Appointed as Global Custodian by International Finance Facility for Education (IFFEd) - Placera.se
 - Vantage tar hem tre utmärkelser vid Global Forex Awards - Retail 2025 - PR Newswire
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Trumps beställning: Visa att global uppvärmning är bra - Omni
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- Techarenan News goes English (Partly at least) - Techarenan News
+- PepsiCo Launches Inaugural Global Farmer Awards, Honoring the Backbone of its Agricultural Supply Chain - Placera.se
+- Sverige klättrar kraftigt i global gruvranking – nu topp sex i världen - INDUSTRInyheter.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Ny global industriell hubb i Kina milstolpe för Scania - Cision News
-- PepsiCo Launches Inaugural Global Farmer Awards, Honoring the Backbone of its Agricultural Supply Chain - Placera.se
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- Global Atomic Announces Upsize of Bought Deal Public Offering to Gross Proceeds of C$35 Million - Placera.se
 
 ## Technology
 
@@ -121,24 +121,24 @@ _Updated: 2025-10-17 05:48_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
