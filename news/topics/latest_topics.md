@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-17 05:22_
+_Updated: 2025-10-17 05:48_
 
 ## Top Stories
 
 - Insändare. Noterat av DN:s läsare den 16 oktober - Dagens Nyheter
-- Vita huset: Trump ska möta Putin - SVT Nyheter
+- USA har sänkt ännu en båt utanför Venezuela – sjätte attacken - SVT Nyheter
 - Hamas: Ämnar återlämna alla gisslan - Västerbottens-Kuriren
-- Donald Trumps tidigare säkerhetsrådgivare åtalas - GP
 - Trumps nya fokus: Fred mellan Ryssland och Ukraina - GP
-- Trumps CIA-besked kan innebära hemliga operationer i Venezuela - Dagens Nyheter
-- Bil och tåg i kollision – en person till sjukhus - Expressen
+- DN Direkt - Uppgifter: Justitiedepartementet i USA kommer begära att John Bolton åtalas - Dagens Nyheter
+- Här får föräldrarna gymma och handla när barnen är på förskolan - GP
+- Vi möter människor med lön som ändå behöver vår hjälp - UNT
 - Gratis mat på torget i Kumla - Nerikes Allehanda
-- Allt fler nekas försörjningsstöd – Tobias blev av med bostaden - Dagens Arena
 - DN Direkt - Provsvar pekar ut tryffeln som misstänkt orsak till listeriautbrottet - Dagens Nyheter
+- Bil och tåg i kollision – en person till sjukhus - Expressen
+- Trump väntas träffa Putin i Budapest - Hufvudstadsbladet
 - Misstänkt mordförsök i Olofström – en man till sjukhus - SVT Nyheter
-- Misstänkt mordförsök – man knivskadad - Expressen
+- Gitarristen Ace Frehley är död - Expressen
 - Brottsutredning har inletts mot St Johannes församling - Aftonbladet
-- Trump hotar med att ”döda” Hamas - Corren
 - Sverige förlorar mot Singapore – i pensioner - Realtid
 - Merz vill ha gemensam europeisk börs - Aftonbladet
 - Regeringen föreslår sänkt skatt på arbetsinkomster, pension och sjuk- och aktivitetsersättning - Regeringen.se
@@ -29,23 +29,23 @@ _Updated: 2025-10-17 05:22_
 
 - Är en global etik en utopi? - Dagens Arena
 - Sverige klättrar på global pensionsrankning - Finanswatch.se
+- Northern Trust Appointed as Global Custodian by International Finance Facility for Education (IFFEd) - Placera.se
 - Vantage tar hem tre utmärkelser vid Global Forex Awards - Retail 2025 - PR Newswire
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Trumps beställning: Visa att global uppvärmning är bra - Omni
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- PepsiCo Launches Inaugural Global Farmer Awards, Honoring the Backbone of its Agricultural Supply Chain - Placera.se
-- Sverige klättrar kraftigt i global gruvranking – nu topp sex i världen - INDUSTRInyheter.se
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Techarenan News goes English (Partly at least) - Techarenan News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Ny global industriell hubb i Kina milstolpe för Scania - Cision News
-- Global Atomic Announces Upsize of Bought Deal Public Offering to Gross Proceeds of C$35 Million - Placera.se
+- PepsiCo Launches Inaugural Global Farmer Awards, Honoring the Backbone of its Agricultural Supply Chain - Placera.se
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
@@ -77,88 +77,88 @@ _Updated: 2025-10-17 05:22_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Beginning in Q3 2025, Bakkt will be reporting the Loyalty business as discontinued operations. - Placera.se
 - ALT5 Sigma and World Liberty Financial to Present at A.G.P.’s Digital Assets & Technology Showcase - Placera.se
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Student and entry-level programs - EY
-- JPMorgan Chase affärsmodell - Business Model Analyst
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
-- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- E-hälsa inom EU - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Johan von Schreeb - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Tema: AI inom medicin och hälsa - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Unga lantbrukare får ingen chans - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Macron miljardsatsar på franskt jordbruk - Land Lantbruk
