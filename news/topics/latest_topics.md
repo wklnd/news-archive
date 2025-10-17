@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-17 16:43_
+_Updated: 2025-10-17 17:41_
 
 ## Top Stories
 
-- Polisen: Har Mexiko att tacka för gripandet - Västerbottens-Kuriren
-- Klädgigant föll till sin död – nu utreds sonen - Aftonbladet
+- Polisen: Har Mexiko att tacka för gripandet - GP
+- Språkrören sitter tryggt – MP-kongressen valde om Helldén och Lind - Altinget.se
+- Avtal om att minska utsläpp från sjöfarten sköts upp med ett år - Yle
+- Adam Cwejman: Judiskt tema räckte för att stoppa filmfestival i Malmö - GP
+- 70 barn har insjuknat akut i Sydsverige - Marcus Oscarsson
 - DN Direkt - Alice Teodorescu på väg in i KD-toppen - Dagens Nyheter
-- ”Hoppas vi stoppat smittspridningen nu – innan det sprider sig utanför förskolan” - Skånska Dagbladet
-- Fler förskole­timmar för barn till föräldralediga: ”Tryggare rutiner för barnen och hållbar vardag för familjerna” - Sveriges Radio
-- Trots Kievs attackskräll – ryska oljan står pall - SvD
-- Invandringen inte längre viktigast – här är frågan som toppar väljarnas lista inför valet - Dagens Nyheter
-- En person häktad i sin utevaro misstänkt för mord i Södertälje - polisen.se
 - Uppsalapolisen om sin kamp mot gängkriminella - UNT
-- Linds attack på Kristersson: Svagt ledarskap - SvD
+- Invandringen inte längre viktigast – här är frågan som toppar väljarnas lista inför valet - Dagens Nyheter
+- En person häktad i sin utevaro misstänkt för mord i Södertälje - Polisen.se
+- När hatet tystar politiken står demokratin på spel - Altinget.se
 - Michael Winiarski: Trump möter Zelenskyj, men det som gäller är ”Putin först” - Dagens Nyheter
-- Israel ska fysiskt markera den ”gula linjen” – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Kan efterlysta Putin flyga till Budapest? - Hufvudstadsbladet
-- Fyra gripna – skulle mörda rysk dissident - GP
+- Ryska jättemissen – sköt ned sitt eget plan - Expressen
+- Politico: Trumps fredsplan splittrar EU om sanktioner mot Israel – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Hackerattack mot larmföretaget Verisure – utsätts för utpressning - SVT Nyheter
-- Volvo-vd:n: Tappet ett eget beslut - GP
-- DHL testar solceller på lastbilstak – ska minska klimatpåverkan - Dagens Nyheter
+- Volvokoncernen visar stabil lönsamhet trots svagare marknad i Amerika - Metal Supply
 - Avvaktande öppning – Eli Lilly ned på Trump-uttalande om bantningspiller - DI
+- Pricerunner stämmer Google på 77 miljarder - SvD
 - Oväntad kemi på Saturnus kyliga måne Titan - Forskning.se
-- Snart ska Copilot kunna skicka mejl på egen hand - Computer Sweden
+- Studentutlysning – Cirkustomten re:imagined - Sveriges Arkitekter
 
 ## World News
 
@@ -43,8 +43,8 @@ _Updated: 2025-10-17 16:43_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Save the Date: September 26, 2024 – Release of the Global Innovation Index 2024 - World Intellectual Property Organization (WIPO)
+- Sverige klättrar kraftigt i global gruvranking – nu topp sex i världen - INDUSTRInyheter.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- New Secretary General appointed - Olof Palme International Center
 - Ny global industriell hubb i Kina milstolpe för Scania - Cision News
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
@@ -54,20 +54,20 @@ _Updated: 2025-10-17 16:43_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Oron: Då tar datan på internet slut - SvD
-- Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
-- Bästa AI-aktierna att köpa nu - Morningstar Canada
+- Small robots to deliver pharmaceuticals to the body - Life Science Sweden
 - 290 million for digitalisation of Swedish industry - Vinnova
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Why Amazon Stock Is a Worthy Artificial Intelligence (AI) Investment - Markets.com
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Avant Technologies and JV Partner, Ainnova, Complete Pivotal Meeting with U.S. FDA - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 
@@ -77,42 +77,41 @@ _Updated: 2025-10-17 16:43_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Bakkt Completes the Sale of Loyalty Business, Accelerating Transformation into a Pure-Play Digital Asset Infrastructure Platform - Placera.se
 - ALT5 Sigma and World Liberty Financial to Present at A.G.P.’s Digital Assets & Technology Showcase - Placera.se
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Student and entry-level programs - EY
-- JPMorgan Chase affärsmodell - Business Model Analyst
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - CARIBBEAN UTILITIES COMPANY, LTD. CELEBRATES 35TH ANNIVERSARY LISTING ON TORONTO STOCK EXCHANGE - Placera.se
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- JPMorgan Chase affärsmodell - Business Model Analyst
+- Student and entry-level programs - EY
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
+- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Vi presenterar HealthBench - OpenAI
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- E-hälsa inom EU - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
@@ -131,8 +130,8 @@ _Updated: 2025-10-17 16:43_
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
