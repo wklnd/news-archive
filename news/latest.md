@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-17 01:48_
+_Updated: 2025-10-17 04:13_
 
-- Ace Frehley, founding guitarist for KISS, dead at 74 - ABC News - Breaking News, Latest News and Videos
-- John Bolton is indicted for allegedly keeping and sharing classified information - Politico
-- Trump says he will meet Putin again after 'great progress' during call - BBC
-- Cuomo Looks for a Debate Night Spark in Hopes of Catching Mamdani - The New York Times
+- Former Trump Aide John Bolton Is Said to Be Indicted Over Handling of Classified Information: Live Updates - The New York Times
+- Live updates: Mamdani debates Cuomo in NYC mayoral race - BBC
+- U.S. military strikes another boat in Caribbean — and there are survivors, official says - CBS News
+- Trump says he will meet with Putin in Budapest to discuss war in Ukraine - CNN
+- USC rejects Trump education compact aimed at shifting the university to the right - Los Angeles Times
 - In Pictures: Remembering Susan Stamberg, one of NPR's Founding Mothers - NPR
-- US admiral to retire amid military strikes in Caribbean and tensions with Venezuela - The Guardian
-- Exclusive | Chamber of Commerce Sues Over Trump’s New $100,000 H-1B Visa Fee - The Wall Street Journal
-- After Racist Texts, New York G.O.P. Is Set to Disband Young Republicans - The New York Times
+- Maine Senate candidate promoted violent political action in since-deleted online posts - Politico
+- Senate Democrats, holding out for health care, reject government funding bill for 10th time - AP News
+- Federal immigration officers in Chicago area will be required to wear body cameras, judge says - PBS
 - Ron Conway skewers Marc Benioff in board resignation after 25 years: 'I now barely recognize the person I have so long admired' - Fortune
-- Indiana University fires adviser for student newspaper amid censorship dispute - NBC News
-- Maccabi Tel Aviv fans not allowed to attend Aston Villa game in Europa League - The New York Times
 - EU proposes 'flagship' defence projects to counter drones, protect eastern border - Reuters
 - French PM Lecornu survives confidence votes but breathing space will not last long - BBC
-- Hamas Says It Can’t Find Dead Hostages as Israel Pushes Back - Bloomberg.com
+- Afghanistan’s Taliban government blames Pakistan for twin drone strikes on Kabul - AP News
+- India casts doubt on Trump’s claims that it has agreed to stop buying Russian oil - The Guardian
 - Stock Market Today: Dow, Nasdaq Edge Higher; TSMC, Salesforce in Focus — Live Updates - The Wall Street Journal
-- After Stellantis dumps Canada for $13 billion move to U.S., Ontario premier urges fight back against 'real piece of work' Trump - Fortune
-- Oracle Rallies After Saying AI Cloud Gross Margin Can Be 35% - Bloomberg.com
 - US Nears Tariff Relief for Auto Industry After Lobbying Push - Bloomberg.com
-- Microsoft’s vision for AI PCs looks a lot like another crack at Cortana - Ars Technica
-- M5 MacBook Pro vs M4 MacBook Pro: What’s actually changed? - 9to5Mac
+- The Small Company in Europe Caught in the Big Trade War Between the U.S. and China - The New York Times
+- United Airlines CEO warns an extended shutdown will hurt bookings - CNBC
+- AI-powered features begin creeping deeper into the bedrock of Windows 11 - Ars Technica
+- Windows 10 extended updates program not showing up? Here’s what to do - pcworld.com
