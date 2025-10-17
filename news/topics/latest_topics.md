@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-17 12:43_
+_Updated: 2025-10-17 13:38_
 
 ## Top Stories
 
-- ”Från yachtfester i Cancún till svenskt häkte” - SVT Nyheter
+- Klädgigant föll till sin död – nu utreds sonen - Aftonbladet
 - En person häktad i sin utevaro misstänkt för mord i Södertälje - polisen.se
+- Polisen: Har Mexiko att tacka för gripandet - Västerbottens-Kuriren
+- Rättens besked: De nekas JLC-guldet - GP
+- Michael Winiarski: Trump möter Zelenskyj, men det som gäller är ”Putin först” - Dagens Nyheter
 - Vårdanställd delade filmer av dementa på Snapchat - HD
-- För första gången deltar Sverige i en kärnvapenövning - Dagens Nyheter
-- Misstänkt mordförsök i Växjö – en anhållen - Aftonbladet
-- En död i trafikolycka – blev påkörd av lastbil - GP
-- DN Direkt - Youtube-stjärna åtalas för flera grova ekobrott - Dagens Nyheter
+- Miljöpartiets kongress är lika viktig för Magdalena Andersson som för partiet - Altinget.se
+- Linds attack på Kristersson: Svagt ledarskap - GP
 - Klimatministern gravid – missar toppmöte - Aftonbladet
-- Manifestation för Gui Minhai – tio år i fångenskap - SVT Nyheter
-- Tobias Pettersson Därför är svenska partitoppens sorti en katastrofal signal - Hufvudstadsbladet
-- Trump tvekar att ge Ukraina Tomahawks efter samtal med Putin - Dagens Nyheter
+- Influencer i Linköping åtalas – misstänks för flera grova ekobrott - SVT Nyheter
 - Donald Trumps tidigare säkerhetsrådgivare åtalas - Västerbottens-Kuriren
 - DN Direkt - Ambulanser försenas av GPS-strul - Dagens Nyheter
 - Israel ska fysiskt markera den ”gula linjen” – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Orbán: Förbereder Trumps och Putins ”fredsmöte” - GP
 - Brant fall på börsen – Volvo och EQT rasar - DI
 - Kommuniké från extra bolagsstämma den 17 oktober 2025 i Flat Capital AB (publ) (MFN) - Aktiellt
-- Ny bankoro skakar världens börser - SvD
 - DNB Carnegie: Kinneviks substansrabatt överdriven - Privata Affärer
+- Deras uppdrag – städa bort AI-skräp: ”Knasigt” - SvD
+- Snart ska Copilot kunna skicka mejl på egen hand - Computer Sweden
 - Oväntad upptäckt på Saturnus måne utmanar synen på kemin innan livets uppkomst - Chalmers tekniska högskola
-- "Battlefield 6" slår miljonrekord - Aftonbladet
 
 ## World News
 
@@ -36,17 +36,17 @@ _Updated: 2025-10-17 12:43_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Armand Duplantis soars to third world title and 14th world record - BBC
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
-- Giulia Gaudenzi: ”Key lessons from global health research” - Life Science Sweden
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- New Secretary General appointed - Olof Palme International Center
+- Schemat för Global Series-helgen i Sverige - NHL.com
 - Ny global industriell hubb i Kina milstolpe för Scania - Cision News
-- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- PepsiCo Launches Inaugural Global Farmer Awards, Honoring the Backbone of its Agricultural Supply Chain - Placera.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -77,12 +77,13 @@ _Updated: 2025-10-17 12:43_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- CARIBBEAN UTILITIES COMPANY, LTD. CELEBRATES 35TH ANNIVERSARY LISTING ON TORONTO STOCK EXCHANGE - Placera.se
+- ALT5 Sigma and World Liberty Financial to Present at A.G.P.’s Digital Assets & Technology Showcase - Placera.se
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
+- CARIBBEAN UTILITIES COMPANY, LTD. CELEBRATES 35TH ANNIVERSARY LISTING ON TORONTO STOCK EXCHANGE - Placera.se
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Student and entry-level programs - EY
+- JPMorgan Chase affärsmodell - Business Model Analyst
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -91,7 +92,6 @@ _Updated: 2025-10-17 12:43_
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
@@ -121,29 +121,30 @@ _Updated: 2025-10-17 12:43_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -152,7 +153,6 @@ _Updated: 2025-10-17 12:43_
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
@@ -160,5 +160,5 @@ _Updated: 2025-10-17 12:43_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Maskinförare | Jobb | ATL - Land Lantbruk
-- Unga lantbrukare får ingen chans - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Unga lantbrukare får ingen chans - Land Lantbruk
