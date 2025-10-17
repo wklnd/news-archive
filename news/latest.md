@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-17 06:49_
+_Updated: 2025-10-17 07:48_
 
-- John Bolton, Trump's former national security adviser, indicted - Axios
+- Read the full indictment of John Bolton, ex-Trump national security adviser turned critic - PBS
 - Mamdani, Cuomo and Sliwa spar in New York mayoral debate - The Guardian
 - U.S. Military Killed Venezuelan Fisherman in Suspected Drug Boat Attack, Family Says - The New York Times
-- Trump says he will meet Putin again after 'great progress' during call - BBC
-- In Pictures: Remembering Susan Stamberg, one of NPR's Founding Mothers - NPR
 - USC rejects Trump education compact aimed at shifting the university to the right - Los Angeles Times
-- At least 15 Yukon-Kuskokwim region villages suffered ‘substantial damage’ in storm - Anchorage Daily News
+- U.S. military commander who oversaw strikes against alleged drug boats will retire - CBS News
+- More "No Kings" protests planned for Philadelphia region this weekend - Axios
+- Virginia attorney general debate centers on Jay Jones' violent texts - NBC News
 - Maine Senate candidate promoted violent political action in since-deleted online posts - Politico
+- One of Alaska’s biggest airlifts is now underway, after massive storm - The Washington Post
 - Senate Democrats, holding out for health care, reject government funding bill for 10th time - AP News
-- Zohran Mamdani Explains His Rise - The New York Times
-- One dead, dozens injured as Peru's new president faces widespread protests - Reuters
-- EU sets 2027 target for anti-drone system to defend against Russia - BBC
-- U.S. forges ahead on Gaza deal amid disputes, clashes and executions - Axios
+- Trump, buoyed by Gaza deal, plans Putin summit on Ukraine peace - The Washington Post
+- France and Britain refine plans at UN for Gaza force resolution - Reuters
 - Israel shared intel on location of hostages’ bodies with mediators, official says - The Times of Israel
-- G7 agrees to keep united front on China export controls, diversify suppliers - Reuters
-- Asian Stocks to Fall as Credit Woes Sap Sentiment: Markets Wrap - Bloomberg.com
-- US Nears Tariff Relief for Auto Industry After Lobbying Push - Yahoo Finance
-- Delta and United Are Leaving Other Airlines Behind - The New York Times
+- India casts doubt on Trump’s claims that it has agreed to stop buying Russian oil - The Guardian
+- Stock futures are slightly lower after regional bank worries fuel market sell-off: Live updates - CNBC
+- China has found Trump's pain point - rare earths - BBC
+- European carmakers fear for production in dispute over chipmaker Nexperia - Reuters
+- AI Companies Now ‘Disrupting’ SF Rental Market By Giving People Free Apartments, Rent Stipends - SFist
 - AI-powered features begin creeping deeper into the bedrock of Windows 11 - Ars Technica
-- Windows 10 extended updates program not showing up? Here’s what to do - pcworld.com
+- M5 MacBook Air Coming Spring 2026 With M5 Mac Studio and Mac Mini in Development - MacRumors
