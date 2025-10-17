@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-17 21:48_
+_Updated: 2025-10-17 22:48_
 
+- U.S. has 2 survivors in custody after strike on alleged Venezuelan cartel boat - NBC News
+- Zelensky says Trump can help end Ukraine war as leaders meet at White House - BBC
 - Former Trump official John Bolton pleads not guilty to criminal charges - CNBC
-- US Navy detaining two survivors of strike against alleged drug boat - CNN
-- Trump Meets With Zelensky on Ukraine War After Putin Phone Call: Live Updates - The New York Times
 - GOP tries to brand anti-Trump ‘No Kings’ protests as un-American - The Washington Post
-- OpenAI stops 'disrespectful' Martin Luther King Jr Sora videos - BBC
-- Senators will force a vote to prevent war on Venezuela without approval from Congress - NPR
-- Penn, USC join growing list of universities declining Trump’s federal funding deal - Politico
-- 6 takeaways from the debate in Virginia AG race rocked by a texting scandal - The Washington Post
-- The Top Zingers of the Mayoral Debate - The New York Times
-- Sen. Scott Wiener to run for congressional seat held by Rep. Nancy Pelosi, according to report - Los Angeles Times
-- Prince Andrew gives up royal titles including Duke of York after 'discussion with King' - BBC
+- Maine Senate candidate downplayed sexual assault concerns in deleted posts - The Washington Post
+- Senators Move to Force Vote to Bar Ground Strikes in Venezuela - The New York Times
+- With no takers yet, White House sets meeting with colleges still weighing an agreement with Trump - AP News
+- Benioff’s bombshell leaves San Francisco Democrats scrambling - Politico
+- Appeals court declines to lift order blocking Trump from deploying National Guard in Illinois, finding scant evidence of 'rebellion' - ABC News - Breaking News, Latest News and Videos
+- Army Corps of Engineers pausing $11 billion in projects over shutdown, Trump budget chief says - CNBC
+- Prince Andrew Surrenders Duke of York Title Amid Epstein Fallout - The New York Times
 - An army colonel who led a lightning-fast coup takes over as Madagascar’s president - AP News
-- Starmer Objects as Police Bar Israeli Team’s Fans From U.K. Soccer Game - The New York Times
+- UK seeks to reverse ban on Israel's Maccabi Tel Aviv fans from Aston Villa game - NBC News
 - Former Japanese PM Murayama, known for apology over wartime aggression, dies at 101 - NPR
-- Dow jumps 300 points as bank credit concerns and China trade tensions ease: Live updates - CNBC
-- Gold pulls back after record high on firm dollar, Trump's China remarks - Reuters
-- Stock Market Today: Stocks Higher On Trump News As Oracle Dives (Live Coverage) - Investor's Business Daily
 - Fears over US banks cause stock market jitters - BBC
-- MacBook Pro rumor points to OLED, touchscreen upgrades next year - The Verge
+- Gold pulls back after record high on firm dollar, Trump's China remarks - Reuters
+- Exclusive: Stripe-backed blockchain startup Tempo raises $500 million round led by Joshua Kushner’s Thrive Capital and Greenoaks - Fortune
+- Elon Musk’s $56B Tesla (TSLA) Pay Lawsuit Enters Final Stage in Delaware Court - TipRanks
 - Apple Said to Cut iPhone Air Production Amid Underwhelming Sales - MacRumors
+- New iPhone Fold rumor details screen sizes, possible launch delay - 9to5Mac
