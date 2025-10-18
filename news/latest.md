@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-18 23:48_
+_Updated: 2025-10-19 00:48_
 
-- Biggest US labor unions fuel No Kings protests against Trump: ‘You need a voice to have freedom’ - The Guardian
-- 2 survivors of suspected drug vessel will be sent to home countries, Trump says - NPR
-- Vance, Hegseth Camp Pendleton event snarls traffic, riles local officials - KPBS
-- Trump says he has commuted sentence of former US Rep. George Santos in federal fraud case - Newsday
-- These voters want to overturn Missouri's new gerrymandered congressional map - NPR
+- What to know about nationwide 'No Kings' rallies protesting Trump - ABC News - Breaking News, Latest News and Videos
+- US will send survivors of strike on suspected drug vessel back to Ecuador and Colombia, Trump says - AP News
+- How to get around the Interstate 5 closure today through Camp Pendleton in Southern California - Los Angeles Times
+- China tariffs 'not sustainable' — Trump - DW
+- Case Against Bolton Raises Questions Over Justice Dept.’s Use of Espionage Act - The New York Times
 - Maine Democratic Senate candidate Graham Platner apologizes for past social media posts - NBC News
 - Vermont state senator resigns over racist Young Republican chat messages - The Washington Post
+- Ex-ICE director says Trump's immigration crackdown putting agents in "terrible position" - CBS News
 - Trump’s reshoring push is tripping over itself - Politico
-- The White House has faced a flurry of rejections after inviting 9 universities to be the first signatories of its higher-ed compact - Fortune
-- US Embassy issues warning to Americans in Trinidad and Tobago as tensions with Venezuela escalate - AP News
-- Red Cross receives bodies of two hostages in Gaza, IDF says - CNN
-- One scandal too many forces the UK monarchy to sideline Prince Andrew - CNBC
+- Santos in His Own Words: Pleading for Mercy and Promising a Comeback - The New York Times
+- Israel receives two bodies that Hamas says are Gaza hostages - BBC
 - Work underway to restore power at Ukrainian nuclear plant as UN announces rare local ‘ceasefire zones’ - CNN
-- Ship loaded with gas ablaze off the coast of Yemen, vessel abandoned as 1 mariner missing - CBS News
+- Where Prince Andrew Plans to Reside After Surrendering His Duke of York Title - instyle.com
+- Funeral Is Held for Raila Odinga, a Pillar of Kenya’s Democracy - The New York Times
+- Traders ‘Spooked’ as Bank Lending Risk Puts Stock Market on Edge - Bloomberg.com
 - S&P analysis of 9,000 companies worldwide finds the real cost of tariffs and other corporate costs: $1.2 trillion - Fortune
-- China Officials Try to Ease Global Concern Over Rare Earth Curbs - Bloomberg.com
-- Exclusive | Gucci Owner Kering Nears $4 Billion Sale of Beauty Unit to L’Oréal - The Wall Street Journal
-- Salesforce CEO Marc Benioff apologizes for saying National Guard needed in San Francisco - TechCrunch
-- Samsung Reportedly Gives Up on Super Thin Smartphones Amid Low Sales - MacRumors
-- TiVo won the court battles, but lost the TV war - The Verge
+- G7 scrambles to push back on Chinese rare-earth curbs - politico.eu
+- Kering nears sale of beauty unit to L'Oreal, sources say - Reuters
+- This denim-clad Android flagship is jean-ius - Android Authority
+- As Microsoft Forces Users to Ditch Windows 10, It Announces That It’s Also Turning Windows 11 into an AI-Controlled Monstrosity - Futurism
