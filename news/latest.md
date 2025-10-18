@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-18 07:47_
+_Updated: 2025-10-18 08:50_
 
+- George Santos Is Released From Prison, His Lawyer Says, After Trump Commutes His Sentence - The New York Times
 - "No Kings" Chicago protest planned for Grant Park Saturday; more demonstrations in suburbs - CBS News
-- George Santos' prison sentence commuted, ex-GOP congressman to be released 'immediately': Trump - ABC News - Breaking News, Latest News and Videos
-- Trump Wavers as Zelensky Seeks Long-Range Missiles to Fight Russia: Live Updates - The New York Times
+- Trump rejects Zelensky on Tomahawk missiles in "tough" meeting - Axios
 - Trump and Maduro are both amassing military forces as tensions build in the Caribbean - CNN
+- Trump seeks to build on momentum from Gaza deal in a busy diplomatic week - CNN
 - Trump administration asks Supreme Court to allow National Guard deployment in Illinois - NPR
-- Execution set for South Carolina man who taunted police with "catch me if u can" message written in victim's blood - CBS News
-- Benioff apologizes amid criticism, reverses course on National Guard - San Francisco Chronicle
+- Salesforce CEO Marc Benioff apologises for San Francisco deployment remark - BBC
 - Vermont Legislator Resigns Over Racist Republican Texts - The New York Times
 - Alaska storm damage so bad many evacuees won’t go home for at least 18 months, governor says - CNN
 - Man convicted in 1979 kidnapping and killing of Etan Patz must be retried by June, judge rules - NBC News
-- Israel says it has received body of another hostage from Gaza amid dispute over handover delays - The Guardian
-- Following ceasefire, Gazans hold first mass Friday prayers in damaged mosques - The Times of Israel
-- Witkoff, Kushner "felt a little bit betrayed" by Israel's Qatar strike during peace talks - CBS News
+- Red Cross retrieves another body of dead hostage in Gaza, Israel says - BBC
 - Chinese Nobel Prize-winning physicist Chen-ning Yang dies, aged 103 - South China Morning Post
-- Stock Market Today: Indexes Up In Strong Week On Trump News; Oracle Dives (Live Coverage) - Investor's Business Daily
-- Boeing Is Allowed to Increase 737 Max Plane Production, FAA Says - The New York Times
-- Jefferies CEO says bank was defrauded by auto parts maker First Brands - Reuters
+- Witkoff, Kushner "felt a little bit betrayed" by Israel's Qatar strike during peace talks - CBS News
+- Prince Andrew gives up royal titles including Duke of York after 'discussion with King' - BBC
+- How nervous are investors about the stock market? - BBC
+- Boeing wins FAA approval to hike 737 MAX production to 42 planes per month - Reuters
+- Trump Pledges To Cut Obesity Drug Prices. Novo Nordisk, Eli Lilly Stocks Dive. - Investor's Business Daily
 - Dhanteras: Why India's Diwali gold rush is different this year - BBC
-- WhatsApp to test monthly cap for unsanswered messages - 9to5Mac
-- Pixel 10 Owners Mostly Happy After One Month - Droid Life
+- Facebook’s new button lets its AI look at photos you haven’t uploaded yet - The Verge
+- WhatsApp will test a monthly cap on messages ignored by recipients - Engadget
