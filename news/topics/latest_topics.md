@@ -1,90 +1,90 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-18 11:37_
+_Updated: 2025-10-18 12:40_
 
 ## Top Stories
 
 - Misstänkt farligt föremål i Uppsala - SVT Nyheter
 - Flera olyckor under morgonen – varnar för blixthalka: ”Det var snorhalt” - Aftonbladet
-- Bil har kört ned i vattnet – en till sjukhus - Västerbottens-Kuriren
-- Tjejer till sjukhus efter köp från ”vodkabil” - SvD
-- Tonårspojke allvarligt skadad efter olycka utanför Genarp - SVT Nyheter
 - Sanna Torén Björling: Vad Zelenskyj vill ha är väl känt – all kraft ägnas åt att tyda amerikanen - Dagens Nyheter
-- DN Direkt - Misstänkt våldtäkt på Finlandsfärja - Dagens Nyheter
-- 17 oktober 20.30, Olaga frihetsberövande/människorov, Härjedalen - polisen.se
-- Polisen: Har Mexiko att tacka för gripandet - Västerbottens-Kuriren
 - Susanna Birgersson: Centerpartiets guldläge - GP
+- Tonårspojke allvarligt skadad efter olycka utanför Genarp - SVT Nyheter
+- Tre döda i explosion i Ryssland - GP
+- DN Direkt - Misstänkt våldtäkt på Finlandsfärja - Dagens Nyheter
+- 17 oktober 20.30, Olaga frihetsberövande/människorov, Härjedalen - Polisen.se
+- Kommunalrådet: ”Ett sjukhus ska på plats – punkt” - Dagens Nyheter
+- Polisen: Har Mexiko att tacka för gripandet - Västerbottens-Kuriren
 - Tumult vid sorgeceremoni i Kenya – flera döda - Västerbottens-Kuriren
+- Hamas: Ska lämna över ytterligare kvarlevor - GP
 - ICC avslår israelisk överklagan - SVT Nyheter
-- Generation Z startar uppror i land efter land - Hufvudstadsbladet
 - Direkt Kriget i Ukraina - Ukrainsk drönarattack mot elnät långt inne i Ryssland - Dagens Nyheter
 - SBAB:s vd: Därför kan vi inte sänka boräntan mer - SvD
-- Volvo bland förlorarna på fredagens Stockholmsbörs, OMXS30-index sjönk 1,5 procent (Finwire News) - Aktiellt
 - Verisure utsatt för dataintrång – aktien föll - Aftonbladet
+- AB Volvos besked – utrymmet ökar för ny jätteutdelning - EFN
 - Miljoner för ny logotyp – kritiseras internt - Skattebetalarna
 - Oväntad kemi på Saturnus kyliga måne Titan - Forskning.se
 - Redmagic släpper världens första mobil med vätskekylning - m3.se
 
 ## World News
 
-- Schemat för Global Series-helgen i Sverige - NHL.com
 - Är en global etik en utopi? - Dagens Arena
-- Här är programmet för NHL Global Series 2025 i Stockholm - hockeysverige.se
+- Schemat för Global Series-helgen i Sverige - NHL.com
 - Vantage tar hem tre utmärkelser vid Global Forex Awards - Retail 2025 - PR Newswire
+- Här är programmet för NHL Global Series 2025 i Stockholm - hockeysverige.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- NHL Global Series 2025 i Stockholm – programmet för hela helgen är nu klart! - Mynewsdesk
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - UNDP
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- Marriott Vacations Worldwide Corporation Announces Third Quarter Earnings Release and Conference Call - Placera.se
-- Sverige klättrar kraftigt i global gruvranking – nu topp sex i världen - INDUSTRInyheter.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Riyadh International Book Fair 2024: Expanding Global Dialogue through the Largest Collection of Translated Works - Aktiellt
+- Sverige klättrar kraftigt i global gruvranking – nu topp sex i världen - INDUSTRInyheter.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Northern Trust Appointed as Global Custodian by International Finance Facility for Education (IFFEd) - Placera.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global demand for Gripen jets fuels SAAB's growth in Linköping - Sveriges Radio
 
 ## Technology
 
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
+- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Oron: Då tar datan på internet slut - SvD
-- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
-- Bästa AI-aktierna att köpa nu - Morningstar Canada
-- 290 million for digitalisation of Swedish industry - Vinnova
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- 290 million for digitalisation of Swedish industry - Vinnova
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
 
+- BlackRock TCP Capital Corp. to Report Third Quarter Ended September 30, 2025 Financial Results on November 6, 2025 - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Musk om raset i Tesla: ”Löser sig på längre sikt” - Omni
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- BlackRock TCP Capital Corp. to Report Third Quarter Ended September 30, 2025 Financial Results on November 6, 2025 - Placera.se
 - JPMorgan Chase affärsmodell - Business Model Analyst
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Student and entry-level programs - EY
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -92,7 +92,7 @@ _Updated: 2025-10-18 11:37_
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 
 ## Health
 
