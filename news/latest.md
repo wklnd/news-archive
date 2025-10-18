@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-18 01:48_
+_Updated: 2025-10-18 04:09_
 
-- Trump commutes George Santos sentence, ordering his prison release - BBC
-- Trump says he wants to end Ukraine war without sending Tomahawk missiles - Axios
-- Trump asks Supreme Court to allow deployment of National Guard in Illinois - CBS News
 - GOP tries to brand anti-Trump ‘No Kings’ protests as un-American - The Washington Post
+- Trump rejects Zelensky on Tomahawk missiles in "tough" meeting - Axios
+- George Santos' prison sentence commuted, ex-GOP congressman to be released 'immediately': Trump - ABC News - Breaking News, Latest News and Videos
+- Trump administration asks Supreme Court to allow National Guard deployment in Illinois - NPR
 - US has seized survivors of attack on alleged narco-sub in Caribbean - The Guardian
-- Benioff apologizes for National Guard comments - Politico
-- University of Virginia Won’t Join White House’s Compact for Colleges - The New York Times
-- Andrew Cuomo is still behind — and he’s blaming Curtis Sliwa - Politico
-- Man convicted in Etan Patz's murder must be re-tried by June or released: Judge - ABC News - Breaking News, Latest News and Videos
-- Trump says Venezuelan leader Maduro "doesn't want to f*** around with the United States" - CBS News
-- Prince Andrew Surrenders Duke of York Title Amid Epstein Fallout - The New York Times
-- Red Cross retrieves body of dead hostage in Gaza, Israel says - BBC
+- Alex Acosta cleared Trump of wrongdoing in the Epstein case, GOP says - Politico
+- Benioff Apologizes for Saying Trump Should Send Troops to San Francisco - The New York Times
+- Orleans County senator resigns following leaked racist group chat - VTDigger
+- Universities Are Standing Up to Trump - The New York Times
+- Man convicted in 1979 kidnapping and killing of Etan Patz must be retried by June, judge rules - NBC News
+- Prince Andrew gives up royal titles including Duke of York after 'discussion with King' - BBC
+- Hamas hands over remains of another deceased Israeli hostage, IDF says - CBS News
 - An army colonel who led a lightning-fast coup takes over as Madagascar’s president - AP News
-- UK seeks to reverse ban on Israel's Maccabi Tel Aviv fans from Aston Villa game - NBC News
+- Witkoff, Kushner "felt a little bit betrayed" by Israel's Qatar strike during peace talks - CBS News
 - Stock Market Today: Indexes Up In Strong Week On Trump News; Oracle Dives (Live Coverage) - Investor's Business Daily
 - Jefferies CEO says bank was defrauded by auto parts maker First Brands - Reuters
 - FAA lets Boeing increase 737 Max production almost two years after near-catastrophic accident - CNBC
 - Eli Lilly, Novo Nordisk Stocks Drop. Trump Targets Ozempic, ‘Fat Loss’ Drug Prices. - Barron's
-- Facebook’s AI can now suggest edits to the photos still on your phone - TechCrunch
-- Bose QuietComfort Ultra Headphones (2nd gen) review: Impactful upgrades to a familiar formula - Engadget
+- Data Doctors: Is my old Windows 10 computer useless now? - WTOP
+- Meta Ray-Ban Display review: Chunky frames with impressive abilities - Engadget
