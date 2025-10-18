@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-18 13:38_
+_Updated: 2025-10-18 14:59_
 
 ## Top Stories
 
-- Blixthalka ställer till det i trafiken i Västsverige - SVT Nyheter
 - Misstänkt farligt föremål i Uppsala - SVT Nyheter
-- DN Direkt - Fler unga till sjukhus efter förgiftning med vodka i Vallentuna - Dagens Nyheter
-- Bil har kört ned i vattnet – en till sjukhus - Västerbottens-Kuriren
-- Susanna Birgersson: Centerpartiets guldläge - GP
+- MP-toppens skräck – att bli som Liberalerna - Dagens Nyheter
 - Marcus Lindqvist Kalldusch för Zelenskyj inför mötet med Trump - Hufvudstadsbladet
+- DN Direkt - Åkesson: ”Vi leder och de andra följer” - Dagens Nyheter
+- Tre döda i explosion i Ryssland - GP
+- Oktober 2028: Nordisk stat inväntar rysk attack - SvD
+- Unga till sjukhus – drack sprit från ”vodkabil” - Västerbottens-Kuriren
 - Fyra män gripna på Finlandsfärja – misstänkta för våldtäkt - SVT Nyheter
-- 17 oktober 20.30, Olaga frihetsberövande/människorov, Härjedalen - Polisen.se
 - ”Unga har ingen att prata med om sex” - Dagens Nyheter
-- Kommunalrådet: ”Ett sjukhus ska på plats – punkt” - Dagens Nyheter
-- Tumult vid sorgeceremoni i Kenya – flera döda - Västerbottens-Kuriren
-- Trump verkar ovillig att leverera kryssningsrobotar till Ukraina - Hufvudstadsbladet
-- Hamas: Ska lämna över ytterligare kvarlevor - GP
-- Generation Z startar uppror i land efter land - Hufvudstadsbladet
+- ”Det är ju Tidögänget som håller Västkustbanans öde i sina händer.” - HD
 - SBAB:s vd: Därför kan vi inte sänka boräntan mer - SvD
 - Verisure utsatt för dataintrång – aktien föll - Aftonbladet
-- AB Volvos besked – utrymmet ökar för ny jätteutdelning - EFN
+- Volvo bland förlorarna på fredagens Stockholmsbörs, OMXS30-index sjönk 1,5 procent (Finwire News) - Aktiellt
 - Miljoner för ny logotyp – kritiseras internt - Skattebetalarna
 - Oväntad kemi på Saturnus kyliga måne Titan - Forskning.se
+- Battlefield 6 – äntligen har de hittat tillbaka till sina rötter - Teknikveckan
 - Redmagic släpper världens första mobil med vätskekylning - m3.se
+- Hela listan: Så många miljoner kostade dyraste villan i Vindelns kommun senaste månaden - Folkbladet
+- ”Tystnaden” hoppas få unga män att våga prata - Aftonbladet
+- Kafka har visat oss vår framtid med AI - SvD
 
 ## World News
 
 - Är en global etik en utopi? - Dagens Arena
 - Schemat för Global Series-helgen i Sverige - NHL.com
 - Vantage tar hem tre utmärkelser vid Global Forex Awards - Retail 2025 - PR Newswire
-- Här är programmet för NHL Global Series 2025 i Stockholm - hockeysverige.se
 - Global demand for Gripen jets fuels SAAB's growth in Linköping - Sveriges Radio
+- Här är programmet för NHL Global Series 2025 i Stockholm - hockeysverige.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- NHL Global Series 2025 i Stockholm – programmet för hela helgen är nu klart! - Mynewsdesk
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - UNDP
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- Fina svenska framgångar i Lövsta Future Challenge International Dressage Tour i Herning - Mynewsdesk
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Nytt masterprogram i AI, robotik och global hälsa - Örebronyheter
+- Northern Trust Appointed as Global Custodian by International Finance Facility for Education (IFFEd) - Placera.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 
 ## Technology
 
@@ -60,8 +60,9 @@ _Updated: 2025-10-18 13:38_
 - Bästa AI-aktierna att köpa nu - Morningstar Canada
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
@@ -69,7 +70,6 @@ _Updated: 2025-10-18 13:38_
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
 
@@ -81,41 +81,41 @@ _Updated: 2025-10-18 13:38_
 - Musk om raset i Tesla: ”Löser sig på längre sikt” - Omni
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - JPMorgan Chase affärsmodell - Business Model Analyst
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Student and entry-level programs - EY
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
+- Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- CGM J4 logga 16_9.jpg - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Mabel AI won the HealthTech Award 2023 - NewsMachine AB
-- Johan von Schreeb - Karolinska Institutet
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-18 13:38_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Kostnader för jordbrukets gröna omställning - lrf.se
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Intensivt jordbruk hotar biologisk mångfald - Sveriges Natur
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Unga lantbrukare får ingen chans - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
