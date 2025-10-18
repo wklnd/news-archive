@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-18 18:42_
+_Updated: 2025-10-18 19:37_
 
 ## Top Stories
 
 - DN Direkt - Demonstrationer mot Trump – även i Sverige - Dagens Nyheter
-- MP-toppens skräck – att bli som Liberalerna - Dagens Nyheter
+- Jägare missade – sköt rakt in i hus - Västerbottens-Kuriren
 - Smuggelguld för miljarder på chartrade flyg i Afrika – göteborgare misstänks - GP
-- Misstänkt farligt föremål i Uppsala - SVT Nyheter
+- Kom till förhör utklädd till polis – åtalas - GP
+- Kraftig brand på flygplats i Dhaka – flyg ställs in - Omni
 - IDF: Tagit emot gisslans kropp – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Här är bubbelmästarens bästa tips för mousserande vin - GP
-- Flera ungdomar i Stockholm förgiftade av sprit från ”vodkabil” - Dagens Nyheter
+- Miljöpartiet kräver ministerposter men pikar Socialdemokraterna: ”De är ganska dåliga” - SVT Nyheter
+- Flera ungdomar förgiftade av sprit från ”vodkabil” - Dagens Nyheter
 - Minnesmästarens tips för högskoleprovet: gör det lätta först - Dagens Nyheter
-- Bil körde ned i vattnet – en död - Västerbottens-Kuriren
-- ”Det är ju Tidögänget som håller Västkustbanans öde i sina händer.” - HD
-- Nio dödades när Israel besköt buss i Gaza - Dagens Nyheter
-- Marcus Lindqvist Kalldusch för Zelenskyj inför mötet med Trump - Hufvudstadsbladet
-- Tumult vid sorgeceremoni i Kenya – flera döda - Västerbottens-Kuriren
-- Zelenskyj fortsatt hoppfull om Tomahawk - GP
-- Sverige pekas ut: Akilleshälen - Expressen
+- Kungaparet bjöd regionala profiler på Sverigemiddag - Länsstyrelsen
+- Ambassad: Rafah-gränsen öppnas på måndag - Västerbottens-Kuriren
+- Oppositionsledare sörjs som en landsfader i Kenya – tumult vid ceremoni - Dagens Nyheter
+- Trump verkar ovillig att leverera kryssningsrobotar till Ukraina - Hufvudstadsbladet
+- Putin till Ungern – så kan han undvika att gripas - Dagens Nyheter
 - Trump om nya tullhotet mot Kina: Inte hållbart - SvD
+- Sverige pekas ut – akilleshälen - Expressen
+- Ögonläkare varnar för Millennium: ”Pengar i sjön” - Kristianstadsbladet
 - MP vill se statliga avtal för elektrifiering - Aftonbladet
-- Konkurrensverkets krav på VGR efter Millennium-utredningen - Dagens Medicin
 - Oväntad kemi på Saturnus kyliga måne Titan - Forskning.se
 - Rundgren: ”Lennon såg ut som ett knippe trasor” - Omni
 
@@ -39,13 +39,13 @@ _Updated: 2025-10-18 18:42_
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - NHL Global Series 2025 i Stockholm – programmet för hela helgen är nu klart! - Mynewsdesk
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - UNDP lanserar läromedel om global utveckling - UNDP
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Fina svenska framgångar i Lövsta Future Challenge International Dressage Tour i Herning - Mynewsdesk
 
 ## Technology
@@ -120,25 +120,25 @@ _Updated: 2025-10-18 18:42_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
@@ -158,7 +158,7 @@ _Updated: 2025-10-18 18:42_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Unga lantbrukare får ingen chans - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
