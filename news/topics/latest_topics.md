@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-18 21:37_
+_Updated: 2025-10-18 22:39_
 
 ## Top Stories
 
-- Trumpkritiska "No kings"-demonstrationer: ”Stöttar demokratin” - Dagens Nyheter
-- Hamas: Ska lämna över fler kvarlevor - GP
-- DN Direkt - Polisinsats i Malmö efter misstänkt grovt brott - Dagens Nyheter
-- Kom till förhör utklädd till polis – åtalas - GP
-- Edgar Mannheimer: Vad är det för fred när Hamas skjuter folk på öppen gata? - ETC.se
+- DN Direkt - Demonstrationer mot Trump – även i Sverige - Dagens Nyheter
+- Misstänkt grovt brott i Malmö – stor polisinsats - SVT Nyheter
+- Ungern: Fri lejd för Putin vid Trumpmöte - GP
+- Hon tog sig in i Syriens parlament - SvD
+- DN Direkt - Kom till förhör utklädd till polis – åtalas - Dagens Nyheter
 - DN Direkt - Brand släckt på äldreboende i Halmstad - Dagens Nyheter
 - DN Direkt - Carl Bildt oväntat invald i kyrkofullmäktige - Dagens Nyheter
-- MP-toppens skräck – att bli som Liberalerna - Dagens Nyheter
+- Språkrören sitter tryggt – MP-kongressen valde om Helldén och Lind - Altinget.se
 - Misstänkt farligt föremål i Uppsala - SVT Nyheter
-- Fem smarta tips inför högskoleprovet i morgon - GP
+- 17 oktober 20.30, Olaga frihetsberövande/människorov, Härjedalen - Polisen.se
 - Ambassad: Rafah-gränsen öppnas på måndag - GP
-- Oppositionsledare sörjs som en landsfader i Kenya – tumult vid ceremoni - Dagens Nyheter
+- Hundra skadade vid sorgeceremoni i Kenya - Västerbottens-Kuriren
 - DN Direkt - Fler unga till sjukhus efter förgiftning med vodka i Vallentuna - Dagens Nyheter
-- Gaza: Nio dödade när buss besköts - SVT Nyheter
+- DN Direkt - Större slagsmål i Farsta – man gick runt med basebollträ - Dagens Nyheter
 - Riksbankstoppen lämnar Sverige: Vi har blivit mer robusta efter inflationsåren - Dagens Nyheter
-- Sverige pekas ut: Akilleshälen - Expressen
 - Trump om nya tullhotet mot Kina: Inte hållbart - SvD
 - Verisure utsatt för hackerattack – aktien faller - DI
+- Ögonläkare varnar för Millennium: ”Pengar i sjön” - Kristianstadsbladet
 - I årtionden har forskare trott att en mystisk kraft expanderar universum – men kanske är det bara en synvilla! - Illustrerad Vetenskap
 - Oväntad kemi på Saturnus kyliga måne Titan - Forskning.se
 
@@ -36,17 +36,17 @@ _Updated: 2025-10-18 21:37_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Newsroom
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
-- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Fina svenska framgångar i Lövsta Future Challenge International Dressage Tour i Herning - Mynewsdesk
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global demand for Gripen jets fuels SAAB's growth in Linköping - Sveriges Radio
+- CHiQ Strengthens Global Sports Engagement with FIS Ski Jumping World Cup Partnership - Placera.se
 
 ## Technology
 
@@ -120,25 +120,25 @@ _Updated: 2025-10-18 21:37_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
@@ -152,13 +152,13 @@ _Updated: 2025-10-18 21:37_
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- Intensivt jordbruk hotar biologisk mångfald - Sveriges Natur
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Unga lantbrukare får ingen chans - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
