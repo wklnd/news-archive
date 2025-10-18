@@ -1,24 +1,24 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-18 05:45_
+_Updated: 2025-10-18 06:41_
 
 ## Top Stories
 
-- Direkt Kriget i Ukraina - Trump: Mötet med Zelenskyj var intressant och hjärtligt - Dagens Nyheter
-- Så stor är risken för att USA invaderar Venezuela - GP
+- Sanna Torén Björling: Vad Zelenskyj vill ha är väl känt – all kraft ägnas åt att tyda amerikanen - Dagens Nyheter
 - 17 oktober 20.30, Olaga frihetsberövande/människorov, Härjedalen - Polisen.se
-- Tonårspojke allvarligt skadad efter olycka utanför Genarp - SVT Nyheter
-- DN Direkt - Siste sherpan från första Everestbestigningen död - Dagens Nyheter
-- ICC avslår Israels överklagan - SvD
+- Trump bekräftar räd mot Venezuelabåt – två gripna - Dagens Nyheter
+- DN Direkt - Kina går med på nya tullsamtal med USA - Dagens Nyheter
+- Därför blir din mobil bara gradvis bättre - SvD
+- SD har en poäng om folkviljan - SvD
 - Efter gripandet av gängledaren – polisen i Sundsvall kraftsamlar - SVT Nyheter
 - När hatet tystar politiken står demokratin på spel - Altinget.se
 - Språkrören sitter tryggt – MP-kongressen valde om Helldén och Lind - Altinget.se
-- DN Direkt - Alice Teodorescu på väg in i KD-toppen - Dagens Nyheter
-- ICC avslår Israels överklagan – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Hamas: Ska lämna över ytterligare kvarlevor - GP
+- Allt fler nekas försörjningsstöd – Tobias blev av med bostaden - Dagens Arena
+- Netanyahus framtid: Omval eller Haag? - GP
+- Hamas: Ska lämna över ytterligare kvarlevor - Corren
+- DN Direkt - Siste sherpan från första Everestbestigningen död - Dagens Nyheter
 - Marcus Lindqvist Kalldusch för Zelenskyj inför mötet med Trump - Hufvudstadsbladet
-- Trump friger fängelsedömd republikan - Aftonbladet
-- Investmentbanken: Vi blev lurade av First Brands - Dagens PS
+- Jefferies anklagar First Brands för bedrägeri: vad betyder anklagelsen? - Invezz
 - Miljoner för ny logotyp – kritiseras internt - Skattebetalarna
 - Migrationsverket: ”Vi är inte Sveriges vakthund” - Dagens Arbete
 - LO reviderar upp tillväxtprognosen för nästa år - Börsvärlden
@@ -35,18 +35,18 @@ _Updated: 2025-10-18 05:45_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- UNDP lanserar läromedel om global utveckling - UNDP
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- GAC Accelerates Global Expansion at 2025 International Partner Conference (PR Newswire) - Aktiellt
 - Sverige klättrar kraftigt i global gruvranking – nu topp sex i världen - INDUSTRInyheter.se
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Nytt masterprogram i AI, robotik och global hälsa - Örebronyheter
-- Ny global industriell hubb i Kina milstolpe för Scania - Cision News
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Påven: En ny global utbildning för hopp i vår tid - Vatican News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Flest coronasäkra stränder i Portugal och ny global säkerhetsmärkning - travelnews.se
 
 ## Technology
 
@@ -77,22 +77,22 @@ _Updated: 2025-10-18 05:45_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
-- JPMorgan Chase affärsmodell - Business Model Analyst
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Student and entry-level programs - EY
+- JPMorgan Chase affärsmodell - Business Model Analyst
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
-- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
 
@@ -120,8 +120,8 @@ _Updated: 2025-10-18 05:45_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -130,15 +130,15 @@ _Updated: 2025-10-18 05:45_
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
