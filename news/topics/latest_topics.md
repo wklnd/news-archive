@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-18 06:41_
+_Updated: 2025-10-18 07:40_
 
 ## Top Stories
 
 - Sanna Torén Björling: Vad Zelenskyj vill ha är väl känt – all kraft ägnas åt att tyda amerikanen - Dagens Nyheter
 - 17 oktober 20.30, Olaga frihetsberövande/människorov, Härjedalen - Polisen.se
-- Trump bekräftar räd mot Venezuelabåt – två gripna - Dagens Nyheter
-- DN Direkt - Kina går med på nya tullsamtal med USA - Dagens Nyheter
 - Därför blir din mobil bara gradvis bättre - SvD
+- Regeringen vill straffa 13-åringar – även om brotten inte minskar: ”Inte syftet” - Omni
 - SD har en poäng om folkviljan - SvD
-- Efter gripandet av gängledaren – polisen i Sundsvall kraftsamlar - SVT Nyheter
+- ”Greken” gripen i Mexiko: ”Nu har vi honom” - GP
+- Poliserna vet fortfarande inte vem av dem som sköt skolmördaren i Trollhättan - Dagens Nyheter
 - När hatet tystar politiken står demokratin på spel - Altinget.se
 - Språkrören sitter tryggt – MP-kongressen valde om Helldén och Lind - Altinget.se
-- Allt fler nekas försörjningsstöd – Tobias blev av med bostaden - Dagens Arena
+- LEDARE: Fattig-Sverige är en skam för oss alla! - Dala-Demokraten
+- Siste sherpan från första Everestbestigningen död - Västerbottens-Kuriren
 - Netanyahus framtid: Omval eller Haag? - GP
+- DN Direkt - Balkong rasade: Minst tio till sjukhus - Dagens Nyheter
 - Hamas: Ska lämna över ytterligare kvarlevor - Corren
-- DN Direkt - Siste sherpan från första Everestbestigningen död - Dagens Nyheter
-- Marcus Lindqvist Kalldusch för Zelenskyj inför mötet med Trump - Hufvudstadsbladet
-- Jefferies anklagar First Brands för bedrägeri: vad betyder anklagelsen? - Invezz
 - Miljoner för ny logotyp – kritiseras internt - Skattebetalarna
 - Migrationsverket: ”Vi är inte Sveriges vakthund” - Dagens Arbete
-- LO reviderar upp tillväxtprognosen för nästa år - Börsvärlden
+- Konkurrensverkets krav på VGR efter Millennium-utredningen - dagensmedicin.se
+- Regeringen föreslår sänkt skatt på arbetsinkomster, pension och sjuk- och aktivitetsersättning - Regeringen.se
 - Oväntad kemi på Saturnus kyliga måne Titan - Forskning.se
-- Nu på testbänken: TCL 115C7K och 98MQLED75K - Se upp! Här kommer TCL:s nya gigantiska TV in till test - Ljud & Bild
+- Redmagic släpper världens första mobil med vätskekylning - m3.se
 
 ## World News
 
 - Schemat för Global Series-helgen i Sverige - NHL.com
 - Är en global etik en utopi? - Dagens Arena
 - Här är programmet för NHL Global Series 2025 i Stockholm - hockeysverige.se
+- Northern Trust Appointed as Global Custodian by International Finance Facility for Education (IFFEd) - Placera.se
 - Vantage tar hem tre utmärkelser vid Global Forex Awards - Retail 2025 - PR Newswire
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- GAC Accelerates Global Expansion at 2025 International Partner Conference (PR Newswire) - Aktiellt
-- Sverige klättrar kraftigt i global gruvranking – nu topp sex i världen - INDUSTRInyheter.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Nytt masterprogram i AI, robotik och global hälsa - Örebronyheter
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Påven: En ny global utbildning för hopp i vår tid - Vatican News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Flest coronasäkra stränder i Portugal och ny global säkerhetsmärkning - travelnews.se
+- Riyadh International Book Fair 2024: Expanding Global Dialogue through the Largest Collection of Translated Works - Aktiellt
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
 
 ## Technology
 
@@ -73,16 +73,17 @@ _Updated: 2025-10-18 06:41_
 
 ## Business
 
-- BlackRock TCP Capital Corp. to Report Third Quarter Ended September 30, 2025 Financial Results on November 6, 2025 - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- BlackRock TCP Capital Corp. to Report Third Quarter Ended September 30, 2025 Financial Results on November 6, 2025 - Placera.se
+- JPMorgan Chase affärsmodell - Business Model Analyst
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Student and entry-level programs - EY
-- JPMorgan Chase affärsmodell - Business Model Analyst
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2025-10-18 06:41_
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
 
@@ -120,8 +120,8 @@ _Updated: 2025-10-18 06:41_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -130,35 +130,35 @@ _Updated: 2025-10-18 06:41_
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De gick från reko till eko - ST-tidningen
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Unga lantbrukare får ingen chans - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
