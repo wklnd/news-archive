@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-18 23:37_
+_Updated: 2025-10-19 00:39_
 
 ## Top Stories
 
 - DN Direkt - Demonstrationer mot Trump – även i Sverige - Dagens Nyheter
-- Misstänkt grovt brott i Malmö – stor polisinsats - SVT Nyheter
+- 18 oktober 22.00, Alkohollagen, Stockholms län - Polisen.se
+- Källor: Putin krävde Donetsk i telefonsamtal med Trump - Dagens Nyheter
+- Brinner i kabinen – passagerarnas skräck på planet - Aftonbladet
 - Hon tog sig in i Syriens parlament - SvD
-- Kom till förhör utklädd till polis – åtalas - GP
-- Nio dödades när Israel besköt buss i Gaza - Dagens Nyheter
-- Tror EU-toppen att hon står över lagen? - SvD
+- DN Direkt - Brand släckt på äldreboende i Halmstad - Dagens Nyheter
 - DN Direkt - Carl Bildt fick flest röster - invald i kyrkofullmäktige - Dagens Nyheter
 - Misstänkt farligt föremål i Uppsala - SVT Nyheter
 - Språkrören sitter tryggt – MP-kongressen valde om Helldén och Lind - Altinget.se
 - 17 oktober 13.38, Trafikkontroll, Västernorrlands län - Polisen.se
 - Minst 17 döda i trafikolycka i Brasilien - SVT Nyheter
+- USA: Hamas planerar attack mot civila i Gaza - Västerbottens-Kuriren
+- Hamas: Ska lämna över fler kvarlevor - GP
 - Hamas: Stängd gräns försenar gisslan-överlämning - Västerbottens-Kuriren
-- Tjejer till sjukhus efter köp från ”vodkabil” - GP
-- DN Direkt - Större slagsmål i Farsta – man gick runt med basebollträ - Dagens Nyheter
-- Riksbankstoppen lämnar Sverige: Vi har blivit mer robusta efter inflationsåren - Dagens Nyheter
 - En nördigare och roligare framtid - SvD
-- USA och Kina tar nya steg mot handelsuppgörelse - EFN
-- Verisure utsatt för hackerattack – aktien faller - DI
+- Ögonläkare varnar för Millennium: ”Pengar i sjön” - Kristianstadsbladet
+- MP vill se statliga avtal för elektrifiering - Aftonbladet
+- Förlorade 20 000 i lön – nu väntas kompensation: »Fantastiskt« - Läkartidningen
 - Unik upptäckt – en tidskapsel till livets uppkomst - Marcus Oscarsson
 - I årtionden har forskare trott att en mystisk kraft expanderar universum – men kanske är det bara en synvilla! - Illustrerad Vetenskap
 
@@ -38,15 +38,15 @@ _Updated: 2025-10-18 23:37_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- NHL Global Series 2025 i Stockholm – programmet för hela helgen är nu klart! - Mynewsdesk
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
-- UNDP lanserar läromedel om global utveckling - UNDP
-- Fina svenska framgångar i Lövsta Future Challenge International Dressage Tour i Herning - Mynewsdesk
+- Global kompetens driver hållbara industrisatsningar i norr - ABB Group
+- Northern Trust Appointed as Global Custodian by International Finance Facility for Education (IFFEd) - Placera.se
 
 ## Technology
 
@@ -57,18 +57,18 @@ _Updated: 2025-10-18 23:37_
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Oron: Då tar datan på internet slut - SvD
-- Bästa AI-aktierna att köpa nu - Morningstar Canada
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
@@ -83,16 +83,16 @@ _Updated: 2025-10-18 23:37_
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- JPMorgan Chase affärsmodell - Business Model Analyst
+- Student and entry-level programs - EY
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 
 ## Health
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-18 23:37_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Unga lantbrukare får ingen chans - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
