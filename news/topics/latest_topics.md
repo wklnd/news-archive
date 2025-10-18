@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-18 05:08_
+_Updated: 2025-10-18 05:45_
 
 ## Top Stories
 
-- Sanna Torén Björling: Vad Zelenskyj vill ha är väl känt – all kraft ägnas åt att tyda amerikanen - Dagens Nyheter
+- Direkt Kriget i Ukraina - Trump: Mötet med Zelenskyj var intressant och hjärtligt - Dagens Nyheter
 - Så stor är risken för att USA invaderar Venezuela - GP
-- Tonårspojke allvarligt skadad efter olycka utanför Genarp - SVT Nyheter
 - 17 oktober 20.30, Olaga frihetsberövande/människorov, Härjedalen - Polisen.se
+- Tonårspojke allvarligt skadad efter olycka utanför Genarp - SVT Nyheter
+- DN Direkt - Siste sherpan från första Everestbestigningen död - Dagens Nyheter
 - ICC avslår Israels överklagan - SvD
-- ”Greken” gripen i Mexiko: ”Nu har vi honom” - Västerbottens-Kuriren
-- DN Direkt - Alice Teodorescu på väg in i KD-toppen - Dagens Nyheter
+- Efter gripandet av gängledaren – polisen i Sundsvall kraftsamlar - SVT Nyheter
 - När hatet tystar politiken står demokratin på spel - Altinget.se
 - Språkrören sitter tryggt – MP-kongressen valde om Helldén och Lind - Altinget.se
-- Allt fler nekas försörjningsstöd – Tobias blev av med bostaden - Dagens Arena
+- DN Direkt - Alice Teodorescu på väg in i KD-toppen - Dagens Nyheter
+- ICC avslår Israels överklagan – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Hamas: Ska lämna över ytterligare kvarlevor - GP
+- Marcus Lindqvist Kalldusch för Zelenskyj inför mötet med Trump - Hufvudstadsbladet
 - Trump friger fängelsedömd republikan - Aftonbladet
-- ”No kings” – rekordprotest mot Donald Trump i USA - Expressen
-- Trumps vädjan till HD - Expressen
 - Investmentbanken: Vi blev lurade av First Brands - Dagens PS
 - Miljoner för ny logotyp – kritiseras internt - Skattebetalarna
 - Migrationsverket: ”Vi är inte Sveriges vakthund” - Dagens Arbete
@@ -77,22 +77,22 @@ _Updated: 2025-10-18 05:08_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
 - JPMorgan Chase affärsmodell - Business Model Analyst
-- Student and entry-level programs - EY
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Student and entry-level programs - EY
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
+- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
 ## Health
 
