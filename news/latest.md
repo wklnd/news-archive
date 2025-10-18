@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-19 00:48_
+_Updated: 2025-10-19 01:48_
 
-- What to know about nationwide 'No Kings' rallies protesting Trump - ABC News - Breaking News, Latest News and Videos
-- US will send survivors of strike on suspected drug vessel back to Ecuador and Colombia, Trump says - AP News
+- Biggest US labor unions fuel No Kings protests against Trump: ‘You need a voice to have freedom’ - The Guardian
+- Trump says 2 survivors of US strike on submarine being sent to Ecuador, Colombia in move that avoids legal fight - ABC News - Breaking News, Latest News and Videos
 - How to get around the Interstate 5 closure today through Camp Pendleton in Southern California - Los Angeles Times
-- China tariffs 'not sustainable' — Trump - DW
-- Case Against Bolton Raises Questions Over Justice Dept.’s Use of Espionage Act - The New York Times
+- Trump urges Supreme Court to allow National Guard in Chicago - Axios
 - Maine Democratic Senate candidate Graham Platner apologizes for past social media posts - NBC News
+- Israel receives two bodies that Hamas says are Gaza hostages - BBC
 - Vermont state senator resigns over racist Young Republican chat messages - The Washington Post
 - Ex-ICE director says Trump's immigration crackdown putting agents in "terrible position" - CBS News
+- Santos’s Release Frustrates His Former Colleagues and Constituents - The New York Times
 - Trump’s reshoring push is tripping over itself - Politico
-- Santos in His Own Words: Pleading for Mercy and Promising a Comeback - The New York Times
-- Israel receives two bodies that Hamas says are Gaza hostages - BBC
-- Work underway to restore power at Ukrainian nuclear plant as UN announces rare local ‘ceasefire zones’ - CNN
-- Where Prince Andrew Plans to Reside After Surrendering His Duke of York Title - instyle.com
+- How can Europe fight back against incursions by drone aircraft? - Space
+- One scandal too many forces the UK monarchy to sideline Prince Andrew - CNBC
+- Border crossing to stay closed, Israel says, as US alleges Hamas ceasefire violation - Reuters
 - Funeral Is Held for Raila Odinga, a Pillar of Kenya’s Democracy - The New York Times
 - Traders ‘Spooked’ as Bank Lending Risk Puts Stock Market on Edge - Bloomberg.com
-- S&P analysis of 9,000 companies worldwide finds the real cost of tariffs and other corporate costs: $1.2 trillion - Fortune
-- G7 scrambles to push back on Chinese rare-earth curbs - politico.eu
+- Here's how Trump can hit China where it really hurts as Beijing's rare earths gamble could backfire - Fortune
 - Kering nears sale of beauty unit to L'Oreal, sources say - Reuters
+- Salesforce CEO Marc Benioff apologizes for saying National Guard needed in San Francisco - TechCrunch
+- Ally Arrives: Xbox President Sarah Bond Explains New Handhelds Steep Price, Prioritizing ‘Windows Experience’ and Next-Gen Console Plans Heading Into 2026 - Variety
 - This denim-clad Android flagship is jean-ius - Android Authority
-- As Microsoft Forces Users to Ditch Windows 10, It Announces That It’s Also Turning Windows 11 into an AI-Controlled Monstrosity - Futurism
