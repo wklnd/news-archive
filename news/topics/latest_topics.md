@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-18 17:37_
+_Updated: 2025-10-18 18:42_
 
 ## Top Stories
 
+- DN Direkt - Demonstrationer mot Trump – även i Sverige - Dagens Nyheter
 - MP-toppens skräck – att bli som Liberalerna - Dagens Nyheter
 - Smuggelguld för miljarder på chartrade flyg i Afrika – göteborgare misstänks - GP
-- DN Direkt - Demonstrationer mot Trump – även i Sverige - Dagens Nyheter
-- IDF: Tagit emot gisslans kropp – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Carl Bildt oväntat invald i kyrkofullmäktige - DI
-- Här är bubbelmästarens bästa tips för mousserande vin - GP
-- Unga till sjukhus – drack sprit från ”vodkabil” - Västerbottens-Kuriren
-- Minnesmästarens tips för högskoleprovet: gör det lätta först - Dagens Nyheter
 - Misstänkt farligt föremål i Uppsala - SVT Nyheter
+- IDF: Tagit emot gisslans kropp – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Här är bubbelmästarens bästa tips för mousserande vin - GP
+- Flera ungdomar i Stockholm förgiftade av sprit från ”vodkabil” - Dagens Nyheter
+- Minnesmästarens tips för högskoleprovet: gör det lätta först - Dagens Nyheter
+- Bil körde ned i vattnet – en död - Västerbottens-Kuriren
 - ”Det är ju Tidögänget som håller Västkustbanans öde i sina händer.” - HD
-- Putin till Ungern – så kan han undvika att gripas - Dagens Nyheter
-- Hälsodepartementet: Dödssiffran stiger till 68 000 – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Nio dödades när Israel besköt buss i Gaza - Dagens Nyheter
+- Marcus Lindqvist Kalldusch för Zelenskyj inför mötet med Trump - Hufvudstadsbladet
 - Tumult vid sorgeceremoni i Kenya – flera döda - Västerbottens-Kuriren
-- Trump verkar ovillig att leverera kryssningsrobotar till Ukraina - Hufvudstadsbladet
+- Zelenskyj fortsatt hoppfull om Tomahawk - GP
 - Sverige pekas ut: Akilleshälen - Expressen
-- SBAB:s vd: Därför kan vi inte sänka boräntan mer - SvD
-- Verisure utsatt för dataintrång – aktien föll - Aftonbladet
-- Klarna-ägda Pricerunner stämmer Google på 77 miljarder - Ny Teknik
+- Trump om nya tullhotet mot Kina: Inte hållbart - SvD
+- MP vill se statliga avtal för elektrifiering - Aftonbladet
+- Konkurrensverkets krav på VGR efter Millennium-utredningen - Dagens Medicin
 - Oväntad kemi på Saturnus kyliga måne Titan - Forskning.se
 - Rundgren: ”Lennon såg ut som ett knippe trasor” - Omni
 
@@ -30,23 +30,23 @@ _Updated: 2025-10-18 17:37_
 - Är en global etik en utopi? - Dagens Arena
 - Schemat för Global Series-helgen i Sverige - NHL.com
 - Vantage tar hem tre utmärkelser vid Global Forex Awards - Retail 2025 - PR Newswire
+- Sverige klättrar på global pensionsrankning - Finanswatch.se
 - Här är programmet för NHL Global Series 2025 i Stockholm - hockeysverige.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- UNDP lanserar läromedel om global utveckling - UNDP
-- Armand Duplantis soars to third world title and 14th world record - BBC
-- Sverige klättrar på global pensionsrankning - Finanswatch.se
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Riyadh International Book Fair 2024: Expanding Global Dialogue through the Largest Collection of Translated Works - Aktiellt
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Northern Trust Appointed as Global Custodian by International Finance Facility for Education (IFFEd) - Placera.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Global demand for Gripen jets fuels SAAB's growth in Linköping - Sveriges Radio
+- NHL Global Series 2025 i Stockholm – programmet för hela helgen är nu klart! - Mynewsdesk
+- Armand Duplantis soars to third world title and 14th world record - BBC
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
+- UNDP lanserar läromedel om global utveckling - UNDP
+- WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Fina svenska framgångar i Lövsta Future Challenge International Dressage Tour i Herning - Mynewsdesk
 
 ## Technology
 
@@ -81,18 +81,18 @@ _Updated: 2025-10-18 17:37_
 - Musk om raset i Tesla: ”Löser sig på längre sikt” - Omni
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- JPMorgan Chase affärsmodell - Business Model Analyst
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- JPMorgan Chase affärsmodell - Business Model Analyst
 - Student and entry-level programs - EY
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
+- Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
+- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
 ## Health
 
@@ -120,25 +120,25 @@ _Updated: 2025-10-18 17:37_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
