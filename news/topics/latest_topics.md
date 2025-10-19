@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-19 11:37_
+_Updated: 2025-10-19 12:40_
 
 ## Top Stories
 
-- Fem ungdomar gripna efter alkoholförgiftning i Stockholm - Dagens Nyheter
+- Biljakt efter juvelkupp mot konstmuseet Louvren - SVT Nyheter
+- Medier: Israel har attackerat Gaza från luften - Dagens Nyheter
+- Minderåriga i Nacka förda till sjukhus: "Köpt fulsprit" - Nacka Värmdö Posten
 - DN Direkt - Trump attackerar demonstranter med bajs i AI-video - Dagens Nyheter
-- Ord mot ord om vem som bryter mot vapenvilan – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Gängtoppen ”Greken" häktad – nekar till brott - Västerbottens-Kuriren
 - Här är löftena kring Karlatornet som sprack - GP
-- För Bodil och Cecilia är alla månader rosa: ”Jag ville ge tillbaka” - Sydsvenskan
-- Kravet: Gör det enklare att byta lägenhet - UNT
-- ”Vi kommer aldrig medverka till att det blir ny kärnkraft” - Dagens Nyheter
-- MP:s plan: Flytta S i migrationspolitiken - GP
+- Gängtoppen ”Greken" häktad – nekar till brott - Västerbottens-Kuriren
 - 19 oktober 07.01, Sammanfattning natt, Örebro län - polisen.se
-- Källor: Putin krävde Donetsk i telefonsamtal med Trump - Dagens Nyheter
-- Netanyahu ställer upp för omval - UNT
+- MP:s plan: Flytta S i migrationspolitiken - Västerbottens-Kuriren
+- 19 oktober 08.06, Sammanfattning natt, Västernorrlands län - polisen.se
+- Kamerabevakning med drönare på Södermalm och runt 3 Arena - polisen.se
 - Ung man allvarligt skadad i crossolycka - Expressen
-- Fredschans efter många försök: Varför först nu? - GP
-- Varningen: Nya regler kan ge högre bopriser - SvD
-- Så många jobb i farozonen när AI tar över - Sydsvenskan
-- Expert: AI svepskäl för att skära ner – pekar ut Klarna - Omni
-- Hemtjänstpersonal uppsagda efter tråd på Facebook - Aftonbladet
+- Källor: Putin krävde Donetsk i telefonsamtal med Trump - Dagens Nyheter
+- Fredschans efter många försök: Varför först nu? - Västerbottens-Kuriren
+- USA: Hamas planerar attack mot civila i Gaza - GP
+- Sänkt krav på kontantinsats får kritik: ”Högre bopriser” - Omni
+- Så många jobb i farozonen när AI tar över - SvD
+- Expert skeptisk till AI-argument – pekar ut Klarna - Omni
+- Basinkomst är ett luftslott inom kapitalismens ramar - tidningensyre.se
 - Otrolig upptäckt: Världens största rymdteleskop avbildar något "mycket spännande" nära jorden - Illustrerad Vetenskap
 - EU kräver USB-C i alla nya laddare - Teknikveckan
 
@@ -51,25 +51,25 @@ _Updated: 2025-10-19 11:37_
 ## Technology
 
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
+- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Oron: Då tar datan på internet slut - SvD
-- Bästa AI-aktierna att köpa nu - Morningstar Canada
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Oron: Då tar datan på internet slut - SvD
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
 
@@ -104,16 +104,16 @@ _Updated: 2025-10-19 11:37_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Johan von Schreeb - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
 
@@ -144,7 +144,6 @@ _Updated: 2025-10-19 11:37_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -159,6 +158,7 @@ _Updated: 2025-10-19 11:37_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Unga lantbrukare får ingen chans - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
