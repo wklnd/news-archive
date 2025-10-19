@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-19 21:38_
+_Updated: 2025-10-19 22:39_
 
 ## Top Stories
 
-- Nya flygattacker mot Gaza – Israel stoppar nödhjälp - Dagens Nyheter
 - Medier: Trump och Zelenskyj i bråk om Putinkrav - GP
-- Ryska kravet: Donetsk i utbyte mot fred - DI
+- Ord mot ord om vem som bryter mot vapenvilan – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Putin kan medvetet blockera fred i Ukraina med omöjliga krav, säger militärexpert - Yle
+- FBI utreder jaktkoja vid flygplats i Florida – fri sikt mot Trump - Expressen
 - Trafiken fick ledas om efter olycka på E22 - NT
-- Dan sörjer sin fru som fortfarande lever: ”Hon var helt svart i blicken” - GP
-- ”Greken” fortsatt häktad – förhandlingar vid tre tingsrätter idag - SVT Nyheter
-- Fem ungdomar anhållna efter alkoholförgiftning i Stockholm - Dagens Nyheter
+- Världens minsta öl lanserad - GP
+- Gängtoppen ”Greken" häktas igen – nekar till brott - UNT
+- DN Direkt - Fem gripna för alkoholförgiftning i Stockholm - Dagens Nyheter
 - Bil körde ned i vattnet – en död - Västerbottens-Kuriren
-- 19 oktober 07.01, Sammanfattning natt, Örebro län - polisen.se
 - Trumpkritiker intog USA:s gator: ”Inga kungar” - Sydsvenskan
-- Iran avrättar misstänkt israelisk spion - GP
 - DN Direkt - Trump och Petro i ordbråk: ”Knarkhandlare” - Dagens Nyheter
 - Det ska Ukraina oroa sig för i drönarkriget - Hufvudstadsbladet
 - Kupp mot Louvren – Napoleons smycken uppges stulits - DI
+- Iran avrättar misstänkt israelisk spion - Västerbottens-Kuriren
 - Sänkt krav på kontantinsats får kritik: ”Högre bopriser” - Omni
 - Trump om nya tullhotet mot Kina: Inte hållbart - Tidningen Näringslivet
 - Så många jobb i farozonen när AI tar över - NWT
@@ -29,24 +29,24 @@ _Updated: 2025-10-19 21:38_
 
 - Schemat för Global Series-helgen i Sverige - NHL.com
 - Är en global etik en utopi? - Dagens Arena
-- Global demand for Gripen jets fuels SAAB's growth in Linköping - Sveriges Radio
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- BBC hjälper mig att dosera min förtvivlan - Aftonbladet
 - Vantage tar hem tre utmärkelser vid Global Forex Awards - Retail 2025 - PR Newswire
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 
 ## Technology
 
@@ -82,8 +82,8 @@ _Updated: 2025-10-19 21:38_
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
 - JPMorgan Chase affärsmodell - Business Model Analyst
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Student and entry-level programs - EY
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -107,12 +107,12 @@ _Updated: 2025-10-19 21:38_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
