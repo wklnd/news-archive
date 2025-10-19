@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-19 07:41_
+_Updated: 2025-10-19 08:46_
 
 ## Top Stories
 
-- Fyra ungdomar förda till sjukhus efter att ha druckit sprit - Dagens Nyheter
+- Minderåriga i Nacka förda till sjukhus: "Köpt fulsprit" - Nacka Värmdö Posten
+- Karl Dalén: Protesterna en seger för det fredliga motståndet - Dagens Nyheter
+- Putins krav: Donetsk i utbyte mot fred - GP
 - USA: Hamas planerar attack mot civila i Gaza - Västerbottens-Kuriren
-- Källor: Putin krävde Donetsk i telefonsamtal med Trump - Dagens Nyheter
 - ”Vi kommer aldrig medverka till att det blir ny kärnkraft” - Dagens Nyheter
-- Brinner i kabinen – passagerarnas skräck på planet - Aftonbladet
-- DN Direkt - Demonstrationer mot Trump – även i Sverige - Dagens Nyheter
+- 19 oktober 08.06, Sammanfattning natt, Västernorrlands län - polisen.se
+- MP:s plan: Flytta S i migrationspolitiken - Dagens Nyheter
 - Kravet: Gör det enklare att byta lägenhet - UNT
-- MP:s plan: Flytta S i migrationspolitiken - Västerbottens-Kuriren
 - 19 oktober 07.01, Sammanfattning natt, Örebro län - polisen.se
-- 17 oktober 13.38, Trafikkontroll, Västernorrlands län - polisen.se
+- I NATT: Man till sjukhus efter misshandel – stökig natt i Värmland - NWT
 - Netanyahu ställer upp för omval - UNT
-- Ung man allvarligt skadad i crossolycka - Expressen
-- Minst 17 döda i trafikolycka i Brasilien - SVT Nyheter
+- Brinner i kabinen – passagerarnas skräck på planet - Aftonbladet
 - Colombia: USA har kränkt vår suveränitet - GP
-- Ögonläkare varnar för Millennium: ”Pengar i sjön” - Kristianstadsbladet
+- Allvarlig bussolycka i Brasilien – minst 15 döda - Expressen
 - Northvolt-varslade Rodney vill tillbaka till Sverige - Dagens Arbete
-- Förlorade 20 000 i lön – nu väntas kompensation: »Fantastiskt« - Läkartidningen
+- Ögonläkare varnar för Millennium: ”Pengar i sjön” - Kristianstadsbladet
 - Migrationsverket: ”Vi är inte Sveriges vakthund” - Dagens Arbete
+- Insändare: Konflikten med Tesla visar att ingen lämnas ensam - Enköpingsposten
 - Unik upptäckt – en tidskapsel till livets uppkomst - Marcus Oscarsson
-- Snart ska Copilot kunna skicka mejl på egen hand - Computer Sweden
+- Ljummet mottagande av försenade Paradox-spelet - Di
 
 ## World News
 
@@ -44,31 +44,31 @@ _Updated: 2025-10-19 07:41_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Fina svenska framgångar i Lövsta Future Challenge International Dressage Tour i Herning - Mynewsdesk
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- New Secretary General appointed - Olof Palme International Center
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 
 ## Technology
 
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
 - Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Oron: Då tar datan på internet slut - SvD
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- NVIDIA's SWOT Analysis: NVDA Stock Positioned for Growth Amid AI Boom - Markets.com
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
@@ -121,21 +121,21 @@ _Updated: 2025-10-19 07:41_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
