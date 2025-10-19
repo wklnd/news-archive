@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-19 05:57_
+_Updated: 2025-10-19 06:44_
 
 ## Top Stories
 
 - Fyra ungdomar förda till sjukhus efter att ha druckit sprit - Dagens Nyheter
 - Brinner i kabinen – passagerarnas skräck på planet - Aftonbladet
+- USA: Hamas planerar attack mot civila i Gaza - Västerbottens-Kuriren
 - DN Direkt - Demonstrationer mot Trump – även i Sverige - Dagens Nyheter
-- USA: Hamas planerar attack mot civila i Gaza - Dagens Nyheter
-- Netanyahu ställer upp för omval - GP
-- Misstänkt grovt brott i Malmö – stor polisinsats - SVT Nyheter
+- MP:s plan: Flytta S i migrationspolitiken - GP
+- Kravet: Gör det enklare att byta lägenhet - SvD
 - 17 oktober 13.38, Trafikkontroll, Västernorrlands län - polisen.se
-- MP-toppens skräck – att bli som Liberalerna - Dagens Nyheter
 - Efter gripandet av gängledaren – polisen i Sundsvall kraftsamlar - SVT Nyheter
-- ”Anna-Karin Hatt en saknad brobyggare” - Västerbottens-Kuriren
-- Källor: Putin krävde Donetsk i telefonsamtal med Trump - Dagens Nyheter
-- Hamas: Ska lämna över fler kvarlevor - Västerbottens-Kuriren
+- Susanna Birgersson: Centerpartiets guldläge - GP
+- Gunde Svan på middag med kungen – det åt de - Expressen
 - Minst 17 döda i trafikolycka i Brasilien - SVT Nyheter
-- Nio dödades när Israel besköt buss i Gaza - Dagens Nyheter
+- Källor: Putin krävde Donetsk i telefonsamtal med Trump - Dagens Nyheter
+- Israel: Har tagit emot fler kvarlevor - UNT
+- Trump fryser 120 miljarder - Expressen
 - Ögonläkare varnar för Millennium: ”Pengar i sjön” - Kristianstadsbladet
-- SEB:s chefsekonom om guldrallyt: ”Fortsätter uppåt” - Di
 - Northvolt-varslade Rodney vill tillbaka till Sverige - Dagens Arbete
+- Förlorade 20 000 i lön – nu väntas kompensation: »Fantastiskt« - Läkartidningen
 - MP vill se statliga avtal för elektrifiering - Aftonbladet
 - Snart ska Copilot kunna skicka mejl på egen hand - Computer Sweden
 - Unik upptäckt – en tidskapsel till livets uppkomst - Marcus Oscarsson
@@ -30,23 +30,23 @@ _Updated: 2025-10-19 05:57_
 - Är en global etik en utopi? - Dagens Arena
 - Schemat för Global Series-helgen i Sverige - NHL.com
 - Vantage tar hem tre utmärkelser vid Global Forex Awards - Retail 2025 - PR Newswire
-- Global demand for Gripen jets fuels SAAB's growth in Linköping - Sveriges Radio
 - Sverige klättrar på global pensionsrankning - Finanswatch.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Newsroom
 - Global kompetens driver hållbara industrisatsningar i norr - ABB Group
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Fina svenska framgångar i Lövsta Future Challenge International Dressage Tour i Herning - Mynewsdesk
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 
 ## Technology
 
@@ -60,16 +60,16 @@ _Updated: 2025-10-19 05:57_
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
 - Bästa AI-aktierna att köpa nu - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- NVIDIA's SWOT Analysis: NVDA Stock Positioned for Growth Amid AI Boom - Markets.com
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 
 ## Business
 
@@ -121,21 +121,21 @@ _Updated: 2025-10-19 05:57_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
