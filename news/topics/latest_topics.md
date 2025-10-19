@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-19 20:45_
+_Updated: 2025-10-19 21:38_
 
 ## Top Stories
 
 - Nya flygattacker mot Gaza – Israel stoppar nödhjälp - Dagens Nyheter
 - Medier: Trump och Zelenskyj i bråk om Putinkrav - GP
+- Ryska kravet: Donetsk i utbyte mot fred - DI
+- Trafiken fick ledas om efter olycka på E22 - NT
 - Dan sörjer sin fru som fortfarande lever: ”Hon var helt svart i blicken” - GP
 - ”Greken” fortsatt häktad – förhandlingar vid tre tingsrätter idag - SVT Nyheter
-- Minderåriga i Nacka förda till sjukhus: "Köpt fulsprit" - Nacka Värmdö Posten
-- Det ska Ukraina oroa sig för i drönarkriget - Hufvudstadsbladet
+- Fem ungdomar anhållna efter alkoholförgiftning i Stockholm - Dagens Nyheter
 - Bil körde ned i vattnet – en död - Västerbottens-Kuriren
 - 19 oktober 07.01, Sammanfattning natt, Örebro län - polisen.se
 - Trumpkritiker intog USA:s gator: ”Inga kungar” - Sydsvenskan
-- MP:s plan: Flytta S i migrationspolitiken - GP
-- Trump och Petro i ordbråk: ”Knarkhandlare” - Västerbottens-Kuriren
-- Kupp mot Louvren – Ovärderliga smycken stulna - DI
-- Påven Leo vädjar om vapenvila i Myanmar och fred i krigshärjade länder - Vatican News
-- Nordkoreansk soldat hoppade av till Sydkorea - Folkbladet
+- Iran avrättar misstänkt israelisk spion - GP
+- DN Direkt - Trump och Petro i ordbråk: ”Knarkhandlare” - Dagens Nyheter
+- Det ska Ukraina oroa sig för i drönarkriget - Hufvudstadsbladet
+- Kupp mot Louvren – Napoleons smycken uppges stulits - DI
 - Sänkt krav på kontantinsats får kritik: ”Högre bopriser” - Omni
 - Trump om nya tullhotet mot Kina: Inte hållbart - Tidningen Näringslivet
-- Så många jobb i farozonen när AI tar över - sla.se
+- Så många jobb i farozonen när AI tar över - NWT
 - Northvolt-varslade Rodney vill tillbaka till Sverige - Dagens Arbete
 - Apple oroade över nya Siri - mobil.se
 - Ni spelare bestämmer om Ghost of Yotei får DLC - FZ.se
@@ -81,18 +81,18 @@ _Updated: 2025-10-19 20:45_
 - Musk om raset i Tesla: ”Löser sig på längre sikt” - Omni
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - JPMorgan Chase affärsmodell - Business Model Analyst
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Student and entry-level programs - EY
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 
 ## Health
 
@@ -107,7 +107,7 @@ _Updated: 2025-10-19 20:45_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Johan von Schreeb - Karolinska Institutet
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
