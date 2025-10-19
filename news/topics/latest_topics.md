@@ -1,36 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-19 09:37_
+_Updated: 2025-10-19 10:42_
 
 ## Top Stories
 
 - Fem anhållna misstänkta för olovlig försäljning – tonåringar i Stockholmsområdet förgiftade av sprit - SVT Nyheter
-- Karl Dalén: Protesterna en seger för det fredliga motståndet - Dagens Nyheter
-- Källor: Putin krävde Donetsk i telefonsamtal med Trump - Dagens Nyheter
+- DN Direkt - Trump attackerar demonstranter med bajs i AI-video - Dagens Nyheter
 - USA: Hamas planerar attack mot civila i Gaza - Västerbottens-Kuriren
+- Källor: Putin krävde Donetsk i telefonsamtal med Trump - Dagens Nyheter
+- Här är löftena kring Karlatornet som sprack - GP
 - ”Vi kommer aldrig medverka till att det blir ny kärnkraft” - Dagens Nyheter
-- 19 oktober 07.01, Sammanfattning natt, Örebro län - polisen.se
-- MP:s plan: Flytta S i migrationspolitiken - Dagens Nyheter
 - Kravet: Gör det enklare att byta lägenhet - UNT
+- MP:s plan: Flytta S i migrationspolitiken - Västerbottens-Kuriren
+- 19 oktober 07.01, Sammanfattning natt, Örebro län - polisen.se
 - 19 oktober 08.06, Sammanfattning natt, Västernorrlands län - polisen.se
-- I NATT: Man till sjukhus efter misshandel – stökig natt i Värmland - NWT
-- Netanyahus framtid: Omval eller Haag? - GP
+- Ung man allvarligt skadad i crossolycka - Expressen
 - Israel: Har tagit emot fler kvarlevor - UNT
-- DN Direkt - Colombia: USA har kränkt vår suveränitet - Dagens Nyheter
-- Brinner i kabinen – passagerarnas skräck på planet - Aftonbladet
+- Fredschans efter många försök: Varför först nu? - GP
+- Colombia: USA har kränkt vår suveränitet - Västerbottens-Kuriren
 - Varningen: Nya regler kan ge högre bopriser - SvD
-- Basinkomst är ett luftslott inom kapitalismens ramar - tidningensyre.se
 - Hemtjänstpersonal uppsagda efter tråd på Facebook - Aftonbladet
+- Basinkomst är ett luftslott inom kapitalismens ramar - tidningensyre.se
 - Northvolt-varslade Rodney vill tillbaka till Sverige - Dagens Arbete
 - Otrolig upptäckt: Världens största rymdteleskop avbildar något "mycket spännande" nära jorden - Illustrerad Vetenskap
-- Unik upptäckt – en tidskapsel till livets uppkomst - Marcus Oscarsson
+- Oväntad kemi på Saturnus kyliga måne Titan - Forskning.se
 
 ## World News
 
 - Är en global etik en utopi? - Dagens Arena
 - Schemat för Global Series-helgen i Sverige - NHL.com
+- One Heung Kong released the White Paper on Global Sustainable and Healthy Living Environments jointly with other institutions - Placera.se
+- Global demand for Gripen jets fuels SAAB's growth in Linköping - Sveriges Radio
 - Vantage tar hem tre utmärkelser vid Global Forex Awards - Retail 2025 - PR Newswire
-- Sverige klättrar på global pensionsrankning - Finanswatch.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
@@ -38,38 +39,37 @@ _Updated: 2025-10-19 09:37_
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Armand Duplantis soars to third world title and 14th world record - BBC
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Fina svenska framgångar i Lövsta Future Challenge International Dressage Tour i Herning - Mynewsdesk
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- New Secretary General appointed - Olof Palme International Center
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Sverige klättrar på global pensionsrankning - Finanswatch.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- CHiQ Strengthens Global Sports Engagement with FIS Ski Jumping World Cup Partnership - Placera.se
 
 ## Technology
 
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
-- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Oron: Då tar datan på internet slut - SvD
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
+- Bästa AI-aktierna att köpa nu - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- NVIDIA's SWOT Analysis: NVDA Stock Positioned for Growth Amid AI Boom - Markets.com
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 
 ## Business
 
@@ -91,8 +91,8 @@ _Updated: 2025-10-19 09:37_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 
 ## Health
 
@@ -106,7 +106,7 @@ _Updated: 2025-10-19 09:37_
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Di
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
@@ -122,23 +122,23 @@ _Updated: 2025-10-19 09:37_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
