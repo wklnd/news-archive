@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-19 14:59_
+_Updated: 2025-10-19 15:39_
 
 ## Top Stories
 
-- Medier: Israel har attackerat Gaza från luften - Dagens Nyheter
-- ”Greken” fortsatt häktad – misstänks för grova narkotikabrott - SVT Nyheter
-- DN Direkt - Trump attackerar demonstranter med bajs i AI-video - Dagens Nyheter
-- Striden inom MP: ”Das Kapital” nedröstat - SvD
+- Ord mot ord om vem som bryter mot vapenvilan – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Gängtoppen ”Greken" häktas igen – nekar till brott - Västerbottens-Kuriren
 - Minderåriga i Nacka förda till sjukhus: "Köpt fulsprit" - Nacka Värmdö Posten
-- Bil körde ned i vattnet – en död - Västerbottens-Kuriren
+- DN Direkt - Trump attackerar demonstranter med bajs i AI-video - Dagens Nyheter
+- Unga gröna tar strid om skatten med ”Das Kapital” - SvD
+- Bil körde ned i vattnet – en död - GP
 - 19 oktober 07.01, Sammanfattning natt, Örebro län - polisen.se
-- MP:s plan: Flytta S i migrationspolitiken - Västerbottens-Kuriren
+- MP:s plan: Flytta S i migrationspolitiken - Dagens Nyheter
 - 19 oktober 08.06, Sammanfattning natt, Västernorrlands län - polisen.se
 - Rödgrönt övertag – men allt kan hända - Västerbottens-Kuriren
-- Kupp mot Louvren – Ovärderliga smycken stulna - DI
+- Napoleons smycken stulna från Louvren – polisjakt på rånarna - Dagens Nyheter
+- Påven Leo vädjar om vapenvila i Myanmar och fred i krigshärjade länder - Vatican News
+- Nordkoreansk soldat hoppade av till Sydkorea - Västerbottens-Kuriren
 - Därför tror Trump att Tony Blair kan säkra freden i Gaza - Dagens Nyheter
-- Ung man allvarligt skadad i crossolycka - Expressen
-- Fredschans efter många försök: Varför först nu? - Västerbottens-Kuriren
 - Sänkt krav på kontantinsats får kritik: ”Högre bopriser” - Omni
 - Så många jobb i farozonen när AI tar över - SvD
-- Expert skeptisk till AI-argument – pekar ut Klarna - Omni
-- Kina går med på nya tullsamtal med USA - DI
+- Din arbetsgivare skyller på AI – men det är bara “en stor ursäkt” - Dagens PS
+- Kina går med på nya tullsamtal med USA - Tidningen Näringslivet
 - Windows 11 25H2 är nu tillgängligt för alla Windows 11-datorer - PC för Alla
 - På TV ikväll: Tom Hanks är "helt fantastisk" som grinig änkling i hjärtvärmande dramakomedi - MovieZine
 
@@ -78,21 +78,21 @@ _Updated: 2025-10-19 14:59_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Musk om raset i Tesla: ”Löser sig på längre sikt” - Omni
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- JPMorgan Chase affärsmodell - Business Model Analyst
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- JPMorgan Chase affärsmodell - Business Model Analyst
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 
 ## Health
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-19 14:59_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Unga lantbrukare får ingen chans - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
