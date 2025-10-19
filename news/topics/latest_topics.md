@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-19 08:46_
+_Updated: 2025-10-19 09:37_
 
 ## Top Stories
 
-- Minderåriga i Nacka förda till sjukhus: "Köpt fulsprit" - Nacka Värmdö Posten
+- Fem anhållna misstänkta för olovlig försäljning – tonåringar i Stockholmsområdet förgiftade av sprit - SVT Nyheter
 - Karl Dalén: Protesterna en seger för det fredliga motståndet - Dagens Nyheter
-- Putins krav: Donetsk i utbyte mot fred - GP
+- Källor: Putin krävde Donetsk i telefonsamtal med Trump - Dagens Nyheter
 - USA: Hamas planerar attack mot civila i Gaza - Västerbottens-Kuriren
 - ”Vi kommer aldrig medverka till att det blir ny kärnkraft” - Dagens Nyheter
-- 19 oktober 08.06, Sammanfattning natt, Västernorrlands län - polisen.se
+- 19 oktober 07.01, Sammanfattning natt, Örebro län - polisen.se
 - MP:s plan: Flytta S i migrationspolitiken - Dagens Nyheter
 - Kravet: Gör det enklare att byta lägenhet - UNT
-- 19 oktober 07.01, Sammanfattning natt, Örebro län - polisen.se
+- 19 oktober 08.06, Sammanfattning natt, Västernorrlands län - polisen.se
 - I NATT: Man till sjukhus efter misshandel – stökig natt i Värmland - NWT
-- Netanyahu ställer upp för omval - UNT
+- Netanyahus framtid: Omval eller Haag? - GP
+- Israel: Har tagit emot fler kvarlevor - UNT
+- DN Direkt - Colombia: USA har kränkt vår suveränitet - Dagens Nyheter
 - Brinner i kabinen – passagerarnas skräck på planet - Aftonbladet
-- Colombia: USA har kränkt vår suveränitet - GP
-- Allvarlig bussolycka i Brasilien – minst 15 döda - Expressen
+- Varningen: Nya regler kan ge högre bopriser - SvD
+- Basinkomst är ett luftslott inom kapitalismens ramar - tidningensyre.se
+- Hemtjänstpersonal uppsagda efter tråd på Facebook - Aftonbladet
 - Northvolt-varslade Rodney vill tillbaka till Sverige - Dagens Arbete
-- Ögonläkare varnar för Millennium: ”Pengar i sjön” - Kristianstadsbladet
-- Migrationsverket: ”Vi är inte Sveriges vakthund” - Dagens Arbete
-- Insändare: Konflikten med Tesla visar att ingen lämnas ensam - Enköpingsposten
+- Otrolig upptäckt: Världens största rymdteleskop avbildar något "mycket spännande" nära jorden - Illustrerad Vetenskap
 - Unik upptäckt – en tidskapsel till livets uppkomst - Marcus Oscarsson
-- Ljummet mottagande av försenade Paradox-spelet - Di
 
 ## World News
 
@@ -44,9 +44,9 @@ _Updated: 2025-10-19 08:46_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Fina svenska framgångar i Lövsta Future Challenge International Dressage Tour i Herning - Mynewsdesk
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 
 ## Technology
 
@@ -121,24 +121,24 @@ _Updated: 2025-10-19 08:46_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
