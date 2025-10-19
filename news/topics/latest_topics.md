@@ -1,36 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-19 13:37_
+_Updated: 2025-10-19 14:59_
 
 ## Top Stories
 
 - Medier: Israel har attackerat Gaza från luften - Dagens Nyheter
 - ”Greken” fortsatt häktad – misstänks för grova narkotikabrott - SVT Nyheter
-- Minderåriga i Nacka förda till sjukhus: "Köpt fulsprit" - Nacka Värmdö Posten
 - DN Direkt - Trump attackerar demonstranter med bajs i AI-video - Dagens Nyheter
-- Israeliska flygattacker mot Gaza efter fredsuppgörelsen - DI
-- För Bodil och Cecilia är alla månader rosa: ”Jag ville ge tillbaka” - Sydsvenskan
+- Striden inom MP: ”Das Kapital” nedröstat - SvD
+- Minderåriga i Nacka förda till sjukhus: "Köpt fulsprit" - Nacka Värmdö Posten
 - Bil körde ned i vattnet – en död - Västerbottens-Kuriren
 - 19 oktober 07.01, Sammanfattning natt, Örebro län - polisen.se
-- MP:s plan: Flytta S i migrationspolitiken - GP
+- MP:s plan: Flytta S i migrationspolitiken - Västerbottens-Kuriren
 - 19 oktober 08.06, Sammanfattning natt, Västernorrlands län - polisen.se
-- Napoleons smycken stulna från Louvren – polisjakt på rånarna - Dagens Nyheter
-- Ung man allvarligt skadad i crossolycka - Expressen
+- Rödgrönt övertag – men allt kan hända - Västerbottens-Kuriren
+- Kupp mot Louvren – Ovärderliga smycken stulna - DI
 - Därför tror Trump att Tony Blair kan säkra freden i Gaza - Dagens Nyheter
-- Nordkoreansk soldat hoppade av till Sydkorea - Västerbottens-Kuriren
-- Varningen: Nya regler kan ge högre bopriser - SvD
-- Runt 300 000 tjänstemannajobb kan försvinna när AI tar över - Sydsvenskan
+- Ung man allvarligt skadad i crossolycka - Expressen
+- Fredschans efter många försök: Varför först nu? - Västerbottens-Kuriren
+- Sänkt krav på kontantinsats får kritik: ”Högre bopriser” - Omni
+- Så många jobb i farozonen när AI tar över - SvD
 - Expert skeptisk till AI-argument – pekar ut Klarna - Omni
-- Basinkomst är ett luftslott inom kapitalismens ramar - tidningensyre.se
+- Kina går med på nya tullsamtal med USA - DI
+- Windows 11 25H2 är nu tillgängligt för alla Windows 11-datorer - PC för Alla
 - På TV ikväll: Tom Hanks är "helt fantastisk" som grinig änkling i hjärtvärmande dramakomedi - MovieZine
-- EU vill standardisera laddare och laddkablar - SweClockers
 
 ## World News
 
-- Är en global etik en utopi? - Dagens Arena
 - Schemat för Global Series-helgen i Sverige - NHL.com
-- One Heung Kong released the White Paper on Global Sustainable and Healthy Living Environments jointly with other institutions - Placera.se
+- Är en global etik en utopi? - Dagens Arena
 - Global demand for Gripen jets fuels SAAB's growth in Linköping - Sveriges Radio
+- Sverige klättrar på global pensionsrankning - Finanswatch.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
@@ -38,15 +38,15 @@ _Updated: 2025-10-19 13:37_
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Vantage tar hem tre utmärkelser vid Global Forex Awards - Retail 2025 - PR Newswire
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Sverige klättrar på global pensionsrankning - Finanswatch.se
+- WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- CHiQ Strengthens Global Sports Engagement with FIS Ski Jumping World Cup Partnership - Placera.se
+- New Secretary General appointed - Olof Palme International Center
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 
 ## Technology
 
