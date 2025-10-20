@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-20 13:38_
+_Updated: 2025-10-20 15:06_
 
 ## Top Stories
 
 - Mikael, 15, dog av fyrverkeripjäs på nyår – man döms för flera brott - SVT Nyheter
-- Kristofer Ahlström: Trumps bajsbomber är bara början på idiotin - Dagens Nyheter
+- Kristofer Ahlström: Trumps bajsbomber är bara början på idiotin - DN
 - Kvinna död i lägenhetsbrand i Kungälv - Västerbottens-Kuriren
-- PFAS-skum sköts rutinmässigt ut i naturen - SvD
-- DN Direkt - Döms för att ha ofredat journalist - Dagens Nyheter
-- Kometer och meteorregn i veckan: ”Ta med önskelistan” - Aftonbladet
+- Spelet bakom vapenvilan i Gaza – enligt Trumps förhandlare - GP
+- ”Insåg då: Kan inte låta barnen hämta posten” - SvD
+- PFAS-skandalen: Hemlig inspelning ökar trycket på Försvarsmakten - Byggahus.se
 - Halka i Värmland – det här gäller: ”Striktare regler” - NWT
 - Gängtoppen ”Greken" häktas igen – nekar till brott - UNT
-- DN Direkt - Livstid för mord på gängledare i Linköping - Dagens Nyheter
-- 50-tal bilar körde fel – hamnade av misstag i Sverige - SVT Nyheter
-- Trump: Vapenvilan i Gaza gäller än - SVT Nyheter
-- Vad händer med Hamas nu? - Dagens Arena
-- DN Direkt - Plan krockade på Hongkongs flygplats – två döda - Dagens Nyheter
-- Zelenskyj deltar i Budapest-möte – om han får - Västerbottens-Kuriren
+- DN Direkt - Klart: Graham Potter tar över som förbundskapten - DN
+- Man döms för ofredande av journalist i Malmö - Västerbottens-Kuriren
+- Michael Winiarski: Trump går på Putins linje igen - DN
+- Humanitärt bistånd åter in i Gaza - DN
+- Plan krockade på Hongkongs flygplats – två döda - Västerbottens-Kuriren
+- Mittenkandidaten Paz vann Bolivias presidentval - Sydsvenskan
 - Stort internetstrul – bland annat Snapchat och Tinder påverkade - SVT Nyheter
-- Sänkta riktkurser för AB Volvo – men höjs av DNB Carnegie - EFN
-- Södra har nått en överenskommelse om att sälja sitt skogsinnehav i Baltikum - Cision News
 - Gruvan lyfter Sandvik – aktien steg på rapport - Di
-- Laddkaos – därför blir det allt krångligare att ladda prylar - PC för Alla
-- Pilotens mystiska skada – på 11 000 meters höjd - Expressen
+- Södra har nått en överenskommelse om att sälja sitt skogsinnehav i Baltikum - Cision News
+- Järfällahus höjer hyran med 1,5 procent – "Vi är väldigt nöjda" - Hem & Hyra
+- Kometer och meteorregn i veckan: ”Ta med önskelistan” - Aftonbladet
+- Ny LED-stage för Virtual Production - tidningenmonitor.se
 
 ## World News
 
+- NHL Global Series 2025 i Stockholm - Örebronyheter
 - Schemat för Global Series-helgen i Sverige - NHL.com
 - Här är programmet för NHL Global Series 2025 i Stockholm - hockeysverige.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
@@ -41,7 +42,6 @@ _Updated: 2025-10-20 13:38_
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- CHiQ Strengthens Global Sports Engagement with FIS Ski Jumping World Cup Partnership - Placera.se
 - Sverige klättrar på global pensionsrankning - Finanswatch.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - New Secretary General appointed - Olof Palme International Center
@@ -60,10 +60,10 @@ _Updated: 2025-10-20 13:38_
 - Oron: Då tar datan på internet slut - SvD
 - Bästa AI-aktierna att köpa nu - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Spår superintelligens om tio år – vill leda racet - Omni
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
@@ -104,18 +104,18 @@ _Updated: 2025-10-20 13:38_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - SIHI Sweden Konferens 2024 - Uppsala universitet
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Di
-- Johan von Schreeb - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Tema: AI inom medicin och hälsa - Karolinska Institutet
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Johan von Schreeb - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
-- iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
 ## Science
 
@@ -157,8 +157,8 @@ _Updated: 2025-10-20 13:38_
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
