@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-20 22:42_
+_Updated: 2025-10-20 23:39_
 
 ## Top Stories
 
-- Så lätt köper unga sprit på Snapchat: ”Smirre för 300” - DN
-- Höll på att hugga ihjäl kvinna från hemtjänsten - GP
+- Kriget i Gaza: Hamas har återfört ytterligare en kropp ur gisslan - DN
 - JUST NU: Polisen spårade flyktbil – tre gripna i Värmland efter våldsamt rån - NWT
-- Kranbil välte – E22 avstängd utanför Hörby - SVT Nyheter
 - ”Tony Blair bör definitivt inte styra över Gaza” - DN
-- Rapport: Undermålig vajer bakom bergbaneolycka - Corren
+- Stopp på E22 på grund av en olycka - NT
+- Kista med gisslan har anlänt till Israel – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Polisen: Omöjligt för ett otränat öga att upptäcka fulsprit - ETC.se
 - PFAS-skum sköts rutinmässigt ut i naturen - Västerbottens-Kuriren
 - 20 oktober 12.53, Trafikkontroll, Norrbottens län - polisen.se
 - ”Greken” häktad – förhandlingar vid tre tingsrätter - SVT Nyheter
 - Hand upp, alla som vill stoppa övervinster i friskolor - UNT
+- DN Direkt - Undermålig vajer bakom bergbaneolycka i Lissabon - DN
 - Grönt ljus för omstridd oljeborrning i Amazonas - Västerbottens-Kuriren
-- DN Direkt - Trump: Jag kommer åka till Kina - DN
-- Gazabons oro: Vi fruktar att kriget återupptas – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Kvarlevor från gisslan i Gaza överlämnad - GP
+- Colombia kallar hem sin USA-ambassadör - GP
+- Tornado utanför Paris – en död - Västerbottens-Kuriren
 - Harald Mix avgår som styrelseordförande för Stegra - SVT Nyheter
 - EU sätter stoppdatum för rysk gas – nya kontrakt förbjuds från 1 januari 2026 - DN
 - Seko lägger ytterligare ett varsel i Tesla-konflikten - Di
@@ -28,25 +28,25 @@ _Updated: 2025-10-20 22:42_
 ## World News
 
 - NHL Global Series 2025 i Stockholm - Örebronyheter
-- Global demand for Gripen jets fuels SAAB's growth in Linköping - Sveriges Radio
-- One Heung Kong released the White Paper on Global Sustainable and Healthy Living Environments jointly with other institutions - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Här är programmet för NHL Global Series 2025 i Stockholm - hockeysverige.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Schemat för Global Series-helgen i Sverige - NHL.com
-- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- Boeing jet returns to US from China, a victim of Trump's tariff war - The Economic Times
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Flest coronasäkra stränder i Portugal och ny global säkerhetsmärkning - travelnews.se
 
 ## Technology
 
@@ -121,24 +121,24 @@ _Updated: 2025-10-20 22:42_
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
