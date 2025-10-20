@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-20 23:39_
+_Updated: 2025-10-21 00:40_
 
 ## Top Stories
 
-- Kriget i Gaza: Hamas har återfört ytterligare en kropp ur gisslan - DN
-- JUST NU: Polisen spårade flyktbil – tre gripna i Värmland efter våldsamt rån - NWT
 - ”Tony Blair bör definitivt inte styra över Gaza” - DN
-- Stopp på E22 på grund av en olycka - NT
 - Kista med gisslan har anlänt till Israel – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Trump får grönt ljus för nationalgarde i Portland - Västerbottens-Kuriren
+- Kvinna vårdas på IVA efter olyckan vid Södra Tuvan - Norran
+- Bilist körde för fort på 30-sträcka – förlorade körkortet - NSD
 - Polisen: Omöjligt för ett otränat öga att upptäcka fulsprit - ETC.se
 - PFAS-skum sköts rutinmässigt ut i naturen - Västerbottens-Kuriren
-- 20 oktober 12.53, Trafikkontroll, Norrbottens län - polisen.se
-- ”Greken” häktad – förhandlingar vid tre tingsrätter - SVT Nyheter
 - Hand upp, alla som vill stoppa övervinster i friskolor - UNT
+- ”Greken” häktad – förhandlingar vid tre tingsrätter - SVT Nyheter
+- I NATT: Man till sjukhus efter misshandel – stökig natt i Värmland - NWT
 - DN Direkt - Undermålig vajer bakom bergbaneolycka i Lissabon - DN
-- Grönt ljus för omstridd oljeborrning i Amazonas - Västerbottens-Kuriren
-- Colombia kallar hem sin USA-ambassadör - GP
-- Tornado utanför Paris – en död - Västerbottens-Kuriren
+- Colombia kallar hem sin USA-ambassadör - Västerbottens-Kuriren
+- Grönt ljus för omstridd oljeborrning i Amazonas - Aftonbladet
+- Kvarlevor från gisslan i Gaza överlämnad - GP
 - Harald Mix avgår som styrelseordförande för Stegra - SVT Nyheter
-- EU sätter stoppdatum för rysk gas – nya kontrakt förbjuds från 1 januari 2026 - DN
-- Seko lägger ytterligare ett varsel i Tesla-konflikten - Di
-- Lagardes varning: Det värsta ligger framför oss - Dagens PS
+- EU-länder överens: Ryska gasen ska bort - Tidningen Näringslivet
+- Seko lägger ytterligare ett varsel i Tesla-konflikten - DI
+- Kräver 77 miljarder: ”Vilselett konsumenter” - SvD
 - Kometer och meteorregn i veckan: ”Ta med önskelistan” - Aftonbladet
 - ”Våra fossilsamlingar är fortfarande en källa till nya rön” - Uppsala universitet
 
@@ -42,7 +42,7 @@ _Updated: 2025-10-20 23:39_
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Schemat för Global Series-helgen i Sverige - NHL.com
 - Boeing jet returns to US from China, a victim of Trump's tariff war - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - 1 426 potential victims identified in global operation against human trafficking - Europol
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
@@ -52,15 +52,15 @@ _Updated: 2025-10-20 23:39_
 
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Oron: Då tar datan på internet slut - SvD
 - Bästa AI-aktierna att köpa nu - Morningstar Canada
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - 290 million for digitalisation of Swedish industry - Vinnova
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
@@ -68,7 +68,7 @@ _Updated: 2025-10-20 23:39_
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Snowflake and Palantir Announce Strategic Partnership for Enterprise-Ready AI & Analytics - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
@@ -104,15 +104,15 @@ _Updated: 2025-10-20 23:39_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Di
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
@@ -121,24 +121,24 @@ _Updated: 2025-10-20 23:39_
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
@@ -149,16 +149,16 @@ _Updated: 2025-10-20 23:39_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Unga lantbrukare får ingen chans - Land Lantbruk
