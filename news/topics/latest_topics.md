@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-20 19:40_
+_Updated: 2025-10-20 20:51_
 
 ## Top Stories
 
-- Får alkoholen levererad: ”Precis som Foodora” - SvD
-- Tre bilar inblandade i krasch i Skellefteå – vägen avstängd - SVT Nyheter
+- Polisen: Omöjligt för ett otränat öga att upptäcka fulsprit - ETC.se
 - Kranbil välte – E22 avstängd utanför Hörby - SVT Nyheter
 - Spelet bakom vapenvilan i Gaza – enligt Trumps förhandlare - GP
-- EU sluter upp bakom Ukraina efter stormigt Trump-möte - Europaportalen
-- Ingmar Nevéus: Trumps senaste benådning ett fall av ”kunglig rättvisa” - DN
+- Butiksanställd försökte stoppa rån – blev slagen i ansiktet - Mariestads-Tidningen
+- Bilist körde för fort på 30-sträcka – förlorade körkortet - NSD
+- Gängledaren ”Greken” häktad – 30 brottsmisstankar - Mitt i
+- PFAS-skum sköts rutinmässigt ut i naturen - Västerbottens-Kuriren
+- Lemmon passerar jorden – så ser du kometen - GP
 - Liberalerna vill sänka skatten för barnfamiljer - Omni
-- Man döms för ofredande av journalist i Malmö - Folkbladet
-- Halka i Värmland – det här gäller: ”Striktare regler” - NWT
-- ”Greken” häktad – förhandlingar vid tre tingsrätter - SVT Nyheter
-- Colombia kallar hem sin USA-ambassadör - Västerbottens-Kuriren
-- LÄSARTEXT: FN fyller 80 år den 24 oktober - Allehanda.se
-- Mittenkandidaten Paz vann Bolivias presidentval - GP
-- Sugrör löste mordet på Theresa – efter 41 år - Expressen
+- Man döms för ofredande av journalist i Malmö - GP
+- DN Direkt - Magdalena Eriksson skadad – missar landslagsamlingen - DN
+- Grönt ljus för omstridd oljeborrning i Amazonas - Västerbottens-Kuriren
+- Föreläsning avbruten: ”Rejält stökigt” - Corren
+- Michael Winiarski: Trump går på Putins linje igen - DN
 - Harald Mix slutar som styrelseordförande i Stegra - Aktuell Hållbarhet
 - EU sätter stoppdatum för rysk gas – nya kontrakt förbjuds från 1 januari 2026 - DN
 - Seko lägger ytterligare ett varsel i Tesla-konflikten - DI
-- DNS-problem hos AWS ställde till det på internet - Computer Sweden
-- Kometer och meteorregn i veckan: ”Ta med önskelistan” - Aftonbladet
+- Siffran oroar – krisen kan börja här - SvD
 - ”Våra fossilsamlingar är fortfarande en källa till nya rön” - Uppsala universitet
+- Ny LED-stage för Virtual Production - tidningenmonitor.se
 
 ## World News
 
 - NHL Global Series 2025 i Stockholm - Örebronyheter
 - Global demand for Gripen jets fuels SAAB's growth in Linköping - Sveriges Radio
-- Här är programmet för NHL Global Series 2025 i Stockholm - hockeysverige.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Efter press från USA: Beslut om global miljöskatt på sjöfart bordläggs - DI
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Riyadh International Book Fair 2024: Expanding Global Dialogue through the Largest Collection of Translated Works - Aktiellt
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Schemat för Global Series-helgen i Sverige - NHL.com
+- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
+- Här är programmet för NHL Global Series 2025 i Stockholm - hockeysverige.se
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- Schemat för Global Series-helgen i Sverige - NHL.com
+- One Heung Kong released the White Paper on Global Sustainable and Healthy Living Environments jointly with other institutions - Placera.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 
 ## Technology
 
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
-- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Oron: Då tar datan på internet slut - SvD
 - Bästa AI-aktierna att köpa nu - Morningstar Canada
-- 290 million for digitalisation of Swedish industry - Vinnova
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- 290 million for digitalisation of Swedish industry - Vinnova
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
-- Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Snowflake and Palantir Announce Strategic Partnership for Enterprise-Ready AI & Analytics - Placera.se
+- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
 
@@ -81,6 +81,7 @@ _Updated: 2025-10-20 19:40_
 - Musk om raset i Tesla: ”Löser sig på längre sikt” - Omni
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - JPMorgan Chase affärsmodell - Business Model Analyst
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
@@ -88,11 +89,10 @@ _Updated: 2025-10-20 19:40_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 
 ## Health
 
