@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-20 11:49_
+_Updated: 2025-10-20 12:51_
 
-- What to know about the heist at Paris' Louvre museum - Axios
-- Ceasefire unravels: Gaza sees deadly strikes; aid flows suspended - Los Angeles Times
+- U.S. scrambles to save Gaza peace deal amid new clashes - Axios
 - Patrol vehicle hit by shrapnel as Marines fired live artillery over California interstate, highway patrol says - NBC News
-- Johnson defends calling anti-Trump protests 'hate America' rallies - ABC News - Breaking News, Latest News and Videos
-- Emirates Cargo Plane Slides Off Hong Kong Runway, Killing 2 Ground Crew - The New York Times
-- Trump posts fake video dumping brown substance on rally as GOP dismisses No Kings marches - Axios
+- What jewels did the Louvre thieves target? - Reuters
+- Armed man subdued, arrested after reportedly shoving woman at Kent No Kings protest - Akron Beacon Journal
+- Fact-checking Trump’s claim that each boat strike off Venezuela’s coast saves 25,000 lives - PBS
+- Two Dead After Cargo Jet Skids Into the Sea at Hong Kong Airport - Bloomberg.com
 - Police found Kada Scott's body thanks to anonymous tips, video footage, and her Apple Watch location, sources say - Inquirer.com
+- Lawmakers bemoan Trump’s latest power grab: Troop pay - Politico
 - Trump announces tariffs and an end to U.S. aid to Colombia amid clash over drug trade - NPR
-- Trump urged Ukraine's Zelenskiy to make concessions to Russia in tense meeting, sources say - Reuters
-- Australia Pitches to Be US Fix for China’s Rare Earths Curbs - Bloomberg.com
-- Rodrigo Paz Pereira wins Bolivia’s presidential runoff marking a new shift to the right - The Guardian
-- North Korean soldier defects to South Korea across the rivals' heavily fortified border - CBS News
-- LDP's Takaichi set to become PM as Japan Innovation agrees to coalition - Nikkei Asia
-- "Absolutely not": Witkoff, Kushner reject Gaza genocide claims in "60 Minutes" interview - Axios
-- China's Q3 GDP growth slows to one-year low in test of long-term policy plans - Reuters
-- Major AWS outage takes down Fortnite, Alexa, Snapchat, and more - The Verge
-- Rare earths shares soar as US and China battle over export controls - Financial Times
-- US Stock Futures Rise as China Trade Tensions Cool: Markets Wrap - Bloomberg.com
-- X is changing how it handles links to try and keep you in the app - The Verge
-- Microsoft Confirms Emergency Update For Millions Of Windows Users - Forbes
+- Authorities investigate the death of a rail conductor who was struck by a train in Montana - AP News
+- Centrist Rodrigo Paz wins Bolivia’s presidential election - Financial Times
+- Ultraconservative Sanae Takaichi on track to become Japan’s first female prime minister - AP News
+- Steve Witkoff, Jared Kushner on how they brokered Israel-Hamas deal and what's next for Gaza - CBS News
+- North Korean soldier defects to South Korea across the rivals' heavily fortified border - ABC News - Breaking News, Latest News and Videos
+- Amazon Web Services outage takes down major websites - CNBC
+- China's economy slows as trade war, weak demand highlight structural risks - Reuters
+- Dow futures rally as Trump softens tone on trade war again while first tech earnings and inflation report loom - Fortune
+- Asian shares advance, with Japan's benchmark surging after ruling party forms new coalition - Yahoo Finance
+- Apple’s M5 Product Lineup Offers Its Most Minor Upgrades in Years - Bloomberg.com
+- Google is preparing big screen recording upgrades for Android tablets and PCs - Android Authority
