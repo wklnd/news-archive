@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-20 12:45_
+_Updated: 2025-10-20 13:38_
 
 ## Top Stories
 
-- DN Direkt - Klart: Graham Potter tar över som förbundskapten - Dagens Nyheter
 - Mikael, 15, dog av fyrverkeripjäs på nyår – man döms för flera brott - SVT Nyheter
-- Globalt cyberstrul – appar och webbplatser ligger nere - Expressen
-- Kvinna död i lägenhetsbrand i Kungälv - Västerbottens-Kuriren
 - Kristofer Ahlström: Trumps bajsbomber är bara början på idiotin - Dagens Nyheter
-- Ledare: Fortfarande oklart varför Hatt lämnade - NWT
-- ”Greken” häktad – förhandlingar vid tre tingsrätter - SVT Nyheter
+- Kvinna död i lägenhetsbrand i Kungälv - Västerbottens-Kuriren
+- PFAS-skum sköts rutinmässigt ut i naturen - SvD
+- DN Direkt - Döms för att ha ofredat journalist - Dagens Nyheter
+- Kometer och meteorregn i veckan: ”Ta med önskelistan” - Aftonbladet
 - Halka i Värmland – det här gäller: ”Striktare regler” - NWT
+- Gängtoppen ”Greken" häktas igen – nekar till brott - UNT
 - DN Direkt - Livstid för mord på gängledare i Linköping - Dagens Nyheter
 - 50-tal bilar körde fel – hamnade av misstag i Sverige - SVT Nyheter
 - Trump: Vapenvilan i Gaza gäller än - SVT Nyheter
-- Michael Winiarski: Trump går på Putins linje igen - Dagens Nyheter
 - Vad händer med Hamas nu? - Dagens Arena
-- Mittenkandidaten Paz vann Bolivias presidentval - GP
+- DN Direkt - Plan krockade på Hongkongs flygplats – två döda - Dagens Nyheter
+- Zelenskyj deltar i Budapest-möte – om han får - Västerbottens-Kuriren
+- Stort internetstrul – bland annat Snapchat och Tinder påverkade - SVT Nyheter
 - Sänkta riktkurser för AB Volvo – men höjs av DNB Carnegie - EFN
 - Södra har nått en överenskommelse om att sälja sitt skogsinnehav i Baltikum - Cision News
-- Elbilsbatterierna som håller bäst – Kia i topp - SvD
-- Första hyreshöjningen för 2026 klar – så påverkas hyresgästerna - Horisont magasin
-- DN Direkt - Lemmon passerar jorden – så ser du kometen - Dagens Nyheter
+- Gruvan lyfter Sandvik – aktien steg på rapport - Di
 - Laddkaos – därför blir det allt krångligare att ladda prylar - PC för Alla
+- Pilotens mystiska skada – på 11 000 meters höjd - Expressen
 
 ## World News
 
@@ -40,8 +40,8 @@ _Updated: 2025-10-20 12:45_
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- CHiQ Strengthens Global Sports Engagement with FIS Ski Jumping World Cup Partnership - Placera.se
 - Sverige klättrar på global pensionsrankning - Finanswatch.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - New Secretary General appointed - Olof Palme International Center
@@ -52,23 +52,23 @@ _Updated: 2025-10-20 12:45_
 
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Oron: Då tar datan på internet slut - SvD
+- Bästa AI-aktierna att köpa nu - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
+- Spår superintelligens om tio år – vill leda racet - Omni
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
@@ -81,18 +81,18 @@ _Updated: 2025-10-20 12:45_
 - Musk om raset i Tesla: ”Löser sig på längre sikt” - Omni
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - JPMorgan Chase affärsmodell - Business Model Analyst
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Student and entry-level programs - EY
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 
 ## Health
 
@@ -104,41 +104,41 @@ _Updated: 2025-10-20 12:45_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Di
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
-- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
+- iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
@@ -157,8 +157,8 @@ _Updated: 2025-10-20 12:45_
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
