@@ -1,34 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-20 20:51_
+_Updated: 2025-10-20 21:38_
 
 ## Top Stories
 
 - Polisen: Omöjligt för ett otränat öga att upptäcka fulsprit - ETC.se
+- Tre bilar inblandade i krasch i Skellefteå – vägen avstängd - SVT Nyheter
+- Höll på att hugga ihjäl kvinna från hemtjänsten - GP
 - Kranbil välte – E22 avstängd utanför Hörby - SVT Nyheter
-- Spelet bakom vapenvilan i Gaza – enligt Trumps förhandlare - GP
-- Butiksanställd försökte stoppa rån – blev slagen i ansiktet - Mariestads-Tidningen
 - Bilist körde för fort på 30-sträcka – förlorade körkortet - NSD
 - Gängledaren ”Greken” häktad – 30 brottsmisstankar - Mitt i
 - PFAS-skum sköts rutinmässigt ut i naturen - Västerbottens-Kuriren
-- Lemmon passerar jorden – så ser du kometen - GP
-- Liberalerna vill sänka skatten för barnfamiljer - Omni
-- Man döms för ofredande av journalist i Malmö - GP
-- DN Direkt - Magdalena Eriksson skadad – missar landslagsamlingen - DN
+- Hand upp, alla som vill stoppa övervinster i friskolor - UNT
+- I NATT: Man till sjukhus efter misshandel – stökig natt i Värmland - NWT
+- Nattens händelser från polisen - Örebronyheter
+- DN Direkt - Trump: Jag kommer åka till Kina - DN
 - Grönt ljus för omstridd oljeborrning i Amazonas - Västerbottens-Kuriren
-- Föreläsning avbruten: ”Rejält stökigt” - Corren
-- Michael Winiarski: Trump går på Putins linje igen - DN
-- Harald Mix slutar som styrelseordförande i Stegra - Aktuell Hållbarhet
+- Gazabons oro: Vi fruktar att kriget återupptas – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Polisen utreder misstänkt grovt brott i centrala Stockholm - SVT Nyheter
+- Harald Mix avgår som styrelseordförande för Stegra - SVT Nyheter
 - EU sätter stoppdatum för rysk gas – nya kontrakt förbjuds från 1 januari 2026 - DN
 - Seko lägger ytterligare ett varsel i Tesla-konflikten - DI
-- Siffran oroar – krisen kan börja här - SvD
+- DNS-problem hos AWS ställde till det på internet - Computer Sweden
+- Kometer och meteorregn i veckan: ”Ta med önskelistan” - Aftonbladet
 - ”Våra fossilsamlingar är fortfarande en källa till nya rön” - Uppsala universitet
-- Ny LED-stage för Virtual Production - tidningenmonitor.se
 
 ## World News
 
 - NHL Global Series 2025 i Stockholm - Örebronyheter
 - Global demand for Gripen jets fuels SAAB's growth in Linköping - Sveriges Radio
+- One Heung Kong released the White Paper on Global Sustainable and Healthy Living Environments jointly with other institutions - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
@@ -36,16 +37,15 @@ _Updated: 2025-10-20 20:51_
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Armand Duplantis soars to third world title and 14th world record - BBC
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Efter press från USA: Beslut om global miljöskatt på sjöfart bordläggs - DI
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
 - Här är programmet för NHL Global Series 2025 i Stockholm - hockeysverige.se
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Schemat för Global Series-helgen i Sverige - NHL.com
-- One Heung Kong released the White Paper on Global Sustainable and Healthy Living Environments jointly with other institutions - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 
 ## Technology
@@ -121,44 +121,44 @@ _Updated: 2025-10-20 20:51_
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
-- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Mjau_gåvoshop_mars - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- De gick från reko till eko - ST-tidningen
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Kor som väger sig själva och självstädande ladugårdsgolv – två av flera smarta lösningar på Smart Farming-seminariet - Cision News
+- Tio jordbruksaktier för depån - Placera.se
