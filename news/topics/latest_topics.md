@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-20 21:38_
+_Updated: 2025-10-20 22:42_
 
 ## Top Stories
 
-- Polisen: Omöjligt för ett otränat öga att upptäcka fulsprit - ETC.se
-- Tre bilar inblandade i krasch i Skellefteå – vägen avstängd - SVT Nyheter
+- Så lätt köper unga sprit på Snapchat: ”Smirre för 300” - DN
 - Höll på att hugga ihjäl kvinna från hemtjänsten - GP
+- JUST NU: Polisen spårade flyktbil – tre gripna i Värmland efter våldsamt rån - NWT
 - Kranbil välte – E22 avstängd utanför Hörby - SVT Nyheter
-- Bilist körde för fort på 30-sträcka – förlorade körkortet - NSD
-- Gängledaren ”Greken” häktad – 30 brottsmisstankar - Mitt i
+- ”Tony Blair bör definitivt inte styra över Gaza” - DN
+- Rapport: Undermålig vajer bakom bergbaneolycka - Corren
 - PFAS-skum sköts rutinmässigt ut i naturen - Västerbottens-Kuriren
+- 20 oktober 12.53, Trafikkontroll, Norrbottens län - polisen.se
+- ”Greken” häktad – förhandlingar vid tre tingsrätter - SVT Nyheter
 - Hand upp, alla som vill stoppa övervinster i friskolor - UNT
-- I NATT: Man till sjukhus efter misshandel – stökig natt i Värmland - NWT
-- Nattens händelser från polisen - Örebronyheter
-- DN Direkt - Trump: Jag kommer åka till Kina - DN
 - Grönt ljus för omstridd oljeborrning i Amazonas - Västerbottens-Kuriren
+- DN Direkt - Trump: Jag kommer åka till Kina - DN
 - Gazabons oro: Vi fruktar att kriget återupptas – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Polisen utreder misstänkt grovt brott i centrala Stockholm - SVT Nyheter
+- Kvarlevor från gisslan i Gaza överlämnad - GP
 - Harald Mix avgår som styrelseordförande för Stegra - SVT Nyheter
 - EU sätter stoppdatum för rysk gas – nya kontrakt förbjuds från 1 januari 2026 - DN
-- Seko lägger ytterligare ett varsel i Tesla-konflikten - DI
-- DNS-problem hos AWS ställde till det på internet - Computer Sweden
+- Seko lägger ytterligare ett varsel i Tesla-konflikten - Di
+- Lagardes varning: Det värsta ligger framför oss - Dagens PS
 - Kometer och meteorregn i veckan: ”Ta med önskelistan” - Aftonbladet
 - ”Våra fossilsamlingar är fortfarande en källa till nya rön” - Uppsala universitet
 
@@ -35,18 +35,18 @@ _Updated: 2025-10-20 21:38_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Efter press från USA: Beslut om global miljöskatt på sjöfart bordläggs - DI
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Här är programmet för NHL Global Series 2025 i Stockholm - hockeysverige.se
 - Schemat för Global Series-helgen i Sverige - NHL.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
 
 ## Technology
 
@@ -106,7 +106,7 @@ _Updated: 2025-10-20 21:38_
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Di
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
@@ -121,44 +121,44 @@ _Updated: 2025-10-20 21:38_
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Strategisk dialog om EU:s jordbruk i framtiden - commission.europa.eu
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Mjau_gåvoshop_mars - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- De gick från reko till eko - ST-tidningen
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
-- Kor som väger sig själva och självstädande ladugårdsgolv – två av flera smarta lösningar på Smart Farming-seminariet - Cision News
-- Tio jordbruksaktier för depån - Placera.se
