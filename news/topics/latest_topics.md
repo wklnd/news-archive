@@ -1,24 +1,24 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-21 00:40_
+_Updated: 2025-10-21 01:37_
 
 ## Top Stories
 
-- ”Tony Blair bör definitivt inte styra över Gaza” - DN
-- Kista med gisslan har anlänt till Israel – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Trump får grönt ljus för nationalgarde i Portland - Västerbottens-Kuriren
-- Kvinna vårdas på IVA efter olyckan vid Södra Tuvan - Norran
+- Trump får grönt ljus för nationalgarde i Portland - GP
+- Tre bilar inblandade i krasch i Skellefteå – vägen avstängd - SVT Nyheter
+- Israels militär har öppnat eld mot ”terrorister” - Hufvudstadsbladet
 - Bilist körde för fort på 30-sträcka – förlorade körkortet - NSD
-- Polisen: Omöjligt för ett otränat öga att upptäcka fulsprit - ETC.se
+- Johan Esk: Mjällbys skrällguld är mer klapp på kinden än slag i ansiktet - DN
+- Gängledaren ”Greken” häktad – 30 brottsmisstankar - Mitt i
 - PFAS-skum sköts rutinmässigt ut i naturen - Västerbottens-Kuriren
+- Larmet: Falsk sprit från ”hinkkonton” vanligaste berusningsmedlet hos unga - DN
 - Hand upp, alla som vill stoppa övervinster i friskolor - UNT
-- ”Greken” häktad – förhandlingar vid tre tingsrätter - SVT Nyheter
 - I NATT: Man till sjukhus efter misshandel – stökig natt i Värmland - NWT
 - DN Direkt - Undermålig vajer bakom bergbaneolycka i Lissabon - DN
 - Colombia kallar hem sin USA-ambassadör - Västerbottens-Kuriren
 - Grönt ljus för omstridd oljeborrning i Amazonas - Aftonbladet
 - Kvarlevor från gisslan i Gaza överlämnad - GP
-- Harald Mix avgår som styrelseordförande för Stegra - SVT Nyheter
+- Harald Mix slutar som styrelseordförande i Stegra - Aktuell Hållbarhet
 - EU-länder överens: Ryska gasen ska bort - Tidningen Näringslivet
 - Seko lägger ytterligare ett varsel i Tesla-konflikten - DI
 - Kräver 77 miljarder: ”Vilselett konsumenter” - SvD
@@ -40,11 +40,11 @@ _Updated: 2025-10-21 00:40_
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Här är programmet för NHL Global Series 2025 i Stockholm - hockeysverige.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Schemat för Global Series-helgen i Sverige - NHL.com
 - Boeing jet returns to US from China, a victim of Trump's tariff war - The Economic Times
 - Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- 1 426 potential victims identified in global operation against human trafficking - Europol
 - Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 - Flest coronasäkra stränder i Portugal och ny global säkerhetsmärkning - travelnews.se
 
@@ -61,7 +61,6 @@ _Updated: 2025-10-21 00:40_
 - Bästa AI-aktierna att köpa nu - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
@@ -69,7 +68,8 @@ _Updated: 2025-10-21 00:40_
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
+- Snowflake and Palantir Announce Strategic Partnership for Enterprise-Ready AI & Analytics - Placera.se
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 
 ## Business
 
@@ -114,31 +114,31 @@ _Updated: 2025-10-21 00:40_
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
-- iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
