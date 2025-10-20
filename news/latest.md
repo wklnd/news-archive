@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-20 08:54_
+_Updated: 2025-10-20 09:48_
 
-- Thieves steal treasured jewelry from Louvre in 7-minute daylight heist - The Washington Post
+- Jewels of 'inestimable' value stolen from Louvre museum in Paris - Euronews.com
+- U.S. scrambles to save Gaza peace deal amid new clashes - Axios
 - Marine Corps shrapnel hit patrol car on California's I-5 freeway during demonstration: CHP - ABC News - Breaking News, Latest News and Videos
-- Israel resumes ceasefire in Gaza and says aid deliveries will restart Monday - AP News
-- Cargo plane skids off Hong Kong airport runway into sea, leaving two dead - BBC
 - Armed ICE agents break into Gresham home, arrest wrong men, and ‘No Kings’ rallies energize Oregon: Get caugh - OregonLive.com
-- Secret Service finds hunting stand with line of sight to Trump's Air Force One in Florida - Axios
+- Trump announces tariffs and an end to U.S. aid to Colombia amid clash over drug trade - NPR
+- Trump Posts Fake A.I. Video of Himself Flying a ‘King Trump’ Jet Over Protesters - The New York Times
 - Police found Kada Scott's body thanks to anonymous tips, video footage, and her Apple Watch location, sources say - Inquirer.com
-- Trump says US will increase tariffs on Colombia as drug trade feud escalates - Reuters
-- Prosecutors may move to oust James Comey’s defense lawyer - Politico
 - Trump says Ukraine’s Donbas region will have to be ‘cut up’ to end the Russian invasion - AP News
-- Centrist Rodrigo Paz wins Bolivian presidency, ending nearly 20 years of leftist rule - Reuters
+- China set to push high tech in 5-year plan as tensions with US intensify - Financial Times
+- Secret Service finds hunting stand with line of sight to Trump's Air Force One in Florida - Axios
+- Rodrigo Paz Pereira wins Bolivia’s presidential runoff marking a new shift to the right - The Guardian
+- Emirates Cargo Plane Slides Off Hong Kong Runway, Killing 2 Ground Crew - The New York Times
 - North Korean soldier defects to South Korea across the rivals' heavily fortified border - CBS News
 - LDP's Takaichi set to become PM as Japan Innovation agrees to coalition - Nikkei Asia
-- "Absolutely not": Witkoff, Kushner reject Gaza genocide claims in "60 Minutes" interview - Axios
-- China's economic growth slows as trade tensions with US flare up - BBC
-- US Stock Futures Rise as China Trade Tensions Cool: Markets Wrap - Bloomberg.com
+- China's Q3 GDP growth slows to one-year low in test of long-term policy plans - Reuters
 - To hit back at the United States in their trade war, China borrows from the US playbook - Yahoo
-- Dow futures rally as Trump softens tone on trade war again while first tech earnings and inflation report loom - Fortune
+- China stocks rise, brushing off weak GDP data - CNBC
+- Kering and L’Oréal Forge an Alliance in Beauty and Wellness - Kering
 - X is changing how it handles links to try and keep you in the app - The Verge
 - Microsoft Confirms Emergency Update For Millions Of Windows Users - Forbes
