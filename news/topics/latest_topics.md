@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-20 15:06_
+_Updated: 2025-10-20 15:46_
 
 ## Top Stories
 
-- Mikael, 15, dog av fyrverkeripjäs på nyår – man döms för flera brott - SVT Nyheter
 - Kristofer Ahlström: Trumps bajsbomber är bara början på idiotin - DN
-- Kvinna död i lägenhetsbrand i Kungälv - Västerbottens-Kuriren
-- Spelet bakom vapenvilan i Gaza – enligt Trumps förhandlare - GP
+- Äldre kvinna död efter lägenhetsbrand i Kungälv - SVT Nyheter
 - ”Insåg då: Kan inte låta barnen hämta posten” - SvD
-- PFAS-skandalen: Hemlig inspelning ökar trycket på Försvarsmakten - Byggahus.se
+- Försvarsmakten visste om risker med släckvattnet – redan på 90-talet - Sveriges Radio
+- Direkt Kriget i Ukraina - Zelenskyj deltar i Budapest-möte – om han får - DN
+- Seminarium avbrutet av aktivister: "Rejält stökigt" - UNT
 - Halka i Värmland – det här gäller: ”Striktare regler” - NWT
 - Gängtoppen ”Greken" häktas igen – nekar till brott - UNT
-- DN Direkt - Klart: Graham Potter tar över som förbundskapten - DN
-- Man döms för ofredande av journalist i Malmö - Västerbottens-Kuriren
+- Man döms för ofredande av journalist i Malmö - Dagens Media
+- 50-tal bilar körde fel – hamnade av misstag i Sverige - SVT Nyheter
+- Gazabons oro: Vi fruktar att kriget återupptas – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Michael Winiarski: Trump går på Putins linje igen - DN
-- Humanitärt bistånd åter in i Gaza - DN
 - Plan krockade på Hongkongs flygplats – två döda - Västerbottens-Kuriren
-- Mittenkandidaten Paz vann Bolivias presidentval - Sydsvenskan
+- Vad händer med Hamas nu? - Dagens Arena
 - Stort internetstrul – bland annat Snapchat och Tinder påverkade - SVT Nyheter
-- Gruvan lyfter Sandvik – aktien steg på rapport - Di
+- Sandvik rapportlyfter på grön Stockholmsbörs - DI
 - Södra har nått en överenskommelse om att sälja sitt skogsinnehav i Baltikum - Cision News
 - Järfällahus höjer hyran med 1,5 procent – "Vi är väldigt nöjda" - Hem & Hyra
 - Kometer och meteorregn i veckan: ”Ta med önskelistan” - Aftonbladet
@@ -38,38 +38,38 @@ _Updated: 2025-10-20 15:06_
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Armand Duplantis soars to third world title and 14th world record - BBC
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
+- Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- CHiQ Strengthens Global Sports Engagement with FIS Ski Jumping World Cup Partnership - Placera.se
 - Sverige klättrar på global pensionsrankning - Finanswatch.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - New Secretary General appointed - Olof Palme International Center
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 
 ## Technology
 
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Oron: Då tar datan på internet slut - SvD
 - Bästa AI-aktierna att köpa nu - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
-- Spår superintelligens om tio år – vill leda racet - Omni
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
+- New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 
 ## Business
 
@@ -104,18 +104,18 @@ _Updated: 2025-10-20 15:06_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Di
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
-- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Johan von Schreeb - Karolinska Institutet
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
+- iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-20 15:06_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Mjau lanserar Partypuffar med smak av kattmynta – krispiga snacks för lek och belöning - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
-- Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Här är världens största jordbruk - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Unga lantbrukare får ingen chans - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
