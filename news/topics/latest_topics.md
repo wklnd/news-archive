@@ -1,34 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-20 07:41_
+_Updated: 2025-10-20 08:50_
 
 ## Top Stories
 
 - Trump: Vapenvilan gäller fortfarande i Gaza - GP
 - Skarp handgranat i lägenhet i Västerås - SvD
-- Plan gled av landningsbana – två döda - Expressen
+- PODD: Mollie, sex månader, dödförklarades av misstag - HD
+- Trafikolycka på E20 – stor trafikpåverkan - GP
+- DN Direkt - Plan krockade på Hongkongs flygplats – två döda - Dagens Nyheter
 - V-toppen: ”Vett och etikett” löser ingenting - SvD
-- 14-åring pressad att gömma vapen och droger – sen satte han dit knarklangaren - GP
-- Dan sörjer sin fru som fortfarande lever: ”Hon var helt svart i blicken” - GP
+- Bil körde ned i vattnet – en död - Västerbottens-Kuriren
 - Gängtoppen ”Greken" häktas igen – nekar till brott - UNT
+- Fem anhållna misstänkta för olovlig försäljning – tonåringar i Stockholmsområdet förgiftade av sprit - SVT Nyheter
 - 19 oktober 08.06, Sammanfattning natt, Västernorrlands län - Polisen.se
-- I NATT: Man till sjukhus efter misshandel – stökig natt i Värmland - NWT
-- Tiotusentals protesterar mot Trumpstyret i USA - GP
-- DN Direkt - Mittenkandidat leder presidentvalet i Bolivia - Dagens Nyheter
-- Medier: Trump och Zelenskyj i bråk om Putinkrav - GP
+- Mittenkandidaten Paz vann Bolivias presidentval - SVT Nyheter
+- Medier: Trump och Zelenskyj i bråk om Putinkrav - Västerbottens-Kuriren
 - FBI utreder jaktkoja nära Trump - Aftonbladet
 - 60 personer blev av med sin adhd eller autism – Marcus är nu diagnosfri - Dagens Nyheter
+- Första hyreshöjningen för 2026 klar – så påverkas hyresgästerna - Horisont magasin
 - Tusentals svenskar luras i ”pump and dump”-upplägg - Omni
 - Elbilsbatterierna som håller bäst – Kia i topp - SvD
-- Hyresavtal klart – 1,5 procent nästa år - Aftonbladet
-- Din inloggning kan knäckas på en sekund – värsta fällorna - Dagens PS
-- Lemmon passerar jorden – så ser du kometen - Aftonbladet
-- Stallet skakas – efter coronaoro • Febersjuk häst isolerad - Kuriren
+- Varningen: Nya regler kan ge högre bopriser - Östersunds-Posten
+- Lemmon passerar jorden – så ser du kometen i Värmland - VF
+- Laddkaos – därför blir det allt krångligare att ladda prylar - PC för Alla
 
 ## World News
 
 - Schemat för Global Series-helgen i Sverige - NHL.com
 - Global demand for Gripen jets fuels SAAB's growth in Linköping - Sveriges Radio
+- Här är programmet för NHL Global Series 2025 i Stockholm - hockeysverige.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
@@ -46,30 +47,29 @@ _Updated: 2025-10-20 07:41_
 - Sverige klättrar på global pensionsrankning - Finanswatch.se
 - Save the Date: September 26, 2024 – Release of the Global Innovation Index 2024 - World Intellectual Property Organization (WIPO)
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- New Secretary General appointed - Olof Palme International Center
 
 ## Technology
 
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
+- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Oron: Då tar datan på internet slut - SvD
-- Bästa AI-aktierna att köpa nu - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
 
@@ -107,7 +107,7 @@ _Updated: 2025-10-20 07:41_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Di
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
@@ -121,22 +121,22 @@ _Updated: 2025-10-20 07:41_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
 
