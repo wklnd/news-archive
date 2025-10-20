@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-20 15:50_
+_Updated: 2025-10-20 16:50_
 
+- Palestinians in Gaza fear ceasefire ‘could collapse at any moment’ - The Guardian
 - How military’s ‘safe’ plan to fire munitions over Interstate 5 went off the rails with CHP cruiser hit - Los Angeles Times
-- Israel strikes Gaza as both Israel and Hamas accuse each other of breaching ceasefire - NPR
-- Colombia’s Leader Accuses U.S. of Murder, Prompting Trump to Halt Aid - The New York Times
-- Louvre robbery leaves Paris' iconic museum shuttered for a second day - CBS News
-- In Trump's drug war, prisoners may be too much of a legal headache, experts say - Reuters
+- Trump announces tariffs and an end to U.S. aid to Colombia amid clash over drug trade - NPR
 - Armed ICE agents break into Gresham home, arrest wrong men, and ‘No Kings’ rallies energize Oregon: Get caugh - OregonLive.com
+- Officials, locals undercut Trump claims about Venezuela drug boats - The Washington Post
+- Outrage grows over Trump’s 'disgusting' AI response to 'No Kings' - Euronews.com
+- Government shutdown live updates as Senate prepares for 11th vote to fund government - CBS News
 - Lawmakers bemoan Trump’s latest power grab: Troop pay - Politico
-- Police found Kada Scott's body thanks to anonymous tips, video footage, and her Apple Watch location, sources say - Inquirer.com
 - For Alaskan Evacuees, Home Is Gone, With No Return in Sight - The New York Times
-- Trump warned Putin will ‘DESTROY’ Ukraine in '2nd shouting match' with Zelensky - the-sun.com
-- A cargo aircraft skids off a Hong Kong runway into the sea, killing 2 airport workers - AP News
-- Bolivia election: Centrist Rodrigo Paz elected in shift to the right - BBC
+- Prosecutors may move to oust James Comey’s defense lawyer - Politico
+- Manhunt underway for 4 suspects after heist of 'priceless' jewelry at Louvre in Paris - ABC News - Breaking News, Latest News and Videos
+- Centrist Rodrigo Paz wins Bolivia's presidential runoff, topping right-wing rival - NPR
 - Ukraine had a plan on how to engage with Trump. Then, Putin called - The Kyiv Independent
 - Ultraconservative Sanae Takaichi on track to become Japan’s first female prime minister - AP News
 - Amazon cloud computing outage disrupts Snapchat, Ring and many other online services - AP News
 - China’s economy grows at slowest pace in a year as trade war bites - The Washington Post
 - Dow Set to Open Up Amid Hopes for U.S.-China Trade - Barron's
 - Exclusive | Activist Jana Pushes Big Contact-Lens Combination of Cooper and Bausch + Lomb - The Wall Street Journal
-- Apple’s M5 Product Lineup Offers Its Most Minor Upgrades in Years - Bloomberg
-- Samsung bringing Galaxy S26, S26 Plus and S26 Ultra: Are you excited? - Sammy Fans
+- Exynos 2600 Wipes The Floor Against The Competition; Samsung’s Internal Testing Shows 6x Higher AI Performance Than A19 Pro, Snapdragon 8 Elite Gen 5 & More - Wccftech
+- iPhone Air, One Month Later: My Camera and Battery Fears Have Been Put to Rest - CNET
