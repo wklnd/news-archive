@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-20 08:50_
+_Updated: 2025-10-20 09:40_
 
 ## Top Stories
 
+- Graham Potter hyllas av tidigare spelare – här är mannen som tar över Sverige - Dagens Nyheter
 - Trump: Vapenvilan gäller fortfarande i Gaza - GP
-- Skarp handgranat i lägenhet i Västerås - SvD
+- Trafikolycka på E20 i Göteborg – långa köer - GP
+- 20 oktober 02.18, Farligt föremål, misstänkt, Västerås - Polisen.se
+- Plan krockade på Hongkongs flygplats – två döda - GP
 - PODD: Mollie, sex månader, dödförklarades av misstag - HD
-- Trafikolycka på E20 – stor trafikpåverkan - GP
-- DN Direkt - Plan krockade på Hongkongs flygplats – två döda - Dagens Nyheter
-- V-toppen: ”Vett och etikett” löser ingenting - SvD
-- Bil körde ned i vattnet – en död - Västerbottens-Kuriren
 - Gängtoppen ”Greken" häktas igen – nekar till brott - UNT
+- Bil körde ned i vattnet – en död - Västerbottens-Kuriren
 - Fem anhållna misstänkta för olovlig försäljning – tonåringar i Stockholmsområdet förgiftade av sprit - SVT Nyheter
 - 19 oktober 08.06, Sammanfattning natt, Västernorrlands län - Polisen.se
 - Mittenkandidaten Paz vann Bolivias presidentval - SVT Nyheter
-- Medier: Trump och Zelenskyj i bråk om Putinkrav - Västerbottens-Kuriren
+- Direkt Kriget i Ukraina - Litauens utrikesminister: Putin inte välkommen i Europa - Dagens Nyheter
 - FBI utreder jaktkoja nära Trump - Aftonbladet
-- 60 personer blev av med sin adhd eller autism – Marcus är nu diagnosfri - Dagens Nyheter
+- Trump och Zelenskyj i bråk – uppmanade att acceptera Putins krav - Expressen
 - Första hyreshöjningen för 2026 klar – så påverkas hyresgästerna - Horisont magasin
-- Tusentals svenskar luras i ”pump and dump”-upplägg - Omni
 - Elbilsbatterierna som håller bäst – Kia i topp - SvD
-- Varningen: Nya regler kan ge högre bopriser - Östersunds-Posten
+- Småspararare luras med falska tips - SVT Nyheter
+- Varningen: Kinas drag kan stoppa Europas upprustning - Di
 - Lemmon passerar jorden – så ser du kometen i Värmland - VF
 - Laddkaos – därför blir det allt krångligare att ladda prylar - PC för Alla
 
@@ -51,24 +51,24 @@ _Updated: 2025-10-20 08:50_
 ## Technology
 
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
-- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Oron: Då tar datan på internet slut - SvD
+- Bästa AI-aktierna att köpa nu - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Spår superintelligens om tio år – vill leda racet - Omni
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
-- New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
 - SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
@@ -122,20 +122,20 @@ _Updated: 2025-10-20 08:50_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
