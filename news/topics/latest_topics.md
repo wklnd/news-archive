@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-20 10:47_
+_Updated: 2025-10-20 11:43_
 
 ## Top Stories
 
-- 50 förare hamnade i Sverige av misstag - Expressen
-- Trump: Vapenvilan gäller fortfarande i Gaza - Västerbottens-Kuriren
-- DN Direkt - Plan krockade på Hongkongs flygplats – två döda - Dagens Nyheter
-- Trafikolycka på E20 i Göteborg – långa köer - GP
+- Stort internetstrul – bland annat Snapchat och Tinder påverkade - SVT Nyheter
+- Graham Potter utsedd till förbundskapten för herrlandslaget - Svensk fotboll
+- Skulle skjuta fyrverkeri – döms för att ha dödat Mikael, 15 - Aftonbladet
+- Linköpings tingsrätt har i dag meddelat dom i ett mål rörande mord i stadsdelen Berga i Linköping sommaren 2024. - Sveriges Domstolar
+- Trump: Vapenvilan gäller fortfarande i Gaza - GP
 - PFAS-skum sköts rutinmässigt ut i naturen - SvD
-- 20 oktober 02.18, Farligt föremål, misstänkt, Västerås - Polisen.se
+- Halka i Värmland – det här gäller: ”Striktare regler” - NWT
 - Gängtoppen ”Greken" häktas igen – nekar till brott - UNT
 - Bil körde ned i vattnet – en död - Västerbottens-Kuriren
-- Äldre kvinna till sjukhus efter lägenhetsbrand i Kungälv - Expressen
-- Fem anhållna misstänkta för olovlig försäljning – tonåringar i Stockholmsområdet förgiftade av sprit - SVT Nyheter
+- 50-tal bilar körde fel – hamnade av misstag i Sverige - SVT Nyheter
+- DN Direkt - Plan krockade på Hongkongs flygplats – två döda - Dagens Nyheter
 - Vad händer med Hamas nu? - Dagens Arena
-- Mittenkandidaten Paz vann Bolivias presidentval - SVT Nyheter
-- Direkt Kriget i Ukraina - Litauens utrikesminister: Putin inte välkommen i Europa - Dagens Nyheter
-- En person skadad i mc-olycka - Expressen
-- Kapade riktkurser för Volvo: "Ytterligare nedsiderisk" - EFN
+- Mittenkandidaten Paz vann Bolivias presidentval - GP
+- Zelenskyj deltar i Budapest-möte – om han får - Västerbottens-Kuriren
+- Sänkta riktkurser för AB Volvo – men höjs av DNB Carnegie - EFN
 - Första hyreshöjningen för 2026 klar – så påverkas hyresgästerna - Horisont magasin
 - Elbilsbatterierna som håller bäst – Kia i topp - SvD
-- Tusentals svenskar luras i ”pump and dump”-upplägg - Omni
+- Södra har nått en överenskommelse om att sälja sitt skogsinnehav i Baltikum - Cision News
 - Lemmon passerar jorden – så ser du kometen - HD
-- Nicole Falciani startar nytt bolag – och lägger ett annat på is: “Får se om jag har tid” - Breakit
+- Laddkaos – därför blir det allt krångligare att ladda prylar - PC för Alla
 
 ## World News
 
 - Schemat för Global Series-helgen i Sverige - NHL.com
-- One Heung Kong released the White Paper on Global Sustainable and Healthy Living Environments jointly with other institutions - Placera.se
+- Global demand for Gripen jets fuels SAAB's growth in Linköping - Sveriges Radio
 - Här är programmet för NHL Global Series 2025 i Stockholm - hockeysverige.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Armand Duplantis soars to third world title and 14th world record - BBC
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Sverige klättrar på global pensionsrankning - Finanswatch.se
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- New Secretary General appointed - Olof Palme International Center
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 
 ## Technology
@@ -81,8 +81,8 @@ _Updated: 2025-10-20 10:47_
 - Musk om raset i Tesla: ”Löser sig på längre sikt” - Omni
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - JPMorgan Chase affärsmodell - Business Model Analyst
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Student and entry-level programs - EY
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -102,20 +102,20 @@ _Updated: 2025-10-20 10:47_
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
-- iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-20 10:47_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De gick från reko till eko - ST-tidningen
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Unga lantbrukare får ingen chans - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
