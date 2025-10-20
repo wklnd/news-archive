@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-20 10:53_
+_Updated: 2025-10-20 11:49_
 
-- Thieves steal treasured jewelry from Louvre in 7-minute daylight heist - The Washington Post
-- U.S. scrambles to save Gaza peace deal amid new clashes - Axios
-- Marine Corps shrapnel hit patrol car on California's I-5 freeway during demonstration: CHP - ABC News - Breaking News, Latest News and Videos
-- Armed ICE agents break into Gresham home, arrest wrong men, and ‘No Kings’ rallies energize Oregon: Get caugh - OregonLive.com
-- Hong Kong: two people reported killed after cargo plane skids off airport runway - The Guardian
-- Secret Service found a "suspicious stand" near Florida airport used by Trump, FBI says - CBS News
+- What to know about the heist at Paris' Louvre museum - Axios
+- Ceasefire unravels: Gaza sees deadly strikes; aid flows suspended - Los Angeles Times
+- Patrol vehicle hit by shrapnel as Marines fired live artillery over California interstate, highway patrol says - NBC News
+- Johnson defends calling anti-Trump protests 'hate America' rallies - ABC News - Breaking News, Latest News and Videos
+- Emirates Cargo Plane Slides Off Hong Kong Runway, Killing 2 Ground Crew - The New York Times
+- Trump posts fake video dumping brown substance on rally as GOP dismisses No Kings marches - Axios
 - Police found Kada Scott's body thanks to anonymous tips, video footage, and her Apple Watch location, sources say - Inquirer.com
 - Trump announces tariffs and an end to U.S. aid to Colombia amid clash over drug trade - NPR
-- China set to push high tech in 5-year plan as tensions with US intensify - Financial Times
 - Trump urged Ukraine's Zelenskiy to make concessions to Russia in tense meeting, sources say - Reuters
+- Australia Pitches to Be US Fix for China’s Rare Earths Curbs - Bloomberg.com
 - Rodrigo Paz Pereira wins Bolivia’s presidential runoff marking a new shift to the right - The Guardian
 - North Korean soldier defects to South Korea across the rivals' heavily fortified border - CBS News
-- Coalition deal puts Takaichi on brink of becoming Japan's first female PM - Reuters
+- LDP's Takaichi set to become PM as Japan Innovation agrees to coalition - Nikkei Asia
 - "Absolutely not": Witkoff, Kushner reject Gaza genocide claims in "60 Minutes" interview - Axios
 - China's Q3 GDP growth slows to one-year low in test of long-term policy plans - Reuters
+- Major AWS outage takes down Fortnite, Alexa, Snapchat, and more - The Verge
 - Rare earths shares soar as US and China battle over export controls - Financial Times
-- China stocks rise, brushing off weak GDP data - CNBC
 - US Stock Futures Rise as China Trade Tensions Cool: Markets Wrap - Bloomberg.com
 - X is changing how it handles links to try and keep you in the app - The Verge
 - Microsoft Confirms Emergency Update For Millions Of Windows Users - Forbes
