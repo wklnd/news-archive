@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-20 17:41_
+_Updated: 2025-10-20 18:47_
 
 ## Top Stories
 
-- Kranbil välte – E22 avstängd - SVT Nyheter
 - Ledare: Fortfarande oklart varför Hatt lämnade - NWT
+- Kranbil välte – E22 avstängd - SVT Nyheter
+- Ingmar Nevéus: Trumps senaste benådning ett fall av ”kunglig rättvisa” - DN
 - Spelet bakom vapenvilan i Gaza – enligt Trumps förhandlare - GP
-- ”Insåg då: Kan inte låta barnen hämta posten” - SvD
-- Seminarium avbrutet av aktivister: "Rejält stökigt" - UNT
 - Gängledaren ”Greken” häktad – 30 brottsmisstankar - Mitt i
+- Direkt Kriget i Ukraina - Zelenskyj deltar i Budapest-möte – om han får - DN
 - Liberalerna vill sänka skatten för barnfamiljer - Omni
-- Man döms för att ha ofredat journalisten Inas Hamdan - DN
+- Man döms för ofredande av journalist i Malmö - GP
 - Halka i Värmland – det här gäller: ”Striktare regler” - NWT
 - Mikael, 15, dog av fyrverkeripjäs på nyår – man döms för flera brott - SVT Nyheter
-- Trump: Ukrainska Donbass måste ”delas upp” - GP
 - Michael Winiarski: Trump går på Putins linje igen - DN
-- Humanitärt bistånd åter in i Gaza - DN
+- Seminarium avbrutet av aktivister: "Rejält stökigt" - UNT
 - Bolivias nye ledare tänker få bort smugglingen - DN
-- Pressen mot Tesla växer med telefon- och hissblockad - Dagens Arbete
+- Kupp mot konstmuseet Louvren - Aftonbladet
 - Harald Mix avgår som styrelseordförande för Stegra - SVT Nyheter
-- Södra har nått en överenskommelse om att sälja sitt skogsinnehav i Baltikum - Cision News
-- Sandvik rapportlyfter på grön Stockholmsbörs - DI
+- EU sätter stoppdatum för rysk gas – nya kontrakt förbjuds från 1 januari 2026 - DN
+- Seko lägger ytterligare ett varsel i Tesla-konflikten - DI
+- Amazons molntjänst ligger nere – påverkar flera sajter - EFN
 - Kometer och meteorregn i veckan: ”Ta med önskelistan” - Aftonbladet
 - ”Våra fossilsamlingar är fortfarande en källa till nya rön” - Uppsala universitet
 
 ## World News
 
 - NHL Global Series 2025 i Stockholm - Örebronyheter
-- Schemat för Global Series-helgen i Sverige - NHL.com
-- Här är programmet för NHL Global Series 2025 i Stockholm - hockeysverige.se
+- Global demand for Gripen jets fuels SAAB's growth in Linköping - Sveriges Radio
+- One Heung Kong released the White Paper on Global Sustainable and Healthy Living Environments jointly with other institutions - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Trumps beställning: Visa att global uppvärmning är bra - Omni
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Armand Duplantis soars to third world title and 14th world record - BBC
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- New Secretary General appointed - Olof Palme International Center
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Trumps beställning: Visa att global uppvärmning är bra - Omni
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- Armand Duplantis soars to third world title and 14th world record - BBC
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Efter press från USA: Beslut om global miljöskatt på sjöfart bordläggs - DI
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Här är programmet för NHL Global Series 2025 i Stockholm - hockeysverige.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
+- Schemat för Global Series-helgen i Sverige - NHL.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
 
 ## Technology
 
@@ -81,38 +81,39 @@ _Updated: 2025-10-20 17:41_
 - Musk om raset i Tesla: ”Löser sig på längre sikt” - Omni
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - JPMorgan Chase affärsmodell - Business Model Analyst
-- Student and entry-level programs - EY
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Mabel AI won the HealthTech Award 2023 - NewsMachine AB
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
 - iCellate Medical har analyserat det första patientprovet i METRO-studien - it-halsa.se
 
