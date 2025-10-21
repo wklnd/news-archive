@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-22 00:40_
+_Updated: 2025-10-22 01:38_
 
 ## Top Stories
 
 - Michael Winiarski: Trumps fredsförsök i Ukraina har brutit samman - Dagens Nyheter
-- SMHI varnar för ishalka - Expressen
+- ”Skicka Tomahawk till Ukraina” - Västerbottens-Kuriren
+- Tvingas stänga efter 40 år: ”Den epoken är slut” - SvD
+- Så mycket är stulna juvelerna värda - Expressen
 - Hård kritik mot klimatarbetet: Svagt underlag - GP
-- Ja i EU-parlamentet till nya A-traktorn - Västerbottens-Kuriren
-- Direkt Kriget i Ukraina - Inget möte mellan Trump och Putin i närtid - Dagens Nyheter
-- Så mycket är de stulna Louvren-juvelerna värda - Hufvudstadsbladet
+- Många fast i gruva - Expressen
 - Niklas Orrenius: Heilande våldsmän på invandrarjakt angår oss alla - Dagens Nyheter
 - Gaza-aktivisternas kritik: Vi skrev visst på deportationspappren - GP
-- Besked: Efter skandalen i Uddevalla – så ska hemtjänsten organiseras - SVT Nyheter
 - Ungas alkohol- och drogkonsumtion fortsätter minska - Dagens Nyheter
-- Uppgifter: Läkare gripen för våldtäkt på mottagning - Expressen
-- JD Vance har landat i Israel – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Misshandlad man till sjukhus - Expressen
+- Kamerabevakning med drönare i Ljungby 22 okt - polisen.se
+- Europa och Ukraina kontrar Putin med 12 punkter - Västerbottens-Kuriren
 - Här gifter ayatollans rådgivare bort sin dotter – som har bara axlar - Dagens Nyheter
-- Uppgifter: Mix tappar kontrollen – Al Gores fond blir största ägare - EFN
+- Natochef på väg till möte med Trump i Washington - GP
+- Skapa ett mer enhetligt och kraftfullt digitalt Europa - Svenskt Näringsliv
+- Därför är Stegras fiasko värre än Northvolt - Aftonbladet
 - GULDPRISET REKYLERAR NED, DRAR MED SIG LUNDIN GOLD - Placera.se
-- Open AI uppges lansera ny webbläsare - DI
-- Massavhopp i styrelsen för Novo Nordisk - Läkartidningen
-- Första myggan upptäckt på Island - Dagens Nyheter
-- Redmi visar upp mobil med separat basenhet - mobil.se
+- SEB om Novo Nordisk: ”Fullständig härdsmälta” - DI
+- Flera kunder drabbade hos Länsförsäkringar - Aftonbladet
+- Myggorna har hittat till Island: ”Ett hårt slag” - SvD
+- Uppgifter: Open AI lanserar webbläsare - DI
 
 ## World News
 
@@ -33,20 +33,20 @@ _Updated: 2025-10-22 00:40_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Armand Duplantis soars to third world title and 14th world record - BBC
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- First Yes Bank, now RBL Bank: Global banks bet billions on India amid US credit jitters | Business News - Hindustan Times
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global demand for Gripen jets fuels SAAB's growth in Linköping - Sveriges Radio
+- Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Global demand for Gripen jets fuels SAAB's growth in Linköping - Sveriges Radio
+- WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- New Secretary General appointed - Olof Palme International Center
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Boeing jet returns to US from China, a victim of Trump's tariff war - The Economic Times
-- Zeta Global to Announce Third Quarter 2025 Results on November 4, 2025 - Placera.se
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- Club World Cup: Live-resultat, fixturer och tabeller - 365Scores
 - Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 
 ## Technology
 
@@ -73,23 +73,26 @@ _Updated: 2025-10-22 00:40_
 
 ## Business
 
-- BlackRock TCP Capital Corp. to Report Third Quarter Ended September 30, 2025 Financial Results on November 6, 2025 - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- BlackRock TCP Capital Corp. to Report Third Quarter Ended September 30, 2025 Financial Results on November 6, 2025 - Placera.se
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Musk om raset i Tesla: ”Löser sig på längre sikt” - Omni
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- Faciliteten för återhämtning och resiliens - commission.europa.eu
 - JPMorgan Chase affärsmodell - Business Model Analyst
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Student and entry-level programs - EY
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 
 ## Health
 
@@ -133,9 +136,9 @@ _Updated: 2025-10-22 00:40_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
@@ -148,13 +151,13 @@ _Updated: 2025-10-22 00:40_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Till vad ska jordbruket regenereras? - Land Lantbruk
 - Unga lantbrukare får ingen chans - Land Lantbruk
