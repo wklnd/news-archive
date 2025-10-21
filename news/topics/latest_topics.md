@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-21 13:38_
+_Updated: 2025-10-21 15:08_
 
 ## Top Stories
 
-- DN Direkt - Ja i EU-parlamentet till nya A-traktorn - DN
+- Misstänkt våldtäkt på gynmottagning - Aftonbladet
+- Storbråk i KU om Landerholmaffären – ”Mörkläggning” - DN
+- EU-parlamentet röstar igenom nytt körkortsdirektiv - Regeringen.se
 - SMHI varnar: Plötslig ishalka i Norrbottens inland - SVT Nyheter
-- Experter: Trumps mål är handel – inte fred - SvD
-- JD Vance har landat i Israel – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Ministern rasar mot MP-beslut: Asylaktivistiskt - Aftonbladet
-- 14-åring misstänks för granatattack på Linnégatan - GP
-- Regeringens klimatarbete synat: Underlaget brister - DN
-- Stjärnkocken Johnny Johansson död – fick hjärtstopp på fest - GP
-- Hotade med gäng – åtalas för utpressningsförsök - Västerbottens-Kuriren
+- Hård kritik mot klimatarbetet: Svagt underlag - GP
+- Ny rådgivare ska stärka mångfalden i göteborgarnas balkonglådor - GP
+- Riksdagen säger nej till folkomröstning - Västerbottens-Kuriren
+- Charlotte Perrelli hotades med gäng – mannen åtalas - DN
 - S: Förbjud ryska investeringar och turister - GP
-- Europeiskt svar: Utgå från fronten i Ukraina - Västerbottens-Kuriren
-- FN: Kommer inte in tillräckligt med nödhjälp – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Det ska Frankrikes ex-president Sarkozy läsa i fängelset - GP
+- Regeringen uppmanas agera mot dispens för metylenklorid i Eskilstuna - SVT Nyheter
+- Expert: Pragmatisk signal till Trump och Putin - Västerbottens-Kuriren
+- Erik de la Reguera: Franska eliten beter sig som om Sarkozy var på väg till giljotinen - DN
+- JD Vance har landat i Israel – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Första kvinnliga premiärministern vald i Japan - Hufvudstadsbladet
 - Al Gores fond blir ny största ägare i Stegra – Mix tappar kontroll - SvD
+- Astrid Lindgren AB stämmer kroatisk läsktillverkare – misstänkt varumärkesintrång - food-supply.se
 - Husqvarna Group fortsätter förbättra kostnadseffektiviteten genom avveckling av fabrik - Cision News
-- Lägre rörelseresultat än väntat för Nordnet – adminfel tyngde - Di
-- Just nu: Stort strömavbrott i Lycksele - Västerbottens-Kuriren
+- Sveriges tysta bostadskris: ”Systemet hänger inte med” - DN
 - Matematik som berör – kortfilmer och samtal på Uppsala kortfilmfestival - Uppsala universitet
 - Kometen Lemmon passerar jorden – så kan du fånga den på bild: ”Bra vid nymåne” - NLT
 
 ## World News
 
-- NHL Global Series 2025 i Stockholm - Örebronyheter
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
@@ -36,26 +35,27 @@ _Updated: 2025-10-21 13:38_
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Armand Duplantis soars to third world title and 14th world record - BBC
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
+- Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- Techarenan News goes English (Partly at least) - Techarenan News
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - New Secretary General appointed - Olof Palme International Center
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Schemat för Global Series-helgen i Sverige - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 
 ## Technology
 
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Oron: Då tar datan på internet slut - SvD
 - Bästa AI-aktierna att köpa nu - Morningstar Canada
@@ -69,7 +69,7 @@ _Updated: 2025-10-21 13:38_
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
+- Snowflake and Palantir Announce Strategic Partnership for Enterprise-Ready AI & Analytics - Placera.se
 
 ## Business
 
@@ -105,15 +105,15 @@ _Updated: 2025-10-21 13:38_
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Di
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Di
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
 
@@ -127,7 +127,6 @@ _Updated: 2025-10-21 13:38_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
@@ -139,26 +138,27 @@ _Updated: 2025-10-21 13:38_
 - Olika slutsatser från samma data - Läkartidningen
 - Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Till vad ska jordbruket regenereras? - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Unga lantbrukare får ingen chans - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
