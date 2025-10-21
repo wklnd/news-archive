@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-21 18:46_
+_Updated: 2025-10-21 19:41_
 
 ## Top Stories
 
-- Direkt Kriget i Ukraina - Inget möte mellan Trump och Putin i närtid - Dagens Nyheter
-- Misstänkt våldtäkt på gynmottagning - Aftonbladet
-- Man fick ström i sig på Gekås i Ullared – svart på ena armen - SVT Nyheter
-- S och M i nytt bråk om Landerholm-affären - GP
-- SMHI varnar: Plötslig ishalka i Norrbottens inland - SVT Nyheter
+- Trump och Putins toppmöte lagt på is - GP
+- Kreml om Budapest-möte: Kan ta tid – Senaste nytt om kriget i Ukraina - SVT Nyheter
 - Gaza-aktivisternas kritik: Vi skrev visst på deportationspappren - GP
 - Hård kritik mot klimatarbetet: Svagt underlag - Västerbottens-Kuriren
+- Här gifter ayatollans rådgivare bort sin dotter – som har bara axlar - Dagens Nyheter
+- ”Arbetet mot fred går bättre än förväntat” - Dagens Nyheter
+- Storbråk i KU om Landerholmaffären – ”Mörkläggning” - Dagens Nyheter
 - Riksdagen säger nej till folkomröstning - GP
 - Kamerabevakning med drönare på Strandvallens arena under fotbollsmatch - polisen.se
 - LISTA: Över 200 aktiviteter under höstlovet - Östersunds-Posten
-- Kreml om Budapest-möte: Kan ta tid – Senaste nytt om kriget i Ukraina - SVT Nyheter
-- Vance i Israel – ska träffa Netanyahu - Västerbottens-Kuriren
-- Erik de la Reguera: Franska eliten beter sig som om Sarkozy var på väg till giljotinen - Dagens Nyheter
-- Erdogan till Qatar – vill köpa 24 stridsflyg - GP
+- Misstänkt våldtäkt på gynmottagning i Stockholm - SVT Nyheter
+- Norska hovet rasar mot bok om bonusprinsen - Aftonbladet
+- Sarkozy fängslas: ”Oskyldig” - Västerbottens-Kuriren
+- Erdogan till Qatar – vill köpa 24 stridsflyg - Västerbottens-Kuriren
 - Al Gores fond blir ny största ägare i Stegra – Mix tappar kontroll - SvD
 - SEB om Novo Nordisk: ”Fullständig härdsmälta” - DI
 - Train Alliance: Hemlighetsfull järnvägsutvecklare - Affärsvärlden
-- Gauss Fusion lanserar plan för kommersiell fusionskraft - ENERGInyheter.se
+- Ska din AI-kopia få avgöra om du lever eller dör? - Realtid
+- Kräkande zombies och ubåtar – spelutvecklarsatsning släpper skräckspel: ”Blir kaos” - NWT
 - Matematik som berör – kortfilmer och samtal på Uppsala kortfilmfestival - Uppsala universitet
-- Köp alla ”Fallout”-spel för mindre än 500 kronor – perfekt inför säsong 2 av tv-serien - MovieZine
 
 ## World News
 
@@ -35,18 +35,18 @@ _Updated: 2025-10-21 18:46_
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - First Yes Bank, now RBL Bank: Global banks bet billions on India amid US credit jitters | Business News - Hindustan Times
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - New Secretary General appointed - Olof Palme International Center
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Giulia Gaudenzi: ”Key lessons from global health research” - Life Science Sweden
 - Schemat för Global Series-helgen i Sverige - NHL.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 
 ## Technology
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-21 18:46_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Till vad ska jordbruket regenereras? - Land Lantbruk
+- Unga lantbrukare får ingen chans - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
