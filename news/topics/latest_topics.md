@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-21 21:39_
+_Updated: 2025-10-21 22:43_
 
 ## Top Stories
 
-- Direkt Kriget i Ukraina - Inget möte mellan Trump och Putin i närtid - Dagens Nyheter
-- Fredsmöte mellan Trump och Putin ställs in - GP
-- Niklas Orrenius: Heilande våldsmän på invandrarjakt angår oss alla - Dagens Nyheter
+- Michael Winiarski: Trumps fredsförsök i Ukraina har brutit samman - Dagens Nyheter
+- Ryska attacker slår ut elen i ukrainsk stad - GP
+- Sveriges sydligaste skidbacke har stängts ner - Omni
+- Man grovt misshandlad – förd till sjukhus - VLT
+- FN: Kommer inte in tillräckligt med nödhjälp – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Gaza-aktivisternas kritik: Vi skrev visst på deportationspappren - GP
-- Direkt Krisen i Mellanöstern - Vance: Fredsplanen går bättre än väntat - Dagens Nyheter
-- SMHI varnar för ishalka - Expressen
 - Hård kritik mot klimatarbetet: Svagt underlag - Västerbottens-Kuriren
-- Riksdagen säger nej till folkomröstning - GP
+- Niklas Orrenius: Heilande våldsmän på invandrarjakt angår oss alla - Dagens Nyheter
+- Besked: Efter skandalen i Uddevalla – så ska hemtjänsten organiseras - SVT Nyheter
 - Emelie Köhler påbörjade behandling för könsdysfori – ångrade sig - Dagens Nyheter
-- Kamerabevakning med drönare på Strandvallens arena under fotbollsmatch - polisen.se
-- Expert: Pragmatisk signal till Trump och Putin - GP
+- Natochef på väg till möte med Trump i Washington - Västerbottens-Kuriren
 - Här gifter ayatollans rådgivare bort sin dotter – som har bara axlar - Dagens Nyheter
+- Expert: Pragmatisk signal till Trump och Putin - Västerbottens-Kuriren
 - Skapa ett mer enhetligt och kraftfullt digitalt Europa - Svenskt Näringsliv
-- Erdogan till Qatar – vill köpa 24 stridsflyg - Börskollen
 - Uppgifter: Mix tappar kontrollen – Al Gores fond blir största ägare - EFN
-- Open AI uppges lansera ny webbläsare - DI
-- Köpte bil för 729 000 – knappt gått att köra - Expressen
-- Massavhopp i Novo Nordisks styrelse efter konflikt med huvudägaren - Biostock
-- Mygg hittade på Island – för första gången - Västerbottens-Kuriren
+- Uppgifter: Open AI lanserar webbläsare - DI
+- Julia Riswall köpte bil för 729 300 – knappt gått att köra - Expressen
+- Massavhopp i styrelsen för Novo Nordisk - Läkartidningen
+- Mygg hittade på Island – för första gången - Aftonbladet
 - Redmi visar upp mobil med separat basenhet - mobil.se
 
 ## World News
@@ -34,18 +34,18 @@ _Updated: 2025-10-21 21:39_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Armand Duplantis soars to third world title and 14th world record - BBC
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Global demand for Gripen jets fuels SAAB's growth in Linköping - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Boeing jet returns to US from China, a victim of Trump's tariff war - The Economic Times
-- Global demand for Gripen jets fuels SAAB's growth in Linköping - Sveriges Radio
-- One Heung Kong released the White Paper on Global Sustainable and Healthy Living Environments jointly with other institutions - Placera.se
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Zeta Global to Announce Third Quarter 2025 Results on November 4, 2025 - Placera.se
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
 
 ## Technology
@@ -74,13 +74,15 @@ _Updated: 2025-10-21 21:39_
 ## Business
 
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - BlackRock TCP Capital Corp. to Report Third Quarter Ended September 30, 2025 Financial Results on November 6, 2025 - Placera.se
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Musk om raset i Tesla: ”Löser sig på längre sikt” - Omni
+- Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
+- Faciliteten för återhämtning och resiliens - commission.europa.eu
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- JPMorgan Chase affärsmodell - Business Model Analyst
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -88,10 +90,8 @@ _Updated: 2025-10-21 21:39_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 
 ## Health
@@ -114,7 +114,7 @@ _Updated: 2025-10-21 21:39_
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
 
 ## Science
@@ -132,12 +132,12 @@ _Updated: 2025-10-21 21:39_
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 - Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
 
 ## Jordbruk
