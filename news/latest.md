@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-21 17:49_
+_Updated: 2025-10-21 18:52_
 
-- White House Works to Preserve Gaza Deal Amid Concerns About Netanyahu - The New York Times
+- Vance arrives in Israel as US tries to strengthen Gaza ceasefire - BBC
 - Photos: Trump hails demolition of part of White House for ballroom construction - Axios
-- Another Trump-Putin summit? Not so fast. - Politico
+- Trump’s second meeting with Putin is off - Politico
 - Marines investigating errant live-fire blast over California’s I-5 - The Washington Post
-- Appeals court sides with Trump on troop deployment to Portland ICE building - OregonLive.com
 - Stolen Louvre treasures are uninsured, France says - Financial Times
-- Pardoned Jan. 6 Rioter Charged With Threatening Hakeem Jeffries - The New York Times
+- January 6 US Capitol rioter arrested for alleged threat to kill Hakeem Jeffries - The Guardian
 - Paul Ingrassia: Report on Trump nominee's "Nazi streak" text threatens Senate confirmation - Axios
-- Government shutdown live updates as Trump is set to meet with Senate Republicans - CBS News
 - Republicans aren’t negotiating an Obamacare extension yet. But they’re getting ready. - Politico
-- Japan's parliament elects Sanae Takaichi as nation's first female prime minister - NPR
-- Former French President Sarkozy begins a 5-year prison sentence for campaign finance conspiracy - AP News
-- Trump's Tight Control Over His Ambiguous Gaza Deal Has Netanyahu Spiraling - Haaretz
+- Commentary: Trump’s AI poop post caps a week of MAGA indifference to Hitler jokes - Los Angeles Times
+- Can a U.S.-Australia Deal on Rare Earths Counter China’s Dominance? - The New York Times
+- Who is Sanae Takaichi, Japan’s ‘Iron Lady’ and first female prime minister? - Al Jazeera
+- Former French President Sarkozy begins a 5-year prison sentence for campaign finance conspiracy - ABC News - Breaking News, Latest News and Videos
 - Former Belgian PM Alexander De Croo snags big UN job - politico.eu
-- Warner Bros. Discovery Says It Is Evaluating Acquisition Offers From ‘Multiple Parties’ - Variety
-- AWS services 'fully recovered' after major outage disrupts apps and websites around the world - Yahoo
+- Why Diwali Is Also the Start of Air Pollution Season in New Delhi - The New York Times
 - General Motors lifts forecast as tariff outlook improves, shares surge 14% - Reuters
-- This is the worst the jobs market has looked (outside of a recession) in 50 years, says Goldman Sachs, meaning bullish GDP estimates are too optimistic - Fortune
-- Apple iPad Pro (2025) review: fast, faster, fastest - The Verge
-- Don't let anyone tell you you're not skilled enough to enjoy Ninja Gaiden 4 - I'm near-incompetent yet having an absolute blast with Xbox's hack 'n' slash - Eurogamer
+- AWS services 'fully recovered' after major outage disrupts apps and websites around the world - Yahoo
+- Warner Bros. Discovery Says It Is Evaluating Acquisition Offers From ‘Multiple Parties’ - Variety
+- Netflix reports earnings after the bell. Here's what to expect - CNBC
+- iPad Pro M5 review: Speed boost - Engadget
+- Exclusive: Apple alerts exploit developer that his iPhone was targeted with government spyware - TechCrunch
