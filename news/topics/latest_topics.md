@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-21 15:50_
+_Updated: 2025-10-21 16:43_
 
 ## Top Stories
 
-- DN Direkt - Riksdagen säger nej till folkomröstning - DN
-- Misstänkt våldtäkt på gynmottagning i Stockholm - SVT Nyheter
 - Storbråk i KU om Landerholmaffären – ”Mörkläggning” - DN
 - SMHI varnar: Plötslig ishalka i Norrbottens inland - SVT Nyheter
+- Ja i EU-parlamentet till nya A-traktorn - Västerbottens-Kuriren
 - Ny rådgivare ska stärka mångfalden i göteborgarnas balkonglådor - GP
 - Polisen ryckte ut till skog – Greta Thunberg fastkedjad - Norran
-- Tunga kritiken: Väljarna får fel bild av Sveriges klimatutsläpp - SVT Nyheter
-- Perrelli hotades med gäng – mannen åtalas - Västerbottens-Kuriren
-- S: Förbjud ryska investeringar och turister - GP
+- Effekterna av regeringens klimatpolitik kan ha överskattats - Dagens Arena
+- DN Direkt - Riksdagen säger nej till folkomröstning - DN
+- Perrelli hotades med gäng – man åtalas - GP
 - Kamerabevakning med drönare på Strandvallens arena under fotbollsmatch - polisen.se
+- Regeringen uppmanas agera mot dispens för metylenklorid i Eskilstuna - SVT Nyheter
 - Expert: Pragmatisk signal till Trump och Putin - Västerbottens-Kuriren
 - Erik de la Reguera: Franska eliten beter sig som om Sarkozy var på väg till giljotinen - DN
 - FN: Kommer inte in tillräckligt med nödhjälp – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Första kvinnliga premiärministern vald i Japan - Hufvudstadsbladet
+- Misstänkt våldtäkt på gynmottagning i Stockholm - SVT Nyheter
 - Al Gores fond blir ny största ägare i Stegra – Mix tappar kontroll - SvD
-- Astrid Lindgren AB stämmer kroatisk läsktillverkare – misstänkt varumärkesintrång - food-supply.se
 - Sveriges osynliga bostadskris: “Extremt ökat behov” - Dagens PS
+- Astrid Lindgren AB stämmer kroatisk läsktillverkare – misstänkt varumärkesintrång - food-supply.se
 - Husqvarna Group fortsätter förbättra kostnadseffektiviteten genom avveckling av fabrik - Cision News
 - Matematik som berör – kortfilmer och samtal på Uppsala kortfilmfestival - Uppsala universitet
 - Kometen Lemmon passerar jorden – så kan du fånga den på bild: ”Bra vid nymåne” - NLT
@@ -51,25 +51,25 @@ _Updated: 2025-10-21 15:50_
 ## Technology
 
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Oron: Då tar datan på internet slut - SvD
 - Bästa AI-aktierna att köpa nu - Morningstar Canada
-- 290 million for digitalisation of Swedish industry - Vinnova
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- 290 million for digitalisation of Swedish industry - Vinnova
+- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- Snowflake and Palantir Announce Strategic Partnership for Enterprise-Ready AI & Analytics - Placera.se
+- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
+- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 
 ## Business
 
@@ -89,33 +89,10 @@ _Updated: 2025-10-21 15:50_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
-
-## Health
-
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
-- SIHI Sweden Konferens 2024 - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Di
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
-- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
 
 ## Science
 
@@ -123,22 +100,22 @@ _Updated: 2025-10-21 15:50_
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 
 ## Jordbruk
 
