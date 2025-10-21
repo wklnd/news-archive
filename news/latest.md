@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-21 16:51_
+_Updated: 2025-10-21 17:49_
 
-- Photos: Part of White House demolished for Trump ballroom construction - Axios
-- Stolen Louvre treasures are uninsured, France says - Financial Times
-- Vance arrives in Israel as US tries to strengthen Gaza ceasefire - BBC
-- Biden rings the bell after completing course of radiation therapy for cancer - ABC News - Breaking News, Latest News and Videos
-- Capitol agenda: Time for a new CR? - Politico
+- White House Works to Preserve Gaza Deal Amid Concerns About Netanyahu - The New York Times
+- Photos: Trump hails demolition of part of White House for ballroom construction - Axios
+- Another Trump-Putin summit? Not so fast. - Politico
 - Marines investigating errant live-fire blast over California’s I-5 - The Washington Post
-- Plane makes emergency landing after crew bang on cockpit door over comms problem - NBC News
-- A man took videos as his home floated away with him inside in Alaska's storms - ABC News - Breaking News, Latest News and Videos
+- Appeals court sides with Trump on troop deployment to Portland ICE building - OregonLive.com
+- Stolen Louvre treasures are uninsured, France says - Financial Times
+- Pardoned Jan. 6 Rioter Charged With Threatening Hakeem Jeffries - The New York Times
+- Paul Ingrassia: Report on Trump nominee's "Nazi streak" text threatens Senate confirmation - Axios
+- Government shutdown live updates as Trump is set to meet with Senate Republicans - CBS News
 - Republicans aren’t negotiating an Obamacare extension yet. But they’re getting ready. - Politico
-- Can a U.S.-Australia Deal on Rare Earths Counter China’s Dominance? - The New York Times
-- Who is Sanae Takaichi, Japan’s ‘Iron Lady’ and first female prime minister? - Al Jazeera
+- Japan's parliament elects Sanae Takaichi as nation's first female prime minister - NPR
 - Former French President Sarkozy begins a 5-year prison sentence for campaign finance conspiracy - AP News
-- Europeans say Ukraine battle lines must be start point for talks, as Trump-Putin summit plans hit snags - Reuters
-- Lime growers' leader in Mexico killed after denouncing cartel extortion - ABC News - Breaking News, Latest News and Videos
-- Major vulnerability exposed in Amazon’s global internet outage - CNN
-- Warner Bros. Discovery Has Received Interest From Multiple Parties For All Or Part Of Company - Deadline
-- Why GM Stock Is Soaring After Reporting Third-Quarter Earnings Despite EV Woes - Investor's Business Daily
-- This is the worst the jobs market (outside of a recession) in 50 years, says Goldman Sachs, meaning bullish GDP estimates are too optimistic - Yahoo Finance
+- Trump's Tight Control Over His Ambiguous Gaza Deal Has Netanyahu Spiraling - Haaretz
+- Former Belgian PM Alexander De Croo snags big UN job - politico.eu
+- Warner Bros. Discovery Says It Is Evaluating Acquisition Offers From ‘Multiple Parties’ - Variety
+- AWS services 'fully recovered' after major outage disrupts apps and websites around the world - Yahoo
+- General Motors lifts forecast as tariff outlook improves, shares surge 14% - Reuters
+- This is the worst the jobs market has looked (outside of a recession) in 50 years, says Goldman Sachs, meaning bullish GDP estimates are too optimistic - Fortune
 - Apple iPad Pro (2025) review: fast, faster, fastest - The Verge
 - Don't let anyone tell you you're not skilled enough to enjoy Ninja Gaiden 4 - I'm near-incompetent yet having an absolute blast with Xbox's hack 'n' slash - Eurogamer
