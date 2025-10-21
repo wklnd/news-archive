@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-21 12:44_
+_Updated: 2025-10-21 13:38_
 
 ## Top Stories
 
+- DN Direkt - Ja i EU-parlamentet till nya A-traktorn - DN
 - SMHI varnar: Plötslig ishalka i Norrbottens inland - SVT Nyheter
 - Experter: Trumps mål är handel – inte fred - SvD
-- Direkt Krisen i Mellanöstern - Vance på väg till Israel – ska träffa Netanyahu - DN
-- 0325c86d-a60d-4b78-a242-1410de0b8a13 - GP
-- Öppnar för rysk kontroll: ”Utgå från fronten” - GP
-- ”Det är ren lögn” – de fängslade om ministerns påstående - Aftonbladet
+- JD Vance har landat i Israel – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Ministern rasar mot MP-beslut: Asylaktivistiskt - Aftonbladet
+- 14-åring misstänks för granatattack på Linnégatan - GP
 - Regeringens klimatarbete synat: Underlaget brister - DN
 - Stjärnkocken Johnny Johansson död – fick hjärtstopp på fest - GP
-- Hotade med gäng – åtalas för utpressningsförsök - GP
-- Barnfattigdomen i Sverige ökar igen: ”Alarmerande” - DN
+- Hotade med gäng – åtalas för utpressningsförsök - Västerbottens-Kuriren
+- S: Förbjud ryska investeringar och turister - GP
+- Europeiskt svar: Utgå från fronten i Ukraina - Västerbottens-Kuriren
+- FN: Kommer inte in tillräckligt med nödhjälp – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Det ska Frankrikes ex-president Sarkozy läsa i fängelset - GP
 - Första kvinnliga premiärministern vald i Japan - Hufvudstadsbladet
-- Sarkozy fängslas: ”Oskyldig” - SVT Nyheter
-- Svensk 21-åring får tolv års fängelse i Danmark - Västerbottens-Kuriren
-- Högstadieskola inrymdes – ”obehörig man” ska ha synts i närheten - provinstidningen.se
 - Al Gores fond blir ny största ägare i Stegra – Mix tappar kontroll - SvD
 - Husqvarna Group fortsätter förbättra kostnadseffektiviteten genom avveckling av fabrik - Cision News
 - Lägre rörelseresultat än väntat för Nordnet – adminfel tyngde - Di
-- Hela Lycksele tätort utan ström - SVT Nyheter
+- Just nu: Stort strömavbrott i Lycksele - Västerbottens-Kuriren
 - Matematik som berör – kortfilmer och samtal på Uppsala kortfilmfestival - Uppsala universitet
 - Kometen Lemmon passerar jorden – så kan du fånga den på bild: ”Bra vid nymåne” - NLT
 
@@ -39,9 +39,9 @@ _Updated: 2025-10-21 12:44_
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Här är programmet för NHL Global Series 2025 i Stockholm - hockeysverige.se
 - New Secretary General appointed - Olof Palme International Center
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Schemat för Global Series-helgen i Sverige - NHL.com
@@ -105,15 +105,15 @@ _Updated: 2025-10-21 12:44_
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Di
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
 
@@ -127,6 +127,7 @@ _Updated: 2025-10-21 12:44_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
@@ -138,27 +139,26 @@ _Updated: 2025-10-21 12:44_
 - Olika slutsatser från samma data - Läkartidningen
 - Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Här är världens största jordbruk - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Till vad ska jordbruket regenereras? - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Unga lantbrukare får ingen chans - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
