@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-21 13:48_
+_Updated: 2025-10-21 15:21_
 
-- Trump can send troops to Portland, appeals court says - The Washington Post
+- 9th Circuit rules that National Guard can deploy to Portland, but legal questions loom - Oregon Public Broadcasting - OPB
 - Photos: Trump hails demolition of part of White House for ballroom construction - Axios
-- Marines investigating errant live-fire blast over California’s I-5 - The Washington Post
-- Government shutdown nears three-week mark as Senate fails for 11th time to advance funding bill - CBS News
-- Japan's parliament elects Sanae Takaichi as nation's first female prime minister - NPR
-- 'Cancer doesn't care': Patients pushed past divisive politics to lobby Congress - NPR
+- Louvre Robbery Raises Questions About Security - The New York Times
+- Biden rings the bell after completing course of radiation therapy for cancer - ABC News - Breaking News, Latest News and Videos
+- Japan elects first female leader, a hawk who promotes ‘Japan First’ - The Washington Post
+- Republicans broach a longer stopgap bill as shutdown enters fourth week - Politico
 - Plane makes emergency landing after crew bang on cockpit door over comms problem - NBC News
-- Man who planned to shoot up Atlanta's airport is arrested in a terminal following a tip, police say - AP News
-- Pardoned Capitol rioter charged with threatening to murder Hakeem Jeffries at NYC event this week - CBS News
+- Pardoned Capitol rioter charged with threatening to kill Hakeem Jeffries at NYC event this week - CBS News
+- Trump claims ‘unquestioned power’ in vow to send troops to San Francisco - The Guardian
 - Can a U.S.-Australia Deal on Rare Earths Counter China’s Dominance? - The New York Times
 - Former French President Sarkozy begins a 5-year prison sentence for campaign finance conspiracy - AP News
-- Famous American art thief Myles Connor reacts to Louvre Museum heist: 'They will be vilified' - ABC News - Breaking News, Latest News and Videos
-- Lime growers' leader in Mexico killed after denouncing cartel extortion - ABC News - Breaking News, Latest News and Videos
+- President of lime growers association found killed in his car after complaining about cartel extortion in Mexico - CBS News
+- Russian bombardment plunges hundreds of thousands of Ukrainians into blackout - Reuters
 - Has the Gaza ceasefire been broken? - Al Jazeera
-- What caused Amazon’s AWS outage, and why did so many major apps go offline? - Al Jazeera
-- GM raises guidance after beating Wall Street expectations, lowering tariff costs - CNBC
+- A common error appeared to cause a major AWS outage, bringing down platforms from Reddit to Snapchat - businessinsider.com
+- Why GM Stock Is Soaring After Reporting Third-Quarter Earnings Despite EV Woes - Investor's Business Daily
+- Coca-Cola is about to report earnings. Here's what to expect - CNBC
 - Stocks rise and gold dips as investors recover risk appetite - Reuters
-- Apple Stock Hits Buy Point On Improving Sentiment, Notches Record High - Investor's Business Daily
 - Apple will let users roll back the Liquid Glass look with new ‘tinted’ option - TechCrunch
-- With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas - The New York Times
+- Battle in the Heavens: Ninja Gaiden 4 Makes Gaming History in the Air - Xbox Wire
