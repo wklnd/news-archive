@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-21 01:37_
+_Updated: 2025-10-21 04:15_
 
 ## Top Stories
 
-- Trump får grönt ljus för nationalgarde i Portland - GP
-- Tre bilar inblandade i krasch i Skellefteå – vägen avstängd - SVT Nyheter
-- Israels militär har öppnat eld mot ”terrorister” - Hufvudstadsbladet
+- DN Direkt - Delar av Vita husets östra flygel rivs när Trump bygger balsal - DN
+- DN Direkt - Undermålig vajer bakom bergbaneolycka i Lissabon - DN
+- Joe Biden har genomgått cancerbehandling - Västerbottens-Kuriren
+- Allsvenskans mest sensationella guld - SvD
+- Kista med gisslan har anlänt till Israel – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Bilist körde för fort på 30-sträcka – förlorade körkortet - NSD
-- Johan Esk: Mjällbys skrällguld är mer klapp på kinden än slag i ansiktet - DN
-- Gängledaren ”Greken” häktad – 30 brottsmisstankar - Mitt i
 - PFAS-skum sköts rutinmässigt ut i naturen - Västerbottens-Kuriren
-- Larmet: Falsk sprit från ”hinkkonton” vanligaste berusningsmedlet hos unga - DN
 - Hand upp, alla som vill stoppa övervinster i friskolor - UNT
 - I NATT: Man till sjukhus efter misshandel – stökig natt i Värmland - NWT
-- DN Direkt - Undermålig vajer bakom bergbaneolycka i Lissabon - DN
-- Colombia kallar hem sin USA-ambassadör - Västerbottens-Kuriren
-- Grönt ljus för omstridd oljeborrning i Amazonas - Aftonbladet
-- Kvarlevor från gisslan i Gaza överlämnad - GP
+- Politikern: "Det är kanske inte så färgstarkt, mer kommunalgrått" - NT
+- Kvarlevor från gisslan i Gaza överlämnad - Västerbottens-Kuriren
+- Colombia kallar hem sin USA-ambassadör - GP
+- EU-länder överens: Ryska gasen ska bort - Hufvudstadsbladet
+- Michael Winiarski: Trump går på Putins linje igen - DN
 - Harald Mix slutar som styrelseordförande i Stegra - Aktuell Hållbarhet
-- EU-länder överens: Ryska gasen ska bort - Tidningen Näringslivet
 - Seko lägger ytterligare ett varsel i Tesla-konflikten - DI
-- Kräver 77 miljarder: ”Vilselett konsumenter” - SvD
+- Arbetet med plan för att restaurera vår natur fortsätter - havochvatten.se
+- Första privata aktören fullt ansluten till NLL - Läkartidningen
 - Kometer och meteorregn i veckan: ”Ta med önskelistan” - Aftonbladet
 - ”Våra fossilsamlingar är fortfarande en källa till nya rön” - Uppsala universitet
 
@@ -33,29 +33,30 @@ _Updated: 2025-10-21 01:37_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- Armand Duplantis soars to third world title and 14th world record - BBC
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Här är programmet för NHL Global Series 2025 i Stockholm - hockeysverige.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Armand Duplantis soars to third world title and 14th world record - BBC
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- New Secretary General appointed - Olof Palme International Center
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Schemat för Global Series-helgen i Sverige - NHL.com
-- Boeing jet returns to US from China, a victim of Trump's tariff war - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Flest coronasäkra stränder i Portugal och ny global säkerhetsmärkning - travelnews.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 
 ## Technology
 
-- CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Oron: Då tar datan på internet slut - SvD
 - Bästa AI-aktierna att köpa nu - Morningstar Canada
@@ -65,11 +66,10 @@ _Updated: 2025-10-21 01:37_
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
+- Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- Snowflake and Palantir Announce Strategic Partnership for Enterprise-Ready AI & Analytics - Placera.se
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 
 ## Business
 
@@ -81,11 +81,10 @@ _Updated: 2025-10-21 01:37_
 - Musk om raset i Tesla: ”Löser sig på längre sikt” - Omni
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Faciliteten för återhämtning och resiliens - commission.europa.eu
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - JPMorgan Chase affärsmodell - Business Model Analyst
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Student and entry-level programs - EY
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2025-10-21 01:37_
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 
 ## Health
 
@@ -121,24 +121,24 @@ _Updated: 2025-10-21 01:37_
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -149,16 +149,16 @@ _Updated: 2025-10-21 01:37_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Här är världens största jordbruk - ATL
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Unga lantbrukare får ingen chans - Land Lantbruk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
