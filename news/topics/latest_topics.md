@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-21 16:43_
+_Updated: 2025-10-21 17:42_
 
 ## Top Stories
 
+- Misstänkt våldtäkt på gynmottagning i Stockholm - SVT Nyheter
 - Storbråk i KU om Landerholmaffären – ”Mörkläggning” - DN
+- Man fick ström i sig på Gekås i Ullared – svart på ena armen - SVT Nyheter
+- Riksdagen säger nej till folkomröstning - Västerbottens-Kuriren
 - SMHI varnar: Plötslig ishalka i Norrbottens inland - SVT Nyheter
-- Ja i EU-parlamentet till nya A-traktorn - Västerbottens-Kuriren
-- Ny rådgivare ska stärka mångfalden i göteborgarnas balkonglådor - GP
-- Polisen ryckte ut till skog – Greta Thunberg fastkedjad - Norran
-- Effekterna av regeringens klimatpolitik kan ha överskattats - Dagens Arena
-- DN Direkt - Riksdagen säger nej till folkomröstning - DN
-- Perrelli hotades med gäng – man åtalas - GP
+- Lorena Delgado Varas anmäler utrikesministern till konstitutionsutskottet - internationalen.se
+- Hård kritik mot klimatarbetet: Svagt underlag - Västerbottens-Kuriren
+- Perrelli hotades med gäng – mannen åtalas - Västerbottens-Kuriren
 - Kamerabevakning med drönare på Strandvallens arena under fotbollsmatch - polisen.se
 - Regeringen uppmanas agera mot dispens för metylenklorid i Eskilstuna - SVT Nyheter
-- Expert: Pragmatisk signal till Trump och Putin - Västerbottens-Kuriren
-- Erik de la Reguera: Franska eliten beter sig som om Sarkozy var på väg till giljotinen - DN
-- FN: Kommer inte in tillräckligt med nödhjälp – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Misstänkt våldtäkt på gynmottagning i Stockholm - SVT Nyheter
+- Kreml om Budapest-möte: Kan ta tid – Senaste nytt om kriget i Ukraina - SVT Nyheter
+- Kriget i Gaza: Vance har landat i Israel – ska diskutera ”fas två” av vapenvilan - DN
+- Det ska Frankrikes ex-president Sarkozy läsa i fängelset - GP
+- Skapa ett mer enhetligt och kraftfullt digitalt Europa - Svenskt Näringsliv
 - Al Gores fond blir ny största ägare i Stegra – Mix tappar kontroll - SvD
+- SEB om Novo Nordisk: ”Fullständig härdsmälta” - Di
 - Sveriges osynliga bostadskris: “Extremt ökat behov” - Dagens PS
 - Astrid Lindgren AB stämmer kroatisk läsktillverkare – misstänkt varumärkesintrång - food-supply.se
-- Husqvarna Group fortsätter förbättra kostnadseffektiviteten genom avveckling av fabrik - Cision News
 - Matematik som berör – kortfilmer och samtal på Uppsala kortfilmfestival - Uppsala universitet
 - Kometen Lemmon passerar jorden – så kan du fånga den på bild: ”Bra vid nymåne” - NLT
 
 ## World News
 
+- NHL Global Series 2025 i Stockholm - Örebronyheter
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
@@ -38,7 +39,6 @@ _Updated: 2025-10-21 16:43_
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Techarenan News goes English (Partly at least) - Techarenan News
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
@@ -94,28 +94,51 @@ _Updated: 2025-10-21 16:43_
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 
+## Health
+
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Di
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
+- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
+
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- The Nordic Network for Psychedelic Science - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
