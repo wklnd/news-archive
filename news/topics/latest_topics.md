@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-21 11:43_
+_Updated: 2025-10-21 12:44_
 
 ## Top Stories
 
 - SMHI varnar: Plötslig ishalka i Norrbottens inland - SVT Nyheter
-- EU-ledare: Gränser får inte flyttas med våld - Omni
+- Experter: Trumps mål är handel – inte fred - SvD
 - Direkt Krisen i Mellanöstern - Vance på väg till Israel – ska träffa Netanyahu - DN
-- DN Direkt - Delar av Vita husets östra flygel rivs när Trump bygger balsal - DN
+- 0325c86d-a60d-4b78-a242-1410de0b8a13 - GP
+- Öppnar för rysk kontroll: ”Utgå från fronten” - GP
+- ”Det är ren lögn” – de fängslade om ministerns påstående - Aftonbladet
+- Regeringens klimatarbete synat: Underlaget brister - DN
 - Stjärnkocken Johnny Johansson död – fick hjärtstopp på fest - GP
-- Effekterna av regeringens klimatpolitik kan ha överskattats - Dagens Arena
-- Hotade med gäng – åtalas för utpressningsförsök - Västerbottens-Kuriren
+- Hotade med gäng – åtalas för utpressningsförsök - GP
 - Barnfattigdomen i Sverige ökar igen: ”Alarmerande” - DN
-- Nytt sjukhus i Stockholm – regionen satsar 2,5 miljarder - DN
-- 21 oktober 07.46, Sammanfattning natt, Västernorrlands län - polisen.se
 - Första kvinnliga premiärministern vald i Japan - Hufvudstadsbladet
-- Högstadieskola inrymdes – ”obehörig man” ska ha synts i närheten - provinstidningen.se
-- DN Direkt - Svensk 21-åring får tolv års fängelse i Danmark - DN
 - Sarkozy fängslas: ”Oskyldig” - SVT Nyheter
+- Svensk 21-åring får tolv års fängelse i Danmark - Västerbottens-Kuriren
+- Högstadieskola inrymdes – ”obehörig man” ska ha synts i närheten - provinstidningen.se
 - Al Gores fond blir ny största ägare i Stegra – Mix tappar kontroll - SvD
-- Nordnet AB (publ) – Delårsrapport januari-september 2025 - Cision News
-- Husqvarnas fabrik i Brastad läggs ned - Lysekilsposten
-- Morgonkoll: Asienbörserna klättrar uppåt – biltillverkare stiger - Di
+- Husqvarna Group fortsätter förbättra kostnadseffektiviteten genom avveckling av fabrik - Cision News
+- Lägre rörelseresultat än väntat för Nordnet – adminfel tyngde - Di
+- Hela Lycksele tätort utan ström - SVT Nyheter
 - Matematik som berör – kortfilmer och samtal på Uppsala kortfilmfestival - Uppsala universitet
 - Kometen Lemmon passerar jorden – så kan du fånga den på bild: ”Bra vid nymåne” - NLT
 
@@ -51,16 +51,16 @@ _Updated: 2025-10-21 11:43_
 ## Technology
 
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - CoreWeave to Acquire Monolith, Expanding AI Cloud Platform into Industrial Innovation - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Oron: Då tar datan på internet slut - SvD
 - Bästa AI-aktierna att köpa nu - Morningstar Canada
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - 290 million for digitalisation of Swedish industry - Vinnova
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
@@ -68,7 +68,7 @@ _Updated: 2025-10-21 11:43_
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
-- Snowflake and Palantir Announce Strategic Partnership for Enterprise-Ready AI & Analytics - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
@@ -105,15 +105,15 @@ _Updated: 2025-10-21 11:43_
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Di
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
 
@@ -136,9 +136,9 @@ _Updated: 2025-10-21 11:43_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
