@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-21 19:48_
+_Updated: 2025-10-21 20:54_
 
-- Vance arrives in Israel as US tries to strengthen Gaza ceasefire - BBC
-- In a shift, White House says no plan for Trump-Putin summit - Axios
+- Plans for Trump-Putin meeting shelved days after Budapest talks proposed - BBC
+- Vance visits Israel as Trump administration officials worry ceasefire could fall apart - CNN
 - Stolen Louvre treasures are uninsured, France says - Financial Times
-- The White House starts demolishing part of the East Wing to build Trump's ballroom - NPR
-- Europe's leaders back Trump call for frontline freeze but Russia says no - BBC
-- Republicans aren’t negotiating an Obamacare extension yet. But they’re getting ready. - Politico
-- John Thune casts doubt on hearing for Trump nominee who sent racist texts - Politico
-- Pardoned Jan. 6 rioter arrested over threat to kill Rep. Hakeem Jeffries - The Washington Post
-- SNAP benefits to halt in some states amid government shutdown - ABC News - Breaking News, Latest News and Videos
-- Can a U.S.-Australia Deal on Rare Earths Counter China’s Dominance? - The New York Times
-- Japan has its first female prime minister, but not all women are celebrating - NBC News
-- Former French President Nicolas Sarkozy Heads To Jail In Blaze Of Media Coverage - Deadline
-- Germany’s Merz faces backlash over tying migrant deportations to ‘problem in the cityscape’ - politico.eu
-- Former Belgian PM Alexander De Croo snags big UN job - politico.eu
+- Biden’s ex-press secretary Karine Jean-Pierre: ‘Why are Democrats not fighting back?’ - The Guardian
+- Trump White House ballroom demolition work off-limits to Treasury staff cameras - CNBC
+- Trump Threatened By South American Leader With All-Time Dumb Comment: WATCH - OutKick
+- North Carolina Senate Approves New Map in Effort to Add G.O.P. Congressional Seat - The New York Times
+- Vulnerable House Republicans press Johnson on Obamacare subsidies - Politico
+- Appeals court judges — including a Trump appointee — voice doubt over Trump’s bid to deport Mahmoud Khalil - Politico
+- Jan. 6 rioter pardoned by Trump charged with threats against Hakeem Jeffries - NBC News
+- 5 things to know about Sanae Takaichi, Japan's first female prime minister - NPR
+- Things to know about Nicolas Sarkozy, France's new prison inmate who used to be president - AP News
+- Just because she won a Nobel doesn't mean Malala didn't break some rules in college - NPR
+- Trump's Tight Control Over His Ambiguous Gaza Deal Has Netanyahu Spiraling - Haaretz
 - Warner Bros. Discovery Says It Is Evaluating Acquisition Offers From ‘Multiple Parties’ - Variety
-- General Motors lifts forecast as tariff outlook improves, shares surge 14% - Reuters
-- AWS services 'fully recovered' after major outage disrupts apps and websites around the world - Yahoo
+- AWS outage: Are we relying too much on US big tech? - BBC
+- Why GM Stock Is Soaring After Reporting Third-Quarter Earnings Despite EV Woes - Investor's Business Daily
 - Netflix reports earnings after the bell. Here's what to expect - CNBC
-- iPad Pro M5 review: Speed boost - Engadget
+- OpenAI announces ChatGPT Atlas, an AI-enabled web browser to challenge Google Chrome - VentureBeat
 - ‘Sean Dummy’: Musk and Duffy brawl over the future of NASA - Politico
