@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-21 15:08_
+_Updated: 2025-10-21 15:50_
 
 ## Top Stories
 
-- Misstänkt våldtäkt på gynmottagning - Aftonbladet
+- DN Direkt - Riksdagen säger nej till folkomröstning - DN
+- Misstänkt våldtäkt på gynmottagning i Stockholm - SVT Nyheter
 - Storbråk i KU om Landerholmaffären – ”Mörkläggning” - DN
-- EU-parlamentet röstar igenom nytt körkortsdirektiv - Regeringen.se
 - SMHI varnar: Plötslig ishalka i Norrbottens inland - SVT Nyheter
-- Hård kritik mot klimatarbetet: Svagt underlag - GP
 - Ny rådgivare ska stärka mångfalden i göteborgarnas balkonglådor - GP
-- Riksdagen säger nej till folkomröstning - Västerbottens-Kuriren
-- Charlotte Perrelli hotades med gäng – mannen åtalas - DN
+- Polisen ryckte ut till skog – Greta Thunberg fastkedjad - Norran
+- Tunga kritiken: Väljarna får fel bild av Sveriges klimatutsläpp - SVT Nyheter
+- Perrelli hotades med gäng – mannen åtalas - Västerbottens-Kuriren
 - S: Förbjud ryska investeringar och turister - GP
-- Regeringen uppmanas agera mot dispens för metylenklorid i Eskilstuna - SVT Nyheter
+- Kamerabevakning med drönare på Strandvallens arena under fotbollsmatch - polisen.se
 - Expert: Pragmatisk signal till Trump och Putin - Västerbottens-Kuriren
 - Erik de la Reguera: Franska eliten beter sig som om Sarkozy var på väg till giljotinen - DN
-- JD Vance har landat i Israel – Senaste nytt om kriget i Gaza - SVT Nyheter
+- FN: Kommer inte in tillräckligt med nödhjälp – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Första kvinnliga premiärministern vald i Japan - Hufvudstadsbladet
 - Al Gores fond blir ny största ägare i Stegra – Mix tappar kontroll - SvD
 - Astrid Lindgren AB stämmer kroatisk läsktillverkare – misstänkt varumärkesintrång - food-supply.se
+- Sveriges osynliga bostadskris: “Extremt ökat behov” - Dagens PS
 - Husqvarna Group fortsätter förbättra kostnadseffektiviteten genom avveckling av fabrik - Cision News
-- Sveriges tysta bostadskris: ”Systemet hänger inte med” - DN
 - Matematik som berör – kortfilmer och samtal på Uppsala kortfilmfestival - Uppsala universitet
 - Kometen Lemmon passerar jorden – så kan du fånga den på bild: ”Bra vid nymåne” - NLT
 
@@ -35,8 +35,8 @@ _Updated: 2025-10-21 15:08_
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Armand Duplantis soars to third world title and 14th world record - BBC
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
@@ -89,8 +89,8 @@ _Updated: 2025-10-21 15:08_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 
@@ -103,7 +103,6 @@ _Updated: 2025-10-21 15:08_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Di
@@ -113,8 +112,9 @@ _Updated: 2025-10-21 15:08_
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
 
 ## Science
@@ -144,7 +144,6 @@ _Updated: 2025-10-21 15:08_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -152,13 +151,14 @@ _Updated: 2025-10-21 15:08_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Till vad ska jordbruket regenereras? - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Till vad ska jordbruket regenereras? - Land Lantbruk
 - Unga lantbrukare får ingen chans - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
