@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-21 20:50_
+_Updated: 2025-10-21 21:39_
 
 ## Top Stories
 
-- Fredsmöte mellan Trump och Putin ställs in - GP
-- Sport: Inga ryska skidåkare i OS – stjärnorna reagerar: ”Rätt beslut” - SVT Nyheter
 - Direkt Kriget i Ukraina - Inget möte mellan Trump och Putin i närtid - Dagens Nyheter
+- Fredsmöte mellan Trump och Putin ställs in - GP
 - Niklas Orrenius: Heilande våldsmän på invandrarjakt angår oss alla - Dagens Nyheter
 - Gaza-aktivisternas kritik: Vi skrev visst på deportationspappren - GP
-- Vance i Israel: Optimistisk om vapenvilan - Västerbottens-Kuriren
+- Direkt Krisen i Mellanöstern - Vance: Fredsplanen går bättre än väntat - Dagens Nyheter
+- SMHI varnar för ishalka - Expressen
 - Hård kritik mot klimatarbetet: Svagt underlag - Västerbottens-Kuriren
 - Riksdagen säger nej till folkomröstning - GP
+- Emelie Köhler påbörjade behandling för könsdysfori – ångrade sig - Dagens Nyheter
 - Kamerabevakning med drönare på Strandvallens arena under fotbollsmatch - polisen.se
-- Regeringen uppmanas agera mot dispens för metylenklorid i Eskilstuna - SVT Nyheter
-- Misstänkt våldtäkt på gynmottagning - Aftonbladet
+- Expert: Pragmatisk signal till Trump och Putin - GP
 - Här gifter ayatollans rådgivare bort sin dotter – som har bara axlar - Dagens Nyheter
-- Erdogan till Qatar – vill köpa 24 stridsflyg - Västerbottens-Kuriren
 - Skapa ett mer enhetligt och kraftfullt digitalt Europa - Svenskt Näringsliv
-- Al Gores fond blir ny största ägare i Stegra – Mix tappar kontroll - SvD
-- Uppgifter: Open AI lanserar webbläsare - DI
-- Ska din AI-kopia få avgöra om du lever eller dör? - Realtid
-- Förvåningen efter stora rockaden i Novo Nordisk: ”Dramatiskt” - EFN
-- Mygg hittade på Island – för första gången - Aftonbladet
-- Kräkande zombies och ubåtar – spelutvecklarsatsning släpper skräckspel: ”Blir kaos” - NWT
+- Erdogan till Qatar – vill köpa 24 stridsflyg - Börskollen
+- Uppgifter: Mix tappar kontrollen – Al Gores fond blir största ägare - EFN
+- Open AI uppges lansera ny webbläsare - DI
+- Köpte bil för 729 000 – knappt gått att köra - Expressen
+- Massavhopp i Novo Nordisks styrelse efter konflikt med huvudägaren - Biostock
+- Mygg hittade på Island – för första gången - Västerbottens-Kuriren
+- Redmi visar upp mobil med separat basenhet - mobil.se
 
 ## World News
 
@@ -33,24 +33,25 @@ _Updated: 2025-10-21 20:50_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- First Yes Bank, now RBL Bank: Global banks bet billions on India amid US credit jitters | Business News - Hindustan Times
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Armand Duplantis soars to third world title and 14th world record - BBC
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- New Secretary General appointed - Olof Palme International Center
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Schemat för Global Series-helgen i Sverige - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Armand Duplantis soars to third world title and 14th world record - BBC
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
+- Boeing jet returns to US from China, a victim of Trump's tariff war - The Economic Times
+- Global demand for Gripen jets fuels SAAB's growth in Linköping - Sveriges Radio
+- One Heung Kong released the White Paper on Global Sustainable and Healthy Living Environments jointly with other institutions - Placera.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
 
 ## Technology
 
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
@@ -62,36 +63,36 @@ _Updated: 2025-10-21 20:50_
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
-- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
-- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 
 ## Business
 
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- BlackRock TCP Capital Corp. to Report Third Quarter Ended September 30, 2025 Financial Results on November 6, 2025 - Placera.se
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Musk om raset i Tesla: ”Löser sig på längre sikt” - Omni
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
-- Faciliteten för återhämtning och resiliens - commission.europa.eu
-- JPMorgan Chase affärsmodell - Business Model Analyst
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- BlackRock TCP Capital Corp. to Report Third Quarter Ended September 30, 2025 Financial Results on November 6, 2025 - Placera.se
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Student and entry-level programs - EY
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 
 ## Health
 
@@ -102,42 +103,42 @@ _Updated: 2025-10-21 20:50_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
+- Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
+- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
 - Olika slutsatser från samma data - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- The Nordic Network for Psychedelic Science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Oredlighet i forskning – regleras i lag från årsskiftet - Läkartidningen
 
 ## Jordbruk
 
