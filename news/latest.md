@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-22 13:48_
+_Updated: 2025-10-22 15:20_
 
-- ‘We absolutely need him’: Some in GOP say it’s time for Trump to get involved in shutdown talks even as leaders rebuff idea - CNN
+- Children among dead in Russian air strikes, hours after Trump-Putin talks shelved - BBC
 - Late Night Watches Trump Go ‘Hulk Smash’ on the White House - The New York Times
-- Driver crashes car into White House security gate - Politico
-- Trump sought $230M from DOJ to settle past investigations of him - Axios
+- ‘We absolutely need him’: Some in GOP say it’s time for Trump to get involved in shutdown talks even as leaders rebuff idea - CNN
+- Trump has claimed millions from the government. He could order payment. - The Washington Post
+- Scoop: Angry Dems ramp up battle with Mike Johnson over Grijalva - Axios
 - Judge who blocked National Guard in Portland faces pivotal decision - OregonLive.com
-- Protests erupt in New York City after Ice raids Chinatown over ‘counterfeit goods’ - The Guardian
-- Trump nominee withdraws after offensive texts allegedly emerge - BBC
-- U.S. Marshal and Mexican Immigrant Are Shot During L.A. Traffic Stop - The New York Times
+- Trump nominee Paul Ingrassia withdraws after offensive texts allegedly emerge - BBC
+- Vance Says He’s Not in Israel to Babysit Gaza Cease-Fire - The New York Times
+- Shooting by ICE officer in Los Angeles wounds motorist, U.S. marshal - The Washington Post
 - John E. Sununu jumps into New Hampshire Senate race - Politico
-- Mamdani's rise in NYC reflects generational fight within the Democratic Party - NPR
+- The Louvre reopens 3 days after one of the biggest museum heists of the century - AP News
 - Japan’s Takaichi Orders Economic Package to Tackle Inflation - Bloomberg.com
-- Russia and Ukraine launch overnight missile strikes after Trump-Putin summit delay - Reuters
-- $102M in jewels taken in Louvre heist, as museum director summoned by lawmakers - ABC News - Breaking News, Latest News and Videos
-- At least 63 people killed in a crash of buses and other vehicles in western Uganda - AP News
-- Morning Bid: Inflation will wipe away UK's rate-cut bets - Reuters
-- China’s ‘slow bull market’ is developing momentum as Goldman Sachs joins the party - MarketWatch
-- Travis Kelce invests in Six Flags to revive Cedar Point parent company - Cleveland.com
-- Gold, Silver Hold Losses as Stocks Take a Breather: Markets Wrap - Bloomberg.com
+- Now Trump won't meet with Putin on Ukraine, White House official says - ABC News - Breaking News, Latest News and Videos
+- Tropical Storm Melissa tracker: Map and projected storm path - The Washington Post
+- Gold Has Worst Day In 12 Years; These Stocks, ETFs Sell Off - Investor's Business Daily
+- Stock futures are little changed after record session for Dow; Netflix slides on earnings miss: Live updates - CNBC
+- UK inflation holds at 3.8% in surprise boost for Reeves and BoE - Reuters
+- Consumers feeling 'discount burnout' ahead of Black Friday, Cyber Monday, survey finds - CNBC
+- OpenAI launches browser to rival Google Chrome - DW
 - Samsung’s Galaxy XR Mixed Reality Headset Undercuts Apple’s Vision Pro by $1,700 - WIRED
-- ChatGPT-maker OpenAI releases web browser to rival Google - BBC
