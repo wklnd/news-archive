@@ -1,23 +1,23 @@
 # Top News Headlines
 
-_Updated: 2025-10-22 04:20_
+_Updated: 2025-10-22 05:34_
 
-- Trump nominee to lead whistleblower office drops out after racist texts surface - The Guardian
-- Trump says he ‘could be’ seeking $230 million from his own Justice Department - CNN
-- Trump says he doesn’t want ‘wasted meeting’ with Putin, delaying summit - The Washington Post
-- Here are the White House East Wing offices Trump is demolishing, according to sources - CBS News
+- Ingrassia withdraws nomination after racist texts - Politico
+- Trump Said to Demand Justice Dept. Pay Him $230 Million for Past Cases - The New York Times
+- White House expands East Wing demolition as critics decry Trump overreach - The Washington Post
+- In a shift, White House says no plan for Trump-Putin summit - Axios
+- ‘We absolutely need him’: Some in GOP say it’s time for Trump to get involved in shutdown talks even as leaders rebuff idea - CNN
 - ICE agent wounds deputy U.S. marshal and TikTok streamer, who is charged with assault - Los Angeles Times
-- Pardoned Capitol rioter arrested for allegedly threatening to kill Hakeem Jeffries - NPR
-- Arizona attorney general sues U.S. House over seating Grijalva - MSNBC News
-- North Carolina lawmakers vote to add GOP House seat, in win for Trump - The Washington Post
-- Zohran Mamdani’s 5 Lessons for the Democrats - Jacobin
-- Maine Democrat Platner, on defense over tattoo, takes page from Trump playbook to keep up Senate bid - AP News
+- Protests erupt in New York City after Ice raids Chinatown over ‘counterfeit goods’ - The Guardian
+- Billy Joe Cagle: Criminal history of man arrested at Atlanta airport - FOX 5 Atlanta
+- Arizona AG sues over Speaker Mike Johnson refusing to seat new House member - The Washington Post
+- Democrats look to long term as North Carolina GOP redistricting plan seeks another seat for Trump - AP News
 - Paris Tour Guide Saw Stolen Louvre Jewels Just Before Heist - The New York Times
 - 5 things to know about Sanae Takaichi, Japan's first female prime minister - NPR
-- Israel takes steps to shut down international aid groups in Gaza and the West Bank - NPR
-- Former French President Sarkozy begins a 5-year prison sentence for campaign finance conspiracy - AP News
-- Netflix shares drop as Brazilian tax dispute hits earnings - Reuters
-- With WBD In Play, Netflix CEOs Ted Sarandos & Greg Peters Weigh In On Media M&A - Deadline
+- North Korea has fired ballistic missiles toward the east, Seoul says - AP News
+- China holds event to commemorate Taiwan's 'retrocession', Xinhua reports - Reuters
+- Inside The Surprise Brazilian Tax That Rattled Netflix Earnings - Deadline
+- Exclusive: Warner Bros Discovery board rejected Paramount Skydance buyout offer, source says - Reuters
 - Dow Hits High As Gold Dives; Netflix Leads Movers Late - Investor's Business Daily
 - Exclusive | Travis Kelce Teams Up With Investor for Activist Campaign at Six Flags - WSJ - The Wall Street Journal
 - OpenAI launches AI browser Atlas in latest challenge to Google - Reuters
