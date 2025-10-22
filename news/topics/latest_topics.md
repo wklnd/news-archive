@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-22 13:39_
+_Updated: 2025-10-22 15:09_
 
 ## Top Stories
 
 - Zelenskyj besöker Sverige – träffar statsministern i Linköping - SVT Nyheter
-- DN Direkt - Misstänkt farligt föremål i Borås - Dagens Nyheter
-- Brå: 10 000 tjejer bland 62 000 i kriminella gäng - tidningensyre.se
-- Brandmannen Miriam fick lönechock efter ledighet: ”Helt sjukt” - Sydsvenskan
-- Grönt ljus för nya bron över Göta älv - GP
-- Ny vändning om hållbarhet i EU - Västerbottens-Kuriren
-- M och S laddar för stenhård tvekamp om integrationen: ”Ödesfråga” - Dagens Nyheter
-- Laddat EU-toppmöte väntar: Strid om klimatet och Ukrainas pengar i fokus - Europaportalen
-- Annie Croona: Forssell kommer inte att hitta lösningen på integrationen - ETC.se
-- Effekterna av regeringens klimatpolitik kan ha överskattats - Dagens Arena
-- Öppning för lägre USA-tullar mot Indien - DI
 - Zelenskyj: Sex döda i nattens attacker - Västerbottens-Kuriren
+- En anhållen för mord i Sigtuna 2015 - Åklagarmyndigheten
+- Dom i mål om människorov, grov misshandel och hot mot tjänsteman - Sveriges Domstolar
+- Brå: 10 000 tjejer delaktiga i gängkriminalitet - tidningensyre.se
+- Patrik Hagman: Christer Hugos bokstavliga tolkning av Bibeln är dålig läsning - Dagens Nyheter
+- 22 oktober 07.39, Farligt föremål, misstänkt, Borås - polisen.se
+- M och S laddar för stenhård tvekamp om integrationen: ”Ödesfråga” - Dagens Nyheter
+- Tunga kritiken: Väljarna får fel bild av Sveriges klimatutsläpp - SVT Nyheter
+- Sverige förebild för andra länder – broschyren ”Om krisen eller kriget kommer” väcker stort internationellt intresse - MSB – Myndigheten för samhällsskydd och beredskap
+- Öppning för lägre USA-tullar mot Indien - DI
 - DN Direkt - 46 döda i trafikolycka i Uganda - Dagens Nyheter
 - Nya drönarbilder visar förödelsen i Gaza stad – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Busch om krisen i Stegra: ”Planerad finansieringsrunda” - DI
+- De får årets Sacharov-pris - GP
 - Bygg­konjunkturen: Ryckig byggmarknad på väg uppåt - svenskbyggtidning -
 - Kjell Group AB (Publ) – Delårsrapport Q3, 1 januari – 30 september 2025 (MFN) - Aktiellt
-- Adidas: Överglänser många konkurrenter med solid lönsamhet - Morningstar Canada
+- Handelsbanken och Boliden lyfter på rapporter - Placera.se
+- Smällen: Miljardförlust för LKAB efter nya stadsflytten - DI
 - Open AI lanserar webbläsare – Chat GPT Atlas - Computer Sweden
 - Källor: Apples utveckling av vikbar Ipad uppges ha stött på problem - BN - Placera.se
 
@@ -35,7 +35,6 @@ _Updated: 2025-10-22 13:39_
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
@@ -43,10 +42,11 @@ _Updated: 2025-10-22 13:39_
 - Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Riyadh International Book Fair 2024: Expanding Global Dialogue through the Largest Collection of Translated Works - Aktiellt
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - One Heung Kong released the White Paper on Global Sustainable and Healthy Living Environments jointly with other institutions - Placera.se
 - VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
 ## Technology
 
@@ -57,33 +57,33 @@ _Updated: 2025-10-22 13:39_
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Oron: Då tar datan på internet slut - SvD
 - Bästa AI-aktierna att köpa nu - Morningstar Canada
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Nästa generations Internet of Things - Shaping Europe’s digital future
+- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
+- Deepseek är det nya Linux - Computer Sweden
+- Spår superintelligens om tio år – vill leda racet - Omni
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
-- Keysight and The University of Malaga Open State-of-the-Art 6G Research and Innovation Laboratory - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
 
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - BlackRock TCP Capital Corp. to Report Third Quarter Ended September 30, 2025 Financial Results on November 6, 2025 - Placera.se
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -135,8 +135,8 @@ _Updated: 2025-10-22 13:39_
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
