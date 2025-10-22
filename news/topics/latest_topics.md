@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-22 15:50_
+_Updated: 2025-10-22 16:47_
 
 ## Top Stories
 
 - SVT erfar: Sverige vill sälja 150 Gripenplan till Ukraina - SVT Nyheter
-- Dom i mål om människorov, grov misshandel och hot mot tjänsteman - Sveriges Domstolar
-- Patrik Hagman: Christer Hugos bokstavliga tolkning av Bibeln är dålig läsning - Dagens Nyheter
-- 22 oktober 04.12, Farligt föremål, misstänkt, Eslöv - polisen.se
 - En anhållen för mord i Sigtuna 2015 - Åklagarmyndigheten
-- Tung smäll för EU-mitten – vänder om hållbarhet - Västerbottens-Kuriren
+- Dom i mål om människorov, grov misshandel och hot mot tjänsteman - Sveriges Domstolar
+- ICJ: Israel måste underlätta nödhjälp via FN - Hufvudstadsbladet
+- DN Direkt - Ja till ny lag för public service - Dagens Nyheter
+- Patrik Hagman: Christer Hugos bokstavliga tolkning av Bibeln är dålig läsning - Dagens Nyheter
 - 22 oktober 07.39, Farligt föremål, misstänkt, Borås - polisen.se
-- 10 000 kvinnor kopplas till gängen - Västerbottens-Kuriren
-- Tunga kritiken: Väljarna får fel bild av Sveriges klimatutsläpp - SVT Nyheter
-- Sverige förebild för andra länder – broschyren ”Om krisen eller kriget kommer” väcker stort internationellt intresse - MSB – Myndigheten för samhällsskydd och beredskap
+- Zelenskyj: Fryst frontlinje "bra kompromiss” - Aftonbladet
+- Sanna Torén Björling: Nu vill Ukrainas europeiska allierade visa handlingskraft - Dagens Nyheter
+- Brå: 10 000 tjejer involverade i kriminella gäng - Aftonbladet
 - Öppning för lägre USA-tullar mot Indien - DI
 - DN Direkt - 46 döda i trafikolycka i Uganda - Dagens Nyheter
-- Rubio väntas ansluta till möten i Israel – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Zelenskyj: Sex döda i nattens attacker - Västerbottens-Kuriren
-- Handelsbankens vd: Vi måste växa - Di - Placera.se
-- Smällen: Miljardförlust för LKAB efter nya stadsflytten - DI
+- Zelenskyj: Sex döda i nattliga attacker - GP
+- Vance: Avväpna Hamas blir en tuff uppgift - Västerbottens-Kuriren
+- Busch om krisen i Stegra: ”Planerad finansieringsrunda” - DI
+- Minus för LKAB – fyra miljarder för Kirunas stadsflytt belastar kvartalet - SVT Nyheter
 - Icas maktdrag – öppnar nytt i Hornstull - SvD
-- PostNord är en av de första postoperatörerna att återuppta leveranser till USA och Puerto Rico för alla kunder - Cision News
+- Corem redovisar oförändrat förvaltningsresultat (Finwire News) - Aktiellt
 - Open AI lanserar webbläsare – Chat GPT Atlas - Computer Sweden
-- Källor: Apples utveckling av vikbar Ipad uppges ha stött på problem - BN - Placera.se
+- Tittarna skriker efter mer av “årets bästa serie” – kan nu komma tillbaka - Filmtopp
 
 ## World News
 
@@ -50,40 +50,40 @@ _Updated: 2025-10-22 15:50_
 
 ## Technology
 
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 - Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Oron: Då tar datan på internet slut - SvD
 - Bästa AI-aktierna att köpa nu - Morningstar Canada
-- 290 million for digitalisation of Swedish industry - Vinnova
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
 - Keysight and The University of Malaga Open State-of-the-Art 6G Research and Innovation Laboratory - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
 
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - BlackRock TCP Capital Corp. to Report Third Quarter Ended September 30, 2025 Financial Results on November 6, 2025 - Placera.se
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -104,40 +104,40 @@ _Updated: 2025-10-22 15:50_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
