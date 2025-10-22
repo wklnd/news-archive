@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-22 15:09_
+_Updated: 2025-10-22 15:50_
 
 ## Top Stories
 
-- Zelenskyj besöker Sverige – träffar statsministern i Linköping - SVT Nyheter
-- Zelenskyj: Sex döda i nattens attacker - Västerbottens-Kuriren
-- En anhållen för mord i Sigtuna 2015 - Åklagarmyndigheten
+- SVT erfar: Sverige vill sälja 150 Gripenplan till Ukraina - SVT Nyheter
 - Dom i mål om människorov, grov misshandel och hot mot tjänsteman - Sveriges Domstolar
-- Brå: 10 000 tjejer delaktiga i gängkriminalitet - tidningensyre.se
 - Patrik Hagman: Christer Hugos bokstavliga tolkning av Bibeln är dålig läsning - Dagens Nyheter
+- 22 oktober 04.12, Farligt föremål, misstänkt, Eslöv - polisen.se
+- En anhållen för mord i Sigtuna 2015 - Åklagarmyndigheten
+- Tung smäll för EU-mitten – vänder om hållbarhet - Västerbottens-Kuriren
 - 22 oktober 07.39, Farligt föremål, misstänkt, Borås - polisen.se
-- M och S laddar för stenhård tvekamp om integrationen: ”Ödesfråga” - Dagens Nyheter
+- 10 000 kvinnor kopplas till gängen - Västerbottens-Kuriren
 - Tunga kritiken: Väljarna får fel bild av Sveriges klimatutsläpp - SVT Nyheter
 - Sverige förebild för andra länder – broschyren ”Om krisen eller kriget kommer” väcker stort internationellt intresse - MSB – Myndigheten för samhällsskydd och beredskap
 - Öppning för lägre USA-tullar mot Indien - DI
 - DN Direkt - 46 döda i trafikolycka i Uganda - Dagens Nyheter
-- Nya drönarbilder visar förödelsen i Gaza stad – Senaste nytt om kriget i Gaza - SVT Nyheter
-- De får årets Sacharov-pris - GP
-- Bygg­konjunkturen: Ryckig byggmarknad på väg uppåt - svenskbyggtidning -
-- Kjell Group AB (Publ) – Delårsrapport Q3, 1 januari – 30 september 2025 (MFN) - Aktiellt
-- Handelsbanken och Boliden lyfter på rapporter - Placera.se
+- Rubio väntas ansluta till möten i Israel – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Zelenskyj: Sex döda i nattens attacker - Västerbottens-Kuriren
+- Handelsbankens vd: Vi måste växa - Di - Placera.se
 - Smällen: Miljardförlust för LKAB efter nya stadsflytten - DI
+- Icas maktdrag – öppnar nytt i Hornstull - SvD
+- PostNord är en av de första postoperatörerna att återuppta leveranser till USA och Puerto Rico för alla kunder - Cision News
 - Open AI lanserar webbläsare – Chat GPT Atlas - Computer Sweden
 - Källor: Apples utveckling av vikbar Ipad uppges ha stött på problem - BN - Placera.se
 
@@ -50,40 +50,40 @@ _Updated: 2025-10-22 15:09_
 
 ## Technology
 
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu - Morningstar Canada
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Nästa generations Internet of Things - Shaping Europe’s digital future
-- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
-- Deepseek är det nya Linux - Computer Sweden
-- Spår superintelligens om tio år – vill leda racet - Omni
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
+- Keysight and The University of Malaga Open State-of-the-Art 6G Research and Innovation Laboratory - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
 
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - BlackRock TCP Capital Corp. to Report Third Quarter Ended September 30, 2025 Financial Results on November 6, 2025 - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
