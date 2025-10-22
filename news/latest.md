@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-22 12:52_
+_Updated: 2025-10-22 13:48_
 
 - ‘We absolutely need him’: Some in GOP say it’s time for Trump to get involved in shutdown talks even as leaders rebuff idea - CNN
-- 9 things to know about the $250 million ballroom Trump is adding to the White House - PBS
-- U.S. Marshal and Mexican Immigrant Are Shot During L.A. Traffic Stop - The New York Times
-- Vehicle crashes into White House security gate, Secret Service says - Axios
-- Trump says he'd have final say on money he seeks over past federal investigations into his conduct - AP News
+- Late Night Watches Trump Go ‘Hulk Smash’ on the White House - The New York Times
+- Driver crashes car into White House security gate - Politico
+- Trump sought $230M from DOJ to settle past investigations of him - Axios
 - Judge who blocked National Guard in Portland faces pivotal decision - OregonLive.com
-- Arizona AG sues over Speaker Mike Johnson refusing to seat new House member - The Washington Post
-- Trump pick to lead watchdog agency withdraws after offensive text messages revealed - NPR
-- Democrats Keep Falling for Political Fantasies. When Will They Learn? - Politico
-- Billy Joe Cagle: Criminal history of man arrested at Atlanta airport - FOX 5 Atlanta
-- Japan’s Takaichi Orders Economic Package to Tackle Inflation - Bloomberg
-- Damage from Louvre jewellery heist estimated at 88 million euros, Paris prosecutor says - Reuters
-- Deadly Russian air attacks force power cuts across Ukraine, as Trump-Putin summit shelved - CNN
-- Tropical Storm Melissa tracker: Map and projected storm path - The Washington Post
+- Protests erupt in New York City after Ice raids Chinatown over ‘counterfeit goods’ - The Guardian
+- Trump nominee withdraws after offensive texts allegedly emerge - BBC
+- U.S. Marshal and Mexican Immigrant Are Shot During L.A. Traffic Stop - The New York Times
+- John E. Sununu jumps into New Hampshire Senate race - Politico
+- Mamdani's rise in NYC reflects generational fight within the Democratic Party - NPR
+- Japan’s Takaichi Orders Economic Package to Tackle Inflation - Bloomberg.com
+- Russia and Ukraine launch overnight missile strikes after Trump-Putin summit delay - Reuters
+- $102M in jewels taken in Louvre heist, as museum director summoned by lawmakers - ABC News - Breaking News, Latest News and Videos
+- At least 63 people killed in a crash of buses and other vehicles in western Uganda - AP News
 - Morning Bid: Inflation will wipe away UK's rate-cut bets - Reuters
-- AWS outage: Are we relying too much on US big tech? - BBC
-- Goldman Sachs Sees 30% Upside for Chinese Stocks Through 2027 - Bloomberg
-- Netflix Stock Drops After Earnings Miss. Company Blames Brazil Tax Dispute. - Barron's
-- OpenAI unveils its Atlas web browser in a bid to supplant Google as the internet's universal starting point - Fortune
+- China’s ‘slow bull market’ is developing momentum as Goldman Sachs joins the party - MarketWatch
+- Travis Kelce invests in Six Flags to revive Cedar Point parent company - Cleveland.com
+- Gold, Silver Hold Losses as Stocks Take a Breather: Markets Wrap - Bloomberg.com
 - Samsung’s Galaxy XR Mixed Reality Headset Undercuts Apple’s Vision Pro by $1,700 - WIRED
+- ChatGPT-maker OpenAI releases web browser to rival Google - BBC
