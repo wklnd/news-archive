@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-22 10:50_
+_Updated: 2025-10-22 11:44_
 
 ## Top Stories
 
-- Statsministern tar emot Ukrainas president Volodymyr Zelenskyj - Regeringen.se
+- Zelenskyj besöker Sverige – träffar statsministern i Linköping - SVT Nyheter
 - Brå-rapport: 10 000 kvinnor kopplas till gängen - SvD
-- DN Direkt - Misstänkt farliga föremål i Borås - Dagens Nyheter
-- Zelenskyj: Sex döda i nattens attacker - GP
-- Polisen är på rätt väg - polisen.se
-- Ukrainas nya ambassadör: ”Ryssland är ett långvarigt hot” - GP
+- DN Direkt - Misstänkt farligt föremål i Borås - Dagens Nyheter
+- Grönt ljus för nya bron över Göta älv - GP
+- Emilia lägger ner Farmors: ”Galet att vi avslutar när det går som bäst” - Smålandsposten
+- DN Direkt - Misstänkt för ambulansdåd inte allvarligt psykiskt störd - Dagens Nyheter
 - Polisinsats i Eslöv efter funnen handgranat - SVT Nyheter
 - M och S laddar för stenhård tvekamp om integrationen: ”Ödesfråga” - Dagens Nyheter
 - Svensk krisbroschyr imponerar utomlands - Västerbottens-Kuriren
-- Effekterna av regeringens klimatpolitik kan ha överskattats - Dagens Arena
+- Eskilstuna kräver att regeringen köper ut Senior - Dagens Arbete
 - DN Direkt - 46 döda i trafikolycka i Uganda - Dagens Nyheter
-- Rubio väntas ansluta till möten i Israel – Senaste nytt om kriget i Gaza - SVT Nyheter
+- Trump och Putins toppmöte lagt på is – Senaste nytt om kriget i Ukraina - SVT Nyheter
+- Vance träffar Netanyahu – Rubio på ingång - Västerbottens-Kuriren
 - Sju Bolsonaro-kumpaner dömda - GP
-- Direkt Kriget i Ukraina - Uppgifter: Inga planer på möte mellan Trump och Putin i närtid - Dagens Nyheter
 - Svenska pensionspengar i krisande Stegra - SvD
-- Bygg­konjunkturen: Ryckig byggmarknad på väg uppåt - Byggföretagen
+- Bygg­konjunkturen: Ryckig byggmarknad på väg uppåt - svenskbyggtidning -
 - Kjell Group AB (Publ) – Delårsrapport Q3, 1 januari – 30 september 2025 (MFN) - Aktiellt
-- Teslas lyft efter brytningen med Trump - Aftonbladet
-- Uppgifter: Open AI lanserar webbläsare - DI
-- Minnesord om Iréne Johansson, Vännäs - Folkbladet
+- Adidas: Överglänser många konkurrenter med solid lönsamhet - Morningstar Canada
+- Källor: Apples utveckling av vikbar Ipad uppges ha stött på problem - BN - Placera.se
+- Open AI-inlägg pressar ned Googleägarens aktie - DI
 
 ## World News
 
@@ -46,11 +46,12 @@ _Updated: 2025-10-22 10:50_
 - One Heung Kong released the White Paper on Global Sustainable and Healthy Living Environments jointly with other institutions - Placera.se
 - VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
 - Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
-- CHiQ Strengthens Global Sports Engagement with FIS Ski Jumping World Cup Partnership - Placera.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
 ## Technology
 
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
@@ -65,7 +66,6 @@ _Updated: 2025-10-22 10:50_
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
-- Keysight and The University of Malaga Open State-of-the-Art 6G Research and Innovation Laboratory - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
@@ -73,18 +73,18 @@ _Updated: 2025-10-22 10:50_
 
 ## Business
 
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - BlackRock TCP Capital Corp. to Report Third Quarter Ended September 30, 2025 Financial Results on November 6, 2025 - Placera.se
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -104,18 +104,18 @@ _Updated: 2025-10-22 10:50_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - SIHI Sweden Konferens 2024 - Uppsala universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -123,17 +123,17 @@ _Updated: 2025-10-22 10:50_
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
