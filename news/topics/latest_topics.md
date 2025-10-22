@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-22 06:45_
+_Updated: 2025-10-22 07:42_
 
 ## Top Stories
 
-- Zelenskyj besöker Sverige – träffar statsministern i Linköping - SVT Nyheter
-- Misstänks för flera brott efter tumult - NLT
-- Nordkorea har avfyrat robot - GP
+- Statsministern tar emot Ukrainas president Volodymyr Zelenskyj - Regeringen.se
+- Polisinsats i Eslöv efter funnen handgranat - SVT Nyheter
+- Sanna: När man inte har råd med myskgräsvodka - Dagens Nyheter
+- Direkt Kriget i Ukraina - Europeiska länder tar fram 12-stegsplan för att avsluta kriget - Dagens Nyheter
 - Eskilstuna kräver att regeringen köper ut Senior - Dagens Arbete
 - Tomas Ramberg: Vem tvingar vem till vad? - Dagens Nyheter
-- ”Ibland vet jag inte varför jag är på akuten” - SvD
 - Gaza-aktivisternas kritik: Vi skrev visst på deportationspappren - GP
 - Niklas Orrenius: Heilande våldsmän på invandrarjakt angår oss alla - Dagens Nyheter
 - Hård kritik mot klimatarbetet: Svagt underlag - Västerbottens-Kuriren
 - Kamerabevakning med drönare på Strandvallens arena under fotbollsmatch - polisen.se
-- Europa och Ukraina kontrar Putin med 12 punkter - Västerbottens-Kuriren
 - Sju Bolsonaro-kumpaner dömda - Västerbottens-Kuriren
 - Våldsam sammandrabbning i Dublin - GP
+- Ny bok: Putin hade för vana att ge Niinistö ”ryska tips” - Hufvudstadsbladet
 - Trump pressar Maduro: ”Vill inte jävlas med USA” - Corren
-- Guldpriset faller tungt efter historisk topp – Lundinjätten rasar - DI
 - Bygg­konjunkturen: Ryckig byggmarknad på väg uppåt - Byggföretagen
-- Flera kunder drabbade hos Länsförsäkringar - Aftonbladet
 - Uppgifter: Mix tappar kontrollen – Al Gores fond blir största ägare - EFN
-- Mygg hittade på Island – för första gången - GP
+- Teslas lyft efter brytningen med Trump - SvD
+- Logistea publicerar delårsrapport för tredje kvartalet 2025 - Logistea
 - Uppgifter: Open AI lanserar webbläsare - DI
+- Whisker lanserar kattlådan Litter-Robot 5 Pro – ska hjälpa din katt bajsa med AI - m3.se
 
 ## World News
 
+- Efter press från USA: Beslut om global miljöskatt på sjöfart bordläggs - DI
 - NHL Global Series 2025 i Stockholm - Örebronyheter
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- New Secretary General appointed - Olof Palme International Center
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Armand Duplantis soars to third world title and 14th world record - BBC
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Riyadh International Book Fair 2024: Expanding Global Dialogue through the Largest Collection of Translated Works - Aktiellt
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- One Heung Kong released the White Paper on Global Sustainable and Healthy Living Environments jointly with other institutions - Placera.se
+- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
+- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
 ## Technology
 
@@ -102,63 +102,63 @@ _Updated: 2025-10-22 06:45_
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- CGM J4 logga 16_9.jpg - Mynewsdesk
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
 - Olika slutsatser från samma data - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - The Nordic Network for Psychedelic Science - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De gick från reko till eko - ST-tidningen
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Här är världens största jordbruk - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Till vad ska jordbruket regenereras? - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
