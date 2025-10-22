@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-22 15:53_
+_Updated: 2025-10-22 16:54_
 
-- Children among dead in Russian air strikes, hours after Trump-Putin talks shelved - BBC
-- 9 things to know about the $250 million ballroom Trump is adding to the White House - PBS
-- Louvre reopens three days after French crown jewels stolen - BBC
-- Trump sought $230M from Justice Dept. to settle past investigations of him - Axios
+- Ukrainian children killed in Russian strikes, hours after Trump-Putin talks shelved - BBC
+- American 'Bibisitters' try to keep the Israel-Hamas truce on track - NPR
 - ‘We absolutely need him’: Some in GOP say it’s time for Trump to get involved in shutdown talks even as leaders rebuff idea - CNN
-- Judge who blocked National Guard in Portland faces pivotal decision - OregonLive.com
+- Late Night Watches Trump Go ‘Hulk Smash’ on the White House - The New York Times
+- Trump sought $230M from Justice Dept. to settle past investigations of him - Axios
+- Louvre reopens three days after French crown jewels stolen - BBC
+- Federal Agents Stage Raid on Canal Street in New York City - The New York Times
+- How John Bolton’s criminal case stacks up to other high-profile classified docs probes - Politico
 - Trump nominee Paul Ingrassia withdraws after offensive texts allegedly emerge - BBC
-- Protests erupt in New York City after Ice raids Chinatown over ‘counterfeit goods’ - The Guardian
-- Vance Says He’s Not in Israel to Babysit Gaza Cease-Fire - The New York Times
-- Shooting by ICE officer in Los Angeles wounds motorist, U.S. marshal - The Washington Post
-- Japan’s Takaichi Orders Economic Package to Tackle Inflation - Bloomberg.com
+- Ex-US Sen. John E. Sununu enters GOP primary race in New Hampshire for the seat he lost in 2008 - AP News
+- Japan PM Takaichi Orders Economic Package to Tackle Inflation - Bloomberg.com
+- Russia was smug about Trump-Putin talks. Now they're on hold, Moscow's anxious - CNBC
 - Tropical Storm Melissa tracker: Map and projected storm path - The Washington Post
-- Things to know about Nicolas Sarkozy, France's new prison inmate who used to be president - AP News
-- Woman arrested over theft of gold worth $1.7 million from Paris Natural History Museum - CBS News
-- Gold slide continues, stocks keep calm - Reuters
-- Family health insurance premiums hit another record: $26,993 - Star Tribune
-- WBD Stock Hits 3-Year High On M&A Mojo; Wall Street Analysts Still Expect Paramount Takeover - Deadline
-- UK inflation holds at 3.8% in surprise boost for Reeves and BoE - Reuters
-- Column | ChatGPT just came out with its own web browser. Use it with caution. - The Washington Post
+- Sudan war: Drone attack hits Khartoum ahead of planned airport reopening - BBC
+- Gold, Silver Hold Losses as Stocks Take a Breather: Markets Wrap - Bloomberg.com
+- Workers and Employers Face Higher Health Insurance Costs - The New York Times
+- With WBD In Play, Netflix CEOs Ted Sarandos & Greg Peters Weigh In On Media M&A - Deadline
+- Netflix Earnings Aren’t Supposed to Come in Short. Here’s Why the Stock Is Dropping. - Barron's
+- OpenAI launches browser to rival Google Chrome - DW
 - Samsung’s Galaxy XR Mixed Reality Headset Undercuts Apple’s Vision Pro by $1,700 - WIRED
