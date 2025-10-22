@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-22 19:48_
+_Updated: 2025-10-22 20:55_
 
-- Republicans advance Trump's redistricting fight into swing-state North Carolina - NPR
-- Louvre reopens three days after French crown jewels stolen - BBC
-- Historic preservation group asks Trump admin. to pause White House East Wing demolition where ballroom will be - CBS News
-- Democratic senator’s floor speech condemning Trump enters 16th hour - The Guardian
+- US forces said to strike alleged drug boat in the Pacific - BBC
+- North Carolina lawmakers pass new map designed to give GOP an extra House seat - NBC News
+- White House says it will submit ballroom plans for review, with demolition already under way - Reuters
+- Democratic senator’s floor speech condemning Trump enters 19th hour - The Guardian
 - Israel ‘not a protectorate’ of the U.S., Netanyahu says ahead of meeting with Vance - PBS
 - Ukrainian children killed in Russian strikes, hours after Trump-Putin talks shelved - BBC
+- New York officials condemn Manhattan ICE raid: ‘This creates fear and chaos’ - The Guardian
 - Maine Senate candidate Platner says tattoo recognized as Nazi symbol has been covered - AP News
-- Sonya Massey shooting: Sean Grayson ‘got mad’ and fatally shot Massey without justification, prosecutor says - CNN
-- New York officials condemn Manhattan Ice raid: ‘This creates fear and chaos’ - The Guardian
+- Sheriff’s deputy ‘got mad’ and fatally shot Sonya Massey without justification, prosecutor says - CNN
 - Trump pick to lead federal watchdog agency withdraws after offensive text messages were revealed - PBS
-- Top UN court says Israel must allow UN relief agency to supply aid to Gaza - AP News
-- VP Vance tries to progress Gaza ceasefire. And, White House demolition draws critics - NPR
+- Louvre reopens three days after French crown jewels stolen - BBC
 - 6 arrested after protesters clash with police outside Dublin hotel housing asylum seekers - NBC News
-- Tropical Storm Melissa not yet strengthening, but still expected to become a dangerous Caribbean hurricane - Yale Climate Connections
+- VP Vance tries to progress Gaza ceasefire. And, White House demolition draws critics - NPR
+- Russia was smug about Trump-Putin talks. Now they're on hold, Moscow's anxious - CNBC
+- Beyond Meat Shares Surge, Extending Rally to Almost 1,300% - Bloomberg.com
+- Amazon's switch to robots over human warehouse employees will save it up to $4 billion a year, Morgan Stanley says - CNBC
+- Meta to cut around 600 roles in Superintelligence Labs AI unit - Reuters
 - Gold Prices Keep Falling After Worst Loss In 12 Years; These ETFs, Miners Extend Losses - Investor's Business Daily
-- Meta cuts 600 AI jobs amid ongoing reorganization - TechCrunch
-- GM plans to launch eyes-off driving, Google AI and other new in-vehicle tech by 2028 - CNBC
-- NHL inks deal with prediction market companies - ESPN
 - Column | ChatGPT just came out with its own web browser. Use it with caution. - The Washington Post
 - Samsung takes on Apple’s Vision Pro with new Galaxy XR headset - TechCrunch
