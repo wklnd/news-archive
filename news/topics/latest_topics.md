@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-22 16:47_
+_Updated: 2025-10-22 17:41_
 
 ## Top Stories
 
-- SVT erfar: Sverige vill sälja 150 Gripenplan till Ukraina - SVT Nyheter
-- En anhållen för mord i Sigtuna 2015 - Åklagarmyndigheten
+- Ukraina vill köpa över 100 Jas Gripen från Sverige - Dagens Nyheter
+- Ja till ny lag för public service - Västerbottens-Kuriren
+- Kvinna hittades död i vak i Sigtunafjärden – en misstänkt för mord - SVT Nyheter
 - Dom i mål om människorov, grov misshandel och hot mot tjänsteman - Sveriges Domstolar
+- Rysk köldattack: Hotar fjärrvärmekollaps för Ukraina? - Bulletin
 - ICJ: Israel måste underlätta nödhjälp via FN - Hufvudstadsbladet
-- DN Direkt - Ja till ny lag för public service - Dagens Nyheter
-- Patrik Hagman: Christer Hugos bokstavliga tolkning av Bibeln är dålig läsning - Dagens Nyheter
-- 22 oktober 07.39, Farligt föremål, misstänkt, Borås - polisen.se
-- Zelenskyj: Fryst frontlinje "bra kompromiss” - Aftonbladet
-- Sanna Torén Björling: Nu vill Ukrainas europeiska allierade visa handlingskraft - Dagens Nyheter
+- Barn hittade handgranat på studsmatta – en person anhållen - SVT Nyheter
+- Pojke döms för hets mot folkgrupp – sjöng ”Bögarnas fel” - Dagens Nyheter
 - Brå: 10 000 tjejer involverade i kriminella gäng - Aftonbladet
+- Tunga kritiken: Väljarna får fel bild av Sveriges klimatutsläpp - SVT Nyheter
 - Öppning för lägre USA-tullar mot Indien - DI
+- Nya drönarbilder visar förödelsen i Gaza stad – Senaste nytt om kriget i Gaza - SVT Nyheter
 - DN Direkt - 46 döda i trafikolycka i Uganda - Dagens Nyheter
-- Zelenskyj: Sex döda i nattliga attacker - GP
-- Vance: Avväpna Hamas blir en tuff uppgift - Västerbottens-Kuriren
+- Elskåp exploderade i Kallhäll – kvinna skadad - SVT Nyheter
 - Busch om krisen i Stegra: ”Planerad finansieringsrunda” - DI
-- Minus för LKAB – fyra miljarder för Kirunas stadsflytt belastar kvartalet - SVT Nyheter
-- Icas maktdrag – öppnar nytt i Hornstull - SvD
-- Corem redovisar oförändrat förvaltningsresultat (Finwire News) - Aktiellt
+- PostNord är en av de första postoperatörerna att återuppta leveranser till USA och Puerto Rico för alla kunder (Cision) - Aktiellt
+- Corem redovisar oförändrat förvaltningsresultat (uppdatering) - Placera.se
+- Analyserna: ”Den största positiva överraskningen” - EFN
 - Open AI lanserar webbläsare – Chat GPT Atlas - Computer Sweden
-- Tittarna skriker efter mer av “årets bästa serie” – kan nu komma tillbaka - Filmtopp
+- AI-boomen ger högre priser på hemelektronik - Omni
 
 ## World News
 
@@ -44,55 +44,55 @@ _Updated: 2025-10-22 16:47_
 - Riyadh International Book Fair 2024: Expanding Global Dialogue through the Largest Collection of Translated Works - Aktiellt
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - One Heung Kong released the White Paper on Global Sustainable and Healthy Living Environments jointly with other institutions - Placera.se
-- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
 ## Technology
 
-- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
-- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Oron: Då tar datan på internet slut - SvD
 - Bästa AI-aktierna att köpa nu - Morningstar Canada
-- Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
-- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
+- 290 million for digitalisation of Swedish industry - Vinnova
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- Imagimob förvärvas av Infineon som förstärker sitt erbjudande inom AI - Mynewsdesk
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
 - Keysight and The University of Malaga Open State-of-the-Art 6G Research and Innovation Laboratory - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
 
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- BlackRock TCP Capital Corp. to Report Third Quarter Ended September 30, 2025 Financial Results on November 6, 2025 - Placera.se
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 
 ## Health
 
@@ -108,57 +108,57 @@ _Updated: 2025-10-22 16:47_
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Johan von Schreeb - Karolinska institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Studie om mikroplast fälld för fusk - Stockholms universitet
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Till vad ska jordbruket regenereras? - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
