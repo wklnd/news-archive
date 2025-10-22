@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-22 22:41_
+_Updated: 2025-10-22 23:37_
 
 ## Top Stories
 
 - Ukraina vill köpa över 100 Jas Gripen från Sverige - Dagens Nyheter
-- USA: Ska införa nya sanktioner mot Ryssland - Omni
-- Kidnappade pojke utanför polishuset – nu döms flera - SVT Nyheter
-- Kvinna misstänks ha orkestrerat trippelmord i Nederländerna - Aftonbladet
-- Flera viskare – men han är Europas Trumpretare - SvD
-- Misstänkt grovt brott i bostadsområde i Mosås - SVT Nyheter
+- USA trappar upp mot Putin – tillåter nya attacker på rysk mark - Aftonbladet
+- Direkt Kriget i Ukraina - Natochefen träffar Trump i Washington - Dagens Nyheter
+- Ukrainsk förskola attackerad – timmar efter inställt toppmöte - Dagens Nyheter
+- Dom i mål om människorov, grov misshandel och hot mot tjänsteman - Sveriges Domstolar
+- Björn af Kleen: Nu tar Trumps förstörelse sikte på maktens skelett - Dagens Nyheter
 - 25 år senare: Minoriteter diskrimineras fortsatt - GP
-- Moderaternas utmaning – trögt att locka storstadsväljare - Dagens Nyheter
-- Riksväg 50 åter öppen efter olycka - SVT Nyheter
 - Verkligheten vägrar styras av visionerna - SvD
+- Flickor och kvinnor i kriminella nätverk - Brottsförebyggande rådet (Brå)
+- Bentätheten dippar under amning - GP
 - EU och USA trappar upp sanktionerna mot Ryssland - Dagens Nyheter
 - ICJ: Israel måste underlätta nödhjälp via FN - Hufvudstadsbladet
-- Här rivs delar av Vita huset – trots Trumps löfte - Dagens Nyheter
-- Zelenskyj: Sex döda i nattliga attacker - Västerbottens-Kuriren
-- ”Är Stegra på väg mot en dödsfälla?” - SvD
-- Ica tar över butik i Stockholms innerstad - Dagligvarunytt
+- DN Direkt - Insats på Arlanda – flygplan misstänks läcka kvicksilver - Dagens Nyheter
+- Grovt brott i Örebro - Expressen
+- Busch om krisen i Stegra: ”Planerad finansieringsrunda” - DI
+- Icas maktdrag – öppnar nytt i Hornstull - SvD
 - Postnord möter Trumps krav – återupptar leveranser till USA - Dagens Handel
-- Efter kollapsen: Beyond Meat rusar på börsen - food-supply.se
+- IVO-beslut om brister vid införandet av Millennium - Västra Götalandsregionen
 - Linus Larsson: Vågar du låta AI-webbläsaren minnas allt om dig? - Dagens Nyheter
 - Attana initierar strategisk översyn för att realisera aktieägarvärde genom bolagets IP-portfölj (Cision) - Aktiellt
 
@@ -51,24 +51,24 @@ _Updated: 2025-10-22 22:41_
 ## Technology
 
 - Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Global AI In Cybersecurity Market Size Projected to Reach $93 Billion By 2030 Due To Frequent High-Profile Cyberattacks - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Bästa AI-aktierna att köpa nu - Morningstar Canada
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - 290 million for digitalisation of Swedish industry - Vinnova
-- MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska institutet
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
-- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
+- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Deepseek är det nya Linux - Computer Sweden
+- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
-- Keysight and The University of Malaga Open State-of-the-Art 6G Research and Innovation Laboratory - Placera.se
 - SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
