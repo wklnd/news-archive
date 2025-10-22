@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-22 15:20_
+_Updated: 2025-10-22 15:53_
 
 - Children among dead in Russian air strikes, hours after Trump-Putin talks shelved - BBC
-- Late Night Watches Trump Go ‘Hulk Smash’ on the White House - The New York Times
+- 9 things to know about the $250 million ballroom Trump is adding to the White House - PBS
+- Louvre reopens three days after French crown jewels stolen - BBC
+- Trump sought $230M from Justice Dept. to settle past investigations of him - Axios
 - ‘We absolutely need him’: Some in GOP say it’s time for Trump to get involved in shutdown talks even as leaders rebuff idea - CNN
-- Trump has claimed millions from the government. He could order payment. - The Washington Post
-- Scoop: Angry Dems ramp up battle with Mike Johnson over Grijalva - Axios
 - Judge who blocked National Guard in Portland faces pivotal decision - OregonLive.com
 - Trump nominee Paul Ingrassia withdraws after offensive texts allegedly emerge - BBC
+- Protests erupt in New York City after Ice raids Chinatown over ‘counterfeit goods’ - The Guardian
 - Vance Says He’s Not in Israel to Babysit Gaza Cease-Fire - The New York Times
 - Shooting by ICE officer in Los Angeles wounds motorist, U.S. marshal - The Washington Post
-- John E. Sununu jumps into New Hampshire Senate race - Politico
-- The Louvre reopens 3 days after one of the biggest museum heists of the century - AP News
 - Japan’s Takaichi Orders Economic Package to Tackle Inflation - Bloomberg.com
-- Now Trump won't meet with Putin on Ukraine, White House official says - ABC News - Breaking News, Latest News and Videos
 - Tropical Storm Melissa tracker: Map and projected storm path - The Washington Post
-- Gold Has Worst Day In 12 Years; These Stocks, ETFs Sell Off - Investor's Business Daily
-- Stock futures are little changed after record session for Dow; Netflix slides on earnings miss: Live updates - CNBC
+- Things to know about Nicolas Sarkozy, France's new prison inmate who used to be president - AP News
+- Woman arrested over theft of gold worth $1.7 million from Paris Natural History Museum - CBS News
+- Gold slide continues, stocks keep calm - Reuters
+- Family health insurance premiums hit another record: $26,993 - Star Tribune
+- WBD Stock Hits 3-Year High On M&A Mojo; Wall Street Analysts Still Expect Paramount Takeover - Deadline
 - UK inflation holds at 3.8% in surprise boost for Reeves and BoE - Reuters
-- Consumers feeling 'discount burnout' ahead of Black Friday, Cyber Monday, survey finds - CNBC
-- OpenAI launches browser to rival Google Chrome - DW
+- Column | ChatGPT just came out with its own web browser. Use it with caution. - The Washington Post
 - Samsung’s Galaxy XR Mixed Reality Headset Undercuts Apple’s Vision Pro by $1,700 - WIRED
