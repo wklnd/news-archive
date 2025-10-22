@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-22 06:51_
+_Updated: 2025-10-22 07:48_
 
-- Trump nominee Ingrassia bows out amid GOP pushback - Axios
-- White House expands East Wing demolition as critics decry Trump overreach - The Washington Post
-- Now Trump won't meet with Putin on Ukraine, White House official says - ABC News - Breaking News, Latest News and Videos
+- Trump pick to lead watchdog agency withdraws after offensive text messages revealed - NPR
+- As Trump Moves Forward With White House Ballroom Project, Architects Raise Concerns - The New York Times
 - Trump says he'd have final say on money he seeks over past federal investigations into his conduct - AP News
-- ICE agent wounds deputy U.S. marshal and TikTok streamer, who is charged with assault - Los Angeles Times
+- Trump says he doesn’t want ‘wasted meeting’ with Putin, delaying summit - The Washington Post
+- Vehicle Crashes Into Security Gate Outside the White House - The New York Times
 - ICE raids target vendors selling counterfeit goods on NYC's Canal Street, DHS says - CBS News
-- North Carolina lawmakers vote to add GOP House seat, in win for Trump - The Washington Post
-- Arizona sues US House over delay in Grijalva swearing-in - The Hill
+- Shooting by ICE officer in Los Angeles wounds motorist, U.S. marshal - The Washington Post
+- North Carolina Senate Approves New Map in Effort to Add G.O.P. Congressional Seat - The New York Times
+- Arizona attorney general sues Mike Johnson for failing to seat Adelita Grijalva - Politico
 - Billy Joe Cagle: Criminal history of man arrested at Atlanta airport - FOX 5 Atlanta
-- Maine Democrat Platner, on defense over tattoo, takes page from Trump playbook to keep up Senate bid - AP News
 - $102M in jewels taken in Louvre heist, as museum director summoned by lawmakers - ABC News - Breaking News, Latest News and Videos
-- 5 things to know about Sanae Takaichi, Japan's first female prime minister - NPR
+- Japan PM Takaichi Orders Economic Package to Tackle Inflation - Bloomberg.com
+- 2 killed in Kyiv, 15 injured in Zaporizhzhia during mass Russian overnight attack - The Kyiv Independent
 - North Korea test-fires ballistic missiles ahead of Trump’s Asia trip - AP News
-- Tropical Storm Melissa tracker: Map and projected storm path - The Washington Post
-- With WBD In Play, Netflix CEOs Ted Sarandos & Greg Peters Weigh In On Media M&A - Deadline
+- Inside The Surprise Brazilian Tax That Rattled Netflix Earnings - Deadline
 - Exclusive | Travis Kelce Teams Up With Investor for Activist Campaign at Six Flags - WSJ - The Wall Street Journal
-- Netflix shares drop as Brazilian tax dispute hits earnings - Reuters
+- Exclusive: Warner Bros Discovery board rejected Paramount Skydance buyout offer, source says - Reuters
 - Dimon Cuts Ribbon on JPMorgan’s Multibillion-Dollar Headquarters - Bloomberg.com
-- OpenAI launches AI browser Atlas in latest challenge to Google - Reuters
+- ChatGPT-maker OpenAI releases web browser to rival Google - BBC
 - Samsung’s Galaxy XR Headset Debuts at Half the Price of Apple’s Vision Pro - Bloomberg.com
