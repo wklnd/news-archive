@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-23 04:13_
+_Updated: 2025-10-23 05:25_
 
 ## Top Stories
 
 - Så slår USA:s sanktioner mot Ryssland - GP
+- Avsiktsförklaring mellan Ukraina och Sverige gällande samarbete inom luftförsvar - Regeringen.se
 - Nya våldsamheter i Dublin - GP
-- Kvinna gripen för mordförsök - Aftonbladet
-- Ukrainsk förskola attackerad – timmar efter inställt toppmöte - Dagens Nyheter
-- EU och USA trappar upp sanktionerna mot Ryssland - Dagens Nyheter
-- Fyra frågor som arga EU-medborgare fått sina ledare att ta upp på toppmötet - Altinget.se
-- Ukraina vill köpa över 100 Jas Gripen från Sverige - Dagens Nyheter
+- Vance och Kushner lanserar idé om att dela upp Gaza - Dagens Nyheter
+- Klart för EU:s nya sanktionspaket - UNT
+- DN Direkt - Källor: USA attackerade påstådd knarkbåt i Stilla havet - Dagens Nyheter
+- Moderaterna pressade i opinionen – men Svantesson är segerviss - DI
 - 22 oktober 20.00, Trafikkontroll, Jämtlands län - polisen.se
 - Verkligheten vägrar styras av visionerna - SvD
 - Flickor och kvinnor i kriminella nätverk - Brottsförebyggande rådet (Brå)
+- Zelenskyj: Sex döda i nattliga attacker - GP
 - WSJ: Ukraina får friare hand med långdistansrobot - Västerbottens-Kuriren
-- Trumps nya balsal: ”En etisk mardröm” - Folkbladet
-- Vance och Kushner lanserar idé om att dela upp Gaza - Dagens Nyheter
+- Trump och Putins toppmöte lagt på is - Corren
 - Andrzej Poczobut och Mzia Amaglobeli: vinnare av Sacharovpriset 2025 - European Parliament
 - Investerare shoppar loss i blindo – ingen statistik från USA - Dagens PS
 - IVO-beslut om brister vid införandet av Millennium - Västra Götalandsregionen
+- Skyddsombuden och arbetsgivaren kan tillsammans göra skillnad - Lidingö Nyheter
 - Arbetsmiljöverket larmar om brister i maskinsäkerhet - Dagens Arbete
-- Bygg­konjunkturen: Ryckig byggmarknad på väg uppåt - svenskbyggtidning -
 - Linus Larsson: Vågar du låta AI-webbläsaren minnas allt om dig? - Dagens Nyheter
 - Infångat stjärnljus start på ny galaxkartläggning - Aftonbladet
 
 ## World News
 
-- NHL Global Series 2025 i Stockholm - Örebronyheter
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- New Secretary General appointed - Olof Palme International Center
+- NHL Global Series 2025 i Stockholm - Örebronyheter
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Duplantis breaks world record, Marschall wins world championship bronze - Australian Broadcasting Corporation
 - Boeing jet returns to US from China, a victim of Trump's tariff war - The Economic Times
+- Kina främjar global utbildning - Vietnam.vn
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 
@@ -89,10 +89,10 @@ _Updated: 2025-10-23 04:13_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
+- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 
 ## Health
 
@@ -103,19 +103,19 @@ _Updated: 2025-10-23 04:13_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Mabel AI won the HealthTech Award 2023 - NewsMachine AB
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-23 04:13_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Så gick första året för Pellbrants - Mellanbygden
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- De gick från reko till eko - ST-tidningen
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
