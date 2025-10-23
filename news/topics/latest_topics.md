@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-23 15:48_
+_Updated: 2025-10-23 16:46_
 
 ## Top Stories
 
-- Så kan Trump grusa Sveriges Gripen-affär - GP
-- Gängman från Malmö greps på Kastrup - GP
-- Foxtrotledare gripen på Arlanda – misstänks för flera grova brott - SVT Nyheter
-- Blev piskade med skärp – nu åtalas fem elever på Lundsberg för misshandel - NWT
-- ”Soldat F” frias för mord över 50 år efter Blodiga söndagen - Dagens Nyheter
-- DN Direkt - Man död efter villabrand i Varberg - Dagens Nyheter
 - S föreslår skarp 15-årsgräns för sociala medier, stärkt skydd mot deepfakes och en nationell nätpolis - Socialdemokraterna
-- Bara fyra procentenheter mellan blocken när S tappar - Omni
+- Uppgifter: Larmade om stenkastning – var granater - Aftonbladet
+- DN Direkt - Väljer Finlands landslag – nobbar Sverige - Dagens Nyheter
+- ”Soldat F” frias för mord över 50 år efter Blodiga söndagen - Dagens Nyheter
+- Foxtrotledare gripen på Arlanda – misstänks för flera grova brott - SVT Nyheter
+- ”Nytt studiemedel är ett stort slöseri” - SvD
 - Åt för mycket pannbiff på buffé – blev utskälld - GP
-- Kalmar blev första regionen att ansluta fullt till NLL - LäkemedelsVärlden
-- Strid om ryska miljarder när EU-toppmötet samlas kring Ukraina - Europaportalen
+- Tidöpartierna knappar in – klyftan minskar mellan blocken - Dagens Nyheter
+- Blev piskade med skärp – nu åtalas fem elever på Lundsberg för misshandel - NWT
+- S: Skicka Gripen till Ukraina nu - Västerbottens-Kuriren
 - Trumps nya oljesanktioner ska pressa Putin - Västerbottens-Kuriren
+- Strid om ryska miljarder när EU-toppmötet samlas kring Ukraina - Europaportalen
 - Orbáns anhängare: ”Vill inte dö för Ukraina” - Hufvudstadsbladet
-- Fransk kvinna hölls fången i ett garage i fem år - Dagens Nyheter
+- EU antar nytt sanktionspaket mot Ryssland - Regeringen.se
 - Små rörelser på Stockholmsbörsen – bästa börsdagen hittills för Volvo Cars - DI
 - Stegra behöver mer Xi Jinping och mindre Harald Mix - Arbetet
 - Sparkonto ”ingen plats ha sina pengar på” - SvD
-- Agenter anlitades – sänkte svensk börsjätte - SvD
-- Infångat stjärnljus start på ny galaxkartläggning - NWT
-- Spel om beväpnade ankor utmanar “Battlefield 6” – har redan sålt en miljon exemplar - MovieZine
+- PLAYTECHS KOMMUNIKATION FÖRVÅNAR - VD - Placera.se
+- Minimala pixlar uppnår så hög upplösning som det mänskliga ögat kan se - Uppsala universitet
+- Infångat stjärnljus start på ny galaxkartläggning - Aftonbladet
 
 ## World News
 
@@ -36,21 +36,22 @@ _Updated: 2025-10-23 15:48_
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Global stålproduktion sjönk i september - DI
 - New Secretary General appointed - Olof Palme International Center
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Ex-nyhetsankare på BBC hade barnpornografi - Omni
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 
 ## Technology
 
 - Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
+- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -61,14 +62,13 @@ _Updated: 2025-10-23 15:48_
 - Bästa AI-aktierna att köpa nu - Morningstar Canada
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Deepseek är det nya Linux - Computer Sweden
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Spår superintelligens om tio år – vill leda racet - Omni
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Keysight and The University of Malaga Open State-of-the-Art 6G Research and Innovation Laboratory - Placera.se
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
+- Keysight and The University of Malaga Open State-of-the-Art 6G Research and Innovation Laboratory - Placera.se
 - SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
@@ -103,19 +103,19 @@ _Updated: 2025-10-23 15:48_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
-- Mabel AI won the HealthTech Award 2023 - NewsMachine AB
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Tema: AI inom medicin och hälsa - Karolinska Institutet
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -146,6 +146,7 @@ _Updated: 2025-10-23 15:48_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
@@ -153,12 +154,11 @@ _Updated: 2025-10-23 15:48_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- Många lantbruk vill producera egen el - Tidningen Extrakt
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Holmgren: Centerpartiet – vi verkar vara överrens - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Till vad ska jordbruket regenereras? - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
+- Jordbruket har utvecklats även utan ekocertifieringen - Land Lantbruk
