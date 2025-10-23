@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-23 15:20_
+_Updated: 2025-10-23 15:52_
 
-- Chauncey Billups and Miami Heat's Terry Rozier arrested in federal gambling-related investigation - NBC News
-- Trump Is Wasting No Time in Tearing Down the East Wing - The New York Times
-- Oil rises 5% on fresh US sanctions against Russia - Reuters
-- US strikes 2nd alleged drug cartel vessel in Pacific, in expansion of attacks - ABC News - Breaking News, Latest News and Videos
-- Trump's multi-million request puts DOJ integrity to the test, legal scholars say - Axios
+- Portland Trail Blazers coach Chauncey Billups charged in illegal poker operation tied to Mafia: Sources - ABC News - Breaking News, Latest News and Videos
+- Trump’s ballroom blitz sparks chorus of disgust: ‘The perfect symbol’ - The Guardian
+- Exclusive: China state oil majors suspend Russian oil buys due to sanctions, sources say - Reuters
+- US kills three in second strike on alleged drug boats in the Pacific - BBC
+- Late Night Responds to Trump’s Justice Department Query - The New York Times
 - Vance slams Israel's parliament vote on West Bank annexation, calling it an 'insult' - NPR
-- Trump plans to send federal agents to San Francisco ‘right out of dictator’s handbook’, says Newsom – US politics live - The Guardian
-- How Senate Republicans finally said 'no' to Ingrassia - Politico
+- Pelosi Says Police May Arrest Federal Agents Who Violate California Law - The New York Times
+- Inside the Capitol Hill implosion of Paul Ingrassia - Politico
 - Mamdani attacked for refusing to take position on housing questions in NYC mayor debate - Gothamist
-- At least 25 states plan to cut off food aid benefits in November - Politico
-- King Charles and Pope Leo Pray Together in Groundbreaking Moment - The New York Times
-- A timeline of the jewel heist at the Louvre in Paris - AP News
-- How Tropical Storm Melissa could intensify and where the storm may be going - The Washington Post
+- He tracked and posted videos of ICE raids in L.A. Now this TikTok streamer is in federal custody - Los Angeles Times
+- King Charles and Pope Leo pray together in a 500-year first - Reuters
 - EU set to endorse deal to turn frozen Russian assets into support for Ukraine - BBC
-- Exclusive | Trump Administration in Talks to Take Equity Stakes in Quantum-Computing Firms - The Wall Street Journal
-- Morning Bid: Beyond Meat's back on the menu - Reuters
+- Tropical Storm Melissa takes aim at Caribbean, islands on alert - Al Jazeera
+- Europe Faces an Economic Reality Check on Its Climate Agenda - Bloomberg.com
 - Elon Musk got feisty about his $1 trillion pay package in the final minutes of Tesla's earnings call - businessinsider.com
+- Stock Market Today: Dow Jones Index Falls As Tesla Sells Off On Earnings (Live Coverage) - Investor's Business Daily
 - Single-family rent growth just hit the lowest level in 15 years, new report finds - CNBC
-- OpenAI teases new features and fixes for ChatGPT Atlas - The Verge
-- OnePlus confirms a key downgrade for the OnePlus 15 - Android Authority
+- American Airlines hires industry veteran to lead commercial team as profits trail rivals - CNBC
+- The ChatGPT Atlas browser still feels like Googling with extra steps - The Verge
+- Report: Apple to Skip 'iPhone 19' Name for 'iPhone 20' - MacRumors
