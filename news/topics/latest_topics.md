@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-23 21:38_
+_Updated: 2025-10-23 22:41_
 
 ## Top Stories
 
-- Putin: Sanktionerna får ingen större påverkan - Aftonbladet
+- Ukraina manar EU: Använd de ryska miljarderna - Västerbottens-Kuriren
+- Trumps nya oljesanktioner ska pressa Putin - Västerbottens-Kuriren
 - DN Direkt - Man död efter villabrand i Varberg - Dagens Nyheter
-- Expert: Aktivklubbarna upplever ett momentum - Omni
-- Riksdagens webbsida fungerar igen - Västerbottens-Kuriren
-- S föreslår skarp 15-årsgräns för sociala medier, stärkt skydd mot deepfakes och en nationell nätpolis - Socialdemokraterna
+- Linus Larsson: De låtsas som att Sverige ensamt kan tygla techjättarna - Dagens Nyheter
+- Statsministern tar emot Ukrainas president Volodymyr Zelenskyj - Regeringen.se
 - Stressforskaren: Därför bör vi alltid ha vintertid - SvD
-- S: Skicka Gripen till Ukraina nu - GP
-- Foxtrot-topp gripen på Arlanda - Hufvudstadsbladet
+- DN Direkt - Hund till attack mot polis – avlivad - Dagens Nyheter
 - Beskedet: Gårdsförsäljare måste inte följa Systembolagets öppettider - SVT Nyheter
 - Blev piskade med skärp – nu åtalas fem elever på Lundsberg för misshandel - NWT
+- Foxtrot-topp gripen på Arlanda - Hufvudstadsbladet
 - Snart 80-åriga Lula söker ny mandatperiod - Västerbottens-Kuriren
 - Litauen: Ryska militärplan kränkte vårt luftrum - GP
-- Hotfulla tongångar mot Netanyahu från Vita huset - Dagens Nyheter
 - ”Katastrofal” situation i Gaza – trots eldupphör - Västerbottens-Kuriren
+- Vänner hittade 15 000 romerska mynt i Wales - Dagens Nyheter
 - Stegra behöver mer Xi Jinping och mindre Harald Mix - Arbetet
-- Sparkonto ”ingen plats ha sina pengar på” - SvD
-- Kinas drag mot USA kan tvinga svenska företag att bunkra sällsynta jordartsmetaller - Dagens Nyheter
 - Förvaltaren tror vändningen dröjer i Evolution: "Risk på det fjärde kvartalet och 2026" - Placera.se
+- Kinas drag mot USA kan tvinga svenska företag att bunkra sällsynta jordartsmetaller - Dagens Nyheter
+- Miljözonen i Stockholm city – fortsatt på paus - Transportstyrelsen
 - Minimala pixlar uppnår så hög upplösning som det mänskliga ögat kan se - Uppsala universitet
 - ”Som en första telefon” - SvD
 
@@ -51,6 +51,7 @@ _Updated: 2025-10-23 21:38_
 ## Technology
 
 - Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
+- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -61,7 +62,6 @@ _Updated: 2025-10-23 21:38_
 - Bästa AI-aktierna att köpa nu - Morningstar Canada
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
@@ -120,45 +120,45 @@ _Updated: 2025-10-23 21:38_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Intensivt jordbruk hotar biologisk mångfald - Sveriges Natur
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Holmgren: Centerpartiet – vi verkar vara överrens - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Till vad ska jordbruket regenereras? - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
