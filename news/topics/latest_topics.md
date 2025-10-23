@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-23 06:43_
+_Updated: 2025-10-23 07:41_
 
 ## Top Stories
 
-- Statsministern tar emot Ukrainas president Volodymyr Zelenskyj - Regeringen.se
 - Så slår USA:s sanktioner mot Ryssland - GP
-- Nya våldsamheter i Dublin - GP
-- Vance och Kushner lanserar idé om att dela upp Gaza - Dagens Nyheter
-- Ukrainsk förskola attackerad – timmar efter inställt toppmöte - Dagens Nyheter
-- Klart för EU:s nya sanktionspaket - Västerbottens-Kuriren
-- Kommer Moderaterna göra som Katy Perry? - Altinget.se
+- Ukraina vill köpa över 100 Gripenplan av Sverige - SVT Nyheter
 - Ministern vill att lärare ska få bestraffa elever - Dagens Nyheter
-- DEBATT: Hjärtinfarkt och dödsfall – köp inte nätdrogerna - Expressen
-- Verkligheten vägrar styras av visionerna - SvD
-- Ukrainas räddning – frysta ryska miljarder? - GP
+- DN Direkt - Explosion vid port i Kristianstad - Dagens Nyheter
+- Larmet: Flera fel på Göteborgs nya halvö - GP
+- Ukrainas räddning – frysta ryska miljarder? - VLT
+- Svenska värderingar viktiga när M går till val - GP
+- ”Visa osäkerheten istället för att dölja den” - Helagotland
+- Flickor och kvinnor i kriminella nätverk - Brottsförebyggande rådet (Brå)
+- Tjänster dras in på sjukhuset - Östersunds-Posten
 - Sigrid Melchior: Putin kan utnyttja ett splittrat EU - Dagens Nyheter
 - WSJ: Ukraina får friare hand med långdistansrobot - Västerbottens-Kuriren
-- Hegseth: Ny attack mot knarkbåt i Stilla havet - Västerbottens-Kuriren
+- Hegseth: Ny attack mot knarkbåt i Stilla havet - GP
+- Nya våldsamheter i Dublin - GP
 - Banken: Billigt att binda boräntan nu - DI
-- Är Stegra det nya Nothvolt? - SvD
+- Stegra behöver mer Xi Jinping och mindre Harald Mix - Arbetet
+- Axfood växer i alla segment men bommar förväntningar - Omni
 - IVO-beslut om brister vid införandet av Millennium - Västra Götalandsregionen
-- Skyddsombuden och arbetsgivaren kan tillsammans göra skillnad - Lidingö Nyheter
 - Infångat stjärnljus start på ny galaxkartläggning - NWT
 - Linus Larsson: Vågar du låta AI-webbläsaren minnas allt om dig? - Dagens Nyheter
 
@@ -33,10 +33,9 @@ _Updated: 2025-10-23 06:43_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
@@ -45,6 +44,7 @@ _Updated: 2025-10-23 06:43_
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Duplantis breaks world record, Marschall wins world championship bronze - Australian Broadcasting Corporation
 - Boeing jet returns to US from China, a victim of Trump's tariff war - The Economic Times
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - Biljetter till Global Series-träningarna i Stockholm - NHL.com
 
@@ -83,16 +83,16 @@ _Updated: 2025-10-23 06:43_
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Kravet på lönetransparens ökar inom EU. Nu expanderar svenska pay equity-systemet Pihr internationellt med investeraren Monterro. - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
+- Student and entry-level programs - EY
 
 ## Health
 
@@ -105,8 +105,8 @@ _Updated: 2025-10-23 06:43_
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Fakulteten för hälsa och samhälle - Malmö universitet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
@@ -143,22 +143,22 @@ _Updated: 2025-10-23 06:43_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- De gick från reko till eko - ST-tidningen
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Till vad ska jordbruket regenereras? - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
