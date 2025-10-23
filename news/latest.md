@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-23 22:48_
+_Updated: 2025-10-23 23:48_
 
-- White House East Wing demolished, new images appear to show - ABC News - Breaking News, Latest News and Videos
-- Trump backs off sending National Guard to San Francisco after Huang, Benioff phone calls - CNBC
-- Exclusive: China state oil majors suspend Russian oil buys due to sanctions, sources say - Reuters
+- Trump’s ballroom blitz sparks chorus of disgust: ‘The perfect symbol’ - The Guardian
+- Trump calls off planned federal ‘surge’ in S.F. but plans for Bay Area immigration crackdown unclear - San Francisco Chronicle
+- Virginia governor declares state of emergency to expedite food aid during federal shutdown - Reuters
+- Putin deplores US sanctions as "unfriendly" as EU joins in heaping restrictions on Russia - AP News
+- Effort to pay at least some federal workers fails in Senate - NPR
 - Vance says he was insulted by Israeli lawmakers' "very stupid political stunt" on West Bank annexation - CBS News
-- Senate blocks bills to pay federal workers during shutdown - The Washington Post
-- At least 25 states plan to cut off food aid benefits in November - Politico
 - What scientists saw underwater in Florida left them “shocked” — and devastated - vox.com
-- New poll reveals how text message scandal has affected Virginia races - The Washington Post
-- Eric Adams Endorses Andrew Cuomo for Mayor - The New York Times
-- Virginia Democrats are the next surprising entrant into the redistricting battle - Politico
+- DC man who played Darth Vader theme at national guard troops sues over arrest - The Guardian
+- Trump to meet with Xi on Oct. 30 - Politico
 - Watch: Video appears to show alleged Louvre jewel thieves escaping - BBC
+- How Europe Is Trying to Turn Frozen Russian Assets Into Cash for Ukraine - The New York Times
+- Trump mulls asking Israel to free Palestinian leader Barghouti as US looks to Gaza's post-Hamas rule - AP News
 - Why Tropical Storm Melissa’s slow crawl across the Caribbean is dangerous - The Washington Post
-- King Charles meets Pope Leo XIV at the Vatican in a historic visit - Euronews.com
-- EU vows to bankroll Ukraine for next two years as it eyes Russian frozen assets - Reuters
-- Trump pardons convicted Binance founder Changpeng Zhao - NBC News
+- Trump pardons Binance founder Changpeng Zhao, high-profile cryptocurrency figure - AP News
 - Elon Musk says he needs $1 trillion to control Tesla’s ‘robot army’ - The Verge
-- Intel Shows Progress in First Earnings Report Since U.S. Investment - The Wall Street Journal
-- Ford Motor is set to report earnings after the bell. Here's what Wall Street expects - CNBC
+- Intel’s stock is climbing as earnings show a turnaround slowly taking hold - MarketWatch
+- Target cuts 1,800 corporate jobs in its first major layoffs in a decade - CNBC
 - OpenAI teases new features and fixes for ChatGPT Atlas - The Verge
-- Two days after OpenAI’s Atlas, Microsoft launches a nearly identical AI browser - TechCrunch
+- Microsoft makes Copilot “human-centered” with a ‘90s-style animated assistant - Ars Technica
+- Samsung's Galaxy XR doesn't give me much hope for Android XR - Engadget
