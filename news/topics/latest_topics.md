@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-23 18:47_
+_Updated: 2025-10-23 19:40_
 
 ## Top Stories
 
+- Putin: Sanktionerna får ingen större påverkan - GP
 - Så ska Moderaterna vinna tillbaka Stockholm: ”Det måste gå riktigt bra” - Dagens Nyheter
-- S föreslår skarp 15-årsgräns för sociala medier, stärkt skydd mot deepfakes och en nationell nätpolis - Socialdemokraterna
 - En person död efter brand i Varberg – brott utreds - SVT Nyheter
-- Gängman från Malmö greps på Kastrup - Expressen
 - Tommy, 76, blev av med sina ringar på sjukhuset - Aftonbladet
-- Kinesiska oljejättar slutar köpa rysk olja - GP
-- S: Skicka Gripen till Ukraina nu - Västerbottens-Kuriren
-- Foxtrot-topp gripen på Arlanda: ”Bara början” - Hufvudstadsbladet
-- Rektor omplacerad efter kritiserad rekrytering – politiker vill ändra rutiner - Dagens Nyheter
-- Kalmar blev första regionen att ansluta fullt till NLL - LäkemedelsVärlden
+- JUST NU: Flera hus drabbade i vattenläcka: "Är gigantiskt stort" - NT
+- S föreslår skarp 15-årsgräns för sociala medier, stärkt skydd mot deepfakes och en nationell nätpolis - Socialdemokraterna
+- S: Skicka Gripen till Ukraina nu - GP
+- Gängtopp gripen på Arlanda – bedöms ha varit nyckelspelare under våldsvågen - Dagens Nyheter
+- Beskedet: Gårdsförsäljare måste inte följa Systembolagets öppettider - SVT Nyheter
+- Blev piskade med skärp – nu åtalas fem elever på Lundsberg för misshandel - NWT
 - DN Direkt - Pressträff med Magdalena Andersson och Anders Ygeman - Dagens Nyheter
 - Strid om ryska miljarder när EU-toppmötet samlas kring Ukraina - Europaportalen
-- ”Katastrofal” situation i Gaza – trots eldupphör - GP
-- Ryssland avlyssnar Nato med västteknik - SVT Nyheter
+- Ryska flyg har kränkt Litauens luftrum - SVT Nyheter
+- USA varnar Israel för annektering: ”Väldigt dumt” - GP
 - Stegra behöver mer Xi Jinping och mindre Harald Mix - Arbetet
+- Bankerna tjänar miljarder på bolånen - Placera.se
+- P-smocka mot hyresgäster och bostadsrättsinnehavare - Dagens Nyheter
 - Jätterally i Volvo Cars när Stockholmsbörsen steg - DI
-- Förvaltaren tror vändningen dröjer i Evolution: "Risk på det fjärde kvartalet och 2026" - Placera.se
-- Sparkonto ”ingen plats ha sina pengar på” - SvD
 - Minimala pixlar uppnår så hög upplösning som det mänskliga ögat kan se - Uppsala universitet
-- Infångat stjärnljus start på ny galaxkartläggning - Aftonbladet
+- Infångat stjärnljus start på ny galaxkartläggning - NWT
 
 ## World News
 
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Global drogsajt stängd – svenskar gripna - Drugnews
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- CHiQ Strengthens Global Sports Engagement with FIS Ski Jumping World Cup Partnership - Placera.se
+- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
+- Studie visar global ökning av hat mot HBTQ+, både online och offline - out.tv
+- Riyadh International Book Fair 2024: Expanding Global Dialogue through the Largest Collection of Translated Works - Aktiellt
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Boeing jet returns to US from China, a victim of Trump's tariff war - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Sonic Rumble - Global Launch Reveal Trailer - Gamereactor
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- Duplantis breaks world record, Marschall wins world championship bronze - Australian Broadcasting Corporation
+- VNV Global får klartecken för obligationsändringar (Finwire News) - Aktiellt
+- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- 1 426 potential victims identified in global operation against human trafficking - Europol
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
-- Prolific invasive plant will spread further as climate changes, warns a new global study - European Commission
-- Flest coronasäkra stränder i Portugal och ny global säkerhetsmärkning - travelnews.se
 
 ## Technology
 
 - Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu - Morningstar Canada
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
 - 290 million for digitalisation of Swedish industry - Vinnova
+- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Deepseek är det nya Linux - Computer Sweden
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
-- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
+- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
-- Keysight and The University of Malaga Open State-of-the-Art 6G Research and Innovation Laboratory - Placera.se
 
 ## Business
 
@@ -103,40 +103,40 @@ _Updated: 2025-10-23 18:47_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige har tecknat avtal med Kriminalvården för användning av journalsystemet CGM J4 - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Episurf Medical uppdaterar nu om etablering av en amerikansk kommersiell organisation - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 
