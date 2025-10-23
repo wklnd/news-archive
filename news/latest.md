@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-23 18:53_
+_Updated: 2025-10-23 19:48_
 
-- US sanctions Russian oil majors over Ukraine, prompting jitters in India and China - Reuters
+- Exclusive: China state oil majors suspend Russian oil buys due to sanctions, sources say - Reuters
 - Trump Is Wasting No Time in Tearing Down the East Wing - The New York Times
-- ‘Stupid political stunt’: White House castigates Israeli vote on the West Bank - Politico
-- US kills three in second strike on alleged drug boats in the Pacific - BBC
-- King Charles makes history by praying publicly with Pope Leo - The Guardian
+- Protest of Bay Area immigration crackdown met with apparent stun grenades at Coast Guard base - San Francisco Chronicle
+- What went wrong when Marines fired over Interstate 5? California leaders demand answers - CalMatters
 - He tracked and posted videos of ICE raids in L.A. Now this TikTok streamer is in federal custody - Los Angeles Times
+- Tropical Storm Melissa on track to become a major hurricane. See the projected path and latest forecast. - Yahoo
 - US states warn food aid benefits will halt if federal shutdown drags on - Reuters
-- Inside the Capitol Hill implosion of Paul Ingrassia - Politico
-- Mamdani attacked for refusing to take position on housing questions in NYC mayor debate - Gothamist
-- 4 family members of Illinois governor candidate killed in Montana helicopter crash, campaign says - AP News
+- Four members of Illinois politician’s family killed in helicopter crash - The Guardian
+- Eric Adams Will Endorse Andrew Cuomo for Mayor - The New York Times
+- DC police detained man for protesting National Guard patrol with Darth Vader song, lawsuit says - AP News
+- King Charles and Pope exchange gifts and pray together for first time - BBC
 - EU vows to bankroll Ukraine for next two years as it eyes Russian frozen assets - Reuters
-- You can walk faster than Tropical Storm Melissa is moving. It’s a new, troubling tendency for Atlantic storms - CNN
-- Another French museum robbery sees 2,000 gold and silver coins stolen - BBC
-- Victim's body found 1 year after being swept away by floods that killed over 230 people in Spain - CBS News
+- Ivory Coast election: An ex-first lady, a tycoon and a 'safe pair of hands' vie for power - BBC
+- ‘Quiet as a whisper’: German firm launches ad campaign after lift used in Louvre heist - The Guardian
 - Exclusive | Trump Pardons Convicted Binance Founder - The Wall Street Journal
-- Musk Hijacks Tesla Earnings Call to Vouch for $1 Trillion Pay Plan - Bloomberg.com
+- Elon Musk says he needs $1 trillion to control Tesla’s ‘robot army’ - The Verge
 - Mortgage rates fall to lowest level of 2025 - CNN
-- Amazon apologises to customers impacted by huge AWS outage - BBC
+- Indian-origin founder offers staggering salary to laid-off Meta employees: ‘Hiring in San Francisco’ | Trending - Hindustan Times
 - OpenAI teases new features and fixes for ChatGPT Atlas - The Verge
 - Meet Mico, Microsoft’s AI version of Clippy - The Verge
