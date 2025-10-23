@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-23 15:52_
+_Updated: 2025-10-23 16:52_
 
-- Portland Trail Blazers coach Chauncey Billups charged in illegal poker operation tied to Mafia: Sources - ABC News - Breaking News, Latest News and Videos
-- Trump’s ballroom blitz sparks chorus of disgust: ‘The perfect symbol’ - The Guardian
-- Exclusive: China state oil majors suspend Russian oil buys due to sanctions, sources say - Reuters
+- Trump Is Wasting No Time in Tearing Down the East Wing - The New York Times
+- Oil rises nearly 5% on fresh US sanctions against Russia - Reuters
 - US kills three in second strike on alleged drug boats in the Pacific - BBC
-- Late Night Responds to Trump’s Justice Department Query - The New York Times
 - Vance slams Israel's parliament vote on West Bank annexation, calling it an 'insult' - NPR
-- Pelosi Says Police May Arrest Federal Agents Who Violate California Law - The New York Times
+- Trump's multi-million request puts DOJ integrity to the test, legal scholars say - Axios
+- He tracked and posted videos of ICE raids in L.A. Now this TikTok streamer is in federal custody - Los Angeles Times
+- At least 25 states plan to cut off food aid benefits in November - Politico
+- Illinois gubernatorial candidate mourns loss of family members in Montana helicopter crash - NBC Montana
 - Inside the Capitol Hill implosion of Paul Ingrassia - Politico
 - Mamdani attacked for refusing to take position on housing questions in NYC mayor debate - Gothamist
-- He tracked and posted videos of ICE raids in L.A. Now this TikTok streamer is in federal custody - Los Angeles Times
-- King Charles and Pope Leo pray together in a 500-year first - Reuters
-- EU set to endorse deal to turn frozen Russian assets into support for Ukraine - BBC
+- King Charles and Pope Leo Pray Together in Groundbreaking Moment - The New York Times
+- EU vows to bankroll Ukraine for next two years as it eyes Russian frozen assets - Reuters
+- North Korea says its latest missile tests demonstrate a new hypersonic system - AP News
 - Tropical Storm Melissa takes aim at Caribbean, islands on alert - Al Jazeera
-- Europe Faces an Economic Reality Check on Its Climate Agenda - Bloomberg.com
-- Elon Musk got feisty about his $1 trillion pay package in the final minutes of Tesla's earnings call - businessinsider.com
-- Stock Market Today: Dow Jones Index Falls As Tesla Sells Off On Earnings (Live Coverage) - Investor's Business Daily
-- Single-family rent growth just hit the lowest level in 15 years, new report finds - CNBC
-- American Airlines hires industry veteran to lead commercial team as profits trail rivals - CNBC
-- The ChatGPT Atlas browser still feels like Googling with extra steps - The Verge
-- Report: Apple to Skip 'iPhone 19' Name for 'iPhone 20' - MacRumors
+- Musk Hijacks Tesla Earnings Call to Vouch for $1 Trillion Pay Plan - Bloomberg.com
+- Stock futures are under pressure again as Tesla, IBM fall on earnings, oil jumps: Live updates - CNBC
+- Amazon apologises to customers impacted by huge AWS outage - BBC
+- Gold Prices Recover Despite Gold ETF Outflow - The Wall Street Journal
+- OpenAI teases new features and fixes for ChatGPT Atlas - The Verge
+- Samsung's Galaxy XR doesn't give me much hope for Android XR - Engadget
