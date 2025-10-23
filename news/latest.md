@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-23 17:48_
+_Updated: 2025-10-23 18:53_
 
-- Portland Trail Blazers coach Chauncey Billups charged in illegal poker operation tied to Mafia - ABC News - Breaking News, Latest News and Videos
-- Trump’s ballroom blitz sparks chorus of disgust: ‘The perfect symbol’ - The Guardian
-- Oil rises nearly 5% on fresh US sanctions against Russia - Reuters
-- Vance slams Israel's parliament vote on West Bank annexation, calling it an 'insult' - NPR
+- US sanctions Russian oil majors over Ukraine, prompting jitters in India and China - Reuters
+- Trump Is Wasting No Time in Tearing Down the East Wing - The New York Times
+- ‘Stupid political stunt’: White House castigates Israeli vote on the West Bank - Politico
 - US kills three in second strike on alleged drug boats in the Pacific - BBC
-- Late Night Responds to Trump’s Justice Department Query - The New York Times
-- At least 25 states plan to cut off food aid benefits in November - Politico
-- Four members of Illinois politician’s family killed in helicopter crash - The Guardian
+- King Charles makes history by praying publicly with Pope Leo - The Guardian
+- He tracked and posted videos of ICE raids in L.A. Now this TikTok streamer is in federal custody - Los Angeles Times
+- US states warn food aid benefits will halt if federal shutdown drags on - Reuters
 - Inside the Capitol Hill implosion of Paul Ingrassia - Politico
-- NYC Mayor Eric Adams will endorse Andrew Cuomo, sources tell CNN - CNN
-- King Charles and Pope Leo pray together in a 500-year first - Reuters
-- North Korea Has Scaled Back It’s Missile Tests This Year. This Is Why. - WSJ - The Wall Street Journal
-- Ivory Coast election: An ex-first lady, a tycoon and a 'safe pair of hands' vie for power - BBC
-- Tropical Storm Melissa on track to become a major hurricane. See the projected path and latest forecast. - Yahoo
-- Lower mortgage rates push home sales higher in September, but prices still stubbornly high - CNBC
-- 5 Things to Know Before the Stock Market Opens - Investopedia
-- IonQ, Rigetti, Other Quantum-Computing Stocks Jump on U.S. Stake Interest - The Wall Street Journal
+- Mamdani attacked for refusing to take position on housing questions in NYC mayor debate - Gothamist
+- 4 family members of Illinois governor candidate killed in Montana helicopter crash, campaign says - AP News
+- EU vows to bankroll Ukraine for next two years as it eyes Russian frozen assets - Reuters
+- You can walk faster than Tropical Storm Melissa is moving. It’s a new, troubling tendency for Atlantic storms - CNN
+- Another French museum robbery sees 2,000 gold and silver coins stolen - BBC
+- Victim's body found 1 year after being swept away by floods that killed over 230 people in Spain - CBS News
+- Exclusive | Trump Pardons Convicted Binance Founder - The Wall Street Journal
+- Musk Hijacks Tesla Earnings Call to Vouch for $1 Trillion Pay Plan - Bloomberg.com
+- Mortgage rates fall to lowest level of 2025 - CNN
 - Amazon apologises to customers impacted by huge AWS outage - BBC
 - OpenAI teases new features and fixes for ChatGPT Atlas - The Verge
-- Samsung's Galaxy XR doesn't give me much hope for Android XR - Engadget
+- Meet Mico, Microsoft’s AI version of Clippy - The Verge
