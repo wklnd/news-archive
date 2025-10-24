@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-24 15:47_
+_Updated: 2025-10-24 16:45_
 
 ## Top Stories
 
-- Man begärd häktad för mord i Sigtuna 2015 - Åklagarmyndigheten
-- Blev ingen ”game changer” – Zelenskyj reste hem med en halvmesyr - Dagens Nyheter
-- Björn Wiman: Donald Trump bulldozrar sig fram som en klassisk tyrann - Dagens Nyheter
-- Kvinna, 45, inlåst i garage i fem år – åt gröt spetsad med diskmedel - Aftonbladet
-- Medier: Ryssland misstänks spionera från Estonia - Hufvudstadsbladet
-- Dotterns känslosamma ord om prinsessan Birgittas livsbeslut - Expressen
-- Barn dog på jourcentral – föräldrar anhållna - Västerbottens-Kuriren
+- Skidskytte: Julia Simon döms – får villkorlig dom och böter för bedrägeri och stöld - SVT Nyheter
+- Livlöst barn kom in till vården – föräldrar anhållna - Dagens Nyheter
+- Högt uppsatt Foxtrotledare häktas: ”Ingått i toppskiktet” - SVT Nyheter
+- Ledare: Varken Hitlerskämt eller grov misshandel får eliten att sluta skicka barnen till Lundsberg - VF
+- Belgien sinkar förslag om ryska miljarder - GP
+- Patienter förväxlades – fick fel medicindos - Aftonbladet
+- 2025-10-24, Cyklist påkörd i centrala Aneby - AnebyNytt
 - Terriern Ivan stoppade mord – blir årets polishund - SVT Nyheter
-- Årets trender i kommunerna – här har miljöarbetet kommit längst – och kortast - Aktuell Hållbarhet
-- Debatt: FN:s framtid diskuteras på Uppsala slott i dag - UNT
+- Saabs vd om besöket: "Våra anställda jublade och applåderade" - Corren
+- Nya bygglovsregler 1 december 2025 - Örnsköldsviks kommun
+- För brutalt slöjtvång – dottern gifte sig i urringat - Hufvudstadsbladet
 - Trump i nytt tullbråk med Kanada – avbryter samtal efter reklamfilm - Dagens Nyheter
-- Båt sjönk – migranter omkom utanför turkisk badort - Sydsvenskan
-- Sanna Torén Björling: Krigstillståndet påminner om en kris vi nyss gick igenom - Dagens Nyheter
-- Kinesiska oljejättar slutar köpa rysk olja - Västerbottens-Kuriren
+- Fyra döda i explosion på järnvägsstation - Västerbottens-Kuriren
+- Båt sjönk – migranter omkom utanför turkisk badort - GP
 - Saab-aktien lyfter efter höjd prognos - Aftonbladet
 - Analyshuset: Yubico kan rasa 20 procent efter vinstvarning - DI
+- Fick betala Sheins kostnader – men Nelly vägrar vika sig - Dagens Nyheter
 - Investor Studios: Lincs VD Karl Tobieson kommenterar rapporten i Market Update (MFN) - Aktiellt
-- Evolution får sänkta riktkurser efter delårsrapport - Börskollen
 - Microsoft lanserar avancerad AI-webbläsare med Copilot Mode - Placera.se
-- ÅVC söndagsstängt - Hammarö kommun
+- Svenska forskare utvecklar skärm med pixlar i nanoskala - Evertiq
 
 ## World News
 
@@ -58,8 +58,8 @@ _Updated: 2025-10-24 15:47_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - ZenaTech's ZenaDrone Subsidiary to Conduct Meetings with Members of Congress Highlighting its Drone Innovation Followed by Showcasing Drone Solutions at the AUVSI Defense Forum - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu - Morningstar Canada
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - 290 million for digitalisation of Swedish industry - Vinnova
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
@@ -107,12 +107,12 @@ _Updated: 2025-10-24 15:47_
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Mabel AI won the HealthTech Award 2023 - NewsMachine AB
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
@@ -144,21 +144,21 @@ _Updated: 2025-10-24 15:47_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Mjau lanserar Partypuffar med smak av kattmynta – krispiga snacks för lek och belöning - Mynewsdesk
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Till vad ska jordbruket regenereras? - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
