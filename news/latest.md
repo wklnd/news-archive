@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-24 13:48_
+_Updated: 2025-10-24 15:18_
 
-- Trump Says He’s Cutting Off Trade Negotiations With Canada - The New York Times
-- Entire White House East Wing demolished as Trump moves forward with ballroom construction - PBS
-- It's supposed to be payday for many federal workers. Instead, they're getting nothing - NPR
+- Trump administration set to release key September inflation data despite government shutdown - NBC News
+- New satellite image shows White House wing demolished as part of Trump ballroom plan - BBC
+- Trump says he’s canceling trade negotiations with Canada over anti-tariff ad - The Washington Post
+- 'A slap in the face': Ranchers feel betrayed by Trump's plan to buy Argentine beef - NPR
 - Duffy warns of travel disruptions as air traffic controllers face missed paychecks - Axios
-- As strikes on alleged drug boats grow, so do questions about their legality and goal - NPR
-- Trump to quadruple Argentine beef imports while US ranchers fume - Reuters
-- New York AG Letitia James set to be arraigned on mortgage fraud charges - ABC News - Breaking News, Latest News and Videos
-- Bernie Sanders ‘absolutely’ sticking by US Senate candidate after Nazi tattoo revelation - The Times of Israel
+- It's supposed to be payday for many federal workers. Instead, they're getting nothing - NPR
+- Letitia James Case Shows Ruthlessness of Justice Dept. in Trump’s Grip - The New York Times
+- ‘He didn’t deserve that’: widow speaks out after husband’s violent death at Ice facility - The Guardian
 - Trump says federal deployment to San Francisco called off after conversation with Mayor Daniel Lurie - CBS News
 - 'Uncharted territory': Ongoing shutdown threatens food aid for 42 million people - NPR
-- As Trump makes rare visit to Malaysia, PM Anwar’s balancing act faces test - Al Jazeera
+- German lift maker responds to Louvre heist with playful marketing post - Euronews.com
+- On a Roll, European Leaders Meet to Bolster Support for Ukraine - The New York Times
 - Trump says ‘Israel not going to do anything with the West Bank’ as US fumes over annexation vote - The Times of Israel
-- Hungary's Orbán and Magyar hold competing rallies before 2026 election - Euronews.com
-- Gold and silver coins stolen from French museum hours after Louvre heist - The Washington Post
+- German foreign minister's China trip cancelled, spokesperson says - Reuters
 - Alaska Airlines restores operations after tech outage grounds flights - Reuters
-- EU says TikTok and Meta broke transparency rules under landmark tech law - CNBC
-- Procter & Gamble beats earnings estimates but warns of higher costs from tariffs - CNBC
-- How the AWS outage happened: Amazon blames rare software bug and ‘faulty automation’ for massive glitch - GeekWire
+- Instagram and Facebook are breaking the EU’s illegal content rules - The Verge
+- Procter & Gamble beats earnings estimates but reveals waning demand in some categories - CNBC
+- Meta Layoffs Included Employees Who Monitored Risks to User Privacy - The New York Times
+- M5 MacBook Pro’s Single Fan Cooler Unable To Prevent Thermal Throttling; Chipset Can Reach 99 Degrees Celsius When Under Load, But Runs Cooler Than M4 - Wccftech
 - OpenAI buys Sky, an AI interface for Mac - TechCrunch
-- Microsoft Edge’s new Copilot Mode turns on more AI features - The Verge
