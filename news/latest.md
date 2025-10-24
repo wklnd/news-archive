@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-24 22:49_
+_Updated: 2025-10-24 23:48_
 
-- Here are the donors contributing to Trump’s White House ballroom - The Washington Post
-- Ontario to pause Reagan tariffs ad after Trump terminated Canada trade talks - CNBC
-- US is sending an aircraft carrier to Latin America in major escalation of military firepower - AP News
-- Exclusive: USDA says it won't use emergency funds for food stamps - Axios
-- Government shutdown live updates as impasse hits Day 24 with no deal in sight - CBS News
-- DOD accepts anonymous $130M donation to partially cover troop pay - Politico
-- Letitia James Pleads Not Guilty as Battle Over Trump-Urged Prosecution Begins - The New York Times
-- After a lengthy wait, Jeffries to endorse Mamdani - Politico
+- Trump likely to name White House ballroom after himself, officials say - ABC News - Breaking News, Latest News and Videos
+- Ontario premier says he will pause anti-tariff ad that angered Trump - BBC
+- Pentagon orders aircraft carrier to Latin America as Trump signals escalation - The Washington Post
 - Newsom on Trump's "laughable" National Guard suggestion: "Nothing happening" in San Francisco - CBS News
+- Americans brace for food stamps to run out: ‘the greatest hunger catastrophe since the Great Depression’ - The Guardian
+- Justice Department says it will monitor California poll sites amid Prop. 50 voting - Los Angeles Times
 - Shots fired, driver hurt and held after truck rams into Coast Guard base in San Francisco - AP News
-- Inspector Clouseau? The mystery man in an AP photo after the Louvre jewel heist creates a buzz - AP News
-- Ukraine’s ‘Coalition of the Willing’ Has the Wind at Its Back - The New York Times
-- Trump administration seeks to deport Kilmar Abrego Garcia to Liberia, Justice Department says - CBS News
+- New York City's Canal Street slowly rebounds after ICE raid - NBC News
+- U.S. imposes sanctions on Colombia's president and family over drug trade allegations - NPR
+- The Louvre thieves used a furniture lift in their heist. Now the company that makes it is hoping to cash in. - CBS News
+- Kyiv's allies say frozen Russian assets should be quickly used to aid Ukraine - Reuters
 - Rachel Reeves refuses to rule out income tax rises at Budget - BBC
+- Jamaica could face days of hurricane conditions as Melissa rapidly intensifies in the Caribbean - CNN
 - Dow rallies 400 points for first close above 47,000 ever following mild inflation report: Live updates - CNBC
 - Social Security increase is in line with inflation but trails key expenses - The Washington Post
-- Alaska Airlines restores operations after tech outage grounds flights - Reuters
-- Procter & Gamble fiscal 1Q results top Street, sees less of an impact from tariffs for fiscal 2026 - Yahoo Finance
+- Inflation Remains Low as Democrat Shutdown Threatens Progress - The White House (.gov)
+- Alaska Airlines resumes its flights after nationwide grounding due to IT outage - Los Angeles Times
+- Halo: Campaign Evolved is a gorgeous remake that debuts on PS5 and Xbox in 2026 - The Verge
 - Microsoft’s Mico heightens the risks of parasocial LLM relationships - Ars Technica
-- ChatGPT enters the browser wars - The Verge
+- OpenAI wants to power your browser, and that might be a security nightmare - TechCrunch
