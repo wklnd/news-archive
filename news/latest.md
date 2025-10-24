@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-24 21:48_
+_Updated: 2025-10-24 22:49_
 
-- East Wing of White House reduced to rubble as part of Trump’s ballroom construction - The Guardian
-- Letitia James pleads not guilty to criminal charges related to alleged mortgage fraud - Politico
+- Here are the donors contributing to Trump’s White House ballroom - The Washington Post
 - Ontario to pause Reagan tariffs ad after Trump terminated Canada trade talks - CNBC
-- US sending aircraft carrier towards Caribbean as Trump increases pressure campaign on Venezuela - CNN
-- Hakeem Jeffries Gives Mamdani Last-Minute Endorsement for N.Y.C. Mayor - The New York Times
-- Another US strike in Caribbean targets alleged drug-running boat, killing 6, Hegseth says - AP News
+- US is sending an aircraft carrier to Latin America in major escalation of military firepower - AP News
+- Exclusive: USDA says it won't use emergency funds for food stamps - Axios
+- Government shutdown live updates as impasse hits Day 24 with no deal in sight - CBS News
+- DOD accepts anonymous $130M donation to partially cover troop pay - Politico
+- Letitia James Pleads Not Guilty as Battle Over Trump-Urged Prosecution Begins - The New York Times
+- After a lengthy wait, Jeffries to endorse Mamdani - Politico
 - Newsom on Trump's "laughable" National Guard suggestion: "Nothing happening" in San Francisco - CBS News
-- ICE Chicago news: Demonstrators at Broadview ICE facility; DHS defends apparent tear gas use on Little Village protesters - ABC7 Chicago
-- Office of Public Affairs | Justice Department to Monitor Polling Sites in California, New Jersey - Department of Justice (.gov)
-- The federal government is still shut down. Here's what that means across the country - NPR
-- Gold and silver coins stolen from French museum hours after Louvre heist - The Washington Post
-- Kyiv's allies say frozen Russian assets should be quickly used to aid Ukraine - Reuters
-- Tropical Storm Melissa stationary in the Caribbean as forecasters warn it will quickly intensify - AP News
-- U.S. Diplomats Will Work With Troops to Maintain Gaza Cease-Fire, Rubio Says - The New York Times
-- Stock Market Today: Dow, Nasdaq Hit New Highs After Inflation Report — Live Updates - The Wall Street Journal
-- Social Security Announces a 2.8% Cost-of-Living Increase for Beneficiaries - The New York Times
+- Shots fired, driver hurt and held after truck rams into Coast Guard base in San Francisco - AP News
+- Inspector Clouseau? The mystery man in an AP photo after the Louvre jewel heist creates a buzz - AP News
+- Ukraine’s ‘Coalition of the Willing’ Has the Wind at Its Back - The New York Times
+- Trump administration seeks to deport Kilmar Abrego Garcia to Liberia, Justice Department says - CBS News
+- Rachel Reeves refuses to rule out income tax rises at Budget - BBC
+- Dow rallies 400 points for first close above 47,000 ever following mild inflation report: Live updates - CNBC
+- Social Security increase is in line with inflation but trails key expenses - The Washington Post
 - Alaska Airlines restores operations after tech outage grounds flights - Reuters
 - Procter & Gamble fiscal 1Q results top Street, sees less of an impact from tariffs for fiscal 2026 - Yahoo Finance
 - Microsoft’s Mico heightens the risks of parasocial LLM relationships - Ars Technica
-- M5 MacBook Pro’s Single Fan Cooler Unable To Prevent Thermal Throttling; Chipset Can Reach 99 Degrees Celsius When Under Load, But Runs Cooler Than M4 - Wccftech
+- ChatGPT enters the browser wars - The Verge
