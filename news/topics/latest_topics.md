@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-24 10:48_
+_Updated: 2025-10-24 11:41_
 
 ## Top Stories
 
-- Kraftig brand i restaurang i Rosengård – två gripna - SVT Nyheter
+- DN Direkt - Kvinna hittades död i vak – man begärs häktad - Dagens Nyheter
+- DN Direkt - Överenskommelse om Östlig förbindelse klar - Dagens Nyheter
 - Forskare som störde Loreen: Jag hotas med utvisning - Omni
 - Ledare: Gripande blågul satsning - NWT
-- Svenskt luftvärn till skarp Natoinsats - Västerbottens-Kuriren
-- Anställd stal 18 miljoner från kommun – åtalas - Aftonbladet
-- Förtroendet för Mohamsson dyker efter SD-beskedet - Omni
-- Säsongsinfluensan på gång: ”Mer och mer" - Västerbottens-Kuriren
-- Värmländsk kritik mot regeringens förslag: ”Sparka på de som redan ligger” - NWT
+- Västra Götalands ambulanser hinner inte fram i tid – inte aktuellt med fler - GP
+- DN Direkt - Alla tåg mellan Stockholm och Uppsala inställda i flera dagar - Dagens Nyheter
+- Säsongsinfluensan på ingång – indikationer i avloppsvattnet - GP
+- Terriern Ivan stoppade mord – blir årets polishund - SVT Nyheter
 - S vill förbjuda aktivklubbar: ”Regeringen måste sluta blunda för högerextremt våld” - Dagens Nyheter
 - Debatt: FN:s framtid diskuteras på Uppsala slott i dag - UNT
 - Sydkorea: Hoppas på möte Kim–Trump - Västerbottens-Kuriren
 - Expert: Trump trappar upp mot ryssarna - Dagens Nyheter
-- Trump avbryter handelssamtal med Kanada - GP
+- Sanna Torén Björling: Krigstillståndet påminner om en kris vi nyss gick igenom - Dagens Nyheter
 - Belgien sinkar förslag om ryska miljarder för Ukraina - Hufvudstadsbladet
-- Stockholmsbörsen på toppnivå – Saab lyfter - Aftonbladet
+- Saab rusar när börsen når rekordnivåer – tunga fall i Tobii och Yubico - Placera.se
 - Stegra nära slutmålet: Net Zero - Affärsvärlden
-- Trump benådar USA:s rikaste fånge någonsin - SvD
+- Stegra behöver mer Xi Jinping och mindre Harald Mix - Arbetet
 - Ett svagare Arlanda ger inget plus för Skavsta - SN, Södermanlands Nyheter
 - ÅVC söndagsstängt - Hammarö kommun
-- Minimala pixlar uppnår så hög upplösning som det mänskliga ögat kan se - Uppsala universitet
+- Marcus Wandt utsedd till chef för Group Strategy and Technology och ny medlem i Saabs koncernledning - Cision News
 
 ## World News
 
@@ -33,7 +33,7 @@ _Updated: 2025-10-24 10:48_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Global stålproduktion sjönk i september - DI
@@ -42,34 +42,34 @@ _Updated: 2025-10-24 10:48_
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Boeing jet returns to US from China, a victim of Trump's tariff war - The Economic Times
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Techarenan Launches Global Tech Event at the Swedish National Stadium, Bringing Together Leaders in Business and Innovation - Techarenan News
-- Chinese Manufacturers Are Peeling Off the Veneer of Western Luxury - Morocco World News
+- Sonic Rumble - Global Launch Reveal Trailer - Gamereactor
+- Tillsammans med gröna startups "Go Global" - Vietnam.vn
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
 
 ## Technology
 
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Nästa generations Internet of Things - Shaping Europe’s digital future
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
 - Deepseek är det nya Linux - Computer Sweden
-- Spår superintelligens om tio år – vill leda racet - Omni
-- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
+- Keysight and The University of Malaga Open State-of-the-Art 6G Research and Innovation Laboratory - Placera.se
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
-- Aiforia’s AI solutions for breast cancer diagnostics implemented at Fimlab Laboratories - Placera.se
 
 ## Business
 
@@ -103,19 +103,19 @@ _Updated: 2025-10-24 10:48_
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Fakulteten för hälsa och samhälle - Malmö universitet
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Mabel AI won the HealthTech Award 2023 - NewsMachine AB
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
