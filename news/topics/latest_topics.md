@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-24 17:42_
+_Updated: 2025-10-24 18:47_
 
 ## Top Stories
 
+- Efterlyst man gripen på Arlanda - SVT Nyheter
+- Dousa: Bistånd gick till organisation nära Hamas - SvD
 - DN Direkt - M vill sänka den statliga inkomstskatten - Dagens Nyheter
-- Hegseth: Ytterligare attack mot knarkbåt i Karibiska havet - SVT Nyheter
-- Ledare: Varken Hitlerskämt eller grov misshandel får eliten att sluta skicka barnen till Lundsberg - VF
-- Liberalerna vill tillåta skoluniform - Liberalerna
-- Patienter förväxlades – fick fel medicindos - Aftonbladet
-- Björn Wiman: Donald Trump bulldozrar sig fram som en klassisk tyrann - Dagens Nyheter
-- Terriern Ivan stoppade mord – blir årets polishund - SVT Nyheter
-- Barn dog på jourcentral – föräldrar anhållna - Västerbottens-Kuriren
+- Högt uppsatt Foxtrotledare häktas: ”Ingått i toppskiktet” - SVT Nyheter
+- USA: Sex döda i ny attack mot ”knarkbåt” - GP
+- Föräldrar anhölls efter sonens död – båda släppta på fri fot: ”Misstankarna inte avskrivna” - NLT
+- Facket sågar M-förslag om vakter med pistol - Arbetet
 - M: Livstid för mycket grov våldtäkt - GP
 - Flera personer under 15 år misstänks för grova våldsbrott - polisen.se
+- Terriern Ivan stoppade mord – blir årets polishund - SVT Nyheter
 - Sanna Torén Björling: Krigstillståndet påminner om en kris vi nyss gick igenom - Dagens Nyheter
 - För brutalt slöjtvång – dottern gifte sig i urringat - Hufvudstadsbladet
 - Trump i nytt tullbråk med Kanada – avbryter samtal efter reklamfilm - Dagens Nyheter
-- Båt sjönk – migranter omkom utanför turkisk badort - Aftonbladet
+- Belgiskt motstånd bromsar EU-plan för ryska miljarder - Europaportalen
 - Saab-aktien lyfter efter höjd prognos - Aftonbladet
-- Analyshuset: Yubico kan rasa 20 procent efter vinstvarning - DI
 - Debatt: Stockholms rödgröna styre säger nej till Östlig förbindelse - ETC.se
+- Yubico vinstvarnar - orderingången inte utvecklats som förväntat - Placera.se
 - Fick betala Sheins kostnader – men Nelly vägrar vika sig - Dagens Nyheter
-- Microsoft lanserar avancerad AI-webbläsare med Copilot Mode - Placera.se
 - Svenska forskare utvecklar skärm med pixlar i nanoskala - Evertiq
+- ÅVC söndagsstängt - Hammarö kommun
 
 ## World News
 
@@ -35,15 +35,15 @@ _Updated: 2025-10-24 17:42_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global stålproduktion sjönk i september - DI
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Global stålproduktion sjönk i september - DI
 - New Secretary General appointed - Olof Palme International Center
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Boeing jet returns to US from China, a victim of Trump's tariff war - The Economic Times
-- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
-- Sonic Rumble - Global Launch Reveal Trailer - Gamereactor
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg
+- Techarenan Launches Global Tech Event at the Swedish National Stadium, Bringing Together Leaders in Business and Innovation - Techarenan News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - Somaliland: Election in a "non-existing" country - Global Bar Magazine
@@ -52,24 +52,24 @@ _Updated: 2025-10-24 17:42_
 
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- ZenaTech's ZenaDrone Subsidiary to Conduct Meetings with Members of Congress Highlighting its Drone Innovation Followed by Showcasing Drone Solutions at the AUVSI Defense Forum - Placera.se
+- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Deepseek är det nya Linux - Computer Sweden
+- Spår superintelligens om tio år – vill leda racet - Omni
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
-- Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
-- Keysight and The University of Malaga Open State-of-the-Art 6G Research and Innovation Laboratory - Placera.se
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-24 17:42_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Här är världens största jordbruk - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
