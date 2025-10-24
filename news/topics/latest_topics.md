@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-24 06:43_
+_Updated: 2025-10-24 07:41_
 
 ## Top Stories
 
 - Brand i restaurang i Malmö: ”Brinner rätt bra” - SVT Nyheter
-- Trump avbryter handelssamtal med Kanada - Västerbottens-Kuriren
-- Belgien sinkar förslag om ryska miljarder för Ukraina - Hufvudstadsbladet
-- Källor: Kina pausar köp av olja från Ryssland - Omni
-- Revansch för utskrattad rumpandning - SvD
-- DEBATT: Drömmen om ett eget hus ska bli verklighet - DI
+- Forskare som störde Loreen: Jag hotas med utvisning - Omni
+- Blev ingen ”game changer” – Zelenskyj reste hem med en halvmesyr - Dagens Nyheter
+- Förtroendet för Mohamsson dyker efter SD-beskedet - Omni
+- 23 oktober 20.45, Försvunnen person, Vänersborg - polisen.se
+- M: Säkerhetsvakter ska öka lokal trygghet - SvD
 - DN Direkt - Hund till attack mot polis – avlivad - Dagens Nyheter
 - S föreslår skarp 15-årsgräns för sociala medier, stärkt skydd mot deepfakes och en nationell nätpolis - Socialdemokraterna
-- Värmländsk kritik mot regeringens förslag: ”Sparka på de som redan ligger” - NWT
-- Miljöministrar får avgöra klimatmål - Västerbottens-Kuriren
-- Hamas skräckvälde i Gaza: ”Missbrukar sitt mandat” - Västerbottens-Kuriren
-- Litauen: Ryska stridsplan kränkte vårt luftrum - GP
+- S vill förbjuda aktivklubbar: ”Regeringen måste sluta blunda för högerextremt våld” - Dagens Nyheter
 - Debatt: FN:s framtid diskuteras på Uppsala slott i dag - UNT
-- Ukrainsk förskola attackerad – timmar efter inställt toppmöte - Dagens Nyheter
-- Trump benådar USA:s rikaste fånge någonsin - SvD
-- Jätterally i Volvo Cars när Stockholmsbörsen steg - DI
+- Hamas skräckvälde i Gaza: ”Missbrukar sitt mandat” - Västerbottens-Kuriren
+- Trump avbryter handelssamtal med Kanada - GP
+- Ecuadors president: Försökte förgifta mig - Västerbottens-Kuriren
+- Rysk ilska: USA-sanktioner en ”krigshandling” - Corren
 - P-smocka mot hyresgäster och bostadsrättsinnehavare - Dagens Nyheter
-- Biljätten firar 100 år med det mest exklusiva bygget hittills - Dagens PS
-- Sprillans nytt rymdrollspel ingår i Xbox Game Pass i oktober - MovieZine
-- Minimala pixlar uppnår så hög upplösning som det mänskliga ögat kan se - Uppsala universitet
+- Trump benådade kryptomogul som hjälpt honom till miljardvinst – kritiseras - Aftonbladet
+- Jätterally i Volvo Cars när Stockholmsbörsen steg - DI
+- Stegra behöver mer Xi Jinping och mindre Harald Mix - Arbetet
+- Revansch för utskrattad rumpandning - SvD
+- Microsoft Paint får ny AI-funktion som kan ändra bildstil - PC för Alla
 
 ## World News
 
@@ -31,22 +31,22 @@ _Updated: 2025-10-24 06:43_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Trumps beställning: Visa att global uppvärmning är bra - Omni
+- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Armand Duplantis soars to third world title and 14th world record - BBC
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
-- Riyadh International Book Fair 2024: Expanding Global Dialogue through the Largest Collection of Translated Works - Aktiellt
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Global stålproduktion sjönk i september - DI
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- New Secretary General appointed - Olof Palme International Center
 - Duplantis breaks world record, Marschall wins world championship bronze - Australian Broadcasting Corporation
-- Kina främjar global utbildning - Vietnam.vn
-- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
 
 ## Technology
 
@@ -102,51 +102,51 @@ _Updated: 2025-10-24 06:43_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - SIHI Sweden Konferens 2024 - Uppsala universitet
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - Mabel AI won the HealthTech Award 2023 - NewsMachine AB
-- Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Tema: AI inom medicin och hälsa - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
@@ -159,6 +159,6 @@ _Updated: 2025-10-24 06:43_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Till vad ska jordbruket regenereras? - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
