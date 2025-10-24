@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-24 12:45_
+_Updated: 2025-10-24 13:39_
 
 ## Top Stories
 
 - Man begärd häktad för mord i Sigtuna 2015 - Åklagarmyndigheten
-- Saabs vd om besöket: "Våra anställda jublade och applåderade" - Corren
+- Pojke kom in till vården livlös – båda föräldrarna har anhållits: ”Förloppet ska ha varit snabbt” - NLT
 - Trump avbryter samtal med Kanada - SVT Nyheter
-- DN Direkt - Brand i restaurang i Malmö: ”Brinner rätt bra” - Dagens Nyheter
+- Saabs vd om besöket: "Våra anställda jublade och applåderade" - Corren
 - Västra Götalands ambulanser hinner inte fram i tid – inte aktuellt med fler - GP
-- Förtroendet för Mohamsson dyker efter SD-beskedet - Omni
-- Säsongsinfluensan på ingång – indikationer i avloppsvattnet - GP
+- Överenskommelse om Östlig förbindelse klar: ”Genombrott” - Dagens Nyheter
 - Terriern Ivan stoppade mord – blir årets polishund - SVT Nyheter
+- Säsongsinfluensan på ingång – indikationer i avloppsvattnet - GP
 - S vill förbjuda aktivklubbar: ”Regeringen måste sluta blunda för högerextremt våld” - Dagens Nyheter
 - Debatt: FN:s framtid diskuteras på Uppsala slott i dag - UNT
 - Belgiskt motstånd bromsar EU-plan för ryska miljarder - Europaportalen
-- Kinesiska oljejättar slutar köpa rysk olja - Västerbottens-Kuriren
+- Fyra döda i explosion på järnvägsstation - Västerbottens-Kuriren
 - Sanna Torén Björling: Krigstillståndet påminner om en kris vi nyss gick igenom - Dagens Nyheter
-- Sydkorea: Hoppas på möte Kim–Trump - GP
+- Kinesiska oljejättar slutar köpa rysk olja - GP
+- Saab-aktien lyfter efter höjd prognos - Aftonbladet
 - DN Direkt - Stockholmsbörsen på toppnivå – Saab lyfter - Dagens Nyheter
-- Frågor och svar om moms på parkeringsplatser - Bostadsrätterna
-- Stegra nära slutmålet: Net Zero - Affärsvärlden
+- Kepler sänker riktkursen för Evolution efter rapporten med köp, Nordea upprepar köp - Placera.se
 - Riktkurserna skruvas upp rejält för Volvo Cars efter vinstkrossen - Börsvärlden
+- Microsoft lanserar AI-webbläsare – två dagar efter Open AI:s Atlas - Computer Sweden
 - ÅVC söndagsstängt - Hammarö kommun
-- Minimala pixlar uppnår så hög upplösning som det mänskliga ögat kan se - Uppsala universitet
 
 ## World News
 
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Armand Duplantis soars to third world title and 14th world record - BBC
-- NETMARBLE'S BRUTAL DARK FANTASY MMORPG "RAVEN2" LAUNCHES WORLDWIDE - Placera.se
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Studie visar global ökning av hat mot HBTQ+, både online och offline - out.tv
-- Riyadh International Book Fair 2024: Expanding Global Dialogue through the Largest Collection of Translated Works - Aktiellt
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Duplantis breaks world record, Marschall wins world championship bronze - Australian Broadcasting Corporation
-- Portugal öppet för global miljardärsskatt - The Portugal News
-- Kina främjar global utbildning - Vietnam.vn
-- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Armand Duplantis soars to third world title and 14th world record - BBC
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Global stålproduktion sjönk i september - DI
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- New Secretary General appointed - Olof Palme International Center
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Kina främjar global utbildning - Vietnam.vn
+- Boeing jet returns to US from China, a victim of Trump's tariff war - The Economic Times
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- Somaliland: Election in a "non-existing" country - Global Bar Magazine
 
 ## Technology
 
@@ -120,25 +120,25 @@ _Updated: 2025-10-24 12:45_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
@@ -156,9 +156,9 @@ _Updated: 2025-10-24 12:45_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Till vad ska jordbruket regenereras? - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
