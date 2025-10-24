@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-24 07:41_
+_Updated: 2025-10-24 08:49_
 
 ## Top Stories
 
-- Brand i restaurang i Malmö: ”Brinner rätt bra” - SVT Nyheter
+- DN Direkt - Brand i restaurang i Malmö: ”Brinner rätt bra” - Dagens Nyheter
 - Forskare som störde Loreen: Jag hotas med utvisning - Omni
-- Blev ingen ”game changer” – Zelenskyj reste hem med en halvmesyr - Dagens Nyheter
+- Man begärd häktad för mord i Sigtuna 2015 - Åklagarmyndigheten
+- Ledare: Gripande blågul satsning - NWT
+- Svenskt luftvärn till skarp Natoinsats - Västerbottens-Kuriren
 - Förtroendet för Mohamsson dyker efter SD-beskedet - Omni
-- 23 oktober 20.45, Försvunnen person, Vänersborg - polisen.se
-- M: Säkerhetsvakter ska öka lokal trygghet - SvD
-- DN Direkt - Hund till attack mot polis – avlivad - Dagens Nyheter
-- S föreslår skarp 15-årsgräns för sociala medier, stärkt skydd mot deepfakes och en nationell nätpolis - Socialdemokraterna
+- Säsongsinfluensan på gång: ”Mer och mer" - Västerbottens-Kuriren
+- Uppdrag till Socialstyrelsen att lämna förslag på ytterligare åtgärder för att korta vårdköerna - Regeringen.se
+- S: Inför 15-årsgräns på sociala medier - SVT Nyheter
 - S vill förbjuda aktivklubbar: ”Regeringen måste sluta blunda för högerextremt våld” - Dagens Nyheter
-- Debatt: FN:s framtid diskuteras på Uppsala slott i dag - UNT
 - Hamas skräckvälde i Gaza: ”Missbrukar sitt mandat” - Västerbottens-Kuriren
-- Trump avbryter handelssamtal med Kanada - GP
-- Ecuadors president: Försökte förgifta mig - Västerbottens-Kuriren
-- Rysk ilska: USA-sanktioner en ”krigshandling” - Corren
-- P-smocka mot hyresgäster och bostadsrättsinnehavare - Dagens Nyheter
+- Expert: Trump trappar upp mot ryssarna - Dagens Nyheter
+- Belgien sinkar förslag om ryska miljarder för Ukraina - Hufvudstadsbladet
+- Ecuadors president: Försökte förgifta mig - GP
+- Stor oro för att USA:s centralbank Fed famlar i blindo - Dagens PS
 - Trump benådade kryptomogul som hjälpt honom till miljardvinst – kritiseras - Aftonbladet
-- Jätterally i Volvo Cars när Stockholmsbörsen steg - DI
+- P-smocka mot hyresgäster och bostadsrättsinnehavare - Dagens Nyheter
 - Stegra behöver mer Xi Jinping och mindre Harald Mix - Arbetet
-- Revansch för utskrattad rumpandning - SvD
-- Microsoft Paint får ny AI-funktion som kan ändra bildstil - PC för Alla
+- Marcus Wandt utsedd till chef för Group Strategy and Technology och ny medlem i Saabs koncernledning - Cision News
+- Sony rullar ut Android 16 till Xperia 1 VI - mobil.se
 
 ## World News
 
@@ -31,45 +31,45 @@ _Updated: 2025-10-24 07:41_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- AMERICAN INDUSTRIAL PARTNERS TO ACQUIRE INTERNATIONAL PAPER'S GLOBAL CELLULOSE FIBERS BUSINESS - Placera.se
+- Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Armand Duplantis soars to third world title and 14th world record - BBC
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Global stålproduktion sjönk i september - DI
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- New Secretary General appointed - Olof Palme International Center
-- Duplantis breaks world record, Marschall wins world championship bronze - Australian Broadcasting Corporation
+- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
+- Riyadh International Book Fair 2024: Expanding Global Dialogue through the Largest Collection of Translated Works - Aktiellt
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- Duplantis breaks world record, Marschall wins world championship bronze - Australian Broadcasting Corporation
+- Kina främjar global utbildning - Vietnam.vn
+- Somaliland: Election in a "non-existing" country - Global Bar Magazine
 - Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
 ## Technology
 
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu - Morningstar Canada
-- MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
 - 290 million for digitalisation of Swedish industry - Vinnova
+- MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Deepseek är det nya Linux - Computer Sweden
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Spår superintelligens om tio år – vill leda racet - Omni
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
+- Keysight and The University of Malaga Open State-of-the-Art 6G Research and Innovation Laboratory - Placera.se
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
-- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 
 ## Business
 
@@ -102,20 +102,20 @@ _Updated: 2025-10-24 07:41_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Johan von Schreeb - Karolinska Institutet
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - Mabel AI won the HealthTech Award 2023 - NewsMachine AB
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
