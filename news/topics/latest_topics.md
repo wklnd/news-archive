@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-24 11:41_
+_Updated: 2025-10-24 12:45_
 
 ## Top Stories
 
-- DN Direkt - Kvinna hittades död i vak – man begärs häktad - Dagens Nyheter
-- DN Direkt - Överenskommelse om Östlig förbindelse klar - Dagens Nyheter
-- Forskare som störde Loreen: Jag hotas med utvisning - Omni
-- Ledare: Gripande blågul satsning - NWT
+- Man begärd häktad för mord i Sigtuna 2015 - Åklagarmyndigheten
+- Saabs vd om besöket: "Våra anställda jublade och applåderade" - Corren
+- Trump avbryter samtal med Kanada - SVT Nyheter
+- DN Direkt - Brand i restaurang i Malmö: ”Brinner rätt bra” - Dagens Nyheter
 - Västra Götalands ambulanser hinner inte fram i tid – inte aktuellt med fler - GP
-- DN Direkt - Alla tåg mellan Stockholm och Uppsala inställda i flera dagar - Dagens Nyheter
+- Förtroendet för Mohamsson dyker efter SD-beskedet - Omni
 - Säsongsinfluensan på ingång – indikationer i avloppsvattnet - GP
 - Terriern Ivan stoppade mord – blir årets polishund - SVT Nyheter
 - S vill förbjuda aktivklubbar: ”Regeringen måste sluta blunda för högerextremt våld” - Dagens Nyheter
 - Debatt: FN:s framtid diskuteras på Uppsala slott i dag - UNT
-- Sydkorea: Hoppas på möte Kim–Trump - Västerbottens-Kuriren
-- Expert: Trump trappar upp mot ryssarna - Dagens Nyheter
+- Belgiskt motstånd bromsar EU-plan för ryska miljarder - Europaportalen
+- Kinesiska oljejättar slutar köpa rysk olja - Västerbottens-Kuriren
 - Sanna Torén Björling: Krigstillståndet påminner om en kris vi nyss gick igenom - Dagens Nyheter
-- Belgien sinkar förslag om ryska miljarder för Ukraina - Hufvudstadsbladet
-- Saab rusar när börsen når rekordnivåer – tunga fall i Tobii och Yubico - Placera.se
+- Sydkorea: Hoppas på möte Kim–Trump - GP
+- DN Direkt - Stockholmsbörsen på toppnivå – Saab lyfter - Dagens Nyheter
+- Frågor och svar om moms på parkeringsplatser - Bostadsrätterna
 - Stegra nära slutmålet: Net Zero - Affärsvärlden
-- Stegra behöver mer Xi Jinping och mindre Harald Mix - Arbetet
-- Ett svagare Arlanda ger inget plus för Skavsta - SN, Södermanlands Nyheter
+- Riktkurserna skruvas upp rejält för Volvo Cars efter vinstkrossen - Börsvärlden
 - ÅVC söndagsstängt - Hammarö kommun
-- Marcus Wandt utsedd till chef för Group Strategy and Technology och ny medlem i Saabs koncernledning - Cision News
+- Minimala pixlar uppnår så hög upplösning som det mänskliga ögat kan se - Uppsala universitet
 
 ## World News
 
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- Global drogsajt stängd – svenskar gripna - Drugnews
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Armand Duplantis soars to third world title and 14th world record - BBC
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global stålproduktion sjönk i september - DI
+- Armand Duplantis soars to third world title and 14th world record - BBC
+- NETMARBLE'S BRUTAL DARK FANTASY MMORPG "RAVEN2" LAUNCHES WORLDWIDE - Placera.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- New Secretary General appointed - Olof Palme International Center
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Boeing jet returns to US from China, a victim of Trump's tariff war - The Economic Times
-- Sonic Rumble - Global Launch Reveal Trailer - Gamereactor
-- Tillsammans med gröna startups "Go Global" - Vietnam.vn
+- Studie visar global ökning av hat mot HBTQ+, både online och offline - out.tv
+- Riyadh International Book Fair 2024: Expanding Global Dialogue through the Largest Collection of Translated Works - Aktiellt
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- Fast and fertilious: US city to host world's first-ever sperm race on April 25 - The Economic Times
+- Duplantis breaks world record, Marschall wins world championship bronze - Australian Broadcasting Corporation
+- Portugal öppet för global miljardärsskatt - The Portugal News
+- Kina främjar global utbildning - Vietnam.vn
+- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
 ## Technology
 
@@ -62,13 +62,13 @@ _Updated: 2025-10-24 11:41_
 - 290 million for digitalisation of Swedish industry - Vinnova
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
 - Deepseek är det nya Linux - Computer Sweden
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Xiao-I Corporation Renews Strategic Partnership with Premier Automotive Manufacturer, Marking Decade-Long Collaboration in AI-Driven Customer Experience - Placera.se
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Keysight and The University of Malaga Open State-of-the-Art 6G Research and Innovation Laboratory - Placera.se
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- New Omdia research finds real-time analytics tops priorities for 82% of IoT enterprises - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 
 ## Business
@@ -102,43 +102,43 @@ _Updated: 2025-10-24 11:41_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - SIHI Sweden Konferens 2024 - Uppsala universitet
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Mabel AI won the HealthTech Award 2023 - NewsMachine AB
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Nyteknik
+- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -156,9 +156,9 @@ _Updated: 2025-10-24 11:41_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Till vad ska jordbruket regenereras? - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
