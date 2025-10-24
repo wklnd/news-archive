@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-24 04:12_
+_Updated: 2025-10-24 05:23_
 
 - White House List of Donors for President Trump’s $300 Million Ballroom - The New York Times
-- Exclusive: China state oil majors suspend Russian oil buys due to sanctions, sources say - Reuters
-- Trump says federal deployment to San Francisco called off after conversation with Mayor Daniel Lurie - CBS News
+- Putin deplores US sanctions as ‘unfriendly’ while EU joins in heaping restrictions on Russia - AP News
 - Senate blocks bills to pay federal workers during shutdown - The Washington Post
-- Drug crackdown or regime change - what is Trump's goal in Venezuela? - BBC
+- Protest of Bay Area immigration crackdown met with apparent stun grenades at Coast Guard base - San Francisco Chronicle
 - Trump to meet with Xi on Oct. 30 - Politico
-- Lakers 'unofficial coach' allegedly traded info on LeBron James injury in NBA gambling scandal - Los Angeles Times
-- Senate candidate Graham Platner reveals new tattoo covering up one that resembled a Nazi symbol - Yahoo
+- Governor Glenn Youngkin Declares State of Emergency to Protect Hungry Virginians from Democrats Blocking Federal Funding for the Most Needy - Governor of Virginia (.gov)
+- Portland Trail Blazers head coach and Miami Heat player arrested in gambling probes - The Washington Post
 - Supreme Court liberals decry ‘excruciating suffocation’ in nitrogen hypoxia executions - CNN
-- 4 family members of Illinois governor candidate killed in Montana helicopter crash, campaign says - AP News
+- Frustrations boil over as Vance delivers ‘firm’ message to Netanyahu - Politico
+- Asian American Students Increase at Havard, as Black Students Decline - The New York Times
 - Trump says ‘Israel not going to do anything with the West Bank’ as US fumes over annexation vote - The Times of Israel
-- Gold and silver coins stolen from French museum hours after Louvre heist - The Washington Post
-- LIVE MAP: Track the path of Tropical Storm Melissa - PBS
-- King Charles makes history by praying publicly with Pope Leo - The Guardian
+- As Trump makes rare visit to Malaysia, PM Anwar’s balancing act faces test - Al Jazeera
+- Why Tropical Storm Melissa’s slow crawl across the Caribbean is dangerous - The Washington Post
+- Watch: Video appears to show alleged Louvre jewel thieves escaping - BBC
 - Target cuts 1,800 corporate jobs in its first major layoffs in a decade - CNBC
-- Intel Stock Rises After Strong Earnings. CFO Says Chip Demand Will Outpace Supply Into Next Year. - Barron's
+- Flights canceled after IT outage grounds Alaska Airlines grounds flights nationwide - ABC News - Breaking News, Latest News and Videos
+- Ford Earnings: Car Market Grinds Out a Beat. What It Means for the Stock. - Barron's
 - Meta Layoffs Included Employees Who Monitored Risks to User Privacy - The New York Times
-- Ford Grinds Out an Earnings Beat in a Quarter of Setbacks. What It Means for the Stock. - Barron's
-- Meet Mico, Microsoft’s AI version of Clippy - The Verge
+- Microsoft Edge’s new Copilot Mode turns on more AI features - The Verge
 - Cybersecurity experts warn OpenAI’s ChatGPT Atlas is vulnerable to attacks that could turn it against a user—revealing sensitive data, downloading malware, or worse - Fortune
