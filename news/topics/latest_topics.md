@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-24 16:45_
+_Updated: 2025-10-24 17:42_
 
 ## Top Stories
 
-- Skidskytte: Julia Simon döms – får villkorlig dom och böter för bedrägeri och stöld - SVT Nyheter
-- Livlöst barn kom in till vården – föräldrar anhållna - Dagens Nyheter
-- Högt uppsatt Foxtrotledare häktas: ”Ingått i toppskiktet” - SVT Nyheter
+- DN Direkt - M vill sänka den statliga inkomstskatten - Dagens Nyheter
+- Hegseth: Ytterligare attack mot knarkbåt i Karibiska havet - SVT Nyheter
 - Ledare: Varken Hitlerskämt eller grov misshandel får eliten att sluta skicka barnen till Lundsberg - VF
-- Belgien sinkar förslag om ryska miljarder - GP
+- Liberalerna vill tillåta skoluniform - Liberalerna
 - Patienter förväxlades – fick fel medicindos - Aftonbladet
-- 2025-10-24, Cyklist påkörd i centrala Aneby - AnebyNytt
+- Björn Wiman: Donald Trump bulldozrar sig fram som en klassisk tyrann - Dagens Nyheter
 - Terriern Ivan stoppade mord – blir årets polishund - SVT Nyheter
-- Saabs vd om besöket: "Våra anställda jublade och applåderade" - Corren
-- Nya bygglovsregler 1 december 2025 - Örnsköldsviks kommun
+- Barn dog på jourcentral – föräldrar anhållna - Västerbottens-Kuriren
+- M: Livstid för mycket grov våldtäkt - GP
+- Flera personer under 15 år misstänks för grova våldsbrott - polisen.se
+- Sanna Torén Björling: Krigstillståndet påminner om en kris vi nyss gick igenom - Dagens Nyheter
 - För brutalt slöjtvång – dottern gifte sig i urringat - Hufvudstadsbladet
 - Trump i nytt tullbråk med Kanada – avbryter samtal efter reklamfilm - Dagens Nyheter
-- Fyra döda i explosion på järnvägsstation - Västerbottens-Kuriren
-- Båt sjönk – migranter omkom utanför turkisk badort - GP
+- Båt sjönk – migranter omkom utanför turkisk badort - Aftonbladet
 - Saab-aktien lyfter efter höjd prognos - Aftonbladet
 - Analyshuset: Yubico kan rasa 20 procent efter vinstvarning - DI
+- Debatt: Stockholms rödgröna styre säger nej till Östlig förbindelse - ETC.se
 - Fick betala Sheins kostnader – men Nelly vägrar vika sig - Dagens Nyheter
-- Investor Studios: Lincs VD Karl Tobieson kommenterar rapporten i Market Update (MFN) - Aktiellt
 - Microsoft lanserar avancerad AI-webbläsare med Copilot Mode - Placera.se
 - Svenska forskare utvecklar skärm med pixlar i nanoskala - Evertiq
 
@@ -31,21 +31,21 @@ _Updated: 2025-10-24 16:45_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Global stålproduktion sjönk i september - DI
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - New Secretary General appointed - Olof Palme International Center
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Kina främjar global utbildning - Vietnam.vn
 - Boeing jet returns to US from China, a victim of Trump's tariff war - The Economic Times
+- Modest Cocoa Surplus to Ease Record Global Shortage, ICCO Says - Bloomberg.com
+- Sonic Rumble - Global Launch Reveal Trailer - Gamereactor
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 - Somaliland: Election in a "non-existing" country - Global Bar Magazine
 
 ## Technology
@@ -58,8 +58,8 @@ _Updated: 2025-10-24 16:45_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - ZenaTech's ZenaDrone Subsidiary to Conduct Meetings with Members of Congress Highlighting its Drone Innovation Followed by Showcasing Drone Solutions at the AUVSI Defense Forum - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Bästa AI-aktierna att köpa nu - Morningstar Canada
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Bästa AI-aktierna att köpa nu - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
 - BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
@@ -79,6 +79,7 @@ _Updated: 2025-10-24 16:45_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Student and entry-level programs - EY
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
@@ -92,7 +93,6 @@ _Updated: 2025-10-24 16:45_
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
 
 ## Health
 
@@ -122,23 +122,23 @@ _Updated: 2025-10-24 16:45_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 
 ## Jordbruk
 
@@ -156,9 +156,9 @@ _Updated: 2025-10-24 16:45_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Till vad ska jordbruket regenereras? - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
