@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-24 01:48_
+_Updated: 2025-10-24 04:12_
 
-- White House East Wing demolished, new images appear to show - ABC News - Breaking News, Latest News and Videos
+- White House List of Donors for President Trump’s $300 Million Ballroom - The New York Times
 - Exclusive: China state oil majors suspend Russian oil buys due to sanctions, sources say - Reuters
-- Trump calls off planned federal ‘surge’ in S.F., but plans for Bay Area immigration crackdown unclear - San Francisco Chronicle
-- Governor Glenn Youngkin Declares State of Emergency to Protect Hungry Virginians from Democrats Blocking Federal Funding for the Most Needy - Governor of Virginia (.gov)
-- Vance says he was insulted by Israeli lawmakers' "very stupid political stunt" on West Bank annexation - CBS News
-- Illinois governor candidate's son, daughter-in-law and 2 grandkids killed in helicopter crash - NBC News
+- Trump says federal deployment to San Francisco called off after conversation with Mayor Daniel Lurie - CBS News
 - Senate blocks bills to pay federal workers during shutdown - The Washington Post
-- Archbishop of U.S. Anglican Church Is Accused of Sexual Harassment - The New York Times
-- Frustrations boil over as Vance delivers ‘firm’ message to Netanyahu - Politico
-- What scientists saw underwater in Florida left them “shocked” — and devastated - vox.com
-- Watch: Video appears to show alleged Louvre jewel thieves escaping - BBC
-- E.U. eyes a giant pot of frozen Russian money to help Ukraine in war - The Washington Post
-- Tropical Storm Melissa on track to become a major hurricane. See the projected path and latest forecast. - Yahoo
+- Drug crackdown or regime change - what is Trump's goal in Venezuela? - BBC
+- Trump to meet with Xi on Oct. 30 - Politico
+- Lakers 'unofficial coach' allegedly traded info on LeBron James injury in NBA gambling scandal - Los Angeles Times
+- Senate candidate Graham Platner reveals new tattoo covering up one that resembled a Nazi symbol - Yahoo
+- Supreme Court liberals decry ‘excruciating suffocation’ in nitrogen hypoxia executions - CNN
+- 4 family members of Illinois governor candidate killed in Montana helicopter crash, campaign says - AP News
+- Trump says ‘Israel not going to do anything with the West Bank’ as US fumes over annexation vote - The Times of Israel
+- Gold and silver coins stolen from French museum hours after Louvre heist - The Washington Post
+- LIVE MAP: Track the path of Tropical Storm Melissa - PBS
 - King Charles makes history by praying publicly with Pope Leo - The Guardian
-- Intel’s stock is climbing as earnings show a turnaround slowly taking hold - MarketWatch
 - Target cuts 1,800 corporate jobs in its first major layoffs in a decade - CNBC
-- Meta tells some employees their jobs are being replaced by tech — read the memo - businessinsider.com
-- Google, Anthropic Announce Cloud Deal Worth Tens of Billions - Bloomberg.com
-- OpenAI teases new features and fixes for ChatGPT Atlas - The Verge
-- Microsoft makes Copilot “human-centered” with a ‘90s-style animated assistant - Ars Technica
+- Intel Stock Rises After Strong Earnings. CFO Says Chip Demand Will Outpace Supply Into Next Year. - Barron's
+- Meta Layoffs Included Employees Who Monitored Risks to User Privacy - The New York Times
+- Ford Grinds Out an Earnings Beat in a Quarter of Setbacks. What It Means for the Stock. - Barron's
+- Meet Mico, Microsoft’s AI version of Clippy - The Verge
+- Cybersecurity experts warn OpenAI’s ChatGPT Atlas is vulnerable to attacks that could turn it against a user—revealing sensitive data, downloading malware, or worse - Fortune
