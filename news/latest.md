@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-25 05:53_
+_Updated: 2025-10-25 06:48_
 
-- With East Wing gone, questions now turn to Trump’s ballroom donors - The Washington Post
 - Trump and Canada’s Trade Spat Spotlights Doug Ford, the Ontario Premier - The New York Times
 - Pentagon deploys top aircraft carrier as Trump militarisation of Caribbean ratchets up - The Guardian
-- Trump administration says it won't tap emergency funds to pay food aid - Politico
+- With East Wing gone, questions now turn to Trump’s ballroom donors - The Washington Post
+- Trump administration won’t use contingency fund to pay November food stamp benefits - CNN
+- Pentagon accepts anonymous $130 million donation to help pay troops during government shutdown - NBC News
 - As strikes on alleged drug boats grow, so do questions about their legality and goal - NPR
-- Justice Department to send election monitors to California, New Jersey following requests from state GOPs - CBS News
 - Immigration enforcement ‘surge’ called off for rest of Bay Area - San Francisco Chronicle
-- 2 People Shot at Protest Site Outside Coast Guard Base in California - The New York Times
-- N.Y. AG Letitia James pleads not guilty to bank fraud charges in federal court - CBS News
-- Students, staff put on surprise wedding for beloved principal at her New York school - CBS News
-- Traders Guide to What to Expect Ahead of Trump’s Asia Trip and Xi Meeting - Bloomberg.com
-- Gold and silver coins stolen from French museum hours after Louvre heist - The Washington Post
+- Trump administration aims to auction offshore oil leases along U.S. coastlines that have been off-limits for decades - CBS News
+- Justice Department Will Monitor Elections in California and New Jersey - The New York Times
+- Airlines, Pilots Demand Action as Democrat Shutdown Pushes Air Travel to the Edge - The White House (.gov)
+- The Louvre thieves used a furniture lift in their heist. Now the company that makes it is hoping to cash in. - CBS News
 - Tropical Storm Melissa stationary in the Caribbean as 4 deaths reported and huge rains expected - AP News
+- US, Chinese officials face off on export controls, Trump tariff threat in Malaysia - Reuters
 - Ukraine allies pledge to 'take Russian oil and gas off global market' - BBC
 - Do Social Security adjustments stack up against Seattle inflation? - The Seattle Times
-- Stocks Hit Highs as CPI Gives Fed All-Clear to Cut: Markets Wrap - Yahoo Finance
+- Live Updates: Inflation Edged Higher in September, as Tariffs Raise Some Prices - The New York Times
 - US beef prices are soaring. Will Trump's plans lower them? - BBC
-- Intel Stock Pops on Estimate-Beating Q3. Options Data Tells Us INTC Could Be Headed Here Next. - Barchart.com
-- The original ‘Halo’ is getting a full remake, now on PlayStation - The Washington Post
+- JPMorgan Chase wants out of paying $115M legal tab for convicted fraudsters - AP News
+- Halo: Campaign Evolved heads to Xbox Series X|S, PC, and yes, PlayStation 5 in 2026 — after playing an early demo of this remake, I'm excited - Windows Central
 - ChatGPT enters the browser wars - The Verge
