@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-25 22:40_
+_Updated: 2025-10-25 23:37_
 
 ## Top Stories
 
-- Larm om smällar i Gävle – flera skadade - Aftonbladet
-- Skickar jättelikt hangarfartyg: ”Tecken på att USA ökar trycket” - Dagens Nyheter
-- Skjutning i Rinkeby – en person är skadad - SvD
+- Flera skadade efter skjutning i Gävle - SVT Nyheter
+- Man skottskadad i Stockholm - SvD
 - Ingen gripen efter misstänkt våldtäkt i Pildammsparken – polisen söker vittnen - Sydsvenskan
-- En till sjukhus efter brand i Råcksta - SVT Nyheter
-- Kristersson (M) bjuder hem Tidöledarna till Strängnäs - GP
-- Dementa kan drabbas när klockan ställs om - GP
-- Nooshi Dadgostar höll tal på Vänsterdagarna - Vänsterpartiet
+- Skickar jättelikt hangarfartyg: ”Tecken på att USA ökar trycket” - Dagens Nyheter
+- DN Direkt - Svenska kraftnät utreder angrepp från hackergrupp - Dagens Nyheter
+- Byggnad i Vällingby brann – en förd till sjukhus - Aftonbladet
+- Ulf Kristerssons tal på arbetsstämman i Västerås - Moderaterna
+- Dousa: Bistånd gick till organisation nära Hamas - Västerbottens-Kuriren
 - Moderaterna: Invandrare ska efterleva svenska värderingar - SVT Nyheter
 - 25 oktober 12.17, Trafikkontroll, Västernorrlands län - polisen.se
-- Politisk vänstervilde Irlands nya president - Dagens Nyheter
 - Kamala Harris öppnar för presidentkandidatur 2028 - SVT Nyheter
-- Demokrater hånas på Vita husets hemsida - Dagens Nyheter
 - Fyra dödade i ryska attacker mot Ukraina - Hufvudstadsbladet
-- Academedias direktavkastning rusar – efter bolagets utdelningsgiv - DI
+- ”Lassie”-stjärnan död – blev 100 år - Aftonbladet
+- Explosion på elbuss i Farsta - Expressen
 - Politiker: Staten måste ta större ansvar i energifrågan - Ljusnan
 - Motvilligt ense om enormt vägprojekt i Stockholm - GP
 - Patientsäkerheten riskerades i somras - Örebronyheter
+- USA: Konstruktiva handelssamtal med Kina - SVT Nyheter
 - Spelsuccén ”Halo” gör debut på Playstation - Omni
 - Se bilderna: Konservatorn trodde inte sina ögon när bronsskatten plötsligt glänste som silver - Världens historia
 
@@ -32,27 +32,28 @@ _Updated: 2025-10-25 22:40_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Armand Duplantis soars to third world title and 14th world record - BBC
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Studie visar global ökning av hat mot HBTQ+, både online och offline - out.tv
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Duplantis breaks world record, Marschall wins world championship bronze - Australian Broadcasting Corporation
-- Somaliland: Election in a "non-existing" country - Global Bar Magazine
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- Armand Duplantis soars to third world title and 14th world record - BBC
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- New Secretary General appointed - Olof Palme International Center
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 
 ## Technology
 
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
@@ -60,16 +61,15 @@ _Updated: 2025-10-25 22:40_
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Deepseek är det nya Linux - Computer Sweden
 - Spår superintelligens om tio år – vill leda racet - Omni
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- ZenaTech's ZenaDrone Subsidiary to Conduct Meetings with Members of Congress Highlighting its Drone Innovation Followed by Showcasing Drone Solutions at the AUVSI Defense Forum - Placera.se
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 - SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
-- BigBear.ai And Palantir Announce Strategic Partnership, Combining AI-powered Products With Next Generation Operating Platform - Placera.se
 
 ## Business
 
@@ -87,12 +87,12 @@ _Updated: 2025-10-25 22:40_
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Amazon Sveriges ledning bekräftar närvaro vid amaNordic Event - för att stärka varumärken i Norra Europa - Mynewsdesk
 
 ## Health
 
@@ -107,15 +107,15 @@ _Updated: 2025-10-25 22:40_
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Mabel AI won the HealthTech Award 2023 - NewsMachine AB
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-25 22:40_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Så gick första året för Pellbrants - Mellanbygden
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Tio jordbruksaktier för depån - Placera.se
+- De gick från reko till eko - ST-tidningen
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Lediga jobb - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
