@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-25 12:40_
+_Updated: 2025-10-25 13:38_
 
 ## Top Stories
 
 - Kristersson talar på Moderaternas stämma i Västerås - SVT Nyheter
-- DN Direkt - Misstänkt grov våldtäkt i park i Malmö - Dagens Nyheter
+- Ung kvinna misstänks ha våldtagits medan polisen var på väg - Dagens Nyheter
 - M: Invandrare ska skriva på Sverigekontrakt - Västerbottens-Kuriren
-- Lastbil brunnit hela natten: "Nytt släckningsförsök" - UNT
-- Misstänkt mordförsök i Avesta – oklart vem som är offer och gärningsman - SVT Nyheter
-- Tonåring ihjälskjuten – två anhållna för mord - GP
+- Lastbil med papper brann hela natten - UNT
+- Vägrar lämna ut Nordstream-misstänkta: De är hjältar - Dagens PS
+- 25 oktober 07.43, Sammanfattning natt, Dalarnas län - polisen.se
 - Nooshi Dadgostar höll tal på Vänsterdagarna - Vänsterpartiet
-- Dousa: Bistånd gick till organisation nära Hamas - Västerbottens-Kuriren
-- ”Vinsterna med tidsomställningen har försvunnit” - Dagens Arena
-- 25 oktober 08.05, Sammanfattning natt, Södermanlands län - polisen.se
-- Kanada stoppar Reaganfilm efter Trump-ilska - GP
-- Vårdläget i Gaza: Mer ”slakthus” än sjukhus - Dagens Nyheter
-- Direkt Kriget i Ukraina - Rysslands ekonomiska sändebud i USA - Dagens Nyheter
-- Belgiskt motstånd bromsar EU-plan för ryska miljarder - Europaportalen
+- Nattens händelser från polisen - Örebronyheter
+- 25 oktober 12.17, Trafikkontroll, Västernorrlands län - polisen.se
+- I NATT: Påverkad man misstänks för knivbrott: ”Det blir grovt” - NWT
+- Direkt Kriget i Ukraina - Källor: 250 ryssar i strategiskt viktiga staden - Dagens Nyheter
+- Flera skadade i attacker mot Kiev - Västerbottens-Kuriren
+- Vårdläget i Gaza: Mer ”slakthus” än sjukhus - GP
+- Kanada stoppar Reagan-film efter Trump-ilska - Västerbottens-Kuriren
 - Svantesson om Stegra: ”Ser inte att det är aktuellt med mer pengar” - DI
-- Ringhals 3 hänger löst – kan stoppas i förtid - Omni
 - Rekorddyr cyberattack slog ut biltillverkaren i fem veckor – här är notan - Nyteknik
-- Toyota har lärt sig av misstagen - Dagens Nyheter
-- Kultspelet kommer till Playstation – 25 år senare - Aftonbladet
-- Nystartade företagen i Umeå - holdingbolag ett av dem - Västerbottens-Kuriren
+- Academedias direktavkastning rusar – efter bolagets utdelningsgiv - Privata Affärer
+- Teslastrejken två år – Olof: ”Kan fortsätta två år till” - Dagens Arbete
+- DN Direkt - Statsministern samlar Tidö-ledarna i Strängnäs - Dagens Nyheter
+- Ny expansion till Pacific Drive i samband med Game Pass-släppet - FZ.se
 
 ## World News
 
@@ -32,21 +32,21 @@ _Updated: 2025-10-25 12:40_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Armand Duplantis soars to third world title and 14th world record - BBC
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Duplantis breaks world record, Marschall wins world championship bronze - Australian Broadcasting Corporation
-- Somaliland: Election in a "non-existing" country - Global Bar Magazine
-- Boeing jet returns to US from China, a victim of Trump's tariff war - The Economic Times
-- Kina främjar global utbildning - Vietnam.vn
-- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- Armand Duplantis soars to third world title and 14th world record - BBC
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- New Secretary General appointed - Olof Palme International Center
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Biljetter till Global Series-träningarna i Stockholm - NHL.com
 
 ## Technology
 
@@ -73,20 +73,20 @@ _Updated: 2025-10-25 12:40_
 
 ## Business
 
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Positiva signaler om hållbar finansiering från EU-kommissionen - Svenskt Näringsliv
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Student and entry-level programs - EY
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
@@ -106,14 +106,14 @@ _Updated: 2025-10-25 12:40_
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - Mabel AI won the HealthTech Award 2023 - NewsMachine AB
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Nyteknik
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
@@ -121,23 +121,23 @@ _Updated: 2025-10-25 12:40_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
@@ -156,9 +156,9 @@ _Updated: 2025-10-25 12:40_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Så gick första året för Pellbrants - Mellanbygden
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
