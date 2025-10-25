@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-25 18:43_
+_Updated: 2025-10-25 19:38_
 
 ## Top Stories
 
 - Ingen gripen efter misstänkt våldtäkt i Pildammsparken – polisen söker vittnen - Sydsvenskan
+- Kristersson bjuder in Tidöledarna för samtal i Strängnäs - SVT Nyheter
 - M-förslaget: Lämna bebisar på förskolan – för arbetslinjen - GP
-- Vita husets balsal blir större än huvudbyggnaden - Omni
+- Säljs som säkrare alternativ till steroider – trots allvarliga risker - Dagens Nyheter
 - Sida: Ser allvarligt på uppgifterna om Hamas - Västerbottens-Kuriren
 - Dags att ställa om – och få sova en timme längre - SvD
-- DN Direkt - Connolly ny president i Irland - Dagens Nyheter
 - Nooshi Dadgostar höll tal på Vänsterdagarna - Vänsterpartiet
 - Polisen varnar inför halloween: Då kan busen vara olagliga - Corren
 - 25 oktober 12.17, Trafikkontroll, Västernorrlands län - polisen.se
-- M: Invandrare ska skriva på Sverigekontrakt - SVT Nyheter
-- Källor: 250 ryssar i strategiskt viktiga staden - Hufvudstadsbladet
-- Kamala Harris öppnar för att kandidera igen - SVT Nyheter
-- USA: Sex döda i ny attack mot ”knarkbåt” - Västerbottens-Kuriren
-- Zelenskyj i London – robotar på agendan - Corren
+- Moderaterna: Invandrare ska efterleva svenska värderingar - SVT Nyheter
+- Kamala Harris öppnar för presidentkandidatur 2028 - SVT Nyheter
+- DN Direkt - USA: Sex döda i ny attack mot ”knarkbåt” - Dagens Nyheter
+- Connolly på god väg att bli Irlands president - Västerbottens-Kuriren
+- Fyra dödade i ryska attacker mot Ukraina - GP
 - Trendbrott: Billigare att äga än hyra sitt boende - SvD
+- Academedias direktavkastning rusar – efter bolagets utdelningsgiv - DI
 - Överens om jättelikt vägprojekt förbi Stockholm - Västerbottens-Kuriren
 - Patientsäkerheten riskerades i somras - Örebronyheter
-- DEBATT: ”Nu är energifrågan en valfråga igen” - Barometern-OT
 - Kultspelet kommer till PS 5 – efter 25 år - SvD
 - Ny expansion till Pacific Drive i samband med Game Pass-släppet - FZ.se
 
@@ -40,11 +40,11 @@ _Updated: 2025-10-25 18:43_
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Armand Duplantis soars to third world title and 14th world record - BBC
+- BBC hjälper mig att dosera min förtvivlan - Aftonbladet
 - Finserve Global Security Fund blir Europas första försvarsfond klassificerad som artikel 8 - beQuoted
 - Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- New Secretary General appointed - Olof Palme International Center
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
@@ -55,6 +55,7 @@ _Updated: 2025-10-25 18:43_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
@@ -62,14 +63,13 @@ _Updated: 2025-10-25 18:43_
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Deepseek är det nya Linux - Computer Sweden
-- Spår superintelligens om tio år – vill leda racet - Omni
+- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
-- Aiforia’s AI solutions for breast cancer diagnostics implemented at Fimlab Laboratories - Placera.se
-- BigBear.ai And Palantir Announce Strategic Partnership, Combining AI-powered Products With Next Generation Operating Platform - Placera.se
 
 ## Business
 
@@ -97,23 +97,23 @@ _Updated: 2025-10-25 18:43_
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
-- SIHI Sweden Konferens 2024 - Uppsala universitet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Mabel AI won the HealthTech Award 2023 - NewsMachine AB
 
@@ -122,31 +122,31 @@ _Updated: 2025-10-25 18:43_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
@@ -154,11 +154,11 @@ _Updated: 2025-10-25 18:43_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Så gick första året för Pellbrants - Mellanbygden
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
-- 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
