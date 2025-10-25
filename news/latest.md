@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-25 07:48_
+_Updated: 2025-10-25 08:51_
 
-- Ontario premier says he'll pull ad that upset Trump so trade talks between Canada and US can resume - AP News
-- Pentagon deploys top aircraft carrier as Trump militarisation of Caribbean ratchets up - The Guardian
-- With East Wing gone, questions now turn to Trump’s ballroom donors - The Washington Post
+- Trump and Canada’s Trade Spat Spotlights Doug Ford, the Ontario Premier - The New York Times
+- Pentagon orders aircraft carrier to Latin America as Trump signals escalation - The Washington Post
+- Americans brace for food stamps to run out: ‘The greatest hunger catastrophe since the Great Depression’ - The Guardian
 - Pentagon accepts anonymous $130 million donation to help pay troops during government shutdown - NBC News
-- Exclusive: USDA says it can't use emergency funds for food stamps - Axios
+- What donors to Trump's White House ballroom stand to gain from the federal government - CBS News
 - As strikes on alleged drug boats grow, so do questions about their legality and goal - NPR
-- Immigration enforcement ‘surge’ called off for rest of Bay Area - San Francisco Chronicle
-- Immigration Crackdown Spreads Through Chicago, Including Wealthy Neighborhoods - The New York Times
+- Exclusive | Inside the Tech CEO Campaign to Stop Trump From Sending Troops to San Francisco - The Wall Street Journal
 - US places sanctions on Colombian president over alleged failure to stop cartels - The Guardian
+- Immigration Crackdown Spreads Through Chicago, Including Wealthy Neighborhoods - The New York Times
 - Video shows security opening fire on U-Haul truck outside Coast Guard base in California - Los Angeles Times
 - Trump seeks trade deal with Xi during Asia trip - Reuters
 - The Louvre thieves used a furniture lift in their heist. Now the company that makes it is hoping to cash in. - CBS News
-- Tropical Storm Melissa stationary in the Caribbean as 4 deaths reported and huge rains expected - AP News
-- Ukraine allies pledge to 'take Russian oil and gas off global market' - BBC
+- Ukraine’s Zelenskyy urges US to broaden Russian oil sanctions and seeks long-range missiles - AP News
+- Tropical Storm Melissa to strengthen into major hurricane: Latest forecast - ABC News - Breaking News, Latest News and Videos
 - Do Social Security adjustments stack up against Seattle inflation? - The Seattle Times
 - US beef prices are soaring. Will Trump's plans lower them? - BBC
 - JPMorgan Chase wants out of paying $115M legal tab for convicted fraudsters - AP News
-- Live Updates: Inflation Edged Higher in September, as Tariffs Raise Some Prices - The New York Times
+- David Ellison Is Moving Fast and Spending Big to Remake Hollywood - The Wall Street Journal
 - Halo: Campaign Evolved is a gorgeous remake that debuts on PS5 and Xbox in 2026 - The Verge
-- Bored Ape Yacht Club is making a comeback — as a metaverse - The Verge
+- Instagram’s latest feature lets you go back to see your watched Reels - TechCrunch
