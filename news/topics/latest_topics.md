@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-25 10:43_
+_Updated: 2025-10-25 11:38_
 
 ## Top Stories
 
 - Ung kvinna misstänks ha våldtagits medan polisen var på väg - Dagens Nyheter
-- 25 oktober 07.43, Sammanfattning natt, Dalarnas län - polisen.se
-- Stoltenberg: Putin kan räkna – attackerar inte Nato - Omni
-- En död efter skjutning i Södertälje - SVT Nyheter
+- 24 oktober 21.23, Skottlossning, Södertälje - polisen.se
+- Lastbil i brand hela natten – trafikstörningar norr om Tärnsjö - SVT Nyheter
+- Kristersson bjuder hem Tidöledarna till Strängnäs - GP
+- Misstänkt mordförsök i Avesta – oklart vem som är offer och gärningsman - SVT Nyheter
 - Insändare. Följ Jokkmokks kommunalråd och säg nej till återvandring - Dagens Nyheter
-- Dousa: Bistånd gick till organisation nära Hamas - Västerbottens-Kuriren
+- Benjamin Dousa: Bistånd gick till organisation nära Hamas - SVT Nyheter
+- Nattens händelser från polisen - Örebronyheter
 - 25 oktober 08.05, Sammanfattning natt, Södermanlands län - polisen.se
 - I NATT: Påverkad man misstänks för knivbrott: ”Det blir grovt” - NWT
-- En till sjukhus efter älgolycka - Västerbottens-Kuriren
-- Ministern: Regioner som inte ger vård i tid ska straffas - Omni
+- Kanada stoppar Reaganfilm efter Trump-ilska - GP
 - Direkt Kriget i Ukraina - Rysslands ekonomiska sändebud i USA - Dagens Nyheter
-- Kanada stoppar Reagan-film efter Trump-ilska - Västerbottens-Kuriren
+- Vårdläget i Gaza: Mer ”slakthus” än sjukhus - Västerbottens-Kuriren
 - Thailands tidigare drottning död - Västerbottens-Kuriren
-- Vårdläget i Gaza: Mer ”slakthus” än sjukhus - GP
 - Ringhals 3 hänger löst – kan stoppas i förtid - Omni
 - Svantesson om Stegra: ”Ser inte att det är aktuellt med mer pengar” - DI
 - Insändare. Bygg Östlig förbindelse för barnfamiljernas skull - Dagens Nyheter
-- Toyota har lärt sig av misstagen - Dagens Nyheter
-- ”Halo” kommer till Playstation – för första gången på 25 år! - MovieZine
-- Sovande vulkan kan explodera våldsamt – efter 700 000 år - Dagens PS
+- Toyota säger att de kommer lansera världens första elbilar med solid state-batterier 2027 – men hur realistiskt är det egentligen? - TechRadar
+- Nystartade företagen i Umeå - holdingbolag ett av dem - Västerbottens-Kuriren
+- Kultspelet kommer till Playstation – 25 år senare - GP
 
 ## World News
 
@@ -35,18 +35,18 @@ _Updated: 2025-10-25 10:43_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- New Secretary General appointed - Olof Palme International Center
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Duplantis breaks world record, Marschall wins world championship bronze - Australian Broadcasting Corporation
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Boeing jet returns to US from China, a victim of Trump's tariff war - The Economic Times
+- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- Biljetter till Global Series-träningarna i Stockholm - NHL.com
+- Somaliland: Election in a "non-existing" country - Global Bar Magazine
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
 ## Technology
 
