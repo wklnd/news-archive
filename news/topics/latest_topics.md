@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-25 19:38_
+_Updated: 2025-10-25 20:45_
 
 ## Top Stories
 
+- Degerfors IF tog livsviktig seger - Örebronyheter
 - Ingen gripen efter misstänkt våldtäkt i Pildammsparken – polisen söker vittnen - Sydsvenskan
-- Kristersson bjuder in Tidöledarna för samtal i Strängnäs - SVT Nyheter
-- M-förslaget: Lämna bebisar på förskolan – för arbetslinjen - GP
-- Säljs som säkrare alternativ till steroider – trots allvarliga risker - Dagens Nyheter
-- Sida: Ser allvarligt på uppgifterna om Hamas - Västerbottens-Kuriren
-- Dags att ställa om – och få sova en timme längre - SvD
-- Nooshi Dadgostar höll tal på Vänsterdagarna - Vänsterpartiet
+- USA:s båtattacker alltmer juridiskt ifrågasatta - Omni
+- Sida: Ser allvarligt på uppgifterna om Hamas - Dagens Nyheter
+- En till sjukhus efter brand i Råcksta - SVT Nyheter
+- Så har Trump gjort Vita huset till ett guldpalats - SvD
+- Ulf Kristerssons tal på arbetsstämman i Västerås - Moderaterna
 - Polisen varnar inför halloween: Då kan busen vara olagliga - Corren
 - 25 oktober 12.17, Trafikkontroll, Västernorrlands län - polisen.se
 - Moderaterna: Invandrare ska efterleva svenska värderingar - SVT Nyheter
+- Connolly på god väg att bli Irlands president - Dagens Nyheter
 - Kamala Harris öppnar för presidentkandidatur 2028 - SVT Nyheter
-- DN Direkt - USA: Sex döda i ny attack mot ”knarkbåt” - Dagens Nyheter
-- Connolly på god väg att bli Irlands president - Västerbottens-Kuriren
-- Fyra dödade i ryska attacker mot Ukraina - GP
+- Demokrater hånas på Vita husets hemsida - Dagens Nyheter
+- Fyra dödade i ryska attacker mot Ukraina - Hufvudstadsbladet
 - Trendbrott: Billigare att äga än hyra sitt boende - SvD
 - Academedias direktavkastning rusar – efter bolagets utdelningsgiv - DI
 - Överens om jättelikt vägprojekt förbi Stockholm - Västerbottens-Kuriren
 - Patientsäkerheten riskerades i somras - Örebronyheter
-- Kultspelet kommer till PS 5 – efter 25 år - SvD
+- Spelsuccén ”Halo” gör debut på Playstation - Omni
 - Ny expansion till Pacific Drive i samband med Game Pass-släppet - FZ.se
 
 ## World News
@@ -36,15 +36,15 @@ _Updated: 2025-10-25 19:38_
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Avlyssningsskandalen fick polischef att avgå - Journalisten
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- BBC hjälper mig att dosera min förtvivlan - Aftonbladet
-- Finserve Global Security Fund blir Europas första försvarsfond klassificerad som artikel 8 - beQuoted
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
+- World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
+- New Secretary General appointed - Olof Palme International Center
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
@@ -55,7 +55,6 @@ _Updated: 2025-10-25 19:38_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
@@ -63,13 +62,14 @@ _Updated: 2025-10-25 19:38_
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Deepseek är det nya Linux - Computer Sweden
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Spår superintelligens om tio år – vill leda racet - Omni
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
+- Aiforia’s AI solutions for breast cancer diagnostics implemented at Fimlab Laboratories - Placera.se
+- BigBear.ai And Palantir Announce Strategic Partnership, Combining AI-powered Products With Next Generation Operating Platform - Placera.se
 
 ## Business
 
@@ -103,19 +103,19 @@ _Updated: 2025-10-25 19:38_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
 - Johan von Schreeb - Karolinska Institutet
+- Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- SIHI Sweden Konferens 2024 - Uppsala universitet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Mabel AI won the HealthTech Award 2023 - NewsMachine AB
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
 
 ## Science
 
@@ -156,9 +156,9 @@ _Updated: 2025-10-25 19:38_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Så gick första året för Pellbrants - Mellanbygden
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
