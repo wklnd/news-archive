@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-25 11:38_
+_Updated: 2025-10-25 12:40_
 
 ## Top Stories
 
-- Ung kvinna misstänks ha våldtagits medan polisen var på väg - Dagens Nyheter
-- 24 oktober 21.23, Skottlossning, Södertälje - polisen.se
-- Lastbil i brand hela natten – trafikstörningar norr om Tärnsjö - SVT Nyheter
-- Kristersson bjuder hem Tidöledarna till Strängnäs - GP
+- Kristersson talar på Moderaternas stämma i Västerås - SVT Nyheter
+- DN Direkt - Misstänkt grov våldtäkt i park i Malmö - Dagens Nyheter
+- M: Invandrare ska skriva på Sverigekontrakt - Västerbottens-Kuriren
+- Lastbil brunnit hela natten: "Nytt släckningsförsök" - UNT
 - Misstänkt mordförsök i Avesta – oklart vem som är offer och gärningsman - SVT Nyheter
-- Insändare. Följ Jokkmokks kommunalråd och säg nej till återvandring - Dagens Nyheter
-- Benjamin Dousa: Bistånd gick till organisation nära Hamas - SVT Nyheter
-- Nattens händelser från polisen - Örebronyheter
+- Tonåring ihjälskjuten – två anhållna för mord - GP
+- Nooshi Dadgostar höll tal på Vänsterdagarna - Vänsterpartiet
+- Dousa: Bistånd gick till organisation nära Hamas - Västerbottens-Kuriren
+- ”Vinsterna med tidsomställningen har försvunnit” - Dagens Arena
 - 25 oktober 08.05, Sammanfattning natt, Södermanlands län - polisen.se
-- I NATT: Påverkad man misstänks för knivbrott: ”Det blir grovt” - NWT
 - Kanada stoppar Reaganfilm efter Trump-ilska - GP
+- Vårdläget i Gaza: Mer ”slakthus” än sjukhus - Dagens Nyheter
 - Direkt Kriget i Ukraina - Rysslands ekonomiska sändebud i USA - Dagens Nyheter
-- Vårdläget i Gaza: Mer ”slakthus” än sjukhus - Västerbottens-Kuriren
-- Thailands tidigare drottning död - Västerbottens-Kuriren
-- Ringhals 3 hänger löst – kan stoppas i förtid - Omni
+- Belgiskt motstånd bromsar EU-plan för ryska miljarder - Europaportalen
 - Svantesson om Stegra: ”Ser inte att det är aktuellt med mer pengar” - DI
-- Insändare. Bygg Östlig förbindelse för barnfamiljernas skull - Dagens Nyheter
-- Toyota säger att de kommer lansera världens första elbilar med solid state-batterier 2027 – men hur realistiskt är det egentligen? - TechRadar
+- Ringhals 3 hänger löst – kan stoppas i förtid - Omni
+- Rekorddyr cyberattack slog ut biltillverkaren i fem veckor – här är notan - Nyteknik
+- Toyota har lärt sig av misstagen - Dagens Nyheter
+- Kultspelet kommer till Playstation – 25 år senare - Aftonbladet
 - Nystartade företagen i Umeå - holdingbolag ett av dem - Västerbottens-Kuriren
-- Kultspelet kommer till Playstation – 25 år senare - GP
 
 ## World News
 
@@ -38,14 +38,14 @@ _Updated: 2025-10-25 11:38_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Duplantis breaks world record, Marschall wins world championship bronze - Australian Broadcasting Corporation
+- Somaliland: Election in a "non-existing" country - Global Bar Magazine
 - Boeing jet returns to US from China, a victim of Trump's tariff war - The Economic Times
+- Kina främjar global utbildning - Vietnam.vn
 - Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- Somaliland: Election in a "non-existing" country - Global Bar Magazine
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
 ## Technology
@@ -102,20 +102,20 @@ _Updated: 2025-10-25 11:38_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
 - Johan von Schreeb - Karolinska Institutet
+- Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - SIHI Sweden Konferens 2024 - Uppsala universitet
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - Mabel AI won the HealthTech Award 2023 - NewsMachine AB
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Nyteknik
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Tema: AI inom medicin och hälsa - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
