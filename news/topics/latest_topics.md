@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-26 07:40_
+_Updated: 2025-10-26 08:47_
 
 ## Top Stories
 
-- Man ihjälskjuten i Gävle – kopplas till gängmiljön - Aftonbladet
+- Tonåring död efter skottlossning i Gävle - SvD
 - Zelenskyj: Gripen del av säkerhetsgarantier - GP
 - Skickar jättelikt hangarfartyg: ”Tecken på att USA ökar trycket” - Dagens Nyheter
-- Man i 20-årsåldern död efter brand i Råcksta - SVT Nyheter
+- 57-åring ny ägare till äldre hus i Diö – prislappen: 675 000 kronor - Smålänningen
 - DN Direkt - Sexförbrytare orsakade protester – råkade släppas - Dagens Nyheter
-- Thailand och Kambodja utökar vapenvilan - Aftonbladet
+- Flera misstänkta brott i Värmland i natt - NWT
 - Dementa kan drabbas när klockan ställs om - GP
-- Man skjuten i Rinkeby i nordvästra Stockholm - Dagens Nyheter
+- 26 oktober 07.00, Sammanfattning kväll och natt, Västra Götalands län - polisen.se
 - 25 oktober 12.17, Trafikkontroll, Västernorrlands län - polisen.se
-- Moderaterna: Invandrare ska efterleva svenska värderingar - SVT Nyheter
+- Man skjuten i Rinkeby i nordvästra Stockholm - Dagens Nyheter
+- Thailand och Kambodja utökar vapenvilan - Expressen
+- Larm om explosion i trappuppgång i Mellerud - Expressen
 - Fyra dödade i ryska attacker mot Ukraina - Hufvudstadsbladet
-- ”Lassie”-stjärnan död – blev 100 år - Aftonbladet
-- Explosion på elbuss i Farsta - Expressen
-- Norges varning: Putin rustar för krig mot Nato - Expressen
+- JUST NU: Norge varnar – “Här planerar Ryssland sitt nästa krig“ - Marcus Oscarsson
 - Jonas Fröberg: Matkrisen som blev en vinstfest - Dagens Nyheter
 - Därför saknar din Iphone vissa funktioner – om du bor i EU - Dagens Nyheter
-- Politiker: Staten måste ta större ansvar i energifrågan - Ljusnan
+- Två år av Teslastrejk - SVT Nyheter
 - USA: Arbetar med detaljer i avtal med Kina - SvD
 - På TV ikväll: Var Tom Holland rätt val som ikonisk hjälte i 2022 års stora äventyrsfilm? - MovieZine
 - Instagram lägger till visningshistorik för Reels - m3.se
@@ -31,37 +31,37 @@ _Updated: 2025-10-26 07:40_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Avlyssningsskandalen fick polischef att avgå - Journalisten
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- BBC hjälper mig att dosera min förtvivlan - Aftonbladet
 - Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - New Secretary General appointed - Olof Palme International Center
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 
 ## Technology
 
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
-- Deepseek är det nya Linux - Computer Sweden
 - Spår superintelligens om tio år – vill leda racet - Omni
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - ZenaTech's ZenaDrone Subsidiary to Conduct Meetings with Members of Congress Highlighting its Drone Innovation Followed by Showcasing Drone Solutions at the AUVSI Defense Forum - Placera.se
@@ -112,10 +112,10 @@ _Updated: 2025-10-26 07:40_
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 
 ## Science
 
@@ -154,11 +154,11 @@ _Updated: 2025-10-26 07:40_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Lediga jobb - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
 - 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
