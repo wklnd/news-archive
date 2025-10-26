@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-26 01:48_
+_Updated: 2025-10-26 04:22_
 
-- Trump raises tariffs on Canadian goods in response to Reagan advert - BBC
-- Trump heads to Asia with trade — and tensions with Xi — on the agenda - NBC News
+- Trump Announces Tariff Increase on Canada Over Reagan Ad Spat - The New York Times
+- Trump travels to Asia to meet with China's Xi Jinping as the U.S. government shutdown in the U.S. drags on - CBS News
+- The White House movie theater demolition ends a storied era in presidential history - NPR
 - Storm Melissa reaches hurricane strength, threatening catastrophic flooding in northern Caribbean - AP News
-- Donor Who Gave $130 Million to Pay Troops Is Reclusive Heir to Mellon Fortune - The New York Times
-- ‘I am not done’: Kamala Harris says she may run for president again - The Guardian
-- Federal immigration agents deploy tear gas on Northwest Side streets as Chicagoans bellow, ‘Get out of our city!’ - Chicago Tribune
-- ‘After 9/11, my aunt did not feel safe in her hijab’: Zohran Mamdani speaks to New York Muslims; JD Vance - Times of India
+- This mysterious billionaire and top Trump backer is behind a $130 million donation to pay troops during the government shutdown, report says - Fortune
+- Kamala Harris says she may run for president again in 2028 - The Washington Post
 - Honduran man killed on Virginia highway as he tried to escape ICE agents - CBS News
 - Hispanics’ support of Trump plunges since he started second term - The Guardian
-- Meet the alleged mobsters charged in the rigged poker game scheme - NBC News
+- 2 killed, 7 in critical condition in North Carolina mass shooting - ABC News - Breaking News, Latest News and Videos
+- US could hit Russia with more sanctions over Ukraine war, but also wants Europe to increase pressure - Reuters
 - First, came the Louvre heist. Then came the memes - NPR
-- Israel launches air strike in Gaza allegedly targeting Islamic Jihad militant - France 24
-- Catherine Connolly: How the anti-establishment candidate won the Irish presidency - BBC
-- Trump Pitches Meeting With Kim Jong Un During Asia Tour: ‘Put Out the Word’ - WSJ - The Wall Street Journal
+- Left-leaning independent Catherine Connolly wins Irish presidential election - PBS
+- Trump Administration Live Updates: President Arrives in Malaysia for First Leg of Asia Tour - The New York Times
+- Trump says he will not meet with Putin until he thinks there is a deal on Ukraine - Reuters
+- 4.9 million pounds of frozen, boneless chicken have been recalled - AP News
 - Exxon Sues California Over New Climate Disclosure Laws - The New York Times
-- 4.9 million pounds of frozen, boneless chicken have been recalled - The Seattle Times
-- CD rates October 24, 2025 - Fortune
 - New CPI data resets December Fed interest rate cut - TheStreet
-- Halo: Campaign Evolved doesn't feature PvP multiplayer — here's why the developers chose to focus on co-op - Windows Central
-- OpenAI's Atlas Wants to Be the Web’s Tour Guide. I’m Not Convinced It Needs One - WIRED
+- Wall Street Is Worried About an AI Bubble—Here's the Sector Where Stock Prices Really Stand Out - Investopedia
+- Apple makes the M5 MacBook Pro's battery ever so slightly easier to replace - Engadget
+- Who are AI browsers for? - TechCrunch
