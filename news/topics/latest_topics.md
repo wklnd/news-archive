@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-26 23:37_
+_Updated: 2025-10-27 00:40_
 
 ## Top Stories
 
-- Skjuten man hittad i skogen – skulle mata djur - GP
-- ID-krav på porrsajter – svenskar har lösningen - SvD
-- M-toppen: L har spelat ut sin roll i inrikespolitiken - Omni
-- Jordskred i Oslo – flera hundra studenter evakuerade - Dagens Nyheter
-- Henrik Brandão Jönsson: Är Venezuela USA:s nästa mål efter Iran? - Dagens Nyheter
-- Direkt Kriget i Ukraina - Flera döda och sju barn skadade i ryska attacker - Dagens Nyheter
-- Simona Mohamsson: Nej till SD i regering - UNT
-- EU kan lindra klimatkrav på skogen efter svenskfinska brevet - Dagens Nyheter
-- 26 oktober 11.55, Trafikkontroll, Västernorrlands län - polisen.se
-- Efter gängmord i Gävle – polis begär förstärkning - GP
-- Netanyahu: Israel bestämmer om Gazasäkerhet - GP
-- DN Direkt - Orkanen Melissa närmar sig Jamaica – kan bli superorkan - Dagens Nyheter
+- ​Skådespelaren Björn Andrésen är död - Dagens Nyheter
+- Man död – hittades skjuten i skogen - SVT Nyheter
+- Mohamsson om SD i regeringen: Beredd gå till nyval - Västerbottens-Kuriren
+- Tog hem EU:s porrskydd – ”Chock för jättarna” - SvD
 - Ryssland: Har testat atomdrivna roboten Burevestnik - Dagens Nyheter
-- Norges fredsråd bojkottar fredspristagaren Machado - Omni
-- Här fick ägarna störst utdelning – så går din lokala Maxi-butik - NWT
+- Direkt Kriget i Ukraina - Flera döda och sju barn skadade i ryska attacker - Dagens Nyheter
+- 26 oktober 11.55, Trafikkontroll, Västernorrlands län - polisen.se
+- Skjutning i Gävle – ung man död - GP
+- Experten: Det krävs för att M ska vinna valet - Västerbottens-Kuriren
+- I NATT: Bilist körde på elsparkcyklist och smet – så var helgnatten för polisen - NWT
+- Stenras i Oslo – flerfamiljshus evakuerades - SVT Nyheter
+- Netanyahu: Israel bestämmer om Gazasäkerhet - GP
+- Henrik Brandão Jönsson: Är Venezuela USA:s nästa mål efter Iran? - Dagens Nyheter
+- DN Direkt - Orkanen Melissa närmar sig Jamaica – kan bli superorkan - Dagens Nyheter
 - Bodens skuldberg ökar med Stegra: ”Ketchupeffekt” - DI
+- Här fick ägarna störst utdelning – så går din lokala Maxi-butik - NWT
 - Bekräftat: Hackerattack mot Svenska kraftnät - Dagens Nyheter
 - Teslastrejken går in på tredje året – då kan den brytas - ETC.se
-- Nytt Bluey-spel för minstingar kommer till både mobil och konsol - Teknikveckan
 - Jag önskar att Nintendo hade achievements - FZ.se
+- Dåliga knän kan bli fördel i nytt rollspel - Västerbottens-Kuriren
 
 ## World News
 
-- A Global Stage, Infinite Echoes: 2025 Chery International User Summit Co-Creates a Sustainable Future - Placera.se
+- Svenskens mardröm – missar NHL-matcherna i Stockholm - hockeysverige.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Avlyssningsskandalen fick polischef att avgå - Journalisten
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
-- World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- New Secretary General appointed - Olof Palme International Center
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
 
 ## Technology
 
@@ -58,18 +58,18 @@ _Updated: 2025-10-26 23:37_
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Deepseek är det nya Linux - Computer Sweden
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Spår superintelligens om tio år – vill leda racet - Omni
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
 
@@ -99,23 +99,23 @@ _Updated: 2025-10-26 23:37_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
-- Tema: AI inom medicin och hälsa - Karolinska Institutet
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - NyTeknik
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -143,6 +143,7 @@ _Updated: 2025-10-26 23:37_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
@@ -151,14 +152,13 @@ _Updated: 2025-10-26 23:37_
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Tio jordbruksaktier för depån - Placera.se
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Lediga jobb - ATL
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
