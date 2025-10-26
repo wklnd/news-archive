@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-26 09:37_
+_Updated: 2025-10-26 10:43_
 
 ## Top Stories
 
 - Tonåring död efter skottlossning i Gävle - SvD
+- Ryssland slår hårdare mot elnätet: ”Är illa” - Hufvudstadsbladet
 - Grannar i Änggården tar strid – mot soptunnor: ”Skulle förstöra miljön” - GP
-- Fyra dödade i ryska attacker mot Ukraina - Västerbottens-Kuriren
-- Fyra gripna för däckstölder – togs på bar gärning i Malmö - Expressen
+- DN Direkt - Åkesson: Släpper fram S om inte SD får sitt i regeringen - Dagens Nyheter
+- PKK drar sig tillbaka från Turkiet - GP
 - Zelenskyj: Gripen del av säkerhetsgarantier - GP
-- 26 oktober 07.00, Sammanfattning kväll och natt, Västra Götalands län - polisen.se
 - Ledare: Nazistklotter och våld – nu syns hatet på Stockholms gator - Dagens Nyheter
-- DN Direkt - Man död efter brand i Vällingby - Dagens Nyheter
-- 26 oktober 08.07, Sammanfattning natt, Södermanlands län - polisen.se
-- I NATT: Knivman och hotfull ex-pojkvän – flera misstänkta brott i Värmland - NWT
+- Explosion i trapphus i Mellerud - Västerbottens-Kuriren
+- L-förslag: Avskaffa mentorer i skolan - Västerbottens-Kuriren
+- Man i 20-årsåldern död efter brand i Råcksta - SVT Nyheter
+- Thailand och Kambodja utökar vapenvilan - GP
 - Samuel Levander: Den argentinska paradoxen förklarar Mileis motorsåg - Dagens Nyheter
 - Skickar jättelikt hangarfartyg: ”Tecken på att USA ökar trycket” - Dagens Nyheter
-- Larm om explosion i trappuppgång i Mellerud - Expressen
-- Barn skadades i Gaza – trodde bomb var leksak - SvD
+- Norge slår larm: Putin rustar upp vid Kolahalvön - Omni
 - Glädjebesked om elpriserna i vinter: ”Inte extremt” - Expressen
-- Jonas Fröberg: Matkrisen som blev en vinstfest - Dagens Nyheter
 - Så lurar aktiebedragare svenska småsparare - SvD
 - Därför saknar din Iphone vissa funktioner – om du bor i EU - Dagens Nyheter
-- Instagram lägger till visningshistorik för Reels - m3.se
-- Microsoft testar annonsfinansierad version av Xbox Cloud Gaming - m3.se
+- Ökad försäljning för Ica Maxi – så bra går din lokala stormarknad - Dagens Nyheter
+- Säljes: Merida SCULTURA ENDURANCE 8000 – 2024 | Storlek M | Pri35 000 kr - Happyride
+- Assassin’s Creed Shadows har (äntligen) fått ett releasedatum till Switch 2 - FZ.se
 
 ## World News
 
@@ -34,19 +34,19 @@ _Updated: 2025-10-26 09:37_
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
-- World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - New Secretary General appointed - Olof Palme International Center
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- JOHNNIE WALKER SCOTCH WHISKY ANNOUNCES GLOBAL PARTNERSHIP WITH GRAMMY AWARD-WINNING MUSIC ARTIST AND INTERNATIONAL SUPERSTAR SABRINA CARPENTER - Placera.se
+- Duplantis breaks world record, Marschall wins world championship bronze - Australian Broadcasting Corporation
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
 
 ## Technology
 
@@ -54,8 +54,8 @@ _Updated: 2025-10-26 09:37_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
@@ -102,20 +102,20 @@ _Updated: 2025-10-26 09:37_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Johan von Schreeb - Karolinska Institutet
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Mabel AI won the HealthTech Award 2023 - NewsMachine AB
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - NyTeknik
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
@@ -152,13 +152,13 @@ _Updated: 2025-10-26 09:37_
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Tio jordbruksaktier för depån - Placera.se
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
 - 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
