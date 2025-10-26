@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-26 01:38_
+_Updated: 2025-10-26 04:20_
 
 ## Top Stories
 
-- Flera skadade efter skjutning i Gävle - SVT Nyheter
-- Man skottskadad i Stockholm - SvD
-- DN Direkt - Man död efter brand i Vällingby - Dagens Nyheter
+- Ung man död efter skjutning i Gävle - SVT Nyheter
+- Dementa kan drabbas när klockan ställs om - GP
 - Zelenskyj: Gripen del av säkerhetsgarantier - GP
+- Man skjuten i Rinkeby - Aftonbladet
 - Skickar jättelikt hangarfartyg: ”Tecken på att USA ökar trycket” - Dagens Nyheter
-- Israelisk attack mot Gazamål - Västerbottens-Kuriren
+- Ung man död efter brand i bostadshus i Vällingby - Omni
 - Moderaterna: Invandrare ska efterleva svenska värderingar - SVT Nyheter
 - 25 oktober 12.17, Trafikkontroll, Västernorrlands län - polisen.se
-- Dags att ställa om – och få sova en timme längre - NWT
 - Nooshi Dadgostar höll tal på Vänsterdagarna - Vänsterpartiet
-- Kamala Harris öppnar för presidentkandidatur 2028 - SVT Nyheter
+- Kommuntoppen rasar mot V:s bostadsförslag - Expressen
 - Fyra dödade i ryska attacker mot Ukraina - Hufvudstadsbladet
-- Trump höjer tullar mot Kanada efter filmbråk - GP
-- DN Direkt - Svenska kraftnät utreder angrepp från hackergrupp - Dagens Nyheter
-- Politiker: Staten måste ta större ansvar i energifrågan - Ljusnan
+- ”Lassie”-stjärnan död – blev 100 år - Aftonbladet
+- Explosion på elbuss i Farsta - Expressen
+- En skjuten i Stockholm - Expressen
+- Ringhals 3 hänger löst – kan stoppas i förtid - Omni
 - Motvilligt ense om enormt vägprojekt i Stockholm - GP
-- Patientsäkerheten riskerades i somras - Örebronyheter
-- USA: Konstruktiva handelssamtal med Kina - SVT Nyheter
+- Politiker: Staten måste ta större ansvar i energifrågan - Ljusnan
+- Driftstörningar påverkar Swish - SVT Nyheter
 - Spelsuccén ”Halo” gör debut på Playstation - Omni
 - Se bilderna: Konservatorn trodde inte sina ögon när bronsskatten plötsligt glänste som silver - Världens historia
 
@@ -51,11 +51,12 @@ _Updated: 2025-10-26 01:38_
 ## Technology
 
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
@@ -63,13 +64,12 @@ _Updated: 2025-10-26 01:38_
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Deepseek är det nya Linux - Computer Sweden
 - Spår superintelligens om tio år – vill leda racet - Omni
-- BDC 2025 | Reinaldo Jeronymo, General Manager of YOFC South LATAM: AI-Powered Optical Fibre Network Driving Smarter Growth for Latin America - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
+- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
-- BigBear.ai And Palantir Announce Strategic Partnership, Combining AI-powered Products With Next Generation Operating Platform - Placera.se
 
 ## Business
 
