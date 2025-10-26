@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-26 13:38_
+_Updated: 2025-10-26 15:00_
 
 ## Top Stories
 
+- Skjuten man hittad i skogen – skulle mata djur - Aftonbladet
+- Grov våldtäkt utreds i Avesta - SVT Nyheter
 - En man anhållen efter skjutningen i Gävle - SvD
-- DN Direkt - Åkesson: Fäller Kristersson om inte SD får sitta i regeringen - Dagens Nyheter
-- Misstänkt mordförsök i Avesta – oklart om offer och gärningsmän - SVT Nyheter
-- Zelenskyj: Gripen del av säkerhetsgarantier - GP
-- Mn hittad skjuten i skog – jakt pågick - Omni
-- Ryssland slår hårdare mot elnätet: ”Är illa” - Hufvudstadsbladet
+- Skolor i Stockholm skärper säkerheten - Dagens Nyheter
+- "Tror det kan vara mer intriger bland kvinnor" - SvD
+- Västtrafikbuss körde vilse – fastnade i villaområde i Partille - GP
+- Experten: Det krävs för att M ska vinna valet - GP
 - Explosion i trapphus i Mellerud - Västerbottens-Kuriren
-- L-förslag: Avskaffa mentorer i skolan - GP
 - Nazistiska Aktivklubb vill vara ”skinheads för vår tid" - SvD
-- I NATT: Bilist körde på elsparkcyklist och smet – så var helgnatten för polisen - NWT
+- L-förslag: Avskaffa mentorer i skolan - Västerbottens-Kuriren
+- Donald Trump i Asien – avtal underskrivet av Kambodja och Thailand - SVT Nyheter
+- Fyra dödade i ryska attacker mot Ukraina - Hufvudstadsbladet
+- DN Direkt - Åkesson: Släpper fram S om inte SD får sitt i regeringen - Dagens Nyheter
 - Socialisten i New York visar Demokraterna hur man ska bekämpa Trump - Dagens Nyheter
-- Samuel Levander: Den argentinska paradoxen förklarar Mileis motorsåg - Dagens Nyheter
-- Norge slår larm: Putin rustar upp vid Kolahalvön - Omni
-- Polisen utreder grov våldtäkt i Avesta - Expressen
-- Svenska kronan fortsatt valutavinnare - Di
+- Svenska kronan fortsatt valutavinnare - DI
 - Därför saknar din Iphone vissa funktioner – om du bor i EU - Dagens Nyheter
-- Carlos Taveres varning: Då kan Tesla vara borta - Dagens PS
-- Så lurar aktiebedragare svenska småsparare - SvD
+- Taveres varning: Då förvinner Tesla från marknaden - Dagens PS
+- Undersökning: Fler svenska företag inför striktare krav på närvaro på kontoret - Börskollen
 - För hela familjen: Södra Ölands Musikteater sätter upp ännu en klassiker - Ölandsbladet
 - Säljes: Merida SCULTURA ENDURANCE 8000 – 2024 | Storlek M | Pri35 000 kr - Happyride
 
@@ -31,6 +31,7 @@ _Updated: 2025-10-26 13:38_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
@@ -41,7 +42,6 @@ _Updated: 2025-10-26 13:38_
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - New Secretary General appointed - Olof Palme International Center
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Duplantis breaks world record, Marschall wins world championship bronze - Australian Broadcasting Corporation
@@ -63,13 +63,13 @@ _Updated: 2025-10-26 13:38_
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
 - Spår superintelligens om tio år – vill leda racet - Omni
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - ZenaTech's ZenaDrone Subsidiary to Conduct Meetings with Members of Congress Highlighting its Drone Innovation Followed by Showcasing Drone Solutions at the AUVSI Defense Forum - Placera.se
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
-- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
 
@@ -103,19 +103,19 @@ _Updated: 2025-10-26 13:38_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Johan von Schreeb - Karolinska Institutet
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
-- Mabel AI won the HealthTech Award 2023 - NewsMachine AB
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Di
 
 ## Science
 
@@ -153,12 +153,12 @@ _Updated: 2025-10-26 13:38_
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Tio jordbruksaktier för depån - Placera.se
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Lediga jobb - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
 - 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
