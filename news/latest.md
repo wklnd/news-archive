@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-26 13:48_
+_Updated: 2025-10-26 15:04_
 
-- Two arrested over theft of jewels at Louvre, French media report - BBC
-- Trump arrives in Asia for a week of high-stakes diplomacy - CNN
-- Trump Announces Tariff Increase on Canada Over Reagan Ad Spat - The New York Times
-- Meet all 37 White House ballroom donors funding the $300 million build - Fortune
-- Category 4 Hurricane Melissa threatens catastrophic flooding in Jamaica and Haiti - NPR
+- Suspects in Louvre jewel heist arrested near Paris, prosecutor says - Reuters
+- Trump Administration Live Updates: President Oversees Signing of Cambodia-Thailand Peace Pact - The New York Times
+- Hurricane Melissa to intensify into Category 5 storm as it barrels towards Jamaica - BBC
+- Hours after Trump said he'd slap more tariffs on Canada, Ontario's Reagan ad airs again during the World Series - businessinsider.com
 - Russia tested new nuclear-powered Burevestnik cruise missile - Reuters
-- Vance Criticizes Mamdani’s Comments About Islamophobia After 9/11 - The New York Times
+- Meet all 37 White House ballroom donors funding the $300 million build - Fortune
+- 1 dead, 6 others injured after shooting during homecoming celebration at Lincoln University - 6abc Philadelphia
+- Inside the final stretch of New York’s wild mayoral race - Politico
 - DNA left at crime scene links former soldier to Virginia artist's unsolved murder - CBS News
-- US Department of Agriculture says no food aid benefits will be issued next month - Reuters
-- Argentina votes in midterm elections set to test President Milei’s mandate and US support - AP News
-- Trump headlines ASEAN summit, oversees trade deals and Thailand-Cambodia ceasefire - Reuters
-- ‘Positive framework’ agreed for Trump-Xi summit, says Scott Bessent - Financial Times
-- Far-left candidate who called Israel ‘terrorist state’ elected president of Ireland - The Times of Israel
-- Trump heads to Asia with trade — and tensions with Xi — on the agenda - NBC News
+- In Trump-Friendly Iowa, the President’s Policies Have Hit Hard - The New York Times
+- Trump attends ceasefire ceremony with Thailand and Cambodia during Malaysia visit - NPR
+- Trump Opens Trip With Trade Deals in Southeast Asia - The New York Times
+- Kurdish PKK militants announce withdrawal from Turkey as part of disarmament - Reuters
+- East Timor joins ASEAN in bloc’s first expansion since the 1990s - AP News
 - New CPI data resets December Fed interest rate cut - TheStreet
-- Social Security recipients get a 2.8% cost-of-living boost in 2026, average of $56 per month - AP News
-- Security News This Week: Amazon Explains How Its AWS Outage Took Down the Web - WIRED
-- Binance founder’s pardon shows power of Trump allies on K Street - Politico
-- I tried ChatGPT's Atlas browser to rival Google - here's what I found - BBC
-- OpenAI Moves to Generate AI Music in Potential Rivalry With Startup Suno - The Information
+- Social Security reveals COLA increases for 2026; See how much more money you’ll receive - Cleveland.com
+- What to Expect in Markets This Week: Fed Interest-Rate Decision; Earnings From Apple, Microsoft, Meta, Amazon, Alphabet - Investopedia
+- A Single Point of Failure Triggered the Amazon Outage Affecting Million - Slashdot
+- The glaring security risks with AI browser agents - TechCrunch
+- Long-time Microsoft-exclusive Halo is coming to PS5 for the very first time: "This is Halo for everyone" - Eurogamer
