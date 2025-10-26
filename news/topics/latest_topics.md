@@ -1,15 +1,15 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-26 05:29_
+_Updated: 2025-10-26 05:52_
 
 ## Top Stories
 
 - Ung man död efter skottlossning i Gävle - Dagens Nyheter
 - Zelenskyj: Gripen del av säkerhetsgarantier - GP
-- Man i 20-årsåldern död efter brand i Råcksta - SVT Nyheter
 - Man skottskadad i Stockholm - SvD
+- Man i 20-årsåldern död efter brand i Råcksta - SVT Nyheter
+- Norska varningen: Putin rustar för krig med Nato - Aftonbladet
 - 57-åring ny ägare till äldre hus i Diö – prislappen: 675 000 kronor - Smålänningen
-- Östtimor blir medlem i organisationen Asean - Västerbottens-Kuriren
 - Dags att ställa om – och få sova en timme längre - NWT
 - 25 oktober 12.17, Trafikkontroll, Västernorrlands län - polisen.se
 - Moderaterna: Invandrare ska efterleva svenska värderingar - SVT Nyheter
@@ -40,10 +40,10 @@ _Updated: 2025-10-26 05:29_
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- BBC hjälper mig att dosera min förtvivlan - Aftonbladet
 - Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- New Secretary General appointed - Olof Palme International Center
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
