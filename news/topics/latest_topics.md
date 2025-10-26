@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-26 19:38_
+_Updated: 2025-10-26 20:46_
 
 ## Top Stories
 
-- Tonåring död efter skjutning i Gävle – en anhållen - Dagens Nyheter
+- 251026 AIK tappade segern mot Häcken - AIK Fotboll
 - Man hittad skjuten i skogen – jakt pågår - SVT Nyheter
-- Tågstopp i Lerum – västtågen står stilla - GP
+- En man anhållen efter skjutningen i Gävle - SvD
 - DN Direkt - Stenras i Oslo – bostadshus evakueras - Dagens Nyheter
-- Nooshi Dadgostar (V): Vi ska bli Sveriges sjukvårdsparti - Dagens Nyheter
-- Flera ton kokain beslagtaget nära Kanarieöarna - Västerbottens-Kuriren
+- Henrik Brandão Jönsson: Är Venezuela USA:s nästa mål efter Iran? - Dagens Nyheter
+- Mormor var krigsbarn från Finland – nu strider han i beryktade Azovbrigaden - Hufvudstadsbladet
+- EU kan lindra klimatkrav på skogen efter svenskfinska brevet - Dagens Nyheter
+- Experten: Det krävs för att M ska vinna valet - GP
 - 26 oktober 11.55, Trafikkontroll, Västernorrlands län - polisen.se
-- Moderaterna: Invandrare ska efterleva svenska värderingar - SVT Nyheter
 - I NATT: Bilist körde på elsparkcyklist och smet – så var helgnatten för polisen - NWT
-- Dags att ställa om – och få sova en timme längre - Dagens Nyheter
 - Nathan Shachar: Israel vädjar till USA att inte släppa in Turkiet i Gaza - Dagens Nyheter
+- Ryssland slår hårdare mot elnätet: ”Är illa” - Hufvudstadsbladet
 - DN Direkt - Åkesson: Släpper fram S om inte SD får sitt i regeringen - Dagens Nyheter
-- Fyra dödade i ryska attacker mot Ukraina - Hufvudstadsbladet
-- Påven: Låt oss bygga en mer ödmjuk och välkomnande kyrka - Vatican News
+- Norges fredsråd bojkottar fredspristagaren Machado - Omni
 - Bodens skuldberg ökar med Stegra: ”Ketchupeffekt” - DI
+- Svenska kronan fortsatt valutavinnare - GP
 - Bekräftat: Hackerattack mot Svenska kraftnät - Tidningen Näringslivet
 - Teslastrejken går in på tredje året – då kan den brytas - ETC.se
-- Repello: ljudet som får råttor att fly – svensk uppfinning utmanar giftindustrin - Cision News
 - Nytt Bluey-spel för minstingar kommer till både mobil och konsol - Teknikveckan
 - Jag önskar att Nintendo hade achievements - FZ.se
 
@@ -37,51 +37,51 @@ _Updated: 2025-10-26 19:38_
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- New Secretary General appointed - Olof Palme International Center
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Ex-nyhetsankare på BBC hade barnpornografi - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Duplantis breaks world record, Marschall wins world championship bronze - Australian Broadcasting Corporation
 - Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 
 ## Technology
 
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Deepseek är det nya Linux - Computer Sweden
 - Spår superintelligens om tio år – vill leda racet - Omni
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- ZenaTech's ZenaDrone Subsidiary to Conduct Meetings with Members of Congress Highlighting its Drone Innovation Followed by Showcasing Drone Solutions at the AUVSI Defense Forum - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 
 ## Business
 
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Student and entry-level programs - EY
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -109,13 +109,13 @@ _Updated: 2025-10-26 19:38_
 - Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - Tema: AI inom medicin och hälsa - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -149,16 +149,16 @@ _Updated: 2025-10-26 19:38_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Maskinförare | Jobb | ATL - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
