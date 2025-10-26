@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-26 17:38_
+_Updated: 2025-10-26 18:44_
 
 ## Top Stories
 
+- DN Direkt - Skjuten man hittad i skogen – skulle mata djur - Dagens Nyheter
 - En man anhållen efter skjutningen i Gävle - SvD
-- Skjuten man hittad i skogen – skulle mata djur - Aftonbladet
 - Tågstopp mellan Göteborg och Stockholm - SVT Nyheter
+- Nooshi Dadgostar (V): Vi ska bli Sveriges sjukvårdsparti - Dagens Nyheter
 - Serneke skulle stoppas från Cirkustomten – får den igen - GP
-- Låste in sig på toaletten - Expressen
-- Skolor i Stockholm skärper säkerheten - Dagens Nyheter
-- Explosion i trapphus i Mellerud - Västerbottens-Kuriren
-- Experten: Det krävs för att M ska vinna valet - GP
-- Åkesson: Fäller Kristersson om inte SD får sitta i regeringen - Dagens Nyheter
-- Stort polispådrag i Linköping – grova brott i lokal - Corren
 - Donald Trump i Asien – avtal underskrivet av Kambodja och Thailand - SVT Nyheter
+- Moderaterna: Invandrare ska efterleva svenska värderingar - SVT Nyheter
+- Åkesson: Fäller Kristersson om inte SD får sitta i regeringen - Dagens Nyheter
+- Explosion i trapphus i Mellerud - Västerbottens-Kuriren
+- Stort polispådrag i Linköping – grova brott i lokal - Corren
 - Fyra dödade i ryska attacker mot Ukraina - Hufvudstadsbladet
-- Norges fredsråd bojkottar Machado: Blir inget fackeltåg - SVT Nyheter
 - Påven: Låt oss bygga en mer ödmjuk och välkomnande kyrka - Vatican News
+- Källor: 250 ryssar i strategiskt viktiga staden - Västerbottens-Kuriren
+- Norges fredsråd bojkottar Machado: Blir inget fackeltåg - SVT Nyheter
 - Efter Northvolts kollaps – nu hoppas familjen på en framtid i Boden - Expressen
 - Så kan hushållen undvika elprischocken - Örebronyheter
-- Svenska kronan fortsatt valutavinnare - DI
+- Teslastrejken går in på tredje året – då kan den brytas - ETC.se
 - Bekräftat: Hackerattack mot Svenska kraftnät - Tidningen Näringslivet
+- Nytt Bluey-spel för minstingar kommer till både mobil och konsol - Teknikveckan
 - Jag önskar att Nintendo hade achievements - FZ.se
-- För hela familjen: Södra Ölands Musikteater sätter upp ännu en klassiker - Ölandsbladet
 
 ## World News
 
@@ -45,7 +45,7 @@ _Updated: 2025-10-26 17:38_
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
 - World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
-- Daly om OS, Global Series och World Cup: "Bra för alla" - NHL.com
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 
 ## Technology
@@ -53,23 +53,23 @@ _Updated: 2025-10-26 17:38_
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Deepseek är det nya Linux - Computer Sweden
 - Spår superintelligens om tio år – vill leda racet - Omni
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
-- Intellistake Technologies Corp. Appoints Eric Fang, Former Goldman Sachs Investment Banker, to Advisory Board to Strengthen Institutional Digital Asset Operations - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
 
@@ -92,7 +92,7 @@ _Updated: 2025-10-26 17:38_
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 
 ## Health
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-26 17:38_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Tio jordbruksaktier för depån - Placera.se
+- Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Här är världens största jordbruk - ATL
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
-- 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Maskinförare | Jobb | ATL - Land Lantbruk
