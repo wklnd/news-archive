@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-26 06:42_
+_Updated: 2025-10-26 07:40_
 
 ## Top Stories
 
-- Ung man död efter skottlossning i Gävle - Dagens Nyheter
+- Man ihjälskjuten i Gävle – kopplas till gängmiljön - Aftonbladet
 - Zelenskyj: Gripen del av säkerhetsgarantier - GP
 - Skickar jättelikt hangarfartyg: ”Tecken på att USA ökar trycket” - Dagens Nyheter
-- Dementa kan drabbas när klockan ställs om - GP
-- Man skottskadad i Stockholm - SvD
+- Man i 20-årsåldern död efter brand i Råcksta - SVT Nyheter
 - DN Direkt - Sexförbrytare orsakade protester – råkade släppas - Dagens Nyheter
+- Thailand och Kambodja utökar vapenvilan - Aftonbladet
+- Dementa kan drabbas när klockan ställs om - GP
+- Man skjuten i Rinkeby i nordvästra Stockholm - Dagens Nyheter
 - 25 oktober 12.17, Trafikkontroll, Västernorrlands län - polisen.se
 - Moderaterna: Invandrare ska efterleva svenska värderingar - SVT Nyheter
-- Nooshi Dadgostar höll tal på Vänsterdagarna - Vänsterpartiet
-- Kommuntoppen rasar mot V:s bostadsförslag - Expressen
 - Fyra dödade i ryska attacker mot Ukraina - Hufvudstadsbladet
 - ”Lassie”-stjärnan död – blev 100 år - Aftonbladet
 - Explosion på elbuss i Farsta - Expressen
 - Norges varning: Putin rustar för krig mot Nato - Expressen
+- Jonas Fröberg: Matkrisen som blev en vinstfest - Dagens Nyheter
+- Därför saknar din Iphone vissa funktioner – om du bor i EU - Dagens Nyheter
 - Politiker: Staten måste ta större ansvar i energifrågan - Ljusnan
-- Driftstörningar påverkar Swish - SVT Nyheter
-- Teslastrejken två år – Olof: ”Kan fortsätta två år till” - Dagens Arbete
 - USA: Arbetar med detaljer i avtal med Kina - SvD
-- Spelsuccén ”Halo” gör debut på Playstation - Omni
-- Se bilderna: Konservatorn trodde inte sina ögon när bronsskatten plötsligt glänste som silver - Världens historia
+- På TV ikväll: Var Tom Holland rätt val som ikonisk hjälte i 2022 års stora äventyrsfilm? - MovieZine
+- Instagram lägger till visningshistorik för Reels - m3.se
 
 ## World News
 
@@ -52,24 +52,24 @@ _Updated: 2025-10-26 06:42_
 
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
-- Nästa generations Internet of Things - Shaping Europe’s digital future
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Deepseek är det nya Linux - Computer Sweden
 - Spår superintelligens om tio år – vill leda racet - Omni
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- ZenaTech's ZenaDrone Subsidiary to Conduct Meetings with Members of Congress Highlighting its Drone Innovation Followed by Showcasing Drone Solutions at the AUVSI Defense Forum - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
+- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 
 ## Business
 
@@ -107,7 +107,7 @@ _Updated: 2025-10-26 06:42_
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Mabel AI won the HealthTech Award 2023 - NewsMachine AB
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - NyTeknik
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Nyteknik
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
@@ -121,24 +121,24 @@ _Updated: 2025-10-26 06:42_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -153,8 +153,8 @@ _Updated: 2025-10-26 06:42_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Tio jordbruksaktier för depån - Placera.se
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Lediga jobb - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
