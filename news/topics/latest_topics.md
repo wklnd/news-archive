@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-26 15:00_
+_Updated: 2025-10-26 15:40_
 
 ## Top Stories
 
-- Skjuten man hittad i skogen – skulle mata djur - Aftonbladet
-- Grov våldtäkt utreds i Avesta - SVT Nyheter
+- Man skjuten utanför Klippan – hittades i skogen - SVT Nyheter
 - En man anhållen efter skjutningen i Gävle - SvD
 - Skolor i Stockholm skärper säkerheten - Dagens Nyheter
 - "Tror det kan vara mer intriger bland kvinnor" - SvD
-- Västtrafikbuss körde vilse – fastnade i villaområde i Partille - GP
+- Donald Trump i Asien – avtal underskrivet av Kambodja och Thailand - SVT Nyheter
+- Grov våldtäkt utreds i Avesta - SVT Nyheter
 - Experten: Det krävs för att M ska vinna valet - GP
 - Explosion i trapphus i Mellerud - Västerbottens-Kuriren
-- Nazistiska Aktivklubb vill vara ”skinheads för vår tid" - SvD
+- Aktivklubb vill vara ”skinheads för vår tid” - Nerikes Allehanda
 - L-förslag: Avskaffa mentorer i skolan - Västerbottens-Kuriren
-- Donald Trump i Asien – avtal underskrivet av Kambodja och Thailand - SVT Nyheter
 - Fyra dödade i ryska attacker mot Ukraina - Hufvudstadsbladet
 - DN Direkt - Åkesson: Släpper fram S om inte SD får sitt i regeringen - Dagens Nyheter
-- Socialisten i New York visar Demokraterna hur man ska bekämpa Trump - Dagens Nyheter
+- Källor: 250 ryssar i strategiskt viktiga staden - Västerbottens-Kuriren
+- Norge slår larm: Putin rustar upp vid Kolahalvön - Omni
 - Svenska kronan fortsatt valutavinnare - DI
+- Glädjebesked om elpriserna i vinter: ”Inte extremt” - Expressen
 - Därför saknar din Iphone vissa funktioner – om du bor i EU - Dagens Nyheter
 - Taveres varning: Då förvinner Tesla från marknaden - Dagens PS
-- Undersökning: Fler svenska företag inför striktare krav på närvaro på kontoret - Börskollen
 - För hela familjen: Södra Ölands Musikteater sätter upp ännu en klassiker - Ölandsbladet
-- Säljes: Merida SCULTURA ENDURANCE 8000 – 2024 | Storlek M | Pri35 000 kr - Happyride
+- Assassin’s Creed Shadows har (äntligen) fått ett releasedatum till Switch 2 - FZ.se
 
 ## World News
 
@@ -82,8 +82,8 @@ _Updated: 2025-10-26 15:00_
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Student and entry-level programs - EY
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -103,19 +103,19 @@ _Updated: 2025-10-26 15:00_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Johan von Schreeb - Karolinska Institutet
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
-- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Mabel AI won the HealthTech Award 2023 - NewsMachine AB
 - Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 
 ## Science
 
@@ -153,12 +153,12 @@ _Updated: 2025-10-26 15:00_
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk är regenerativt - greenpeace.org
+- Tio jordbruksaktier för depån - Placera.se
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Lediga jobb - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
