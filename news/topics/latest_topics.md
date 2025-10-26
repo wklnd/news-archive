@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-26 21:38_
+_Updated: 2025-10-26 22:40_
 
 ## Top Stories
 
-- Skjuten man hittad i skogen – skulle mata djur - GP
+- Man död – hittades skjuten i skog - Dagens Nyheter
 - Henrik Brandão Jönsson: Är Venezuela USA:s nästa mål efter Iran? - Dagens Nyheter
-- Mormor var krigsbarn från Finland – nu strider han i beryktade Azovbrigaden - Hufvudstadsbladet
 - M-toppen: L har spelat ut sin roll i inrikespolitiken - Omni
-- Så vill Kinas drönarjätte runda säljstopp i USA - SvD
-- DN Direkt - Stenras i Oslo – bostadshus evakueras - Dagens Nyheter
+- Mormor var krigsbarn från Finland – nu strider han i beryktade Azovbrigaden - Hufvudstadsbladet
+- DN Direkt - Orkanen Melissa närmar sig Jamaica – kan bli superorkan - Dagens Nyheter
+- Tågstopp i Lerum – västtågen står stilla - GP
 - EU kan lindra klimatkrav på skogen efter svenskfinska brevet - Dagens Nyheter
-- Efter gängmord i Gävle – polis begär förstärkning - UNT
 - 26 oktober 11.55, Trafikkontroll, Västernorrlands län - polisen.se
+- Efter gängmord i Gävle – polis begär förstärkning - UNT
 - Experten: Det krävs för att M ska vinna valet - GP
 - Direkt Kriget i Ukraina - Flera döda och sju barn skadade i ryska attacker - Dagens Nyheter
 - Nathan Shachar: Israel vädjar till USA att inte släppa in Turkiet i Gaza - Dagens Nyheter
+- Stenras i Oslo – flerfamiljshus evakuerades - SVT Nyheter
 - DN Direkt - Åkesson: Släpper fram S om inte SD får sitt i regeringen - Dagens Nyheter
-- Ryssland har testat kärnkraftsdriven robot - Västerbottens-Kuriren
+- Här fick ägarna störst utdelning – så går din lokala Maxi-butik - NWT
 - Bodens skuldberg ökar med Stegra: ”Ketchupeffekt” - DI
 - Svenska kronan fortsatt valutavinnare - GP
 - Bekräftat: Hackerattack mot Svenska kraftnät - Dagens Nyheter
-- Teslastrejken går in på tredje året – då kan den brytas - ETC.se
 - Nytt Bluey-spel för minstingar kommer till både mobil och konsol - Teknikveckan
 - Jag önskar att Nintendo hade achievements - FZ.se
 
@@ -51,12 +51,12 @@ _Updated: 2025-10-26 21:38_
 ## Technology
 
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
@@ -152,13 +152,13 @@ _Updated: 2025-10-26 21:38_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- Tio jordbruksaktier för depån - Placera.se
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Tio jordbruksaktier för depån - Placera.se
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Lediga jobb - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
