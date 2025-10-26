@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-26 22:40_
+_Updated: 2025-10-26 23:37_
 
 ## Top Stories
 
-- Man död – hittades skjuten i skog - Dagens Nyheter
-- Henrik Brandão Jönsson: Är Venezuela USA:s nästa mål efter Iran? - Dagens Nyheter
+- Skjuten man hittad i skogen – skulle mata djur - GP
+- ID-krav på porrsajter – svenskar har lösningen - SvD
 - M-toppen: L har spelat ut sin roll i inrikespolitiken - Omni
-- Mormor var krigsbarn från Finland – nu strider han i beryktade Azovbrigaden - Hufvudstadsbladet
-- DN Direkt - Orkanen Melissa närmar sig Jamaica – kan bli superorkan - Dagens Nyheter
-- Tågstopp i Lerum – västtågen står stilla - GP
+- Jordskred i Oslo – flera hundra studenter evakuerade - Dagens Nyheter
+- Henrik Brandão Jönsson: Är Venezuela USA:s nästa mål efter Iran? - Dagens Nyheter
+- Direkt Kriget i Ukraina - Flera döda och sju barn skadade i ryska attacker - Dagens Nyheter
+- Simona Mohamsson: Nej till SD i regering - UNT
 - EU kan lindra klimatkrav på skogen efter svenskfinska brevet - Dagens Nyheter
 - 26 oktober 11.55, Trafikkontroll, Västernorrlands län - polisen.se
-- Efter gängmord i Gävle – polis begär förstärkning - UNT
-- Experten: Det krävs för att M ska vinna valet - GP
-- Direkt Kriget i Ukraina - Flera döda och sju barn skadade i ryska attacker - Dagens Nyheter
-- Nathan Shachar: Israel vädjar till USA att inte släppa in Turkiet i Gaza - Dagens Nyheter
-- Stenras i Oslo – flerfamiljshus evakuerades - SVT Nyheter
-- DN Direkt - Åkesson: Släpper fram S om inte SD får sitt i regeringen - Dagens Nyheter
+- Efter gängmord i Gävle – polis begär förstärkning - GP
+- Netanyahu: Israel bestämmer om Gazasäkerhet - GP
+- DN Direkt - Orkanen Melissa närmar sig Jamaica – kan bli superorkan - Dagens Nyheter
+- Ryssland: Har testat atomdrivna roboten Burevestnik - Dagens Nyheter
+- Norges fredsråd bojkottar fredspristagaren Machado - Omni
 - Här fick ägarna störst utdelning – så går din lokala Maxi-butik - NWT
 - Bodens skuldberg ökar med Stegra: ”Ketchupeffekt” - DI
-- Svenska kronan fortsatt valutavinnare - GP
 - Bekräftat: Hackerattack mot Svenska kraftnät - Dagens Nyheter
+- Teslastrejken går in på tredje året – då kan den brytas - ETC.se
 - Nytt Bluey-spel för minstingar kommer till både mobil och konsol - Teknikveckan
 - Jag önskar att Nintendo hade achievements - FZ.se
 
 ## World News
 
-- Finländarna minst arga i världen, visar global jämförelse - Yle
 - A Global Stage, Infinite Echoes: 2025 Chery International User Summit Co-Creates a Sustainable Future - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
@@ -47,25 +46,26 @@ _Updated: 2025-10-26 22:40_
 - World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
-- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Deepseek är det nya Linux - Computer Sweden
 - Spår superintelligens om tio år – vill leda racet - Omni
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
@@ -76,22 +76,22 @@ _Updated: 2025-10-26 22:40_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Student and entry-level programs - EY
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Svensk Exportkredit finansierar solkraft i Angola - Cision News
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 
 ## Health
@@ -99,23 +99,23 @@ _Updated: 2025-10-26 22:40_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Hälso- och sjukvården tar plats i Almedalen - Dagens Medicin
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
+- Tema: AI inom medicin och hälsa - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 
 ## Science
 
