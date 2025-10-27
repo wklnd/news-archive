@@ -1,17 +1,17 @@
 # Top News Headlines
 
-_Updated: 2025-10-27 05:42_
+_Updated: 2025-10-27 06:06_
 
 - US and China agree framework of trade deal ahead of Trump-Xi meeting - BBC
-- Argentina’s Javier Milei secures big victory in midterm elections - Financial Times
-- Melissa strengthens into Category 4 hurricane, threatening catastrophic flooding in Jamaica, Haiti - Politico
-- Trump Leans Into Showmanship on Day 1 of His Asia Trip - The New York Times
+- Javier Milei’s Party Triumphs in Argentina Midterm Election - The New York Times
+- Hurricane Melissa strengthens to category 4 as evacuations ordered in Jamaica’s capital - The Guardian
+- The Effort to Court Trump Abroad: Deals, Flattery and Jet Fighters - The Wall Street Journal
 - Navy helicopter, fighter jet both go down in South China Sea: Navy - ABC News - Breaking News, Latest News and Videos
-- US airports report over 20 air traffic controller shortage incidents in one day - The Guardian
+- Flights to Los Angeles International Airport halted due to air traffic controller shortage - Politico
 - One killed and six injured after shooting at Pennsylvania’s Lincoln University - The Guardian
-- Federal food aid will not go out starting Nov. 1 amid government shutdown, Trump administration says - CBS News
+- No federal food aid will go out Nov. 1, Trump administration posts on USDA website - PBS
 - Column | Before Trump gutted the White House, Erdogan built his ‘White Palace’ - The Washington Post
-- Man fleeing immigration agents is fatally struck by a vehicle on a Virginia highway - AP News
+- US detains British commentator Sami Hamdi in middle of national speaking tour - CNN
 - Louvre heist leaves a cultural wound — and may turn French crown jewels into legend - AP News
 - Ahead of Trump-Xi meeting, China says bombers flew near Taiwan - Reuters
 - El-Fasher: Rebel group claims capture of key city in Sudan - BBC
