@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-27 10:49_
+_Updated: 2025-10-27 11:44_
 
 ## Top Stories
 
 - Hemligt upplägg: Svenska pengar till regeringen i Somalia - Dagens Nyheter
 - Uppgift: Kvinnan förföljdes 20 minuter före våldtäkten - Omni
 - Komplettering av uppdrag till Kriminalvården om att förbereda för ungdomsfängelser - Regeringen.se
-- Israel: FN-soldater sköt ned vår drönare - GP
 - Trump: Skulle väldigt gärna träffa Kim igen - Västerbottens-Kuriren
-- Nattens nyheter: 27 oktober - SVT Nyheter
+- Borgmästare: Drönare mot Moskva - Corren
+- Israel: FN-soldater sköt ned vår drönare - GP
 - Örebropolis kallades ”snedknullad” – kvinna frias - KT-Kuriren
 - Lastbilsolycka på väg 70 - Södra Dalarnes Tidning
 - 26 oktober 11.55, Trafikkontroll, Västernorrlands län - polisen.se
 - Flera bilar i olycka på E18 - Expressen
 - Rykten om Macrons fru prövas i rätten - SVT Nyheter
 - Trump: Putins robottest var ”opassande” - Hufvudstadsbladet
-- Newsom överväger att kandidera till president - Västerbottens-Kuriren
 - Direkt Kriget i Ukraina - Hundratals ryska soldater inne i Pokrovsk - Dagens Nyheter
+- Newsom överväger att kandidera till president - Västerbottens-Kuriren
 - Börsrekord i Asien samtidigt som Trump är på väg till Japan - Yle
 - Blir svenskar mer som finländare? ”Tvärtom” - SvD
-- Hit kommer 30 000 besökare – för att pumpa ut bilder på sociala medier - Dagens Nyheter
 - Teslastrejken två år: ”Helt beroende av sympatiåtgärder” - Arbetaren
-- Nu processor siktar på mellanklassmobiler - mobil.se
-- Google verkar uppdatera funktionen Samtalskort - mobil.se
+- Hit kommer 30 000 besökare – för att pumpa ut bilder på sociala medier - Dagens Nyheter
+- The Conversation - Lunds universitet
+- Sarah Klang får Stim-stipendium - Aftonbladet
 
 ## World News
 
+- Eros Capital flaggar upp i Enad Global 7 - DI
 - Svenskens mardröm – missar NHL-matcherna i Stockholm - hockeysverige.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global News – UNHCR Northern Europe - UNHCR - The UN Refugee Agency
-- World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
-- Eros Capital flaggar upp i Enad Global 7 - DI
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Sverige klättrar på global pensionsrankning - Örebronyheter
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- New Secretary General appointed - Olof Palme International Center
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- Guld stiger över $4,050 när global oro driver rekordbrytande rally - Bitcoin.com News
+- Finländarna minst arga i världen, visar global jämförelse - Yle
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
 ## Technology
 
@@ -75,23 +75,23 @@ _Updated: 2025-10-27 10:49_
 
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Student and entry-level programs - EY
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Svensk Exportkredit finansierar solkraft i Angola - Cision News
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 
 ## Health
@@ -143,22 +143,22 @@ _Updated: 2025-10-27 10:49_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
-- Så gick första året för Pellbrants - Mellanbygden
-- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Tio jordbruksaktier för depån - Placera.se
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Maskinförare | Jobb | ATL - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
