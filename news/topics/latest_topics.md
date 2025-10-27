@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-27 23:38_
+_Updated: 2025-10-28 00:41_
 
 ## Top Stories
 
-- Körde över MFF – Hammarby klar allsvensk tvåa - Dagens Nyheter
-- Stort strömavbrott mitt i Stockholm - SvD
+- Stort strömavbrott i centrala Stockholm - SVT Nyheter
 - DN Direkt - Efter kritiken – peth-test för körkort kan slopas - Dagens Nyheter
 - Teknisk kapplöpning för Ukrainas drönarbolag: ”Ryssland har enorma fördelar” - Dagens Nyheter
-- Halland högriskområde för fågelinfluensa – fjäderfän ska hållas inomhus - SVT Nyheter
 - Kasino, olja och tobak bygger Trumps balsal - SvD
+- Karl Dalén: En duell i Kalifornien kan avgöra partiets framtid - Dagens Nyheter
+- Kraftigaste orkanen någonsin väntas slå mot hela ön - GP
+- Halland högriskområde för fågelinfluensan - Länsstyrelsen
 - Dousa: Förtroende för Sida trots Hamasuppgifter - Västerbottens-Kuriren
-- Ny underrättelsetjänst ska vara klar 2027 - GP
+- Ny underrättelsetjänst ska vara klar 2027 - Dagens Nyheter
 - Tidöpartierna backar om tvångsinlösen av vapen - UNT
-- Kvinna misstänks för barnvåldtäkt efter lagskärpning - Dagens Nyheter
-- Dna avslöjar – därför dog Napoleons soldater - Hufvudstadsbladet
+- Dna avslöjar nya bakterier hos Napoleons soldater - Aftonbladet
 - Israel lyfter undantagstillstånd efter två år - Västerbottens-Kuriren
-- Anklagelsen mot Macrons fru: Hon är en man - GP
-- FN-larm: Civila instängda i Darfur - SVT Nyheter
-- Källor: Uppemot 30 000 får gå från Amazon - Aftonbladet
+- Sudans militär: total reträtt från belägrad stad - GP
+- Direkt Kriget i Ukraina - Ursula von der Leyen om ballongerna: En provokation - Dagens Nyheter
+- Uppgifter: Amazon ska säga upp 30.000 - DI
 - Facket beredda om Stegra skulle gå i konkurs: ”Vill inte sprida oro” - Arbetet
-- DEBATT: Ta vara på potentialen hos äldre medarbetare - DI
-- Elon Musk riskerar att lämna Tesla – om han inte får sitt lönepaket - EFN
+- USA:s aktier av sällsynta jordartsmetaller faller när Kina förväntas försena exportkontroller - Invezz
+- SJ-toppen efter ålderskritiken: ”Nytt för mig” - Aftonbladet
+- AMD förbereder Ryzen 5 7500X3D för mellansegmentet - Nordichardware
 - Toyota Supra läggs ned – ersättare inte klar - Teknikens Värld
-- Oneplus presenterar sitt nya flaggskepp - mobil.se
 
 ## World News
 
@@ -50,41 +50,41 @@ _Updated: 2025-10-27 23:38_
 
 ## Technology
 
-- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
+- MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Deepseek är det nya Linux - Computer Sweden
 - Spår superintelligens om tio år – vill leda racet - Omni
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
-- Investors Turn to AI-Driven Imaging Firms Targeting High-Growth Breast Cancer Market - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
+- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
 
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Student and entry-level programs - EY
-- ANDION GLOBAL SÄKRAR 270 MILJONER USD DOLLAR FÖR ATT UTÖKA VERKSAMHETEN OCH UTBYGGNADEN AV AVFALLSHANTERINGSANLÄGGNINGAR FÖR ATT ÅTERVINNA ORGANISKT AVFALL OCH SKAPA FÖRNYELSEBAR ENERGI - Via TT
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Svensk Exportkredit finansierar solkraft i Angola - Cision News
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Swindled millions found 15 years later - Sveriges Radio
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
