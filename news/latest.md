@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-27 18:54_
+_Updated: 2025-10-27 19:48_
 
-- Hurricane Melissa strengthens to category 5 as communities in Jamaica warned of ‘potentially unimaginable impact’ – live - The Guardian
-- Argentina’s Voters Hand Javier Milei a Crucial Victory in Midterm Election - The New York Times
-- Johnson backs Trump's plans not to tap contingency dollars for food aid ahead of funding cliff - Politico
-- Trump won't rule out a third term: "I would love to do it" - Axios
-- Trump predicts China trade deal finalized in days as his Asia tour continues in Japan - CBS News
+- Hurricane Melissa threatens to bring catastrophic flooding, landslides to Jamaica, Haiti, Cuba - CBS News
+- Argentina’s Bonds, Stocks, Currency Rally After Milei Victory - The Wall Street Journal
+- Trump ‘would love’ unconstitutional third term but rules out running for VP - The Guardian
+- For Japan’s new leader, the key to connecting with Trump could be a Ford F-150 truck - AP News
 - Sidelined Russia flexes muscle with missile launch — and Trump is not impressed - CNBC
+- No federal food aid will go out Nov. 1, Trump administration posts on USDA website - PBS
 - US Navy Helicopter and Fighter Jet in Separate South China Sea Crashes - Bloomberg.com
-- Indiana Governor Calls Special Session on Redistricting to Benefit Republicans - The New York Times
-- Government shutdown live updates as missed paychecks, benefit lapses increase pressure for deal - CBS News
-- Republicans grapple with voter frustration over rising health care premiums - AP News
-- Sudan's paramilitary forces push into the army's last Darfur stronghold, killing dozens of civilians - AP News
+- Indiana’s governor calls a special session to redraw the state’s congressional boundaries - AP News
+- Johnson backs Trump's plans not to tap contingency dollars for food aid ahead of funding cliff - Politico
+- Here's what federal workers should know about getting retroactive pay - CBS News
+- Road out of el-Fasher: Ransom, violence and the price of survival in Sudan - Al Jazeera
+- Red Cross accompanies Hamas in search for bodies of Israeli hostages in Gaza - The Guardian
+- Trump dangles prospect of Mar-a-Lago visit for Xi - politico.eu
 - Finland's stubbornly low birth rate shows why a population shift may be inevitable - NPR
-- China fills US void at ASEAN Summit with push for trade multilateralism - Reuters
-- Chancellor hints at tax and spend shift to cushion Budget - BBC
 - S&P 500 rallies 1%, on pace for first close above 6,800 ever on potential China trade truce: Live updates - CNBC
-- Lululemon Athletica, NFL Launch Team-Branded Apparel Collection - The Wall Street Journal
-- Exxon sues California over climate disclosure laws - Reuters
+- Microsoft Stock Rises. Every Analyst Now Says Buy After Latest Upgrade. - Barron's
+- Lululemon partners with NFL to launch officially licensed apparel for all 32 teams - Fox Business
 - Where to invest $10,000 right now, according to 6 top Wall Street minds - businessinsider.com
+- Original Halo Developer Slams Campaign Evolved's Changes - GameSpot
 - OnePlus 15 arrives in China, global launch ‘coming soon’ - The Verge
-- ChatGPT Atlas Browser Can Be Tricked by Fake URLs into Executing Hidden Commands - The Hacker News
