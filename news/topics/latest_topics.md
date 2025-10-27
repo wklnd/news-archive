@@ -1,29 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-27 20:49_
+_Updated: 2025-10-27 21:38_
 
 ## Top Stories
 
+- DN Direkt - Större strömavbrott på Södermalm i Stockholm - Dagens Nyheter
 - DN Direkt - Efter kritiken – peth-test för körkort kan slopas - Dagens Nyheter
-- Barn har fallit från fönster på tredje våningen i Örebro - SVT Nyheter
 - Dousa: Förtroende för Sida trots Hamasuppgifter - Västerbottens-Kuriren
-- S KU-anmäler minister för Somaliapengar - UNT
-- Trump ”skulle älska” att kandidera 2028 - GP
-- Stort strömavbrott i centrala Stockholm - Aftonbladet
-- Tidöpartierna backar om tvångsinlösen av vapen - SVT Nyheter
-- Varg skjuten – kom för nära hundförare - Västerbottens-Kuriren
-- Man död efter elsparkscykelolycka i Östersund - SVT Nyheter
-- Halland högriskområde för fågelinfluensan - Länsstyrelsen
+- Halland högriskområde för fågelinfluensa – fjäderfän ska hållas inomhus - SVT Nyheter
+- Barn till sjukhus – föll från tredje våningen i Örebro - Omni
+- Kan Trump väljas om en tredje gång? Nej – fast... - SvD
+- Tidöpartierna backar om tvångsinlösen av vapen - UNT
+- Kvinna misstänks för barnvåldtäkt efter lagskärpning - Dagens Nyheter
+- S KU-anmäler minister för Somaliapengar - Västerbottens-Kuriren
+- Varg skjuten – kom för nära hundförare - GP
 - Sista regeringsfästet i västra Sudan har intagits av rebeller - Dagens Nyheter
 - Israel lyfter undantagstillstånd efter två år - Västerbottens-Kuriren
 - Storseger för Mileis parti i Argentinas mellanårsval - Hufvudstadsbladet
 - Israel har attackerat södra Gaza - GP
-- Elon Musk riskerar att lämna Tesla – om han inte får sitt lönepaket - EFN
 - Facket beredda om Stegra skulle gå i konkurs: ”Vill inte sprida oro” - Arbetet
+- Elon Musk riskerar att lämna Tesla – om han inte får sitt lönepaket - EFN
 - Australien stämmer Microsoft efter kritiserade prishöjningar - Computer Sweden
-- Svaga siffror från Balco – aktien rasar tvåsiffrigt - DI
+- Elförsörjningen har inte påverkats av dataintrånget bedömer Svenska kraftnät - Svenska kraftnät
 - Nothing Phone 3a Lite lanseras officiellt denna vecka – här är vad du kan förvänta dig - TechRadar
 - Toyota Supra läggs ned – ersättare inte klar - Teknikens Värld
+
+## World News
+
+- A Global Stage, Infinite Echoes: 2025 Chery International User Summit Co-Creates a Sustainable Future - Placera.se
+- Svenskens mardröm – missar NHL-matcherna i Stockholm - hockeysverige.se
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Global drogsajt stängd – svenskar gripna - Drugnews
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Armand Duplantis soars to third world title and 14th world record - BBC
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Eros Capital flaggar upp i Enad Global 7 - DI
+- Sverige klättrar på global pensionsrankning - Örebronyheter
+- Pentair to Attend the Baird 2025 Global Industrial Conference - Placera.se
+- The 32nd China International Advertising Festival & the 34th AdAsia Beijing 2025 Conclude Successfully - Placera.se
+- Butterfly Network Strengthens Global Information Security Posture with ISO 27001, SOC-2 Type 2, C5 Germany, and NHS DSPT Accreditations - Placera.se
+- The Confidence Paradox: 2025 Global Retirement Pulse Survey - Placera.se
 
 ## Technology
 
@@ -52,23 +75,23 @@ _Updated: 2025-10-27 20:49_
 
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Student and entry-level programs - EY
-- SEB Investment Management lanserar blockkedje-fond - SEB Group
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Svensk Exportkredit finansierar solkraft i Angola - Cision News
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Swindled millions found 15 years later - Sveriges Radio
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 
 ## Health
@@ -100,21 +123,21 @@ _Updated: 2025-10-27 20:49_
 - Olika slutsatser från samma data - Läkartidningen
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
@@ -127,13 +150,13 @@ _Updated: 2025-10-27 20:49_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
+- Så gick första året för Pellbrants - Mellanbygden
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
