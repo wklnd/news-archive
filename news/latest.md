@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-27 01:48_
+_Updated: 2025-10-27 04:27_
 
-- China will make 'substantial' purchases of U.S. soybeans and should avoid 100% tariff, Bessent says - Fortune
+- US and China agree ‘framework’ for trade deal ahead of Xi-Trump meeting - The Guardian
+- Milei’s party wins big in Argentina midterm elections, early results show - Al Jazeera
+- Melissa strengthens into Category 4 hurricane, threatening catastrophic flooding in Jamaica, Haiti - Politico
 - Trump Leans Into Showmanship on Day 1 of His Asia Trip - The New York Times
-- Hurricane Melissa strengthens into category 4 as it approaches Jamaica - The Guardian
-- Highlights from Gavin Newsom's "Sunday Morning" interview: Proposition 50, opposing Trump, and 2028 - CBS News
-- The Louvre theft could make France’s stolen crown jewels as famous as the Mona Lisa - AP News
-- Putin says Russia has tested a new long-range, nuclear-capable missile that can evade defenses - PBS
+- F/A-18, Sea Hawk helicopter crash in South China Sea in separate incidents - CBS News
+- Gov. Gavin Newsom will consider presidential run after 2026 midterm elections - CNN
+- Flights to Los Angeles International Airport halted due to air traffic controller shortage - ABC News - Breaking News, Latest News and Videos
 - Federal food aid will not go out starting Nov. 1 amid government shutdown, Trump administration says - CBS News
 - Column | Before Trump gutted the White House, Erdogan built his ‘White Palace’ - The Washington Post
-- US airports report over 20 air traffic controller shortage incidents in one day - The Guardian
-- 1 person killed, 6 wounded in shooting at Lincoln University in Pennsylvania - ABC News - Breaking News, Latest News and Videos
+- One killed and six injured after shooting at Pennsylvania’s Lincoln University - The Guardian
+- Louvre heist leaves a cultural wound — and may turn French crown jewels into legend - AP News
+- Ahead of Trump-Xi meeting, China says bombers flew near Taiwan - Reuters
 - El-Fasher: Rebel group claims capture of key city in Sudan - BBC
-- For Japan’s new leader, the key to connecting with Trump could be a Ford F-150 truck - AP News
-- How Russia’s Sanctioned Arctic Gas Found a Chinese Loophole - The Wall Street Journal
-- Washington eyes ‘very productive’ Trump-Xi meeting this week - politico.eu
-- Novartis to acquire Avidity Biosciences for about $12 billion - Reuters
-- Bull Market’s Make-or-Break Week Arrives With Big Tech Earnings - Bloomberg.com
-- Dow Jones Futures Rise On China Trade Deal Hopes; Huge Earnings, Fed Rate Cut Ahead - Investor's Business Daily
-- The ‘Sleeper Issue’ at the Heart of Trump’s Trade War on China - The New York Times
-- Report: iPad Pro to gain vapor chamber cooling with M6 model - 9to5Mac
-- Apple Reportedly Moving Ahead With Ads in Maps App - MacRumors
+- Japan Deals With the Price of Playing to Trump: $550 Billion - The New York Times
+- US Stock Futures Jump on China Trade Deal Progress: Markets Wrap - Bloomberg.com
+- The striking Swedish workers taking on carmaker Tesla - BBC
+- Australia sues Microsoft over AI-linked subscription price hikes - Reuters
+- New CPI data resets December Fed interest rate cut - TheStreet
+- Ads might be coming to Apple Maps next year - TechCrunch
+- The next iPad Pro could be the first to get vapor chamber cooling - Engadget
