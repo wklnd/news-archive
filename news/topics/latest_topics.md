@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-27 13:39_
+_Updated: 2025-10-27 15:08_
 
 ## Top Stories
 
-- Morgan Johansson: Stor skandal - Dagens Nyheter
-- Mohamsson om SD i regeringen: Beredd gå till nyval - Västerbottens-Kuriren
-- Kraftigaste orkanen någonsin väntas slå mot hela ön - GP
-- Uppgift: Kvinnan förföljdes 20 minuter före våldtäkten - Omni
+- Därför är domen mot Bianca Ingrossos stalker viktig - Aftonbladet
+- Polisanställd vägrade åka in till jobbet – riskerar sparken - Dagens Nyheter
+- S KU-anmäler minister för Somaliapengar - Västerbottens-Kuriren
 - Kommunens högsta chef alltmer lojal med politiska ledningen - Sydsvenskan
 - Lämnar Gaza – men kan ”Bibi” överleva en fred? - SvD
-- Man anhållen efter explosion i trapphus – misstänks för grovt hot - NWT
+- Utredare ska inrätta en ny civil utrikesunderrättelsetjänst - Regeringen.se
+- Hovrätten fastställer domen mot Bianca Ingrossos stalker - Expressen
 - Lastbilsolycka på väg 70 - Södra Dalarnes Tidning
-- 26 oktober 11.55, Trafikkontroll, Västernorrlands län - polisen.se
-- Dags för läslov! - Regeringen.se
-- Sista regeringsfästet i västra Sudan har intagits av rebeller - Dagens Nyheter
+- Polisinsats i södra Stockholm - Aftonbladet
+- Man anhållen efter explosion i trapphus – misstänks för grovt hot - NWT
+- Falska rykten spreds om Brigitte Macron – tio personer inför rätta - Dagens Nyheter
 - Trump: Putins robottest var ”opassande” - Hufvudstadsbladet
-- Litauen ska skjuta ner ballonger från Belarus - Västerbottens-Kuriren
-- Rykten om Macrons fru prövas i rätten - SVT Nyheter
-- Oljepriset smärtsamt lågt för USA:s oljeindustri - Dagens PS
+- Kraftigaste orkanen någonsin väntas slå mot hela ön - GP
+- Farhågan: ”Gula linjen” i Gaza kan bli permanent - UNT
+- Över 1 200 butiker: Så mycket tjänar DIN Ica - Aftonbladet
+- Fransk investerare backar Stegra - SvD
 - PODD 🎧: Teslastrejken fyller två år, men finns det en väg ut? - Dagens Arbete
-- Efter kritiken – peth-test för körkort kan slopas - SVT Nyheter
-- SJ sparar miljoner på resenärers ersättningar - SvD
+- Oljepriset smärtsamt lågt för USA:s oljeindustri - Dagens PS
 - The Conversation - Lunds universitet
-- Godox ML80Bi & ML150Bi – ny video-LED med modulär design - Kamera & Bild
+- Han får det nyinstiftade arkivpriset - Aftonbladet
 
 ## World News
 
+- Butterfly Network Strengthens Global Information Security Posture with ISO 27001, SOC-2 Type 2, C5 Germany, and NHS DSPT Accreditations - Placera.se
 - Svenskens mardröm – missar NHL-matcherna i Stockholm - hockeysverige.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- Pentair to Attend the Baird 2025 Global Industrial Conference - Placera.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Eros Capital flaggar upp i Enad Global 7 - DI
+- Sverige klättrar på global pensionsrankning - Örebronyheter
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Sverige klättrar på global pensionsrankning - Örebronyheter
-- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- New Secretary General appointed - Olof Palme International Center
+- Pentair to Attend the Baird 2025 Global Industrial Conference - Placera.se
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 
 ## Technology
@@ -55,19 +55,19 @@ _Updated: 2025-10-27 13:39_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
-- Nästa generations Internet of Things - Shaping Europe’s digital future
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Deepseek är det nya Linux - Computer Sweden
+- Spår superintelligens om tio år – vill leda racet - Omni
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
 
@@ -105,17 +105,17 @@ _Updated: 2025-10-27 13:39_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - NyTeknik
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
 
 ## Science
 
@@ -123,30 +123,30 @@ _Updated: 2025-10-27 13:39_
 - Olika slutsatser från samma data - Läkartidningen
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -154,6 +154,7 @@ _Updated: 2025-10-27 13:39_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
 - Så gick första året för Pellbrants - Mellanbygden
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
@@ -161,4 +162,3 @@ _Updated: 2025-10-27 13:39_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
