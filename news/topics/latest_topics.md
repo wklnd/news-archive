@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-27 18:49_
+_Updated: 2025-10-27 19:40_
 
 ## Top Stories
 
 - DN Direkt - Efter kritiken – peth-test för körkort kan slopas - Dagens Nyheter
+- Tidöpartierna backar om tvångsinlösen av vapen - Dagens Nyheter
+- S KU-anmäler minister för Somaliapengar - Västerbottens-Kuriren
+- Trump ”skulle älska” att kandidera 2028 - GP
+- Olles vän sprang in med skottskada - Expressen
 - Barn har fallit från fönster på tredje våningen i Örebro - SVT Nyheter
-- Efter stängningen – Hamburger Börs återuppstår med breddat program - Dagens Nyheter
-- Två döda i skjutningar - 8 Sidor
-- Malmös satsning på barn: gratis busskort, frukost, och ett nytt kollo - Sydsvenskan
-- Fall av fågelinfluensa i Skåne - Jordbruksaktuellt
-- Tomas Ramberg: Inte så snyggt, men det funkar för Forssell - Dagens Nyheter
-- Varg följde efter jakthund – sköts på sex meters avstånd - SVT Nyheter
+- Varg skjuten – kom för nära hundförare - Västerbottens-Kuriren
 - Man död efter elsparksolycka i Östersund - SVT Nyheter
-- Polisanställd vägrade åka in till jobbet – riskerar sparken - Dagens Nyheter
-- ”Livshotande” orkan närmar sig Jamaica – kan bli värsta hittills - Dagens Nyheter
-- Anklagelsen mot Macrons fru: Hon är en man - GP
+- Halland högriskområde för fågelinfluensan - Länsstyrelsen
+- Ny underrättelsetjänst ska vara klar 2027 - UNT
+- Falska rykten spreds om Brigitte Macron – tio personer inför rätta - Dagens Nyheter
 - Israel har attackerat södra Gaza - Västerbottens-Kuriren
 - Storseger för Mileis parti i Argentinas mellanårsval - Hufvudstadsbladet
+- Världens äldsta statsöverhuvud omvald - GP
 - Elon Musk riskerar att lämna Tesla – om han inte får sitt lönepaket - EFN
 - Facket beredda om Stegra skulle gå i konkurs: ”Vill inte sprida oro” - Arbetet
 - Australien stämmer Microsoft efter kritiserade prishöjningar - Computer Sweden
@@ -36,6 +36,7 @@ _Updated: 2025-10-27 18:49_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
@@ -43,7 +44,6 @@ _Updated: 2025-10-27 18:49_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Eros Capital flaggar upp i Enad Global 7 - DI
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Pentair to Attend the Baird 2025 Global Industrial Conference - Placera.se
 - The 32nd China International Advertising Festival & the 34th AdAsia Beijing 2025 Conclude Successfully - Placera.se
@@ -121,24 +121,24 @@ _Updated: 2025-10-27 18:49_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
@@ -150,13 +150,13 @@ _Updated: 2025-10-27 18:49_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
-- Så gick första året för Pellbrants - Mellanbygden
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
