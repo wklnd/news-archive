@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-27 22:40_
+_Updated: 2025-10-27 23:38_
 
 ## Top Stories
 
-- Stort strömavbrott i centrala Stockholm – 20 000 hushåll utan el - Dagens Nyheter
-- Dousa: Förtroende för Sida trots Hamasuppgifter - Västerbottens-Kuriren
-- Kasino, olja och tobak bygger Trumps balsal - SvD
-- Död person hittades – två dagar efter brand - SVT Nyheter
-- Intensiv jakt på förövaren – polisen vädjar om tips - Omni
-- Barn har fallit från fönster på tredje våningen i Örebro - SVT Nyheter
+- Körde över MFF – Hammarby klar allsvensk tvåa - Dagens Nyheter
+- Stort strömavbrott mitt i Stockholm - SvD
+- DN Direkt - Efter kritiken – peth-test för körkort kan slopas - Dagens Nyheter
+- Teknisk kapplöpning för Ukrainas drönarbolag: ”Ryssland har enorma fördelar” - Dagens Nyheter
 - Halland högriskområde för fågelinfluensa – fjäderfän ska hållas inomhus - SVT Nyheter
-- Tidöpartierna backar om tvångsinlösen av vapen - UNT
+- Kasino, olja och tobak bygger Trumps balsal - SvD
+- Dousa: Förtroende för Sida trots Hamasuppgifter - Västerbottens-Kuriren
 - Ny underrättelsetjänst ska vara klar 2027 - GP
-- Tomas Ramberg: Inte så snyggt, men det funkar för Forssell - Dagens Nyheter
-- Sista regeringsfästet i västra Sudan har intagits av rebeller - Dagens Nyheter
+- Tidöpartierna backar om tvångsinlösen av vapen - UNT
+- Kvinna misstänks för barnvåldtäkt efter lagskärpning - Dagens Nyheter
+- Dna avslöjar – därför dog Napoleons soldater - Hufvudstadsbladet
 - Israel lyfter undantagstillstånd efter två år - Västerbottens-Kuriren
 - Anklagelsen mot Macrons fru: Hon är en man - GP
-- Israel har attackerat södra Gaza - Corren
+- FN-larm: Civila instängda i Darfur - SVT Nyheter
 - Källor: Uppemot 30 000 får gå från Amazon - Aftonbladet
-- Elon Musk riskerar att lämna Tesla – om han inte får sitt lönepaket - EFN
 - Facket beredda om Stegra skulle gå i konkurs: ”Vill inte sprida oro” - Arbetet
 - DEBATT: Ta vara på potentialen hos äldre medarbetare - DI
+- Elon Musk riskerar att lämna Tesla – om han inte får sitt lönepaket - EFN
 - Toyota Supra läggs ned – ersättare inte klar - Teknikens Värld
-- Nothing Phone 3a Lite lanseras officiellt denna vecka – här är vad du kan förvänta dig - TechRadar
+- Oneplus presenterar sitt nya flaggskepp - mobil.se
 
 ## World News
 
+- SOUTHWEST AIRLINES PARTNERS WITH HAHNAIR TO EXPAND GLOBAL TICKETING REACH - Placera.se
 - A Global Stage, Infinite Echoes: 2025 Chery International User Summit Co-Creates a Sustainable Future - Placera.se
 - Svenskens mardröm – missar NHL-matcherna i Stockholm - hockeysverige.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
@@ -35,7 +36,6 @@ _Updated: 2025-10-27 22:40_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
@@ -121,24 +121,24 @@ _Updated: 2025-10-27 22:40_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -150,13 +150,13 @@ _Updated: 2025-10-27 22:40_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
+- Så gick första året för Pellbrants - Mellanbygden
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
