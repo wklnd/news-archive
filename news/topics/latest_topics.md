@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-27 17:40_
+_Updated: 2025-10-27 18:49_
 
 ## Top Stories
 
+- DN Direkt - Efter kritiken – peth-test för körkort kan slopas - Dagens Nyheter
 - Barn har fallit från fönster på tredje våningen i Örebro - SVT Nyheter
-- Skjuten man avled – förmodad olycka i Klippan - Jakt & Jägare
-- Bianca Ingrossos stalker fälls i hovrätten - GP
-- ”Jag känner att kriget kryper närmare” - SvD
-- Två personer till sjukhus efter brand i kök på sjunde våningen på Råslätt - SVT Nyheter
+- Efter stängningen – Hamburger Börs återuppstår med breddat program - Dagens Nyheter
+- Två döda i skjutningar - 8 Sidor
+- Malmös satsning på barn: gratis busskort, frukost, och ett nytt kollo - Sydsvenskan
 - Fall av fågelinfluensa i Skåne - Jordbruksaktuellt
-- Polisanställd vägrade åka in till jobbet – riskerar sparken - Dagens Nyheter
-- S KU-anmäler minister för Somaliapengar - UNT
+- Tomas Ramberg: Inte så snyggt, men det funkar för Forssell - Dagens Nyheter
 - Varg följde efter jakthund – sköts på sex meters avstånd - SVT Nyheter
-- Klart: Sverige får en ny civil underrättelsetjänst - SVT Nyheter
-- Falska rykten spreds om Brigitte Macron – tio personer inför rätta - Dagens Nyheter
-- Domstol: Nord Stream-misstänkt ska utlämnas - Västerbottens-Kuriren
-- Israel har attackerat södra Gaza - Corren
+- Man död efter elsparksolycka i Östersund - SVT Nyheter
+- Polisanställd vägrade åka in till jobbet – riskerar sparken - Dagens Nyheter
+- ”Livshotande” orkan närmar sig Jamaica – kan bli värsta hittills - Dagens Nyheter
+- Anklagelsen mot Macrons fru: Hon är en man - GP
+- Israel har attackerat södra Gaza - Västerbottens-Kuriren
 - Storseger för Mileis parti i Argentinas mellanårsval - Hufvudstadsbladet
-- Teslas ordförande vill ge Musk jättelön - Hufvudstadsbladet
+- Elon Musk riskerar att lämna Tesla – om han inte får sitt lönepaket - EFN
 - Facket beredda om Stegra skulle gå i konkurs: ”Vill inte sprida oro” - Arbetet
-- Över 1 200 butiker: Så mycket tjänar DIN Ica - Aftonbladet
 - Australien stämmer Microsoft efter kritiserade prishöjningar - Computer Sweden
+- Affärsvärlden ger ett neutralt råd för Vertiseit - Affärsvärlden
 - Nothing Phone 3a Lite lanseras officiellt denna vecka – här är vad du kan förvänta dig - TechRadar
-- Han får nytt Lars Tunbjörk-pris - Västerbottens-Kuriren
+- Instagram lanserar Visningshistorik - så hittar du alla Reels du har sett - dopest.se
 
 ## World News
 
@@ -43,15 +43,16 @@ _Updated: 2025-10-27 17:40_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Eros Capital flaggar upp i Enad Global 7 - DI
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Pentair to Attend the Baird 2025 Global Industrial Conference - Placera.se
 - The 32nd China International Advertising Festival & the 34th AdAsia Beijing 2025 Conclude Successfully - Placera.se
-- The Confidence Paradox: 2025 Global Retirement Pulse Survey - Placera.se
 
 ## Technology
 
 - NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
+- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
@@ -62,36 +63,35 @@ _Updated: 2025-10-27 17:40_
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Deepseek är det nya Linux - Computer Sweden
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Spår superintelligens om tio år – vill leda racet - Omni
+- ZenaTech's ZenaDrone Subsidiary to Conduct Meetings with Members of Congress Highlighting its Drone Innovation Followed by Showcasing Drone Solutions at the AUVSI Defense Forum - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
+- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
+- Investors Turn to AI-Driven Imaging Firms Targeting High-Growth Breast Cancer Market - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
 
 ## Business
 
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Student and entry-level programs - EY
 - SEB Investment Management lanserar blockkedje-fond - SEB Group
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - Svensk Exportkredit finansierar solkraft i Angola - Cision News
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 
 ## Health
@@ -105,39 +105,39 @@ _Updated: 2025-10-27 17:40_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
 - Johan von Schreeb - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Fysisk aktivitet kan ha omedelbar effekt på depression och ångest - Läkartidningen
 - Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
