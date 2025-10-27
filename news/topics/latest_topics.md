@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-27 15:08_
+_Updated: 2025-10-27 15:49_
 
 ## Top Stories
 
-- Därför är domen mot Bianca Ingrossos stalker viktig - Aftonbladet
+- Barn har fallit från fönster på tredje våningen i Örebro - SVT Nyheter
+- Bianca Ingrossos stalker döms även i hovrätten - Omni
 - Polisanställd vägrade åka in till jobbet – riskerar sparken - Dagens Nyheter
-- S KU-anmäler minister för Somaliapengar - Västerbottens-Kuriren
-- Kommunens högsta chef alltmer lojal med politiska ledningen - Sydsvenskan
-- Lämnar Gaza – men kan ”Bibi” överleva en fred? - SvD
+- Skjuten man avled – förmodad olycka i Klippan - Jakt & Jägare
+- ”Jag känner att kriget kryper närmare” - SvD
 - Utredare ska inrätta en ny civil utrikesunderrättelsetjänst - Regeringen.se
-- Hovrätten fastställer domen mot Bianca Ingrossos stalker - Expressen
+- S KU-anmäler minister för Somaliapengar - UNT
 - Lastbilsolycka på väg 70 - Södra Dalarnes Tidning
 - Polisinsats i södra Stockholm - Aftonbladet
-- Man anhållen efter explosion i trapphus – misstänks för grovt hot - NWT
+- Hovrätten fastställer domen mot Bianca Ingrossos stalker - Expressen
 - Falska rykten spreds om Brigitte Macron – tio personer inför rätta - Dagens Nyheter
-- Trump: Putins robottest var ”opassande” - Hufvudstadsbladet
 - Kraftigaste orkanen någonsin väntas slå mot hela ön - GP
+- Domstol: Nord Stream-misstänkt ska utlämnas - Västerbottens-Kuriren
 - Farhågan: ”Gula linjen” i Gaza kan bli permanent - UNT
-- Över 1 200 butiker: Så mycket tjänar DIN Ica - Aftonbladet
+- Teslas ordförande: Rösta ja till Musks jättelön - Aftonbladet
+- Thomas Ohlén: Problemet är inte Ica Maxis vinster – utan att konkurrenterna går så dåligt - Dagligvarunytt
 - Fransk investerare backar Stegra - SvD
 - PODD 🎧: Teslastrejken fyller två år, men finns det en väg ut? - Dagens Arbete
-- Oljepriset smärtsamt lågt för USA:s oljeindustri - Dagens PS
 - The Conversation - Lunds universitet
-- Han får det nyinstiftade arkivpriset - Aftonbladet
+- Han får nytt Lars Tunbjörk-pris - Västerbottens-Kuriren
 
 ## World News
 
@@ -38,6 +38,7 @@ _Updated: 2025-10-27 15:08_
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Eros Capital flaggar upp i Enad Global 7 - DI
@@ -46,7 +47,6 @@ _Updated: 2025-10-27 15:08_
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - New Secretary General appointed - Olof Palme International Center
 - Pentair to Attend the Baird 2025 Global Industrial Conference - Placera.se
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 
 ## Technology
 
@@ -61,14 +61,14 @@ _Updated: 2025-10-27 15:08_
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Deepseek är det nya Linux - Computer Sweden
 - Spår superintelligens om tio år – vill leda racet - Omni
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
 
 ## Business
@@ -102,20 +102,20 @@ _Updated: 2025-10-27 15:08_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
 - Johan von Schreeb - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
