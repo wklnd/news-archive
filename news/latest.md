@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-27 15:19_
+_Updated: 2025-10-27 15:53_
 
 - Hurricane Melissa could be strongest to ever hit Jamaica - BBC
-- Trump hails Milei’s Argentina win, says U.S. made ‘lot of money’ - Fortune
-- For Japan’s new leader, the key to connecting with Trump could be a Ford F-150 truck - AP News
-- People are having fewer kids. Their choice is transforming the world's economy - NPR
+- Milei Wins Mandate for Free-Market Revolution in Argentina’s Election - WSJ - The Wall Street Journal
+- Japan’s New Prime Minister Has an Advantage in Winning Over Trump - The New York Times
+- China Asks US to Protect ‘Hard-Won’ Results Before Xi-Trump Meeting - Bloomberg.com
 - Trump says he received an MRI during trip to Walter Reed medical center - CNN
-- Navy helicopter, fighter jet both go down in South China Sea: Navy - ABC News - Breaking News, Latest News and Videos
-- 6 ways the shutdown is about to get worse - Politico
+- People are having fewer kids. Their choice is transforming the world's economy - NPR
+- US Navy Helicopter and Fighter Jet in Separate South China Sea Crashes - Bloomberg.com
+- Capitol agenda: Brace for sharper shutdown pain - Politico
 - Republicans grapple with voter frustration over rising health care premiums - AP News
-- Trump says he’d ‘love to’ run in 2028 - politico.eu
-- US and China agree ‘framework’ for trade deal ahead of Xi-Trump meeting - The Guardian
-- Stocks rally, safe-havens retreat on trade deal optimism - Reuters
+- Government shutdown live updates as missed paychecks, benefit lapses increase pressure for deal - CBS News
 - Lithuania warns it will shoot down suspicious balloons from Belarus - Financial Times
-- Suspects arrested over theft of crown jewels from the Louvre, prosecutor says - PBS
-- Half of uncontacted Indigenous tribes "could be wiped out" in 10 years, report says. Here's what to know. - CBS News
+- China presses for stronger economic, trade ties after Trump departs ASEAN summit - Reuters
+- Louvre heist leaves a cultural wound — and may turn French crown jewels into legend - AP News
+- Xi Jinping is at his boldest and brashest. How will Donald Trump fare this week? - The Economist
+- Dow gains 200 points, hits record on potential China trade truce: Live updates - CNBC
 - Japan's Nikkei tops 50,000 mark for first time on stimulus euphoria - Reuters
 - Ray Dalio says America is developing a ‘dependency’ on the top 1% of workers, while the bottom 60% are struggling and unproductive - Fortune
-- Novartis Agrees to Acquire Avidity Biosciences for $12 Billion - The Wall Street Journal
-- Japan's JPYC launches country's first yen-denominated stablecoin - theblock.co
-- OnePlus 15 is official with 10 important upgrades: check out the good and bad! - PhoneArena
+- 4.9 million pounds of frozen, boneless chicken have been recalled - Chicago Tribune
 - Galaxy TriFold launch markets revealed, and only a few made the cut - PhoneArena
+- Microsoft Needs to Open Up More About Its OpenAI Dealings - The Wall Street Journal
