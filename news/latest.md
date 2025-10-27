@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-27 12:51_
+_Updated: 2025-10-27 13:48_
 
-- Milei triumphs in Argentine midterm elections closely watched by Washington - NPR
-- Trump Administration Live Updates: President Meets With Japan’s Emperor in Tokyo - The New York Times
+- Hurricane Melissa threatens to bring catastrophic flooding, landslides to Jamaica, Haiti, Cuba - CBS News
+- Trump hails Milei’s Argentina win, says U.S. made ‘lot of money’ - Fortune
+- Trump Visit Spurs Hopes for Least-Loved Emerging-Market Bloc - Bloomberg.com
 - US and China agree ‘framework’ for trade deal ahead of Xi-Trump meeting - The Guardian
-- Hurricane Melissa Set To Turn North In Catastrophic Multi-Day Flood, Wind Damage Event In Jamaica, Haiti - The Weather Channel
 - Flights to Los Angeles International Airport halted due to air traffic controller shortage - Politico
-- 5 crew members rescued in 2 separate Navy aircraft crashes in South China Sea - Axios
-- Republican senator calls Trump’s military airstrikes ‘extrajudicial killings’ - The Guardian
-- No federal food aid will go out Nov. 1, Trump administration posts on USDA website - PBS
-- Column | Before Trump gutted the White House, Erdogan built his ‘White Palace’ - The Washington Post
-- Mamdani seeks to unite Sanders, AOC — and Hochul - Politico
-- Global stocks rally on US-China trade optimism - Financial Times
-- Louvre heist leaves a cultural wound — and may turn French crown jewels into legend - AP News
-- For Japan’s new leader, the key to connecting with Trump could be a Ford F-150 truck - AP News
-- Four killed in Cameroon protests as results due in contested election - BBC
-- Japan's Nikkei 225 crosses 50,000 for the first time, ahead of Takaichi-Trump meeting - CNBC
+- People are having fewer kids. Their choice is transforming the world's economy - NPR
+- US Navy Helicopter and Fighter Jet in Separate South China Sea Crashes - Bloomberg.com
+- Donald Trump greeted by Emperor Naruhito in Japan before meeting new prime minister – US politics live - The Guardian
+- 6 ways the shutdown is about to get worse - Politico
+- Mamdani: I went door-to-door with Zohran canvassers. What people said surprised me. - slate.com
+- Trump says US, China are going to come away with deal - Reuters
+- Suspects arrested over theft of crown jewels from the Louvre, prosecutor says - PBS
+- Jailed Istanbul mayor hit with new 'espionage' arrest order as opposition crackdown deepens - Reuters
+- A New Dynamic in the Trump-Netanyahu Relationship - The New York Times
 - Ray Dalio says America is developing a ‘dependency’ on the top 1% of workers, while the bottom 60% are struggling and unproductive - Fortune
-- Novartis to acquire Avidity Biosciences for about $12 billion - Reuters
+- Japan's New Yen Stablecoin is Asia’s Only Truly Global Fiat-Pegged Token - CoinDesk
 - The striking Swedish workers taking on carmaker Tesla - BBC
-- The next iPad Pro could be the first to get vapor chamber cooling - Engadget
-- I tried ChatGPT's Atlas browser to rival Google - here's what I found - BBC
+- China’s C919 jet faces turbulent skies as US-China trade tensions add to delays - AP News
+- Galaxy TriFold launch markets revealed, and only a few made the cut - PhoneArena
+- Cancelled God of War PS5 Game Leaks in Screenshots - Push Square
