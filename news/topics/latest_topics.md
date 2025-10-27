@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-27 05:39_
+_Updated: 2025-10-27 06:49_
 
 ## Top Stories
 
-- Mileis parti mot seger i Argentinas mellanårsval - SVT Nyheter
-- Direkt Kriget i Ukraina - Ryssland har avvärjt drönarattacker mot Moskva, enligt borgmästare - Dagens Nyheter
-- Skjuten man hittad i skogen – skulle mata djur - GP
+- DN Direkt - Mileis parti mot seger i Argentinas mellanårsval - Dagens Nyheter
+- Skickar jättelikt hangarfartyg: ”Tecken på att USA ökar trycket” - Dagens Nyheter
 - Röster i riksdagen vill se kvinnor på väggarna - Aftonbladet
+- Direkt Kriget i Ukraina - Flygplatser i Moskva stängda efter drönarattacker - Dagens Nyheter
+- Skjuten man hittad i skogen – skulle mata djur - GP
 - 26 oktober 11.55, Trafikkontroll, Västernorrlands län - Polisen.se
-- Skådespelaren Björn Andrésen död - SvD
 - Mohamsson om SD i regeringen: Beredd gå till nyval - UNT
 - Tonåring död efter skjutning i Gävle – en anhållen - Dagens Nyheter
 - I NATT: Bilist körde på elsparkcyklist och smet – så var helgnatten för polisen - NWT
-- M: Invandrare ska skriva på Sverigekontrakt - SVT Nyheter
+- Nooshi Dadgostar (V): Vi ska bli Sveriges sjukvårdsparti - Dagens Nyheter
+- Mileis parti mot seger i Argentinas mellanårsval - SVT Nyheter
 - Ryssland har testat kärnkraftsdriven robot - Västerbottens-Kuriren
-- Orkanen Melissa närmar sig Jamaica – tusentals evakueras - SVT Nyheter
-- Stort stenras i Oslo – hundratals evakuerade - GP
-- Henrik Brandão Jönsson: Är Venezuela USA:s nästa mål efter Iran? - Dagens Nyheter
+- Nödläge på Jamaica när orkanen Melissa slår till – tredubbla hot väntar - GP
+- Stenras i Oslo – flerfamiljshus evakuerades - SVT Nyheter
 - Bekräftat: Hackerattack mot Svenska kraftnät - Dagens Nyheter
 - ”Strejken på Tesla är en historisk konflikt” - Dagens Arena
+- Australien stämmer Microsoft - SvD
 - BioArctic: Kanadas läkemedelsmyndighet godkänner Leqembi® (lecanemab) (Cision) - Aktiellt
-- Veckan som kommer: Möte mellan Trump och Xi - DI
 - Ett levande stadshotell i hjärtat av Österlen söker ny ägare - - Turismnytt
 - Pay It Forward - hur har du gjort världen lite bättre idag? - FZ.se
 
 ## World News
 
+- A Global Stage, Infinite Echoes: 2025 Chery International User Summit Co-Creates a Sustainable Future - Placera.se
 - Svenskens mardröm – missar NHL-matcherna i Stockholm - hockeysverige.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - New Secretary General appointed - Olof Palme International Center
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 
 ## Technology
 
 - NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
-- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Spår superintelligens om tio år – vill leda racet - Omni
-- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - ZenaTech's ZenaDrone Subsidiary to Conduct Meetings with Members of Congress Highlighting its Drone Innovation Followed by Showcasing Drone Solutions at the AUVSI Defense Forum - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
+- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
 
@@ -103,19 +103,19 @@ _Updated: 2025-10-27 05:39_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
-- SIHI Sweden Konferens 2024 - Uppsala universitet
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Hjärtkirurgen Ulf Kjellman tar över som medicinsk chef (Chief Medical Officer, CMO) på Realheart - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Life Genomics lanserar den nya Ziwig Endotest - it-halsa.se
+- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
 
 ## Science
 
