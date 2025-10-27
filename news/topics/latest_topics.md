@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-27 12:46_
+_Updated: 2025-10-27 13:39_
 
 ## Top Stories
 
-- DN Direkt - Efter kritiken – peth-test för körkort kan slopas - Dagens Nyheter
-- Hemligt upplägg: Svenska pengar till regeringen i Somalia - Dagens Nyheter
+- Morgan Johansson: Stor skandal - Dagens Nyheter
 - Mohamsson om SD i regeringen: Beredd gå till nyval - Västerbottens-Kuriren
-- Komplettering av uppdrag till Kriminalvården om att förbereda för ungdomsfängelser - Regeringen.se
+- Kraftigaste orkanen någonsin väntas slå mot hela ön - GP
 - Uppgift: Kvinnan förföljdes 20 minuter före våldtäkten - Omni
-- Israel: FN-soldater sköt ned vår drönare - GP
+- Kommunens högsta chef alltmer lojal med politiska ledningen - Sydsvenskan
+- Lämnar Gaza – men kan ”Bibi” överleva en fred? - SvD
 - Man anhållen efter explosion i trapphus – misstänks för grovt hot - NWT
 - Lastbilsolycka på väg 70 - Södra Dalarnes Tidning
 - 26 oktober 11.55, Trafikkontroll, Västernorrlands län - polisen.se
-- Flera bilar i olycka på E18 - Expressen
+- Dags för läslov! - Regeringen.se
+- Sista regeringsfästet i västra Sudan har intagits av rebeller - Dagens Nyheter
 - Trump: Putins robottest var ”opassande” - Hufvudstadsbladet
-- Kraftigaste orkanen någonsin väntas slå mot hela ön - GP
-- Rykten om Macrons fru prövas i rätten - SVT Nyheter
 - Litauen ska skjuta ner ballonger från Belarus - Västerbottens-Kuriren
+- Rykten om Macrons fru prövas i rätten - SVT Nyheter
 - Oljepriset smärtsamt lågt för USA:s oljeindustri - Dagens PS
-- Blir svenskar mer som finländare? ”Tvärtom” - SvD
-- Börsrekord i Asien samtidigt som Trump är på väg till Japan - Yle
-- Teslastrejken två år: ”Helt beroende av sympatiåtgärder” - Arbetaren
+- PODD 🎧: Teslastrejken fyller två år, men finns det en väg ut? - Dagens Arbete
+- Efter kritiken – peth-test för körkort kan slopas - SVT Nyheter
+- SJ sparar miljoner på resenärers ersättningar - SvD
 - The Conversation - Lunds universitet
 - Godox ML80Bi & ML150Bi – ny video-LED med modulär design - Kamera & Bild
 
 ## World News
 
-- Eros Capital flaggar upp i Enad Global 7 - DI
 - Svenskens mardröm – missar NHL-matcherna i Stockholm - hockeysverige.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
+- Pentair to Attend the Baird 2025 Global Industrial Conference - Placera.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Eros Capital flaggar upp i Enad Global 7 - DI
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Sverige klättrar på global pensionsrankning - Örebronyheter
 - Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
 ## Technology
 
@@ -60,10 +60,10 @@ _Updated: 2025-10-27 12:46_
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Deepseek är det nya Linux - Computer Sweden
-- Spår superintelligens om tio år – vill leda racet - Omni
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
@@ -102,20 +102,20 @@ _Updated: 2025-10-27 12:46_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - NyTeknik
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Doctrin erhåller MDR-certifiering enligt klass IIa - it-halsa.se
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -137,28 +137,28 @@ _Updated: 2025-10-27 12:46_
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Tio jordbruksaktier för depån - Placera.se
+- Så gick första året för Pellbrants - Mellanbygden
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
-- 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
