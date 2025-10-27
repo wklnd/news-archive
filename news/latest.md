@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-27 19:48_
+_Updated: 2025-10-27 20:53_
 
-- Hurricane Melissa threatens to bring catastrophic flooding, landslides to Jamaica, Haiti, Cuba - CBS News
+- Hurricane Melissa strengthens to category 5 as communities in Jamaica warned of ‘potentially unimaginable impact’ – live - The Guardian
 - Argentina’s Bonds, Stocks, Currency Rally After Milei Victory - The Wall Street Journal
-- Trump ‘would love’ unconstitutional third term but rules out running for VP - The Guardian
-- For Japan’s new leader, the key to connecting with Trump could be a Ford F-150 truck - AP News
-- Sidelined Russia flexes muscle with missile launch — and Trump is not impressed - CNBC
-- No federal food aid will go out Nov. 1, Trump administration posts on USDA website - PBS
-- US Navy Helicopter and Fighter Jet in Separate South China Sea Crashes - Bloomberg.com
-- Indiana’s governor calls a special session to redraw the state’s congressional boundaries - AP News
 - Johnson backs Trump's plans not to tap contingency dollars for food aid ahead of funding cliff - Politico
-- Here's what federal workers should know about getting retroactive pay - CBS News
+- Donald Trump Doesn't Rule Out Running In 2028 For Third Term - Deadline
+- Live updates: Trump visits Japan as a US-China trade deal draws closer - AP News
+- Sidelined Russia flexes muscle with missile launch — and Trump is not impressed - CNBC
+- Indiana Gov. Mike Braun calls special session to consider new congressional map - NBC News
+- Air traffic control staffing problems spiked over the weekend, raising concerns about growing disruption - CNN
+- Government shutdown live updates as missed paychecks, benefit lapses increase pressure for deal - CBS News
+- Navy loses 2 aircraft from USS Nimitz aircraft carrier within 30 minutes - KOMO
 - Road out of el-Fasher: Ransom, violence and the price of survival in Sudan - Al Jazeera
-- Red Cross accompanies Hamas in search for bodies of Israeli hostages in Gaza - The Guardian
+- Lammy says human error led to migrant sex offender release as Tories call it 'national embarrassment' - BBC
+- Ireland's president-elect is a left-wing, anti-establishment figure who is outspoken on Gaza - NPR
 - Trump dangles prospect of Mar-a-Lago visit for Xi - politico.eu
-- Finland's stubbornly low birth rate shows why a population shift may be inevitable - NPR
 - S&P 500 rallies 1%, on pace for first close above 6,800 ever on potential China trade truce: Live updates - CNBC
-- Microsoft Stock Rises. Every Analyst Now Says Buy After Latest Upgrade. - Barron's
-- Lululemon partners with NFL to launch officially licensed apparel for all 32 teams - Fox Business
-- Where to invest $10,000 right now, according to 6 top Wall Street minds - businessinsider.com
-- Original Halo Developer Slams Campaign Evolved's Changes - GameSpot
-- OnePlus 15 arrives in China, global launch ‘coming soon’ - The Verge
+- Tesla rehashing old threats to get shareholders to approve Musk’s $1 trillion pay day - The Verge
+- Exxon sues California over climate laws, alleging free speech violations - The Guardian
+- Lululemon to Sell NFL Apparel for First Time in Fanatics Deal - Bloomberg.com
+- Fitbit’s overhauled app and AI health coach arrive tomorrow - The Verge
+- You Could Test Future Halo Games on PS5, PS4 in Insider Program Update - Push Square
