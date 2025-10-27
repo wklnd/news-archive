@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-27 16:49_
+_Updated: 2025-10-27 17:48_
 
-- Hurricane Melissa threatens Jamaica with worst-case scenario as Category 5 - The Washington Post
-- Milei Wins Mandate for Free-Market Revolution in Argentina’s Election - The Wall Street Journal
-- Japan’s New Prime Minister Has an Advantage in Winning Over Trump - The New York Times
-- No federal food aid will go out Nov. 1, Trump administration posts on USDA website - PBS
-- Trump underwent previously undisclosed MRI during Walter Reed visit - Axios
+- Hurricane Melissa strengthens to category 5 as communities in Jamaica warned of ‘potentially unimaginable impact’ – live - The Guardian
+- Argentina’s Bonds, Stocks, Currency Rally After Milei Victory - The Wall Street Journal
+- Trump predicts China trade deal finalized in days as his Asia tour continues in Japan - CBS News
 - People are having fewer kids. Their choice is transforming the world's economy - NPR
-- US Navy helicopter, fighter jet crash in South China Sea in separate incidents - Reuters
-- Indiana Gov. Mike Braun calls a special session to redraw the state’s congressional boundaries - AP News
+- Trump Says a Recent M.R.I. Scan Was ‘Perfect,’ and He’d ‘Love’ a Third Term - The New York Times
+- Navy loses two aircraft from USS Nimitz aircraft carrier within 30 minutes - AP News
 - Capitol agenda: Brace for sharper shutdown pain - Politico
-- Trump says he’d ‘love to’ run in 2028 - politico.eu
-- El-Fasher: UN pleads for safe passage for civilians trapped in war-hit Sudan city - BBC
+- Donald Trump Doesn't Rule Out Running In 2028 For Third Term - Deadline
+- Mamdani: I went door-to-door with Zohran canvassers. What people said surprised me. - Slate
+- FBI arrests 'anarchist' over 'assassination plot' targeting Pam Bondi - Daily Express US
+- Sudan's paramilitary forces push into the army's last Darfur stronghold, killing dozens of civilians - AP News
 - Trump dangles prospect of Mar-a-Lago visit for Xi - politico.eu
-- Paul Biya Is Declared Winner of Cameroon Election - The New York Times
-- Louvre heist leaves a cultural wound — and may turn French crown jewels into legend - AP News
+- Finland's stubbornly low birth rate shows why a population shift may be inevitable - NPR
+- World’s Oldest Ruler Biya Wins Reelection in Cameroon at 92 - Bloomberg.com
 - Dow gains 200 points, hits record on potential China trade truce: Live updates - CNBC
-- Ray Dalio says America is developing a ‘dependency’ on the top 1% of workers, while the bottom 60% are struggling and unproductive - Fortune
 - Where to invest $10,000 right now, according to 6 top Wall Street minds - businessinsider.com
-- World's first yen-pegged stablecoin debuts in Japan - Reuters
+- Japan's JPYC launches country's first yen-denominated stablecoin - theblock.co
+- Novartis to acquire Avidity Biosciences for about $12 billion - Reuters
+- ChatGPT Atlas Browser Can Be Tricked by Fake URLs into Executing Hidden Commands - The Hacker News
 - Samsung’s Galaxy tri-fold tipped to launch this week - GSMArena.com news - GSMArena.com
-- Adobe’s Project Indigo camera finally adds iPhone 17 support - The Verge
