@@ -1,6 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-28 20:52_
+_Updated: 2025-10-28 21:38_
 
 ## Top Stories
 
@@ -8,19 +8,19 @@ _Updated: 2025-10-28 20:52_
 - DN Direkt – Bussar kolliderade i Malmö – två till sjukhus - Dagens Nyheter
 - Netanyahu beordrar omedelbara angrepp mot Gaza - GP
 - Kristersson efter våldtäktsdom: ”Helt orimligt” - Västerbottens-Kuriren
-- Bussar krockade – chaufför klämdes fast - Folkbladet
 - Minderårig misstänkt för brott efter skjutningen - Omni
-- Tidigare skolanställd döms för grova sexualbrott mot barn i Uppsala - SVT Nyheter
-- Höjd risk för fågelinfluensa i sex av Östergötlands kommuner - Länsstyrelsen
+- Bussar krockade – chaufför klämdes fast - Folkbladet
+- Blekinge högriskområde för fågelinfluensa - SVT Nyheter
+- Skolanställd döms till fängelse för sexualbrott mot lågstadieflickor - Dagens Nyheter
 - Så blir höstlovsvädret i Värmland – här kan det bli snö: ”Blöt prognos” - NWT
 - Polis dömd för skador på moppetonåring: ”Nu har du lärt dig en läxa” - Dagens Nyheter
 - Hundratals självmordsförsök bland Israels soldater - UNT
+- Uppgift: Över 60 dödade i knarkräd i Brasilien - Västerbottens-Kuriren
 - Karin Eriksson: Sverige är inte längre storebror i Norden - Dagens Nyheter
-- Granskning: Israel dumpar avfall i Gaza - Västerbottens-Kuriren
-- USA: 14 dödade i nya angrepp mot ”knarkbåtar” - SVT Nyheter
-- AVSER GÖRA EN RIKTAD EMISSION OM 20 MLN KR - Placera.se
-- Kommunrankning av ungas boendesituation visar: Årjäng är bästa kommunen – Malmö den sämsta - svenskbyggtidning -
-- Facket till ICA: Vi vill ha en större del av kakan - tidningensyre.se
+- USA: 14 dödade i nya angrepp mot ”knarkbåtar” - Aftonbladet
+- AMF KAN GÅ IN MED MER KAPITAL I STEGRA - MEDIA - Placera.se
+- Musk släpper AI-genererad Wikipediautmanare - Omni
+- DN Direkt – Apple ansluter till exklusiv skara - Dagens Nyheter
 - Kraftigt vinstlyft för Postnord - Aftonbladet
 - Satechi visar upp fler prylar i OntheGo-serien - Teknikveckan
 - Flaggskeppet Oppo Find X9 släpps i Sverige - Oppos nya flaggskepp släpps här - Ljud & Bild
@@ -28,23 +28,23 @@ _Updated: 2025-10-28 20:52_
 ## World News
 
 - Digi International Announces Digi XBee 3 Global LTE Cat 4 Cellular Modem for IoT Applications - Placera.se
-- Global Telcos Urged to Support New “Scam Signal” to Help Prevent Social Engineering Fraud - Placera.se
+- VNV Global substansvärde minskade under kvartalet - Privata Affärer
 - Svenskens mardröm – missar NHL-matcherna i Stockholm - hockeysverige.se
+- A Global Stage, Infinite Echoes: 2025 Chery International User Summit Co-Creates a Sustainable Future - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- SOUTHWEST AIRLINES PARTNERS WITH HAHNAIR TO EXPAND GLOBAL TICKETING REACH - Placera.se
+- Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- A Global Stage, Infinite Echoes: 2025 Chery International User Summit Co-Creates a Sustainable Future - Placera.se
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
-- VNV Global visar högre substansvärde i dollar - DI
 - Armand Duplantis soars to third world title and 14th world record - BBC
+- VNV Global visar högre substansvärde i dollar - DI
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
-- Finserve Global Security Fund blir Europas första försvarsfond klassificerad som artikel 8 - beQuoted
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Så kan investerare dra nytta av miljardrallyt i global försvarsteknik - Placera.se
 
@@ -76,10 +76,11 @@ _Updated: 2025-10-28 20:52_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- BTQ and ICTK Sign USD 15M Quantum-Secure Chip Development and Joint Investment Agreement to Advance Global Quantum-Safe Hardware - Placera.se
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Student and entry-level programs - EY
 - ANDION GLOBAL SÄKRAR 270 MILJONER USD DOLLAR FÖR ATT UTÖKA VERKSAMHETEN OCH UTBYGGNADEN AV AVFALLSHANTERINGSANLÄGGNINGAR FÖR ATT ÅTERVINNA ORGANISKT AVFALL OCH SKAPA FÖRNYELSEBAR ENERGI - Via TT
@@ -92,7 +93,6 @@ _Updated: 2025-10-28 20:52_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
 
 ## Health
 
@@ -122,43 +122,43 @@ _Updated: 2025-10-28 20:52_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Så gick första året för Pellbrants - Mellanbygden
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
-- Holmgren: Centerpartiet – vi verkar vara överrens - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
