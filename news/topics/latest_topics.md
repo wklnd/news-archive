@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-28 12:46_
+_Updated: 2025-10-28 13:38_
 
 ## Top Stories
 
-- Fotboll: Klart: Caroline Segers nya jobb – blir fotbollschef i Rosengård - SVT Nyheter
-- DN Direkt – Nya kvoter för strömmingsfiske kan leda till kollaps i Östersjön - Dagens Nyheter
-- Kommunen som går emot trenden i Värmland – öppnar för möte om återvandring - NWT
-- Orkanen Melissa årets värsta storm – kan bli värre - GP
-- Explosion vid port på Hisingen i Göteborg - UNT
-- Karin Eriksson: Sverige är inte längre storebror i Norden - Dagens Nyheter
+- Ljusnarsbergs kommun tackar nej till återvandring - SVT Nyheter
+- Starkaste orkanen hittills drar in över Jamaica - Dagens Nyheter
+- Meyas egna ord om våldtäkten: ”Varit väldigt rädd” - Expressen
+- Sverige nedröstat om fisket i Östersjön - GP
+- Trump och Takaichi utbytte beröm vid första mötet - GP
+- Nederländerna i uppror: ”Flyktingarna får allt” - SvD
 - Höjd risk för fågelinfluensa i sex av Östergötlands kommuner - Länsstyrelsen
+- DN Direkt – Explosion vid port på Hisingen i Göteborg - Dagens Nyheter
 - Nya vd:n ska leda Stockholmsambulansen ur krisen: ”Ohållbart” - Dagens Nyheter
-- Utfallet: Flera körkort rök och dryga böter - Västerbottens-Kuriren
-- Dom meddelas i mål om grova sexualbrott mot barn i Uppsala - Åklagarmyndigheten
-- Shinzo Abes mördare erkänner i rätten - Västerbottens-Kuriren
+- Titta! Nu kommer första snön till Värmland: ”Gillas nog av många” - VF
+- Granskning: Israel dumpar avfall i Gaza - Sydsvenskan
 - FN-larm: Civila instängda i Darfur - SVT Nyheter
-- Trump i Japan: Starkaste nivån av allierade - GP
-- Israel tar emot kvarleva av gisslantagen - Corren
+- Finland stoppar rysk-israeliskt tomtköp i Åbos skärgård - Dagens Nyheter
+- Shinzo Abes mördare erkänner i rätten - Västerbottens-Kuriren
 - Baksmällan efter lågränteåren: ”Hushållen är brända” - Dagens Nyheter
-- Musk lanserar eget ”Wikipedia” - Sydsvenskan
 - Dubbelt så dyrt att flyga från Göteborg - SvD
-- Amazon bekräftar uppsägningar – 14.000 jobb bort - DI
+- Musk lanserar eget ”Wikipedia” - Sydsvenskan
+- Svenska kraftnät: Ingen kritisk data stulen - UNT
 - Battlefield 6 får gratis battle royale-läge idag - m3.se
 - Nya Macbook Pro M5 – något enklare att laga än tidigare - Macworld.se
 
@@ -35,18 +35,18 @@ _Updated: 2025-10-28 12:46_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Sverige klättrar på global pensionsrankning - Örebronyheter
 - Eros Capital flaggar upp i Enad Global 7 - DI
 - The 32nd China International Advertising Festival & the 34th AdAsia Beijing 2025 Conclude Successfully - Placera.se
 - Liberty Global to Present at the Morgan Stanley European Technology, Media & Telecom Conference - Placera.se
 - Global content providers choose Colt and Ciena to meet growth in demand for AI content, gaming and streaming - Placera.se
+- The Confidence Paradox: 2025 Global Retirement Pulse Survey - Placera.se
 
 ## Technology
 
@@ -63,12 +63,12 @@ _Updated: 2025-10-28 12:46_
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Deepseek är det nya Linux - Computer Sweden
+- Spår superintelligens om tio år – vill leda racet - Omni
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
 
 ## Business
@@ -76,22 +76,22 @@ _Updated: 2025-10-28 12:46_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Student and entry-level programs - EY
 - ANDION GLOBAL SÄKRAR 270 MILJONER USD DOLLAR FÖR ATT UTÖKA VERKSAMHETEN OCH UTBYGGNADEN AV AVFALLSHANTERINGSANLÄGGNINGAR FÖR ATT ÅTERVINNA ORGANISKT AVFALL OCH SKAPA FÖRNYELSEBAR ENERGI - Via TT
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 
 ## Health
@@ -120,45 +120,45 @@ _Updated: 2025-10-28 12:46_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
-- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Holmgren: Centerpartiet – vi verkar vara överrens - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
