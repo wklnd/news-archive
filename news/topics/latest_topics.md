@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-28 23:39_
+_Updated: 2025-10-29 00:42_
 
 ## Top Stories
 
-- Kristina Lindquist: Jokkmokkupproret är det mest hoppfulla som hänt på länge - Dagens Nyheter
 - Svenske Rikard om orkanen: ”Hoppas på så få skador som möjligt” - SVT Nyheter
+- 64 döda efter räder mot kåkstäder - Aftonbladet
+- Kristina Lindquist: Jokkmokkupproret är det mest hoppfulla som hänt på länge - Dagens Nyheter
 - Ytterligare en misstänkt efter mord i Gävle - GP
 - Våldtäktsdom från Skellefteå sprids internationellt - Dagens Nyheter
-- Netanyahu beordrar omedelbara angrepp mot Gaza - UNT
 - Skolassistent döms för flera sexualbrott mot lågstadieflickor - Aftonbladet
 - Blekinge högriskområde för fågelinfluensa - SVT Nyheter
-- Så blir höstlovsvädret i Värmland – här kan det bli snö: ”Blöt prognos” - NWT
-- Sverige nedröstat om fisket i Östersjön - GP
+- Sverige nedröstat om fisket i Östersjön - UNT
 - Karin Eriksson: Sverige är inte längre storebror i Norden - Dagens Nyheter
-- Hundratals självmordsförsök bland Israels soldater - UNT
-- Uppgift: Över 60 dödade i knarkräd i Brasilien - SvD
+- Kvinna häktad för dödsskjutning i Södertälje - Aftonbladet
+- Israel genomför flygräder mot Gaza – efter order från Netanyahu - Dagens Nyheter
 - DN Direkt – Bussar kolliderade i Malmö – chaufför fastklämd - Dagens Nyheter
+- Hundratals självmordsförsök bland Israels soldater - Västerbottens-Kuriren
 - 16 miljoner nya konton läckta: ”Kolla din dator” - Aftonbladet
-- Dow i täten i New York – AI-rallyt fortsätter - EFN
-- AMF KAN GÅ IN MED MER KAPITAL I STEGRA - MEDIA - Placera.se
 - Gates kritiserar domedagssyn på klimatet - Aftonbladet
-- Teslastrejken unik – rekordmånga fack deltar i konflikten - Arbetet
+- Dow i täten i New York – AI-rallyt fortsätter - EFN
+- Pandemieffekt sitter i – priset fortsätter stiga - SvD
+- Storytel ska öka investeringar i lokalt innehåll - vd - Placera.se
+- Pixel 10a ser ut som en Pixel i renderade ryktesbilder - Swedroid
 - Satechi visar upp fler prylar i OntheGo-serien - Teknikveckan
-- Flaggskeppet Oppo Find X9 släpps i Sverige - Oppos nya flaggskepp släpps här - Ljud & Bild
 
 ## World News
 
@@ -36,15 +36,15 @@ _Updated: 2025-10-28 23:39_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - VNV Global visar högre substansvärde i dollar - DI
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Så kan investerare dra nytta av miljardrallyt i global försvarsteknik - Placera.se
 - Global Telcos Urged to Support New “Scam Signal” to Help Prevent Social Engineering Fraud - Placera.se
 
@@ -64,12 +64,12 @@ _Updated: 2025-10-28 23:39_
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Deepseek är det nya Linux - Computer Sweden
+- Spår superintelligens om tio år – vill leda racet - Omni
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
-- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
 
@@ -99,19 +99,19 @@ _Updated: 2025-10-28 23:39_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
