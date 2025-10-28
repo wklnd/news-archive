@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-29 00:42_
+_Updated: 2025-10-29 01:39_
 
 ## Top Stories
 
-- Svenske Rikard om orkanen: ”Hoppas på så få skador som möjligt” - SVT Nyheter
-- 64 döda efter räder mot kåkstäder - Aftonbladet
+- Över 60 dödade i knarkräd i Brasilien - SVT Nyheter
 - Kristina Lindquist: Jokkmokkupproret är det mest hoppfulla som hänt på länge - Dagens Nyheter
-- Ytterligare en misstänkt efter mord i Gävle - GP
+- Orkanen Melissa årets värsta storm – kan bli värre - GP
+- Minderårig misstänkt för brott efter skjutningen - Omni
 - Våldtäktsdom från Skellefteå sprids internationellt - Dagens Nyheter
-- Skolassistent döms för flera sexualbrott mot lågstadieflickor - Aftonbladet
+- Karin Eriksson: Sverige är inte längre storebror i Norden - Dagens Nyheter
 - Blekinge högriskområde för fågelinfluensa - SVT Nyheter
 - Sverige nedröstat om fisket i Östersjön - UNT
-- Karin Eriksson: Sverige är inte längre storebror i Norden - Dagens Nyheter
+- Skolanställd döms för övergrepp mot 16 flickor - Västerbottens-Kuriren
 - Kvinna häktad för dödsskjutning i Södertälje - Aftonbladet
 - Israel genomför flygräder mot Gaza – efter order från Netanyahu - Dagens Nyheter
 - DN Direkt – Bussar kolliderade i Malmö – chaufför fastklämd - Dagens Nyheter
-- Hundratals självmordsförsök bland Israels soldater - Västerbottens-Kuriren
-- 16 miljoner nya konton läckta: ”Kolla din dator” - Aftonbladet
-- Gates kritiserar domedagssyn på klimatet - Aftonbladet
+- Påven undertecknar apostoliskt brev till minne av 60-årsjubileet för Gravissimum Educationis - Vatican News
+- RSF-milisen i Sudan anklagas för massmord på civila - Dagens Nyheter
 - Dow i täten i New York – AI-rallyt fortsätter - EFN
+- Bill Gates vändning: ”Leder inte till mänsklighetens undergång” - Aftonbladet
 - Pandemieffekt sitter i – priset fortsätter stiga - SvD
 - Storytel ska öka investeringar i lokalt innehåll - vd - Placera.se
 - Pixel 10a ser ut som en Pixel i renderade ryktesbilder - Swedroid
@@ -28,25 +28,25 @@ _Updated: 2025-10-29 00:42_
 ## World News
 
 - Digi International Announces Digi XBee 3 Global LTE Cat 4 Cellular Modem for IoT Applications - Placera.se
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Global Telcos Urged to Support New “Scam Signal” to Help Prevent Social Engineering Fraud - Placera.se
 - Svenskens mardröm – missar NHL-matcherna i Stockholm - hockeysverige.se
-- A Global Stage, Infinite Echoes: 2025 Chery International User Summit Co-Creates a Sustainable Future - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Armand Duplantis soars to third world title and 14th world record - BBC
+- A Global Stage, Infinite Echoes: 2025 Chery International User Summit Co-Creates a Sustainable Future - Placera.se
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
 - VNV Global visar högre substansvärde i dollar - DI
+- Armand Duplantis soars to third world title and 14th world record - BBC
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Så kan investerare dra nytta av miljardrallyt i global försvarsteknik - Placera.se
-- Global Telcos Urged to Support New “Scam Signal” to Help Prevent Social Engineering Fraud - Placera.se
 
 ## Technology
 
@@ -120,25 +120,25 @@ _Updated: 2025-10-29 00:42_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Årets tio största vetenskapliga genombrott - Dagens Nyheter
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -149,16 +149,16 @@ _Updated: 2025-10-29 00:42_
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
-- Så gick första året för Pellbrants - Västerbottens Mellanbygd
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Årets viktigaste internationella livsmedelskonferens – Spot on Food - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
