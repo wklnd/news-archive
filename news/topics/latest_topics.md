@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-28 18:50_
+_Updated: 2025-10-28 19:42_
 
 ## Top Stories
 
+- Netanyahu beordrar omedelbara angrepp mot Gaza - UNT
 - Nej från Olofström till regeringens möte om återvandring - SVT Nyheter
-- Två bussar har krockat i Malmö - Aftonbladet
-- Meteorolog om orkanen: ”Svårt att skydda sig” - GP
-- Netanyahu beordrar omedelbara angrepp mot Gaza - GP
-- Våldtäktsdom från Skellefteå sprids internationellt - Dagens Nyheter
-- Minderårig misstänkt för brott efter skjutningen - Omni
-- Tidigare skolanställd döms för grova sexualbrott mot barn i Uppsala - SVT Nyheter
-- Nya EU-kvoter för strömmingsfiske kan leda till kollaps i Östersjön - Dagens Nyheter
+- Orkancenter: ”Extremt farlig och livshotande situation” - Dagens Nyheter
+- Skolanställd döms för övergrepp mot 16 flickor - SvD
+- Bussförare till sjukhus – klämdes fast efter krock med annan buss i Malmö - Skånska Dagbladet
+- Ytterligare en misstänkt efter mord i Gävle - GP
+- Kristersson efter våldtäktsdom: ”Helt orimligt” - GP
+- Sverige säger nej till fiskekvoterna för Östersjön - Regeringen.se
 - 28 oktober 06.53, Farligt föremål, misstänkt, Göteborg - polisen.se
-- Nya vd:n ska leda Stockholmsambulansen ur krisen: ”Ohållbart” - Dagens Nyheter
+- Nio bilister fick böter i nytt bussfält - Östersunds-Posten
 - Hundratals självmordsförsök bland Israels soldater - UNT
 - Karin Eriksson: Sverige är inte längre storebror i Norden - Dagens Nyheter
+- RSF-milisen i Sudan anklagas för massmord på civila - Dagens Nyheter
 - Granskning: Israel dumpar avfall i Gaza - Västerbottens-Kuriren
-- Trump: Skulle väldigt gärna träffa Kim igen - GP
-- BLANDADE UTFALL FÖR RAPPORTBOLAG, OMXS30 -0,6% - Placera.se
-- Svenska kraftnät: Vi har begränsat dataintrånget - SVT Nyheter
+- AVSER GÖRA EN RIKTAD EMISSION OM 20 MLN KR - Placera.se
 - Kommunrankning av ungas boendesituation visar: Årjäng är bästa kommunen – Malmö den sämsta - svenskbyggtidning -
 - Facket till ICA: Vi vill ha en större del av kakan - tidningensyre.se
+- Kraftigt vinstlyft för Postnord - Aftonbladet
+- Oppo Find X9-serien officiell – flaggskepp med Hasselblad-kamera till Sverige - mobil.se
 - Läcka avslöjar när Samsungs vikbara mobil med trippelskärm lanseras - m3.se
-- DJI släpper sin första robotdammsugare i Sverige – men Romo blir ingen Roborock-utmanare än - TechRadar
 
 ## World News
 
@@ -43,16 +43,15 @@ _Updated: 2025-10-28 18:50_
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Finserve Global Security Fund blir Europas första försvarsfond klassificerad som artikel 8 - beQuoted
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Eros Capital flaggar upp i Enad Global 7 - DI
 - Global Telcos Urged to Support New “Scam Signal” to Help Prevent Social Engineering Fraud - Placera.se
-- Liberty Global to Present at the Morgan Stanley European Technology, Media & Telecom Conference - Placera.se
 
 ## Technology
 
 - NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
-- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
@@ -70,6 +69,7 @@ _Updated: 2025-10-28 18:50_
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Investors Turn to AI-Driven Imaging Firms Targeting High-Growth Breast Cancer Market - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
+- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
 
@@ -104,61 +104,61 @@ _Updated: 2025-10-28 18:50_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Fakulteten för hälsa och samhälle - Malmö universitet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
-- Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Så gick första året för Pellbrants - Mellanbygden
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
+- Holmgren: Centerpartiet – vi verkar vara överrens - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
