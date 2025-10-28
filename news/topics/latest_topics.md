@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-28 05:29_
+_Updated: 2025-10-28 05:52_
 
 ## Top Stories
 
 - ”Livshotande” orkan närmar sig Jamaica – kan bli värsta hittills - Dagens Nyheter
 - Marcus Lindqvist Putins flygande Tjernobyl var strålande propaganda - Hufvudstadsbladet
-- Trump i Japan: Starkt allierade - Västerbottens-Kuriren
 - Buss störtade 300 meter – minst 16 döda - Västerbottens-Kuriren
-- DN Direkt - Efter kritiken – peth-test för körkort kan slopas - Dagens Nyheter
 - Förhöjd risk för fågelinfluensa - restriktioner införs - Länsstyrelsen
-- Stort strömavbrott i centrala Stockholm - SVT Nyheter
+- DN Direkt - Efter kritiken – peth-test för körkort kan slopas - Dagens Nyheter
+- Ukrainas plan – efter Trumps ord - Expressen
+- DN Direkt - Större strömavbrott i centrala Stockholm - Dagens Nyheter
 - Landsbygdsminister Peter Kullgren deltar i jordbruks- och fiskerådet i Luxemburg - Regeringen.se
-- Utredare ska inrätta en ny civil utrikesunderrättelsetjänst - Regeringen.se
+- Ny underrättelsetjänst ska vara klar 2027 - UNT
 - Lastbilsolycka på väg 70 - Södra Dalarnes Tidning
 - FN-larm: Civila instängda i Darfur - SVT Nyheter
-- Dna avslöjar nya bakterier hos Napoleons soldater - Aftonbladet
 - Trump ”skulle älska” att kandidera 2028 - UNT
 - Salma, 36, såg Prideflagga vid barnens skola – återvandrar till Syrien - Expressen
+- DN Direkt - Åkesson: Släpper fram S om inte SD får sitt i regeringen - Dagens Nyheter
 - Uppgifter: Amazon ska säga upp 30.000 - DI
 - Källa: Kina vek troligen ner sig efter nya tullhotet - Omni
 - Teslas ordförande vill ge Musk jättelön - Hufvudstadsbladet
-- Nödvändig översyn av EU:s upphandlingsregler - Svenskt Näringsliv
+- I väntan på vadå? Sitter fast i flytt av ISK helt i onödan - Dagens PS
 - Oneplus presenterar sitt nya flaggskepp - mobil.se
 - AMD förbereder Ryzen 5 7500X3D för mellansegmentet - Nordichardware
 
@@ -35,39 +35,39 @@ _Updated: 2025-10-28 05:29_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - A Global Stage, Infinite Echoes: 2025 Chery International User Summit Co-Creates a Sustainable Future - Placera.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Eros Capital flaggar upp i Enad Global 7 - DI
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Sverige klättrar på global pensionsrankning - Örebronyheter
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Pentair to Attend the Baird 2025 Global Industrial Conference - Placera.se
 - The 32nd China International Advertising Festival & the 34th AdAsia Beijing 2025 Conclude Successfully - Placera.se
 - Liberty Global to Present at the Morgan Stanley European Technology, Media & Telecom Conference - Placera.se
+- The Confidence Paradox: 2025 Global Retirement Pulse Survey - Placera.se
 
 ## Technology
 
+- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Deepseek är det nya Linux - Computer Sweden
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
+- ZenaTech's ZenaDrone Subsidiary to Conduct Meetings with Members of Congress Highlighting its Drone Innovation Followed by Showcasing Drone Solutions at the AUVSI Defense Forum - Placera.se
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
-- XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
+- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 - Investors Turn to AI-Driven Imaging Firms Targeting High-Growth Breast Cancer Market - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
 
@@ -79,11 +79,12 @@ _Updated: 2025-10-28 05:29_
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Student and entry-level programs - EY
+- SEB Investment Management lanserar blockkedje-fond - SEB Group
 - ANDION GLOBAL SÄKRAR 270 MILJONER USD DOLLAR FÖR ATT UTÖKA VERKSAMHETEN OCH UTBYGGNADEN AV AVFALLSHANTERINGSANLÄGGNINGAR FÖR ATT ÅTERVINNA ORGANISKT AVFALL OCH SKAPA FÖRNYELSEBAR ENERGI - Via TT
 - Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
-- Svensk Exportkredit finansierar solkraft i Angola - Cision News
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2025-10-28 05:29_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 
 ## Health
 
