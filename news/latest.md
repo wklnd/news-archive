@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-28 15:18_
+_Updated: 2025-10-28 15:52_
 
-- Hurricane Melissa bears down on Jamaica as its strongest storm in recorded history - AP News
+- Hurricane Melissa strengthens again as its eye nears landfall in Jamaica - CNN
 - US, Japan leaders ink rare earths, nuclear power tie-ups ahead of Trump-Xi meet this week - Reuters
-- With food stamps set to dry up Nov. 1, SNAP recipients say they fear what's next - CBS News
-- GOP-led Oversight Committee says Biden pardons signed by autopen are ‘void’ in final report - CNN
+- Some Americans prepare for halt in SNAP benefits: 'I’m going to have hungry kids' - ABC News - Breaking News, Latest News and Videos
+- House report reveals post-debate turmoil on Biden's team - Axios
+- ‘Trump 2028’: Could the US president really go for a third term? - Al Jazeera
 - China controls the rare earths the world buys - can Trump's new deals change that? - BBC
-- Hamas returns add'l remains of Gaza hostage already buried - The Jerusalem Post
 - California Republicans retreat as anti-Prop 50 campaign collapses - Politico
-- ICE in Chicago news: Nearly 3K arrested in Chicago immigration crackdown, Border Patrol Chief Gregory Bovino says - ABC7 Chicago
+- An object in a satellite image defies explanation. Could it solve one of aviation’s greatest mysteries? - CNN
 - Government shutdown live updates as Vance set to meet with Senate Republicans - CBS News
-- Suspect in Charlie Kirk killing can wear street clothes in court amid ‘extraordinary’ attention - AP News
+- A democratic socialist is poised to become New York mayor. Democrats are nervous. - The Washington Post
+- Casket returned by Hamas had remains of hostage whose body IDF recovered in 2023, Israel says - The Times of Israel
 - Abe shooting suspect Yamagami pleads guilty to murder - The Japan Times
+- Kenya tourist plane crashes kills 11 on board while flying from Diani to Maasai Mara - BBC
 - In Cameroon, the world's oldest leader claims victory — again - NPR
-- Paris prosecutor 'deeply regrets' arrests of Louvre jewel heist suspects were made public during investigation - ABC News - Breaking News, Latest News and Videos
-- Mexican journalist who covered drug cartels found dead on highway with note next to body - CNN
-- Amazon cuts 14,000 corporate jobs as spending on artificial intelligence accelerates - AP News
-- UPS stock soars on third-quarter earnings beat, turnaround plan - CNBC
+- Amazon Lays Off 14,000 Corporate Workers - The Wall Street Journal
 - Texas Sues Tylenol Makers, Claiming They Hid Autism Risks - The New York Times
+- UPS Stuns Wall Street With Strong Profit, 34,000 Job Cuts - Bloomberg.com
 - PayPal partners with OpenAI to let users pay for their shopping within ChatGPT - TechCrunch
-- BREAKING: This is the Galaxy Z TriFold! - SamMobile
-- Google's working on a Trash folder for Messages - Android Authority
+- Galaxy Z Fold8 display and battery details leaked - GSMArena.com news - GSMArena.com
+- Halo: Combat Evolved remake sparks backlash as fans, devs, and even politicians weigh in — excitement meets skepticism - Windows Central
