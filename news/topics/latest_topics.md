@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-28 09:40_
+_Updated: 2025-10-28 10:49_
 
 ## Top Stories
 
-- Misstänkt farligt föremål har exploderat på Hisingen i Göteborg – byggnad utrymd - SVT Nyheter
+- Explosion vid port på Hisingen i Göteborg - UNT
 - Shinzo Abes mördare erkänner i rätten - GP
-- Ny oro om Trumps hälsa – efter hans avslöjande och barnbarnets bild - Expressen
-- FN-rapport: Ryssland jagar civila med drönare - GP
-- Swishförälder? Så ger du barnen ekonomiskt ansvar - Dagens Nyheter
-- Insändare: Trägen vinner - peth-test för körkort kan slopas - NWT
-- Stort strömavbrott i centrala Stockholm - SVT Nyheter
-- Landsbygdsminister Peter Kullgren deltar i jordbruks- och fiskerådet i Luxemburg - Regeringen.se
-- Utfallet: Flera körkort rök och dryga böter - Västerbottens-Kuriren
-- Höjd risk för fågelinfluensa i sex av Östergötlands kommuner - Länsstyrelsen
+- Snö på ingång: ”Dags att sätta på vinterdäcken” - Omni
 - Starkaste orkanen hittills drar in över Jamaica - Dagens Nyheter
+- FN-rapport: Nya ryska brott mot mänskligheten - TV4 Nyheterna
+- Grov misshandel i Kiruna – tonåring till sjukhus - Expressen
+- Höjd risk för fågelinfluensa i sex av Östergötlands kommuner - Länsstyrelsen
+- Stort strömavbrott i centrala Stockholm - SVT Nyheter
+- Utfallet: Flera körkort rök och dryga böter - Västerbottens-Kuriren
+- Dom meddelas i mål om grova sexualbrott mot barn i Uppsala - Åklagarmyndigheten
 - Trump i Japan: Starkaste nivån av allierade - GP
-- Buss störtade 300 meter – minst 16 döda - Västerbottens-Kuriren
 - Så kan EU sätta stopp för Orbán - Altinget.se
+- Israel tar emot kvarleva av gisslantagen - UNT
+- Meta och Tiktok ska följa Australiens åldersgräns - Västerbottens-Kuriren
+- DN Direkt - Explosion vid port på Hisingen i Göteborg - Dagens Nyheter
 - Paramount Skydance kapar 1 000 jobb - Aftonbladet
-- Ica-handlarna som tjänar mest – fick ut 22 miljoner - Aftonbladet
-- Kraftstation får jättelucka i fossilfritt stål - Västerbottens-Kuriren
+- Swish en växande del av ungas vardagsekonomi - Cision News
 - Nya AI-fusket: fejkade utläggskvitton - Computer Sweden
 - Battlefield 6 får gratis battle royale-läge idag - m3.se
 - Som telefonexpert säger jag: vänta med att köpa en ny iPhone tills Black Friday-rean börjar - TechRadar
 
 ## World News
 
+- VNV Global visar högre substansvärde i dollar - DI
 - SOUTHWEST AIRLINES PARTNERS WITH HAHNAIR TO EXPAND GLOBAL TICKETING REACH - Placera.se
 - Svenskens mardröm – missar NHL-matcherna i Stockholm - hockeysverige.se
 - A Global Stage, Infinite Echoes: 2025 Chery International User Summit Co-Creates a Sustainable Future - Placera.se
@@ -34,6 +35,7 @@ _Updated: 2025-10-28 09:40_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Butterfly Network Strengthens Global Information Security Posture with ISO 27001, SOC-2 Type 2, C5 Germany, and NHS DSPT Accreditations - Placera.se
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
@@ -42,10 +44,8 @@ _Updated: 2025-10-28 09:40_
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Eros Capital flaggar upp i Enad Global 7 - DI
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Pentair to Attend the Baird 2025 Global Industrial Conference - Placera.se
 - The 32nd China International Advertising Festival & the 34th AdAsia Beijing 2025 Conclude Successfully - Placera.se
-- Butterfly Network Strengthens Global Information Security Posture with ISO 27001, SOC-2 Type 2, C5 Germany, and NHS DSPT Accreditations - Placera.se
 - Liberty Global to Present at the Morgan Stanley European Technology, Media & Telecom Conference - Placera.se
 
 ## Technology
@@ -55,17 +55,17 @@ _Updated: 2025-10-28 09:40_
 - Investors Turn to AI-Driven Imaging Firms Targeting High-Growth Breast Cancer Market - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Deepseek är det nya Linux - Computer Sweden
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
@@ -103,42 +103,42 @@ _Updated: 2025-10-28 09:40_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
+- Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Biokompatibilitet - En kritisk men ofta förbisedd del av medicinteknisk produktutveckling - Innokas Medical kan hjälpa till - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 
 ## Jordbruk
 
