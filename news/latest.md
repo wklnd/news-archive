@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-28 15:52_
+_Updated: 2025-10-28 16:52_
 
-- Hurricane Melissa strengthens again as its eye nears landfall in Jamaica - CNN
-- US, Japan leaders ink rare earths, nuclear power tie-ups ahead of Trump-Xi meet this week - Reuters
-- Some Americans prepare for halt in SNAP benefits: 'I’m going to have hungry kids' - ABC News - Breaking News, Latest News and Videos
-- House report reveals post-debate turmoil on Biden's team - Axios
+- U.S. strikes 4 more alleged drug boats in the Pacific, killing 14 and leaving 1 survivor - CBS News
+- Hurricane Melissa live updates: 'Catastrophic' storm set to make landfall in Jamaica - ABC News - Breaking News, Latest News and Videos
+- Oversight Committee Releases Report on the Biden Autopen Presidency - House.gov
+- Trump administration says emergency funds can't be used to keep SNAP benefits going - NPR
+- On the Menu for Trump in Tokyo: American Rice - The New York Times
 - ‘Trump 2028’: Could the US president really go for a third term? - Al Jazeera
-- China controls the rare earths the world buys - can Trump's new deals change that? - BBC
+- Top US border official to face judge in Chicago over use of tear gas - Reuters
 - California Republicans retreat as anti-Prop 50 campaign collapses - Politico
-- An object in a satellite image defies explanation. Could it solve one of aviation’s greatest mysteries? - CNN
-- Government shutdown live updates as Vance set to meet with Senate Republicans - CBS News
+- Capitol agenda: JD Vance heads to the Hill on shutdown Day 28 - Politico
 - A democratic socialist is poised to become New York mayor. Democrats are nervous. - The Washington Post
+- Sudan's army loses key city of el-Fasher to rival RSF paramilitary force - BBC
+- Man accused of assassinating Japan's ex-prime minister Shinzo Abe pleads guilty: "Everything is true" - CBS News
+- Plane crashes in Kenya while flying to Maasai Mara National Reserve, killing 11 people - AP News
 - Casket returned by Hamas had remains of hostage whose body IDF recovered in 2023, Israel says - The Times of Israel
-- Abe shooting suspect Yamagami pleads guilty to murder - The Japan Times
-- Kenya tourist plane crashes kills 11 on board while flying from Diani to Maasai Mara - BBC
-- In Cameroon, the world's oldest leader claims victory — again - NPR
-- Amazon Lays Off 14,000 Corporate Workers - The Wall Street Journal
-- Texas Sues Tylenol Makers, Claiming They Hid Autism Risks - The New York Times
-- UPS Stuns Wall Street With Strong Profit, 34,000 Job Cuts - Bloomberg.com
+- Amazon to cut about 14,000 corporate jobs in AI push - Reuters
+- Elon Musk launches encyclopedia ‘fact-checked’ by AI and aligning with rightwing views - The Guardian
 - PayPal partners with OpenAI to let users pay for their shopping within ChatGPT - TechCrunch
+- Stock Market Today: Dow Futures Gain After UnitedHealth Earnings — Live Updates - The Wall Street Journal
 - Galaxy Z Fold8 display and battery details leaked - GSMArena.com news - GSMArena.com
-- Halo: Combat Evolved remake sparks backlash as fans, devs, and even politicians weigh in — excitement meets skepticism - Windows Central
+- Google's next Pixel Drop may land early, as leak spills the beans on features and November ETA - Android Authority
