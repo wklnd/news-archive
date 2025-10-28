@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-28 18:55_
+_Updated: 2025-10-28 19:49_
 
-- Why Hurricane Melissa is so dangerous - BBC
+- Hurricane Melissa on path to historic Jamaica landfall as conditions worsen: Live updates - CNN
 - With food stamps set to dry up Nov. 1, SNAP recipients say they fear what's next - CBS News
-- Japanese Executives Called On by Trump Pledge U.S. Investment - The New York Times
-- Border Patrol's Gregory Bovino begins testimony before federal judge - WBEZ Chicago
-- Trump appeals felony conviction citing Supreme Court immunity - Axios
 - Israel PM Netanyahu orders military to immediately strike Gaza - BBC
+- Judge Blasts Border Patrol Boss Greg Bovino For Violating Excessive Force Order - Block Club Chicago
+- 14 dead in more strikes against alleged drug boats, Hegseth says - ABC News - Breaking News, Latest News and Videos
+- Democrats still not supporting GOP bill to end the shutdown - Politico
+- 'The problems are mounting daily.' Air traffic controllers miss first paychecks in government shutdown - CNBC
+- Trump appeals felony conviction citing Supreme Court immunity - Axios
+- No 'path' for a third Trump term, Mike Johnson says - Live Updates - Politico
 - Democrats face moment of truth as shutdown coalition frays - Politico
-- GOP voters in Northern California brace for loss of representation in fight for US House - AP News
-- ‘Trump 2028’: Could the US president really go for a third term? - Al Jazeera
-- Turning Point faces first big test of its legacy in Arizona - Politico
+- US, Japan leaders sign rare earths, nuclear power deal ahead of Trump-Xi meeting - Reuters
+- Exclusive: US military officials required to sign NDAs tied to Latin America mission, sources say - Reuters
+- 11 killed in Kenya plane crash while en route to Maasai Mara National Reserve - AP News
 - Exclusive | Trump, Xi to Discuss Lowering China Tariffs for Fentanyl Crackdown - The Wall Street Journal
-- Hamas fakes unearthing partial remains of hostage whose body IDF recovered in 2023, Israel says - The Times of Israel
-- Plane flying to Kenya’s Maasai Mara National Reserve crashes, killing 11 people - AP News
-- In Cameroon, the world's oldest leader claims victory — again - NPR
-- Amazon lays off thousands of corporate workers as it spends big on AI - NPR
-- Federal Reserve likely to cut key rate Wednesday and may signal another cut to follow - AP News
-- UPS deepens job cutting as part of turnaround plan, shares surge - CNBC
-- Texas files Tylenol lawsuit, taking cues from Trump and RFK Jr. - The Washington Post
+- Amazon to cut about 14,000 corporate jobs in AI push - Reuters
+- Fed Interest Rate Meeting Begins With Officials Divided on Policy and Blinded by Shutdown - Realtor.com
+- UPS Stock Soars After Earnings. Its Dividend Is Safe—For Now. - Barron's
+- Elon Musk launches encyclopedia ‘fact-checked’ by AI and aligning with rightwing views - The Guardian
 - As its original devs post conflicting takes on the controversial remake, I have to ask: who is Halo: Campaign Evolved for? - Eurogamer
-- Galaxy Z Fold8 display and battery details leaked - GSMArena.com news - GSMArena.com
+- Insta360’s X4 Air is a smaller and cheaper version of its 360-degree X5 action camera - The Verge
