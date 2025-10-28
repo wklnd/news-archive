@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-28 15:47_
+_Updated: 2025-10-28 16:46_
 
 ## Top Stories
 
-- Ljusnarsbergs kommun tackar nej till återvandring - SVT Nyheter
-- DN Direkt – Skolanställd döms till fängelse för sexbrott mot lågstadieflickor - Dagens Nyheter
-- Sverige nedröstat om fisket i Östersjön - GP
-- Kristersson efter våldtäktsdom: Vill ändra systemet - GP
-- Ytterligare en misstänkt efter mord i Gävle - GP
-- Trump och Takaichi utbytte beröm vid första mötet - GP
-- Höjd risk för fågelinfluensa i sex av Östergötlands kommuner - Länsstyrelsen
-- 28 oktober 06.53, Farligt föremål, misstänkt, Göteborg - Polisen.se
-- Nya vd:n ska leda Stockholmsambulansen ur krisen: ”Ohållbart” - Dagens Nyheter
-- Snö på ingång: ”Dags att sätta på vinterdäcken” - Omni
+- Finspång nobbar möte om återvandring: ”Tack, men nej tack” - SVT Nyheter
+- Skolassistent döms för flera sexualbrott mot lågstadieflickor - Aftonbladet
 - Starkaste orkanen hittills drar in över Jamaica - Dagens Nyheter
-- FN-rapport: Ryssland jagar civila med FPV-drönare - Dagens Nyheter
-- IDF anklagas för att dumpa byggavfall inne i Gaza - Omni
+- Kristersson efter våldtäktsdom: Vill ändra systemet - GP
+- DN Direkt – Ytterligare en misstänkt efter mord i Gävle - Dagens Nyheter
+- Trump och Takaichi utbytte beröm vid första mötet - GP
+- DN Direkt – Sverige nedröstat om fisket i Östersjön - Dagens Nyheter
+- Höjd risk för fågelinfluensa i sex av Östergötlands kommuner - Länsstyrelsen
+- 28 oktober 06.53, Farligt föremål, misstänkt, Göteborg - polisen.se
+- Nya vd:n ska leda Stockholmsambulansen ur krisen: ”Ohållbart” - Dagens Nyheter
 - Karin Eriksson: Sverige är inte längre storebror i Norden - Dagens Nyheter
-- Kraftigt vinstlyft för Postnord - Sydsvenskan
-- SSAB i avtal med Vattenfall om leverans av fossilfritt stål till dammlucka - Placera.se
-- Efter räntechocken: Trevande återhämtning på Stockholms bostadsmarknad - Dagens Nyheter
+- FN-rapport: Ryssland jagar civila med FPV-drönare - Dagens Nyheter
+- Hundratals självmordsförsök bland Israels soldater - Västerbottens-Kuriren
+- IDF anklagas för att dumpa byggavfall inne i Gaza - Omni
 - Svenska kraftnät: Vi har begränsat dataintrånget - SVT Nyheter
+- SKA INVESTERA 10 MDR USD I BILFABRIKER ENL TRUMP - WSJ - Placera.se
+- Kraftigt vinstlyft för Postnord - Sydsvenskan
+- Efter räntechocken: Trevande återhämtning på Stockholms bostadsmarknad - Dagens Nyheter
 - Battlefield 6 får gratis battle royale-läge idag - m3.se
-- Test: Rugone Xever 7 Pro – Den tåliga mobilen som aldrig får slut på batteri - mobil.se
+- Läcka avslöjar när Samsungs vikbara mobil med trippelskärm lanseras - m3.se
 
 ## World News
 
@@ -36,12 +36,12 @@ _Updated: 2025-10-28 15:47_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - A Global Stage, Infinite Echoes: 2025 Chery International User Summit Co-Creates a Sustainable Future - Placera.se
-- Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- VNV Global visar högre substansvärde i dollar - DI
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Armand Duplantis soars to third world title and 14th world record - BBC
+- VNV Global visar högre substansvärde i dollar - DI
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Eros Capital flaggar upp i Enad Global 7 - DI
@@ -104,7 +104,6 @@ _Updated: 2025-10-28 15:47_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
 - SIHI Sweden Konferens 2024 - Uppsala universitet
@@ -113,32 +112,33 @@ _Updated: 2025-10-28 15:47_
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
