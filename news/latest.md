@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-28 23:48_
+_Updated: 2025-10-29 00:48_
 
-- Category 5 Hurricane Melissa brings flooding and catastrophic winds to Jamaica - AP News
-- 25 states sue Trump administration over SNAP food stamp freeze during shutdown - CBS News
-- Judge intensifies oversight of agents in Trump's Chicago immigration crackdown - Reuters
+- Hurricane Melissa plows across Jamaica, its eye now moving toward Cuba: Live updates - CNN
+- States sue over Trump administration suspending food benefits during shutdown - Reuters
+- Border Patrol chief leading Trump immigration crackdown in Chicago ordered to report daily to federal judge - Politico
 - Israel launches renewed strikes in Gaza less than 3 weeks into Trump's ceasefire deal - NPR
-- Johnson says he’s spoken with Trump about ‘the constrictions of the Constitution’ on a third term - CNN
+- Judge extends order barring the Trump administration from firing federal workers during the shutdown - AP News
 - Daughter says Brigitte Macron's life 'deteriorated' after alleged cyber-bullying - BBC
-- Airlines are feeding air traffic controllers as they miss their first full paychecks - CBS News
-- Troops will get their paychecks this week, Vance says - Politico
-- Senate Democrats to force vote aimed at blocking Trump's tariffs on Brazil - CBS News
-- AG Pam Bondi reviewing Biden pardons signed by autopen - Axios
-- Trump Bonds With Japan’s Leader Over Baseball and U.S. Beef - The New York Times
+- Congress must act before FAA can pay air traffic controllers, Duffy says - Politico
+- Motorcyclist wanted in connection with California deputy's killing is stopped by off-duty officer during high-speed chase - NBC News
+- Democrats launch alternative bill to save SNAP funding - Politico
+- At least one monkey from on the loose after truck crash in Mississippi, officials say it’s aggressive - WWLTV.com
+- Trump bonds with Japan’s new prime minister, unveils major Japanese investment projects in the U.S. - PBS
 - Exclusive | Trump, Xi to Discuss Lowering China Tariffs for Fentanyl Crackdown - WSJ - The Wall Street Journal
 - Brazil: at least 64 reported killed in Rio’s worst day of violence amid police favela raids - The Guardian
 - Israel calls Hamas' return of partial remains of previously recovered hostage "clear violation" of peace deal - CBS News
-- Amazon Games Unit Hit by Layoffs, Will Halt ‘Significant Amount’ of AAA Development and Shift Online Strategy - Variety
+- "No hire, no fire" job market may no longer be a thing as big companies announce mass layoffs - CBS News
 - OpenAI restructuring pushes Microsoft’s valuation above $4tn - Financial Times
-- Stock Market Today: Nasdaq Jumps As Microsoft Hits $4 Trillion Mark; Biotech Name Leaps (Live Coverage) - Investor's Business Daily
-- Nvidia's $1 billion stake buy sends Nokia shares to decade-high - Reuters
+- Apple hits $4 trillion milestone; Nvidia nears $5 trillion - NBC News
+- Market Wrap: Stocks Hit Record Highs on AI News and Job Cut Announcements - TipRanks
+- Gemini for Home voice assistant starts rolling out in Early Access - 9to5Google
 - Google Pixel 10a keeps its camera bar-free design in first render leak - 9to5Google
-- Insta360’s X4 Air is a smaller and cheaper version of its 360-degree X5 action camera - The Verge
