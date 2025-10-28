@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-28 05:52_
+_Updated: 2025-10-28 06:44_
 
 ## Top Stories
 
-- ”Livshotande” orkan närmar sig Jamaica – kan bli värsta hittills - Dagens Nyheter
+- Kraftigaste orkanen någonsin väntas slå mot hela ön - GP
+- Trump i Japan: Starkt allierade - Västerbottens-Kuriren
+- Körkortet drogs in för Anders, 61 – stämplad som missbrukare - Aftonbladet
+- ”Regeringens lösning på skolproblemen – ta bort problemlösarna” - Vi Lärare
 - Marcus Lindqvist Putins flygande Tjernobyl var strålande propaganda - Hufvudstadsbladet
 - Buss störtade 300 meter – minst 16 döda - Västerbottens-Kuriren
-- Förhöjd risk för fågelinfluensa - restriktioner införs - Länsstyrelsen
-- DN Direkt - Efter kritiken – peth-test för körkort kan slopas - Dagens Nyheter
-- Ukrainas plan – efter Trumps ord - Expressen
-- DN Direkt - Större strömavbrott i centrala Stockholm - Dagens Nyheter
+- Halland högriskområde för fågelinfluensa – fjäderfän ska hållas inomhus - SVT Nyheter
+- Stort strömavbrott i centrala Stockholm - GP
 - Landsbygdsminister Peter Kullgren deltar i jordbruks- och fiskerådet i Luxemburg - Regeringen.se
-- Ny underrättelsetjänst ska vara klar 2027 - UNT
-- Lastbilsolycka på väg 70 - Södra Dalarnes Tidning
+- Ny underrättelsetjänst ska vara klar 2027 - Dagens Nyheter
 - FN-larm: Civila instängda i Darfur - SVT Nyheter
-- Trump ”skulle älska” att kandidera 2028 - UNT
 - Salma, 36, såg Prideflagga vid barnens skola – återvandrar till Syrien - Expressen
 - DN Direkt - Åkesson: Släpper fram S om inte SD får sitt i regeringen - Dagens Nyheter
-- Uppgifter: Amazon ska säga upp 30.000 - DI
-- Källa: Kina vek troligen ner sig efter nya tullhotet - Omni
+- Trump ”skulle älska” att kandidera 2028 - UNT
 - Teslas ordförande vill ge Musk jättelön - Hufvudstadsbladet
-- I väntan på vadå? Sitter fast i flytt av ISK helt i onödan - Dagens PS
+- Nödvändig översyn av EU:s upphandlingsregler - Svenskt Näringsliv
+- Så blev det nya avtalet med Arbetsgivaralliansen - Arbetet
+- PODD 🎧: Teslastrejken fyller två år, men finns det en väg ut? - Dagens Arbete
 - Oneplus presenterar sitt nya flaggskepp - mobil.se
 - AMD förbereder Ryzen 5 7500X3D för mellansegmentet - Nordichardware
 
@@ -50,25 +50,25 @@ _Updated: 2025-10-28 05:52_
 
 ## Technology
 
-- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
-- Främja samarbete inom innovation, vetenskap och teknik samt digital omvandling mellan Vietnam och den indiska delstaten Gujarat - Vietnam.vn
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Investors Turn to AI-Driven Imaging Firms Targeting High-Growth Breast Cancer Market - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
+- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Deepseek är det nya Linux - Computer Sweden
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Lucy Robertshaw: Artificial intelligence – is this really going to transform a patient’s life? - Life Science Sweden
-- ZenaTech's ZenaDrone Subsidiary to Conduct Meetings with Members of Congress Highlighting its Drone Innovation Followed by Showcasing Drone Solutions at the AUVSI Defense Forum - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
-- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
-- Investors Turn to AI-Driven Imaging Firms Targeting High-Growth Breast Cancer Market - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
 
 ## Business
