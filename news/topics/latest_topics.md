@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-29 07:43_
+_Updated: 2025-10-29 08:52_
 
 ## Top Stories
 
-- Orkanen Melissa slår hårt mot Karibien - SVT Nyheter
-- Här festar Kristerssons dotter med vänner på Harpsund - Aftonbladet
-- Direkt – Krisen i Mellanöstern – Röda korset kritiserar Hamas för gömda kvarlevor - Dagens Nyheter
-- Förseningar i tågtrafiken genom Malmö - Skånska Dagbladet
-- Uppgift: Över 60 dödade i knarkräd i Brasilien - GP
-- Kristofer Ahlström: Jag försökte använda AI i ett bråk med sambon, och det gör jag aldrig om - Dagens Nyheter
-- Nobbar regeringen – vill inte ha möte om återvandring - UNT
-- Nya EU-kvoter för strömmingsfiske kan leda till kollaps i Östersjön - Dagens Nyheter
-- Karin Eriksson: Sverige är inte längre storebror i Norden - Dagens Nyheter
-- Resultatet: Flera körkort rök och dryga böter - Folkbladet
+- Man död i Skövde – föll ner i tank i industriområde - SVT Nyheter
+- Minst sju döda i orkanen Melissa – nu väntar Kuba - Dagens Nyheter
+- Statsministerns dotter hade fest på Harpsund - Omni
+- Flera dödade i Netanyahus ”kraftfulla” attack - Västerbottens-Kuriren
+- Mohammad sparkades medvetslös: ”Svenska politiker har stärkt nazisterna” - Dagens Nyheter
+- Jokkmokk vägrade SD-politik och startade en revolution - Arbetet
+- Rödgröna tappar mot Tidö - Västerbottens-Kuriren
+- Sverige nedröstat om fisket i Östersjön - GP
+- Hasse är årets bragdhund – varnade om brand - Västerbottens-Kuriren
+- Strängare kyla i nya Kiruna: ”Solen hittar inte ner” - Dagens Nyheter
 - Nazism och terror när Nederländerna röstar igen - Västerbottens-Kuriren
-- DN Direkt – Bussar kolliderade i Malmö – chaufför fastklämd - Dagens Nyheter
-- RSF-milisen i Sudan anklagas för massmord på civila - Dagens Nyheter
-- Explosion på Hisingen i Göteborg - GP
-- PLANERAR ATT SÄNKA 20-PROCENTIGA TULLAR PÅ KINESISKA VAROR - Placera.se
+- EU-chef hyllar nordisk beredskap - GP
+- Andra Vatikankonciliet 60 år – se det sanna i andra religioner - Signum – Katolsk orientering om kyrka, kultur och samhälle
+- Trump säger han inte får ställa upp för en tredje mandatperiod - Börsvärlden
+- Microsoft får 27 procent av Open AI i nytt avtal - Aftonbladet
 - Teslastrejken unik – rekordmånga fack deltar i konflikten - Arbetet
-- Efter kritiken: Peth-test kan slopas - Västerbottens-Kuriren
 - Kommunrankning av ungas boendesituation visar: Årjäng är bästa kommunen – Malmö den sämsta - svenskbyggtidning -
+- Efter kritiken: Peth-test kan slopas - Västerbottens-Kuriren
 - Adobe uppdaterar sin AI-generator Firefly med stöd för lager och ljud - m3.se
 - Apples tjänsteverksamhet större än både Disney och Tesla - Macworld.se
 
@@ -76,46 +76,46 @@ _Updated: 2025-10-29 07:43_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - BTQ and ICTK Sign USD 15M Quantum-Secure Chip Development and Joint Investment Agreement to Advance Global Quantum-Safe Hardware - Placera.se
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Student and entry-level programs - EY
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- ANDION GLOBAL SÄKRAR 270 MILJONER USD DOLLAR FÖR ATT UTÖKA VERKSAMHETEN OCH UTBYGGNADEN AV AVFALLSHANTERINGSANLÄGGNINGAR FÖR ATT ÅTERVINNA ORGANISKT AVFALL OCH SKAPA FÖRNYELSEBAR ENERGI - Via TT
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -143,11 +143,11 @@ _Updated: 2025-10-29 07:43_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -155,10 +155,10 @@ _Updated: 2025-10-29 07:43_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
 - Så gick första året för Pellbrants - Västerbottens Mellanbygd
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
