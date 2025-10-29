@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-29 15:53_
+_Updated: 2025-10-29 16:53_
 
 - Hurricane Melissa leaves Jamaica devastated. And, the shutdown's impact on airports - NPR
 - S Korea announces lowering of some tariffs as part of new US trade deal - BBC
 - What happens to SNAP benefits already loaded to EBT cards in November - Axios
-- Trump says ‘it’s too bad’ he can’t run for a third term - AP News
-- Israeli Strikes in Gaza Kill at Least 100, Local Health Officials Say - The New York Times
-- The shutdown's pain is spreading, from child care to heating bills - Axios
-- Border Patrol, ICE in Chicago news: During Greg Bovino hearing, Judge Sara Ellis orders daily meetings on immigration ops - ABC7 Chicago
+- Trump seems to acknowledge he can't run for a third term: "It's too bad" - CBS News
+- IDF reservist killed in Tuesday attack in Rafah; Israel says ceasefire restored - The Times of Israel
+- Border patrol leader told to go to court every weekday to report on Chicago enforcement - The Guardian
 - Federal Judge Disqualifies Trump-Backed Prosecutor in Los Angeles - The New York Times
 - Lab monkeys that escaped captivity in Mississippi are not carrying diseases, university says - The Guardian
-- The East Wing demolition was ‘jarring.’ But a White House history buff sees a silver lining - AP News
-- Confident Xi to meet Trump at tenuous time in U.S.-China trade war - The Washington Post
+- Dictionary.com reveals '67' is its 2025 Word of the Year - ABC News - Breaking News, Latest News and Videos
+- Obamacare Prices Become Public, Highlighting Big Increases - The New York Times
 - Raid on gang in Rio de Janeiro leaves at least 64 people dead, including police officers - CBS News
+- Confident Xi to meet Trump at tenuous time in U.S.-China trade war - The Washington Post
 - As the Dutch Vote, One Issue Carries the Day: Affordable Housing - The New York Times
-- PMQs live: Starmer facing questions from Badenoch at PMQs - BBC
+- Messages in a bottle from WWI soldiers found on Australian coast - BBC
+- Nvidia Becomes First $5 Trillion Company - The Wall Street Journal
 - The Fed is expected to cut interest rates as job market shows signs of weakness - NPR
-- Everyone thinks AI is replacing factory workers, but Amazon's layoffs show it's coming for middle management first - Fortune
-- Paramount Layoffs Underway: CEO David Ellison Says Cuts Are ‘Necessary’ for Company’s Long-Term Success - Variety
-- Wall Street ticks higher ahead of Fed's rate decision; Trump’s Asian tour sends Nikkei to a record - AP News
-- Apple Plans MacBook Air, iPad Air and iPad Mini With Overhauled Displays - Bloomberg.com
-- Gemini coming to Google TV Streamer, more devices this winter - 9to5Google
+- Boeing stems cash burn for first time since 2023 but takes $4.9 billion charge on 777X delays - CNBC
+- Stock Market Today: Dow Rises As Nvidia Hits $5 Trillion Market Cap; Fed Rate Decision Ahead (Live Coverage) - Investor's Business Daily
+- YouTube will let you opt out of AI upscaling on low-res videos - The Verge
+- Mother describes the dark side of Apple’s Family Sharing when a relationship ends - 9to5Mac
