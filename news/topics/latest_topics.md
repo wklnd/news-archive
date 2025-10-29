@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-29 09:40_
+_Updated: 2025-10-29 10:49_
 
 ## Top Stories
 
-- Man föll ner i tank på industriområde i Skövde – avled - SVT Nyheter
+- Man död i Skövde – föll ner i tank i industriområde - SVT Nyheter
 - Statsministerns dotter hade fest på Harpsund - Omni
 - Minst sju döda i orkanen Melissa – nu väntar Kuba - Dagens Nyheter
 - Lyft på väg – ”lägre matpriser på bred front” - SvD
+- ”Över min döda kropp att jag kör i Stockholm” - SvD
+- Uppgift: Över 60 dödade i knarkräd i Brasilien - GP
+- Rödgröna tappar mot Tidö - Västerbottens-Kuriren
 - Mohammad sparkades medvetslös: ”Svenska politiker har stärkt nazisterna” - Dagens Nyheter
-- Ny mätning: Rödgröna övertaget mot regeringspartierna minskar kraftigt - Sydsvenskan
 - Nobbar regeringen – vill inte ha möte om återvandring - UNT
-- Strängare kyla i nya Kiruna: ”Solen hittar inte ner” - Dagens Nyheter
-- Sverige nedröstat om fisket i Östersjön - GP
-- Hasse är årets bragdhund – varnade om brand - GP
+- 29 oktober 06.55, Sammanfattning natt, Örebro län - Polisen.se
+- Över 80 döda i Gaza – vapenvilan ändå i kraft - GP
 - Nazism och terror när Nederländerna röstar igen - Västerbottens-Kuriren
-- Flera dödade i Netanyahus ”kraftfulla” attack - Hufvudstadsbladet
-- EU-chef hyllar nordisk beredskap - Västerbottens-Kuriren
-- Andra Vatikankonciliet 60 år – se det sanna i andra religioner - Signum – Katolsk orientering om kyrka, kultur och samhälle
+- JUST NU: Ryskt plan över Östersjön - Expressen
+- Åtal väckt för grovt narkotikabrott i Stockholm - Åklagarmyndigheten
 - Svensk tillväxt var högre än väntat i tredje kvartalet - DI
 - Pandemieffekt sitter i – priset fortsätter stiga - SvD
 - Nokia omfamnas i USA – då blir det negativt för Ericsson - EFN
-- Amazon Web Services ska plöja ner miljarder i nya AI-datacenter i Sydkorea - Placera.se
+- Oväntat starkt från Cevians schweiziska bankjätte - DI
 - Adobe uppdaterar sin AI-generator Firefly med stöd för lager och ljud - m3.se
 - Den japanska superbilen återuppstår: Pininfarina klär NSX i italiensk kolfiber - Dagens PS
 
@@ -46,21 +46,21 @@ _Updated: 2025-10-29 09:40_
 - VNV Global visar högre substansvärde i dollar - DI
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global Telcos Urged to Support New “Scam Signal” to Help Prevent Social Engineering Fraud - Placera.se
+- NEC to Acquire CSG, Strengthening Its Position as a Global Leader in Digital Transformation - Placera.se
 
 ## Technology
 
-- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Investors Turn to AI-Driven Imaging Firms Targeting High-Growth Breast Cancer Market - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Deepseek är det nya Linux - Computer Sweden
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
@@ -68,7 +68,7 @@ _Updated: 2025-10-29 09:40_
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Investors Turn to AI-Driven Imaging Firms Targeting High-Growth Breast Cancer Market - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
 
 ## Business
@@ -84,14 +84,14 @@ _Updated: 2025-10-29 09:40_
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Student and entry-level programs - EY
 - ANDION GLOBAL SÄKRAR 270 MILJONER USD DOLLAR FÖR ATT UTÖKA VERKSAMHETEN OCH UTBYGGNADEN AV AVFALLSHANTERINGSANLÄGGNINGAR FÖR ATT ÅTERVINNA ORGANISKT AVFALL OCH SKAPA FÖRNYELSEBAR ENERGI - Via TT
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 
 ## Health
@@ -121,24 +121,24 @@ _Updated: 2025-10-29 09:40_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Olika slutsatser från samma data - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
