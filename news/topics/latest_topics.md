@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-29 10:49_
+_Updated: 2025-10-29 11:42_
 
 ## Top Stories
 
-- Man död i Skövde – föll ner i tank i industriområde - SVT Nyheter
-- Statsministerns dotter hade fest på Harpsund - Omni
-- Minst sju döda i orkanen Melissa – nu väntar Kuba - Dagens Nyheter
-- Lyft på väg – ”lägre matpriser på bred front” - SvD
+- Statsministerns dotter hade kick-off på Harpsund - Dagens Nyheter
+- Polisen utreder kidnappning – tre personer gripna - SVT Nyheter
+- Henrik Brandão Jönsson: Organiserad brottslighet går inte att stoppa med kulor - Dagens Nyheter
 - ”Över min döda kropp att jag kör i Stockholm” - SvD
-- Uppgift: Över 60 dödade i knarkräd i Brasilien - GP
+- Debatt Lyssna på forskarna och inför kommunal köttskatt i Dalarna som i Århus - Dala-Demokraten
+- Tekniskt fel misstänkt orsak till bussolycka - GP
 - Rödgröna tappar mot Tidö - Västerbottens-Kuriren
-- Mohammad sparkades medvetslös: ”Svenska politiker har stärkt nazisterna” - Dagens Nyheter
-- Nobbar regeringen – vill inte ha möte om återvandring - UNT
-- 29 oktober 06.55, Sammanfattning natt, Örebro län - Polisen.se
-- Över 80 döda i Gaza – vapenvilan ändå i kraft - GP
+- Man död i Skövde – föll ner i tank i industriområde - SVT Nyheter
+- Hasse är årets bragdhund – varnade om brand - GP
+- Jokkmokk vägrade SD-politik och startade en revolution - Arbetet
+- Orkanen Melissa slår mot Kuba – hundratusentals evakuerade - SVT Nyheter
+- Flera dödade i Netanyahus ”kraftfulla” attack - Hufvudstadsbladet
 - Nazism och terror när Nederländerna röstar igen - Västerbottens-Kuriren
-- JUST NU: Ryskt plan över Östersjön - Expressen
-- Åtal väckt för grovt narkotikabrott i Stockholm - Åklagarmyndigheten
+- Flaskpost från första världskriget hittad på strand i Australien - Dagens Nyheter
 - Svensk tillväxt var högre än väntat i tredje kvartalet - DI
-- Pandemieffekt sitter i – priset fortsätter stiga - SvD
 - Nokia omfamnas i USA – då blir det negativt för Ericsson - EFN
+- Pandemieffekt sitter i – priset fortsätter stiga - SvD
 - Oväntat starkt från Cevians schweiziska bankjätte - DI
 - Adobe uppdaterar sin AI-generator Firefly med stöd för lager och ljud - m3.se
 - Den japanska superbilen återuppstår: Pininfarina klär NSX i italiensk kolfiber - Dagens PS
@@ -37,22 +37,22 @@ _Updated: 2025-10-29 10:49_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - A Global Stage, Infinite Echoes: 2025 Chery International User Summit Co-Creates a Sustainable Future - Placera.se
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- SOUTHWEST AIRLINES PARTNERS WITH HAHNAIR TO EXPAND GLOBAL TICKETING REACH - Placera.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - VNV Global visar högre substansvärde i dollar - DI
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - NEC to Acquire CSG, Strengthening Its Position as a Global Leader in Digital Transformation - Placera.se
+- Global Telcos Urged to Support New “Scam Signal” to Help Prevent Social Engineering Fraud - Placera.se
 
 ## Technology
 
-- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
+- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Investors Turn to AI-Driven Imaging Firms Targeting High-Growth Breast Cancer Market - Placera.se
+- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
@@ -62,13 +62,13 @@ _Updated: 2025-10-29 10:49_
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Deepseek är det nya Linux - Computer Sweden
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- Investors Turn to AI-Driven Imaging Firms Targeting High-Growth Breast Cancer Market - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
 
 ## Business
@@ -84,14 +84,14 @@ _Updated: 2025-10-29 10:49_
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Student and entry-level programs - EY
 - ANDION GLOBAL SÄKRAR 270 MILJONER USD DOLLAR FÖR ATT UTÖKA VERKSAMHETEN OCH UTBYGGNADEN AV AVFALLSHANTERINGSANLÄGGNINGAR FÖR ATT ÅTERVINNA ORGANISKT AVFALL OCH SKAPA FÖRNYELSEBAR ENERGI - Via TT
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 
 ## Health
@@ -120,25 +120,25 @@ _Updated: 2025-10-29 10:49_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Studie om mikroplast fälld för fusk - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Olika slutsatser från samma data - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
