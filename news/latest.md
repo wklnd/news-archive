@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-29 20:54_
+_Updated: 2025-10-29 21:48_
 
-- Federal Reserve issues FOMC statement - Federal Reserve Board (.gov)
+- Dow drops 200 points, giving up gain after Powell signals Fed may not cut again this year: Live updates - CNBC
 - Hurricane Melissa hits Cuba after leaving trail of destruction in Jamaica - The Washington Post
-- Trump scores golden gifts as United States and Seoul advance trade talks - AP News
 - What happens to SNAP benefits already loaded to EBT cards in November - Axios
-- Obamacare Prices Become Public, Highlighting Big Increases - The New York Times
 - At least 132 killed in Rio police raid, officials say - BBC
-- Lab Monkeys Escape Overturned Truck Near Heidelberg, Mississippi, But Are Not Infected - Mississippi Free Press
-- "I guess I'm not allowed to run": Trump concedes third term won't happen - Axios
-- Why a US-China trade deal matters to the global economy - Al Jazeera
-- White House fires entire commission that reviews designs for federal buildings - NPR
+- Obamacare Prices Become Public, Highlighting Big Increases - The New York Times
+- Trump scores golden gifts as United States and Seoul advance trade talks - AP News
+- Day 8: Jury deliberation continues in Sean Grayson murder trial - WICS
+- Mississippi university says escaped monkeys are not diseased - FOX13 Memphis
+- Shutdown is costing U.S. economy $7 billion per month, budget office says - NBC News
+- Thieves dressed as construction workers steal safe, jewelry valued at $3.2M from New York home - ABC News - Breaking News, Latest News and Videos
 - Israeli Army Says Ceasefire in Gaza Resumed After Strikes - Bloomberg
-- Louvre heist suspects have admitted involvement in jewels theft - CNN
-- Confident Xi to meet Trump at tenuous time in U.S.-China trade war - The Washington Post
+- Louvre suspects ‘partially admit’ their role in jewel heist - The Guardian
+- Trump’s high-wire meeting with Xi will test his tariff brinkmanship - Politico
 - Sudan war: New videos show executions after RSF militia takes key city - BBC
-- Nvidia becomes first public company worth $5 trillion - TechCrunch
-- Microsoft Azure outage: Heathrow, Xbox and Minecraft among sites down - BBC
-- GM lays off more than 1,700 at sites in Michigan, Ohio, citing EV challenges - CNBC
-- Paramount Layoffs Hit CBS News: Morning, Evening Streaming Shows Axed - Deadline
-- Apple will reportedly shift to OLED displays for MacBooks, iPad Air and Mini - Engadget
-- Adobe MAX conference highlights AI partnerships and platform expansion - Yahoo Finance
+- Everyone thinks AI is replacing factory workers, but Amazon’s layoffs show it’s coming for middle management first - Fortune
+- CBS News to Overhaul Saturday Morning Show After Paramount Layoffs u - variety.com
+- Boeing Reports Bigger Quarterly Loss but Sales Improved - The New York Times
+- Character.AI is ending its chatbot experience for kids - TechCrunch
+- Samsung's Wild-Looking Tri-Fold Phone Debuts at APEC Summit in South Korea - CNET
+- Android Auto prepares support for app widgets as latest updates roll out [Gallery] - 9to5Google
