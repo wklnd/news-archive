@@ -1,34 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-29 11:42_
+_Updated: 2025-10-29 12:45_
 
 ## Top Stories
 
 - Statsministerns dotter hade kick-off på Harpsund - Dagens Nyheter
-- Polisen utreder kidnappning – tre personer gripna - SVT Nyheter
-- Henrik Brandão Jönsson: Organiserad brottslighet går inte att stoppa med kulor - Dagens Nyheter
-- ”Över min döda kropp att jag kör i Stockholm” - SvD
-- Debatt Lyssna på forskarna och inför kommunal köttskatt i Dalarna som i Århus - Dala-Demokraten
-- Tekniskt fel misstänkt orsak till bussolycka - GP
+- Man omkom efter olycka med tankbil i Skövde - Arbetaren
+- Tekniskt fel misstänkt orsak till bussolyckan i Malmö - SVT Nyheter
+- Polisen utreder misstänkt kidnappning – tre personer kunde gripas utanför Skara - NLT
+- Ny dom i jättehärvan kring Think Pink - Expressen
+- Orkanen på väg mot Kuba – 735 000 evakuerade - Västerbottens-Kuriren
+- Pedofiljägare i Ö-vik döms - Västerbottens-Kuriren
 - Rödgröna tappar mot Tidö - Västerbottens-Kuriren
-- Man död i Skövde – föll ner i tank i industriområde - SVT Nyheter
 - Hasse är årets bragdhund – varnade om brand - GP
 - Jokkmokk vägrade SD-politik och startade en revolution - Arbetet
-- Orkanen Melissa slår mot Kuba – hundratusentals evakuerade - SVT Nyheter
 - Flera dödade i Netanyahus ”kraftfulla” attack - Hufvudstadsbladet
-- Nazism och terror när Nederländerna röstar igen - Västerbottens-Kuriren
+- DN Direkt – Mohammad sparkades medvetslös: ”Svenska politiker har stärkt nazisterna” - Dagens Nyheter
 - Flaskpost från första världskriget hittad på strand i Australien - Dagens Nyheter
-- Svensk tillväxt var högre än väntat i tredje kvartalet - DI
-- Nokia omfamnas i USA – då blir det negativt för Ericsson - EFN
-- Pandemieffekt sitter i – priset fortsätter stiga - SvD
+- Det här behöver du veta inför valet i Nederländerna - Dagens Arena
+- Svensk bnp överraskar – räntehöjning nästa steg - NWT
+- En avdelningschef och en serviceledare på Bravida döms för grovt bedrägeri mot Region Skåne - Sveriges Domstolar
 - Oväntat starkt från Cevians schweiziska bankjätte - DI
+- Pandemieffekt sitter i – priset fortsätter stiga - SvD
 - Adobe uppdaterar sin AI-generator Firefly med stöd för lager och ljud - m3.se
-- Den japanska superbilen återuppstår: Pininfarina klär NSX i italiensk kolfiber - Dagens PS
+- Alla rykten om Apples jubileums modell – Iphone 20 - Macworld.se
 
 ## World News
 
 - Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Digi International Announces Digi XBee 3 Global LTE Cat 4 Cellular Modem for IoT Applications - Placera.se
 - Svenskens mardröm – missar NHL-matcherna i Stockholm - hockeysverige.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
@@ -37,37 +36,38 @@ _Updated: 2025-10-29 11:42_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - A Global Stage, Infinite Echoes: 2025 Chery International User Summit Co-Creates a Sustainable Future - Placera.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - VNV Global visar högre substansvärde i dollar - DI
 - Armand Duplantis soars to third world title and 14th world record - BBC
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - NEC to Acquire CSG, Strengthening Its Position as a Global Leader in Digital Transformation - Placera.se
 - Global Telcos Urged to Support New “Scam Signal” to Help Prevent Social Engineering Fraud - Placera.se
+- Tencent's CarbonX Program 2.0 Identifies 50 Global Finalists in Race to Scale Climate Solutions - Placera.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
 - NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
-- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Deepseek är det nya Linux - Computer Sweden
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Investors Turn to AI-Driven Imaging Firms Targeting High-Growth Breast Cancer Market - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
 
@@ -84,14 +84,14 @@ _Updated: 2025-10-29 11:42_
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Student and entry-level programs - EY
 - ANDION GLOBAL SÄKRAR 270 MILJONER USD DOLLAR FÖR ATT UTÖKA VERKSAMHETEN OCH UTBYGGNADEN AV AVFALLSHANTERINGSANLÄGGNINGAR FÖR ATT ÅTERVINNA ORGANISKT AVFALL OCH SKAPA FÖRNYELSEBAR ENERGI - Via TT
+- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 
 ## Health
@@ -103,42 +103,42 @@ _Updated: 2025-10-29 11:42_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
-- Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
@@ -151,14 +151,14 @@ _Updated: 2025-10-29 11:42_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Här är världens största jordbruk - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Maskinförare | Jobb | ATL - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
