@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-29 13:48_
+_Updated: 2025-10-29 15:20_
 
-- Jamaica wakes to no electricity and destruction after Hurricane Melissa - BBC
-- US and South Korea seal trade deal - Financial Times
-- Trump seems to close the door on trying for another term - Politico
+- Hurricane Melissa leaves Jamaica devastated. And, the shutdown's impact on airports - NPR
+- S Korea announces lowering of some tariffs as part of new US trade deal - BBC
+- Trump says ‘it’s too bad’ he can’t run for a third term - AP News
 - What happens to SNAP benefits already loaded to EBT cards in November - Axios
-- White House Fires Arts Commission Overseeing Trump’s D.C. Building Projects - The New York Times
-- The shutdown's pain is spreading, from child care to heating bills - Axios
+- Israeli strikes in Gaza kill at least 104 overnight as ceasefire looks increasingly fragile - The Guardian
+- Trump fires board that oversees D.C. construction projects, as he plans major changes to White House - CBS News
+- Border Patrol, ICE in Chicago news: During Greg Bovino hearing, Judge Sara Ellis orders daily meetings on immigration ops - ABC7 Chicago
 - Federal Judge Disqualifies Trump-Backed Prosecutor in Los Angeles - The New York Times
-- Judge orders Border Patrol's Bovino to return to court daily, wear a bodycam, follow rules on tear gas - Chicago Sun-Times
+- Lab monkeys that escaped captivity in Mississippi are not carrying diseases, university says - The Guardian
 - Appeals court will reconsider whether Trump can send troops to Portland - The Washington Post
-- Lab Monkeys Escape Overturned Truck Near Heidelberg, Mississippi, But Are Not Infected - Mississippi Free Press
-- IDF reservist killed in Tuesday attack in Rafah; Israel says ceasefire restored - The Times of Israel
-- Huge raid on Rio gang leaves at least 64 people dead and 81 under arrest in Brazil - NBC News
 - Column | As Trump meets Xi, it’s advantage China - The Washington Post
+- Raid on gang in Rio de Janeiro leaves at least 64 people dead, including police officers - CBS News
 - As the Dutch Vote, One Issue Carries the Day: Affordable Housing - The New York Times
-- Microsoft CEO Satya Nadella says Bill Gates warned him that investing in OpenAI would be like setting $1 billion on fire - businessinsider.com
-- As Amazon lays off 14,000, some employees worry more cuts loom - The Seattle Times
+- Messages in a bottle from WWI soldiers found on Australian coast - BBC
+- Wall Street ticks higher ahead of Fed's rate decision; Trump’s Asian tour sends Nikkei to a record - AP News
+- Paramount Layoffs Underway: CEO David Ellison Says Cuts Are ‘Necessary’ for Company’s Long-Term Success - Variety
+- Everyone thinks AI is replacing factory workers, but Amazon's layoffs show it's coming for middle management first - Fortune
 - The Fed is expected to cut interest rates as job market shows signs of weakness - NPR
-- Mega Millions Jackpot Crosses $750 Million—Here’s How Much The Winner Could Take Home After Taxes - Forbes
+- Gemini coming to Google TV Streamer, more devices this winter - 9to5Google
 - Apple Plans MacBook Air, iPad Air and iPad Mini With Overhauled Displays - Bloomberg.com
-- Samsung's Wild-Looking Tri-Fold Phone Debuts at APEC Summit in South Korea - CNET
