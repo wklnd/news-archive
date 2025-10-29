@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-29 23:48_
+_Updated: 2025-10-30 00:48_
 
-- Disastrous images emerge from Jamaica following direct hit by Hurricane Melissa - ABC News - Breaking News, Latest News and Videos
+- Hurricane Melissa leaves dozens dead in trail of destruction across Cuba, Haiti and Jamaica - AP News
 - Illinois deputy found guilty of murder in the shooting of Sonya Massey, a Black woman who called 911 asking for help - CNN
 - Western Mass. Healey aide arrested; police say cocaine was sent to Springfield state office - The Boston Globe
-- Hundreds reportedly killed at Sudanese hospital as evidence of RSF atrocities mounts - The Guardian
-- Death toll in police raid on drug gang in Rio rises 119, Brazilian police say - AP News
-- Obamacare Prices Become Public, Highlighting Big Increases - The New York Times
-- Democrats ramp up probes into Trump’s $300 million White House ballroom - The Washington Post
+- Appeals court blocks order requiring CBP's Greg Bovino to meet with judge daily on Chicago immigration crackdown - ABC News - Breaking News, Latest News and Videos
+- White House fires entire commission that reviews designs for federal buildings - NPR
+- ‘This was a slaughter, not an operation’: the favela reeling from Rio’s deadliest police raid - The Guardian
+- Senate to vote on repealing Trump's tariffs on Canada after passing similar bill on Brazil - ABC News - Breaking News, Latest News and Videos
+- Some White House ballroom contractors go underground - CBS News
+- Another blow for Trump as judge disqualifies ‘unlawfully serving’ top prosecutor in Los Angeles - The Independent
 - ICE shake-up will increase arrest numbers. That doesn’t mean there will be more deportations. - Politico
-- Thieves disguised as construction workers pull off $3.2 million New York City jewelry and safe heist - NBC News
-- Report: Government shutdown will cost the economy up to $14 billion - The Washington Post
-- Israeli Army Says Ceasefire in Gaza Resumed After Strikes - Bloomberg
-- Dutch election is too close to call, exit poll says - politico.eu
+- Israeli Army Says Ceasefire in Gaza Resumed After Strikes - Bloomberg.com
 - Two Louvre heist suspects 'partially admit' involvement, prosecutor says - BBC
-- Video Analysis Shows Staged Recovery of Israeli Hostage Remains - The New York Times
-- Federal Reserve cuts rates to lowest level in three years - CNN
-- Nvidia becomes world's first $5tn company - BBC
-- Everyone thinks AI is replacing factory workers, but Amazon’s layoffs show it’s coming for middle management first - Fortune
+- Geert Wilders’s Party for Freedom Loses Seats in Dutch Election - The New York Times
+- Genocide warnings 'flashing red' after RSF takeover of Sudan's El-Fasher - France 24
+- Federal Reserve cuts key rate yet Powell says future reductions are not locked in - AP News
+- Meta Q3 Earnings Stunted by Nearly $16 Billion U.S. Tax Charge Because of Trump’s One Big Beautiful Bill Act - variety.com
+- Amazon layoffs hit software engineers hardest in Washington - GeekWire
 - Google Earnings Beat As Search, Cloud, YouTube Revenue Top Views - Investor's Business Daily
-- Samsung's Wild-Looking Tri-Fold Phone Debuts at APEC Summit in South Korea - CNET
 - Android Auto prepares support for app widgets as latest updates roll out [Gallery] - 9to5Google
+- Samsung's Wild-Looking Tri-Fold Phone Debuts at APEC Summit in South Korea - CNET
