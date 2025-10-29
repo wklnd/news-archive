@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-29 22:43_
+_Updated: 2025-10-29 23:39_
 
 ## Top Stories
 
-- M i Lund trotsar regeringen – vill inte prata återvandring - Dagens Nyheter
+- Teorin: Narkotikaskuld bakom sprängning – mamma och barn skadades svårt - Dagens Nyheter
+- Miljonerna från Lidl plöjs ned i den lilla staden Heilbronn - Dagens Nyheter
 - Statsministerns dotter hade kick-off på Harpsund - UNT
-- Fem åtalas för grovt narkotikabrott – kopplas till sprängdåd i Tumba - SVT Nyheter
-- Vallokalsundersökning visar: Liberaler mot vinst i Nederländerna - SVT Nyheter
 - Var brexit en historisk ofrånkomlighet? - SvD
+- Kristina Lindquist: Jokkmokkupproret är det mest hoppfulla som hänt på länge - Dagens Nyheter
 - Många döda på Haiti när Melissa drog in - Hufvudstadsbladet
 - Stopp i tågtrafiken över Öresundsbron - Expressen
 - Strömmer om attacken mot Mohammad: ”Omskakande” - Dagens Nyheter
 - 29 oktober 18.46, Trafikkontroll, Västerbottens län - polisen.se
 - Natthemtjänsten sov på arbetstid och åkte inte på larm - Dagens Nyheter
+- Bakslag för Wilders – liberal frammarsch i Haag - Folkbladet
 - Venezuela har förstört colombianska "knarkläger" - Västerbottens-Kuriren
 - Hundratal döda i Gaza – vapenvilan ändå i kraft - Hufvudstadsbladet
-- Anförande av utrikesminister Maria Malmer Stenergard vid Nordiska rådets 77:e session i Stockholm 2025 - Regeringen.se
-- Andra Vatikankonciliet 60 år – se det sanna i andra religioner - Signum – Katolsk orientering om kyrka, kultur och samhälle
-- Så minns näringslivet Erik Paulsson - EFN
+- DN Direkt – Man försökte stjäla el från bostadsrättsförening - Dagens Nyheter
+- Peab-grundaren Erik Paulsson är död – blev 83 år gammal - HD
 - Stora internetproblem för Microsofts molntjänst - DI
-- Vad du behöver veta om ränteläget och hushållens ekonomi - Vad Vi Vet.
+- 2 miljarder i utdelning: "Inte mycket" - Dagens PS
 - Scanias vd: ”Vi riskerar enorma EU-böter” - Dagens Nyheter
 - Trumps ”Halo”-memes väcker ilska: ”Fascism” - UNT
 - Är detta nästa svenska spelsuccé? “Bästa jag spelat” - MovieZine
 
 ## World News
 
+- Wolverine Worldwide Declares Quarterly Dividend - Placera.se
 - Svensken skadad – riskerar missa NHL-matcherna i Sverige - hockeysverige.se
 - Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
@@ -43,7 +44,6 @@ _Updated: 2025-10-29 22:43_
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - A Global Stage, Infinite Echoes: 2025 Chery International User Summit Co-Creates a Sustainable Future - Placera.se
 - NEC to Acquire CSG, Strengthening Its Position as a Global Leader in Digital Transformation - Placera.se
