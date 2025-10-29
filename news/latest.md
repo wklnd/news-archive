@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-29 19:49_
+_Updated: 2025-10-29 20:54_
 
-- Hurricane Melissa Aftermath Photos and Video: Jamaica and the Caribbean - The New York Times
-- At least 64 killed in Rio's largest police raid on gangs - BBC
-- Obamacare enrollees get first look at 2026 prices as premiums soar - CNN
+- Federal Reserve issues FOMC statement - Federal Reserve Board (.gov)
+- Hurricane Melissa hits Cuba after leaving trail of destruction in Jamaica - The Washington Post
+- Trump scores golden gifts as United States and Seoul advance trade talks - AP News
 - What happens to SNAP benefits already loaded to EBT cards in November - Axios
-- Fact Sheet: President Donald J. Trump Brings Home More Billion Dollar Deals During State Visit to the Republic of Korea - The White House (.gov)
-- Messages in bottle written by World War I soldiers in 1916 found on Australian beach: "Absolutely stunned" - CBS News
-- Trump Elaborates On His New Threat And Jabs At Reporter Who Asks About It - HuffPost
+- Obamacare Prices Become Public, Highlighting Big Increases - The New York Times
+- At least 132 killed in Rio police raid, officials say - BBC
 - Lab Monkeys Escape Overturned Truck Near Heidelberg, Mississippi, But Are Not Infected - Mississippi Free Press
 - "I guess I'm not allowed to run": Trump concedes third term won't happen - Axios
-- Dictionary.com reveals '67' is its 2025 Word of the Year - ABC News - Breaking News, Latest News and Videos
+- Why a US-China trade deal matters to the global economy - Al Jazeera
+- White House fires entire commission that reviews designs for federal buildings - NPR
 - Israeli Army Says Ceasefire in Gaza Resumed After Strikes - Bloomberg
-- Paris prosecutor says 2 suspects in the Louvre jewel heist ‘partially’ admit their participation - AP News
-- U.N. Climate Adaptation Report Shows Declining Money for Climate Disasters - The New York Times
+- Louvre heist suspects have admitted involvement in jewels theft - CNN
 - Confident Xi to meet Trump at tenuous time in U.S.-China trade war - The Washington Post
-- US Treasuries Dip With Traders’ Bets on a Fed Rate Cut Locked In - Bloomberg
-- Nvidia Becomes First $5 Trillion Company - WSJ - The Wall Street Journal
+- Sudan war: New videos show executions after RSF militia takes key city - BBC
+- Nvidia becomes first public company worth $5 trillion - TechCrunch
+- Microsoft Azure outage: Heathrow, Xbox and Minecraft among sites down - BBC
+- GM lays off more than 1,700 at sites in Michigan, Ohio, citing EV challenges - CNBC
 - Paramount Layoffs Hit CBS News: Morning, Evening Streaming Shows Axed - Deadline
-- Boeing Reports Big Quarterly Loss but Sales Improved - The New York Times
 - Apple will reportedly shift to OLED displays for MacBooks, iPad Air and Mini - Engadget
-- Amazon’s Two New Echo Speakers Present a Clear Winner — With or Without Alexa+ - Bloomberg
+- Adobe MAX conference highlights AI partnerships and platform expansion - Yahoo Finance
