@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-29 23:39_
+_Updated: 2025-10-30 00:42_
 
 ## Top Stories
 
-- Teorin: Narkotikaskuld bakom sprängning – mamma och barn skadades svårt - Dagens Nyheter
+- M i Lund trotsar regeringen – vill inte prata återvandring - Dagens Nyheter
+- S: Kristersson bryter mot statligt regelverk - GP
+- Michelle Obama bryter tystnaden: Ville inte distrahera - Aftonbladet
 - Miljonerna från Lidl plöjs ned i den lilla staden Heilbronn - Dagens Nyheter
-- Statsministerns dotter hade kick-off på Harpsund - UNT
-- Var brexit en historisk ofrånkomlighet? - SvD
-- Kristina Lindquist: Jokkmokkupproret är det mest hoppfulla som hänt på länge - Dagens Nyheter
-- Många döda på Haiti när Melissa drog in - Hufvudstadsbladet
+- Fem åtalas för grovt narkotikabrott – kopplas till sprängdåd i Tumba - SVT Nyheter
+- Natthemtjänsten sov på arbetstid och åkte inte på larm - Dagens Nyheter
+- Nya EU-kvoter för strömmingsfiske kan leda till kollaps i Östersjön - Dagens Nyheter
 - Stopp i tågtrafiken över Öresundsbron - Expressen
 - Strömmer om attacken mot Mohammad: ”Omskakande” - Dagens Nyheter
-- 29 oktober 18.46, Trafikkontroll, Västerbottens län - polisen.se
-- Natthemtjänsten sov på arbetstid och åkte inte på larm - Dagens Nyheter
-- Bakslag för Wilders – liberal frammarsch i Haag - Folkbladet
-- Venezuela har förstört colombianska "knarkläger" - Västerbottens-Kuriren
-- Hundratal döda i Gaza – vapenvilan ändå i kraft - Hufvudstadsbladet
-- DN Direkt – Man försökte stjäla el från bostadsrättsförening - Dagens Nyheter
-- Peab-grundaren Erik Paulsson är död – blev 83 år gammal - HD
+- Utfallet: Flera körkort rök och dryga böter - Västerbottens-Kuriren
+- Liberaler störst i Haag – Wilders bara tvåa - Västerbottens-Kuriren
+- Venezuela har förstört colombianska "knarkläger" - GP
+- Peter Alestig: Melissa visar oss att klimatkrisen kräver ny skala för orkaner - Dagens Nyheter
+- DN Direkt – Misstänkt elstöld på Östermalm - Dagens Nyheter
 - Stora internetproblem för Microsofts molntjänst - DI
-- 2 miljarder i utdelning: "Inte mycket" - Dagens PS
-- Scanias vd: ”Vi riskerar enorma EU-böter” - Dagens Nyheter
+- Personalen kämpar för att leva på sin lön - Örebronyheter
+- Så minns näringslivet Erik Paulsson - EFN
+- Scanias VD om satsningen i Kina: Vår styrka - Placera.se
 - Trumps ”Halo”-memes väcker ilska: ”Fascism” - UNT
-- Är detta nästa svenska spelsuccé? “Bästa jag spelat” - MovieZine
+- ”Battlefield 6” släpper efterlängtat spelläge – helt gratis - MovieZine
 
 ## World News
 
@@ -51,48 +51,48 @@ _Updated: 2025-10-29 23:39_
 ## Technology
 
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
-- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Investors Turn to AI-Driven Imaging Firms Targeting High-Growth Breast Cancer Market - Placera.se
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
+- YPF and Globant Advance a Major Project to Transform and Optimize the Supply Chain with AI Solutions - Placera.se
 
 ## Business
 
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- BTQ and ICTK Sign USD 15M Quantum-Secure Chip Development and Joint Investment Agreement to Advance Global Quantum-Safe Hardware - Placera.se
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ETHZilla Sells Approximately $40mm ETH to Facilitate Stock Repurchases - Placera.se
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Student and entry-level programs - EY
 - ANDION GLOBAL SÄKRAR 270 MILJONER USD DOLLAR FÖR ATT UTÖKA VERKSAMHETEN OCH UTBYGGNADEN AV AVFALLSHANTERINGSANLÄGGNINGAR FÖR ATT ÅTERVINNA ORGANISKT AVFALL OCH SKAPA FÖRNYELSEBAR ENERGI - Via TT
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Finsk jätte inom rostfritt stål investerar i svenskt biokolföretag | Envigas AB - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 
 ## Health
 
@@ -112,10 +112,10 @@ _Updated: 2025-10-29 23:39_
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-29 23:39_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Årets viktigaste internationella livsmedelskonferens – Spot on Food - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Maskinförare | Jobb | ATL - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
