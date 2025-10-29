@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-29 21:38_
+_Updated: 2025-10-29 22:43_
 
 ## Top Stories
 
 - M i Lund trotsar regeringen – vill inte prata återvandring - Dagens Nyheter
 - Statsministerns dotter hade kick-off på Harpsund - UNT
-- WHO-chef: Milisen mördade 460 på förlossningssjukhus i Sudan - Dagens Nyheter
-- Israelisk attack mot norra Gaza - Västerbottens-Kuriren
+- Fem åtalas för grovt narkotikabrott – kopplas till sprängdåd i Tumba - SVT Nyheter
+- Vallokalsundersökning visar: Liberaler mot vinst i Nederländerna - SVT Nyheter
+- Var brexit en historisk ofrånkomlighet? - SvD
 - Många döda på Haiti när Melissa drog in - Hufvudstadsbladet
-- Annette tröttnade på stressen i vården – nu odlar hon citroner - GP
+- Stopp i tågtrafiken över Öresundsbron - Expressen
 - Strömmer om attacken mot Mohammad: ”Omskakande” - Dagens Nyheter
+- 29 oktober 18.46, Trafikkontroll, Västerbottens län - polisen.se
 - Natthemtjänsten sov på arbetstid och åkte inte på larm - Dagens Nyheter
-- Europeisk militärinstruktör gripen i Ukraina - Expressen
-- Utfallet: Flera körkort rök och dryga böter - Västerbottens-Kuriren
+- Venezuela har förstört colombianska "knarkläger" - Västerbottens-Kuriren
+- Hundratal döda i Gaza – vapenvilan ändå i kraft - Hufvudstadsbladet
 - Anförande av utrikesminister Maria Malmer Stenergard vid Nordiska rådets 77:e session i Stockholm 2025 - Regeringen.se
 - Andra Vatikankonciliet 60 år – se det sanna i andra religioner - Signum – Katolsk orientering om kyrka, kultur och samhälle
-- Färre USA-soldater på Natos östra flank - GP
-- Över 60 dödade i knarkräd i Brasilien - GP
-- Nvidia stiger till rekordnivåer i förhandeln efter Trumps besked - EFN
+- Så minns näringslivet Erik Paulsson - EFN
 - Stora internetproblem för Microsofts molntjänst - DI
-- Peab-grundaren Erik Paulsson död - Aftonbladet
 - Vad du behöver veta om ränteläget och hushållens ekonomi - Vad Vi Vet.
+- Scanias vd: ”Vi riskerar enorma EU-böter” - Dagens Nyheter
 - Trumps ”Halo”-memes väcker ilska: ”Fascism” - UNT
-- Avstängning av Jakobsbergsbron 3/11-5/11 - Hammarö kommun
+- Är detta nästa svenska spelsuccé? “Bästa jag spelat” - MovieZine
 
 ## World News
 
@@ -52,24 +52,24 @@ _Updated: 2025-10-29 21:38_
 
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Investors Turn to AI-Driven Imaging Firms Targeting High-Growth Breast Cancer Market - Placera.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- Investors Turn to AI-Driven Imaging Firms Targeting High-Growth Breast Cancer Market - Placera.se
+- Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
 
 ## Business
 
@@ -104,18 +104,18 @@ _Updated: 2025-10-29 21:38_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
-- Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -154,11 +154,11 @@ _Updated: 2025-10-29 21:38_
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Årets viktigaste internationella livsmedelskonferens – Spot on Food - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
