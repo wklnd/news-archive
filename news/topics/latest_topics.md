@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-29 15:08_
+_Updated: 2025-10-29 15:50_
 
 ## Top Stories
 
-- Två döms för ekonomisk brottslighet i Think Pink-härvan - SVT Nyheter
 - Statsministerns dotter hade kick-off på Harpsund - Dagens Nyheter
 - Alla fem döms för brott i målet med koppling till Pedo Hunting Sweden - Sveriges Domstolar
-- Tekniskt fel misstänkt orsak till bussolycka - GP
+- Tekniskt fel misstänkt orsak till bussolyckan i Malmö - SVT Nyheter
 - 28 oktober 21.30, Olaga frihetsberövande/människorov, Jönköpings län - polisen.se
-- Krogprofil i Göteborg åtalas för våldtäkt - GP
-- Natthemtjänsten sov på arbetstid och åkte inte på larm - Dagens Nyheter
+- Domen mot Bandidos – förbjuds i Danmark - SVT Nyheter
+- Hundratal döda i Gaza – vapenvilan ändå i kraft - GP
+- Man föll tre meter ner i tankbil – dog - Arbetet
 - Då väljer Centern ny partiledare - Västerbottens-Kuriren
-- Taxichaufför misshandlad av kund i Stockholm - Expressen
-- Hasse är årets bragdhund – varnade om brand - Västerbottens-Kuriren
+- Natthemtjänsten sov på arbetstid och åkte inte på larm - Dagens Nyheter
+- Think Pink-toppar döms för ekobrott - Västerbottens-Kuriren
 - Orkanen Melissa slår mot Kuba – hundratusentals evakuerade - SVT Nyheter
-- Hundratal döda i Gaza – vapenvilan ändå i kraft - Hufvudstadsbladet
-- Andra Vatikankonciliet 60 år – se det sanna i andra religioner - Signum – Katolsk orientering om kyrka, kultur och samhälle
-- Karin Eriksson: Sverige är inte längre storebror i Norden - Dagens Nyheter
+- Två svenskar åtalas för terrorism - Aftonbladet
+- Taxichaufför misshandlad av kund i Stockholm - Expressen
+- Allmänna audiensen. Leo XIV: Religioner tillsammans för fred - Vatican News
 - Erik Paulsson: En entreprenör som tänkte större än andra - DI
 - Svensk bnp överraskar – räntehöjning nästa steg - NWT
 - En avdelningschef och en serviceledare på Bravida döms för grovt bedrägeri mot Region Skåne - Sveriges Domstolar
-- Microsoft får 27 procent av Open AI i nytt avtal - Aftonbladet
+- Scanias vd: ”Vi riskerar enorma EU-böter” - Dagens Nyheter
 - Avstängning av Jakobsbergsbron 3/11-5/11 - Hammarö kommun
 - Den japanska superbilen återuppstår: Pininfarina klär NSX i italiensk kolfiber - Dagens PS
 
 ## World News
 
-- NEC to Acquire CSG, Strengthening Its Position as a Global Leader in Digital Transformation - Placera.se
 - Svensken skadad – riskerar missa NHL-matcherna i Sverige - hockeysverige.se
 - Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- A Global Stage, Infinite Echoes: 2025 Chery International User Summit Co-Creates a Sustainable Future - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Svenskens mardröm – missar NHL-matcherna i Stockholm - hockeysverige.se
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Netanyahu says Israel will determine which international forces are unacceptable - Deccan Herald
+- Global drogsajt stängd – svenskar gripna - Drugnews
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- SOUTHWEST AIRLINES PARTNERS WITH HAHNAIR TO EXPAND GLOBAL TICKETING REACH - Placera.se
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - VNV Global visar högre substansvärde i dollar - DI
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Tencent's CarbonX Program 2.0 Identifies 50 Global Finalists in Race to Scale Climate Solutions - Placera.se
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- NEC to Acquire CSG, Strengthening Its Position as a Global Leader in Digital Transformation - Placera.se
 
 ## Technology
 
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Investors Turn to AI-Driven Imaging Firms Targeting High-Growth Breast Cancer Market - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Deepseek är det nya Linux - Computer Sweden
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- EU uppmanar techjättar att stoppa AI-desinformation - Omni
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
+- Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
+- Investors Turn to AI-Driven Imaging Firms Targeting High-Growth Breast Cancer Market - Placera.se
+- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
+- BigBear.ai And Palantir Announce Strategic Partnership, Combining AI-powered Products With Next Generation Operating Platform - Placera.se
 
 ## Business
 
@@ -104,40 +104,40 @@ _Updated: 2025-10-29 15:08_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
-- SIHI Sweden Konferens 2024 - Uppsala universitet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - ju.se
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
