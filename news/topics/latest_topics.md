@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-29 17:45_
+_Updated: 2025-10-29 18:51_
 
 ## Top Stories
 
 - Susanne Nyström: Kristerssons dotter har ”festat” på Harpsund – är det verkligen en skandal? - Dagens Nyheter
 - Uppgifter: Över 130 dödade i knarkräd i Rio - Västerbottens-Kuriren
-- Orkanen Melissa slår mot Kuba – hundratusentals evakuerade - SVT Nyheter
+- Hundratal döda i Gaza – vapenvilan ändå i kraft - GP
 - Hårda fängelsestraff för pedofiljägare i Övik - ETC.se
-- 28 oktober 21.30, Olaga frihetsberövande/människorov, Jönköpings län - polisen.se
-- Över hundra döda – men vapenvilan gäller - Dagens Nyheter
+- Strömmer om attacken mot Mohammad: ”Omskakande” - Dagens Nyheter
+- Orkanen Melissa slår mot Kuba – hundratusentals evakuerade - SVT Nyheter
 - Då väljer Centern ny partiledare - Västerbottens-Kuriren
 - Kritiken mot Dousa: Har fel om Hamaskopplingar - Dagens Nyheter
 - Stort engagemang för Norrtäljes nobb till regeringen om återvandring - SVT Nyheter
 - 29 oktober 13.37, Trafikkontroll, Västernorrlands län - polisen.se
 - Andra Vatikankonciliet 60 år – se det sanna i andra religioner - Signum – Katolsk orientering om kyrka, kultur och samhälle
-- EU-chef hyllar nordisk beredskap - Västerbottens-Kuriren
-- Två svenskar åtalas för terrorism i Köpenhamn - Sydsvenskan
-- Ukraina grep exmilitär – misstänks för spioneri - Dagens Nyheter
-- Näringslivet minns Erik Paulsson: ”Det är en epok som är borta” - DI
-- Svensk bnp överraskar – räntehöjning nästa steg - Skånska Dagbladet
+- Gul varning för regn i Gävleborg - Expressen
+- Karin Eriksson: Sverige är inte längre storebror i Norden - Dagens Nyheter
+- Två svenskar åtalas för terrorism - Bohusläningen
 - Nvidia stiger till rekordnivåer i förhandeln efter Trumps besked - EFN
-- En avdelningschef och en serviceledare på Bravida döms för grovt bedrägeri mot Region Skåne - Sveriges Domstolar
+- Peab-grundaren Erik Paulsson död - Aftonbladet
+- Efter hemliga inspelningen – Bravida-chefer döms för saltade fakturor - SVT Nyheter
+- Scanias vd: ”Vi riskerar enorma EU-böter” - Dagens Nyheter
 - Avstängning av Jakobsbergsbron 3/11-5/11 - Hammarö kommun
-- Android Auto kommer att få stöd för widgetar från mobilappar - m3.se
+- Oneplus 15 lanseras globalt redan 13 november – kan reserveras - Swedroid
 
 ## World News
 
@@ -31,13 +31,11 @@ _Updated: 2025-10-29 17:45_
 - Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- SOUTHWEST AIRLINES PARTNERS WITH HAHNAIR TO EXPAND GLOBAL TICKETING REACH - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Svenskens mardröm – missar NHL-matcherna i Stockholm - hockeysverige.se
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Netanyahu says Israel will determine which international forces are unacceptable - Deccan Herald
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
@@ -46,7 +44,9 @@ _Updated: 2025-10-29 17:45_
 - VNV Global visar högre substansvärde i dollar - DI
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- A Global Stage, Infinite Echoes: 2025 Chery International User Summit Co-Creates a Sustainable Future - Placera.se
 - NEC to Acquire CSG, Strengthening Its Position as a Global Leader in Digital Transformation - Placera.se
+- Tencent's CarbonX Program 2.0 Identifies 50 Global Finalists in Race to Scale Climate Solutions - Placera.se
 
 ## Technology
 
@@ -67,9 +67,9 @@ _Updated: 2025-10-29 17:45_
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Investors Turn to AI-Driven Imaging Firms Targeting High-Growth Breast Cancer Market - Placera.se
-- Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
-- YPF and Globant Advance a Major Project to Transform and Optimize the Supply Chain with AI Solutions - Placera.se
 
 ## Business
 
@@ -120,45 +120,45 @@ _Updated: 2025-10-29 17:45_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - ju.se
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Olika slutsatser från samma data - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Årets viktigaste internationella livsmedelskonferens – Spot on Food - Mynewsdesk
-- 2024-11-19 Seminarium: Maskinsystem och maskinekonomi i morgondagens odlingssystem - Mynewsdesk
