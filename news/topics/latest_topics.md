@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-29 18:51_
+_Updated: 2025-10-29 19:42_
 
 ## Top Stories
 
-- Susanne Nyström: Kristerssons dotter har ”festat” på Harpsund – är det verkligen en skandal? - Dagens Nyheter
-- Uppgifter: Över 130 dödade i knarkräd i Rio - Västerbottens-Kuriren
-- Hundratal döda i Gaza – vapenvilan ändå i kraft - GP
-- Hårda fängelsestraff för pedofiljägare i Övik - ETC.se
+- Statsministerns dotter hade kick-off på Harpsund - Dagens Nyheter
 - Strömmer om attacken mot Mohammad: ”Omskakande” - Dagens Nyheter
+- Israelisk attack mot norra Gaza - Västerbottens-Kuriren
 - Orkanen Melissa slår mot Kuba – hundratusentals evakuerade - SVT Nyheter
+- 28 oktober 21.30, Olaga frihetsberövande/människorov, Jönköpings län - polisen.se
+- Europeisk militärinstruktör gripen i Ukraina - Expressen
 - Då väljer Centern ny partiledare - Västerbottens-Kuriren
-- Kritiken mot Dousa: Har fel om Hamaskopplingar - Dagens Nyheter
-- Stort engagemang för Norrtäljes nobb till regeringen om återvandring - SVT Nyheter
+- Sala nobbar regeringens förslag om återvandring: ”Viktig markering” - SVT Nyheter
 - 29 oktober 13.37, Trafikkontroll, Västernorrlands län - polisen.se
+- Sverige förlorar strid för Östersjön: EU banar väg för mer fiske - Dagens PS
 - Andra Vatikankonciliet 60 år – se det sanna i andra religioner - Signum – Katolsk orientering om kyrka, kultur och samhälle
+- USA drar tillbaka soldater från öst: ”Nya prioriteringar” - Expressen
+- Över 60 dödade i knarkräd i Brasilien - SVT Nyheter
 - Gul varning för regn i Gävleborg - Expressen
-- Karin Eriksson: Sverige är inte längre storebror i Norden - Dagens Nyheter
-- Två svenskar åtalas för terrorism - Bohusläningen
 - Nvidia stiger till rekordnivåer i förhandeln efter Trumps besked - EFN
 - Peab-grundaren Erik Paulsson död - Aftonbladet
-- Efter hemliga inspelningen – Bravida-chefer döms för saltade fakturor - SVT Nyheter
 - Scanias vd: ”Vi riskerar enorma EU-böter” - Dagens Nyheter
+- En avdelningschef och en serviceledare på Bravida döms för grovt bedrägeri mot Region Skåne - Sveriges Domstolar
 - Avstängning av Jakobsbergsbron 3/11-5/11 - Hammarö kommun
-- Oneplus 15 lanseras globalt redan 13 november – kan reserveras - Swedroid
+- Arc Raiders släpps mellan BF6 och nya CoD: "Folk undrar kanske 'vad i helvete håller de på med?'" - FZ.se
 
 ## World News
 
@@ -153,8 +153,8 @@ _Updated: 2025-10-29 18:51_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
