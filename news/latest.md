@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-29 22:50_
+_Updated: 2025-10-29 23:48_
 
+- Disastrous images emerge from Jamaica following direct hit by Hurricane Melissa - ABC News - Breaking News, Latest News and Videos
 - Illinois deputy found guilty of murder in the shooting of Sonya Massey, a Black woman who called 911 asking for help - CNN
-- Hurricane Melissa leaves dozens dead in trail of destruction across Cuba, Haiti and Jamaica - AP News
-- SNAP benefits set for first-ever lapse with Senate set to reject funding patches - Politico
+- Western Mass. Healey aide arrested; police say cocaine was sent to Springfield state office - The Boston Globe
 - Hundreds reportedly killed at Sudanese hospital as evidence of RSF atrocities mounts - The Guardian
+- Death toll in police raid on drug gang in Rio rises 119, Brazilian police say - AP News
 - Obamacare Prices Become Public, Highlighting Big Increases - The New York Times
-- Fact Sheet: President Donald J. Trump Brings Home More Billion Dollar Deals During State Visit to the Republic of Korea - The White House (.gov)
-- Why a US-China trade deal matters to the global economy - Al Jazeera
-- Burglars dressed as construction workers steal more than $3 million in jewelry from home in Jamaica Hills, Queens - ABC7 Los Angeles
-- Former senior DHS official Miles Taylor launches new web tool to plan protests against Trump administration - CBS News
-- "I guess I'm not allowed to run": Trump concedes third term won't happen - Axios
+- Democrats ramp up probes into Trump’s $300 million White House ballroom - The Washington Post
+- ICE shake-up will increase arrest numbers. That doesn’t mean there will be more deportations. - Politico
+- Thieves disguised as construction workers pull off $3.2 million New York City jewelry and safe heist - NBC News
+- Report: Government shutdown will cost the economy up to $14 billion - The Washington Post
 - Israeli Army Says Ceasefire in Gaza Resumed After Strikes - Bloomberg
-- ‘This was a slaughter, not an operation’: the favela reeling from Rio’s deadliest police raid - The Guardian
+- Dutch election is too close to call, exit poll says - politico.eu
 - Two Louvre heist suspects 'partially admit' involvement, prosecutor says - BBC
 - Video Analysis Shows Staged Recovery of Israeli Hostage Remains - The New York Times
-- Dow closes lower, giving up gain after Powell signals Fed may not cut again this year - CNBC
+- Federal Reserve cuts rates to lowest level in three years - CNN
 - Nvidia becomes world's first $5tn company - BBC
-- Starbucks Reports Q4 and Full Fiscal Year 2025 Results - Starbucks Investor Relations
-- Google Revenue Soars as AI Boom Lifts Cloud Business - The Wall Street Journal
-- Exclusive: Android Auto is preparing home screen widgets — here's your first look - Android Authority
-- Adobe MAX conference highlights AI partnerships and platform expansion - Yahoo Finance
+- Everyone thinks AI is replacing factory workers, but Amazon’s layoffs show it’s coming for middle management first - Fortune
+- Google Earnings Beat As Search, Cloud, YouTube Revenue Top Views - Investor's Business Daily
+- Samsung's Wild-Looking Tri-Fold Phone Debuts at APEC Summit in South Korea - CNET
+- Android Auto prepares support for app widgets as latest updates roll out [Gallery] - 9to5Google
