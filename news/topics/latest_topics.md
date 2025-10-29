@@ -1,35 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-29 19:42_
+_Updated: 2025-10-29 20:50_
 
 ## Top Stories
 
-- Statsministerns dotter hade kick-off på Harpsund - Dagens Nyheter
+- S: Kristersson bryter mot statligt regelverk - GP
+- Peter Alestig: Melissa visar oss att klimatkrisen kräver ny skala för orkaner - Dagens Nyheter
+- Hårda fängelsestraff för pedofiljägare i Övik - ETC.se
 - Strömmer om attacken mot Mohammad: ”Omskakande” - Dagens Nyheter
-- Israelisk attack mot norra Gaza - Västerbottens-Kuriren
-- Orkanen Melissa slår mot Kuba – hundratusentals evakuerade - SVT Nyheter
-- 28 oktober 21.30, Olaga frihetsberövande/människorov, Jönköpings län - polisen.se
-- Europeisk militärinstruktör gripen i Ukraina - Expressen
-- Då väljer Centern ny partiledare - Västerbottens-Kuriren
-- Sala nobbar regeringens förslag om återvandring: ”Viktig markering” - SVT Nyheter
-- 29 oktober 13.37, Trafikkontroll, Västernorrlands län - polisen.se
-- Sverige förlorar strid för Östersjön: EU banar väg för mer fiske - Dagens PS
+- Wilders – politiker som skyr makten - SvD
+- Oro efter beslut kring återvandring: ”Vad ska de säga till barnen?” - NWT
+- Natthemtjänsten sov på arbetstid och åkte inte på larm - Dagens Nyheter
+- Utfallet: Flera körkort rök och dryga böter - Västerbottens-Kuriren
+- Håkan Boström: Liberalerna behövs för att elda på de andra i skolfrågan - GP
+- Välkänd gängkriminell begärs häktad för mordet i Stenebergsparken - Gefle Dagblad
+- Hundratal döda i Gaza – vapenvilan ändå i kraft - Hufvudstadsbladet
+- Anförande av utrikesminister Maria Malmer Stenergard vid Nordiska rådets 77:e session i Stockholm 2025 - Regeringen.se
+- DN Direkt – Uppgifter: Japans nya ledare sade nej till Trump - Dagens Nyheter
 - Andra Vatikankonciliet 60 år – se det sanna i andra religioner - Signum – Katolsk orientering om kyrka, kultur och samhälle
-- USA drar tillbaka soldater från öst: ”Nya prioriteringar” - Expressen
-- Över 60 dödade i knarkräd i Brasilien - SVT Nyheter
-- Gul varning för regn i Gävleborg - Expressen
-- Nvidia stiger till rekordnivåer i förhandeln efter Trumps besked - EFN
 - Peab-grundaren Erik Paulsson död - Aftonbladet
-- Scanias vd: ”Vi riskerar enorma EU-böter” - Dagens Nyheter
-- En avdelningschef och en serviceledare på Bravida döms för grovt bedrägeri mot Region Skåne - Sveriges Domstolar
+- Nvidia stiger till rekordnivåer i förhandeln efter Trumps besked - EFN
+- Vad du behöver veta om ränteläget och hushållens ekonomi - Vad Vi Vet.
+- SSAB får stöd från Industriklivet för elektrifiering av efterbehandling i Luleå - Cision News
+- Trumps ”Halo”-memes väcker ilska: ”Fascism” - UNT
 - Avstängning av Jakobsbergsbron 3/11-5/11 - Hammarö kommun
-- Arc Raiders släpps mellan BF6 och nya CoD: "Folk undrar kanske 'vad i helvete håller de på med?'" - FZ.se
 
 ## World News
 
 - Svensken skadad – riskerar missa NHL-matcherna i Sverige - hockeysverige.se
 - Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Digi International Announces Digi XBee 3 Global LTE Cat 4 Cellular Modem for IoT Applications - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
@@ -37,16 +38,15 @@ _Updated: 2025-10-29 19:42_
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Svenskens mardröm – missar NHL-matcherna i Stockholm - hockeysverige.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
+- Omdia: AI and Cloud-Native Transformation to Drive Global Telco Network to $24.8bn by 2030 - Placera.se
 - Netanyahu says Israel will determine which international forces are unacceptable - Deccan Herald
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Privately Held AAX Biotech Gains Global Validation Through Daiichi Sankyo Deal - Biostock
 - VNV Global visar högre substansvärde i dollar - DI
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - A Global Stage, Infinite Echoes: 2025 Chery International User Summit Co-Creates a Sustainable Future - Placera.se
-- NEC to Acquire CSG, Strengthening Its Position as a Global Leader in Digital Transformation - Placera.se
-- Tencent's CarbonX Program 2.0 Identifies 50 Global Finalists in Race to Scale Climate Solutions - Placera.se
 
 ## Technology
 
@@ -83,13 +83,13 @@ _Updated: 2025-10-29 19:42_
 - BTQ and ICTK Sign USD 15M Quantum-Secure Chip Development and Joint Investment Agreement to Advance Global Quantum-Safe Hardware - Placera.se
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Student and entry-level programs - EY
-- Monterro ökar fokus på danska mjukvaruinvesteringar – öppnar kontor i Köpenhamn - Mynewsdesk
+- Helius (NASDAQ:HSDT), in Partnership with Pantera Capital and Summer Capital Announces Over $500 Million in Funding to Launch SOL Treasury Company - Placera.se
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
@@ -106,39 +106,39 @@ _Updated: 2025-10-29 19:42_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Årets tio största vetenskapliga genombrott - Dagens Nyheter
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Olika slutsatser från samma data - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -153,8 +153,8 @@ _Updated: 2025-10-29 19:42_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
