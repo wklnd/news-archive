@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-29 06:52_
+_Updated: 2025-10-29 07:49_
 
-- Windows blown in, trees uprooted and croc warnings - Hurricane Melissa batters Jamaica - BBC
-- Senate approves bipartisan resolution to end tariffs on Brazil - The Washington Post
-- Trump seems to close the door on trying for another term - Politico
-- Judge indefinitely halts shutdown layoffs noting human toll - NPR
-- Trump fires board that oversees D.C. construction projects, as he plans major changes to White House - CBS News
+- Category 5 Hurricane Melissa brings flooding and catastrophic winds to Jamaica - AP News
 - Timeline: US strikes on alleged drug boats - ABC News - Breaking News, Latest News and Videos
-- Democratic states sue to force SNAP payments during government shutdown - The Washington Post
+- Trump's cash demands continue to bedevil deal with South Korea - Politico
+- Senate approves bipartisan resolution to end tariffs on Brazil - The Washington Post
+- Trump fires board that oversees D.C. construction projects, as he plans major changes to White House - CBS News
+- States sue over Trump administration suspending food benefits during shutdown - Reuters
 - Federal Judge Disqualifies Trump-Backed Prosecutor in Los Angeles - The New York Times
-- South Korea trade deal appears elusive as Trump seeks $350B investment - AP News
+- A deputy killed. A 150-mph chase. Then, an off-duty cop took dramatic action on live television - Los Angeles Times
+- Airlines are feeding air traffic controllers as they miss their first full paychecks - CBS News
 - Poll: Most Californians say they’ll vote yes on Proposition 50 - Politico
 - Israel launches strikes on Gaza, claiming Hamas violated truce - The Washington Post
 - Trump tells Japan's first woman Prime Minister she has a 'very strong handshake' in Tokyo meeting - Fortune
-- At least 64 killed in Rio's largest police raid on gangs - BBC
+- Huge Brazilian raid on Rio gang leaves at least 64 people dead and 81 under arrest - AP News
 - Blood splatter from RSF massacres in Sudan visible from space - Middle East Eye
-- Amazon layoffs impacting Bellevue businesses - KIRO 7 News Seattle
+- As Amazon lays off 14,000, some employees worry more cuts loom - The Seattle Times
 - Microsoft Stock Nears Buy Point On OpenAI Stake - Investor's Business Daily
 - Microsoft shares once again surpass $4 trillion valuation, joining Nvidia - ABC News - Breaking News, Latest News and Videos
 - Stock futures were little changed as investors await Fed rate decision: Live updates - CNBC
 - Apple Plans MacBook Air, iPad Air and iPad Mini With Overhauled Displays - Bloomberg.com
-- The ~$560 OnePlus 15 is great and all, but I'd ditch it for this mid-ranger for under $370 - PhoneArena
+- Snapdragon 8 Elite Gen 6 Rumored To Get LPDDR6 RAM & UFS 5.0 Support For Faster AI Operations, But Tipster Shares Questionable Lithography Details - Wccftech
