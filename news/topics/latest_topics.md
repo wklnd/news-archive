@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-29 06:47_
+_Updated: 2025-10-29 07:43_
 
 ## Top Stories
 
-- Orkanen Melissa årets värsta storm – kan bli värre - GP
-- Över 60 dödade i knarkräd i Brasilien - SVT Nyheter
+- Orkanen Melissa slår hårt mot Karibien - SVT Nyheter
+- Här festar Kristerssons dotter med vänner på Harpsund - Aftonbladet
 - Direkt – Krisen i Mellanöstern – Röda korset kritiserar Hamas för gömda kvarlevor - Dagens Nyheter
-- Nobbar regeringen – vill inte ha möte om återvandring - UNT
-- Efter dödliga björnattacker – ber armén om hjälp - Aftonbladet
+- Förseningar i tågtrafiken genom Malmö - Skånska Dagbladet
+- Uppgift: Över 60 dödade i knarkräd i Brasilien - GP
 - Kristofer Ahlström: Jag försökte använda AI i ett bråk med sambon, och det gör jag aldrig om - Dagens Nyheter
+- Nobbar regeringen – vill inte ha möte om återvandring - UNT
 - Nya EU-kvoter för strömmingsfiske kan leda till kollaps i Östersjön - Dagens Nyheter
 - Karin Eriksson: Sverige är inte längre storebror i Norden - Dagens Nyheter
 - Resultatet: Flera körkort rök och dryga böter - Folkbladet
-- Fågelinfluensan kan bli värre än på flera år - Västerbottens-Kuriren
+- Nazism och terror när Nederländerna röstar igen - Västerbottens-Kuriren
 - DN Direkt – Bussar kolliderade i Malmö – chaufför fastklämd - Dagens Nyheter
-- Sudanesiska styrkor: RSF har dödat 2 000 civila - GP
+- RSF-milisen i Sudan anklagas för massmord på civila - Dagens Nyheter
 - Explosion på Hisingen i Göteborg - GP
-- DN Direkt – Misstänkta farliga föremål i damm utanför Hässleholm - Dagens Nyheter
-- Ny rekordstängning på Wall Street – Nvidia lyfte rejält - DI
-- Telekom lyfte efter Nvidias investering i Nokia, OMXS30-index sjönk 0,3 procent - Placera.se
-- Pandemieffekt sitter i – priset fortsätter stiga - SvD
+- PLANERAR ATT SÄNKA 20-PROCENTIGA TULLAR PÅ KINESISKA VAROR - Placera.se
 - Teslastrejken unik – rekordmånga fack deltar i konflikten - Arbetet
-- AI-tjänst ska göra det billigare att ladda elbilen - Elinstallatören
-- Flaggskeppet Oppo Find X9 släpps i Sverige - Oppos nya flaggskepp släpps här - Ljud & Bild
+- Efter kritiken: Peth-test kan slopas - Västerbottens-Kuriren
+- Kommunrankning av ungas boendesituation visar: Årjäng är bästa kommunen – Malmö den sämsta - svenskbyggtidning -
+- Adobe uppdaterar sin AI-generator Firefly med stöd för lager och ljud - m3.se
+- Apples tjänsteverksamhet större än både Disney och Tesla - Macworld.se
 
 ## World News
 
@@ -75,9 +75,9 @@ _Updated: 2025-10-29 06:47_
 
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - BTQ and ICTK Sign USD 15M Quantum-Secure Chip Development and Joint Investment Agreement to Advance Global Quantum-Safe Hardware - Placera.se
@@ -99,13 +99,15 @@ _Updated: 2025-10-29 06:47_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
@@ -114,40 +116,38 @@ _Updated: 2025-10-29 06:47_
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
