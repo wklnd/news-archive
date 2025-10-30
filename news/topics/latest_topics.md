@@ -1,34 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-30 06:44_
+_Updated: 2025-10-30 07:42_
 
 ## Top Stories
 
+- DN Direkt – Xi och Trumps möte över – lämnar inga kommentarer - Dagens Nyheter
+- Bakslag för Wilders – liberal frammarsch i Haag - SvD
 - Trump vill ”omedelbart” återuppta kärnvapentester - SVT Nyheter
-- Xi och Trumps möte över – lämnar inga kommentarer - Hufvudstadsbladet
-- Liberaler störst i Haag – Wilders bara tvåa - Västerbottens-Kuriren
-- M i Lund trotsar regeringen – vill inte prata återvandring - Dagens Nyheter
-- S: Kristersson bryter mot statligt regelverk - GP
-- 29 oktober 18.46, Trafikkontroll, Västerbottens län - polisen.se
+- Ny mätning: Rödgröna övertaget minskar kraftigt - Sydsvenskan
+- Hundratals mördade på sjukhus i Darfur - Expressen
+- De säger ja till återvandringsmöte - UNT
 - S: Regeringen misslyckas igen och Östersjön betalar priset - Altinget.se
+- Strömmer om attacken mot Mohammad: ”Omskakande” - Dagens Nyheter
+- 29 oktober 18.46, Trafikkontroll, Västerbottens län - polisen.se
 - Natthemtjänsten sov på arbetstid och åkte inte på larm - Dagens Nyheter
-- DEBATT: Friskolor har mer problem med glädjebetyg - Expressen
-- Nio bilister fick böter i nytt bussfält - Östersunds-Posten
 - Ministerns hot: Då kommer Nato jämna Moskva med marken - TV4 Nyheterna
 - Venezuela har förstört colombianska "knarkläger" - GP
 - DN Direkt – Man försökte stjäla el från bostadsrättsförening - Dagens Nyheter
 - Orkanen Melissa drar in över Kuba - SVT Nyheter
-- Stora internetproblem för Microsofts molntjänst - DI
-- Liberalerna: Kriminalisera strypsex - Aftonbladet
-- Remiss: Förslag till nya föreskrifter om säkerhetsåtgärder och utbildning enligt ny cybersäkerhetslag - MSB – Myndigheten för samhällsskydd och beredskap
-- Think Pink-toppar döms för ekobrott - ETC.se
+- Hyundai återkallar 180 000 bilar - Aftonbladet
+- Floppen avslutas – skrotbilspremien går i graven - SvD
+- Liberalerna: Kriminalisera strypsex - Folkbladet
+- Linus Larsson: Internets ägg ligger i väldigt få korgar - Dagens Nyheter
 - Trumps ”Halo”-memes väcker ilska: ”Fascism” - UNT
-- ”Battlefield 6” släpper efterlängtat spelläge – helt gratis - MovieZine
+- Oneplus 15 kommer till Sverige i november - m3.se
 
 ## World News
 
 - Wolverine Worldwide Declares Quarterly Dividend - Placera.se
 - Svensken skadad – riskerar missa NHL-matcherna i Sverige - hockeysverige.se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
@@ -36,15 +37,14 @@ _Updated: 2025-10-30 06:44_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Svenskens mardröm – missar NHL-matcherna i Stockholm - hockeysverige.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Netanyahu says Israel will determine which international forces are unacceptable - Deccan Herald
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - NEC to Acquire CSG, Strengthening Its Position as a Global Leader in Digital Transformation - Placera.se
 - Omdia: Global smartphone market grows 3% in Q3 2025, led by emerging economies - Placera.se
 
@@ -73,26 +73,26 @@ _Updated: 2025-10-30 06:44_
 
 ## Business
 
-- Bakkt Announces Plan to Simplify Capital Structure and Transition to a Single-Class Common Stock - Placera.se
+- ETHZilla Sells Approximately $40mm ETH to Facilitate Stock Repurchases - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Bakkt Announces Plan to Simplify Capital Structure and Transition to a Single-Class Common Stock - Placera.se
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ETHZilla Sells Approximately $40mm ETH to Facilitate Stock Repurchases - Placera.se
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - BTQ and ICTK Sign USD 15M Quantum-Secure Chip Development and Joint Investment Agreement to Advance Global Quantum-Safe Hardware - Placera.se
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Helius (NASDAQ:HSDT), in Partnership with Pantera Capital and Summer Capital Announces Over $500 Million in Funding to Launch SOL Treasury Company - Placera.se
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -143,22 +143,22 @@ _Updated: 2025-10-30 06:44_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Arbetande förman | Jobb | ATL - Land Lantbruk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- LRF i Bryssel: ”Polariseringen har blivit mer extrem” - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Bioekonomi är lösningen på jordbrukets problem - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
