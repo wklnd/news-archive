@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-30 20:54_
+_Updated: 2025-10-30 21:48_
 
-- Trade takeaways from Trump’s meeting with Chinese leader Xi - AP News
+- Prince Andrew to lose 'prince' title and move out of Royal Lodge - BBC
+- ‘Amazing meeting’: Trump touts progress on multiple fronts with China after meeting Xi - Politico
 - Judge Skeptical Over Trump Administration Decision to Suspend Food Stamps - The New York Times
-- Senate approves Democratic resolution that would block Trump's global tariffs - CBS News
-- Trump directs Pentagon to test nuclear weapons for first time since 1992 - The Washington Post
 - Hurricane Melissa devastates Jamaica, Haiti and Cuba; at least 28 dead - CBS News
-- Federal Workers Are Barely Making It Through the Government Shutdown - WIRED
-- Sonya Massey's father expresses anger after ex-deputy convicted on lesser charge in fatal shooting - CBS News
-- Teacher who was shot by 6-year-old student at school testifies she thought she had died - AP News
-- US will limit number of refugees to 7,500 and give priority to white South Africans - The Guardian
-- Spanberger courts Trump voters in rural Virginia - Politico
+- Trump says he wants to resume nuclear testing. Here's what that would mean - NPR
+- Most Americans oppose East Wing demolition for Trump ballroom, poll finds - The Washington Post
+- Live updates: Trump administration limits refugee admissions to mostly white South Africans - AP News
+- Virginia judge lets Democrats' redistricting plan move forward - Axios
+- Government shutdown live updates as Senate adjourns with no breakthrough on ending impasse - CBS News
+- ‘I thought I was dying’ - teacher shot by 6-year-old student testifies against school administrator - BBC
 - Key details emerge in Louvre jewel heist as 5 more are arrested - PBS
-- Far-Right Party Suffers Big Losses in Dutch Election as Centrists Surge - The New York Times
-- Hamas hands over apparent remains of two dead hostages to Israel - The Times of Israel
-- Protests in Tanzania enter a second day after disputed election - ABC News - Breaking News, Latest News and Videos
-- Stock Market Today: Nasdaq Falls After Meta, Microsoft Earnings; U.S. Agrees to Cut China Tariffs - The Wall Street Journal
+- Dutch voters deliver rebuke to the far right in knife-edge election - The Washington Post
+- Protests in Tanzania enter a second day after disputed election - ABC News
+- Israel receives coffins Hamas says contain two Gaza hostages' bodies - BBC
+- Meta stock slide erases $237 billion in market value. Wall Street pans ‘runaway’ AI spending. - MarketWatch
+- Mortgage rates jump 20 basis points following Fed cut - CNBC
+- In the AI boom, not all capex is created equal - Financial Times
 - Eli Lilly Smashes Views On Back Of Mounjaro, Zepbound - Investor's Business Daily
-- Meta, Microsoft stock sell-offs show investors are growing skeptical of colossal AI-spending plans - businessinsider.com
-- US gets rare earth reprieve from China, but not rollback - Reuters
-- Xbox Q1 hardware sales down 29% while third-party content experiences "better-than-expected performance" - GamesIndustry.biz
-- Canva launches its own design model, adds new AI features to the platform - TechCrunch
+- Microsoft Stock (MSFT) Slides as Xbox Console Sales Fall 30% Year-Over-Year - TipRanks
+- Disney+ gets HDR10+ via “over 1,000” Hulu titles - Ars Technica
