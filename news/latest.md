@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-30 13:48_
+_Updated: 2025-10-30 15:19_
 
-- Donald Trump says rare earths dispute ‘settled’ and China to resume buying US soybeans after Xi Jinping talks – live - The Guardian
-- Hurricane Melissa's devastating, deadly destruction leaves Jamaica, Haiti, Cuba reeling - CBS News
+- Trump touts short-term deal with China after Xi meeting - ABC News - Breaking News, Latest News and Videos
 - Trump says nuclear weapons testing to resume in US after more than 30 years - BBC
+- Hurricane Melissa's devastating, deadly destruction leaves Jamaica, Haiti, Cuba reeling - CBS News
 - Dutch centrist liberals neck and neck in close finish with populist Wilders - BBC
-- What to watch for during Casey Means' confirmation hearing for surgeon general - NPR
-- SNAP deadline becomes Democrats' sharpest leverage - Axios
+- Majority of California likely voters say they support Prop 50, poll shows - ABC News - Breaking News, Latest News and Videos
+- Why car insurance costs have soared (and what drivers are doing about it) - NPR
 - Former Illinois sheriff’s deputy convicted in killing of Sonya Massey - The Washington Post
+- Senate postpones confirmation hearing for Trump surgeon general pick after Casey Means goes into labor – US politics live - The Guardian
 - Farm-state Republicans finally reach their breaking point - Politico
-- Late Night Shades South Korea for Giving Trump a Crown - The New York Times
-- Trump says South Korea has approval to build nuclear-powered submarine - Reuters
+- Virginia judge lets Democrats' redistricting plan move forward - Axios
 - French police hunting stolen Louvre jewels arrest more suspects - Reuters
-- Police Raid in Rio de Janeiro Leaves Over 130 Dead - The New York Times
-- Daughter criticises Australia cruise operator after mother dies on island - BBC
-- Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - ABC News - Breaking News, Latest News and Videos
-- China Says Plans for Rare-Earth Export Curbs Paused for a Year - Bloomberg
+- Brazil police raid leaves at least 119 dead, triggering protests and claims of executions and a decapitation - CBS News
+- How much trouble is Rachel Reeves in over rental rule break? - BBC
+- US determined to prevent the collapse of the Gaza ceasefire after overnight airstrikes - AP News
 - Stocks dip as investors mull Trump-Xi deal, cautious BOJ dents yen - Reuters
-- Amazon’s mass layoffs hit 1,400 California jobs, including hundreds in Bay Area - San Francisco Chronicle
+- Stock Market Today: Dow Ends Lower As Traders Slash Rate-Cut Bets; Nvidia Holds To $5 Trillion Mark - Investor's Business Daily
+- Meta, Google, and Microsoft Triple Down on AI Spending - WIRED
 - Eli Lilly blows past estimates, hikes guidance as Zepbound and Mounjaro sales soar - CNBC
 - Samsung teases Galaxy S26 with next-gen AI, custom chip, and new camera sensors - Android Authority
-- Apple adds new App Store submission and marketing features, will phase out promo codes in 2026 - 9to5Mac
+- Galaxy Z ‘TriFold’ might still be thinner than most of Samsung’s foldables to date - 9to5Google
