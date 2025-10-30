@@ -1,13 +1,13 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-30 05:31_
+_Updated: 2025-10-30 05:55_
 
 ## Top Stories
 
 - Trump vill ”omedelbart” återuppta kärnvapentester - SVT Nyheter
-- Bakslag för Wilders – liberal frammarsch i Haag - SvD
-- Xi till Trump: Borde vara partner och vänner - Västerbottens-Kuriren
-- M i Lund trotsar regeringen – vill inte prata återvandring - Dagens Nyheter
+- Marianne Björklund: Kina känner segervittring i handelskriget mot ”kamrat Trump” - Dagens Nyheter
+- Nazism och terror när Nederländerna röstar igen - Aftonbladet
+- De säger ja till återvandringsmöte - UNT
 - 29 oktober 18.46, Trafikkontroll, Västerbottens län - polisen.se
 - S: Regeringen misslyckas igen och Östersjön betalar priset - Altinget.se
 - Pedofiljägare döms – hade själv smygfilmat flickor - Dagens Nyheter
@@ -17,11 +17,11 @@ _Updated: 2025-10-30 05:31_
 - Venezuela har förstört colombianska "knarkläger" - GP
 - DN Direkt – Man försökte stjäla el från bostadsrättsförening - Dagens Nyheter
 - Många döda på Haiti när Melissa drog in - Hufvudstadsbladet
-- Anförande av utrikesminister Maria Malmer Stenergard vid Nordiska rådets 77:e session i Stockholm 2025 - Regeringen.se
+- Andra Vatikankonciliet 60 år – se det sanna i andra religioner - Signum – Katolsk orientering om kyrka, kultur och samhälle
 - Stora internetproblem för Microsofts molntjänst - DI
 - Hyundai återkallar 180 000 bilar - Aftonbladet
 - Remiss: Förslag till nya föreskrifter om säkerhetsåtgärder och utbildning enligt ny cybersäkerhetslag - MSB – Myndigheten för samhällsskydd och beredskap
-- Pengarna slut – Arbetsdomstolen stoppar nästan alla mål - Dagens Arbete
+- Think Pink-toppar döms för ekobrott - ETC.se
 - Trumps ”Halo”-memes väcker ilska: ”Fascism” - UNT
 - ”Battlefield 6” släpper efterlängtat spelläge – helt gratis - MovieZine
 
@@ -36,63 +36,63 @@ _Updated: 2025-10-30 05:31_
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Svenskens mardröm – missar NHL-matcherna i Stockholm - hockeysverige.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Netanyahu says Israel will determine which international forces are unacceptable - Deccan Herald
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
-- Armand Duplantis soars to third world title and 14th world record - BBC
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- Armand Duplantis soars to third world title and 14th world record - BBC
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - NEC to Acquire CSG, Strengthening Its Position as a Global Leader in Digital Transformation - Placera.se
-- SOUTHWEST AIRLINES PARTNERS WITH HAHNAIR TO EXPAND GLOBAL TICKETING REACH - Placera.se
+- Omdia: Global smartphone market grows 3% in Q3 2025, led by emerging economies - Placera.se
 
 ## Technology
 
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
-- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Investors Turn to AI-Driven Imaging Firms Targeting High-Growth Breast Cancer Market - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Investors Turn to AI-Driven Imaging Firms Targeting High-Growth Breast Cancer Market - Placera.se
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
 
 ## Business
 
-- ETHZilla Sells Approximately $40mm ETH to Facilitate Stock Repurchases - Placera.se
+- Bakkt Announces Plan to Simplify Capital Structure and Transition to a Single-Class Common Stock - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
-- Student and entry-level programs - EY
-- BTQ and ICTK Sign USD 15M Quantum-Secure Chip Development and Joint Investment Agreement to Advance Global Quantum-Safe Hardware - Placera.se
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Helius (NASDAQ:HSDT), in Partnership with Pantera Capital and Summer Capital Announces Over $500 Million in Funding to Launch SOL Treasury Company - Placera.se
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- ETHZilla Sells Approximately $40mm ETH to Facilitate Stock Repurchases - Placera.se
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- BTQ and ICTK Sign USD 15M Quantum-Secure Chip Development and Joint Investment Agreement to Advance Global Quantum-Safe Hardware - Placera.se
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
+- Helius (NASDAQ:HSDT), in Partnership with Pantera Capital and Summer Capital Announces Over $500 Million in Funding to Launch SOL Treasury Company - Placera.se
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -102,20 +102,20 @@ _Updated: 2025-10-30 05:31_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
-- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
