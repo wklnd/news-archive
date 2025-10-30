@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-30 15:47_
+_Updated: 2025-10-30 16:45_
 
 ## Top Stories
 
-- Hotellverksamhet i city förbjuds efter omfattande problem med prostitution - Polisen.se
+- Hotell i Stockholm stängs ned efter prostitution - Dagens Nyheter
+- DN Direkt – Ryskt spaningsplan över Polen för andra dagen i rad - Dagens Nyheter
+- Forskning: Varannan kvinna i ny studie utsatt för sexuella trakasserier - Ridsport
+- USA och Kina ense om metaller – tyst om AI-chip - GP
+- Ministerns oro efter studenternas AI-fusk: Risk för dum generation - GP
 - Bilist körde in i propalestinsk demonstration i Borås – döms till fängelse - SVT Nyheter
-- Polska jaktplan motade ryskt plan över Östersjön - Expressen
-- Mångmiljonsatsning för en tryggare ridsport - Svenska Ridsportförbundet
-- USA och Kina ense om metaller – tyst om AI-chip - Västerbottens-Kuriren
-- DN Direkt – Klimatmål för transporter avskaffas inte - Dagens Nyheter
-- Misstänks för mord – skulle varit på anstalt - Västerbottens-Kuriren
 - Rättegång mot högerextremister inledd – hävdar nödvärn - Dagens Nyheter
+- Misstänks för mord – skulle varit på anstalt - Västerbottens-Kuriren
 - Höstrusk på ingång – gul varning för regn - GP
 - Så hög blir riksdagsledamöternas nya lön - Västerbottens-Kuriren
+- Kuststaden totalförstörd efter orkanens framfart - Dagens Nyheter
 - Kryssningsturist övergavs på avlägsen ö – dog - GP
-- Flera döda i orkanen Melissa - SVT Nyheter
 - Foppa funderar på att frysas ner och ”vakna om 400 år” - Omni
-- Trump: USA ska genomföra kärnvapentester - GP
-- Ny svensk enhörning – AI-juristen värderas till 17 miljarder kronor - DI
-- ”Aggressiva” AI-investeringar skrämmer - SvD
+- Trump vill ”omedelbart” återuppta kärnvapentester - SVT Nyheter
 - Svensk miljardär i storaffär med ryska Lukoil - Hufvudstadsbladet
+- Legoras värdering upp 160% – nu värt nästan 17 miljarder - Affärsvärlden
 - Knowit: Köpläge i ratade konsultbolaget? - Affärsvärlden
-- Roy, Romare, Maunsbach, Tichý – stjärnspäckad författarvecka på Stadsbiblioteket - Malmö stad
-- Battlefield RedSec lanseras till blandad kritik - Nordichardware
+- Floppen avslutas – skrotbilspremien går i graven - SvD
+- Samsung släpper pc-version av sin Android-webbläsare - Computer Sweden
+- Säkerhetshål kan krascha miljarder webbläsare - Computer Sweden
 
 ## World News
 
@@ -37,7 +37,6 @@ _Updated: 2025-10-30 15:47_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
@@ -47,15 +46,16 @@ _Updated: 2025-10-30 15:47_
 - RTX CFO to present at the Baird 2025 Global Industrial Conference - Placera.se
 - AIG Announces Long-Term Strategic Investment in Top-Performing Global Specialty Insurer Convex Group and an Equity Stake in Global Asset Manager Onex Corporation - Placera.se
 - Omdia: Global smartphone market grows 3% in Q3 2025, led by emerging economies - Placera.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
@@ -104,17 +104,17 @@ _Updated: 2025-10-30 15:47_
 - The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 
 ## Science
