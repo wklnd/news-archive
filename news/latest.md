@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-30 09:48_
+_Updated: 2025-10-30 10:54_
 
-- Donald Trump says rare earths dispute ‘settled’ after Xi Jinping meeting in South Korea – live updates - The Guardian
-- Trump tells Pentagon to immediately resume testing US nuclear weapons - Reuters
+- US and China agree to one-year trade truce after Donald Trump-Xi Jinping talks - Financial Times
 - Hurricane Melissa devastates Jamaica: in pictures - CNN
+- Trump tells Pentagon to immediately resume testing US nuclear weapons - Reuters
 - Dutch centrist liberals neck and neck in close finish with populist Wilders - BBC
+- Grieving daughter of cruise ship passenger left behind on remote Australian island says ‘there was a failure of care’ - The Guardian
 - Majority of California likely voters say they support Prop 50, poll shows - ABC News - Breaking News, Latest News and Videos
-- US will share tech to let South Korea build a nuclear-powered submarine, Trump says - AP News
 - Former Illinois sheriff’s deputy convicted in killing of Sonya Massey - The Washington Post
-- Ukraine war briefing: Putin boasts of nuclear-driven torpedo that would swamp cities with radioactive tsunami - The Guardian
-- Trump, South Korea Reach Terms on Trade Deal - The Wall Street Journal
+- Trump says South Korea can build nuclear-powered submarine - DW
+- Government shutdown continues as senators express cautious optimism about talks - CBS News
 - Senate Rebuffs Trump on Canada Tariffs Amid GOP Dissent on Trade - Bloomberg.com
+- Two suspects in Louvre jewellery heist 'partially' admit participation, Paris prosecutor says - Euronews.com
 - Police Raid in Rio de Janeiro Leaves Over 130 Dead - The New York Times
-- Prosecutor says no sign yet of jewels taken in Louvre robbery, as 2 suspects are charged - CBS News
-- Sudan war: RSF militia killed 460 people at el-Fasher hospital, says WHO - BBC
+- Sudan's paramilitary forces killed hundreds at a hospital in Darfur, residents and aid workers say - AP News
 - Israel says it's resuming the ceasefire after its strikes in Gaza kill over 100 people - NPR
-- Stock Market Today: Dow Ends Lower As Traders Slash Rate-Cut Bets; Nvidia Holds To $5 Trillion Mark - Investor's Business Daily
+- Markets News, Oct. 29, 2025: Stocks End Mixed After Powell Says Another Rate Cut in December 'Not a Foregone Conclusion'; Nvidia Hits $5 Trillion Market Cap - Investopedia
+- Asia stocks sink on caution over Trump-Xi deal, BOJ hold hits yen - Reuters
 - AI chipmaker Nvidia is the first $5 trillion company - AP News
-- Meta, Google, and Microsoft Triple Down on AI Spending - WIRED
 - Laid-off Amazon employees are posting through it on social media - businessinsider.com
 - Adobe MAX conference highlights AI partnerships and platform expansion - Yahoo Finance
 - Grammarly rebrands to ‘Superhuman,’ launches a new AI assistant - TechCrunch
