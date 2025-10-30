@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-30 16:45_
+_Updated: 2025-10-30 17:44_
 
 ## Top Stories
 
-- Hotell i Stockholm stängs ned efter prostitution - Dagens Nyheter
-- DN Direkt – Ryskt spaningsplan över Polen för andra dagen i rad - Dagens Nyheter
-- Forskning: Varannan kvinna i ny studie utsatt för sexuella trakasserier - Ridsport
+- Hotellverksamhet i city förbjuds efter omfattande problem med prostitution - Polisen.se
+- Bilist körde in i propalestinsk demonstration i Borås – döms till fängelse - SVT Nyheter
+- Man häktad i utevaro för flera grova våldsbrott - Åklagarmyndigheten
+- Polska jaktplan motade ryskt plan över Östersjön - Expressen
 - USA och Kina ense om metaller – tyst om AI-chip - GP
 - Ministerns oro efter studenternas AI-fusk: Risk för dum generation - GP
-- Bilist körde in i propalestinsk demonstration i Borås – döms till fängelse - SVT Nyheter
 - Rättegång mot högerextremister inledd – hävdar nödvärn - Dagens Nyheter
 - Misstänks för mord – skulle varit på anstalt - Västerbottens-Kuriren
-- Höstrusk på ingång – gul varning för regn - GP
-- Så hög blir riksdagsledamöternas nya lön - Västerbottens-Kuriren
-- Kuststaden totalförstörd efter orkanens framfart - Dagens Nyheter
-- Kryssningsturist övergavs på avlägsen ö – dog - GP
+- Amerikansk motor kan sätta stopp för jätteaffären av Gripen - Dagens Nyheter
+- Sveriges nationella klimatmål – uppdaterat etappmål till 2030 - Regeringen.se
+- Jamaicabo efter orkanen: Taket bara skalades av - Västerbottens-Kuriren
+- Trump: USA ska genomföra kärnvapentester - GP
 - Foppa funderar på att frysas ner och ”vakna om 400 år” - Omni
-- Trump vill ”omedelbart” återuppta kärnvapentester - SVT Nyheter
+- Här bogseras Liljeholmsbadet bort från Hornstulls strand - SVT Nyheter
 - Svensk miljardär i storaffär med ryska Lukoil - Hufvudstadsbladet
-- Legoras värdering upp 160% – nu värt nästan 17 miljarder - Affärsvärlden
 - Knowit: Köpläge i ratade konsultbolaget? - Affärsvärlden
-- Floppen avslutas – skrotbilspremien går i graven - SvD
-- Samsung släpper pc-version av sin Android-webbläsare - Computer Sweden
+- Master Trainee till Nybergs Entreprenad på Gotland 2026 - ncc.se
+- Affärsvärldens råd: Teckna i teknikbolaget - Börskollen
 - Säkerhetshål kan krascha miljarder webbläsare - Computer Sweden
+- Battlefield RedSec lanseras till blandad kritik - Nordichardware
 
 ## World News
 
@@ -37,39 +37,39 @@ _Updated: 2025-10-30 16:45_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- CreatorWeek 2025 Launches in Macao, Offering a Unique, Vibrant Platform for Global Content Creators to Connect, Collaborate, and Innovate - Placera.se
 - RTX CFO to present at the Baird 2025 Global Industrial Conference - Placera.se
 - AIG Announces Long-Term Strategic Investment in Top-Performing Global Specialty Insurer Convex Group and an Equity Stake in Global Asset Manager Onex Corporation - Placera.se
 - Omdia: Global smartphone market grows 3% in Q3 2025, led by emerging economies - Placera.se
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
-- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
+- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Deepseek är det nya Linux - Computer Sweden
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
-- YPF and Globant Advance a Major Project to Transform and Optimize the Supply Chain with AI Solutions - Placera.se
 
 ## Business
 
@@ -81,18 +81,18 @@ _Updated: 2025-10-30 16:45_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - ETHZilla Sells Approximately $40mm ETH to Facilitate Stock Repurchases - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- BTQ and ICTK Sign USD 15M Quantum-Secure Chip Development and Joint Investment Agreement to Advance Global Quantum-Safe Hardware - Placera.se
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- BTQ and ICTK Sign USD 15M Quantum-Secure Chip Development and Joint Investment Agreement to Advance Global Quantum-Safe Hardware - Placera.se
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -122,43 +122,43 @@ _Updated: 2025-10-30 16:45_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Årets viktigaste internationella livsmedelskonferens – Spot on Food - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
