@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-30 04:22_
+_Updated: 2025-10-30 05:33_
 
-- Hurricane Melissa devastates Jamaica: in pictures - CNN
-- Trump-Xi meeting nears with high stakes and hopes, but few details - CNBC
 - Trump orders Pentagon to begin testing nuclear weapons 'immediately' - NBC News
-- Border Patrol takes lead role in Trump administration's Chicago crackdown, carrying out more arrests than ICE - CBS News
-- ‘This was a slaughter, not an operation’: the favela reeling from Rio’s deadliest police raid - The Guardian
+- Trump seeks trade war truce with China's Xi in South Korea talks - Reuters
+- Hurricane Melissa devastates Jamaica: in pictures - CNN
+- Protests erupt after police raid in Brazil leaves 119 dead and draws accusations of excessive force - AP News
 - Majority of California likely voters say they support Prop 50, poll shows - ABC News - Breaking News, Latest News and Videos
+- Healey’s Western Mass Deputy Director arrested on drug trafficking charges - Boston Herald
 - Jurors convict Illinois deputy of killing Sonya Massey but can't agree on first-degree murder charge - AP News
-- Senate approves Democratic resolution to block Trump's tariffs on Canada - CBS News
-- Shake-up at ICE will boost immigration numbers — just not the ones that matter most to Trump - Politico
-- How a lapse in SNAP benefits could affect consumers and retailers - CNBC
+- Virginia Moves Closer to Redistricting Plan That Would Help Democrats - The New York Times
+- Exclusive: National Guard orders in DC extended through February 2026 - CNN
+- Bill Essayli says he isn’t going anywhere - Politico
 - Liberal D66 party set to win Dutch parliamentary elections, exit poll suggests - Financial Times
-- Prosecutor says no sign yet of jewels taken in Louvre robbery, as 2 suspects are charged - CBS News
+- Louvre heist suspects ‘partially admitted’ involvement - The Washington Post
 - Israel says it's resuming the ceasefire after its strikes in Gaza kill over 100 people - NPR
-- Sudan war: WHO chief hits out over reports of mass killings in el-Fasher hospital - BBC
-- AI chipmaker Nvidia is the first $5 trillion company - AP News
+- Sudan war: RSF militia killed 460 people at el-Fasher hospital, says WHO - BBC
 - Stock Market Today: Nvidia Hits $5 Trillion; Federal Reserve Lowers Interest Rates — Live Updates - The Wall Street Journal
-- Laid-off Amazon employees are posting through it on social media - businessinsider.com
-- Meta Q3 Earnings Stunted by Nearly $16 Billion U.S. Tax Charge Because of Trump’s One Big Beautiful Bill Act - Variety
+- Nvidia is first company worth $5 trillion - NBC News
+- Tech results live: Meta shares knocked by huge AI spending while Alphabet rallies on record revenue - Financial Times
+- Milwaukee-based Fiserv announces executive shake-up after earnings fall well below projections - Milwaukee Journal Sentinel
 - Adobe MAX conference highlights AI partnerships and platform expansion - Yahoo Finance
-- Samsung's Wild-Looking Tri-Fold Phone Debuts at APEC Summit in South Korea - CNET
+- Grammarly rebrands to ‘Superhuman,’ launches a new AI assistant - TechCrunch
