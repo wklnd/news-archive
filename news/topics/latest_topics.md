@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-30 07:42_
+_Updated: 2025-10-30 08:50_
 
 ## Top Stories
 
-- DN Direkt – Xi och Trumps möte över – lämnar inga kommentarer - Dagens Nyheter
-- Bakslag för Wilders – liberal frammarsch i Haag - SvD
+- Marianne Björklund: Kina känner segervittring i handelskriget mot ”kamrat Trump” - Dagens Nyheter
 - Trump vill ”omedelbart” återuppta kärnvapentester - SVT Nyheter
-- Ny mätning: Rödgröna övertaget minskar kraftigt - Sydsvenskan
-- Hundratals mördade på sjukhus i Darfur - Expressen
-- De säger ja till återvandringsmöte - UNT
+- Liberalerna kan styra Göteborg ihop med SD - GP
+- Två svenskar åtalade för terroristbrott i Danmark - newsoresund.se
+- SD:s försprång växer: ”Anmärkningsvärt” - SvD
+- Jämnt i Nederländernas parlamentsval - Dagens Nyheter
+- Kartläggning av klimatrisker skrotades – sedan kom skyfallet - Dagens Nyheter
 - S: Regeringen misslyckas igen och Östersjön betalar priset - Altinget.se
+- DNA-släktforskning nu i skarpt läge hos polisen - Västerbottens-Kuriren
 - Strömmer om attacken mot Mohammad: ”Omskakande” - Dagens Nyheter
-- 29 oktober 18.46, Trafikkontroll, Västerbottens län - polisen.se
-- Natthemtjänsten sov på arbetstid och åkte inte på larm - Dagens Nyheter
 - Ministerns hot: Då kommer Nato jämna Moskva med marken - TV4 Nyheterna
 - Venezuela har förstört colombianska "knarkläger" - GP
+- Stort bråk vid fotbollsmatch i Landskrona - SVT Nyheter
 - DN Direkt – Man försökte stjäla el från bostadsrättsförening - Dagens Nyheter
-- Orkanen Melissa drar in över Kuba - SVT Nyheter
-- Hyundai återkallar 180 000 bilar - Aftonbladet
 - Floppen avslutas – skrotbilspremien går i graven - SvD
-- Liberalerna: Kriminalisera strypsex - Folkbladet
+- Hyundai återkallar 180 000 bilar - Aftonbladet
 - Linus Larsson: Internets ägg ligger i väldigt få korgar - Dagens Nyheter
-- Trumps ”Halo”-memes väcker ilska: ”Fascism” - UNT
-- Oneplus 15 kommer till Sverige i november - m3.se
+- Så agerade fondspararna i oktober - Dagens PS
+- Roy, Romare, Maunsbach, Tichý – stjärnspäckad författarvecka på Stadsbiblioteket - Malmö stad
+- Trumps ”Halo”-memes väcker ilska: ”Fascism” - TV4 Nyheterna
 
 ## World News
 
@@ -45,7 +45,7 @@ _Updated: 2025-10-30 07:42_
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
-- NEC to Acquire CSG, Strengthening Its Position as a Global Leader in Digital Transformation - Placera.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Omdia: Global smartphone market grows 3% in Q3 2025, led by emerging economies - Placera.se
 
 ## Technology
@@ -103,14 +103,14 @@ _Updated: 2025-10-30 07:42_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
