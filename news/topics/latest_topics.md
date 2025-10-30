@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-30 23:39_
+_Updated: 2025-10-31 00:40_
 
 ## Top Stories
 
-- ”Västerbottens kommuner ska inte vika sig för SD-hot” - Västerbottens-Kuriren
+- Ett kraftigt höjt återvandringsbidrag - Regeringen.se
 - Hotellverksamhet i city förbjuds efter omfattande problem med prostitution - polisen.se
 - Sveriges nationella klimatmål – uppdaterat etappmål till 2030 - Regeringen.se
 - Man häktas för flera grova våldsbrott - SVT Nyheter
-- Ung man livshotande skadad i Lund - Sydsvenskan
-- Rättegång mot högerextremister inledd – hävdar nödvärn - Dagens Nyheter
+- Sverige nobbar Gazas barn: ”Dubbelmoral” - SvD
+- Michael Winiarski: Trumps order betyder inte att USA spränger nya atombomber - Dagens Nyheter
 - Vändningen i rusket – här är det sommar - Expressen
 - Polisen söker försvunnen kvinna – har gått från lasarettet - Falu-Kuriren
 - 30 oktober 17.55, Trafikkontroll, Norrbottens län - polisen.se
-- Ministern: Klimatarbetet ingår i länsstyrelsernas uppgifter - Dagens Nyheter
-- Trump öppnar för nya kärnvapentester – så kan de se ut - SVT Nyheter
+- Rättegång mot högerextremister inledd – hävdar nödvärn - Dagens Nyheter
 - FN varnar: 27 miljoner hotas av hungersnöd i Kongo - UNT
-- Upprört i USA efter rivning av Vita husflygel - Dagens Nyheter
+- Upprört i USA efter rivning av Vita husflygel - Hufvudstadsbladet
 - Majoritet av ryssarna ”väldigt trötta” på kriget i Ukraina - Expressen
+- Hamas har överlämnat kvarlevor av två i gisslan - Västerbottens-Kuriren
 - DN Direkt – Kritik mot If för vilseledande reklam – igen - Dagens Nyheter
+- Trumps tullar slår mot Ikea – höjer priserna i USA - DI
 - Kinesisk prisdumpning ett hot mot svenska affärer - DI
-- Kandidat Trainee till NCC Industry 2026 - ncc.se
-- Ny granskning: 1,7 miljarder realistisk kostnad för nytt vattenverk i Östersund - SVT Nyheter
+- ”Svårt ersätta mänskliga händer med robotar” - SvD
 - Battlefield RedSec lanseras till blandad kritik - Nordichardware
 - Samsung laddar för Galaxy S26 med mer AI, bättre chip och kamera - Teknikveckan
 
@@ -42,21 +42,21 @@ _Updated: 2025-10-30 23:39_
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - RTX CFO to present at the Baird 2025 Global Industrial Conference - Placera.se
 - AIG Announces Long-Term Strategic Investment in Top-Performing Global Specialty Insurer Convex Group and an Equity Stake in Global Asset Manager Onex Corporation - Placera.se
 - Omdia: Global smartphone market grows 3% in Q3 2025, led by emerging economies - Placera.se
+- Cryoport Continues to Set New Benchmarks for the Global Regenerative Medicine Supply Chain - Placera.se
 
 ## Technology
 
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
@@ -75,13 +75,13 @@ _Updated: 2025-10-30 23:39_
 
 - Jiuzi Holdings Launches $1 Billion Bitcoin Treasury with SOLV to Drive Institutional Yields and RWA Innovation - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Bakkt Announces Plan to Simplify Capital Structure and Transition to a Single-Class Common Stock - Placera.se
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - ETHZilla Sells Approximately $40mm ETH to Facilitate Stock Repurchases - Placera.se
