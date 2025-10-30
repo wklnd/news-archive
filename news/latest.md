@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-30 22:49_
+_Updated: 2025-10-30 23:48_
 
-- King Charles III strips Prince Andrew of his titles and evicts him from the Royal Lodge - NPR
-- Judge Skeptical Over Trump Administration Decision to Suspend Food Stamps - The New York Times
-- US will limit number of refugees to 7,500 and give priority to white South Africans - The Guardian
-- Hurricane Melissa devastates Jamaica, Haiti and Cuba; at least 28 dead - CBS News
+- Trump and Xi agree to a one-year trade truce — but key details remain unclear - Politico
 - Trump directs Pentagon to test nuclear weapons for first time since 1992 - The Washington Post
-- Britt and Schumer have rare bipartisan chat as senators feel out shutdown endgame - Politico
+- A judge is set to decide whether SNAP benefits can be cut off on Saturday - NPR
+- Before and after: Satellite images reveal hurricane devastation in Jamaica - BBC
+- US will limit number of refugees to 7,500 and give priority to white South Africans - The Guardian
+- Senate approves Democratic resolution that would block Trump's global tariffs - CBS News
+- Trump-appointed judge praises prosecutors placed on leave after calling Jan. 6 a 'riot' - NBC News
 - Abby Zwerner, teacher shot by 6-year-old student at school, testifies about shooting: "I thought I had died" - CBS News
-- DOD can’t say who it killed in military strikes against drug smugglers - Politico
-- Zohran Mamdani supporters make final campaign push: Why him, why now? - Al Jazeera
-- Spanberger courts Trump voters in rural Virginia - Politico
-- Live: Trump says he has struck deals with China's Xi on tariffs, rare earths, fentanyl and soybeans - Reuters
-- Neck-and-neck finish in Dutch election as Wilders’ far-right party and centrist D66 tie - AP News
-- Key details emerge in Louvre jewel heist as 5 more are arrested - PBS
+- Britt and Schumer have rare bipartisan chat as senators feel out shutdown endgame - Politico
+- Democrats test a new playbook in Tuesday’s election: Less talk of Trump, more focus on economy - AP News
+- Buckingham Palace to remove Prince Andrew’s titles and honors - CNN
+- 5 more arrests as Louvre jewel heist probe deepens and key details emerge - AP News
+- Rob Jetten: anti-Wilders, ‘yes we can’ candidate poised to be next Dutch PM - The Guardian
 - Israel receives coffins Hamas says contain two Gaza hostages' bodies - BBC
-- Amazon's huge AWS cloud growth and earnings beat drive stock surge - businessinsider.com
-- Meta stock slide erases $237 billion in market value. Wall Street pans ‘runaway’ AI spending. - MarketWatch
-- Mortgage rates jump 20 basis points following Fed cut - CNBC
-- Microsoft, Alphabet, Meta: Magnificent Seven Earnings Roundup - The Wall Street Journal
-- Xbox Q1 hardware sales down 29% while third-party content experiences "better-than-expected performance" - GamesIndustry.biz
+- Amazon Stock Pops as Earnings Top Estimates, Driven by AWS Growth - Investopedia
+- Apple reports fourth quarter results - Apple
+- Trump-Xi Trade Truce Leaves Questions; Rare Earth Stocks Fall - Investor's Business Daily
+- Cramer upgrades Microsoft; says Starbucks CEO tells him what he has been waiting to hear - CNBC
 - Introducing Aardvark: OpenAI’s agentic security researcher - OpenAI
+- Disney+ gets HDR10+ via “over 1,000” Hulu titles - Ars Technica
