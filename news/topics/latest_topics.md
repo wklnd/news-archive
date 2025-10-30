@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-30 05:55_
+_Updated: 2025-10-30 06:44_
 
 ## Top Stories
 
 - Trump vill ”omedelbart” återuppta kärnvapentester - SVT Nyheter
-- Marianne Björklund: Kina känner segervittring i handelskriget mot ”kamrat Trump” - Dagens Nyheter
-- Nazism och terror när Nederländerna röstar igen - Aftonbladet
-- De säger ja till återvandringsmöte - UNT
+- Xi och Trumps möte över – lämnar inga kommentarer - Hufvudstadsbladet
+- Liberaler störst i Haag – Wilders bara tvåa - Västerbottens-Kuriren
+- M i Lund trotsar regeringen – vill inte prata återvandring - Dagens Nyheter
+- S: Kristersson bryter mot statligt regelverk - GP
 - 29 oktober 18.46, Trafikkontroll, Västerbottens län - polisen.se
 - S: Regeringen misslyckas igen och Östersjön betalar priset - Altinget.se
-- Pedofiljägare döms – hade själv smygfilmat flickor - Dagens Nyheter
 - Natthemtjänsten sov på arbetstid och åkte inte på larm - Dagens Nyheter
-- Håkan Boström: Liberalerna behövs för att elda på de andra i skolfrågan - GP
+- DEBATT: Friskolor har mer problem med glädjebetyg - Expressen
 - Nio bilister fick böter i nytt bussfält - Östersunds-Posten
+- Ministerns hot: Då kommer Nato jämna Moskva med marken - TV4 Nyheterna
 - Venezuela har förstört colombianska "knarkläger" - GP
 - DN Direkt – Man försökte stjäla el från bostadsrättsförening - Dagens Nyheter
-- Många döda på Haiti när Melissa drog in - Hufvudstadsbladet
-- Andra Vatikankonciliet 60 år – se det sanna i andra religioner - Signum – Katolsk orientering om kyrka, kultur och samhälle
+- Orkanen Melissa drar in över Kuba - SVT Nyheter
 - Stora internetproblem för Microsofts molntjänst - DI
-- Hyundai återkallar 180 000 bilar - Aftonbladet
+- Liberalerna: Kriminalisera strypsex - Aftonbladet
 - Remiss: Förslag till nya föreskrifter om säkerhetsåtgärder och utbildning enligt ny cybersäkerhetslag - MSB – Myndigheten för samhällsskydd och beredskap
 - Think Pink-toppar döms för ekobrott - ETC.se
 - Trumps ”Halo”-memes väcker ilska: ”Fascism” - UNT
@@ -51,16 +51,16 @@ _Updated: 2025-10-30 05:55_
 ## Technology
 
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
+- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Investors Turn to AI-Driven Imaging Firms Targeting High-Growth Breast Cancer Market - Placera.se
+- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
-- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
@@ -68,7 +68,7 @@ _Updated: 2025-10-30 05:55_
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- Investors Turn to AI-Driven Imaging Firms Targeting High-Growth Breast Cancer Market - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
 
 ## Business
@@ -128,12 +128,12 @@ _Updated: 2025-10-30 05:55_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
