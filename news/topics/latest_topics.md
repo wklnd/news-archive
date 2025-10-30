@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-30 08:50_
+_Updated: 2025-10-30 09:39_
 
 ## Top Stories
 
-- Marianne Björklund: Kina känner segervittring i handelskriget mot ”kamrat Trump” - Dagens Nyheter
-- Trump vill ”omedelbart” återuppta kärnvapentester - SVT Nyheter
-- Liberalerna kan styra Göteborg ihop med SD - GP
-- Två svenskar åtalade för terroristbrott i Danmark - newsoresund.se
+- Bråk mellan ungdomar på fotbollsturnern i Landskrona – gav sig på väktare - Aftonbladet
+- Trump efter mötet med Xi: Fantastiskt – en stor ledare - SVT Nyheter
+- DN Direkt – Förseningar på tunnelbanelinje - Dagens Nyheter
+- Hollywoodproducent dömd till 146 år i fängelse - GP
 - SD:s försprång växer: ”Anmärkningsvärt” - SvD
 - Jämnt i Nederländernas parlamentsval - Dagens Nyheter
-- Kartläggning av klimatrisker skrotades – sedan kom skyfallet - Dagens Nyheter
-- S: Regeringen misslyckas igen och Östersjön betalar priset - Altinget.se
+- Klimatministern skyller på länsstyrelserna för skrotade klimatarbetet - Dagens Nyheter
 - DNA-släktforskning nu i skarpt läge hos polisen - Västerbottens-Kuriren
+- Populära halloween-trädgården i Huddinge: ”Det sporrar en – att göra det bättre varje år” - Sveriges Radio
 - Strömmer om attacken mot Mohammad: ”Omskakande” - Dagens Nyheter
-- Ministerns hot: Då kommer Nato jämna Moskva med marken - TV4 Nyheterna
 - Venezuela har förstört colombianska "knarkläger" - GP
-- Stort bråk vid fotbollsmatch i Landskrona - SVT Nyheter
-- DN Direkt – Man försökte stjäla el från bostadsrättsförening - Dagens Nyheter
-- Floppen avslutas – skrotbilspremien går i graven - SvD
+- Ukraina: Flera skadade i attack mot barnsjukhus - Västerbottens-Kuriren
+- Ministerns hot: Då kommer Nato jämna Moskva med marken - TV4 Nyheterna
+- Många döda på Haiti när Melissa drog in - Hufvudstadsbladet
 - Hyundai återkallar 180 000 bilar - Aftonbladet
+- Floppen avslutas – skrotbilspremien går i graven - SvD
+- Nytt köpråd på Sweco – här är dagens rekar - DI
 - Linus Larsson: Internets ägg ligger i väldigt få korgar - Dagens Nyheter
-- Så agerade fondspararna i oktober - Dagens PS
 - Roy, Romare, Maunsbach, Tichý – stjärnspäckad författarvecka på Stadsbiblioteket - Malmö stad
-- Trumps ”Halo”-memes väcker ilska: ”Fascism” - TV4 Nyheterna
+- Trumps ”Halo”-memes väcker ilska: ”Fascism” - UNT
 
 ## World News
 
@@ -38,15 +38,15 @@ _Updated: 2025-10-30 08:50_
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Svenskens mardröm – missar NHL-matcherna i Stockholm - hockeysverige.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- VNV Global visar högre substansvärde i dollar - DI
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Omdia: Global smartphone market grows 3% in Q3 2025, led by emerging economies - Placera.se
+- SOUTHWEST AIRLINES PARTNERS WITH HAHNAIR TO EXPAND GLOBAL TICKETING REACH - Placera.se
+- The 32nd China International Advertising Festival & the 34th AdAsia Beijing 2025 Conclude Successfully - Placera.se
 
 ## Technology
 
@@ -122,43 +122,43 @@ _Updated: 2025-10-30 08:50_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Årets viktigaste internationella livsmedelskonferens – Spot on Food - Mynewsdesk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
