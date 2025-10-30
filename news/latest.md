@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-30 17:51_
+_Updated: 2025-10-30 18:54_
 
-- Trump cuts tariffs on China after meeting Xi in South Korea - AP News
-- Trump directs Pentagon to test nuclear weapons for first time since 1992 - The Washington Post
-- China will return U.S. soybean purchases to regular levels, Bessent says - Axios
-- Americans oppose Trump’s White House ballroom by 2-to-1 ratio, new poll finds - Politico
-- Poll: Voters side with Newsom, Democrats on Prop. 50 — a potential blow to Trump and GOP - Los Angeles Times
-- Elderly cruise passenger found dead after being abandoned on tropical island - NBC News
-- Judge to consider demand to force the government to keep funding SNAP food aid despite the shutdown - AP News
-- Former Illinois sheriff’s deputy convicted in killing of Sonya Massey - The Washington Post
-- Farm-state Republicans finally reach their breaking point - Politico
-- Senate postpones confirmation hearing for Trump surgeon general pick after Casey Means goes into labor – US politics live - The Guardian
+- Trump cuts tariffs on China after ‘truly great’ meeting with Xi - The Washington Post
+- Trump suggests the U.S. will resume testing nuclear weapons - NPR
+- Hurricane Melissa's destruction in Jamaica seen in before-and-after satellite images - CBS News
+- Critics question whether White House, contractors 'cut corners' on asbestos safety in East Wing demolition - ABC News - Breaking News, Latest News and Videos
+- Voters in poll side with Newsom, Democrats on Prop. 50 — a potential blow to Trump and GOP - Los Angeles Times
+- China to Buy 12 Million Tons of Soy This Year, Bessent Says - Bloomberg.com
+- Sonya Massey's father expresses anger after ex-deputy convicted on lesser charge in fatal shooting - CBS News
+- Trump Administration Tells Court It Has Money It Can’t Spend to Prevent Food Stamp Cuts - The New York Times
+- Abigail Zwerner testifies she thought she was dead or dying after being shot by 6-year-old student - NBC News
+- Spanberger courts Trump voters in rural Virginia - Politico
+- Sudan war: Reports of mass killings in el-Fasher in Darfur have echoes of country's dark past - BBC
+- Neck-and-neck finish in Dutch election as Wilders’ far-right party and centrist D66 tie - AP News
+- Inside the new monumental Grand Egyptian Museum in Cairo - Euronews.com
 - French police hunting stolen Louvre jewels arrest more suspects - Reuters
-- Brazil police raid leaves at least 119 dead, triggering protests and claims of executions and a decapitation - CBS News
-- Hurricane Melissa leaves trail of destruction across Caribbean - BBC
-- How much trouble is Rachel Reeves in over rental rule break? - BBC
-- Eli Lilly blows past estimates, hikes guidance as Zepbound and Mounjaro sales soar - CNBC
+- Stock Market Today: Nasdaq Falls After Meta, Microsoft Earnings; U.S. Agrees to Cut China Tariffs - The Wall Street Journal
 - AI spending is helping prop up the economy. Now it’s getting stronger. - The Washington Post
-- Meta Shares Drop 12% After Trump’s Megabill Casts $16 Billion Tax Charge - Forbes
-- Stock Market Today: Dow Jones Futures Slip, Nasdaq Gains Following Fed Rate Cuts, Big Tech Earnings—Alphabet, Meta, Amazon, Apple In Focus - Benzinga
+- Eli Lilly Smashes Views On Back Of Mounjaro, Zepbound - Investor's Business Daily
+- Meta stock slide erases $237 billion in market value. Wall Street pans ‘runaway’ AI spending. - MarketWatch
 - Samsung Internet Expands to PC With New Beta Program - Samsung Global Newsroom
 - Magic Leap reveals an Android XR smart glasses prototype - Engadget
