@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-30 22:42_
+_Updated: 2025-10-30 23:39_
 
 ## Top Stories
 
-- Andrew förlorar sin titel – ”tankarna hos offren” - SvD
-- Sveriges nationella klimatmål – uppdaterat etappmål till 2030 - Regeringen.se
-- Nej, nej, nej – flera kommuner följer Lidköpings exempel kring återvandring: ”Känns märkligt” - NLT
+- ”Västerbottens kommuner ska inte vika sig för SD-hot” - Västerbottens-Kuriren
 - Hotellverksamhet i city förbjuds efter omfattande problem med prostitution - polisen.se
-- Ung man livshotande skadad i Lund - SVT Nyheter
-- Man häktad i utevaro för flera grova våldsbrott - Åklagarmyndigheten
+- Sveriges nationella klimatmål – uppdaterat etappmål till 2030 - Regeringen.se
+- Man häktas för flera grova våldsbrott - SVT Nyheter
+- Ung man livshotande skadad i Lund - Sydsvenskan
+- Rättegång mot högerextremister inledd – hävdar nödvärn - Dagens Nyheter
 - Vändningen i rusket – här är det sommar - Expressen
 - Polisen söker försvunnen kvinna – har gått från lasarettet - Falu-Kuriren
 - 30 oktober 17.55, Trafikkontroll, Norrbottens län - polisen.se
-- Rättegång mot högerextremister inledd – hävdar nödvärn - Dagens Nyheter
-- Michael Winiarski: Trumps order betyder inte att USA spränger nya atombomber - Dagens Nyheter
-- Upprört i USA efter rivning av Vita husflygel - Hufvudstadsbladet
+- Ministern: Klimatarbetet ingår i länsstyrelsernas uppgifter - Dagens Nyheter
+- Trump öppnar för nya kärnvapentester – så kan de se ut - SVT Nyheter
 - FN varnar: 27 miljoner hotas av hungersnöd i Kongo - UNT
-- Polska jaktplan motade ryskt plan över Östersjön - Västerbottens-Kuriren
+- Upprört i USA efter rivning av Vita husflygel - Dagens Nyheter
+- Majoritet av ryssarna ”väldigt trötta” på kriget i Ukraina - Expressen
 - DN Direkt – Kritik mot If för vilseledande reklam – igen - Dagens Nyheter
 - Kinesisk prisdumpning ett hot mot svenska affärer - DI
-- Svensk miljardär i storaffär med ryska Lukoil - Hufvudstadsbladet
 - Kandidat Trainee till NCC Industry 2026 - ncc.se
+- Ny granskning: 1,7 miljarder realistisk kostnad för nytt vattenverk i Östersund - SVT Nyheter
 - Battlefield RedSec lanseras till blandad kritik - Nordichardware
 - Samsung laddar för Galaxy S26 med mer AI, bättre chip och kamera - Teknikveckan
 
 ## World News
 
-- S&P Global Investor Day Scheduled for November 13, 2025 - Placera.se
+- Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
 - GLOBAL KAPITALISM ÄR UTE PÅ TUNN IS - socialisterna.org
-- S&P Global Reports Third Quarter Results - Placera.se
+- S&P Global Investor Day Scheduled for November 13, 2025 - Placera.se
 - Svensken skadad – riskerar missa NHL-matcherna i Sverige - hockeysverige.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- S&P Global Reports Third Quarter Results - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - RTX CFO to present at the Baird 2025 Global Industrial Conference - Placera.se
 - AIG Announces Long-Term Strategic Investment in Top-Performing Global Specialty Insurer Convex Group and an Equity Stake in Global Asset Manager Onex Corporation - Placera.se
 - Omdia: Global smartphone market grows 3% in Q3 2025, led by emerging economies - Placera.se
-- SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 
 ## Technology
 
@@ -68,8 +68,8 @@ _Updated: 2025-10-30 22:42_
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
-- YPF and Globant Advance a Major Project to Transform and Optimize the Supply Chain with AI Solutions - Placera.se
 
 ## Business
 
@@ -81,18 +81,18 @@ _Updated: 2025-10-30 22:42_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - ETHZilla Sells Approximately $40mm ETH to Facilitate Stock Repurchases - Placera.se
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- BTQ and ICTK Sign USD 15M Quantum-Secure Chip Development and Joint Investment Agreement to Advance Global Quantum-Safe Hardware - Placera.se
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- BTQ and ICTK Sign USD 15M Quantum-Secure Chip Development and Joint Investment Agreement to Advance Global Quantum-Safe Hardware - Placera.se
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
