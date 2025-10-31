@@ -1,93 +1,93 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-31 11:42_
+_Updated: 2025-10-31 12:44_
 
 ## Top Stories
 
-- Misstänkt farligt föremål i Borås – VMA utfärdat - SVT Nyheter
+- Fotboll: Gustav Svensson avslutar karriären - SVT Nyheter
 - RSF-ledaren medger ansvar för massakrer i Sudan - Dagens Nyheter
 - Unga köper droger och alkohol på Snapchat: - Mitt i Stockholm
-- Kritik mot Trumps kärnvapentester - Västerbottens-Kuriren
-- Färgattack mot svenska ambassaden i Moskva - GP
 - Hotellverksamhet i city förbjuds efter omfattande problem med prostitution - polisen.se
+- Viktigt meddelande till allmänheten i Borås i Borås kommun, Västra Götalands län - Krisinformation.se
+- Kartkrig: Guvernör mot ”Terminator” - SvD
+- Uppmaning under Halloween – undvik leksaksvapen - Västerbottens-Kuriren
+- De möter människor i livets alla skeden: ”Ska vara så fint som möjligt” - Arvika Nyheter
 - Tidigare Säpochef ska se över Regeringskansliets säkerhetsarbete - SVT Nyheter
-- Småsparare lockades till kryptoplattformar – krascher och knarkkontakter bakom kulisserna - Sveriges Radio
 - Göteborg tackar nej till infomöte om återvandringsbidraget - GP
-- 31 oktober 07.01, Sammanfattning natt, Jämtlands län - polisen.se
-- Rekordregn i New York – dykare i Brooklyn - Aftonbladet
+- Skyfall i New York – dykare bärgar döda - Hufvudstadsbladet
 - Apor hittades i incheckad väska - Västerbottens-Kuriren
-- Dödstalet efter Melissa skrivs upp - GP
-- DN Direkt – Tog broderns plats bakom galler – döms till fängelse - Dagens Nyheter
+- Svenska ambassaden i Ryssland utsatt för färgattack - SVT Nyheter
+- Påven till katolska universitet: Forma medborgare för det gemensamma goda - Vatican News
 - Svenskarna saknar plan på nätet efter döden – kan bli jobbigt för anhöriga - Dagens Nyheter
 - AI-utgifterna skrämmer börsen igen – Zuckerbergs svar - EFN
 - Apples försäljning föll i Kina – aktien lyfte - SVT Nyheter
-- 10 000% fonden sålde Telia – fyller på med Kinnevik - Placera.se
-- Förändring av antalet aktier och röster i SBF Bostad AB (publ) - Cision News
+- Inflationen äter upp barnens månadspeng - Aftonbladet
+- Förändring av antalet aktier och röster i SBF Bostad AB (publ) (Cision) - Aktiellt
 - Krönika: Till botten med Oppo och Oneplus - mobil.se
 
 ## World News
 
-- Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
+- Pioneering Nuclear Fusion Energy Innovation for Two Decades: Shanghai Electric Empowers Global CRAFT and ITER Projects, Driving a Sustainable Future for Earth - Placera.se
 - GLOBAL KAPITALISM ÄR UTE PÅ TUNN IS - socialisterna.org
 - Svensken skadad – riskerar missa NHL-matcherna i Sverige - hockeysverige.se
-- S&P Global Investor Day Scheduled for November 13, 2025 - Placera.se
+- Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- S&P Global Reports Third Quarter Results - Placera.se
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
+- S&P Global Reports Third Quarter Results - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- S&P Global Investor Day Scheduled for November 13, 2025 - Placera.se
 - The First International Jewelry Fashion Theme Month Kicks Off in Shanghai, Accelerating Its Rise as a Global Jewelry and Fashion Hub - Placera.se
 - RTX CFO to present at the Baird 2025 Global Industrial Conference - Placera.se
-- AIG Announces Long-Term Strategic Investment in Top-Performing Global Specialty Insurer Convex Group and an Equity Stake in Global Asset Manager Onex Corporation - Placera.se
-- SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
-- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
-- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Deepseek är det nya Linux - Computer Sweden
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
-- YPF and Globant Advance a Major Project to Transform and Optimize the Supply Chain with AI Solutions - Placera.se
-- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
 
 - Jiuzi Holdings Launches $1 Billion Bitcoin Treasury with SOLV to Drive Institutional Yields and RWA Innovation - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Bakkt Announces Plan to Simplify Capital Structure and Transition to a Single-Class Common Stock - Placera.se
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Bakkt Announces Plan to Simplify Capital Structure and Transition to a Single-Class Common Stock - Placera.se
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- ETHZilla Sells Approximately $40mm ETH to Facilitate Stock Repurchases - Placera.se
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
@@ -101,19 +101,19 @@ _Updated: 2025-10-31 11:42_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 - Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
 
