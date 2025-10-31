@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-31 12:44_
+_Updated: 2025-10-31 13:38_
 
 ## Top Stories
 
-- Fotboll: Gustav Svensson avslutar karriären - SVT Nyheter
-- RSF-ledaren medger ansvar för massakrer i Sudan - Dagens Nyheter
-- Unga köper droger och alkohol på Snapchat: - Mitt i Stockholm
+- DN Direkt – Tre gripna för mordförsök i Lund - Dagens Nyheter
 - Hotellverksamhet i city förbjuds efter omfattande problem med prostitution - polisen.se
-- Viktigt meddelande till allmänheten i Borås i Borås kommun, Västra Götalands län - Krisinformation.se
+- Unga köper droger och alkohol på Snapchat: - Mitt i Stockholm
+- Unicef: Enormt hjälpbehov efter Melissa - Västerbottens-Kuriren
 - Kartkrig: Guvernör mot ”Terminator” - SvD
-- Uppmaning under Halloween – undvik leksaksvapen - Västerbottens-Kuriren
+- Göteborg tackar nej till infomöte om återvandringsbidraget - GP
 - De möter människor i livets alla skeden: ”Ska vara så fint som möjligt” - Arvika Nyheter
 - Tidigare Säpochef ska se över Regeringskansliets säkerhetsarbete - SVT Nyheter
-- Göteborg tackar nej till infomöte om återvandringsbidraget - GP
-- Skyfall i New York – dykare bärgar döda - Hufvudstadsbladet
-- Apor hittades i incheckad väska - Västerbottens-Kuriren
 - Svenska ambassaden i Ryssland utsatt för färgattack - SVT Nyheter
+- Uppmaning under Halloween – undvik leksaksvapen - Västerbottens-Kuriren
+- Utrotningshotade apor hittades i incheckad väska - GP
+- Skyfall i New York – dykare bärgar döda - Hufvudstadsbladet
+- DN Direkt – Avskogningen i Amazonas minskar - Dagens Nyheter
 - Påven till katolska universitet: Forma medborgare för det gemensamma goda - Vatican News
 - Svenskarna saknar plan på nätet efter döden – kan bli jobbigt för anhöriga - Dagens Nyheter
-- AI-utgifterna skrämmer börsen igen – Zuckerbergs svar - EFN
+- Mer oljeproduktion kan pressa ned bensinpriset - SvD
 - Apples försäljning föll i Kina – aktien lyfte - SVT Nyheter
-- Inflationen äter upp barnens månadspeng - Aftonbladet
-- Förändring av antalet aktier och röster i SBF Bostad AB (publ) (Cision) - Aktiellt
-- Krönika: Till botten med Oppo och Oneplus - mobil.se
+- AI-utgifterna skrämmer börsen igen – Zuckerbergs svar - EFN
+- Dietist Samrehab Barn - Region Kalmar
+- Battlefield RedSec lanseras till blandad kritik - Nordichardware
 
 ## World News
 
@@ -33,17 +33,17 @@ _Updated: 2025-10-31 12:44_
 - Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- S&P Global Reports Third Quarter Results - Placera.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- S&P Global Investor Day Scheduled for November 13, 2025 - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- S&P Global Investor Day Scheduled for November 13, 2025 - Placera.se
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - The First International Jewelry Fashion Theme Month Kicks Off in Shanghai, Accelerating Its Rise as a Global Jewelry and Fashion Hub - Placera.se
 - RTX CFO to present at the Baird 2025 Global Industrial Conference - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -73,26 +73,26 @@ _Updated: 2025-10-31 12:44_
 
 ## Business
 
-- Jiuzi Holdings Launches $1 Billion Bitcoin Treasury with SOLV to Drive Institutional Yields and RWA Innovation - Placera.se
+- Bakkt Announces Plan to Simplify Capital Structure and Transition to a Single-Class Common Stock - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Bakkt Announces Plan to Simplify Capital Structure and Transition to a Single-Class Common Stock - Placera.se
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- ETHZilla Sells Approximately $40mm ETH to Facilitate Stock Repurchases - Placera.se
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -121,24 +121,24 @@ _Updated: 2025-10-31 12:44_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
 
 ## Jordbruk
 
@@ -151,8 +151,9 @@ _Updated: 2025-10-31 12:44_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
@@ -161,4 +162,3 @@ _Updated: 2025-10-31 12:44_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
