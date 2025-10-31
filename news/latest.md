@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-31 15:50_
+_Updated: 2025-10-31 16:51_
 
-- FBI thwarts 'potential terrorist attack' in Michigan - ABC News
 - Trump urges Republicans to kill the filibuster - Politico
-- In Louisiana, Threat of Lost SNAP Food Benefits Is Rattling the Vulnerable - The New York Times
 - Trump muddles nuke-testing message - Axios
 - Millions face 'huge sticker shock' when ACA open enrollment starts Nov. 1 - CNBC
-- Hurricane Melissa: Death toll rises as aid struggles to reach parts of Jamaica - BBC
-- Trump hosts White House Halloween bash with superheroes and presidential lookalikes amid shutdown - ABC News
-- Government shutdown likely to extend to next week as Senate adjourns with no breakthrough - CBS News
-- Air Controller Shortage Causes Delays in Orlando and at Other Major Airports - The New York Times
+- Judge says she’ll likely order Trump administration to send SNAP funds to states - The Washington Post
+- FBI foiled a 'potential terrorist attack' in Michigan planned for Halloween weekend, Director Kash Patel says - NBC News
+- Rob Jetten's Dutch centrist liberal party wins neck-and-neck election race, vote analysis says - BBC
+- Why has the shutdown gone 31 days? Look at Mark Warner. - Politico
+- In Zach Bryan's hometown, many support tougher immigration enforcement, with some caveats - NBC News
+- UN human rights chief says US strikes on alleged drug boats are ‘unacceptable’ - AP News
 - Illinois lawmakers approve $1.5B legislative package to buoy mass transit - Chicago Sun-Times
 - Prince Andrew stripped of all titles after Virginia Giuffre’s memoir. Her family declares ‘victory’ - The Conversation
-- Here’s How US, China Statements Compared After Xi-Trump Summit - Bloomberg.com
-- Tanzania election: Protesters defy army chief in third day of unrest - BBC
-- Ukraine Destroys Secret Russian “Oreshnik” Missile System at Kapustin Yar - UNITED24 Media
-- S&P 500 and Nasdaq rise, led by Apple and Amazon: Live updates - CNBC
+- Sudan’s RSF accused of ‘PR stunt’ after arresting fighters behind civilian killings - The Guardian
+- 5 key takeaways from Trump’s week in Asia - NPR
+- Endangered primates, 1 alive and 1 dead, found in checked bag at airport in India - CBS News
+- Cloud revenue is sending Amazon shares soaring. Here’s what analysts had to say - CNBC
 - Nvidia to supply more than 260,000 Blackwell AI chips to South Korea - Reuters
-- Exxon Beats Earnings Estimates. Why the Stock Is Falling. - Barron's
-- What the US-China deal means for rare earths, soybean farmers and TikTok - ABC News
-- WhatsApp now testing an Apple Watch companion app - 9to5Mac
-- Tim Cook says more AIs are coming to Apple Intelligence - The Verge
+- Stock Market Today: S&P 500 Futures Rise, Bolstered by Apple, Amazon Rally — Live Updates - The Wall Street Journal
+- Chocolate's reign over Halloween is under threat from inflation, tariffs and high cocoa prices - CNBC
+- Tim Cook provides update on next-gen Siri development - 9to5Mac
+- “Unexpectedly, a deer briefly entered the family room”: Living with Gemini Home - Ars Technica
