@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-31 01:48_
+_Updated: 2025-10-31 04:20_
 
+- What does Trump mean by 'nuclear testing?' - ABC News
+- Amid Flattened Homes, Jamaica Starts to Assess Hurricane Melissa’s Damage - The New York Times
 - Judge says she’ll likely order Trump administration to send SNAP funds to states - The Washington Post
-- Trump said the US would begin testing nukes. It caught even some advisers by surprise. - CNN
-- Live updates: Trump administration limits refugee admissions to mostly white South Africans - AP News
-- Before and after: Satellite images reveal hurricane devastation in Jamaica - BBC
-- US Senate votes to end Trump’s global tariffs on more than 100 countries - The Guardian
-- Dems rage at "unsatisfactory" Trump briefing on drug boat strikes - Axios
-- Judge sentences former Jan. 6 defendant for hoax threat near Obama's home - NPR
-- Teacher suing for $40 million after being shot by her 6-year-old student testifies in civil trial - ABC News
+- China emerges as US ‘peer rival’ at Xi-Trump summit - Financial Times
+- Trump sets lowest-ever refugee cap. See how other presidents compare. - Axios
+- Delta and United call on Congress to immediately end government shutdown, pay air traffic controllers - CNBC
+- Trump Returns to White House in Time to Greet Trick-or-Treaters - The New York Times
 - Zohran Mamdani and Democratic Socialists prepare for complicated partnership - Politico
-- Government shutdown live updates as Senate adjourns with no breakthrough on ending impasse - CBS News
-- Xi-Trump summit underlines China’s growing confidence as a US peer - Financial Times
-- King Charles Strips Prince Andrew of All Royal Titles and Privileges — He's Now Andrew Mountbatten Windsor - Yahoo News UK
+- An animal rights activist said she ‘rescued’ chickens. A jury convicted her of conspiracy - Los Angeles Times
+- US Senate votes to reject Trump’s global tariffs on more than 100 countries - The Guardian
+- UN leaders condemn ‘horrifying’ mass killings in Sudan - The Guardian
+- The Canada-U.S. Trade War Is Pushing Carney Closer to Xi - The Wall Street Journal
 - 5 more arrests as Louvre jewel heist probe deepens and key details emerge - AP News
-- Photographer on Rio police raid: 'The bodies just kept coming' - BBC
-- Amazon Stock Surges As AWS Delivers The AI Cloud Growth Investors Wanted - Investor's Business Daily
+- Dutch voters deliver rebuke to the far right in knife-edge election - The Washington Post
+- Amazon Shares Surge on 13% Revenue Jump, Strong Cloud Sales - The Wall Street Journal
 - Apple reports fourth quarter results - Apple
-- Cramer upgrades Microsoft; says Starbucks CEO tells him what he has been waiting to hear - CNBC
-- Mortgage Rates Dip to 6.17% After Fed’s Second Cut This Year - Realtor.com
-- Disney+ begins rolling out HDR10+ support - Engadget
+- Mortgage Rates Set To Rise After Fed Chair’s ‘Surprising’ Comment About a December Cut - Realtor.com
+- Meta Stock Plummets as Investors Horrified at How Much Zuckerberg Is Spending on Misfired AI - Futurism
+- SpaceX makes case for why it will land American astronauts on the Moon - ABC News
 - Amazon has reportedly canceled its LOTR MMO - The Verge
