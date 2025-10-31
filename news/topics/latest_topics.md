@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-31 08:51_
+_Updated: 2025-10-31 09:38_
 
 ## Top Stories
 
 - Kritik mot Trumps kärnvapentester - Västerbottens-Kuriren
-- Vätska uthälld i Norrköping – två till sjukhus - Aftonbladet
-- Moskén tackar nej till samtal om återvandring: ”Vill inte förstärka känslan av otrygghet” - GP
-- DN Direkt – Misstänkt handgranat vid explosion i Malmö - Dagens Nyheter
+- Just nu: Misstänkt farligt föremål i Borås - SVT Nyheter
+- DN Direkt – Vätska uthälld i Norrköping – två till sjukhus - Dagens Nyheter
 - Hotellverksamhet i city förbjuds efter omfattande problem med prostitution - polisen.se
-- Död man var ”målvakt” i misstänkt bedrägeri - Dagens PS
+- Misstänkt handgranat vid explosion i Malmö - Aftonbladet
+- Moskén tackar nej till samtal om återvandring: ”Vill inte förstärka känslan av otrygghet” - GP
 - Här är p-pillren som kan öka risken för bröstcancer - Folkbladet
+- Småsparare lockades till kryptoplattformar – krascher och knarkkontakter bakom kulisserna - Sveriges Radio
 - 31 oktober 07.01, Sammanfattning natt, Jämtlands län - polisen.se
 - 30 oktober 17.55, Trafikkontroll, Norrbottens län - polisen.se
-- 31 oktober 06.52, Sammanfattning natt, Västernorrlands län - polisen.se
-- DN Direkt – Tog broderns plats bakom galler – döms till fängelse - Dagens Nyheter
-- Orkanen Melissa slår mot Kuba – hundratusentals evakuerade - SVT Nyheter
-- Olivodlaren Hafeth misshandlades av bosättare - Västerbottens-Kuriren
-- Taxichaufför misshandlad i Borås - Expressen
+- Tog broderns plats bakom galler – döms till fängelse - Sydsvenskan
+- Rekordregn i New York – dykare i Brooklyn - Aftonbladet
+- Dödstalet efter Melissa skrivs upp - Västerbottens-Kuriren
+- Olivodlaren Hafeth misshandlades av bosättare - GP
 - Svenskarna saknar plan på nätet efter döden – kan bli jobbigt för anhöriga - Dagens Nyheter
-- Svensk miljardär i storaffär med ryska Lukoil - Hufvudstadsbladet
-- Kemikalieinspektionen kritiseras – giftig kemikalie tränger igenom Seniors skyddsutrustning - Metal Supply
-- Ny granskning: 1,7 miljarder realistisk kostnad för nytt vattenverk i Östersund - SVT Nyheter
-- Battlefield RedSec lanseras till blandad kritik - Nordichardware
+- Apples resultat bättre än väntat - aktien steg i efterhandeln - Börsvärlden
+- EU säger nej till Sverige – förslag om elbilar stoppas - Marcus Oscarsson
+- ”Jag har 6,5 miljoner – när kan jag sluta arbeta?” - Dagens Nyheter
+- Sony Xperia 1 VII - recension: har Sonys långlivade Xperia-serie hamnat för långt efter konkurrensen? - TechRadar
 - "Min dröm kraschade – digital detox är dömt att misslyckas" - Folkbladet
 
 ## World News
@@ -37,13 +37,13 @@ _Updated: 2025-10-31 08:51_
 - S&P Global Reports Third Quarter Results - Placera.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - The First International Jewelry Fashion Theme Month Kicks Off in Shanghai, Accelerating Its Rise as a Global Jewelry and Fashion Hub - Placera.se
 - RTX CFO to present at the Baird 2025 Global Industrial Conference - Placera.se
 - AIG Announces Long-Term Strategic Investment in Top-Performing Global Specialty Insurer Convex Group and an Equity Stake in Global Asset Manager Onex Corporation - Placera.se
@@ -63,11 +63,11 @@ _Updated: 2025-10-31 08:51_
 - MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 - YPF and Globant Advance a Major Project to Transform and Optimize the Supply Chain with AI Solutions - Placera.se
 
@@ -102,63 +102,63 @@ _Updated: 2025-10-31 08:51_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Vi presenterar HealthBench - OpenAI
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
 - Johan von Schreeb - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Maskinförare | Jobb | ATL - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
