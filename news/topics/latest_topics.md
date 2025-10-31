@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-01 00:41_
+_Updated: 2025-11-01 01:36_
 
 ## Top Stories
 
 - Danska restaurangkedjan lämnar Sverige - GP
-- Smet från hotellnotan – på 42 000 kronor - Expressen
-- DN Direkt – Uppgifter: Maduro kan be Ryssland om hjälp - Dagens Nyheter
-- 31 oktober 07.11, Farligt föremål, misstänkt, Borås - polisen.se
-- Gör en jättevinst – på svenska fångar - Expressen
+- Obetalda notan: 42 000 kronor - SvD
+- Viktigt meddelande till allmänheten i Borås i Borås kommun, Västra Götalands län - Krisinformation.se
 - Källor: Pentagon ger grönt ljus för Tomahawk till Ukraina - Dagens Nyheter
+- Domare beordrar USA att betala ut matkuponger - SvD
+- Gör en jättevinst – på svenska fångar - Expressen
 - Göteborg tackar nej till infomöte om återvandringsbidraget - GP
 - 31 oktober 13.30, Trafikkontroll, Norrbottens län - polisen.se
 - Körde nästan 150 km/h utanför Umeå - Västerbottens-Kuriren
 - Tonåringar till sjukhus efter spritfest - Västerbottens-Kuriren
 - Moldavien får EU-vänlig premiärminister - Västerbottens-Kuriren
+- Dokument: Maduro ber Ryssland om militärt stöd - Dagens Nyheter
 - DN Direkt – Paulina Brandberg ska utreda den social ungdomsvård - Dagens Nyheter
-- Hamas har överlämnat kvarlevor av två i gisslan - GP
-- Hegseth: Ansvarsfullt provspränga - SVT Nyheter
-- Matpriskollen om Willys pristaktik: ”Det kokar – kan bli dödsstöten” - dagligvarunytt.se
+- Ytterligare kvarlevor har överlämnats från Gaza - GP
+- ”Säkerhetsrisker” i Sheins och Temus produkter - Sydsvenskan
+- Getty tecknar AI-deal – aktien rusade och rasade - DI
 - Rik på rysk olja – i blåsväder efter ny affär - SvD
 - AI-utgifterna skrämmer börsen igen – Zuckerbergs svar - EFN
-- Getty tecknar AI-deal – aktien rusade och rasade - DI
 - Dietist Samrehab Barn - Region Kalmar
-- Guldtoalett säljs på auktion - Västerbottens-Kuriren
+- Battlefield RedSec lanseras till blandad kritik - Nordichardware
 
 ## World News
 
 - Adtalem Global Education Inc. Investigated for Securities Fraud Violations - Contact the DJS Law Group to Discuss Your Rights – ATGE - Placera.se
 - Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
-- GLOBAL KAPITALISM ÄR UTE PÅ TUNN IS - socialisterna.org
 - Pioneering Nuclear Fusion Energy Innovation for Two Decades: Shanghai Electric Empowers Global CRAFT and ITER Projects, Driving a Sustainable Future for Earth - Placera.se
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Armand Duplantis soars to third world title and 14th world record - BBC
-- The First International Jewelry Fashion Theme Month Kicks Off in Shanghai, Accelerating Its Rise as a Global Jewelry and Fashion Hub - Placera.se
-- Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
 - Trimble Becomes Official Global Partner with Liverpool Football Club - Placera.se
-- RTX CFO to present at the Baird 2025 Global Industrial Conference - Placera.se
+- Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
+- Armand Duplantis soars to third world title and 14th world record - BBC
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- New Secretary General appointed - Olof Palme International Center
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- VCI Global tar in 5 miljoner USD i direkterbjudande till 1,80 USD per aktie - Investing.com Sverige
+- Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
+- The First International Jewelry Fashion Theme Month Kicks Off in Shanghai, Accelerating Its Rise as a Global Jewelry and Fashion Hub - Placera.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 
 ## Technology
 
@@ -73,26 +73,26 @@ _Updated: 2025-11-01 00:41_
 
 ## Business
 
-- Bakkt Announces Plan to Simplify Capital Structure and Transition to a Single-Class Common Stock - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ETHZilla Sells Approximately $40mm ETH to Facilitate Stock Repurchases - Placera.se
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- BTQ and ICTK Sign USD 15M Quantum-Secure Chip Development and Joint Investment Agreement to Advance Global Quantum-Safe Hardware - Placera.se
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -120,45 +120,45 @@ _Updated: 2025-11-01 00:41_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Här är världens största jordbruk - ATL
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
