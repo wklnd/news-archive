@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-31 17:49_
+_Updated: 2025-10-31 18:53_
 
-- Trump urges Republicans to kill the filibuster - Politico
-- FBI says "potential terrorist attack" thwarted in Michigan, multiple people arrested - CBS News
-- Mike Johnson and the House stand in the way of any deal the Senate makes to end the shutdown - The Independent
-- Trump muddles nuke-testing message - Axios
-- Millions face 'huge sticker shock' when ACA open enrollment starts Nov. 1 - CNBC
-- Illinois lawmakers pass public transit funding bill to address RTA budget gap - ABC7 Chicago
+- Republicans quickly push back on Trump’s call to nix filibuster - Politico
 - Who receives SNAP? Food aid for 1 in 8 Americans is threatened in November. - The Washington Post
-- UN human rights chief says US strikes on alleged drug boats are ‘unacceptable’ - AP News
-- In Zach Bryan's hometown, many support tougher immigration enforcement, with some caveats - NBC News
-- Ohio Redistricting Commission proposes a map the day before its deadline - The Statehouse News Bureau
+- FBI says "potential terrorist attack" thwarted in Michigan, multiple people arrested - CBS News
+- Millions face 'huge sticker shock' when ACA open enrollment starts Nov. 1 - CNBC
+- Dutch centrist Rob Jetten claims victory over Wilders in neck-and-neck election race - BBC
+- Trump muddles nuke-testing message - Axios
+- Ohio lawmakers pass new congressional map after reaching an unexpected deal - NBC News
+- Lawsuit Alleges ‘Horrific And Inhumane’ Conditions At Broadview ICE Facility - Block Club Chicago
+- Teacher shot by 6-year-old student: ‘I thought I had died’ - The Washington Post
+- Deadly storm shatters NYC rainfall records. Central Park sees highest total in more than 100 years - CBS News
 - Prince Andrew stripped of all titles after Virginia Giuffre’s memoir. Her family declares ‘victory’ - The Conversation
-- Jamaica Prepared a Financial Fortress for Disaster. Hurricane Melissa Will Test It. - The New York Times
-- Here’s How US, China Statements Compared After Xi-Trump Summit - Bloomberg.com
-- Sudan’s RSF accused of ‘PR stunt’ after arresting fighters behind civilian killings - The Guardian
-- Amazon shares soar as AI boom fuels stellar growth in AWS cloud unit - Reuters
+- About 700 killed in Tanzania election protests, opposition says - The Guardian
+- 5 key takeaways from Trump’s week in Asia - NPR
+- China’s Xi promises to protect free trade at APEC as Trump snubs major summit - AP News
+- ESPN, ABC, and other Disney channels go dark on YouTube TV - The Verge
 - Nvidia expands AI ties with Hyundai, Samsung, SK, Naver - TechCrunch
-- What the US-China deal means for rare earths, soybean farmers and TikTok - ABC News
-- Chocolate's reign over Halloween is under threat from inflation, tariffs and high cocoa prices - CNBC
-- Tim Cook provides update on next-gen Siri development - 9to5Mac
+- S&P 500 and Nasdaq rise as Amazon gets traders excited about AI trade again: Live updates - CNBC
+- Big Tech’s A.I. Spending Is Accelerating (Again) - The New York Times
+- Sora now lets you pay extra to make more AI videos - The Verge
 - “Unexpectedly, a deer briefly entered the family room”: Living with Gemini Home - Ars Technica
