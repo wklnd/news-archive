@@ -1,34 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-31 19:41_
+_Updated: 2025-10-31 20:50_
 
 ## Top Stories
 
-- DN Direkt – Källor: USA kan när som helst slå till mot Venezuela - Dagens Nyheter
-- Trump om kärnvapen-orden: "Testar om andra gör det" - Västerbottens-Kuriren
-- UD avråder från resor till Tanzania - GP
+- Dokument: Maduro ber Ryssland om militärt stöd - Dagens Nyheter
+- Det här är USA:s kraftfullaste kärnvapen - GP
+- Oppositionen i Tanzania: Omkring 700 döda - Dagens Nyheter
+- Polisens skarpa varning – använd inte leksaksvapen under halloween: ”Farligt” - NLT
 - Kiruna blir kallare – efter stadsflytten: ”Man håller sig inne” - Aftonbladet
-- Säkert Halloween-firande - Polisen.se
 - Ryska utspel om Gripenaffären: ”Retar Ryssland till vansinne” - Dagens Nyheter
 - Göteborg tackar nej till infomöte om återvandringsbidraget - GP
-- Hotellverksamhet i city förbjuds efter omfattande problem med prostitution - Polisen.se
+- Fängelse för känd rappare som bar jaktkniv i Stockholm - Omni
 - 31 oktober 13.30, Trafikkontroll, Norrbottens län - Polisen.se
-- Fem blev kräksjuka – bristande hygien - Aftonbladet
-- Nathan Shachar: Familjen pekar ut Netanyahus kurs - Dagens Nyheter
+- Regeringen gör det lättare för utlandssvenskar med familj att flytta hem - Regeringen.se
 - Dött lopp i Nederländerna – framsteg för liberaler efter Wilders bakslag - Europaportalen
 - Paulina Brandberg ska utreda nationell placeringsfunktion - Regeringen.se
-- Polska jaktplan motade igen ryskt plan över Östersjön - Hufvudstadsbladet
+- Polska jaktplan motade åter ryskt plan över Östersjön - Västerbottens-Kuriren
+- Unicef: Hjälpbehovet är enormt efter Melissa - SVT Nyheter
 - Arla sänker mjölkpriset till bönderna - Aftonbladet
+- Ekonomi: Växande oro – regeringen pressas inför valåret - News55
 - AI-utgifterna skrämmer börsen igen – Zuckerbergs svar - EFN
 - Apples försäljning föll i Kina – aktien lyfte - SVT Nyheter
-- ”Hindenburg Omen” utlöst på Wall Street: ”Sårbar marknad” - EFN
 - Dietist Samrehab Barn - Region Kalmar
-- Koldioxidutsläppen minskar när spillvärme blir fjärrvärme: ”Ett klimatsmart sätt” - VF
+- Guldtoalett säljs på auktion - Dagens Nyheter
 
 ## World News
 
 - Pioneering Nuclear Fusion Energy Innovation for Two Decades: Shanghai Electric Empowers Global CRAFT and ITER Projects, Driving a Sustainable Future for Earth - Placera.se
-- GLOBAL KAPITALISM ÄR UTE PÅ TUNN IS - socialisterna.org
 - Trimble Becomes Official Global Partner with Liverpool Football Club - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
@@ -38,38 +37,39 @@ _Updated: 2025-10-31 19:41_
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - VCI Global tar in 5 miljoner USD i direkterbjudande till 1,80 USD per aktie - Investing.com Sverige
-- New Secretary General appointed - Olof Palme International Center
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- The First International Jewelry Fashion Theme Month Kicks Off in Shanghai, Accelerating Its Rise as a Global Jewelry and Fashion Hub - Placera.se
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- New Secretary General appointed - Olof Palme International Center
+- The First International Jewelry Fashion Theme Month Kicks Off in Shanghai, Accelerating Its Rise as a Global Jewelry and Fashion Hub - Placera.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 
 ## Technology
 
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
+- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Nästa generations Internet of Things - Shaping Europe’s digital future
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Deepseek är det nya Linux - Computer Sweden
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
-- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
+- XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
+- YPF and Globant Advance a Major Project to Transform and Optimize the Supply Chain with AI Solutions - Placera.se
 
 ## Business
 
@@ -81,11 +81,11 @@ _Updated: 2025-10-31 19:41_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- BTQ and ICTK Sign USD 15M Quantum-Secure Chip Development and Joint Investment Agreement to Advance Global Quantum-Safe Hardware - Placera.se
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
@@ -104,16 +104,16 @@ _Updated: 2025-10-31 19:41_
 - The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 
@@ -160,5 +160,5 @@ _Updated: 2025-10-31 19:41_
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
