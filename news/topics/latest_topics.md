@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-31 01:38_
+_Updated: 2025-10-31 04:17_
 
 ## Top Stories
 
-- Ett kraftigt höjt återvandringsbidrag - Regeringen.se
+- Michael Winiarski: Trumps order betyder inte att USA spränger nya atombomber - Dagens Nyheter
+- Misstänkt handgranat vid explosion i Malmö - Aftonbladet
+- Moskén tackar nej till samtal om återvandring: ”Vill inte förstärka känslan av otrygghet” - GP
 - Hotellverksamhet i city förbjuds efter omfattande problem med prostitution - polisen.se
 - Sverige nobbar Gazas barn: ”Dubbelmoral” - SvD
-- Sveriges nationella klimatmål – uppdaterat etappmål till 2030 - Regeringen.se
-- Begärs häktad för att ha rekryterat skyttar till mord - Skånska Dagbladet
-- Kremls svar på Trumps kärnvapenutspel - Expressen
+- ”Trump ser ut att ha kommit billigt undan” - SvD
 - Flera fall av sms-bedrägerier mot äldre i Piteå och Örnsköldsvik - SVT Nyheter
-- Polisen söker försvunnen kvinna – har gått från lasarettet - Falu-Kuriren
-- Vändningen i rusket – här är det sommar - Expressen
-- 30 oktober 17.55, Trafikkontroll, Norrbottens län - polisen.se
+- DEBATT: Inför ett ”Sverigekort” i kollektivtrafiken - Expressen
+- Rättegång mot högerextremister inledd – hävdar nödvärn - Dagens Nyheter
+- Kyrkan säger nej till 23-årige Alexanders gravsten - Expressen
 - FN varnar: 27 miljoner hotas av hungersnöd i Kongo - UNT
-- Över 100 dödades i Gaza – tre av fyra var civila - Hufvudstadsbladet
-- USA och Kina ense om metaller – tyst om AI-chip - GP
-- Foppa funderar på att frysas ner och ”vakna om 400 år” - Omni
-- Trumps tullar slår mot Ikea – höjer priserna i USA - DI
-- DN Direkt – Kritik mot If för vilseledande reklam – igen - Dagens Nyheter
-- ”Svårt ersätta mänskliga händer med robotar” - SvD
-- Toyota går emot Trump: Stämmer inte - Expressen
+- Hamas har överlämnat kvarlevor av två i gisslan - GP
+- Dödstalet efter Melissa skrivs upp - Västerbottens-Kuriren
+- Upprört i USA efter rivning av Vita husflygel - Dagens Nyheter
+- Ny granskning: 1,7 miljarder realistisk kostnad för nytt vattenverk i Östersund - SVT Nyheter
+- Kandidat Trainee till NCC Industry 2026 - ncc.se
+- Gränsen höjs för snatteri – ”Försvagar skyddet för näringslivet” - habit.se
+- Think Pink-toppar döms för ekobrott - UNT
 - Battlefield RedSec lanseras till blandad kritik - Nordichardware
 - Samsung laddar för Galaxy S26 med mer AI, bättre chip och kamera - Teknikveckan
 
@@ -31,44 +31,44 @@ _Updated: 2025-10-31 01:38_
 - GLOBAL KAPITALISM ÄR UTE PÅ TUNN IS - socialisterna.org
 - S&P Global Investor Day Scheduled for November 13, 2025 - Placera.se
 - Svensken skadad – riskerar missa NHL-matcherna i Sverige - hockeysverige.se
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - S&P Global Reports Third Quarter Results - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- Wolverine Worldwide Declares Quarterly Dividend - Placera.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Armand Duplantis soars to third world title and 14th world record - BBC
-- UNI Global Unions medlemsförbund i Östasien kräver rättvis handel och arbetstagares rättigheter inför APEC-toppmötet - UNI Global Union
 - Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Armand Duplantis soars to third world title and 14th world record - BBC
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - RTX CFO to present at the Baird 2025 Global Industrial Conference - Placera.se
 - AIG Announces Long-Term Strategic Investment in Top-Performing Global Specialty Insurer Convex Group and an Equity Stake in Global Asset Manager Onex Corporation - Placera.se
 
 ## Technology
 
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
-- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- MDCE Advances into Artificial Intelligence with Acquisition of First-Ever AI Powered Authentication Company for Memorabilia (PR Newswire) - Aktiellt
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Deepseek är det nya Linux - Computer Sweden
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
+- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
 
 ## Business
@@ -101,44 +101,44 @@ _Updated: 2025-10-31 01:38_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Mosaic Medical – ett användningsfall för abborrekunder - Health-ISAC
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Patienter kan bidra till säkrare vård - Läkartidningen
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
