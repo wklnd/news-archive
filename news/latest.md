@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-01 00:48_
+_Updated: 2025-11-01 01:48_
 
-- Trump Administration Ordered to Pay for SNAP Benefits Amid Shutdown: Live Updates - The New York Times
+- Judges order Trump administration to use emergency reserves for SNAP payments during the shutdown - AP News
 - Republicans quickly push back on Trump’s call to nix filibuster - Politico
-- Hurricane Melissa death toll surpasses 50, mostly in Jamaica and Haiti, as focus turns to recovery - CBS News
+- In One Jamaican Town, Hurricane Melissa Left Behind Floodwaters and Dead Livestock - The New York Times
 - Kash Patel says FBI thwarted alleged ‘terrorist attack’ in Michigan - Al Jazeera
 - Trump Denies Reports That He’s Planning Strikes on Venezuela - Bloomberg.com
-- Pentagon shifts to Pacific strikes seeking stronger link between targets and US drug trafficking - CNN
-- Millions face 'huge sticker shock' when ACA open enrollment starts Nov. 1 - CNBC
-- These are Ohio's new congressional districts - News 5 Cleveland WEWS
+- South Africa hits back at US plan to favour white Afrikaner 'refugees' - BBC
 - US judge permanently blocks Trump order requiring voters to prove citizenship - Reuters
-- President Trump shows off White House's Lincoln Bathroom renovated entirely in marble - ABC News
+- Millions face 'huge sticker shock' when ACA open enrollment starts Nov. 1 - CNBC
+- Virginia Democrats take first step toward redrawing the state's congressional map - NBC News
+- Air traffic controller shortages lead to broader US flight delays as shutdown nears one-month mark - AP News
 - Andrew Mountbatten Windsor will not leave Royal Lodge immediately - BBC
-- Tanzania opposition says hundreds killed in vote protests, UN calls for probe - Reuters
-- Rio residents back Brazil’s bloodiest police raid - Financial Times
+- Rio authorities identify bodies as protests denounce deadly police raids - Reuters
 - Pakistan and Afghanistan agree to maintain a ceasefire — for now. Here's what to know - NPR
-- Pfizer could hold a Trump card in its bid for Metsera - Reuters
-- Nvidia expands AI ties with Hyundai, Samsung, SK, Naver - TechCrunch
-- US retailers are running out of pennies - BBC
+- About 700 killed in Tanzania election protests, opposition says - The Guardian
 - Disney pulls ABC, ESPN and more from YouTube TV as talks break down - AP News
-- Gemini features in Google Home won’t just appear, here’s how to sign up for early access - 9to5Google
+- Big Tech To Wall Street: AI Spending Boom To Intensify - Investor's Business Daily
+- Three billionaires dropped by a fried-chicken joint—and Jensen Huang bought everyone dinner - Fortune
+- Pfizer could hold a Trump card in its bid for Metsera - Reuters
 - OpenAI will let Sora users pay extra to make more AI videos - Mashable
+- Gemini features in Google Home won’t just appear, here’s how to sign up for early access - 9to5Google
