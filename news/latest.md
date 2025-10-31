@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-10-31 16:51_
+_Updated: 2025-10-31 17:49_
 
 - Trump urges Republicans to kill the filibuster - Politico
+- FBI says "potential terrorist attack" thwarted in Michigan, multiple people arrested - CBS News
+- Mike Johnson and the House stand in the way of any deal the Senate makes to end the shutdown - The Independent
 - Trump muddles nuke-testing message - Axios
 - Millions face 'huge sticker shock' when ACA open enrollment starts Nov. 1 - CNBC
-- Judge says she’ll likely order Trump administration to send SNAP funds to states - The Washington Post
-- FBI foiled a 'potential terrorist attack' in Michigan planned for Halloween weekend, Director Kash Patel says - NBC News
-- Rob Jetten's Dutch centrist liberal party wins neck-and-neck election race, vote analysis says - BBC
-- Why has the shutdown gone 31 days? Look at Mark Warner. - Politico
-- In Zach Bryan's hometown, many support tougher immigration enforcement, with some caveats - NBC News
+- Illinois lawmakers pass public transit funding bill to address RTA budget gap - ABC7 Chicago
+- Who receives SNAP? Food aid for 1 in 8 Americans is threatened in November. - The Washington Post
 - UN human rights chief says US strikes on alleged drug boats are ‘unacceptable’ - AP News
-- Illinois lawmakers approve $1.5B legislative package to buoy mass transit - Chicago Sun-Times
+- In Zach Bryan's hometown, many support tougher immigration enforcement, with some caveats - NBC News
+- Ohio Redistricting Commission proposes a map the day before its deadline - The Statehouse News Bureau
 - Prince Andrew stripped of all titles after Virginia Giuffre’s memoir. Her family declares ‘victory’ - The Conversation
+- Jamaica Prepared a Financial Fortress for Disaster. Hurricane Melissa Will Test It. - The New York Times
+- Here’s How US, China Statements Compared After Xi-Trump Summit - Bloomberg.com
 - Sudan’s RSF accused of ‘PR stunt’ after arresting fighters behind civilian killings - The Guardian
-- 5 key takeaways from Trump’s week in Asia - NPR
-- Endangered primates, 1 alive and 1 dead, found in checked bag at airport in India - CBS News
-- Cloud revenue is sending Amazon shares soaring. Here’s what analysts had to say - CNBC
-- Nvidia to supply more than 260,000 Blackwell AI chips to South Korea - Reuters
-- Stock Market Today: S&P 500 Futures Rise, Bolstered by Apple, Amazon Rally — Live Updates - The Wall Street Journal
+- Amazon shares soar as AI boom fuels stellar growth in AWS cloud unit - Reuters
+- Nvidia expands AI ties with Hyundai, Samsung, SK, Naver - TechCrunch
+- What the US-China deal means for rare earths, soybean farmers and TikTok - ABC News
 - Chocolate's reign over Halloween is under threat from inflation, tariffs and high cocoa prices - CNBC
 - Tim Cook provides update on next-gen Siri development - 9to5Mac
 - “Unexpectedly, a deer briefly entered the family room”: Living with Gemini Home - Ars Technica
