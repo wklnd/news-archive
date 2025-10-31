@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-31 16:44_
+_Updated: 2025-10-31 17:42_
 
 ## Top Stories
 
 - RSF: Milismän som lagt ut mord på Tiktok gripna - GP
 - Vad är väl en fest på Harpsund? - Altinget.se
-- DN Direkt – Tre gripna för mordförsök i Lund - Dagens Nyheter
-- Elev åtalas för förtal av lärare - Aftonbladet
 - C VÄNTAS MJUKA UPP RÖDA LINJEN MOT V - SVT - Placera.se
+- UD avråder från resor till Tanzania - GP
 - Hotellverksamhet i city förbjuds efter omfattande problem med prostitution - polisen.se
+- Elev åtalas för förtal av lärare - Aftonbladet
 - Göteborg tackar nej till infomöte om återvandringsbidraget - GP
 - De möter människor i livets alla skeden: ”Ska vara så fint som möjligt” - Arvika Nyheter
 - Fängelse för känd rappare som bar jaktkniv i Stockholm - Omni
-- Polisens vädjan: Inga pistoler på Halloween - UNT
+- 31 oktober 13.30, Trafikkontroll, Norrbottens län - polisen.se
 - Nathan Shachar: Familjen pekar ut Netanyahus kurs - Dagens Nyheter
 - Dött lopp i Nederländerna – framsteg för liberaler efter Wilders bakslag - Europaportalen
-- Paulina Brandberg ska utreda nationell placeringsfunktion - Regeringen.se
-- Påven till katolska universitet: Forma medborgare för det gemensamma goda - Vatican News
+- Polska jaktplan motade åter ryskt plan över Östersjön - Västerbottens-Kuriren
+- Utredningen för en reform av den statliga barn- och ungdomsvården förlängs - Regeringen.se
 - Arla sänker mjölkpriset till bönderna - DI
-- Matpriskollen om Willys pristaktik: ”Det kokar – kan bli dödsstöten” - dagligvarunytt.se
+- Wall Street hemsöks av Halloween – det sätter skräck - Dagens PS
 - Apples försäljning föll i Kina – aktien lyfte - SVT Nyheter
 - Toppfonden dumpar Telia – fyller på i Kinnevik - Placera.se
 - Dietist Samrehab Barn - Region Kalmar
-- Battlefield RedSec lanseras till blandad kritik - Nordichardware
+- Thermal Grizzly släpper säkerhetsverktyg för 12V-2×6-kontakten - Nordichardware
 
 ## World News
 
 - Pioneering Nuclear Fusion Energy Innovation for Two Decades: Shanghai Electric Empowers Global CRAFT and ITER Projects, Driving a Sustainable Future for Earth - Placera.se
 - GLOBAL KAPITALISM ÄR UTE PÅ TUNN IS - socialisterna.org
 - Svensken skadad – riskerar missa NHL-matcherna i Sverige - hockeysverige.se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Trimble Becomes Official Global Partner with Liverpool Football Club - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
+- UNI Global Unions medlemsförbund i Östasien kräver rättvis handel och arbetstagares rättigheter inför APEC-toppmötet - UNI Global Union
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
 - The First International Jewelry Fashion Theme Month Kicks Off in Shanghai, Accelerating Its Rise as a Global Jewelry and Fashion Hub - Placera.se
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- RTX CFO to present at the Baird 2025 Global Industrial Conference - Placera.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 
 ## Technology
 
@@ -62,6 +62,7 @@ _Updated: 2025-10-31 16:44_
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
@@ -69,23 +70,22 @@ _Updated: 2025-10-31 16:44_
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 - XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
 - YPF and Globant Advance a Major Project to Transform and Optimize the Supply Chain with AI Solutions - Placera.se
-- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
 
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Bakkt Announces Plan to Simplify Capital Structure and Transition to a Single-Class Common Stock - Placera.se
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
-- Student and entry-level programs - EY
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- BTQ and ICTK Sign USD 15M Quantum-Secure Chip Development and Joint Investment Agreement to Advance Global Quantum-Safe Hardware - Placera.se
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
@@ -121,24 +121,24 @@ _Updated: 2025-10-31 16:44_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Anna Martling stärker KI:s roll i utvecklingen av life science - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
 
 ## Jordbruk
 
@@ -156,9 +156,9 @@ _Updated: 2025-10-31 16:44_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
