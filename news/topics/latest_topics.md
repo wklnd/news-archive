@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-31 18:48_
+_Updated: 2025-10-31 19:41_
 
 ## Top Stories
 
-- Oppositionen i Tanzania: Omkring 700 döda - Dagens Nyheter
-- Det här är USA:s kraftfullaste kärnvapen - GP
-- RSF: Milismän som lagt ut mord på Tiktok gripna - GP
+- DN Direkt – Källor: USA kan när som helst slå till mot Venezuela - Dagens Nyheter
+- Trump om kärnvapen-orden: "Testar om andra gör det" - Västerbottens-Kuriren
+- UD avråder från resor till Tanzania - GP
+- Kiruna blir kallare – efter stadsflytten: ”Man håller sig inne” - Aftonbladet
 - Säkert Halloween-firande - Polisen.se
 - Ryska utspel om Gripenaffären: ”Retar Ryssland till vansinne” - Dagens Nyheter
-- Unicef: Hjälpbehovet är enormt efter Melissa - SVT Nyheter
 - Göteborg tackar nej till infomöte om återvandringsbidraget - GP
-- Regeringen gör det lättare för utlandssvenskar med familj att flytta hem - Regeringen.se
-- Fängelse för känd rappare som bar jaktkniv i Stockholm - Omni
 - Hotellverksamhet i city förbjuds efter omfattande problem med prostitution - Polisen.se
+- 31 oktober 13.30, Trafikkontroll, Norrbottens län - Polisen.se
+- Fem blev kräksjuka – bristande hygien - Aftonbladet
 - Nathan Shachar: Familjen pekar ut Netanyahus kurs - Dagens Nyheter
 - Dött lopp i Nederländerna – framsteg för liberaler efter Wilders bakslag - Europaportalen
-- Polska jaktplan motade åter ryskt plan över Östersjön - Västerbottens-Kuriren
 - Paulina Brandberg ska utreda nationell placeringsfunktion - Regeringen.se
+- Polska jaktplan motade igen ryskt plan över Östersjön - Hufvudstadsbladet
 - Arla sänker mjölkpriset till bönderna - Aftonbladet
+- AI-utgifterna skrämmer börsen igen – Zuckerbergs svar - EFN
 - Apples försäljning föll i Kina – aktien lyfte - SVT Nyheter
-- Wall Street hemsöks av Halloween – det sätter skräck - Dagens PS
-- Toppfonden dumpar Telia – fyller på i Kinnevik - Placera.se
+- ”Hindenburg Omen” utlöst på Wall Street: ”Sårbar marknad” - EFN
 - Dietist Samrehab Barn - Region Kalmar
 - Koldioxidutsläppen minskar när spillvärme blir fjärrvärme: ”Ett klimatsmart sätt” - VF
 
@@ -135,10 +135,10 @@ _Updated: 2025-10-31 18:48_
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -151,14 +151,14 @@ _Updated: 2025-10-31 18:48_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
