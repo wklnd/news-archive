@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-10-31 15:06_
+_Updated: 2025-10-31 15:46_
 
 ## Top Stories
 
 - Tre gripna för mordförsök i Lund - GP
-- RSF-ledaren medger ansvar för massakrer i Sudan - Dagens Nyheter
 - Grönland trappar upp kampen för högre status i Norden – ”bra kort på hand” efter Trumps hot - Dagens Nyheter
 - Elev åtalas för förtal av lärare - Aftonbladet
 - Hotellverksamhet i city förbjuds efter omfattande problem med prostitution - polisen.se
-- Rånare återvände och bad om ursäkt – greps - Västerbottens-Kuriren
+- Göteborg tackar nej till infomöte om återvandringsbidraget - GP
+- RSF-ledaren medger ansvar för massakrer i Sudan - Dagens Nyheter
 - De möter människor i livets alla skeden: ”Ska vara så fint som möjligt” - Arvika Nyheter
 - Polisens vädjan: Inga pistoler på Halloween - UNT
+- 31 oktober 13.30, Trafikkontroll, Norrbottens län - polisen.se
 - Svenska ambassaden i Ryssland utsatt för färgattack - SVT Nyheter
-- Göteborg tackar nej till infomöte om återvandringsbidraget - GP
 - Dött lopp i Nederländerna – framsteg för liberaler efter Wilders bakslag - Europaportalen
-- Skyfall i New York – dykare bärgar döda - Hufvudstadsbladet
-- Utrotningshotade apor hittades i incheckad väska - Västerbottens-Kuriren
+- DN Direkt – Avskogningen i Amazonas minskar - Dagens Nyheter
+- Paulina Brandberg ska utreda nationell placeringsfunktion - Regeringen.se
 - Påven till katolska universitet: Forma medborgare för det gemensamma goda - Vatican News
-- AI-utgifterna skrämmer börsen igen – Zuckerbergs svar - EFN
-- 10 000% fonden sålde Telia – fyller på med Kinnevik - Placera.se
+- Matpriskollen om Willys pristaktik: ”Det kokar – kan bli dödsstöten” - dagligvarunytt.se
+- Svenskarna saknar plan på nätet efter döden – kan bli jobbigt för anhöriga - Dagens Nyheter
 - Apples försäljning föll i Kina – aktien lyfte - SVT Nyheter
-- Mer oljeproduktion kan pressa ned bensinpriset - SvD
+- AI-utgifterna skrämmer börsen igen – Zuckerbergs svar - EFN
+- Då stängs kaosdrabbade bron av för fordonstrafik: ”Anmärkningar” - NWT
 - Dietist Samrehab Barn - Region Kalmar
-- Otrolig upptäckt: Världens största rymdteleskop har sett något utanför vår galax som kan förändra vår syn på liv i rymden - Illustrerad Vetenskap
 
 ## World News
 
@@ -74,16 +74,16 @@ _Updated: 2025-10-31 15:06_
 ## Business
 
 - Bakkt Announces Plan to Simplify Capital Structure and Transition to a Single-Class Common Stock - Placera.se
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -121,44 +121,44 @@ _Updated: 2025-10-31 15:06_
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Mjau_gåvoshop_mars - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Årets viktigaste internationella livsmedelskonferens – Spot on Food - Mynewsdesk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
-- Kor som väger sig själva och självstädande ladugårdsgolv – två av flera smarta lösningar på Smart Farming-seminariet - Cision News
-- Tio jordbruksaktier för depån - Placera.se
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
