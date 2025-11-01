@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-01 19:48_
+_Updated: 2025-11-01 20:49_
 
 - Trump asking court how to "legally fund SNAP" after judge's order - Axios
 - UK aid for Hurricane Melissa reaches Jamaica as Britons to be evacuated - BBC
-- Republican leaders reject Trump’s demands to scrap the Senate filibuster to end the shutdown - Federal News Network
-- After a month of the shutdown, workers face mounting bills, car repossessions - The Washington Post
-- Trump Rants About Paying Food Stamps ‘If’ He Gets ‘Appropriate’ Guidance From Court — As He Throws Great Gatsby Blowout - Yahoo
+- Trump’s Demands Throw Wrench Into Delicate Shutdown Talks - The Wall Street Journal
 - What early voting data says about NYC, Virginia and New Jersey elections - CNN
-- What to Know About the New York City Mayoral Election - The Wall Street Journal
-- Airlines plead for end of government shutdown as unpaid air traffic controllers prepare for busy holiday travel - Fortune
+- After a month of the shutdown, workers face mounting bills, car repossessions - The Washington Post
+- Tanzanian president wins disputed election with more than 97% of the vote - NPR
+- New York City Mayor's Race: Live News and Updates - The New York Times
+- JD Vance Says He Hopes Usha Vance Embraces Christianity, Setting Off Backlash - The New York Times
+- Flight delays, airport disruption fears grow as government shutdown drags on - The Washington Post
 - All the U.S. military strikes against alleged drug boats - PBS
-- Trump’s military pressure on Maduro evokes Latin America’s coup-ridden past - The Guardian
-- Tanzania election: Samia Suluhu Hassan wins vote as hundreds feared dead in unrest - BBC
+- Woman charged in Louvre crown jewels heist appears before judge, reports say - CBS News
 - China's Xi pushes for global AI body at APEC in counter to U.S. - CNBC
 - Israel says the latest remains returned from Gaza are not bodies of hostages - AP News
-- Nine dead, dozens injured in crowd surge at Hindu temple in southern India - NBC News
-- Buffett’s Berkshire Cash Hits $382 Billion, Earnings Soar - Bloomberg
+- South Korea's Lee asks China's Xi for help engaging North Korea - NBC News
 - China Says It Is Loosening Restrictions on Nexperia’s Auto Chips - The Wall Street Journal
+- Buffett’s Berkshire Cash Hits $382 Billion, Earnings Soar - Bloomberg
+- CEO Andy Jassy says Amazon’s 14,000 layoffs weren’t about cutting costs or AI taking jobs: 'It's culture' - Fortune
 - Campari shares worth €1.3bn seized by police over alleged tax evasion - BBC
-- ESPN Puts College GameDay on X as Disney-YouTube TV Clash Continues - Variety
 - Bluesky hits 40 million users, introduces ‘dislikes’ beta - TechCrunch
-- OpenAI will let Sora users pay extra to make more AI videos - Mashable
+- Sora now lets you pay extra to make more AI videos - The Verge
