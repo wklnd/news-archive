@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-01 12:40_
+_Updated: 2025-11-01 13:38_
 
 ## Top Stories
 
-- Hans mamma har dömts till döden i Iran: ”En katastrof” - Aftonbladet
-- I NATT: Fylla, knark och misshandel – så var polisens Halloween: ”Pojkar som varit påverkade” - NWT
-- Göteborg tackar nej till infomöte om återvandringsbidraget - GP
-- Hotellverksamhet i city förbjuds efter omfattande problem med prostitution - polisen.se
+- DN Direkt – Många döda i folkmassa vid indiskt tempel - Dagens Nyheter
+- Stökig Halloweenhelg i landet – barn spottade på polis - Aftonbladet
+- Cuf vill att C-topp blir ny ledare - SVT Nyheter
+- Storbritannien: Ytterligare stöd till Sudan - GP
+- Hotell i Stockholm stängs efter sexhandel – miljonsmäll hotar techprofilens bolag - Breakit
 - Farzan kom med flyktingvågen: ”Sverige var snällare” - SvD
-- Reportrar begränsas i Vita huset - Hufvudstadsbladet
+- Göteborg tackar nej till infomöte om återvandringsbidraget - GP
 - ”Hög tid att vi pratar om dödens praktiska aspekter” - Dagens Nyheter
 - 01 november 07.58, Sammanfattning natt, Östergötlands län - polisen.se
-- 01 november 07.23, Sammanfattning natt, Västerbottens län - polisen.se
 - Man anhållen för grov misshandel – så var polisnatten i länet - Kuriren
+- Ukraina: Attack mot tre delar av rysk oljeledning - Västerbottens-Kuriren
 - FN-topp: Tiden kan rinna ut för insatserna för Ukraina - Dagens Nyheter
 - Fullt inbördeskrig – efter ”Hitler var cool”-intervjun - Expressen
-- Flera i bråk i Växjö – två män gripna - Expressen
-- Trump förnekar planer på Venezuela-attack - Västerbottens-Kuriren
+- Trinidad och Tobagos militär i beredskapsläge - SVT Nyheter
 - Dubbla elpriset i oktober – dyrare vinter väntar - Dagens Nyheter
 - Det är dags att säga adjö till kontanterna - Computer Sweden
 - Nya Polestar 5 – en extra kryddad ingenjörsdröm - Dagens Nyheter
-- Rik på rysk olja – i blåsväder efter ny affär - SvD
-- Oväntad upptäckt: Forskare gör sex miljoner år gammalt forntidsfynd några hundra meter ner i isen i Antarktis - Illustrerad Vetenskap
-- Samsungs stora One UI 8.5-uppdatering kan vara på väg till Galaxy-telefoner – här är 5 av de mest spännande nyheterna - TechRadar
+- Analytikern: Hemnets ras är omotiverat - DI
+- Stellan Skarsgård: Ser mig själv som en nepopappa - Omni
+- Canva bygger in AI i sina kreativa verktyg - m3.se
 
 ## World News
 
@@ -35,18 +35,18 @@ _Updated: 2025-11-01 12:40_
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- VCI Global tar in 5 miljoner USD i direkterbjudande till 1,80 USD per aktie - Investing.com Sverige
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- New Secretary General appointed - Olof Palme International Center
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
-- Källor: Altor anlitar Moelis för potentiell miljardförsäljning av C Worldwide - BN - Placera.se
+- RTX CFO to present at the Baird 2025 Global Industrial Conference - Placera.se
 
 ## Technology
 
@@ -67,7 +67,7 @@ _Updated: 2025-11-01 12:40_
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
-- XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 - YPF and Globant Advance a Major Project to Transform and Optimize the Supply Chain with AI Solutions - Placera.se
 
@@ -78,44 +78,44 @@ _Updated: 2025-11-01 12:40_
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - The circular economy in action at Blenheim Palace - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
-- The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Johan von Schreeb - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 
 ## Science
 
@@ -143,18 +143,18 @@ _Updated: 2025-11-01 12:40_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
