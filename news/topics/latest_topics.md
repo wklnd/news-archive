@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-01 06:41_
+_Updated: 2025-11-01 07:40_
 
 ## Top Stories
 
-- Trinidad och Tobago upp i beredskap - Västerbottens-Kuriren
 - Göteborg tackar nej till infomöte om återvandringsbidraget - GP
-- Brand bröt ut vid nattklubb i centrala Stockholm - Aftonbladet
-- Domare beordrar USA att betala ut matkuponger - SvD
+- DN Direkt – UD avråder från resor till Tanzania - Dagens Nyheter
+- Brand bröt ut vid nattklubb i centrala Stockholm - Västerbottens-Kuriren
+- Flyr ett rasande krig – till lika fattiga grannar - SvD
+- Trump förnekar planer på Venezuela-attack - Corren
 - Körde nästan 150 km/h utanför Umeå - Folkbladet
-- ”De ropar ’Gud är större’ men mördar samtidigt andra muslimer” - Dagens Nyheter
 - 31 oktober 13.30, Trafikkontroll, Norrbottens län - polisen.se
-- Oppositionen i Tanzania: Omkring 700 döda - Bohusläningen
 - Polisen varnar för vapenliknande föremål under halloween - Dagens Nyheter
-- Ungdomar till sjukhus efter spritfest - GP
-- Ytterligare kvarlevor har överlämnats från Gaza - Västerbottens-Kuriren
-- DN Direkt – Paulina Brandberg ska utreda den social ungdomsvård - Dagens Nyheter
+- Ljusen på kyrkogården brinner för levande och döda - GP
+- Danska restaurangkedjan lämnar Sverige - Folkbladet
 - Källor: Pentagon godkänner Tomahawk till Ukraina - GP
-- DN Direkt – Brand i industribyggnad i Huskvarna - Dagens Nyheter
+- Ytterligare kvarlevor har överlämnats från Gaza - Västerbottens-Kuriren
+- Paulina Brandberg ska utreda nationell placeringsfunktion - Regeringen.se
+- Besökare fast på Skogskyrkogården: ”Kusligt” - Aftonbladet
 - AI-utgifterna skrämmer börsen igen – Zuckerbergs svar - EFN
 - Avtal klart för personliga assistenter – konflikten är avblåst: ”Kommer att göra stor skillnad” - Arbetet
+- Fem fackliga nyheter från veckan som gått - Dagens Arena
 - JUST NU: Eskilstunas Seniorhantering ska granskas - Ekuriren
-- Master Trainee till NCC Vatten- och Miljöteknik 2026 - ncc.se
-- Ikea Dirigera uppdateras med stöd för Matter 1.3 - Teknikveckan
-- Dietist Samrehab Barn - Region Kalmar
+- Windows 11:s VR-skrivbord till Meta Quest är nu tillgängligt för alla - PC för Alla
+- Disney+ lanserar HDR10+ på Samsung-TV-apparater - Bättre bildkvalitet på Disney+ - Ljud & Bild
 
 ## World News
 
@@ -155,10 +155,10 @@ _Updated: 2025-11-01 06:41_
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
