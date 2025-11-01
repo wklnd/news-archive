@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-01 11:48_
+_Updated: 2025-11-01 12:48_
 
-- Trump administration must release billions in SNAP funds, judge says - The Washington Post
-- Trump wants to shatter the filibuster, another Senate norm. Republicans are pushing back. - Axios
+- Trump asking court how to "legally fund SNAP" after judge's order - Axios
+- What’s the filibuster and why does Trump want to get rid of it during the shutdown? - AP News
 - ‘How do you rebuild all this?’ Black River residents assess damage after Hurricane Melissa - The Guardian
-- Trump Remodels Lincoln Bathroom With Marble In Latest White House Renovation: Photos - Forbes
-- Kash Patel says FBI thwarted alleged ‘terrorist attack’ in Michigan - Al Jazeera
-- White House Limits Reporters’ Access to Press Secretary’s Office - The New York Times
+- Trump touts Lincoln Bathroom overhaul featuring marble, gold fixtures - The Washington Post
+- Tanzania election: Samia Suluhu Hassan wins 98% of vote amid unrest - BBC
+- JD Vance Savaged as He Desperately Tries to Get In On the Joke - The Daily Beast
+- High schoolers in Alabama town spark good-natured Halloween prank war with local police - CBS News
 - FAA warns of ‘surge’ in air traffic controllers calling out of work - Politico
-- Judge grants Connecticut woman accused of holding stepson captive access to new alias, address - NBC News
 - Judge Permanently Bars Trump From Requiring Proof of Citizenship for Voter Registration - The New York Times
 - Trump faces critical point in government shutdown, SNAP cutoff - ABC News
-- Xi, Lee Will Hold Talks in South Korea Saturday to Rebuild Ties - Bloomberg
+- China's Xi pushes for global AI body at APEC in counter to U.S. - CNBC
 - Andrew Mountbatten Windsor will not leave Royal Lodge immediately - BBC
-- After Days of Protests, Tanzania’s President Is Declared Election Winner - The New York Times
+- Egypt's Grand Museum opens, displaying Tutankhamun tomb in full for first time - BBC
 - Pakistan and Afghanistan agree to maintain a ceasefire — for now. Here's what to know - NPR
-- US to Announce Nexperia Chip Shipments From China to Resume - Bloomberg
+- China signals easing of Nexperia semiconductor export ban - Financial Times
+- The nation’s largest employers are putting their workers on notice - The Washington Post
 - US retailers are running out of pennies - BBC
 - Football Fans Scrambling After ESPN, ABC, Disney Pulled From YouTube TV - CNET
-- Three billionaires dropped by a fried-chicken joint—and Jensen Huang bought everyone dinner - Fortune
 - OpenAI will let Sora users pay extra to make more AI videos - Mashable
-- Lenovo's budget-friendly 2025 Idea Tab Plus Android tablet with 90Hz display hits new $200 all-time low, more from $130 - 9to5Toys
+- Pokémon TCG: Mega Evolution—Phantasmal Flames Product Showcase - Pokemon.com
