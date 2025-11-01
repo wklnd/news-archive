@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-01 05:54_
+_Updated: 2025-11-01 06:41_
 
 ## Top Stories
 
-- Trump förnekar planer på Venezuela-attack - Corren
+- Trinidad och Tobago upp i beredskap - Västerbottens-Kuriren
 - Göteborg tackar nej till infomöte om återvandringsbidraget - GP
 - Brand bröt ut vid nattklubb i centrala Stockholm - Aftonbladet
 - Domare beordrar USA att betala ut matkuponger - SvD
-- Körde nästan 150 km/h utanför Umeå - Västerbottens-Kuriren
+- Körde nästan 150 km/h utanför Umeå - Folkbladet
 - ”De ropar ’Gud är större’ men mördar samtidigt andra muslimer” - Dagens Nyheter
-- Oppositionen i Tanzania: Omkring 700 döda - GP
 - 31 oktober 13.30, Trafikkontroll, Norrbottens län - polisen.se
+- Oppositionen i Tanzania: Omkring 700 döda - Bohusläningen
 - Polisen varnar för vapenliknande föremål under halloween - Dagens Nyheter
 - Ungdomar till sjukhus efter spritfest - GP
-- Ett år senare: Ny protestvåg i splittrat Serbien - GP
-- Källor: Pentagon ger grönt ljus för Tomahawk till Ukraina - Dagens Nyheter
 - Ytterligare kvarlevor har överlämnats från Gaza - Västerbottens-Kuriren
 - DN Direkt – Paulina Brandberg ska utreda den social ungdomsvård - Dagens Nyheter
+- Källor: Pentagon godkänner Tomahawk till Ukraina - GP
+- DN Direkt – Brand i industribyggnad i Huskvarna - Dagens Nyheter
 - AI-utgifterna skrämmer börsen igen – Zuckerbergs svar - EFN
 - Avtal klart för personliga assistenter – konflikten är avblåst: ”Kommer att göra stor skillnad” - Arbetet
 - JUST NU: Eskilstunas Seniorhantering ska granskas - Ekuriren
-- Fem fackliga nyheter från veckan som gått - Dagens Arena
+- Master Trainee till NCC Vatten- och Miljöteknik 2026 - ncc.se
 - Ikea Dirigera uppdateras med stöd för Matter 1.3 - Teknikveckan
 - Dietist Samrehab Barn - Region Kalmar
 
@@ -35,18 +35,18 @@ _Updated: 2025-11-01 05:54_
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Trimble Becomes Official Global Partner with Liverpool Football Club - Placera.se
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
-- RTX CFO to present at the Baird 2025 Global Industrial Conference - Placera.se
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- VCI Global tar in 5 miljoner USD i direkterbjudande till 1,80 USD per aktie - Investing.com Sverige
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
+- Trimble Becomes Official Global Partner with Liverpool Football Club - Placera.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 
 ## Technology
 
@@ -73,17 +73,17 @@ _Updated: 2025-11-01 05:54_
 
 ## Business
 
+- Bakkt Announces Plan to Simplify Capital Structure and Transition to a Single-Class Common Stock - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ETHZilla Sells Approximately $40mm ETH to Facilitate Stock Repurchases - Placera.se
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -102,19 +102,19 @@ _Updated: 2025-11-01 05:54_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Fakulteten för hälsa och samhälle - Malmö universitet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 
 ## Science
@@ -143,6 +143,7 @@ _Updated: 2025-11-01 05:54_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
@@ -150,15 +151,14 @@ _Updated: 2025-11-01 05:54_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
