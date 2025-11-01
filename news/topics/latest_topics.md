@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-01 10:43_
+_Updated: 2025-11-01 11:38_
 
 ## Top Stories
 
-- Göteborg tackar nej till infomöte om återvandringsbidraget - GP
-- Trinidad och Tobago i beredskap - SVT Nyheter
+- Man gripen misstänkt för våldtäkt på flicka i Eskilstuna - SVT Nyheter
+- Trump förnekar planer på Venezuela-attack - Västerbottens-Kuriren
 - Reportrar begränsas i Vita huset - Hufvudstadsbladet
-- Ungdomar till sjukhus – drack langad sprit - SvD
+- Stökig halloweennatt – fylla och slagsmål - SvD
+- Ukraina: Attack mot tre delar av rysk oljeledning - GP
 - Hotellverksamhet i city förbjuds efter omfattande problem med prostitution - polisen.se
-- I NATT: Fylla, knark och misshandel – så var polisens Halloween: ”Pojkar som varit påverkade” - NWT
-- 01 november 07.58, Sammanfattning natt, Södermanlands län - polisen.se
+- Göteborg tackar nej till infomöte om återvandringsbidraget - GP
+- ”Hög tid att vi pratar om dödens praktiska aspekter” - Dagens Nyheter
 - 01 november 07.58, Sammanfattning natt, Östergötlands län - polisen.se
 - 01 november 07.23, Sammanfattning natt, Västerbottens län - polisen.se
-- Ljusen på kyrkogården brinner för levande och döda - GP
-- Stor oro i Gaza för nya attacker – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Domare beordrar USA att betala ut matkuponger - Västerbottens-Kuriren
-- Källor: Pentagon godkänner Tomahawk till Ukraina - GP
-- DN Direkt – Jakt på A-traktor slutade på spikmatta - Dagens Nyheter
-- Dubbla elpriset i oktober – dyrare vinter väntar - Dagens Nyheter
-- Snålast i Sverige: ”Vad håller folk på med?” - SvD
+- FN-topp: Tiden kan rinna ut för insatserna för Ukraina - Dagens Nyheter
+- A-traktor stoppades med spikmatta i Mjällby – flera misstankar om brott - SVT Nyheter
+- Paulina Brandberg ska utreda nationell placeringsfunktion - Regeringen.se
+- Flera i bråk i Växjö – två män gripna - Expressen
+- Dubbla elpriset i oktober – dyrare vinter väntar - DI
 - Rik på rysk olja – i blåsväder efter ny affär - SvD
-- Kina lägger grunden på hemmaplan – igen - SvD
-- Proton VPN avslöjar stora uppgraderingar — här är vad vi ser mest fram emot - TechRadar
+- Konkurserna ökar igen – ”oroande” - DI
+- Beijer fortsätter kampen mot prostatacancer – huvudpartner till Mustaschkampen för nionde året i rad - Via TT
+- Oväntad upptäckt: Forskare gör sex miljoner år gammalt forntidsfynd några hundra meter ner i isen i Antarktis - Illustrerad Vetenskap
 - Samsungs stora One UI 8.5-uppdatering kan vara på väg till Galaxy-telefoner – här är 5 av de mest spännande nyheterna - TechRadar
 
 ## World News
 
 - Sundin ser fram emot Global Series och OS: ”På tiden" - NHL.com
-- Adtalem Global Education Inc. Investigated for Securities Fraud Violations - Contact the DJS Law Group to Discuss Your Rights – ATGE - Placera.se
-- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
-- GLOBAL KAPITALISM ÄR UTE PÅ TUNN IS - socialisterna.org
-- Trimble Becomes Official Global Partner with Liverpool Football Club - Placera.se
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
+- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
+- GT World Challenge America, VIRginia International Raceway på idag 12:55 - TV.nu
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- GLOBAL KAPITALISM ÄR UTE PÅ TUNN IS - socialisterna.org
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- VCI Global tar in 5 miljoner USD i direkterbjudande till 1,80 USD per aktie - Investing.com Sverige
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- VCI Global tar in 5 miljoner USD i direkterbjudande till 1,80 USD per aktie - Investing.com Sverige
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- U20 World Cup: Live-resultat, fixturer och tabeller - 365Scores
 - Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
-- Källor: Altor anlitar Moelis för potentiell miljardförsäljning av C Worldwide - BN - Placera.se
+- Trimble Becomes Official Global Partner with Liverpool Football Club - Placera.se
+- Adtalem Global Education Inc. Investigated for Securities Fraud Violations - Contact the DJS Law Group to Discuss Your Rights – ATGE - Placera.se
+- RTX CFO to present at the Baird 2025 Global Industrial Conference - Placera.se
 
 ## Technology
 
@@ -62,28 +62,28 @@ _Updated: 2025-11-01 10:43_
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 - YPF and Globant Advance a Major Project to Transform and Optimize the Supply Chain with AI Solutions - Placera.se
+- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
 
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
-- The circular economy in action at Blenheim Palace - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
+- (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
+- Helius (NASDAQ:HSDT), in Partnership with Pantera Capital and Summer Capital Announces Over $500 Million in Funding to Launch SOL Treasury Company - Placera.se
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -143,22 +143,22 @@ _Updated: 2025-11-01 10:43_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Mjau_gåvoshop_mars - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Årets viktigaste internationella livsmedelskonferens – Spot on Food - Mynewsdesk
+- Kor som väger sig själva och självstädande ladugårdsgolv – två av flera smarta lösningar på Smart Farming-seminariet - Cision News
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Tio jordbruksaktier för depån - Placera.se
+- laura-redmond-arctic-food-arena - Mynewsdesk
