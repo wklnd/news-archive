@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-01 17:37_
+_Updated: 2025-11-01 18:42_
 
 ## Top Stories
 
-- Ambassadör: Saab-fabrik i Ukraina diskuteras - GP
-- Minibuss i krock på E45 – totalstopp vid Lödösemotet - SVT Nyheter
-- Flera bilister bötfällda – körförbud och höga hastigheter - Norran
-- BILDEXTRA: Se paraden genom Lund – de dödas dag firas på mexikanskt vis - Sydsvenskan
-- Satellitfoton tyder på fortsatta massmord i Sudan - SVT Nyheter
-- DN Direkt – Förrymda hästar mitt i Stockholm infångade - Dagens Nyheter
-- ALLHELGONA: Hundratals Karlstadsbor tände ljus och mindes sina nära på Ruds kyrkogård - NWT
+- S löfte om stram migration fäster inte på väljarna - Dagens Nyheter
+- Uppgifter: USA överväger attacker mot Venezuela - GP
+- Tre bilar i krock på E4 – stor trafikpåverkan - TV4 Nyheterna
+- Hästar slet sig på Östermalm - SVT Nyheter
+- Ryssland rasar mot Gripenavtalet – angriper svenskt näringsliv - Corren
+- Attack mot rysk oljeledning – ”Anmärkningsvärt” - GP
 - Cuf vill att C-topp blir ny ledare - SVT Nyheter
-- 01 november 07.58, Sammanfattning natt, Östergötlands län - polisen.se
+- ALLHELGONA: Hundratals Karlstadsbor tände ljus och mindes sina nära på Ruds kyrkogård - NWT
 - Man anhållen för grov misshandel – så var polisnatten i länet - Kuriren
-- DN Direkt – Inga amerikanska ministrar till klimatmöte - Dagens Nyheter
-- Ukraina: Attack mot tre delar av rysk oljeledning - Västerbottens-Kuriren
+- 01 november 07.58, Sammanfattning natt, Östergötlands län - polisen.se
+- Inga amerikanska ministrar till klimatmöte - SVT Nyheter
+- DN Direkt – Två döda efter explosion i Finland - Dagens Nyheter
+- Zelenskyj: Ryssland kraftsamlar i Donetsk - Västerbottens-Kuriren
 - Viktigast i veckan: Sverige gör sitt i ministerrådet – Sjunkande rättsstatlighet i Europa - Europaportalen
-- Farzan kom med flyktingvågen: ”Sverige var snällare” - SvD
 - Dyra fonder kostar dig många tusenlappar - SvD
 - Dubbla elpriset i oktober – dyrare vinter väntar - Dagens Nyheter
 - Konkurserna ökar igen – ”oroande” - DI
-- Studie: Mycket salt kan ändra ämnesomsättningen - Aftonbladet
+- Ny studie: Bilmärkena som narcissister väljer - SvD
 - Stellan Skarsgård: Ser mig själv som en nepopappa - Omni
 - Android testar att köra appar i always on - Teknikveckan
 
@@ -45,31 +45,31 @@ _Updated: 2025-11-01 17:37_
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Boeing jet returns to US from China, a victim of Trump's tariff war - The Economic Times
-- Adtalem Global Education Inc. Investigated for Securities Fraud Violations - Contact the DJS Law Group to Discuss Your Rights – ATGE - Placera.se
+- Umeå children in worldwide school project on AI - Umeå universitet
 - Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
 
 ## Technology
 
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
+- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
+- YPF and Globant Advance a Major Project to Transform and Optimize the Supply Chain with AI Solutions - Placera.se
 
 ## Business
 
@@ -120,24 +120,24 @@ _Updated: 2025-11-01 17:37_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
 - The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
