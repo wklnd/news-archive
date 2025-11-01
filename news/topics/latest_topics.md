@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-01 18:42_
+_Updated: 2025-11-01 19:37_
 
 ## Top Stories
 
+- Explosion vid bostad i Södertälje - SVT Nyheter
+- Uppgifter om elitsoldater i Pokrovsk: ”Vår prioritet” - Omni
 - S löfte om stram migration fäster inte på väljarna - Dagens Nyheter
-- Uppgifter: USA överväger attacker mot Venezuela - GP
-- Tre bilar i krock på E4 – stor trafikpåverkan - TV4 Nyheterna
-- Hästar slet sig på Östermalm - SVT Nyheter
-- Ryssland rasar mot Gripenavtalet – angriper svenskt näringsliv - Corren
+- Trump förnekar planer på Venezuela-attack - Västerbottens-Kuriren
+- DN Direkt – Två hästar har slitit sig mitt i Stockholm - Dagens Nyheter
 - Attack mot rysk oljeledning – ”Anmärkningsvärt” - GP
+- Ambassadör: Saab-fabrik i Ukraina diskuteras - Västerbottens-Kuriren
 - Cuf vill att C-topp blir ny ledare - SVT Nyheter
 - ALLHELGONA: Hundratals Karlstadsbor tände ljus och mindes sina nära på Ruds kyrkogård - NWT
-- Man anhållen för grov misshandel – så var polisnatten i länet - Kuriren
-- 01 november 07.58, Sammanfattning natt, Östergötlands län - polisen.se
+- Flera bilister bötfällda – körförbud och höga hastigheter - Norran
 - Inga amerikanska ministrar till klimatmöte - SVT Nyheter
-- DN Direkt – Två döda efter explosion i Finland - Dagens Nyheter
-- Zelenskyj: Ryssland kraftsamlar i Donetsk - Västerbottens-Kuriren
-- Viktigast i veckan: Sverige gör sitt i ministerrådet – Sjunkande rättsstatlighet i Europa - Europaportalen
-- Dyra fonder kostar dig många tusenlappar - SvD
+- DN Direkt – Två döda i skottlossning på Kreta - Dagens Nyheter
+- Därför talar Trump om Budapest – staden där världen svek Ukraina - Dagens Nyheter
+- Två döda efter explosion i Finland - Västerbottens-Kuriren
 - Dubbla elpriset i oktober – dyrare vinter väntar - Dagens Nyheter
+- Dyra fonder kostar dig många tusenlappar - SvD
 - Konkurserna ökar igen – ”oroande” - DI
 - Ny studie: Bilmärkena som narcissister väljer - SvD
 - Stellan Skarsgård: Ser mig själv som en nepopappa - Omni
@@ -32,44 +32,44 @@ _Updated: 2025-11-01 18:42_
 - Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Global drogsajt stängd – svenskar gripna - Drugnews
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - GLOBAL KAPITALISM ÄR UTE PÅ TUNN IS - socialisterna.org
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- VCI Global tar in 5 miljoner USD i direkterbjudande till 1,80 USD per aktie - Investing.com Sverige
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Boeing jet returns to US from China, a victim of Trump's tariff war - The Economic Times
-- Umeå children in worldwide school project on AI - Umeå universitet
 - Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
+- Adtalem Global Education Inc. Investigated for Securities Fraud Violations - Contact the DJS Law Group to Discuss Your Rights – ATGE - Placera.se
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
 
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
-- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
+- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
-- YPF and Globant Advance a Major Project to Transform and Optimize the Supply Chain with AI Solutions - Placera.se
+- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
+- Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
 
 ## Business
 
@@ -120,24 +120,24 @@ _Updated: 2025-11-01 18:42_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
 - The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
@@ -161,4 +161,4 @@ _Updated: 2025-11-01 18:42_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
