@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-01 04:22_
+_Updated: 2025-11-01 05:33_
 
-- Judges order Trump administration to use emergency reserves for SNAP payments during the shutdown - AP News
-- Top Republican rebuffs Trump calls to scrap filibuster rule in shutdown standoff - BBC
+- Trump Administration Ordered to Pay for SNAP Benefits Amid Shutdown: Live Updates - The New York Times
+- What’s the filibuster and why does Trump want to get rid of it during the shutdown? - AP News
 - In One Jamaican Town, Hurricane Melissa Left Behind Floodwaters and Dead Livestock - The New York Times
-- Trump can't require proof of citizenship for voter registration, judge says - Axios
-- President Trump shows off White House's Lincoln Bathroom renovated entirely in marble - ABC News
+- Trump Reveals Photos Of Remodeled Lincoln Bathroom—Latest White House Renovation - Forbes
 - Kash Patel says FBI thwarted alleged ‘terrorist attack’ in Michigan - Al Jazeera
+- Trump Denies Reports That He’s Planning Strikes on Venezuela - Bloomberg.com
+- Trump news at a glance: Friday rulings hamper administration on food stamps, voting access - The Guardian
 - Republicans notch redistricting win in Ohio — but it could have been worse for Democrats - Politico
-- Staff Shortages at 35 Air Traffic Control Sites Disrupt Travel as Controllers’ Union Backs G.O.P. Plan to End Shutdown - The New York Times
-- Virginia Democrats take first step toward redrawing the state's congressional map - NBC News
-- Millions face 'huge sticker shock' when ACA open enrollment starts Nov. 1 - CNBC
+- Staff Shortages at 35 Air Traffic Control Sites Disrupt Travel - The New York Times
+- High schoolers in Alabama town spark good-natured Halloween prank war with local police - CBS News
 - Andrew Mountbatten Windsor will not leave Royal Lodge immediately - BBC
+- Trump may have skipped APEC—but Xi's using it to sell China as globalization's last defender - Fortune
+- Rio authorities identify bodies as protests denounce deadly police raids - Reuters
 - Pakistan and Afghanistan agree to maintain a ceasefire — for now. Here's what to know - NPR
-- China's Xi holds court at APEC summit after Trump trade truce - Reuters
-- Rio residents back Brazil’s bloodiest police raid - Financial Times
 - US retailers are running out of pennies - BBC
-- Three billionaires dropped by a fried-chicken joint—and Jensen Huang bought everyone dinner - Fortune
 - Disney pulls ABC, ESPN and more from YouTube TV as talks break down - AP News
+- Three billionaires dropped by a fried-chicken joint—and Jensen Huang bought everyone dinner - Fortune
 - Exxon Beats Estimates as New Guyana Field Helps Lift Production - Bloomberg.com
 - OpenAI will let Sora users pay extra to make more AI videos - Mashable
 - YouTube denies AI was involved with odd removals of tech tutorials - Ars Technica
