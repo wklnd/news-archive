@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-01 07:40_
+_Updated: 2025-11-01 08:46_
 
 ## Top Stories
 
+- Trinidad och Tobago i beredskap - SVT Nyheter
 - Göteborg tackar nej till infomöte om återvandringsbidraget - GP
-- DN Direkt – UD avråder från resor till Tanzania - Dagens Nyheter
-- Brand bröt ut vid nattklubb i centrala Stockholm - Västerbottens-Kuriren
+- 15-åring påkörd av bil i Vimmerby – fördes till sjukhus - Vimmerby Tidning
+- Reportrar begränsas i Vita huset - Hufvudstadsbladet
 - Flyr ett rasande krig – till lika fattiga grannar - SvD
-- Trump förnekar planer på Venezuela-attack - Corren
-- Körde nästan 150 km/h utanför Umeå - Folkbladet
+- Brand bröt ut vid nattklubb i centrala Stockholm - Västerbottens-Kuriren
+- Körde nästan 150 km/h utanför Umeå - Västerbottens-Kuriren
 - 31 oktober 13.30, Trafikkontroll, Norrbottens län - polisen.se
+- Krönika: Alla helgons dag – stilla värdighet eller hedra med fest - sla.se
 - Polisen varnar för vapenliknande föremål under halloween - Dagens Nyheter
-- Ljusen på kyrkogården brinner för levande och döda - GP
-- Danska restaurangkedjan lämnar Sverige - Folkbladet
+- Domare beordrar USA att betala ut matkuponger - Västerbottens-Kuriren
 - Källor: Pentagon godkänner Tomahawk till Ukraina - GP
-- Ytterligare kvarlevor har överlämnats från Gaza - Västerbottens-Kuriren
-- Paulina Brandberg ska utreda nationell placeringsfunktion - Regeringen.se
-- Besökare fast på Skogskyrkogården: ”Kusligt” - Aftonbladet
-- AI-utgifterna skrämmer börsen igen – Zuckerbergs svar - EFN
+- Kvinnor misstänkta för misshandel på Södermalm - Expressen
+- Över 100 dödades i Gaza – tre av fyra var civila - UNT
+- Dubbla elpriset i oktober – dyrare vinter väntar - SvD
 - Avtal klart för personliga assistenter – konflikten är avblåst: ”Kommer att göra stor skillnad” - Arbetet
+- AI-utgifterna skrämmer börsen igen – Zuckerbergs svar - EFN
 - Fem fackliga nyheter från veckan som gått - Dagens Arena
-- JUST NU: Eskilstunas Seniorhantering ska granskas - Ekuriren
-- Windows 11:s VR-skrivbord till Meta Quest är nu tillgängligt för alla - PC för Alla
-- Disney+ lanserar HDR10+ på Samsung-TV-apparater - Bättre bildkvalitet på Disney+ - Ljud & Bild
+- Det är fortfarande två veckors väntetid på iPhone 17 Pro Max – så räkna inte med några Black Friday-rabatter - TechRadar
+- Samsungs stora One UI 8.5-uppdatering kan vara på väg till Galaxy-telefoner – här är 5 av de mest spännande nyheterna - TechRadar
 
 ## World News
 
@@ -32,31 +32,31 @@ _Updated: 2025-11-01 07:40_
 - Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - GLOBAL KAPITALISM ÄR UTE PÅ TUNN IS - socialisterna.org
 - Pioneering Nuclear Fusion Energy Innovation for Two Decades: Shanghai Electric Empowers Global CRAFT and ITER Projects, Driving a Sustainable Future for Earth - Placera.se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
-- Armand Duplantis soars to third world title and 14th world record - BBC
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- VCI Global tar in 5 miljoner USD i direkterbjudande till 1,80 USD per aktie - Investing.com Sverige
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Armand Duplantis soars to third world title and 14th world record - BBC
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
 - Trimble Becomes Official Global Partner with Liverpool Football Club - Placera.se
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- RTX CFO to present at the Baird 2025 Global Industrial Conference - Placera.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 
 ## Technology
 
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
@@ -73,48 +73,48 @@ _Updated: 2025-11-01 07:40_
 
 ## Business
 
-- Bakkt Announces Plan to Simplify Capital Structure and Transition to a Single-Class Common Stock - Placera.se
+- ETHZilla Sells Approximately $40mm ETH to Facilitate Stock Repurchases - Placera.se
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Helius (NASDAQ:HSDT), in Partnership with Pantera Capital and Summer Capital Announces Over $500 Million in Funding to Launch SOL Treasury Company - Placera.se
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 
 ## Science
@@ -143,7 +143,6 @@ _Updated: 2025-11-01 07:40_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
@@ -152,7 +151,6 @@ _Updated: 2025-11-01 07:40_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
@@ -162,3 +160,5 @@ _Updated: 2025-11-01 07:40_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
