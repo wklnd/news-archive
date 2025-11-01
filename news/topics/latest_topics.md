@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-02 00:39_
+_Updated: 2025-11-02 01:38_
 
 ## Top Stories
 
-- Flera till sjukhus efter brittisk knivattack - Dagens Nyheter
-- Efter våldet – når inte kollegorna i Tanzania - Västerbottens-Kuriren
-- Misstänkta bordellen blir hyreslägenheter: ”Ska inte uppstå igen” - Aftonbladet
-- Ukrainsk attack mot rysk oljeledning – ”anmärkningsvärt” - Hufvudstadsbladet
-- Explosion vid bostad i Södertälje - SVT Nyheter
-- Julia tände ljus för sin mördade mamma: ”Saknaden blir bara värre” - GP
-- Ambassadör: Saab-fabrik i Ukraina diskuteras - Västerbottens-Kuriren
-- DN Direkt – Två hästar har slitit sig mitt i Stockholm - Dagens Nyheter
-- Cuf vill att C-topp blir ny ledare - SVT Nyheter
-- S löfte om stram migration fäster inte på väljarna - Dagens Nyheter
+- Flera knivhuggna på tåg i England - SVT Nyheter
 - Källor: USA har hemlig lista över militära mål i Venezuela - Dagens Nyheter
-- Syriens ledare till Washington - GP
+- Explosion vid bostad i Södertälje - Västerbottens-Kuriren
+- Attack mot rysk oljeledning – ”Anmärkningsvärt” - GP
+- Efter våldet – når inte kollegorna i Tanzania - Västerbottens-Kuriren
+- Julia tände ljus för sin mördade mamma: ”Saknaden blir bara värre” - GP
+- Emelie Nyman omvald som CUF-ordförande - GP
+- Ambassadör: Saab-fabrik i Ukraina diskuteras - Västerbottens-Kuriren
+- ALLHELGONA: Hundratals Karlstadsbor tände ljus och mindes sina nära på Ruds kyrkogård - NWT
+- 31 oktober 13.30, Trafikkontroll, Norrbottens län - polisen.se
+- Trump hotar med militärinsats i Nigeria efter ”massmord” - Dagens Nyheter
 - Två döda i skottlossning på Kreta – automatvapen och hagelgevär - Sydsvenskan
-- Fem vänsterpolitiker som retar etablissemanget i USA - Dagens Nyheter
-- Open AI, Nvidia och Meta – så hänger AI-bolagen ihop - Dagens Nyheter
-- Dubbla elpriset i oktober – dyrare vinter väntar - Omni
+- Syriens ledare till Washington - GP
+- Expert: Putin är besatt av Rysslands låga födslotal - Dagens Nyheter
+- Dubbla elpriset i oktober – dyrare vinter väntar - Dagens Nyheter
 - Dråpslaget: Många fler pensionärer till inkasso - News55
 - Varning för misstänkt SMS – gör så här om du får det - Marcus Oscarsson
+- Över 20 döda i jordskred - Aftonbladet
 - Här träffas bilnördarna i Lennarts lekstuga - Västerbottens-Kuriren
 - Stellan Skarsgård: Ser mig själv som en nepopappa - Omni
 
@@ -32,44 +32,44 @@ _Updated: 2025-11-02 00:39_
 - Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- GLOBAL KAPITALISM ÄR UTE PÅ TUNN IS - socialisterna.org
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Adtalem Global Education Inc. Investigated for Securities Fraud Violations - Contact the DJS Law Group to Discuss Your Rights – ATGE - Placera.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- CHiQ Strengthens Global Sports Engagement with FIS Ski Jumping World Cup Partnership - Placera.se
 
 ## Technology
 
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
-- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
+- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Deepseek är det nya Linux - Computer Sweden
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
-- YPF and Globant Advance a Major Project to Transform and Optimize the Supply Chain with AI Solutions - Placera.se
-- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
 
@@ -82,15 +82,15 @@ _Updated: 2025-11-02 00:39_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Money movement – Evolving expectations of economic migrants - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
@@ -99,15 +99,15 @@ _Updated: 2025-11-02 00:39_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
@@ -126,19 +126,19 @@ _Updated: 2025-11-02 00:39_
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
 
