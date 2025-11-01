@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-01 20:44_
+_Updated: 2025-11-01 21:38_
 
 ## Top Stories
 
-- Explosion i Södertälje - Expressen
 - Källor: USA har hemlig lista över militära mål i Venezuela - Dagens Nyheter
-- Två döda i skottlossning på Kreta – automatvapen och hagelgevär - HD
-- ALLHELGONA: Hundratals Karlstadsbor tände ljus och mindes sina nära på Ruds kyrkogård - NWT
-- S löfte om stram migration fäster inte på väljarna - Dagens Nyheter
+- Explosion i Södertälje - Expressen
 - Misstänkta bordellen blir hyreslägenheter: ”Ska inte uppstå igen” - Aftonbladet
+- Nykterhetsrörelsen byter namn - GP
+- ALLHELGONA: Hundratals Karlstadsbor tände ljus och mindes sina nära på Ruds kyrkogård - NWT
+- Syriens ledare till Washington - Västerbottens-Kuriren
 - DN Direkt – Två hästar har slitit sig mitt i Stockholm - Dagens Nyheter
 - Ambassadör: Saab-fabrik i Ukraina diskuteras - Västerbottens-Kuriren
 - Cuf vill att C-topp blir ny ledare - SVT Nyheter
-- Emelie Nyman omvald som CUF-ordförande - GP
-- Zelenskyj: Ryssland kraftsamlar i Donetsk - Västerbottens-Kuriren
+- S löfte om stram migration fäster inte på väljarna - Dagens Nyheter
+- Två döda i skottlossning på Kreta – automatvapen och hagelgevär - Sydsvenskan
 - Inga amerikanska ministrar till klimatmöte - SVT Nyheter
-- Därför talar Trump om Budapest – staden där världen svek Ukraina - Dagens Nyheter
-- Två döda efter explosion i Finland - GP
-- Dubbla elpriset i oktober – dyrare vinter väntar - Dagens Nyheter
-- Ny studie: Bilmärkena som narcissister väljer - SvD
+- Fem vänsterpolitiker som retar etablissemanget i USA - Dagens Nyheter
+- Zelenskyj: Ryssland kraftsamlar i Donetsk - Västerbottens-Kuriren
+- Open AI, Nvidia och Meta – så hänger AI-bolagen ihop - Dagens Nyheter
+- Dubbla elpriset i oktober – och dyrare vinter väntar - NWT
 - ”Säkerhetsrisker” i Sheins och Temus produkter - Sydsvenskan
 - Det är dags att säga adjö till kontanterna - Computer Sweden
-- Nästa års iPhone 18 kan komma i en kaffefärg - Teknikveckan
+- Här träffas bilnördarna i Lennarts lekstuga - Folkbladet
 - Stellan Skarsgård: Ser mig själv som en nepopappa - Omni
 
 ## World News
 
 - Sundin ser fram emot Global Series och OS: ”På tiden" - NHL.com
 - Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
+- GLOBAL KAPITALISM ÄR UTE PÅ TUNN IS - socialisterna.org
 - Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- GLOBAL KAPITALISM ÄR UTE PÅ TUNN IS - socialisterna.org
-- Armand Duplantis soars to third world title and 14th world record - BBC
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- New Secretary General appointed - Olof Palme International Center
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Boeing jet returns to US from China, a victim of Trump's tariff war - The Economic Times
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Armand Duplantis soars to third world title and 14th world record - BBC
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- New Secretary General appointed - Olof Palme International Center
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
 
 ## Technology
@@ -57,25 +57,25 @@ _Updated: 2025-11-01 20:44_
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 - YPF and Globant Advance a Major Project to Transform and Optimize the Supply Chain with AI Solutions - Placera.se
-- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
+- Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
 
 ## Business
 
 - Transforming Thailand to a digital economy - mastercard.com
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - The circular economy in action at Blenheim Palace - mastercard.com
@@ -87,12 +87,12 @@ _Updated: 2025-11-01 20:44_
 - Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Money movement – Evolving expectations of economic migrants - mastercard.com
+- Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Money movement – Evolving expectations of economic migrants - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Monterro säljer Hypergene till Thoma Bravo - Mynewsdesk
 
 ## Health
 
@@ -144,7 +144,6 @@ _Updated: 2025-11-01 20:44_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -160,5 +159,6 @@ _Updated: 2025-11-01 20:44_
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
