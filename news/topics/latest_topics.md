@@ -1,17 +1,17 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-01 13:38_
+_Updated: 2025-11-01 15:00_
 
 ## Top Stories
 
-- DN Direkt – Många döda i folkmassa vid indiskt tempel - Dagens Nyheter
-- Stökig Halloweenhelg i landet – barn spottade på polis - Aftonbladet
-- Cuf vill att C-topp blir ny ledare - SVT Nyheter
 - Storbritannien: Ytterligare stöd till Sudan - GP
-- Hotell i Stockholm stängs efter sexhandel – miljonsmäll hotar techprofilens bolag - Breakit
-- Farzan kom med flyktingvågen: ”Sverige var snällare” - SvD
+- Många döda i folkmassa vid indiskt tempel - Västerbottens-Kuriren
+- Fyra bilar i krock på E45 – totalstopp vid Lödösemotet - SVT Nyheter
+- Hans mamma har dömts till döden i Iran: ”En katastrof” - Aftonbladet
+- Vita huset hamnar i skuggan av Trumps balsal - Dagens Nyheter
+- Ljusen på kyrkogården brinner för levande och döda - GP
+- Cuf vill att C-topp blir ny ledare - SVT Nyheter
 - Göteborg tackar nej till infomöte om återvandringsbidraget - GP
-- ”Hög tid att vi pratar om dödens praktiska aspekter” - Dagens Nyheter
 - 01 november 07.58, Sammanfattning natt, Östergötlands län - polisen.se
 - Man anhållen för grov misshandel – så var polisnatten i länet - Kuriren
 - Ukraina: Attack mot tre delar av rysk oljeledning - Västerbottens-Kuriren
@@ -19,9 +19,9 @@ _Updated: 2025-11-01 13:38_
 - Fullt inbördeskrig – efter ”Hitler var cool”-intervjun - Expressen
 - Trinidad och Tobagos militär i beredskapsläge - SVT Nyheter
 - Dubbla elpriset i oktober – dyrare vinter väntar - Dagens Nyheter
+- Konkurserna ökar igen – ”oroande” - DI
 - Det är dags att säga adjö till kontanterna - Computer Sweden
 - Nya Polestar 5 – en extra kryddad ingenjörsdröm - Dagens Nyheter
-- Analytikern: Hemnets ras är omotiverat - DI
 - Stellan Skarsgård: Ser mig själv som en nepopappa - Omni
 - Canva bygger in AI i sina kreativa verktyg - m3.se
 
@@ -44,7 +44,7 @@ _Updated: 2025-11-01 13:38_
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - New Secretary General appointed - Olof Palme International Center
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- VCI Global tar in 5 miljoner USD i direkterbjudande till 1,80 USD per aktie - Investing.com Sverige
 - Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
 - RTX CFO to present at the Baird 2025 Global Industrial Conference - Placera.se
 
@@ -99,15 +99,15 @@ _Updated: 2025-11-01 13:38_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
@@ -115,30 +115,30 @@ _Updated: 2025-11-01 13:38_
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
+- Erik Selin blir den nya ordförande i cancerbolaget Multi4 Medical AB - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 
 ## Jordbruk
 
