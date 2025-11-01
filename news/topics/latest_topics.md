@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-01 23:37_
+_Updated: 2025-11-02 00:39_
 
 ## Top Stories
 
-- Källor: USA har hemlig lista över militära mål i Venezuela - Dagens Nyheter
+- Flera till sjukhus efter brittisk knivattack - Dagens Nyheter
 - Efter våldet – når inte kollegorna i Tanzania - Västerbottens-Kuriren
+- Misstänkta bordellen blir hyreslägenheter: ”Ska inte uppstå igen” - Aftonbladet
 - Ukrainsk attack mot rysk oljeledning – ”anmärkningsvärt” - Hufvudstadsbladet
 - Explosion vid bostad i Södertälje - SVT Nyheter
 - Julia tände ljus för sin mördade mamma: ”Saknaden blir bara värre” - GP
-- Misstänkta bordellen blir hyreslägenheter: ”Ska inte uppstå igen” - Aftonbladet
-- Cuf vill att C-topp blir ny ledare - SVT Nyheter
-- DN Direkt – Två hästar har slitit sig mitt i Stockholm - Dagens Nyheter
 - Ambassadör: Saab-fabrik i Ukraina diskuteras - Västerbottens-Kuriren
-- ALLHELGONA: Hundratals Karlstadsbor tände ljus och mindes sina nära på Ruds kyrkogård - NWT
+- DN Direkt – Två hästar har slitit sig mitt i Stockholm - Dagens Nyheter
+- Cuf vill att C-topp blir ny ledare - SVT Nyheter
+- S löfte om stram migration fäster inte på väljarna - Dagens Nyheter
+- Källor: USA har hemlig lista över militära mål i Venezuela - Dagens Nyheter
+- Syriens ledare till Washington - GP
 - Två döda i skottlossning på Kreta – automatvapen och hagelgevär - Sydsvenskan
 - Fem vänsterpolitiker som retar etablissemanget i USA - Dagens Nyheter
-- Inga amerikanska ministrar till klimatmöte - SVT Nyheter
-- Två döda efter explosion i Finland - Västerbottens-Kuriren
 - Open AI, Nvidia och Meta – så hänger AI-bolagen ihop - Dagens Nyheter
 - Dubbla elpriset i oktober – dyrare vinter väntar - Omni
 - Dråpslaget: Många fler pensionärer till inkasso - News55
-- ”Säkerhetsrisker” i Sheins och Temus produkter - Sydsvenskan
+- Varning för misstänkt SMS – gör så här om du får det - Marcus Oscarsson
 - Här träffas bilnördarna i Lennarts lekstuga - Västerbottens-Kuriren
 - Stellan Skarsgård: Ser mig själv som en nepopappa - Omni
 
@@ -36,6 +36,7 @@ _Updated: 2025-11-01 23:37_
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - GLOBAL KAPITALISM ÄR UTE PÅ TUNN IS - socialisterna.org
 - Armand Duplantis soars to third world title and 14th world record - BBC
@@ -43,7 +44,6 @@ _Updated: 2025-11-01 23:37_
 - Starlink 'down across the entire front line' in Ukraine as internet service suffers global outage - The Kyiv Independent
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Adtalem Global Education Inc. Investigated for Securities Fraud Violations - Contact the DJS Law Group to Discuss Your Rights – ATGE - Placera.se
 - Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
@@ -51,25 +51,25 @@ _Updated: 2025-11-01 23:37_
 ## Technology
 
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
-- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
+- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Deepseek är det nya Linux - Computer Sweden
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
+- YPF and Globant Advance a Major Project to Transform and Optimize the Supply Chain with AI Solutions - Placera.se
+- SOPHiA GENETICS Launches AI-Powered Digital Twins to Enhance Intelligent Decision-Making in Oncology - Placera.se
 
 ## Business
 
@@ -82,14 +82,14 @@ _Updated: 2025-11-01 23:37_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Money movement – Evolving expectations of economic migrants - mastercard.com
+- Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Money movement – Evolving expectations of economic migrants - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
@@ -120,24 +120,24 @@ _Updated: 2025-11-01 23:37_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
