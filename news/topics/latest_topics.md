@@ -1,6 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-01 22:38_
+_Updated: 2025-11-01 23:37_
 
 ## Top Stories
 
@@ -8,20 +8,20 @@ _Updated: 2025-11-01 22:38_
 - Efter våldet – når inte kollegorna i Tanzania - Västerbottens-Kuriren
 - Ukrainsk attack mot rysk oljeledning – ”anmärkningsvärt” - Hufvudstadsbladet
 - Explosion vid bostad i Södertälje - SVT Nyheter
+- Julia tände ljus för sin mördade mamma: ”Saknaden blir bara värre” - GP
 - Misstänkta bordellen blir hyreslägenheter: ”Ska inte uppstå igen” - Aftonbladet
-- Två döda i skottlossning på Kreta - Sydsvenskan
-- DN Direkt – Två hästar har slitit sig mitt i Stockholm - Dagens Nyheter
 - Cuf vill att C-topp blir ny ledare - SVT Nyheter
-- Emelie Nyman omvald som CUF-ordförande - GP
+- DN Direkt – Två hästar har slitit sig mitt i Stockholm - Dagens Nyheter
 - Ambassadör: Saab-fabrik i Ukraina diskuteras - Västerbottens-Kuriren
-- Två döda efter explosion i Finland - Västerbottens-Kuriren
+- ALLHELGONA: Hundratals Karlstadsbor tände ljus och mindes sina nära på Ruds kyrkogård - NWT
+- Två döda i skottlossning på Kreta – automatvapen och hagelgevär - Sydsvenskan
 - Fem vänsterpolitiker som retar etablissemanget i USA - Dagens Nyheter
 - Inga amerikanska ministrar till klimatmöte - SVT Nyheter
-- Nigerias president slår tillbaka mot Trump - Västerbottens-Kuriren
+- Två döda efter explosion i Finland - Västerbottens-Kuriren
 - Open AI, Nvidia och Meta – så hänger AI-bolagen ihop - Dagens Nyheter
-- Dubbla elpriset i oktober – och dyrare vinter väntar - NWT
+- Dubbla elpriset i oktober – dyrare vinter väntar - Omni
+- Dråpslaget: Många fler pensionärer till inkasso - News55
 - ”Säkerhetsrisker” i Sheins och Temus produkter - Sydsvenskan
-- Det är dags att säga adjö till kontanterna - Computer Sweden
 - Här träffas bilnördarna i Lennarts lekstuga - Västerbottens-Kuriren
 - Stellan Skarsgård: Ser mig själv som en nepopappa - Omni
 
@@ -102,6 +102,7 @@ _Updated: 2025-11-01 22:38_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
@@ -115,7 +116,6 @@ _Updated: 2025-11-01 22:38_
 - CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 - Erik Selin blir den nya ordförande i cancerbolaget Multi4 Medical AB - it-halsa.se
-- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
 
 ## Science
 
@@ -144,6 +144,7 @@ _Updated: 2025-11-01 22:38_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -153,12 +154,11 @@ _Updated: 2025-11-01 22:38_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
