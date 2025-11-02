@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-02 04:26_
+_Updated: 2025-11-02 05:36_
 
-- Nine people with life-threatening injuries after mass stabbing on train in Cambridgeshire - BBC
+- Trump threatens military action in Nigeria over Christian persecution claims - NPR
 - Trump Administration Must Make Food Stamp Payments Within Days, Judge Says - The New York Times
-- Trump threatens US military action in Nigeria over treatment of Christians - Reuters
+- UK police say ‘multiple people’ stabbed on train, two suspects arrested - Al Jazeera
 - As Barack Obama stumps for other Democrats, the party gets to see what it lost - The Guardian
-- Clocks fall back Sunday with an "extra hour" — but Congress remains split on time change - Axios
 - 'Misery map' shows which major airports are getting hit the hardest with flight delays and cancellations - Business Insider
-- Explosion at Harvard Medical School appears to have been intentional, authorities say. No one hurt - ABC News
-- Obama, Mamdani talk as Election Day approaches in New York City mayor's race - CBS News
-- JD Vance repeats comments he wants wife Usha to convert to Christianity - The Guardian
+- Hurricane Melissa: Britons to be evacuated from Jamaica as UK sends aid - BBC
+- ‘Intentional’ Explosion Took Place at Harvard Medical School, Officials Say - The New York Times
 - Mamdani targets Cuomo’s Black base in final days of campaign - Politico
-- Satellite images reveal "mass killing is continuing" in Sudan, Yale researchers say - CBS News
+- Daylight saving time ends Sunday. Here’s what to know - NPR
+- JD Vance repeats comments he wants wife Usha to convert to Christianity - The Guardian
 - Two additional suspects charged in Louvre jewel heist that shocked France - The Washington Post
-- After Days of Protests, Tanzania’s President Is Declared Election Winner - The New York Times
-- Zelensky says Russia has deployed 170,000 troops in push for Pokrovsk - The Independent
-- China to Suspend Some Rare Earth Curbs, Probes on US Chip Firms - Bloomberg.com
+- Satellite images reveal "mass killing is continuing" in Sudan, Yale researchers say - CBS News
+- Israel says latest remains Hamas returned from Gaza are not of hostages, straining ceasefire - PBS
+- Egypt Unveils $1 Billion Grand Museum as a ‘Gift to the World’ - Bloomberg.com
+- China to suspend some rare earth curbs, probes on U.S. chip firms - Fortune
 - Sam Altman says OpenAI's revenue is 'well more' than $13 billion and could hit $100 billion by 2027 - Fortune
-- Berkshire’s Quarterly Earnings Rise After Insurance Results Bounce Back - The Wall Street Journal
 - How to continue watching college football games and shows after Disney pulled ABC, ESPN and more from YouTube TV - WFAA
+- Where the Nexperia auto chip crisis stands now as the U.S., China and EU race to contain fallout - CNBC
 - Engadget review recap: An Apple duo, Sennheiser HDB 630, Lenovo Legion Go 2 and more - Engadget
-- SpaceX sets the record straight on Jim Bridenstine and Artemis 3 - Teslarati
+- Lenovo's budget-friendly 2025 Idea Tab Plus Android tablet with 90Hz display hits new $200 all-time low, more from $130 - 9to5Toys
