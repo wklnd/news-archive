@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-02 12:40_
+_Updated: 2025-11-02 13:38_
 
 ## Top Stories
 
-- Nio livshotande skadade i knivdåd - SVT Nyheter
-- Misstänkt mordförsök i Växjö – en gripen - Västerbottens-Kuriren
+- DN Direkt – Brittisk polis om knivattacken: ”Inget tyder på terrordåd” - Dagens Nyheter
+- Misstänkt mordförsök i centrala Växjö - SVT Nyheter
 - Trots varningar och påstådda åtgärder – sexannonser ledde till bordellhotell - Aftonbladet
 - Dags att lämna över tronen till Victoria – om folket får välja - Dagens Nyheter
-- Oron i Sannegården – för de nya sopkärlen: ”Har ingen mark” - GP
+- SD kallar Sida till utskott efter Hamasuppgifter - Dagens Nyheter
 - Stor insats mot Hells Angels i Eskilstuna - GP
 - Mohamsson har lägst förtroende av partiledarna - Västerbottens-Kuriren
-- SD kallar Sida till utskott efter Hamasuppgifter - Dagens Nyheter
 - 02 november 08.39, Sammanfattning natt, Västerbottens län - polisen.se
 - Nattens händelser från polisen - Örebronyheter
-- DN Direkt – 23 döda i explosion i butik - Dagens Nyheter
+- Inbrott, misshandel och fylleri – så var polisnatten i länet - NSD
+- Borgmästare dödad vid evenemang i Mexiko - Västerbottens-Kuriren
+- 23 döda i explosion i butik i Mexiko - SVT Nyheter
 - Trumps hot mot Nigeria – ”Modernt korståg” - Hufvudstadsbladet
-- Rysk oljetanker i brand efter ukrainsk attack - Västerbottens-Kuriren
-- Flicka föll av A-traktor – allvarligt skadad - Aftonbladet
+- Dödlig attack i ukrainska Odessa - Hufvudstadsbladet
 - Drömmen blev en mardröm – Nora har försökt sälja sin lägenhet i fyra år - Dagens Nyheter
 - Buffett lämnar Berkshire – nu växer oron - Dagens PS
 - Prischock på SJ: Stockholm–Västerås för nästan 3 000 kronor - Aftonbladet
-- De dog ensamma – hemtjänst missade trygghetslarm - NWT
+- De dog ensamma – hemtjänst missade trygghetslarm - GP
+- Jag har tränat med AirPods Pro 3 i över en månad – så här bra är deras nya träningsfunktioner - TechRadar
 - Prisvärd TCL mini-LED-TV jämförd med Samsung QLED – här är den du bör köpa under Black Friday - TechRadar
-- Här är planerna för Arc Raiders under 2025 - FZ.se
 
 ## World News
 
 - Sundin ser fram emot Global Series och OS: ”På tiden" - NHL.com
 - Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
 - Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- GLOBAL KAPITALISM ÄR UTE PÅ TUNN IS - socialisterna.org
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- New Secretary General appointed - Olof Palme International Center
-- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
 ## Technology
 
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
-- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
+- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- EU uppmanar techjättar att stoppa AI-desinformation - Omni
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
-- Spår superintelligens om tio år – vill leda racet - Omni
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
-- YPF and Globant Advance a Major Project to Transform and Optimize the Supply Chain with AI Solutions - Placera.se
+- BigBear.ai And Palantir Announce Strategic Partnership, Combining AI-powered Products With Next Generation Operating Platform - Placera.se
 
 ## Business
 
@@ -129,6 +129,7 @@ _Updated: 2025-11-02 12:40_
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
@@ -137,7 +138,6 @@ _Updated: 2025-11-02 12:40_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
