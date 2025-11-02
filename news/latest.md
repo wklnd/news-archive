@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-02 01:48_
+_Updated: 2025-11-02 04:26_
 
+- Nine people with life-threatening injuries after mass stabbing on train in Cambridgeshire - BBC
 - Trump Administration Must Make Food Stamp Payments Within Days, Judge Says - The New York Times
-- Trump says he’s ordered Pentagon to ‘prepare for possible action’ in Nigeria - CNN
-- Multiple people stabbed on train in England, 2 arrested - CNN
-- Explosion at Harvard Medical School building deemed intentional, police seek 2 suspects - CBS News
-- Canadian PM Carney says he told Ontario’s premier not to run anti-tariff ad that upset Trump - AP News
-- Top labor groups break with federal union's demand to end shutdown - ABC News
-- Obama Calls Mamdani to Praise His Campaign and Offers to Be Sounding Board - The New York Times
-- 'Counting pennies': Houston families seek food aid as SNAP hangs in limbo - NBC News
-- Daca recipients in Texas await judge’s ruling that could upend their lives - The Guardian
-- Trump Baffled That Dems Aren’t Caving to His Demands - The Daily Beast
-- Two additional suspects charged in Louvre jewel heist that shocked France - The Washington Post
+- Trump threatens US military action in Nigeria over treatment of Christians - Reuters
+- As Barack Obama stumps for other Democrats, the party gets to see what it lost - The Guardian
+- Clocks fall back Sunday with an "extra hour" — but Congress remains split on time change - Axios
+- 'Misery map' shows which major airports are getting hit the hardest with flight delays and cancellations - Business Insider
+- Explosion at Harvard Medical School appears to have been intentional, authorities say. No one hurt - ABC News
+- Obama, Mamdani talk as Election Day approaches in New York City mayor's race - CBS News
+- JD Vance repeats comments he wants wife Usha to convert to Christianity - The Guardian
+- Mamdani targets Cuomo’s Black base in final days of campaign - Politico
 - Satellite images reveal "mass killing is continuing" in Sudan, Yale researchers say - CBS News
-- Tanzania’s President Hassan wins disputed election with more than 97% of vote - AP News
-- Latest remains returned to Israel from Gaza are not bodies of hostages, Israel says - NBC News
-- Xi-Trump Deal Leads to Resumed Shipments of Crucial Auto Semiconductors - The Wall Street Journal
-- China to End Rare Earth Controls, Probes Against Chip Companies - Bloomberg.com
-- Warren Buffett marks 3 straight years as a net seller of stocks - Fortune
-- ESPN Puts College GameDay on X as Disney-YouTube TV Clash Continues - Variety
-- Windows 11 tests Bluetooth audio sharing that connects two headsets at once - The Verge
-- Inside NASA’s scramble to find a backup moon plan — and the wild ideas companies are pitching - CNN
+- Two additional suspects charged in Louvre jewel heist that shocked France - The Washington Post
+- After Days of Protests, Tanzania’s President Is Declared Election Winner - The New York Times
+- Zelensky says Russia has deployed 170,000 troops in push for Pokrovsk - The Independent
+- China to Suspend Some Rare Earth Curbs, Probes on US Chip Firms - Bloomberg.com
+- Sam Altman says OpenAI's revenue is 'well more' than $13 billion and could hit $100 billion by 2027 - Fortune
+- Berkshire’s Quarterly Earnings Rise After Insurance Results Bounce Back - The Wall Street Journal
+- How to continue watching college football games and shows after Disney pulled ABC, ESPN and more from YouTube TV - WFAA
+- Engadget review recap: An Apple duo, Sennheiser HDB 630, Lenovo Legion Go 2 and more - Engadget
+- SpaceX sets the record straight on Jim Bridenstine and Artemis 3 - Teslarati
