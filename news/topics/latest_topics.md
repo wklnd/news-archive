@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-03 00:39_
+_Updated: 2025-11-03 01:38_
 
 ## Top Stories
 
-- En person fortsatt livshotande skadad efter knivdådet på tåg i England - SVT Nyheter
-- DN Direkt – Minister: Inga explosioner i Trumps kärnvapentest - Dagens Nyheter
-- Israel: Kvarlevor av tre gisslan överlämnade - Västerbottens-Kuriren
+- Polisen: Bara en gärningsman vid tågdådet norr om London - Hufvudstadsbladet
+- DN Direkt – Nytt besked: Ingen Bäckström i Tre Kronor - Dagens Nyheter
+- Israel: Kvarlevor av tre gisslan överlämnade - GP
 - Stopp i tågtrafiken – elledning föll på tåg - Aftonbladet
 - Långa köer efter krock på E4 - Expressen
 - Kraftigt jordskalv i Afghanistan - SVT Nyheter
 - Sällsynt fynd dök upp på Göteborgs fiskauktion - GP
 - Körde för fort – tappade körkortet - Västerbottens-Kuriren
 - Nattens händelser från polisen - Örebronyheter
-- 02 november 08.39, Sammanfattning natt, Västerbottens län - polisen.se
+- Inbrott, misshandel och fylleri – så var polisnatten i länet - NSD
 - Misstänkt terrorist gripen i Berlin - UNT
-- Dödlig attack i ukrainska Odessa - GP
-- Brand rasar i Ljusne – närboende evakueras - Expressen
-- Klimatforskaren Johan Rockström: ”Vi har inte längre råd med nya löften utan leverans” - ETC.se
+- Dödlig attack i ukrainska Odessa - Hufvudstadsbladet
+- Flera bergsklättrare döda i lavin i Italien - Västerbottens-Kuriren
+- Rysk oljetanker i brand efter ukrainsk attack - GP
 - Dubbla elpriset i oktober – dyrare vinter väntar - Tidningen Näringslivet
 - Energiforskare: Bygg gasturbiner - SVT Nyheter
-- Klart i dag: Opec ökar oljeproduktionen - DI
 - Ryska metoden skapar problem – ”kan inte skjuta” - SvD
+- Forskare varnar för Open AI:s webbläsare - Aftonbladet
 - Game of the Year 2025 - FZ.se
-- "Apple bygger upp lager av delar till vikbar Iphone som släpps nästa år" - mobil.se
+- En rejäl telefoto-uppgradering ryktas för alla Samsung Galaxy S26-modeller - TechRadar
 
 ## World News
 
@@ -34,19 +34,19 @@ _Updated: 2025-11-03 00:39_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -68,20 +68,20 @@ _Updated: 2025-11-03 00:39_
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
-- Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
 
 ## Business
 
 - Transforming Thailand to a digital economy - mastercard.com
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - The circular economy in action at Blenheim Palace - mastercard.com
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
@@ -120,7 +120,6 @@ _Updated: 2025-11-03 00:39_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
@@ -128,23 +127,23 @@ _Updated: 2025-11-03 00:39_
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -155,10 +154,11 @@ _Updated: 2025-11-03 00:39_
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Maskinförare | Jobb | ATL - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
