@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-02 23:37_
+_Updated: 2025-11-03 00:39_
 
 ## Top Stories
 
 - En person fortsatt livshotande skadad efter knivdådet på tåg i England - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Israel: Kvarlevor av tre gisslan överlämnade - Dagens Nyheter
-- Långa köer efter krock på E4 - Expressen
+- DN Direkt – Minister: Inga explosioner i Trumps kärnvapentest - Dagens Nyheter
+- Israel: Kvarlevor av tre gisslan överlämnade - Västerbottens-Kuriren
 - Stopp i tågtrafiken – elledning föll på tåg - Aftonbladet
-- DN Direkt – Kraftig jordbävning i Afghanistan - Dagens Nyheter
-- Trots varningar och påstådda åtgärder – sexannonser ledde till bordellhotell - Aftonbladet
+- Långa köer efter krock på E4 - Expressen
+- Kraftigt jordskalv i Afghanistan - SVT Nyheter
 - Sällsynt fynd dök upp på Göteborgs fiskauktion - GP
 - Körde för fort – tappade körkortet - Västerbottens-Kuriren
 - Nattens händelser från polisen - Örebronyheter
 - 02 november 08.39, Sammanfattning natt, Västerbottens län - polisen.se
-- DN Direkt – Misstänkt terrorist gripen i Berlin - Dagens Nyheter
-- Sandra Stiskalo: Försöken att stoppa mobilstölderna i London verkar livsfarliga - Dagens Nyheter
-- Experten om Trumps korståg i Afrika: ”Tomt hot” - Västerbottens-Kuriren
+- Misstänkt terrorist gripen i Berlin - UNT
 - Dödlig attack i ukrainska Odessa - GP
-- Räntehöjning dröjer – men nedräkningen har börjat - Tidningen Näringslivet
+- Brand rasar i Ljusne – närboende evakueras - Expressen
+- Klimatforskaren Johan Rockström: ”Vi har inte längre råd med nya löften utan leverans” - ETC.se
+- Dubbla elpriset i oktober – dyrare vinter väntar - Tidningen Näringslivet
 - Energiforskare: Bygg gasturbiner - SVT Nyheter
+- Klart i dag: Opec ökar oljeproduktionen - DI
 - Ryska metoden skapar problem – ”kan inte skjuta” - SvD
-- Forskare varnar för Open AI:s webbläsare - Aftonbladet
+- Game of the Year 2025 - FZ.se
 - "Apple bygger upp lager av delar till vikbar Iphone som släpps nästa år" - mobil.se
-- En rejäl telefoto-uppgradering ryktas för alla Samsung Galaxy S26-modeller - TechRadar
 
 ## World News
 
@@ -35,6 +35,7 @@ _Updated: 2025-11-02 23:37_
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
@@ -44,7 +45,6 @@ _Updated: 2025-11-02 23:37_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
 
@@ -55,19 +55,19 @@ _Updated: 2025-11-02 23:37_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
-- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
-- Spår superintelligens om tio år – vill leda racet - Omni
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Deepseek är det nya Linux - Computer Sweden
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
+- SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
 
@@ -80,6 +80,7 @@ _Updated: 2025-11-02 23:37_
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - The circular economy in action at Blenheim Palace - mastercard.com
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
@@ -87,24 +88,23 @@ _Updated: 2025-11-02 23:37_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Money movement – Evolving expectations of economic migrants - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Money movement – Evolving expectations of economic migrants - mastercard.com
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Sthlm Beauty Week - Photo Daniel Söderberg www.greenpix.se-03906.jpg - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
@@ -128,17 +128,17 @@ _Updated: 2025-11-02 23:37_
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -155,10 +155,10 @@ _Updated: 2025-11-02 23:37_
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
