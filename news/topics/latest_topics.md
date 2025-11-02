@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-02 18:43_
+_Updated: 2025-11-02 19:38_
 
 ## Top Stories
 
-- Mohamsson har lägst förtroende av partiledarna - GP
-- Så blir hästmiljöer en riskzon för sexuella övergrepp - Dagens Nyheter
+- JUST NU: Polisen utreder grovt brott på Kronoparken – spärrade av del i bostadsområde - NWT
+- PR-expert sågar L:s nya kampanj: ”Lite sorglig” - Omni
+- DN Direkt – Brittisk polis om knivattacken: ”Inget tyder på terrordåd” - Dagens Nyheter
+- Familjen flydde gängkriminaliteten: ”Betalat ett högt pris” - Dagens Nyheter
 - Här är förslagen från Göteborg – som ratas av riksdagen - GP
-- Misstänkt våldtäkt på hemmafest i Malmö – en person anhållen - TV4 Nyheterna
-- Trots varningar och påstådda åtgärder – sexannonser ledde till bordellhotell - Aftonbladet
 - 02 november 09.56, Trafikolycka, Kristinehamn - polisen.se
 - DN Direkt – Stor insats mot Hells Angels i Eskilstuna - Dagens Nyheter
-- SD kallar Sida till utskott efter Hamasuppgifter - UNT
 - Körde för fort – tappade körkortet - Västerbottens-Kuriren
+- Spökkrake dök upp på fiskauktion – ”ovanlig” - Västerbottens-Kuriren
 - Nattens händelser från polisen - Örebronyheter
-- Trumps hot mot Nigeria – ”Modernt korståg” - Hufvudstadsbladet
 - Fem döda i lavinolycka i italienska alperna - SVT Nyheter
-- DN Direkt – Brittisk polis om knivattacken: ”Inget tyder på terrordåd” - Dagens Nyheter
-- Borgmästare dödad vid evenemang i Mexiko - Västerbottens-Kuriren
+- Trumps hot mot Nigeria – ”Modernt korståg” - Hufvudstadsbladet
+- DN Direkt – Misstänkt terrorist gripen i Berlin - Dagens Nyheter
+- Årsdag för takkollaps – tiotusentals serber samlades - Expressen
 - Räntehöjning dröjer – men nedräkningen har börjat - SvD
 - Forskare: Bygg gasturbiner mot elbrist - Omni
-- Prischock på SJ: Stockholm–Västerås för nästan 3 000 kronor - Aftonbladet
-- DEBATT: Frågan om vem som ska betala - Mora Tidning
+- Varning för misstänkt SMS – gör så här om du får det - Marcus Oscarsson
+- Ryska metoden skapar problem – ”kan inte skjuta” - Sydsvenskan
 - Tre nya färger ryktas för iPhone 18 Pro nästa år – och de är inte Apples vanliga val - TechRadar
 - Jag har tränat med AirPods Pro 3 i över en månad – så här bra är deras nya träningsfunktioner - TechRadar
 
@@ -29,13 +29,13 @@ _Updated: 2025-11-02 18:43_
 
 - Sundin ser fram emot Global Series och OS: ”På tiden" - NHL.com
 - Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
-- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
@@ -62,7 +62,6 @@ _Updated: 2025-11-02 18:43_
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
-- Spår superintelligens om tio år – vill leda racet - Omni
 - EU uppmanar techjättar att stoppa AI-desinformation - Omni
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
@@ -70,6 +69,7 @@ _Updated: 2025-11-02 18:43_
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
+- BigBear.ai And Palantir Announce Strategic Partnership, Combining AI-powered Products With Next Generation Operating Platform - Placera.se
 
 ## Business
 
@@ -143,22 +143,22 @@ _Updated: 2025-11-02 18:43_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
-- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Maskinförare | Jobb | ATL - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
