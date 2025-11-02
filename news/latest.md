@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-02 17:48_
+_Updated: 2025-11-02 18:49_
 
 - Trump tells military to plan for 'action' over his claim that Nigeria allows killing of Christians - BBC
-- Food Stamp Cuts Expose Trump’s Strategy to Use Shutdown to Advance Agenda - The New York Times
-- Zohran Mamdani: Who is the likely new mayor of New York? - DW
-- No indication UK train stabbing attack was terror related, police say - CNN
-- 'We will delay, we will cancel' flights to make sure people are safe: Duffy on ATC issues - ABC News
-- Gov. Gavin Newsom, Kamala Harris rally Californians to vote on Prop. 50 - Los Angeles Times
-- Explosion at Harvard medical campus appears intentional, authorities say - The Guardian
-- Judge Praises Trump, Issues Deadline for November SNAP Benefit Payments - Newsweek
-- Dems say the American Dream is dead. A lot of Trump voters agree. - Politico
+- Barack Obama, Kamala Harris campaign for Democrats, as Donald Trump's political operation invests in turnout - ABC News
 - U.S. carries out lethal strike against alleged drug carriers in Caribbean, killing at least 3 - CBS News
-- Hurricane Melissa: Britons evacuated from Jamaica as UK sends aid - BBC
-- Explosion and fire at convenience store kills at least 23 in northern Mexico - CBS News
-- Two additional suspects charged in Louvre jewel heist that shocked France - The Washington Post
+- The luxury gap: Trump builds his palace as Americans face going hungry - The Guardian
+- Even for Some Mamdani Supporters, His Thin Résumé Is Cause for Concern - The New York Times
+- Donald Trump’s Approval Rating Falls to All-Time Low With White Voters - Newsweek
+- Dems say the American Dream is dead. A lot of Trump voters agree. - Politico
+- No one hurt after ‘intentional’ explosion at Harvard medical campus, officials say - The Guardian
+- Trump Live Updates: SNAP Funding, Nigeria Threats and More - The New York Times
+- Why Gavin Newsom is gambling on new rules for Trump 2.0 - ABC News
+- Police Arrest Two British Men in Stabbing Rampage on Train - The New York Times
 - He told the world what was happening in El Fasher. Then they sought him out. How Sudan lost ‘a true hero of the war’ - The Guardian
-- Where the blockbuster weight loss drug market stands today — and what’s coming next - CNBC
+- Hurricane Melissa: Britons evacuated from Jamaica land in UK - BBC
+- Explosion and fire at convenience store kills at least 23 in northern Mexico - CBS News
+- AI Rally and Volatility Define Stock Run Since Trump’s Return - Bloomberg.com
+- YouTube, Disney squabble inches toward Monday Night Football - NBC Sports
 - Palantir Thinks College Might Be a Waste. So It’s Hiring High-School Grads. - The Wall Street Journal
-- How to watch Kentucky vs. Auburn if you have YouTube TV amid Disney dispute - On3
-- Sam Altman says OpenAI's revenue is 'well more' than $13 billion and could hit $100 billion by 2027 - Fortune
+- U.S. Economy: The Pain In Housing Is Just Beginning - Seeking Alpha
 - I measured the AirPods Pro 3's heart rate tracking against an Apple Watch Ultra 3 – here's how they compare - TechRadar
-- The best things to watch over and over and over - The Verge
+- The perfect grocery list-making app doesn’t exist - The Verge
