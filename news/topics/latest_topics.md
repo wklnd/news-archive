@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-02 13:38_
+_Updated: 2025-11-02 14:59_
 
 ## Top Stories
 
-- DN Direkt – Brittisk polis om knivattacken: ”Inget tyder på terrordåd” - Dagens Nyheter
+- Nio har livshotande skador efter knivdåd på tåg - GP
 - Misstänkt mordförsök i centrala Växjö - SVT Nyheter
-- Trots varningar och påstådda åtgärder – sexannonser ledde till bordellhotell - Aftonbladet
 - Dags att lämna över tronen till Victoria – om folket får välja - Dagens Nyheter
+- Trots varningar och påstådda åtgärder – sexannonser ledde till bordellhotell - Aftonbladet
 - SD kallar Sida till utskott efter Hamasuppgifter - Dagens Nyheter
-- Stor insats mot Hells Angels i Eskilstuna - GP
-- Mohamsson har lägst förtroende av partiledarna - Västerbottens-Kuriren
+- Oron i Sannegården – för de nya sopkärlen: ”Har ingen mark” - GP
+- Körde för fort – tappade körkortet - Västerbottens-Kuriren
 - 02 november 08.39, Sammanfattning natt, Västerbottens län - polisen.se
+- Mohamsson har lägst förtroende av partiledarna - GP
 - Nattens händelser från polisen - Örebronyheter
-- Inbrott, misshandel och fylleri – så var polisnatten i länet - NSD
 - Borgmästare dödad vid evenemang i Mexiko - Västerbottens-Kuriren
-- 23 döda i explosion i butik i Mexiko - SVT Nyheter
-- Trumps hot mot Nigeria – ”Modernt korståg” - Hufvudstadsbladet
 - Dödlig attack i ukrainska Odessa - Hufvudstadsbladet
-- Drömmen blev en mardröm – Nora har försökt sälja sin lägenhet i fyra år - Dagens Nyheter
-- Buffett lämnar Berkshire – nu växer oron - Dagens PS
+- 02 november 07.19, Sammanfattning natt, Dalarnas län - polisen.se
+- Ukraina justerar – dödad rysk soldat värd sex gånger så mycket poäng - Omni
 - Prischock på SJ: Stockholm–Västerås för nästan 3 000 kronor - Aftonbladet
-- De dog ensamma – hemtjänst missade trygghetslarm - GP
+- Buffett lämnar Berkshire – nu växer oron - Dagens PS
+- Drömmen blev en mardröm – Nora har försökt sälja sin lägenhet i fyra år - Dagens Nyheter
+- De dog ensamma – hemtjänst missade trygghetslarm - NWT
 - Jag har tränat med AirPods Pro 3 i över en månad – så här bra är deras nya träningsfunktioner - TechRadar
-- Prisvärd TCL mini-LED-TV jämförd med Samsung QLED – här är den du bör köpa under Black Friday - TechRadar
+- Tre nya färger ryktas för iPhone 18 Pro nästa år – och de är inte Apples vanliga val - TechRadar
 
 ## World News
 
@@ -54,22 +54,22 @@ _Updated: 2025-11-02 13:38_
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
+- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- EU uppmanar techjättar att stoppa AI-desinformation - Omni
-- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
-- BigBear.ai And Palantir Announce Strategic Partnership, Combining AI-powered Products With Next Generation Operating Platform - Placera.se
+- YPF and Globant Advance a Major Project to Transform and Optimize the Supply Chain with AI Solutions - Placera.se
+- Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
 
 ## Business
 
@@ -99,16 +99,15 @@ _Updated: 2025-11-02 13:38_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
@@ -116,6 +115,7 @@ _Updated: 2025-11-02 13:38_
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
+- Erik Selin blir den nya ordförande i cancerbolaget Multi4 Medical AB - it-halsa.se
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-11-02 13:38_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Maskinförare | Jobb | ATL - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
