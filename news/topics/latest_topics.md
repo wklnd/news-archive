@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-02 01:38_
+_Updated: 2025-11-02 04:23_
 
 ## Top Stories
 
-- Flera knivhuggna på tåg i England - SVT Nyheter
-- Källor: USA har hemlig lista över militära mål i Venezuela - Dagens Nyheter
-- Explosion vid bostad i Södertälje - Västerbottens-Kuriren
-- Attack mot rysk oljeledning – ”Anmärkningsvärt” - GP
-- Efter våldet – når inte kollegorna i Tanzania - Västerbottens-Kuriren
-- Julia tände ljus för sin mördade mamma: ”Saknaden blir bara värre” - GP
+- Nio har livshotande skador efter knivdådet på tåg i England - SVT Nyheter
+- Stor polisinsats mot Hells Angels lokaler - Ekuriren
+- Misstänkta bordellen blir hyreslägenheter: ”Ska inte uppstå igen” - Aftonbladet
+- Kraftig brand i lägenhet i Malmö - TV4 Nyheterna
+- DN Direkt – Larm om explosion i Södertälje - Dagens Nyheter
+- Expert: Putin är besatt av Rysslands låga födslotal - Dagens Nyheter
 - Emelie Nyman omvald som CUF-ordförande - GP
 - Ambassadör: Saab-fabrik i Ukraina diskuteras - Västerbottens-Kuriren
-- ALLHELGONA: Hundratals Karlstadsbor tände ljus och mindes sina nära på Ruds kyrkogård - NWT
 - 31 oktober 13.30, Trafikkontroll, Norrbottens län - polisen.se
+- ALLHELGONA: Hundratals Karlstadsbor tände ljus och mindes sina nära på Ruds kyrkogård - NWT
 - Trump hotar med militärinsats i Nigeria efter ”massmord” - Dagens Nyheter
+- Trump: Överväger inga attacker mot Venezuela - GP
+- Flera bergsklättrare döda i lavin i Italien - UNT
 - Två döda i skottlossning på Kreta – automatvapen och hagelgevär - Sydsvenskan
-- Syriens ledare till Washington - GP
-- Expert: Putin är besatt av Rysslands låga födslotal - Dagens Nyheter
 - Dubbla elpriset i oktober – dyrare vinter väntar - Dagens Nyheter
-- Dråpslaget: Många fler pensionärer till inkasso - News55
-- Varning för misstänkt SMS – gör så här om du får det - Marcus Oscarsson
+- Svensk nykterhetsrörelse får nytt namn - DI
 - Över 20 döda i jordskred - Aftonbladet
+- Varning för misstänkt SMS – gör så här om du får det - Marcus Oscarsson
 - Här träffas bilnördarna i Lennarts lekstuga - Västerbottens-Kuriren
 - Stellan Skarsgård: Ser mig själv som en nepopappa - Omni
 
@@ -40,36 +40,36 @@ _Updated: 2025-11-02 01:38_
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
-- World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 - CHiQ Strengthens Global Sports Engagement with FIS Ski Jumping World Cup Partnership - Placera.se
 
 ## Technology
 
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
-- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
+- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Deepseek är det nya Linux - Computer Sweden
+- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
+- Spår superintelligens om tio år – vill leda racet - Omni
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
+- YPF and Globant Advance a Major Project to Transform and Optimize the Supply Chain with AI Solutions - Placera.se
 
 ## Business
 
@@ -82,15 +82,15 @@ _Updated: 2025-11-02 01:38_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Money movement – Evolving expectations of economic migrants - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
