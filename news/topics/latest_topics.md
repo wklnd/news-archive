@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-02 08:48_
+_Updated: 2025-11-02 09:37_
 
 ## Top Stories
 
 - Nio har livshotande skador efter knivdåd - SvD
-- Simona Mohamsson lägst förtroende - Västerbottens-Kuriren
+- Mohamsson lägst förtroende bland partiledarna - GP
 - Fem vänsterpolitiker som retar etablissemanget i USA - Dagens Nyheter
 - Misstänkta bordellen blir hyreslägenheter: ”Ska inte uppstå igen” - Aftonbladet
-- Stor polisinsats mot Hells Angels lokaler - Ekuriren
-- En fejk-kung utan karaktär - SvD
+- Nu sågas Zelenskyj: "Vill tysta alla kritiker" - Dagens PS
+- 02 november 07.45, Sammanfattning natt, Östergötlands län - polisen.se
 - 31 oktober 13.30, Trafikkontroll, Norrbottens län - polisen.se
 - DN Direkt – Explosion i Södertälje - Dagens Nyheter
+- Misstänkt mordförsök i centrala Växjö - SVT Nyheter
 - Insats mot svartklubb på Ringön – 100 gäster avvisade - GP
-- Misstänkt mordförsök i Växjö – en gripen - Corren
 - 23 döda i explosion i butik i Mexiko - SVT Nyheter
-- DN Direkt – Två döda i skottlossning på Kreta - Dagens Nyheter
-- Nigerias president slår tillbaka mot Trump - Västerbottens-Kuriren
-- Trump: Överväger inga attacker mot Venezuela - GP
+- Källor: USA har hemlig lista över militära mål i Venezuela - Dagens Nyheter
+- USA har attackerat ny ”knarkbåt” - GP
+- Rysk oljetanker i brand efter ukrainsk attack - Västerbottens-Kuriren
+- Cancermysterium i USA – majsfält pekas ut - Aftonbladet
 - De dog ensamma – hemtjänsten missade trygghetslarmen - SVT Nyheter
-- Cancermysterium i USA – majsfält pekas ut - SvD
+- Forskare: Så kan Sverige lösa akut elbrist - SvD
 - Svensk nykterhetsrörelse får nytt namn - DI
-- Fem fackliga nyheter från veckan som gått - Dagens Arena
 - Prisvärd TCL mini-LED-TV jämförd med Samsung QLED – här är den du bör köpa under Black Friday - TechRadar
 - Här är planerna för Arc Raiders under 2025 - FZ.se
 
@@ -35,18 +35,18 @@ _Updated: 2025-11-02 08:48_
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Circle Taps Wyclef Jean as Global Culture Advisor to Bring Stablecoin Innovation to the World Stage - Placera.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- New Secretary General appointed - Olof Palme International Center
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 
 ## Technology
 
@@ -82,15 +82,15 @@ _Updated: 2025-11-02 08:48_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Money movement – Evolving expectations of economic migrants - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
@@ -102,20 +102,20 @@ _Updated: 2025-11-02 08:48_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
+- Erik Selin blir den nya ordförande i cancerbolaget Multi4 Medical AB - it-halsa.se
 
 ## Science
 
@@ -126,11 +126,9 @@ _Updated: 2025-11-02 08:48_
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
@@ -138,6 +136,8 @@ _Updated: 2025-11-02 08:48_
 - The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
 
 ## Jordbruk
