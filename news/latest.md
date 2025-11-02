@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-02 13:48_
+_Updated: 2025-11-02 15:03_
 
-- Trump threatens to send US military into Nigeria, alleging mass killing of Christians - France 24
-- UK train stabbings injure nine, police arrest two suspects - Reuters
-- Barack Obama, Kamala Harris campaign for Democrats, as Donald Trump's political operation invests in turnout - ABC News
+- Donald Trump orders military to prepare plans for 'action' in Nigeria - BBC
+- Police rule out terrorism in UK train stabbing attack, after two British suspects arrested - CNN
+- US military kills three in strike on drug-trafficking vessel in Caribbean, Hegseth says - Reuters
 - Food Stamp Cuts Expose Trump’s Strategy to Use Shutdown to Advance Agenda - The New York Times
-- Trump administration tells Congress war law doesn’t apply to cartel strikes - The Washington Post
-- U.S. military strikes alleged drug boat in the Caribbean killing 3, Hegseth says - NBC News
+- Barack Obama, Kamala Harris campaign for Democrats, as Donald Trump's political operation invests in turnout - ABC News
+- Poll: Most Americans think the government lies. Many say the American Dream is dead. - Politico
 - Federal judge thanks Trump, orders him to make SNAP payments - Roll Call
-- Poll shows Zohran Mamdani's lead in NYC mayoral race narrowing during final weekend of early voting - CBS News
 - Explosion at Harvard Medical School appears to have been intentional, authorities say. No one hurt - ABC News
-- Obama Calls Mamdani to Praise His Campaign and Offers to Be Sounding Board - The New York Times
-- Hurricane Melissa: Britons evacuated from Jamaica as UK sends aid - BBC
-- With pharaoh-like fanfare, Egypt unveils a huge new museum dedicated to its ancient civilization - AP News
-- Russian Missile Strikes on Ukraine Hit 2.5-Year High - The Moscow Times
+- Obama, Mamdani talk as Election Day approaches in New York City mayor's race - CBS News
+- Republican Jewish leaders planned a ceasefire celebration, pivoted to take on antisemitism within - AP News
+- Hurricane Melissa death toll rises to 28 in Jamaica - BBC
+- Egypt opens colossal new antiquities museum after two-decade wait - Reuters
+- Drones spotted over military base in Belgium for second time in 24 hours - The Kyiv Independent
 - Two additional suspects charged in Louvre jewel heist that shocked France - The Washington Post
-- Tariffs are expected to start showing up more in consumer prices as holiday shopping season starts - CNBC
 - How to continue watching college football games and shows after Disney pulled ABC, ESPN and more from YouTube TV - WFAA
-- What's next for the Big Tech stocks? - Axios
+- Tariffs are expected to start showing up more in consumer prices as holiday shopping season starts - CNBC
 - Warren Buffett marks 3 straight years as a net seller of stocks - Fortune
+- China to Suspend Some Rare Earth Curbs, Probes on US Chip Firms - Bloomberg.com
 - After Elon Tantrum, SpaceX Now Prepping ‘Simplified’ Starship-Based Lunar Lander - PCMag
 - Lenovo's budget-friendly 2025 Idea Tab Plus Android tablet with 90Hz display hits new $200 all-time low, more from $130 - 9to5Toys
