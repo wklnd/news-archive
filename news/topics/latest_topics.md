@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-02 20:44_
+_Updated: 2025-11-02 21:37_
 
 ## Top Stories
 
-- Fidde Holmberg: ”Helt otroligt” - GP
-- Prinsessan bryter tystnaden om åtalade brodern - Västerbottens-Kuriren
-- Långa köer efter krock på E4 - Expressen
-- Familjen flydde gängkriminaliteten: ”Betalat ett högt pris” - Dagens Nyheter
-- Misstänkt våldtäkt på hemmafest i Malmö – en person anhållen - TV4 Nyheterna
+- DN Direkt – Prinsessan bryter tystnaden om åtalade brodern - Dagens Nyheter
+- Trumps hot mot Nigeria – ”Modernt korståg” - Hufvudstadsbladet
+- Direkt – Krisen i Mellanöstern – Israel: Kvarlevor av tre gisslan överlämnade - Dagens Nyheter
 - JUST NU: Polisen har spärrat av område på Kronoparken - NWT
+- Familjen flydde gängkriminaliteten: ”Betalat ett högt pris” - Dagens Nyheter
+- Trots varningar och påstådda åtgärder – sexannonser ledde till bordellhotell - Aftonbladet
 - DN Direkt – Stor insats mot Hells Angels i Eskilstuna - Dagens Nyheter
 - Körde för fort – tappade körkortet - Västerbottens-Kuriren
-- Spökkrake dök upp på fiskauktion – ”ovanlig” - GP
-- Mohamsson har lägst förtroende av partiledarna - Corren
+- Sällsynt fynd dök upp på Göteborgs fiskauktion - GP
+- Nattens händelser från polisen - Örebronyheter
+- Prinsessan bryter tystnaden om åtalade brodern - GP
 - DN Direkt – Misstänkt terrorist gripen i Berlin - Dagens Nyheter
 - Fem döda i lavinolycka i italienska alperna - SVT Nyheter
-- Livshotande skador efter knivhuggning på tåg i England - Hufvudstadsbladet
-- Experten om Trumps korståg i Afrika: ”Tomt hot” - Västerbottens-Kuriren
+- Sandra Stiskalo: Försöken att stoppa mobilstölderna i London verkar livsfarliga - Dagens Nyheter
 - Räntehöjning dröjer – men nedräkningen har börjat - Tidningen Näringslivet
 - Varning för misstänkt SMS – gör så här om du får det - Marcus Oscarsson
 - Ryska metoden skapar problem – ”kan inte skjuta” - SvD
 - Därför lyckas fondsparare bättre än aktiesparare - DI
+- En rejäl telefoto-uppgradering ryktas för alla Samsung Galaxy S26-modeller - TechRadar
 - Tre nya färger ryktas för iPhone 18 Pro nästa år – och de är inte Apples vanliga val - TechRadar
-- Jag har tränat med AirPods Pro 3 i över en månad – så här bra är deras nya träningsfunktioner - TechRadar
 
 ## World News
 
 - Sundin ser fram emot Global Series och OS: ”På tiden" - NHL.com
 - Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
+- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Armand Duplantis soars to third world title and 14th world record - BBC
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
+- Armand Duplantis soars to third world title and 14th world record - BBC
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global Music Group KATSEYE Enters Toca Boca World™ as the First-Ever Guest Characters in a Music-Fueled Collaboration Launching June 10 - Placera.se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 
 ## Technology
 
@@ -151,14 +151,14 @@ _Updated: 2025-11-02 20:44_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
