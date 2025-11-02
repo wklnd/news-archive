@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-02 18:49_
+_Updated: 2025-11-02 19:48_
 
-- Trump tells military to plan for 'action' over his claim that Nigeria allows killing of Christians - BBC
+- Nigeria rejects US military threat over alleged Christian killings - Politico
 - Barack Obama, Kamala Harris campaign for Democrats, as Donald Trump's political operation invests in turnout - ABC News
-- U.S. carries out lethal strike against alleged drug carriers in Caribbean, killing at least 3 - CBS News
-- The luxury gap: Trump builds his palace as Americans face going hungry - The Guardian
-- Even for Some Mamdani Supporters, His Thin Résumé Is Cause for Concern - The New York Times
-- Donald Trump’s Approval Rating Falls to All-Time Low With White Voters - Newsweek
+- Treasury Secretary Bessent says SNAP food benefits could restart by Wednesday - CNBC
+- CBS News poll finds rising concern over government shutdown impact on economy, Americans personally - CBS News
+- Clocks fall back Sunday with an "extra hour" — but Congress remains split on time change - axios.com
+- 'We will delay, we will cancel' flights to make sure people are safe: Duffy on ATC issues - ABC News
+- Three killed in latest US strike on alleged drug boat in Caribbean - BBC
+- Explosion at Harvard Medical School appears to have been intentional, authorities say. No one hurt - ABC News
 - Dems say the American Dream is dead. A lot of Trump voters agree. - Politico
-- No one hurt after ‘intentional’ explosion at Harvard medical campus, officials say - The Guardian
-- Trump Live Updates: SNAP Funding, Nigeria Threats and More - The New York Times
-- Why Gavin Newsom is gambling on new rules for Trump 2.0 - ABC News
+- 'We're not a violent city': Chicago locals take on ICE block-by-block - Reuters
 - Police Arrest Two British Men in Stabbing Rampage on Train - The New York Times
 - He told the world what was happening in El Fasher. Then they sought him out. How Sudan lost ‘a true hero of the war’ - The Guardian
-- Hurricane Melissa: Britons evacuated from Jamaica land in UK - BBC
+- 'We have no idea what lies ahead': Aid struggles to reach Jamaican towns devastated by hurricane - BBC
 - Explosion and fire at convenience store kills at least 23 in northern Mexico - CBS News
 - AI Rally and Volatility Define Stock Run Since Trump’s Return - Bloomberg.com
-- YouTube, Disney squabble inches toward Monday Night Football - NBC Sports
+- OPEC+ set to agree another modest oil output increase, sources say - Reuters
+- YouTube TV, Disney squabble inches toward Monday Night Football - NBC Sports
 - Palantir Thinks College Might Be a Waste. So It’s Hiring High-School Grads. - The Wall Street Journal
-- U.S. Economy: The Pain In Housing Is Just Beginning - Seeking Alpha
 - I measured the AirPods Pro 3's heart rate tracking against an Apple Watch Ultra 3 – here's how they compare - TechRadar
-- The perfect grocery list-making app doesn’t exist - The Verge
+- After Elon Tantrum, SpaceX Now Prepping ‘Simplified’ Starship-Based Lunar Lander - PCMag
