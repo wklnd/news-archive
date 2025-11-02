@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-02 16:48_
+_Updated: 2025-11-02 17:48_
 
 - Trump tells military to plan for 'action' over his claim that Nigeria allows killing of Christians - BBC
-- U.S. carries out lethal strike against alleged drug carriers in Caribbean, killing at least 3 - CBS News
-- Police Arrest Two British Men in Stabbing Rampage on Train - The New York Times
-- The luxury gap: Trump builds his palace as Americans face going hungry - The Guardian
-- Even for Some Mamdani Supporters, His Thin Résumé Is Cause for Concern - The New York Times
-- Poll: Most Americans think the government lies. Many say the American Dream is dead. - Politico
-- Explosion at Harvard Medical School appears to have been intentional, authorities say. No one hurt - ABC News
+- Food Stamp Cuts Expose Trump’s Strategy to Use Shutdown to Advance Agenda - The New York Times
+- Zohran Mamdani: Who is the likely new mayor of New York? - DW
+- No indication UK train stabbing attack was terror related, police say - CNN
+- 'We will delay, we will cancel' flights to make sure people are safe: Duffy on ATC issues - ABC News
+- Gov. Gavin Newsom, Kamala Harris rally Californians to vote on Prop. 50 - Los Angeles Times
+- Explosion at Harvard medical campus appears intentional, authorities say - The Guardian
 - Judge Praises Trump, Issues Deadline for November SNAP Benefit Payments - Newsweek
-- Obama blasts Trump ahead of Election Day in Virginia and New Jersey. Republicans keep it local - AP News
-- Tuesday’s key races: What to know about the NYC election and other contests - CNN
+- Dems say the American Dream is dead. A lot of Trump voters agree. - Politico
+- U.S. carries out lethal strike against alleged drug carriers in Caribbean, killing at least 3 - CBS News
 - Hurricane Melissa: Britons evacuated from Jamaica as UK sends aid - BBC
 - Explosion and fire at convenience store kills at least 23 in northern Mexico - CBS News
-- ‘We don’t feel safe’: after week of bombings, people in Gaza are losing faith in ceasefire - The Guardian
-- Gunman Kills Mayor Who Wanted Police to Target Mexico’s Drug Gangs - The New York Times
+- Two additional suspects charged in Louvre jewel heist that shocked France - The Washington Post
+- He told the world what was happening in El Fasher. Then they sought him out. How Sudan lost ‘a true hero of the war’ - The Guardian
 - Where the blockbuster weight loss drug market stands today — and what’s coming next - CNBC
-- Roughly 10 million YouTube TV subscribers miss out on many Week 10 college football games as part of Disney dispute - Yahoo Sports
-- U.S. Economy: The Pain In Housing Is Just Beginning - Seeking Alpha
-- Nexperia China slams Dutch firm's claims as 'entirely fabricated' and 'malicious defamation,' calling its unilateral supply suspension 'extremely irresponsible' - Global Times
+- Palantir Thinks College Might Be a Waste. So It’s Hiring High-School Grads. - The Wall Street Journal
+- How to watch Kentucky vs. Auburn if you have YouTube TV amid Disney dispute - On3
+- Sam Altman says OpenAI's revenue is 'well more' than $13 billion and could hit $100 billion by 2027 - Fortune
 - I measured the AirPods Pro 3's heart rate tracking against an Apple Watch Ultra 3 – here's how they compare - TechRadar
 - The best things to watch over and over and over - The Verge
