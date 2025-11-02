@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-02 06:44_
+_Updated: 2025-11-02 07:41_
 
 ## Top Stories
 
-- Nio har livshotande skador efter knivdådet på tåg i England - SVT Nyheter
+- Nio har livshotande skador efter knivdåd - SvD
 - Mohamsson lägst förtroende bland partiledarna - GP
-- DN Direkt – 23 omkommit i explosion i butik - Dagens Nyheter
+- Fem vänsterpolitiker som retar etablissemanget i USA - Dagens Nyheter
 - USA: Orealistiskt med avväpning av Hizbollah - Västerbottens-Kuriren
+- Nattpersonal kritiska till nya schemat: ”Vi kommer kanske att behöva lämna folk utan tillsyn eller utan hjälp” - Smålandsposten
 - Stor polisinsats mot Hells Angels lokaler - Ekuriren
-- Trump hotar att gå in militärt i Nigeria - SVT Nyheter
 - 01 november 16.53, Explosion, Södertälje - polisen.se
 - 31 oktober 13.30, Trafikkontroll, Norrbottens län - polisen.se
 - ALLHELGONA: Hundratals Karlstadsbor tände ljus och mindes sina nära på Ruds kyrkogård - NWT
 - Kaos på finlandsfärjan – passagerare fast i över en timme - Expressen
+- 23 döda i explosion i butik i Mexiko - SVT Nyheter
 - Ukrainsk attack mot rysk oljeledning – ”anmärkningsvärt” - Hufvudstadsbladet
-- Trump: Överväger inga attacker mot Venezuela - GP
-- Fem bergsklättrare döda i lavin i Italien - SVT Nyheter
-- Expert: Putin är besatt av Rysslands låga födslotal - Dagens Nyheter
+- Trump hotar med militärinsats i Nigeria efter ”massmord” - Dagens Nyheter
+- Två döda i skottlossning på Kreta – automatvapen och hagelgevär - Sydsvenskan
 - Svensk nykterhetsrörelse får nytt namn - DI
+- Håller Sam Altman på att skapa en religion? - Kvartal
 - Fem fackliga nyheter från veckan som gått - Dagens Arena
 - Varning för misstänkt SMS – gör så här om du får det - Marcus Oscarsson
-- DN Direkt – Över 20 döda i jordskred i Kenya - Dagens Nyheter
 - Prisvärd TCL mini-LED-TV jämförd med Samsung QLED – här är den du bör köpa under Black Friday - TechRadar
-- Här träffas bilnördarna i Lennarts lekstuga - Folkbladet
+- Här är planerna för Arc Raiders under 2025 - FZ.se
 
 ## World News
 
@@ -61,7 +61,6 @@ _Updated: 2025-11-02 06:44_
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Deepseek är det nya Linux - Computer Sweden
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
@@ -70,6 +69,7 @@ _Updated: 2025-11-02 06:44_
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
+- Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
 
 ## Business
 
