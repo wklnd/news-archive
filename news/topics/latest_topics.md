@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-02 15:39_
+_Updated: 2025-11-02 16:39_
 
 ## Top Stories
 
 - DN Direkt – Brittisk polis om knivattacken: ”Inget tyder på terrordåd” - Dagens Nyheter
+- Trots varningar och påstådda åtgärder – sexannonser ledde till bordellhotell - Aftonbladet
+- Personbil väjde för djur och voltade ut i skogen – man till sjukhus - NWT
 - Dags att lämna över tronen till Victoria – om folket får välja - Dagens Nyheter
 - Misstänkt mordförsök i centrala Växjö - SVT Nyheter
-- Trots varningar och påstådda åtgärder – sexannonser ledde till bordellhotell - Aftonbladet
-- SD kallar Sida till utskott efter Hamasuppgifter - Dagens Nyheter
-- Oron i Sannegården – för de nya sopkärlen: ”Har ingen mark” - GP
-- DN Direkt – Stor insats mot Hells Angels i Eskilstuna - Dagens Nyheter
 - Körde för fort – tappade körkortet - Västerbottens-Kuriren
+- DN Direkt – Stor insats mot Hells Angels i Eskilstuna - Dagens Nyheter
+- SD kallar Sida till utskott efter Hamasuppgifter - UNT
 - 02 november 08.39, Sammanfattning natt, Västerbottens län - polisen.se
 - Mohamsson har lägst förtroende av partiledarna - GP
 - Borgmästare dödad vid evenemang i Mexiko - Västerbottens-Kuriren
-- Experten om Trumps korståg i Afrika: ”Tomt hot” - Dagens Nyheter
-- Fem döda i lavinolycka i italienska alperna - SVT Nyheter
+- Trumps hot mot Nigeria – ”Modernt korståg” - Hufvudstadsbladet
 - Dödlig attack i ukrainska Odessa - GP
+- 02 november 07.19, Sammanfattning natt, Dalarnas län - polisen.se
+- Räntehöjning dröjer – men nedräkningen har börjat - SvD
 - Prischock på SJ: Stockholm–Västerås för nästan 3 000 kronor - Aftonbladet
 - Forskare: Bygg gasturbiner mot elbrist - Omni
-- De dog ensamma – hemtjänsten missade trygghetslarmen - SVT Nyheter
-- DEBATT: Frågan om vem som ska betala - Mora Tidning
+- DN Direkt – Tolv dog i samband med brister i hemtjänsten - Dagens Nyheter
 - Jag har tränat med AirPods Pro 3 i över en månad – så här bra är deras nya träningsfunktioner - TechRadar
 - Tre nya färger ryktas för iPhone 18 Pro nästa år – och de är inte Apples vanliga val - TechRadar
 
@@ -62,13 +62,13 @@ _Updated: 2025-11-02 15:39_
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - 290 million for digitalisation of Swedish industry - Vinnova
-- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
+- YPF and Globant Advance a Major Project to Transform and Optimize the Supply Chain with AI Solutions - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
 
 ## Business
@@ -88,9 +88,9 @@ _Updated: 2025-11-02 15:39_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Money movement – Evolving expectations of economic migrants - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Money movement – Evolving expectations of economic migrants - mastercard.com
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 - Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
@@ -99,16 +99,15 @@ _Updated: 2025-11-02 15:39_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
@@ -116,6 +115,7 @@ _Updated: 2025-11-02 15:39_
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
+- Erik Selin blir den nya ordförande i cancerbolaget Multi4 Medical AB - it-halsa.se
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-11-02 15:39_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Maskinförare | Jobb | ATL - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Årets viktigaste internationella livsmedelskonferens – Spot on Food - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
