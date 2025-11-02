@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-02 19:38_
+_Updated: 2025-11-02 20:44_
 
 ## Top Stories
 
-- JUST NU: Polisen utreder grovt brott på Kronoparken – spärrade av del i bostadsområde - NWT
-- PR-expert sågar L:s nya kampanj: ”Lite sorglig” - Omni
-- DN Direkt – Brittisk polis om knivattacken: ”Inget tyder på terrordåd” - Dagens Nyheter
+- Fidde Holmberg: ”Helt otroligt” - GP
+- Prinsessan bryter tystnaden om åtalade brodern - Västerbottens-Kuriren
+- Långa köer efter krock på E4 - Expressen
 - Familjen flydde gängkriminaliteten: ”Betalat ett högt pris” - Dagens Nyheter
-- Här är förslagen från Göteborg – som ratas av riksdagen - GP
-- 02 november 09.56, Trafikolycka, Kristinehamn - polisen.se
+- Misstänkt våldtäkt på hemmafest i Malmö – en person anhållen - TV4 Nyheterna
+- JUST NU: Polisen har spärrat av område på Kronoparken - NWT
 - DN Direkt – Stor insats mot Hells Angels i Eskilstuna - Dagens Nyheter
 - Körde för fort – tappade körkortet - Västerbottens-Kuriren
-- Spökkrake dök upp på fiskauktion – ”ovanlig” - Västerbottens-Kuriren
-- Nattens händelser från polisen - Örebronyheter
-- Fem döda i lavinolycka i italienska alperna - SVT Nyheter
-- Trumps hot mot Nigeria – ”Modernt korståg” - Hufvudstadsbladet
+- Spökkrake dök upp på fiskauktion – ”ovanlig” - GP
+- Mohamsson har lägst förtroende av partiledarna - Corren
 - DN Direkt – Misstänkt terrorist gripen i Berlin - Dagens Nyheter
-- Årsdag för takkollaps – tiotusentals serber samlades - Expressen
-- Räntehöjning dröjer – men nedräkningen har börjat - SvD
-- Forskare: Bygg gasturbiner mot elbrist - Omni
+- Fem döda i lavinolycka i italienska alperna - SVT Nyheter
+- Livshotande skador efter knivhuggning på tåg i England - Hufvudstadsbladet
+- Experten om Trumps korståg i Afrika: ”Tomt hot” - Västerbottens-Kuriren
+- Räntehöjning dröjer – men nedräkningen har börjat - Tidningen Näringslivet
 - Varning för misstänkt SMS – gör så här om du får det - Marcus Oscarsson
-- Ryska metoden skapar problem – ”kan inte skjuta” - Sydsvenskan
+- Ryska metoden skapar problem – ”kan inte skjuta” - SvD
+- Därför lyckas fondsparare bättre än aktiesparare - DI
 - Tre nya färger ryktas för iPhone 18 Pro nästa år – och de är inte Apples vanliga val - TechRadar
 - Jag har tränat med AirPods Pro 3 i över en månad – så här bra är deras nya träningsfunktioner - TechRadar
 
@@ -35,7 +35,6 @@ _Updated: 2025-11-02 19:38_
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Reported massacre at hospital in Sudan’s El Fasher leaves 460 dead - UN News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
@@ -45,6 +44,7 @@ _Updated: 2025-11-02 19:38_
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
@@ -62,14 +62,14 @@ _Updated: 2025-11-02 19:38_
 - 290 million for digitalisation of Swedish industry - Vinnova
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
-- EU uppmanar techjättar att stoppa AI-desinformation - Omni
+- Spår superintelligens om tio år – vill leda racet - Omni
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
 - Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
-- BigBear.ai And Palantir Announce Strategic Partnership, Combining AI-powered Products With Next Generation Operating Platform - Placera.se
+- Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
 
 ## Business
 
@@ -102,13 +102,12 @@ _Updated: 2025-11-02 19:38_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
@@ -116,6 +115,7 @@ _Updated: 2025-11-02 19:38_
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
+- Erik Selin blir den nya ordförande i cancerbolaget Multi4 Medical AB - it-halsa.se
 
 ## Science
 
