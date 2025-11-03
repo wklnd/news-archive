@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-03 20:46_
+_Updated: 2025-11-03 21:38_
 
 ## Top Stories
 
-- DN Direkt – EU-ministern till Brasilien inför klimatmötet - Dagens Nyheter
 - Det här handlar oroligheterna i Tanzia om - Hufvudstadsbladet
-- Nytt ukrainskt anfall mot Rysslands olja - Västerbottens-Kuriren
-- Italien inför obligatorisk åldersverifiering för porrsidor - m3.se
+- Newsoms hämnd mot Texas – tar till karttricket - Dagens Nyheter
 - Oron: ”Då hamnar vi i samma läge som L” - SvD
+- Nytt ukrainskt anfall mot Rysslands olja - Västerbottens-Kuriren
+- Ingen svensk minister på klimatmötet i Brasilien - GP
 - Kulturdebatt. ”Ska skolan klara sitt kunskapsuppdrag behövs en kulturförändring” - Dagens Nyheter
 - Åtalad nazist om våldsnatten: Någon form av gruff - Västerbottens-Kuriren
 - Bil fattade eld efter krock – en till sjukhus - SVT Nyheter
-- Håkan Boström: Återvandringsbidrag är ett stickspår - GP
+- Pojke livshotande skadad efter påkörning i Båstad - SVT Nyheter
 - Hemtjänstpersonal misstänks för stölder mot äldre i Partille – åtal väckt - SVT Nyheter
-- DN Direkt – video Medeltida torn i Rom har rasat - Dagens Nyheter
+- Medeltida torn i Rom rasade - SVT Nyheter
+- Sanna Marin: Jag fick så dumma frågor att hjärnan smälte - Hufvudstadsbladet
 - Han ska regera med Motoristerna – därför ska du bry dig - GP
-- Trumps hot mot Nigeria – ”Modernt korståg” - Hufvudstadsbladet
-- Så gick fienderna ihop för att stoppa Mamdani - Dagens Nyheter
+- Experten om Trumps korståg i Afrika: ”Tomt hot” - Corren
 - Kimberly-Clark och Kenvue går samman i jätteaffär värd 48,7 miljarder USD - Biostock
 - Förslaget: Skrota journalsystemet Millennium i Västra Götalandsregionen - SVT Nyheter
-- Sjunkande arbetslöshet i Gävleborg – så är läget i varje kommun - Cision News
-- Ica-toppen slår tillbaka – efter nya mediedrevet: ”Kalla det okunskap, populism eller vad du vill” - dagligvarunytt.se
+- Modesajten Shein sålde sexdockor som liknar små barn - Dagens Nyheter
+- Stockholmsbörsen i sidled – Alvotech rasar - DI
 - Arc Raiders var näst största betalspelet på Steam förra veckan - FZ.se
 - Skövde-studions nya spel drar in 125 miljoner - DI
 
@@ -30,7 +30,6 @@ _Updated: 2025-11-03 20:46_
 - Wolverine Worldwide Releases 2024 Global Impact Report - Placera.se
 - Sundin ser fram emot Global Series och OS: ”På tiden" - NHL.com
 - Blackstone Credit & Insurance Appoints Laura Coady as Global Head of CLOs and European Head of Liquid Credit Strategies - Placera.se
-- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
@@ -46,6 +45,7 @@ _Updated: 2025-11-03 20:46_
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Global Got It All vann med stor segermarginal · Senaste nyheterna om trav - Travronden
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - CGI positioned as a Leader in the IDC MarketScape for Worldwide AI Services for State and Local Government 2025 - Placera.se
 
 ## Technology
@@ -77,11 +77,12 @@ _Updated: 2025-11-03 20:46_
 - Transforming Thailand to a digital economy - mastercard.com
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - The circular economy in action at Blenheim Palace - mastercard.com
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
@@ -90,9 +91,8 @@ _Updated: 2025-11-03 20:46_
 - Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Money movement – Evolving expectations of economic migrants - mastercard.com
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 
 ## Health
 
@@ -102,14 +102,14 @@ _Updated: 2025-11-03 20:46_
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Människorättsbaserat arbetssätt ger vårdpersonal viktiga verktyg - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
@@ -120,9 +120,9 @@ _Updated: 2025-11-03 20:46_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
@@ -143,22 +143,22 @@ _Updated: 2025-11-03 20:46_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Maskinförare | Jobb | ATL - Land Lantbruk
 - SLU gets important UN mission on antibiotic resistance - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
