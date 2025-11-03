@@ -1,22 +1,22 @@
 # Top News Headlines
 
-_Updated: 2025-11-03 06:04_
+_Updated: 2025-11-03 06:53_
 
-- Read the full transcript of Norah O'Donnell's interview with President Trump here. - CBS News
-- Man, 32, only suspect after Huntingdon train stabbings - BBC
+- Trump spent 90 minutes with ‘60 Minutes’ — here’s what happened - CNN
 - Trump administration faces Monday deadline to respond to judge's SNAP order - NBC News
+- Man, 32, only suspect after Huntingdon train stabbings - BBC
 - Trump threat of military action in Nigeria prompts confusion and alarm - The Washington Post
+- NYC mayoral candidates ratchet up intensity on final day of early voting - CBS News
 - Nine people injured in mass shooting at Ohio party held in Airbnb - The Guardian
 - Trump reverses course on attending Supreme Court arguments this week - Politico
-- N.Y.C. Early Voting Ends With 735,000 Ballots Cast, as Younger Voters Surge - The New York Times
-- Mississippi woman kills escaped monkey fearing for her children’s safety - AP News
-- Transportation Secretary Sean Duffy says airport delays are "going to get worse" as shutdown drags on - CBS News
-- Three killed in latest US strike on alleged drug boat in Caribbean - BBC
-- Israel says it received the remains of 3 hostages from Gaza as fragile ceasefire holds - AP News
-- Mexican mayor who waged war on cartels is slain while celebrating Day of the Dead - Los Angeles Times
-- Powerful 6.3 quake in Northern Afghanistan kills at least seven - Reuters
-- Louvre heist work of petty criminals, not organized crime, prosecutor says - NBC News
-- OPEC Plus Signals Cautious Approach to Oil Production - The New York Times
+- Mississippi woman kills escaped rhesus monkey, saying she feared for her children’s safety - PBS
+- Big delays at LAX and San Diego airport amid air traffic control staffing shortage - Los Angeles Times
+- Indiana Republican Tries Different Approach in Debate on Voting Maps: Listening - The New York Times
+- Hamas hands over purported remains of 3 hostages; one confirmed as Omer Neutra - The Times of Israel
+- Powerful 6.3 quake kills at least 10 in Afghanistan, scores injured - Reuters
+- Mexican mayor killed during Day of the Dead celebrations - AP News
+- Explosion and fire at convenience store kills at least 23 in northern Mexico - CBS News
+- Oil extends gains after OPEC+ pauses Q1 output hikes - Reuters
 - Reddit’s Cofounder And CEO Steve Huffman Is Now A Billionaire - Forbes
 - Stocks Set for Mixed Open, OPEC+ to Pause Hikes: Markets Wrap - Bloomberg.com
 - China to ease chip export ban in new trade deal, White House says - BBC
