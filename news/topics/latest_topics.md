@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-03 23:39_
+_Updated: 2025-11-04 00:42_
 
 ## Top Stories
 
 - Två till sjukhus efter kraftig brand i Helsingborg - Aftonbladet
-- Det här handlar oroligheterna i Tanzia om - Hufvudstadsbladet
-- Fyndet på allhelgonaafton: Kranium i kakelugn - Expressen
 - Partiernas dilemma: nya krafter från sidan tar över - GP
-- Spänner kärnvapenmusklerna – viftar med atomdrivna torpeder - Dagens Nyheter
-- DN Direkt – Förslag: Ska bli lättare för polisen att provocera fram brott - Dagens Nyheter
-- Åtalad nazist om våldsnatten: Någon form av gruff - Västerbottens-Kuriren
+- Här vill Trump slå till – tränar specialstyrkor - Expressen
+- Provokation löser problem och ger nya - SvD
+- Sparkades medvetslös på gatan: ”Var som en dröm” - Dagens Nyheter
+- Det här handlar oroligheterna i Tanzia om - Hufvudstadsbladet
+- DN Direkt – Kraftig brand i flerfamiljshus – två till sjukhus - Dagens Nyheter
+- EU-ministern deltar i högnivåmöte inför COP30 - Regeringen.se
 - Drunkningsolycka i Tanum - SVT Nyheter
-- Bil fattade eld efter krock – en till sjukhus - SVT Nyheter
-- Pia Sundhage lämnar Schweiz landslag: ”Förvånad” - GP
+- Pojke livshotande skadad efter påkörning i Båstad - SVT Nyheter
 - DN Direkt – Vita huset: Kommer att betala ut matkuponger - Dagens Nyheter
-- Newsoms hämnd mot Texas – tar till karttricket - Dagens Nyheter
 - Ukraina vill öppna kontor i Berlin och Köpenhamn - Västerbottens-Kuriren
+- Putins nya supervapen - Aftonbladet
 - Straffet för en mans brott – 20 oskyldiga blir hemlösa - Dagens Nyheter
-- Kursras för Essitys konkurrent efter storförvärv - DI
 - Förslaget: Skrota journalsystemet Millennium i Västra Götalandsregionen - SVT Nyheter
-- Modesajten Shein sålde sexdockor som liknar små barn - Dagens Nyheter
+- Hotar Shein: Förbud om ”barnlika” sexdockor säljs - Aftonbladet
+- Kursras för Essitys konkurrent efter storförvärv - DI
 - Svårt för vindkraften när energiförbrukningen inte ökar - tidningensyre.se
-- Arc Raiders var näst största betalspelet på Steam förra veckan - FZ.se
-- Lanseringsdatum för Samsung Galaxy S26 kan ha läckt – samtidigt som Samsungs tri-fold verkar närma sig premiär - TechRadar
+- Arc Raiders får detaljerat uppdateringsschema för 2025 - Nordichardware
+- AMD förtydligar läget med RDNA och RDNA 2 - Nordichardware
 
 ## World News
 
@@ -44,8 +44,8 @@ _Updated: 2025-11-03 23:39_
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - CGI positioned as a Leader in the IDC MarketScape for Worldwide AI Services for State and Local Government 2025 - Placera.se
 
 ## Technology
@@ -100,22 +100,22 @@ _Updated: 2025-11-03 23:39_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Matvanor för god hälsa och miljö - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Människorättsbaserat arbetssätt ger vårdpersonal viktiga verktyg - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Människorättsbaserat arbetssätt ger vårdpersonal viktiga verktyg - Läkartidningen
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
-- Erik Selin blir den nya ordförande i cancerbolaget Multi4 Medical AB - it-halsa.se
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2025-11-03 23:39_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- (+) Stor undersökning av jordbruket - Arbetarskydd
+- Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Maskinförare | Jobb | ATL - Land Lantbruk
+- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
