@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-03 05:38_
+_Updated: 2025-11-03 06:48_
 
 ## Top Stories
 
-- DN Direkt – Brittisk polis om knivattacken: ”Inget tyder på terrordåd” - Dagens Nyheter
-- Minister: Inga explosioner i Trumps kärnvapentest - Västerbottens-Kuriren
-- Omfattande brand i Ängelholm - SVT Nyheter
-- Trots varningar och påstådda åtgärder – sexannonser ledde till bordellhotell - Aftonbladet
+- DN Direkt – Minister: Inga explosioner i Trumps kärnvapentest - Dagens Nyheter
 - Kraftig jordbävning i Afghanistan - GP
-- Dagen som aldrig kom. Serbien 25 år efter Miloševićs fall - Global Bar Magazine
-- Körde för fort – tappade körkortet - Västerbottens-Kuriren
+- Ministern kräver porrlås på nätet - Västerbottens-Kuriren
+- Polisen: Bara en gärningsman vid tågdådet norr om London - Hufvudstadsbladet
+- Trots varningar och påstådda åtgärder – sexannonser ledde till bordellhotell - Aftonbladet
+- Förlorade körkortet – körde 123 km/tim på 70-sträcka - Norran
 - Inbrott, misshandel och fylleri – så var polisnatten i länet - NSD
 - Replik: Vi genomför den största bygglovsreformen på 15 år - Altinget.se
 - Nattens händelser från polisen - Örebronyheter
+- Håkan Boström: Återvandringsbidrag är ett stickspår - GP
+- Nya våldsamheter i Serbien – Vucic lovar nyval - SVT Nyheter
+- Fotbollshuliganer i bråk - Expressen
 - Uppgifter: kontaktledning rasade ner på tåg vid Knivsta station - UNT
-- Dödlig attack i ukrainska Odessa - Hufvudstadsbladet
-- Rysk oljetanker i brand efter ukrainsk attack - GP
-- Krigsfångarnas krav: Skickas till Sydkorea - Expressen
+- Rysk oljetanker i brand efter ukrainsk attack - Västerbottens-Kuriren
+- Historiskt skifte för Carlsberg – öl inte längre störst - DI
+- Ett dyrt jobb: Sverige i toppen av Europas arbetskraftskostnader - Almega
 - Jobbar svenskar mest eller minst i Europa? - Dagens Arbete
 - Därför ska du ta tag i pensionen i höst - Corren
-- Forskare varnar för Open AI:s webbläsare - Aftonbladet
-- Forskare: Så kan Sverige lösa akut elbrist - Tidningen Näringslivet
 - Game of the Year 2025 - FZ.se
-- "Apple bygger upp lager av delar till vikbar Iphone som släpps nästa år" - mobil.se
+- 13 år senare: Ska Mark Wahlbergs remake på "Huvudjägarna" äntligen bli av? - MovieZine
 
 ## World News
 
@@ -54,19 +54,19 @@ _Updated: 2025-11-03 05:38_
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
+- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- 290 million for digitalisation of Swedish industry - Vinnova
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
-- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
-- EU uppmanar techjättar att stoppa AI-desinformation - Omni
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
-- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
 - BigBear.ai And Palantir Announce Strategic Partnership, Combining AI-powered Products With Next Generation Operating Platform - Placera.se
@@ -99,46 +99,46 @@ _Updated: 2025-11-03 05:38_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 - Erik Selin blir den nya ordförande i cancerbolaget Multi4 Medical AB - it-halsa.se
-- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Årets tio största vetenskapliga genombrott - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
@@ -152,13 +152,13 @@ _Updated: 2025-11-03 05:38_
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
-- Årets viktigaste internationella livsmedelskonferens – Spot on Food - Mynewsdesk
