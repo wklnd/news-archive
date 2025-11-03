@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-03 22:43_
+_Updated: 2025-11-03 23:39_
 
 ## Top Stories
 
+- Två till sjukhus efter kraftig brand i Helsingborg - Aftonbladet
 - Det här handlar oroligheterna i Tanzia om - Hufvudstadsbladet
-- Newsoms hämnd mot Texas – tar till karttricket - Dagens Nyheter
+- Fyndet på allhelgonaafton: Kranium i kakelugn - Expressen
+- Partiernas dilemma: nya krafter från sidan tar över - GP
 - Spänner kärnvapenmusklerna – viftar med atomdrivna torpeder - Dagens Nyheter
 - DN Direkt – Förslag: Ska bli lättare för polisen att provocera fram brott - Dagens Nyheter
-- Brand i lägenhetsbyggnad på Frösön – man gripen - Aftonbladet
-- Åtalad nazist om våldsnatten: Någon form av gruff - GP
+- Åtalad nazist om våldsnatten: Någon form av gruff - Västerbottens-Kuriren
+- Drunkningsolycka i Tanum - SVT Nyheter
 - Bil fattade eld efter krock – en till sjukhus - SVT Nyheter
-- DN Direkt – EU-ministern till Brasilien inför klimatmötet - Dagens Nyheter
-- Pojke livshotande skadad efter påkörning i Båstad - SVT Nyheter
-- Moa Berglöf Sydsvenskans nya politiska redaktör: ”Jag vill ge hopp” - Sydsvenskan
-- Vita huset: Kommer att betala ut matkuponger - Västerbottens-Kuriren
-- Ukraina vill öppna kontor i Berlin och Köpenhamn - GP
+- Pia Sundhage lämnar Schweiz landslag: ”Förvånad” - GP
+- DN Direkt – Vita huset: Kommer att betala ut matkuponger - Dagens Nyheter
+- Newsoms hämnd mot Texas – tar till karttricket - Dagens Nyheter
+- Ukraina vill öppna kontor i Berlin och Köpenhamn - Västerbottens-Kuriren
 - Straffet för en mans brott – 20 oskyldiga blir hemlösa - Dagens Nyheter
-- Kraftig brand i flerfamiljshus – två till sjukhus - Aftonbladet
 - Kursras för Essitys konkurrent efter storförvärv - DI
 - Förslaget: Skrota journalsystemet Millennium i Västra Götalandsregionen - SVT Nyheter
 - Modesajten Shein sålde sexdockor som liknar små barn - Dagens Nyheter
-- Alvotech nobbas i USA efter brister i fabrik – dyker på börsen - Life Science Sweden
+- Svårt för vindkraften när energiförbrukningen inte ökar - tidningensyre.se
 - Arc Raiders var näst största betalspelet på Steam förra veckan - FZ.se
 - Lanseringsdatum för Samsung Galaxy S26 kan ha läckt – samtidigt som Samsungs tri-fold verkar närma sig premiär - TechRadar
 
@@ -29,11 +29,13 @@ _Updated: 2025-11-03 22:43_
 
 - Wolverine Worldwide Releases 2024 Global Impact Report - Placera.se
 - Sundin ser fram emot Global Series och OS: ”På tiden" - NHL.com
+- Blackstone Credit & Insurance Appoints Laura Coady as Global Head of CLOs and European Head of Liquid Credit Strategies - Placera.se
 - Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
-- Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - UPS Acquires Andlauer Healthcare Group for $1.6 Billion, Accelerating Its Expansion as a Global Leader in Complex Healthcare Logistics - Business Wire
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
@@ -41,11 +43,9 @@ _Updated: 2025-11-03 22:43_
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Global Got It All vann med stor segermarginal · Senaste nyheterna om trav - Travronden
-- Blackstone Credit & Insurance Appoints Laura Coady as Global Head of CLOs and European Head of Liquid Credit Strategies - Placera.se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - CGI positioned as a Leader in the IDC MarketScape for Worldwide AI Services for State and Local Government 2025 - Placera.se
 
 ## Technology
@@ -120,7 +120,6 @@ _Updated: 2025-11-03 22:43_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
@@ -129,36 +128,37 @@ _Updated: 2025-11-03 22:43_
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
-- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
 - The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Olika slutsatser från samma data - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- (+) Stor undersökning av jordbruket - Arbetarskydd
-- Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Maskinförare | Jobb | ATL - Land Lantbruk
-- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
