@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-03 17:43_
+_Updated: 2025-11-03 18:48_
 
 ## Top Stories
 
+- DN Direkt – EU-ministern till Brasilien inför klimatmötet - Dagens Nyheter
 - DN Direkt – Förslag: Ska bli lättare för polisen att provocera fram brott - Dagens Nyheter
-- Hemtjänstpersonal misstänks för stölder mot äldre i Partille – åtal väckt - SVT Nyheter
 - Nytt ukrainskt anfall mot Rysslands olja - Västerbottens-Kuriren
-- Ingen svensk minister på klimatmötet i Brasilien - GP
+- Hemtjänstpersonal misstänks för stölder mot äldre i Partille – åtal väckt - SVT Nyheter
+- Oron: ”Kan hamna i samma läge som L” - SvD
 - Regeringen ser över reformstödet till Serbien - Regeringen.se
-- Man åtalas efter överfall på Nydala i Umeå - SVT Nyheter
-- Åtalad nazist om våldsnatten: Skulle ta några bärs - GP
-- Socialtjänsten sågas efter mordet på Shahida - Omni
-- DN Direkt – Förslaget: Stoppa införandet av journalsystemet Millennium - Dagens Nyheter
-- 03 november 13.00, Trafikkontroll, Västernorrlands län - Polisen.se
+- Jönköpings kommun säger nej till möte om återvandring - SVT Nyheter
+- Pojke påkörd i Båstad – förd till sjukhus - SVT Nyheter
+- Åtalad nazist om våldsnatten: Någon form av gruff - Västerbottens-Kuriren
+- Rekommendationen: Skrota Millennium - GP
 - Medeltida torn i Rom rasade - SVT Nyheter
+- Klimatskeptiskt ”bensin-parti” tar plats i Tjeckiens regering - Dagens Nyheter
 - Trumps hot mot Nigeria – ”Modernt korståg” - Hufvudstadsbladet
-- Tyfon på ingång – stora evakueringar - Västerbottens-Kuriren
-- Smugglade 38 kilo kokain med tre barn i bilen - GP
+- 10 år efter Parisavtalet: "Det går för långsamt" - Dagens PS
 - Kimberly-Clark och Kenvue går samman i jätteaffär värd 48,7 miljarder USD - Biostock
-- Så ser arbetslösheten ut i Jämtland – i varje kommun - Cision News
 - Börsen ska upp ännu mer: ”Det här är inte hållbart” - EFN
 - Ica-toppen slår tillbaka – efter nya mediedrevet: ”Kalla det okunskap, populism eller vad du vill” - dagligvarunytt.se
-- Skövde-studions nya spel drar in 125 miljoner - Dagens industri
-- AMD förtydligar läget med RDNA och RDNA 2 - Nordichardware
+- Riksbanken väntas låta styrräntan ligga - Finanswatch.se
+- Arc Raiders var näst största betalspelet på Steam förra veckan - FZ.se
+- Skövde-studions nya spel drar in 125 miljoner - DI
 
 ## World News
 
@@ -40,8 +40,8 @@ _Updated: 2025-11-03 17:43_
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Global Got It All vann med stor segermarginal · Senaste nyheterna om trav - Travronden
@@ -59,30 +59,30 @@ _Updated: 2025-11-03 17:43_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
-- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
-- EU uppmanar techjättar att stoppa AI-desinformation - Omni
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Palantir and Lumen Technologies Join Forces to Accelerate AI-Driven Telecom Transformation - Placera.se
+- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
-- Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
-- BigBear.ai And Palantir Announce Strategic Partnership, Combining AI-powered Products With Next Generation Operating Platform - Placera.se
 
 ## Business
 
 - DeFi Technologies Subsidiary Stillman Digital Partners in Launch of GoDark, an Institutional Dark Pool for Digital Assets Backed by Copper and GSR - Placera.se
 - Transforming Thailand to a digital economy - mastercard.com
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The circular economy in action at Blenheim Palace - mastercard.com
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
