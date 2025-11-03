@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-03 15:47_
+_Updated: 2025-11-03 16:45_
 
 ## Top Stories
 
+- Nytt ukrainskt anfall mot Rysslands olja - Västerbottens-Kuriren
 - Hemtjänstpersonal misstänks för stölder mot äldre i Partille – åtal väckt - SVT Nyheter
 - Man åtalas efter överfall på Nydala - SVT Nyheter
 - Landia om bordellen på Söder: ”Blir hyreslägenheter” - Fastighetsvärlden
-- Läkare Utan Gränser fördömer massakrer i al-Fashir - Örebronyheter
-- Över 100 journalister dödade sedan invasionen - SvD
-- Rysk attackvåg över Ukraina – minst 15 döda - Dagens Nyheter
-- Förslaget: Skrota journalsystemet Millennium i Västra Götalandsregionen - SVT Nyheter
-- Man död efter trafikolycka i Östra Göinge - SVT Nyheter
+- Soi 29 sålt – lokalen på Bergsgatan ska bli gaybar - Sydsvenskan
+- 800 år gammalt torn har kollapsat i Rom - GP
+- DN Direkt – Förslaget: Stoppa införandet av journalsystemet Millennium - Dagens Nyheter
+- Åtalad nazist om våldsnatten: Skulle ta några bärs - GP
 - Socialtjänsten sågas efter mordet på Shahida - Omni
 - 03 november 13.00, Trafikkontroll, Västernorrlands län - Polisen.se
-- Medeltida torn har rasat i centrala Rom - GP
-- Tyfon på ingång – stora evakueringar - Västerbottens-Kuriren
 - Smugglade 38 kilo kokain med tre barn i bilen - Västerbottens-Kuriren
-- Så gick fienderna ihop för att stoppa Mamdani - Dagens Nyheter
+- Tyfon på ingång – stora evakueringar - GP
+- Klimatskeptiskt ”bensin-parti” tar plats i Tjeckiens regering - Dagens Nyheter
+- Pojke påkörd i Båstad - Expressen
 - Kimberly-Clark och Kenvue går samman i jätteaffär värd 48,7 miljarder USD - Biostock
+- Wall Street-bubblan tros spricka – men ingen vet när - Realtid
 - I sju av tio kommuner är lägenhetspriserna lägre än 2021 - Dagens Nyheter
 - Ica-toppen slår tillbaka – efter nya mediedrevet: ”Kalla det okunskap, populism eller vad du vill” - dagligvarunytt.se
-- Nytt lyft för Volvo Cars - Dagens industri
 - Skövde-studions nya spel drar in 125 miljoner - Dagens industri
 - AMD förtydligar läget med RDNA och RDNA 2 - Nordichardware
 
@@ -42,7 +42,7 @@ _Updated: 2025-11-03 15:47_
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Blackstone Credit & Insurance Appoints Laura Coady as Global Head of CLOs and European Head of Liquid Credit Strategies - Placera.se
@@ -102,10 +102,11 @@ _Updated: 2025-11-03 15:47_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
@@ -115,7 +116,6 @@ _Updated: 2025-11-03 15:47_
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 - Erik Selin blir den nya ordförande i cancerbolaget Multi4 Medical AB - it-halsa.se
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 
 ## Science
 
