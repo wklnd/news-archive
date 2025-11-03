@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-04 00:42_
+_Updated: 2025-11-04 01:38_
 
 ## Top Stories
 
-- Två till sjukhus efter kraftig brand i Helsingborg - Aftonbladet
+- Två personer hittade allvarligt skadade i Västerås - SVT Nyheter
+- DN Direkt – Brand i lägenhetsbyggnad i Frösön – man gripen - Dagens Nyheter
 - Partiernas dilemma: nya krafter från sidan tar över - GP
 - Här vill Trump slå till – tränar specialstyrkor - Expressen
-- Provokation löser problem och ger nya - SvD
-- Sparkades medvetslös på gatan: ”Var som en dröm” - Dagens Nyheter
-- Det här handlar oroligheterna i Tanzia om - Hufvudstadsbladet
-- DN Direkt – Kraftig brand i flerfamiljshus – två till sjukhus - Dagens Nyheter
+- Ukraina vill öppna kontor i Berlin och Köpenhamn - Aftonbladet
+- Spänner kärnvapenmusklerna – viftar med atomdrivna torpeder - Dagens Nyheter
+- Åtalad nazist om våldsnatten: Någon form av gruff - Västerbottens-Kuriren
+- DN Direkt – Man hittad död i hamn - Dagens Nyheter
 - EU-ministern deltar i högnivåmöte inför COP30 - Regeringen.se
-- Drunkningsolycka i Tanum - SVT Nyheter
-- Pojke livshotande skadad efter påkörning i Båstad - SVT Nyheter
+- Trots varningar och påstådda åtgärder – sexannonser ledde till bordellhotell - Aftonbladet
 - DN Direkt – Vita huset: Kommer att betala ut matkuponger - Dagens Nyheter
-- Ukraina vill öppna kontor i Berlin och Köpenhamn - Västerbottens-Kuriren
-- Putins nya supervapen - Aftonbladet
-- Straffet för en mans brott – 20 oskyldiga blir hemlösa - Dagens Nyheter
+- Brand i flerfamiljshus – två till sjukhus - Expressen
+- Bildt: Räknar med attack mot Venezuela - SVT Nyheter
+- DN Direkt – Inget mer statsbidrag till Jehovas vittnen - Dagens Nyheter
 - Förslaget: Skrota journalsystemet Millennium i Västra Götalandsregionen - SVT Nyheter
-- Hotar Shein: Förbud om ”barnlika” sexdockor säljs - Aftonbladet
-- Kursras för Essitys konkurrent efter storförvärv - DI
+- Modesajten Shein sålde sexdockor som liknar små barn - Dagens Nyheter
 - Svårt för vindkraften när energiförbrukningen inte ökar - tidningensyre.se
+- Beslut om ny taxemodell för kommunens VA-kunder - Hammarö kommun
 - Arc Raiders får detaljerat uppdateringsschema för 2025 - Nordichardware
-- AMD förtydligar läget med RDNA och RDNA 2 - Nordichardware
+- Lanseringsdatum för Samsung Galaxy S26 kan ha läckt – samtidigt som Samsungs tri-fold verkar närma sig premiär - TechRadar
 
 ## World News
 
@@ -50,20 +50,20 @@ _Updated: 2025-11-04 00:42_
 
 ## Technology
 
-- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
+- Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Palladyne AI Secures U.S. Patent for Advanced Swarming and Autonomy Technology - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
@@ -75,24 +75,24 @@ _Updated: 2025-11-04 00:42_
 
 - DeFi Technologies Subsidiary Stillman Digital Partners in Launch of GoDark, an Institutional Dark Pool for Digital Assets Backed by Copper and GSR - Placera.se
 - Transforming Thailand to a digital economy - mastercard.com
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - The circular economy in action at Blenheim Palace - mastercard.com
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Helius (NASDAQ:HSDT), in Partnership with Pantera Capital and Summer Capital Announces Over $500 Million in Funding to Launch SOL Treasury Company - Placera.se
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Money movement – Evolving expectations of economic migrants - mastercard.com
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -120,6 +120,7 @@ _Updated: 2025-11-04 00:42_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
@@ -128,37 +129,36 @@ _Updated: 2025-11-04 00:42_
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Olika slutsatser från samma data - Läkartidningen
+- The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Maskinförare | Jobb | ATL - Land Lantbruk
-- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
