@@ -1,40 +1,39 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-03 21:38_
+_Updated: 2025-11-03 22:43_
 
 ## Top Stories
 
 - Det här handlar oroligheterna i Tanzia om - Hufvudstadsbladet
 - Newsoms hämnd mot Texas – tar till karttricket - Dagens Nyheter
-- Oron: ”Då hamnar vi i samma läge som L” - SvD
-- Nytt ukrainskt anfall mot Rysslands olja - Västerbottens-Kuriren
-- Ingen svensk minister på klimatmötet i Brasilien - GP
-- Kulturdebatt. ”Ska skolan klara sitt kunskapsuppdrag behövs en kulturförändring” - Dagens Nyheter
-- Åtalad nazist om våldsnatten: Någon form av gruff - Västerbottens-Kuriren
+- Spänner kärnvapenmusklerna – viftar med atomdrivna torpeder - Dagens Nyheter
+- DN Direkt – Förslag: Ska bli lättare för polisen att provocera fram brott - Dagens Nyheter
+- Brand i lägenhetsbyggnad på Frösön – man gripen - Aftonbladet
+- Åtalad nazist om våldsnatten: Någon form av gruff - GP
 - Bil fattade eld efter krock – en till sjukhus - SVT Nyheter
+- DN Direkt – EU-ministern till Brasilien inför klimatmötet - Dagens Nyheter
 - Pojke livshotande skadad efter påkörning i Båstad - SVT Nyheter
-- Hemtjänstpersonal misstänks för stölder mot äldre i Partille – åtal väckt - SVT Nyheter
-- Medeltida torn i Rom rasade - SVT Nyheter
-- Sanna Marin: Jag fick så dumma frågor att hjärnan smälte - Hufvudstadsbladet
-- Han ska regera med Motoristerna – därför ska du bry dig - GP
-- Experten om Trumps korståg i Afrika: ”Tomt hot” - Corren
-- Kimberly-Clark och Kenvue går samman i jätteaffär värd 48,7 miljarder USD - Biostock
+- Moa Berglöf Sydsvenskans nya politiska redaktör: ”Jag vill ge hopp” - Sydsvenskan
+- Vita huset: Kommer att betala ut matkuponger - Västerbottens-Kuriren
+- Ukraina vill öppna kontor i Berlin och Köpenhamn - GP
+- Straffet för en mans brott – 20 oskyldiga blir hemlösa - Dagens Nyheter
+- Kraftig brand i flerfamiljshus – två till sjukhus - Aftonbladet
+- Kursras för Essitys konkurrent efter storförvärv - DI
 - Förslaget: Skrota journalsystemet Millennium i Västra Götalandsregionen - SVT Nyheter
 - Modesajten Shein sålde sexdockor som liknar små barn - Dagens Nyheter
-- Stockholmsbörsen i sidled – Alvotech rasar - DI
+- Alvotech nobbas i USA efter brister i fabrik – dyker på börsen - Life Science Sweden
 - Arc Raiders var näst största betalspelet på Steam förra veckan - FZ.se
-- Skövde-studions nya spel drar in 125 miljoner - DI
+- Lanseringsdatum för Samsung Galaxy S26 kan ha läckt – samtidigt som Samsungs tri-fold verkar närma sig premiär - TechRadar
 
 ## World News
 
 - Wolverine Worldwide Releases 2024 Global Impact Report - Placera.se
 - Sundin ser fram emot Global Series och OS: ”På tiden" - NHL.com
-- Blackstone Credit & Insurance Appoints Laura Coady as Global Head of CLOs and European Head of Liquid Credit Strategies - Placera.se
+- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
+- Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - UPS Acquires Andlauer Healthcare Group for $1.6 Billion, Accelerating Its Expansion as a Global Leader in Complex Healthcare Logistics - Business Wire
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
@@ -42,34 +41,35 @@ _Updated: 2025-11-03 21:38_
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Global Got It All vann med stor segermarginal · Senaste nyheterna om trav - Travronden
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Blackstone Credit & Insurance Appoints Laura Coady as Global Head of CLOs and European Head of Liquid Credit Strategies - Placera.se
 - CGI positioned as a Leader in the IDC MarketScape for Worldwide AI Services for State and Local Government 2025 - Placera.se
 
 ## Technology
 
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
-- Nvidia stock price prediction: Will NVDA Stock Hit $200 in 2025? - Markets.com
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Palladyne AI Secures U.S. Patent for Advanced Swarming and Autonomy Technology - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 
 ## Business
 
@@ -82,7 +82,7 @@ _Updated: 2025-11-03 21:38_
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- (PDF) Statlig finansiering till småföretag? (Public Funding for Small Firms?) - researchgate.net
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
@@ -120,6 +120,7 @@ _Updated: 2025-11-03 21:38_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
@@ -128,17 +129,16 @@ _Updated: 2025-11-03 21:38_
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Olika slutsatser från samma data - Läkartidningen
+- The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
 
 ## Jordbruk
 
