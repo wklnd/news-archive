@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-04 10:55_
+_Updated: 2025-11-04 11:51_
 
-- Trump administration says it is paying out half of November’s SNAP benefits - The Washington Post
 - Trump threatens to cut funds if ‘communist’ Mamdani wins mayoral election - The Guardian
-- One year out from Election Day 2026, Tuesday's results could shape 2026 midterms - ABC News
+- Trump administration says it is paying out half of November’s SNAP benefits - The Washington Post
+- Three key races, California's map and the Trump factor - what to watch in US elections - BBC
+- Tariffs have been Donald Trump's personal crusade. Now, a Supreme Court test - ABC News
 - Education Department sued over new student loan forgiveness rule - Axios
-- Trump’s Tariffs and Push Against Limits Face Election and Court Tests - The New York Times
 - Thune says extended shutdown means Senate needs to shift date on funding government - ABC News
 - NYC mayoral candidates make final push ahead of Election Day - AP News
 - Trump's plans to restart nuclear testing likely won't produce any mushroom clouds, experts say - CBS News
-- Supreme Court cannot stop all of Trump's tariffs. Deal with it, officials say - Reuters
-- Orange County Mayor Demings makes bid for Florida governor official - Politico
+- Reaganomics in Jersey: Jack Ciattarelli has a supply-side dream if he’s elected governor this week - Politico
+- What the Virginia Governor Election Might Portend for Trump - The New York Times
 - Israel rocked by scandal as top military lawyer is thrown into jail - NPR
 - Jamaica rushes to prepare for peak tourism season as it digs out from Hurricane Melissa - AP News
-- Tanzania: Unlawful killings and other human rights violations continue amid internet and electricity blackouts - Amnesty International
-- Calls for legal right to paid leave for IVF treatment - BBC
+- Afghanistan's historic Blue Mosque damaged by earthquake - DW
+- Tanzania’s president blames foreigners for deadly protests after disputed election - PBS
 - Starbucks to sell majority stake in China business to Boyu Capital - Financial Times
-- Kimberly-Clark Strikes $40 Billion Deal for Tylenol Maker Kenvue - The Wall Street Journal
-- Amazon’s Deal With OpenAI Just Made Jeff Bezos $10 Billion Richer - Forbes
-- Wall Street CEOs Warn of Market Pullback From Rich Valuations - Bloomberg.com
+- Amazon Stock Jumps on $38 Billion OpenAI Deal. What We Know. - Barron's
+- Wall Street CEOs Warn of Market Pullback From Rich Valuations - Bloomberg
+- Google Spurns Disney Request to YouTube TV Restore ABC on Election Night - Variety
 - Apple releases iOS 26.1, macOS 26.1, other updates with Liquid Glass controls and more - Ars Technica
 - Get the new Apple Watch Ultra 3 for $100 off - Engadget
