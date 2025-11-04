@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-04 19:41_
+_Updated: 2025-11-04 20:49_
 
 ## Top Stories
 
-- Kallades mutpengar – FN-organet: ”Vi sysslar inte med tvång” - Dagens Nyheter
+- Fyra anhållna efter mord på kvinna i Västerås - Sydsvenskan
 - Gymsabotören dömd igen – nu blir det fängelse - GP
-- Förberedelse av IS-terrordåd – nu ska åtal väckas - SVT Nyheter
-- Segertippad i New York: ”Inspireras av Finland” - Hufvudstadsbladet
-- Kristersson försvarar kick off på Harpsund - Västerbottens-Kuriren
+- Pressinbjudan: Åtal i ärende om förberedelse till terroristbrott i Stockholm - Åklagarmyndigheten
+- ”Zohran är en av få som tar kampen mot Trump” - Dagens Nyheter
+- Åklagaren om filmerna: ”Skrattade när målsägandena agerar” - NWT
 - Varg dödade tre alpackor - Aftonbladet
-- Elisabeth Thand Ringqvist föreslås bli ny c-ledare – ”Ett naturligt val” - Dagens Arena
 - Cyklist i 90-årsåldern till sjukhus – krockade med buss - UNT
+- Man stickskadad i Malmö - TV4 Nyheterna
+- Kallades mutpengar – FN-organet: ”Vi sysslar inte med tvång” - Dagens Nyheter
 - Vittne om misshandeln av Mohammad: ”De skrattade, som om de hade roligt” - Dagens Nyheter
-- Stor sexbrottshärva i Karlstad – flera personer åtalas för grova våldtäkter: ”Råhet” - NWT
-- Ryska styrkor pressar Pokrovsk – Ukraina kämpar för nyckelstad - Dagens Nyheter
-- Bushs parhäst Dick Cheney är död - Västerbottens-Kuriren
-- ”Tappat räkningen på alla våldtäktshot” - Hufvudstadsbladet
-- Ödesmöte för EU:s klimatmål - GP
-- Deutsche Telekom och Nvidia bygger tyskt AI-datacenter för 11 miljarder - Computer Sweden
-- Spotify bättre än väntat – men aktien sjunker - SvD
-- SKULLE KÖPA AKTIEN I DAG - DNB CAR - Placera.se
-- Läkarförbundet Skåne om Millennium: ”Då skjuter man sig i foten” - Dagens Medicin
+- Karin Eriksson: Vad hade hänt om de svenska statsministrarna hade lyssnat på Sanna Marins varning? - Dagens Nyheter
+- Ödesmöte för EU:s klimatmål - Västerbottens-Kuriren
+- Så blev Ukrainas drönare krigets vinnare - Dagens PS
+- Zelenskyj besöker soldater nära Pokrovsk - GP
+- PRO försvarar sin prisundersökning: ”Vi har inte samma varor som förra året” - dagligvarunytt.se
+- Affärsvärlden stannar vid ett neutralt råd för Hacksaw - Placera.se
+- Spotify bättre än väntat – vinstlyft 28 procent - Aftonbladet
+- Nya Black Friday-fusket: Så rundar butiken lagen - SvD
 - macOS Tahoe 26.1 är här – detta är de 5 största nyheterna för din Mac - TechRadar
 - Bilden klarnar av universum – men mycket är okänt - Uppsala universitet
 
@@ -29,24 +29,24 @@ _Updated: 2025-11-04 19:41_
 
 - Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
 - Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
+- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - UPS Acquires Andlauer Healthcare Group for $1.6 Billion, Accelerating Its Expansion as a Global Leader in Complex Healthcare Logistics - Business Wire
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Nepali woman headed to Germany stopped at Delhi airport, sent back. India clarifies why | Latest News India - Hindustan Times
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
 - Påvlig akademi ser global vetenskaplig frihet hotad - Vatican News
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- New Secretary General appointed - Olof Palme International Center
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - New Global Research Reveals Employee Growth Is the Key to Business Resilience in the Age of AI and Workforce Transformation - Placera.se
 - Sundin ser fram emot Global Series och OS: ”På tiden" - NHL.com
-- Dow Jones Newswires Launches AI-Powered French Language Service, Expanding Global Real-Time Financial News Delivery - Placera.se
 
 ## Technology
 
@@ -54,12 +54,11 @@ _Updated: 2025-11-04 19:41_
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
@@ -67,6 +66,7 @@ _Updated: 2025-11-04 19:41_
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - Palladyne AI Secures U.S. Patent for Advanced Swarming and Autonomy Technology - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
@@ -102,20 +102,20 @@ _Updated: 2025-11-04 19:41_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - The Apollo University and Apollo Hospitals Partner with the University of Leicester to Establish the Centre for Digital Health and Precision Medicine in India. - Apollo Hospitals
-- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- The Lancet tar grepp om hälsa och klimat - Läkartidningen
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
+- Stora risker med kvalitetsbrister i globala hälsosystem - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Matvanor för god hälsa och miljö - Läkartidningen
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -152,13 +152,13 @@ _Updated: 2025-11-04 19:41_
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
+- Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
