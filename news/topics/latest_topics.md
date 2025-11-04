@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-04 22:43_
+_Updated: 2025-11-04 23:39_
 
 ## Top Stories
 
-- Flygplatsen i Bryssel hålls stängd efter larm om drönare - SVT Nyheter
+- Hela Belgiens luftrum stängdes efter drönarlarm - SVT Nyheter
 - Bråket om Västtrafik – och biljettpriserna: ”Skrämselpropaganda” - GP
-- "Förlorade" mot Demirok – nu föreslås hon bli ny C-ledare - Corren
+- Mardrömsresa till Tanzania – planet lyfte trots avrådan - GP
 - Polisen efter våldsdådet på Gryta: "Att skapa trygghet är något vi alla gör tillsammans" - Västerås Tidning
+- Ledare: Centerskivan har hakat upp sig - NWT
 - Regeringens feminism gäller bara Romina Pourmokhtari – inte kvinnor med riktiga jobb - Arbetet
-- ”Zohran är en av få som tar kampen mot Trump” - Dagens Nyheter
 - Nytt regelverk för bygglov - Habo kommun
-- Kristersson försvarar kick off på Harpsund - Västerbottens-Kuriren
 - Cyklist i 90-årsåldern till sjukhus – krockade med buss - UNT
-- Kallades mutpengar – FN-organet: ”Vi sysslar inte med tvång” - Dagens Nyheter
-- Dick Cheney beskylldes ibland för att vara mer president än presidenten - GP
+- DN Direkt – UD avråder från alla resor till Mali - Dagens Nyheter
+- Man stickskadad på Sofielund i Malmö - SVT Nyheter
+- Valrysarna i USA: Vinna eller försvinna för Demokraterna - Dagens Nyheter
 - Ödesmöte för EU:s klimatmål - Västerbottens-Kuriren
-- Ryska styrkor pressar Pokrovsk – Ukraina kämpar för nyckelstad - Dagens Nyheter
-- ”Tappat räkningen på alla våldtäktshot” - Hufvudstadsbladet
+- Zelenskyj besöker soldater nära Pokrovsk - GP
+- DN Direkt – Bil körde in i hus i Lund – föraren lämnade till fots - Dagens Nyheter
 - Nya Black Friday-fusket: Så rundar butiken lagen - SvD
-- Köttbrist driver upp priserna till rekordnivåer - Dagens Nyheter
 - Draget som kan ha kostat dig 50 000 kronor - SvD
-- Affärsvärlden stannar vid ett neutralt råd för Hacksaw - Placera.se
+- Köttbrist driver upp priserna till rekordnivåer - Dagens Nyheter
+- The Big short-investeraren Michael Burry satsar stort på nedgång i Palantir och Nvidia - Placera.se
 - Arc Raiders får detaljerat uppdateringsschema för 2025 - Nordichardware
 - Bilden klarnar av universum – men mycket är okänt - Uppsala universitet
 
@@ -58,6 +58,7 @@ _Updated: 2025-11-04 22:43_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
@@ -65,7 +66,6 @@ _Updated: 2025-11-04 22:43_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - Palladyne AI Secures U.S. Patent for Advanced Swarming and Autonomy Technology - Placera.se
-- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 - XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
@@ -111,11 +111,11 @@ _Updated: 2025-11-04 22:43_
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
