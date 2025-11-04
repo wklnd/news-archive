@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-04 15:50_
+_Updated: 2025-11-04 16:46_
 
 ## Top Stories
 
-- Karin Glenmark är död – blev 73 år - Aftonbladet
-- Elisabeth Thand Ringqvist föreslås som ny C-ledare - SVT Nyheter
-- Björn af Kleen: Därför kan klasskampsretoriken leda till vinst i New York - Dagens Nyheter
-- 03 november 21.50, Mord/dråp, Västerås - polisen.se
-- Fick ingen lön på Stegra – ska hungerstrejka i Boden - Omni
-- Fångad i Irak – så lyckades Alexandra fly från sin familj - Sydsvenskan
-- Förberedelse av IS-terrordåd – nu ska åtal väckas - SVT Nyheter
+- Elisabeth Thand Ringqvist föreslås bli ny c-ledare – ”Ett naturligt val” - Dagens Arena
+- Polisens misstanke: Kvinnan mördad av anhöriga i Västerås - Expressen
+- Gästarbetare i Boden planerar hungerstrejk: ”Vill ha rättvisa” - Aftonbladet
+- Förslag på ändringar i kostnadsutjämningen för kommuner - Regeringen.se
+- Direkt – Kriget i Ukraina – Flera explosioner i Ryssland under natten - Dagens Nyheter
+- Israelisk toppdiplomat i angrepp mot Mamdani - SvD
+- DN Direkt – 18-åring åtalas för förberedelse till terroristbrott - Dagens Nyheter
 - JUST NU: Stor sexbrottshärva i Karlstad – flera personer åtalas för grova våldtäkter: ”Råhet” - NWT
+- Häktad för att ha försökt sälja sprit till pojkar - SVT Nyheter
 - Sperma på väggar – kvinna bakom thaisalong döms - Västerbottens-Kuriren
-- Barn på elsparkcykel påkört av lastbil - SVT Nyheter
-- Bushs parhäst Dick Cheney är död - Västerbottens-Kuriren
+- Dick Cheney är död – blev 84 år - Dagens Nyheter
 - ”Tappat räkningen på alla våldtäktshot” - Hufvudstadsbladet
-- Ödesmöte för EU:s klimatmål - GP
-- Anfall mot ryska oljan – 140 mil från Moskva - Dagens Nyheter
-- Kraftigt vinstlyft för Spotify – upp 28 procent - Dagens Nyheter
-- Nya Black Friday-fusket: Så rundar butiken lagen - SvD
-- Deutsche Telekom och Nvidia lanserar industriell AI-molntjänst - Placera.se
+- Ödesmöte för EU:s klimatmål - Västerbottens-Kuriren
+- Socialtjänstministern deltar i världstoppmöte för social utveckling i Doha - Regeringen.se
+- PRO försvarar sin prisundersökning: ”Vi har inte samma varor som förra året” - dagligvarunytt.se
+- Deutsche Telekom lanserar datacenter med Nvidia - Aftonbladet
 - Analyshus spår positiv reaktion för Boozt-aktien - Dagens industri
-- Bilden klarnar av universum – men mycket är okänt - Uppsala universitet
+- Oljefonden säger nej till jättebonus till Musk - Dagens Nyheter
 - macOS Tahoe 26.1 är här – detta är de 5 största nyheterna för din Mac - TechRadar
+- Bilden klarnar av universum – men mycket är okänt - Uppsala universitet
 
 ## World News
 
 - Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
+- Wolverine Worldwide Releases 2024 Global Impact Report - Placera.se
+- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - UPS Acquires Andlauer Healthcare Group for $1.6 Billion, Accelerating Its Expansion as a Global Leader in Complex Healthcare Logistics - Business Wire
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- New Secretary General appointed - Olof Palme International Center
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- S&P Global förvärvar With Intelligence (Finwire News) - Aktiellt
 - Sundin ser fram emot Global Series och OS: ”På tiden" - NHL.com
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- CGI positioned as a Leader in the IDC MarketScape for Worldwide AI Services for State and Local Government 2025 - Placera.se
+- Adtalem Global Education Inc. Investigated for Securities Fraud Violations - Contact the DJS Law Group to Discuss Your Rights – ATGE - Placera.se
 
 ## Technology
 
@@ -77,11 +77,11 @@ _Updated: 2025-11-04 15:50_
 - Transforming Thailand to a digital economy - mastercard.com
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - The circular economy in action at Blenheim Palace - mastercard.com
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
@@ -107,15 +107,15 @@ _Updated: 2025-11-04 15:50_
 - Johan von Schreeb - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Stora risker med kvalitetsbrister i globala hälsosystem - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 - Fysisk aktivitet kan ha omedelbar effekt på depression och ångest - Läkartidningen
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
