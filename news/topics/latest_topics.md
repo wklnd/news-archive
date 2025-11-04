@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-04 09:40_
+_Updated: 2025-11-04 10:50_
 
 ## Top Stories
 
 - Kvinna mördad – fyra anhållna i Västerås - SvD
+- Uppgifter: Hon förelås bli ny C-ledare - DI
+- Fem punkter för att få koll på valet i New York - Dagens Nyheter
 - ”Barnen kommer inte att räddas förrän vi hittar dem” - Dagens Nyheter
-- Fångad i Irak – så lyckades Alexandra fly från sin familj - Sydsvenskan
-- Många fel drabbar tågtrafiken under morgonen - Aftonbladet
-- Partiernas dilemma: nya krafter från sidan tar över - GP
-- Massevakuering när tyfon drabbar Filippinerna - Västerbottens-Kuriren
-- Uppgift: C presenterar sitt förslag till ny partiledare idag - SVT Nyheter
+- Tågstrul mellan Uppsala och Stockholm - TV4 Nyheterna
+- Från polarisering till förening - SvD
+- Barn på elsparkcykel påkört av lastbil - SVT Nyheter
+- Sveriges klimatprojekt utomlands – var tredje har misslyckats - SVT Nyheter
+- Hemlig diplomatisk insats fick hem bortförd svensk tonåring - Sydsvenskan
 - Miljörådet ska enas om EU:s NDC - Regeringen.se
-- DN Direkt – EU-ministern till Brasilien inför klimatmötet - Dagens Nyheter
-- 03 november 07.06, Sammanfattning natt, Jämtlands län - polisen.se
-- Toppmöte i Karibien skjuts upp - GP
+- Minst fem döda i tyfon på Filippinerna - Västerbottens-Kuriren
 - 13 döda i skottlossning i Mexiko - Expressen
-- Turkiska raffinaderier drar ned på rysk olja - Västerbottens-Kuriren
-- Ryskt raffinaderi anfallet – 140 mil från Moskva - Västerbottens-Kuriren
+- En död efter raset i Rom - Corren
+- Turkiska raffinaderier drar ned på rysk olja - GP
 - Nya Black Friday-fusket: Så rundar butiken lagen - SvD
-- Swedbank: Ekonomins återhämtning är här - Västerbottens-Kuriren
-- Analys: Tre allvarliga hot mot AI-börsrallyt - Dagens PS
-- Förslag till VGR: Skrota Millennium - Upphandling24
+- Swedbank: Ekonomins återhämtning är här - Tidningen Näringslivet
+- När spricker AI-bubblan? - Aftonbladet
+- Oljefonden säger nej till jättebonus till Musk - Dagens Nyheter
 - Arc Raiders får detaljerat uppdateringsschema för 2025 - Nordichardware
 - iOS 26.1 är här – detta är de 5 största nyheterna för din iPhone - TechRadar
 
@@ -37,8 +37,8 @@ _Updated: 2025-11-04 09:40_
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- UPS Acquires Andlauer Healthcare Group for $1.6 Billion, Accelerating Its Expansion as a Global Leader in Complex Healthcare Logistics - Business Wire
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- UPS Acquires Andlauer Healthcare Group for $1.6 Billion, Accelerating Its Expansion as a Global Leader in Complex Healthcare Logistics - Business Wire
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
@@ -56,13 +56,12 @@ _Updated: 2025-11-04 09:40_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
+- Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
+- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
@@ -70,6 +69,7 @@ _Updated: 2025-11-04 09:40_
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
+- BigBear.ai And Palantir Announce Strategic Partnership, Combining AI-powered Products With Next Generation Operating Platform - Placera.se
 
 ## Business
 
@@ -92,7 +92,7 @@ _Updated: 2025-11-04 09:40_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Money movement – Evolving expectations of economic migrants - mastercard.com
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 
 ## Health
 
@@ -107,15 +107,15 @@ _Updated: 2025-11-04 09:40_
 - Johan von Schreeb - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Stora risker med kvalitetsbrister i globala hälsosystem - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Fysisk aktivitet kan ha omedelbar effekt på depression och ångest - Läkartidningen
-- Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 - CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
+- Människorättsbaserat arbetssätt ger vårdpersonal viktiga verktyg - Läkartidningen
+- Erik Selin blir den nya ordförande i cancerbolaget Multi4 Medical AB - it-halsa.se
 
 ## Science
 
@@ -123,22 +123,22 @@ _Updated: 2025-11-04 09:40_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
-- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
-- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
 - The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Olika slutsatser från samma data - Läkartidningen
+- Nordic Network for Diversity in Physics (NORNDiP) 2025 - Chalmers tekniska högskola
 
 ## Jordbruk
 
