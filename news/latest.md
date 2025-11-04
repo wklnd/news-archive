@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-04 09:48_
+_Updated: 2025-11-04 10:55_
 
-- Trump Administration Live Updates: White House Says It Will Make Only Partial SNAP Payments This Month - The New York Times
+- Trump administration says it is paying out half of November’s SNAP benefits - The Washington Post
 - Trump threatens to cut funds if ‘communist’ Mamdani wins mayoral election - The Guardian
+- One year out from Election Day 2026, Tuesday's results could shape 2026 midterms - ABC News
 - Education Department sued over new student loan forgiveness rule - Axios
-- Trump saw a segment on Fox News. Within an hour, he was laser-focused on Christians’ treatment in Nigeria - CNN
-- Live Results: California 2025 election on Proposition 50 - PBS
+- Trump’s Tariffs and Push Against Limits Face Election and Court Tests - The New York Times
 - Thune says extended shutdown means Senate needs to shift date on funding government - ABC News
 - NYC mayoral candidates make final push ahead of Election Day - AP News
 - Trump's plans to restart nuclear testing likely won't produce any mushroom clouds, experts say - CBS News
-- Orange County Mayor Demings makes bid for Florida governor official - Politico
 - Supreme Court cannot stop all of Trump's tariffs. Deal with it, officials say - Reuters
-- Israel’s top military lawyer arrested after she admitted leaking video of soldiers’ abuse - The Guardian
+- Orange County Mayor Demings makes bid for Florida governor official - Politico
+- Israel rocked by scandal as top military lawyer is thrown into jail - NPR
 - Jamaica rushes to prepare for peak tourism season as it digs out from Hurricane Melissa - AP News
 - Tanzania: Unlawful killings and other human rights violations continue amid internet and electricity blackouts - Amnesty International
-- Rome tower collapse near Colosseum leaves one trapped - DW
+- Calls for legal right to paid leave for IVF treatment - BBC
+- Starbucks to sell majority stake in China business to Boyu Capital - Financial Times
 - Kimberly-Clark Strikes $40 Billion Deal for Tylenol Maker Kenvue - The Wall Street Journal
-- Starbucks to sell control of China business to Boyu, aims for rapid growth - Reuters
-- Jeff Bezos Becomes $10 Billion Richer As Amazon’s OpenAI Deal Boosts Stock - Forbes
-- Google Spurns Disney Request to YouTube TV Restore ABC on Election Night - Variety
+- Amazon’s Deal With OpenAI Just Made Jeff Bezos $10 Billion Richer - Forbes
+- Wall Street CEOs Warn of Market Pullback From Rich Valuations - Bloomberg.com
 - Apple releases iOS 26.1, macOS 26.1, other updates with Liquid Glass controls and more - Ars Technica
-- Google Discusses Digital PR Impact On AI Recommendations - Search Engine Journal
+- Get the new Apple Watch Ultra 3 for $100 off - Engadget
