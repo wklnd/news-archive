@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-04 18:55_
+_Updated: 2025-11-04 19:48_
 
-- Dick Cheney remembered as ‘steady’, influential force in US politics - The Guardian
-- The First Big Elections of the New Trump Era Are Today. Here’s What to Look For. - The New York Times
-- New York City 2025 mayoral election results: Mamdani, Cuomo, Sliwa face off in mayor's race - ABC News
+- Dick Cheney, powerful vice president during war on terrorism, dies at 84 - The Washington Post
+- Can Democrats mount a comeback? Look to Tuesday’s elections for clues. - Politico
+- Live NYC mayoral election results: Zohran Mamdani, Andrew Cuomo and Curtis Sliwa face off - The Guardian
+- Department of Transportation might be forced to shut down some airspace next week: Duffy - ABC News
+- Trump says SNAP food stamp benefits won't be paid until shutdown ends, sparking confusion - CBS News
 - Virginia governor’s race will test Trump and Democrats nationally — and make history - AP News
-- US government shutdown ties record, as congressional inaction takes toll - Reuters
-- Supreme Court prepares to weigh tariffs fight in test of Trump's power - CBS News
 - Could a win on California’s Prop 50 aid Gavin Newsom’s presidential hopes? - The Guardian
-- Investigators believe car carrying missing California girl had license plate swapped to avoid detection - NBC News
-- New Jersey’s race for governor puts Trump to the test - Politico
-- CBS posts full transcript, video of Trump interview with '60 Minutes,' prompting outcry over edits left on cutting room floor - Fortune
+- 2 men arrested in explosion at Harvard Medical School: FBI - ABC News
+- US government shutdown ties record, as congressional inaction takes toll - Reuters
+- Trump threatens to cut federal funds for New York City if Mamdani wins mayoral race - France 24
+- Setting up clash with AG, Levin names judge to probe Sde Teiman leak in her stead - The Times of Israel
 - Reeves lays ground for painful Budget, but will it be worth it? - BBC
-- Typhoon Kalmaegi leaves at least 26 dead in Philippines, with survivors trapped on roofs and in cars - AP News
-- Israel rocked by scandal as top military lawyer is thrown into jail - NPR
-- Afghanistan's historic Blue Mosque damaged by earthquake - DW
-- Norway's mega wealth fund to reject Elon Musk's $1 trillion Tesla pay package - CNBC
+- Medieval tower collapses in Rome’s historic center, killing one - The Washington Post
+- Germany's Merz calls for repatriation of Syrians as far-right surges - Reuters
+- Norway Wealth Fund to Vote Against Musk’s Record Tesla Pay Plan - Bloomberg
 - Yum Brands Explores Sale of Pizza Hut - The Wall Street Journal
-- Novo Nordisk and Pfizer sweeten offers for Metsera as bidding war intensifies - Financial Times
-- Wall St falls after big banks warn of market pullback; Palantir slides - Reuters
+- "Layoff boomerangs" suggest replacing workers with AI isn't sticking - Axios
+- Stocks drop on rising fears about AI stock valuations, Palantir leads decline: Live updates - CNBC
 - Motorola introduces its latest takes on the Moto G and Moto G Play phones - Engadget
 - It's hard to believe, but the Exynos 2600 AP reportedly benchmarks at Apple M5 levels - PhoneArena
