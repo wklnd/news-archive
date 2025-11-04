@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-04 11:51_
+_Updated: 2025-11-04 12:53_
 
 - Trump threatens to cut funds if ‘communist’ Mamdani wins mayoral election - The Guardian
 - Trump administration says it is paying out half of November’s SNAP benefits - The Washington Post
+- The White House’s Plan A is winning its Supreme Court tariff case. It also has a Plan B. - Politico
+- For first time in long US government shutdown, hints of progress toward reopening - Reuters
+- Worker dies after partial collapse of medieval tower in Rome - BBC
+- US designates Nigeria 'Country of Particular Concern' after Trump threat over alleged attacks on Christians - ABC News
 - Three key races, California's map and the Trump factor - what to watch in US elections - BBC
-- Tariffs have been Donald Trump's personal crusade. Now, a Supreme Court test - ABC News
-- Education Department sued over new student loan forgiveness rule - Axios
-- Thune says extended shutdown means Senate needs to shift date on funding government - ABC News
-- NYC mayoral candidates make final push ahead of Election Day - AP News
-- Trump's plans to restart nuclear testing likely won't produce any mushroom clouds, experts say - CBS News
-- Reaganomics in Jersey: Jack Ciattarelli has a supply-side dream if he’s elected governor this week - Politico
-- What the Virginia Governor Election Might Portend for Trump - The New York Times
+- US nuclear weapons testing can forever scar a nation. Just ask the Marshall Islands - CNN
+- Trump’s policies and inflation drive governor’s race in New Jersey, where GOP has been making gains - AP News
+- Trump’s ‘60 Minutes’ interview: Fact-checking his statements on nuclear weapons, Mamdani, ICE - PolitiFact
+- UK's Reeves paves way for tax rises in her next budget - Reuters
 - Israel rocked by scandal as top military lawyer is thrown into jail - NPR
 - Jamaica rushes to prepare for peak tourism season as it digs out from Hurricane Melissa - AP News
-- Afghanistan's historic Blue Mosque damaged by earthquake - DW
-- Tanzania’s president blames foreigners for deadly protests after disputed election - PBS
-- Starbucks to sell majority stake in China business to Boyu Capital - Financial Times
+- Ukraine: Battle for Pokrovsk intensifies as Russia advances - DW
+- Starbucks to sell control of China business to Boyu, aims for rapid growth - Reuters
+- Stock futures are down slightly after AI stocks start November strong: Live updates - CNBC
 - Amazon Stock Jumps on $38 Billion OpenAI Deal. What We Know. - Barron's
-- Wall Street CEOs Warn of Market Pullback From Rich Valuations - Bloomberg
-- Google Spurns Disney Request to YouTube TV Restore ABC on Election Night - Variety
+- Wall Street CEOs Warn of Market Pullback From Rich Valuations - Bloomberg.com
 - Apple releases iOS 26.1, macOS 26.1, other updates with Liquid Glass controls and more - Ars Technica
-- Get the new Apple Watch Ultra 3 for $100 off - Engadget
+- Excessive stress alerts on your Galaxy Watch stressing you out? You're not alone - SamMobile
