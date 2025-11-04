@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-04 23:48_
+_Updated: 2025-11-05 00:48_
 
-- One year out from Election Day 2026, Tuesday's results could shape 2026 midterms - ABC News
-- Live NYC mayoral election results: Zohran Mamdani, Andrew Cuomo and Curtis Sliwa face off - The Guardian
+- NYC Mayoral Election Live Updates: Mamdani, Cuomo and Sliwa Put Their Fates in Voters' Hands - The New York Times
 - Dick Cheney, powerful vice president during war on terrorism, dies at 84 - The Washington Post
+- Trump’s former trade architect says the president can’t backtrack on tariffs because he’s ‘too committed’ now: ‘That would be a pretty horrific decision’ - Fortune
 - Everything you need to know about California Democrats' redistricting measure - Politico
-- Small Businesses Gear Up for Tariff Fight at Supreme Court - The New York Times
-- Government shutdown set to become longest ever after latest Senate vote fails - CNBC
-- 2 Massachusetts men arrested in Harvard Medical School explosion - CBS News
+- NBC News Exit Poll: Voters disapprove of Trump in New Jersey, Virginia and other key races - NBC News
+- US to Send SNAP Funds Despite Trump Post, White House Says - Bloomberg
+- Outline of potential deal to end government shutdown emerges as senators continue talks - CBS News
+- 2 young men arrested in explosion at Harvard Medical School: FBI - ABC News
 - D.C. ‘sandwich guy’ goes on trial, says prosecution is half-baked - The Washington Post
 - US could see closed airspace, "mass chaos" next week if shutdown doesn't end, Duffy warns - Axios
-- US elections 2025 live: Mamdani refuses to be ‘intimidated’ by Trump jibes as New York City, New Jersey, Virginia and California vote - The Guardian
-- Former top Israeli military legal officer arrested after admitting to leaking video of alleged detainee abuse - CBS News
+- Israel receives remains said to be of deceased hostage held in Gaza - CNN
 - Typhoon Kalmaegi leaves at least 26 dead in Philippines, with survivors trapped on roofs and in cars - AP News
-- Why does lower UK productivity mean tax rises are more likely? - BBC
-- ‘The whole place is blown apart’: 90% of Jamaican town’s homes destroyed - The Seattle Times
-- Norway’s wealth fund vote is latest blow to Musk’s $1 trillion pay package - TechCrunch
+- Setting up clash with AG, Levin names judge to probe Sde Teiman leak in her stead - The Times of Israel
+- Brazil's president calls for investigation after 121 killed in police operation against gang: "There was a massacre" - CBS News
+- AMD Reports Third Quarter 2025 Financial Results - AMD
 - Worsening listeria outbreak tied to pasta products kills 6, hospitalizes 25 - NPR
+- Pizza Hut's parent explores sale of struggling chain - BBC
 - Stocks close lower hit by AI valuation concerns, Nasdaq drops 2% after Palantir earnings - CNBC
-- Palantir Earnings ‘Best Results’ by Software Company Ever, CEO Says. Why the Stock Is Tumbling. - Barron's
-- Apple Prepares to Enter Low-Cost Laptop Market for First Time - Bloomberg.com
-- Google’s entire Pixel 10 lineup is up to 25 percent off for the first time - The Verge
+- Apple Prepares to Enter Low-Cost Laptop Market for First Time - Bloomberg
+- iOS 26.2 updates Liquid Glass slider to customize your Lock Screen - 9to5Mac
