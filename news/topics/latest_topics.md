@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-04 21:38_
+_Updated: 2025-11-04 22:43_
 
 ## Top Stories
 
-- Fyra anhållna efter mord på kvinna i Västerås - Västerbottens-Kuriren
-- Kan hon verkligen rädda Centerpartiet? - UNT
-- Förberedelse av IS-terrordåd – nu ska åtal väckas - SVT Nyheter
-- Sex personer åtalas – misstänks ha filmat grova våldtäkter mot funktionsnedsatta - Dagens Nyheter
-- Kallades mutpengar – FN-organet: ”Vi sysslar inte med tvång” - Dagens Nyheter
-- Gymsabotören dömd igen – nu blir det fängelse - GP
-- Cyklist i 90-årsåldern till sjukhus – krockade med buss - UNT
+- Flygplatsen i Bryssel hålls stängd efter larm om drönare - SVT Nyheter
+- Bråket om Västtrafik – och biljettpriserna: ”Skrämselpropaganda” - GP
+- "Förlorade" mot Demirok – nu föreslås hon bli ny C-ledare - Corren
+- Polisen efter våldsdådet på Gryta: "Att skapa trygghet är något vi alla gör tillsammans" - Västerås Tidning
+- Regeringens feminism gäller bara Romina Pourmokhtari – inte kvinnor med riktiga jobb - Arbetet
+- ”Zohran är en av få som tar kampen mot Trump” - Dagens Nyheter
+- Nytt regelverk för bygglov - Habo kommun
 - Kristersson försvarar kick off på Harpsund - Västerbottens-Kuriren
-- Man stickskadad på Sofielund i Malmö - SVT Nyheter
-- Ministern: Slå ihop fler små kommuner – pekar särskilt ut Västsverige - GP
-- Valrysarna i USA: Vinna eller försvinna för Demokraterna - Dagens Nyheter
-- Zelenskyj besöker soldater nära Pokrovsk - Västerbottens-Kuriren
+- Cyklist i 90-årsåldern till sjukhus – krockade med buss - UNT
+- Kallades mutpengar – FN-organet: ”Vi sysslar inte med tvång” - Dagens Nyheter
 - Dick Cheney beskylldes ibland för att vara mer president än presidenten - GP
+- Ödesmöte för EU:s klimatmål - Västerbottens-Kuriren
+- Ryska styrkor pressar Pokrovsk – Ukraina kämpar för nyckelstad - Dagens Nyheter
 - ”Tappat räkningen på alla våldtäktshot” - Hufvudstadsbladet
+- Nya Black Friday-fusket: Så rundar butiken lagen - SvD
 - Köttbrist driver upp priserna till rekordnivåer - Dagens Nyheter
 - Draget som kan ha kostat dig 50 000 kronor - SvD
-- PRO försvarar sin prisundersökning: ”Vi har inte samma varor som förra året” - dagligvarunytt.se
 - Affärsvärlden stannar vid ett neutralt råd för Hacksaw - Placera.se
-- Bilden klarnar av universum – men mycket är okänt - Uppsala universitet
 - Arc Raiders får detaljerat uppdateringsschema för 2025 - Nordichardware
+- Bilden klarnar av universum – men mycket är okänt - Uppsala universitet
 
 ## World News
 
 - Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
+- Wolverine Worldwide Releases 2024 Global Impact Report - Placera.se
+- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - UPS Acquires Andlauer Healthcare Group for $1.6 Billion, Accelerating Its Expansion as a Global Leader in Complex Healthcare Logistics - Business Wire
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - ABC News
 - Nepali woman headed to Germany stopped at Delhi airport, sent back. India clarifies why | Latest News India - Hindustan Times
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Armand Duplantis soars to third world title and 14th world record - BBC
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- New Global Research Reveals Employee Growth Is the Key to Business Resilience in the Age of AI and Workforce Transformation - Placera.se
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- S&P Global förvärvar With Intelligence (Finwire News) - Aktiellt
 - Sundin ser fram emot Global Series och OS: ”På tiden" - NHL.com
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Blackstone Credit & Insurance Appoints Laura Coady as Global Head of CLOs and European Head of Liquid Credit Strategies - Placera.se
+- New Global Research Reveals Employee Growth Is the Key to Business Resilience in the Age of AI and Workforce Transformation - Placera.se
 
 ## Technology
 
@@ -57,9 +57,7 @@ _Updated: 2025-11-04 21:38_
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
@@ -67,9 +65,11 @@ _Updated: 2025-11-04 21:38_
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - Palladyne AI Secures U.S. Patent for Advanced Swarming and Autonomy Technology - Placera.se
+- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 - XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 
 ## Business
 
@@ -111,54 +111,54 @@ _Updated: 2025-11-04 21:38_
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Maskinförare | Jobb | ATL - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
