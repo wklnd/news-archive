@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-05 20:50_
+_Updated: 2025-11-05 21:38_
 
 ## Top Stories
 
 - Gabriel Zetterström: Zohran Mamdani visar hur politiker kan hantera sociala medier på rätt sätt - Dagens Nyheter
 - Person skjuten i Stockholm - Västerbottens-Kuriren
-- Forskare: Massakern i Sudan en av de värsta detta århundrade - GP
-- Klimatforskaren: EU-ländernas klimatmål en urvattning - SVT Nyheter
+- Anna kan bli granne med urangruva i Jämtland: ”Vi kan inte bo kvar” - SVT Nyheter
 - Sjuksköterskor kan ha blivit förgiftade: "Livshotande tillstånd" - UNT
+- Forskare: Massakern i Sudan en av de värsta detta århundrade - GP
+- Uttalande av klimat- och miljöminister Romina Pourmokhtari - Regeringen.se
 - Rapport: Pengar inte viktigast för ökad återvandring - Dagens Nyheter
-- Riksdagen säger ja till uranbrytning i Sverige - SVT Nyheter
-- Man i 30-årsåldern död – bil voltade ut i skogen - Västerbottens-Kuriren
 - Regeringens feminism gäller bara Romina Pourmokhtari – inte kvinnor med riktiga jobb - Arbetet
 - Larmen inifrån växande anstalten: ”Tickande bomb” - Dagens Nyheter
-- 240 dödade i Gaza trots vapenvila - SVT Nyheter
+- Bil voltade utanför Bromölla – förare död - SVT Nyheter
+- Över halva jordens befolkning leds av män över 70 år - Dagens Nyheter
 - Ryska draget hotar Ukraina - Expressen
 - Ett år med Trump: ”Han vill vara envåldshärskare” - Aftonbladet
-- Personer påkörda av bil i Frankrike – flera skadade - GP
-- Carl Johan von Seth: Därför kommer räntan inte alls ligga still - Dagens Nyheter
+- Carl Bildts skarpa kritik mot Trump: ”Korruption” - Expressen
+- Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - riksbank.se
+- Matpriser pressas till max: "En rysare för producenter" - EFN
 - Kungen och Saab till Kanada – medier spår jätteaffär - Affärsvärlden
 - Nya Black Friday-fusket: Så rundar butiken lagen - Gefle Dagblad
-- AI-oro på börsen, inbromsning för lastbilar samt rapporter från Cloetta och Sinch - EFN
 - Caia Cosmetics släpper glöggen Pink Sip med Blossa - GP
 - Call of Duty: Black Ops 7 får officiella systemkrav - Nordichardware
 
@@ -30,23 +30,23 @@ _Updated: 2025-11-05 20:50_
 - Planet Signs 8-Figure Contract Renewal with International Defense and Intelligence Customer - Placera.se
 - Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
 - VNV Global tar emot slutbetalning från Gett-försäljning - har nettokassa (Finwire News) - Aktiellt
-- Wolverine Worldwide Releases 2024 Global Impact Report - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- UPS Acquires Andlauer Healthcare Group for $1.6 Billion, Accelerating Its Expansion as a Global Leader in Complex Healthcare Logistics - Business Wire
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Global drogsajt stängd – svenskar gripna - drugnews.se
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- S&P Global förvärvar With Intelligence (Finwire News) - Aktiellt
+- Påven: En ny global utbildning för hopp i vår tid - Vatican News
+- Stockholm Observatory for Global China - Utrikespolitiska institutet
 - Goodbaby International's Revenue Reaches Approximately HK$6,420.0 million in the First Three Quarters of 2025 - Placera.se
+- Somaliland: Election in a "non-existing" country - Global Bar Magazine
+- S&P Global Report Charts Enterprise Race to Build AI Agent-Ready Infrastructure - Placera.se
 
 ## Technology
 
@@ -122,43 +122,43 @@ _Updated: 2025-11-05 20:50_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Här är världens största jordbruk - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Nyheter - LRF - Lantbrukarnas Riksförbund
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
