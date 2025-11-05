@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-05 15:49_
+_Updated: 2025-11-05 16:46_
 
 ## Top Stories
 
 - Personal på Akademiska insjuknade hastigt – polisen utreder mordförsök - SVT Nyheter
-- Zohran Mamdani blir ny borgmästare i New York - Dagens Nyheter
-- Personer påkörda av bil i Frankrike – flera skadade - GP
+- En person delgiven misstanke om falskt larm i Malmö - Åklagarmyndigheten
+- Lämnar Svenska Jägareförbundet – för SD - Altinget.se
+- DN Direkt – Flera påkörda på franska Oléron – förare gripen - Dagens Nyheter
+- Ryska draget hotar Ukraina - Expressen
 - EU-länder har gjort upp om klimatmål till 2040 - Dagens Nyheter
-- Varg dödade alpackor - Expressen
-- Elisabeth Thand Ringqvists uppdragsgivare finns på börsen - Arbetet
-- DN Direkt – SVT-profilen Micke Leijnegard döms för sexuellt ofredande - Dagens Nyheter
 - Spelet bakom uranbrytning i Sverige – så bedrev gruvbolagen lobbyarbete - SVT Nyheter
-- Larm: Farliga ämnen i fejk-Labubus - Västerbottens-Kuriren
-- DN Direkt – Göteborg till regeringen: Nej till förlängd trängselskatt - Dagens Nyheter
-- Zelenskyj besöker soldater nära Pokrovsk - Aftonbladet
-- Jätteras för Ryssland – skräcksiffra för Putin - Marcus Oscarsson
+- Falsk budbil full med narkotika – chaufför åtalad - Västerbottens-Kuriren
+- Fosterskadande kemikalier i piratkopierade Labubus: ”Väldigt allvarligt” - Dagens Nyheter
+- Elisabeth Thand Ringqvists uppdragsgivare finns på börsen - Arbetet
+- Björn af Kleen: Mamdanis triumf i New York skakar även Demokraterna - Dagens Nyheter
+- Ett år med Trump: ”Han vill vara envåldshärskare” - Aftonbladet
+- Belgien stängde luftrummet efter drönarlarm - Expressen
 - Anfall mot ryska oljan – 140 mil från Moskva - Dagens Nyheter
-- Newsoms hämnd mot Texas – tar till karttricket - Dagens Nyheter
 - Carl Johan von Seth: Därför kommer räntan inte alls ligga still - Dagens Nyheter
+- Stor polisinsats på Stegra i Boden – flera arbetare hörs av polisen - SVT Nyheter
 - Peter Hedlund: Novo Nordisk ligger efter – men finns stöd i aktien - EFN
 - 500 miljarder dollar upp i rök efter AI-oro på världens börser - Sydsvenskan
-- Ny skarp kritik mot FI – ”behöver effektiviseras” - SvD
-- En frisk fläkt – Fumex & Lesjöfors - Cision News
 - Caia Cosmetics släpper glöggen Pink Sip med Blossa - GP
+- En frisk fläkt – Fumex & Lesjöfors - Cision News
 
 ## World News
 
@@ -34,19 +34,19 @@ _Updated: 2025-11-05 15:49_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - UPS Acquires Andlauer Healthcare Group for $1.6 Billion, Accelerating Its Expansion as a Global Leader in Complex Healthcare Logistics - Business Wire
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global drogsajt stängd – svenskar gripna - Drugnews
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - S&P Global förvärvar With Intelligence (Finwire News) - Aktiellt
 - Goodbaby International's Revenue Reaches Approximately HK$6,420.0 million in the First Three Quarters of 2025 - Placera.se
-- Blackstone Credit & Insurance Appoints Laura Coady as Global Head of CLOs and European Head of Liquid Credit Strategies - Placera.se
 
 ## Technology
 
@@ -54,22 +54,22 @@ _Updated: 2025-11-05 15:49_
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
+- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
-- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
+- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 - XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
-- Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
-- BigBear.ai And Palantir Announce Strategic Partnership, Combining AI-powered Products With Next Generation Operating Platform - Placera.se
 
 ## Business
 
@@ -101,17 +101,17 @@ _Updated: 2025-11-05 15:49_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Stora risker med kvalitetsbrister i globala hälsosystem - Läkartidningen
+- CGM J4 logga 16_9.jpg - Mynewsdesk
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Stora risker med kvalitetsbrister i globala hälsosystem - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
@@ -143,22 +143,22 @@ _Updated: 2025-11-05 15:49_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
-- Tysk innovation i topp – Ny studie avslöjar ledarna inom smart lantbruk - Lantbruksnytt
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - SLU gets important UN mission on antibiotic resistance - Mynewsdesk
