@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-05 05:31_
+_Updated: 2025-11-05 05:56_
 
 ## Top Stories
 
-- Vallokalerna i New York har stängt - SVT Nyheter
-- Maratonmöte när EU försöker enas om klimatet - GP
-- Fraktflyg har kraschat i USA - Västerbottens-Kuriren
+- Vallokalerna har stängt –Zohran Mamdani blir New Yorks nya borgmästare - SVT Nyheter
+- Miljörådet ska enas om EU:s NDC - Regeringen.se
+- Dödstalet skrivs upp efter flygkrasch i USA - GP
+- Spelet i kulisserna – för att få Trump att störta Maduro - Expressen
 - Lögndetektorns dom fick chefsåklagare inlåst - SvD
 - DN Direkt – Buss träffad av projektil i Örebro – område avspärrat - Dagens Nyheter
-- Regeringens feminism gäller bara Romina Pourmokhtari – inte kvinnor med riktiga jobb - Arbetet
-- DN Direkt – UD avråder från alla resor till Mali - Dagens Nyheter
 - Man stickskadad på Sofielund i Malmö - SVT Nyheter
 - Nya bygglovsregler - 7an
+- DN Direkt – UD avråder från alla resor till Mali - Dagens Nyheter
 - Elisabeth Thand Ringqvist föreslås bli ny c-ledare – ”Ett naturligt val” - Dagens Arena
-- Drönaroro i Belgien – flygplatser stängda igen - GP
+- DN Direkt – Drönare stör flygtrafiken i Belgien – luftrum stängde - Dagens Nyheter
 - Demokraternas kandidat vinner i New Jersey - Expressen
-- Brand i flerfamiljshus i Helsingborg - SVT Nyheter
+- Kraftig brand i flerfamiljshus i Helsingborg – två till sjukhus - Sydsvenskan
 - Turkiska raffinaderier drar ned på rysk olja - Västerbottens-Kuriren
 - Daniel Ek: Optimerar inte för kvartalsresultat - Dagens industri
-- Nya Black Friday-fusket: Så rundar butiken lagen - SvD
 - Läkarförbundet Skåne om Millennium: ”Då skjuter man sig i foten” - Dagens Medicin
 - Röd rekyl på Stockholmsbörsen - EFN
+- Goldman Sachs och Morgan Stanley varnar för börsnedgång - Placera.se
 - Arc Raiders får detaljerat uppdateringsschema för 2025 - Nordichardware
 - Nytt på Xbox Game Pass: 2025 års allra största spel - MovieZine
 
@@ -29,23 +29,23 @@ _Updated: 2025-11-05 05:31_
 
 - Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
 - Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
-- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - UPS Acquires Andlauer Healthcare Group for $1.6 Billion, Accelerating Its Expansion as a Global Leader in Complex Healthcare Logistics - Business Wire
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Nepali woman headed to Germany stopped at Delhi airport, sent back. India clarifies why | Latest News India - Hindustan Times
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Svenska bolagen kan slå till: ”Vore nästan tjänstefel” - EFN
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Armand Duplantis soars to third world title and 14th world record - BBC
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
 - Sundin ser fram emot Global Series och OS: ”På tiden" - NHL.com
 
 ## Technology
@@ -101,21 +101,21 @@ _Updated: 2025-11-05 05:31_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- The Lancet tar grepp om hälsa och klimat - Läkartidningen
+- Stora risker med kvalitetsbrister i globala hälsosystem - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 
 ## Science
 
@@ -143,6 +143,7 @@ _Updated: 2025-11-05 05:31_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
@@ -150,15 +151,14 @@ _Updated: 2025-11-05 05:31_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - SLU gets important UN mission on antibiotic resistance - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
