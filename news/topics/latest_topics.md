@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-05 22:43_
+_Updated: 2025-11-05 23:38_
 
 ## Top Stories
 
 - Man död efter skjutning i västra Stockholm - SvD
+- Gabriel Zetterström: Zohran Mamdani visar hur politiker kan hantera sociala medier på rätt sätt - Dagens Nyheter
+- DN Direkt – Stort tillslag mot gängkriminella i Spanien - Dagens Nyheter
+- Nu är det supermåne – därför ser den extra stor ut - GP
 - Magdalena Andersson (S) efter hoten: ”Farligt för demokratin” - GP
 - Över halva jordens befolkning leds av män över 70 år - Dagens Nyheter
-- Himlafenomen i kväll – men därför blir det svårt att se - Corren
-- Attack mot begravning i krigets Sudan – 40 döda - Dagens Nyheter
-- Klimatforskaren: EU-ländernas klimatmål en urvattning - SVT Nyheter
-- Riksdagen säger ja till uranbrytning i Sverige - SVT Nyheter
-- Utrikesministern: Inga svenska vapen i Sudan - GP
+- Ministern: Inga vapen till Sudan - SVT Nyheter
 - Rapport: Pengar inte viktigast för ökad återvandring - Dagens Nyheter
-- Regeringens feminism gäller bara Romina Pourmokhtari – inte kvinnor med riktiga jobb - Arbetet
-- ”Mamdanis seger är absurd” - Arbetet
+- Klimatforskaren: EU-ländernas klimatmål en urvattning - SVT Nyheter
+- Just nu: Förbudet mot uranbrytning tas bort - Västerbottens-Kuriren
+- Arkeologer: Kan ha hittat Danmarks äldsta skelett - Dagens Nyheter
 - Ryssland sätter motorer på sovjetiska bomber - Omni
-- Ett år med Trump: ”Han vill vara envåldshärskare” - Aftonbladet
-- Carl Bildts skarpa kritik mot Trump: ”Korruption” - Expressen
+- Jon Fosse vid utbildningsvärldens jubelårsfirande: ”Att skriva är en gåva” - Vatican News
+- Världens viktigaste 80-åring stapplar sig fram – utan pengar till medicin - EFN
 - Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - riksbank.se
+- Utbrottet efter blankarens AI-prognos: “Spritt språngande galen” - Breakit
 - Matpriser pressas till max: "En rysare för producenter" - EFN
 - Kinas ellastbilar drar ifrån – svenska jättar vill mildra klimatkrav - Dagens Nyheter
-- Nya Black Friday-fusket: Så rundar butiken lagen - Gefle Dagblad
 - Caia Cosmetics släpper glöggen Pink Sip med Blossa - GP
 - Smarta hemmet får smarta fönster - mobil.se
 
@@ -61,11 +61,11 @@ _Updated: 2025-11-05 22:43_
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
+- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 - XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
@@ -101,19 +101,19 @@ _Updated: 2025-11-05 22:43_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - The Lancet tar grepp om hälsa och klimat - Läkartidningen
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 - Erik Selin blir den nya ordförande i cancerbolaget Multi4 Medical AB - it-halsa.se
 
@@ -122,43 +122,43 @@ _Updated: 2025-11-05 22:43_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
