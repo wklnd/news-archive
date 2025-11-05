@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-05 15:08_
+_Updated: 2025-11-05 15:49_
 
 ## Top Stories
 
-- Mordförsök utreds på sjukhus – anställda kan ha förgiftats - Dagens Nyheter
-- Gyökeres saknas – flera skrällar i Potters trupp - SvD
+- Personal på Akademiska insjuknade hastigt – polisen utreder mordförsök - SVT Nyheter
 - Zohran Mamdani blir ny borgmästare i New York - Dagens Nyheter
-- Bilist har kört på fotgängare i Frankrike – två kritiskt skadade - SVT Nyheter
-- 14-åring sprängde flera bomber i Hammarkullen – skadades själv - GP
+- Personer påkörda av bil i Frankrike – flera skadade - GP
 - EU-länder har gjort upp om klimatmål till 2040 - Dagens Nyheter
-- DN Direkt – Falsk budbil full med narkotika – chaufför åtalad - Dagens Nyheter
-- Larm: Farliga ämnen i fejk-Labubus - Västerbottens-Kuriren
+- Varg dödade alpackor - Expressen
+- Elisabeth Thand Ringqvists uppdragsgivare finns på börsen - Arbetet
+- DN Direkt – SVT-profilen Micke Leijnegard döms för sexuellt ofredande - Dagens Nyheter
 - Spelet bakom uranbrytning i Sverige – så bedrev gruvbolagen lobbyarbete - SVT Nyheter
-- Polisinsats på stålbolaget Stegra - Aftonbladet
-- Jätteras för Ryssland – skräcksiffra för Putin - Marcus Oscarsson
-- Belgien stängde luftrummet efter drönarlarm - Expressen
+- Larm: Farliga ämnen i fejk-Labubus - Västerbottens-Kuriren
+- DN Direkt – Göteborg till regeringen: Nej till förlängd trängselskatt - Dagens Nyheter
 - Zelenskyj besöker soldater nära Pokrovsk - Aftonbladet
+- Jätteras för Ryssland – skräcksiffra för Putin - Marcus Oscarsson
 - Anfall mot ryska oljan – 140 mil från Moskva - Dagens Nyheter
-- Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - riksbank.se
+- Newsoms hämnd mot Texas – tar till karttricket - Dagens Nyheter
+- Carl Johan von Seth: Därför kommer räntan inte alls ligga still - Dagens Nyheter
 - Peter Hedlund: Novo Nordisk ligger efter – men finns stöd i aktien - EFN
-- Morgonkoll: AI-ras i Tokyo och Seoul: ”En rekyl var väntad” - Dagens industri
-- Dramatisk kostnadsutveckling för vatten och avlopp samt elnät, fjärrvärme och avfall - Örebronyheter
-- Här är de nya företagen i Vilhelmina - konsultföretag ett av dem - Västerbottens-Kuriren
-- Black Friday-deals på telefoner har börjat dyka upp – här är modellerna med bäst rabatter just nu - TechRadar
+- 500 miljarder dollar upp i rök efter AI-oro på världens börser - Sydsvenskan
+- Ny skarp kritik mot FI – ”behöver effektiviseras” - SvD
+- En frisk fläkt – Fumex & Lesjöfors - Cision News
+- Caia Cosmetics släpper glöggen Pink Sip med Blossa - GP
 
 ## World News
 
 - Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
+- VNV Global tar emot slutbetalning från Gett-försäljning - har nettokassa (Finwire News) - Aktiellt
 - Wolverine Worldwide Releases 2024 Global Impact Report - Placera.se
 - Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- UPS Acquires Andlauer Healthcare Group for $1.6 Billion, Accelerating Its Expansion as a Global Leader in Complex Healthcare Logistics - Business Wire
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- UPS Acquires Andlauer Healthcare Group for $1.6 Billion, Accelerating Its Expansion as a Global Leader in Complex Healthcare Logistics - Business Wire
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- VNV Global tar emot slutbetalning från Gett-försäljning - har nettokassa (Finwire News) - Aktiellt
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - S&P Global förvärvar With Intelligence (Finwire News) - Aktiellt
 - Goodbaby International's Revenue Reaches Approximately HK$6,420.0 million in the First Three Quarters of 2025 - Placera.se
+- Blackstone Credit & Insurance Appoints Laura Coady as Global Head of CLOs and European Head of Liquid Credit Strategies - Placera.se
 
 ## Technology
 
@@ -54,22 +54,22 @@ _Updated: 2025-11-05 15:08_
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
+- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
-- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
+- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 - XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
+- BigBear.ai And Palantir Announce Strategic Partnership, Combining AI-powered Products With Next Generation Operating Platform - Placera.se
 
 ## Business
 
@@ -77,11 +77,11 @@ _Updated: 2025-11-05 15:08_
 - Transforming Thailand to a digital economy - mastercard.com
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - The circular economy in action at Blenheim Palace - mastercard.com
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
@@ -90,9 +90,9 @@ _Updated: 2025-11-05 15:08_
 - Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Money movement – Evolving expectations of economic migrants - mastercard.com
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
 
@@ -143,6 +143,7 @@ _Updated: 2025-11-05 15:08_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
@@ -159,6 +160,5 @@ _Updated: 2025-11-05 15:08_
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
-- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
