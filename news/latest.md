@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-05 21:48_
+_Updated: 2025-11-05 22:51_
 
-- Dow rises 200 points after Supreme Court doubts Trump tariff argument and AI trade recovers: Live updates - CNBC
 - Zohran Mamdani announces all-female transition team as he prepares for New York mayoralty - The Guardian
+- Dow rises 300 points after Supreme Court doubts Trump tariff argument and AI trade recovers: Live updates - CNBC
 - Democrats' 2025 election wins go beyond big races to places like Georgia, Pennsylvania - NPR
-- Biggest winners and losers of California's redistricting war - Politico
-- U.S. could see closed airspace, "mass chaos" next week if shutdown doesn't end, Duffy warns - Axios
-- Analysing footage of UPS cargo plane crash in Kentucky which killed nine - BBC
-- Mikie Sherrill says New Jersey voters want 'leadership' in face of Trump's challenges - NPR
-- Jacob Frey wins third term as Minneapolis mayor - MPR News
-- Abigail Spanberger elected Virginia governor in a historic first that boosts Democrats ahead of 2026 - MLive.com
+- California Republicans file legal challenge to redistricting push - Politico
+- Video of UPS plane crash in Louisville provides clues as investigators try to determine cause of disaster - CBS News
+- White House ‘open to discussing’ back pay for furloughed workers, following mixed messages on earlier guarantee - Federal News Network
+- What’s really concerning Republicans after Tuesday night’s romp - Politico
+- Trump disparages Zohran Mamdani’s victory after Democrats sweep key 2025 elections – live - The Guardian
+- New Jersey election results 2025: Here’s who won and who lost - WHYY
 - Federal judge warns Justice Department it may be veering close to mishandling evidence in Comey case - CNN
 - Russian forces appear to tighten grip on strategic city of Pokrovsk - The Guardian
-- Typhoon Kalmaegi: death toll rises to 66 as widespread flooding hits central Philippines - The Guardian
-- US may ask UN to mandate international force in Gaza for two years, document shows - Reuters
+- Tanzanian police disposed of bodies after election violence, opposition alleges - CNN
 - Scars in the Blue Mosque Reveal Afghanistan’s Rifts - The New York Times
-- Tesla Shareholders Cast Votes With Musk’s Future on the Line - Bloomberg.com
+- Mexico President Sheinbaum presses charges after street groping incident - abcnews.go.com
+- Fed-Up Starbucks Baristas Prep 'Biggest Strike We've Ever Been On’ - Bloomberg.com
+- McDonald’s is struggling to hold on to its low-income customers - The Washington Post
+- The Times’s Profit Jumps With 460,000 More Subscribers - The New York Times
 - ‘Big Short’ investor Michael Burry has a $1.1 billion bet against AI stocks, and markets are plunging - Fortune
-- Starbucks’ union workers plan strike next week unless company agrees to a contract - AP News
-- Pat McAfee, Big Cat criticize ESPN as Disney-YouTube TV war wages on: ‘Stop with this bulls–t’ - New York Post
 - You can now stream PS5 games you own over the cloud on the PlayStation Portal - Engadget
 - Google Maps bakes in Gemini to improve navigation and hands-free use - TechCrunch
