@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-05 18:50_
+_Updated: 2025-11-05 19:40_
 
 ## Top Stories
 
-- DN Direkt – Förbud mot att bryta uran i Sverige slopat - Dagens Nyheter
 - Gabriel Zetterström: Zohran Mamdani visar hur politiker kan hantera sociala medier på rätt sätt - Dagens Nyheter
-- Sjuksköterskor kan ha blivit förgiftade: "Livshotande tillstånd" - UNT
 - Forskare: Massakern i Sudan en av de värsta detta århundrade - GP
-- Klimatforskaren: EU-ländernas klimatmål en urvattning - SVT Nyheter
-- Lämnar Svenska Jägareförbundet – för SD - Altinget.se
+- Protester när riksdagen klubbar uranbeslut - Dagens Nyheter
+- En person delgiven misstanke om falskt larm i Malmö - Åklagarmyndigheten
+- Sjuksköterskor kan ha blivit förgiftade: "Livshotande tillstånd" - UNT
+- Larmen inifrån växande anstalten: ”Tickande bomb” - Dagens Nyheter
 - Bil voltade utanför Bromölla – förare död - SVT Nyheter
 - Regeringens feminism gäller bara Romina Pourmokhtari – inte kvinnor med riktiga jobb - Arbetet
-- Kvinna misstänkt för falskt larm om förföljelse i Pildammsparken - SVT Nyheter
-- Bil har kört in i folkmassa i Frankrike - Expressen
+- Mona Smedman (C) om förslaget på ny partiledare: ”Varit ett intensivt arbete” - NWT
+- Kommuntopparnas besked om återvandring - Smålands-Tidningen
+- Klimatforskaren: EU-ländernas klimatmål en urvattning - SVT Nyheter
 - Personer påkörda av bil i Frankrike – flera skadade - GP
+- 240 dödade i Gaza trots vapenvila - SVT Nyheter
 - Ryska draget hotar Ukraina - Expressen
-- Ett år med Trump: ”Han vill vara envåldshärskare” - Aftonbladet
-- Anfall mot ryska oljan – 140 mil från Moskva - Dagens Nyheter
-- Carl Johan von Seth: Därför kommer räntan inte alls ligga still - Dagens Nyheter
+- Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - riksbank.se
 - Kungen och Saab till Kanada – medier spår jätteaffär - Affärsvärlden
-- Stor polisinsats på Stegra i Boden – flera arbetare hörs av polisen - SVT Nyheter
-- Insiderinformation: Nordea presenterar uppdaterad strategi och nya finansiella mål för 2030 - Cision News
+- AI-oro på börsen, inbromsning för lastbilar samt rapporter från Cloetta och Sinch - EFN
+- Ministern om reafusket: ”Missbruk av lagen" - Dagens Nyheter
 - Caia Cosmetics släpper glöggen Pink Sip med Blossa - GP
-- Snabbkollen – Bästa svenska spelet 2025 är... - FZ.se
+- Call of Duty: Black Ops 7 får officiella systemkrav - Nordichardware
 
 ## World News
 
@@ -75,14 +75,14 @@ _Updated: 2025-11-05 18:50_
 
 - POWERING PROGRESS: CARIBBEAN UTILITIES COMPANY, LTD. PUBLISHES INAUGURAL GREEN FINANCE REPORT, REINFORCING COMMITMENT TO SUSTAINABLE INVESTMENT - Placera.se
 - Transforming Thailand to a digital economy - mastercard.com
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - The circular economy in action at Blenheim Palace - mastercard.com
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -105,40 +105,40 @@ _Updated: 2025-11-05 18:50_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- The Lancet tar grepp om hälsa och klimat - Läkartidningen
+- Stora risker med kvalitetsbrister i globala hälsosystem - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 
 ## Jordbruk
 
