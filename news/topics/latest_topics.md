@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-05 11:45_
+_Updated: 2025-11-05 12:46_
 
 ## Top Stories
 
+- Michael Leijnegard döms för sexuellt ofredande - Sveriges Domstolar
 - Framgångsvåg för Demokraterna i hela USA - Dagens Nyheter
-- Stor polisinsats på Stegra - Aftonbladet
-- Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - riksbank.se
-- EU-länder har gjort upp om klimatmål till 2040 - GP
-- Region Östergötland i stabsläge - GP
-- 14-åring sprängde termosbomber – skadades själv - Aftonbladet
+- Spänd väntan på klimatavtal i EU - GP
+- Tiotusentals flyr el-Fasher i panik genom dödens korridor - Dagens Nyheter
+- 14-åring sprängde termosbomber – skadades själv - Omni
+- Region Östergötland i stabsläge – omfattande IT-strul - SVT Nyheter
 - Kemikalieinspektionen larmar: Giftiga ämnen i piratkopierade Labubus - SVT Nyheter
+- DN Direkt – SVT-profilen Micke Leijnegard döms för sexuellt ofredande - Dagens Nyheter
 - Elisabeth Thand Ringqvists uppdragsgivare finns på börsen - Arbetet
-- Regeringens feminism gäller bara Romina Pourmokhtari – inte kvinnor med riktiga jobb - Arbetet
-- HD friar poliser för tjänstefel efter relationsvåld - Dagens Nyheter
+- Högsta domstolen: Poliser frias för tjänstefel - SVT Nyheter
 - Dödstal stiger kraftigt efter tyfon i Filippinerna - Hufvudstadsbladet
-- Demokraterna erövrar guvernörsposten i Virginia - Expressen
-- Dödstalet skrivs upp efter flygkrasch i USA - GP
-- Zelenskyj besöker trupper nära Pokrovsk - Västerbottens-Kuriren
-- Dramatisk utveckling av kostnaderna för vatten och avlopp, elnät, fjärrvärme - nordicconstruction.se
-- Svajigt i Novo Nordisk efter ny prognossänkning - Dagens Nyheter
-- Bred nedgång på Asien-börserna - Västerbottens-Kuriren
-- Kina pausar amerikansk tullhöjning - Tidningen Näringslivet
+- Kalifornien röstar för att rita om valkretsar - Västerbottens-Kuriren
+- Zelenskyj besöker soldater nära Pokrovsk - Aftonbladet
+- Jätteras för Ryssland – skräcksiffra för Putin - Marcus Oscarsson
+- Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - riksbank.se
+- Stor polisinsats på Stegra i Boden - SVT Nyheter
+- Dramatisk kostnadsutveckling för vatten och avlopp, elnät, fjärrvärme - Bostadsrätterna
+- Peter Hedlund: Novo Nordisk ligger efter – men finns stöd i aktien - EFN
 - Dolly Style till Furuviksparken - Mynewsdesk
-- Live Translation med Airpods kommer till i EU - Macworld.se
+- Motorola Edge 70 officiellt lanserad: 5,99 mm tunn - mobil.se
 
 ## World News
 
 - VNV Global tar emot slutbetalning från Gett-försäljning - har nettokassa (Finwire News) - Aktiellt
 - Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
-- Wolverine Worldwide Releases 2024 Global Impact Report - Placera.se
 - Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - UPS Acquires Andlauer Healthcare Group for $1.6 Billion, Accelerating Its Expansion as a Global Leader in Complex Healthcare Logistics - Business Wire
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- Svenska bolagen kan slå till: ”Vore nästan tjänstefel” - EFN
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- New Secretary General appointed - Olof Palme International Center
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- S&P Global förvärvar With Intelligence (Finwire News) - Aktiellt
-- Blackstone Credit & Insurance Appoints Laura Coady as Global Head of CLOs and European Head of Liquid Credit Strategies - Placera.se
 - New Global Research Reveals Employee Growth Is the Key to Business Resilience in the Age of AI and Workforce Transformation - Placera.se
-- CGI positioned as a Leader in the IDC MarketScape for Worldwide AI Services for State and Local Government 2025 - Placera.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
 ## Technology
 
@@ -54,22 +54,22 @@ _Updated: 2025-11-05 11:45_
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
+- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
+- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
+- Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
-- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
-- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
-- XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
 
 ## Business
 
@@ -114,8 +114,8 @@ _Updated: 2025-11-05 11:45_
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 
 ## Science
 
