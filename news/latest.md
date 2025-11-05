@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-05 04:22_
+_Updated: 2025-11-05 05:34_
 
-- Democrat Spanberger wins Virginia governor race with message on DOGE, cost of living - NPR
-- New York City mayoral election results: Mamdani, Cuomo, Sliwa face off - abcnews.go.com
-- Live update: UPS plane crash near Louisville, Kentucky, airport, at least 3 killed, 11 injured - CNN
+- Mamdani wins New York City mayoral race, in a historic victory for progressives - NPR
+- Democrat Sherrill wins N.J. election, defeating Ciattarelli, NBC News projects - NBC News
+- At least seven dead after cargo plane crashes at Kentucky airport, as flames engulf businesses - BBC
 - Trump's closing argument: Tariff case is "life or death" for the U.S. - Axios
-- George W. Bush remembers Dick Cheney: ‘A calm and steady presence’ - Politico
-- Economy top of mind for voters across races, preliminary ABC News exit polls show - abcnews.go.com
-- Election 2025 live updates: NYC mayor, Va. governor and Prop 50 to be decided - The Washington Post
-- California Ballot Measures Special Election 2025 Live Results: Proposition 50 - NBC News
-- Two Massachusetts men arrested after explosion at Harvard Medical School, says FBI - The Guardian
-- New Jersey Governor Election Results 2025: Jack Ciattarelli, Mikie Sherrill - The New York Times
+- White House is working on executive order on elections, press secretary says - Reuters
+- See Election Day 2025 results as Democrats sweep major races in NYC, VA, NJ with Mamdani, Spanberger, Sherrill victories - CBS News
+- 2 young men arrested in explosion at Harvard Medical School: FBI - abcnews.go.com
+- California voters take up Prop 50, a Democratic push for more US House seats - AP News
+- D.C. ‘sandwich guy’ goes on trial, says prosecution is half-baked - The Washington Post
+- Spanberger Wins Virginia Governor’s Race With Forceful Anti-Trump Campaign - The New York Times
 - Israel says the remains of a hostage have been turned over in Gaza - AP News
-- Typhoon Kalmaegi leaves 26 dead in Philippines, people trapped on roofs and cars submerged - abcnews.go.com
-- U.S. Seeks Two-Year U.N. Mandate for Gaza Stabilization Force - The New York Times
-- Former top Israeli military legal officer arrested after admitting to leaking video of alleged detainee abuse - CBS News
+- U.K. Treasury Chief Says Lowering Inflation Will Be Budget Focus - The Wall Street Journal
+- Meet the Austrian nuns who fled a care home to break into their old convent - NPR
+- Lula touts 'COP of Truth' in Brazil as UN warns emissions too high - Reuters
 - Norway’s wealth fund vote is latest blow to Musk’s $1 trillion pay package - TechCrunch
 - Here's What Wall Street Analysts Are Saying About Palantir's Earnings as Its Stock Plunges - Investopedia
-- AMD Reports Third Quarter 2025 Financial Results - AMD
-- Rivian (RIVN) Q3 2025 report: Revenues and deliveries rise, R2 closer than ever, plus a new AI co. - Electrek
+- Shein bans sex dolls after outcry in France over ‘childlike’ appearance - The Washington Post
+- Cava cuts full-year forecast, in another warning sign for fast-casual restaurants - CNBC
 - Apple may release its first 'low-cost' Mac laptop in early 2026 - Engadget
-- iOS 26.2 updates Liquid Glass slider to customize your Lock Screen - 9to5Mac
+- iOS 26.1 Update Offers Liquid Glass Controls, Bevy of Handy New Features - PCMag
