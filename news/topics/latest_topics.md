@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-05 17:43_
+_Updated: 2025-11-05 18:50_
 
 ## Top Stories
 
-- Misstänkt mordförsök på Akademiska i Uppsala - Expressen
-- Sjuksköterskor kan ha blivit förgiftade: "Livshotande tillstånd" - UNT
-- Protester när riksdagen klubbar uranbeslut - Dagens Nyheter
-- Lämnar Svenska Jägareförbundet – för SD - Altinget.se
-- ”Vill politikerna dö i ensamhet med andningssvårigheter?” - Helagotland
-- Fyra bilister i olycka – en till sjukhus - VLT
-- Förslaget till Putin: Återuppta kärnvapentest - Expressen
-- Regeringens feminism gäller bara Romina Pourmokhtari – inte kvinnor med riktiga jobb - Arbetet
-- Mona Smedman (C) om förslaget på ny partiledare: ”Varit ett intensivt arbete” - NWT
-- Falsk budbil full med narkotika – chaufför åtalad - Västerbottens-Kuriren
+- DN Direkt – Förbud mot att bryta uran i Sverige slopat - Dagens Nyheter
 - Gabriel Zetterström: Zohran Mamdani visar hur politiker kan hantera sociala medier på rätt sätt - Dagens Nyheter
-- EU-länder enas om urvattnat klimatmål - GP
-- Bilist körde på fotgängare – kritiska skador - Västerbottens-Kuriren
+- Sjuksköterskor kan ha blivit förgiftade: "Livshotande tillstånd" - UNT
+- Forskare: Massakern i Sudan en av de värsta detta århundrade - GP
+- Klimatforskaren: EU-ländernas klimatmål en urvattning - SVT Nyheter
+- Lämnar Svenska Jägareförbundet – för SD - Altinget.se
+- Bil voltade utanför Bromölla – förare död - SVT Nyheter
+- Regeringens feminism gäller bara Romina Pourmokhtari – inte kvinnor med riktiga jobb - Arbetet
+- Kvinna misstänkt för falskt larm om förföljelse i Pildammsparken - SVT Nyheter
+- Bil har kört in i folkmassa i Frankrike - Expressen
+- Personer påkörda av bil i Frankrike – flera skadade - GP
+- Ryska draget hotar Ukraina - Expressen
 - Ett år med Trump: ”Han vill vara envåldshärskare” - Aftonbladet
+- Anfall mot ryska oljan – 140 mil från Moskva - Dagens Nyheter
 - Carl Johan von Seth: Därför kommer räntan inte alls ligga still - Dagens Nyheter
+- Kungen och Saab till Kanada – medier spår jätteaffär - Affärsvärlden
 - Stor polisinsats på Stegra i Boden – flera arbetare hörs av polisen - SVT Nyheter
-- Peter Hedlund: Novo Nordisk ligger efter – men finns stöd i aktien - EFN
-- 500 miljarder dollar upp i rök efter AI-oro på världens börser - Sydsvenskan
+- Insiderinformation: Nordea presenterar uppdaterad strategi och nya finansiella mål för 2030 - Cision News
 - Caia Cosmetics släpper glöggen Pink Sip med Blossa - GP
-- Galaxy S26 ser ut att bli dyrare – komponenter trycker upp kostnaderna - Teknikveckan
+- Snabbkollen – Bästa svenska spelet 2025 är... - FZ.se
 
 ## World News
 
@@ -34,7 +34,6 @@ _Updated: 2025-11-05 17:43_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
 - UPS Acquires Andlauer Healthcare Group for $1.6 Billion, Accelerating Its Expansion as a Global Leader in Complex Healthcare Logistics - Business Wire
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
@@ -42,7 +41,8 @@ _Updated: 2025-11-05 17:43_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - S&P Global förvärvar With Intelligence (Finwire News) - Aktiellt
@@ -59,17 +59,17 @@ _Updated: 2025-11-05 17:43_
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 - XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
+- BigBear.ai And Palantir Announce Strategic Partnership, Combining AI-powered Products With Next Generation Operating Platform - Placera.se
 
 ## Business
 
@@ -101,44 +101,44 @@ _Updated: 2025-11-05 17:43_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- The Lancet tar grepp om hälsa och klimat - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- The Lancet tar grepp om hälsa och klimat - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 
 ## Science
 
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
 
 ## Jordbruk
 
