@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-05 20:54_
+_Updated: 2025-11-05 21:48_
 
-- Dow rises 300 points after AI trade recovers, Supreme Court shows doubt on Trump tariffs: Live updates - CNBC
-- Zohran Mamdani Is Elected Mayor of New York City - The New York Times
+- Dow rises 200 points after Supreme Court doubts Trump tariff argument and AI trade recovers: Live updates - CNBC
+- Zohran Mamdani announces all-female transition team as he prepares for New York mayoralty - The Guardian
 - Democrats' 2025 election wins go beyond big races to places like Georgia, Pennsylvania - NPR
-- Why UPS was still flying the 34-year-old MD-11 plane that crashed - CNN
-- Republicans file lawsuit challenging California’s redistricting measure - The Guardian
-- Trump breaks his own record for the longest government shutdown in history - Axios
-- Democrats sweep Virginia’s statewide races, reclaiming full control of executive branch - Virginia Mercury
-- Republicans try to turn national Democratic candidates into Mamdani copycats - Politico
+- Biggest winners and losers of California's redistricting war - Politico
+- U.S. could see closed airspace, "mass chaos" next week if shutdown doesn't end, Duffy warns - Axios
+- Analysing footage of UPS cargo plane crash in Kentucky which killed nine - BBC
+- Mikie Sherrill says New Jersey voters want 'leadership' in face of Trump's challenges - NPR
 - Jacob Frey wins third term as Minneapolis mayor - MPR News
-- Mexico's president was groped on the street. Now she's waging war on rampant sexual harassment - Los Angeles Times
+- Abigail Spanberger elected Virginia governor in a historic first that boosts Democrats ahead of 2026 - MLive.com
+- Federal judge warns Justice Department it may be veering close to mishandling evidence in Comey case - CNN
+- Russian forces appear to tighten grip on strategic city of Pokrovsk - The Guardian
 - Typhoon Kalmaegi: death toll rises to 66 as widespread flooding hits central Philippines - The Guardian
-- Russia and Ukraine say their forces are locked in fierce fighting in the ruins of Pokrovsk - Reuters
-- EU agrees weakened climate target in final-hour deal for COP30 - Reuters
+- US may ask UN to mandate international force in Gaza for two years, document shows - Reuters
+- Scars in the Blue Mosque Reveal Afghanistan’s Rifts - The New York Times
 - Tesla Shareholders Cast Votes With Musk’s Future on the Line - Bloomberg.com
-- France moves to suspend Shein website as it opens first store in Paris - BBC
-- McDonald’s bucks dining industry downturn with cost-conscious pitch - Financial Times
 - ‘Big Short’ investor Michael Burry has a $1.1 billion bet against AI stocks, and markets are plunging - Fortune
+- Starbucks’ union workers plan strike next week unless company agrees to a contract - AP News
+- Pat McAfee, Big Cat criticize ESPN as Disney-YouTube TV war wages on: ‘Stop with this bulls–t’ - New York Post
 - You can now stream PS5 games you own over the cloud on the PlayStation Portal - Engadget
 - Google Maps bakes in Gemini to improve navigation and hands-free use - TechCrunch
-- Whisper Into This AI-Powered Smart Ring to Organize Your Thoughts - WIRED
