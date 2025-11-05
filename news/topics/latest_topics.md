@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-05 10:50_
+_Updated: 2025-11-05 11:45_
 
 ## Top Stories
 
-- Zohran Mamdani vinner borgmästarvalet i New York - Västerbottens-Kuriren
-- EU-länder har gjort upp om klimatmål till 2040 - Dagens Nyheter
+- Framgångsvåg för Demokraterna i hela USA - Dagens Nyheter
+- Stor polisinsats på Stegra - Aftonbladet
+- Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - riksbank.se
+- EU-länder har gjort upp om klimatmål till 2040 - GP
 - Region Östergötland i stabsläge - GP
-- Flera döda i flygkrasch i USA - Västerbottens-Kuriren
-- Tiotusentals flyr el-Fasher i panik genom dödens korridor - Dagens Nyheter
-- Patrik Lundberg: Sölvesborg har knäckt framgångskoden - Dagens Nyheter
+- 14-åring sprängde termosbomber – skadades själv - Aftonbladet
 - Kemikalieinspektionen larmar: Giftiga ämnen i piratkopierade Labubus - SVT Nyheter
 - Elisabeth Thand Ringqvists uppdragsgivare finns på börsen - Arbetet
-- Högsta domstolen: Poliser frias för tjänstefel - SVT Nyheter
 - Regeringens feminism gäller bara Romina Pourmokhtari – inte kvinnor med riktiga jobb - Arbetet
+- HD friar poliser för tjänstefel efter relationsvåld - Dagens Nyheter
 - Dödstal stiger kraftigt efter tyfon i Filippinerna - Hufvudstadsbladet
-- USA bombar ännu en knarkbåt - Expressen
-- DN Direkt – Misstänkt grovt våldsbrott i Örebro – universitetsområde avspärrat - Dagens Nyheter
-- Newsom efter segern: Björnen ryter tillbaka - Aftonbladet
-- Boendekostnader lyfter kraftigt även i år - SvD
-- Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - riksbank.se
-- Cloetta ökar lönsamheten – men omsättningen minskar - Dagens industri
+- Demokraterna erövrar guvernörsposten i Virginia - Expressen
+- Dödstalet skrivs upp efter flygkrasch i USA - GP
+- Zelenskyj besöker trupper nära Pokrovsk - Västerbottens-Kuriren
+- Dramatisk utveckling av kostnaderna för vatten och avlopp, elnät, fjärrvärme - nordicconstruction.se
+- Svajigt i Novo Nordisk efter ny prognossänkning - Dagens Nyheter
+- Bred nedgång på Asien-börserna - Västerbottens-Kuriren
 - Kina pausar amerikansk tullhöjning - Tidningen Näringslivet
-- Macbook Pro M6 kan bli Apples första dator med oled-pekskärm och ny design - Macworld.se
-- Motorola Edge 70 officiellt lanserad: 5,99 mm tunn - mobil.se
+- Dolly Style till Furuviksparken - Mynewsdesk
+- Live Translation med Airpods kommer till i EU - Macworld.se
 
 ## World News
 
@@ -104,18 +104,18 @@ _Updated: 2025-11-05 10:50_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Stora risker med kvalitetsbrister i globala hälsosystem - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Stora risker med kvalitetsbrister i globala hälsosystem - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 
 ## Science
 
@@ -123,19 +123,19 @@ _Updated: 2025-11-05 10:50_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
