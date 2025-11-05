@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-05 12:46_
+_Updated: 2025-11-05 13:39_
 
 ## Top Stories
 
-- Michael Leijnegard döms för sexuellt ofredande - Sveriges Domstolar
-- Framgångsvåg för Demokraterna i hela USA - Dagens Nyheter
-- Spänd väntan på klimatavtal i EU - GP
+- Graham Potters första trupp uttagen - Svensk fotboll
+- Socialisten Mamdani vinner – ny borgmästare i New York - Dagens industri
+- EU-länder har gjort upp om klimatmål till 2040 - Dagens Nyheter
+- Bilist körde på fotgängare – kritiska skador - Västerbottens-Kuriren
+- Arbetsplatsinspektion på Stegra - Expressen
 - Tiotusentals flyr el-Fasher i panik genom dödens korridor - Dagens Nyheter
-- 14-åring sprängde termosbomber – skadades själv - Omni
-- Region Östergötland i stabsläge – omfattande IT-strul - SVT Nyheter
 - Kemikalieinspektionen larmar: Giftiga ämnen i piratkopierade Labubus - SVT Nyheter
-- DN Direkt – SVT-profilen Micke Leijnegard döms för sexuellt ofredande - Dagens Nyheter
+- DN Direkt – Falsk budbil full med narkotika – chaufför åtalad - Dagens Nyheter
+- Polisinsats på stålbolaget Stegra - Västerbottens-Kuriren
 - Elisabeth Thand Ringqvists uppdragsgivare finns på börsen - Arbetet
-- Högsta domstolen: Poliser frias för tjänstefel - SVT Nyheter
-- Dödstal stiger kraftigt efter tyfon i Filippinerna - Hufvudstadsbladet
-- Kalifornien röstar för att rita om valkretsar - Västerbottens-Kuriren
+- Dödstal stiger kraftigt efter tyfon i Filippinerna - GP
+- Ryska oljeleveranser till havs rasar efter nya USA-sanktioner - BN - Placera.se
 - Zelenskyj besöker soldater nära Pokrovsk - Aftonbladet
-- Jätteras för Ryssland – skräcksiffra för Putin - Marcus Oscarsson
+- Anfall mot ryska oljan – 140 mil från Moskva - Dagens Nyheter
 - Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - riksbank.se
-- Stor polisinsats på Stegra i Boden - SVT Nyheter
 - Dramatisk kostnadsutveckling för vatten och avlopp, elnät, fjärrvärme - Bostadsrätterna
 - Peter Hedlund: Novo Nordisk ligger efter – men finns stöd i aktien - EFN
-- Dolly Style till Furuviksparken - Mynewsdesk
+- Morgonkoll: AI-ras i Tokyo och Seoul: ”En rekyl var väntad” - Dagens industri
+- Höstens viktigaste skyltfönster - Nöjesguiden
 - Motorola Edge 70 officiellt lanserad: 5,99 mm tunn - mobil.se
 
 ## World News
 
 - VNV Global tar emot slutbetalning från Gett-försäljning - har nettokassa (Finwire News) - Aktiellt
 - Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
+- Wolverine Worldwide Releases 2024 Global Impact Report - Placera.se
 - Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - UPS Acquires Andlauer Healthcare Group for $1.6 Billion, Accelerating Its Expansion as a Global Leader in Complex Healthcare Logistics - Business Wire
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
+- Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Svenska bolagen kan slå till: ”Vore nästan tjänstefel” - EFN
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- New Secretary General appointed - Olof Palme International Center
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
+- Global drogsajt stängd – svenskar gripna - Drugnews
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- New Global Research Reveals Employee Growth Is the Key to Business Resilience in the Age of AI and Workforce Transformation - Placera.se
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- S&P Global förvärvar With Intelligence (Finwire News) - Aktiellt
+- Goodbaby International's Revenue Reaches Approximately HK$6,420.0 million in the First Three Quarters of 2025 - Placera.se
+- Blackstone Credit & Insurance Appoints Laura Coady as Global Head of CLOs and European Head of Liquid Credit Strategies - Placera.se
 
 ## Technology
 
@@ -63,10 +63,10 @@ _Updated: 2025-11-05 12:46_
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 - Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
@@ -90,9 +90,9 @@ _Updated: 2025-11-05 12:46_
 - Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Money movement – Evolving expectations of economic migrants - mastercard.com
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -119,9 +119,8 @@ _Updated: 2025-11-05 12:46_
 
 ## Science
 
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
@@ -132,17 +131,19 @@ _Updated: 2025-11-05 12:46_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Olika slutsatser från samma data - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
@@ -159,6 +160,5 @@ _Updated: 2025-11-05 12:46_
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
-- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
