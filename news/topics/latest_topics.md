@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-05 06:45_
+_Updated: 2025-11-05 07:42_
 
 ## Top Stories
 
-- Vallokalerna har stängt –Zohran Mamdani blir New Yorks nya borgmästare - SVT Nyheter
+- Zohran Mamdani blir ny borgmästare i New York - Dagens Nyheter
 - Flera döda i flygkrasch i USA - Västerbottens-Kuriren
-- DN Direkt – Maratonmöte när EU försöker enas om klimatet - Dagens Nyheter
 - Tiotusentals flyr el-Fasher i panik genom dödens korridor - Dagens Nyheter
-- Misstänkt grovt våldsbrott i Örebro - Expressen
-- Motgång för Trump – Demokraterna vann stort i natt - Aftonbladet
+- Buss träffades av projektil – Universitetsrondellen i Örebro spärrades av - SVT Nyheter
+- Rådet till Kristersson: ”Äg SD-samarbetet” - SvD
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Nytt regelverk för bygglov - Habo kommun
-- Man stickskadad på Sofielund i Malmö - SVT Nyheter
-- Kristersson försvarar kick off på Harpsund - Västerbottens-Kuriren
+- Hemlig diplomatisk insats fick hem bortförd svensk tonåring - Sydsvenskan
 - Elisabeth Thand Ringqvist föreslås bli ny c-ledare – ”Ett naturligt val” - Dagens Arena
-- Bryssels flygplats stängdes efter drönarlarm - GP
-- Kraftig brand i flerfamiljshus i Helsingborg – två till sjukhus - Sydsvenskan
-- Turkiska raffinaderier drar ned på rysk olja - Västerbottens-Kuriren
-- Klart: Syriens ledare till Vita huset - GP
+- DN Direkt – UD avråder från alla resor till Mali - Dagens Nyheter
+- Ödeskamp om klimatet i EU – mötet pausas - Västerbottens-Kuriren
+- Dödstal stiger kraftigt efter tyfon i Filippinerna - Hufvudstadsbladet
+- Drönarlarm i Belgien – luftrummet öppet igen - GP
+- Demokraternas kandidat vinner i New Jersey - Expressen
+- Boendekostnader lyfter kraftigt även i år - SvD
 - Daniel Ek: Optimerar inte för kvartalsresultat - Dagens industri
-- Lågkonjunktur bromsar länets småföretag, stark framtidstro inför 2026 - Skillingaryd
+- Mer än AI-oro sänkte börsen: "Skifte under ytan" - EFN
 - Läkarförbundet Skåne om Millennium: ”Då skjuter man sig i foten” - Dagens Medicin
-- Röd rekyl på Stockholmsbörsen - EFN
-- Arc Raiders får detaljerat uppdateringsschema för 2025 - Nordichardware
-- Nytt på Xbox Game Pass: 2025 års allra största spel - MovieZine
+- Macbook Pro M6 kan bli Apples första dator med oled-pekskärm och ny design - Macworld.se
+- AI-webbläsaren Dia lägger till fler funktioner från Arc - PC för Alla
 
 ## World News
 
 - Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
+- Wolverine Worldwide Releases 2024 Global Impact Report - Placera.se
+- Strategi för global kreditexpansion – nya möjligheter för kryptomarknaden - Trijo News
 - Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - UPS Acquires Andlauer Healthcare Group for $1.6 Billion, Accelerating Its Expansion as a Global Leader in Complex Healthcare Logistics - Business Wire
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- Svenska bolagen kan slå till: ”Vore nästan tjänstefel” - EFN
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- World’s first research portal on recycled tyre rubber receives international award - Mynewsdesk
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Sundin ser fram emot Global Series och OS: ”På tiden" - NHL.com
+- TGE Confirms Plan to Build the World's First The Art Newspaper Hotel in 2026/27 - Placera.se
+- New Global Research Reveals Employee Growth Is the Key to Business Resilience in the Age of AI and Workforce Transformation - Placera.se
 
 ## Technology
 
@@ -56,19 +56,19 @@ _Updated: 2025-11-05 06:45_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
-- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
-- Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Palladyne AI Secures U.S. Patent for Advanced Swarming and Autonomy Technology - Placera.se
 - Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
-- XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 
 ## Business
