@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-05 17:51_
+_Updated: 2025-11-05 18:56_
 
-- First Thing: Zohran Mamdani elected New York City mayor - The Guardian
-- Tariffs Are Here to Stay, Even if the Supreme Court Rules Against Trump - The New York Times
-- California Republicans thought they could beat Newsom's gerrymander. They crashed and burned. - Politico
-- Trump on Democrats' election blowout: 'I don't think it was good for Republicans' - CNBC
+- Zohran Mamdani victory shows how to defeat rightwing populism, says UK MP - The Guardian
+- Supreme Court hears Trump tariffs case of 'staggering' importance - abcnews.go.com
+- CA passes Prop. 50, Trump threatens legal action - CalMatters
 - The government shutdown is now the longest in U.S. history. See how it compares - NPR
-- Analysing footage of UPS cargo plane take-off moments before crash in Kentucky - BBC
-- Democrats set historic records on election night. Here are six of the firsts they accomplished - The Guardian
-- Here's what CBS News exit polls told us about the 2025 elections - CBS News
-- Air traffic controllers warn of 'tipping point' as U.S. government shutdown drags on - NPR
+- A UPS plane with three crew members crashed after takeoff at the Louisville airport - Axios
+- Pa. election 2025: Here’s who won and who lost; full results - WHYY
+- Republicans try to turn national Democratic candidates into Mamdani copycats - Politico
+- Abigail Spanberger elected Virginia governor in a historic first that boosts Democrats ahead of 2026 - MLive.com
 - Typhoon Kalmaegi: death toll rises to 66 as widespread flooding hits central Philippines - The Guardian
+- Ukraine's Zelenskyy visits troops near threatened Pokrovsk - DW
+- Scars in the Blue Mosque Reveal Afghanistan’s Rifts - The New York Times
 - Prosecutors seize yachts, luxury cars from man accused of running Cambodia cyberscams - NPR
-- Two critically injured after driver rams into people on French island - BBC
-- Hamas Returns Last Dead American-Israeli Hostage to Israel - The Wall Street Journal
-- Tesla Board Warns Shareholders: Pay Musk or Risk Losing Him - TipRanks
-- France moves to suspend Shein website as it opens first store in Paris - BBC
-- Global stock markets fall sharply over AI bubble fears - The Guardian
+- France moves to suspend access to Shein platform as the retailer opens its first store in Paris - AP News
+- Tesla board to shareholders: Pay Musk or else - Reuters
 - McDonald’s bucks dining industry downturn with cost-conscious pitch - Financial Times
-- Google Maps bakes in Gemini to improve navigation and hands-free use - TechCrunch
+- 'Big Short' investor Michael Burry has a $1.1 billion bet against AI stocks and markets are plunging - Fortune
 - Cloud streaming finally arrives on the PlayStation Portal - The Verge
-- Leaker shows us how Galaxy S26 Ultra will look next to S25 Ultra and iPhone 17 Pro Max - PhoneArena
+- Google Maps bakes in Gemini to improve navigation and hands-free use - TechCrunch
+- Former Meta employees launch Sandbar, a smart ring that takes voice notes and controls music - TechCrunch
+- This refreshingly innovative smartphone brand has entered the US - Android Authority
