@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-05 21:38_
+_Updated: 2025-11-05 22:43_
 
 ## Top Stories
 
-- Gabriel Zetterström: Zohran Mamdani visar hur politiker kan hantera sociala medier på rätt sätt - Dagens Nyheter
-- Person skjuten i Stockholm - Västerbottens-Kuriren
-- Anna kan bli granne med urangruva i Jämtland: ”Vi kan inte bo kvar” - SVT Nyheter
-- Sjuksköterskor kan ha blivit förgiftade: "Livshotande tillstånd" - UNT
-- Forskare: Massakern i Sudan en av de värsta detta århundrade - GP
-- Uttalande av klimat- och miljöminister Romina Pourmokhtari - Regeringen.se
+- Man död efter skjutning i västra Stockholm - SvD
+- Magdalena Andersson (S) efter hoten: ”Farligt för demokratin” - GP
+- Över halva jordens befolkning leds av män över 70 år - Dagens Nyheter
+- Himlafenomen i kväll – men därför blir det svårt att se - Corren
+- Attack mot begravning i krigets Sudan – 40 döda - Dagens Nyheter
+- Klimatforskaren: EU-ländernas klimatmål en urvattning - SVT Nyheter
+- Riksdagen säger ja till uranbrytning i Sverige - SVT Nyheter
+- Utrikesministern: Inga svenska vapen i Sudan - GP
 - Rapport: Pengar inte viktigast för ökad återvandring - Dagens Nyheter
 - Regeringens feminism gäller bara Romina Pourmokhtari – inte kvinnor med riktiga jobb - Arbetet
-- Larmen inifrån växande anstalten: ”Tickande bomb” - Dagens Nyheter
-- Bil voltade utanför Bromölla – förare död - SVT Nyheter
-- Över halva jordens befolkning leds av män över 70 år - Dagens Nyheter
-- Ryska draget hotar Ukraina - Expressen
+- ”Mamdanis seger är absurd” - Arbetet
+- Ryssland sätter motorer på sovjetiska bomber - Omni
 - Ett år med Trump: ”Han vill vara envåldshärskare” - Aftonbladet
 - Carl Bildts skarpa kritik mot Trump: ”Korruption” - Expressen
 - Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - riksbank.se
 - Matpriser pressas till max: "En rysare för producenter" - EFN
-- Kungen och Saab till Kanada – medier spår jätteaffär - Affärsvärlden
+- Kinas ellastbilar drar ifrån – svenska jättar vill mildra klimatkrav - Dagens Nyheter
 - Nya Black Friday-fusket: Så rundar butiken lagen - Gefle Dagblad
 - Caia Cosmetics släpper glöggen Pink Sip med Blossa - GP
-- Call of Duty: Black Ops 7 får officiella systemkrav - Nordichardware
+- Smarta hemmet får smarta fönster - mobil.se
 
 ## World News
 
@@ -50,21 +50,21 @@ _Updated: 2025-11-05 21:38_
 
 ## Technology
 
+- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
+- The Future of AI patents: Navigating Europe´s patent landscape - day 1 - Svenskt Näringsliv
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
+- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 - XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
@@ -122,43 +122,43 @@ _Updated: 2025-11-05 21:38_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
