@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-05 09:40_
+_Updated: 2025-11-05 10:50_
 
 ## Top Stories
 
-- Vallokalerna har stängt –Zohran Mamdani blir New Yorks nya borgmästare - SVT Nyheter
-- DN Direkt – Maratonmöte när EU försöker enas om klimatet - Dagens Nyheter
-- Dödstalet skrivs upp efter flygkrasch i USA - GP
-- Region Östergötland i stabsläge – omfattande IT-strul - SVT Nyheter
+- Zohran Mamdani vinner borgmästarvalet i New York - Västerbottens-Kuriren
+- EU-länder har gjort upp om klimatmål till 2040 - Dagens Nyheter
+- Region Östergötland i stabsläge - GP
+- Flera döda i flygkrasch i USA - Västerbottens-Kuriren
 - Tiotusentals flyr el-Fasher i panik genom dödens korridor - Dagens Nyheter
-- Buss träffades av projektil – Universitetsrondellen i Örebro spärrades av - SVT Nyheter
-- Hemlig diplomatisk insats fick hem bortförd svensk tonåring - Sydsvenskan
+- Patrik Lundberg: Sölvesborg har knäckt framgångskoden - Dagens Nyheter
+- Kemikalieinspektionen larmar: Giftiga ämnen i piratkopierade Labubus - SVT Nyheter
 - Elisabeth Thand Ringqvists uppdragsgivare finns på börsen - Arbetet
+- Högsta domstolen: Poliser frias för tjänstefel - SVT Nyheter
 - Regeringens feminism gäller bara Romina Pourmokhtari – inte kvinnor med riktiga jobb - Arbetet
-- 03 november 21.50, Mord/dråp, Västerås - Polisen.se
-- Skandlademokrat vinner viktiga valet i Virginia - Expressen
-- Kalifornien röstar för att rita om valkretsar - Västerbottens-Kuriren
 - Dödstal stiger kraftigt efter tyfon i Filippinerna - Hufvudstadsbladet
-- Drönarlarm störde flygtrafiken i Belgien - Dagens Nyheter
-- Boendekostnader lyfter kraftigt även i år - Dagens Nyheter
-- Cloettas ökar lönsamheten – men omsättningen minskar - Dagens industri
-- Först sänkte USA – nu pausar Kina amerikansk tullhöjning - Ny Teknik
-- Draget som kan ha kostat dig 50 000 kronor - SvD
+- USA bombar ännu en knarkbåt - Expressen
+- DN Direkt – Misstänkt grovt våldsbrott i Örebro – universitetsområde avspärrat - Dagens Nyheter
+- Newsom efter segern: Björnen ryter tillbaka - Aftonbladet
+- Boendekostnader lyfter kraftigt även i år - SvD
+- Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - riksbank.se
+- Cloetta ökar lönsamheten – men omsättningen minskar - Dagens industri
+- Kina pausar amerikansk tullhöjning - Tidningen Näringslivet
 - Macbook Pro M6 kan bli Apples första dator med oled-pekskärm och ny design - Macworld.se
-- Live Translation med Airpods kommer till i EU - Macworld.se
+- Motorola Edge 70 officiellt lanserad: 5,99 mm tunn - mobil.se
 
 ## World News
 
@@ -54,21 +54,21 @@ _Updated: 2025-11-05 09:40_
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
-- Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Safe Pro Group Announces Closing of $14 Million Strategic Investment and Provides Business Update - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
+- XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 
 ## Business
@@ -90,9 +90,9 @@ _Updated: 2025-11-05 09:40_
 - Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Money movement – Evolving expectations of economic migrants - mastercard.com
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
 
@@ -101,49 +101,48 @@ _Updated: 2025-11-05 09:40_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Stora risker med kvalitetsbrister i globala hälsosystem - Läkartidningen
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
-- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
-- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
-- Olika slutsatser från samma data - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
@@ -160,5 +159,6 @@ _Updated: 2025-11-05 09:40_
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
 - SLU gets important UN mission on antibiotic resistance - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
