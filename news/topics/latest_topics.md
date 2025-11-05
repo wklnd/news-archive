@@ -1,35 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-05 23:38_
+_Updated: 2025-11-06 00:42_
 
 ## Top Stories
 
+- Svenske läkaren i Darfur: ”Det värsta jag sett” - Dagens Nyheter
 - Man död efter skjutning i västra Stockholm - SvD
-- Gabriel Zetterström: Zohran Mamdani visar hur politiker kan hantera sociala medier på rätt sätt - Dagens Nyheter
-- DN Direkt – Stort tillslag mot gängkriminella i Spanien - Dagens Nyheter
-- Nu är det supermåne – därför ser den extra stor ut - GP
-- Magdalena Andersson (S) efter hoten: ”Farligt för demokratin” - GP
-- Över halva jordens befolkning leds av män över 70 år - Dagens Nyheter
+- V sneglar över Atlanten – efter Mamdanis vinst - GP
+- Ett år efter Trumpsegern – hyllas fortfarande i New Yorks fattigaste stadsdel - Aftonbladet
+- Mördade kvinnans ord: ”Han slutar inte förrän han dödat mig” - Expressen
+- Klimatforskaren: EU-ländernas klimatmål en urvattning - SVT Nyheter
 - Ministern: Inga vapen till Sudan - SVT Nyheter
 - Rapport: Pengar inte viktigast för ökad återvandring - Dagens Nyheter
-- Klimatforskaren: EU-ländernas klimatmål en urvattning - SVT Nyheter
 - Just nu: Förbudet mot uranbrytning tas bort - Västerbottens-Kuriren
+- Regeringens feminism gäller bara Romina Pourmokhtari – inte kvinnor med riktiga jobb - Arbetet
+- Tysk sjuksköterska döms för mord på tio patienter - Dagens Nyheter
+- 240 dödade i Gaza trots vapenvila - SVT Nyheter
 - Arkeologer: Kan ha hittat Danmarks äldsta skelett - Dagens Nyheter
-- Ryssland sätter motorer på sovjetiska bomber - Omni
-- Jon Fosse vid utbildningsvärldens jubelårsfirande: ”Att skriva är en gåva” - Vatican News
-- Världens viktigaste 80-åring stapplar sig fram – utan pengar till medicin - EFN
-- Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - riksbank.se
-- Utbrottet efter blankarens AI-prognos: “Spritt språngande galen” - Breakit
+- Över halva jordens befolkning leds av män över 70 år - Dagens Nyheter
 - Matpriser pressas till max: "En rysare för producenter" - EFN
-- Kinas ellastbilar drar ifrån – svenska jättar vill mildra klimatkrav - Dagens Nyheter
-- Caia Cosmetics släpper glöggen Pink Sip med Blossa - GP
-- Smarta hemmet får smarta fönster - mobil.se
+- Utbrottet efter blankarens AI-prognos: “Spritt språngande galen” - Breakit
+- Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - riksbank.se
+- Dramatisk kostnadsutveckling för vatten och avlopp samt elnät, fjärrvärme och avfall - Örebronyheter
+- Supermåne över Sverige i kväll: ”Årets största” - Aftonbladet
+- Källor: Apple betalar miljarder för Gemini i Siri - Omni
 
 ## World News
 
-- Planet Signs 8-Figure Contract Renewal with International Defense and Intelligence Customer - Placera.se
+- Wolverine Worldwide Appoints Justin Cupps as Work Group President - Placera.se
 - Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
 - VNV Global tar emot slutbetalning från Gett-försäljning - har nettokassa (Finwire News) - Aktiellt
+- Planet Signs 8-Figure Contract Renewal with International Defense and Intelligence Customer - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
@@ -43,9 +44,8 @@ _Updated: 2025-11-05 23:38_
 - Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Påven: En ny global utbildning för hopp i vår tid - Vatican News
-- Stockholm Observatory for Global China - Utrikespolitiska institutet
 - Goodbaby International's Revenue Reaches Approximately HK$6,420.0 million in the First Three Quarters of 2025 - Placera.se
-- Somaliland: Election in a "non-existing" country - Global Bar Magazine
+- S&P Global Research Reveals Data Center Investments Moving The U.S. Macro Needle - Placera.se
 - S&P Global Report Charts Enterprise Race to Build AI Agent-Ready Infrastructure - Placera.se
 
 ## Technology
@@ -102,20 +102,20 @@ _Updated: 2025-11-05 23:38_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
-- The Lancet tar grepp om hälsa och klimat - Läkartidningen
+- Stora risker med kvalitetsbrister i globala hälsosystem - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
-- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
-- Erik Selin blir den nya ordförande i cancerbolaget Multi4 Medical AB - it-halsa.se
 
 ## Science
 
@@ -144,21 +144,21 @@ _Updated: 2025-11-05 23:38_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Nyheter - LRF - Lantbrukarnas Riksförbund
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Här är världens största jordbruk - ATL
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Tio jordbruksaktier för depån - Placera.se
+- Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
