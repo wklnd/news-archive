@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-05 06:51_
+_Updated: 2025-11-05 07:48_
 
 - California voters OK new congressional lines, boosting Democrats ahead of midterms - NPR
-- Zohran Mamdani wins NYC mayoral election after energizing young voters with focus on affordability - CBS News
-- Spanberger wins Virginia gubernatorial race as Dems sweep statewide races - Politico
+- Zohran Mamdani elected mayor of New York City in historic win - The Guardian
+- Spanberger Wins Virginia Governor’s Race With Forceful Anti-Trump Campaign - The New York Times
+- New Jersey governor election results 2025 live updates - The Washington Post
 - Live update: UPS plane crash near Louisville, Kentucky, airport, at least 7 killed, 11 injured - CNN
 - Trump's closing argument: Tariff case is "life or death" for the U.S. - Axios
-- Democrats cruise to victory, and other takeaways from Election Day 2025 - PBS
+- Democrats win big on Election Night in key races - CNBC
 - 2 young men arrested in explosion at Harvard Medical School: FBI - abcnews.go.com
+- On Eve of Shutdown Record, Trump Administration Threatens Pain Could Worsen - The New York Times
 - Judge calls alleged conditions at Chicago-area immigration site ‘disgusting’ - PBS
-- Pennsylvania voters retain Supreme Court justices Dougherty, Donohue, Wecht - NBC News
-- Border Patrol agent testifies sandwich thrown at him "exploded all over," left mustard stains - CBS News
-- Typhoon Kalmaegi kills at least 58 in the Philippines, heads toward Vietnam - Reuters
 - Body of IDF soldier Itay Chen, killed fighting Hamas on Oct. 7, returned to Israel - The Times of Israel
-- US proposes that the UN authorize a Gaza stabilization force for 2 years - AP News
-- European Union tries to forge new climate targets before the COP30 summit in Brazil starts next week - abcnews.go.com
+- Kalmaegi death toll climbs to 66 as Philippine survivors confront destruction - Reuters
+- Newspaper headlines: Reeves poised to break 50-year tax 'taboo' and 'Arise, Sir Becks' - BBC
+- The Story of Three Defiant Nuns in Austria - NPR
 - Norway’s wealth fund vote is latest blow to Musk’s $1 trillion pay package - TechCrunch
-- Stocks Tumble, Bonds Rise With Yen on Haven Bid: Markets Wrap - Bloomberg
 - Here's What Wall Street Analysts Are Saying About Palantir's Earnings as Its Stock Plunges - Investopedia
 - France investigates Shein and Temu after sex doll scandal - BBC
+- Cava cuts full-year forecast, in another warning sign for fast-casual restaurants - CNBC
 - Apple may release its first 'low-cost' Mac laptop in early 2026 - Engadget
 - Microsoft AI’s first in-house image generator MAI-Image-1 is now available - The Verge
