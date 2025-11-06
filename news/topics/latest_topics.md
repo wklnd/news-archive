@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-06 18:52_
+_Updated: 2025-11-06 19:42_
 
 ## Top Stories
 
-- Åtal väckt för förberedelse till terroristbrott i Stockholm och mordförsök i Tyskland - Åklagarmyndigheten
-- Säkerhetschefen om förgiftningen på Akademiska: ”En isolerad händelse” - Dagens Medicin
-- 18 000 utan ström i Solna och Sundbyberg - SVT Nyheter
+- Drönare observerad vid Landvetter – flyg omdirigeras - SVT Nyheter
+- Förgiftningsexperten: Det orsakar kaliumbrist - Aftonbladet
+- Sverige och Ukraina fördjupar innovationssamarbetet - Regeringen.se
+- Åtal för förberedelse till terroristbrott - Säkerhetspolisen
 - Två döda i kraftig villabrand – anhöriga underrättade - NWT
-- DN Direkt – RSF-milisen godkänner förslag på humanitär vapenvila - Dagens Nyheter
-- Grannar skakade efter dödsskjutningen i Bromma - Mitt i
-- Sveriges och Ukrainas försvarsministrar håller presskonferens - Dagens Nyheter
-- Man livshotande skadad efter trafikolycka på väg 111 i Helsingborg - SVT Nyheter
-- Trots lagskärpning – hoten mot politiker har blivit fler - GP
+- Tidigare M-minister sågar Bildts nya CIA - SvD
+- Klimatmötet COP30 i Brasilien: Var, när och hur går klimatmötet till - SVT Nyheter
+- Livshotande skador efter krock i Skåne - Västerbottens-Kuriren
 - Avarn misstänks för bedrägeri med p-vakter – lurade staden på miljonbelopp - Dagens Nyheter
+- Trots lagskärpning – hoten mot politiker har blivit fler - GP
+- RSF: Ja till humanitär vapenvila i Sudan - SVT Nyheter
 - 2025 på väg att bli det tredje varmaste året som uppmätts - Dagens Nyheter
-- Katastrofläge i Filippinerna – 140 döda i tyfonen - Västerbottens-Kuriren
 - EU-länder enas om urvattnat klimatmål - GP
-- ”Mamdanis seger är absurd” - Arbetet
+- Helena Lindblad: Jag mötte Zohran Mamdanis mamma - Dagens Nyheter
 - 19 omhändertogs efter tillslag mot prestigeprojektet Stegra i Boden - Arbetet
+- Svantesson om inflationen: Jag är inte oroad - Aftonbladet
 - Busch: Inga särlösningar för Stegra - SvD
 - Skanskas vinst bommar förväntningarna – lönsamheten högre - Dagens industri
-- Oljeleveranser rasar – USA:s sanktioner biter - Dagens PS
 - Sony släpper verktyg för att mäta fördomar hos AI-modeller - Computer Sweden
 - Max Martin flyttar hem till Sverige - GP
 
@@ -29,46 +29,46 @@ _Updated: 2025-11-06 18:52_
 
 - Santander Bank Launches Navigator Global to Empower U.S. Businesses Expanding Internationally - Placera.se
 - Bamse goes global – beloved Swedish comics character launches new educational adventure game in English - Mynewsdesk
+- CI Global Asset Management Recognized for Strong Investment Performance with 15 LSEG Lipper Fund Awards - Placera.se
 - VNV Global tar emot slutbetalning från Gett-försäljning - har nettokassa (Finwire News) - Aktiellt
-- Wolverine Worldwide Appoints Justin Cupps as Work Group President - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Wolverine Worldwide Appoints Justin Cupps as Work Group President - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Somaliland: Election in a "non-existing" country - Global Bar Magazine
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
-- CI Global Asset Management Recognized for Strong Investment Performance with 15 LSEG Lipper Fund Awards - Placera.se
 - Omdia: Global Tablet Shipments Rose 5% in Q3 2025, Extending Two-Year Growth Streak - Placera.se
 - S&P Global Research Reveals Data Center Investments Moving The U.S. Macro Needle - Placera.se
 
 ## Technology
 
+- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
+- Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Orano deploys intelligent humanoid robot in the nuclear sector - DagensNaringsliv.se
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
+- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
+- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
+- XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 
 ## Business
@@ -76,23 +76,23 @@ _Updated: 2025-11-06 18:52_
 - POWERING PROGRESS: CARIBBEAN UTILITIES COMPANY, LTD. PUBLISHES INAUGURAL GREEN FINANCE REPORT, REINFORCING COMMITMENT TO SUSTAINABLE INVESTMENT - Placera.se
 - Transforming Thailand to a digital economy - mastercard.com
 - EU:s nya strategi för en global omställning till ren och resilient teknik - European Commission
-- The circular economy in action at Blenheim Palace - mastercard.com
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Student and entry-level programs - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
+- The circular economy in action at Blenheim Palace - mastercard.com
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Alerus Financial Corporation Names New Chief Financial Officer and Chief Accounting Officer - Placera.se
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Money movement – Evolving expectations of economic migrants - mastercard.com
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -101,21 +101,21 @@ _Updated: 2025-11-06 18:52_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - NyTeknik
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
@@ -144,21 +144,21 @@ _Updated: 2025-11-06 18:52_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
