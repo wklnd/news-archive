@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-06 21:48_
+_Updated: 2025-11-06 22:50_
 
-- FAA flight cuts will hit major hubs across the US - Politico
-- The Supreme Court could say Trump's tariffs are illegal. What happens then? - abcnews.go.com
-- Former Speaker Nancy Pelosi will not seek reelection - NPR
-- Trump announces deals with Eli Lilly, Novo Nordisk to slash weight loss drug prices, offer some Medicare coverage - CNBC
-- Zohran Mamdani and the Wall Street vibe shift - Axios
-- Government shutdown live updates as Senate talks continue over deal to resolve impasse - CBS News
-- Jury Awards $10 Million to Teacher Shot by 6-Year-Old Student - The New York Times
-- Officials scour charred site of Kentucky UPS plane crash for victims and answers - AP News
 - Jury acquits D.C. 'sandwich guy' charged with chucking a sub at a federal agent - NBC News
-- The federal government is still shut down. Here's what that means across the country - NPR
+- What travelers should expect at airports as FAA cuts flights across the country - abcnews.go.com
+- Nancy Pelosi announces her retirement from Congress - The Washington Post
+- Trump's tariffs run into revenue problem at the Supreme Court - Axios
+- Here's how much weight loss drugs could cost you under Trump's deals with Eli Lilly, Novo Nordisk - CNBC
+- Wall Street reckons with life under Zohran Mamdani - NPR
+- Senators push toward deal to end shutdown as final sticking points remain - CNN
+- Officials scour charred site of Kentucky UPS plane crash for victims and answers - AP News
+- A former teacher shot by her 6-year-old student wins a $10 million jury verdict - NPR
+- House cleaner fatally shot in Indiana after showing up at the wrong address - NBC News
+- Devastating typhoon kills at least 114 in Philippines, officials say - The Washington Post
 - Israeli jets strike southern Lebanon towns, escalating near-daily attacks - AP News
-- As Pokrovsk is set to fall, Ukraine must choose to fight or save troops - The Washington Post
-- 5,000-year-old wine press and evidence of a cult unearthed during highway construction project in Israel - CBS News
-- Mexican women outraged by public sexual assault on their president - The Guardian
-- Elon Musk’s ultimatum to Tesla: Make me a trillionaire or I may leave - The Washington Post
-- US layoffs for October surge to two-decade high, Challenger data shows - Reuters
-- Stock Market Today: Dow, S&P 500 and Nasdaq trim sharp losses as investors focus on valuations, layoffs and Tesla pay vote; Qualcomm, Robinhood shares slip - MarketWatch
-- Bank of England Diverges From Fed With Rate Hold - The Wall Street Journal
+- Mexico President Claudia Sheinbaum presses charges after street groping incident - ABC7 New York
+- Why the fall of Pokrovsk would matter to Ukraine and Russia - BBC
+- Tesla shareholders to vote on Elon Musk’s $1tn pay deal - Financial Times
+- Stock Market Today: Dow Slips 300 Points With Tesla Vote, Earnings in Focus — Live Updates - The Wall Street Journal
+- Mark Zuckerberg and Priscilla Chan Restructure Their Philanthropy - The New York Times
+- Microsoft AI says it’ll make superintelligent AI that won’t be terrible for humanity - The Verge
 - Apple is paying Google $1bn to upgrade Siri with... Gemini - Android Authority
-- Another iPhone Air competitor lands: the Huawei Mate 70 Air - 9to5Mac
+- Huawei Debuts Ultrathin iPhone Air Response Priced at $590 - Bloomberg.com
