@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-06 07:42_
+_Updated: 2025-11-06 08:52_
 
 ## Top Stories
 
+- Ovetjkin nådde drömgränsen: ”Speciellt” - Dagens Nyheter
 - Svenske läkaren i Darfur: ”Det värsta jag sett” - Dagens Nyheter
 - Mohammad misshandlades – åtalade kopplas till Aktivklubb - Mitt i
-- Dödstalet passerar 100 efter tyfon i Filippinerna - GP
-- Fler döda efter flygkrasch – motor föll av - GP
-- Kvinna dödshotade anhöriga – greps i Borlänge för förberedelse till mord - SVT Nyheter
-- Himlafenomen i natt – men därför blir det svårt att se - Corren
-- Ökad intolerans mot hbtqi i skolan – utbildare och lärare larmar - Dagens Nyheter
+- Dödstalet passerar 100 efter tyfon i Filippinerna - Västerbottens-Kuriren
+- Två till sjukhus efter misstänkt mordbrand i Helsingborg - Omni
 - Trumps Sverigesändebud: Presidenten är briljant - Västerbottens-Kuriren
-- Riksdagen: Ja till uranbrytning - SVT Nyheter
-- EU försvagar sitt nya klimatmål – så kommenterar finländska ministern - Hufvudstadsbladet
+- Ökad intolerans mot hbtqi i skolan – utbildare och lärare larmar - Dagens Nyheter
+- Klimatforskaren: EU-ländernas klimatmål en urvattning - SVT Nyheter
+- Riksdagen säger ja till uranbrytning i Sverige - GP
+- Klimatmötet börjar: Det här vet vi nu - Hufvudstadsbladet
 - V sneglar över Atlanten – efter Mamdanis vinst - GP
 - Sjuksköterska dömd för patientmord - Västerbottens-Kuriren
-- Ukraina: ”Förstärker försvaret av Pokrovsk” - Dagens Nyheter
-- DN Direkt – Drönare stör flygtrafiken i Belgien – luftrum stängde - Dagens Nyheter
+- Zelenskyj besöker soldater nära Pokrovsk - Aftonbladet
+- Så har Trumps tullar påverkat världsekonomin - Dagens Nyheter
+- Statliga pensionsfonden investerar miljarder i kol- och oljejättar - Sveriges Radio
 - Nu avgörs Musks megabonus – kan bli 9 000 miljarder - SvD
+- Efter björnmarknad – så går det för bitcoin enligt experterna - Dagens PS
 - Ekonomer oense om Riksbankens nästa räntesteg - Tidningen Näringslivet
-- Dramatisk kostnadsutveckling för vatten och avlopp samt elnät, fjärrvärme och avfall - Örebronyheter
-- Många mår dåligt på jobbet: ”Strukturellt problem” - Nerikes Allehanda
+- Canon presenterar EOS R6 Mark III och RF 45mm F1.2 STM – flexibel kamera och innovativt objektiv ger fler kreativa möjligheter för visuella storytellers - Mynewsdesk
 - Playstation Portal får stöd för streaming via molnet - m3.se
-- Professor Layton återvänder – ett nytt äventyr väntar på Switch 2 - TechRadar
 
 ## World News
 
@@ -101,43 +101,43 @@ _Updated: 2025-11-06 07:42_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Stora risker med kvalitetsbrister i globala hälsosystem - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
+- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
