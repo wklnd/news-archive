@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-06 19:42_
+_Updated: 2025-11-06 20:51_
 
 ## Top Stories
 
-- Drönare observerad vid Landvetter – flyg omdirigeras - SVT Nyheter
-- Förgiftningsexperten: Det orsakar kaliumbrist - Aftonbladet
-- Sverige och Ukraina fördjupar innovationssamarbetet - Regeringen.se
 - Åtal för förberedelse till terroristbrott - Säkerhetspolisen
-- Två döda i kraftig villabrand – anhöriga underrättade - NWT
-- Tidigare M-minister sågar Bildts nya CIA - SvD
-- Klimatmötet COP30 i Brasilien: Var, när och hur går klimatmötet till - SVT Nyheter
-- Livshotande skador efter krock i Skåne - Västerbottens-Kuriren
-- Avarn misstänks för bedrägeri med p-vakter – lurade staden på miljonbelopp - Dagens Nyheter
-- Trots lagskärpning – hoten mot politiker har blivit fler - GP
+- Erik Esbjörnsson: Det finns ett sätt att lösa konflikten i Sudan - Dagens Nyheter
+- Sverige och Ukraina fördjupar innovationssamarbetet - Regeringen.se
+- Säkerhetschefen om förgiftningen på Akademiska: ”En isolerad händelse” - Dagens Medicin
 - RSF: Ja till humanitär vapenvila i Sudan - SVT Nyheter
-- 2025 på väg att bli det tredje varmaste året som uppmätts - Dagens Nyheter
-- EU-länder enas om urvattnat klimatmål - GP
+- Två döda i kraftig villabrand – anhöriga underrättade - NWT
+- Klimatmötet COP30 i Brasilien: Var, när och hur går klimatmötet till - SVT Nyheter
+- Elin Karlsson tar hem toppstriden – blir ny förste vice ordförande - Läkartidningen
+- En av fyra utsatta politiker övervägde att lämna sina uppdrag - Dagens Nyheter
+- Pågående strömavbrott i Solna och Sundbyberg - solna.se
+- Israel har attackerat byar i Libanon - Västerbottens-Kuriren
+- DN Direkt – Läkemedelschef föll ihop bredvid Trump under pressträff - Dagens Nyheter
 - Helena Lindblad: Jag mötte Zohran Mamdanis mamma - Dagens Nyheter
-- 19 omhändertogs efter tillslag mot prestigeprojektet Stegra i Boden - Arbetet
-- Svantesson om inflationen: Jag är inte oroad - Aftonbladet
-- Busch: Inga särlösningar för Stegra - SvD
-- Skanskas vinst bommar förväntningarna – lönsamheten högre - Dagens industri
-- Sony släpper verktyg för att mäta fördomar hos AI-modeller - Computer Sweden
+- EU-länder enas om urvattnat klimatmål - GP
+- Svensk inflation högre än väntat i oktober - Morningstar Canada
+- Fastighetsnedskrivning pressar Skanska: ”Fortsatt avvaktande” - Dagens industri
+- Industrivärden: Tronskifte i portföljen - Affärsvärlden
+- Oljeleveranser rasar – USA:s sanktioner biter - Dagens PS
 - Max Martin flyttar hem till Sverige - GP
+- Ikea visar upp sina kommande smarta hemmet-nyheter - m3.se
 
 ## World News
 
 - Santander Bank Launches Navigator Global to Empower U.S. Businesses Expanding Internationally - Placera.se
 - Bamse goes global – beloved Swedish comics character launches new educational adventure game in English - Mynewsdesk
-- CI Global Asset Management Recognized for Strong Investment Performance with 15 LSEG Lipper Fund Awards - Placera.se
+- UPL launches a global campaign '#AFarmerCan' ahead of COP30, championing farmers in climate action - Placera.se
 - VNV Global tar emot slutbetalning från Gett-försäljning - har nettokassa (Finwire News) - Aktiellt
+- CI Global Asset Management Recognized for Strong Investment Performance with 15 LSEG Lipper Fund Awards - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Wolverine Worldwide Appoints Justin Cupps as Work Group President - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- Wolverine Worldwide Appoints Justin Cupps as Work Group President - Placera.se
 - Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Somaliland: Election in a "non-existing" country - Global Bar Magazine
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Omdia: Global Tablet Shipments Rose 5% in Q3 2025, Extending Two-Year Growth Streak - Placera.se
-- S&P Global Research Reveals Data Center Investments Moving The U.S. Macro Needle - Placera.se
 
 ## Technology
 
@@ -58,41 +58,41 @@ _Updated: 2025-11-06 19:42_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Orano deploys intelligent humanoid robot in the nuclear sector - DagensNaringsliv.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
+- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
-- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
+- BigBear.ai And Palantir Announce Strategic Partnership, Combining AI-powered Products With Next Generation Operating Platform - Placera.se
 
 ## Business
 
 - POWERING PROGRESS: CARIBBEAN UTILITIES COMPANY, LTD. PUBLISHES INAUGURAL GREEN FINANCE REPORT, REINFORCING COMMITMENT TO SUSTAINABLE INVESTMENT - Placera.se
 - Transforming Thailand to a digital economy - mastercard.com
 - EU:s nya strategi för en global omställning till ren och resilient teknik - European Commission
+- The circular economy in action at Blenheim Palace - mastercard.com
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Student and entry-level programs - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- The circular economy in action at Blenheim Palace - mastercard.com
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Alerus Financial Corporation Names New Chief Financial Officer and Chief Accounting Officer - Placera.se
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Money movement – Evolving expectations of economic migrants - mastercard.com
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
 
@@ -107,28 +107,28 @@ _Updated: 2025-11-06 19:42_
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Årets tio största vetenskapliga genombrott - Dagens Nyheter
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
@@ -137,8 +137,8 @@ _Updated: 2025-11-06 19:42_
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
