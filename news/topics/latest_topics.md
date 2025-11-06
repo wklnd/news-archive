@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-06 11:43_
+_Updated: 2025-11-06 12:46_
 
 ## Top Stories
 
-- 18-åring misstänks ha förberett terrordåd i Stockholm – åtalas - SVT Nyheter
-- Så har Trumps tullar påverkat världsekonomin - Dagens Nyheter
-- SD:s maktplan – hemliga strategin - Expressen
+- 38-åring mördade flickvän i och försökte mörda exfru i Västerås – döms till rättspsykiatrisk vård - SVT Nyheter
+- 18-åring ville göra militärtjänst i Sverige – planerade terrorattack mot Kulturfestivalen - Dagens Nyheter
 - Varning för monstervågor när tyfonen når Vietnam - GP
-- Två till sjukhus efter misstänkt mordbrand i Helsingborg - Omni
-- Mohammad misshandlades – åtalade kopplas till Aktivklubb - Mitt i
+- Ny rapport: Var fjärde politiker utsatt för hot - Västerbottens-Kuriren
+- Så har Trumps tullar påverkat världsekonomin - Dagens Nyheter
+- JUST NU: Villa helt övertänd – rökdykning pågår: ”Flera fordon nära” - NWT
 - Ökad intolerans mot hbtqi i skolan – utbildare och lärare larmar - Dagens Nyheter
-- Brå: Var fjärde politiker utsatt för hot - SVT Nyheter
 - Klimatmötet börjar: Det här vet vi nu - Hufvudstadsbladet
 - Trumps Sverigesändebud: Presidenten är briljant - Västerbottens-Kuriren
-- Katastrofläge i Filippinerna – 140 döda i tyfonen - Västerbottens-Kuriren
+- Begränsad framkomlighet på E4 efter olycka - SVT Nyheter
+- Katastrofläge i Filippinerna – 140 döda i tyfonen - GP
 - Klimatforskaren: EU-ländernas klimatmål en urvattning - SVT Nyheter
-- Insändare. Svenska socialdemokrater bör ta lärdom av Mandami - Dagens Nyheter
+- Insändare. Svenska socialdemokrater bör ta lärdom av Mamdani - Dagens Nyheter
 - Kissnödiga inbrottstjuvar låstes in på toalett - UNT
-- SCB: Inflationen oförändrad i oktober - SVT Nyheter
-- Stor skillnad mellan bolåneräntor - SvD
 - Sjunde AP-fonden investerar miljarder i kol- och oljejättar - tidningensyre.se
-- Astra Zeneca slår vinstförväntningarna: ”Stark tillväxttakt i hela verksamheten” - Dagens industri
-- Supermåne över Sverige i kväll: ”Årets största” - Aftonbladet
+- SCB: Inflationen oförändrad i oktober - SVT Nyheter
+- Stor skillnad i bolåneräntor – kan kosta över 4 500 kronor om året - Finansinspektionen
+- UBS sänker riktkursen för Novo Nordisk till 315 danska kronor (340), upprepar neutral - Placera.se
 - Canon presenterar EOS R6 Mark III och RF 45mm F1.2 STM – flexibel kamera och innovativt objektiv ger fler kreativa möjligheter för visuella storytellers - Mynewsdesk
+- Playstation Portal får stöd för streaming via molnet - m3.se
 
 ## World News
 
@@ -41,12 +41,12 @@ _Updated: 2025-11-06 11:43_
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Bamse goes global – beloved Swedish comics character launches new educational adventure game in English - Mynewsdesk
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Goodbaby International's Revenue Reaches Approximately HK$6,420.0 million in the First Three Quarters of 2025 - Placera.se
-- Omdia: Global Tablet Shipments Rose 5% in Q3 2025, Extending Two-Year Growth Streak - Placera.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - S&P Global Research Reveals Data Center Investments Moving The U.S. Macro Needle - Placera.se
+- S&P Global Report Charts Enterprise Race to Build AI Agent-Ready Infrastructure - Placera.se
 
 ## Technology
 
@@ -56,19 +56,19 @@ _Updated: 2025-11-06 11:43_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Orano deploys intelligent humanoid robot in the nuclear sector - DagensNaringsliv.se
 - NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
-- Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
 - Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 
 ## Business
@@ -104,41 +104,41 @@ _Updated: 2025-11-06 11:43_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Stora risker med kvalitetsbrister i globala hälsosystem - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
-- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -159,6 +159,6 @@ _Updated: 2025-11-06 11:43_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Macron miljardsatsar på franskt jordbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
