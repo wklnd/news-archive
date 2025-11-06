@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-06 13:39_
+_Updated: 2025-11-06 15:07_
 
 ## Top Stories
 
-- 18-åring misstänks ha förberett terrordåd i Stockholm – åtalas - SVT Nyheter
+- 18-åring misstänks ha planerat terrorattack mot Kulturfestivalen - Dagens Nyheter
 - 38-åring mördade flickvän och försökte mörda exfru i Västerås – döms till rättspsykiatrisk vård - SVT Nyheter
-- Fyra får fängelse för mordbränder på Käringön - Dagens Nyheter
+- JUST NU: Två döda i kraftig villabrand – anhöriga underrättade - NWT
 - Avarn misstänks för bedrägeri med p-vakter – lurade staden på miljonbelopp - Dagens Nyheter
-- Varning för monstervågor när tyfonen når Vietnam - GP
-- JUST NU: Villa helt övertänd – rökdykning pågår: ”Flera fordon nära” - NWT
-- Trots lagskärpning – hoten mot politiker har blivit fler - GP
+- Mordbränder på Käringön – fyra dömda - GP
+- Ny rapport: Var fjärde politiker utsatt för hot - Västerbottens-Kuriren
 - Ökad intolerans mot hbtqi i skolan – utbildare och lärare larmar - Dagens Nyheter
-- Klimatmötet börjar: Det här vet vi nu - Hufvudstadsbladet
-- 06 november 05.52, Trafikolycka, Örnsköldsvik - polisen.se
+- Ackis uppmaning – mitt i krisen - UNT
+- 06 november 07.54, Sammanfattning natt, Jönköpings län - polisen.se
 - Över 100 döda i tyfon – Filippinerna utlyser undantagstillstånd - Dagens Nyheter
+- Synen på invandrare enar Trump och Japans nya premiärminister - Dagens Nyheter
 - Klimatforskaren: EU-ländernas klimatmål en urvattning - SVT Nyheter
 - Robert ratade Mamdani: ”Trots allt försiktigt optimistisk” - GP
-- Kissnödiga inbrottstjuvar låstes in på toalett - UNT
-- Klart högre inflationstakt än väntat i oktober - EFN
-- Stor skillnad i bolåneräntor – kan kosta över 4 500 kronor om året - Finansinspektionen
-- Sjunde AP-fonden investerar miljarder i kol- och oljejättar - tidningensyre.se
-- Förslaget: Garanti om resebolaget går i konkurs - Dagens industri
+- Stegras vd: ”Vi kör på med full fart” - Aktuell Hållbarhet
+- Stor polisinsats på Stegra i Boden – flera arbetare hörs av polisen - SVT Nyheter
+- Oväntat hög inflation i oktober - Dagens Nyheter
+- Ödesfrågan – kommer Musk att sluta? - SvD
+- Ikeas 21 nya produkter för smarta hemmet – alla med stöd för Matter-standarden - mobil.se
 - Han duckar inte när det blir dålig stämning - Vision
 - Supermåne över Sverige i kväll: ”Årets största” - Aftonbladet
 
 ## World News
 
+- Bamse goes global – beloved Swedish comics character launches new educational adventure game in English - Mynewsdesk
 - Wolverine Worldwide Appoints Justin Cupps as Work Group President - Placera.se
 - Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
 - VNV Global tar emot slutbetalning från Gett-försäljning - har nettokassa (Finwire News) - Aktiellt
 - Planet Signs 8-Figure Contract Renewal with International Defense and Intelligence Customer - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
-- Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Bamse goes global – beloved Swedish comics character launches new educational adventure game in English - Mynewsdesk
-- Ex-nyhetsankare på BBC hade barnpornografi - Omni
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Stockholm Observatory for Global China - Utrikespolitiska institutet
-- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Omdia: Global Tablet Shipments Rose 5% in Q3 2025, Extending Two-Year Growth Streak - Placera.se
+- S&P Global Research Reveals Data Center Investments Moving The U.S. Macro Needle - Placera.se
 
 ## Technology
 
@@ -56,10 +56,12 @@ _Updated: 2025-11-06 13:39_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Orano deploys intelligent humanoid robot in the nuclear sector - DagensNaringsliv.se
-- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
@@ -68,8 +70,6 @@ _Updated: 2025-11-06 13:39_
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
-- Aiforia selected by Institut Curie for AI-assisted cancer diagnostics - Placera.se
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 
 ## Business
 
@@ -144,21 +144,21 @@ _Updated: 2025-11-06 13:39_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Här är världens största jordbruk - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
+- Maskinförare | Jobb | ATL - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
