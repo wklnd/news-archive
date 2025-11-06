@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-06 18:57_
+_Updated: 2025-11-06 19:49_
 
-- Dallas Cowboys' Kneeland dies aged 24 - BBC
-- FAA says it's cutting thousands of flights a day starting this week due to shutdown. Here's the list of airports where flights are set to be reduced - abcnews.go.com
-- Nancy Pelosi announces her retirement from Congress - The Washington Post
+- Trump announces deals with Eli Lilly, Novo Nordisk to slash weight loss drug prices, offer some Medicare coverage - CNBC
+- FAA orders 10% cut in flights at several airports as shutdown drags on - The Washington Post
+- Nancy Pelosi, first woman to be House speaker, announces retirement - abcnews.go.com
+- Government shutdown live updates as Senate talks continue over deal to resolve impasse - CBS News
+- Wall Street reckons with life under Zohran Mamdani - NPR
 - Tariff refunds are now a very real possibility … and a giant ‘mess’ - CNN
-- Typhoon Kalmaegi hits Vietnam after killing at least 114 in Philippines - BBC
-- Heritage staff in open revolt over leader’s defense of Tucker Carlson - The Washington Post
-- New video shows explosive moment of UPS plane crash - NBC News
-- SNAP recipients will now get up to 65% of November food stamp benefits, Trump administration says - CBS News
-- From Jamie Dimon to Bill Ackman, Wall Street's billionaires are now changing their tune and offering to help Zohran Mamdani - Fortune
+- Nine people remain missing from UPS plane crash, Louisville mayor says - NBC News
 - Republicans take stock of Newsom, a ‘Tier 1 Democrat’ after Prop 50 - Politico
-- Louvre spent too much on art and not enough on security, audit finds - Financial Times
+- SNAP recipients will now get up to 65% of November food stamp benefits, Trump administration says - CBS News
+- Donald Trump enters his lame duck era - Politico
 - Pope meets with Palestinian President, says action on Gaza is 'urgent' - Vatican News
-- Japan deploys the military to counter a surge in bear attacks - NPR
-- Ukraine faces potential fall of Pokrovsk to Russia after 18-month battle of attrition - abcnews.go.com
-- Tesla shareholders to vote on Elon Musk’s $1tn pay deal - Financial Times
-- Layoffs rise to recession-like levels through October, new report says - The Washington Post
-- Lilly moves obesity drug to late-stage trials after it shows promise - Reuters
+- Israeli jets strike southern Lebanon towns, escalating near-daily attacks - AP News
+- As Pokrovsk is set to fall, Ukraine must choose to fight or save troops - The Washington Post
+- Mexican women outraged by public sexual assault on their president - The Guardian
+- Tesla investors vote on an $878 billion payday for Musk - but that's not all - Reuters
+- Bank of England Diverges From Fed With Rate Hold - The Wall Street Journal
 - Mark Zuckerberg and Priscilla Chan Restructure Their Philanthropy - The New York Times
+- Stock Market Today: Dow Slides As Layoffs Surge; DoorDash Sinks On Results; Gas Stock Thrives (Live Coverage) - Investor's Business Daily
 - Google Maps upgrades navigation in India with Gemini, safety alerts - TechCrunch
 - Apple is paying Google $1bn to upgrade Siri with... Gemini - Android Authority
