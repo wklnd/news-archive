@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-06 07:48_
+_Updated: 2025-11-06 08:55_
 
-- Government shutdown prompts FAA to float flight cancellations as Senate talks continue - CBS News
-- White House tells Supreme Court it doesn’t care about the tariff money raised - The Washington Post
-- California Republicans vow to continue fighting Prop 50 - Politico
 - Zohran Mamdani announces all-female transition team as he prepares for New York mayoralty - The Guardian
-- 12 dead after engine fell off UPS plane that crashed and exploded in Kentucky - AP News
+- Government shutdown prompts FAA to float flight cancellations as Senate talks continue - CBS News
+- California Republicans vow to continue fighting Prop 50 - Politico
+- UPS Plane That Crashed Was 34 Years Old—and Repaired in September - The Wall Street Journal
 - 'Folks are tired of the chaos': Pa. Gov. Shapiro reacts to Democrats' big election night wins - 6abc Philadelphia
+- White House tells Supreme Court it doesn’t care about the tariff money raised - The Washington Post
+- 'It's a disgrace': Chicagoans describe jarring encounters with feds as judge prepares to rule on 'blitz' - Chicago Sun-Times
 - Democrats tap the brakes on ending government shutdown - Axios
-- Court Orders ICE to Clean Up Chicago Detention Conditions - The Wall Street Journal
-- Republicans Point Fingers After Election Losses, but Not at Trump - The New York Times
+- 3 teens charged in connection with alleged Halloween terror attack plot - abcnews.go.com
 - Mexico President Sheinbaum presses charges after street groping incident - Politico
+- Japan deploys the military to counter a surge in bear attacks - AP News
 - Typhoon Kalmaegi death toll hits 114 in Philippines; storm rebuilds strength as it heads to Vietnam - Reuters
-- Photos from inside Gaza show destruction wrought by Israeli military efforts to root out Hamas - AP News
-- US pressures Israel to allow safe passage for 100 to 200 Hamas operatives in Rafah - The Times of Israel
-- Tesla Shareholders Cast Votes With Musk’s Future on the Line - Bloomberg.com
-- It’s holiday cup season! See Starbucks new festive designs - Starbucks Coffee
+- Israeli military brings CBS News to the edge of its control in Gaza, where destruction and uncertainty linger - CBS News
+- Elon Musk’s $1 Trillion Pay Plan: The Case For Magical Thinking - Forbes
+- Asia-Pacific markets rise, tracking Wall Street gains, as AI-linked stocks rebound - CNBC
+- Starbucks workers union vote to authorize strike amid stalled talks - Reuters
 - E.l.f. Beauty Stock Slumps on Full-Year Guidance Amid Broad Consumer Worries - The Wall Street Journal
-- Starbucks unionized workers say they'll strike on Nov. 13 if coffee giant doesn't finalize contract - CBS News
 - Google Maps bakes in Gemini to improve navigation and hands-free use - TechCrunch
 - Motorola is releasing yet another low-cost mid-ranger with a 7,000mAh battery (and Android 16) - PhoneArena
-- This AI smart ring lets you record voice notes with a whisper - The Verge
+- Canon Offers an Even Better Look at Its Upcoming Camera - PetaPixel
