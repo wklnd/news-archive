@@ -1,35 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-06 15:48_
+_Updated: 2025-11-06 16:45_
 
 ## Top Stories
 
-- Stegras vd slår tillbaka: Det vi gör är bulletproof - Aftonbladet
-- 18-åring planerade terrorattack mot Kulturfestivalen - Dagens Nyheter
+- Åtal väckt för förberedelse till terroristbrott i Stockholm och mordförsök i Tyskland - Åklagarmyndigheten
 - 38-åring mördade flickvän och försökte mörda exfru i Västerås – döms till rättspsykiatrisk vård - SVT Nyheter
 - JUST NU: Två döda i kraftig villabrand – anhöriga underrättade - NWT
-- Mordbränder på Käringön – fyra dömda - GP
 - Avarn misstänks för bedrägeri med p-vakter – lurade staden på miljonbelopp - Dagens Nyheter
+- Grannar skakade efter dödsskjutningen i Bromma - Mitt i
+- Erik Esbjörnsson: Det finns ett sätt att lösa konflikten i Sudan - Dagens Nyheter
+- Livshotande skador efter krock i Skåne - Västerbottens-Kuriren
 - Trots lagskärpning – hoten mot politiker har blivit fler - GP
-- Ökad intolerans mot hbtqi i skolan – utbildare och lärare larmar - Dagens Nyheter
 - Ackis uppmaning – mitt i krisen - UNT
-- Splittrat EU kompromissade om försvagat 2040-mål - Europaportalen
-- Över 100 döda i tyfon – Filippinerna utlyser undantagstillstånd - Dagens Nyheter
+- Riksdagen säger ja till uranbrytning i Sverige - SVT Nyheter
+- Över 100 döda i Filippinerna – tyfonen drar in över Vietnam - Dagens Nyheter
 - Synen på invandrare enar Trump och Japans nya premiärminister - Dagens Nyheter
+- Klimatforskaren: EU-ländernas klimatmål en urvattning - SVT Nyheter
 - Robert ratade Mamdani: ”Trots allt försiktigt optimistisk” - GP
-- Kissnödiga inbrottstjuvar låstes in på toalett - UNT
+- Bristande säkerhet och avvisningar efter polisinsats på Stegra - Metal Supply
 - Förslaget: Garanti om resebolaget går i konkurs - Dagens industri
-- Ödesfrågan – kommer Musk att sluta? - SvD
+- Nu avgörs Elon Musks megabonus – kan bli 9 000 miljarder - NyTeknik
 - Skanska bommar vinsten: ”Nedskrivning tynger” - Omni
-- Industrivärden: Tronskifte i portföljen - Affärsvärlden
-- Ikeas 21 nya produkter för smarta hemmet – alla med stöd för Matter-standarden - mobil.se
 - Han duckar inte när det blir dålig stämning - Vision
+- AMD Ryzen 7 9700X3D skådas i Passmark - Nordichardware
 
 ## World News
 
 - Bamse goes global – beloved Swedish comics character launches new educational adventure game in English - Mynewsdesk
-- Wolverine Worldwide Appoints Justin Cupps as Work Group President - Placera.se
 - Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
+- Wolverine Worldwide Appoints Justin Cupps as Work Group President - Placera.se
 - VNV Global tar emot slutbetalning från Gett-försäljning - har nettokassa (Finwire News) - Aktiellt
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
@@ -57,10 +57,11 @@ _Updated: 2025-11-06 15:48_
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Orano deploys intelligent humanoid robot in the nuclear sector - DagensNaringsliv.se
-- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
-- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
@@ -69,7 +70,6 @@ _Updated: 2025-11-06 15:48_
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
-- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 
 ## Business
 
@@ -87,7 +87,7 @@ _Updated: 2025-11-06 15:48_
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Alerus Financial Corporation Names New Chief Financial Officer and Chief Accounting Officer - Placera.se
+- BTQ and ICTK Sign USD 15M Quantum-Secure Chip Development and Joint Investment Agreement to Advance Global Quantum-Safe Hardware - Placera.se
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -106,15 +106,15 @@ _Updated: 2025-11-06 15:48_
 - Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Stora risker med kvalitetsbrister i globala hälsosystem - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 
 ## Science
@@ -144,21 +144,21 @@ _Updated: 2025-11-06 15:48_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- (+) Stor undersökning av jordbruket - Arbetarskydd
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
-- Maskinförare | Jobb | ATL - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
