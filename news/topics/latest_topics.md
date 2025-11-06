@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-06 10:49_
+_Updated: 2025-11-06 11:43_
 
 ## Top Stories
 
-- Svenske läkaren i Darfur: ”Det värsta jag sett” - Dagens Nyheter
-- DN Direkt – Nödläge utlyst i Filippinerna - Dagens Nyheter
-- JUST NU: Villa helt övertänd – rökdykning pågår: ”Flera fordon nära” - NWT
-- Så har Trumps tullar påverkat världsekonomin - Dagens Nyheter
-- Två till sjukhus efter misstänkt mordbrand i Helsingborg - Omni
-- Trumps Sverigesändebud: Presidenten är briljant - Västerbottens-Kuriren
-- Brå: Var fjärde politiker utsatt för hot - SVT Nyheter
-- Ökad intolerans mot hbtqi i skolan – utbildare och lärare larmar - Dagens Nyheter
 - 18-åring misstänks ha förberett terrordåd i Stockholm – åtalas - SVT Nyheter
+- Så har Trumps tullar påverkat världsekonomin - Dagens Nyheter
+- SD:s maktplan – hemliga strategin - Expressen
+- Varning för monstervågor när tyfonen når Vietnam - GP
+- Två till sjukhus efter misstänkt mordbrand i Helsingborg - Omni
+- Mohammad misshandlades – åtalade kopplas till Aktivklubb - Mitt i
+- Ökad intolerans mot hbtqi i skolan – utbildare och lärare larmar - Dagens Nyheter
+- Brå: Var fjärde politiker utsatt för hot - SVT Nyheter
 - Klimatmötet börjar: Det här vet vi nu - Hufvudstadsbladet
+- Trumps Sverigesändebud: Presidenten är briljant - Västerbottens-Kuriren
+- Katastrofläge i Filippinerna – 140 döda i tyfonen - Västerbottens-Kuriren
 - Klimatforskaren: EU-ländernas klimatmål en urvattning - SVT Nyheter
-- Gabriel Zetterström: Zohran Mamdani visar hur politiker kan hantera sociala medier på rätt sätt - Dagens Nyheter
+- Insändare. Svenska socialdemokrater bör ta lärdom av Mandami - Dagens Nyheter
 - Kissnödiga inbrottstjuvar låstes in på toalett - UNT
-- Sjuksköterska dömd för patientmord - GP
 - SCB: Inflationen oförändrad i oktober - SVT Nyheter
+- Stor skillnad mellan bolåneräntor - SvD
 - Sjunde AP-fonden investerar miljarder i kol- och oljejättar - tidningensyre.se
 - Astra Zeneca slår vinstförväntningarna: ”Stark tillväxttakt i hela verksamheten” - Dagens industri
-- Nu avgörs Musks megabonus – kan bli 9 000 miljarder - SvD
+- Supermåne över Sverige i kväll: ”Årets största” - Aftonbladet
 - Canon presenterar EOS R6 Mark III och RF 45mm F1.2 STM – flexibel kamera och innovativt objektiv ger fler kreativa möjligheter för visuella storytellers - Mynewsdesk
-- Källor: Apple betalar miljarder för Gemini i Siri - Omni
 
 ## World News
 
@@ -41,12 +41,12 @@ _Updated: 2025-11-06 10:49_
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Goodbaby International's Revenue Reaches Approximately HK$6,420.0 million in the First Three Quarters of 2025 - Placera.se
+- Omdia: Global Tablet Shipments Rose 5% in Q3 2025, Extending Two-Year Growth Streak - Placera.se
 - S&P Global Research Reveals Data Center Investments Moving The U.S. Macro Needle - Placera.se
-- S&P Global Report Charts Enterprise Race to Build AI Agent-Ready Infrastructure - Placera.se
 
 ## Technology
 
@@ -56,8 +56,8 @@ _Updated: 2025-11-06 10:49_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Orano deploys intelligent humanoid robot in the nuclear sector - DagensNaringsliv.se
 - NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
@@ -75,23 +75,23 @@ _Updated: 2025-11-06 10:49_
 
 - POWERING PROGRESS: CARIBBEAN UTILITIES COMPANY, LTD. PUBLISHES INAUGURAL GREEN FINANCE REPORT, REINFORCING COMMITMENT TO SUSTAINABLE INVESTMENT - Placera.se
 - Transforming Thailand to a digital economy - mastercard.com
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The circular economy in action at Blenheim Palace - mastercard.com
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Alerus Financial Corporation Names New Chief Financial Officer and Chief Accounting Officer - Placera.se
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Money movement – Evolving expectations of economic migrants - mastercard.com
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Nordiska företag ligger efter i implementering av kritiska klimatåtgärder - Deloitte
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
@@ -159,6 +159,6 @@ _Updated: 2025-11-06 10:49_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Macron miljardsatsar på franskt jordbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Maskinförare | Jobb | ATL - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
