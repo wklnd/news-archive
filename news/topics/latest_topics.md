@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-06 15:07_
+_Updated: 2025-11-06 15:48_
 
 ## Top Stories
 
-- 18-åring misstänks ha planerat terrorattack mot Kulturfestivalen - Dagens Nyheter
+- Stegras vd slår tillbaka: Det vi gör är bulletproof - Aftonbladet
+- 18-åring planerade terrorattack mot Kulturfestivalen - Dagens Nyheter
 - 38-åring mördade flickvän och försökte mörda exfru i Västerås – döms till rättspsykiatrisk vård - SVT Nyheter
 - JUST NU: Två döda i kraftig villabrand – anhöriga underrättade - NWT
-- Avarn misstänks för bedrägeri med p-vakter – lurade staden på miljonbelopp - Dagens Nyheter
 - Mordbränder på Käringön – fyra dömda - GP
-- Ny rapport: Var fjärde politiker utsatt för hot - Västerbottens-Kuriren
+- Avarn misstänks för bedrägeri med p-vakter – lurade staden på miljonbelopp - Dagens Nyheter
+- Trots lagskärpning – hoten mot politiker har blivit fler - GP
 - Ökad intolerans mot hbtqi i skolan – utbildare och lärare larmar - Dagens Nyheter
 - Ackis uppmaning – mitt i krisen - UNT
-- 06 november 07.54, Sammanfattning natt, Jönköpings län - polisen.se
+- Splittrat EU kompromissade om försvagat 2040-mål - Europaportalen
 - Över 100 döda i tyfon – Filippinerna utlyser undantagstillstånd - Dagens Nyheter
 - Synen på invandrare enar Trump och Japans nya premiärminister - Dagens Nyheter
-- Klimatforskaren: EU-ländernas klimatmål en urvattning - SVT Nyheter
 - Robert ratade Mamdani: ”Trots allt försiktigt optimistisk” - GP
-- Stegras vd: ”Vi kör på med full fart” - Aktuell Hållbarhet
-- Stor polisinsats på Stegra i Boden – flera arbetare hörs av polisen - SVT Nyheter
-- Oväntat hög inflation i oktober - Dagens Nyheter
+- Kissnödiga inbrottstjuvar låstes in på toalett - UNT
+- Förslaget: Garanti om resebolaget går i konkurs - Dagens industri
 - Ödesfrågan – kommer Musk att sluta? - SvD
+- Skanska bommar vinsten: ”Nedskrivning tynger” - Omni
+- Industrivärden: Tronskifte i portföljen - Affärsvärlden
 - Ikeas 21 nya produkter för smarta hemmet – alla med stöd för Matter-standarden - mobil.se
 - Han duckar inte när det blir dålig stämning - Vision
-- Supermåne över Sverige i kväll: ”Årets största” - Aftonbladet
 
 ## World News
 
@@ -31,7 +31,6 @@ _Updated: 2025-11-06 15:07_
 - Wolverine Worldwide Appoints Justin Cupps as Work Group President - Placera.se
 - Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
 - VNV Global tar emot slutbetalning från Gett-försäljning - har nettokassa (Finwire News) - Aktiellt
-- Planet Signs 8-Figure Contract Renewal with International Defense and Intelligence Customer - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
@@ -46,6 +45,7 @@ _Updated: 2025-11-06 15:07_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Omdia: Global Tablet Shipments Rose 5% in Q3 2025, Extending Two-Year Growth Streak - Placera.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - S&P Global Research Reveals Data Center Investments Moving The U.S. Macro Needle - Placera.se
 
 ## Technology
@@ -56,12 +56,11 @@ _Updated: 2025-11-06 15:07_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Orano deploys intelligent humanoid robot in the nuclear sector - DagensNaringsliv.se
-- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
+- NetDragon and Open University Malaysia Sign Strategic MOU to Jointly Explore New Models of AI-Powered Open Education - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- 290 million SEK for digitalisation of Swedish industry - Vinnova
+- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
@@ -70,6 +69,7 @@ _Updated: 2025-11-06 15:07_
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
+- Dubai Holding and Palantir launch Aither: A joint venture to lead AI transformation - Placera.se
 
 ## Business
 
@@ -87,7 +87,7 @@ _Updated: 2025-11-06 15:07_
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- BTQ and ICTK Sign USD 15M Quantum-Secure Chip Development and Joint Investment Agreement to Advance Global Quantum-Safe Hardware - Placera.se
+- Alerus Financial Corporation Names New Chief Financial Officer and Chief Accounting Officer - Placera.se
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -106,15 +106,15 @@ _Updated: 2025-11-06 15:07_
 - Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Stora risker med kvalitetsbrister i globala hälsosystem - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 
 ## Science
