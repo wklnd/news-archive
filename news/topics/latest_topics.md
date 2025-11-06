@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-06 04:20_
+_Updated: 2025-11-06 05:35_
 
 ## Top Stories
 
-- Svenske läkaren i Darfur: ”Det värsta jag sett” - Dagens Nyheter
-- Robert ratade Mamdani: ”Trots allt försiktigt optimistisk” - GP
-- Himlafenomen i natt – men därför blir det svårt att se - Corren
+- ”Svarta änkor” gifter sig med ryska soldater – för pengar - Dagens Nyheter
+- Afghanistan och Pakistan återupptar förhandlingar - GP
+- Misstänkt anlagd brand vid lägenhetsdörr i Helsingborg - SVT Nyheter
+- ” Mamdani står inför formidabla utmaningar” - Dagens Arena
 - Klimatforskaren: EU-ländernas klimatmål en urvattning - SVT Nyheter
-- Brorsson (S) om uranbeslutet: ”Ett hån mot medborgarna” - SVT Nyheter
 - Direkt – Kriget i Ukraina – Peskov: Väntar på amerikanskt klargörande om kärnvapenprov - Dagens Nyheter
 - Man död efter skottlossning i västra Stockholm - Dagens Nyheter
-- Ministern: Inga vapen till Sudan - SVT Nyheter
+- Utrikesministern: Inga svenska vapen i Sudan - GP
+- Just nu: Förbudet mot uranbrytning tas bort - Västerbottens-Kuriren
 - Regeringens feminism gäller bara Romina Pourmokhtari – inte kvinnor med riktiga jobb - Arbetet
-- Chimi tvingas in rekonstruktion – har 100 miljoner i skulder - Breakit
 - Tysk sjuksköterska döms för mord på tio patienter - Dagens Nyheter
-- 240 dödade i Gaza trots vapenvila - SVT Nyheter
+- Hamas: Kan ge upp raketer - Västerbottens-Kuriren
+- Centerpartiet: Kan vara vår sista chans att rädda Parisavtalet - Aftonbladet
 - ”Trump vill vara en envåldshärskare” - Aftonbladet
-- ”Svarta änkor” gifter sig med ryska soldater – för pengar - Dagens Nyheter
 - Dramatisk kostnadsutveckling för vatten och avlopp samt elnät, fjärrvärme och avfall - Örebronyheter
-- Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - riksbank.se
+- Chimi tvingas in rekonstruktion – har 100 miljoner i skulder - Breakit
+- Ekonomer oense om Riksbankens nästa räntesteg - Tidningen Näringslivet
 - Många mår dåligt på jobbet: ”Strukturellt problem” - Nerikes Allehanda
-- Utspelen duggar tätt i hyresförhandlingarna - Altinget.se
 - Källor: Apple betalar miljarder för Gemini i Siri - Omni
 - Nintendo storsatsar på en egen filmvärld – minst 4 filmer på väg - MovieZine
 
@@ -33,20 +33,20 @@ _Updated: 2025-11-06 04:20_
 - Planet Signs 8-Figure Contract Renewal with International Defense and Intelligence Customer - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Wolverine Worldwide Releases 2024 Global Impact Report - Placera.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- S&P Global förvärvar With Intelligence (Finwire News) - Aktiellt
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Goodbaby International's Revenue Reaches Approximately HK$6,420.0 million in the First Three Quarters of 2025 - Placera.se
+- S&P Global Research Reveals Data Center Investments Moving The U.S. Macro Needle - Placera.se
+- S&P Global Report Charts Enterprise Race to Build AI Agent-Ready Infrastructure - Placera.se
 
 ## Technology
 
@@ -105,60 +105,60 @@ _Updated: 2025-11-06 04:20_
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - Stora risker med kvalitetsbrister i globala hälsosystem - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- »De misslyckade läkarna« eller »de riktiga läkarna«? - Läkartidningen
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 
 ## Science
 
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Nyheter - LRF - Lantbrukarnas Riksförbund
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Arbetande förman | Jobb | ATL - Land Lantbruk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
