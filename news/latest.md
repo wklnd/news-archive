@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-06 01:48_
+_Updated: 2025-11-06 04:22_
 
-- Trump administration will reduce traffic at 40 airports across the US starting Friday if shutdown continues - CNN
-- White House tells Supreme Court it doesn’t care about the tariff money raised - The Washington Post
-- Democrats' 2025 election wins go beyond big races to places like Georgia, Pennsylvania - NPR
-- With slim majority, Mamdani takes over a divided city - Politico
-- Republicans file lawsuit to block new congressional map approved by California voters - PBS
-- Voters on Tuesday rewarded Democrats who addressed economic costs. Hours later, Trump said he delivered an 'economic miracle.' - Politico
-- Video of UPS plane crash in Louisville provides clues as investigators try to determine cause of disaster - CBS News
-- Democrats gird for longer shutdown fight after election sweep - Politico
-- Experts weigh in on ‘blue wave’ in Va. after Democrats sweep statewide races - WTOP
+- 40 airports to cut flights by 10% if shutdown continues, FAA says - Axios
+- Mayor-elect Zohran Mamdani says New York will resist Trump 'intimidation' - abcnews.go.com
+- Supreme Court put Trump tariffs on a high-fire grill, in bipartisan scrutiny - NPR
+- How voters shifted in Virginia, New Jersey and New York elections - The Washington Post
+- UPS plane engine fell off during crash in Louisville, NTSB official says - CBS News
 - What’s really concerning Republicans after Tuesday’s romp - Politico
+- California Republicans vow to continue fighting Prop 50 - Politico
+- Democrats tap the brakes on ending government shutdown - Axios
+- Federal judge warns Justice Department it may be veering close to mishandling evidence in Comey case - CNN
+- Trump Blames Shutdown for Republican Losses on Election Day - The New York Times
 - Photos from inside Gaza show destruction wrought by Israeli military efforts to root out Hamas - AP News
-- Hamas Returns Last Dead American-Israeli Hostage to Israel - The Wall Street Journal
-- Mexico's president was groped on the street. Now she's waging a war against rampant sexual harassment - Los Angeles Times
+- Israel receives body of another hostage as Palestinian deaths reported in Gaza - Reuters
+- Mexico’s President Presses Charges Against Man Who Groped Her on the Street - The New York Times
 - Why the fall of Pokrovsk would matter to Ukraine and Russia - BBC
-- Novo Nordisk Stock (NVO) Falls after Medicare Price Deal, Q3 Earnings Miss - TipRanks
 - The vote that could make Elon Musk the first trillionaire – or prompt him to leave Tesla - CNN
-- Starbucks workers union vote to authorize strike amid stalled talks - Reuters
-- Robinhood doubles its revenue as customers flock to its prediction markets, other new businesses - MarketWatch
+- Fed-Up Starbucks Baristas Prep 'Biggest Strike We've Ever Been On’ - Bloomberg.com
+- E.l.f. Beauty stock plunges 29% on weak guidance, tariff impact - CNBC
+- Popular pizza chain’s future in limbo as parent company considers selling it - Syracuse.com
 - Google Maps bakes in Gemini to improve navigation and hands-free use - TechCrunch
-- You can now stream PS5 games you own over the cloud on the PlayStation Portal - Engadget
+- Google AI Mode comes to Chrome for Android & iOS, expands agentic booking - 9to5Google
