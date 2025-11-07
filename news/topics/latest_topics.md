@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-07 09:39_
+_Updated: 2025-11-07 10:49_
 
 ## Top Stories
 
-- Uppgifter: Jessica Stegrud petas från SD:s partistyrelse - SVT Nyheter
+- Fortsatt lika många gängkriminella - polisen.se
+- Jessica Stegrud föreslås petas från SD:s partistyrelse - SVT Nyheter
 - Kaos när digitala nationella prov testades: ”Galet” - Aftonbladet
 - Polisen: 1 600 sexköp på techbolagets hotell - SvD
-- Misstänkt mord – person hittad död i Eslöv - SVT Nyheter
-- Larm om explosioner kring Sudans huvudstad - SvD
-- Nordkorea har avfyrat ballistisk robot - GP
+- Det är dags att på allvar hålla ögonen på Gavin Newsom - GP
+- Ny attack mot påstådda smugglare - Västerbottens-Kuriren
 - Chockhöjd hyra för p-platser: ”Vi är förvånade och bekymrade” - Gefle Dagblad
+- Klimatmötet COP30 i Brasilien: Var, när och hur går klimatmötet till - SVT Nyheter
 - 07 november 07.59, Sammanfattning natt, Östergötlands län - polisen.se
 - Lastbil har kört av E4: "Väldigt halt" - Västerbottens-Kuriren
-- Klimatmötet COP30 i Brasilien: Var, när och hur går klimatmötet till - SVT Nyheter
-- Ny attack mot påstådda smugglare - GP
-- DN Direkt – Skadad kvinna påträffad Hässelby i Stockholm - Dagens Nyheter
+- Lokförarutbildning i Nässjö stoppas med omedelbar verkan - SVT Nyheter
+- DN Direkt – Flygtrafik i Bryssel stoppades efter drönarlarm - Dagens Nyheter
 - Klimatforskaren: EU-ländernas klimatmål en urvattning - SVT Nyheter
-- 2025 på väg att bli det tredje varmaste året som uppmätts - Dagens Nyheter
+- FN: "Omöjligt" att nå 1,5-gradersmålet - Västerbottens-Kuriren
 - Kommentar till Svensk Mäklarstatistik: Stockholmspriser stiger trots färre bostadsrättsaffärer – små lägenheter bromsar marknaden - Mynewsdesk
-- Gunvor drar tillbaka bud på Lukoil-tillgångar - Folkbladet
-- Ny AI-dipp på Wall Street - Aftonbladet
-- Tesla säger ja till Elon Musks miljardersättning - Dagens industri
+- EBM har inlett förundersökning om Engelberts bolag - Dagens industri
+- Så mycket tjänar Meta på bedrägerierna på Facebook - Dagens Nyheter
+- Den nya effektavgiften för el användare - tjänstebilsfakta
 - TAKE-TWO FÖLL EFTER RAPPORT, FÖRSENING AV GTA VI - Placera.se
 - IKEA lanserar nya produkter för det smarta hemmet - Örebronyheter
 
@@ -29,24 +29,24 @@ _Updated: 2025-11-07 09:39_
 
 - CCTV+: 13th Global Video Media Forum held in Xi'an with call to amplify voice of Global South - Placera.se
 - Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
-- Bamse goes global – beloved Swedish comics character launches new educational adventure game in English - Mynewsdesk
 - VNV Global tar emot slutbetalning från Gett-försäljning - har nettokassa (Finwire News) - Aktiellt
 - Santander Bank Launches Navigator Global to Empower U.S. Businesses Expanding Internationally - Placera.se
-- UPL launches a global campaign '#AFarmerCan' ahead of COP30, championing farmers in climate action - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- UPL launches a global campaign '#AFarmerCan' ahead of COP30, championing farmers in climate action - Placera.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - CI Global Asset Management Recognized for Strong Investment Performance with 15 LSEG Lipper Fund Awards - Placera.se
-- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Wolverine Worldwide Appoints Justin Cupps as Work Group President - Placera.se
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 - Omdia: Global Tablet Shipments Rose 5% in Q3 2025, Extending Two-Year Growth Streak - Placera.se
+- S&P Global Research Reveals Data Center Investments Moving The U.S. Macro Needle - Placera.se
 
 ## Technology
 
@@ -56,10 +56,11 @@ _Updated: 2025-11-07 09:39_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
@@ -69,7 +70,6 @@ _Updated: 2025-11-07 09:39_
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- CoreWeave Announces Partnership with Foundation Model Company Poolside to Deliver AI Cloud Services - Placera.se
 
 ## Business
 
@@ -83,16 +83,16 @@ _Updated: 2025-11-07 09:39_
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
-- Money movement – Evolving expectations of economic migrants - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- Money movement – Evolving expectations of economic migrants - mastercard.com
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -114,31 +114,31 @@ _Updated: 2025-11-07 09:39_
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
@@ -149,16 +149,16 @@ _Updated: 2025-11-07 09:39_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
