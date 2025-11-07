@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-07 19:41_
+_Updated: 2025-11-07 20:46_
 
 ## Top Stories
 
-- 15-åring sköt ihjäl småbarnspappan – döms för mord - SVT Nyheter
-- Faris Al Abdullah planerade terrordåd – svor trohet till IS - Corren
 - Klimatministern reagerar på kungens uttalande: ”Delar inte slutsatsen” - Dagens Nyheter
-- DN Direkt – Danmark förbjuder sociala medier för barn - Dagens Nyheter
-- Hjälparbetarna i Sudan chockas av flyktingarnas skick - GP
-- DN Direkt – Minst 17 500 gängkriminella i Sverige - Dagens Nyheter
-- Novemberrekord slaget – men nu blir det kallare - GP
-- Beslutet: Ingen licensjakt på varg i Värmland: ”Oroade över minskningen” - NWT
+- Faris Al Abdullah planerade terrordåd – svor trohet till IS - Corren
+- Drönarlarm – flyg till Landvetter omdirigeras - GP
 - Länsföretags hotell stängt efter avslöjad sexhandel - Östersunds-Posten
-- Hoppade av som minister – nu blir Acko Ankarberg Johansson landshövding i Västmanlands län - SVT Nyheter
-- DN Direkt – Enormt spindelnät upptäckt i grek-albansk grotta - Dagens Nyheter
-- Stramare visumregler för ryssar i EU - Västerbottens-Kuriren
+- DN Direkt – Minst 17 500 gängkriminella i Sverige - Dagens Nyheter
+- Stal kött – gav sig på personal - Expressen
+- Novemberrekord slaget – men nu blir det kallare - GP
+- USA:s marinkår övar för att säkra Göteborgs hamn - Dagens Nyheter
+- 15-åring sköt ihjäl småbarnspappan – döms för mord - SVT Nyheter
+- Plattform för nationella prov kraschade: ”Katastrof” - Dagens Nyheter
+- Danmark förbjuder sociala medier för barn - Hufvudstadsbladet
 - Audiens hos Påve Leo XIV efter undertecknande av Charta Oecumenica - Sveriges kristna råd
-- Guldfynd i trädgården gjorde honom till mångmiljonär - Dagens PS
+- Stramare visumregler för ryssar i EU - Västerbottens-Kuriren
+- Orbán träffar Trump – rysk olja på agendan - GP
 - Nordenbörserna nedåt – Novo Nordisk föll - Dagens industri
 - Sparprofilen utnyttjad av bedragare: Råttspel - Expressen
 - Affärsvärlden ger ett neutralt råd för Apotea - Börsvärlden
-- Gunvor drar tillbaka bud på Lukoil-tillgångar - Aftonbladet
+- Teslas försäljning störtdyker – rasar 89 procent på en månad - Dagens PS
 - GTA 6 försenas – aktien föll - Dagens industri
 - Disputation: Shabane Barot - Karolinska Institutet
 
@@ -81,64 +81,64 @@ _Updated: 2025-11-07 19:41_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Money movement – Evolving expectations of economic migrants - mastercard.com
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Connected cars, in-car payments driving the auto economy - mastercard.com
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Institutionen för medicinsk epidemiologi och biostatistik - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
-- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
@@ -151,6 +151,7 @@ _Updated: 2025-11-07 19:41_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Här är världens största jordbruk - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
@@ -161,4 +162,3 @@ _Updated: 2025-11-07 19:41_
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
