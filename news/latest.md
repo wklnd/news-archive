@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-07 16:50_
+_Updated: 2025-11-07 17:48_
 
+- SNAP benefits: Trump admin seeks emergency block on order to pay food stamps in full - CNBC
 - What happens if the Supreme Court strikes down Trump’s tariffs? More tariffs - CNN
-- Late Night Laments the Effects of the Longest-Ever Government Shutdown - The New York Times
+- Government shutdown live updates with Senate set to vote on new approach to end impasse - CBS News
+- D.C. "sandwich guy" found not guilty of assaulting officer - Axios
 - Supermarket Billionaire Threatens To Cut Workforce, Move To Florida After Mamdani’s Win - Forbes
-- An NPR reporter's journey into Gaza, for the first time since the war began - NPR
-- Fox Nation Patriot Awards honors Melania Trump, Erika Kirk, and more top headlines - Fox News
+- Stefanik officially launches campaign for New York governor - Politico
+- Flight cancellations ramp up as airlines scramble to comply with FAA order to cut air traffic — live updates - CBS News
 - "Follow her example": Pelosi's retirement reignites Democrats' generational warfare - Axios
-- Airlines cancel 35 Friday flights at Vegas airport after shutdown-related FAA order - The Nevada Independent
-- Republican US Rep. Elise Stefanik is running for governor of New York - AP News
-- US military strikes another boat in the Caribbean, killing 3 - CNN
-- Multiple people fall ill after package delivered to Air Force One base - BBC
+- US strikes another alleged drug boat bringing death toll from campaign in Latin America to 70 - The Guardian
+- Poll: Democrats have no idea who their leader is - Politico
 - Russian Sanctions Risk Straining Trump’s Chummy Relationship With Hungarian Leader - The New York Times
-- What to know about China’s newest aircraft carrier, the Fujian - AP News
+- China seeks to project power far beyond its coast with the new Fujian aircraft carrier - AP News
+- An NPR reporter's journey into Gaza, for the first time since the war began - NPR
 - Hundreds of dolphins found dead in Amazon lake were in water hotter than a jacuzzi, study finds - CBS News
-- Typhoon Kalmaegi brings rain and destruction to Vietnam as death toll nears 200 in Philippines - Reuters
-- Elon Musk's $1 trillion Tesla pay plan wins shareholder approval - Reuters
-- There's no jobs report. Here's what six recent analyses show instead. - Business Insider
-- Stocks slide with tech weak again, Nasdaq heads for big weekly loss: Live updates - CNBC
-- What's happening with furniture prices? A tale of $399 couches and tariffs - NPR
+- Why human-shaped robots loom large in Musk's Tesla plans - BBC
+- US employment report will not be published again as government shutdown drags on - Reuters
+- Nexperia Spat Eases as Chip Flows Open Door to Dutch Reversal - Bloomberg.com
+- Stocks Fall as Burst of Dip-Buying Fades Quickly: Markets Wrap - Bloomberg.com
 - Don't feel sad for Take Two's shareholders over GTA 6 delay: GTA 5 has now sold more copies than the entire population of Brazil - Eurogamer
-- Galaxy S26 was so close to being iconic, but Samsung chose predictability - PhoneArena
+- Apple releases macOS Tahoe 26.2 beta 1 for developers - 9to5Mac
