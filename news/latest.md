@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-07 21:48_
+_Updated: 2025-11-07 22:48_
 
-- Longest government shutdown in US history causes unprecedented disruptions - The Guardian
+- Democrats present offer to end shutdown as air travel situation gets worse - CNN
+- Supreme court considering taking up case challenging legality of same-sex marriage - The Guardian
+- ‘He’s going to push the limits’: Tariff skeptics don’t see Trump taking the off-ramp - Politico
 - ADL explains its Mamdani Monitor initiative: 'Never had an elected official like this before' - NPR
+- Trump administration asks appeals court to immediately halt ruling on SNAP funding - abcnews.go.com
 - Cornell reaches $60 million deal with Trump administration to restore funding - NBC News
-- Russian Sanctions Risk Straining Trump’s Chummy Relationship With Hungarian Leader - The New York Times
-- Trump administration seeks emergency stay of court's order to fund SNAP - Politico
-- SCOTUS weighs whether to hear appeal seeking to overturn marriage equality - Axios
-- How Families Are Coping with SNAP Cuts During the Shutdown - The New York Times
-- Poll: Here’s who Democrats think is their leader - Politico
-- Ted Cruz accuses GOP senators of being ‘frightened’ to call out Tucker Carlson - Politico
-- The most conservative Supreme Court justices will likely join the liberals against Trump's tariffs, analyst says - Fortune
-- Jakarta: More than 50 people injured in mosque blast at high school - BBC
+- Republican US Rep. Elise Stefanik is running for governor of New York - AP News
+- Food banks are in 'disaster response mode' due to shutdown and SNAP cuts, leaders say: 'The damage gets worse and worse' every day - CNBC
+- Indiana woman killed after arriving at wrong address to clean, police say - The Washington Post
+- Nancy Pelosi Is an Icon. She’s Also Part of Democrats’ Two Biggest Problems. - Slate
+- Multiple explosions shake a mosque in an Indonesian high school and injure 54 - AP News
+- Trump heaps praise on Hungary's Viktor Orban in White House meeting - abcnews.go.com
 - U.S. Wants Security Council to Adopt Trump Plan for Gaza - The New York Times
-- Serbia passes a special bill enabling Trump's son-in-law to build luxury compound despite opposition - AP News
-- Canadian ostrich farm loses long legal battle to avoid cull of its birds, despite plea from RFK Jr. - CBS News
-- Flight cancellations ramp up as airlines scramble to comply with FAA order to cut air traffic — live updates - CBS News
-- Consumer sentiment nears lowest level ever as worries build over shutdown - CNBC
+- Stand-off over £800,000 Your Party membership fees - BBC
+- Tesla rewards Elon Musk’s reality-distortion field - The Verge
+- US consumer sentiment drops to near record low as shutdown persists - The Guardian
 - The U.S. job market is slowing, not collapsing - Axios
-- The $1 Trillion Question Hanging Over Elon Musk’s Pay Plan - The New York Times
-- Rockstar Games Delays GTA VI to November 2026 Amid Intern... - X
+- Wall Street tumbles as concerns over economy, tech valuations weigh - Reuters
+- ‘Grand Theft Auto VI’ Is Postponed Again — to November 2026 - Bloomberg.com
 - Samsung Galaxy S27 Ultra Might Adopt A New Face Authentication Mechanism - Wccftech
