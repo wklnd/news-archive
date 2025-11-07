@@ -1,33 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-07 07:42_
+_Updated: 2025-11-07 08:51_
 
 ## Top Stories
 
 - Polisen: 1 600 sexköp på techbolagets hotell - SvD
-- Kaos när digitala nationella prov testades: ”Galet” - Aftonbladet
-- Mexikos president är inte välkommen i Peru - Expressen
-- Bussar i Stockholm ändrar rutt för Gazaprotester – M-toppen rasar - Omni
-- Misstänkt mord – person hittad död i Eslöv - SVT Nyheter
-- Erik Esbjörnsson: Det finns ett sätt att lösa konflikten i Sudan - Dagens Nyheter
-- 06 november 20.20, Trafikkontroll, Västernorrlands län - polisen.se
-- Åtal för förberedelse till terroristbrott - Säkerhetspolisen
+- Stegrud kan petas från partistyrelsen - GP
+- Ny attack mot påstådda smugglare - GP
+- Japan: Nordkorea kan ha avfyrat en ballistisk robot - Omni
+- Man död efter skottlossning i västra Stockholm - Dagens Nyheter
+- Mexikos president inte välkommen i Peru - GP
+- Man hittad död i Eslöv – polisen utreder mord - Omni
+- Lastbil har kört av E4: "Väldigt halt" - Västerbottens-Kuriren
+- Sverige ska ta fram nya vapen i Ukraina - Dagens Nyheter
 - Klimatmötet COP30 i Brasilien: Var, när och hur går klimatmötet till - SVT Nyheter
-- Drönarlarm – flyg till Landvetter omdirigeras - GP
 - Klimatforskaren: EU-ländernas klimatmål en urvattning - SVT Nyheter
 - 2025 på väg att bli det tredje varmaste året som uppmätts - Dagens Nyheter
-- Milis säger ja till humanitär vapenvila i Sudan - GP
 - Förre Natochefen varnar för ”evigt krig” i Ukraina - Omni
+- Spaniens förre kung avslöjar: Jag sköt ihjäl min bror - Expressen
 - Bopriserna lyfter – men här är det trögt - SvD
-- Ny AI-dipp på Wall Street - Aftonbladet
-- Så mycket tjänar Meta på bedrägerierna på Facebook - Dagens Nyheter
-- Svantesson om inflationen: Jag är inte oroad - Dagens industri
-- Take-Two Interactive föll i efterhandeln - GTA VI försenas ytterligare sex månader - Börsvärlden
+- Tesla säger ja till Elon Musks miljardersättning - Dagens industri
+- QUALCOMM BACKAR PÅ RÖDA BÖRSER, S&P 500 -0,3 - Placera.se
+- Julhandel passerar 100 miljarder: ”Uppdämt behov” - Dagens Nyheter
+- TAKE-TWO FÖLL EFTER RAPPORT, FÖRSENING AV GTA VI - Placera.se
 - 21 nya produkter i Ikeas smarta hem-utbud – alla släpps 2026 - Expressen
 
 ## World News
 
 - CCTV+: 13th Global Video Media Forum held in Xi'an with call to amplify voice of Global South - Placera.se
+- Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
 - Bamse goes global – beloved Swedish comics character launches new educational adventure game in English - Mynewsdesk
 - VNV Global tar emot slutbetalning från Gett-försäljning - har nettokassa (Finwire News) - Aktiellt
 - Santander Bank Launches Navigator Global to Empower U.S. Businesses Expanding Internationally - Placera.se
@@ -35,41 +36,40 @@ _Updated: 2025-11-07 07:42_
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - CI Global Asset Management Recognized for Strong Investment Performance with 15 LSEG Lipper Fund Awards - Placera.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Wolverine Worldwide Appoints Justin Cupps as Work Group President - Placera.se
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
 - Omdia: Global Tablet Shipments Rose 5% in Q3 2025, Extending Two-Year Growth Streak - Placera.se
 
 ## Technology
 
-- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Orano deploys intelligent humanoid robot in the nuclear sector - DagensNaringsliv.se
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- 290 million SEK for digitalisation of Swedish industry - Vinnova
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
+- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
-- Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 
 ## Business
 
@@ -104,17 +104,17 @@ _Updated: 2025-11-07 07:42_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
 
 ## Science
@@ -145,20 +145,20 @@ _Updated: 2025-11-07 07:42_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Nyheter - LRF - Lantbrukarnas Riksförbund
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
