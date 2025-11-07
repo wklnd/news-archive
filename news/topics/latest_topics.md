@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-07 11:41_
+_Updated: 2025-11-07 12:44_
 
 ## Top Stories
 
+- Daniel Kindberg döms av hovrätten till fängelse för mutbrott - SVT Nyheter
+- Dom i mål om mord på kvinna i Akalla - Sveriges Domstolar
+- Efter skandalerna – Jessica Stegrud petas från SD:s partistyrelse - GP
 - Fortsatt lika många gängkriminella - polisen.se
-- Jessica Stegrud föreslås petas från SD:s partistyrelse - SVT Nyheter
-- DN Direkt – Väska med misstänkt farligt innehåll på företag - Dagens Nyheter
-- Kaos när digitala nationella prov testades: ”Galet” - Aftonbladet
+- Trump om svensken: ”Kremls nickedocka” - SvD
 - Polisen: 1 600 sexköp på techbolagets hotell - SvD
-- Annica blev överfallen på akuten: ”Skrek på hjälp” - GP
+- Avsiktsförklaring mellan Ukraina och Sverige om fördjupat samarbete inom försvarsinnovation - Regeringen.se
 - Klimatmötet COP30 i Brasilien: Var, när och hur går klimatmötet till - SVT Nyheter
-- 07 november 07.59, Sammanfattning natt, Östergötlands län - polisen.se
-- Lastbil har kört av E4: "Väldigt halt" - Västerbottens-Kuriren
-- JUST NU: Lokförarutbildningen i Kristinehamn stoppas: ”Allvarliga brister” - NWT
-- DN Direkt – Nytt drönarlarm i Belgien – flyg stoppas - Dagens Nyheter
-- Förre Natochefen varnar för ”evigt krig” i Ukraina - Omni
-- Påven: Välkomna nya röster och kulturer i Europa - Vatican News
-- FN: "Omöjligt" att nå 1,5-gradersmålet - GP
+- Kamerabevakning med drönare i Malmö - polisen.se
+- JUST NU: Beslutet: Ingen licensjakt på varg i Värmland - NWT
+- Audiens hos Påve Leo XIV efter undertecknande av Charta Oecumenica - Sveriges kristna råd
+- Lokförarutbildning i Nässjö stoppas med omedelbar verkan - SVT Nyheter
+- Kvinna skadad med vasst föremål - GP
+- DN Direkt – Väska med misstänkt farligt innehåll på företag - Dagens Nyheter
 - Kommentar till Svensk Mäklarstatistik: Stockholmspriser stiger trots färre bostadsrättsaffärer – små lägenheter bromsar marknaden - Mynewsdesk
-- Försäljningslyft för Clas Ohlson - Aftonbladet
+- Clas Ohlsons försäljning ökade i oktober jämfört med föregående år - Cision News
+- REDO SENARELÄGGA IMPLEMENTERING AV AI-LAGAR - FT - Placera.se
 - Lyko slår tillbaka: ”Är ingen scam” - Expressen
-- EBM har inlett förundersökning om Engelberts bolag - Dagens industri
 - GTA 6 försenas – aktien föll - Dagens industri
-- Max Martin flyttar hem till Sverige - GP
+- IKEA lanserar nya produkter för det smarta hemmet - Örebronyheter
 
 ## World News
 
@@ -33,8 +33,8 @@ _Updated: 2025-11-07 11:41_
 - UPL launches a global campaign '#AFarmerCan' ahead of COP30, championing farmers in climate action - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Santander Bank Launches Navigator Global to Empower U.S. Businesses Expanding Internationally - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
+- Santander Bank Launches Navigator Global to Empower U.S. Businesses Expanding Internationally - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - CI Global Asset Management Recognized for Strong Investment Performance with 15 LSEG Lipper Fund Awards - Placera.se
@@ -101,43 +101,43 @@ _Updated: 2025-11-07 11:41_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - NyTeknik
+- Stora risker med kvalitetsbrister i globala hälsosystem - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
 - CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
