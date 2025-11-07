@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-07 22:48_
+_Updated: 2025-11-07 23:48_
 
-- Democrats present offer to end shutdown as air travel situation gets worse - CNN
+- Congress remains gridlocked as air travel worsens due to shutdown - CNN
+- USDA says it's working to comply with judge’s order to pay full SNAP benefits - Politico
 - Supreme court considering taking up case challenging legality of same-sex marriage - The Guardian
-- ‘He’s going to push the limits’: Tariff skeptics don’t see Trump taking the off-ramp - Politico
 - ADL explains its Mamdani Monitor initiative: 'Never had an elected official like this before' - NPR
-- Trump administration asks appeals court to immediately halt ruling on SNAP funding - abcnews.go.com
-- Cornell reaches $60 million deal with Trump administration to restore funding - NBC News
-- Republican US Rep. Elise Stefanik is running for governor of New York - AP News
-- Food banks are in 'disaster response mode' due to shutdown and SNAP cuts, leaders say: 'The damage gets worse and worse' every day - CNBC
-- Indiana woman killed after arriving at wrong address to clean, police say - The Washington Post
-- Nancy Pelosi Is an Icon. She’s Also Part of Democrats’ Two Biggest Problems. - Slate
+- ‘He’s going to push the limits’: Tariff skeptics don’t see Trump taking the off-ramp - Politico
+- Day care worker detained by immigration agents had valid work permit, temporarily barred from removal - abcnews.go.com
+- Flight delays are causing chaos at SFO this week. Here’s how bad it is - San Francisco Chronicle
+- Stefanik hit by GOP rival after launching NY governor bid - Politico
+- Poll: Democrats have no idea who their leader is - Politico
+- D.C. "sandwich guy" found not guilty of assaulting officer - Axios
+- Outside powers' reported backing for Sudan's warring sides helps fuel fighting as atrocities mount - abcnews.go.com
 - Multiple explosions shake a mosque in an Indonesian high school and injure 54 - AP News
-- Trump heaps praise on Hungary's Viktor Orban in White House meeting - abcnews.go.com
 - U.S. Wants Security Council to Adopt Trump Plan for Gaza - The New York Times
-- Stand-off over £800,000 Your Party membership fees - BBC
-- Tesla rewards Elon Musk’s reality-distortion field - The Verge
+- Canadian ostrich saga that captivated RFK Jr ends as birds culled - BBC
+- The $1 Trillion Question Hanging Over Elon Musk’s Pay Plan - The New York Times
+- Stocks Fall as Economic Angst Brews Amid Shutdown: Markets Wrap - Bloomberg.com
 - US consumer sentiment drops to near record low as shutdown persists - The Guardian
-- The U.S. job market is slowing, not collapsing - Axios
-- Wall Street tumbles as concerns over economy, tech valuations weigh - Reuters
+- Wendy's to close roughly 300 stores nationwide starting in late 2025. Are any in Ohio? - The Columbus Dispatch
 - ‘Grand Theft Auto VI’ Is Postponed Again — to November 2026 - Bloomberg.com
-- Samsung Galaxy S27 Ultra Might Adopt A New Face Authentication Mechanism - Wccftech
+- GeForce RTX 5070 drops to record-low $480, Arc B580 now at $235, both 12GB models - VideoCardz.com
