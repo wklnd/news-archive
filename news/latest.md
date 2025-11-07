@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-07 09:47_
+_Updated: 2025-11-07 10:54_
 
 - Judge Orders Trump Administration to Fully Fund SNAP Benefits This Month - The New York Times
 - Voters voiced dissatisfaction, anger as they turned out to vote in this week's elections - abcnews.go.com
-- Government shutdown drags on as Senate GOP eyes key Friday vote - CBS News
-- Two ways countries could respond to the Supreme Court ruling on Trump's tariffs - Axios
-- Chicago judge says Border Patrol official lied about threats before restricting agents' use force - AP News
-- After California’s vote to counter Trump, here’s where redistricting stands - NPR
-- San Francisco Sees Nancy Pelosi as a Tireless Leader for the City - The New York Times
-- UPS plane crash death toll rises to 13 as authorities begin identifying some victims - CBS News
-- Supreme Court lets Trump block transgender and nonbinary people from choosing passport sex markers - AP News
-- Cleaning worker who mistakenly went to wrong home fatally shot: Police - abcnews.go.com
+- The federal government is still shut down. Here's what that means across the country - NPR
+- "Follow her example": Pelosi's retirement reignites Democrats' generational warfare - Axios
+- Republicans, including ‘cowardly’ Schwarzenegger, take heat for lopsided loss on Prop. 50 - Los Angeles Times
+- Judge will order federal agents in Chicago to restrict using force against protesters and media - AP News
+- 3 pilots killed in fiery UPS plane crash ID’d — as missing mom of two believed to be among victims - New York Post
+- Cleaning Woman Killed in Indiana Shooting After Arriving at Wrong Home - The New York Times
+- Senate Republicans vote down legislation to limit Trump’s ability to attack Venezuela - AP News
+- What travelers should expect at airports as FAA cuts flights across the country - abcnews.go.com
 - Kazakhstan will join the Abraham Accords with Israel in symbolic move to boost the Trump initiative - AP News
-- China's third aircraft carrier, the Fujian, enters service - Reuters
-- Trump hosts Central Asian leaders as US eyes sources for rare earth metals. Follow live updates. - The Boston Globe
-- Devastating typhoon kills at least 114 in Philippines, officials say - The Washington Post
-- Flights canceled as government shutdown leaves airlines scrambling to comply with FAA order — live updates - CBS News
-- Elon Musk wins $1 trillion pay package tying him to Tesla for a decade - The Washington Post
+- China’s New Aircraft Carrier Enters Service, a Sign of Naval Ambitions - The New York Times
+- IDF carries out wave of strikes on Hezbollah sites in south Lebanon, warns of more - The Times of Israel
+- The roar that haunts him: Japanese bear attack survivor calls for ruthless response - Reuters
+- Tesla investors vote on an $878 billion payday for Musk - but that's not all - Reuters
 - Asian Stocks Drop as Tech Valuations Weigh on Mood: Markets Wrap - Bloomberg.com
-- Stock futures edge higher after key AI stocks dive on valuation fears: Live updates - CNBC
+- Why this often-overlooked report on the state of the labor market contributed to Thursday’s stock selloff - MarketWatch
+- Hundreds of thousands of tech workers are in trouble, new report shows - SFGATE
 - Grand Theft Auto VI is Now Set to Launch November 19, 2026 - Rockstar Games
-- IKEA Debuts 21 HomeKit-Compatible Smart Bulbs, Sensors, and Controls - MacRumors
+- T-Mobile brings free 911 emergency texting to AT&T and Verizon customers - The Verge
