@@ -1,47 +1,47 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-07 16:43_
+_Updated: 2025-11-07 17:42_
 
 ## Top Stories
 
 - 15-åring sköt ihjäl småbarnspappan – döms för mord - SVT Nyheter
 - Dom i mål om mord på kvinna i Akalla - Sveriges Domstolar
+- Faris Al Abdullah planerade terrordåd – svor trohet till IS - Corren
+- Danmark förbjuder sociala medier för barn - Hufvudstadsbladet
 - DN Direkt – Man gripen för mord i Göteborg - Dagens Nyheter
-- Efter skandalerna – Jessica Stegrud petas från SD:s partistyrelse - GP
+- Hjälparbetarna i Sudan chockas av flyktingarnas skick - GP
+- Klimatministern reagerar på kungens uttalande: ”Delar inte slutsatsen” - Dagens Nyheter
 - Polisen: 1 600 sexköp på techbolagets hotell - SvD
-- JUST NU: CYKLIST PÅKÖRD – EN PERSON FÖRD TILL SJUKHUS - Dagens Kalmar
-- Ministern inför klimatmöte: En uppförsbacke - Västerbottens-Kuriren
-- Gängkriminellas grepp består – risk för nya våldsdåd latent - Dagens Nyheter
-- Demonstration varje lördag – SL tvingas dra om tolv busslinjer - Dagens Nyheter
-- Kvinna utsatt för mordförsök – skadad med vasst föremål - SVT Nyheter
-- Danmark förbjuder sociala medier för barn - SVT Nyheter
-- Ukraina kan tvingas ge upp ”porten till Donetsk” - GP
+- Fortsatt lika många gängkriminella - polisen.se
+- Kvinna skadad med vasst föremål - Västerbottens-Kuriren
+- DN Direkt – Enormt spindelnät upptäckt i grek-albansk grotta - Dagens Nyheter
 - Stramare visumregler för ryssar i EU - Västerbottens-Kuriren
-- RSF-milisen godkänner förslag på humanitär vapenvila i Sudan - Dagens Nyheter
+- Ukraina kan tvingas ge upp ”porten till Donetsk” - GP
+- Audiens hos Påve Leo XIV efter undertecknande av Charta Oecumenica - Sveriges kristna råd
 - Kommentar till Svensk Mäklarstatistik: Stockholmspriser stiger trots färre bostadsrättsaffärer – små lägenheter bromsar marknaden - Mynewsdesk
 - Affärsvärlden ger ett neutralt råd för Apotea - Börsvärlden
-- Nya Black Friday-fusket: Så rundar butiken lagen - Skövde Nyheter
-- Trump om svensken: ”Kremls nickedocka” - SvD
+- Kommentar: Så fick oljepriset USA att skifta fot om Gunvor - Dagens industri
+- Clas Ohlsons försäljning ökade i oktober jämfört med föregående år - Cision News
 - Astronomer observerar unika, massiva svarta hål som slår rekord - Illustrerad Vetenskap
 - GTA 6 försenas – aktien föll - Dagens industri
 
 ## World News
 
 - CCTV+: 13th Global Video Media Forum held in Xi'an with call to amplify voice of Global South - Placera.se
-- Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
 - VNV Global tar emot slutbetalning från Gett-försäljning - har nettokassa (Finwire News) - Aktiellt
-- UPL launches a global campaign '#AFarmerCan' ahead of COP30, championing farmers in climate action - Placera.se
+- Wolverine Worldwide Appoints Justin Cupps as Work Group President - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Somaliland: Election in a "non-existing" country - Global Bar Magazine
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
@@ -99,23 +99,23 @@ _Updated: 2025-11-07 16:43_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 
 ## Science
 
@@ -149,16 +149,16 @@ _Updated: 2025-11-07 16:43_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
