@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-08 00:41_
+_Updated: 2025-11-08 01:38_
 
 ## Top Stories
 
 - Länsföretags hotell stängt efter avslöjad sexhandel - Östersunds-Posten
-- Analys: Har Putin knuffat ut Sergej Lavrov i kylan? - Omni
+- Kalldusch efter Demokraternas valsuccé: ”Finns ingen” - Expressen
 - DN Direkt – Frederiksen har flyttat till hemlig ort - Dagens Nyheter
 - Inga besked från Sverige om pengar till avskogningsfond – Senaste nytt om FN:s klimattoppmöte COP30 i Belém - SVT Nyheter
 - Sverige ger 100 miljoner kronor till humanitära insatser i Sudan - Regeringen.se
-- 2025 blir det näst eller tredje varmaste året som någonsin uppmätts - unric
-- DN Direkt – Novemberrekord slaget – men nu blir det kallare - Dagens Nyheter
-- Licensjakt efter 12 vargar i Södermanlands län - Länsstyrelsen
+- Turkiet utfärdar arresteringsorder mot Netanyahu - GP
 - 07 november 18.37, Övrigt, Trelleborg - polisen.se
-- 15-åring sköt ihjäl niobarnspappa – döms - Västerbottens-Kuriren
-- Turkisk arresteringsorder mot Netanyahu - SVT Nyheter
-- Audiens hos Påve Leo XIV efter undertecknande av Charta Oecumenica - Sveriges kristna råd
+- Licensjakt efter 12 vargar i Södermanlands län - Länsstyrelsen
+- Avsiktsförklaring mellan Ukraina och Sverige om fördjupat samarbete inom försvarsinnovation - Regeringen.se
+- Kravet: Byt färg på svenska flaggan - Aftonbladet
 - Christopher, 38, kollade porr – medan 2-åriga dottern dog i stekhet bil - Expressen
-- Utter hindrade Norweigan-flyg från att landa - Expressen
+- Audiens hos Påve Leo XIV efter undertecknande av Charta Oecumenica - Sveriges kristna råd
+- Lavrov petad från uppdrag och möten efter ”katastrofsamtalet - TV4 Nyheterna
+- Danmark förbjuder sociala medier för barn - Hufvudstadsbladet
 - Nobelstiftelsen bryter med BNP Paribas - Dagens industri
 - Trump om svensken: ”Kremls nickedocka” - SvD
-- Hushållen väntas unna sig – julhandeln går mot 100 miljarder - Skånska Dagbladet
-- Chipleveranser från Kina till Europa återupptas - EFN
+- Nytt kollektivavtal för fönsterputsföretag - Almega
+- Rättsliga brister i 6 av 10 återkrav från Försäkringskassan - Dagens Arena
 - Take-Two faller efter försenad GTA VI – BMO ser köpläge - Placera.se
 - ”Det var som att jag fick mina barn tillbaka” - SvD
 
@@ -51,25 +51,25 @@ _Updated: 2025-11-08 00:41_
 ## Technology
 
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
-- Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Capgemini and Orano deploy the first intelligent humanoid robot in the nuclear sector - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
-- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
+- Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
+- XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
 
 ## Business
 
@@ -143,22 +143,22 @@ _Updated: 2025-11-08 00:41_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Maskinförare | Jobb | ATL - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Unga lantbrukare får ingen chans - Land Lantbruk
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
