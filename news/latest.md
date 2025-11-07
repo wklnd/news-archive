@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-07 01:48_
+_Updated: 2025-11-07 04:20_
 
-- Elon Musk's $1tn pay deal approved by Tesla shareholders - BBC
 - Judge Orders Trump Administration to Fully Fund Food Stamps This Month - The New York Times
-- Supreme Court allows Trump to prohibit gender election on passports - NPR
-- Trump's tariffs run into revenue problem at the Supreme Court - Axios
-- Here's how much weight loss drugs could cost you under Trump's deals with Eli Lilly, Novo Nordisk - CNBC
-- Newsom will rally Democrats in Texas on heels of redistricting win - Politico
-- Jury acquits D.C. 'sandwich guy' charged with chucking a sub at a federal agent - NBC News
-- Emboldened Democrats push to prolong government shutdown - Axios
+- Two ways countries could respond to the Supreme Court ruling on Trump's tariffs - Axios
+- US Shutdown Dealmaking Hits New Roadblocks as Tensions Flare - Bloomberg.com
+- White House strikes deals for lower prices on obesity drugs - NPR
+- Judge will order federal agents in Chicago to restrict using force against protesters and media - AP News
+- Republicans, including ‘cowardly’ Schwarzenegger, take heat for lopsided loss on Prop. 50 - Los Angeles Times
+- Investigators Sift Through Plane Crash Wreckage in Louisville - The New York Times
 - A former teacher shot by her 6-year-old student wins a $10 million jury verdict - NPR
-- Federal Judge Imposes Strict Restrictions on Immigration Agents’ Use of Force Against Protesters, Media, Clergy - WTTW News
+- Trump calls Nancy Pelosi 'evil woman' after she announces retirement - abcnews.go.com
+- Supreme Court lets Trump block transgender and nonbinary people from choosing passport sex markers - AP News
 - Israeli jets strike southern Lebanon towns, escalating near-daily attacks - AP News
+- Trump to meet Central Asian presidents as US seeks to counter China, Russia influence - Reuters
 - Devastating typhoon kills at least 114 in Philippines, officials say - The Washington Post
-- Mexican women outraged by public sexual assault on their president - The Guardian
-- Bolivia’s ex-president who oversaw bloody crackdown on protesters freed from prison - The Guardian
+- Mexico President Sheinbaum presses charges after public groping incident - Euronews.com
 - US flight cancellations accelerate as airlines comply with government shutdown order - AP News
-- US markets tumble amid Wall Street concern over job losses and AI - The Guardian
-- Ford’s electric F-150 Lightning pickup may be all but dead - Electrek
-- US layoffs for October surge to two-decade high, Challenger data shows - Reuters
+- Elon Musk wins $1 trillion pay package tying him to Tesla for a decade - The Washington Post
+- Stock futures edge higher after key AI stocks dive on valuation fears: Live updates - CNBC
+- Altman Says OpenAI Doesn’t Want a Government Bailout For AI - Bloomberg.com
 - Grand Theft Auto VI is Now Set to Launch November 19, 2026 - Rockstar Games
-- Apple to Pay Google $1 Billion Per Year for Siri's Custom Gemini AI Model - CNET
+- Discord extends Family Center features to help parents "learn more about how your teen spends their time on Discord" - GamesIndustry.biz
