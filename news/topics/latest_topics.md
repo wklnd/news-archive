@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-07 15:44_
+_Updated: 2025-11-07 16:43_
 
 ## Top Stories
 
-- Uppsala tingsrätt dömer en 15-årig pojke för mord utanför en restaurang i Boländerna, Uppsala. - Sveriges Domstolar
-- Lägesrapport i ärende om misstänkt förgiftning i Uppsala - Åklagarmyndigheten
-- Knackade på och sköt kvinna – döms till livstid - Aftonbladet
+- 15-åring sköt ihjäl småbarnspappan – döms för mord - SVT Nyheter
+- Dom i mål om mord på kvinna i Akalla - Sveriges Domstolar
 - DN Direkt – Man gripen för mord i Göteborg - Dagens Nyheter
 - Efter skandalerna – Jessica Stegrud petas från SD:s partistyrelse - GP
 - Polisen: 1 600 sexköp på techbolagets hotell - SvD
+- JUST NU: CYKLIST PÅKÖRD – EN PERSON FÖRD TILL SJUKHUS - Dagens Kalmar
+- Ministern inför klimatmöte: En uppförsbacke - Västerbottens-Kuriren
 - Gängkriminellas grepp består – risk för nya våldsdåd latent - Dagens Nyheter
-- KRÖNIKA: Talet till riksdagen: Det räcker inte att lyssna – nu måste ni agera - Sydsvenskan
 - Demonstration varje lördag – SL tvingas dra om tolv busslinjer - Dagens Nyheter
-- Kvinna skadad med vasst föremål - Västerbottens-Kuriren
-- RSF-milisen godkänner förslag på humanitär vapenvila i Sudan - Dagens Nyheter
+- Kvinna utsatt för mordförsök – skadad med vasst föremål - SVT Nyheter
+- Danmark förbjuder sociala medier för barn - SVT Nyheter
 - Ukraina kan tvingas ge upp ”porten till Donetsk” - GP
 - Stramare visumregler för ryssar i EU - Västerbottens-Kuriren
-- DN Direkt – USA: Flera sjuka av misstänkt paket på flygbas - Dagens Nyheter
+- RSF-milisen godkänner förslag på humanitär vapenvila i Sudan - Dagens Nyheter
 - Kommentar till Svensk Mäklarstatistik: Stockholmspriser stiger trots färre bostadsrättsaffärer – små lägenheter bromsar marknaden - Mynewsdesk
+- Affärsvärlden ger ett neutralt råd för Apotea - Börsvärlden
 - Nya Black Friday-fusket: Så rundar butiken lagen - Skövde Nyheter
 - Trump om svensken: ”Kremls nickedocka” - SvD
-- Stockholmsbörsen vänder ned – Raysearch rapportrusar - Dagens industri
 - Astronomer observerar unika, massiva svarta hål som slår rekord - Illustrerad Vetenskap
 - GTA 6 försenas – aktien föll - Dagens industri
 
 ## World News
 
 - CCTV+: 13th Global Video Media Forum held in Xi'an with call to amplify voice of Global South - Placera.se
+- Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
 - VNV Global tar emot slutbetalning från Gett-försäljning - har nettokassa (Finwire News) - Aktiellt
 - UPL launches a global campaign '#AFarmerCan' ahead of COP30, championing farmers in climate action - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Santander Bank Launches Navigator Global to Empower U.S. Businesses Expanding Internationally - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Wolverine Worldwide Appoints Justin Cupps as Work Group President - Placera.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Somaliland: Election in a "non-existing" country - Global Bar Magazine
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - Omdia: Global Tablet Shipments Rose 5% in Q3 2025, Extending Two-Year Growth Streak - Placera.se
+- SpeedX USA Project Goes Live: DAMON demonstrates its global System-Integration Strength - Placera.se
 
 ## Technology
 
@@ -92,51 +92,51 @@ _Updated: 2025-11-07 15:44_
 - Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - Money movement – Evolving expectations of economic migrants - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Connected cars, in-car payments driving the auto economy - mastercard.com
+- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 
 ## Health
 
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
@@ -145,20 +145,20 @@ _Updated: 2025-11-07 15:44_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Här är världens största jordbruk - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Här är världens största jordbruk - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Unga lantbrukare får ingen chans - Land Lantbruk
 - Macron miljardsatsar på franskt jordbruk - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
