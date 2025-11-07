@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-07 17:42_
+_Updated: 2025-11-07 18:46_
 
 ## Top Stories
 
 - 15-åring sköt ihjäl småbarnspappan – döms för mord - SVT Nyheter
-- Dom i mål om mord på kvinna i Akalla - Sveriges Domstolar
 - Faris Al Abdullah planerade terrordåd – svor trohet till IS - Corren
-- Danmark förbjuder sociala medier för barn - Hufvudstadsbladet
-- DN Direkt – Man gripen för mord i Göteborg - Dagens Nyheter
-- Hjälparbetarna i Sudan chockas av flyktingarnas skick - GP
 - Klimatministern reagerar på kungens uttalande: ”Delar inte slutsatsen” - Dagens Nyheter
-- Polisen: 1 600 sexköp på techbolagets hotell - SvD
+- Drönarlarm – flyg till Landvetter omdirigeras - GP
+- Danmark förbjuder sociala medier för barn - Hufvudstadsbladet
+- Man gripen för mord i Göteborg - Aftonbladet
 - Fortsatt lika många gängkriminella - polisen.se
-- Kvinna skadad med vasst föremål - Västerbottens-Kuriren
+- Knackade på och sköt kvinna – döms till livstid - Västerbottens-Kuriren
+- Novemberrekord slaget – men nu blir det kallare - GP
+- Länsföretags hotell stängt efter avslöjad sexhandel - Östersunds-Posten
 - DN Direkt – Enormt spindelnät upptäckt i grek-albansk grotta - Dagens Nyheter
 - Stramare visumregler för ryssar i EU - Västerbottens-Kuriren
-- Ukraina kan tvingas ge upp ”porten till Donetsk” - GP
 - Audiens hos Påve Leo XIV efter undertecknande av Charta Oecumenica - Sveriges kristna råd
-- Kommentar till Svensk Mäklarstatistik: Stockholmspriser stiger trots färre bostadsrättsaffärer – små lägenheter bromsar marknaden - Mynewsdesk
+- Ukraina kan tvingas ge upp ”porten till Donetsk” - GP
+- Nordenbörserna nedåt – Novo Nordisk föll - Dagens industri
 - Affärsvärlden ger ett neutralt råd för Apotea - Börsvärlden
-- Kommentar: Så fick oljepriset USA att skifta fot om Gunvor - Dagens industri
-- Clas Ohlsons försäljning ökade i oktober jämfört med föregående år - Cision News
-- Astronomer observerar unika, massiva svarta hål som slår rekord - Illustrerad Vetenskap
+- Claes Hembergs identitet utnyttjas i bedrägeri - Expressen
+- Kommentar till Svensk Mäklarstatistik: Stockholmspriser stiger trots färre bostadsrättsaffärer – små lägenheter bromsar marknaden - Mynewsdesk
 - GTA 6 försenas – aktien föll - Dagens industri
+- Disputation: Shabane Barot - Karolinska Institutet
 
 ## World News
 
 - CCTV+: 13th Global Video Media Forum held in Xi'an with call to amplify voice of Global South - Placera.se
 - VNV Global tar emot slutbetalning från Gett-försäljning - har nettokassa (Finwire News) - Aktiellt
-- Wolverine Worldwide Appoints Justin Cupps as Work Group President - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Somaliland: Election in a "non-existing" country - Global Bar Magazine
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
+- Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
 - Omdia: Global Tablet Shipments Rose 5% in Q3 2025, Extending Two-Year Growth Streak - Placera.se
+- S&P Global Research Reveals Data Center Investments Moving The U.S. Macro Needle - Placera.se
 - SpeedX USA Project Goes Live: DAMON demonstrates its global System-Integration Strength - Placera.se
+- S&P Global Report Charts Enterprise Race to Build AI Agent-Ready Infrastructure - Placera.se
 
 ## Technology
 
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Nästa generations Internet of Things - Shaping Europe’s digital future
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
+- Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 
 ## Business
 
@@ -101,7 +101,6 @@ _Updated: 2025-11-07 17:42_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
@@ -116,6 +115,7 @@ _Updated: 2025-11-07 17:42_
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 - Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
+- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
 
 ## Science
 
