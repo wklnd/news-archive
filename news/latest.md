@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-07 08:55_
+_Updated: 2025-11-07 09:47_
 
-- Federal judge orders Trump administration to fully fund SNAP benefits in November - AP News
-- Trump Team Now Claims Its Trillions in Tariff Revenue Are ‘Incidental’ - The New York Times
+- Judge Orders Trump Administration to Fully Fund SNAP Benefits This Month - The New York Times
+- Voters voiced dissatisfaction, anger as they turned out to vote in this week's elections - abcnews.go.com
 - Government shutdown drags on as Senate GOP eyes key Friday vote - CBS News
+- Two ways countries could respond to the Supreme Court ruling on Trump's tariffs - Axios
+- Chicago judge says Border Patrol official lied about threats before restricting agents' use force - AP News
 - After California’s vote to counter Trump, here’s where redistricting stands - NPR
-- Judge blasts Trump’s Chicago border ‘Blitz,’ extends curbs on use of force that ‘shocks the conscience’ - Chicago Sun-Times
-- Trump, stung by Republican losses, stands his ground on affordability - Politico
-- Death toll from UPS plane crash at Louisville airport rises to 13 - The Guardian
-- "Follow her example": Pelosi's retirement reignites Democrats' generational warfare - Axios
+- San Francisco Sees Nancy Pelosi as a Tireless Leader for the City - The New York Times
+- UPS plane crash death toll rises to 13 as authorities begin identifying some victims - CBS News
 - Supreme Court lets Trump block transgender and nonbinary people from choosing passport sex markers - AP News
-- Republicans Block Measure to Bar Military Strike on Venezuela - The New York Times
-- Trump says Kazakhstan to join Abraham Accords - Reuters
-- IDF carries out wave of strikes on Hezbollah sites in south Lebanon, warns of more - The Times of Israel
-- China’s latest aircraft carrier enters fleet as naval competition with the US heats up - CNN
-- Typhoon Kalmaegi kills three in Vietnam after leaving 188 dead in Philippines - BBC
+- Cleaning worker who mistakenly went to wrong home fatally shot: Police - abcnews.go.com
+- Kazakhstan will join the Abraham Accords with Israel in symbolic move to boost the Trump initiative - AP News
+- China's third aircraft carrier, the Fujian, enters service - Reuters
+- Trump hosts Central Asian leaders as US eyes sources for rare earth metals. Follow live updates. - The Boston Globe
+- Devastating typhoon kills at least 114 in Philippines, officials say - The Washington Post
 - Flights canceled as government shutdown leaves airlines scrambling to comply with FAA order — live updates - CBS News
 - Elon Musk wins $1 trillion pay package tying him to Tesla for a decade - The Washington Post
+- Asian Stocks Drop as Tech Valuations Weigh on Mood: Markets Wrap - Bloomberg.com
 - Stock futures edge higher after key AI stocks dive on valuation fears: Live updates - CNBC
-- Sam Altman says OpenAI has $20B ARR and about $1.4 trillion in data center commitments - TechCrunch
 - Grand Theft Auto VI is Now Set to Launch November 19, 2026 - Rockstar Games
-- 2026 iPhone Air Could Feature Two Rear Cameras, Says Leaker - MacRumors
+- IKEA Debuts 21 HomeKit-Compatible Smart Bulbs, Sensors, and Controls - MacRumors
