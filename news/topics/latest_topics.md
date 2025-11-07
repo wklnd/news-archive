@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-07 06:44_
+_Updated: 2025-11-07 07:42_
 
 ## Top Stories
 
+- Polisen: 1 600 sexköp på techbolagets hotell - SvD
+- Kaos när digitala nationella prov testades: ”Galet” - Aftonbladet
+- Mexikos president är inte välkommen i Peru - Expressen
+- Bussar i Stockholm ändrar rutt för Gazaprotester – M-toppen rasar - Omni
+- Misstänkt mord – person hittad död i Eslöv - SVT Nyheter
 - Erik Esbjörnsson: Det finns ett sätt att lösa konflikten i Sudan - Dagens Nyheter
-- Tecknen: Så börjar Trump tappa makten - Expressen
-- Tre döda i ny amerikansk attack i Karibien - Omni
-- ”Vägen inte öppen för rysk framryckning även om Pokrovsk faller” - Aftonbladet
-- 2025 på väg att bli det tredje varmaste året som uppmätts - Dagens Nyheter
-- Klimatmötet COP30 i Brasilien: Var, när och hur går klimatmötet till - SVT Nyheter
 - 06 november 20.20, Trafikkontroll, Västernorrlands län - polisen.se
 - Åtal för förberedelse till terroristbrott - Säkerhetspolisen
+- Klimatmötet COP30 i Brasilien: Var, när och hur går klimatmötet till - SVT Nyheter
 - Drönarlarm – flyg till Landvetter omdirigeras - GP
-- Sverige ska ta fram nya vapen i Ukraina - Dagens Nyheter
 - Klimatforskaren: EU-ländernas klimatmål en urvattning - SVT Nyheter
+- 2025 på väg att bli det tredje varmaste året som uppmätts - Dagens Nyheter
+- Milis säger ja till humanitär vapenvila i Sudan - GP
 - Förre Natochefen varnar för ”evigt krig” i Ukraina - Omni
-- Helena Lindblad: Jag mötte Zohran Mamdanis mamma - Dagens Nyheter
-- DN Direkt – Läkemedelschef föll ihop bredvid Trump under pressträff - Dagens Nyheter
-- Så mycket tjänar Meta på bedrägerierna på Facebook - Dagens Nyheter
+- Bopriserna lyfter – men här är det trögt - SvD
 - Ny AI-dipp på Wall Street - Aftonbladet
-- Svensk inflation högre än väntat i oktober - Morningstar Canada
-- Skarp kritik mot Ivo: Klagomål hanteras långsamt och ineffektivt - Svensk Farmaci
+- Så mycket tjänar Meta på bedrägerierna på Facebook - Dagens Nyheter
+- Svantesson om inflationen: Jag är inte oroad - Dagens industri
 - Take-Two Interactive föll i efterhandeln - GTA VI försenas ytterligare sex månader - Börsvärlden
 - 21 nya produkter i Ikeas smarta hem-utbud – alla släpps 2026 - Expressen
 
@@ -57,16 +57,16 @@ _Updated: 2025-11-07 06:44_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - 290 million SEK for digitalisation of Swedish industry - Vinnova
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
 - Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
@@ -101,21 +101,21 @@ _Updated: 2025-11-07 06:44_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Stora risker med kvalitetsbrister i globala hälsosystem - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
+- Episurf Medical tecknar distributionsavtal för flera europeiska länder med Joint Operations Ltd - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Multi4 Medical tilldelas 200 000 kr i bidrag för revolutionerande cancerbehandling - it-halsa.se
-- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 
 ## Science
 
@@ -145,20 +145,20 @@ _Updated: 2025-11-07 06:44_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Här är världens största jordbruk - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Nyheter - LRF - Lantbrukarnas Riksförbund
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
