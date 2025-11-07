@@ -1,22 +1,22 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-07 04:17_
+_Updated: 2025-11-07 05:31_
 
 ## Top Stories
 
 - Erik Esbjörnsson: Det finns ett sätt att lösa konflikten i Sudan - Dagens Nyheter
 - Tecknen: Så börjar Trump tappa makten - Expressen
-- Sverige och Ukraina ska utveckla nya vapen i Kiev – ”Obemannade system” - NyTeknik
-- Anthony Lennon fejkade blodig kidnappning – hittad efter 13 år - Aftonbladet
-- En fjärde person kan ha förgiftats på Akademiska - UNT
-- Putins elittrupper infiltrerar staden - Expressen
+- Mexikos president inte välkommen i Peru - GP
+- Kongressens budgetmyndighet hackad - Västerbottens-Kuriren
+- Expert: Det är inte säkert att Pokrovsks fall skulle innebära en ukrainsk kris - Omni
+- Så lurade polisen Faris Al Abdullah – berättade allt - Expressen
 - 06 november 20.20, Trafikkontroll, Västernorrlands län - polisen.se
 - Klimatmötet COP30 i Brasilien: Var, när och hur går klimatmötet till - SVT Nyheter
-- Åtal för förberedelse till terroristbrott - Säkerhetspolisen
-- Drönare på Landvetter – luftrummet stängt - Aftonbladet
+- Drönarlarm – flyg till Landvetter omdirigeras - GP
+- Sverige ska ta fram nya vapen i Ukraina - Dagens Nyheter
 - RSF-milisen godkänner förslag på humanitär vapenvila i Sudan - Dagens Nyheter
 - Klimatforskaren: EU-ländernas klimatmål en urvattning - SVT Nyheter
-- Varning för monstervågor när Kalmaegi når Vietnam - GP
+- Förre Natochefen varnar för ”evigt krig” i Ukraina - Omni
 - DN Direkt – Läkemedelschef föll ihop bredvid Trump under pressträff - Dagens Nyheter
 - Så mycket tjänar Meta på bedrägerierna på Facebook - Dagens Nyheter
 - Ny AI-dipp på Wall Street - Aftonbladet
@@ -27,25 +27,25 @@ _Updated: 2025-11-07 04:17_
 
 ## World News
 
-- Santander Bank Launches Navigator Global to Empower U.S. Businesses Expanding Internationally - Placera.se
+- CCTV+: 13th Global Video Media Forum held in Xi'an with call to amplify voice of Global South - Placera.se
 - Bamse goes global – beloved Swedish comics character launches new educational adventure game in English - Mynewsdesk
 - VNV Global tar emot slutbetalning från Gett-försäljning - har nettokassa (Finwire News) - Aktiellt
+- Santander Bank Launches Navigator Global to Empower U.S. Businesses Expanding Internationally - Placera.se
 - UPL launches a global campaign '#AFarmerCan' ahead of COP30, championing farmers in climate action - Placera.se
 - Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Wolverine Worldwide Appoints Justin Cupps as Work Group President - Placera.se
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Wolverine Worldwide Releases 2024 Global Impact Report - Placera.se
+- CI Global Asset Management Recognized for Strong Investment Performance with 15 LSEG Lipper Fund Awards - Placera.se
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Wolverine Worldwide Appoints Justin Cupps as Work Group President - Placera.se
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- CI Global Asset Management Recognized for Strong Investment Performance with 15 LSEG Lipper Fund Awards - Placera.se
 - Omdia: Global Tablet Shipments Rose 5% in Q3 2025, Extending Two-Year Growth Streak - Placera.se
 
 ## Technology
@@ -57,19 +57,19 @@ _Updated: 2025-11-07 04:17_
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
+- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
-- Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 
 ## Business
 
@@ -127,9 +127,9 @@ _Updated: 2025-11-07 04:17_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
 - Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -149,16 +149,16 @@ _Updated: 2025-11-07 04:17_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- SLU gets important UN mission on antibiotic resistance - Mynewsdesk
