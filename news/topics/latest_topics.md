@@ -1,19 +1,19 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-08 15:40_
+_Updated: 2025-11-08 16:39_
 
 ## Top Stories
 
 - Kungen: ”Hur mycket ska vi betala egentligen?” – Senaste nytt om FN:s klimattoppmöte COP30 i Belém - SVT Nyheter
-- Ny förbudet – turister i Thailand kan bötfällas - Expressen
-- Larm om misstänkt farligt föremål i Göteborg - Omni
-- En person till sjukhus – misstänkt mordförsök - Aftonbladet
-- DN Direkt – Högsta domstolen stoppar mathjälp i USA - Dagens Nyheter
-- Turkiet utfärdar arresteringsorder mot Netanyahu - GP
-- Drönarlarm vid ryska ambassadens byggnad på Lidingö - SVT Nyheter
-- Kallade sig ”bästa barnhjärtläkaren i Sverige”: ”Har förstört mycket” - Dagens Nyheter
+- DN Direkt – Flera ungdomar kolmonoxidförgiftade i Norge - Dagens Nyheter
+- Thailand skärper lag – turister kan få böter - Expressen
 - Länsföretags hotell stängt efter avslöjad sexhandel - Östersunds-Posten
+- Trump låter Orbán köpa rysk olja ostraffat - Västerbottens-Kuriren
+- Turkiet utfärdar arresteringsorder mot Netanyahu - GP
+- DN Direkt – Drönarlarm vid rysk beskickning på Lidingö - Dagens Nyheter
+- Kallade sig ”bästa barnhjärtläkaren i Sverige”: ”Har förstört mycket” - Dagens Nyheter
 - 08 november 07.37, Sammanfattning natt, Västernorrlands län - polisen.se
+- 08 november 08.00, Sammanfattning natt, Jönköpings län - polisen.se
 - Putins ärkefiende: Var redo för nytt kallt krig - Dagens Nyheter
 - Gisslan: Sexuellt våld, svält och stenar i öronen - GP
 - Sverige ger 100 miljoner kronor till humanitära insatser i Sudan - Regeringen.se
@@ -21,7 +21,7 @@ _Updated: 2025-11-08 15:40_
 - Novo Nordisk förlorar budstrid mot Pfizer - SvD
 - Tusentals kan få sparken i Storbritannien – de väger för mycket - Sydsvenskan
 - Tusentals inställda flygresor i USA - SVT Nyheter
-- AI drar in körkort – och tar över revisionen - Dagens PS
+- Tidaholm lyfter lite till i ny Nils-Holgersson-rapport - Västgöta-Bladet
 - Nya mätningar visar: Universum kan i miljardtals år ha betett sig annorlunda än vi har trott - Illustrerad Vetenskap
 - "Mass Effect"-serien kommer inte följa spelen: "Helt ny berättelse" - moviezine.se
 
@@ -81,7 +81,6 @@ _Updated: 2025-11-08 15:40_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
@@ -93,6 +92,7 @@ _Updated: 2025-11-08 15:40_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Money movement – Evolving expectations of economic migrants - mastercard.com
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
 
@@ -102,20 +102,20 @@ _Updated: 2025-11-08 15:40_
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - NyTeknik
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Institutionen för medicinsk epidemiologi och biostatistik - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 
 ## Science
 
@@ -144,21 +144,21 @@ _Updated: 2025-11-08 15:40_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Macron miljardsatsar på franskt jordbruk - Land Lantbruk
