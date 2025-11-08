@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-08 18:50_
+_Updated: 2025-11-08 19:48_
 
-- Supreme Court temporarily blocks order on releasing SNAP benefits - The Washington Post
-- UPS and FedEx Ground MD-11 Fleets After Deadly Kentucky Plane Crash - The Wall Street Journal
-- Judge permanently blocks deployment of National Guard to Portland, saying Trump exceeded his authority - abcnews.go.com
-- Democrats Scale Back Shutdown Demands, but G.O.P. Digs In - The New York Times
-- Biden says Trump has ‘taken a wrecking ball’ to democracy in sharp criticism - CNN
-- Supreme Court weighs appeal to overturn ruling that legalized same-sex marriage nationwide - PBS
-- 4 dead, 11 injured in Ybor City after law enforcement pursuit ends in crash - Tampa Bay Times
-- Democrats’ election sweep goes far beyond big races — from clerks to coroners - The Washington Post
+- Trump Administration Appeals to Supreme Court to Block Order to Pay Full SNAP Benefits - The New York Times
+- UPS and FedEx grounding MD-11 planes following deadly Kentucky crash - Politico
+- Federal judge permanently blocks Trump from deploying National Guard to Portland - Oregon Public Broadcasting - OPB
+- Russia carries out 'massive strike' on Ukraine, killing at least 4 and injuring 26 - abcnews.go.com
+- Republicans swat down Democratic offer to end shutdown as impasse continues into 38th day - Federal News Network
 - From Bollywood to bodegas, Mamdani’s mayoral campaign found visual inspiration in unlikely corners - AP News
-- Man dies after slipping and falling off edge of the Grand Canyon: Sheriff's office - abcnews.go.com
+- What to do if your flight gets canceled because of the government shutdown - NPR
+- Government shutdown live updates as Senate works through the weekend to end impasse - CBS News
+- Democrats swept elections far beyond the big races in referendum on Trump - The Washington Post
+- At Least 4 Dead After Driver Slams Into Crowd Outside a Tampa Bar, Police Say - The New York Times
+- ‘Unprecedented’ tornado tears through southern Brazil, killing at least six - CNN
 - Israel says body of Lior Rudaeff has been returned from Gaza - BBC
-- Tornado Rips Through Southern Brazil, Killing at Least 5 - The New York Times
-- Russia attacks Ukraine energy facilities, kills three people - Reuters
-- Spanish police arrest 13 suspected members of Venezuela’s Tren de Aragua gang - AP News
-- What to know about the flight cancellations at US airports caused by the government shutdown - AP News
+- Storm surge threatens several provinces as Typhoon Uwan nears land - ABS-CBN
+- Multiple explosions shake a mosque in an Indonesian high school and injure 54 - AP News
 - This 29-year-old trader just became Goldman's youngest MD. Here's how he celebrated after a big year. - Business Insider
-- Millionaires value their personal trainers and therapists more than their wealth advisors - CNBC
+- Government shutdown costing the economy billions of dollars each week - CBS News
 - Pfizer to Acquire Obesity Drug Start-Up Metsera in $10 Billion Deal - The New York Times
+- Elon Musk Got His $1 Trillion Pay Package. Now Tesla's Moonshot Goals Are In Focus. - Investopedia
 - iPhone 18 rumors: Key display upgrades, design changes, and more - 9to5Mac
-- The games industry reacts to the delay of GTA 6 - GamesIndustry.biz
+- Apple helped kill netbooks. Will it bring them back? - The Verge
