@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-08 19:48_
+_Updated: 2025-11-08 20:51_
 
-- Trump Administration Appeals to Supreme Court to Block Order to Pay Full SNAP Benefits - The New York Times
-- UPS and FedEx grounding MD-11 planes following deadly Kentucky crash - Politico
-- Federal judge permanently blocks Trump from deploying National Guard to Portland - Oregon Public Broadcasting - OPB
+- ‘Stop playing politics’: Democrats rip court-extended pause to SNAP funding - Politico
 - Russia carries out 'massive strike' on Ukraine, killing at least 4 and injuring 26 - abcnews.go.com
+- Federal judge permanently blocks Trump from deploying National Guard to Portland - Oregon Public Broadcasting - OPB
+- Trump tells Senate Republicans to send federal health insurance money 'directly to the people' - CNBC
 - Republicans swat down Democratic offer to end shutdown as impasse continues into 38th day - Federal News Network
-- From Bollywood to bodegas, Mamdani’s mayoral campaign found visual inspiration in unlikely corners - AP News
-- What to do if your flight gets canceled because of the government shutdown - NPR
+- UPS and FedEx Ground MD-11 Fleets After Deadly Kentucky Plane Crash - The Wall Street Journal
+- Flight cancelations to worsen next week if shutdown continues - CNBC
 - Government shutdown live updates as Senate works through the weekend to end impasse - CBS News
 - Democrats swept elections far beyond the big races in referendum on Trump - The Washington Post
-- At Least 4 Dead After Driver Slams Into Crowd Outside a Tampa Bar, Police Say - The New York Times
+- From Bollywood to bodegas, Mamdani’s mayoral campaign found visual inspiration in unlikely corners - AP News
 - ‘Unprecedented’ tornado tears through southern Brazil, killing at least six - CNN
-- Israel says body of Lior Rudaeff has been returned from Gaza - BBC
-- Storm surge threatens several provinces as Typhoon Uwan nears land - ABS-CBN
-- Multiple explosions shake a mosque in an Indonesian high school and injure 54 - AP News
-- This 29-year-old trader just became Goldman's youngest MD. Here's how he celebrated after a big year. - Business Insider
-- Government shutdown costing the economy billions of dollars each week - CBS News
+- Typhoon Fung-wong nears super strength, menacing an already storm-stricken Philippines - CNN
+- Satellite images appear to show attempts to dispose of bodies after RSF seized Sudan's el-Fasher - AP News
+- What to know about the 5 hostages whose remains are still in Gaza - NPR
 - Pfizer to Acquire Obesity Drug Start-Up Metsera in $10 Billion Deal - The New York Times
-- Elon Musk Got His $1 Trillion Pay Package. Now Tesla's Moonshot Goals Are In Focus. - Investopedia
-- iPhone 18 rumors: Key display upgrades, design changes, and more - 9to5Mac
-- Apple helped kill netbooks. Will it bring them back? - The Verge
+- Washington’s struggling economy takes another hit from the government shutdown - AP News
+- Data-center operator CoreWeave is a stock-market darling. Bears see it as a symbol of the AI infrastructure bubble - Fortune
+- Mega Millions jackpot surges to $900 million after no winners selected Friday - abcnews.go.com
+- iPhone 18 Pro could flaunt a lot of firsts, making it the 2026 flagship to beat - PhoneArena
+- iOS 26.2: All the new features coming to your iPhone - 9to5Mac
