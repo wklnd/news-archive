@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-08 05:23_
+_Updated: 2025-11-08 05:49_
 
 ## Top Stories
 
 - Inga besked från Sverige om pengar till avskogningsfond – Senaste nytt om FN:s klimattoppmöte COP30 i Belém - SVT Nyheter
 - Skräckolycka på flygplats – man började brinna - Aftonbladet
-- Skadad man hittad utomhus – misstänkt mordförsök - Västerbottens-Kuriren
 - Sverige ger 100 miljoner kronor till humanitära insatser i Sudan - Regeringen.se
+- Källor: Ungern får köpa rysk olja i ett år - Västerbottens-Kuriren
 - Lavrov petad från uppdrag och möten efter ”katastrofsamtalet - TV4 Nyheterna
-- Israel: Iransk mordplan mot ambassadör stoppad - Västerbottens-Kuriren
+- Israel: Iransk mordplan mot ambassadör stoppad - GP
 - Fem fackliga nyheter från veckan som gått - Dagens Arena
 - Kravet: Byt färg på svenska flaggan - Aftonbladet
 - 07 november 18.37, Övrigt, Trelleborg - polisen.se
 - Avsiktsförklaring mellan Ukraina och Sverige om fördjupat samarbete inom försvarsinnovation - Regeringen.se
-- Turkisk arresteringsorder mot Netanyahu - SVT Nyheter
 - Ryska attacker mot elförsörjning i Ukraina - Västerbottens-Kuriren
 - DN Direkt – Trump: USA bojkottar G20-mötet i Sydafrika - Dagens Nyheter
 - Audiens hos Påve Leo XIV efter undertecknande av Charta Oecumenica - Sveriges kristna råd
+- Christopher, 38, kollade porr – medan 2-åriga dottern dog i stekhet bil - Expressen
 - Hushållen väntas unna sig – julhandeln går mot 100 miljarder - Skånska Dagbladet
 - Sandström: Stegra begär mer bidrag – Energimyndigheten mörkar - Affärsvärlden
-- Kommentar: Så fick oljepriset USA att skifta fot om Gunvor - Dagens industri
+- Tidaholm lyfter lite till i ny Nils-Holgersson-rapport - Västgöta-Bladet
 - Nytt kollektivavtal för fönsterputsföretag - Almega
 - GTA 6 försenas – aktien föll - Dagens industri
 - ”Det var som att jag fick mina barn tillbaka” - SvD
@@ -28,19 +28,19 @@ _Updated: 2025-11-08 05:23_
 ## World News
 
 - Wolverine Worldwide Appoints Justin Cupps as Work Group President - Placera.se
-- Bamse goes global – beloved Swedish comics character launches new educational adventure game in English - Mynewsdesk
 - VNV Global tar emot slutbetalning från Gett-försäljning - har nettokassa (Finwire News) - Aktiellt
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
+- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
@@ -52,23 +52,23 @@ _Updated: 2025-11-08 05:23_
 
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
+- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
+- OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
+- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 - Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
-- Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 - XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
 
 ## Business
@@ -85,7 +85,6 @@ _Updated: 2025-11-08 05:23_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Connected cars, in-car payments driving the auto economy - mastercard.com
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2025-11-08 05:23_
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 
 ## Health
 
@@ -120,22 +120,22 @@ _Updated: 2025-11-08 05:23_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
@@ -149,16 +149,16 @@ _Updated: 2025-11-08 05:23_
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Framtidens jordbruk är regenerativt - greenpeace.org
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Macron miljardsatsar på franskt jordbruk - Land Lantbruk
