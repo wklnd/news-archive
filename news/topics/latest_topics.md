@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-08 20:46_
+_Updated: 2025-11-08 21:38_
 
 ## Top Stories
 
 - Kungen: ”Hur mycket ska vi betala egentligen?” – Senaste nytt om FN:s klimattoppmöte COP30 i Belém - SVT Nyheter
 - Sverige har hjälpt Ukraina med attacker – mot mål inne i Ryssland - TV4 Nyheterna
-- Tonåringar påkörda i Borås – en till sjukhus - TV4 Nyheterna
-- I NATT: Lastbil stoppad på E18 – med stulna bilar för en miljon i lasten - NWT
-- Attackerna på Västbanken ökar – värsta månaden hittills - Dagens Nyheter
+- DN Direkt – Tornado i Brasilien – 400 skadade - Dagens Nyheter
+- Länsföretags hotell stängt efter avslöjad sexhandel - Östersunds-Posten
 - Familjen som formade New Yorks nya borgmästare - Dagens Nyheter
-- Ukrainska sjömän i Sverige – tränas för strid - Dagens Nyheter
-- Rusning till sexhjälpskliniker efter omstridd bok - Dagens Nyheter
-- Drönarlarm vid ryska ambassadens byggnad på Lidingö - SVT Nyheter
 - 08 november 07.37, Sammanfattning natt, Västernorrlands län - polisen.se
+- Ukrainska sjömän i Sverige – tränas för strid - Dagens Nyheter
+- Drönarlarm vid ryska ambassadens byggnad på Lidingö - SVT Nyheter
+- 08 november 08.00, Sammanfattning natt, Jönköpings län - polisen.se
+- Fem fackliga nyheter från veckan som gått - Dagens Arena
+- Attackerna på Västbanken ökar – värsta månaden hittills - Dagens Nyheter
 - Putins ärkefiende: Var redo för nytt kallt krig - Västerbottens-Kuriren
 - Sverige ger 100 miljoner kronor till humanitära insatser i Sudan - Regeringen.se
 - Nathan Shachar: En seger för FN och för Marocko – men knappast för saharawierna - Dagens Nyheter
-- Salmonella: Färs som sålts på Willys och Hemköp återkallas - Oskarshamns-Nytt
 - Nollränta på lönekontot – bättre spara hos staten - SvD
 - Tusentals kan få sparken i Storbritannien – de väger för mycket - Sydsvenskan
 - ISF: Försäkringskassan mörkar egna fel. Enskilda får skulden - Hejaolika.se
-- Nya lagarna i Thailand – då är det förbjudet att dricka alkohol - Aftonbladet
-- Komet från bortom stjärnorna fotad av sond - Aftonbladet
+- Axfood återkallar blandfärs, 20%, import, cirka 1 kg - Axfood
+- Komet från bortom stjärnorna fotad av sond - Dagens Nyheter
 - "Mass Effect"-serien kommer inte följa spelen: "Helt ny berättelse" - MovieZine
 
 ## World News
@@ -62,6 +62,7 @@ _Updated: 2025-11-08 20:46_
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Deepseek är det nya Linux - Computer Sweden
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
@@ -69,30 +70,29 @@ _Updated: 2025-11-08 20:46_
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- CoreWeave Announces Partnership with Foundation Model Company Poolside to Deliver AI Cloud Services - Placera.se
 
 ## Business
 
 - POWERING PROGRESS: CARIBBEAN UTILITIES COMPANY, LTD. PUBLISHES INAUGURAL GREEN FINANCE REPORT, REINFORCING COMMITMENT TO SUSTAINABLE INVESTMENT - Placera.se
-- Transforming Thailand to a digital economy - mastercard.com
 - The circular economy in action at Blenheim Palace - mastercard.com
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Transforming Thailand to a digital economy - mastercard.com
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Connected cars, in-car payments driving the auto economy - mastercard.com
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Money movement – Evolving expectations of economic migrants - mastercard.com
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -101,21 +101,21 @@ _Updated: 2025-11-08 20:46_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - NyTeknik
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Institutionen för medicinsk epidemiologi och biostatistik - Karolinska Institutet
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 
 ## Science
 
@@ -144,21 +144,21 @@ _Updated: 2025-11-08 20:46_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Macron miljardsatsar på franskt jordbruk - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk
