@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-08 10:44_
+_Updated: 2025-11-08 11:38_
 
 ## Top Stories
 
 - Kungen: ”Hur mycket ska vi betala egentligen?” – Senaste nytt om FN:s klimattoppmöte COP30 i Belém - SVT Nyheter
-- Ungern undantas amerikanska energisanktioner mot Ryssland - Dagens Nyheter
+- Trump låter Orbán köpa rysk olja ostraffat - Västerbottens-Kuriren
 - Kallade sig ”bästa barnhjärtläkaren i Sverige”: ”Har förstört mycket” - Dagens Nyheter
-- Raijen, 16, ser sitt land sakta dränkas - Aftonbladet
+- Dödlig rysk attack mot ukrainsk storstad - GP
+- Tre till sjukhus efter krock i Biskopsgården - GP
+- DN Direkt – Skadad man hittad utomhus i Järvsö - Dagens Nyheter
 - 08 november 07.37, Sammanfattning natt, Västernorrlands län - polisen.se
 - 08 november 08.00, Sammanfattning natt, Jönköpings län - polisen.se
-- 08 november 08.00, Sammanfattning natt, Södermanlands län - polisen.se
-- DN Direkt – Skadad man hittad utomhus i Järvsö - Dagens Nyheter
 - 08 november 07.05, Sammanfattning kväll och natt, Hallands län - polisen.se
-- Kravet: Byt färg på svenska flaggan - Aftonbladet
+- Kryphål i Teslastrejken täpps till – ny verkstad blockas - Arbetet
 - Eldupphör kring kärnkraftverk i Ukraina - Västerbottens-Kuriren
 - Krigets Sudan översvämmas av vapen från utlandet - Dagens Nyheter
-- Trump: USA bojkottar G20-mötet i Sydafrika - GP
-- USA lyfter sanktioner mot Syriens nye ledare - GP
+- FN: Rekordmånga bosättarattacker på Västbanken - GP
+- Trump: USA bojkottar G20-mötet i Sydafrika - Västerbottens-Kuriren
 - Novo Nordisk förlorar budstrid mot Pfizer - SvD
-- Tusentals kan få sparken i Storbritannien – de väger för mycket - Sydsvenskan
 - Flygkaos i USA – tiotusentals resenärer drabbas av nedstängningen - Dagens Nyheter
-- Nobelstiftelsen bryter med BNP Paribas - Dagens industri
+- Tusentals kan få sparken i Storbritannien – de väger för mycket - Sydsvenskan
+- Volvo EX30 – så bra är den nya den nya Cross Country-versionen - Dagens Nyheter
 - GTA 6 försenas – aktien föll - Dagens industri
-- "Hela himlen kan blinka som en discobelysning" - Mellanbygden
+- Dessa 4 kameramobiler kan få stora rabatter under Black Friday - TechRadar
 
 ## World News
 
@@ -32,7 +32,6 @@ _Updated: 2025-11-08 10:44_
 - VNV Global tar emot slutbetalning från Gett-försäljning - har nettokassa (Finwire News) - Aktiellt
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -42,11 +41,12 @@ _Updated: 2025-11-08 10:44_
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global Series stundar – men först ska Karlsson stoppa Nylander - NHL.com
-- Omdia: Global Tablet Shipments Rose 5% in Q3 2025, Extending Two-Year Growth Streak - Placera.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - SpeedX USA Project Goes Live: DAMON demonstrates its global System-Integration Strength - Placera.se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
+- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
 
 ## Technology
 
@@ -56,20 +56,20 @@ _Updated: 2025-11-08 10:44_
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
+- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
-- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
+- UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
+- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
+- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
 
 ## Business
 
@@ -103,15 +103,15 @@ _Updated: 2025-11-08 10:44_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Institutionen för medicinsk epidemiologi och biostatistik - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
@@ -120,45 +120,45 @@ _Updated: 2025-11-08 10:44_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskning om forskningskommunikation i Sverige - Jönköping University
+- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
+- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
-- Nyheter - LRF - Lantbrukarnas Riksförbund
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Nyheter - LRF - Lantbrukarnas Riksförbund
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
