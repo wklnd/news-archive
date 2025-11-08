@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-08 23:37_
+_Updated: 2025-11-09 00:39_
 
 ## Top Stories
 
-- Flera larm om laserattacker i Göteborg – färjetrafik inställd - SVT Nyheter
 - Rejäla IT-störningar i Sverige under lördagskvällen - Oskarshamns-Nytt
 - Terrormisstänkt anmäldes av föräldrarna – hotade att spränga sin mamma - Dagens Nyheter
-- Tornado i södra Brasilien – över 700 skadade - Västerbottens-Kuriren
-- Städare sköts till döds – gick till fel hus - Dagens Nyheter
+- Flera döda i lagerbrand i Turkiet - Västerbottens-Kuriren
+- Färjor ställs in – besköts med laser från Karlatornet - Aftonbladet
+- Tornado i södra Brasilien – över 700 skadade - GP
+- Putin uppges ha petat Lavrov: ”Tror Kreml spelar teater” - Dagens Nyheter
 - Kungen: ”Hur mycket ska vi betala egentligen?” – Senaste nytt om FN:s klimattoppmöte COP30 i Belém - SVT Nyheter
-- Ukrainska sjömän i Sverige – tränas för strid - Dagens Nyheter
-- Länsföretags hotell stängt efter avslöjad sexhandel - Östersunds-Posten
 - 08 november 07.37, Sammanfattning natt, Västernorrlands län - polisen.se
 - 08 november 08.00, Sammanfattning natt, Jönköpings län - polisen.se
-- Putin uppges ha petat Lavrov: ”Tror Kreml spelar teater” - Dagens Nyheter
-- FN: Rekordmånga bosättarattacker på Västbanken - Västerbottens-Kuriren
-- Stora protester mot Portugals regering - GP
-- Sverige ger 100 miljoner kronor till humanitära insatser i Sudan - Regeringen.se
+- Länsföretags hotell stängt efter avslöjad sexhandel - Östersunds-Posten
+- Stora protester mot Portugals regering - Västerbottens-Kuriren
+- Experter om Trumps knarkkrig: Helt uppåt väggarna - Dagens Nyheter
+- Städare sköts till döds – gick till fel hus - Dagens Nyheter
+- FN: Rekordmånga bosättarattacker på Västbanken - GP
 - Nollränta på lönekontot – bättre spara hos staten - SvD
 - Över tusen flyg ställs in på nytt i USA - SVT Nyheter
-- Tusentals kan få sparken i Storbritannien – de väger för mycket - Sydsvenskan
 - Snöblandat regn på ingång: ”Kommer vara blött” - Omni
+- Tusentals kan få sparken i Storbritannien – de väger för mycket - HD – Nyheter Dygnet Runt
 - Komet från bortom stjärnorna fotad av sond - Dagens Nyheter
 - Fackförbund kritiserar spelstudio: Hänsynslöst - SvD
 
@@ -51,8 +51,8 @@ _Updated: 2025-11-08 23:37_
 ## Technology
 
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
@@ -60,11 +60,11 @@ _Updated: 2025-11-08 23:37_
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
-- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
@@ -101,44 +101,44 @@ _Updated: 2025-11-08 23:37_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- SIHI Sweden Konferens 2024 - Uppsala universitet
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - NyTeknik
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Institutionen för medicinsk epidemiologi och biostatistik - Karolinska Institutet
+- ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
 
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 
 ## Jordbruk
 
