@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-08 22:39_
+_Updated: 2025-11-08 23:37_
 
 ## Top Stories
 
-- DN Direkt – Färjor ställs in – besköts med grön laser - Dagens Nyheter
-- Kungen: ”Hur mycket ska vi betala egentligen?” – Senaste nytt om FN:s klimattoppmöte COP30 i Belém - SVT Nyheter
-- Tornado i södra Brasilien – över 400 skadade - GP
+- Flera larm om laserattacker i Göteborg – färjetrafik inställd - SVT Nyheter
+- Rejäla IT-störningar i Sverige under lördagskvällen - Oskarshamns-Nytt
+- Terrormisstänkt anmäldes av föräldrarna – hotade att spränga sin mamma - Dagens Nyheter
+- Tornado i södra Brasilien – över 700 skadade - Västerbottens-Kuriren
 - Städare sköts till döds – gick till fel hus - Dagens Nyheter
-- Ryska hotet: Öva på attack mot Pentagon - Expressen
-- Länsföretags hotell stängt efter avslöjad sexhandel - Östersunds-Posten
+- Kungen: ”Hur mycket ska vi betala egentligen?” – Senaste nytt om FN:s klimattoppmöte COP30 i Belém - SVT Nyheter
 - Ukrainska sjömän i Sverige – tränas för strid - Dagens Nyheter
+- Länsföretags hotell stängt efter avslöjad sexhandel - Östersunds-Posten
 - 08 november 07.37, Sammanfattning natt, Västernorrlands län - polisen.se
 - 08 november 08.00, Sammanfattning natt, Jönköpings län - polisen.se
-- Rusning till sexhjälpskliniker efter omstridd bok - Dagens Nyheter
+- Putin uppges ha petat Lavrov: ”Tror Kreml spelar teater” - Dagens Nyheter
 - FN: Rekordmånga bosättarattacker på Västbanken - Västerbottens-Kuriren
+- Stora protester mot Portugals regering - GP
 - Sverige ger 100 miljoner kronor till humanitära insatser i Sudan - Regeringen.se
-- Putins ärkefiende: Var redo för nytt kallt krig - GP
-- Thailand skärper lag – turister kan få böter - Expressen
 - Nollränta på lönekontot – bättre spara hos staten - SvD
+- Över tusen flyg ställs in på nytt i USA - SVT Nyheter
 - Tusentals kan få sparken i Storbritannien – de väger för mycket - Sydsvenskan
-- Tusentals inställda flygresor i USA - SVT Nyheter
-- ISF: Försäkringskassan mörkar egna fel. Enskilda får skulden - Hejaolika.se
+- Snöblandat regn på ingång: ”Kommer vara blött” - Omni
 - Komet från bortom stjärnorna fotad av sond - Dagens Nyheter
-- "Mass Effect"-serien kommer inte följa spelen: "Helt ny berättelse" - MovieZine
+- Fackförbund kritiserar spelstudio: Hänsynslöst - SvD
 
 ## World News
 
 - Predators har jobb kvar att göra innan Global Series - NHL.com
 - VNV Global tar emot slutbetalning från Gett-försäljning - har nettokassa (Finwire News) - Aktiellt
-- Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
-- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Global Good News · Senaste nyheterna om trav - Travronden
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Umeå children in worldwide school project on AI - Umeå universitet
 - Somaliland: Election in a "non-existing" country - Global Bar Magazine
-- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 - MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
 ## Technology
 
+- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Nästa generations Internet of Things - Shaping Europe’s digital future
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Deepseek är det nya Linux - Computer Sweden
+- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
+- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- CoreWeave Announces Partnership with Foundation Model Company Poolside to Deliver AI Cloud Services - Placera.se
 
 ## Business
 
@@ -81,17 +81,17 @@ _Updated: 2025-11-08 22:39_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Money movement – Evolving expectations of economic migrants - mastercard.com
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 
 ## Health
