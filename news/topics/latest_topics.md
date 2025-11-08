@@ -1,39 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-08 13:38_
+_Updated: 2025-11-08 15:00_
 
 ## Top Stories
 
 - Kungen: ”Hur mycket ska vi betala egentligen?” – Senaste nytt om FN:s klimattoppmöte COP30 i Belém - SVT Nyheter
 - En person till sjukhus – misstänkt mordförsök - Aftonbladet
-- Kallade sig ”bästa barnhjärtläkaren i Sverige”: ”Har förstört mycket” - Dagens Nyheter
-- Skadegörelse på rysk beskickning - Västerbottens-Kuriren
+- En häktad för dödsskjutningen i Bromma - Västerbottens-Kuriren
+- Lettland vill lämna skydd mot kvinnor – skyller på hbtq - GP
 - Länsföretags hotell stängt efter avslöjad sexhandel - Östersunds-Posten
-- Palestinier misshandlas i underjordiskt fängelse - SvD
+- Källor: Ungern får köpa rysk olja i ett år - SVT Nyheter
+- Drönarlarm vid ryska ambassadens byggnad på Lidingö - SVT Nyheter
+- Kallade sig ”bästa barnhjärtläkaren i Sverige”: ”Har förstört mycket” - Dagens Nyheter
 - 08 november 07.37, Sammanfattning natt, Västernorrlands län - polisen.se
 - 08 november 08.00, Sammanfattning natt, Jönköpings län - polisen.se
-- LEDARE: Moderata ungdomsförbundet har rätt: svenska flaggan är ful - Skånska Dagbladet
-- Kryphål i Teslastrejken täpps till – ny verkstad blockas - Arbetet
+- Putins ärkefiende: Var redo för nytt kallt krig - Dagens Nyheter
+- Gisslan: Sexuellt våld, svält och stenar i öronen - GP
+- Sverige ger 100 miljoner kronor till humanitära insatser i Sudan - Regeringen.se
 - Ny tyfon hotar redan drabbade Filippinerna - Västerbottens-Kuriren
-- Eldupphör kring kärnkraftverk i Ukraina - GP
-- FN: Rekordmånga bosättarattacker på Västbanken - Västerbottens-Kuriren
-- Krigets Sudan översvämmas av vapen från utlandet - Dagens Nyheter
 - Novo Nordisk förlorar budstrid mot Pfizer - SvD
 - Tusentals kan få sparken i Storbritannien – de väger för mycket - Sydsvenskan
 - Tusentals inställda flygresor i USA - SVT Nyheter
-- Tuff Volvo – tuff prislapp - Dagens Nyheter
+- AI drar in körkort – och tar över revisionen - Dagens PS
 - Nya mätningar visar: Universum kan i miljardtals år ha betett sig annorlunda än vi har trott - Illustrerad Vetenskap
-- Var ska musiken komma ifrån? - Ljud & Bild
+- "Mass Effect"-serien kommer inte följa spelen: "Helt ny berättelse" - moviezine.se
 
 ## World News
 
 - Predators har jobb kvar att göra innan Global Series - NHL.com
-- Wolverine Worldwide Appoints Justin Cupps as Work Group President - Placera.se
 - VNV Global tar emot slutbetalning från Gett-försäljning - har nettokassa (Finwire News) - Aktiellt
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
@@ -42,29 +39,32 @@ _Updated: 2025-11-08 13:38_
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Omdia: Global Tablet Shipments Rose 5% in Q3 2025, Extending Two-Year Growth Streak - Placera.se
 - SpeedX USA Project Goes Live: DAMON demonstrates its global System-Integration Strength - Placera.se
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Somaliland: Election in a "non-existing" country - Global Bar Magazine
+- Umeå children in worldwide school project on AI - Umeå universitet
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 
 ## Technology
 
-- Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
+- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
+- Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- Freedom Holding Corp. to Build $2B Sovereign AI Hub in Kazakhstan Powered by NVIDIA - Placera.se
+- Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
