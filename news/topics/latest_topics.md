@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-08 06:43_
+_Updated: 2025-11-08 07:40_
 
 ## Top Stories
 
 - Inga besked från Sverige om pengar till avskogningsfond – Senaste nytt om FN:s klimattoppmöte COP30 i Belém - SVT Nyheter
-- En person till sjukhus – misstänkt mordförsök - Aftonbladet
-- Ungern undantas amerikanska energisanktioner mot Ryssland - Dagens Nyheter
 - Sverige ger 100 miljoner kronor till humanitära insatser i Sudan - Regeringen.se
-- Norge frias för förväxlade spädbarn - GP
-- Tusentals kan få sparken – de väger för mycket - Folkbladet
-- Kravet: Byt färg på svenska flaggan - Aftonbladet
-- 07 november 18.37, Övrigt, Trelleborg - polisen.se
+- ”Ska livet verkligen vara så här trist i 60-årsåldern?” - Dagens Nyheter
+- Trump låter Orbán köpa rysk olja ostraffat - GP
+- Domare: Olaglig utplacering av nationalgardet - Västerbottens-Kuriren
+- Fem fackliga nyheter från veckan som gått - Dagens Arena
+- DN Direkt – Skadad man hittad utomhus i Järvsö - Dagens Nyheter
 - Avsiktsförklaring mellan Ukraina och Sverige om fördjupat samarbete inom försvarsinnovation - Regeringen.se
-- Licensjakt efter 12 vargar i Södermanlands län - Länsstyrelsen
-- Ryska attacker mot elförsörjning i Ukraina - Västerbottens-Kuriren
+- 07 november 18.37, Övrigt, Trelleborg - polisen.se
+- Licensjakt efter högst 6 vargar i Västra Götaland - Länsstyrelsen
 - Audiens hos Påve Leo XIV efter undertecknande av Charta Oecumenica - Sveriges kristna råd
 - Passagerare fattade eld av vanliga prylen - Expressen
-- DN Direkt – Svajigt på Wall Street - Dagens Nyheter
+- Ukraina kan tvingas ge upp ”porten till Donetsk” - GP
+- Christopher, 38, kollade porr – medan 2-åriga dottern dog i stekhet bil - Expressen
 - Hushållen väntas unna sig – julhandeln går mot 100 miljarder - Skånska Dagbladet
 - Tidaholm lyfter lite till i ny Nils-Holgersson-rapport - Västgöta-Bladet
 - Kommentar till Svensk Mäklarstatistik: Stockholmspriser stiger trots färre bostadsrättsaffärer – små lägenheter bromsar marknaden - Mynewsdesk
-- Nytt kollektivavtal för fönsterputsföretag - Almega
+- Svajigt på Wall Street - Aftonbladet
 - GTA 6 försenas – aktien föll - Dagens industri
 - ”Det var som att jag fick mina barn tillbaka” - SvD
 
@@ -56,43 +56,43 @@ _Updated: 2025-11-08 06:43_
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
+- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
+- Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
+- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
+- Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
 - Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
+- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
 - EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
-- SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
+- SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
-- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
-- XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
 
 ## Business
 
 - POWERING PROGRESS: CARIBBEAN UTILITIES COMPANY, LTD. PUBLISHES INAUGURAL GREEN FINANCE REPORT, REINFORCING COMMITMENT TO SUSTAINABLE INVESTMENT - Placera.se
+- Transforming Thailand to a digital economy - mastercard.com
 - The circular economy in action at Blenheim Palace - mastercard.com
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Transforming Thailand to a digital economy - mastercard.com
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Connected cars, in-car payments driving the auto economy - mastercard.com
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Money movement – Evolving expectations of economic migrants - mastercard.com
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -144,21 +144,21 @@ _Updated: 2025-11-08 06:43_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Maskinförare | Jobb | ATL - Land Lantbruk
-- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
-- Unga lantbrukare får ingen chans - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
