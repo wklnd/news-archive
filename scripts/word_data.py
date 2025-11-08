@@ -59,7 +59,8 @@ class NewsAnalyzer:
             "may", "might", "perhaps", "likely", "unlikely",
             "meanwhile", "amid", "despite", "although",
             "however", "further", "also", "including",
-            "like", "such", "among", "around"
+            "like", "such", "among", "around",
+            "him", "her", "they",
         }
 
         
