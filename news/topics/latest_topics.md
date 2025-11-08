@@ -1,43 +1,43 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-08 21:38_
+_Updated: 2025-11-08 22:39_
 
 ## Top Stories
 
+- DN Direkt – Färjor ställs in – besköts med grön laser - Dagens Nyheter
 - Kungen: ”Hur mycket ska vi betala egentligen?” – Senaste nytt om FN:s klimattoppmöte COP30 i Belém - SVT Nyheter
-- Sverige har hjälpt Ukraina med attacker – mot mål inne i Ryssland - TV4 Nyheterna
-- DN Direkt – Tornado i Brasilien – 400 skadade - Dagens Nyheter
+- Tornado i södra Brasilien – över 400 skadade - GP
+- Städare sköts till döds – gick till fel hus - Dagens Nyheter
+- Ryska hotet: Öva på attack mot Pentagon - Expressen
 - Länsföretags hotell stängt efter avslöjad sexhandel - Östersunds-Posten
-- Familjen som formade New Yorks nya borgmästare - Dagens Nyheter
-- 08 november 07.37, Sammanfattning natt, Västernorrlands län - polisen.se
 - Ukrainska sjömän i Sverige – tränas för strid - Dagens Nyheter
-- Drönarlarm vid ryska ambassadens byggnad på Lidingö - SVT Nyheter
+- 08 november 07.37, Sammanfattning natt, Västernorrlands län - polisen.se
 - 08 november 08.00, Sammanfattning natt, Jönköpings län - polisen.se
-- Fem fackliga nyheter från veckan som gått - Dagens Arena
-- Attackerna på Västbanken ökar – värsta månaden hittills - Dagens Nyheter
-- Putins ärkefiende: Var redo för nytt kallt krig - Västerbottens-Kuriren
+- Rusning till sexhjälpskliniker efter omstridd bok - Dagens Nyheter
+- FN: Rekordmånga bosättarattacker på Västbanken - Västerbottens-Kuriren
 - Sverige ger 100 miljoner kronor till humanitära insatser i Sudan - Regeringen.se
-- Nathan Shachar: En seger för FN och för Marocko – men knappast för saharawierna - Dagens Nyheter
+- Putins ärkefiende: Var redo för nytt kallt krig - GP
+- Thailand skärper lag – turister kan få böter - Expressen
 - Nollränta på lönekontot – bättre spara hos staten - SvD
 - Tusentals kan få sparken i Storbritannien – de väger för mycket - Sydsvenskan
+- Tusentals inställda flygresor i USA - SVT Nyheter
 - ISF: Försäkringskassan mörkar egna fel. Enskilda får skulden - Hejaolika.se
-- Axfood återkallar blandfärs, 20%, import, cirka 1 kg - Axfood
 - Komet från bortom stjärnorna fotad av sond - Dagens Nyheter
 - "Mass Effect"-serien kommer inte följa spelen: "Helt ny berättelse" - MovieZine
 
 ## World News
 
 - Predators har jobb kvar att göra innan Global Series - NHL.com
-- Omdia: Global Tablet Shipments Rose 5% in Q3 2025, Extending Two-Year Growth Streak - Placera.se
 - VNV Global tar emot slutbetalning från Gett-försäljning - har nettokassa (Finwire News) - Aktiellt
+- Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
+- Global Good News tog första segern i tionde starten · Senaste nyheterna om trav - Travronden
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Global Good News · Senaste nyheterna om trav - Travronden
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
-- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
@@ -45,8 +45,8 @@ _Updated: 2025-11-08 21:38_
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Somaliland: Election in a "non-existing" country - Global Bar Magazine
-- Umeå children in worldwide school project on AI - Umeå universitet
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
 ## Technology
 
@@ -62,7 +62,6 @@ _Updated: 2025-11-08 21:38_
 - Nästa generations Internet of Things - Shaping Europe’s digital future
 - Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
 - Deepseek är det nya Linux - Computer Sweden
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
 - Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
 - Safe Pro’s Artificial Intelligence Delivers 800+% Productivity Surge in Ukraine Demining Surveys According to Independent Research Presented at Leading Global Conference - Placera.se
 - SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
@@ -70,29 +69,30 @@ _Updated: 2025-11-08 21:38_
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
+- CoreWeave Announces Partnership with Foundation Model Company Poolside to Deliver AI Cloud Services - Placera.se
 
 ## Business
 
 - POWERING PROGRESS: CARIBBEAN UTILITIES COMPANY, LTD. PUBLISHES INAUGURAL GREEN FINANCE REPORT, REINFORCING COMMITMENT TO SUSTAINABLE INVESTMENT - Placera.se
+- Transforming Thailand to a digital economy - mastercard.com
 - The circular economy in action at Blenheim Palace - mastercard.com
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Transforming Thailand to a digital economy - mastercard.com
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Connected cars, in-car payments driving the auto economy - mastercard.com
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Securing tomorrow: Preparing for an always-on, AI-powered future - mastercard.com
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Money movement – Evolving expectations of economic migrants - mastercard.com
 - Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -101,21 +101,21 @@ _Updated: 2025-11-08 21:38_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - NyTeknik
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Institutionen för medicinsk epidemiologi och biostatistik - Karolinska Institutet
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
-- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
 
 ## Science
 
