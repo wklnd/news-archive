@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2025-11-09 00:48_
+_Updated: 2025-11-09 01:48_
 
-- Supreme Court says US food stamp funding can be temporarily halted - BBC
-- Senate holds rare Saturday session aimed at ending government shutdown - CBS News
 - Shots fired at Border Patrol agents on Chicago's West Side, DHS says - CBS News
+- Talks to end government shutdown take a promising turn, Senate majority leader says - CNBC
 - Russia carries out 'massive strike' on Ukraine, killing at least 4 and injuring 26 - abcnews.go.com
-- An Israeli military court considers fate of U.S. teen charged with stone-throwing - NPR
-- Voter fury emerges over skyrocketing electricity bills as AI stokes demand — and fears of a stock market bubble - Fortune
-- More than 1,000 flights canceled on second day of cuts tied to government shutdown - The Guardian
-- Democrats swept elections far beyond the big races in referendum on Trump - The Washington Post
+- Supreme Court says US food stamp funding can be temporarily halted - BBC
 - UPS and FedEx grounding MD-11 planes following deadly Kentucky crash - AP News
+- An Israeli military court considers fate of U.S. teen charged with stone-throwing - NPR
+- More than 1,000 flights canceled on second day of cuts tied to government shutdown - The Guardian
 - Trump tells Senate Republicans to send federal health insurance money 'directly to the people' - CNBC
+- Stefanik’s run for New York governor could be a gift to Democrats - Politico
+- From Bollywood to bodegas, Mamdani’s mayoral campaign found visual inspiration in unlikely corners - abcnews.go.com
+- 15 hurt in W. Bank settler attacks, including Palestinian farmer recently interviewed by ToI - The Times of Israel
 - Thousands of Sudanese flee to overcrowded camps after paramilitary captures el-Fasher - CBS News
-- Gaza death toll tops 69,000 as Israel and militants again exchange remains - AP News
-- ‘Unprecedented’ tornado tears through southern Brazil, killing at least six - CNN
-- Israel says body of Lior Rudaeff has been returned from Gaza - BBC
-- Novo’s CEO Turns to Next Targets After Losing Metsera to Pfizer - Bloomberg.com
+- Powerful tornado in Brazil kills 6 people and injures hundreds more - AP News
+- Palestinian death toll in Gaza tops 69,000 as more bodies are exchanged, local health officials say - Politico
+- Pfizer to Acquire Obesity Drug Start-Up Metsera in $10 Billion Deal - The New York Times
+- Government shutdown latest: Airspace cuts begin, consumer mood sours as Trump's team calls impact 'far worse' than expected - Yahoo Finance
+- 1,900% Stock Gains and Hate Mail: Welcome to Quantum Investing - Bloomberg.com
 - Is the U.S. jobs market tanking? Here’s what the latest clues say. - MarketWatch
-- Millionaires value their personal trainers and therapists more than their wealth advisors - CNBC
-- Mega Millions: Jackpot soars to $900 million after no winner in latest drawing - ABC7 Los Angeles
 - Turns out Halo Infinite isn't infinite at all as Halo Studios ends active development after just four years - Eurogamer
-- Galaxy S27 Ultra may finally have a key security feature iPhones have had for years - PhoneArena
+- Blue Origin will ‘move heaven and Earth’ to help NASA reach the Moon faster, CEO says - Ars Technica
