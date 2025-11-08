@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-08 17:38_
+_Updated: 2025-11-08 18:44_
 
 ## Top Stories
 
 - Kungen: ”Hur mycket ska vi betala egentligen?” – Senaste nytt om FN:s klimattoppmöte COP30 i Belém - SVT Nyheter
 - DN Direkt – Högsta domstolen stoppar mathjälp i USA - Dagens Nyheter
+- I NATT: Lastbil stoppad på E18 – med stulna bilar för en miljon i lasten - NWT
 - Nu skärps alkohollagarna i Thailand – då bötfälls du - GP
-- Misstänkt farligt föremål i Göteborg var ofarligt - Omni
-- Länsföretags hotell stängt efter avslöjad sexhandel - Östersunds-Posten
-- Källor: Ungern får köpa rysk olja i ett år - SVT Nyheter
-- DN Direkt – Drönarlarm vid rysk beskickning på Lidingö - Dagens Nyheter
-- Kallade sig ”bästa barnhjärtläkaren i Sverige”: ”Har förstört mycket” - Dagens Nyheter
+- Försvunna diamanterna hittade – 100 år senare - Expressen
+- Familjen som formade New Yorks nya borgmästare - Dagens Nyheter
+- Drönarlarm vid ryska ambassadens byggnad på Lidingö - SVT Nyheter
 - Det här ska man aldrig ge till sin katt - Örebronyheter
 - 08 november 07.37, Sammanfattning natt, Västernorrlands län - polisen.se
-- Putins ärkefiende: Var redo för nytt kallt krig - Dagens Nyheter
-- Gisslan: Sexuellt våld, svält och stenar i öronen - GP
+- 08 november 08.00, Sammanfattning natt, Jönköpings län - polisen.se
+- Putins ärkefiende: Var redo för nytt kallt krig - Västerbottens-Kuriren
 - Sverige ger 100 miljoner kronor till humanitära insatser i Sudan - Regeringen.se
-- Ny tyfon hotar redan drabbade Filippinerna - Västerbottens-Kuriren
-- Novo Nordisk förlorar budstriden mot Pfizer – ”oacceptabelt höga juridiska risker” - Dagens industri
+- Dödlig rysk attack mot ukrainsk storstad - Corren
+- Motorbåt körde in betongbrygga - Expressen
 - Nollränta på lönekontot – bättre spara hos staten - SvD
 - Tusentals kan få sparken i Storbritannien – de väger för mycket - Sydsvenskan
-- Tusentals inställda flygresor i USA - SVT Nyheter
+- ISF: Försäkringskassan mörkar egna fel. Enskilda får skulden - Hejaolika.se
+- Axfood återkallar blandfärs, 20%, import, cirka 1 kg - Axfood
 - "Mass Effect"-serien kommer inte följa spelen: "Helt ny berättelse" - MovieZine
-- Nya mätningar visar: Universum kan i miljardtals år ha betett sig annorlunda än vi har trott - Illustrerad Vetenskap
+- Halo Infinite får sin sista uppdatering i slutet av månaden - FZ.se
 
 ## World News
 
@@ -41,35 +41,12 @@ _Updated: 2025-11-08 17:38_
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- S&P Global förvärvar With Intelligence (Finwire News) - Aktiellt
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-
-## Technology
-
-- Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
-- Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
-- Global Defense Stocks Have Rocketed Higher In 2025 as Artificial Intelligence Technology Fueling Big Gains - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
-- Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
-- Microsoft tillkännager en investering på 33,7 miljarder kronor under två år i moln- och AI-infrastruktur och ett AI-kompetenslyft för en kvarts miljon människor i Sverige – Pressrum - Microsoft Source
-- Altair Acquires Cambridge Semantics, Powering Next-Generation Enterprise Data Fabrics and Generative AI - Mynewsdesk
-- XTI Aerospace Appoints Dr. Alex Williams as Executive Vice President of Technology to Accelerate Intelligent Aircraft Development - Placera.se
-- Intellistake Announces C$500,000 FET Allocation, Advancing Strategic Entry into Decentralized AI Infrastructure -- A Token from a Network with Past Industry Initiatives with BMW & Bosch - Placera.se
-- Digital Revolution in Industrial Sectors Continues to Accelerate Demand for The Drone Mapping Market - Placera.se
-- EPAM and Oracle Collaborate to Accelerate Adoption of AI-Powered Cloud Solutions - Placera.se
-- SuperX and Teamsun Announce Formation of "SuperX Global Service" Joint Venture - Placera.se
-- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
-- Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- Lumen and Palantir Launch Strategic Partnership to Unlock the Next Wave of Enterprise AI - Placera.se
-- XTI Aerospace and Valkyrie AI Announce Vanguard Platform Advancing TriFan 600 Next-Generation VTOL Aircraft for Commercial and Defense Applications - Placera.se
+- Umeå children in worldwide school project on AI - Umeå universitet
+- Somaliland: Election in a "non-existing" country - Global Bar Magazine
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
 ## Business
 
@@ -101,21 +78,21 @@ _Updated: 2025-11-08 17:38_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Institutionen för medicinsk epidemiologi och biostatistik - Karolinska Institutet
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Hjärtkirurgen Ulf Kjellman tar över som medicinsk chef (Chief Medical Officer, CMO) på Realheart - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- CGMs PMO lanserar nu stöd för Nationella Läkemedelslistan samt SIL 8.0 - Mynewsdesk
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
-- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
 
 ## Science
 
@@ -127,6 +104,7 @@ _Updated: 2025-11-08 17:38_
 - Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
@@ -135,16 +113,15 @@ _Updated: 2025-11-08 17:38_
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
-- Effekten av Conservation Agriculture - Länsstyrelsen
+- Effekten av Conservation Agriculture - lansstyrelsen.se
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -153,12 +130,12 @@ _Updated: 2025-11-08 17:38_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Jag vägrar att se miljöarbete som ett hinder - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Unga lantbrukare får ingen chans - Land Lantbruk
 - Macron miljardsatsar på franskt jordbruk - Land Lantbruk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
