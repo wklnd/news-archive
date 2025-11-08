@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-08 11:38_
+_Updated: 2025-11-08 12:40_
 
 ## Top Stories
 
+- En häktad för dödsskjutningen i Bromma - Västerbottens-Kuriren
+- Kallade sig ”bästa barnhjärtläkaren i Sverige”: ”Har förstört mycket” - Dagens Nyheter
 - Kungen: ”Hur mycket ska vi betala egentligen?” – Senaste nytt om FN:s klimattoppmöte COP30 i Belém - SVT Nyheter
 - Trump låter Orbán köpa rysk olja ostraffat - Västerbottens-Kuriren
-- Kallade sig ”bästa barnhjärtläkaren i Sverige”: ”Har förstört mycket” - Dagens Nyheter
-- Dödlig rysk attack mot ukrainsk storstad - GP
-- Tre till sjukhus efter krock i Biskopsgården - GP
-- DN Direkt – Skadad man hittad utomhus i Järvsö - Dagens Nyheter
+- Länsföretags hotell stängt efter avslöjad sexhandel - Östersunds-Posten
 - 08 november 07.37, Sammanfattning natt, Västernorrlands län - polisen.se
 - 08 november 08.00, Sammanfattning natt, Jönköpings län - polisen.se
+- 08 november 08.00, Sammanfattning natt, Södermanlands län - polisen.se
+- Misstänkt mordförsök – man skadad - Västerbottens-Kuriren
 - 08 november 07.05, Sammanfattning kväll och natt, Hallands län - polisen.se
-- Kryphål i Teslastrejken täpps till – ny verkstad blockas - Arbetet
 - Eldupphör kring kärnkraftverk i Ukraina - Västerbottens-Kuriren
-- Krigets Sudan översvämmas av vapen från utlandet - Dagens Nyheter
 - FN: Rekordmånga bosättarattacker på Västbanken - GP
-- Trump: USA bojkottar G20-mötet i Sydafrika - Västerbottens-Kuriren
+- Krigets Sudan översvämmas av vapen från utlandet - Dagens Nyheter
+- Ryska attacker mot elförsörjning - SVT Nyheter
 - Novo Nordisk förlorar budstrid mot Pfizer - SvD
-- Flygkaos i USA – tiotusentals resenärer drabbas av nedstängningen - Dagens Nyheter
 - Tusentals kan få sparken i Storbritannien – de väger för mycket - Sydsvenskan
-- Volvo EX30 – så bra är den nya den nya Cross Country-versionen - Dagens Nyheter
+- Tusentals inställda flygresor i USA - SVT Nyheter
+- Tuff Volvo – tuff prislapp - Dagens Nyheter
 - GTA 6 försenas – aktien föll - Dagens industri
-- Dessa 4 kameramobiler kan få stora rabatter under Black Friday - TechRadar
+- Halo Infinite får sin sista uppdatering i slutet av månaden - FZ.se
 
 ## World News
 
 - Predators har jobb kvar att göra innan Global Series - NHL.com
-- Wolverine Worldwide Appoints Justin Cupps as Work Group President - Placera.se
 - VNV Global tar emot slutbetalning från Gett-försäljning - har nettokassa (Finwire News) - Aktiellt
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
-- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
-- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- SpeedX USA Project Goes Live: DAMON demonstrates its global System-Integration Strength - Placera.se
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- SpeedX USA Project Goes Live: DAMON demonstrates its global System-Integration Strength - Placera.se
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- Global fritidsresemarknad väntas tredubblas till 162 biljoner kronor år 2040 - travelnews.se
+- Somaliland: Election in a "non-existing" country - Global Bar Magazine
+- Umeå children in worldwide school project on AI - Umeå universitet
+- Stockholm Observatory for Global China - Utrikespolitiska institutet
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
 
 ## Technology
 
@@ -68,8 +68,8 @@ _Updated: 2025-11-08 11:38_
 - UL Solutions Launches Landmark Artificial Intelligence Safety Certification Services - Placera.se
 - OneMedNet Selects Palantir to Advance Healthcare AI and Data Analytics - Placera.se
 - Alibaba Cloud Announces International Expansion Plans to Power the Next-Generation AI Innovations - Placera.se
-- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 - Agroz Unveils AI-Driven Food Infrastructure Strategy Positioning Agriculture as a High-Growth, Investable Asset Class - Placera.se
+- Sidus Space Completes Design for FeatherEdge™ 248Vi: Advancing AI/ML Processing for Space and Defense Applications - Placera.se
 
 ## Business
 
@@ -101,15 +101,15 @@ _Updated: 2025-11-08 11:38_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - ViS: Wellnessmodellen | Institutionen för vårdvetenskap och hälsa - Göteborgs universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
+- SIHI Sweden Konferens 2024 - Uppsala universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - NyTeknik
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Institutionen för medicinsk epidemiologi och biostatistik - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
@@ -120,22 +120,22 @@ _Updated: 2025-11-08 11:38_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskning om forskningskommunikation i Sverige - Jönköping University
-- Om vår forskning | Centrum för personcentrerad vård – GPCC - Göteborgs universitet
 - Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
