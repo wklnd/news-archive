@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-08 05:49_
+_Updated: 2025-11-08 06:43_
 
 ## Top Stories
 
 - Inga besked från Sverige om pengar till avskogningsfond – Senaste nytt om FN:s klimattoppmöte COP30 i Belém - SVT Nyheter
-- Skräckolycka på flygplats – man började brinna - Aftonbladet
+- En person till sjukhus – misstänkt mordförsök - Aftonbladet
+- Ungern undantas amerikanska energisanktioner mot Ryssland - Dagens Nyheter
 - Sverige ger 100 miljoner kronor till humanitära insatser i Sudan - Regeringen.se
-- Källor: Ungern får köpa rysk olja i ett år - Västerbottens-Kuriren
-- Lavrov petad från uppdrag och möten efter ”katastrofsamtalet - TV4 Nyheterna
-- Israel: Iransk mordplan mot ambassadör stoppad - GP
-- Fem fackliga nyheter från veckan som gått - Dagens Arena
+- Norge frias för förväxlade spädbarn - GP
+- Tusentals kan få sparken – de väger för mycket - Folkbladet
 - Kravet: Byt färg på svenska flaggan - Aftonbladet
 - 07 november 18.37, Övrigt, Trelleborg - polisen.se
 - Avsiktsförklaring mellan Ukraina och Sverige om fördjupat samarbete inom försvarsinnovation - Regeringen.se
+- Licensjakt efter 12 vargar i Södermanlands län - Länsstyrelsen
 - Ryska attacker mot elförsörjning i Ukraina - Västerbottens-Kuriren
-- DN Direkt – Trump: USA bojkottar G20-mötet i Sydafrika - Dagens Nyheter
 - Audiens hos Påve Leo XIV efter undertecknande av Charta Oecumenica - Sveriges kristna råd
-- Christopher, 38, kollade porr – medan 2-åriga dottern dog i stekhet bil - Expressen
+- Passagerare fattade eld av vanliga prylen - Expressen
+- DN Direkt – Svajigt på Wall Street - Dagens Nyheter
 - Hushållen väntas unna sig – julhandeln går mot 100 miljarder - Skånska Dagbladet
-- Sandström: Stegra begär mer bidrag – Energimyndigheten mörkar - Affärsvärlden
 - Tidaholm lyfter lite till i ny Nils-Holgersson-rapport - Västgöta-Bladet
+- Kommentar till Svensk Mäklarstatistik: Stockholmspriser stiger trots färre bostadsrättsaffärer – små lägenheter bromsar marknaden - Mynewsdesk
 - Nytt kollektivavtal för fönsterputsföretag - Almega
 - GTA 6 försenas – aktien föll - Dagens industri
 - ”Det var som att jag fick mina barn tillbaka” - SvD
@@ -85,6 +85,7 @@ _Updated: 2025-11-08 05:49_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Connected cars, in-car payments driving the auto economy - mastercard.com
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2025-11-08 05:49_
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 
 ## Health
 
@@ -144,21 +144,21 @@ _Updated: 2025-11-08 05:49_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Mistra miljöforskningsledare – 15 beviljade ansökningar - Mynewsdesk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
 - Framtidens jordbruk är regenerativt - greenpeace.org
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Här är världens största jordbruk - ATL
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Maskinförare | Jobb | ATL - Land Lantbruk
 - Macron miljardsatsar på franskt jordbruk - Land Lantbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Unga lantbrukare får ingen chans - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
