@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-09 08:47_
+_Updated: 2025-11-09 09:37_
 
 ## Top Stories
 
-- Tre döda i jättevågor på Teneriffa - SVT Nyheter
+- Jättevågor på Teneriffa – tre döda - SVT Nyheter
 - Granatvågen skakar Sverige: ”Gängen har skruvat på kranen” - Dagens Nyheter
-- 100 000 evakueras i Filippinerna - Västerbottens-Kuriren
-- Länsföretags hotell stängt efter avslöjad sexhandel - Östersunds-Posten
-- Johannas ilska mot SJ: ”Håller de på att haverera?” - GP
-- Jetline rivs – två år efter dödsolyckan - Västerbottens-Kuriren
-- Flera larm om laserattacker i Göteborg – färjetrafik inställd - SVT Nyheter
+- Supertyfon närmar sig Filippinerna – en miljon evakuerade - Hufvudstadsbladet
+- 09 november 07.43, Sammanfattning natt, Örebro län - polisen.se
+- I natt: Kvinna till sjukhus med brännskador - Västerbottens-Kuriren
+- Återigen misshandel i Jönköping - Skillingaryd
+- Kvinna skadad i Vellinge kommun – polisen söker vittnen - SVT Nyheter
 - Ukrainska sjömän i Sverige – tränas för strid - Västerbottens-Kuriren
-- 08 november 22.21, Övrigt, Vellinge - polisen.se
-- Företag på klimattoppmöte ifrågasätts - GP
-- Syriens ledare har landat i USA - Västerbottens-Kuriren
-- Dödlig rysk attack mot ukrainsk storstad - GP
+- 09 november 07.52, Sammanfattning natt, Norrbottens län - polisen.se
+- Stickvapenattack i Tallkrogen – man gripen - SVT Nyheter
+- Syriens president i USA för historiskt möte med Donald Trump - SVT Nyheter
+- DN Direkt – Granatvågen skakar Sverige: ”Gängen har skruvat på kranen” - Dagens Nyheter
 - Putin uppges ha petat Lavrov: ”Tror Kreml spelar teater” - Dagens Nyheter
-- Sverige ger 100 miljoner kronor till humanitära insatser i Sudan - Regeringen.se
-- Kina häver exportförbud på kritiska metaller - Aftonbladet
+- Dödlig rysk attack mot ukrainsk storstad - GP
+- Kina pausar exportförbud på tre kritiska metaller - Dagens industri
 - Förvarssektorn glödhet: ”Fråga om liv eller död” - SvD
-- Tidaholm lyfter lite till i ny Nils-Holgersson-rapport - Västgöta-Bladet
-- JUST NU: Bredband och tv-tjänster funkar inte - Dagens Kalmar
+- Bröt sig in i fiskhall – stannade och åt kräftor - Aftonbladet
+- Hon konverterade sin hippiebuss till el - tidningensyre.se
 - Komet från bortom stjärnorna fotad av sond - Dagens Nyheter
-- Bästa videokamera 2025: våra toppval för filmskapare - TechRadar
+- Städa bort gamla datorer från Windows 11 – innan du slår i taket - PC för Alla
 
 ## World News
 
@@ -74,6 +74,7 @@ _Updated: 2025-11-09 08:47_
 ## Business
 
 - POWERING PROGRESS: CARIBBEAN UTILITIES COMPANY, LTD. PUBLISHES INAUGURAL GREEN FINANCE REPORT, REINFORCING COMMITMENT TO SUSTAINABLE INVESTMENT - Placera.se
+- Transforming Thailand to a digital economy - mastercard.com
 - The circular economy in action at Blenheim Palace - mastercard.com
 - DeFi Technologies' Subsidiary Valour Digital Securities Limited Launches the First Bitcoin Staking ETP on the London Stock Exchange - Placera.se
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
@@ -92,7 +93,6 @@ _Updated: 2025-11-09 08:47_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Money movement – Evolving expectations of economic migrants - mastercard.com
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -145,20 +145,20 @@ _Updated: 2025-11-09 08:47_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Macron miljardsatsar på franskt jordbruk - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
