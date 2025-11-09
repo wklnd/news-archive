@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-09 22:39_
+_Updated: 2025-11-09 23:37_
 
 ## Top Stories
 
 - Två BBC-chefer avgår efter kritiken mot redigering av Trump-dokumentär - SVT Nyheter
 - Jättevågor vid Teneriffa – minst tre döda - Hufvudstadsbladet
-- Supertyfon på väg – 1,2 miljoner evakuerade - GP
-- Zelenskyj: Inte rädd för Donald Trump - Västerbottens-Kuriren
+- Alice,19, från Lerum mitt i supertyfonen i Filippinerna - GP
+- Man fick "frätande vätska" kastad över sig - Västerbottens-Kuriren
+- Zelenskyj: Kungen fick Trump att vända - Expressen
 - Han var efterlyst av USA – välkomnas nu till Vita huset - Dagens Nyheter
-- EU-minister Jessica Rosencrantz till Colombia för toppmöte mellan EU och Latinamerika - Regeringen.se
-- Kriminalvården rustar för minderåriga – nya avdelningar och lärarledd undervisning - Dagens Nyheter
 - Dödsolyckan på Gröna Lund prövas i rätten - Dagens Nyheter
 - Tre till sjukhus efter krock i Skåne - Västerbottens-Kuriren
-- Kvinna skadad i Vellinge kommun – polisen utreder våldtäkt - SVT Nyheter
-- Lät sonen övningsköra i 150 – döms till fängelse - Västerbottens-Kuriren
-- USA:s vapenleveranser på is – kan drabba Ukraina - GP
-- JUST NU: Bil har voltat på E18 – totalstopp på vägen: ”Hög hastighet” - NWT
-- Ryssland nära att inta Pokrovsk: ”Nästan omringade” - Dagens Nyheter
+- Kriminalvården rustar för minderåriga – nya avdelningar och lärarledd undervisning - Dagens Nyheter
+- Dynamit hittad på återvinningscentral - UNT
+- Ny kropp överlämnad – dödades i förra Gazakriget - GP
+- USA:s vapenleveranser på is – kan drabba Ukraina - Västerbottens-Kuriren
+- Trafikolycka på E18 i Karlskoga – väg avstängd - SVT Nyheter
+- Lät sonen övningsköra i 150 - Västerbottens-Kuriren
+- Börsen bubblar av oro kring jätteinvesteringarna - Dagens industri
 - Nödstoppa återkrav nu! Starka reaktioner på ISF-larm om rättsliga brister - Hejaolika.se
 - Rejält höjda priser: Så mycket kostar det nu där du bor - NT
 - Jacob Wallenberg ser konjunkturvändning – så säkrar vi Sveriges konkurrenskraft - Tidningen Näringslivet
-- Kina häver exportförbud på kritiska metaller - SvD
 - 3I/ATLAS: Interstellär komet med ovanliga egenskaper - Vad Vi Vet.
 - Gör om dig själv till en Android-figur – med AI - PC för Alla
 
@@ -30,7 +30,6 @@ _Updated: 2025-11-09 22:39_
 - Predators har jobb kvar att göra innan Global Series - NHL.com
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
@@ -47,15 +46,16 @@ _Updated: 2025-11-09 22:39_
 - Somaliland: Election in a "non-existing" country - Global Bar Magazine
 - Umeå children in worldwide school project on AI - Umeå universitet
 - Stockholm Observatory for Global China - Utrikespolitiska institutet
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
 
 ## Technology
 
 - Harbour BioMed and Evinova China Announce Strategic AI Collaboration to Accelerate AI-Enabled Drug Development - Placera.se
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Yiren Digital CFO Highlights Company's AI Transformation and Next-Generation Fintech Strategy - Placera.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - 3 AI ETFs that you should know better: ROBT, IRBO and CHAT - Markets.com
 - Metropolitan Commercial Bank Names Emma Krentz as AI Scientist to Advance Technological Strategy - Placera.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Microsoft Copilot gör arbetet på KI mer effektivt - Karolinska Institutet
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
@@ -80,6 +80,7 @@ _Updated: 2025-11-09 22:39_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - AI-baserade CRM- och ERP-lösningar | Microsoft Dynamics 365 - Microsoft
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Connected cars, in-car payments driving the auto economy - mastercard.com
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
@@ -92,7 +93,6 @@ _Updated: 2025-11-09 22:39_
 - Europas upplevelseekonomi är en av dem som ska ses - mastercard.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Money movement – Evolving expectations of economic migrants - mastercard.com
-- Vestel stärker sin närvaro i Norden genom fullt förvärv av Cylinda AB - Mynewsdesk
 
 ## Health
 
