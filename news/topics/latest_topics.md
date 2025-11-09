@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-09 21:37_
+_Updated: 2025-11-09 22:39_
 
 ## Top Stories
 
 - Två BBC-chefer avgår efter kritiken mot redigering av Trump-dokumentär - SVT Nyheter
-- Supertyfon på väg – 1,2 miljoner evakuerade - Västerbottens-Kuriren
-- En till sjukhus efter olycka på E6 - Folkbladet
-- Därför syntes en ubåt utanför Gräsö: "Konstig känsla" - UNT
-- Rainbow Warrior på plats inför COP30 i Amazonas - Dagens Nyheter
+- Jättevågor vid Teneriffa – minst tre döda - Hufvudstadsbladet
+- Supertyfon på väg – 1,2 miljoner evakuerade - GP
+- Zelenskyj: Inte rädd för Donald Trump - Västerbottens-Kuriren
+- Han var efterlyst av USA – välkomnas nu till Vita huset - Dagens Nyheter
+- EU-minister Jessica Rosencrantz till Colombia för toppmöte mellan EU och Latinamerika - Regeringen.se
 - Kriminalvården rustar för minderåriga – nya avdelningar och lärarledd undervisning - Dagens Nyheter
-- Dynamit hittat på återvinning i Märsta – spärrades av - SVT Nyheter
 - Dödsolyckan på Gröna Lund prövas i rätten - Dagens Nyheter
-- Avgörande frågan på COP30 – inte ens på agendan - GP
-- 09 november 08.00, Sammanfattning natt, Jönköpings län - polisen.se
-- USA:s vapenleveranser på is – kan drabba Ukraina - Västerbottens-Kuriren
-- Lät sonen övningsköra i 150 – döms till fängelse - NWT
-- Omtalad gisslan överlämnas efter elva år - Dagens Nyheter
-- Hamasmän i tunnlar under Rafah vägrar ge upp - SvD
-- Nödstopp för återkrav nu! Starka reaktioner på ISF-larm om rättsliga brister - Hejaolika.se
-- Rejält höjda priser – men Linköping är nästan billigast i landet - Corren
+- Tre till sjukhus efter krock i Skåne - Västerbottens-Kuriren
+- Kvinna skadad i Vellinge kommun – polisen utreder våldtäkt - SVT Nyheter
+- Lät sonen övningsköra i 150 – döms till fängelse - Västerbottens-Kuriren
+- USA:s vapenleveranser på is – kan drabba Ukraina - GP
+- JUST NU: Bil har voltat på E18 – totalstopp på vägen: ”Hög hastighet” - NWT
+- Ryssland nära att inta Pokrovsk: ”Nästan omringade” - Dagens Nyheter
+- Nödstoppa återkrav nu! Starka reaktioner på ISF-larm om rättsliga brister - Hejaolika.se
+- Rejält höjda priser: Så mycket kostar det nu där du bor - NT
 - Jacob Wallenberg ser konjunkturvändning – så säkrar vi Sveriges konkurrenskraft - Tidningen Näringslivet
 - Kina häver exportförbud på kritiska metaller - SvD
 - 3I/ATLAS: Interstellär komet med ovanliga egenskaper - Vad Vi Vet.
@@ -28,25 +28,25 @@ _Updated: 2025-11-09 21:37_
 ## World News
 
 - Predators har jobb kvar att göra innan Global Series - NHL.com
-- CCTV+: 13th Global Video Media Forum held in Xi'an with call to amplify voice of Global South - Placera.se
 - Global food transition needed to reduce pressure on the planet and to save millions of lives - Stockholms universitet
 - Global resolution: new radio telescope image opens up new possibilities - Chalmers tekniska högskola
-- Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- USA:s pass tappar kraft – halkar ner i global ranking - travelnews.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Harvey Announces €50 million Investment from EQT Growth, Tapping EQT’s Global Platform to Accelerate International Expansion - Cision News
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Major update after 800 flights delayed at Delhi airport: Can you board on time today? | India News - Hindustan Times
+- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Swedish global payment gateway blacklists Cuba and freezes payments to Swedish cigar dealers? - NewsMachine AB
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- AECOM uppmärksammat vid FIDIC Global Infrastructure Awards för sitt arbete med Norrbotniabanan - PR Newswire
-- S&P Global förvärvar With Intelligence (Finwire News) - Aktiellt
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Wolverine Worldwide Appoints Justin Cupps as Work Group President - Placera.se
+- Somaliland: Election in a "non-existing" country - Global Bar Magazine
+- Umeå children in worldwide school project on AI - Umeå universitet
+- Stockholm Observatory for Global China - Utrikespolitiska institutet
 
 ## Technology
 
