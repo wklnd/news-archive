@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-09 20:44_
+_Updated: 2025-11-09 21:37_
 
 ## Top Stories
 
-- Kriminalvården rustar för minderåriga – nya avdelningar och lärarledd undervisning - Dagens Nyheter
-- Trump lovar dela ut 19 000 – finansieras via tullar - Omni
-- Från en paradisö i Stilla havet till en kycklingfabrik mitt i USA - Aftonbladet
-- Rainbow Warrior på plats inför COP30 i Amazonas - Dagens Nyheter
-- En till sjukhus efter olycka på E6 - MSN
+- Två BBC-chefer avgår efter kritiken mot redigering av Trump-dokumentär - SVT Nyheter
+- Supertyfon på väg – 1,2 miljoner evakuerade - Västerbottens-Kuriren
+- En till sjukhus efter olycka på E6 - Folkbladet
 - Därför syntes en ubåt utanför Gräsö: "Konstig känsla" - UNT
-- Gröna Lunds vd inför rättegången: Känner ansvar - Västerbottens-Kuriren
-- Här är allt du vill veta inför klimatmötet COP30 - GP
-- Grov misshandel i Jönköping i natt – en person till sjukhus - SVT Nyheter
-- Utvisades för våldtäkt – är kvar efter 6 år - Expressen
+- Rainbow Warrior på plats inför COP30 i Amazonas - Dagens Nyheter
+- Kriminalvården rustar för minderåriga – nya avdelningar och lärarledd undervisning - Dagens Nyheter
+- Dynamit hittat på återvinning i Märsta – spärrades av - SVT Nyheter
+- Dödsolyckan på Gröna Lund prövas i rätten - Dagens Nyheter
+- Avgörande frågan på COP30 – inte ens på agendan - GP
+- 09 november 08.00, Sammanfattning natt, Jönköpings län - polisen.se
 - USA:s vapenleveranser på is – kan drabba Ukraina - Västerbottens-Kuriren
-- Ny kropp överlämnad – dödades i förra Gazakriget - GP
-- Lät sonen övningsköra i 150 - Västerbottens-Kuriren
-- Supertyfon närmar sig Filippinerna – en miljon evakuerade - Hufvudstadsbladet
+- Lät sonen övningsköra i 150 – döms till fängelse - NWT
+- Omtalad gisslan överlämnas efter elva år - Dagens Nyheter
+- Hamasmän i tunnlar under Rafah vägrar ge upp - SvD
 - Nödstopp för återkrav nu! Starka reaktioner på ISF-larm om rättsliga brister - Hejaolika.se
 - Rejält höjda priser – men Linköping är nästan billigast i landet - Corren
-- Kina häver exportförbud på kritiska metaller - Tidningen Näringslivet
-- Singles Day 2025 - Fynda skönhetsprodukter till riktigt bra priser - Metro Mode
+- Jacob Wallenberg ser konjunkturvändning – så säkrar vi Sveriges konkurrenskraft - Tidningen Näringslivet
+- Kina häver exportförbud på kritiska metaller - SvD
 - 3I/ATLAS: Interstellär komet med ovanliga egenskaper - Vad Vi Vet.
-- Kill Bill: The Whole Bloody Affair blir ett fyra­timmars­äventyr på bio i USA - Teknikveckan
+- Gör om dig själv till en Android-figur – med AI - PC för Alla
 
 ## World News
 
@@ -34,8 +34,8 @@ _Updated: 2025-11-09 20:44_
 - Wolverine Worldwide Named Company of the Year by Footwear News - Placera.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Major update after 800 flights delayed at Delhi airport: Can you board on time today? | India News - Hindustan Times
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Major update after 800 flights delayed at Delhi airport: Can you board on time today? | India News - Hindustan Times
 - Sudan's paramilitary killed hundreds including hospital patients in Darfur, residents say - abcnews.go.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Armand Duplantis soars to third world title and 14th world record - BBC
