@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-09 16:38_
+_Updated: 2025-11-09 17:38_
 
 ## Top Stories
 
-- Klassades inte som rymmare – stack från häktet i Borås - GP
+- 1,2 miljoner evakuerade i väntan på sypertyfon - SVT Nyheter
 - Lågstadiebarn tar till våld – akutskola lösning - SvD
-- Anders såg jättevågorna på Teneriffa: ”Folk badade i alla fall” - SVT Nyheter
 - Lavrov redo att möta USA – men vägrar vika om Ukraina - Expressen
-- DN Direkt – Misstänkt farligt föremål i Märsta - Dagens Nyheter
+- Jättevågor vid Teneriffa – minst tre döda - Dagens Nyheter
 - Här är allt du vill veta inför klimatmötet COP30 - GP
+- VIDEO: Det ger Linköpingsborna sin pappa på fars dag - Corren
 - DN Direkt – Misstänkt våldtäktsförsök i Vellinge - Dagens Nyheter
-- Parisavtalet en framgång – trots rekordutsläpp - GP
+- Parisavtalet en framgång – trots rekordutsläpp - Västerbottens-Kuriren
+- Misstänkt farligt föremål i Sigtuna – återvinning spärras av - SVT Nyheter
 - 09 november 07.43, Sammanfattning natt, Örebro län - polisen.se
-- Grov misshandel i Jönköping i natt – en person till sjukhus - SVT Nyheter
 - Omtalad gisslan överlämnas efter elva år - Dagens Nyheter
 - Stora ukrainska anfall – strömlöst i Ryssland - Västerbottens-Kuriren
-- Hamasmän i tunnlar under Rafah vägrar ge upp - GP
 - ”De torterade mig utan att veta vem jag var” - GP
-- Aktiva ETF:er – nästa steg i fondrevolutionen - Dagens PS
-- Kina häver exportförbud på kritiska metaller - SvD
+- Hamasmän i tunnlar under Rafah vägrar ge upp - Västerbottens-Kuriren
+- Kina häver exportförbud på kritiska metaller - Tidningen Näringslivet
 - Färre kan löneväxla 2026 – skattefördelarna krymper - Dagens PS
 - Rejält höjda priser: Så mycket kostar det nu där du bor - NT
+- Aktiva ETF:er – nästa steg i fondrevolutionen - Dagens PS
 - Kill Bill: The Whole Bloody Affair blir ett fyra­timmars­äventyr på bio i USA - Teknikveckan
 - Komet från bortom stjärnorna fotad av sond - Aftonbladet
 
@@ -105,38 +105,38 @@ _Updated: 2025-11-09 16:38_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - NyTeknik
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ADDI Medical utökar nu sitt utbud av Digital Hälsa - it-halsa.se
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Institutionen för medicinsk epidemiologi och biostatistik - Karolinska Institutet
 - Antaros Medical AB väljer GoCo House och det växande life science klustret - it-halsa.se
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Årets tio största vetenskapliga genombrott - Dagens Nyheter
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
@@ -145,20 +145,20 @@ _Updated: 2025-11-09 16:38_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
+- Framtidens jordbruk är regenerativt - greenpeace.org
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Arbetande förman | Jobb | ATL - Land Lantbruk
-- Pressinbjudan: Heldag om jordbrukets digitalisering i Uppsala - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Nyheter - LRF - Lantbrukarnas Riksförbund
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
