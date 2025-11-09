@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2025-11-09 05:56_
+_Updated: 2025-11-09 06:43_
 
 ## Top Stories
 
 - Jättevågor på Teneriffa – tre döda - SVT Nyheter
-- Man gripen – misstänks ha angripit man - Västerbottens-Kuriren
-- Länsföretags hotell stängt efter avslöjad sexhandel - Östersunds-Posten
-- Ny tyfon på väg in – evakueringar i Filippinerna - GP
 - Syriens president i USA för historiskt möte med Donald Trump - SVT Nyheter
+- Länsföretags hotell stängt efter avslöjad sexhandel - Östersunds-Posten
+- 100 000 evakueras i Filippinerna - Västerbottens-Kuriren
 - Kungen: ”Hur mycket ska vi betala egentligen?” – Senaste nytt om FN:s klimattoppmöte COP30 i Belém - SVT Nyheter
-- DN Direkt – Färjor ställs in – besköts med grön laser - Dagens Nyheter
-- Problem för Telia - Expressen
 - 08 november 08.00, Sammanfattning natt, Jönköpings län - polisen.se
+- DN Direkt – Färjor ställs in – besköts med grön laser - Dagens Nyheter
 - 08 november 07.37, Sammanfattning natt, Västernorrlands län - polisen.se
+- Man gripen – misstänks ha angripit man - Västerbottens-Kuriren
+- Fem fackliga nyheter från veckan som gått - Dagens Arena
 - DN Direkt – Stora demonstrationer i Lissabon mot regeringsförslag - Dagens Nyheter
-- Tornado i södra Brasilien – flera döda och över 700 skadade - SVT Nyheter
-- Dödlig rysk attack mot ukrainsk storstad - GP
+- Värmekraftverk utslagna i Ukraina - SVT Nyheter
 - Krigets Sudan översvämmas av vapen från utlandet - Västerbottens-Kuriren
-- ISF: Försäkringskassan mörkar egna fel. Enskilda får skulden - Hejaolika.se
-- Tidaholm lyfter lite till i ny Nils-Holgersson-rapport - Västgöta-Bladet
-- Nya lagarna i Thailand – då är det förbjudet att dricka alkohol - Aftonbladet
+- Putin uppges ha petat Lavrov: ”Tror Kreml spelar teater” - Dagens Nyheter
 - Snöblandat regn på ingång: ”Kommer vara blött” - Omni
+- ISF: Försäkringskassan mörkar egna fel. Enskilda får skulden - Hejaolika.se
+- JUST NU: Bredband och tv-tjänster funkar inte - Dagens Kalmar
+- Tidaholm lyfter lite till i ny Nils-Holgersson-rapport - Västgöta-Bladet
 - Komet från bortom stjärnorna fotad av sond - Dagens Nyheter
 - Fackförbund kritiserar spelstudio: Hänsynslöst - SvD
 
@@ -120,25 +120,25 @@ _Updated: 2025-11-09 05:56_
 ## Science
 
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- CoARA del av högskolans forskningsutveckling - Högskolan Kristianstad
+- Upprop för att skydda vetenskapens oberoende | Örebro universitet - Via TT
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Så kan forskning bli både samhällsrelevant och oberoende - Stockholms universitet
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Askja: Vulkanutbrottet som satte spår i både landskap och vetenskap - Institutionen för naturgeografi - Stockholms universitet
 
 ## Jordbruk
 
